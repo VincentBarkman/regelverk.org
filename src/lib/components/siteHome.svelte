@@ -3,59 +3,197 @@
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
 	import { SITE_SCOPES, SITES, siteHost, type SiteScope } from '#lib/sites.js';
+	import { ENTITIES } from '#lib/entities.js';
+	import { SITE_ICON, SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
+	import * as Card from '#lib/components/ui/card/index.js';
 	import * as m from '#lib/paraglide/messages.js';
+	import { getLocale, locales, setLocale } from '#lib/paraglide/runtime.js';
+	import RiArrowRightSLine from 'remixicon-svelte/icons/arrow-right-s-line';
 
 	let { scope }: { scope: SiteScope } = $props();
 
 	const site = $derived(SITES[scope]);
+	const sectorScopes = SITE_SCOPES.filter((s) => s !== 'regelverk');
+
+	const TYPING_PHRASES: Record<SiteScope, string[]> = {
+		regelverk: ['ATEX...', 'NIS2...', 'ELSÄK-FS...', 'AFS 2023...', 'ISO 27001...', 'BBR...'],
+		ot: ['IEC 62443...', 'ATEX...', 'SCADA...', 'SIL 2...', 'IEC 61511...', 'NERC CIP...'],
+		it: ['NIS2...', 'ISO 27001...', 'GDPR...', 'CIS v8...', 'SOC 2...', 'CRA...'],
+		fysisk: ['SSF 200...', 'EN 50131...', 'Larmklass 3...', 'SKL...', 'EN 60839...', 'Låsklass...'],
+		brandskydd: ['BBR...', 'SBF 127...', 'EN 13501...', 'SPR 10...', 'ISO 7240...', 'BFV...'],
+		el: ['ELSÄK-FS...', 'SS-EN 50110...', 'Starkström...', 'IEC 60364...', 'SS 436 40 00...'],
+		arbetsmiljo: ['AFS 2023...', 'Arbetsmiljölagen...', 'ISO 45001...', 'AFS 2020...', 'OSA...']
+	};
 </script>
 
 {#snippet wordmark()}
 	{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span>.regelverk.org{:else}regelverk.org{/if}
 {/snippet}
 
-<div class="flex flex-col h-screen bg-amber-5">
-	<div class="flex-1 flex flex-col justify-center items-center gap-4">
-		<h1 class="font-serif text-5xl font-medium select-none">
+<svelte:head>
+	<title>{siteHost(scope)}</title>
+	<meta name="description" content={SITE_BLURB[scope]()} />
+	<link rel="canonical" href="https://{siteHost(scope)}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="regelverk.org" />
+	<meta property="og:title" content={siteHost(scope)} />
+	<meta property="og:description" content={SITE_BLURB[scope]()} />
+	<meta property="og:url" content="https://{siteHost(scope)}" />
+	<meta property="og:locale" content={getLocale() === 'sv' ? 'sv_SE' : 'en_US'} />
+</svelte:head>
+
+<div class="min-h-svh bg-amber-5 flex flex-col">
+	<main class="flex-1 flex flex-col items-center px-4">
+		<header class="min-h-[35svh] sm:min-h-[50svh] w-full flex flex-col items-center justify-end gap-4 pb-3">
+			<h1 class="font-serif text-4xl md:text-5xl font-medium select-none text-center">
+				{#if dev}
+					<a
+						href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
+						aria-label={siteHost(scope)}
+						>{@render wordmark()}</a
+					>
+				{:else}
+					<a href={`https://${siteHost(scope)}`} rel="external" aria-label={siteHost(scope)}
+						>{@render wordmark()}</a
+					>
+				{/if}
+			</h1>
+
+			<SearchBar inputId="global-search-input" typingPhrases={TYPING_PHRASES[scope]} />
+		</header>
+
+		<div class="w-full max-w-2xl flex flex-col gap-4 pb-6">
+			<nav aria-labelledby="explore-heading" class="flex flex-col gap-2">
+				<h2 id="explore-heading" class="text-xs font-medium text-primary/70">{m.ui_explore()}</h2>
+				<ul class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+					{#each sectorScopes as s (s)}
+						{@const Icon = SITE_ICON[s]}
+						<li>
+							{#if dev}
+								<a
+									href={resolve('/[[site=site]]', s === scope ? {} : { site: s })}
+									class="block"
+									aria-current={s === scope ? 'page' : undefined}
+								>
+									<Card.Root
+										class="flex-row items-center gap-2.5 px-3 py-2 transition-colors hover:border-primary/40 {s ===
+										scope
+											? 'border-primary/60 bg-primary/5'
+											: ''}"
+									>
+										<Icon class="size-4 shrink-0 text-primary/70" aria-hidden="true" />
+										<span class="flex flex-col">
+											<span class="text-xs font-medium">{SITE_LONG[s]()}</span>
+											<span class="text-[11px] leading-tight text-primary/60"
+												>{SITE_BLURB[s]()}</span
+											>
+										</span>
+									</Card.Root>
+								</a>
+							{:else}
+								<a
+									href={`https://${siteHost(s === scope ? 'regelverk' : s)}`}
+									rel="external"
+									class="block"
+									aria-current={s === scope ? 'page' : undefined}
+								>
+									<Card.Root
+										class="flex-row items-center gap-2.5 px-3 py-2 transition-colors hover:border-primary/40 {s ===
+										scope
+											? 'border-primary/60 bg-primary/5'
+											: ''}"
+									>
+										<Icon class="size-4 shrink-0 text-primary/70" aria-hidden="true" />
+										<span class="flex flex-col">
+											<span class="text-xs font-medium">{SITE_LONG[s]()}</span>
+											<span class="text-[11px] leading-tight text-primary/60"
+												>{SITE_BLURB[s]()}</span
+											>
+										</span>
+									</Card.Root>
+								</a>
+							{/if}
+						</li>
+					{/each}
+				</ul>
+			</nav>
+
+			<nav aria-labelledby="browse-heading" class="flex flex-col gap-2">
+				<h2 id="browse-heading" class="text-xs font-medium text-primary/70">{m.ui_browse_db()}</h2>
+				<ul class="grid grid-cols-2 gap-x-6">
+					{#each ENTITIES as e (e)}
+						{@const EIcon = ENTITY_ICON[e]}
+						<li>
+							{#if dev}
+								<a
+									href={resolve(
+										'/[[site=site]]/[entity=entity]',
+										scope === 'regelverk' ? { entity: e } : { site: scope, entity: e }
+									)}
+									class="flex items-center gap-2 py-1 text-xs hover:underline"
+								>
+									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
+									<span>{ENTITY_LABEL[e]()}</span>
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+								</a>
+							{:else}
+								<a
+									href={`https://${siteHost(scope)}/${e}`}
+									rel="external"
+									class="flex items-center gap-2 py-1 text-xs hover:underline"
+								>
+									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
+									<span>{ENTITY_LABEL[e]()}</span>
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+								</a>
+							{/if}
+						</li>
+					{/each}
+				</ul>
+			</nav>
+		</div>
+	</main>
+
+	<footer
+		class="w-full max-w-2xl mx-auto px-4 pb-4 flex items-center justify-between text-xs text-primary/60"
+	>
+		<p class="flex items-center gap-1.5">
+			<a
+				target="_blank"
+				rel="noopener noreferrer"
+				href="https://www.gnu.org/licenses/agpl-3.0.html"
+				class="hover:underline">AGPL-3.0</a
+			>
+			<span>·</span>
+			<a
+				target="_blank"
+				rel="noopener noreferrer"
+				href="https://github.com/VincentBarkman/regelverk.org"
+				class="hover:underline">GitHub</a
+			>
+			<span>·</span>
 			{#if dev}
-				<a href={resolve('/[[site=site]]', {})}>{@render wordmark()}</a>
+				<a
+					href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
+					class="hover:underline">{m.nav_privacy()}</a
+				>
 			{:else}
-				<a href={`https://${siteHost(scope)}`} rel="external">{@render wordmark()}</a>
+				<a href={`https://${siteHost(scope)}`} rel="external" class="hover:underline"
+					>{m.nav_privacy()}</a
+				>
 			{/if}
-		</h1>
-		<SearchBar inputId="global-search-input" />
-
-		<nav
-			class="flex flex-col items-center gap-1 text-xs text-primary/60"
-			aria-label={m.nav_sites()}
-		>
-			<div class="flex flex-wrap justify-center gap-2">
-				{#each SITE_SCOPES as s, i (s)}
-					{@const label = s === 'regelverk' ? m.nav_home() : SITES[s].label}
-					{#if s === scope}
-						<span class="text-primary" aria-current="page">{label}</span>
-					{:else if dev}
-						<a
-							href={resolve('/[[site=site]]', s === 'regelverk' ? {} : { site: s })}
-							class="hover:underline"
-						>
-							{label}
-						</a>
-					{:else}
-						<a href={`https://${siteHost(s)}`} rel="external" class="hover:underline">
-							{label}
-						</a>
-					{/if}
-					{#if i < SITE_SCOPES.length - 1}<p>•</p>{/if}
-				{/each}
-			</div>
-			<a href={resolve('/[[site=site]]', {})} class="hover:underline">{m.nav_privacy()}</a>
-		</nav>
-	</div>
-
-	<div class="pb-4">
-		<p class="text-xs text-primary/60 text-center">
-			{m.footer_license()} <a target="_blank" rel="noopener noreferrer" href="https://www.gnu.org/licenses/agpl-3.0.html" class="hover:underline">GNU Affero General Public License v3</a>
 		</p>
-	</div>
+		<p class="flex items-center gap-1.5">
+			{#each locales as loc, i (loc)}
+				{#if i > 0}<span>/</span>{/if}
+				<button
+					onclick={() => setLocale(loc)}
+					lang={loc}
+					aria-pressed={getLocale() === loc}
+					class="uppercase hover:underline {getLocale() === loc ? 'font-semibold text-primary' : ''}"
+					>{loc}</button
+				>
+			{/each}
+		</p>
+	</footer>
 </div>

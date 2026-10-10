@@ -1,18 +1,11 @@
 export interface PlaceholderTyperOptions {
 	phrases: string[];
-	/** Delay before the first keystroke of a phrase. */
 	typeBaseMs?: number;
-	/** Minimum delay between keystrokes. */
 	typeMinMs?: number;
-	/** Per-character acceleration factor applied to `typeBaseMs`. */
 	typeAccel?: number;
-	/** Random jitter added to each keystroke delay. */
 	typeJitterMs?: number;
-	/** Pause after a phrase is fully typed before deleting. */
 	pauseAfterTypeMs?: number;
-	/** Pause after a phrase is fully deleted before the next one. */
 	pauseAfterDeleteMs?: number;
-	/** Delay between deletions. */
 	deleteMs?: number;
 }
 
@@ -23,12 +16,6 @@ export interface PlaceholderTyper {
 	onBlur(): void;
 }
 
-/**
- * Cycles through `phrases`, typing and deleting them character by character,
- * and reports the current text through `onUpdate`.
- *
- * Typing pauses while the input is focused and resumes on blur.
- */
 export function createPlaceholderTyper(
 	options: PlaceholderTyperOptions,
 	onUpdate: (text: string) => void

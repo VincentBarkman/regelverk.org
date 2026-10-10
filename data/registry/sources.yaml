@@ -1,0 +1,3 @@
+# Registry of regulation sources across all sites.
+# <id>: { title: {sv,en}, authority: <authority-id>, sites: [scope,...], url: ... }
+sources: {}

@@ -1,0 +1,3 @@
+# Acronym -> expansion, per locale.
+# <ACRONYM>: { sv: ..., en: ... }
+acronyms: {}

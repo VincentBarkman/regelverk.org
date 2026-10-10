@@ -22,7 +22,7 @@
 	}
 
 	type ArticleSearchResult = {
-		id: string;          // <- string, matches API
+		id: string;
 		slug: string;
 		title: string;
 		description: string;
@@ -74,7 +74,6 @@
 		}
 	}
 
-	// typer setup
 	let typer: ReturnType<typeof createPlaceholderTyper> | null = null;
 
 	$effect(() => {
@@ -115,12 +114,6 @@
 		}, 200);
 	}
 
-	function handleResultClick(item: ArticleSearchResult) {
-		value = item.title;
-		showResults = false;
-		goToWiki(item.slug);
-	}
-
 	function handleWindowKeydown(event: KeyboardEvent) {
 		const isModKey = event.metaKey || event.ctrlKey;
 		if (isModKey && event.key === 'k') {
@@ -148,12 +141,11 @@
 		}
 	}
 
-	// client-only, debounced search
 	let lastQuery = '';
 	let debounceHandle: ReturnType<typeof setTimeout> | null = null;
 
 	async function runSearch(query: string) {
-		if (!browser) return; // never run on SSR
+		if (!browser) return;
 
 		const trimmed = query.trim();
 		if (!trimmed || trimmed.length < 2) {
@@ -183,7 +175,7 @@
 	}
 
 	$effect(() => {
-		if (!browser) return; // page can SSR instantly
+		if (!browser) return;
 
 		const q = value.trim();
 		if (q === lastQuery) return;
@@ -221,7 +213,7 @@
 	<InputGroup.Root class="{width} rounded-full">
 		<InputGroup.Input
 			id={inputId}
-			{placeholder}
+			placeholder={placeholder || staticPlaceholder}
 			onfocus={onFocus}
 			onblur={onBlur}
 			bind:value={value}

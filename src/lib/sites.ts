@@ -11,11 +11,8 @@ export const SITE_SCOPES = [
 export type SiteScope = (typeof SITE_SCOPES)[number];
 
 export interface Site {
-	/** Short label for nav links. */
 	label: string;
-	/** Subdomain on regelverk.org, or null for the apex domain. */
 	subdomain: string | null;
-	/** Tailwind text color class for the subdomain part of the wordmark. */
 	colorClass: string;
 }
 
@@ -66,11 +63,6 @@ export function isSiteScope(value: unknown): value is SiteScope {
 	return typeof value === 'string' && value in SITES;
 }
 
-/**
- * Derive a scope from the request hostname, e.g. `it.regelverk.org`.
- * `*.localhost` is also recognized so `ot.localhost:5173` works in dev
- * without an env var.
- */
 export function scopeFromHost(hostname: string): SiteScope | null {
 	const match =
 		hostname.match(/^([\w-]+)\.regelverk\.org$/) ?? hostname.match(/^([\w-]+)\.localhost$/);

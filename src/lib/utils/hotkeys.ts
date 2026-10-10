@@ -15,13 +15,6 @@ function isApplePlatform(): boolean {
 	return /mac|iphone|ipad|ipod/i.test(platform);
 }
 
-/**
- * Format a shortcut string like `mod+k` for display.
- * `mod` maps to ⌘ on Apple platforms and Ctrl elsewhere.
- *
- * @example
- * formatShortcutLabel('mod+k'); // '⌘K' on macOS, 'Ctrl+K' elsewhere
- */
 export function formatShortcutLabel(shortcut: string): string {
 	const mac = isApplePlatform();
 	const parts = shortcut.toLowerCase().split('+');
