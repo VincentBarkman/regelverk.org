@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
-	import { SITES, siteHost, type SiteScope } from '#lib/sites.js';
+	import { SITES, siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, SITE_BLURB } from '#lib/meta.js';
 	import * as m from '#lib/paraglide/messages.js';
@@ -15,6 +15,7 @@
 
 <svelte:head>
 	<title>{ENTITY_LABEL[entity]()} · {siteHost(scope)}</title>
+	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<meta name="description" content={SITE_BLURB[scope]()} />
 	<link rel="canonical" href="https://{siteHost(scope)}/{entity}" />
 </svelte:head>

@@ -104,6 +104,7 @@
 
 	function onFocus() {
 		typer?.onFocus();
+		placeholder = staticPlaceholder;
 		showResults = true;
 	}
 
@@ -213,6 +214,7 @@
 	<InputGroup.Root class={width}>
 		<InputGroup.Input
 			id={inputId}
+			class={hasValue ? '' : 'caret-transparent'}
 			placeholder={placeholder || staticPlaceholder}
 			onfocus={onFocus}
 			onblur={onBlur}

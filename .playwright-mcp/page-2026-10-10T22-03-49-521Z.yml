@@ -1,0 +1,47 @@
+- generic [ref=f35e3]:
+  - main [ref=f35e4]:
+    - link "regelverk.org" [ref=f35e6] [cursor=pointer]:
+      - /url: ./
+    - article [ref=f35e7]:
+      - heading "Terms of use" [level=1] [ref=f35e8]
+      - paragraph [ref=f35e9]: By using regelverk.org you accept these terms.
+      - heading "The service" [level=2] [ref=f35e10]
+      - paragraph [ref=f35e11]: regelverk.org is a database of laws, regulations, standards and requirements. The content is provided for informational purposes.
+      - heading "License" [level=2] [ref=f35e12]
+      - paragraph [ref=f35e13]:
+        - text: The source code is licensed under
+        - link "GNU AGPL v3" [ref=f35e14] [cursor=pointer]:
+          - /url: https://www.gnu.org/licenses/agpl-3.0.html
+        - text: . The database content is provided as is.
+      - heading "Accuracy" [level=2] [ref=f35e15]
+      - paragraph [ref=f35e16]:
+        - text: Regulations change over time. We do not guarantee that the content is correct, complete or up to date. Always verify against the primary source. Also see the
+        - link "disclaimer" [ref=f35e17] [cursor=pointer]:
+          - /url: /disclaimer
+        - text: .
+      - heading "Acceptable use" [level=2] [ref=f35e18]
+      - paragraph [ref=f35e19]: You may use the service for research and reference. Abuse, such as attacks or bulk automated scraping that burdens the service, is not allowed.
+      - heading "Limitation of liability" [level=2] [ref=f35e20]
+      - paragraph [ref=f35e21]: We are not liable for decisions, losses or damages arising from use of the content.
+      - heading "Governing law" [level=2] [ref=f35e22]
+      - paragraph [ref=f35e23]: Swedish law applies to these terms. Disputes are settled by Swedish courts.
+  - contentinfo [ref=f35e24]:
+    - paragraph [ref=f35e25]:
+      - link "AGPL-3.0" [ref=f35e26] [cursor=pointer]:
+        - /url: https://www.gnu.org/licenses/agpl-3.0.html
+      - generic [ref=f35e27]: ·
+      - link "GitHub" [ref=f35e28] [cursor=pointer]:
+        - /url: https://github.com/VincentBarkman/regelverk.org
+      - generic [ref=f35e29]: ·
+      - link "Privacy policy" [ref=f35e30] [cursor=pointer]:
+        - /url: ./privacy
+      - generic [ref=f35e31]: ·
+      - link "Terms of use" [ref=f35e32] [cursor=pointer]:
+        - /url: ./terms
+      - generic [ref=f35e33]: ·
+      - link "Disclaimer" [ref=f35e34] [cursor=pointer]:
+        - /url: ./disclaimer
+    - paragraph [ref=f35e35]:
+      - button "sv" [ref=f35e36]
+      - generic [ref=f35e37]: /
+      - button "en" [pressed] [ref=f35e38]

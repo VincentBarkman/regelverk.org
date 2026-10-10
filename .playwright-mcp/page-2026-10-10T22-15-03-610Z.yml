@@ -1,0 +1,100 @@
+- generic [ref=f40e3]:
+  - main [ref=f40e4]:
+    - generic [ref=f40e5]:
+      - heading [level=1] [ref=f40e6]:
+        - link "regelverk.org" [ref=f40e7] [cursor=pointer]:
+          - /url: ./
+      - generic [ref=f40e8]: Search
+      - group [ref=f40e10]:
+        - textbox "Search" [ref=f40e11]:
+          - /placeholder: Search laws, standards and requirements...
+        - group [ref=f40e12]
+        - group [ref=f40e15]:
+          - generic "Ctrl+K to focus search": Ctrl+K
+    - generic [ref=f40e16]:
+      - navigation [ref=f40e17]:
+        - heading "Explore areas" [level=2] [ref=f40e18]
+        - list [ref=f40e19]:
+          - listitem [ref=f40e20]:
+            - link "OT security Industrial systems" [ref=f40e21] [cursor=pointer]:
+              - /url: ./ot
+              - generic [ref=f40e27]:
+                - generic [ref=f40e28]: OT security
+                - generic [ref=f40e29]: Industrial systems
+          - listitem [ref=f40e30]:
+            - link "IT security Information security" [ref=f40e31] [cursor=pointer]:
+              - /url: ./it
+              - generic [ref=f40e36]:
+                - generic [ref=f40e37]: IT security
+                - generic [ref=f40e38]: Information security
+          - listitem [ref=f40e39]:
+            - link "Physical security Access and protection" [ref=f40e40] [cursor=pointer]:
+              - /url: ./fysisk
+              - generic [ref=f40e44]:
+                - generic [ref=f40e45]: Physical security
+                - generic [ref=f40e46]: Access and protection
+          - listitem [ref=f40e47]:
+            - link "Fire safety Fire and evacuation" [ref=f40e48] [cursor=pointer]:
+              - /url: ./brandskydd
+              - generic [ref=f40e52]:
+                - generic [ref=f40e53]: Fire safety
+                - generic [ref=f40e54]: Fire and evacuation
+          - listitem [ref=f40e55]:
+            - link "Electrical safety Electrical installations" [ref=f40e56] [cursor=pointer]:
+              - /url: ./el
+              - generic [ref=f40e60]:
+                - generic [ref=f40e61]: Electrical safety
+                - generic [ref=f40e62]: Electrical installations
+          - listitem [ref=f40e63]:
+            - link "Occupational safety Workplace safety" [ref=f40e64] [cursor=pointer]:
+              - /url: ./arbetsmiljo
+              - generic [ref=f40e70]:
+                - generic [ref=f40e71]: Occupational safety
+                - generic [ref=f40e72]: Workplace safety
+      - navigation [ref=f40e73]:
+        - heading "Browse the database" [level=2] [ref=f40e74]
+        - list [ref=f40e75]:
+          - listitem [ref=f40e76]:
+            - link "Sources" [ref=f40e77] [cursor=pointer]:
+              - /url: ./sources
+          - listitem [ref=f40e83]:
+            - link "Source versions" [ref=f40e84] [cursor=pointer]:
+              - /url: ./source-versions
+          - listitem [ref=f40e90]:
+            - link "Provisions" [ref=f40e91] [cursor=pointer]:
+              - /url: ./provisions
+          - listitem [ref=f40e97]:
+            - link "Requirements" [ref=f40e98] [cursor=pointer]:
+              - /url: ./requirements
+          - listitem [ref=f40e104]:
+            - link "Authorities" [ref=f40e105] [cursor=pointer]:
+              - /url: ./authorities
+          - listitem [ref=f40e111]:
+            - link "Topics" [ref=f40e112] [cursor=pointer]:
+              - /url: ./topics
+          - listitem [ref=f40e118]:
+            - link "Relations" [ref=f40e119] [cursor=pointer]:
+              - /url: ./relations
+          - listitem [ref=f40e125]:
+            - link "Guides" [ref=f40e126] [cursor=pointer]:
+              - /url: ./guides
+  - contentinfo [ref=f40e132]:
+    - paragraph [ref=f40e133]:
+      - link "AGPL-3.0" [ref=f40e134] [cursor=pointer]:
+        - /url: https://www.gnu.org/licenses/agpl-3.0.html
+      - generic [ref=f40e135]: ·
+      - link "GitHub" [ref=f40e136] [cursor=pointer]:
+        - /url: https://github.com/VincentBarkman/regelverk.org
+      - generic [ref=f40e137]: ·
+      - link "Privacy policy" [ref=f40e138] [cursor=pointer]:
+        - /url: ./privacy
+      - generic [ref=f40e139]: ·
+      - link "Terms of use" [ref=f40e140] [cursor=pointer]:
+        - /url: ./terms
+      - generic [ref=f40e141]: ·
+      - link "Disclaimer" [ref=f40e142] [cursor=pointer]:
+        - /url: ./disclaimer
+    - paragraph [ref=f40e143]:
+      - button "sv" [ref=f40e144]
+      - generic [ref=f40e145]: /
+      - button "en" [pressed] [ref=f40e146]

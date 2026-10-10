@@ -1,0 +1,55 @@
+- generic [ref=f38e3]:
+  - main [ref=f38e4]:
+    - link "regelverk.org" [ref=f38e6] [cursor=pointer]:
+      - /url: ./
+    - article [ref=f38e7]:
+      - heading "Terms of use" [level=1] [ref=f38e8]
+      - paragraph [ref=f38e9]: By using regelverk.org you accept these terms. Last updated 2026-10-10.
+      - heading "The service" [level=2] [ref=f38e10]
+      - paragraph [ref=f38e11]:
+        - text: regelverk.org is a database of laws, regulations, standards and requirements. The content is provided for informational purposes only and does not constitute legal advice. Also see the
+        - link "disclaimer" [ref=f38e12] [cursor=pointer]:
+          - /url: ./disclaimer
+        - text: .
+      - heading "Intellectual property" [level=2] [ref=f38e13]
+      - paragraph [ref=f38e14]:
+        - text: The source code is licensed under
+        - link "GNU AGPL v3" [ref=f38e15] [cursor=pointer]:
+          - /url: https://www.gnu.org/licenses/agpl-3.0.html
+        - text: . Official legal and regulatory texts are not protected by copyright under Swedish law (Section 9 of the Copyright Act), but guides, summaries and other editorial content on the site are protected and licensed under the same terms as the source code unless stated otherwise. Standards and other third-party publications referenced in the database remain the property of their respective publishers; the site only provides references and metadata, not their content.
+      - heading "Accuracy" [level=2] [ref=f38e16]
+      - paragraph [ref=f38e17]: Regulations change over time. We do not guarantee that the content is correct, complete or up to date. Consolidated texts and translations are unofficial. Always verify against the primary source before relying on the information.
+      - heading "Availability" [level=2] [ref=f38e18]
+      - paragraph [ref=f38e19]: The service is provided free of charge and as is. We do not guarantee uninterrupted availability and may change, suspend or discontinue the service or parts of it at any time without notice.
+      - heading "Acceptable use" [level=2] [ref=f38e20]
+      - paragraph [ref=f38e21]: You may use the service for research and reference. You may not use the service in violation of applicable law, attempt to disrupt or gain unauthorized access to it, or perform bulk automated scraping that burdens the service. Reasonable automated access, for example by search engines, is permitted.
+      - heading "Third-party links" [level=2] [ref=f38e22]
+      - paragraph [ref=f38e23]: The site contains links to authorities, standards bodies and other external sources. We are not responsible for the content or availability of external sites.
+      - heading "Limitation of liability" [level=2] [ref=f38e24]
+      - paragraph [ref=f38e25]: To the extent permitted by applicable law, we accept no liability for decisions, losses or damages, direct or indirect, arising from use of or reliance on the content.
+      - heading "Changes to the terms" [level=2] [ref=f38e26]
+      - paragraph [ref=f38e27]: These terms may be updated. The current version is always available on this page. Continued use of the service after a change constitutes acceptance of the updated terms.
+      - heading "Miscellaneous" [level=2] [ref=f38e28]
+      - paragraph [ref=f38e29]: If any provision of these terms is held invalid, the remaining provisions continue to apply. These terms constitute the entire agreement regarding use of the service.
+      - heading "Governing law" [level=2] [ref=f38e30]
+      - paragraph [ref=f38e31]: Swedish law applies to these terms, without regard to conflict of law principles. Disputes are settled by Swedish courts.
+  - contentinfo [ref=f38e32]:
+    - paragraph [ref=f38e33]:
+      - link "AGPL-3.0" [ref=f38e34] [cursor=pointer]:
+        - /url: https://www.gnu.org/licenses/agpl-3.0.html
+      - generic [ref=f38e35]: ·
+      - link "GitHub" [ref=f38e36] [cursor=pointer]:
+        - /url: https://github.com/VincentBarkman/regelverk.org
+      - generic [ref=f38e37]: ·
+      - link "Privacy policy" [ref=f38e38] [cursor=pointer]:
+        - /url: ./privacy
+      - generic [ref=f38e39]: ·
+      - link "Terms of use" [ref=f38e40] [cursor=pointer]:
+        - /url: ./terms
+      - generic [ref=f38e41]: ·
+      - link "Disclaimer" [ref=f38e42] [cursor=pointer]:
+        - /url: ./disclaimer
+    - paragraph [ref=f38e43]:
+      - button "sv" [ref=f38e44]
+      - generic [ref=f38e45]: /
+      - button "en" [pressed] [ref=f38e46]

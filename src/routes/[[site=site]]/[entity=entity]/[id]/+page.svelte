@@ -1,9 +1,9 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
-	import { SITES, siteHost, type SiteScope } from '#lib/sites.js';
+	import { SITES, siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
-	import { ENTITY_LABEL } from '#lib/meta.js';
+	import { ENTITY_LABEL, ARTICLE_PROSE } from '#lib/meta.js';
 	import { articleFor } from '#lib/data.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import type { PageProps } from './$types';
@@ -16,6 +16,7 @@
 
 <svelte:head>
 	<title>{data.id} · {ENTITY_LABEL[entity]()} · {siteHost(scope)}</title>
+	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<link
 		rel="canonical"
 		href="https://{siteHost(scope)}/{entity}/{encodeURIComponent(data.id)}"
@@ -42,7 +43,7 @@
 
 	{#if data.record}
 		{@const Article = articleFor(entity, data.record.id)}
-		<article class="prose max-w-2xl px-4">
+		<article class="{ARTICLE_PROSE} px-4">
 			{#if Article}
 				<Article />
 			{:else}

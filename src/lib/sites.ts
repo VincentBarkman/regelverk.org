@@ -54,6 +54,10 @@ export const SITES: Record<SiteScope, Site> = {
 	}
 };
 
+export function siteFavicon(scope: SiteScope): string {
+	return scope === 'regelverk' ? '/favicon.svg' : `/favicon-${scope}.svg`;
+}
+
 export function siteHost(scope: SiteScope): string {
 	const sub = SITES[scope].subdomain;
 	return sub ? `${sub}.regelverk.org` : 'regelverk.org';

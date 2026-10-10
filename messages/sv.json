@@ -1,6 +1,8 @@
 {
 	"nav_home": "Hem",
 	"nav_privacy": "Integritetspolicy",
+	"nav_terms": "Användarvillkor",
+	"nav_disclaimer": "Ansvarsfriskrivning",
 	"search_label": "Sök",
 	"search_placeholder": "Sök lagar, standarder och krav...",
 	"search_searching": "Söker…",
@@ -12,6 +14,7 @@
 	"search_results_for": "Sökresultat för \"{query}\"",
 	"ui_explore": "Utforska områden",
 	"ui_browse_db": "Bläddra i databasen",
+	"ui_contents": "Innehåll",
 	"site_tagline_regelverk": "Regelverk för alla sektorer i Sverige och EU",
 	"site_long_ot": "OT-säkerhet",
 	"site_long_it": "IT-säkerhet",

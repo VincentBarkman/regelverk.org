@@ -1,6 +1,8 @@
 {
 	"nav_home": "Home",
 	"nav_privacy": "Privacy policy",
+	"nav_terms": "Terms of use",
+	"nav_disclaimer": "Disclaimer",
 	"search_label": "Search",
 	"search_placeholder": "Search laws, standards and requirements...",
 	"search_searching": "Searching…",
@@ -12,6 +14,7 @@
 	"search_results_for": "Search results for \"{query}\"",
 	"ui_explore": "Explore areas",
 	"ui_browse_db": "Browse the database",
+	"ui_contents": "Contents",
 	"site_tagline_regelverk": "Regulations for all sectors in Sweden and the EU",
 	"site_long_ot": "OT security",
 	"site_long_it": "IT security",

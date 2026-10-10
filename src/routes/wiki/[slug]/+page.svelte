@@ -2,7 +2,7 @@
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
 	import { siteHost } from '#lib/sites.js';
-	import { ENTITY_LABEL } from '#lib/meta.js';
+	import { ENTITY_LABEL, ARTICLE_PROSE } from '#lib/meta.js';
 	import { articleFor } from '#lib/data.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import type { PageProps } from './$types';
@@ -47,7 +47,7 @@
 
 	{#if data.record && data.ref}
 		{@const Article = articleFor(data.ref.entity, data.ref.id)}
-		<article class="prose max-w-2xl px-4">
+		<article class="{ARTICLE_PROSE} px-4">
 			{#if Article}
 				<Article />
 			{:else}

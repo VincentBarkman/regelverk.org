@@ -1,0 +1,36 @@
+Den här policyn beskriver hur regelverk.org hanterar personuppgifter. Senast uppdaterad 2026-10-10.
+
+## Personuppgiftsansvarig
+
+regelverk.org drivs som ett oberoende projekt. Personuppgiftsansvarig är projektets ägare, som nås via [GitHub-repot](https://github.com/VincentBarkman/regelverk.org).
+
+## Vilka uppgifter som behandlas
+
+- Inga konton finns och ingen registrering krävs. Vi samlar inte in namn, e-postadresser eller liknande uppgifter.
+- En funktionell cookie lagrar ditt språkval (sv/en). Den innehåller inga personuppgifter, krävs för funktionen du ber om och spårar dig inte.
+- Sökfrågor behandlas på servern för att kunna returnera träffar. De lagras inte i någon användarprofil och används inte för personanpassning.
+- Värden Cloudflare kan behandla tekniska loggar (IP-adress, användaragent, efterfrågad URL och liknande) för drift, säkerhet och skydd mot missbruk.
+
+## Ingen spårning
+
+Webbplatsen använder inga analysverktyg, inga tredjepartscookies, ingen annonsprofilering och ingen fingeravtrycksteknik. Vi säljer inte och delar inte personuppgifter för marknadsföring.
+
+## Mottagare och överföringar
+
+Cloudflare agerar som personuppgiftsbiträde och levererar webbplatsen via sitt globala nätverk, vilket kan innebära behandling utanför EU/EES. Sådana överföringar omfattas av Cloudflares biträdesavtal och tillämpliga överföringsgrunder, till exempel standardavtalsklausuler. Inga andra mottagare får tillgång till uppgifterna.
+
+## Lagringstid
+
+Språk-cookien finns kvar tills du rensar den eller den löper ut. Tekniska loggar sparas enligt värdföretagets rutiner och används inte för att identifiera dig personligen.
+
+## Rättslig grund
+
+Behandlingen sker med stöd av berättigat intresse (artikel 6.1 f i dataskyddsförordningen): att driva en säker och fungerande tjänst samt att tillhandahålla de funktioner du använder, till exempel språkvalet. Språk-cookien är nödvändig och undantagen från samtyckeskravet i lagen om elektronisk kommunikation.
+
+## Dina rättigheter
+
+Enligt dataskyddsförordningen har du rätt till tillgång, rättelse, radering, begränsning, dataportabilitet och att invända mot behandlingen. Eftersom vi inte har några konton rör en begäran normalt de tekniska loggar som beskrivs ovan. Kontakta oss via GitHub-repot för att utöva dina rättigheter. Du kan även inge klagomål till Integritetsskyddsmyndigheten ([IMY](https://www.imy.se)).
+
+## Ändringar
+
+Policyn kan komma att uppdateras. Den aktuella versionen finns alltid på den här sidan.

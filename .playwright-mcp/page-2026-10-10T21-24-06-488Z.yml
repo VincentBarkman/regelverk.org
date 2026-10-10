@@ -1,0 +1,94 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - heading [level=1] [ref=e6]:
+        - link "regelverk.org" [ref=e7] [cursor=pointer]:
+          - /url: ./
+      - generic [ref=e8]: Search
+      - group [ref=e10]:
+        - textbox "Search" [ref=e11]:
+          - /placeholder: Search laws, standards and requirements...
+        - group [ref=e12]
+        - group [ref=e15]:
+          - generic "Ctrl+K to focus search": Ctrl+K
+    - generic [ref=e16]:
+      - navigation [ref=e17]:
+        - heading "Explore areas" [level=2] [ref=e18]
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "OT security Industrial systems" [ref=e21] [cursor=pointer]:
+              - /url: ./ot
+              - generic [ref=e27]:
+                - generic [ref=e28]: OT security
+                - generic [ref=e29]: Industrial systems
+          - listitem [ref=e30]:
+            - link "IT security Information security" [ref=e31] [cursor=pointer]:
+              - /url: ./it
+              - generic [ref=e43]:
+                - generic [ref=e44]: IT security
+                - generic [ref=e45]: Information security
+          - listitem [ref=e46]:
+            - link "Physical security Access and protection" [ref=e47] [cursor=pointer]:
+              - /url: ./fysisk
+              - generic [ref=e51]:
+                - generic [ref=e52]: Physical security
+                - generic [ref=e53]: Access and protection
+          - listitem [ref=e54]:
+            - link "Fire safety Fire and evacuation" [ref=e55] [cursor=pointer]:
+              - /url: ./brandskydd
+              - generic [ref=e59]:
+                - generic [ref=e60]: Fire safety
+                - generic [ref=e61]: Fire and evacuation
+          - listitem [ref=e62]:
+            - link "Electrical safety Electrical installations" [ref=e63] [cursor=pointer]:
+              - /url: ./el
+              - generic [ref=e67]:
+                - generic [ref=e68]: Electrical safety
+                - generic [ref=e69]: Electrical installations
+          - listitem [ref=e70]:
+            - link "Occupational safety Workplace safety" [ref=e71] [cursor=pointer]:
+              - /url: ./arbetsmiljo
+              - generic [ref=e77]:
+                - generic [ref=e78]: Occupational safety
+                - generic [ref=e79]: Workplace safety
+      - navigation [ref=e80]:
+        - heading "Browse the database" [level=2] [ref=e81]
+        - list [ref=e82]:
+          - listitem [ref=e83]:
+            - link "Sources" [ref=e84] [cursor=pointer]:
+              - /url: ./sources
+          - listitem [ref=e90]:
+            - link "Source versions" [ref=e91] [cursor=pointer]:
+              - /url: ./source-versions
+          - listitem [ref=e97]:
+            - link "Provisions" [ref=e98] [cursor=pointer]:
+              - /url: ./provisions
+          - listitem [ref=e104]:
+            - link "Requirements" [ref=e105] [cursor=pointer]:
+              - /url: ./requirements
+          - listitem [ref=e111]:
+            - link "Authorities" [ref=e112] [cursor=pointer]:
+              - /url: ./authorities
+          - listitem [ref=e118]:
+            - link "Topics" [ref=e119] [cursor=pointer]:
+              - /url: ./topics
+          - listitem [ref=e125]:
+            - link "Relations" [ref=e126] [cursor=pointer]:
+              - /url: ./relations
+          - listitem [ref=e132]:
+            - link "Guides" [ref=e133] [cursor=pointer]:
+              - /url: ./guides
+  - contentinfo [ref=e139]:
+    - paragraph [ref=e140]:
+      - link "AGPL-3.0" [ref=e141] [cursor=pointer]:
+        - /url: https://www.gnu.org/licenses/agpl-3.0.html
+      - generic [ref=e142]: ·
+      - link "GitHub" [ref=e143] [cursor=pointer]:
+        - /url: https://github.com/VincentBarkman/regelverk.org
+      - generic [ref=e144]: ·
+      - link "Privacy policy" [ref=e145] [cursor=pointer]:
+        - /url: ./
+    - paragraph [ref=e146]:
+      - button "sv" [ref=e147]
+      - generic [ref=e148]: /
+      - button "en" [pressed] [ref=e149]

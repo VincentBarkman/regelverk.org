@@ -1,0 +1,36 @@
+This policy describes how regelverk.org handles personal data. Last updated 2026-10-10.
+
+## Data controller
+
+regelverk.org is run as an independent project. The data controller is the project owner, reachable through the [GitHub repository](https://github.com/VincentBarkman/regelverk.org).
+
+## What data is processed
+
+- There are no accounts and no registration is required. We do not collect names, email addresses or similar information.
+- A functional cookie stores your language choice (sv/en). It contains no personal data, is required for the feature you request and does not track you.
+- Search queries are processed on the server to return results. They are not stored in a user profile or used for personalization.
+- The host, Cloudflare, may process technical logs (IP address, user agent, requested URL and similar) for operation, security and abuse prevention.
+
+## No tracking
+
+The site uses no analytics, no third-party cookies, no advertising profiles and no fingerprinting. We do not sell or share personal data for marketing purposes.
+
+## Recipients and transfers
+
+Cloudflare acts as a data processor and delivers the site from its global network, which may involve processing outside the EU/EEA. Such transfers are covered by Cloudflare's data processing terms and applicable transfer safeguards, such as standard contractual clauses. No other recipients have access to the data.
+
+## Storage time
+
+The language cookie remains until you clear it or it expires. Technical logs are retained according to the hosting provider's routines and are not used to identify you personally.
+
+## Legal basis
+
+Processing is based on legitimate interest (GDPR Article 6(1)(f)): operating a secure, functional service and providing the features you use, such as the language choice. The language cookie is strictly necessary and exempt from consent requirements under the Swedish Electronic Communications Act.
+
+## Your rights
+
+Under the GDPR you have the right of access, rectification, erasure, restriction, data portability and the right to object to processing. Since we do not hold accounts, requests normally concern the technical logs described above. Contact us through the GitHub repository to exercise your rights. You may also lodge a complaint with the Swedish Authority for Privacy Protection ([IMY](https://www.imy.se)).
+
+## Changes
+
+This policy may be updated. The current version is always available on this page.

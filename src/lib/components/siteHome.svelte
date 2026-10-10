@@ -2,13 +2,14 @@
 	import SearchBar from '#lib/components/searchBar.svelte';
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
-	import { SITE_SCOPES, SITES, siteHost, type SiteScope } from '#lib/sites.js';
+	import { SITE_SCOPES, SITES, siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
 	import { ENTITIES } from '#lib/entities.js';
 	import SiteMark from '#lib/components/siteMark.svelte';
+	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import { SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
 	import * as Card from '#lib/components/ui/card/index.js';
 	import * as m from '#lib/paraglide/messages.js';
-	import { getLocale, locales, setLocale } from '#lib/paraglide/runtime.js';
+	import { getLocale } from '#lib/paraglide/runtime.js';
 	import RiArrowRightSLine from 'remixicon-svelte/icons/arrow-right-s-line';
 
 	let { scope }: { scope: SiteScope } = $props();
@@ -33,6 +34,7 @@
 
 <svelte:head>
 	<title>{siteHost(scope)}</title>
+	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<meta name="description" content={SITE_BLURB[scope]()} />
 	<link rel="canonical" href="https://{siteHost(scope)}" />
 	<meta property="og:type" content="website" />
@@ -130,7 +132,7 @@
 										'/[[site=site]]/[entity=entity]',
 										scope === 'regelverk' ? { entity: e } : { site: scope, entity: e }
 									)}
-									class="flex items-center gap-2 py-1 text-xs hover:underline"
+									class="flex items-center gap-2 py-1 text-xs underline-offset-4 hover:underline"
 								>
 									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
 									<span>{ENTITY_LABEL[e]()}</span>
@@ -140,7 +142,7 @@
 								<a
 									href={`https://${siteHost(scope)}/${e}`}
 									rel="external"
-									class="flex items-center gap-2 py-1 text-xs hover:underline"
+									class="flex items-center gap-2 py-1 text-xs underline-offset-4 hover:underline"
 								>
 									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
 									<span>{ENTITY_LABEL[e]()}</span>
@@ -154,46 +156,5 @@
 		</div>
 	</main>
 
-	<footer
-		class="w-full max-w-2xl mx-auto px-4 pb-4 flex items-center justify-between text-xs text-primary/60"
-	>
-		<p class="flex items-center gap-1.5">
-			<a
-				target="_blank"
-				rel="noopener noreferrer"
-				href="https://www.gnu.org/licenses/agpl-3.0.html"
-				class="hover:underline">AGPL-3.0</a
-			>
-			<span>·</span>
-			<a
-				target="_blank"
-				rel="noopener noreferrer"
-				href="https://github.com/VincentBarkman/regelverk.org"
-				class="hover:underline">GitHub</a
-			>
-			<span>·</span>
-			{#if dev}
-				<a
-					href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
-					class="hover:underline">{m.nav_privacy()}</a
-				>
-			{:else}
-				<a href={`https://${siteHost(scope)}`} rel="external" class="hover:underline"
-					>{m.nav_privacy()}</a
-				>
-			{/if}
-		</p>
-		<p class="flex items-center gap-1.5">
-			{#each locales as loc, i (loc)}
-				{#if i > 0}<span>/</span>{/if}
-				<button
-					onclick={() => setLocale(loc)}
-					lang={loc}
-					aria-pressed={getLocale() === loc}
-					class="uppercase hover:underline {getLocale() === loc ? 'font-semibold text-primary' : ''}"
-					>{loc}</button
-				>
-			{/each}
-		</p>
-	</footer>
+	<SiteFooter {scope} />
 </div>
