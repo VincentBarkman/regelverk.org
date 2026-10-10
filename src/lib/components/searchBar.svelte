@@ -210,7 +210,7 @@
 <Label for={inputId} class="sr-only">{m.search_label()}</Label>
 
 <div class="relative {width}">
-	<InputGroup.Root class="{width} rounded-full">
+	<InputGroup.Root class={width}>
 		<InputGroup.Input
 			id={inputId}
 			placeholder={placeholder || staticPlaceholder}

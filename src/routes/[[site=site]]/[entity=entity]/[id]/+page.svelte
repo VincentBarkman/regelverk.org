@@ -4,6 +4,7 @@
 	import { SITES, siteHost, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL } from '#lib/meta.js';
+	import { articleFor } from '#lib/data.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import type { PageProps } from './$types';
 
@@ -40,8 +41,13 @@
 	<h1>{data.id}</h1>
 
 	{#if data.record}
-		<article>
-			<pre>{data.record.body}</pre>
+		{@const Article = articleFor(entity, data.record.id)}
+		<article class="prose max-w-2xl px-4">
+			{#if Article}
+				<Article />
+			{:else}
+				<pre>{data.record.body}</pre>
+			{/if}
 		</article>
 	{:else}
 		<p>{m.db_empty()}</p>

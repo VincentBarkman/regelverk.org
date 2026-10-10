@@ -1,0 +1,31 @@
+NIS2 är EU:s direktiv för cybersäkerhet. Det ställer krav på **riskhantering**, *incidentrapportering* och ledningsansvar i många sektorer samtidigt.
+
+## Vem omfattas
+
+- Samhällsviktiga verksamheter
+- Viktiga verksamheter enligt bilagorna
+- Vissa digitala tjänsteleverantörer
+
+## Kärnkrav
+
+1. Riskhanteringsåtgärder
+2. Incidenthantering och rapportering
+3. Kontinuitetsplaner
+4. Säkerhet i leverantörskedjan
+
+### Rapportering
+
+> Incidenter ska rapporteras tidigt, med en första varning inom korta tidsfrister.
+
+| Steg | Tidsfrist |
+| ---- | --------- |
+| Early warning | 24 timmar |
+| Incidentrapport | 72 timmar |
+
+```sh
+sök "NIS2" --scope it
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

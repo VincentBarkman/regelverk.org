@@ -1,0 +1,32 @@
+IEC 62443 är serie­standarden för cybersäkerhet i industriella automationssystem. Den delar upp ansvaret mellan **tillverkare**, *integratörer* och driftägare.
+
+## Delar i serien
+
+- 62443-1 behandlar begrepp och modeller
+- 62443-2 riktar sig till driftägaren
+- 62443-3 täcker systemkrav och säkerhetsnivåer
+- 62443-4 beskriver säker produktutveckling
+
+## Säkerhetsnivåer
+
+1. SL 1 skydd mot oavsiktliga händelser
+2. SL 2 skydd mot enkla avsiktliga angrepp
+3. SL 3 skydd mot avancerade angrepp
+4. SL 4 skydd mot statliga aktörer
+
+### Zoner och ledningar
+
+> Dela in systemet i zoner med liknande säkerhetsbehov och begränsa kommunikationen mellan zonerna.
+
+| Nivå | Innebörd |
+| ---- | -------- |
+| SL 1 | Basnivå |
+| SL 2 | Normal nivå för de flesta anläggningar |
+
+```sh
+sök "IEC 62443" --scope ot
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

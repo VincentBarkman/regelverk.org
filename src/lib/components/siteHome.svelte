@@ -4,7 +4,8 @@
 	import { resolve } from '$app/paths';
 	import { SITE_SCOPES, SITES, siteHost, type SiteScope } from '#lib/sites.js';
 	import { ENTITIES } from '#lib/entities.js';
-	import { SITE_ICON, SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
+	import SiteMark from '#lib/components/siteMark.svelte';
+	import { SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
 	import * as Card from '#lib/components/ui/card/index.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import { getLocale, locales, setLocale } from '#lib/paraglide/runtime.js';
@@ -67,7 +68,6 @@
 				<h2 id="explore-heading" class="text-xs font-medium text-primary/70">{m.ui_explore()}</h2>
 				<ul class="grid grid-cols-2 sm:grid-cols-3 gap-2">
 					{#each sectorScopes as s (s)}
-						{@const Icon = SITE_ICON[s]}
 						<li>
 							{#if dev}
 								<a
@@ -81,7 +81,7 @@
 											? 'border-primary/60 bg-primary/5'
 											: ''}"
 									>
-										<Icon class="size-4 shrink-0 text-primary/70" aria-hidden="true" />
+										<SiteMark scope={s} class="size-4 shrink-0 {SITES[s].colorClass}" />
 										<span class="flex flex-col">
 											<span class="text-xs font-medium">{SITE_LONG[s]()}</span>
 											<span class="text-[11px] leading-tight text-primary/60"
@@ -103,7 +103,7 @@
 											? 'border-primary/60 bg-primary/5'
 											: ''}"
 									>
-										<Icon class="size-4 shrink-0 text-primary/70" aria-hidden="true" />
+										<SiteMark scope={s} class="size-4 shrink-0 {SITES[s].colorClass}" />
 										<span class="flex flex-col">
 											<span class="text-xs font-medium">{SITE_LONG[s]()}</span>
 											<span class="text-[11px] leading-tight text-primary/60"

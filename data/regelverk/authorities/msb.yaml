@@ -1,0 +1,8 @@
+name: Myndigheten för samhällsskydd och beredskap
+short: MSB
+kind: national-authority
+url: https://www.msb.se
+sites:
+  - ot
+  - it
+  - brandskydd

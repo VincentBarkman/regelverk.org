@@ -3,12 +3,6 @@ import type { Entity } from '#lib/entities.js';
 import * as m from '#lib/paraglide/messages.js';
 import type { Component } from 'svelte';
 
-import RiShieldCheckLine from 'remixicon-svelte/icons/shield-check-line';
-import RiComputerLine from 'remixicon-svelte/icons/computer-line';
-import RiBuilding2Line from 'remixicon-svelte/icons/building-2-line';
-import RiFireLine from 'remixicon-svelte/icons/fire-line';
-import RiFlashlightLine from 'remixicon-svelte/icons/flashlight-line';
-import RiTeamLine from 'remixicon-svelte/icons/team-line';
 import RiBook2Line from 'remixicon-svelte/icons/book-2-line';
 import RiGitCommitLine from 'remixicon-svelte/icons/git-commit-line';
 import RiScales3Line from 'remixicon-svelte/icons/scales-3-line';
@@ -17,16 +11,6 @@ import RiGovernmentLine from 'remixicon-svelte/icons/government-line';
 import RiPriceTag3Line from 'remixicon-svelte/icons/price-tag-3-line';
 import RiNodeTree from 'remixicon-svelte/icons/node-tree';
 import RiCompass3Line from 'remixicon-svelte/icons/compass-3-line';
-
-export const SITE_ICON: Record<SiteScope, Component> = {
-	regelverk: RiShieldCheckLine,
-	ot: RiShieldCheckLine,
-	it: RiComputerLine,
-	fysisk: RiBuilding2Line,
-	brandskydd: RiFireLine,
-	el: RiFlashlightLine,
-	arbetsmiljo: RiTeamLine
-};
 
 export const SITE_LONG: Record<SiteScope, () => string> = {
 	regelverk: m.nav_home,

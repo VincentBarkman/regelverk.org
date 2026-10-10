@@ -3,6 +3,7 @@
 	import { resolve } from '$app/paths';
 	import { siteHost } from '#lib/sites.js';
 	import { ENTITY_LABEL } from '#lib/meta.js';
+	import { articleFor } from '#lib/data.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import type { PageProps } from './$types';
 
@@ -44,9 +45,14 @@
 
 	<h1>{data.ref?.id ?? data.slug}</h1>
 
-	{#if data.record}
-		<article>
-			<pre>{data.record.body}</pre>
+	{#if data.record && data.ref}
+		{@const Article = articleFor(data.ref.entity, data.ref.id)}
+		<article class="prose max-w-2xl px-4">
+			{#if Article}
+				<Article />
+			{:else}
+				<pre>{data.record.body}</pre>
+			{/if}
 		</article>
 	{:else}
 		<p>{m.wiki_empty()}</p>

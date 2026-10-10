@@ -1,0 +1,31 @@
+Systematiskt arbetsmiljöarbete (SAM) är Arbetsmiljöverkets modell för att förebygga **ohälsa** och *olycksfall* i arbetet.
+
+## De fyra stegen
+
+- Undersök arbetsförhållandena
+- Riskbedöm vad som kan gå fel
+- Åtgärda riskerna
+- Kontrollera att åtgärderna verkar
+
+## Vad ingår
+
+1. Fysiska och organisatoriska risker
+2. Sociala förhållanden på arbetsplatsen
+3. Uppföljning och årlig översyn
+
+### Skyddsronder
+
+> Skyddsronder är ett konkret verktyg för steg ett, undersökningen.
+
+| Föreskrift | Område |
+| ---------- | ------ |
+| AFS 2023:1 | Systematiskt arbetsmiljöarbete |
+| AFS 2023:2 | Arbetsmiljöplan och entreprenörer |
+
+```sh
+sök "AFS 2023" --scope arbetsmiljo
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

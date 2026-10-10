@@ -25,7 +25,7 @@ export const SITES: Record<SiteScope, Site> = {
 	ot: {
 		label: 'OT',
 		subdomain: 'ot',
-		colorClass: 'text-slate-600'
+		colorClass: 'text-orange-600'
 	},
 	it: {
 		label: 'IT',

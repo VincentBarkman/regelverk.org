@@ -1,0 +1,5 @@
+name: Boverket
+short: BOV
+kind: national-authority
+url: https://www.boverket.se
+sites: [brandskydd, fysisk, arbetsmiljo]
