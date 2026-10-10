@@ -1,0 +1,10 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "regelverk-org",
+	"compatibility_date": "2026-10-10",
+	"compatibility_flags": ["nodejs_als"],
+	"pages_build_output_dir": ".svelte-kit/cloudflare",
+	// Default site — each site's Pages project overrides this with its own scope
+	// (ot, it, fysisk, brandskydd, el, arbetsmiljo).
+	"vars": { "SITE_SCOPE": "regelverk" }
+}

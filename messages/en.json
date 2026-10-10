@@ -1,0 +1,14 @@
+{
+	"nav_sites": "Sites",
+	"nav_home": "Home",
+	"nav_privacy": "Privacy policy",
+	"footer_license": "This page is available under the",
+	"search_label": "Search",
+	"search_placeholder": "Search...",
+	"search_searching": "Searching…",
+	"search_no_results": "No results found.",
+	"search_failed": "Search failed. Please try again.",
+	"search_clear": "Clear",
+	"search_go": "Go",
+	"search_focus_shortcut": "{shortcut} to focus search"
+}

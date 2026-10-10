@@ -1,0 +1,14 @@
+{
+	"nav_sites": "Webbplatser",
+	"nav_home": "Hem",
+	"nav_privacy": "Integritetspolicy",
+	"footer_license": "Denna sida är tillgänglig under",
+	"search_label": "Sök",
+	"search_placeholder": "Sök...",
+	"search_searching": "Söker…",
+	"search_no_results": "Inga resultat hittades.",
+	"search_failed": "Sökningen misslyckades. Försök igen.",
+	"search_clear": "Rensa",
+	"search_go": "Gå",
+	"search_focus_shortcut": "{shortcut} för att fokusera sökningen"
+}
