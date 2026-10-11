@@ -14,43 +14,51 @@ export interface Site {
 	label: string;
 	subdomain: string | null;
 	colorClass: string;
+	softClass: string;
 }
 
 export const SITES: Record<SiteScope, Site> = {
 	regelverk: {
 		label: 'Global',
 		subdomain: null,
-		colorClass: 'text-amber-700'
+		colorClass: 'text-amber-700',
+		softClass: 'bg-amber-700/8'
 	},
 	ot: {
 		label: 'OT',
 		subdomain: 'ot',
-		colorClass: 'text-orange-600'
+		colorClass: 'text-orange-600',
+		softClass: 'bg-orange-600/8'
 	},
 	it: {
 		label: 'IT',
 		subdomain: 'it',
-		colorClass: 'text-blue-600'
+		colorClass: 'text-blue-600',
+		softClass: 'bg-blue-600/8'
 	},
 	fysisk: {
 		label: 'Fysisk',
 		subdomain: 'fysisk',
-		colorClass: 'text-purple-600'
+		colorClass: 'text-purple-600',
+		softClass: 'bg-purple-600/8'
 	},
 	brandskydd: {
 		label: 'Brandskydd',
 		subdomain: 'brandskydd',
-		colorClass: 'text-red-600'
+		colorClass: 'text-red-600',
+		softClass: 'bg-red-600/8'
 	},
 	el: {
 		label: 'El',
 		subdomain: 'el',
-		colorClass: 'text-yellow-600'
+		colorClass: 'text-yellow-600',
+		softClass: 'bg-yellow-600/10'
 	},
 	arbetsmiljo: {
 		label: 'Arbetsmiljö',
 		subdomain: 'arbetsmiljo',
-		colorClass: 'text-green-600'
+		colorClass: 'text-green-600',
+		softClass: 'bg-green-600/8'
 	}
 };
 

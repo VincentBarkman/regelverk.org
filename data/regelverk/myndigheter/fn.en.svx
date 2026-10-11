@@ -1,0 +1,29 @@
+---
+name: United Nations
+short: UN
+kind: international-org
+description: International organisation for intergovernmental cooperation that adopts conventions and global frameworks.
+url: https://un.org
+logo: /flags/un.svg
+aliases:
+  - FN
+  - UN
+  - Förenta nationerna
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: UN
+jurisdiction: Internationell
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the UN
+
+The United Nations is an intergovernmental organisation founded in 1945. Through its organs and specialised agencies, the UN adopts conventions, recommendations and technical regulations that member states transpose nationally.
+
+## Role in the regulatory landscape
+
+UN conventions and model regulations underpin international and national regulatory frameworks, including the transport of dangerous goods, human rights and the Globally Harmonized System for chemicals (GHS).

@@ -1,0 +1,28 @@
+---
+name: Sverige
+short: SE
+kind: state
+description: Svensk jurisdiktion – lagar, förordningar och myndighetsföreskrifter som gäller i Sverige.
+url: https://www.regeringen.se
+logo: /flags/sweden.svg
+aliases:
+  - Sweden
+  - SE
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: SE
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om svensk rätt
+
+Svensk lagstiftning består av lagar som antas av riksdagen, förordningar som beslutas av regeringen samt föreskrifter som utfärdas av myndigheter med förordningsdelegation, till exempel Elsäkerhetsverket, Arbetsmiljöverket och MSB.
+
+## Roll i regelverkslandskapet
+
+Svenska regelverk är ofta införlivanden av EU-rätten eller av internationella konventioner. Myndigheter utfärdar bindande föreskrifter (till exempel ELSÄK-FS, AFS och MSBFS) samt allmänna råd.

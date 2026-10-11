@@ -1,0 +1,31 @@
+---
+title: Recover
+description: Återställningsfunktionen i NIST CSF – återställ verksamhet och drags lärdomar efter en incident.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## Om Recover
+
+Recover handlar om att återställa drift och kapacitet efter en incident, samt att kommunicera återställningsarbetet och dra lärdomar för framtida förbättringar.
+
+## Nyckelområden
+
+- Återställningsplaner och prioriteringar
+- Säker återuppbyggnad av system
+- Kommunikation mot intressenter
+- Lärdomsanalys och förbättringar

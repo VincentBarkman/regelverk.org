@@ -1,0 +1,28 @@
+---
+name: SIS Swedish Standards Institute
+short: SIS
+kind: standards-org
+description: Swedish standards organisation issuing Swedish standards (SS and SS-EN).
+url: https://www.sis.se
+logo: /logos/sis.svg
+aliases:
+  - SIS
+sites: [fysisk, el, arbetsmiljo]
+designation: SIS
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About SIS
+
+SIS, the Swedish Standards Institute, is the Swedish national standards body. SIS issues Swedish standards (SS) and adopts European and international standards as Swedish standards (SS-EN, SS-ISO/IEC).
+
+## Connection to regulations
+
+Authority regulations often refer to standards issued by SIS, such as SS-EN 50110 for the operation of electrical installations.

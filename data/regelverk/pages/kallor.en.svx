@@ -1,0 +1,14 @@
+---
+title: Sources
+description: Official sources the database is built on.
+status: active
+reviewStatus: granskad
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+---
+
+The database is built on official sources such as legislation, EU acts, authority regulations and standards.

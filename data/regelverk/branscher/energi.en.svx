@@ -1,0 +1,31 @@
+---
+title: Energy
+description: Sector covering electricity, oil, gas and district heating – essential entity under NIS2.
+designation: Sektor
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+kind: sector
+sites:
+  - el
+  - it
+---
+
+## About the sector
+
+The energy sector covers production, transport and distribution of electricity, oil, gas and district heating as well as actors in hydrogen and energy storage. The sector counts as an *essential entity* under the NIS2 directive.
+
+## Applicable regulations
+
+- **NIS2 / the Cybersecurity Act** – mandatory risk management and reporting requirements
+- **The Electricity Act (1997:857)** – licensing and operational safety
+- **The Electrical Safety Act (2016:732)** – requirements for electrical installations and electrical work
+
+## Supervisory authorities
+
+Energimarknadsinspektionen and Elsäkerhetsverket exercise sector-specific supervision; cybersecurity supervision is coordinated by the Swedish Civil Defence and Resilience Agency.

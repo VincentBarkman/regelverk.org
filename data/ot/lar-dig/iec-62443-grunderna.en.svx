@@ -1,0 +1,45 @@
+---
+title: IEC 62443 fundamentals
+description: Overview of the standards series for cybersecurity in industrial automation systems.
+jurisdiction: Internationell
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+IEC 62443 is the standards series for cybersecurity in industrial automation systems. It divides responsibility between **manufacturers**, *integrators* and asset owners.
+
+## Parts of the series
+
+- 62443-1 covers concepts and models
+- 62443-2 targets the asset owner
+- 62443-3 covers system requirements and security levels
+- 62443-4 describes secure product development
+
+## Security levels
+
+1. SL 1 protection against unintentional events
+2. SL 2 protection against simple intentional attacks
+3. SL 3 protection against sophisticated attacks
+4. SL 4 protection against state-level actors
+
+### Zones and conduits
+
+> Divide the system into zones with similar security needs and limit communication between zones.
+
+| Level | Meaning |
+| ----- | ------- |
+| SL 1 | Baseline |
+| SL 2 | Normal level for most facilities |
+
+```sh
+search "IEC 62443" --scope ot
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

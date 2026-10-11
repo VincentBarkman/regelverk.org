@@ -1,0 +1,31 @@
+---
+name: Myndigheten för civilt försvar
+short: MCF
+kind: national-authority
+description: Ansvarig myndighet för civilt försvar, samhällsskydd och beredskap.
+url: https://www.msb.se
+logo: /logos/mcf.png
+aliases:
+  - Myndigheten för civilt försvar
+  - MCF
+designation: MCF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+related: [msb]
+---
+
+## Om MCF
+
+Myndigheten för civilt försvar tog över ansvaret för civilt försvar, samhällsskydd och beredskap från MSB. MCF är samordnande myndighet för cybersäkerhetstillsynen enligt cybersäkerhetslagen (2025:150).
+
+## Uppgifter
+
+- Tillsyn av NIS2-omfattade verksamheter
+- Stöd till kommuner och regioner i krisberedskap
+- Utbildning och stöd inom civilt försvar

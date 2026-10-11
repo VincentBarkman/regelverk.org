@@ -12,6 +12,9 @@
 	import { resolve } from '$app/paths';
 	import { browser } from '$app/env';
 	import * as m from '#lib/paraglide/messages.js';
+	import { ENTITY_ICON, ENTITY_LABEL } from '#lib/meta.js';
+	import { SITES, type SiteScope } from '#lib/sites.js';
+	import type { Entity } from '#lib/entities.js';
 
 	interface Props {
 		inputId?: string;
@@ -19,6 +22,11 @@
 		enableTyper?: boolean;
 		typingPhrases?: string[];
 		staticPlaceholder?: string;
+		initialValue?: string;
+		label?: string;
+		showSuggestions?: boolean;
+		onsubmit?: (query: string) => void;
+		value?: string;
 	}
 
 	type ArticleSearchResult = {
@@ -26,6 +34,8 @@
 		slug: string;
 		title: string;
 		description: string;
+		entity: Entity;
+		scope: SiteScope;
 	};
 
 	let {
@@ -40,11 +50,18 @@
 			'ELSÄK-FS...',
 			'AFS 2023...'
 		],
-		staticPlaceholder = m.search_placeholder()
+		staticPlaceholder = m.search_placeholder(),
+		initialValue = '',
+		label = m.search_label(),
+		showSuggestions = true,
+		onsubmit,
+		value = $bindable('')
 	}: Props = $props();
 
+	// svelte-ignore state_referenced_locally
+	if (!value && initialValue) value = initialValue;
+
 	let placeholder = $state('');
-	let value = $state('');
 	let showResults = $state(false);
 
 	let searchResults = $state<ArticleSearchResult[]>([]);
@@ -56,7 +73,7 @@
 	const shortcutLabel = formatShortcutLabel(shortcutStr);
 
 	function goToWiki(slug: string) {
-		goto(resolve('/wiki/[slug]', { slug: encodeURIComponent(slug) }));
+		goto(resolve('/wiki/[...slug]', { slug }));
 	}
 
 	function goToSearch(query: string) {
@@ -65,6 +82,10 @@
 
 	function submitSearch() {
 		const q = value.trim();
+		if (onsubmit) {
+			onsubmit(q);
+			return;
+		}
 		if (!q) return;
 
 		if (searchResults.length > 0) {
@@ -176,7 +197,7 @@
 	}
 
 	$effect(() => {
-		if (!browser) return;
+		if (!browser || !showSuggestions) return;
 
 		const q = value.trim();
 		if (q === lastQuery) return;
@@ -208,7 +229,7 @@
 
 <svelte:window onkeydown={handleWindowKeydown} />
 
-<Label for={inputId} class="sr-only">{m.search_label()}</Label>
+<Label for={inputId} class="sr-only">{label}</Label>
 
 <div class="relative {width}">
 	<InputGroup.Root class={width}>
@@ -218,7 +239,7 @@
 			placeholder={placeholder || staticPlaceholder}
 			onfocus={onFocus}
 			onblur={onBlur}
-			bind:value={value}
+			bind:value
 			onkeydown={onKeyDown}
 		/>
 
@@ -229,7 +250,7 @@
 		<InputGroup.Addon align="inline-end" class="pr-4">
 			{#if hasValue}
 				<InputGroup.Button
-					class="size-6 rounded-full hidden md:flex"
+					class="hidden size-6 rounded-full md:flex"
 					onclick={() => (value = '')}
 					aria-label={m.search_clear()}
 				>
@@ -245,7 +266,7 @@
 			{/if}
 
 			<InputGroup.Button
-				class="size-6 rounded-full flex md:hidden"
+				class="flex size-6 rounded-full md:hidden"
 				aria-label={m.search_go()}
 				onclick={submitSearch}
 			>
@@ -254,9 +275,9 @@
 		</InputGroup.Addon>
 	</InputGroup.Root>
 
-	{#if showResults && value.trim()}
-		<div class="absolute w-full mt-2 z-50">
-			<Command.Root class="rounded-lg border shadow-md bg-background">
+	{#if showSuggestions && showResults && value.trim()}
+		<div class="absolute z-50 mt-2 w-full">
+			<Command.Root class="rounded-lg border bg-background shadow-md">
 				<Command.List>
 					{#if isLoading}
 						<Command.Empty>{m.search_searching()}</Command.Empty>
@@ -267,19 +288,43 @@
 					{:else}
 						<Command.Group>
 							{#each searchResults as item (item.id)}
-								<Command.Item onSelect={() => goToWiki(item.slug)}>
+								{@const Icon = ENTITY_ICON[item.entity]}
+								<Command.Item onSelect={() => goToWiki(item.slug)} class="px-2 py-2">
 									<a
-										href={resolve('/wiki/[slug]', { slug: encodeURIComponent(item.slug) })}
-										class="flex flex-col gap-1 w-full text-left"
+										href={resolve('/wiki/[...slug]', { slug: item.slug })}
+										class="flex w-full items-start gap-2.5 text-left"
 										onclick={() => (showResults = true)}
 									>
-										<span class="font-medium">{item.title}</span>
-										<span class="text-xs text-muted-foreground">
-											{item.description}
+										<span class="flex h-5 shrink-0 items-center">
+											<Icon class="size-3.5 text-primary/40" aria-hidden="true" />
+										</span>
+										<span class="flex min-w-0 flex-1 flex-col">
+											<span class="truncate font-serif text-sm font-semibold text-primary">{item.title}</span>
+											{#if item.description}
+												<span class="truncate text-xs text-primary/55">{item.description}</span>
+											{/if}
+											<span class="mt-0.5 text-[10px] text-primary/40"
+												>{ENTITY_LABEL[item.entity]()} · {SITES[item.scope]?.label ??
+													item.scope}</span
+											>
 										</span>
 									</a>
 								</Command.Item>
 							{/each}
+							<Command.Item
+								onSelect={() => goToSearch(value.trim())}
+								class="border-t border-primary/10 px-2 py-2"
+							>
+								<button
+									type="button"
+									onclick={() => goToSearch(value.trim())}
+									class="flex w-full items-center gap-2 text-left text-xs font-medium text-primary/60"
+								>
+									<RiSearchLine class="size-3.5 shrink-0 text-primary/40" aria-hidden="true" />
+									<span class="truncate">{m.ui_view_all()}</span>
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+								</button>
+							</Command.Item>
 						</Command.Group>
 					{/if}
 				</Command.List>

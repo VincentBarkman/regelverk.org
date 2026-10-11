@@ -1,0 +1,29 @@
+---
+name: Brandskyddsföreningen
+short: BSF
+kind: association
+description: Svensk förening som utvecklar kunskap, utbildning och vägledning inom brandskydd.
+url: https://www.brandskyddsforeningen.se
+logo: /logos/brandskyddsforeningen.svg
+aliases:
+  - Brandskyddsföreningen
+  - BSF
+sites: [brandskydd]
+designation: BSF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om Brandskyddsföreningen
+
+Brandskyddsföreningen är en svensk medlemsorganisation som arbetar för ett brandsäkert Sverige. Föreningen ger ut vägledningar, ordnar utbildningar och driver utveckling av metoder för systematiskt brandskyddsarbete.
+
+## Koppling till regelverk
+
+Föreningens vägledningar kompletterar de bindande kraven i lagen om skydd mot olyckor och Boverkets föreskrifter.

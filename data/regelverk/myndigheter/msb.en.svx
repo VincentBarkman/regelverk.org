@@ -1,0 +1,30 @@
+---
+name: Swedish Civil Contingencies Agency
+short: MSB
+kind: national-authority
+description: Former authority for civil protection, preparedness and cybersecurity supervision. Succeeded by the Swedish Civil Defence and Resilience Agency (MCF).
+url: https://www.msb.se
+logo: /logos/msb.svg
+sites:
+  - ot
+  - it
+  - brandskydd
+designation: MSB
+jurisdiction: Sverige
+status: inactive
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+related: [mcf]
+---
+
+## About MSB
+
+Until its closure, MSB was the authority responsible for civil protection, preparedness and cybersecurity supervision in Sweden. It issued regulations on information security and led the Swedish NIS2 implementation work.
+
+## Successor
+
+Its work has been taken over by Myndigheten för civilt försvar (MCF), which now exercises supervision and coordination in this area.

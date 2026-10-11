@@ -1,0 +1,29 @@
+---
+name: Government Offices of Sweden
+short: RK
+kind: national-authority
+description: The government's administrative body that prepares and implements government decisions.
+url: https://www.regeringen.se
+logo: /logos/regeringskansliet.svg
+sites:
+  - regelverk
+designation: RK
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringen
+aliases:
+  - Regeringen
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the Government Offices
+
+The Government Offices (Regeringskansliet) prepare government matters and assist ministers in their work. In the regulatory domain it issues government bills, ordinances and other governing documents that authorities then apply.
+
+## Role in regulatory work
+
+The government issues ordinances and empowers authorities to issue regulations. The Government Offices also coordinate the transposition of EU acts into Swedish law.

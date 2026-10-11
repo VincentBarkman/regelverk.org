@@ -1,8 +1,0 @@
-[   17577ms] [ERROR] updated at
-    at $effect (http://localhost:5174/src/lib/components/articleToc.svelte:29:5) @ http://localhost:5174/node_modules/.vite/deps/runtime-vdTZ6d_k.js?v=c6090516:2488
-[   17581ms] [WARNING] %c[sveltekit] hmr_reload_after_error
-%cThe next HMR update will cause the page to reload
-https://svelte.dev/e/kit/hmr_reload_after_error font-weight: bold font-weight: normal @ http://localhost:5174/node_modules/.pnpm/@sveltejs+kit@3.0.1_@sveltejs+vite-plugin-svelte@7.3.1_svelte@5.57.2_@typescript-eslint_506ef453207074b5660225243056982f/node_modules/@sveltejs/kit/src/messages/client-warnings.js?v=c6090516:135
-[   17581ms] [ERROR] Svelte error: effect_update_depth_exceeded
-Maximum update depth exceeded. This typically indicates that an effect reads and writes the same piece of state
-https://svelte.dev/e/effect_update_depth_exceeded @ http://localhost:5174/@fs/home/vincentbarkman/Documents/regelverk.org/.svelte-kit/generated/dev/client/app.js:27

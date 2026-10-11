@@ -1,0 +1,29 @@
+---
+name: Regeringskansliet
+short: RK
+kind: national-authority
+description: Regeringens förvaltningsorgan som bereder och driver regeringens beslut.
+url: https://www.regeringen.se
+logo: /logos/regeringskansliet.svg
+sites:
+  - regelverk
+designation: RK
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringen
+aliases:
+  - Regeringen
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om Regeringskansliet
+
+Regeringskansliet bereder regeringsärenden och bistår statsråden i deras arbete. Inom regelverksområdet är Regeringskansliet utgivare av propositioner, förordningar och andra styrande dokument som myndigheter sedan tillämpar.
+
+## Roll i regelverksarbetet
+
+Regeringen utfärdar förordningar och bemyndigar myndigheter att meddela föreskrifter. Regeringskansliet samordnar också genomförandet av EU-rättsakter i svensk lagstiftning.

@@ -1,0 +1,31 @@
+---
+title: Protect
+description: Skyddsfunktionen i NIST CSF – åtgärder som minskar risken för och effekten av incidenter.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## Om Protect
+
+Protect samlar åtgärderna som ska hindra incidenter eller begränsa deras omfattning: åtkomststyrning, utbildning, datasäkerhet, plattforms- och infrastrukturskydd.
+
+## Nyckelområden
+
+- Identitets- och åtkomsthantering (MFA, minsta behörighet)
+- Medvetenhet och utbildning
+- Datasäkerhet och kryptering
+- Skydd av plattformar och nätverk

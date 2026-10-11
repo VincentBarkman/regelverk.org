@@ -1,0 +1,28 @@
+---
+name: European Union
+short: EU
+kind: supranational
+description: Supranational organisation that adopts regulations and directives which apply directly or must be transposed into member state law.
+url: https://europa.eu
+logo: /flags/eu.svg
+aliases:
+  - EU
+  - Europeiska unionen
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: EU
+jurisdiction: EU
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the EU
+
+The European Union is a supranational organisation of European states. The EU adopts regulations, which apply directly in all member states, and directives, which must be transposed into national law.
+
+## Role in the regulatory landscape
+
+EU law forms the basis of large parts of Swedish and European legislation in areas such as cybersecurity, data protection, product safety and occupational safety. Examples include the NIS2 directive and the GDPR.

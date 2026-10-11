@@ -1,0 +1,26 @@
+---
+from: nis2
+to: nis1
+kind: replaces
+description: NIS2 replaces and extends the requirements of the NIS directive.
+jurisdiction: EU
+status: in-force
+reviewStatus: verified
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+---
+
+## The transition from NIS to NIS2
+
+The NIS2 directive replaced the original NIS directive (EU) 2016/1148 on 18 October 2024. The most important difference is an extended scope:
+
+- More sectors are covered, 18 in total compared to the previous 7
+- A new classification of *essential* and *important* entities replaces the old division
+- Clearer management responsibility and stricter sanction options
+- Mandatory incident reporting within 24 hours
+
+## In Swedish law
+
+NIS2 was transposed through the Cybersecurity Act (2025:150), which replaces the Act (2018:1174) on information security for essential and digital services.

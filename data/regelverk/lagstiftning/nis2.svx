@@ -1,0 +1,29 @@
+---
+name: NIS2-direktivet
+title: Europaparlamentets och rådets direktiv (EU) 2022/2555
+type: eu-directive
+description: EU-direktiv om åtgärder för en hög gemensam cybersäkerhetsnivå i unionen.
+designation: EU 2022/2555
+jurisdiction: EU
+issuer: EU
+status: in-force
+reviewStatus: verified
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+---
+
+## Omfattning
+
+Direktivet gäller för väsentliga och viktiga enheter inom bland annat energi, transporter, sjukvård, digital infrastruktur och offentlig förvaltning. Vilka enheter som omfattas avgörs av storlek och sektor.
+
+## Centrala krav
+
+- **Riskhanteringsåtgärder** enligt artikel 21 – organisationer ska vidta lämpliga och proportionella tekniska, operativa och organisatoriska åtgärder.
+- **Incidentrapportering** enligt artikel 23 – betydande incidenter rapporteras till behörig myndighet inom fastställda tidsfrister.
+- **Ledningsansvar** – ledningen ska godkänna och följa upp riskhanteringsåtgärderna.
+
+## Svensk implementering
+
+Direktivet har genomförts i svensk rätt genom cybersäkerhetslagen (2025:150), som trädde i kraft den 15 januari 2025. Tillsynen är fördelad på flera sektorsmyndigheter med Myndigheten för civilt försvar som samordnande myndighet.

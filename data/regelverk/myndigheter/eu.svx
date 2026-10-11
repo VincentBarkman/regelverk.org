@@ -1,0 +1,28 @@
+---
+name: Europeiska unionen
+short: EU
+kind: supranational
+description: Överstatlig organisation som antar förordningar och direktiv som gäller eller ska införlivas i medlemsstaternas rätt.
+url: https://europa.eu
+logo: /flags/eu.svg
+aliases:
+  - EU
+  - European Union
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: EU
+jurisdiction: EU
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om EU
+
+Europeiska unionen är en överstatlig organisation av europeiska stater. EU antar förordningar, som är direkt tillämpliga i alla medlemsstater, och direktiv, som måste införlivas i nationell lagstiftning.
+
+## Roll i regelverkslandskapet
+
+EU:s regelverk utgör grunden för stora delar av svensk och europeisk lagstiftning inom bland annat cybersäkerhet, dataskydd, produktsäkerhet och arbetsmiljö. Exempel är NIS2-direktivet och GDPR.

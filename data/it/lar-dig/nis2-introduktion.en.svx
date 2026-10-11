@@ -1,0 +1,44 @@
+---
+title: Introduction to NIS2
+description: What the NIS2 directive requires of organisations and who is covered.
+jurisdiction: EU
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+NIS2 is the EU's directive for cybersecurity. It sets requirements for **risk management**, *incident reporting* and management responsibility across many sectors at once.
+
+## Who is covered
+
+- Essential entities
+- Important entities per the annexes
+- Certain digital service providers
+
+## Core requirements
+
+1. Risk management measures
+2. Incident handling and reporting
+3. Continuity plans
+4. Supply chain security
+
+### Reporting
+
+> Incidents must be reported early, with a first warning within short deadlines.
+
+| Step | Deadline |
+| ---- | -------- |
+| Early warning | 24 hours |
+| Incident report | 72 hours |
+
+```sh
+search "NIS2" --scope it
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

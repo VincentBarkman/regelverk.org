@@ -1,0 +1,28 @@
+---
+name: Cybersecurity and Infrastructure Security Agency
+short: CISA
+kind: national-authority
+description: Federal myndighet i USA för cybersäkerhet och skydd av kritisk infrastruktur.
+url: https://www.cisa.gov
+logo: /logos/cisa.svg
+aliases:
+  - CISA
+sites: [it, ot]
+designation: CISA
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: USA
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om CISA
+
+CISA är USA:s federala myndighet för cybersäkerhet och säkerhet för kritisk infrastruktur. Myndigheten publicerar varningar, vägledningar och förteckningen över kända exploaterade sårbarheter (KEV).
+
+## Relevans
+
+CISA:s vägledningar omfattar även industriella styrsystem (ICS/OT) och används internationellt som referensmaterial, även av europeiska verksamheter.

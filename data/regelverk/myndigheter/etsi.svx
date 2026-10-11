@@ -1,0 +1,28 @@
+---
+name: European Telecommunications Standards Institute
+short: ETSI
+kind: standards-org
+description: Europeisk standardiseringsorganisation för informations- och kommunikationsteknik.
+url: https://www.etsi.org
+logo: /logos/etsi.svg
+aliases:
+  - ETSI
+sites: [it, ot]
+designation: ETSI
+jurisdiction: EU
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om ETSI
+
+ETSI är en av de tre europeiska standardiseringsorganisationerna som erkänns av EU. ETSI utvecklar standarder för informations- och kommunikationsteknik, inklusive cybersäkerhetsstandarder som EN 303 645 för konsument-IoT.
+
+## Betydelse
+
+ETSI-standarder som harmoniserats under EU-förordningar ger presumtion för överensstämmelse med lagkrav.

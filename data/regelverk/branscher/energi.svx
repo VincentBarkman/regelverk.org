@@ -1,0 +1,31 @@
+---
+title: Energi
+description: Sektor som omfattar el, olja, gas och fjärrvärme – väsentlig enhet enligt NIS2.
+designation: Sektor
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+kind: sector
+sites:
+  - el
+  - it
+---
+
+## Om sektorn
+
+Energisektorn omfattar produktion, transport och distribution av el, olja, gas och fjärrvärme samt aktörer inom vätgas och energilager. Sektorn räknas som *väsentlig enhet* under NIS2-direktivet.
+
+## Tillämpliga regelverk
+
+- **NIS2 / cybersäkerhetslagen** – obligatoriska riskhanterings- och rapporteringskrav
+- **Ellagen (1997:857)** – tillståndsplikt och driftsäkerhet
+- **Elsäkerhetslagen (2016:732)** – krav på elanläggningar och elarbete
+
+## Tillsynsmyndigheter
+
+Energimarknadsinspektionen och Elsäkerhetsverket utövar sektorspecifik tillsyn; cybersäkerhetstillsyn samordnas av Myndigheten för civilt försvar.

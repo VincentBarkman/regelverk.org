@@ -1,0 +1,28 @@
+---
+name: Cybersecurity and Infrastructure Security Agency
+short: CISA
+kind: national-authority
+description: US federal agency for cybersecurity and protection of critical infrastructure.
+url: https://www.cisa.gov
+logo: /logos/cisa.svg
+aliases:
+  - CISA
+sites: [it, ot]
+designation: CISA
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: USA
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About CISA
+
+CISA is the US federal agency for cybersecurity and critical infrastructure security. It publishes advisories, guidance and the Known Exploited Vulnerabilities (KEV) catalogue.
+
+## Relevance
+
+CISA's guidance also covers industrial control systems (ICS/OT) and is used internationally as reference material, including by European organisations.

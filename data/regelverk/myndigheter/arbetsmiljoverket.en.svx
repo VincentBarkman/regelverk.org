@@ -1,0 +1,28 @@
+---
+name: Swedish Work Environment Authority
+short: AV
+kind: national-authority
+description: Central authority for work environment and working hours, issuing the AFS regulations.
+url: https://www.av.se
+logo: /logos/arbetsmiljoverket.svg
+sites: [arbetsmiljo]
+designation: AV
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the authority
+
+The Swedish Work Environment Authority (Arbetsmiljöverket) is the central government agency for work environment and working hours. It issues the AFS regulations and supervises compliance with the Work Environment Act and the Working Hours Act.
+
+## Regulations
+
+- The Work Environment Act (1977:1160)
+- AFS 2023:1 – systematic work environment management
+- AFS 2023:2 – work environment plan and contractors

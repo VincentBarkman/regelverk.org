@@ -1,0 +1,36 @@
+---
+title: IEC 62443
+description: Series of standards for cybersecurity in industrial automation systems and OT environments.
+designation: IEC 62443
+jurisdiction: Internationell
+status: in-force
+reviewStatus: verified
+issuer: IEC
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+type: standard
+sites:
+  - ot
+---
+
+## About the series
+
+IEC 62443 is the international series of standards for security in industrial automation and control systems (IACS). It is used in OT environments where availability and personal safety take precedence over confidentiality.
+
+## Parts of the series
+
+- **IEC 62443-1-x** – concepts, models and terminology
+- **IEC 62443-2-x** – policies and procedures for asset owners
+- **IEC 62443-3-x** – system requirements and security levels (SL 1–4)
+- **IEC 62443-4-x** – product requirements for components and development processes
+
+## Security levels
+
+| Level | Protection against |
+| ----- | ------------------ |
+| SL 1 | Casual or coincidental intrusion |
+| SL 2 | Simple intentional attacks |
+| SL 3 | Sophisticated attacks with limited resources |
+| SL 4 | Sophisticated attacks with extensive resources |

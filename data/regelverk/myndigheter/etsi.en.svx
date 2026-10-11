@@ -1,0 +1,28 @@
+---
+name: European Telecommunications Standards Institute
+short: ETSI
+kind: standards-org
+description: European standards organisation for information and communications technology.
+url: https://www.etsi.org
+logo: /logos/etsi.svg
+aliases:
+  - ETSI
+sites: [it, ot]
+designation: ETSI
+jurisdiction: EU
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About ETSI
+
+ETSI is one of the three European standards organisations recognised by the EU. It develops standards for information and communications technology, including cybersecurity standards such as EN 303 645 for consumer IoT.
+
+## Significance
+
+ETSI standards harmonised under EU regulations provide presumption of conformity with legal requirements.

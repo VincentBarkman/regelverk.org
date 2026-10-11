@@ -1,0 +1,14 @@
+---
+title: Källor
+description: Officiella källor som databasen bygger på.
+status: active
+reviewStatus: granskad
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+---
+
+Databasen bygger på officiella källor som lagstiftning, EU-rättsakter, myndighetsföreskrifter och standarder.

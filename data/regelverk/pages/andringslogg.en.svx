@@ -1,0 +1,14 @@
+---
+title: Changelog
+description: History of changes to the database.
+status: active
+reviewStatus: granskad
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+---
+
+Changes to the database's content and structure are documented here.

@@ -1,0 +1,45 @@
+---
+title: Electrical safety fundamentals
+description: Basic requirements for electrical installations and electrical work.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Electrical safety is based on the Electrical Safety Act and the National Electrical Safety Board's regulations **ELSÄK-FS**. The goal is to prevent *personal injury* and fires caused by electricity.
+
+## Key concepts
+
+- Power current and voltage ranges
+- Authorisation and self-inspection
+- Working without voltage as the ground rule
+- Safety procedures and working methods
+
+## Work on or near electrical installations
+
+1. Disconnect the installation from voltage
+2. Secure against reconnection
+3. Verify absence of voltage
+4. Earth and short-circuit when needed
+
+### Authorisation
+
+> Only those with the required knowledge who have been assigned the work may perform electrical work.
+
+| Regulation | Area |
+| ---------- | ---- |
+| ELSÄK-FS | Electrical safety generally |
+| SS-EN 50110 | Operation of electrical installations |
+
+```sh
+search "ELSÄK-FS" --scope el
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

@@ -1,0 +1,28 @@
+---
+name: European Union Agency for Cybersecurity
+short: ENISA
+kind: eu-agency
+description: The EU's cybersecurity agency, supporting NIS2 implementation and publishing guidance.
+url: https://www.enisa.europa.eu
+logo: /logos/enisa.svg
+aliases:
+  - ENISA
+sites: [it, ot]
+designation: ENISA
+jurisdiction: EU
+status: active
+reviewStatus: verified
+issuer: EU
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About ENISA
+
+ENISA is the European Union's agency for cybersecurity. It supports member states in implementing NIS2, publishes guidance, and coordinates European cybersecurity certification schemes.
+
+## Role in the regulatory landscape
+
+ENISA does not issue binding regulations, but its guidance and technical guidelines are used as reference by member states and supervisory authorities alike.

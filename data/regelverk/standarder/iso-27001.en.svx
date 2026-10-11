@@ -1,0 +1,33 @@
+---
+title: ISO/IEC 27001
+description: International standard for information security management systems (ISMS).
+designation: ISO/IEC 27001:2022
+jurisdiction: Internationell
+status: in-force
+reviewStatus: verified
+issuer: ISO
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+type: standard
+sites:
+  - it
+  - ot
+related: [isms]
+---
+
+## About the standard
+
+ISO/IEC 27001 is the international standard for establishing, implementing, maintaining and continually improving an information security management system (ISMS). The 2022 version covers the updated controls in ISO/IEC 27002.
+
+## What the standard requires
+
+- Establish an information security management system
+- Identify and manage information security risks
+- Apply controls from Annex A based on a statement of applicability
+- Audit and continually improve the system
+
+## Certification
+
+Organisations can be certified against the standard by accredited certification bodies. Certification is voluntary but is often used to demonstrate that requirements in e.g. NIS2 are handled systematically.

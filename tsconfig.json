@@ -3,6 +3,7 @@
 	"compilerOptions": {
 		"strict": true,
 		"checkJs": false,
+		"allowArbitraryExtensions": true,
 		"types": ["$app/types", "node", "./worker-configuration.d.ts"]
 	},
 	"include": ["src", "vite.config.ts", "playwright.config.ts"]

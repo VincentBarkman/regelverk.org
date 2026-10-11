@@ -1,0 +1,31 @@
+---
+title: Govern
+description: Styrningsfunktionen i NIST CSF – ledning, roller och riskstrategi för cybersäkerhetsarbetet.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## Om Govern
+
+Govern-funktionen är ny i CSF 2.0 och lägger grunden för de övriga fem funktionerna. Den behandlar hur organisationen styr cybersäkerhetsarbetet: riskstrategi, roller och ansvar, policyer och uppföljning av leverantörsrisker.
+
+## Nyckelområden
+
+- Etablera och kommunicera en riskhanteringsstrategi
+- Tilldela roller och ansvar i ledningen
+- Utveckla och underhålla policyer
+- Integrera cybersäkerhet i leverantörs- och ekosystemrisker

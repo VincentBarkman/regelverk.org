@@ -1,0 +1,44 @@
+---
+title: Systematic work environment management
+description: How systematic work environment management is structured under the AFS regulations.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Systematic work environment management (SAM) is the Swedish Work Environment Authority's model for preventing **ill health** and *accidents* at work.
+
+## The four steps
+
+- Investigate working conditions
+- Assess what can go wrong
+- Remedy the risks
+- Check that the measures work
+
+## What is included
+
+1. Physical and organisational risks
+2. Social conditions at the workplace
+3. Follow-up and annual review
+
+### Safety rounds
+
+> Safety rounds are a concrete tool for step one, the investigation.
+
+| Regulation | Area |
+| ---------- | ---- |
+| AFS 2023:1 | Systematic work environment management |
+| AFS 2023:2 | Work environment plan and contractors |
+
+```sh
+search "AFS 2023" --scope arbetsmiljo
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

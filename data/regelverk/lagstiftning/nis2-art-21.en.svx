@@ -1,0 +1,31 @@
+---
+source: nis2
+ref: Article 21
+title: Cybersecurity risk management measures
+kind: article
+description: Requirement to take appropriate and proportionate technical and organisational measures.
+designation: NIS2 art. 21
+jurisdiction: EU
+status: in-force
+reviewStatus: verified
+issuer: EU
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+---
+
+## Contents
+
+Article 21 sets out the risk management measures that essential and important entities must take. The measures shall be technical, operational and organisational and cover at least:
+
+1. Policies on risk analysis and information system security
+2. Incident handling
+3. Business continuity, such as backup management and crisis management
+4. Supply chain security
+5. Security in acquisition, development and maintenance of systems
+6. Assessment of the effectiveness of risk management measures
+7. Basic cyber hygiene practices and training
+8. Cryptographic measures and encryption
+
+The article is one of the directive's most significant and forms the basis of the national requirements in member states.

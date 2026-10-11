@@ -1,0 +1,28 @@
+---
+name: Arbetsmiljöverket
+short: AV
+kind: national-authority
+description: Central myndighet för arbetsmiljö och arbetstid som utfärdar AFS-föreskrifterna.
+url: https://www.av.se
+logo: /logos/arbetsmiljoverket.svg
+sites: [arbetsmiljo]
+designation: AV
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om Arbetsmiljöverket
+
+Arbetsmiljöverket är central förvaltningsmyndighet för arbetsmiljö och arbetstid. Myndigheten utfärdar Arbetsmiljöverkets föreskrifter (AFS) och utövar tillsyn över att arbetsmiljölagen och arbetstidslagen följs.
+
+## Regelverk
+
+- Arbetsmiljölagen (1977:1160)
+- AFS 2023:1 – systematiskt arbetsmiljöarbete
+- AFS 2023:2 – arbetsmiljöplan och entreprenörer

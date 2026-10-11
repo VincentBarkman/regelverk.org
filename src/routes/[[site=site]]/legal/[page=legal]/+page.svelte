@@ -1,11 +1,12 @@
 <script lang="ts">
-	import { dev } from '$app/env';
-	import { resolve } from '$app/paths';
 	import { getLocale } from '#lib/paraglide/runtime.js';
+	import { extractHeadings } from '#lib/headings.js';
 	import { LEGAL_LABEL, ARTICLE_PROSE, type LegalSlug } from '#lib/meta.js';
-	import { SITES, siteFavicon, siteHost } from '#lib/sites.js';
+	import { siteFavicon, siteHost } from '#lib/sites.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
+	import PageHeader from '#lib/components/pageHeader.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
+	import LegalNav from '#lib/components/legalNav.svelte';
 	import type { Component } from 'svelte';
 	import type { PageProps } from './$types';
 
@@ -14,24 +15,28 @@
 		eager: true
 	}) as Record<string, Component>;
 
+	const LEGAL_RAW = import.meta.glob('/src/lib/legal/*.svx', {
+		query: '?raw',
+		import: 'default',
+		eager: true
+	}) as Record<string, string>;
+
 	let { data }: PageProps = $props();
 
 	const slug = $derived(data.slug as LegalSlug);
 	const scope = $derived(data.scope);
-	const site = $derived(SITES[scope]);
 	const host = $derived(siteHost(scope));
 	const title = $derived(LEGAL_LABEL[slug]());
-	const Article = $derived(
-		ARTICLES[`/src/lib/legal/${slug}.${getLocale()}.svx`] ??
-			ARTICLES[`/src/lib/legal/${slug}.sv.svx`]
+	const articlePath = $derived(
+		`/src/lib/legal/${slug}.${getLocale()}.svx` in ARTICLES
+			? `/src/lib/legal/${slug}.${getLocale()}.svx`
+			: `/src/lib/legal/${slug}.sv.svx`
 	);
+	const Article = $derived(ARTICLES[articlePath]);
+	const tocItems = $derived(extractHeadings(LEGAL_RAW[articlePath] ?? ''));
 
 	let articleEl = $state<HTMLElement>();
 </script>
-
-{#snippet wordmark()}
-	{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span>.regelverk.org{:else}regelverk.org{/if}
-{/snippet}
 
 <svelte:head>
 	<title>{title} · {host}</title>
@@ -39,31 +44,17 @@
 	<link rel="canonical" href="https://{host}/legal/{slug}" />
 </svelte:head>
 
-<div class="min-h-svh bg-amber-5 flex flex-col">
-	<main class="flex-1 w-full max-w-2xl mx-auto px-4 pt-10 pb-10 relative">
-		<header
-			class="sticky top-0 z-10 -mx-4 px-4 pt-2 pb-3 mb-5 bg-amber-5/80 backdrop-blur-sm"
-		>
-			{#if dev}
-				<a
-					href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
-					aria-label={host}
-					class="font-serif text-2xl font-medium">{@render wordmark()}</a
-				>
-			{:else}
-				<a href="https://{host}" rel="external" aria-label={host} class="font-serif text-2xl font-medium"
-					>{@render wordmark()}</a
-				>
-			{/if}
-		</header>
-
+<div class="bg-amber-5 flex min-h-svh flex-col">
+	<PageHeader {scope} />
+	<main class="relative mx-auto w-full max-w-3xl flex-1 px-4 pt-6 pb-14">
+		<LegalNav {scope} current={slug} />
 		<article bind:this={articleEl} class={ARTICLE_PROSE}>
 			<h1>{title}</h1>
 			<Article />
 		</article>
 
-		<ArticleToc article={articleEl} content={Article} />
+		<ArticleToc article={articleEl} content={Article} items={tocItems} />
 	</main>
 
-	<SiteFooter {scope} />
+	<SiteFooter {scope} wide />
 </div>

@@ -1,0 +1,30 @@
+---
+name: Myndigheten för samhällsskydd och beredskap
+short: MSB
+kind: national-authority
+description: Tidigare ansvarig myndighet för samhällsskydd, beredskap och cybersäkerhetstillsyn. Efterföljd av Myndigheten för civilt försvar (MCF).
+url: https://www.msb.se
+logo: /logos/msb.svg
+sites:
+  - ot
+  - it
+  - brandskydd
+designation: MSB
+jurisdiction: Sverige
+status: inactive
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+related: [mcf]
+---
+
+## Om MSB
+
+MSB var fram till sin avveckling ansvarig myndighet för samhällsskydd, beredskap och cybersäkerhetstillsyn i Sverige. Myndigheten utfärdade bland annat föreskrifter om informationssäkerhet och ledde arbetet med den svenska NIS2-implementeringen.
+
+## Efterträdare
+
+Verksamheten har övertagits av Myndigheten för civilt försvar (MCF), som nu utövar tillsyn och samordning inom området.

@@ -1,0 +1,30 @@
+---
+name: Stöldskyddsföreningen
+short: SSF
+kind: association
+description: Swedish industry association issuing norms for burglary protection and alarm systems (SSF norms).
+url: https://www.stoldskyddsforeningen.se
+logo: /logos/ssf.png
+aliases:
+  - SSF
+  - Stöldskyddsföreningen
+sites: [fysisk]
+designation: SSF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About SSF
+
+Stöldskyddsföreningen (the Swedish Theft Prevention Association) is an industry association issuing norms for burglary protection and alarm systems. The SSF norms, such as SSF 200 on alarm classes, are used by insurers as policy conditions and by the industry as a common standard.
+
+## Norms
+
+- SSF 200 – intrusion and alarm systems, alarm classes
+- SSF 130 – burglary protection for shops

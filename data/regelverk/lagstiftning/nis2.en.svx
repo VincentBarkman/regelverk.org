@@ -1,0 +1,29 @@
+---
+name: NIS2 Directive
+title: Directive (EU) 2022/2555 of the European Parliament and of the Council
+type: eu-directive
+description: EU directive on measures for a high common level of cybersecurity across the Union.
+designation: EU 2022/2555
+jurisdiction: EU
+issuer: EU
+status: in-force
+reviewStatus: verified
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+---
+
+## Scope
+
+The directive applies to essential and important entities in sectors including energy, transport, health, digital infrastructure and public administration. Which entities are covered is determined by size and sector.
+
+## Key requirements
+
+- **Risk management measures** under Article 21 – organisations must take appropriate and proportionate technical, operational and organisational measures.
+- **Incident reporting** under Article 23 – significant incidents are reported to the competent authority within set deadlines.
+- **Management responsibility** – management must approve and follow up on the risk management measures.
+
+## Swedish implementation
+
+The directive has been transposed into Swedish law through the Cybersecurity Act (2025:150), which entered into force on 15 January 2025. Supervision is divided among several sectoral authorities with the Swedish Civil Defence and Resilience Agency as coordinating authority.

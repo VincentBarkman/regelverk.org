@@ -1,0 +1,18 @@
+---
+title: Om
+description: Om regelverk.org och hur databasen är uppbyggd.
+status: active
+reviewStatus: granskad
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+---
+
+regelverk.org är en öppen databas som samlar regelverk för olika områden på ett ställe, med tydliga källor, krav och vägledningar.
+
+Databasen är uppbyggd kring strukturerade poster – lagstiftning, standarder, ramverk, myndigheter, krav, ledningssystem och branscher – med metadata om status, utfärdare, jurisdiktion och senaste granskning. Varje område har en egen sajt, till exempel ot.regelverk.org för OT-säkerhet och brandskydd.regelverk.org för brandskydd.
+
+regelverk.org skapas och underhålls av [Vincent Barkman](https://vincentbarkman.com). Källkoden är öppen under AGPL-3.0 och finns på [GitHub](https://github.com/VincentBarkman/regelverk.org), där du gärna får öppna ett ärende om du hittar något fel eller saknar ett regelverk.

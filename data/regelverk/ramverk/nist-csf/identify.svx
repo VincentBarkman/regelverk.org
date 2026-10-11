@@ -1,0 +1,31 @@
+---
+title: Identify
+description: Identifieringsfunktionen i NIST CSF – kartlägg tillgångar, risker och beroenden.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## Om Identify
+
+Identify handlar om att förstå organisationens tillgångar och risker. Utan en aktuell bild av system, data och beroenden går det inte att prioritera skyddsåtgärder.
+
+## Nyckelområden
+
+- Inventera fysiska och digitala tillgångar
+- Identifiera sårbarheter och hotbilder
+- Bedöm konsekvens och sannolikhet
+- Dokumentera dataflöden och externa beroenden

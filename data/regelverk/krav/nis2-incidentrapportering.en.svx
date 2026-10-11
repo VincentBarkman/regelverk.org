@@ -1,0 +1,29 @@
+---
+provision: nis2-art-21
+title: Reporting of significant incidents
+deadline: 24h-early-warning
+obligatory: true
+description: Significant incidents must be reported to the competent authority within specified deadlines.
+designation: NIS2 art. 23
+jurisdiction: EU
+status: in-force
+reviewStatus: verified
+issuer: EU
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+related: [msb]
+---
+
+## Reporting deadlines
+
+Significant incidents are reported to the competent authority following a three-stage model:
+
+- **24 hours** – early warning without undue delay after the entity becomes aware of the incident
+- **72 hours** – incident notification with an assessment of severity, impact and indicators of compromise
+- **1 month** – final report with a detailed description, threat type, measures taken and ongoing recovery work
+
+## What is a significant incident?
+
+An incident is significant if it has caused or could cause severe operational disruption or financial loss, or if it has affected or could affect other natural or legal persons through considerable material or non-material damage.

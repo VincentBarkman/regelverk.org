@@ -1,0 +1,45 @@
+---
+title: Elsäkerhetens grunder
+description: Grundläggande krav på elanläggningar och elarbete.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Elsäkerhet bygger på lagen om elsäkerhet och Elsäkerhetsverkets föreskrifter **ELSÄK-FS**. Målet är att förhindra *personskador* och bränder orsakade av el.
+
+## Centrala begrepp
+
+- Starkström och spänningsområden
+- Behörighet och egenkontroll
+- Arbete utan spänning som grundregel
+- Skyddsordning och arbetsmetoder
+
+## Arbete på eller nära elanläggning
+
+1. Skilj anläggningen från spänning
+2. Säkra mot återinkoppling
+3. Kontrollera spänningslöshet
+4. Jorda och kortslut vid behov
+
+### Behörighet
+
+> Endast den som har kunskap och anvisats arbete får utföra elarbete.
+
+| Föreskrift | Område |
+| ---------- | ------ |
+| ELSÄK-FS | Elsäkerhet generellt |
+| SS-EN 50110 | Drift av elanläggningar |
+
+```sh
+sök "ELSÄK-FS" --scope el
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

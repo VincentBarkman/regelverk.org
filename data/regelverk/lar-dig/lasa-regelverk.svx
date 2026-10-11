@@ -1,0 +1,48 @@
+---
+title: Så läser du ett regelverk
+description: En introduktion till hur källor, krav och vägledningar hänger ihop i databasen.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Så här läser du ett regelverk. Varje post i databasen samlar **källor**, *krav* och [vägledning](https://regelverk.org) på samma ställe.
+
+## Struktur
+
+Ett regelverk består av flera lager som hänger ihop:
+
+- Källa, till exempel en lag eller standard
+- Versioner av källan över tid
+- Bestämmelser och enskilda krav
+- Vägledningar om hur kraven tillämpas
+
+## Så här hittar du rätt
+
+1. Sök på beteckning, till exempel `AFS 2023:1`
+2. Filtrera per område via undersidorna
+3. Följ relationerna mellan krav och källa
+
+### Tips
+
+> Börja alltid i källan. Sekundärmaterial hjälper dig att tolka, men det är lydelsen i källan som gäller. EU-lagstiftning läser du i original på [EUR-Lex](https://eur-lex.europa.eu) och svensk på [svensk författningssamling](https://svenskforfattningssamling.se).
+
+Vanliga förkortningar samlas i registret under `acronyms.yaml`.
+
+| Fält | Betydelse |
+| ---- | --------- |
+| Källa | Var kravet kommer ifrån |
+| Krav | Vad som måste uppfyllas |
+
+```sh
+sök "ATEX" --scope regelverk
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

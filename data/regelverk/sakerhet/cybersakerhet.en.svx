@@ -1,0 +1,22 @@
+---
+name: Cybersecurity
+related: [nis2, iec-62443]
+description: Subject area collecting regulations on the protection of network and information systems.
+reviewStatus: verified
+lastReviewed: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the subject
+
+Cybersecurity covers the protection of networks, information systems and data against intrusion, disruption and unauthorised access. In the regulatory domain it is primarily the NIS2 directive and the Swedish Cybersecurity Act that set requirements.
+
+## Related regulations
+
+- The NIS2 directive and the Cybersecurity Act (2025:150)
+- ISO/IEC 27001 and the IEC 62443 framework for industrial systems
+- SSF standards within physical security
+
+## Common requirement areas
+
+Identity and access management, encryption, incident handling, continuity planning and supply chain security.

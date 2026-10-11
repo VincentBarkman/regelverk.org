@@ -1,0 +1,14 @@
+---
+title: Metodik
+description: Hur poster granskas, klassificeras och hålls aktuella.
+status: active
+reviewStatus: granskad
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+---
+
+Varje post granskas mot sin källa innan den publiceras. Granskningsstatus, granskningsdatum och licensklass anges i postens metadata.

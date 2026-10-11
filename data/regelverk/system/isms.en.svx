@@ -1,0 +1,34 @@
+---
+title: Information security management system
+description: Management system for systematic handling of information security risks (ISMS).
+designation: ISMS
+jurisdiction: Internationell
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: system
+sites:
+  - it
+  - ot
+related: [iso-27001]
+---
+
+## What is an ISMS?
+
+An information security management system (ISMS) is the framework of policies, processes and controls an organisation uses to manage information security risks systematically.
+
+## Key parts
+
+- **Risk assessment** – identify and evaluate risks to information assets
+- **Risk treatment** – select measures and controls
+- **Policies and instructions** – document the organisation's way of working
+- **Audit and monitoring** – verify that the system works
+- **Improvement** – continually address deviations
+
+## Connection to regulations
+
+ISO/IEC 27001 is the international standard for ISMS. Certification against it is a common way to demonstrate that requirements in e.g. NIS2 and the Cybersecurity Act are handled systematically.

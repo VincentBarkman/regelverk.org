@@ -1,12 +1,14 @@
 export const ENTITIES = [
-	'sources',
-	'source-versions',
-	'provisions',
-	'requirements',
-	'authorities',
-	'topics',
-	'relations',
-	'guides'
+	'lagstiftning',
+	'standarder',
+	'ramverk',
+	'myndigheter',
+	'system',
+	'krav',
+	'implementera',
+	'sakerhet',
+	'branscher',
+	'lar-dig'
 ] as const;
 
 export type Entity = (typeof ENTITIES)[number];

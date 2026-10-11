@@ -1,0 +1,36 @@
+---
+title: IEC 62443
+description: Serien standarder för cybersäkerhet i industriella automationssystem och OT-miljöer.
+designation: IEC 62443
+jurisdiction: Internationell
+status: in-force
+reviewStatus: verified
+issuer: IEC
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+type: standard
+sites:
+  - ot
+---
+
+## Om serien
+
+IEC 62443 är den internationella standardserien för säkerhet i industriella automationssystem (IACS). Den används i OT-miljöer där tillgänglighet och personsäkerhet prioriteras framför konfidentialitet.
+
+## Delar i serien
+
+- **IEC 62443-1-x** – begrepp, modeller och terminologi
+- **IEC 62443-2-x** – policyer och hantering för anläggningsägare
+- **IEC 62443-3-x** – systemkrav och säkerhetsnivåer (SL 1–4)
+- **IEC 62443-4-x** – produktkrav för komponenter och utvecklingsprocesser
+
+## Säkerhetsnivåer
+
+| Nivå | Skydd mot |
+| ---- | --------- |
+| SL 1 | Tillfälliga eller oavsiktliga intrång |
+| SL 2 | Enkla avsiktliga attacker |
+| SL 3 | Avancerade attacker med begränsade resurser |
+| SL 4 | Avancerade attacker med omfattande resurser |

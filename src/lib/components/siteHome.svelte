@@ -11,6 +11,7 @@
 	import * as m from '#lib/paraglide/messages.js';
 	import { getLocale } from '#lib/paraglide/runtime.js';
 	import RiArrowRightSLine from 'remixicon-svelte/icons/arrow-right-s-line';
+	import { fitText } from '#lib/fitText.js';
 
 	let { scope }: { scope: SiteScope } = $props();
 
@@ -29,7 +30,8 @@
 </script>
 
 {#snippet wordmark()}
-	{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span>.regelverk.org{:else}regelverk.org{/if}
+	{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span
+		>.regelverk.org{:else}regelverk.org{/if}
 {/snippet}
 
 <svelte:head>
@@ -45,15 +47,19 @@
 	<meta property="og:locale" content={getLocale() === 'sv' ? 'sv_SE' : 'en_US'} />
 </svelte:head>
 
-<div class="min-h-svh bg-amber-5 flex flex-col">
-	<main class="flex-1 flex flex-col items-center px-4">
-		<header class="min-h-[35svh] sm:min-h-[50svh] w-full flex flex-col items-center justify-end gap-4 pb-3">
-			<h1 class="font-serif text-4xl md:text-5xl font-medium select-none text-center">
+<div class="bg-amber-5 flex min-h-svh flex-col">
+	<main class="flex flex-1 flex-col items-center px-4">
+		<header
+			class="@container flex min-h-[35svh] w-full flex-col items-center justify-end gap-4 pb-3 sm:min-h-[50svh]"
+		>
+			<h1
+				use:fitText
+				class="text-center font-serif text-[min(3rem,6.5cqw)] font-medium whitespace-nowrap select-none"
+			>
 				{#if dev}
 					<a
 						href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
-						aria-label={siteHost(scope)}
-						>{@render wordmark()}</a
+						aria-label={siteHost(scope)}>{@render wordmark()}</a
 					>
 				{:else}
 					<a href={`https://${siteHost(scope)}`} rel="external" aria-label={siteHost(scope)}
@@ -65,10 +71,10 @@
 			<SearchBar inputId="global-search-input" typingPhrases={TYPING_PHRASES[scope]} />
 		</header>
 
-		<div class="w-full max-w-2xl flex flex-col gap-4 pb-6">
+		<div class="flex w-full max-w-2xl flex-col gap-4 pb-6">
 			<nav aria-labelledby="explore-heading" class="flex flex-col gap-2">
 				<h2 id="explore-heading" class="text-xs font-medium text-primary/70">{m.ui_explore()}</h2>
-				<ul class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+				<ul class="grid grid-cols-2 gap-2 sm:grid-cols-3">
 					{#each sectorScopes as s (s)}
 						<li>
 							{#if dev}

@@ -1,0 +1,22 @@
+---
+name: Cybersäkerhet
+related: [nis2, iec-62443]
+description: Ämnesområde som samlar regelverk om skydd av nätverks- och informationssystem.
+reviewStatus: verified
+lastReviewed: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om ämnet
+
+Cybersäkerhet omfattar skydd av nätverk, informationssystem och data mot intrång, störningar och obehörig åtkomst. Inom regelverksområdet är det framför allt NIS2-direktivet och den svenska cybersäkerhetslagen som ställer krav.
+
+## Relaterade regelverk
+
+- NIS2-direktivet och cybersäkerhetslagen (2025:150)
+- ISO/IEC 27001 och ramverket IEC 62443 för industriella system
+- SSF-standarder inom fysisk säkerhet
+
+## Vanliga kravområden
+
+Identitets- och behörighetshantering, kryptering, incidenthantering, kontinuitetsplanering och säkerhet i leverantörsledet.

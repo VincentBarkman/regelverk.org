@@ -1,0 +1,27 @@
+---
+name: Elsäkerhetsverket
+short: ELSÄK
+kind: national-authority
+description: Myndighet som utfärdar elsäkerhetsföreskrifter och utövar tillsyn över elanläggningar och elarbete.
+url: https://www.elsakerhetsverket.se
+logo: /logos/elsakerhetsverket.svg
+sites: [el]
+designation: ELSÄK
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om Elsäkerhetsverket
+
+Elsäkerhetsverket ansvarar för elsäkerhetsregleringen i Sverige. Myndigheten utfärdar föreskrifterna i serien ELSÄK-FS och utövar tillsyn över elanläggningar, elprodukter och elarbete.
+
+## Regelverk
+
+- Elsäkerhetslagen (2016:732)
+- ELSÄK-FS – Elsäkerhetsverkets föreskrifter

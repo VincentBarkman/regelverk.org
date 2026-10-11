@@ -1,0 +1,29 @@
+---
+name: Förenta nationerna
+short: FN
+kind: international-org
+description: Internationell organisation för mellanstatligt samarbete som antar konventioner och globala ramverk.
+url: https://un.org
+logo: /flags/un.svg
+aliases:
+  - FN
+  - UN
+  - United Nations
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: FN
+jurisdiction: Internationell
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om FN
+
+Förenta nationerna är en mellanstatlig organisation grundad 1945. Genom sina organ och fackorgan antar FN konventioner, rekommendationer och tekniska regelverk som medlemsstaterna införlivar nationellt.
+
+## Roll i regelverkslandskapet
+
+FN:s konventioner och modellregler ligger till grund för internationella och nationella regelverk, bland annat inom transport av farligt gods, mänskliga rättigheter och global harmonisering av kemikalieregler (GHS).

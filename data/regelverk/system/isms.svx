@@ -1,0 +1,34 @@
+---
+title: Informationssäkerhetsledningssystem
+description: Ledningssystem för systematisk hantering av informationssäkerhetsrisker (ISMS).
+designation: ISMS
+jurisdiction: Internationell
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: system
+sites:
+  - it
+  - ot
+related: [iso-27001]
+---
+
+## Vad är ett ISMS?
+
+Ett informationssäkerhetsledningssystem (ISMS) är det ramverk av policyer, processer och kontroller en organisation använder för att hantera informationssäkerhetsrisker systematiskt.
+
+## Centrala delar
+
+- **Riskbedömning** – identifiera och värdera risker mot informationstillgångar
+- **Riskbehandling** – välja åtgärder och kontroller
+- **Policyer och instruktioner** – dokumentera organisationens arbetssätt
+- **Revision och uppföljning** – kontrollera att systemet fungerar
+- **Förbättring** – löpande åtgärda avvikelser
+
+## Koppling till regelverk
+
+ISO/IEC 27001 är den internationella standarden för ISMS. Certifiering mot standarden är ett vanligt sätt att visa att krav i exempelvis NIS2 och cybersäkerhetslagen hanteras systematiskt.

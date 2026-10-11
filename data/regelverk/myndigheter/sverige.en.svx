@@ -1,0 +1,28 @@
+---
+name: Sweden
+short: SE
+kind: state
+description: Swedish jurisdiction – acts, ordinances and agency regulations that apply in Sweden.
+url: https://www.regeringen.se
+logo: /flags/sweden.svg
+aliases:
+  - Sverige
+  - SE
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: SE
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About Swedish law
+
+Swedish legislation consists of acts adopted by the Riksdag, ordinances decided by the Government, and regulations issued by agencies under delegated authority, such as Elsäkerhetsverket, Arbetsmiljöverket and MSB.
+
+## Role in the regulatory landscape
+
+Swedish regulations are often transpositions of EU law or international conventions. Agencies issue binding regulations (for example ELSÄK-FS, AFS and MSBFS) as well as general guidelines.

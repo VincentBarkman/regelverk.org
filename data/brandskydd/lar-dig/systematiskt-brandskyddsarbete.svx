@@ -1,0 +1,45 @@
+---
+title: Systematiskt brandskyddsarbete
+description: Ramen för löpande brandskyddsarbete enligt lagen om skydd mot olyckor.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Systematiskt brandskyddsarbete (SBA) är den löpande processen för att hålla **brandskyddet** levande i en verksamhet, inte bara ett dokument i en pärm.
+
+## Delar i arbetet
+
+- Riskbedömning av brandfarliga moment
+- Rutiner för underhåll av brandskydd
+- Utbildning och övning av personal
+- Dokumentation och uppföljning
+
+## Dokumentationen ska innehålla
+
+1. Beskrivning av verksamheten
+2. Brandceller och utrymningsvägar
+3. Kontrollpunkter och intervaller
+4. Ansvarsfördelning
+
+### Utrymning
+
+> Utrymningsvägar ska hållas fria och skyltade hela tiden, inte bara vid inspektion.
+
+| Kontroll | Intervall |
+| -------- | ----------- |
+| Utrymningsvägar | Löpande |
+| Brandlarm | Enligt tillverkaren |
+
+```sh
+sök "SBA" --scope brandskydd
+```
+
+---
+
+Exemplet visar typografin för rubriker, listor, tabeller och kod.

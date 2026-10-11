@@ -1,0 +1,31 @@
+---
+title: Protect
+description: The protection function in NIST CSF – measures that reduce the likelihood and impact of incidents.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## About Protect
+
+Protect collects the measures intended to prevent incidents or limit their scope: access control, training, data security, and platform and infrastructure protection.
+
+## Key areas
+
+- Identity and access management (MFA, least privilege)
+- Awareness and training
+- Data security and encryption
+- Protection of platforms and networks

@@ -1,0 +1,30 @@
+---
+name: Stöldskyddsföreningen
+short: SSF
+kind: association
+description: Svensk branschorganisation som utfärdar normer för inbrotts- och larmanläggningar (SSF-normer).
+url: https://www.stoldskyddsforeningen.se
+logo: /logos/ssf.png
+aliases:
+  - SSF
+  - Stöldskyddsföreningen
+sites: [fysisk]
+designation: SSF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om SSF
+
+Stöldskyddsföreningen är en svensk branschorganisation som utfärdar normer för stöldskydd och larmanläggningar. SSF-normerna, till exempel SSF 200 om larmklasser, används av försäkringsbolag som villkor och av branschen som gemensam standard.
+
+## Normer
+
+- SSF 200 – inbrotts- och larmanläggningar, larmklasser
+- SSF 130 – inbrottsskydd för butiker

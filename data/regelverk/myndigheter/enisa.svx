@@ -1,0 +1,28 @@
+---
+name: Europeiska unionens cybersäkerhetsbyrå
+short: ENISA
+kind: eu-agency
+description: EU:s byrå för cybersäkerhet som stödjer genomförandet av NIS2 och publicerar vägledningar.
+url: https://www.enisa.europa.eu
+logo: /logos/enisa.svg
+aliases:
+  - ENISA
+sites: [it, ot]
+designation: ENISA
+jurisdiction: EU
+status: active
+reviewStatus: verified
+issuer: EU
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om ENISA
+
+ENISA är Europeiska unionens byrå för cybersäkerhet. Byrån stödjer medlemsstaterna i genomförandet av NIS2, publicerar vägledningar och samordnar europeiska cybersäkerhetscertifieringsramverk.
+
+## Roll i regelverkslandskapet
+
+ENISA utfärdar inte bindande föreskrifter men dess vägledningar och tekniska riktlinjer används som referens av både medlemsstater och tillsynsmyndigheter.

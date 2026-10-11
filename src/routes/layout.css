@@ -1,7 +1,7 @@
 @import 'tailwindcss';
-@import "tw-animate-css";
-@import "shadcn-svelte/tailwind.css";
-@import "@fontsource-variable/inter";
+@import 'tw-animate-css';
+@import 'shadcn-svelte/tailwind.css';
+@import '@fontsource-variable/inter';
 
 @custom-variant dark (&:is(.dark *));
 @plugin '@tailwindcss/forms';
@@ -132,4 +132,9 @@
 	[role='button']:not([aria-disabled='true']) {
 		cursor: pointer;
 	}
+}
+
+.prose {
+	--tw-prose-th-borders: color-mix(in oklab, var(--color-primary) 15%, transparent);
+	--tw-prose-td-borders: color-mix(in oklab, var(--color-primary) 10%, transparent);
 }

@@ -1,0 +1,48 @@
+---
+title: How to read a regulation
+description: An introduction to how sources, requirements and guidance fit together in the database.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+This is how you read a regulation. Every record in the database collects **sources**, *requirements* and [guidance](https://regelverk.org) in one place.
+
+## Structure
+
+A regulation consists of several connected layers:
+
+- Source, such as a law or a standard
+- Versions of the source over time
+- Provisions and individual requirements
+- Guidance on how the requirements are applied
+
+## How to find the right one
+
+1. Search by designation, e.g. `AFS 2023:1`
+2. Filter by area via the sub-sites
+3. Follow the relations between requirements and sources
+
+### Tips
+
+> Always start at the source. Secondary material helps you interpret, but the wording of the source is what counts. Read EU legislation at [EUR-Lex](https://eur-lex.europa.eu) and Swedish statutes in [svensk författningssamling](https://svenskforfattningssamling.se).
+
+Common abbreviations are collected in the registry under `acronyms.yaml`.
+
+| Field | Meaning |
+| ----- | ------- |
+| Source | Where the requirement comes from |
+| Requirement | What must be fulfilled |
+
+```sh
+search "ATEX" --scope regelverk
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

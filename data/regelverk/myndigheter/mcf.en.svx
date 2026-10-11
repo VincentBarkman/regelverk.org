@@ -1,0 +1,31 @@
+---
+name: Swedish Civil Defence and Resilience Agency
+short: MCF
+kind: national-authority
+description: Authority responsible for civil defence, societal protection and preparedness.
+url: https://www.msb.se
+logo: /logos/mcf.png
+aliases:
+  - Myndigheten för civilt försvar
+  - MCF
+designation: MCF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+related: [msb]
+---
+
+## About MCF
+
+Myndigheten för civilt försvar (MCF) took over responsibility for civil defence, societal protection and preparedness from MSB. MCF is the coordinating authority for cybersecurity supervision under the Cybersecurity Act (2025:150).
+
+## Tasks
+
+- Supervision of entities covered by NIS2
+- Support to municipalities and regions in crisis preparedness
+- Training and support within civil defence

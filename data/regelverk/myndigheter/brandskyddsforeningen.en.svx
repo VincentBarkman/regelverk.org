@@ -1,0 +1,29 @@
+---
+name: Brandskyddsföreningen
+short: BSF
+kind: association
+description: Swedish association developing knowledge, training and guidance in fire safety.
+url: https://www.brandskyddsforeningen.se
+logo: /logos/brandskyddsforeningen.svg
+aliases:
+  - Brandskyddsföreningen
+  - BSF
+sites: [brandskydd]
+designation: BSF
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: regelverk.org
+legalStatus: organisation
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About Brandskyddsföreningen
+
+Brandskyddsföreningen (the Swedish Fire Protection Association) is a member organisation working for a fire-safe Sweden. It publishes guidance, runs training, and drives the development of methods for systematic fire safety work.
+
+## Connection to regulations
+
+The association's guidance complements the binding requirements in the Act on Protection against Accidents and Boverket's regulations.

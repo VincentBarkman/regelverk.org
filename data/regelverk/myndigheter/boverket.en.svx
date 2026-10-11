@@ -1,0 +1,28 @@
+---
+name: Boverket
+short: BOV
+kind: national-authority
+description: Central authority for planning, building and housing matters and building standards.
+url: https://www.boverket.se
+logo: /logos/boverket.svg
+sites: [brandskydd, fysisk, arbetsmiljo]
+designation: BOV
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About Boverket
+
+Boverket is the central government agency for planning and building matters, housing and building standards. Among other things it issues Boverket's building regulations (BBR) and the regulations on mandatory ventilation inspection (OVK).
+
+## Regulations
+
+- The Planning and Building Act (2010:900)
+- Boverket's building regulations (BFS 2011:6)
+- Boverket's regulations on energy performance

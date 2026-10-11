@@ -1,0 +1,31 @@
+---
+title: Govern
+description: The governance function in NIST CSF – leadership, roles and risk strategy for cybersecurity work.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## About Govern
+
+The Govern function is new in CSF 2.0 and underpins the other five functions. It covers how the organisation directs cybersecurity work: risk strategy, roles and responsibilities, policies, and oversight of supplier risks.
+
+## Key areas
+
+- Establish and communicate a risk management strategy
+- Assign roles and responsibilities in management
+- Develop and maintain policies
+- Integrate cybersecurity into supplier and ecosystem risks

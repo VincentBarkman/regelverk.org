@@ -1,0 +1,27 @@
+---
+name: National Electrical Safety Board
+short: ELSÄK
+kind: national-authority
+description: Authority issuing electrical safety regulations and supervising electrical installations and electrical work.
+url: https://www.elsakerhetsverket.se
+logo: /logos/elsakerhetsverket.svg
+sites: [el]
+designation: ELSÄK
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the board
+
+The National Electrical Safety Board (Elsäkerhetsverket) is responsible for electrical safety regulation in Sweden. It issues the ELSÄK-FS regulation series and supervises electrical installations, electrical products and electrical work.
+
+## Regulations
+
+- The Electrical Safety Act (2016:732)
+- ELSÄK-FS – the board's regulations

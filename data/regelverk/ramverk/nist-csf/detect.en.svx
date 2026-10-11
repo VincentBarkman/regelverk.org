@@ -1,0 +1,31 @@
+---
+title: Detect
+description: The detection function in NIST CSF – continuous monitoring and analysis of cybersecurity events.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## About Detect
+
+Detect is about discovering anomalies and indicators of compromise in time. The function covers continuous monitoring, logging and analysis of events.
+
+## Key areas
+
+- Monitor networks, systems and user activity
+- Collect and analyse logs
+- Trigger alerts on anomalies
+- Test that detection capability works

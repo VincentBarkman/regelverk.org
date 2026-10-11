@@ -1,0 +1,31 @@
+---
+source: nis2
+ref: Artikel 21
+title: Riskhanteringsåtgärder för cybersäkerhet
+kind: article
+description: Krav på lämpliga och proportionerliga tekniska och organisatoriska åtgärder.
+designation: NIS2 art. 21
+jurisdiction: EU
+status: in-force
+reviewStatus: verified
+issuer: EU
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+---
+
+## Innehåll
+
+Artikel 21 fastställer de riskhanteringsåtgärder som väsentliga och viktiga enheter ska vidta. Åtgärderna ska vara tekniska, operativa och organisatoriska och omfatta minst:
+
+1. Policyer för riskanalys och informationssystemsäkerhet
+2. Incidenthantering
+3. Kontinuitetshantering, till exempel backuphantering och krisledning
+4. Säkerhet i leverantörsledet
+5. Säkerhet vid anskaffning, utveckling och underhåll av system
+6. Utvärdering av riskhanteringsåtgärdernas effektivitet
+7. Grundläggande cybersäkerhetspraxis och utbildning
+8. Kryptografiska åtgärder och kryptering
+
+Artikeln är en av direktivets mest betydelsefulla och utgör grunden för de nationella kraven i medlemsstaterna.

@@ -1,0 +1,29 @@
+---
+provision: nis2-art-21
+title: Rapportering av betydande incidenter
+deadline: 24h-early-warning
+obligatory: true
+description: Betydande incidenter ska rapporteras till behörig myndighet inom angivna tidsfrister.
+designation: NIS2 art. 23
+jurisdiction: EU
+status: in-force
+reviewStatus: verified
+issuer: EU
+legalStatus: binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: official-text
+related: [msb]
+---
+
+## Rapporteringstider
+
+Betydande incidenter ska rapporteras till behörig myndighet enligt en trestegsmodell:
+
+- **24 timmar** – förhandsvarning utan onödigt dröjsmål efter att enheten blivit medveten om incidenten
+- **72 timmar** – incidentanmälan med bedömning av incidentens allvarlighetsgrad, påverkan och indikatorer på kompromettering
+- **1 månad** – slutrapport med detaljerad beskrivning, hottyp, åtgärder och pågående återställningsarbete
+
+## Vad är en betydande incident?
+
+En incident är betydande om den orsakat eller kan orsaka allvarlig driftstörning eller ekonomisk förlust, eller om den påverkat eller kan påverka andra fysiska eller juridiska personer genom betydande materiell eller immateriell skada.

@@ -1,0 +1,37 @@
+---
+title: NIST Cybersecurity Framework
+description: Frivilligt ramverk för hantering av cybersäkerhetsrisker från amerikanska NIST.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+sites:
+  - it
+  - ot
+---
+
+## Om ramverket
+
+NIST Cybersecurity Framework (CSF) är ett frivilligt ramverk för att förstå, hantera och kommunicera cybersäkerhetsrisker. Version 2.0 släpptes 2024 och breddade ramen till att gälla organisationer i alla storlekar och sektorer.
+
+## Funktionerna
+
+Ramverket är uppbyggt kring sex funktioner:
+
+1. **[Govern](/ramverk/nist-csf/govern)** – ledning och styrning av cybersäkerhetsarbetet
+2. **[Identify](/ramverk/nist-csf/identify)** – förstå tillgångar och risker
+3. **[Protect](/ramverk/nist-csf/protect)** – skyddsåtgärder och kapacitet
+4. **[Detect](/ramverk/nist-csf/detect)** – upptäckt av incidenter
+5. **[Respond](/ramverk/nist-csf/respond)** – hantering vid inträffad incident
+6. **[Recover](/ramverk/nist-csf/recover)** – återställning efter incident
+
+## Förhållande till EU-reglering
+
+CSF är inte lagstiftning, men många organisationer använder det som struktur för att uppfylla NIS2:s krav på riskhanteringsåtgärder.

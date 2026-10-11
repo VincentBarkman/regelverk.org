@@ -1,0 +1,45 @@
+---
+title: Systematic fire safety work
+description: The framework for ongoing fire safety work under the Act on Protection against Accidents.
+jurisdiction: Sverige
+status: active
+issuer: regelverk.org
+legalStatus: non-binding
+reviewStatus: granskad
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: AGPL-3.0
+---
+
+Systematic fire safety work (SBA) is the ongoing process of keeping **fire safety** alive in an operation – not just a document in a binder.
+
+## Parts of the work
+
+- Risk assessment of fire hazards
+- Routines for maintaining fire protection
+- Training and drills for staff
+- Documentation and follow-up
+
+## The documentation must contain
+
+1. Description of the operation
+2. Fire compartments and escape routes
+3. Control points and intervals
+4. Division of responsibilities
+
+### Evacuation
+
+> Escape routes must be kept clear and signposted at all times, not just during inspections.
+
+| Check | Interval |
+| ----- | -------- |
+| Escape routes | Continuous |
+| Fire alarm | Per manufacturer |
+
+```sh
+search "SBA" --scope brandskydd
+```
+
+---
+
+The example shows the typography for headings, lists, tables and code.

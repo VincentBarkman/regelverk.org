@@ -1,0 +1,31 @@
+---
+title: Recover
+description: The recovery function in NIST CSF – restore operations and learn lessons after an incident.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: verified
+issuer: NIST
+logo: /logos/nist.svg
+legalStatus: non-binding
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+type: framework
+related:
+  - nist-csf
+sites:
+  - it
+  - ot
+---
+
+## About Recover
+
+Recover is about restoring operations and capacity after an incident, communicating the recovery work, and drawing lessons for future improvements.
+
+## Key areas
+
+- Recovery plans and priorities
+- Safe restoration of systems
+- Communication with stakeholders
+- Lessons learned and improvements

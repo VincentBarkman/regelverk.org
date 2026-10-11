@@ -1,0 +1,28 @@
+---
+name: Boverket
+short: BOV
+kind: national-authority
+description: Central myndighet för plan-, bygg- och boendefrågor samt byggstandarder.
+url: https://www.boverket.se
+logo: /logos/boverket.svg
+sites: [brandskydd, fysisk, arbetsmiljo]
+designation: BOV
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Regeringskansliet
+legalStatus: myndighet
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om Boverket
+
+Boverket är central förvaltningsmyndighet för plan- och byggfrågor, boendefrågor och byggstandarder. Myndigheten utfärdar bland annat Boverkets byggregler (BBR) och föreskrifter om obligatorisk ventilationskontroll (OVK).
+
+## Regelverk
+
+- Plan- och bygglagen (2010:900)
+- Boverkets byggregler (BFS 2011:6)
+- Boverkets föreskrifter om energihushållning
