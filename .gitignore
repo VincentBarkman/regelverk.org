@@ -27,6 +27,9 @@ test-results
 src/lib/paraglide
 project.inlang/cache/
 
+# Generated
+src/lib/generated/
+
 # Editor
 .vscode/
 .idea/
