@@ -6,6 +6,7 @@
 	import { parse as parseYaml } from 'yaml';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
 	import NavSheet from '#lib/components/navSheet.svelte';
 	import LegalNav from '#lib/components/legalNav.svelte';
@@ -58,6 +59,12 @@
 	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<link rel="canonical" href="https://{host}/legal/{slug}" />
+	<OgMeta
+		type="article"
+		title="{title} · {host}"
+		description={description ?? title}
+		url="https://{host}/legal/{slug}"
+	/>
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">

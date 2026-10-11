@@ -7,6 +7,7 @@
 	import type { SearchHit } from '#lib/data.js';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import RecordNav from '#lib/components/recordNav.svelte';
 	import NavSheet from '#lib/components/navSheet.svelte';
 	import SearchBar from '#lib/components/searchBar.svelte';
@@ -76,14 +77,17 @@
 	<title>{m.search_label()} · regelverk.org</title>
 	<meta name="description" content={SITE_BLURB.regelverk()} />
 	<meta name="robots" content="noindex" />
+	<OgMeta
+		title="{m.search_label()} · regelverk.org"
+		description={SITE_BLURB.regelverk()}
+		url="https://{host}/search"
+	/>
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
 	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
-		<NavSheet
-			nav={{ groups: data.nav, currentId: '', hrefFor: listHref, pageHref }}
-		/>
+		<NavSheet nav={{ groups: data.nav, currentId: '', hrefFor: listHref, pageHref }} />
 		<RecordNav groups={data.nav} currentId="" hrefFor={listHref} {pageHref} />
 
 		<h1 class="mb-4 font-serif text-3xl font-medium text-primary">

@@ -11,6 +11,7 @@
 	import RecordNav from '#lib/components/recordNav.svelte';
 	import NavSheet from '#lib/components/navSheet.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import SearchBar from '#lib/components/searchBar.svelte';
 	import * as m from '#lib/paraglide/messages.js';
 	import * as Select from '#lib/components/ui/select/index.js';
@@ -127,6 +128,11 @@
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<meta name="description" content={SITE_BLURB[scope]()} />
 	<link rel="canonical" href="https://{host}/{entity}" />
+	<OgMeta
+		title="{ENTITY_LABEL[entity]()} · {host}"
+		description={LEDE[entity]()}
+		url="https://{host}/{entity}"
+	/>
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">

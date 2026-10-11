@@ -4,6 +4,7 @@
 	import { LEGAL_LINKS } from '#lib/meta.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
@@ -26,6 +27,7 @@
 	<title>{m.ui_legal()} · {host}</title>
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<link rel="canonical" href="https://{host}/legal" />
+	<OgMeta title="{m.ui_legal()} · {host}" description={m.ui_legal()} url="https://{host}/legal" />
 	<meta name="robots" content="noindex" />
 </svelte:head>
 

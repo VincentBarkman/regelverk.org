@@ -12,6 +12,7 @@
 	let { scope, wide = false }: { scope: SiteScope; wide?: boolean } = $props();
 
 	let rowEl = $state<HTMLElement>();
+	let madebyEl = $state<HTMLElement>();
 	let localeEl = $state<HTMLElement>();
 	let measureFullEl = $state<HTMLElement>();
 	let measureCompactEl = $state<HTMLElement>();
@@ -23,9 +24,10 @@
 		const locale = localeEl;
 		const full = measureFullEl;
 		const slim = measureCompactEl;
+		const madeby = madebyEl;
 		if (!footer || !row || !locale || !full || !slim) return;
 		const check = () => {
-			const space = footer.clientWidth - locale.offsetWidth - 16;
+			const space = footer.clientWidth - locale.offsetWidth - (madeby?.offsetWidth ?? 0) - 16;
 			const base = row.scrollWidth - (compact ? slim : full).offsetWidth;
 			compact = base + full.offsetWidth > space;
 			document.documentElement.style.setProperty('--footer-h', `${footer.offsetHeight}px`);
@@ -72,8 +74,8 @@
 		{/if}
 		<!-- eslint-enable svelte/no-navigation-without-resolve -->
 	</p>
-	<p bind:this={localeEl} class="ml-auto flex min-w-0 items-center gap-1.5 whitespace-nowrap">
-		<span class="truncate">
+	<div class="flex w-full items-center justify-between gap-1.5 whitespace-nowrap sm:contents">
+		<p bind:this={madebyEl} class="min-w-0 truncate sm:ml-auto">
 			{m.footer_made_by()}
 			<a
 				target="_blank"
@@ -81,31 +83,35 @@
 				href="https://vincentbarkman.com"
 				class="underline-offset-4 hover:underline">Vincent A. Barkman</a
 			>
-		</span>
-		<span class="select-none" aria-hidden="true">·</span>
-		<button
-			onclick={toggleMode}
-			aria-label={m.ui_toggle_theme()}
-			class="relative inline-flex size-4 items-center justify-center text-primary/60 transition-colors hover:text-primary"
-		>
-			<RiSunLine class="size-3.5 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
-			<RiMoonLine
-				class="absolute size-3.5 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0"
-			/>
-		</button>
-		<span class="select-none" aria-hidden="true">·</span>
-		{#each locales as loc, i (loc)}
-			{#if i > 0}<span class="select-none" aria-hidden="true">/</span>{/if}
+		</p>
+		<span class="hidden select-none sm:inline" aria-hidden="true">·</span>
+		<p bind:this={localeEl} class="flex shrink-0 items-center gap-1.5">
 			<button
-				onclick={() => setLocale(loc)}
-				lang={loc}
-				aria-pressed={getLocale() === loc}
-				class="uppercase underline-offset-4 hover:underline {getLocale() === loc
-					? 'font-semibold text-primary'
-					: ''}">{loc}</button
+				onclick={toggleMode}
+				aria-label={m.ui_toggle_theme()}
+				class="relative inline-flex size-4 items-center justify-center text-primary/60 transition-colors hover:text-primary"
 			>
-		{/each}
-	</p>
+				<RiSunLine
+					class="size-3.5 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90"
+				/>
+				<RiMoonLine
+					class="absolute size-3.5 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0"
+				/>
+			</button>
+			<span class="select-none" aria-hidden="true">·</span>
+			{#each locales as loc, i (loc)}
+				{#if i > 0}<span class="select-none" aria-hidden="true">/</span>{/if}
+				<button
+					onclick={() => setLocale(loc)}
+					lang={loc}
+					aria-pressed={getLocale() === loc}
+					class="uppercase underline-offset-4 hover:underline {getLocale() === loc
+						? 'font-semibold text-primary'
+						: ''}">{loc}</button
+				>
+			{/each}
+		</p>
+	</div>
 
 	<span
 		bind:this={measureFullEl}

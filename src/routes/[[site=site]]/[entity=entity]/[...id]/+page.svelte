@@ -3,7 +3,7 @@
 	import { resolve } from '$app/paths';
 	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
-	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG } from '#lib/meta.js';
+	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
 	import { articleFor, flatRecords } from '#lib/data.js';
 	import { extractHeadings } from '#lib/headings.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
@@ -14,6 +14,7 @@
 	import NavSheet from '#lib/components/navSheet.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import * as m from '#lib/paraglide/messages.js';
 	import type { PageProps } from './$types';
 
@@ -176,6 +177,12 @@
 	<link
 		rel="canonical"
 		href="https://{host}/{entity}/{data.id.split('/').map(encodeURIComponent).join('/')}"
+	/>
+	<OgMeta
+		type="article"
+		title="{title} · {ENTITY_LABEL[entity]()} · {host}"
+		description={description ?? SITE_BLURB[scope]()}
+		url="https://{host}/{entity}/{data.id.split('/').map(encodeURIComponent).join('/')}"
 	/>
 </svelte:head>
 

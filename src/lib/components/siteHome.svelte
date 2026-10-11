@@ -6,10 +6,10 @@
 	import { ENTITIES } from '#lib/entities.js';
 	import SiteMark from '#lib/components/siteMark.svelte';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
+	import OgMeta from '#lib/components/ogMeta.svelte';
 	import { SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
 	import * as Card from '#lib/components/ui/card/index.js';
 	import * as m from '#lib/paraglide/messages.js';
-	import { getLocale } from '#lib/paraglide/runtime.js';
 	import RiArrowRightSLine from 'remixicon-svelte/icons/arrow-right-s-line';
 	import { fitText } from '#lib/fitText.js';
 
@@ -39,12 +39,26 @@
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<meta name="description" content={SITE_BLURB[scope]()} />
 	<link rel="canonical" href="https://{siteHost(scope)}" />
-	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="regelverk.org" />
-	<meta property="og:title" content={siteHost(scope)} />
-	<meta property="og:description" content={SITE_BLURB[scope]()} />
-	<meta property="og:url" content="https://{siteHost(scope)}" />
-	<meta property="og:locale" content={getLocale() === 'sv' ? 'sv_SE' : 'en_US'} />
+	<OgMeta
+		title={siteHost(scope)}
+		description={SITE_BLURB[scope]()}
+		url="https://{siteHost(scope)}"
+	/>
+	{#if !dev}
+		{#each SITE_SCOPES.filter((s) => s !== scope) as s (s)}
+			<link rel="dns-prefetch" href="https://{siteHost(s)}" />
+			<link rel="preconnect" href="https://{siteHost(s)}" />
+		{/each}
+		{@html `<script type="speculationrules">${JSON.stringify({
+			prefetch: [
+				{
+					source: 'list',
+					urls: SITE_SCOPES.filter((s) => s !== scope).map((s) => `https://${siteHost(s)}/`),
+					eagerness: 'moderate'
+				}
+			]
+		})}</script>`}
+	{/if}
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
