@@ -1,5 +1,5 @@
-import { execSync } from 'node:child_process';
 import { externalUrls, fetchExternalInfo } from '#lib/externalInfo.js';
+import { commits } from '#lib/generated/commits.js';
 import { getRecord, listPages, listRecords, nestRecords } from '#lib/data.js';
 import { isEntity } from '#lib/entities.js';
 import { isSiteScope } from '#lib/sites.js';
@@ -11,27 +11,6 @@ const dateOf = (meta: Record<string, unknown> | null): string => {
 	const v = meta?.lastReviewed ?? meta?.published;
 	return typeof v === 'string' ? v : '';
 };
-
-function gitCommits(limit = 50): { hash: string; date: string; message: string }[] {
-	try {
-		const out = execSync(
-			`git log --no-decorate --format=%h%x1f%ad%x1f%s --date=short -n ${limit}`,
-			{
-				encoding: 'utf-8'
-			}
-		);
-		return out
-			.trim()
-			.split('\n')
-			.filter(Boolean)
-			.map((line) => {
-				const [hash, date, ...rest] = line.split('\x1f');
-				return { hash, date, message: rest.join('\x1f') };
-			});
-	} catch {
-		return [];
-	}
-}
 
 export const load: PageServerLoad = async ({ params }) => {
 	const parts = params.slug.split('/');
@@ -74,7 +53,7 @@ export const load: PageServerLoad = async ({ params }) => {
 							(a.entity + (a.title ?? a.id)).localeCompare(b.entity + (b.title ?? b.id))
 						)
 				: [],
-		commits: ref?.id === 'andringslogg' ? gitCommits() : []
+		commits: ref?.id === 'andringslogg' ? commits : []
 	};
 };
 

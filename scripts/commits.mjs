@@ -3,10 +3,9 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 
 let commits = [];
 try {
-	const out = execSync(
-		'git log --no-decorate --format=%h%x1f%ad%x1f%s --date=short -n 50',
-		{ encoding: 'utf-8' }
-	);
+	const out = execSync('git log --no-decorate --format=%h%x1f%ad%x1f%s --date=short -n 50', {
+		encoding: 'utf-8'
+	});
 	commits = out
 		.trim()
 		.split('\n')
