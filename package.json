@@ -73,5 +73,12 @@
 	"dependencies": {
 		"minisearch": "7.2.0",
 		"yaml": "^2.9.1"
+	},
+	"pnpm": {
+		"onlyBuiltDependencies": [
+			"sharp",
+			"workerd",
+			"esbuild"
+		]
 	}
 }
