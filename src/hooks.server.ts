@@ -6,6 +6,11 @@ import { commits } from '#lib/generated/commits.js';
 const EDGE_TTL = 86400;
 const BROWSER_TTL = 300;
 
+interface EdgeCache {
+	match(request: Request): Promise<Response | undefined>;
+	put(request: Request, response: Response): Promise<void>;
+}
+
 const cacheable = (request: Request) => {
 	if (request.method !== 'GET') return false;
 	const { pathname } = new URL(request.url);
@@ -25,7 +30,7 @@ const handleParaglide: Handle = ({ event, resolve }) =>
 				}
 			);
 
-		const cache = (globalThis as { caches?: CacheStorage }).caches?.default;
+		const cache = (globalThis as { caches?: { default?: EdgeCache } }).caches?.default;
 		if (!cache || !cacheable(request)) return respond();
 
 		const keyUrl = new URL(request.url);
