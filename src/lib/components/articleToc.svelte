@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { replaceState } from '$app/navigation';
 	import { fade } from 'svelte/transition';
 	import * as m from '#lib/paraglide/messages.js';
 	import { enhanceCodeBlocks } from '#lib/codeBlocks.js';
@@ -8,8 +9,14 @@
 	let {
 		article,
 		items = [],
-		content
-	}: { article: HTMLElement | undefined; items?: TocItem[]; content?: Component } = $props();
+		content,
+		rail = true
+	}: {
+		article?: HTMLElement;
+		items?: TocItem[];
+		content?: Component;
+		rail?: boolean;
+	} = $props();
 
 	let activeId = $state('');
 	let listEl = $state<HTMLUListElement>();
@@ -38,7 +45,7 @@
 			if (!h?.id || window.getSelection()?.toString()) return;
 			e.preventDefault();
 			void navigator.clipboard?.writeText(new URL(`#${h.id}`, location.href).href);
-			history.replaceState(null, '', `#${h.id}`);
+			replaceState(`#${h.id}`, {});
 			jump(h.id);
 		};
 		article.addEventListener('click', onHeadingClick);
@@ -69,7 +76,24 @@
 	});
 </script>
 
-{#if items.length}
+{#if items.length && !rail}
+	<nav aria-label={m.ui_contents()} class="not-prose mb-8 xl:hidden">
+		<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_contents()}</p>
+		<ul class="flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs">
+			{#each items as t, i (t.id)}
+				<li>
+					<a
+						href="#{t.id}"
+						title={t.text}
+						class="block truncate text-primary/60 hover:text-primary">{i + 1}. {t.text}</a
+					>
+				</li>
+			{/each}
+		</ul>
+	</nav>
+{/if}
+
+{#if items.length && rail}
 	<nav
 		transition:fade={{ duration: 200 }}
 		aria-label={m.ui_contents()}

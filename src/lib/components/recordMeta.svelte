@@ -129,14 +129,16 @@
 	const FLAG_SRC: Record<string, string> = {
 		eu: '/flags/eu.svg',
 		se: '/flags/sweden.svg',
-		un: '/flags/un.svg'
+		un: '/flags/un.svg',
+		us: '/flags/us.svg'
 	};
 
-	const flagOf = (v: unknown): 'eu' | 'se' | 'un' | null => {
+	const flagOf = (v: unknown): 'eu' | 'se' | 'un' | 'us' | null => {
 		const s = String(v);
 		if (s === 'EU') return 'eu';
 		if (['Sverige', 'Sweden', 'SE'].includes(s)) return 'se';
 		if (['Internationell', 'International', 'UN', 'FN'].includes(s)) return 'un';
+		if (['US', 'USA', 'United States'].includes(s)) return 'us';
 		return null;
 	};
 

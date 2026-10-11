@@ -41,14 +41,14 @@
 
 <header class="bg-amber-5/80 sticky top-0 z-10 backdrop-blur-sm">
 	<Sheet.Root>
-		<div class="@container mx-auto w-full max-w-3xl px-4 pt-3 pb-1 sm:px-6 xl:max-w-296 xl:px-0">
+		<div class="@container mx-auto w-full max-w-4xl px-4 pt-3 pb-1 sm:px-6 xl:max-w-296 xl:px-0">
 			<div class="flex items-center gap-4">
 				{#if dev}
 					<a
 						href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
 						aria-label={host}
 						use:fitText={1.875}
-						class="shrink-0 font-serif text-[min(1.875rem,calc((100cqw_-_88px)/13))] font-medium whitespace-nowrap md:text-[min(1.875rem,calc((100cqw_-_308px)/13))]"
+						class="shrink-0 font-serif text-[min(1.875rem,calc((100cqw_-_88px)/13))] font-medium whitespace-nowrap lg:text-[min(1.875rem,calc((100cqw_-_308px)/13))]"
 						>{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span
 							>.regelverk.org{:else}regelverk.org{/if}</a
 					>
@@ -58,18 +58,18 @@
 						rel="external"
 						aria-label={host}
 						use:fitText={1.875}
-						class="shrink-0 font-serif text-[min(1.875rem,calc((100cqw_-_88px)/13))] font-medium whitespace-nowrap md:text-[min(1.875rem,calc((100cqw_-_308px)/13))]"
+						class="shrink-0 font-serif text-[min(1.875rem,calc((100cqw_-_88px)/13))] font-medium whitespace-nowrap lg:text-[min(1.875rem,calc((100cqw_-_308px)/13))]"
 						>{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span
 							>.regelverk.org{:else}regelverk.org{/if}</a
 					>
 				{/if}
 
-				<div class="ml-auto hidden shrink-0 md:block">
+				<div class="ml-auto hidden shrink-0 lg:block">
 					<SearchBar inputId="header-search" width="w-64 max-w-full" />
 				</div>
 
 				<Sheet.Trigger
-					class="ml-auto inline-flex size-8 shrink-0 items-center justify-center rounded-md text-primary/70 hover:bg-primary/5 hover:text-primary md:hidden"
+					class="ml-auto inline-flex size-8 shrink-0 items-center justify-center rounded-md text-primary/70 hover:bg-primary/5 hover:text-primary lg:hidden"
 					aria-label={m.ui_menu()}
 				>
 					<RiMenuLine class="size-5" aria-hidden="true" />
@@ -79,9 +79,9 @@
 			<!-- eslint-disable svelte/no-navigation-without-resolve -->
 			<NavigationMenu.Root
 				viewport={false}
-				class="mt-3 hidden min-w-0 justify-start overflow-x-auto md:flex xl:overflow-x-visible"
+				class="mt-3 hidden min-w-0 justify-start lg:flex"
 			>
-				<NavigationMenu.List class="gap-0.5 whitespace-nowrap">
+				<NavigationMenu.List class="flex-wrap gap-0.5 whitespace-nowrap">
 					{#each ENTITIES as ent (ent)}
 						<NavigationMenu.Item>
 							{@const Icon = ENTITY_ICON[ent]}
@@ -125,7 +125,7 @@
 				</NavigationMenu.List>
 			</NavigationMenu.Root>
 
-			<Sheet.Content side="right" class="w-full! p-0 sm:max-w-sm">
+			<Sheet.Content side="right" class="w-full! overflow-y-auto p-0 sm:max-w-sm">
 				<Sheet.Header class="border-b border-primary/8 p-4">
 					<Sheet.Title class="font-serif text-base font-medium">{host}</Sheet.Title>
 				</Sheet.Header>

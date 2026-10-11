@@ -4,12 +4,19 @@
 	import type { SiteScope } from '#lib/sites.js';
 	import * as m from '#lib/paraglide/messages.js';
 
-	let { scope, current }: { scope: SiteScope; current: LegalSlug } = $props();
+	let {
+		scope,
+		current,
+		rail = true
+	}: { scope: SiteScope; current?: LegalSlug; rail?: boolean } = $props();
 </script>
 
-<nav aria-label={m.ui_legal()} class="absolute top-0 right-full bottom-0 mr-8 hidden w-44 xl:block">
-	<div class="sticky top-28 pt-1">
-		<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_legal()}</p>
+<nav
+	aria-label={m.ui_legal()}
+	class={rail ? 'absolute top-0 right-full bottom-0 mr-8 hidden w-44 xl:block' : 'w-full'}
+>
+	<div class={rail ? 'sticky top-28 pt-1' : ''}>
+		<p class={rail ? 'mb-2 text-xs font-medium text-primary/70' : 'sr-only'}>{m.ui_legal()}</p>
 		<!-- eslint-disable svelte/no-navigation-without-resolve -->
 		<ul class="flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs">
 			{#each LEGAL_LINKS as p (p.slug)}

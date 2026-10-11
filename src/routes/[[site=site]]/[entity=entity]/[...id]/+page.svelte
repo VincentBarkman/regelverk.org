@@ -11,6 +11,7 @@
 	import RecordMeta from '#lib/components/recordMeta.svelte';
 	import RecordBottom from '#lib/components/recordBottom.svelte';
 	import RecordNav from '#lib/components/recordNav.svelte';
+	import NavSheet from '#lib/components/navSheet.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import * as m from '#lib/paraglide/messages.js';
@@ -168,6 +169,9 @@
 
 <svelte:head>
 	<title>{title} · {ENTITY_LABEL[entity]()} · {host}</title>
+	{#if description}
+		<meta name="description" content={description} />
+	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<link
 		rel="canonical"
@@ -177,7 +181,8 @@
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} active={entity} />
-	<main class="relative mx-auto w-full max-w-3xl flex-1 px-4 pt-6 pb-14">
+	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
+		<NavSheet nav={{ groups: data.nav, currentId: data.id, hrefFor: listHref, pageHref }} />
 		<RecordNav groups={data.nav} currentId={data.id} hrefFor={listHref} {pageHref} />
 
 		{#if data.record}
@@ -198,10 +203,14 @@
 					]}
 				/>
 				<h1>{title}</h1>
+				{#if description}
+					<p class="not-prose -mt-3 mb-6 text-[15px] leading-relaxed text-primary/60">
+						{description}
+					</p>
+				{/if}
+				<ArticleToc rail={false} items={tocItems} />
 				{#if Article}
 					<Article />
-				{:else if description}
-					<p>{description}</p>
 				{/if}
 				<RecordMeta
 					meta={data.record.meta}

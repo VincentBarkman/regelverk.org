@@ -8,6 +8,7 @@
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import RecordNav from '#lib/components/recordNav.svelte';
+	import NavSheet from '#lib/components/navSheet.svelte';
 	import SearchBar from '#lib/components/searchBar.svelte';
 	import * as Select from '#lib/components/ui/select/index.js';
 	import * as m from '#lib/paraglide/messages.js';
@@ -79,7 +80,10 @@
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
-	<main class="relative mx-auto w-full max-w-3xl flex-1 px-4 pt-6 pb-14">
+	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
+		<NavSheet
+			nav={{ groups: data.nav, currentId: '', hrefFor: listHref, pageHref }}
+		/>
 		<RecordNav groups={data.nav} currentId="" hrefFor={listHref} {pageHref} />
 
 		<h1 class="mb-4 font-serif text-3xl font-medium text-primary">

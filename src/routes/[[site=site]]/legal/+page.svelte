@@ -31,7 +31,7 @@
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
-	<main class="relative mx-auto w-full max-w-3xl flex-1 px-4 pt-6 pb-14">
+	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
 		<BreadCrumbs items={[{ label: m.nav_home(), href: homeHref }, { label: m.ui_legal() }]} />
 		<h1 class="mt-3 font-serif text-3xl font-medium text-primary">{m.ui_legal()}</h1>
 

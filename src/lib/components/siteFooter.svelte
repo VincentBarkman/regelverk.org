@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { getLocale, locales, setLocale } from '#lib/paraglide/runtime.js';
+	import '#lib/locale.js';
 	import { toggleMode } from 'mode-watcher';
 	import RiSunLine from 'remixicon-svelte/icons/sun-line';
 	import RiMoonLine from 'remixicon-svelte/icons/moon-line';
@@ -27,17 +28,21 @@
 			const space = footer.clientWidth - locale.offsetWidth - 16;
 			const base = row.scrollWidth - (compact ? slim : full).offsetWidth;
 			compact = base + full.offsetWidth > space;
+			document.documentElement.style.setProperty('--footer-h', `${footer.offsetHeight}px`);
 		};
 		check();
 		const ro = new ResizeObserver(check);
 		ro.observe(footer);
-		return () => ro.disconnect();
+		return () => {
+			ro.disconnect();
+			document.documentElement.style.removeProperty('--footer-h');
+		};
 	});
 </script>
 
 <footer
-	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-nowrap items-center justify-between gap-3 pt-2 pb-4 text-xs text-primary/60 backdrop-blur-sm {wide
-		? 'max-w-3xl px-4 sm:px-6 xl:max-w-296 xl:px-0'
+	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-wrap items-center justify-between gap-x-3 gap-y-1.5 pt-2 pb-4 text-xs text-primary/60 backdrop-blur-sm {wide
+		? 'max-w-4xl px-4 sm:px-6 xl:max-w-296 xl:px-0'
 		: 'max-w-2xl px-4'}"
 >
 	<p bind:this={rowEl} class="flex min-w-0 items-center gap-1.5 overflow-hidden whitespace-nowrap">
@@ -66,16 +71,18 @@
 			{/each}
 		{/if}
 		<!-- eslint-enable svelte/no-navigation-without-resolve -->
-		<span class="select-none" aria-hidden="true">·</span>
-		{m.footer_made_by()}
-		<a
-			target="_blank"
-			rel="noopener noreferrer"
-			href="https://vincentbarkman.com"
-			class="underline-offset-4 hover:underline">Vincent A. Barkman</a
-		>
 	</p>
-	<p bind:this={localeEl} class="flex shrink-0 items-center gap-1.5">
+	<p bind:this={localeEl} class="ml-auto flex min-w-0 items-center gap-1.5 whitespace-nowrap">
+		<span class="truncate">
+			{m.footer_made_by()}
+			<a
+				target="_blank"
+				rel="noopener noreferrer"
+				href="https://vincentbarkman.com"
+				class="underline-offset-4 hover:underline">Vincent A. Barkman</a
+			>
+		</span>
+		<span class="select-none" aria-hidden="true">·</span>
 		<button
 			onclick={toggleMode}
 			aria-label={m.ui_toggle_theme()}

@@ -12,13 +12,15 @@
 		currentId,
 		activeEntity,
 		hrefFor,
-		pageHref
+		pageHref,
+		rail = true
 	}: {
 		groups: { entity: Entity; items: DataRecordRef[] }[];
 		currentId: string;
 		activeEntity?: Entity;
 		hrefFor: (entity: Entity, id: string) => string;
 		pageHref?: (slug: string) => string;
+		rail?: boolean;
 	} = $props();
 
 	const hasCurrent = (i: DataRecordRef): boolean =>
@@ -36,10 +38,12 @@
 {#if groups.length}
 	<nav
 		aria-label={m.ui_browse_db()}
-		class="absolute top-0 right-full bottom-0 mr-8 hidden w-44 xl:block"
+		class={rail ? 'absolute top-0 right-full bottom-0 mr-8 hidden w-44 xl:block' : 'w-full'}
 	>
-		<div class="sticky top-28 pt-1">
-			<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_browse_db()}</p>
+		<div class={rail ? 'sticky top-28 pt-1' : ''}>
+			<p class={rail ? 'mb-2 text-xs font-medium text-primary/70' : 'sr-only'}>
+				{m.ui_browse_db()}
+			</p>
 			<div class="flex flex-col gap-2">
 				{#each groups as g (g.entity)}
 					{@const Icon = ENTITY_ICON[g.entity]}

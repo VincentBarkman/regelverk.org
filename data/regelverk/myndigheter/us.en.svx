@@ -1,0 +1,29 @@
+---
+name: United States
+short: US
+kind: state
+description: Federal state whose laws, regulations and agency requirements often shape international standards and regulatory frameworks.
+url: https://www.usa.gov
+logo: /flags/us.svg
+aliases:
+  - US
+  - USA
+  - United States of America
+sites: [ot, it, fysisk]
+designation: US
+jurisdiction: US
+status: active
+reviewStatus: verified
+legalStatus: state
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## About the US
+
+The United States is a federal state where regulation is issued at federal, state and local level. Federal laws are enacted by Congress and enforced by federal agencies, such as CISA for cybersecurity and OSHA for occupational safety.
+
+## Role in the regulatory landscape
+
+US regulations and standards bodies such as NIST, UL and NFPA often shape international standards and requirements, including in cybersecurity, electrical safety and fire safety. Organisations operating on the US market may need to comply with both federal and state-level requirements.

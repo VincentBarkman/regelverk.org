@@ -11,6 +11,7 @@
 	import RecordMeta from '#lib/components/recordMeta.svelte';
 	import RecordBottom from '#lib/components/recordBottom.svelte';
 	import RecordNav from '#lib/components/recordNav.svelte';
+	import NavSheet from '#lib/components/navSheet.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import * as m from '#lib/paraglide/messages.js';
@@ -23,6 +24,9 @@
 	const scope = $derived((data.ref?.scope ?? 'regelverk') as SiteScope);
 	const host = $derived(siteHost(scope));
 	const title = $derived(data.record?.title ?? data.ref?.id ?? data.slug);
+	const description = $derived(
+		typeof data.record?.meta?.description === 'string' ? data.record.meta.description : undefined
+	);
 	const Article = $derived(data.ref ? articleFor(data.ref.entity, data.ref.id) : undefined);
 	const tocItems = $derived(extractHeadings(data.record?.body ?? ''));
 
@@ -200,6 +204,9 @@
 
 <svelte:head>
 	<title>{title} · {host}</title>
+	{#if description}
+		<meta name="description" content={description} />
+	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	{#if data.ref}
 		{#if data.ref.entity !== 'pages'}
@@ -214,8 +221,9 @@
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} active={data.ref?.entity as Entity | undefined} />
-	<main class="relative mx-auto w-full max-w-3xl flex-1 px-4 pt-6 pb-14">
+	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
 		{#if data.ref}
+			<NavSheet nav={{ groups: data.nav, currentId: data.ref.id, hrefFor: listHref, pageHref }} />
 			<RecordNav groups={data.nav} currentId={data.ref.id} hrefFor={listHref} {pageHref} />
 		{/if}
 
@@ -246,6 +254,12 @@
 					/>
 				{/if}
 				<h1>{title}</h1>
+				{#if description}
+					<p class="not-prose -mt-3 mb-6 text-[15px] leading-relaxed text-primary/60">
+						{description}
+					</p>
+				{/if}
+				<ArticleToc rail={false} items={tocItems} />
 				{#if Article}
 					<Article />
 				{:else}

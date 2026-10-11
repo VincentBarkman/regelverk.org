@@ -1,0 +1,30 @@
+---
+name: USA
+short: US
+kind: state
+description: Federal stat vars lagar, föreskrifter och myndighetskrav ofta påverkar internationella standarder och regelverk.
+url: https://www.usa.gov
+logo: /flags/us.svg
+aliases:
+  - US
+  - USA
+  - United States
+  - United States of America
+sites: [ot, it, fysisk]
+designation: US
+jurisdiction: US
+status: active
+reviewStatus: verified
+legalStatus: state
+lastReviewed: '2026-10-01'
+sourceChecked: '2026-10-01'
+licenseClass: public-info
+---
+
+## Om USA
+
+USA är en federal stat där reglering utfärdas på federal, delstatlig och lokal nivå. Federala lagar antas av kongressen och verkställs av federala myndigheter, till exempel CISA för cybersäkerhet och OSHA för arbetsmiljö.
+
+## Roll i regelverkslandskapet
+
+Amerikanska regelverk och standardiseringsorgan som NIST, UL och NFPA påverkar ofta internationella standarder och krav, bland annat inom cybersäkerhet, elsäkerhet och brandskydd. Företag som verkar på den amerikanska marknaden kan behöva förhålla sig till både federala och delstatliga krav.
