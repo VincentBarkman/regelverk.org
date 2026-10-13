@@ -1,0 +1,219 @@
+---
+'source': 'lek'
+'ref': '1 kap.'
+'title': '1 kap. – Allmänna bestämmelser'
+'kind': 'chapter'
+'description': 'Lagen om elektronisk kommunikation (LEK), 1 kap..'
+'designation': 'LEK 1 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022482-om-elektronisk-kommunikation_sfs-2022-482/#K1'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+[Denna lag](/lagstiftning/lek) syftar dels till att enskilda och myndigheter ska få tillgång till säkra och effektiva elektroniska kommunikationer, dels till största möjliga utbyte för alla av elektroniska kommunikationstjänster sett till urvalet samt till deras pris, kvalitet och kapacitet.
+
+Syftet ska uppnås främst genom att konkurrens, innovation, internationell harmonisering samt säkerhet i nät och tjänster främjas. Samhällsomfattande tjänster ska därutöver alltid finnas tillgängliga på för alla likvärdiga villkor i hela landet till överkomliga priser.
+
+Vid tillämpningen av lagen ska särskilt Sveriges säkerhet liksom elektroniska kommunikationers betydelse för yttrandefrihet och informationsfrihet beaktas.
+
+### 2 §
+
+Lagen gäller elektroniska kommunikationsnät och elektroniska kommunikationstjänster med tillhörande faciliteter och tjänster samt annan radioanvändning.
+
+### 3 §
+
+Bestämmelserna i lagen ersätter inte föreskrifter om prövning enligt någon annan lag.
+
+### 4 §
+
+Förutom bestämmelserna i [denna lag](/lagstiftning/lek) finns det i radio- och tv-[lagen (2010:696)](https://rkrattsbaser.gov.se/sfst?bet=2010%3A696) bestämmelser om sändningar av ljudradio- och tv-program som är riktade till allmänheten och avsedda att tas emot med tekniska hjälpmedel.
+
+Bestämmelser om radioutrustning finns i [radioutrustningslagen (2016:392)](https://rkrattsbaser.gov.se/sfst?bet=2016%3A392).
+
+### 4 a §
+
+I [cybersäkerhetslagen (2025:1506)](https://rkrattsbaser.gov.se/sfst?bet=2025%3A1506) finns det bestämmelser om säkerhetsåtgärder, säkerhetsrevision, incidentrapportering och informationsskyldighet. [Lag (2025:1511)](https://rkrattsbaser.gov.se/sfst?bet=2025%3A1511).
+
+### 5 §
+
+Bestämmelser om behandling av personuppgifter finns, förutom i [8](/lagstiftning/lek/kap-8) och [9 kap.](/lagstiftning/lek/kap-9) i [denna lag](/lagstiftning/lek), i [Europaparlamentets och rådets förordning (EU) 2016/679](/lagstiftning/gdpr) av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) (allmän dataskyddsförordning), i [denna lag](/lagstiftning/lek) benämnd EU:s dataskyddsförordning, och i [lagen (2018:218)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A218) med kompletterande bestämmelser till EU:s dataskyddsförordning samt i föreskrifter som har meddelats i anslutning till den lagen.
+
+Bestämmelserna i EU:s dataskyddsförordning om rättelse, radering, begränsning och skadestånd gäller även vid behandling av personuppgifter enligt [denna lag](/lagstiftning/lek).
+
+### 6 §
+
+Regeringen bestämmer vilken myndighet som ska vara regleringsmyndighet respektive tillsynsmyndighet enligt [denna lag](/lagstiftning/lek).
+
+### 7 §
+
+I lagen avses med
+
+abonnent: den som har ingått avtal med en tillhandahållare av allmänt tillgängliga elektroniska kommunikationstjänster om tillhandahållande av sådana tjänster,
+
+allmänt elektroniskt kommunikationsnät: ett elektroniskt kommunikationsnät som helt eller huvudsakligen används för att tillhandahålla allmänt tillgängliga elektroniska kommunikationstjänster och som stöder informationsöverföring mellan nätanslutningspunkter,
+
+användare: den som använder eller efterfrågar en allmänt tillgänglig elektronisk kommunikationstjänst,
+
+Berec: Organet för europeiska regleringsmyndigheter för elektronisk kommunikation,
+
+elektronisk kommunikationstjänst: en tjänst som vanligen tillhandahålls mot ersättning via elektroniska kommunikationsnät och som - med undantag för dels tjänster i form av tillhandahållande av innehåll som överförs med hjälp av elektroniska kommunikationsnät och elektroniska kommunikationstjänster, dels tjänster som innebär utövande av redaktionellt ansvar över sådant innehåll - är en
+
+1\. internetanslutningstjänst enligt artikel [2.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015R2120) i [Europaparlamentets och rådets förordning (EU) 2015/2120](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015R2120) av den
+
+25 november 2015 om åtgärder rörande en öppen internetanslutning och slutkundsavgifter för reglerad kommunikation inom EU och om ändring av [direktiv 2002/22/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0022) och [förordning (EU) nr 531/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0531),
+
+2\. interpersonell kommunikationstjänst, eller
+
+3\. tjänst som utgörs helt eller huvudsakligen av överföring av signaler, såsom överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster eller för rundradio,
+
+elektroniskt kommunikationsnät: ett system för överföring och i tillämpliga fall utrustning för koppling eller dirigering samt passiva nätdelar och andra resurser som medger överföring av signaler, via tråd eller radiovågor, på optisk väg eller via andra elektromagnetiska överföringsmedier, oberoende av vilken typ av information som överförs,
+
+elektroniskt meddelande: all information som utbyts eller överförs mellan ett begränsat antal parter genom en allmänt tillgänglig elektronisk kommunikationstjänst, utom information som överförs som del av sändningar av ljudradio- och tv-
+
+program som är riktade till allmänheten via ett elektroniskt kommunikationsnät om inte denna information kan sättas i samband med den enskilda abonnenten eller användaren av informationen,
+
+harmoniserat frekvensutrymme: ett frekvensutrymme för vilket harmoniserade villkor för användning har fastställts i en teknisk genomförandeåtgärd i enlighet med artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0531) i Europaparlamentets och rådets [beslut nr 676/2002/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3676D2002) av den
+
+7 mars 2002 om ett regelverk för radiospektrumpolitiken i Europeiska gemenskapen (radiospektrumbeslut),
+
+integritetsincident: en händelse som leder till oavsiktlig eller otillåten utplåning, förlust eller ändring eller otillåtet avslöjande av eller otillåten åtkomst till uppgifter som behandlas i samband med tillhandahållandet av allmänt tillgängliga elektroniska kommunikationstjänster,
+
+internetåtkomst: möjlighet till överföring av ip-paket som ger användaren tillgång till internet,
+
+interpersonell kommunikationstjänst: en tjänst som vanligen tillhandahålls mot ersättning och som möjliggör ett direkt interpersonellt och interaktivt informationsutbyte via elektroniska kommunikationsnät mellan ett begränsat antal personer, varigenom de personer som inleder eller deltar i kommunikationen bestämmer vem eller vilka som ska vara mottagare av denna, dock inte en tjänst som möjliggör interpersonell och interaktiv kommunikation enbart som en extrafunktion av mindre betydelse som är direkt kopplad till en annan tjänst,
+
+lokaliseringsuppgift:
+
+1\. en uppgift som behandlas i ett allmänt mobilt elektroniskt kommunikationsnät och som anger den geografiska positionen för en slutanvändares terminalutrustning, eller
+
+2\. en uppgift i ett allmänt fast elektroniskt kommunikationsnät om nätanslutningspunktens fysiska adress,
+
+meddelandehantering: utbyte eller överföring av ett elektroniskt meddelande som inte är ett samtal och inte heller är information som överförs som en del av sändningar av ljudradio- eller tv-program,
+
+mikroföretag: ett företag som, i enlighet med avdelning I i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den
+
+6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag, sysselsätter färre än 10 personer och vars omsättning eller balansomslutning inte överstiger 2 miljoner euro per år,
+
+misslyckad uppringning: en uppringning som kopplas fram utan att nå en mottagare,
+
+nummerbaserad interpersonell kommunikationstjänst: en interpersonell kommunikationstjänst som etablerar en förbindelse till nummer i nationella eller internationella nummerplaner eller som möjliggör kommunikation med sådana nummer,
+
+nummeroberoende interpersonell kommunikationstjänst: en interpersonell kommunikationstjänst som varken etablerar en förbindelse till nummer i nationella eller internationella nummerplaner eller möjliggör kommunikation med sådana nummer,
+
+nätanslutningspunkt: en fysisk punkt vid vilken en slutanvändare ansluts till ett allmänt elektroniskt kommunikationsnät,
+
+nät med mycket hög kapacitet: ett elektroniskt kommunikationsnät som helt består av fiberoptik åtminstone fram till slutanvändarnas lokaler eller en basstation eller ett elektroniskt kommunikationsnät som kan erbjuda liknande nätprestanda under normala högtrafikförhållanden,
+
+nödkommunikation: kommunikation med samhällets alarmeringstjänst genom en interpersonell kommunikationstjänst,
+
+operatör: den som tillhandahåller eller avser att tillhandahålla ett allmänt elektroniskt kommunikationsnät eller en tillhörande facilitet,
+
+operatörslås: sådana begränsningar när det gäller användningen av terminalutrustning som en tillhandahållare har infört eller låtit införa för att hindra att utrustningen används för nyttjande av andra tillhandahållares elektroniska kommunikationstjänster,
+
+radioanläggning: en anordning som möjliggör radiokommunikation eller bestämning av position, hastighet eller andra kännetecken hos ett föremål genom sändning av radiovågor
+
+(radiosändare) eller mottagning av radiovågor
+
+(radiomottagare),
+
+radiokommunikation: överföring, utsändning eller mottagning av tecken, signaler, skrift, bilder, ljud eller meddelanden av varje slag med hjälp av radiovågor,
+
+radiovågor: elektromagnetiska vågor med frekvenser från
+
+9 kilohertz till 3 000 gigahertz som breder ut sig utan särskilt anordnad ledare,
+
+rent grossistföretag: ett företag som inte bedriver verksamhet på någon slutkundsmarknad, inte är närstående till eller genom ägarintressen kontrollerar ett företag som bedriver verksamhet på någon slutkundsmarknad och inte genom avtal är bundet att exklusivt handla med ett enskilt företag som verkar på någon slutkundsmarknad,
+
+samtal: en förbindelse genom en allmänt tillgänglig interpersonell kommunikationstjänst som möjliggör talkommunikation i båda riktningarna,
+
+samtrafik: fysisk och logisk sammankoppling av allmänna elektroniska kommunikationsnät för att göra det möjligt för användare att kommunicera med varandra eller få tillgång till tjänster som tillhandahålls i näten,
+
+skadlig störning: en störning som äventyrar funktionen hos en radionavigationstjänst eller någon annan säkerhetstjänst eller som på något annat sätt allvarligt försämrar, hindrar eller upprepat avbryter en radiokommunikationstjänst som fungerar i enlighet med gällande bestämmelser, inbegripet störning av befintliga eller planerade tjänster på nationellt tilldelade frekvenser,
+
+slutanvändare: en användare som inte tillhandahåller ett allmänt elektroniskt kommunikationsnät eller en allmänt tillgänglig elektronisk kommunikationstjänst,
+
+små företag: företag som, i enlighet med avdelning I i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den 6 maj
+
+2003 om definitionen av mikroföretag samt små och medelstora företag, sysselsätter färre än 50 personer och vars omsättning eller balansomslutning inte överstiger 10 miljoner euro per år,
+
+talkommunikationstjänst: en allmänt tillgänglig elektronisk kommunikationstjänst som gör det möjligt att ringa och ta emot samtal via ett eller flera nummer inom en nationell eller internationell nummerplan,
+
+telefonitjänst: en elektronisk kommunikationstjänst som innebär en möjlighet att ringa eller ta emot samtal via ett eller flera nummer inom en nationell eller internationell nummerplan,
+
+tillhörande facilitet: en anordning, funktion eller något annat som har samband med ett elektroniskt kommunikationsnät eller en elektronisk kommunikationstjänst och som möjliggör, stöder eller kan stödja tillhandahållande av tjänster via det nätet eller den tjänsten,
+
+trafikuppgift: en uppgift som behandlas i syfte att befordra ett elektroniskt meddelande via ett elektroniskt kommunikationsnät eller för att fakturera detta meddelande,
+
+trådlösa accesspunkter med kort räckvidd: små trådlösa nätanslutningsutrustningar med låg effekt och kort räckvidd som kan vara utrustade med en eller flera antenner med låg visuell inverkan och som gör det möjligt för användare att få trådlös tillgång till elektroniska kommunikationsnät oberoende av om den underliggande nättopologin är mobil eller fast,
+
+trådlösa lokala nät: trådlösa kommunikationssystem med låg effekt och kort räckvidd som på icke-exklusiv grund använder ett harmoniserat frekvensutrymme och som har låg risk för störningar på andra sådana system som utnyttjas av andra användare i omedelbar närhet av systemet,
+
+vertikalt integrerad operatör: en operatör som tillhandahåller tjänster till företag som den konkurrerar med på marknader i efterföljande handelsled. [Lag (2025:1511)](https://rkrattsbaser.gov.se/sfst?bet=2025%3A1511).
+
+### 8 §
+
+Orden behandling och samtycke har i [8](/lagstiftning/lek/kap-8) och [9 kap.](/lagstiftning/lek/kap-9) samma innebörd som i EU:s dataskyddsförordning.
+
+### 9 §
+
+Regeringen eller den myndighet som regeringen bestämmer får besluta om erkännande av en operatör enligt bestämmelser som har antagits av Internationella teleunionen och får meddela de föreskrifter som behövs för sådana erkännanden.
+
+### 10 §
+
+Regeringen eller den myndighet som regeringen bestämmer får besluta om registrering av maritima avräkningsorgan enligt bestämmelser som har antagits av Internationella teleunionen och får meddela de föreskrifter som behövs för sådan registrering.
+
+### 11 §
+
+Om Sverige är i krig eller krigsfara eller om det råder sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen meddela de föreskrifter om elektroniska kommunikationsnät och elektroniska kommunikationstjänster med tillhörande faciliteter och tjänster samt annan radioanvändning som behövs med hänsyn till landets försvar eller säkerhet i övrigt.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om den fredstida planeringen för totalförsvarets behov av elektroniska kommunikationer under sådana förhållanden som anges i första stycket.
+
+### 12 §
+
+Regleringsmyndigheten får ålägga den som tillhandahåller sådana elektroniska kommunikationsnät eller elektroniska kommunikationstjänster som är av särskild betydelse från allmän synpunkt att på visst sätt beakta totalförsvarets behov av elektronisk kommunikation under höjd beredskap.
+
+### 13 §
+
+Regleringsmyndigheten får ålägga den som tillhandahåller elektroniska kommunikationsnät eller elektroniska kommunikationstjänster att delta i den planering som avses i
+
+[11 §](#11) andra stycket och i planering och samordning av åtgärder inför eller vid fredstida krissituationer. Myndigheten får även ålägga andra aktörer att delta i sådan planering och samordning, om aktören har kunskaper eller resurser av betydelse för att upprätthålla funktionen av elektroniska kommunikationsnät eller elektroniska kommunikationstjänster.
+
+Regleringsmyndigheten får också ålägga de aktörer som avses i första stycket att genom samverkan stödja arbetet för att återställa infrastrukturen för elektroniska kommunikationer i anslutning till händelser vid fredstida krissituationer eller höjd beredskap.
+
+Ett åläggande enligt första eller andra stycket ska innehålla uppgift om vad aktören är skyldig att göra.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om den verksamhet som avses i första och andra styckena och om formerna för den. [Lag (2024:192)](https://rkrattsbaser.gov.se/sfst?bet=2024%3A192).
+
+### 14 §
+
+Regleringsmyndigheten ska upphäva eller ändra ett åläggande enligt [13 §](#13) när det är motiverat med hänsyn till åläggandets syfte. [Lag (2024:192)](https://rkrattsbaser.gov.se/sfst?bet=2024%3A192).
+
+### 15 §
+
+Den som på grund av ett åläggande enligt [13 §](#13) deltar i eller har deltagit i sådan verksamhet som avses i den paragrafen får inte obehörigen föra vidare eller utnyttja uppgifter som han eller hon genom deltagandet har fått del av eller tillgång till om
+
+1\. förhållanden av betydelse för att förebygga eller hantera fredstida krissituationer,
+
+2\. förhållanden av betydelse för totalförsvaret eller annars för Sveriges säkerhet, eller
+
+3\. en enskilds affärs- eller drift-förhållanden.
+
+I det allmännas verksamhet ska i stället offentlighets- och [sekretesslagen (2009:400)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A400) tillämpas. [Lag (2024:192)](https://rkrattsbaser.gov.se/sfst?bet=2024%3A192).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,0 +1,44 @@
+---
+title: OWASP Mobile Application Security Verification Standard
+description: Open standard for verifiable mobile application security requirements.
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: OWASP
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+translation: en
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Open standard for verifiable mobile application security requirements.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [OWASP MASVS 2.1.0](https://github.com/OWASP/masvs/releases/tag/v2.1.0).
+
+## Contents
+
+- [MASVS-STORAGE – Storage](/standarder/owasp-masvs/storage) · 2 requirements
+- [MASVS-CRYPTO – Cryptography](/standarder/owasp-masvs/crypto) · 2 requirements
+- [MASVS-AUTH – Authentication and Authorization](/standarder/owasp-masvs/auth) · 3 requirements
+- [MASVS-NETWORK – Network Communication](/standarder/owasp-masvs/network) · 2 requirements
+- [MASVS-PLATFORM – Platform Interaction](/standarder/owasp-masvs/platform) · 3 requirements
+- [MASVS-CODE – Code Quality](/standarder/owasp-masvs/code) · 4 requirements
+- [MASVS-RESILIENCE – Resilience Against Reverse Engineering and Tampering](/standarder/owasp-masvs/resilience) · 4 requirements
+- [MASVS-PRIVACY – Privacy](/standarder/owasp-masvs/privacy) · 4 requirements
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+- [General Data Protection Regulation (GDPR)](/lagstiftning/gdpr)
+<!-- scan-standards:end -->

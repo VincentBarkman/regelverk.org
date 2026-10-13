@@ -1,0 +1,49 @@
+---
+title: MITRE ATT&CK for ICS
+description: Knowledge base of adversary tactics and techniques against
+  industrial control systems.
+designation: MITRE ATT&CK for ICS
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: MITRE
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+type: standard
+sites:
+  - ot
+url: https://attack.mitre.org/attackics/
+translation: en
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Knowledge base of adversary tactics and techniques against industrial control systems.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [MITRE ATT&CK for ICS](https://attack.mitre.org/attackics/).
+
+## Contents
+
+- [Initial Access](/standarder/mitre-attack-ics/initial-access) · 12 requirements
+- [Execution](/standarder/mitre-attack-ics/execution) · 10 requirements
+- [Persistence](/standarder/mitre-attack-ics/persistence) · 10 requirements
+- [Privilege Escalation](/standarder/mitre-attack-ics/privilege-escalation) · 2 requirements
+- [Evasion](/standarder/mitre-attack-ics/evasion) · 9 requirements
+- [Discovery](/standarder/mitre-attack-ics/discovery) · 8 requirements
+- [Lateral Movement](/standarder/mitre-attack-ics/lateral-movement) · 11 requirements
+- [Collection](/standarder/mitre-attack-ics/collection) · 11 requirements
+- [Command and Control](/standarder/mitre-attack-ics/command-and-control) · 3 requirements
+- [Inhibit Response Function](/standarder/mitre-attack-ics/inhibit-response-function) · 20 requirements
+- [Impair Process Control](/standarder/mitre-attack-ics/impair-process-control) · 8 requirements
+- [Impact](/standarder/mitre-attack-ics/impact) · 12 requirements
+
+## Related legal acts
+
+- [NIS2 directive](/lagstiftning/nis2)
+- [CER directive](/lagstiftning/cer)
+<!-- scan-standards:end -->

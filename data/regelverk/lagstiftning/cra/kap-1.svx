@@ -1,0 +1,274 @@
+---
+'source': 'cra'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'CRA-förordningen, Kapitel I.'
+'designation': 'CRA-förordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847#cpt_I'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Innehåll
+
+I [denna förordning](/lagstiftning/cra) fastställs
+
+a) regler för tillhandahållande på marknaden av produkter med digitala element, för att säkerställa cybersäkerheten för sådana produkter,
+
+b) väsentliga cybersäkerhetskrav för utformningen, utvecklingen och tillverkningen av produkter med digitala element, och skyldigheter för ekonomiska aktörer när det gäller cybersäkerheten för dessa produkter,
+
+c) väsentliga cybersäkerhetskrav för de processer för sårbarhetshantering som tillverkarna inför för att säkerställa cybersäkerheten för produkter med digitala element under den tid som produkterna förväntas vara i bruk samt skyldigheter för ekonomiska aktörer i samband med dessa processer, och
+
+d) regler om marknadskontroll, inbegripet övervakning, och kontroll av efterlevnaden av de regler och krav som avses i [denna artikel](#artikel-1-innehåll).
+
+### Artikel 2 – Tillämpningsområde
+
+1\. [Denna förordning](/lagstiftning/cra) är tillämplig på alla produkter med digitala element som tillhandahålls på marknaden och vars avsedda ändamål eller rimligen förutsebara användning omfattar en direkt eller indirekt logisk eller fysisk dataanslutning till en enhet eller ett nät.
+
+2\. Förordningen är inte tillämplig på sådana produkter med digitala element som omfattas av följande unionsrättsakter:
+
+a) [Förordning (EU) 2017/745](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R0745).
+
+b) [Förordning (EU) 2017/746](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R0746).
+
+c) [Förordning (EU) 2019/2144](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R2144).
+
+3\. [Denna förordning](/lagstiftning/cra) ska inte tillämpas på produkter med digitala element som har certifierats i enlighet med [förordning (EU) 2018/1139](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1139).
+
+4\. [Denna förordning](/lagstiftning/cra) ska inte tillämpas på utrustning som omfattas av Europaparlamentets och rådets [direktiv 2014/90/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0090) (36).
+
+5\. [Denna förordnings](/lagstiftning/cra) tillämpning på produkter med digitala element som omfattas av andra unionsregler där krav fastställs avseende alla eller vissa risker som täcks av de väsentliga cybersäkerhetskraven i bilaga I får begränsas eller undantas om
+
+a) sådana begränsningar eller undantag är förenliga med den allmänna rättsliga ram som är tillämplig på dessa produkter, och
+
+b) sektorsreglerna ger samma eller en högre skyddsnivå än den som föreskrivs i [denna förordning](/lagstiftning/cra).
+
+Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/cra) genom att specificera om sådana begränsningar eller undantag är nödvändiga, vilka produkter och regler som berörs samt begränsningens omfattning, i förekommande fall.
+
+6\. [Denna förordning](/lagstiftning/cra) ska inte tillämpas på reservdelar som tillhandahålls på marknaden för att ersätta identiska komponenter i produkter med digitala element och som tillverkas enligt samma specifikationer som de komponenter som de är avsedda att ersätta.
+
+7\. [Denna förordning](/lagstiftning/cra) ska inte tillämpas på produkter med digitala element som utvecklats eller ändrats uteslutande för ändamål som rör nationell säkerhet eller försvarsändamål eller på produkter som utformats specifikt för att behandla säkerhetsskyddsklassificerade uppgifter.
+
+8\. De skyldigheter som fastställs i [denna förordning](/lagstiftning/cra) får inte medföra tillhandahållande av information vars utlämnande skulle strida mot väsentliga intressen i fråga om medlemsstaternas nationella säkerhet, allmänna säkerhet eller försvar.
+
+### Artikel 3 – Definitioner
+
+I [denna förordning](/lagstiftning/cra) gäller följande definitioner:
+
+1\. produkt med digitala element: programvaru- eller hårdvaruprodukt och dess lösningar för fjärrbehandling av data, inbegripet programvaru- eller hårdvarukomponenter som släpps ut på marknaden separat.
+
+2\. fjärrbehandling av data: databehandling på distans för vilken programvaran utformats och utvecklats av tillverkaren eller under tillverkarens ansvar, och vars avsaknad skulle innebära att produkten med digitala element inte kan utföra en av sina funktioner.
+
+3\. cybersäkerhet: cybersäkerhet enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+4\. programvara: den del av ett elektroniskt informationssystem som utgörs av datorkod.
+
+5\. hårdvara: ett fysiskt elektroniskt informationssystem, eller delar av ett sådant, som kan behandla, lagra eller överföra digitala data.
+
+6\. komponent: programvara eller hårdvara som är avsedd att vara integrerad i ett elektroniskt informationssystem.
+
+7\. elektroniskt informationssystem: ett system, inklusive elektrisk eller elektronisk utrustning, som kan behandla, lagra eller överföra digitala data.
+
+8\. logisk anslutning: en virtuell representation av en dataförbindelse som genomförs via ett programvarugränssnitt.
+
+9\. fysisk anslutning: en anslutning mellan elektroniska informationssystem eller komponenter som genomförs med fysiska medel, inbegripet elektriska, optiska eller mekaniska gränssnitt, tråd eller radiovågor.
+
+10\. indirekt anslutning: en anslutning till en enhet eller ett nät som inte sker direkt utan snarare som en del av ett större system som är direkt anslutningsbart till enheten eller nätet.
+
+11\. slutnod: enhet som är ansluten till ett nät och som tjänar som ingångspunkt till det nätet.
+
+12\. ekonomisk aktör: tillverkaren, tillverkarens representant, importören, distributören eller en annan fysisk eller juridisk person som omfattas av skyldigheter avseende tillverkning av produkter med digitala element eller avseende tillhandahållande av produkter med digitala element på marknaden i enlighet med [denna förordning](/lagstiftning/cra).
+
+13\. tillverkare: en fysisk eller juridisk person som utvecklar eller tillverkar produkter med digitala element, eller som låter utforma, utveckla eller tillverka produkter med digitala element, och saluför dessa under eget namn eller varumärke, vare sig mot betalning, för monetarisering eller kostnadsfritt.
+
+14\. förvaltare av programvara med fri och öppen källkod: en juridisk person, annan än en tillverkare, som har till syfte eller som mål att systematiskt och varaktigt tillhandahålla stöd för utvecklingen av specifika produkter med digitala element, vilka klassificeras som programvara med fri och öppen källkod och är avsedda för kommersiell verksamhet, och som säkerställer dessa produkters bärkraft.
+
+15\. tillverkarens representant: en fysisk eller juridisk person som är etablerad i unionen och som enligt skriftlig fullmakt från en tillverkare har rätt att i tillverkaren ställe utföra särskilda uppgifter.
+
+16\. importör: en fysisk eller juridisk person som är etablerad i unionen och som på marknaden släpper ut en produkt med digitala element vilken bär namnet på eller varumärket för en fysisk eller juridisk person som är etablerad utanför unionen.
+
+17\. distributör: en fysisk eller juridisk person i leveranskedjan, utöver tillverkaren eller importören, som tillhandahåller en produkt med digitala element på unionsmarknaden utan att påverka dess egenskaper.
+
+18\. konsument: en fysisk person som agerar för ändamål som faller utanför den personens näringsverksamhet, affärsverksamhet, hantverk eller yrke.
+
+19\. mikroföretag, små företag och medelstora företag: mikroföretag, små företag och medelstora företag enligt definitionen i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+20\. stödperiod: den period under vilken en tillverkare måste säkerställa att sårbarheter hos en produkt med digitala element hanteras ändamålsenligt och i enlighet med de väsentliga cybersäkerhetskrav som fastställs i bilaga I del II.
+
+21\. utsläppande på marknaden: tillhandahållande för första gången av en produkt med digitala element på unionsmarknaden.
+
+22\. tillhandahållande på marknaden: leverans av en produkt med digitala element för distribution eller användning på unionsmarknaden i samband med kommersiell verksamhet, antingen mot betalning eller kostnadsfritt.
+
+23\. avsett ändamål: den användning för vilken en produkt med digitala element är avsedd av leverantören, inbegripet det specifika sammanhanget och de specifika användningsvillkoren, enligt specifikationerna i de uppgifter som leverantören tillhandahåller i instruktioner till användaren, reklam- eller försäljningsmaterial och uttalanden samt i den tekniska dokumentationen.
+
+24\. rimligen förutsebar användning: användning som inte nödvändigtvis är det avsedda ändamål som tillverkaren anger i instruktionerna till användaren, reklam- eller försäljningsmaterial och uttalanden eller i den tekniska dokumentationen, men som är den sannolika följden av rimligen förutsebart mänskligt beteende eller tekniska åtgärder eller interaktioner.
+
+25\. rimligen förutsebar felaktig användning: användning av en produkt med digitala element på ett sätt som inte överensstämmer med dess avsedda ändamål, men som kan vara resultatet av rimligen förutsebart mänskligt beteende eller interaktion med andra system.
+
+26\. anmälande myndighet: den nationella myndighet som ansvarar för inrättandet och genomförandet av de förfaranden som krävs för bedömning, utseende och anmälan av organ för bedömning av överensstämmelse och för övervakning av dessa.
+
+27\. bedömning av överensstämmelse: processen där det kontrolleras om de väsentliga cybersäkerhetskraven i bilaga I har uppfyllts.
+
+28\. organ för bedömning av överensstämmelse: ett organ för bedömning av överensstämmelse enligt definitionen i artikel [2.13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+29\. anmält organ: organ för bedömning av överensstämmelse som utsetts i enlighet med artikel [43](/lagstiftning/cra/kap-4#artikel-43-anmälningsförfarande) och annan relevant unionsharmoniseringslagstiftning.
+
+30\. väsentlig ändring: en ändring av produkten med digitala element efter dess utsläppande på marknaden, vilken påverkar produktens överensstämmelse med de väsentliga cybersäkerhetskraven i bilaga I del I eller leder till en ändring av det avsedda ändamål för vilket produkten har bedömts.
+
+31\. CE-märkning: märkning genom vilken en tillverkare anger att en produkt med digitala element och de processer som införts av tillverkaren överensstämmer med de väsentliga cybersäkerhetskraven i bilaga I och annan tillämplig unionsharmoniseringslagstiftning som föreskriver att sådan märkning ska fästas.
+
+32\. unionsharmoniseringslagstiftning: unionslagstiftning som förtecknas i bilaga I till [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) och all annan unionslagstiftning som harmoniserar villkoren för saluföring av produkter som omfattas av den förordningen.
+
+33\. marknadskontrollmyndighet: en marknadskontrollmyndighet enligt definitionen i artikel [3.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+34\. internationell standard: en internationell standard enligt definitionen i artikel [2.1 a](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+35\. europeisk standard: en europeisk standard enligt definitionen i artikel [2.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+36\. harmoniserad standard: en harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+37\. cybersäkerhetsrisk: risk för förlust eller störning orsakad av en incident, som ska uttryckas som en kombination av omfattningen av förlusten eller störningen och sannolikheten för att incidenten inträffar.
+
+38\. betydande cybersäkerhetsrisk: en cybersäkerhetsrisk som, baserat på dess tekniska egenskaper, kan antas innebära en hög sannolikhet för en incident som kan medföra allvarliga negativa konsekvenser, inbegripet genom att orsaka betydande materiell eller immateriell förlust eller störning.
+
+39\. programvaruförteckning: en formell förteckning med närmare uppgifter om och leveranskedjeförhållanden för komponenter som ingår i programvaruelementen i en produkt med digitala element.
+
+40\. sårbarhet: en svaghet, känslighet eller brist hos en produkt med digitala element som kan utnyttjas genom ett cyberhot.
+
+41\. sårbarhet som kan utnyttjas: en sårbarhet som kan utnyttjas effektivt av en motståndare under praktiska operativa förhållanden.
+
+42\. aktivt utnyttjad sårbarhet: en sårbarhet för vilken det finns tillförlitliga bevis på att en fientlig aktör har utnyttjat den i ett system utan tillstånd från systemets ägare.
+
+43\. incident: en incident enligt definitionen i artikel [6.6](/lagstiftning/nis2/kap-1#artikel-6-definitioner) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+44\. incident som påverkar säkerheten för en produkt med digitala element: en incident som inverkar negativt på eller kan inverka negativt på förmågan hos en produkt med digitala element att skydda tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten för data eller funktioner.
+
+45\. tillbud: ett tillbud enligt definitionen i artikel [6.5](/lagstiftning/nis2/kap-1#artikel-6-definitioner) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+46\. cyberhot: ett cyberhot enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+47\. personuppgifter: personuppgifter enligt definitionen i artikel [4.1](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+48\. programvara med fri och öppen källkod: programvara vars källkod delas öppet och som tillhandahålls inom ramen för en licens med fri och öppen källkod som ger alla rättigheter att göra den fritt tillgänglig att användas, modifieras och vidaredistribueras.
+
+49\. återkallelse: återkallelse enligt definitionen i artikel [3.22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+50\. tillbakadragande: tillbakadragande enligt definitionen i artikel [3.23](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+51\. CSIRT-enhet som utsetts till samordnare: en CSIRT-enhet som utsetts till samordnare enligt artikel [12.1](/lagstiftning/nis2/kap-2#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+### Artikel 4 – Fri rörlighet
+
+1\. Medlemsstaterna får inte, med hänvisning till aspekter som omfattas av [denna förordning](/lagstiftning/cra), hindra att produkter med digitala element som uppfyller kraven i [denna förordning](/lagstiftning/cra) tillhandahålls på marknaden.
+
+2\. Medlemsstaterna får inte förhindra att sådana produkter med digitala element som inte uppfyller kraven i [denna förordning](/lagstiftning/cra) visas eller används vid mässor, utställningar och demonstrationer eller liknande evenemang, inbegripet prototyper, förutsatt att produkten visas med en synlig märkning som tydligt anger att den inte uppfyller kraven i [denna förordning](/lagstiftning/cra) och att den inte kommer att tillhandahållas på marknaden förrän den gör det.
+
+3\. Medlemsstaterna får inte förhindra att ej färdigställd programvara som inte uppfyller kraven i [denna förordning](/lagstiftning/cra) tillhandahålls på marknaden, under förutsättning att programvaran tillhandahålls endast under den begränsade tid som krävs för testningsändamål och med en synlig märkning som tydligt anger att den inte uppfyller kraven i [denna förordning](/lagstiftning/cra) och att den inte kommer att tillhandahållas på marknaden för andra ändamål än testning.
+
+4\. Punkt 3 ska inte tillämpas på säkerhetskomponenter enligt annan unionsharmoniseringslagstiftning än [denna förordning](/lagstiftning/cra).
+
+### Artikel 5 – Upphandling eller användning av produkter med digitala element
+
+1\. [Denna förordning](/lagstiftning/cra) ska inte hindra medlemsstaterna från att införa ytterligare cybersäkerhetskrav för produkter med digitala element när det gäller upphandling eller användning av dessa produkter för specifika ändamål, inbegripet när dessa produkter upphandlas eller används för ändamål som rör nationell säkerhet eller försvarsändamål, förutsatt att kraven är förenliga med medlemsstaternas skyldigheter enligt unionsrätten och att de är nödvändiga och proportionella för att uppnå dessa ändamål.
+
+2\. Utan att det påverkar tillämpningen av [direktiven 2014/24/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0024) och [2014/25/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0025) ska medlemsstaterna, när produkter med digitala element som omfattas av [denna förordnings](/lagstiftning/cra) tillämpningsområde upphandlas, säkerställa att överensstämmelse med de väsentliga cybersäkerhetskraven i bilaga I till [denna förordning](/lagstiftning/cra), inbegripet tillverkarnas förmåga att ändamålsenligt hantera sårbarheter, beaktas i upphandlingsprocessen.
+
+### Artikel 6 – Krav för produkter med digitala element
+
+Produkter med digitala element får tillhandahållas på marknaden endast om
+
+a) de uppfyller de väsentliga cybersäkerhetskraven i bilaga I del I, förutsatt att de är korrekt installerade och underhållna och används för avsett ändamål eller under förhållanden som rimligen kan förutses och, i tillämpliga fall, att de nödvändiga säkerhetsuppdateringarna har installerats, och
+
+b) de processer som införs av tillverkaren uppfyller de väsentliga cybersäkerhetskrav som fastställs i bilaga I del II.
+
+### Artikel 7 – Viktiga produkter med digitala element
+
+1\. Produkter med digitala element som har kärnfunktionen hos en produktkategori som anges i bilaga III till [denna förordning](/lagstiftning/cra) ska anses vara viktiga produkter med digitala element och ska omfattas av de förfaranden för bedömning av överensstämmelse som avses i artikel [32.2](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element). Integreringen av en produkt med digitala element som har kärnfunktionen hos en produktkategori som anges i bilaga III ska inte i sig medföra att den produkt i vilken den är integrerad omfattas av de förfaranden för bedömning av överensstämmelse som avses i artikel [32.2](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element).
+
+2\. De kategorier av produkter med digitala element som avses i punkt 1 i [denna artikel](#artikel-7-viktiga-produkter-med-digitala-element), indelade i klasserna I och II enligt bilaga III, uppfyller minst ett av följande kriterier:
+
+a) Produkten med digitala element utför i första hand funktioner som är kritiska för cybersäkerheten för andra produkter, nät eller tjänster, inbegripet säkerställande av autentisering och åtkomst, intrångsdetektion och intrångsskydd, säkerhet vid slutnoder eller nätskydd.
+
+b) Produkten med digitala element utför en funktion som medför en betydande risk för negativa effekter i fråga om dess intensitet och förmåga att störa, kontrollera eller orsaka skada på ett stort antal andra produkter eller på användarnas hälsa, säkerhet eller skydd genom direkt manipulering, såsom en central systemfunktion, inbegripet nätförvaltning, konfigurationsstyrning, virtualisering eller behandling av personuppgifter.
+
+3\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att ändra bilaga III genom att införa en ny kategori inom varje klass i förteckningen över kategorier av produkter med digitala element och specificera dess definition, flytta en kategori av produkter från en klass till en annan eller stryka en befintlig kategori från förteckningen. När kommissionen bedömer behovet av en ändring av förteckningen i bilaga III ska den ta hänsyn till de cybersäkerhetsrelaterade funktionerna eller funktionen och nivån på den cybersäkerhetsrisk som produkterna med digitala element utgör enligt de kriterier som avses i punkt 2 i [den här artikeln](#artikel-7-viktiga-produkter-med-digitala-element).
+
+De delegerade akter som avses i första stycket i denna punkt ska, när så är lämpligt, föreskriva en övergångsperiod på minst tolv månader, särskilt när en ny kategori av viktiga produkter med digitala element läggs till i klass I eller II eller flyttas från klass I till II enligt bilaga III, innan de relevanta förfaranden för bedömning av överensstämmelse som avses i artikel [32.2](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) börjar tillämpas, såvida inte en kortare övergångsperiod är motiverad av tvingande skyndsamhetskäl.
+
+4\. Senast den 11 december 2025 ska kommissionen anta en genomförandeakt som specificerar den tekniska beskrivningen av kategorierna av produkter med digitala element i klasserna I och II enligt bilaga III och den tekniska beskrivningen av kategorierna av produkter med digitala element enligt bilaga IV. Denna genomförandeakt ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+### Artikel 8 – Kritiska produkter med digitala element
+
+1\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) med för att komplettera [denna förordning](/lagstiftning/cra) för att fastställa vilka produkter med digitala element och med kärnfunktionen hos en produktkategori som anges i bilaga IV till [denna förordning](/lagstiftning/cra) som ska erhålla ett europeiskt cybersäkerhetscertifikat på åtminstone assuransnivån ”betydande” enligt en europeisk ordning för cybersäkerhetscertifiering som antagits enligt [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) för att visa överensstämmelse med de väsentliga cybersäkerhetskraven i bilaga I till [den här förordningen](/lagstiftning/cra) eller delar därav, förutsatt att en europeisk ordning för cybersäkerhetscertifiering som omfattar dessa kategorier av produkter med digitala element har antagits i enlighet med [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) och är tillgänglig för tillverkarna. Dessa delegerade akter ska specificera den assuransnivå som krävs, vilken ska stå i proportion till den nivå av cybersäkerhetsrisk som är förbunden med produkterna med digitala element och ska ta hänsyn till deras avsedda ändamål, inbegripet det kritiska beroendet av dem av väsentliga entiteter som avses i artikel [3.1](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+Innan kommissionen antar sådana delegerade akter ska den göra en bedömning av de planerade åtgärdernas potentiella marknadseffekter och samråda med berörda parter, inbegripet den europeiska grupp för cybersäkerhetscertifiering som fastställs genom [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881). Bedömningen ska ta hänsyn till medlemsstaternas beredskap och kapacitetsnivå när det gäller att genomföra den relevanta europeiska ordningen för cybersäkerhetscertifiering. Om inga delegerade akter som avses i första stycket i denna punkt har antagits ska produkter med digitala element och med kärnfunktionen hos en produktkategori som anges i bilaga IV omfattas av de förfaranden för bedömning av överensstämmelse som avses i artikel [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element).
+
+De delegerade akter som avses i första stycket ska föreskriva en övergångsperiod på minst sex månader, såvida inte en kortare övergångsperiod är motiverad av tvingande skyndsamhetsskäl.
+
+2\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att ändra bilaga IV genom att lägga till eller stryka kategorier av produkter med digitala element. Vid fastställandet av sådana kategorier av kritiska produkter med digitala element och den assuransnivå som krävs, i enlighet med punkt 1 i [den här artikeln](#artikel-8-kritiska-produkter-med-digitala-element), ska kommissionen beakta de kriterier som avses i artikel [7.2](#artikel-7-viktiga-produkter-med-digitala-element) och säkerställa att kategorierna av produkter med digitala element uppfyller minst ett av följande kriterier:
+
+a) Väsentliga entiteter som avses i artikel [3](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) har ett kritiskt beroende av kategorin av produkter med digitala element.
+
+b) Incidenter och utnyttjade sårbarheter som rör kategorin av produkter med digitala element kan leda till allvarliga störningar i kritiska leveranskedjor på den inre marknaden.
+
+Innan kommissionen antar sådana delegerade akter ska den göra en bedömning av den typ som avses i punkt 1.
+
+De delegerade akter som avses i första stycket ska föreskriva en övergångsperiod på minst sex månader, såvida inte en kortare övergångsperiod är motiverad av tvingande skyndsamhetsskäl.
+
+### Artikel 9 – Samråd med berörda parter
+
+1\. När kommissionen utarbetar åtgärder för genomförandet av [denna förordning](/lagstiftning/cra) ska den samråda med och beakta synpunkter från berörda parter, såsom berörda myndigheter i medlemsstaterna, företag i den privata sektorn, inbegripet mikroföretag och små och medelstora företag, gemenskapen för programvara med fri och öppen källkod, konsumentorganisationer, den akademiska världen och relevanta unionsbyråer och unionsorgan samt expertgrupper som inrättats på unionsnivå. I synnerhet ska kommissionen på ett strukturerat sätt, när så är lämpligt, samråda med och inhämta synpunkter från dessa berörda parter när den
+
+a) utarbetar den vägledning som avses i artikel [26](/lagstiftning/cra/kap-2#artikel-26-vägledning),
+
+b) utarbetar de tekniska beskrivningarna av de produktkategorier som anges i bilaga III i enlighet med artikel [7.4](#artikel-7-viktiga-produkter-med-digitala-element), bedömer behovet av eventuella uppdateringar av förteckningen över produktkategorier i enlighet med artiklarna [7.3](#artikel-7-viktiga-produkter-med-digitala-element) och [8.2](#artikel-8-kritiska-produkter-med-digitala-element) eller genomför den bedömning av potentiella marknadseffekter som avses i artikel [8.1](#artikel-8-kritiska-produkter-med-digitala-element), utan att det påverkar tillämpningen av artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen),
+
+c) gör förberedande arbete inför utvärderingen och översynen av [denna förordning](/lagstiftning/cra).
+
+2\. Kommissionen ska anordna regelbundna samråd och informationsmöten, minst en gång om året, för att inhämta synpunkter från de berörda parter som avses i punkt 1 om genomförandet av [denna förordning](/lagstiftning/cra).
+
+### Artikel 10 – Förbättra kompetensen i en cyberresilient digital miljö
+
+Vid tillämpningen av [denna förordning](/lagstiftning/cra) och för att tillgodose yrkesutövarnas behov, till stöd för genomförandet av [denna förordning](/lagstiftning/cra), ska medlemsstaterna – när så är lämpligt med stöd av kommissionen, Europeiska kompetenscentrumet för cybersäkerhet och Enisa och med full respekt för medlemsstaternas ansvar på utbildningsområdet – främja åtgärder och strategier som syftar till att
+
+a) utveckla cybersäkerhetskompetensen och skapa organisatoriska och tekniska verktyg för att säkerställa tillräcklig tillgång till kvalificerad arbetskraft för att stödja verksamheten vid marknadskontrollmyndigheterna och organen för bedömning av överensstämmelse,
+
+b) förbättra samarbetet mellan den privata sektorn, ekonomiska aktörer, bland annat genom omskolning eller kompetenshöjning för tillverkares anställda, konsumenter, utbildningsanordnare och även offentliga förvaltningar, och därmed utöka möjligheterna för unga att få jobb inom cybersäkerhetssektorn.
+
+### Artikel 11 – Allmän produktsäkerhet
+
+Som avvikelse från artikel [2.1](#artikel-2-tillämpningsområde) tredje stycket b i [förordning (EU) 2023/988](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32023R0988) ska [kapitel III](/lagstiftning/cra/kap-3) avsnitt 1, kapitlen V och VII och kapitlen IX–XI i den förordningen tillämpas på produkter med digitala element med avseende på aspekter och risker eller riskkategorier som inte omfattas av [den här förordningen](/lagstiftning/cra), om dessa produkter inte omfattas av särskilda säkerhetskrav som fastställs i annan av unionsharmoniseringslagstiftning enligt definitionen i artikel [3.27](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32023R0988) i [förordning (EU) 2023/988](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32023R0988).
+
+### Artikel 12 – AI-system med hög risk
+
+1\. Utan att det påverkar tillämpningen av kraven på noggrannhet och robusthet som fastställs i artikel [15](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) ska produkter med digitala element vilka omfattas av [denna förordning](/lagstiftning/cra) och klassificeras som AI-system med hög risk enligt artikel [6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i den förordningen anses överensstämma med de cybersäkerhetskrav som fastställs i artikel [15](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i den förordningen om
+
+a) dessa produkter uppfyller de väsentliga cybersäkerhetskrav som fastställs i bilaga I del I,
+
+b) de processer som tillverkaren infört uppfyller de väsentliga cybersäkerhetskrav som fastställs i bilaga I del II, och
+
+c) uppnåendet av den nivå av cybersäkerhetsskydd som krävs enligt artikel [15](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) visas genom en EU-försäkran om överensstämmelse som utfärdats enligt [denna förordning](/lagstiftning/cra).
+
+2\. För de produkter med digitala element och cybersäkerhetskrav som avses i punkt 1 i [denna artikel](#artikel-12-ai-system-med-hög-risk) ska det relevanta förfarande för bedömning av överensstämmelse som föreskrivs i artikel [43](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) tillämpas. Vid denna bedömning ska anmälda organ som är behöriga att kontrollera överensstämmelsen för AI-system med hög risk inom ramen för [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) också vara behöriga att kontrollera överensstämmelsen med kraven i bilaga I till [denna förordning](/lagstiftning/cra) för AI-system med hög risk inom ramen för [denna förordning](/lagstiftning/cra), förutsatt att dessa anmälda organs uppfyllande av kraven i artikel [39](/lagstiftning/cra/kap-4#artikel-39-krav-på-anmälda-organ) i [denna förordning](/lagstiftning/cra) har bedömts i samband med anmälningsförfarandet inom ramen för [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689).
+
+3\. Genom avvikelse från punkt 2 i [denna artikel](#artikel-12-ai-system-med-hög-risk) ska viktiga produkter med digitala element som förtecknas i bilaga III till [denna förordning](/lagstiftning/cra), vilka omfattas av de förfaranden för bedömning av överensstämmelse som avses i artikel [32.2 a](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och b och 32.3 i [denna förordning](/lagstiftning/cra), och kritiska produkter med digitala element som förtecknas i bilaga IV till [denna förordning](/lagstiftning/cra), vilka måste få ett europeiskt cybersäkerhetscertifikat enligt artikel [8.1](#artikel-8-kritiska-produkter-med-digitala-element) i [denna förordning](/lagstiftning/cra), eller i avsaknad av det, vilka omfattas av de förfaranden för bedömning av överensstämmelse som avses i artikel [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) i [denna förordning](/lagstiftning/cra), och vilka klassificeras som AI-system med hög risk enligt artikel [6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) och omfattas av förfarandet för bedömning av överensstämmelse som grundar sig på intern kontroll enligt bilaga VI till [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689), genomgå de förfaranden för bedömning av överensstämmelse som föreskrivs i [den här förordningen](/lagstiftning/cra) i den mån som de väsentliga cybersäkerhetskrav som anges i [den här förordningen](/lagstiftning/cra) berörs.
+
+4\. Tillverkare av produkter med digitala element som avses i punkt 1 i [denna artikel](#artikel-12-ai-system-med-hög-risk) får delta i de regulatoriska sandlådor för AI som avses i artikel [57](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

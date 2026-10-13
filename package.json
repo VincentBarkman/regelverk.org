@@ -15,6 +15,9 @@
 		"test:e2e": "playwright install && playwright test",
 		"test": "npm run test:unit -- --run && npm run test:e2e",
 		"gen": "wrangler types",
+		"scan:laws": "node scripts/scan-laws.mjs",
+		"scan:standards": "node scripts/scan-standards.mjs",
+		"export:manual": "node scripts/export-manual-pages.mjs",
 		"test:unit": "vitest"
 	},
 	"devDependencies": {

@@ -1,0 +1,333 @@
+---
+'source': 'lek'
+'ref': '7 kap.'
+'title': '7 kap. – Tjänster till slutanvändare'
+'kind': 'chapter'
+'description': 'Lagen om elektronisk kommunikation (LEK), 7 kap..'
+'designation': 'LEK 7 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022482-om-elektronisk-kommunikation_sfs-2022-482/#K7'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Innan ett avtal ingås med en konsument ska den som tillhandahåller en allmänt tillgänglig elektronisk kommunikationstjänst på ett klart och begripligt sätt lämna information om avtalet och avgiftsfritt tillhandahålla en kortfattad och lättläst sammanfattning av avtalet. Om det inte är tekniskt möjligt att tillhandahålla sammanfattningen innan avtalet ingås, ska den lämnas så snart som möjligt därefter. Tillhandahållaren ska tillämpa villkor som innebär att avtalet gäller först när konsumenten har tagit emot sammanfattningen och bekräftat sin vilja att ingå avtalet.
+
+Bestämmelser om information som en näringsidkare ska ge en konsument innan ett avtal ingås finns också i [2 kap. 2 § lagen (2005:59)](https://rkrattsbaser.gov.se/sfst?bet=2005%3A59) om distansavtal och avtal utanför affärslokaler och i [22 a § marknadsföringslagen (2008:486)](https://rkrattsbaser.gov.se/sfst?bet=2008%3A486).
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om informationskravet i första stycket.
+
+### 2 §
+
+Bestämmelserna i [1 §](#1) gäller inte överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster.
+
+### 3 §
+
+Bestämmelserna i [1 §](#1) i [detta kapitel](/lagstiftning/lek/kap-7), i [2 kap. 2 § lagen (2005:59)](https://rkrattsbaser.gov.se/sfst?bet=2005%3A59) om distansavtal och avtal utanför affärslokaler och i [22 a § marknadsföringslagen (2008:486)](https://rkrattsbaser.gov.se/sfst?bet=2008%3A486) ska tillämpas även när avtal ingås med slutanvändare som är mikroföretag, andra små företag eller organisationer som drivs utan vinstsyfte, om inte slutanvändaren uttryckligen har samtyckt till att bestämmelserna frångås.
+
+### 4 §
+
+En tillhandahållare som avses i [1 §](#1) ska se till att informationen och sammanfattningen är en del av avtalet, om parterna inte uttryckligen har kommit överens om något annat.
+
+### 5 §
+
+Den som tillhandahåller en internetanslutningstjänst eller en allmänt tillgänglig interpersonell kommunikationstjänst ska offentliggöra tydlig, heltäckande och aktuell information om tjänsten.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om sådan information.
+
+### 6 §
+
+Regleringsmyndigheten får ålägga den som tillhandahåller en internetanslutningstjänst eller en allmänt tillgänglig interpersonell kommunikationstjänst att offentliggöra uttömmande, jämförbar, tillförlitlig, användarvänlig och aktuell information om tjänstens kvalitet och om vilka åtgärder som har vidtagits för att säkerställa likvärdig tillgång för slutanvändare med funktionsnedsättning. Informationen om tjänstens kvalitet ska offentliggöras i den utsträckning som tillhandahållaren utövar kontroll över nätet.
+
+Regleringsmyndigheten får också ålägga den som tillhandahåller en allmänt tillgänglig interpersonell kommunikationstjänst att informera konsumenter om i vilken utsträckning som kvaliteten på tjänsten är beroende av externa faktorer.
+
+### 7 §
+
+Bestämmelserna i [1](#1)-[6 §§](#6) gäller inte för en tillhandahållare som är ett mikroföretag om företaget tillhandahåller endast nummeroberoende interpersonella kommunikationstjänster. Tillhandahållaren ska, innan ett avtal ingås, informera slutanvändaren om detta.
+
+### 8 §
+
+Ett avtal mellan en konsument och den som tillhandahåller en allmänt tillgänglig elektronisk kommunikationstjänst får inte ha en längre bindningstid än 24 månader. Detta gäller dock inte när det är fråga om nummeroberoende interpersonella kommunikationstjänster eller överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster.
+
+### 9 §
+
+Bestämmelserna i [8 §](#8) hindrar inte att en konsument binds under längre tid än 24 månader om det är fråga om ett avtal som gäller avbetalning avseende anläggande av en fysisk anslutning till ett elektroniskt kommunikationsnät. Ett sådant avtal får inte omfatta terminalutrustning och inte heller innehålla villkor som strider mot [12](#12)-[17 §§](#17).
+
+### 10 §
+
+Bestämmelserna i [8](#8) och [9 §§](#9) ska gälla även i fråga om avtal som ingås med slutanvändare som är mikroföretag, andra små företag eller organisationer som drivs utan vinstsyfte, om inte slutanvändaren uttryckligen har samtyckt till att bestämmelserna frångås.
+
+### 11 §
+
+När det gäller överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster avses med slutanvändare i [12](#12) och [16 §§](#16) endast konsumenter, mikroföretag och andra små företag samt organisationer som drivs utan vinstsyfte.
+
+### 12 §
+
+> _Om den som tillhandahåller en slutanvändare en allmänt tillgänglig elektronisk kommunikationstjänst vill ändra avtalet, ska slutanvändaren på ett klart och begripligt sätt underrättas om ändringen minst en månad innan den träder i kraft. Underrättelsen ska lämnas på ett varaktigt medium och innehålla information om slutanvändarens rätt att säga upp avtalet._
+
+Inom tre månader från underrättelsen får en slutanvändare som inte godtar de nya villkoren säga upp avtalet utan ytterligare kostnad.
+
+Första och andra styckena gäller inte
+
+1\. nummeroberoende interpersonella kommunikationstjänster, eller
+
+2\. om ändringen av avtalet
+
+a) enbart är till slutanvändarens fördel,
+
+b) är av rent administrativ karaktär och inte får några negativa konsekvenser för slutanvändaren, eller
+
+c) krävs för att avtalet ska vara förenligt med unionsrätten eller nationell rätt.
+
+### 13 §
+
+Den som tillhandahåller en allmänt tillgänglig elektronisk kommunikationstjänst får i ett avtal med en konsument inte ställa upp villkor som innebär att uppsägningstiden för konsumenten är längre än en månad. I fråga om ett avtal med bindningstid får villkoren inte innebära att konsumenten måste säga upp avtalet tidigare än en månad före bindningstidens utgång för att avtalet ska upphöra att gälla vid den tidpunkten.
+
+Första stycket gäller inte nummeroberoende interpersonella kommunikationstjänster eller överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster.
+
+### 14 §
+
+I fråga om ett avtal med bindningstid där avtalet förlängs automatiskt får den som tillhandahåller en elektronisk kommunikationstjänst inte ställa upp villkor som innebär att en slutanvändare, efter en sådan förlängning, inte har rätt att när som helst säga upp avtalet med högst en månads uppsägningstid utan annan kostnad än avgifter för användning av tjänsten under uppsägningstiden.
+
+Första stycket gäller inte nummeroberoende interpersonella kommunikationstjänster eller överföringstjänster som används för tillhandahållande av maskin-till-maskin-tjänster.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldighet för tillhandahållaren att till slutanvändaren lämna information inför en avtalsförlängning och årlig information om prisvillkor.
+
+### 15 §
+
+Den som tillhandahåller en allmänt tillgänglig elektronisk kommunikationstjänst och som har ingått ett avtal med en konsument om abonnemang med bindningstid, i kombination med tillhandahållande av terminalutrustning, ska efter det att bindningstiden har löpt ut på begäran av konsumenten ta bort operatörslås kostnadsfritt och utan dröjsmål.
+
+Tillhandahållaren ska omedelbart efter bindningstidens utgång på ett tydligt sätt underrätta konsumenten om dennes rätt enligt första stycket.
+
+### 16 §
+
+När en slutanvändare, med stöd av unionsrätten eller nationell rätt, i förtid säger upp eller häver ett avtal som avser en allmänt tillgänglig elektronisk kommunikationstjänst som inte är en nummeroberoende interpersonell kommunikationstjänst, får tillhandahållaren begära kompensation endast för subventionerad terminalutrustning som slutanvändaren behåller. I ett sådant fall får kompensationen inte överstiga det lägsta av
+
+1\. det tidsproportionellt beräknade restvärdet av utrustningen, och
+
+2\. summan av avgifterna för tjänsten under den återstående avtalsperioden.
+
+Tillhandahållaren ska kostnadsfritt ta bort operatörslås senast vid betalning av kompensationen.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om beräkning av kompensationen.
+
+### 17 §
+
+Om den faktiska prestandan på en elektronisk kommunikationstjänst skiljer sig väsentligt från den prestanda som anges i ett avtal med en konsument, får konsumenten använda sig av de påföljder vid fel som anges i [16 § konsumenttjänstlagen (1985:716)](https://rkrattsbaser.gov.se/sfst?bet=1985%3A716). I ett sådant fall ska bestämmelserna om reklamation i [17](#17) och [18 §§](#18) i samma lag tillämpas.
+
+Första stycket gäller inte internetanslutningstjänster eller nummeroberoende interpersonella kommunikationstjänster.
+
+### 18 §
+
+Den som tillhandahåller en internetanslutningstjänst ska se till att en slutanvändare kan byta tillhandahållare utan avbrott i tjänsten i den utsträckning det är tekniskt genomförbart.
+
+Den mottagande tillhandahållaren ska tillhandahålla tjänsten så snart som möjligt den dag och inom den tidsram som har avtalats med slutanvändaren. Avbrott i tjänsten under bytet får inte överstiga en arbetsdag.
+
+### 19 §
+
+Den som tillhandahåller en elektronisk kommunikationstjänst ska se till att en slutanvändare med ett nummer ur en nationell nummerplan kan behålla sitt nummer vid byte av tillhandahållare. Om slutanvändaren begär det, ska ett nummer som används för en sådan tjänst överlämnas till en annan tillhandahållare som ska tillhandahålla tjänsten. Ett nummer vars sifferstruktur har geografisk betydelse behöver överlämnas endast för tillhandahållande av elektroniska kommunikationstjänster inom samma geografiska område
+
+(riktnummerområde).
+
+Vid byte av tillhandahållare ska en slutanvändare ha rätt att behålla sitt nummer under minst en månad efter det att avtalet har upphört, om inte slutanvändaren uttryckligen har avsagt sig den rätten.
+
+Första stycket gäller inte överlämnande av nummer mellan nät som tillhandahåller tjänster till en fast respektive en mobil nätanslutningspunkt.
+
+### 20 §
+
+Ett nummer ska överlämnas enligt [19 §](#19) så snart som möjligt den dag som har avtalats mellan slutanvändaren och den mottagande tillhandahållaren.
+
+Den mottagande tillhandahållaren ska tillhandahålla tjänsten så snart som möjligt och senast inom en arbetsdag från den dag som har avtalats med slutanvändaren. Avbrott i tjänsten under överlämnandet får inte överstiga en arbetsdag.
+
+När ett nummer har överlämnats övertar den mottagande tillhandahållaren tillståndet att använda det överlämnade numret liksom de rättigheter och skyldigheter som är knutna till numret för tiden efter överlämnandet.
+
+### 21 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om skyldigheterna enligt
+
+[18](#18)-[20 §§](#20) och föreskrifter om undantag från skyldigheterna samt får, i enskilda fall, besluta om undantag från skyldigheterna, om det finns särskilda skäl.
+
+Regeringen eller den myndighet som regeringen bestämmer får också meddela föreskrifter om att den som tillhandahåller en internetanslutningstjänst tillsammans med en e-postadress ska ge slutanvändare möjlighet att avgiftsfritt under en skälig tid efter det att avtalet har sagts upp få tillgång till e-
+
+postmeddelanden.
+
+### 22 §
+
+Ersättning för överlämnande enligt [19 §](#19) av ett nummer får grundas endast på driftskostnaden för överlämnandet.
+
+Den som har överlämnat ett nummer har rätt till ersättning endast för den driftskostnad som utgörs av ökade trafikkostnader för kommunikation till numret. Sådan ersättning får tas ut endast från den som den anropande slutanvändaren har ingått avtal om tillhandahållande av tjänsten med.
+
+Den som överlämnar ett nummer har inte rätt till ersättning för överlämnandet från slutanvändaren.
+
+### 23 §
+
+Den som enligt [19 §](#19) överlämnar ett nummer ska till den som regleringsmyndigheten bestämmer genast lämna de uppgifter som är nödvändiga för dirigering av kommunikation till numret. Andra uppgifter som kan vara direkt eller indirekt hänförliga till en fysisk person än uppgifter om nummer och om den som tillhandahåller berörda allmänt tillgängliga elektroniska kommunikationstjänster får inte lämnas utan samtycke från personen.
+
+Regleringsmyndigheten får utse någon att i en databas sammanställa sådana uppgifter och lämna dem till den som tillhandahåller allmänt tillgängliga elektroniska kommunikationstjänster, i den utsträckning som tillhandahållaren behöver uppgifterna för dirigering av kommunikation, och till andra som myndigheten bestämmer. Den utsedda databasoperatören ska i förhållande till den som tillhandahåller allmänt tillgängliga elektroniska kommunikationstjänster tillämpa villkor som är konkurrensneutrala och får ta ut den ersättning som är skälig med hänsyn till kostnaderna.
+
+[Denna lag](/lagstiftning/lek) gäller i tillämpliga delar för sådan databasverksamhet.
+
+### 24 §
+
+Den som tillhandahåller en elektronisk kommunikationstjänst ska ersätta en slutanvändare för skada som uppkommer genom dröjsmål
+
+1\. vid byte enligt [18 §](#18) av tillhandahållare,
+
+2\. med överlämnande enligt [19](#19) och [20 §§](#20) av ett nummer, eller
+
+3\. med tillhandahållande av en tjänst när sådant byte eller överlämnande har skett.
+
+Detsamma gäller i fråga om skada som uppkommer genom uteblivna service- eller installationstillfällen.
+
+Tillhandahållaren ska innan ett avtal ingås informera slutanvändaren om dennes rätt till ersättning.
+
+### 25 §
+
+Bestämmelserna i [24 §](#24) första stycket gäller inte om den som tillhandahåller tjänsten visar att dröjsmålet beror på ett hinder utanför dennes kontroll som denne inte skäligen kunde förväntas ha räknat med vid begäran om byte av tillhandahållare eller överlämnande av nummer eller vid bytet eller överlämnandet när det gäller dröjsmål med tillhandahållande av en tjänst. Dessutom ska tillhandahållaren visa att hindrets följder inte skäligen kunde ha undvikits eller övervunnits.
+
+Om dröjsmålet beror på någon som tillhandahållaren har anlitat för att helt eller delvis fullgöra bytet, överlämnandet eller tillhandahållandet, är den som tillhandahåller tjänsten fri från skadeståndsskyldighet endast om också den som har anlitats skulle vara fri enligt första stycket.
+
+Bestämmelserna i [24 §](#24) första stycket gäller inte heller i fråga om andra slutanvändare än konsumenter, om det av avtalet mellan tillhandahållaren och slutanvändaren följer att slutanvändaren har rätt till skälig ersättning på grund av dröjsmålet.
+
+Slutanvändaren har alltid rätt till ersättning för skada som har uppkommit genom missbruk när det gäller byte av tillhandahållare eller överlämnande av nummer.
+
+### 26 §
+
+När en tillhandahållare av en internetanslutningstjänst eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst tillhandahåller tjänsten till en konsument tillsammans med andra tjänster eller terminalutrustning (ett paket) gäller 5, 8, 9, 12-14, 16 och
+
+[18 §§](#18) alla delar av paketet. Även skyldigheten enligt [1 §](#1) att tillhandahålla en sammanfattning av avtalet gäller i ett sådant fall alla delar av paketet.
+
+Om en konsument, med stöd av unionsrätten eller nationell rätt, har rätt att i förtid säga upp eller häva någon del av paketet på grund av att den inte överensstämmer med avtalet eller att tillhandahållaren underlåter att leverera ska den rätten omfatta alla delar av paketet.
+
+### 27 §
+
+Den som tillhandahåller en konsument en internetanslutningstjänst eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst och som ingår ett avtal om ytterligare tjänster eller om terminalutrustning med konsumenten får ställa upp villkor som innebär en förlängning av den ursprungliga bindningstiden för det avtal till vilket sådana tjänster eller sådan terminalutrustning läggs till endast om konsumenten uttryckligen har samtyckt till det.
+
+### 28 §
+
+Bestämmelserna i [26 §](#26) första stycket och [27 §](#27) ska gälla även i förhållande till slutanvändare som är mikroföretag, andra små företag eller organisationer som drivs utan vinstsyfte, om inte slutanvändaren uttryckligen har samtyckt till att bestämmelserna frångås.
+
+### 29 §
+
+Den som tillhandahåller en internetanslutningstjänst eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska avgiftsfritt tillhandahålla en slutanvändare specificerade fakturor som gäller användningen av tjänsten, om inte slutanvändaren har begärt att fakturan ska vara ospecificerad.
+
+Samtal som är avgiftsfria för den uppringande slutanvändaren får inte anges på fakturan.
+
+### 30 §
+
+Den som tillhandahåller en internetanslutningstjänst eller en allmänt tillgänglig interpersonell kommunikationstjänst och fakturerar för förbrukning i volym eller tid ska avgiftsfritt erbjuda en konsument en funktion för övervakning och kontroll av användningen av respektive tjänst. Konsumenten ska informeras innan en fastställd förbrukningsgräns uppnås och när en tjänst är förbrukad.
+
+En konsument ska i samband med att ett avtal ingås informeras om sin rätt enligt första stycket.
+
+Första och andra styckena gäller inte för ett mikroföretag som tillhandahåller endast nummeroberoende interpersonella kommunikationstjänster. Ett sådant företag ska, innan ett avtal ingås, informera konsumenten om att paragrafen inte gäller.
+
+### 31 §
+
+Den som tillhandahåller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska på begäran av en slutanvändare avgiftsfritt spärra vissa nummer eller sådana typer av utgående samtal eller sms-meddelanden som har förhöjd taxa.
+
+En slutanvändare ska i samband med att ett avtal ingås om tjänsten informeras om sin rätt enligt första stycket och ska under en löpande avtalsperiod ha rätt att avgiftsfritt ändra spärren.
+
+### 32 §
+
+Den som tillhandahåller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska avgiftsfritt ge en konsument möjlighet att få tjänsten spärrad när kostnaden för tjänsten uppgår till ett visst belopp som konsumenten anger på förhand. När fordran mot konsumenten överstiger det angivna beloppet ska tjänsten avgiftsfritt avbrytas, om konsumenten inte begär att tjänsten ändå ska tillhandahållas.
+
+Att tjänsten avbryts ska inte hindra konsumenten från att ringa nödsamtal eller andra avgiftsfria samtal.
+
+En konsument ska i samband med att ett avtal ingås om tjänsten informeras om sin rätt enligt första stycket och ska under en löpande avtalsperiod ha rätt att avgiftsfritt ändra det angivna beloppet.
+
+### 33 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om skyldigheterna enligt
+
+[29](#29)-[32 §§](#32) och föreskrifter om undantag från skyldigheterna i
+
+[29](#29), [31](#31) och [32 §§](#32).
+
+Regeringen eller den myndighet som regeringen bestämmer får också meddela föreskrifter om att den som tillhandahåller en internetanslutningstjänst eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska
+
+1\. erbjuda konsumenter möjlighet att
+
+a) på förhand betala för användning av tjänsten, och
+
+b) på något annat sätt än de som anges i [29](#29)-[32 §§](#32) kontrollera sina kostnader för användningen av tjänsten, och
+
+2\. göra det möjligt för slutanvändare att stänga av tredjepartsfakturering.
+
+### 34 §
+
+Om en slutanvändare inte betalar för tillhandahållandet av en internetanslutningstjänst eller för en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst, får tillhandahållandet av tjänsten avbrytas först sedan slutanvändaren har uppmanats att betala inom viss skälig tid, med upplysning om att tillhandahållandet annars kan komma att avbrytas. Betalas tjänsten inom angiven tid, får tillhandahållandet inte avbrytas.
+
+Om en slutanvändare vid upprepade tillfällen har betalat för sent, får tillhandahållandet avbrytas omedelbart. Den som tillhandahåller tjänsten ska dock under minst tio dagar från avbrytandet ge slutanvändaren funktionell tillgång till internet och möjlighet att ringa nödsamtal och andra avgiftsfria samtal. Tillhandahållaren ska genast underrätta slutanvändaren om avbrytandet.
+
+Om en utebliven eller upprepad för sen betalning gäller en viss tjänst, ska avbrytandet begränsas till den tjänsten, om det är tekniskt möjligt och slutanvändaren varken
+
+1\. tidigare har fått en betalningsuppmaning, eller
+
+2\. har vilselett tillhandahållaren.
+
+### 35 §
+
+Den som tillhandahåller ett allmänt elektroniskt kommunikationsnät eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska
+
+1\. medverka till att nödkommunikation utan avbrott kan förmedlas avgiftsfritt för slutanvändaren, och
+
+2\. avgiftsfritt lämna lokaliseringsuppgifter till den som tar emot nödkommunikation.
+
+Den som tar emot nödkommunikation och vidarebefordrar sådan kommunikation till en annan alarmeringscentral ska se till att även den alarmeringscentral som nödkommunikationen skickas till får tillgång till lokaliseringsuppgifter.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheterna enligt första stycket och om undantag från skyldigheterna.
+
+### 36 §
+
+Den som tillhandahåller en allmänt tillgänglig mobil nummerbaserad interpersonell kommunikationstjänst ska avgiftsfritt medverka till att förmedla meddelanden enligt [lagen (2023:407)](https://rkrattsbaser.gov.se/sfst?bet=2023%3A407) om viktigt meddelande till allmänheten. Meddelandena ska förmedlas till terminalutrustning som har använts inom ett angivet geografiskt område som berörs av olyckan eller händelsen.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om undantag från skyldigheten.
+
+[Lag (2023:411)](https://rkrattsbaser.gov.se/sfst?bet=2023%3A411).
+
+### 37 §
+
+Den som tillhandahåller en allmänt tillgänglig elektronisk kommunikationstjänst ska ta hänsyn till de behov som slutanvändare med funktionsnedsättning har av att
+
+1\. få tillgång till elektroniska kommunikationstjänster, inklusive tillhörande avtalsinformation, i samma utsträckning som flertalet slutanvändare, och
+
+2\. kunna dra nytta av ett utbud av företag och tjänster som är likvärdigt med det som flertalet slutanvändare har tillgång till.
+
+Första stycket gäller inte för en tillhandahållare som är ett mikroföretag om företaget tillhandahåller endast nummeroberoende interpersonella kommunikationstjänster. Tillhandahållaren ska, innan ett avtal ingås, informera slutanvändaren om detta.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om de krav som ska uppfyllas vid tillhandahållandet av tjänsten enligt första stycket.
+
+### 38 §
+
+Den som tillhandahåller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska på rättvisa, kostnadsorienterade och icke-diskriminerande villkor tillgodose varje rimlig begäran om att till den som bedriver eller avser att bedriva abonnentupplysning lämna ut sådana abonnentuppgifter som inte enligt lag omfattas av sekretess eller tystnadsplikt.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldigheten att lämna ut abonnentuppgifter.
+
+### 39 §
+
+Regleringsmyndigheten får ålägga den som kontrollerar tillträde till slutanvändare och som bedriver verksamhet som ska anmälas enligt [2 kap. 1 §](/lagstiftning/lek/kap-2#1) skyldigheter i syfte att slutanvändare ska ha tillgång till upplysningstjänster om telefonabonnemang.
+
+### 40 §
+
+Den som tillhandahåller ett allmänt elektroniskt kommunikationsnät eller en allmänt tillgänglig elektronisk kommunikationstjänst får inte begränsa slutanvändares möjligheter att ansluta terminalutrustning till trådlösa lokala nät eller att erbjuda andra slutanvändare anslutning till sådana nät.
+
+### 41 §
+
+Den som tillhandahåller ett elektroniskt kommunikationsnät eller en elektronisk kommunikationstjänst får för tillgång till eller användning av nätet eller tjänsten inte ställa upp krav eller allmänna villkor som diskriminerar slutanvändare på grund av nationalitet eller bosättnings- eller etableringsort, om det inte kan motiveras på objektiva grunder.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

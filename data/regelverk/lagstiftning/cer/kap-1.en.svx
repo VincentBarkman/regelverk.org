@@ -1,0 +1,103 @@
+---
+'source': 'cer'
+'ref': 'Chapter I'
+'title': 'Chapter I – GENERAL PROVISIONS'
+'kind': 'chapter'
+'description': 'CER directive, Chapter I.'
+'designation': 'CER directive Chapter I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_I'
+'sites':
+  - 'ot'
+  - 'fysisk'
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Artikel 1 – Subject matter and scope
+
+1\. [This Directive](/lagstiftning/cer):
+
+(a) lays down obligations on Member States to take specific measures aimed at ensuring that services which are essential for the maintenance of vital societal functions or economic activities within the scope of Article 114 TFEU are provided in an unobstructed manner in the internal market, in particular obligations to identify critical entities and to support critical entities in meeting the obligations imposed on them;
+
+(b) lays down obligations for critical entities aimed at enhancing their resilience and ability to provide services as referred to in point (a) in the internal market;
+
+(c) establishes rules:
+
+(i) on the supervision of critical entities;
+
+(ii) on enforcement;
+
+(iii) for the identification of critical entities of particular European significance and on advisory missions to assess the measures that such entities have put in place to meet their obligations under [Chapter III](/lagstiftning/cer/kap-3);
+
+(d) establishes common procedures for cooperation and reporting on the application of [this Directive](/lagstiftning/cer);
+
+(e) lays down measures with a view to achieving a high level of resilience of critical entities in order to ensure the provision of essential services within the Union and to improve the functioning of the internal market.
+
+2\. [This Directive](/lagstiftning/cer) shall not apply to matters covered by [Directive (EU) 2022/2555](/lagstiftning/nis2), without prejudice to Article [8](/lagstiftning/cer/kap-2#artikel-8-critical-entities-in-the-banking-financial-market-infrastructure-and-digital-infrastructure-sectors) of [this Directive](/lagstiftning/cer). In light of the relationship between the physical security and cybersecurity of critical entities, Member States shall ensure that [this Directive](/lagstiftning/cer) and [Directive (EU) 2022/2555](/lagstiftning/nis2) are implemented in a coordinated manner.
+
+3\. Where provisions of sector-specific Union legal acts require critical entities to take measures to enhance their resilience and where those requirements are recognised by Member States as at least equivalent to the corresponding obligations laid down in [this Directive](/lagstiftning/cer), the relevant provisions of [this Directive](/lagstiftning/cer), including the provisions on supervision and enforcement laid down in [Chapter VI](/lagstiftning/cer/kap-6), shall not apply.
+
+4\. Without prejudice to Article [346](/lagstiftning/nis2) TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with [this Directive](/lagstiftning/cer) only where that exchange is necessary for the application of [this Directive](/lagstiftning/cer). The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and the security and commercial interests of critical entities, while respecting the security of Member States.
+
+5\. [This Directive](/lagstiftning/cer) is without prejudice to the Member States’ responsibility for safeguarding national security and defence and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
+
+6\. [This Directive](/lagstiftning/cer) does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences.
+
+7\. Member States may decide that Article [11](/lagstiftning/cer/kap-2#artikel-11-cooperation-between-member-states) and Chapters III, IV and VI, in whole or in part, do not apply to specific critical entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 6 of [this Article](#artikel-1-subject-matter-and-scope).
+
+8\. The obligations laid down in [this Directive](/lagstiftning/cer) shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
+
+9\. [This Directive](/lagstiftning/cer) is without prejudice to Union law on the protection of personal data, in particular [Regulation (EU) 2016/679](/lagstiftning/gdpr) of the European Parliament and of the Council (28) and [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) of the European Parliament and of the Council (29).
+
+### Artikel 2 – Definitions
+
+For the purposes of [this Directive](/lagstiftning/cer), the following definitions apply:
+
+#### Footnotes
+
+(1) ‘critical entity’ means a public or private entity which has been identified by a Member State in accordance with Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities) as belonging to one of the categories set out in the third column of the table in the Annex;
+
+(2) ‘resilience’ means a critical entity’s ability to prevent, protect against, respond to, resist, mitigate, absorb, accommodate and recover from an incident;
+
+(3) ‘incident’ means an event which has the potential to significantly disrupt, or that disrupts, the provision of an essential service, including when it affects the national systems that safeguard the rule of law;
+
+(4) ‘critical infrastructure’ means an asset, a facility, equipment, a network or a system, or a part of an asset, a facility, equipment, a network or a system, which is necessary for the provision of an essential service;
+
+(5) ‘essential service’ means a service which is crucial for the maintenance of vital societal functions, economic activities, public health and safety, or the environment;
+
+(6) ‘risk’ means the potential for loss or disruption caused by an incident and is to be expressed as a combination of the magnitude of such loss or disruption and the likelihood of occurrence of the incident;
+
+(7) ‘risk assessment ’ means the overall process for determining the nature and extent of a risk by identifying and analysing potential relevant threats, vulnerabilities and hazards which could lead to an incident and by evaluating the potential loss or disruption of the provision of an essential service caused by that incident;
+
+(8) ‘standard’ means a standard as defined in Article [2](#artikel-2-definitions), point (1), of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of the European Parliament and of the Council (30);
+
+(9) ‘technical specification’ means a technical specification as defined in Article [2](#artikel-2-definitions), point (4), of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025);
+
+(10) ‘public administration entity’ means an entity recognised as such in a Member State in accordance with national law, not including the judiciary, parliaments or central banks, which complies with the following criteria:
+
+(a) it is established for the purpose of meeting needs in the general interest and does not have an industrial or commercial character;
+
+(b) it has legal personality or is entitled by law to act on behalf of another entity with legal personality;
+
+(c) it is financed, for the most part, by the State authorities or by other central-level bodies governed by public law, is subject to management supervision by those authorities or bodies, or has an administrative, managerial or supervisory board, more than half of whose members are appointed by the State authorities or by other central-level bodies governed by public law;
+
+(d) it has the power to address to natural or legal persons administrative or regulatory decisions affecting their rights in the cross-border movement of persons, goods, services or capital.
+
+### Artikel 3 – Minimum harmonisation
+
+[This Directive](/lagstiftning/cer) shall not preclude Member States from adopting or maintaining provisions of national law with a view to achieving a higher level of resilience of critical entities, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

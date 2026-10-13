@@ -1,0 +1,268 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel I.'
+'designation': 'NIS2-direktivet Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_I'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Innehåll
+
+1\. I [detta direktiv](/lagstiftning/nis2) fastställs åtgärder för att uppnå en hög gemensam cybersäkerhetsnivå inom unionen, i syfte att förbättra den inre marknadens funktion.
+
+2\. Direktivet fastställer i detta syfte följande:
+
+a) Skyldigheter som ålägger medlemsstaterna att anta nationella strategier för cybersäkerhet och att utse eller inrätta behöriga myndigheter, myndigheter för hantering av cyberkriser, gemensamma kontaktpunkter för cybersäkerhet (gemensamma kontaktpunkter) och enheter för hantering av it-säkerhetsincidenter (CSIRT-enheter).
+
+b) Riskhanteringsåtgärder för cybersäkerhet och rapporteringsskyldigheter för entiteter av den typ som avses i bilaga I eller II samt för entiteter som identifieras som kritiska entiteter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+c) Regler och skyldigheter när det gäller informationsutbyte om cybersäkerhet.
+
+d) Skyldigheter för medlemsstaterna när det gäller tillsyn och efterlevnadskontroll.
+
+### Artikel 2 – Tillämpningsområde
+
+1\. [Detta direktiv](/lagstiftning/nis2) är tillämpligt på offentliga eller privata entiteter av den typ som avses i bilaga I eller II som betecknas som medelstora företag enligt artikel [2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) eller överstiger de trösklar för medelstora företag som avses i punkt 1 i den artikeln och som tillhandahåller sina tjänster eller bedriver sin verksamhet i unionen.
+
+Artikel [3.4](#artikel-3-väsentliga-och-viktiga-entiteter) i bilagan till den rekommendationen är inte tillämplig med avseende på [detta direktiv](/lagstiftning/nis2).
+
+2\. Oavsett entiteternas storlek är [detta direktiv](/lagstiftning/nis2) också tillämpligt på entiteter av en typ som avses i bilaga I eller II, i följande fall:
+
+a) Om tjänster tillhandahålls av
+
+i) tillhandahållare av allmänna elektroniska kommunikationsnät eller av allmänt tillgängliga elektroniska kommunikationstjänster,
+
+ii) tillhandahållare av betrodda tjänster,
+
+iii) registreringsenheter för toppdomäner och leverantörer av domännamnssystemtjänster.
+
+b) Om entiteten är den enda leverantören i en medlemsstat av en tjänst som är väsentlig för att upprätthålla kritisk samhällelig eller ekonomisk verksamhet.
+
+c) Om en störning av den tjänst som entiteten tillhandahåller kan ha en betydande påverkan på skyddet för människors liv och hälsa, allmän säkerhet eller folkhälsa.
+
+d) Om en störning av den tjänst som entiteten tillhandahåller kan medföra betydande systemrisker, särskilt för de sektorer där sådana störningar kan få gränsöverskridande konsekvenser.
+
+e) Entiteten är kritisk på grund av sin särskilda betydelse på nationell eller regional nivå för en särskild sektor eller typ av tjänst, eller för andra sektorer i medlemsstaten som är beroende av denna entitet.
+
+f) Om entiteten är en offentlig förvaltningsentitet
+
+i) på statlig nivå såsom de definieras av en medlemsstat i enlighet med nationell rätt, eller
+
+ii) på regional nivå såsom de definieras av en medlemsstat i enlighet med nationell rätt, som enligt en riskbaserad bedömning tillhandahåller tjänster vars störning kan ha en betydande effekt på kritisk samhällelig eller ekonomisk verksamhet.
+
+3\. Oavsett entiteternas storlek är [detta direktiv](/lagstiftning/nis2) tillämpligt på entiteter som identifieras som kritiska entiteter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+4\. Oavsett entiteternas storlek är [detta direktiv](/lagstiftning/nis2) tillämpligt på entiteter som tillhandahåller domännamnsregistreringstjänster.
+
+5\. Medlemsstaterna får föreskriva att [detta direktiv](/lagstiftning/nis2) ska tillämpas på
+
+a) offentliga förvaltningsentiteter på lokal nivå,
+
+b) utbildningsinstitut, särskilt om de utför kritisk forskningsverksamhet.
+
+6\. [Detta direktiv](/lagstiftning/nis2) påverkar inte medlemsstaternas ansvar för att skydda nationell säkerhet och deras befogenhet att skydda andra väsentliga statliga funktioner, inbegripet att säkerställa statens territoriella integritet och upprätthålla lag och ordning.
+
+7\. [Detta direktiv](/lagstiftning/nis2) är inte tillämpligt på offentliga förvaltningsentiteter som bedriver verksamhet på områdena nationell säkerhet, allmän säkerhet, försvar eller brottsbekämpning, inbegripet förebyggande, utredning, upptäckt och lagföring av brott.
+
+8\. Medlemsstaterna får undanta särskilda entiteter som bedriver verksamhet på områdena nationell säkerhet, allmän säkerhet, försvar eller brottsbekämpning, inbegripet förebyggande, utredning, upptäckt och lagföring av brott, eller som tillhandahåller tjänster uteslutande till en offentlig förvaltningsentitet som avses i punkt 7 i [den här artikeln](#artikel-2-tillämpningsområde), från skyldigheterna i artikel [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) eller [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) med avseende på sådan verksamhet eller sådana tjänster. I sådana fall ska de tillsyns- och efterlevnadskontrollåtgärder som avses i [kapitel VII](/lagstiftning/nis2/kap-7) inte tillämpas på denna specifika verksamhet eller dessa specifika tjänster. Om entiteterna bedriver verksamhet eller tillhandahåller tjänster uteslutande av den typ som avses i den här punkten, får medlemsstaterna besluta att befria dessa entiteter också från skyldigheterna i artiklarna [3](#artikel-3-väsentliga-och-viktiga-entiteter) och [27](/lagstiftning/nis2/kap-5#artikel-27-register-över-entiteter).
+
+9\. Punkterna 7 och 8 är inte tillämpliga om en entitet agerar som tillhandahållare av betrodda tjänster.
+
+10\. [Detta direktiv](/lagstiftning/nis2) är inte tillämpligt på entiteter som medlemsstaterna har undantagit från tillämpningsområdet för [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i enlighet med artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i den förordningen.
+
+11\. De skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2) ska inte medföra tillhandahållande av information vars utlämnande strider mot väsentliga intressen i fråga om medlemsstaternas nationella säkerhet, allmänna säkerhet eller försvar.
+
+12\. [Detta direktiv](/lagstiftning/nis2) påverkar inte tillämpningen av [förordning (EU) 2016/679](/lagstiftning/gdpr), [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058), Europaparlamentets och rådets [direktiv 2011/93/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0093) (27) och [2013/40/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0040) (28) och [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+13\. Utan att det påverkar tillämpningen av artikel [346](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:12012E) i EUF-fördraget ska information som är konfidentiell enligt unionsbestämmelser eller nationella bestämmelser, såsom bestämmelser om affärshemligheter, utbytas med kommissionen och andra berörda myndigheter i enlighet med [detta direktiv](/lagstiftning/nis2) endast när ett sådant utbyte är nödvändigt för att tillämpa [detta direktiv](/lagstiftning/nis2). Den information som utbyts ska begränsas till vad som är relevant och proportionellt för ändamålet med utbytet. Vid utbytet ska informationens konfidentialitet bevaras och berörda entiteters säkerhets- och affärsintressen skyddas.
+
+14\. Entiteter, behöriga myndigheter, gemensamma kontaktpunkter och CSIRT-enheter ska behandla personuppgifter i den utsträckning som krävs för tillämpningen av [detta direktiv](/lagstiftning/nis2) och i enlighet med [förordning (EU) 2016/679](/lagstiftning/gdpr), i synnerhet ska sådan behandling baseras på artikel [6](#artikel-6-definitioner) i denna.
+
+Behandlingen av personuppgifter enligt [detta direktiv](/lagstiftning/nis2) av tillhandahållare av allmänna elektroniska kommunikationsnät eller tillhandahållare av allmänt tillgängliga elektroniska kommunikationstjänster ska utföras i enlighet med unionens dataskydds- och integritetslagstiftning, särskilt [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058).
+
+### Artikel 3 – Väsentliga och viktiga entiteter
+
+1\. Med avseende på tillämpningen av [detta direktiv](/lagstiftning/nis2) ska följande entiteter anses vara väsentliga entiteter:
+
+a) Entiteter av en typ som avses i bilaga I som överstiger trösklarna för medelstora företag som fastställs i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+b) Kvalificerade tillhandahållare av betrodda tjänster och registreringsenheter för toppdomäner samt leverantörer av DNS-tjänster, oavsett storlek.
+
+c) Tillhandahållare av allmänna elektroniska kommunikationsnät eller allmänt tillgängliga elektroniska kommunikationstjänster som betraktas som medelstora företag enligt artikel [2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+d) Offentliga förvaltningsentiteter som avses i artikel [2.2 f](#artikel-2-tillämpningsområde) i.
+
+e) Alla andra entiteter av en typ som avses i bilaga I eller II som av en medlemsstat identifierats som väsentliga entiteter i enlighet med artikel [2.2 b](#artikel-2-tillämpningsområde)–e.
+
+f) Entiteter som identifierats som kritiska entiteter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer), som avses i artikel [2.3](#artikel-2-tillämpningsområde) i [det här direktivet](/lagstiftning/nis2).
+
+g) Entiteter som medlemsstaterna före den 16 januari 2023 har identifierat som leverantörer av samhällsviktiga tjänster i enlighet med [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) eller nationell rätt, om så föreskrivs av medlemsstaten.
+
+2\. Vid tillämpningen av [detta direktiv](/lagstiftning/nis2) ska alla entiteter av en typ som avses i bilaga I eller II och som inte betraktas som väsentliga entiteter enligt punkt 1 i [denna artikel](#artikel-3-väsentliga-och-viktiga-entiteter) betraktas som viktiga entiteter. Detta inkluderar entiteter som av en medlemsstat identifierats som viktiga entiteter i enlighet med artikel [2.2 b](#artikel-2-tillämpningsområde)–e.
+
+3\. Senast den 17 april 2025 ska medlemsstaterna upprätta en förteckning över väsentliga och viktiga entiteter samt entiteter som tillhandahåller domännamnsregistreringstjänster. Medlemsstaterna ska regelbundet och minst vartannat år därefter se över förteckningen och när det är lämpligt uppdatera den.
+
+4\. Vid upprättandet av den förteckning som avses i punkt 3 ska medlemsstaterna ålägga de entiteter som avses i den punkten att lämna minst följande information till de behöriga myndigheterna:
+
+a) Entitetens namn.
+
+b) Adress och aktuella kontaktuppgifter, inklusive e-postadresser, IP-adresser och telefonnummer.
+
+c) I tillämpliga fall, den eller de relevanta sektorer och delsektorer som avses i bilaga I eller II.
+
+d) I tillämpliga fall, en förteckning över de medlemsstater där de tillhandahåller tjänster som omfattas av [detta direktiv](/lagstiftning/nis2).
+
+De entiteter som avses i punkt 3 ska meddela alla ändringar av de uppgifter som de lämnat in enligt första stycket i denna punkt utan dröjsmål och under alla omständigheter inom två veckor från datumet för ändringen.
+
+Kommissionen ska, med bistånd från Europeiska unionens cybersäkerhetsbyrå (Enisa), utan onödigt dröjsmål tillhandahålla riktlinjer och mallar för de skyldigheter som fastställs i denna punkt.
+
+Medlemsstaterna får inrätta nationella mekanismer som gör det möjligt för entiteterna att registrera sig själva.
+
+5\. Senast den 17 april 2025 och därefter vartannat år ska de behöriga myndigheterna
+
+a) underrätta kommissionen och samarbetsgruppen om antalet väsentliga och viktiga entiteter som förtecknats enligt punkt 3 för varje sektor och delsektor som avses i bilaga I eller II, och
+
+b) lämna relevant information till kommissionen om antalet väsentliga och viktiga entiteter som identifierats i enlighet med artikel [2.2 b](#artikel-2-tillämpningsområde)–e, den sektor och delsektor som avses i bilaga I eller II som de tillhör, den typ av tjänst som de tillhandahåller och de bestämmelser i artikel [2.2 b](#artikel-2-tillämpningsområde)–e i enlighet med vilka de identifierades.
+
+6\. Fram till den 17 april 2025 och på begäran av kommissionen får medlemsstaterna meddela kommissionen namnen på de väsentliga och viktiga entiteter som avses i punkt 5 b.
+
+### Artikel 4 – Sektorsspecifika unionsrättsakter
+
+1\. Om det i sektorsspecifika unionsrättsakter föreskrivs att väsentliga eller viktiga entiteter ska anta riskhanteringsåtgärder för cybersäkerhet eller underrätta om betydande incidenter, och om dessa krav har minst samma verkan som de skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2), ska de relevanta bestämmelserna i [detta direktiv](/lagstiftning/nis2), inbegripet bestämmelserna om tillsyn och efterlevnadskontroll i [kapitel VII](/lagstiftning/nis2/kap-7), inte tillämpas på sådana entiteter. Om de sektorsspecifika unionsrättsakterna inte omfattar alla entiteter inom en viss sektor som omfattas av [detta direktivs](/lagstiftning/nis2) tillämpningsområde, ska de relevanta bestämmelserna i [detta direktiv](/lagstiftning/nis2) fortsätta att tillämpas på de entiteter som inte omfattas av dessa sektorsspecifika unionsrättsakter.
+
+2\. De krav som avses i punkt 1 i [denna artikel](#artikel-4-sektorsspecifika-unionsrättsakter) ska anses ha samma verkan som de skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2) om
+
+a) riskhanteringsåtgärderna för cybersäkerhet minst är likvärdiga som de åtgärder som föreskrivs i artikel [21.1](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [21.2](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet), eller
+
+b) respektive sektorsspecifik unionsrättsakt föreskriver omedelbar, och när det är lämpligt automatisk och direkt, tillgång till incidentunderrättelser från CSIRT-enheterna, de behöriga myndigheterna eller de gemensamma kontaktpunkterna enligt [detta direktiv](/lagstiftning/nis2) och om kraven på underrättelse av betydande incidenter har minst samma verkan som de krav som fastställs i artikel [23.1](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter)–[23.6](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) i [detta direktiv](/lagstiftning/nis2).
+
+3\. Kommissionen ska senast den 17 juli 2023 tillhandahålla riktlinjer som klargör tillämpningen av punkterna 1 och 2. Kommissionen ska regelbundet se över dessa riktlinjer. Vid utarbetandet av dessa riktlinjer ska kommissionen ta hänsyn till eventuella synpunkter från samarbetsgruppen och Enisa.
+
+### Artikel 5 – Minimiharmonisering
+
+[Detta direktiv](/lagstiftning/nis2) hindrar inte medlemsstaterna från att anta eller behålla bestämmelser som säkerställer en högre cybersäkerhetsnivå, förutsatt att sådana bestämmelser står i överensstämmelse med medlemsstaternas förpliktelser enligt unionsrätten.
+
+### Artikel 6 – Definitioner
+
+I [detta direktiv](/lagstiftning/nis2) gäller följande definitioner:
+
+1\. nätverks- och informationssystem:
+
+a) Ett elektroniskt kommunikationsnät enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) i [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972).
+
+b) En enhet eller en grupp enheter som är sammankopplade eller hör samman med varandra, av vilka en eller flera genom ett program utför automatisk behandling av digitala uppgifter.
+
+c) Digitala uppgifter som lagras, behandlas, hämtas eller överförs med sådana hjälpmedel som omfattas av leden a och b för att de ska kunna drivas, användas, skyddas och underhållas.
+
+2\. säkerhet i nätverks- och informationssystem: nätverks- och informationssystems förmåga att med en viss tillförlitlighetsnivå motstå händelser som kan undergräva tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten hos lagrade, överförda eller behandlade uppgifter eller hos de tjänster som erbjuds genom eller är tillgängliga via dessa nätverks- och informationssystem.
+
+3\. cybersäkerhet: cybersäkerhet enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+4\. nationell strategi för cybersäkerhet: en enhetlig ram i en medlemsstat med strategiska mål och prioriteringar på cybersäkerhetsområdet och en styrningsram för att uppnå dem i den medlemsstaten.
+
+5\. tillbud: en händelse som kunde ha undergrävt tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten hos lagrade, överförda eller behandlade uppgifter eller hos de tjänster som erbjuds genom eller är tillgängliga via nätverks- och informationssystem, men som framgångsrikt hindrades från att utvecklas eller som inte uppstod.
+
+6\. incident: en händelse som undergräver tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten hos lagrade, överförda eller behandlade uppgifter eller hos de tjänster som erbjuds genom eller är tillgängliga via nätverks- och informationssystem.
+
+7\. storskalig cybersäkerhetsincident: en incident som orsakar störningar som är så omfattande att den berörda medlemsstaten inte kan hantera dem eller som har en betydande påverkan på minst två medlemsstater.
+
+8\. incidenthantering: alla åtgärder och förfaranden som syftar till att förebygga, upptäcka, analysera, begränsa eller reagera på och återhämta sig från en incident.
+
+9\. risk: risk för förlust eller störning orsakad av en incident, som ska uttryckas som en kombination av omfattningen av förlusten eller störningen och sannolikheten för att en sådan incident inträffar.
+
+10\. cyberhot: ett cyberhot enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+11\. betydande cyberhot: ett cyberhot som, på grund av dess tekniska egenskaper, kan antas ha potential att ha en allvarlig påverkan på en entitets nätverks- och informationssystem eller användarna av entitetens tjänster genom att vålla betydande materiell eller immateriell skada.
+
+12\. IKT-produkt: en IKT-produkt enligt definitionen i artikel [2.12](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+13\. IKT-tjänst: en IKT-tjänst enligt definitionen i artikel [2.13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+14\. IKT-process: en IKT-process enligt definitionen i artikel [2.14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+15\. sårbarhet: en svaghet, känslighet eller brist hos IKT-produkter eller IKT-tjänster som kan utnyttjas genom ett cyberhot.
+
+16\. standard: en standard enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [Europaparlamentets och rådets förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) (29).
+
+17\. teknisk specifikation: en teknisk specifikation enligt definitionen i artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+18\. internetknutpunkt: en nätfacilitet som möjliggör sammankoppling av mer än två oberoende nät (autonoma system), främst i syfte att underlätta utbytet av internettrafik, som tillhandahåller sammankoppling enbart för autonoma system och som varken kräver att den internettrafik som passerar mellan två deltagande autonoma system ska passera genom ett tredje autonomt system eller ändrar trafiken eller påverkar den på något annat sätt.
+
+19\. domännamnssystem eller DNS: ett hierarkiskt distribuerat namnsystem som möjliggör identifieringen av tjänster och resurser på internet, vilket gör det möjligt för slutanvändarenheter att använda internetrouting- och internetuppkopplingstjänster för att nå dessa tjänster och resurser.
+
+20\. leverantör av DNS-tjänster: en entitet som tillhandahåller
+
+a) allmänna rekursiva tjänster för att lösa domännamnsfrågor till internetslutanvändare, eller
+
+b) auktoritativa tjänster för att lösa domännamnsfrågor för användning av tredje part, med undantag för rotnamnsservrar.
+
+21\. registreringsenhet för toppdomäner eller TLD-registreringsenhet: en enhet som har delegerats en specifik toppdomän och som ansvarar för administrationen av toppdomänen, inbegripet registreringen av domännamn under toppdomänen och den tekniska driften av toppdomänen, inbegripet drift av dess namnservrar, underhåll av dess databaser och distribution av zonfiler för toppdomänen mellan namnservrar, oberoende av huruvida någon aspekt av denna drift utförs av enheten själv eller har utkontrakterats, dock inte situationer där toppdomäner används av en registreringsenhet endast för dess eget bruk.
+
+22\. entitet som erbjuder domännamnsregistreringstjänster: en registrar som verkar på uppdrag av en regeringsenhet eller ett ombud för en registreringsenhet, såsom återförsäljare och leverantörer av integritetsregistreringstjänster och proxyregistreringstjänster.
+
+23\. digital tjänst: en tjänst enligt definitionen i artikel [1.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L1535) i [Europaparlamentets och rådets direktiv (EU) 2015/1535](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L1535) (30).
+
+24\. betrodd tjänst: en betrodd tjänst enligt definitionen i artikel [3.16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+
+25\. tillhandahållare av betrodda tjänster: en tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.19](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+
+26\. kvalificerad betrodd tjänst: en kvalificerad betrodd tjänst enligt definitionen i artikel [3.17](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+
+27\. kvalificerad tillhandahållare av betrodda tjänster: en kvalificerad tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+
+28\. marknadsplats online: en marknadsplats online enligt definitionen i artikel [2 n](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0029) i Europaparlamentets och rådets [direktiv 2005/29/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0029) (31).
+
+29\. sökmotor: en sökmotor enligt definitionen i artikel [2.5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) i [Europaparlamentets och rådets förordning (EU) 2019/1150](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) (32).
+
+30\. molntjänst: en digital tjänst som möjliggör administration på begäran och bred fjärråtkomst till en skalbar och elastisk pool av gemensamma beräkningstjänster, inbegripet när sådana resurser är distribuerade på flera platser.
+
+31\. datacentraltjänst: en tjänst som omfattar strukturer, eller grupper av strukturer, avsedda för centraliserad inkvartering, sammankoppling och drift av it- och nätutrustning som tillhandahåller datalagrings-, databehandlings- och dataöverföringstjänster samt alla anläggningar och infrastrukturer för kraftdistribution och miljökontroll.
+
+32\. nätverk för leverans av innehåll: ett nätverk av geografiskt spridda servrar vars syfte är att säkerställa hög tillgänglighet för, tillgång till eller snabb leverans av digitalt innehåll och digitala tjänster till internetanvändare för innehålls- och tjänsteleverantörers räkning.
+
+33\. plattform för sociala nätverkstjänster: en plattform som gör det möjligt för slutanvändare att interagera, dela och upptäcka innehåll, finna andra användare och kommunicera med andra via flera enheter, särskilt genom chattar, inlägg, videor och rekommendationer.
+
+34\. företrädare: en i unionen etablerad fysisk eller juridisk person som uttryckligen har utsetts att agera för en leverantör av DNS-tjänster, en registreringsenhet för toppdomäner, en entitet som tillhandahåller domännamnsregistreringstjänster, en leverantör av molntjänster, en leverantör av datacentraltjänster, en leverantör av nätverk för leverans av innehåll, driftsentreprenad, en leverantör av hanterade säkerhetstjänster, en leverantör av marknadsplatser online, av sökmotorer eller av en plattform för sociala nätverkstjänster som inte är etablerad i unionen, till vilka en behörig myndighet eller en CSIRT-enhet kan vända sig i stället för entiteten, i frågor som gäller de skyldigheter som den entiteten har enligt [detta direktiv](/lagstiftning/nis2).
+
+35\. offentlig förvaltningsentitet: en entitet som erkänts som sådan i en medlemsstat i enlighet med nationell rätt, med undantag för rättsväsendet, parlament och centralbanker, som uppfyller följande kriterier:
+
+a) Den har inrättats för att tillgodose behov i det allmännas intresse och har inte industriell eller kommersiell karaktär.
+
+b) Den har ställning som juridisk person eller har lagstadgad rätt att agera för en annan entitet som har ställning som juridisk person.
+
+c) Den finansieras till största delen av staten, regionala myndigheter eller andra offentligrättsliga organ, står under administrativ tillsyn av dessa myndigheter eller organ, eller har ett förvaltnings-, lednings- eller kontrollorgan där mer än hälften av ledamöterna utses av staten, regionala myndigheter eller andra offentligrättsliga organ.
+
+d) Den har befogenhet att rikta administrativa eller reglerande beslut till fysiska eller juridiska personer som påverkar deras rättigheter när det gäller gränsöverskridande rörlighet för personer, varor, tjänster eller kapital.
+
+36\. allmänt elektroniskt kommunikationsnät: ett allmänt elektroniskt kommunikationsnät enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) i [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972).
+
+37\. elektronisk kommunikationstjänst: en elektronisk kommunikationstjänst enligt definitionen i artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) i [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972).
+
+38\. entitet: en fysisk eller juridisk person som bildats och erkänts som sådan enligt nationell rätt där den etablerats och som i eget namn får utöva rättigheter och ha skyldigheter.
+
+39\. driftsentreprenad: en entitet som tillhandahåller tjänster som rör installation, förvaltning, drift eller underhåll av IKT-produkter, IKT-nät, IKT-infrastruktur, IKT-tillämpningar eller andra nätverks- och informationssystem, via bistånd eller aktiv administration antingen i kundernas lokaler eller på distans.
+
+40\. leverantör av hanterade säkerhetstjänster: en leverantör av hanterade säkerhetstjänster som utför eller tillhandahåller stöd för verksamhet som rör hantering av cybersäkerhetsrisker.
+
+41\. forskningsorganisation: en entitet vars främsta mål är att bedriva tillämpad forskning eller experimentell utveckling i syfte att utnyttja resultaten av denna forskning i kommersiellt syfte, men som inte inbegriper utbildningsinstitutioner.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

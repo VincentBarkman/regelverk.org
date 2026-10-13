@@ -1,0 +1,438 @@
+---
+'source': 'gdpr'
+'ref': 'Kapitel IV'
+'title': 'Kapitel IV – Personuppgiftsansvarig och personuppgiftsbiträde'
+'kind': 'chapter'
+'description': 'Dataskyddsförordningen (GDPR), Kapitel IV.'
+'designation': 'GDPR Kapitel IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32016R0679#cpt_IV'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 24 – Den personuppgiftsansvariges ansvar
+
+1\. Med beaktande av behandlingens art, omfattning, sammanhang och ändamål samt riskerna, av varierande sannolikhetsgrad och allvar, för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige genomföra lämpliga tekniska och organisatoriska åtgärder för att säkerställa och kunna visa att behandlingen utförs i enlighet med [denna förordning](/lagstiftning/gdpr). Dessa åtgärder ska ses över och uppdateras vid behov.
+
+2\. Om det står i proportion till behandlingen, ska de åtgärder som avses i punkt 1 omfatta den personuppgiftsansvariges genomförande av lämpliga strategier för dataskydd.
+
+3\. Tillämpningen av godkända uppförandekoder som avses i artikel [40](#artikel-40-uppförandekoder) eller godkända certifieringsmekanismer som avses i artikel [42](#artikel-42-certifiering) får användas för att visa att den personuppgiftsansvarige fullgör sina skyldigheter.
+
+### Artikel 25 – Inbyggt dataskydd och dataskydd som standard
+
+1\. Med beaktande av den senaste utvecklingen, genomförandekostnader och behandlingens art, omfattning, sammanhang och ändamål samt riskerna, av varierande sannolikhetsgrad och allvar, för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige, både vid fastställandet av vilka medel behandlingen utförs med och vid själva behandlingen, genomföra lämpliga tekniska och organisatoriska åtgärder – såsom pseudonymisering – vilka är utformade för ett effektivt genomförande av dataskyddsprinciper – såsom uppgiftsminimering – och för integrering av de nödvändiga skyddsåtgärderna i behandlingen, så att kraven i [denna förordning](/lagstiftning/gdpr) uppfylls och den registrerades rättigheter skyddas.
+
+2\. Den personuppgiftsansvarige ska genomföra lämpliga tekniska och organisatoriska åtgärder för att, i standardfallet, säkerställa att endast personuppgifter som är nödvändiga för varje specifikt ändamål med behandlingen behandlas. Den skyldigheten gäller mängden insamlade personuppgifter, behandlingens omfattning, tiden för deras lagring och deras tillgänglighet. Framför allt ska dessa åtgärder säkerställa att personuppgifter i standardfallet inte utan den enskildes medverkan görs tillgängliga för ett obegränsat antal fysiska personer.
+
+3\. En godkänd certifieringsmekanism i enlighet med artikel [42](#artikel-42-certifiering) får användas för att visa att kraven i punkterna 1 och 2 i [den här artikeln](#artikel-25-inbyggt-dataskydd-och-dataskydd-som-standard) följs.
+
+### Artikel 26 – Gemensamt personuppgiftsansvariga
+
+1\. Om två eller fler personuppgiftsansvariga gemensamt fastställer ändamålen med och medlen för behandlingen ska de vara gemensamt personuppgiftsansvariga. Gemensamt personuppgiftsansvariga ska under öppna former fastställa sitt respektive ansvar för att fullgöra skyldigheterna enligt [denna förordning](/lagstiftning/gdpr), särskilt vad gäller utövandet av den registrerades rättigheter och sina respektive skyldigheter att tillhandahålla den information som avses i artiklarna [13](/lagstiftning/gdpr/kap-3#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](/lagstiftning/gdpr/kap-3#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade), genom ett inbördes arrangemang, såvida inte de personuppgiftsansvarigas respektive skyldigheter fastställs genom unionsrätten eller en medlemsstats nationella rätt som de personuppgiftsansvariga omfattas av. Inom ramen för arrangemanget får en gemensam kontaktpunkt för de personuppgiftsansvariga utses.
+
+2\. Det arrangemang som avses i punkt 1 ska på lämpligt sätt återspegla de gemensamt personuppgiftsansvarigas respektive roller och förhållanden gentemot registrerade. Det väsentliga innehållet i arrangemanget ska göras tillgängligt för den registrerade.
+
+3\. Oavsett formerna för det arrangemang som avses i punkt 1 får den registrerade utöva sina rättigheter enligt [denna förordning](/lagstiftning/gdpr) med avseende på och emot var och en av de personuppgiftsansvariga.
+
+### Artikel 27 – Företrädare för personuppgiftsansvariga eller personuppgiftsbiträden som inte är etablerade i unionen
+
+1\. Om artikel [3.2](/lagstiftning/gdpr/kap-1#artikel-3-territoriellt-tillämpningsområde) tillämpas ska den personuppgiftsansvarige eller personuppgiftsbiträdet skriftligen utse en företrädare i unionen.
+
+2\. Skyldigheten enligt punkt 1 i [denna artikel](#artikel-27-företrädare-för-personuppgiftsansvariga-eller-personuppgiftsbiträden-som-inte-är-etablerade-i-unionen) ska inte gälla
+
+a) tillfällig behandling som inte omfattar behandling i stor omfattning av särskilda kategorier av uppgifter, som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter), eller behandling av personuppgifter avseende fällande domar i brottmål samt överträdelser, som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser), och som sannolikt inte kommer att medföra en risk för fysiska personers rättigheter och friheter, med hänsyn till behandlingens art, sammanhang, omfattning och ändamål, eller
+
+b) en offentlig myndighet eller ett offentligt organ.
+
+3\. Företrädaren ska vara etablerad i en av de medlemsstater där de registrerade, vars personuppgifter behandlas i samband med att de erbjuds varor eller tjänster, eller vars beteende övervakas, befinner sig.
+
+4\. Företrädaren ska på den personuppgiftsansvariges eller personuppgiftsbiträdets uppdrag, utöver eller i stället för den personuppgiftsansvarige eller personuppgiftsbiträdet, fungera som kontaktperson för i synnerhet tillsynsmyndigheter och registrerade, i alla frågor som har anknytning till behandlingen, i syfte att säkerställa efterlevnad av [denna förordning](/lagstiftning/gdpr).
+
+5\. Att den personuppgiftsansvarige eller personuppgiftsbiträdet utser en företrädare ska inte påverka de rättsliga åtgärder som skulle kunna inledas mot den personuppgiftsansvarige eller personuppgiftsbiträdet.
+
+### Artikel 28 – Personuppgiftsbiträden
+
+1\. Om en behandling ska genomföras på en personuppgiftsansvarigs vägnar ska den personuppgiftsansvarige endast anlita personuppgiftsbiträden som ger tillräckliga garantier om att genomföra lämpliga tekniska och organisatoriska åtgärder på ett sådant sätt att behandlingen uppfyller kraven i [denna förordning](/lagstiftning/gdpr) och säkerställer att den registrerades rättigheter skyddas.
+
+2\. Personuppgiftsbiträdet får inte anlita ett annat personuppgiftsbiträde utan att ett särskilt eller allmänt skriftligt förhandstillstånd har erhållits av den personuppgiftsansvarige. Om ett allmänt skriftligt tillstånd har erhållits, ska personuppgiftsbiträdet informera den personuppgiftsansvarige om eventuella planer på att anlita nya personuppgiftsbiträden eller ersätta personuppgiftsbiträden, så att den personuppgiftsansvarige har möjlighet att göra invändningar mot sådana förändringar.
+
+3\. När uppgifter behandlas av ett personuppgiftsbiträde ska hanteringen regleras genom ett avtal eller en annan rättsakt enligt unionsrätten eller enligt medlemsstaternas nationella rätt som är bindande för personuppgiftsbiträdet med avseende på den personuppgiftsansvarige och i vilken föremålet för behandlingen, behandlingens varaktighet, art och ändamål, typen av personuppgifter och kategorier av registrerade, samt den personuppgiftsansvariges skyldigheter och rättigheter anges. I det avtalet eller den rättsakten ska det särskilt föreskrivas att personuppgiftsbiträdet
+
+a) endast får behandla personuppgifter på dokumenterade instruktioner från den personuppgiftsansvarige, inbegripet när det gäller överföringar av personuppgifter till ett tredjeland eller en internationell organisation, såvida inte denna behandling krävs enligt unionsrätten eller enligt en medlemsstats nationella rätt som personuppgiftsbiträdet omfattas av, och i så fall ska personuppgiftsbiträdet informera den personuppgiftsansvarige om det rättsliga kravet innan uppgifterna behandlas, såvida sådan information inte är förbjuden med hänvisning till ett viktigt allmänintresse enligt denna rätt,
+
+b) säkerställer att personer med behörighet att behandla personuppgifterna har åtagit sig att iaktta konfidentialitet eller omfattas av en lämplig lagstadgad tystnadsplikt,
+
+c) ska vidta alla åtgärder som krävs enligt artikel [32](#artikel-32-säkerhet-i-samband-med-behandlingen),
+
+d) ska respektera de villkor som avses i punkterna 2 och 4 för anlitandet av ett annat personuppgiftsbiträde,
+
+e) med tanke på behandlingens art, ska hjälpa den personuppgiftsansvarige genom lämpliga tekniska och organisatoriska åtgärder, i den mån detta är möjligt, så att den personuppgiftsansvarige kan fullgöra sin skyldighet att svara på begäran om utövande av den registrerades rättigheter i enlighet med [kapitel III](/lagstiftning/gdpr/kap-3),
+
+f) ska bistå den personuppgiftsansvarige med att se till att skyldigheterna enligt artiklarna [32](#artikel-32-säkerhet-i-samband-med-behandlingen)–[36](#artikel-36-förhandssamråd) fullgörs, med beaktande av typen av behandling och den information som personuppgiftsbiträdet har att tillgå,
+
+g) beroende på vad den personuppgiftsansvarige väljer, ska radera eller återlämna alla personuppgifter till den personuppgiftsansvarige efter det att tillhandahållandet av behandlingstjänster har avslutats, och radera befintliga kopior såvida inte lagring av personuppgifterna krävs enligt unionsrätten eller medlemsstaternas nationella rätt, och
+
+h) ska ge den personuppgiftsansvarige tillgång till all information som krävs för att visa att de skyldigheter som fastställs i [denna artikel](#artikel-28-personuppgiftsbiträden) har fullgjorts samt möjliggöra och bidra till granskningar, inbegripet inspektioner, som genomförs av den personuppgiftsansvarige eller av en annan revisor som bemyndigats av den personuppgiftsansvarige.
+
+Med avseende på led h i första stycket ska personuppgiftsbiträdet omedelbart informera den personuppgiftsansvarige om han anser att en instruktion strider mot [denna förordning](/lagstiftning/gdpr) eller mot andra av unionens eller medlemsstaternas dataskyddsbestämmelser.
+
+4\. I de fall där ett personuppgiftsbiträde anlitar ett annat personuppgiftsbiträde för utförande av specifik behandling på den personuppgiftsansvariges vägnar ska det andra personuppgiftsbiträdet, genom ett avtal eller en annan rättsakt enligt unionsrätten eller enligt medlemsstaternas nationella rätt, åläggas samma skyldigheter i fråga om dataskydd som de som fastställs i avtalet eller den andra rättsakten mellan den personuppgiftsansvarige och personuppgiftsbiträdet enligt punkt 3, och framför allt att ge tillräckliga garantier om att genomföra lämpliga tekniska och organisatoriska åtgärder på ett sådant sätt att behandlingen uppfyller kraven i [denna förordning](/lagstiftning/gdpr). Om det andra personuppgiftsbiträdet inte fullgör sina skyldigheter i fråga om dataskydd ska det ursprungliga personuppgiftsbiträdet vara fullt ansvarig gentemot den personuppgiftsansvarige för utförandet av det andra personuppgiftsbiträdets skyldigheter.
+
+5\. Ett personuppgiftsbiträdes anslutning till en godkänd uppförandekod som avses i artikel [40](#artikel-40-uppförandekoder) eller en godkänd certifieringsmekanism som avses i artikel [42](#artikel-42-certifiering) får användas för att visa att tillräckliga garantier tillhandahålls, så som avses punkterna 1 och 4 i [den här artikeln](#artikel-28-personuppgiftsbiträden).
+
+6\. Det avtal eller den andra rättsakt som avses i punkterna 3 och 4 i [den här artikeln](#artikel-28-personuppgiftsbiträden) får, utan att det påverkar tillämpningen av ett enskilt avtal mellan den personuppgiftsansvarige och personuppgiftsbiträdet, helt eller delvis baseras på sådana standardavtalsklausuler som avses i punkterna 7 och 8 i [den här artikeln](#artikel-28-personuppgiftsbiträden), inbegripet när de ingår i en certifiering som i enlighet med artiklarna [42](#artikel-42-certifiering) och [43](#artikel-43-certifieringsorgan) beviljats den personuppgiftsansvarige eller personuppgiftsbiträdet.
+
+7\. Kommissionen får fastställa standardavtalsklausuler för de frågor som avses i punkterna 3 och 4 i [den här artikeln](#artikel-28-personuppgiftsbiträden), i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+8\. En tillsynsmyndighet får fastställa standardavtalsklausuler för de frågor som avses i punkterna 3 och 4 i [den här artikeln](#artikel-28-personuppgiftsbiträden), i enlighet med den mekanism för enhetlighet som avses i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet).
+
+9\. Det avtal eller den andra rättsakt som avses i punkterna 3 och 4 ska upprättas skriftligen, inbegripet i ett elektroniskt format.
+
+10\. Om ett personuppgiftsbiträde överträder [denna förordning](/lagstiftning/gdpr) genom att fastställa ändamålen med och medlen för behandlingen, ska personuppgiftsbiträdet anses vara personuppgiftsansvarig med avseende på den behandlingen, utan att det påverkar tillämpningen av artiklarna [82](/lagstiftning/gdpr/kap-8#artikel-82-ansvar-och-rätt-till-ersättning), [83](/lagstiftning/gdpr/kap-8#artikel-83-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter) och [84](/lagstiftning/gdpr/kap-8#artikel-84-sanktioner).
+
+### Artikel 29 – Behandling under den personuppgiftsansvariges eller personuppgiftsbiträdets överinseende
+
+Personuppgiftsbiträdet och personer som utför arbete under den personuppgiftsansvariges eller personuppgiftsbiträdets överinseende, och som får tillgång till personuppgifter, får endast behandla dessa på instruktion från den personuppgiftsansvarige, såvida han eller hon inte är skyldig att göra det enligt unionsrätten eller medlemsstaternas nationella rätt.
+
+### Artikel 30 – Register över behandling
+
+1\. Varje personuppgiftsansvarig och, i tillämpliga fall, dennes företrädare ska föra ett register över behandling som utförts under dess ansvar. Detta register ska innehålla samtliga följande uppgifter:
+
+a) Namn och kontaktuppgifter för den personuppgiftsansvarige, samt i tillämpliga fall gemensamt personuppgiftsansvariga, den personuppgiftsansvariges företrädare samt dataskyddsombudet.
+
+b) Ändamålen med behandlingen.
+
+c) En beskrivning av kategorierna av registrerade och av kategorierna av personuppgifter.
+
+d) De kategorier av mottagare till vilka personuppgifterna har lämnats eller ska lämnas ut, inbegripet mottagare i tredjeländer eller i internationella organisationer.
+
+e) I tillämpliga fall, överföringar av personuppgifter till ett tredjeland eller en internationell organisation, inbegripet identifiering av tredjelandet eller den internationella organisationen och, vid sådana överföringar som avses i artikel [49.1](/lagstiftning/gdpr/kap-5#artikel-49-undantag-i-särskilda-situationer) andra stycket, dokumentationen av lämpliga skyddsåtgärder.
+
+f) Om möjligt, de förutsedda tidsfristerna för radering av de olika kategorierna av uppgifter.
+
+g) Om möjligt, en allmän beskrivning av de tekniska och organisatoriska säkerhetsåtgärder som avses i artikel [32.1](#artikel-32-säkerhet-i-samband-med-behandlingen).
+
+2\. Varje personuppgiftsbiträde och, i tillämpliga fall, dennes företrädare ska föra ett register över alla kategorier av behandling som utförts för den personuppgiftsansvariges räkning, som omfattar följande:
+
+a) Namn och kontaktuppgifter för personuppgiftsbiträdet eller personuppgiftsbiträdena och för varje personuppgiftsansvarig för vars räkning personuppgiftsbiträdet agerar, och, i tillämpliga fall, för den personuppgiftsansvariges eller personuppgiftsbiträdets företrädare samt dataskyddsombudet.
+
+b) De kategorier av behandling som har utförts för varje personuppgiftsansvariges räkning.
+
+c) I tillämpliga fall, överföringar av personuppgifter till ett tredjeland eller en internationell organisation, inbegripet identifiering av tredjelandet eller den internationella organisationen och, vid sådana överföringar som avses i artikel [49.1](/lagstiftning/gdpr/kap-5#artikel-49-undantag-i-särskilda-situationer) andra stycket, dokumentationen av lämpliga skyddsåtgärder.
+
+d) Om möjligt, en allmän beskrivning av de tekniska och organisatoriska säkerhetsåtgärder som avses i artikel [32.1](#artikel-32-säkerhet-i-samband-med-behandlingen).
+
+3\. De register som avses i punkterna 1 och 2 ska upprättas skriftligen, inbegripet i elektronisk form.
+
+4\. På begäran ska den personuppgiftsansvarige eller personuppgiftsbiträdet samt, i tillämpliga fall, den personuppgiftsansvariges eller personuppgiftsbiträdets företrädare göra registret tillgängligt för tillsynsmyndigheten.
+
+5\. De skyldigheter som anges i punkterna 1 och 2 ska inte gälla för ett företag eller en organisation som sysselsätter färre än 250 personer såvida inte den behandling som utförs sannolikt kommer att medföra en risk för registrerades rättigheter och friheter, behandlingen inte är tillfällig eller behandlingen omfattar särskilda kategorier av uppgifter som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) eller personuppgifter om fällande domar i brottmål samt överträdelser som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser).
+
+### Artikel 31 – Samarbete med tillsynsmyndigheten
+
+Den personuppgiftsansvarige och personuppgiftsbiträdet samt, i tillämpliga fall, deras företrädare ska på begäran samarbeta med tillsynsmyndigheten vid utförandet av dennes uppgifter.
+
+### Artikel 32 – Säkerhet i samband med behandlingen
+
+1\. Med beaktande av den senaste utvecklingen, genomförandekostnaderna och behandlingens art, omfattning, sammanhang och ändamål samt riskerna, av varierande sannolikhetsgrad och allvar, för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige och personuppgiftsbiträdet vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken, inbegripet, när det är lämpligt
+
+a) pseudonymisering och kryptering av personuppgifter,
+
+b) förmågan att fortlöpande säkerställa konfidentialitet, integritet, tillgänglighet och motståndskraft hos behandlingssystemen och -tjänsterna,
+
+c) förmågan att återställa tillgängligheten och tillgången till personuppgifter i rimlig tid vid en fysisk eller teknisk incident,
+
+d) ett förfarande för att regelbundet testa, undersöka och utvärdera effektiviteten hos de tekniska och organisatoriska åtgärder som ska säkerställa behandlingens säkerhet.
+
+2\. Vid bedömningen av lämplig säkerhetsnivå ska särskild hänsyn tas till de risker som behandling medför, i synnerhet från oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförts, lagrats eller på annat sätt behandlats.
+
+3\. Anslutning till en godkänd uppförandekod som avses i artikel [40](#artikel-40-uppförandekoder) eller en godkänd certifieringsmekanism som avses i artikel [42](#artikel-42-certifiering) får användas för att visa att kraven i punkt 1 i [den här artikeln](#artikel-32-säkerhet-i-samband-med-behandlingen) följs.
+
+4\. Den personuppgiftsansvarige och personuppgiftsbiträdet ska vidta åtgärder för att säkerställa att varje fysisk person som utför arbete under den personuppgiftsansvariges eller personuppgiftsbiträdets överinseende, och som får tillgång till personuppgifter, endast behandlar dessa på instruktion från den personuppgiftsansvarige, om inte unionsrätten eller medlemsstaternas nationella rätt ålägger honom eller henne att göra det.
+
+### Artikel 33 – Anmälan av en personuppgiftsincident till tillsynsmyndigheten
+
+1\. Vid en personuppgiftsincident ska den personuppgiftsansvarige utan onödigt dröjsmål och, om så är möjligt, inte senare än 72 timmar efter att ha fått vetskap om den, anmäla personuppgiftsincidenten till den tillsynsmyndighet som är behörig i enlighet med artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet), såvida det inte är osannolikt att personuppgiftsincidenten medför en risk för fysiska personers rättigheter och friheter. Om anmälan till tillsynsmyndigheten inte görs inom 72 timmar ska den åtföljas av en motivering till förseningen.
+
+2\. Personuppgiftsbiträdet ska underrätta den personuppgiftsansvarige utan onödigt dröjsmål efter att ha fått vetskap om en personuppgiftsincident.
+
+3\. Den anmälan som avses i punkt 1 ska åtminstone
+
+a) beskriva personuppgiftsincidentens art, inbegripet, om så är möjligt, de kategorier av och det ungefärliga antalet registrerade som berörs samt de kategorier av och det ungefärliga antalet personuppgiftsposter som berörs,
+
+b) förmedla namnet på och kontaktuppgifterna för dataskyddsombudet eller andra kontaktpunkter där mer information kan erhållas,
+
+c) beskriva de sannolika konsekvenserna av personuppgiftsincidenten, och
+
+d) beskriva de åtgärder som den personuppgiftsansvarige har vidtagit eller föreslagit för att åtgärda personuppgiftsincidenten, inbegripet, när så är lämpligt, åtgärder för att mildra dess potentiella negativa effekter.
+
+4\. Om och i den utsträckning det inte är möjligt att tillhandahålla informationen samtidigt, får informationen tillhandahållas i omgångar utan onödigt ytterligare dröjsmål.
+
+5\. Den personuppgiftsansvarige ska dokumentera alla personuppgiftsincidenter, inbegripet omständigheterna kring personuppgiftsincidenten, dess effekter och de korrigerande åtgärder som vidtagits. Dokumentationen ska göra det möjligt för tillsynsmyndigheten att kontrollera efterlevnaden av [denna artikel](#artikel-33-anmälan-av-en-personuppgiftsincident-till-tillsynsmyndigheten).
+
+### Artikel 34 – Information till den registrerade om en personuppgiftsincident
+
+1\. Om personuppgiftsincidenten sannolikt leder till en hög risk för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige utan onödigt dröjsmål informera den registrerade om personuppgiftsincidenten.
+
+2\. Den information till den registrerade som avses i punkt 1 i [denna artikel](#artikel-34-information-till-den-registrerade-om-en-personuppgiftsincident) ska innehålla en tydlig och klar beskrivning av personuppgiftsincidentens art och åtminstone de upplysningar och åtgärder som avses i artikel [33.3 b](#artikel-33-anmälan-av-en-personuppgiftsincident-till-tillsynsmyndigheten), c och d.
+
+3\. Information till den registrerade i enlighet med punkt 1 krävs inte om något av följande villkor är uppfyllt:
+
+a) Den personuppgiftsansvarige har genomfört lämpliga tekniska och organisatoriska skyddsåtgärder och dessa åtgärder tillämpats på de personuppgifter som påverkades av personuppgiftsincidenten, i synnerhet sådana som ska göra uppgifterna oläsbara för alla personer som inte är behöriga att få tillgång till personuppgifterna, såsom kryptering.
+
+b) Den personuppgiftsansvarige har vidtagit ytterligare åtgärder som säkerställer att den höga risk för registrerades rättigheter och friheter som avses i punkt 1 sannolikt inte längre kommer att uppstå.
+
+c) Det skulle inbegripa en oproportionell ansträngning. I så fall ska i stället allmänheten informeras eller en liknande åtgärd vidtas genom vilken de registrerade informeras på ett lika effektivt sätt.
+
+4\. Om den personuppgiftsansvarige inte redan har informerat den registrerade om personuppgiftsincidenten får tillsynsmyndigheten, efter att ha bedömt sannolikheten för att personuppgiftsincidenten medför en hög risk, kräva att personuppgiftsbiträdet gör det eller får besluta att något av de villkor som avses i punkt 3 uppfylls.
+
+### Artikel 35 – Konsekvensbedömning avseende dataskydd
+
+1\. Om en typ av behandling, särskilt med användning av ny teknik och med beaktande av dess art, omfattning, sammanhang och ändamål, sannolikt leder till en hög risk för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige före behandlingen utföra en bedömning av den planerade behandlingens konsekvenser för skyddet av personuppgifter. En enda bedömning kan omfatta en serie liknande behandlingar som medför liknande höga risker.
+
+2\. Den personuppgiftsansvarige ska rådfråga dataskyddsombudet, om ett sådant utsetts, vid genomförande av en konsekvensbedömning avseende dataskydd.
+
+3\. En konsekvensbedömning avseende dataskydd som avses i punkt 1 ska särskilt krävas i följande fall:
+
+a) En systematisk och omfattande bedömning av fysiska personers personliga aspekter som grundar sig på automatisk behandling, inbegripet profilering, och på vilken beslut grundar sig som har rättsliga följder för fysiska personer eller på liknande sätt i betydande grad påverkar fysiska personer.
+
+b) Behandling i stor omfattning av särskilda kategorier av uppgifter, som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter), eller av personuppgifter som rör fällande domar i brottmål och överträdelser som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser).
+
+c) Systematisk övervakning av en allmän plats i stor omfattning.
+
+4\. Tillsynsmyndigheten ska upprätta och offentliggöra en förteckning över det slags behandlingsverksamheter som omfattas av kravet på en konsekvensbedömning avseende dataskydd i enlighet med punkt 1. Tillsynsmyndigheten ska översända dessa förteckningar till den styrelse som avses i artikel [68](/lagstiftning/gdpr/kap-7#artikel-68-europeiska-dataskyddsstyrelsen).
+
+5\. Tillsynsmyndigheten får också upprätta och offentliggöra en förteckning över det slags behandlingsverksamheter som inte kräver någon konsekvensbedömning avseende dataskydd. Tillsynsmyndigheten ska översända dessa förteckningar till styrelsen.
+
+6\. Innan de förteckningar som avses i punkterna 4 och 5 antas ska den behöriga tillsynsmyndigheten tillämpa den mekanism för enhetlighet som avses i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet) om en sådan förteckning inbegriper behandling som rör erbjudandet av varor eller tjänster till registrerade, eller övervakning av deras beteende i flera medlemsstater, eller som väsentligt kan påverka den fria rörligheten för personuppgifter i unionen.
+
+7\. Bedömningen ska innehålla åtminstone
+
+a) en systematisk beskrivning av den planerade behandlingen och behandlingens syften, inbegripet, när det är lämpligt, den personuppgiftsansvariges berättigade intresse,
+
+b) en bedömning av behovet av och proportionaliteten hos behandlingen i förhållande till syftena,
+
+c) en bedömning av de risker för de registrerades rättigheter och friheter som avses i punkt 1, och
+
+d) de åtgärder som planeras för att hantera riskerna, inbegripet skyddsåtgärder, säkerhetsåtgärder och rutiner för att säkerställa skyddet av personuppgifterna och för att visa att [denna förordning](/lagstiftning/gdpr) efterlevs, med hänsyn till de registrerades och andra berörda personers rättigheter och berättigade intressen.
+
+8\. De berörda personuppgiftsansvarigas eller personuppgiftsbiträdenas efterlevnad av godkända uppförandekoder enligt artikel [40](#artikel-40-uppförandekoder) ska på lämpligt sätt beaktas vid bedömningen av konsekvenserna av de behandlingar som utförs av dessa personuppgiftsansvariga eller personuppgiftsbiträden, framför allt när det gäller att ta fram en konsekvensbedömning avseende dataskydd.
+
+9\. Den personuppgiftsansvarige ska, när det är lämpligt, inhämta synpunkter från de registrerade eller deras företrädare om den avsedda behandlingen, utan att det påverkar skyddet av kommersiella eller allmänna intressen eller behandlingens säkerhet.
+
+10\. Om behandling enligt artikel [6.1 c](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller e har en rättslig grund i unionsrätten eller i en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av, reglerar den rätten den aktuella specifika behandlingsåtgärden eller serien av åtgärder i fråga och en konsekvensbedömning avseende dataskydd redan har genomförts som en del av en allmän konsekvensbedömning i samband med antagandet av denna rättsliga grund, ska punkterna 1–7 inte gälla, om inte medlemsstaterna anser det nödvändigt att utföra en sådan bedömning före behandlingen.
+
+11\. Den personuppgiftsansvarige ska vid behov genomföra en översyn för att bedöma om behandlingen genomförs i enlighet med konsekvensbedömningen avseende dataskydd åtminstone när den risk som behandlingen medför förändras.
+
+### Artikel 36 – Förhandssamråd
+
+1\. Den personuppgiftsansvarige ska samråda med tillsynsmyndigheten före behandling om en konsekvensbedömning avseende dataskydd enligt artikel [35](#artikel-35-konsekvensbedömning-avseende-dataskydd) visar att behandlingen skulle leda till en hög risk om inte den personuppgiftsansvarige vidtar åtgärder för att minska risken.
+
+2\. Om tillsynsmyndigheten anser att den planerade behandling som avses i punkt 1 skulle strida mot [denna förordning](/lagstiftning/gdpr), särskilt om den personuppgiftsansvarige inte i tillräcklig mån har fastställt eller reducerat risken, ska tillsynsmyndigheten inom en period på högst åtta veckor från det att begäran om samråd mottagits, ge den personuppgiftsansvarige och i tillämpliga fall personuppgiftsbiträdet skriftliga råd och får utnyttja alla de befogenheter som den har enligt artikel [58](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter). Denna period får förlängas med sex veckor beroende på hur komplicerad den planerade behandlingen är. Tillsynsmyndigheten ska informera den personuppgiftsansvarige och, i tillämpliga fall, personuppgiftsbiträdet om en sådan förlängning inom en månad från det att begäran om samråd mottagits, tillsammans med orsakerna till förseningen. Dessa perioder får tillfälligt upphöra att löpa i avvaktan på att tillsynsmyndigheten erhåller den information som den har begärt med tanke på samrådet.
+
+3\. Vid samråd med tillsynsmyndigheten enligt punkt 1 ska den personuppgiftsansvarige till tillsynsmyndigheten lämna
+
+a) i tillämpliga fall de respektive ansvarsområdena för de personuppgiftsansvariga, gemensamt personuppgiftsansvariga och personuppgiftsbiträden som medverkar vid behandlingen, framför allt vid behandling inom en koncern,
+
+b) ändamålen med och medlen för den avsedda behandlingen,
+
+c) de åtgärder som vidtas och de garantier som lämnas för att skydda de registrerades rättigheter och friheter enligt [denna förordning](/lagstiftning/gdpr),
+
+d) i tillämpliga fall kontaktuppgifter till dataskyddsombudet,
+
+e) konsekvensbedömningen avseende dataskydd enligt artikel [35](#artikel-35-konsekvensbedömning-avseende-dataskydd), och
+
+f) all annan information som begärs av tillsynsmyndigheten.
+
+4\. Medlemsstaterna ska samråda med tillsynsmyndigheten vid utarbetandet av ett förslag till lagstiftningsåtgärd som ska antas av ett nationellt parlament eller av en regleringsåtgärd som grundar sig på en sådan lagstiftningsåtgärd som rör behandling.
+
+5\. Trots vad som sägs i punkt 1 får det i medlemsstaternas nationella rätt krävas att personuppgiftsansvariga ska samråda med, och erhålla förhandstillstånd av, tillsynsmyndigheten när det gäller en personuppgiftsansvarigs behandling för utförandet av en uppgift som den personuppgiftsansvarige utför av allmänt intresse, inbegripet behandling avseende social trygghet och folkhälsa.
+
+### Artikel 37 – Utnämning av dataskyddsombudet
+
+1\. Den personuppgiftsansvarige och personuppgiftsbiträdet ska under alla omständigheter utnämna ett dataskyddsombud om
+
+a) behandlingen genomförs av en myndighet eller ett offentligt organ, förutom när detta sker som en del av domstolarnas dömande verksamhet,
+
+b) den personuppgiftsansvariges eller personuppgiftsbiträdets kärnverksamhet består av behandling som, på grund av sin karaktär, sin omfattning och/eller sina ändamål, kräver regelbunden och systematisk övervakning av de registrerade i stor omfattning, eller
+
+c) den personuppgiftsansvariges eller personuppgiftsbiträdets kärnverksamhet består av behandling i stor omfattning av särskilda kategorier av uppgifter i enlighet med artikel [9](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) och personuppgifter som rör fällande domar i brottmål och överträdelser, som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser).
+
+2\. En koncern får utnämna ett enda dataskyddsombud om det på varje etableringsort är lätt att nå ett dataskyddsombud.
+
+3\. Om den personuppgiftsansvarige eller personuppgiftsbiträdet är en myndighet eller ett offentligt organ, får ett enda dataskyddsombud utnämnas för flera sådana myndigheter eller organ, med hänsyn till deras organisationsstruktur och storlek.
+
+4\. I andra fall än de som avses i punkt 1 får eller, om så krävs enligt unionsrätten eller medlemsstaternas nationella rätt, ska den personuppgiftsansvarige eller personuppgiftsbiträdet eller sammanslutningar och andra organ som företräder kategorier av personuppgiftsansvariga eller personuppgiftsbiträden utnämna ett dataskyddsombud. Dataskyddsombudet får agera för sådana sammanslutningar och andra organ som företräder personuppgiftsansvariga eller personuppgiftsbiträden.
+
+5\. Dataskyddsombudet ska utses på grundval av yrkesmässiga kvalifikationer och, i synnerhet, sakkunskap om lagstiftning och praxis avseende dataskydd samt förmågan att fullgöra de uppgifter som avses i artikel [39](#artikel-39-dataskyddsombudets-uppgifter).
+
+6\. Dataskyddsombudet får ingå i den personuppgiftsansvariges eller personuppgiftsbiträdets personal, eller utföra uppgifterna på grundval av ett tjänsteavtal.
+
+7\. Den personuppgiftsansvarige eller personuppgiftsbiträdet ska offentliggöra dataskyddsombudets kontaktuppgifter och meddela dessa till tillsynsmyndigheten.
+
+### Artikel 38 – Dataskyddsombudets ställning
+
+1\. Den personuppgiftsansvarige och personuppgiftsbiträdet ska säkerställa att dataskyddsombudet på ett korrekt sätt och i god tid deltar i alla frågor som rör skyddet av personuppgifter.
+
+2\. Den personuppgiftsansvarige och personuppgiftsbiträdet ska stödja dataskyddsombudet i utförandet av de uppgifter som avses i artikel [39](#artikel-39-dataskyddsombudets-uppgifter) genom att tillhandahålla de resurser som krävs för att fullgöra dessa uppgifter samt tillgång till personuppgifter och behandlingsförfaranden, samt i upprätthållandet av dennes sakkunskap.
+
+3\. Den personuppgiftsansvarige och personuppgiftsbiträdet ska säkerställa att uppgiftskyddsombudet inte tar emot instruktioner som gäller utförandet av dessa uppgifter. Han eller hon får inte avsättas eller bli föremål för sanktioner av den personuppgiftsansvarige eller personuppgiftsbiträdet för att ha utfört sina uppgifter. Dataskyddsombudet ska rapportera direkt till den personuppgiftsansvariges eller personuppgiftsbiträdets högsta förvaltningsnivå.
+
+4\. Den registrerade får kontakta dataskyddsombudet med avseende på alla frågor som rör behandlingen av dennes personuppgifter och utövandet av dennes rättigheter enligt [denna förordning](/lagstiftning/gdpr).
+
+5\. Dataskyddsombudet ska, när det gäller dennes genomförande av sina uppgifter, vara bundet av sekretess eller konfidentialitet i enlighet med unionsrätten eller medlemsstaternas nationella rätt.
+
+6\. Dataskyddsombudet får fullgöra andra uppgifter och uppdrag. Den personuppgiftsansvarige eller personuppgiftsbiträdet ska se till att sådana uppgifter och uppdrag inte leder till en intressekonflikt.
+
+### Artikel 39 – Dataskyddsombudets uppgifter
+
+1\. Dataskyddsombudet ska ha minst följande uppgifter:
+
+a) Att informera och ge råd till den personuppgiftsansvarige eller personuppgiftsbiträdet och de anställda som behandlar om deras skyldigheter enligt [denna förordning](/lagstiftning/gdpr) och andra av unionens eller medlemsstaternas dataskyddsbestämmelser.
+
+b) Att övervaka efterlevnaden av [denna förordning](/lagstiftning/gdpr), av andra av unionens eller medlemsstaternas dataskyddsbestämmelser och av den personuppgiftsansvariges eller personuppgiftsbiträdets strategi för skydd av personuppgifter, inbegripet ansvarstilldelning, information till och utbildning av personal som deltar i behandling och tillhörande granskning.
+
+c) Att på begäran ge råd vad gäller konsekvensbedömningen avseende dataskydd och övervaka genomförandet av den enligt artikel [35](#artikel-35-konsekvensbedömning-avseende-dataskydd).
+
+d) Att samarbeta med tillsynsmyndigheten.
+
+e) Att fungera som kontaktpunkt för tillsynsmyndigheten i frågor som rör behandling, inbegripet det förhandssamråd som avses i artikel [36](#artikel-36-förhandssamråd), och vid behov samråda i alla andra frågor.
+
+2\. Dataskyddsombudet ska vid utförandet av sina uppgifter ta vederbörlig hänsyn till de risker som är förknippade med behandling, med beaktande av behandlingens art, omfattning, sammanhang och syften.
+
+### Artikel 40 – Uppförandekoder
+
+1\. Medlemsstaterna, tillsynsmyndigheterna, styrelsen och kommissionen ska uppmuntra utarbetandet av uppförandekoder avsedda att bidra till att [denna förordning](/lagstiftning/gdpr) genomförs korrekt, med hänsyn till särdragen hos de olika sektorer där behandling sker, och de särskilda behoven hos mikroföretag samt små och medelstora företag.
+
+2\. Sammanslutningar och andra organ som företräder kategorier av personuppgiftsansvariga eller personuppgiftsbiträden får utarbeta uppförandekoder, eller ändra eller utöka sådana koder, i syfte att specificera tillämpningen av [denna förordning](/lagstiftning/gdpr), till exempel när det gäller
+
+a) rättvis och öppen behandling,
+
+b) personuppgiftsansvarigas berättigade intressen i särskilda sammanhang,
+
+c) insamling av personuppgifter,
+
+d) pseudonymisering av personuppgifter,
+
+e) information till allmänheten och de registrerade,
+
+f) utövande av registrerades rättigheter,
+
+g) information till och skydd av barn samt metoderna för att erhålla samtycke från de personer som har föräldraansvar för barn,
+
+h) åtgärder och förfaranden som avses i artiklarna [24](#artikel-24-den-personuppgiftsansvariges-ansvar) och [25](#artikel-25-inbyggt-dataskydd-och-dataskydd-som-standard) samt åtgärder för att säkerställa säkerhet vid behandling i enlighet med artikel [32](#artikel-32-säkerhet-i-samband-med-behandlingen),
+
+i) anmälan av personuppgiftsincidenter till tillsynsmyndigheter och meddelande av sådana personuppgiftsincidenter till registrerade,
+
+j) överföring av personuppgifter till tredjeländer eller internationella organisationer,
+
+k) utomrättsliga förfaranden och andra tvistlösningsförfaranden för lösande av tvister mellan personuppgiftsansvariga och registrerade när det gäller behandling, utan att detta påverkar registrerades rättigheter enligt artiklarna [77](/lagstiftning/gdpr/kap-8#artikel-77-rätt-att-lämna-in-klagomål-till-en-tillsynsmyndighet) och [79](/lagstiftning/gdpr/kap-8#artikel-79-rätt-till-ett-effektivt-rättsmedel-mot-en-personuppgiftsansvarig-eller-ett-personuppgiftsbiträde).
+
+3\. Uppförandekoder som är godkända i enlighet med punkt 5 i [denna artikel](#artikel-40-uppförandekoder) och som har allmän giltighet enligt punkt 9 i [denna artikel](#artikel-40-uppförandekoder) får, förutom att de iakttas av personuppgiftsansvariga eller personuppgiftsbiträden som omfattas av [denna förordning](/lagstiftning/gdpr), även iakttas av personuppgiftsansvariga eller personuppgiftsbiträden som inte omfattas av [denna förordning](/lagstiftning/gdpr) enligt artikel [3](/lagstiftning/gdpr/kap-1#artikel-3-territoriellt-tillämpningsområde), för att tillhandahålla lämpliga garantier inom ramen för överföringar av personuppgifter till tredjeländer eller internationella organisationer enligt villkoren i artikel [46.2 e](/lagstiftning/gdpr/kap-5#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder). Sådana personuppgiftsansvariga eller personuppgiftsbiträden ska göra bindande och verkställbara åtaganden, genom avtal eller andra rättsligt bindande instrument, att tillämpa dessa lämpliga garantier inbegripet när det gäller registrerades rättigheter.
+
+4\. Den uppförandekod som avses i punkt 2 i [den här artikeln](#artikel-40-uppförandekoder) ska innehålla mekanismer som gör det möjligt för det organ som avses i artikel [41.1](#artikel-41-övervakning-av-godkända-uppförandekoder) att utföra den obligatoriska övervakningen av att dess bestämmelser efterlevs av personuppgiftsansvariga och personuppgiftsbiträden som tillämpar den, utan att det påverkar uppgifter eller befogenheter för de tillsynsmyndigheter som är behöriga enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet).
+
+5\. Sammanslutningar och andra organ som avses i punkt 2 i [den här artikeln](#artikel-40-uppförandekoder) som avser att utarbeta en uppförandekod eller ändra eller utöka befintliga uppförandekoder ska inge utkastet till uppförandekod, ändringen eller utökningen till den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet). Tillsynsmyndigheten ska yttra sig om huruvida utkastet till uppförandekod, ändring eller utökning överensstämmer med [denna förordning](/lagstiftning/gdpr) och ska godkänna ett det utkastet till kod, ändring eller utökning om den finner att tillräckliga garantier tillhandahålls.
+
+6\. Om utkastet till kod, eller en ändring eller utökning, godkänns i enlighet med punkt 5, och om den berörda uppförandekoden inte avser behandling i flera medlemsstater, ska tillsynsmyndigheten registrera och offentliggöra uppförandekoden.
+
+7\. Om ett utkast till uppförandekod avser behandling i flera medlemsstater ska den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) innan den godkänner utkastet till kod, ändring eller utökning, inom ramen för det förfarande som avses i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet) överlämna det till styrelsen som ska avge ett yttrande om huruvida utkastet till kod, ändring eller utökning är förenlig med [denna förordning](/lagstiftning/gdpr) eller, i de fall som avses i punkt 3 i [den här artikeln](#artikel-40-uppförandekoder), tillhandahåller lämpliga garantier.
+
+8\. Om det i det yttrande som avses i punkt 7 bekräftas att utkastet till kod, ändring eller utökning är förenligt med [denna förordning](/lagstiftning/gdpr), eller, i de fall som avses i punkt 3, tillhandahåller lämpliga garantier, ska styrelsen inlämna sitt yttrande till kommissionen.
+
+9\. Kommissionen får, genom genomförandeakter, besluta att den godkända koden, ändringen eller utökningen som getts in till den enligt punkt 8 i [den här artikeln](#artikel-40-uppförandekoder) har allmän giltighet inom unionen. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+10\. Kommissionen ska se till att de godkända koder om vilka det har beslutats att de har allmän giltighet enligt punkt 9 offentliggörs på lämpligt sätt.
+
+11\. Styrelsen ska samla alla godkända uppförandekoder, ändringar och utökningar i ett register och offentliggöra dem på lämpligt sätt.
+
+### Artikel 41 – Övervakning av godkända uppförandekoder
+
+1\. Utan att det påverkar den berörda tillsynsmyndighetens uppgifter och befogenheter enligt artiklarna [57](/lagstiftning/gdpr/kap-6#artikel-57-uppgifter) och [58](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) får övervakningen av efterlevnaden av en uppförandekod i enlighet med artikel [40](#artikel-40-uppförandekoder) utföras av ett organ som har en lämplig expertnivå i förhållande till kodens syfte och som ackrediteras för detta ändamål av den behöriga tillsynsmyndigheten.
+
+2\. Ett organ som avses i punkt 1 får ackrediteras för att övervaka efterlevnaden av en uppförandekod om detta organ har
+
+a) visat sitt oberoende och sin expertis i förhållande till uppförandekodens syfte på ett sätt som den behöriga tillsynsmyndigheten finner tillfredsställande,
+
+b) upprättat förfaranden varigenom det kan bedöma de berörda personuppgiftsansvarigas och personuppgiftsbiträdenas lämplighet för att tillämpa uppförandekoden, övervaka att de efterlever dess bestämmelser och regelbundet se över hur den fungerar,
+
+c) upprättat förfaranden och strukturer för att hantera klagomål om överträdelser av uppförandekoden eller det sätt på vilket uppförandekoden har tillämpats, eller tillämpas, av en personuppgiftsansvarig eller ett personuppgiftsbiträde, och för att göra dessa förfaranden och strukturer synliga för registrerade och för allmänheten, och
+
+d) på ett sätt som den behöriga tillsynsmyndigheten finner tillfredsställande visat att dess uppgifter och uppdrag inte leder till en intressekonflikt.
+
+3\. Den behöriga tillsynsmyndigheten ska inlämna utkastet till kriterier för ackreditering av ett organ som avses i punkt 1 i [den här artikeln](#artikel-41-övervakning-av-godkända-uppförandekoder) till styrelsen i enlighet med den mekanism för enhetlighet som avses i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet).
+
+4\. Utan att det påverkar den behöriga tillsynsmyndighetens uppgifter och befogenheter och tillämpningen av bestämmelserna i [kapitel VIII](/lagstiftning/gdpr/kap-8) ska ett organ som avses i punkt 1 i [denna artikel](#artikel-41-övervakning-av-godkända-uppförandekoder), med förbehåll för tillräckliga skyddsåtgärder, vidta lämpliga åtgärder i fall av en personuppgiftsansvarigs eller ett personuppgiftsbiträdes överträdelse av uppförandekoden, inbegripet avstängning eller uteslutande av den personuppgiftsansvarige eller personuppgiftsbiträdet från uppförandekoden. Det ska informera den behöriga tillsynsmyndigheten om sådana åtgärder och skälen för att de vidtagits.
+
+5\. Den behöriga tillsynsmyndigheten ska återkalla ackrediteringen av ett organ som avses i punkt 1 om villkoren för ackrediteringen inte, eller inte längre, uppfylls eller om åtgärder som vidtagits av organet strider mot [denna förordning](/lagstiftning/gdpr).
+
+6\. [Denna artikel](#artikel-41-övervakning-av-godkända-uppförandekoder) ska inte gälla behandling som utförs av offentliga myndigheter och organ.
+
+### Artikel 42 – Certifiering
+
+1\. Medlemsstaterna, tillsynsmyndigheterna, styrelsen och kommissionen ska uppmuntra, särskilt på unionsnivå, införandet av certifieringsmekanismer för dataskydd och sigill och märkningar för dataskydd som syftar till att visa att personuppgiftsansvarigas eller personuppgiftsbiträdens behandling är förenlig med [denna förordning](/lagstiftning/gdpr). De särskilda behoven hos mikroföretag samt små och medelstora företag ska beaktas.
+
+2\. Certifieringsmekanismer för dataskydd och sigill och märkningar för dataskydd som är godkända enligt punkt 5 i [denna artikel](#artikel-42-certifiering) får, förutom att de iakttas av personuppgiftsansvariga eller personuppgiftsbiträden som omfattas av [denna förordning](/lagstiftning/gdpr), inrättas för att visa att det föreligger lämpliga garantier som tillhandahålls av personuppgiftsansvariga och personuppgiftsbiträden som inte omfattas av [denna förordning](/lagstiftning/gdpr) enligt artikel [3](/lagstiftning/gdpr/kap-1#artikel-3-territoriellt-tillämpningsområde), inom ramen för överföringar av personuppgifter till tredjeländer eller internationella organisationer enligt villkoren i artikel [46.2 f](/lagstiftning/gdpr/kap-5#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder). Sådana personuppgiftsansvariga eller personuppgiftsbiträden ska göra bindande och verkställbara åtaganden, genom avtal eller andra rättsligt bindande instrument, att tillämpa dessa lämpliga garantier, inbegripet när det gäller registrerades rättigheter.
+
+3\. Certifieringen ska vara frivillig och tillgänglig via ett öppet förfarande.
+
+4\. En certifiering i enlighet med [denna artikel](#artikel-42-certifiering) minskar inte den personuppgiftsansvariges eller personuppgiftsbiträdets ansvar för att [denna förordning](/lagstiftning/gdpr) efterlevs och påverkar inte uppgifter och befogenheter för de tillsynsmyndigheter som är behöriga enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet).
+
+5\. En certifiering i enlighet med [denna artikel](#artikel-42-certifiering) ska utfärdas av de certifieringsorgan som avses i artikel [43](#artikel-43-certifieringsorgan) eller av den behöriga tillsynsmyndigheten på grundval av kriterier som godkänts av den behöriga myndigheten enligt artikel [58.3](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) eller av styrelsen enligt artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet). Om kriterierna har godkänts av styrelsen får detta leda till en gemensam certifiering, det europeiska sigillet för dataskydd.
+
+6\. Den personuppgiftsansvarige eller det personuppgiftsbiträde som låter sin behandling av uppgifter omfattas av certifieringsmekanismen ska förse det certifieringsorgan som avses i artikel [43](#artikel-43-certifieringsorgan) eller, i tillämpliga fall, den behöriga tillsynsmyndigheten, med all information och tillgång till behandlingsförfaranden som krävs för att genomföra certifieringsförfarandet.
+
+7\. Certifiering ska utfärdas till en personuppgiftsansvarig eller ett personuppgiftsbiträde för en period på högst tre år och får förnyas på samma villkor under förutsättning att kraven fortsätter att vara uppfyllda. Certifiering ska, i tillämpliga fall, återkallas av de certifieringsorgan som avses i artikel [43](#artikel-43-certifieringsorgan) eller av den behöriga tillsynsmyndigheten om kraven för certifieringen inte eller inte längre uppfylls.
+
+8\. Styrelsen ska samla alla certifieringsmekanismer och sigill och märkningar för dataskydd i ett register och offentliggöra dem på lämpligt sätt.
+
+### Artikel 43 – Certifieringsorgan
+
+1\. Utan att det påverkar den behöriga tillsynsmyndighetens uppgifter och befogenheter enligt artiklarna [57](/lagstiftning/gdpr/kap-6#artikel-57-uppgifter) och [58](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) ska certifieringsorgan som har lämplig nivå av expertis i fråga om dataskydd, efter att ha informerat tillsynsmyndigheten för att den ska kunna utöva sina befogenheter enligt artikel [58.2 h](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) när så är nödvändigt, utfärda och förnya certifiering. Medlemsstat ska säkerställa att dessa certifieringsorgan är ackrediterade av en av eller båda följande:
+
+a) Den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet),
+
+b) det nationella ackrediteringsorgan som utsetts i enlighet med [Europaparlamentets och rådets förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) (20) i enlighet med EN-ISO/IEC 17065/2012 och med de ytterligare krav som fastställts av den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet).
+
+2\. Certifieringsorgan som avses i punkt 1 får ackrediteras i enlighet med den punkten endast om de har
+
+a) visat oberoende och expertis i förhållande till certifieringens syfte på ett sätt som den behöriga tillsynsmyndigheten finner tillfredsställande,
+
+b) förbundit sig att respektera de kriterier som avses i artikel [42.5](#artikel-42-certifiering) och godkänts av den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet), eller av styrelsen enligt artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet),
+
+c) upprättat förfaranden för utfärdande, periodisk översyn och återkallande av certifiering, sigill och märkningar för dataskydd,
+
+d) upprättat förfaranden och strukturer för att hantera klagomål om överträdelser av certifieringen eller det sätt på vilket certifieringen har tillämpats, eller tillämpas, av en personuppgiftsansvarig eller ett personuppgiftsbiträde, och för att göra dessa förfaranden och strukturer synliga för registrerade och för allmänheten, och
+
+e) på ett sätt som den behöriga tillsynsmyndigheten finner tillfredsställande visat att deras uppgifter och uppdrag inte leder till en intressekonflikt.
+
+3\. Ackrediteringen av certifieringsorgan som avses i punkterna 1 och 2 i [denna artikel](#artikel-43-certifieringsorgan) ska ske på grundval av kriterier som godkänts av den tillsynsmyndighet som är behörig enligt artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet), eller av styrelsen enligt artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet). I händelse av ackreditering enligt punkt 1 b i [den här artikeln](#artikel-43-certifieringsorgan) ska dessa krav komplettera dem som föreskrivs i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) och de tekniska regler som beskriver certifieringsorganens metoder och förfaranden.
+
+4\. De certifieringsorgan som avses i punkt 1 ska ansvara för den korrekta bedömning som leder till certifieringen eller återkallelsen av certifieringen, utan att det påverkar den personuppgiftsansvariges eller personuppgiftsbiträdets ansvar att efterleva [denna förordning](/lagstiftning/gdpr). Ackrediteringen ska utfärdas för en period på högst fem år och får förnyas på samma villkor under förutsättning att certifieringsorganet uppfyller de krav som anges i [denna artikel](#artikel-43-certifieringsorgan).
+
+5\. De certifieringsorgan som avses i punkt 1 ska informera de behöriga tillsynsmyndigheterna om orsakerna till beviljandet eller återkallelsen av den begärda certifieringen.
+
+6\. De krav som avses i punkt 3 i [den här artikeln](#artikel-43-certifieringsorgan) och de kriterier som avses i artikel [42.5](#artikel-42-certifiering) ska offentliggöras av tillsynsmyndigheten i ett lättillgängligt format. Tillsynsmyndigheterna ska också översända dessa krav och kriterier till styrelsen. Styrelsen ska samla alla certifieringsmekanismer och sigill för dataskydd i ett register och offentliggöra dem på lämpligt sätt.
+
+7\. Utan att det påverkar tillämpningen av [kapitel VIII](/lagstiftning/gdpr/kap-8) ska den behöriga tillsynsmyndigheten eller det nationella ackrediteringsorganet återkalla ett certifieringsorgans ackreditering enligt punkt 1 i [denna artikel](#artikel-43-certifieringsorgan) om villkoren för ackrediteringen inte, eller inte längre, uppfylls eller om åtgärder som vidtagits av certifieringsorganet strider mot [denna förordning](/lagstiftning/gdpr).
+
+8\. Kommissionen ska ges befogenhet att anta delegerade akter i enlighet med artikel [92](/lagstiftning/gdpr/kap-10#artikel-92-utövande-av-delegeringen) i syfte att närmare ange de krav som ska tas i beaktande för de certifieringsmekanismer för dataskydd som avses i artikel [42.1](#artikel-42-certifiering).
+
+9\. Kommissionen får anta genomförandeakter för att fastställa tekniska standarder för certifieringsmekanismer och sigill och märkningar för dataskydd samt rutiner för att främja och erkänna dessa certifieringsmekanismer, sigill och märkningar. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

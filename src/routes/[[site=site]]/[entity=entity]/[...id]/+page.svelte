@@ -16,6 +16,7 @@
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
 	import * as m from '#lib/paraglide/messages.js';
+	import RefPreview from '#lib/components/refPreview.svelte';
 	import type { PageProps } from './$types';
 
 	let { data }: PageProps = $props();
@@ -193,6 +194,7 @@
 		<RecordNav groups={data.nav} currentId={data.id} hrefFor={listHref} {pageHref} />
 
 		{#if data.record}
+			<RefPreview />
 			<article bind:this={articleEl} class={ARTICLE_PROSE}>
 				<BreadCrumbs
 					items={[

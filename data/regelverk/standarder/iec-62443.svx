@@ -1,18 +1,20 @@
 ---
 title: IEC 62443
-description: Serien standarder för cybersäkerhet i industriella automationssystem och OT-miljöer.
-designation: IEC 62443
+description: Serien standarder för cybersäkerhet i industriella
+  automationssystem och OT-miljöer.
+designation: ISA/IEC 62443
 jurisdiction: Internationell
 status: in-force
 reviewStatus: verified
 issuer: IEC
 legalStatus: non-binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+lastReviewed: 2026-10-01
+sourceChecked: 2026-10-13
+licenseClass: public-info
 type: standard
 sites:
   - ot
+url: https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 ---
 
 ## Om serien
@@ -34,3 +36,8 @@ IEC 62443 är den internationella standardserien för säkerhet i industriella a
 | SL 2 | Enkla avsiktliga attacker |
 | SL 3 | Avancerade attacker med begränsade resurser |
 | SL 4 | Avancerade attacker med omfattande resurser |
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [NIS2-direktivet](/lagstiftning/nis2)

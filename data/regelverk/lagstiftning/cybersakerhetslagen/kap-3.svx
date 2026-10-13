@@ -1,0 +1,88 @@
+---
+'source': 'cybersakerhetslagen'
+'ref': '3 kap.'
+'title': '3 kap. – Tillsyn'
+'kind': 'chapter'
+'description': 'Cybersäkerhetslagen, 3 kap..'
+'designation': 'Cybersäkerhetslagen 3 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/#K3'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Den eller de myndigheter som regeringen bestämmer ska vara tillsynsmyndighet.
+
+En tillsynsmyndighet ska utöva tillsyn över att [denna lag](/lagstiftning/cybersakerhetslagen) och föreskrifter som har meddelats i anslutning till lagen följs. Den ska också utöva tillsyn över att sådana rättsakter följs som har antagits med stöd av artiklarna [21.5](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23.11](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) i NIS 2-direktivet, i den ursprungliga lydelsen.
+
+### 2 §
+
+Tillsynsåtgärder enligt [3](#3), [4](#4), [6](#6) och [7 §§](#7) får när det gäller viktiga verksamhetsutövare vidtas endast när tillsynsmyndigheten har anledning att anta att verksamhetsutövarna inte följer
+
+1\. [denna lag](/lagstiftning/cybersakerhetslagen) eller föreskrifter som har meddelats i anslutning till lagen, eller
+
+2\. sådana rättsakter som har antagits med stöd av artiklarna [21.5](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23.11](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) i NIS 2-direktivet, i den ursprungliga lydelsen.
+
+### 3 §
+
+Den som står under tillsyn ska på begäran tillhandahålla en tillsyns-myndighet de uppgifter eller handlingar som behövs för tillsynen.
+
+### 4 §
+
+En tillsynsmyndighet har i den omfattning som det behövs för tillsynen rätt att få tillträde till områden, lokaler och andra utrymmen, dock inte bostäder, som används i verksamhet som omfattas av tillsyn.
+
+### 5 §
+
+En tillsynsmyndighet får utföra regelbundna säkerhetsrevisioner av väsentliga verksamhetsutövare eller låta ett oberoende organ utföra sådana säkerhetsrevisioner.
+
+### 6 §
+
+En tillsynsmyndighet får om det finns särskilda skäl utföra riktade säkerhetsrevisioner av den som står under tillsyn eller låta ett oberoende organ utföra sådana säkerhetsrevisioner.
+
+### 7 §
+
+En tillsynsmyndighet får genomföra säkerhetsskanningar hos den som står under tillsyn.
+
+En säkerhetsskanning ska ske i samarbete med verksamhetsutövaren.
+
+### 8 §
+
+En tillsynsmyndighet får besluta att förelägga den som står under tillsyn att medverka till tillsynsåtgärder enligt
+
+[3](#3)-[7 §§](#7).
+
+Ett föreläggande får förenas med vite. Ett vitesföreläggande får även riktas mot staten.
+
+### 9 §
+
+En tillsynsmyndighet får begära handräckning av Kronofogdemyndigheten för att genomföra de tillsynsåtgärder som avses i [3](#3) och [4 §§](#4). Vid handräckning gäller bestämmelserna i utsökningsbalken om verkställighet av förpliktelser som inte avser betalningsskyldighet, avhysning eller avlägsnande.
+
+### 10 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om säkerhetsrevisioner och säkerhetsskanningar enligt [5](#5)-[7 §§](#7).
+
+### 11 §
+
+En tillsynsmyndighet får av en sådan verksamhetsutövare som avses i [1 kap. 6 §](/lagstiftning/cybersakerhetslagen/kap-1#6) och som anmäler verksamhet enligt
+
+[2 kap. 2 §](/lagstiftning/cybersakerhetslagen/kap-2#2) ta ut en avgift för handläggningen av anmälningsärendet. Avgiften ska motsvara myndighetens kostnader för handläggningen av ärendet.
+
+En tillsynsmyndighet ska ta ut en årlig avgift av en sådan verksamhetsutövare som avses i första stycket. De årliga avgifterna ska sammantagna motsvara de kostnader som myndigheten, utöver de kostnader som avses i första stycket, har för sin verksamhet enligt [denna lag](/lagstiftning/cybersakerhetslagen) när det gäller dessa verksamhetsutövare. Avgifterna ska fördelas med skälig andel på var och en av verksamhetsutövarna.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

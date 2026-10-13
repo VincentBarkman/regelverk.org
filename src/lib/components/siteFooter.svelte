@@ -16,7 +16,7 @@
 	let localeEl = $state<HTMLElement>();
 	let measureFullEl = $state<HTMLElement>();
 	let measureCompactEl = $state<HTMLElement>();
-	let compact = $state(false);
+	let compact = $state<boolean>();
 
 	$effect(() => {
 		const footer = rowEl?.parentElement as HTMLElement | undefined;
@@ -62,10 +62,10 @@
 			class="underline-offset-4 hover:underline">GitHub</a
 		>
 		<!-- eslint-disable svelte/no-navigation-without-resolve -->
-		{#if compact}
+		{#if compact === true}
 			<span class="select-none" aria-hidden="true">·</span>
 			<a href={legalIndexHref(scope)} class="underline-offset-4 hover:underline">{m.ui_legal()}</a>
-		{:else}
+		{:else if compact === false}
 			{#each LEGAL_LINKS as p (p.slug)}
 				<span class="select-none" aria-hidden="true">·</span>
 				<a href={legalHref(scope, p.slug)} class="underline-offset-4 hover:underline">{p.label()}</a

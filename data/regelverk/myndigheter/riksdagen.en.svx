@@ -1,0 +1,30 @@
+---
+name: Riksdagen
+short: Riksdagen
+kind: national-authority
+description: The Swedish parliament, which enacts legislation and decides on the state budget.
+url: https://www.riksdagen.se
+logo: /logos/riksdagen.svg
+aliases:
+  - Sveriges riksdag
+  - Riksdag
+  - Swedish Parliament
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: Riksdagen
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Riksdagen
+legalStatus: myndighet
+lastReviewed: '2026-10-12'
+sourceChecked: '2026-10-12'
+licenseClass: public-info
+---
+
+## About Riksdagen
+
+Riksdagen is Sweden's supreme decision-making assembly and enacts laws published in the Swedish Code of Statutes (SFS). The statutory text is published on riksdagen.se and in the Government Offices' legal databases, which serve as the primary sources for the legislation records here.
+
+## Role in regulatory work
+
+The Riksdagen decides on legislative changes following government bills. Agencies then issue regulations under powers delegated in the acts.

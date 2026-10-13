@@ -1,0 +1,436 @@
+---
+title: PR – PROTECT
+description: NIST CSF 2.0 – PR – PROTECT
+source: nist-csf-2
+ref: PR
+designation: NIST CSF 2.0
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.nist.gov/cyberframework
+version: 1.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### PR.AA – Identity Management, Authentication, and Access Control
+
+Access to physical and logical assets is limited to authorized users, services, and hardware and managed commensurate with the assessed risk of unauthorized access
+
+#### PR.AA-01
+
+Identities and credentials for authorized users, services, and hardware are managed by the organization
+
+_Examples:_
+
+-  Initiate requests for new access or additional access for employees, contractors, and others, and track, review, and fulfill the requests, with permission from system or data owners when needed
+-  Issue, manage, and revoke cryptographic certificates and identity tokens, cryptographic keys (i.e., key management), and other credentials
+-  Select a unique identifier for each device from immutable hardware characteristics or an identifier securely provisioned to the device
+-  Physically label authorized hardware with an identifier for inventory and servicing purposes
+
+#### PR.AA-02
+
+Identities are proofed and bound to credentials based on the context of interactions
+
+_Examples:_
+
+-  Verify a person's claimed identity at enrollment time using government-issued identity credentials (e.g., passport, visa, driver's license)
+-  Issue a different credential for each person (i.e., no credential sharing)
+
+#### PR.AA-03
+
+Users, services, and hardware are authenticated
+
+_Examples:_
+
+-  Require multifactor authentication
+-  Enforce policies for the minimum strength of passwords, PINs, and similar authenticators
+-  Periodically reauthenticate users, services, and hardware based on risk (e.g., in zero trust architectures)
+-  Ensure that authorized personnel can access accounts essential for protecting safety under emergency conditions
+
+#### PR.AA-04
+
+Identity assertions are protected, conveyed, and verified
+
+_Examples:_
+
+-  Protect identity assertions that are used to convey authentication and user information through single sign-on systems
+-  Protect identity assertions that are used to convey authentication and user information between federated systems
+-  Implement standards-based approaches for identity assertions in all contexts, and follow all guidance for the generation (e.g., data models, metadata), protection (e.g., digital signing, encryption), and verification (e.g., signature validation) of identity assertions
+
+#### PR.AA-05
+
+Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties
+
+_Examples:_
+
+-  Review logical and physical access privileges periodically and whenever someone changes roles or leaves the organization, and promptly rescind privileges that are no longer needed
+-  Take attributes of the requester and the requested resource into account for authorization decisions (e.g., geolocation, day/time, requester endpoint's cyber health)
+-  Restrict access and privileges to the minimum necessary (e.g., zero trust architecture)
+-  Periodically review the privileges associated with critical business functions to confirm proper separation of duties
+
+#### PR.AA-06
+
+Physical access to assets is managed, monitored, and enforced commensurate with risk
+
+_Examples:_
+
+-  Use security guards, security cameras, locked entrances, alarm systems, and other physical controls to monitor facilities and restrict access
+-  Employ additional physical security controls for areas that contain high-risk assets
+-  Escort guests, vendors, and other third parties within areas that contain business-critical assets
+
+### PR.AC – Identity Management, Authentication and Access Control
+
+
+
+#### PR.AC-01
+
+Identities and credentials are issued, managed, verified, revoked, and audited for authorized devices, users and processes
+
+#### PR.AC-02
+
+Physical access to assets is managed and protected
+
+#### PR.AC-03
+
+Remote access is managed
+
+#### PR.AC-04
+
+Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties
+
+#### PR.AC-05
+
+Network integrity is protected (e.g., network segregation, network segmentation)
+
+#### PR.AC-06
+
+Identities are proofed and bound to credentials and asserted in interactions
+
+#### PR.AC-07
+
+Users, devices, and other assets are authenticated (e.g., single-factor, multi-factor) commensurate with the risk of the transaction (e.g., individuals’ security and privacy risks and other organizational risks)
+
+### PR.AT – Awareness and Training
+
+The organization's personnel are provided with cybersecurity awareness and training so that they can perform their cybersecurity-related tasks
+
+#### PR.AT-01
+
+Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind
+
+_Examples:_
+
+-  Provide basic cybersecurity awareness and training to employees, contractors, partners, suppliers, and all other users of the organization's non-public resources
+-  Train personnel to recognize social engineering attempts and other common attacks, report attacks and suspicious activity, comply with acceptable use policies, and perform basic cyber hygiene tasks (e.g., patching software, choosing passwords, protecting credentials)
+-  Explain the consequences of cybersecurity policy violations, both to individual users and the organization as a whole
+-  Periodically assess or test users on their understanding of basic cybersecurity practices
+-  Require annual refreshers to reinforce existing practices and introduce new practices
+
+#### PR.AT-02
+
+Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+
+_Examples:_
+
+-  Identify the specialized roles within the organization that require additional cybersecurity training, such as physical and cybersecurity personnel, finance personnel, senior leadership, and anyone with access to business-critical data
+-  Provide role-based cybersecurity awareness and training to all those in specialized roles, including contractors, partners, suppliers, and other third parties
+-  Periodically assess or test users on their understanding of cybersecurity practices for their specialized roles
+-  Require annual refreshers to reinforce existing practices and introduce new practices
+
+#### PR.AT-03
+
+Third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities
+
+#### PR.AT-04
+
+Senior executives understand their roles and responsibilities
+
+#### PR.AT-05
+
+Physical and cybersecurity personnel understand their roles and responsibilities
+
+### PR.DS – Data Security
+
+Data are managed consistent with the organization's risk strategy to protect the confidentiality, integrity, and availability of information
+
+#### PR.DS-01
+
+The confidentiality, integrity, and availability of data-at-rest are protected
+
+_Examples:_
+
+-  Use encryption, digital signatures, and cryptographic hashes to protect the confidentiality and integrity of stored data in files, databases, virtual machine disk images, container images, and other resources
+-  Use full disk encryption to protect data stored on user endpoints
+-  Confirm the integrity of software by validating signatures
+-  Restrict the use of removable media to prevent data exfiltration
+-  Physically secure removable media containing unencrypted sensitive information, such as within locked offices or file cabinets
+
+#### PR.DS-02
+
+The confidentiality, integrity, and availability of data-in-transit are protected
+
+_Examples:_
+
+-  Use encryption, digital signatures, and cryptographic hashes to protect the confidentiality and integrity of network communications
+-  Automatically encrypt or block outbound emails and other communications that contain sensitive data, depending on the data classification
+-  Block access to personal email, file sharing, file storage services, and other personal communications applications and services from organizational systems and networks
+-  Prevent reuse of sensitive data from production environments (e.g., customer records) in development, testing, and other non-production environments
+
+#### PR.DS-03
+
+Assets are formally managed throughout removal, transfers, and disposition
+
+#### PR.DS-04
+
+Adequate capacity to ensure availability is maintained
+
+#### PR.DS-05
+
+Protections against data leaks are implemented
+
+#### PR.DS-06
+
+Integrity checking mechanisms are used to verify software, firmware, and information integrity
+
+#### PR.DS-07
+
+The development and testing environment(s) are separate from the production environment
+
+#### PR.DS-08
+
+Integrity checking mechanisms are used to verify hardware integrity
+
+#### PR.DS-10
+
+The confidentiality, integrity, and availability of data-in-use are protected
+
+_Examples:_
+
+-  Remove data that must remain confidential (e.g., from processors and memory) as soon as it is no longer needed
+-  Protect data in use from access by other users and processes of the same platform
+
+#### PR.DS-11
+
+Backups of data are created, protected, maintained, and tested
+
+_Examples:_
+
+-  Continuously back up critical data in near-real-time, and back up other data frequently at agreed-upon schedules
+-  Test backups and restores for all types of data sources at least annually
+-  Securely store some backups offline and offsite so that an incident or disaster will not damage them
+-  Enforce geographic separation and geolocation restrictions for data backup storage
+
+### PR.IP – Information Protection Processes and Procedures
+
+
+
+#### PR.IP-01
+
+A baseline configuration of information technology/industrial control systems is created and maintained incorporating security principles (e.g. concept of least functionality)
+
+#### PR.IP-02
+
+A System Development Life Cycle to manage systems is implemented
+
+#### PR.IP-03
+
+Configuration change control processes are in place
+
+#### PR.IP-04
+
+Backups of information are conducted, maintained, and tested
+
+#### PR.IP-05
+
+Policy and regulations regarding the physical operating environment for organizational assets are met
+
+#### PR.IP-06
+
+Data is destroyed according to policy
+
+#### PR.IP-07
+
+Protection processes are improved
+
+#### PR.IP-08
+
+Effectiveness of protection technologies is shared
+
+#### PR.IP-09
+
+Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed
+
+#### PR.IP-10
+
+Response and recovery plans are tested
+
+#### PR.IP-11
+
+Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)
+
+#### PR.IP-12
+
+A vulnerability management plan is developed and implemented
+
+### PR.IR – Technology Infrastructure Resilience
+
+Security architectures are managed with the organization's risk strategy to protect asset confidentiality, integrity, and availability, and organizational resilience
+
+#### PR.IR-01
+
+Networks and environments are protected from unauthorized logical access and usage
+
+_Examples:_
+
+-  Logically segment organization networks and cloud-based platforms according to trust boundaries and platform types (e.g., IT, IoT, OT, mobile, guests), and permit required communications only between segments
+-  Logically segment organization networks from external networks, and permit only necessary communications to enter the organization's networks from the external networks
+-  Implement zero trust architectures to restrict network access to each resource to the minimum necessary
+-  Check the cyber health of endpoints before allowing them to access and use production resources
+
+#### PR.IR-02
+
+The organization's technology assets are protected from environmental threats
+
+_Examples:_
+
+-  Protect organizational equipment from known environmental threats, such as flooding, fire, wind, and excessive heat and humidity
+-  Include protection from environmental threats and provisions for adequate operating infrastructure in requirements for service providers that operate systems on the organization's behalf
+
+#### PR.IR-03
+
+Mechanisms are implemented to achieve resilience requirements in normal and adverse situations
+
+_Examples:_
+
+-  Avoid single points of failure in systems and infrastructure
+-  Use load balancing to increase capacity and improve reliability
+-  Use high-availability components like redundant storage and power supplies to improve system reliability
+
+#### PR.IR-04
+
+Adequate resource capacity to ensure availability is maintained
+
+_Examples:_
+
+-  Monitor usage of storage, power, compute, network bandwidth, and other resources
+-  Forecast future needs, and scale resources accordingly
+
+### PR.MA – Maintenance
+
+
+
+#### PR.MA-01
+
+Maintenance and repair of organizational assets are performed and logged, with approved and controlled tools
+
+#### PR.MA-02
+
+Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access
+
+### PR.PS – Platform Security
+
+The hardware, software (e.g., firmware, operating systems, applications), and services of physical and virtual platforms are managed consistent with the organization's risk strategy to protect their confidentiality, integrity, and availability
+
+#### PR.PS-01
+
+Configuration management practices are established and applied
+
+_Examples:_
+
+-  Establish, test, deploy, and maintain hardened baselines that enforce the organization's cybersecurity policies and provide only essential capabilities (i.e., principle of least functionality)
+-  Review all default configuration settings that may potentially impact cybersecurity when installing or upgrading software
+-  Monitor implemented software for deviations from approved baselines
+
+#### PR.PS-02
+
+Software is maintained, replaced, and removed commensurate with risk
+
+_Examples:_
+
+-  Perform routine and emergency patching within the timeframes specified in the vulnerability management plan
+-  Update container images, and deploy new container instances to replace rather than update existing instances
+-  Replace end-of-life software and service versions with supported, maintained versions
+-  Uninstall and remove unauthorized software and services that pose undue risks
+-  Uninstall and remove any unnecessary software components (e.g., operating system utilities) that attackers might misuse
+-  Define and implement plans for software and service end-of-life maintenance support and obsolescence
+
+#### PR.PS-03
+
+Hardware is maintained, replaced, and removed commensurate with risk
+
+_Examples:_
+
+-  Replace hardware when it lacks needed security capabilities or when it cannot support software with needed security capabilities
+-  Define and implement plans for hardware end-of-life maintenance support and obsolescence
+-  Perform hardware disposal in a secure, responsible, and auditable manner
+
+#### PR.PS-04
+
+Log records are generated and made available for continuous monitoring
+
+_Examples:_
+
+-  Configure all operating systems, applications, and services (including cloud-based services) to generate log records
+-  Configure log generators to securely share their logs with the organization's logging infrastructure systems and services
+-  Configure log generators to record the data needed by zero-trust architectures
+
+#### PR.PS-05
+
+Installation and execution of unauthorized software are prevented
+
+_Examples:_
+
+-  When risk warrants it, restrict software execution to permitted products only or deny the execution of prohibited and unauthorized software
+-  Verify the source of new software and the software's integrity before installing it
+-  Configure platforms to use only approved DNS services that block access to known malicious domains
+-  Configure platforms to allow the installation of organization-approved software only
+
+#### PR.PS-06
+
+Secure software development practices are integrated, and their performance is monitored throughout the software development life cycle
+
+_Examples:_
+
+-  Protect all components of organization-developed software from tampering and unauthorized access
+-  Secure all software produced by the organization, with minimal vulnerabilities in their releases
+-  Maintain the software used in production environments, and securely dispose of software once it is no longer needed
+
+### PR.PT – Protective Technology
+
+
+
+#### PR.PT-01
+
+Audit/log records are determined, documented, implemented, and reviewed in accordance with policy
+
+#### PR.PT-02
+
+Removable media is protected and its use restricted according to policy
+
+#### PR.PT-03
+
+The principle of least functionality is incorporated by configuring systems to provide only essential capabilities
+
+#### PR.PT-04
+
+Communications and control networks are protected
+
+#### PR.PT-05
+
+Mechanisms (e.g., failsafe, load balancing, hot swap) are implemented to achieve resilience requirements in normal and adverse situations
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/CSF/v2.0/json/NIST_CSF_v2.0_catalog.json).
+<!-- scan-standards:end -->

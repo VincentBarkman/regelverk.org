@@ -1,0 +1,109 @@
+---
+'source': 'cer'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – KRITISKA ENTITETERS MOTSTÅNDSKRAFT'
+'kind': 'chapter'
+'description': 'CER-direktivet, Kapitel III.'
+'designation': 'CER-direktivet Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2557#cpt_III'
+'sites':
+  - 'ot'
+  - 'fysisk'
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 12 – Riskbedömning av kritiska entiteter
+
+1\. Utan hinder av den tidsfrist som anges i artikel [6.3](/lagstiftning/cer/kap-2#artikel-6-identifiering-av-kritiska-entiteter) andra stycket ska medlemsstaterna säkerställa att kritiska entiteter gör en riskbedömning inom nio månader från mottagandet av den underrättelse som avses i artikel [6.3](/lagstiftning/cer/kap-2#artikel-6-identifiering-av-kritiska-entiteter) och därefter när det är nödvändigt och minst vart fjärde år, på grundval av medlemsstaternas riskbedömningar och andra relevanta informationskällor, för att bedöma alla relevanta risker som kan störa tillhandahållandet av deras samhällsviktiga tjänster (riskbedömning av kritiska entiteter).
+
+2\. Riskbedömningar av kritiska entiteter ska innehålla en redogörelse för alla relevanta risker för naturolyckor och risker orsakade av människan som skulle kunna leda till en incident, inbegripet risker av sektorsövergripande eller gränsöverskridande slag, olyckor, naturkatastrofer, hot mot folkhälsan och hybridhot samt andra antagonistiska hot, inklusive terroristbrott enligt [direktiv (EU) 2017/541](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017L0541). En riskbedömning av kritiska entiteter ska beakta den grad till vilken andra sektorer som anges i bilagan är beroende av den samhällsviktiga tjänst som tillhandahålls av den kritiska entiteten och den grad till vilken den kritiska entiteten är beroende av samhällsviktiga tjänster som tillhandahålls av andra entiteter i sådana andra sektorer, inbegripet i angränsande medlemsstater och tredjeländer i förekommande fall.
+
+Om en kritisk entitet, i enlighet med skyldigheter som föreskrivs i andra rättsakter, har gjort andra riskbedömningar eller utarbetat dokument som är relevanta för dess riskbedömning av kritiska entiteter får den använda dessa bedömningar och dokument för att uppfylla kraven i [denna artikel](#artikel-12-riskbedömning-av-kritiska-entiteter). När den behöriga myndigheten utövar sina tillsynsfunktioner får den slå fast att en befintlig riskbedömning som gjorts av en kritisk entitet och som omfattar de risker och den beroendegrad som avses i första stycket i denna punkt helt eller delvis uppfyller skyldigheterna enligt [denna artikel](#artikel-12-riskbedömning-av-kritiska-entiteter).
+
+### Artikel 13 – Kritiska entiteters åtgärder för motståndskraft
+
+1\. Medlemsstaterna ska säkerställa att kritiska entiteter vidtar lämpliga och proportionella tekniska, säkerhetsmässiga och organisatoriska åtgärder för att säkerställa sin motståndskraft, på grundval av den relevanta information som tillhandahålls av medlemsstaterna om medlemsstaternas riskbedömning samt resultatet av riskbedömningen av kritiska entiteter, inbegripet åtgärder som är nödvändiga för att
+
+a) förhindra incidenter från att uppstå, med vederbörlig hänsyn till åtgärder för katastrofriskreducering och klimatanpassning,
+
+b) säkerställa ett tillfredsställande fysiskt skydd av deras lokaler och kritiska infrastruktur, med vederbörlig hänsyn till exempelvis stängsel, barriärer, verktyg och rutiner för övervakning av områdesgränser, detektionsutrustning och åtkomstkontroller,
+
+c) reagera på, stå emot och begränsa konsekvenserna av incidenter, med vederbörlig hänsyn till genomförandet av risk- och krishanteringsförfaranden och protokoll samt varningsrutiner,
+
+d) återhämta sig från incidenter, med vederbörlig hänsyn till åtgärder för driftskontinuitet och identifiering av alternativa försörjningskedjor, för att återuppta tillhandahållandet av den samhällsviktiga tjänsten,
+
+e) säkerställa en ändamålsenlig hantering av personalsäkerhet, med vederbörlig hänsyn till åtgärder såsom fastställande av kategorier av personal som utför kritiska funktioner, fastställande av åtkomsträttigheter till lokaler, kritisk infrastruktur och känslig information, inrättande av förfaranden för bakgrundskontroller i enlighet med artikel [14](#artikel-14-bakgrundskontroller) och fastställande av de kategorier av personer som måste genomgå sådana bakgrundskontroller samt fastställande av lämpliga utbildningskrav och kvalifikationer,
+
+f) öka medvetenheten om de åtgärder som anges i leden a–e hos berörd personal, med vederbörlig hänsyn till utbildningskurser, informationsmaterial och övningar.
+
+Vid tillämpning av första stycket e ska medlemsstaterna säkerställa att kritiska entiteter beaktar externa tjänsteleverantörers personal vid fastställandet av kategorier av personal som utför kritiska funktioner.
+
+2\. Medlemsstaterna ska säkerställa att kritiska entiteter har och tillämpar en plan för motståndskraft eller ett eller flera likvärdiga dokument med en beskrivning av de åtgärder som vidtagits enligt punkt 1. Om kritiska entiteter har utarbetat dokument eller vidtagit åtgärder i enlighet med skyldigheter som anges i andra rättsakter som är relevanta för de åtgärder som avses i punkt 1 får de använda dessa dokument och åtgärder för att uppfylla kraven i [denna artikel](#artikel-13-kritiska-entiteters-åtgärder-för-motståndskraft). När den behöriga myndigheten utövar sina tillsynsfunktioner får den slå fast att befintliga motståndskraftsstärkande åtgärder som vidtagits av en kritisk entitet och som på ett lämpligt och proportionerligt sätt adresserar de tekniska, säkerhetsmässiga och organisatoriska åtgärder som avses i punkt 1 helt eller delvis uppfyller skyldigheterna enligt [denna artikel](#artikel-13-kritiska-entiteters-åtgärder-för-motståndskraft).
+
+3\. Medlemsstaterna ska säkerställa att varje kritisk entitet utser en sambandsansvarig eller motsvarande som kontaktpunkt med de berörda myndigheterna.
+
+4\. På begäran av den medlemsstat som identifierade den kritiska entiteten och med den berörda kritiska entitetens samtycke ska kommissionen anordna rådgivande uppdrag i enlighet med de arrangemang som fastställs i artikel [18.6](/lagstiftning/cer/kap-4#artikel-18-rådgivande-uppdrag), [18.8](/lagstiftning/cer/kap-4#artikel-18-rådgivande-uppdrag) och [18.9](/lagstiftning/cer/kap-4#artikel-18-rådgivande-uppdrag) för att tillhandahålla rådgivning för den berörda kritiska entiteten avseende uppfyllandet av dess skyldigheter enligt [kapitel III](/lagstiftning/cer/kap-3). Det rådgivande uppdraget ska rapportera sina slutsatser till kommissionen, medlemsstaten och den berörda kritiska entiteten.
+
+5\. Kommissionen ska efter samråd med den grupp för kritiska entiteters motståndskraft som avses i artikel [19](/lagstiftning/cer/kap-5#artikel-19-gruppen-för-kritiska-entiteters-motståndskraft) anta icke-bindande riktlinjer för att närmare fastställa de tekniska, säkerhetsmässiga och organisatoriska åtgärder som får vidtas enligt punkt 1 i [den här artikeln](#artikel-13-kritiska-entiteters-åtgärder-för-motståndskraft).
+
+6\. Kommissionen ska anta genomförandeakter för att fastställa de nödvändiga tekniska och metodrelaterade specifikationerna för tillämpningen av de åtgärder som avses i punkt 1 i [denna artikel](#artikel-13-kritiska-entiteters-åtgärder-för-motståndskraft). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [24.2](/lagstiftning/cer/kap-7#artikel-24-kommittéförfarande).
+
+### Artikel 14 – Bakgrundskontroller
+
+1\. Medlemsstaterna ska ange de villkor enligt vilka en kritisk entitet, i vederbörligen motiverade fall och med beaktande av medlemsstatens riskbedömning, får ansöka om bakgrundskontroller av personer som
+
+a) innehar känsliga roller i eller till förmån för den kritiska entiteten, särskilt när det gäller den kritiska entitetens motståndskraft,
+
+b) är bemyndigade att direkt eller på distans få tillgång till den kritiska entitetens lokaler eller dess informations- eller kontrollsystem, inbegripet när det gäller den kritiska entitetens säkerhet,
+
+c) övervägs för rekrytering till tjänster som omfattas av de kriterier som anges i led a eller b.
+
+2\. De ansökningar som avses i punkt 1 i [denna artikel](#artikel-14-bakgrundskontroller) ska bedömas inom en rimlig tidsram och hanteras i enlighet med nationell rätt och nationella förfaranden samt relevant och tillämplig unionsrätt, inbegripet [förordning (EU) 2016/679](/lagstiftning/gdpr) och [Europaparlamentets och rådets direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) (37). Bakgrundskontroller ska vara proportionella och strikt begränsade till vad som är nödvändigt. De ska utföras enbart i syfte att utvärdera en potentiell säkerhetsrisk för den berörda kritiska entiteten.
+
+3\. En bakgrundskontroll enligt punkt 1 ska åtminstone
+
+a) bekräfta identiteten på den person som är föremål för bakgrundskontrollen,
+
+b) kontrollera uppgifter ur kriminalregistret för den personen avseende brott som är relevanta för en viss tjänst.
+
+När de utför bakgrundskontroller ska medlemsstaterna använda det europeiska informationssystemet för utbyte av uppgifter ur kriminalregister i enlighet med de förfaranden som fastställs i rambeslut 2009/315/RIF och, i förekommande och tillämpliga fall, [förordning (EU) 2019/816](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0816) för att inhämta uppgifter ur kriminalregister som innehas av andra medlemsstater. De centralmyndigheter som avses i artikel [3.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009D0315) i rambeslut 2009/315/RIF och i artikel [3.5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0816) i [förordning (EU) 2019/816](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0816) ska besvara begäranden om sådana uppgifter inom tio arbetsdagar från och med den dag då begäran togs emot i enlighet med artikel [8.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009D0315) i rambeslut 2009/315/RIF.
+
+### Artikel 15 – Incidentanmälan
+
+1\. Medlemsstaterna ska säkerställa att kritiska entiteter utan onödigt dröjsmål lämnar in en anmälan till den behöriga myndigheten om incidenter som medför en betydande störning eller kan medföra en betydande störning i tillhandahållandet av samhällsviktiga tjänster. Medlemsstaterna ska säkerställa att de kritiska entiteterna, om det inte är operativt omöjligt för dem, lämnar in en första anmälan inom 24 timmar efter det att de har fått kännedom om en incident, åtföljd, i förekommande fall, av en detaljerad rapport senast en månad därefter. För att fastställa huruvida störningen är betydande ska i synnerhet följande parametrar tas i beaktande:
+
+a) Antal och andel användare som berörs av störningen.
+
+b) Störningens varaktighet.
+
+c) Det geografiska område som påverkas av störningen, med beaktande av huruvida området är geografiskt isolerat.
+
+Om en incident har eller kan ha en betydande påverkan på kontinuiteten i tillhandahållandet av samhällsviktiga tjänster i minst sex medlemsstater ska de behöriga myndigheterna i de medlemsstater som berörs av incidenten anmäla den incidenten till kommissionen.
+
+2\. De anmälningar som avses i punkt 1 första stycket ska omfatta all tillgänglig information som är nödvändig för att den behöriga myndigheten ska kunna förstå incidentens art, orsak och möjliga konsekvenser, inbegripet eventuell information som krävs för att kunna fastställa incidentens eventuella gränsöverskridande verkningar. Sådana anmälningar ska inte medföra ett ökat ansvar för de kritiska entiteterna.
+
+3\. På grundval av den information som en kritisk entitet lämnar i den anmälan som avses i punkt 1 ska den relevanta behöriga myndigheten via den gemensamma kontaktpunkten informera den gemensamma kontaktpunkten i andra medlemsstater som påverkas om incidenten har eller kan ha en betydande påverkan på kritiska entiteter och kontinuiteten i tillhandahållandet av samhällsviktiga tjänster i en eller flera andra medlemsstater.
+
+Gemensamma kontaktpunkter som skickar eller tar emot information enligt första stycket ska i enlighet med unionsrätten eller nationell rätt behandla den informationen på ett sätt som respekterar dess konfidentialitet och skyddar den berörda kritiska entitetens säkerhet och kommersiella intressen.
+
+4\. Så snart som möjligt efter en anmälan enligt punkt 1 ska den berörda behöriga myndigheten ge den berörda kritiska entiteten relevant uppföljningsinformation, inklusive information som skulle kunna hjälpa den kritiska entiteten att reagera ändamålsenligt på incidenten i fråga. Medlemsstaterna ska informera allmänheten om de anser att det skulle ligga i allmänhetens intresse.
+
+### Artikel 16 – Standarder
+
+För att främja ett enhetligt genomförande av [detta direktiv](/lagstiftning/cer) ska medlemsstaterna, när det är användbart och utan att föreskriva eller gynna användning av en viss typ av teknik, uppmuntra användningen av europeiska och internationellt erkända standarder och tekniska specifikationer som är relevanta för åtgärder för säkerhet och motståndskraft som är tillämpliga på kritiska entiteter.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

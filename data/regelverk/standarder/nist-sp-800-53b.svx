@@ -1,0 +1,55 @@
+---
+title: NIST SP 800-53B – Moderate baseline
+description: NIST:s kontrollbaslinjer för SP 800-53; den moderata baslinjen
+  återges här som OSCAL-katalog.
+designation: NIST SP 800-53B
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+translation: en
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+NIST:s kontrollbaslinjer för SP 800-53; den moderata baslinjen återges här som OSCAL-katalog.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [NIST SP 800-53B](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final).
+
+## Innehåll
+
+- [AC – Access Control](/standarder/nist-sp-800-53b/ac) · 39 krav
+- [AT – Awareness and Training](/standarder/nist-sp-800-53b/at) · 6 krav
+- [AU – Audit and Accountability](/standarder/nist-sp-800-53b/au) · 16 krav
+- [CA – Assessment, Authorization, and Monitoring](/standarder/nist-sp-800-53b/ca) · 10 krav
+- [CM – Configuration Management](/standarder/nist-sp-800-53b/cm) · 24 krav
+- [CP – Contingency Planning](/standarder/nist-sp-800-53b/cp) · 23 krav
+- [IA – Identification and Authentication](/standarder/nist-sp-800-53b/ia) · 24 krav
+- [IR – Incident Response](/standarder/nist-sp-800-53b/ir) · 13 krav
+- [MA – Maintenance](/standarder/nist-sp-800-53b/ma) · 9 krav
+- [MP – Media Protection](/standarder/nist-sp-800-53b/mp) · 7 krav
+- [PE – Physical and Environmental Protection](/standarder/nist-sp-800-53b/pe) · 18 krav
+- [PL – Planning](/standarder/nist-sp-800-53b/pl) · 7 krav
+- [PS – Personnel Security](/standarder/nist-sp-800-53b/ps) · 9 krav
+- [RA – Risk Assessment](/standarder/nist-sp-800-53b/ra) · 10 krav
+- [SA – System and Services Acquisition](/standarder/nist-sp-800-53b/sa) · 17 krav
+- [SC – System and Communications Protection](/standarder/nist-sp-800-53b/sc) · 25 krav
+- [SI – System and Information Integrity](/standarder/nist-sp-800-53b/si) · 18 krav
+- [SR – Supply Chain Risk Management](/standarder/nist-sp-800-53b/sr) · 12 krav
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+<!-- scan-standards:end -->

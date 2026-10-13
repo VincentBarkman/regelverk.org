@@ -1,0 +1,304 @@
+---
+'source': 'gdpr'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – Den registrerades rättigheter'
+'kind': 'chapter'
+'description': 'Dataskyddsförordningen (GDPR), Kapitel III.'
+'designation': 'GDPR Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32016R0679#cpt_III'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 12 – Klar och tydlig information och kommunikation samt klara och tydliga villkor för utövandet av den registrerades rättigheter
+
+1\. Den personuppgiftsansvarige ska vidta lämpliga åtgärder för att till den registrerade tillhandahålla all information som avses i artiklarna [13](#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade) och all kommunikation enligt artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [34](/lagstiftning/gdpr/kap-4#artikel-34-information-till-den-registrerade-om-en-personuppgiftsincident) vilken avser behandling i en koncis, klar och tydlig, begriplig och lätt tillgänglig form, med användning av klart och tydligt språk, i synnerhet för information som är särskilt riktad till barn. Informationen ska tillhandahållas skriftligt, eller i någon annan form, inbegripet, när så är lämpligt, i elektronisk form. Om den registrerade begär det får informationen tillhandahållas muntligt, förutsatt att den registrerades identitet bevisats på andra sätt.
+
+2\. Den personuppgiftsansvarige ska underlätta utövandet av den registrerades rättigheter i enlighet med artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering). I de fall som avses i artikel [11.2](/lagstiftning/gdpr/kap-2#artikel-11-behandling-som-inte-kräver-identifiering) får den personuppgiftsansvarige inte vägra att tillmötesgå den registrerades begäran om att utöva sina rättigheter enligt artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), om inte den personuppgiftsansvarige visar att han eller hon inte är i stånd att identifiera den registrerade.
+
+3\. Den personuppgiftsansvarige ska på begäran utan onödigt dröjsmål och under alla omständigheter senast en månad efter att ha mottagit begäran tillhandahålla den registrerade information om de åtgärder som vidtagits enligt artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering). Denna period får vid behov förlängas med ytterligare två månader, med beaktande av hur komplicerad begäran är och antalet inkomna begäranden. Den personuppgiftsansvarige ska underrätta den registrerade om en sådan förlängning inom en månad från det att begäran mottagits samt ange orsakerna till förseningen. Om den registrerade lämnar begäran i elektronisk form, ska informationen om möjligt tillhandahållas i elektronisk form, om den registrerade inte begär något annat.
+
+4\. Om den personuppgiftsansvarige inte vidtar åtgärder på den registrerades begäran, ska den personuppgiftsansvarige utan dröjsmål och senast en månad efter att ha mottagit begäran informera den registrerade om orsaken till att åtgärder inte vidtagits och om möjligheten att lämna in ett klagomål till en tillsynsmyndighet och begära rättslig prövning.
+
+5\. Information som tillhandahållits enligt artiklarna [13](#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade), all kommunikation och samtliga åtgärder som vidtas enligt artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [34](/lagstiftning/gdpr/kap-4#artikel-34-information-till-den-registrerade-om-en-personuppgiftsincident) ska tillhandahållas kostnadsfritt. Om begäranden från en registrerad är uppenbart ogrundade eller orimliga, särskilt på grund av deras repetitiva art, får den personuppgiftsansvarige antingen
+
+a) ta ut en rimlig avgift som täcker de administrativa kostnaderna för att tillhandahålla den information eller vidta den åtgärd som begärts, eller
+
+b) vägra att tillmötesgå begäran.
+
+Det åligger den personuppgiftsansvarige att visa att begäran är uppenbart ogrundad eller orimlig.
+
+6\. Utan att det påverkar tillämpningen av artikel [11](/lagstiftning/gdpr/kap-2#artikel-11-behandling-som-inte-kräver-identifiering) får den personuppgiftsansvarige, om denne har rimliga skäl att betvivla identiteten hos den fysiska person som lämnar in en begäran enligt artiklarna [15](#artikel-15-den-registrerades-rätt-till-tillgång)–[21](#artikel-21-rätt-att-göra-invändningar), begära att ytterligare information som är nödvändig för att bekräfta den registrerades identitet tillhandahålls.
+
+7\. Den information som ska tillhandahållas de registrerade i enlighet med artiklarna [13](#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade) får tillhandahållas kombinerad med standardiserade symboler för att ge en överskådlig, begriplig, lättläst och meningsfull överblick över den planerade behandlingen. Om sådana symboler visas elektroniskt ska de vara maskinläsbara.
+
+8\. Kommissionen ska ges befogenhet att anta delegerade akter i enlighet med artikel [92](/lagstiftning/gdpr/kap-10#artikel-92-utövande-av-delegeringen) för att fastställa vilken information som ska visas med hjälp av symboler och förfaranden för att tillhandahålla sådana symboler.
+
+### Artikel 13 – Information som ska tillhandahållas om personuppgifterna samlas in från den registrerade
+
+1\. Om personuppgifter som rör en registrerad person samlas in från den registrerade, ska den personuppgiftsansvarige, när personuppgifterna erhålls, till den registrerade lämna information om följande:
+
+a) Identitet och kontaktuppgifter för den personuppgiftsansvarige och i tillämpliga fall för dennes företrädare.
+
+b) Kontaktuppgifter för dataskyddsombudet, i tillämpliga fall.
+
+c) Ändamålen med den behandling för vilken personuppgifterna är avsedda samt den rättsliga grunden för behandlingen.
+
+d) Om behandlingen är baserad på artikel [6.1 f](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter), den personuppgiftsansvariges eller en tredje parts berättigade intressen.
+
+e) Mottagarna eller de kategorier av mottagare som ska ta del av personuppgifterna, i förekommande fall.
+
+f) I tillämpliga fall att den personuppgiftsansvarige avser att överföra personuppgifter till ett tredjeland eller en internationell organisation och huruvida ett beslut av kommissionen om adekvat skyddsnivå föreligger eller saknas eller, när det gäller de överföringar som avses i artikel [46](/lagstiftning/gdpr/kap-5#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder), [47](/lagstiftning/gdpr/kap-5#artikel-47-bindande-företagsbestämmelser) eller artikel [49.1](/lagstiftning/gdpr/kap-5#artikel-49-undantag-i-särskilda-situationer) andra stycket, hänvisning till lämpliga eller passande skyddsåtgärder och hur en kopia av dem kan erhållas eller var dessa har gjorts tillgängliga.
+
+2\. Utöver den information som avses i punkt 1 ska den personuppgiftsansvarige vid insamlingen av personuppgifterna lämna den registrerade följande ytterligare information, vilken krävs för att säkerställa rättvis och transparent behandling:
+
+a) Den period under vilken personuppgifterna kommer att lagras eller, om detta inte är möjligt, de kriterier som används för att fastställa denna period.
+
+b) Att det föreligger en rätt att av den personuppgiftsansvarige begära tillgång till och rättelse eller radering av personuppgifter eller begränsning av behandling som rör den registrerade eller att invända mot behandling samt rätten till dataportabilitet.
+
+c) Om behandlingen grundar sig på artikel [6.1 a](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller artikel [9.2 a](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter), att det föreligger en rätt att när som helst återkalla sitt samtycke, utan att detta påverkar lagligheten av behandlingen på grundval av samtycket, innan detta återkallades.
+
+d) Rätten att inge klagomål till en tillsynsmyndighet.
+
+e) Huruvida tillhandahållandet av personuppgifter är ett lagstadgat eller avtalsenligt krav eller ett krav som är nödvändigt för att ingå ett avtal samt huruvida den registrerade är skyldig att tillhandahålla personuppgifterna och de möjliga följderna av att sådana uppgifter inte lämnas.
+
+f) Förekomsten av automatiserat beslutsfattande, inbegripet profilering enligt artikel [22.1](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [22.4](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), varvid det åtminstone i dessa fall ska lämnas meningsfull information om logiken bakom samt betydelsen och de förutsedda följderna av sådan behandling för den registrerade.
+
+3\. Om den personuppgiftsansvarige avser att ytterligare behandla personuppgifterna för ett annat syfte än det för vilket de insamlades, ska den personuppgiftsansvarige före denna ytterligare behandling ge den registrerade information om detta andra syfte samt ytterligare relevant information enligt punkt 2.
+
+4\. Punkterna 1, 2 och 3 ska inte tillämpas om och i den mån den registrerade redan förfogar över informationen.
+
+### Artikel 14 – Information som ska tillhandahållas om personuppgifterna inte har erhållits från den registrerade
+
+1\. Om personuppgifterna inte har erhållits från den registrerade, ska den personuppgiftsansvarige förse den registrerade med följande information:
+
+a) Identitet och kontaktuppgifter för den personuppgiftsansvarige och i tillämpliga fall för dennes företrädare.
+
+b) Kontaktuppgifter för dataskyddsombudet, i tillämpliga fall.
+
+c) Ändamålen med den behandling för vilken personuppgifterna är avsedda samt den rättsliga grunden för behandlingen.
+
+d) De kategorier av personuppgifter som behandlingen gäller.
+
+e) Mottagarna eller de kategorier av mottagare som ska ta del av personuppgifterna, i förekommande fall.
+
+f) I tillämpliga fall att den personuppgiftsansvarige avser att överföra personuppgifter till en mottagare i ett tredjeland eller en internationell organisation och huruvida ett beslut av kommissionen om adekvat skyddsnivå föreligger eller saknas eller, när det gäller de överföringar som avses i artiklarna [46](/lagstiftning/gdpr/kap-5#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder), [47](/lagstiftning/gdpr/kap-5#artikel-47-bindande-företagsbestämmelser) eller artikel [49.1](/lagstiftning/gdpr/kap-5#artikel-49-undantag-i-särskilda-situationer) andra stycket, hänvisning till lämpliga eller passande skyddsåtgärder och hur en kopia av dem kan erhållas eller var dessa har gjorts tillgängliga.
+
+2\. Utöver den information som avses i punkt 1 ska den personuppgiftsansvarige lämna den registrerade följande information, vilken krävs för att säkerställa rättvis och transparent behandling när det gäller den registrerade:
+
+a) Den period under vilken personuppgifterna kommer att lagras eller, om detta inte är möjligt, de kriterier som används för att fastställa denna period.
+
+b) Om behandlingen grundar sig på artikel [6.1 f](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter), den personuppgiftsansvariges eller en tredje parts berättigade intressen.
+
+c) Förekomsten av rätten att av den personuppgiftsansvarige begära tillgång till och rättelse eller radering av personuppgifter eller begränsning av behandling som rör den registrerade och att invända mot behandling samt rätten till dataportabilitet.
+
+d) Om behandlingen grundar sig på artikel [6.1 a](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller artikel [9.2 a](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter), rätten att när som helst återkalla sitt samtycke, utan att detta påverkar lagligheten av behandlingen på grundval av samtycket, innan detta återkallades.
+
+e) Rätten att inge klagomål till en tillsynsmyndighet.
+
+f) Varifrån personuppgifterna kommer och i förekommande fall huruvida de har sitt ursprung i allmänt tillgängliga källor.
+
+g) Förekomsten av automatiserat beslutsfattande, inbegripet profilering enligt artikel [22.1](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [22.4](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), varvid det åtminstone i dessa fall ska lämnas meningsfull information om logiken bakom samt betydelsen och de förutsedda följderna av sådan behandling för den registrerade.
+
+3\. Den personuppgiftsansvarige ska lämna den information som anges i punkterna 1 och 2
+
+a) inom en rimlig period efter det att personuppgifterna har erhållits, dock senast inom en månad, med beaktande av de särskilda omständigheter under vilka personuppgifterna behandlas,
+
+b) om personuppgifterna ska användas för kommunikation med den registrerade, senast vid tidpunkten för den första kommunikationen med den registrerade, eller
+
+c) om ett utlämnande till en annan mottagare förutses, senast när personuppgifterna lämnas ut för första gången.
+
+4\. Om den personuppgiftsansvarige avser att ytterligare behandla personuppgifterna för ett annat syfte än det för vilket de insamlades, ska den personuppgiftsansvarige före denna ytterligare behandling ge den registrerade information om detta andra syfte samt ytterligare relevant information enligt punkt 2.
+
+5\. Punkterna 1–4 ska inte tillämpas i följande fall och i den mån
+
+a) den registrerade redan förfogar över informationen,
+
+b) tillhandahållandet av sådan information visar sig vara omöjligt eller skulle medföra en oproportionell ansträngning, särskilt för behandling för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål i enlighet med artikel [89.1](/lagstiftning/gdpr/kap-9#artikel-89-skyddsåtgärder-och-undantag-för-behandling-för-arkivändamål-av-allmänt-intresse-vetenskapliga-eller-historiska-forskningsändamål-eller-statistiska-ändamål), eller i den mån den skyldighet som avses i punkt 1 i [den här artikeln](#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade) sannolikt kommer att göra det omöjligt eller avsevärt försvårar uppfyllandet av målen med den behandlingen; i sådana fall ska den personuppgiftsansvarige vidta lämpliga åtgärder för att skydda den registrerades rättigheter och friheter och berättigade intressen, inbegripet göra uppgifterna tillgängliga för allmänheten,
+
+c) erhållande eller utlämnande av uppgifter uttryckligen föreskrivs genom unionsrätten eller genom en medlemsstats nationella rätt som den registrerade omfattas av och som fastställer lämpliga åtgärder för att skydda den registrerades berättigade intressen, eller
+
+d) personuppgifterna måste förbli konfidentiella till följd av tystnadsplikt enligt unionsrätten eller medlemsstaternas nationella rätt, inbegripet andra lagstadgade sekretessförpliktelser.
+
+### Artikel 15 – Den registrerades rätt till tillgång
+
+1\. Den registrerade ska ha rätt att av den personuppgiftsansvarige få bekräftelse på huruvida personuppgifter som rör honom eller henne håller på att behandlas och i så fall få tillgång till personuppgifterna och följande information:
+
+a) Ändamålen med behandlingen.
+
+b) De kategorier av personuppgifter som behandlingen gäller.
+
+c) De mottagare eller kategorier av mottagare till vilka personuppgifterna har lämnats eller ska lämnas ut, särskilt mottagare i tredjeländer eller internationella organisationer.
+
+d) Om möjligt, den förutsedda period under vilken personuppgifterna kommer att lagras eller, om detta inte är möjligt, de kriterier som används för att fastställa denna period.
+
+e) Förekomsten av rätten att av den personuppgiftsansvarige begära rättelse eller radering av personuppgifterna eller begränsningar av behandling av personuppgifter som rör den registrerade eller att invända mot sådan behandling.
+
+f) Rätten att inge klagomål till en tillsynsmyndighet.
+
+g) Om personuppgifterna inte samlas in från den registrerade, all tillgänglig information om varifrån dessa uppgifter kommer.
+
+h) Förekomsten av automatiserat beslutsfattande, inbegripet profilering enligt artikel [22.1](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [22.4](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), varvid det åtminstone i dessa fall ska lämnas meningsfull information om logiken bakom samt betydelsen och de förutsedda följderna av sådan behandling för den registrerade.
+
+2\. Om personuppgifterna överförs till ett tredjeland eller till en internationell organisation, ska den registrerade ha rätt till information om de lämpliga skyddsåtgärder som i enlighet med artikel [46](/lagstiftning/gdpr/kap-5#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder) har vidtagits vid överföringen.
+
+3\. Den personuppgiftsansvarige ska förse den registrerade med en kopia av de personuppgifter som är under behandling. För eventuella ytterligare kopior som den registrerade begär får den personuppgiftsansvarige ta ut en rimlig avgift på grundval av de administrativa kostnaderna. Om den registrerade gör begäran i elektronisk form ska informationen tillhandahållas i ett elektroniskt format som är allmänt använt, om den registrerade inte begär något annat.
+
+4\. Den rätt till en kopia som avses i punkt 3 ska inte inverka menligt på andras rättigheter och friheter.
+
+### Artikel 16 – Rätt till rättelse
+
+Den registrerade ska ha rätt att av den personuppgiftsansvarige utan onödigt dröjsmål få felaktiga personuppgifter som rör honom eller henne rättade. Med beaktande av ändamålet med behandlingen, ska den registrerade ha rätt att komplettera ofullständiga personuppgifter, bland annat genom att tillhandahålla ett kompletterande utlåtande.
+
+### Artikel 17 – Rätt till radering (”rätten att bli bortglömd”)
+
+1\. Den registrerade ska ha rätt att av den personuppgiftsansvarige utan onödigt dröjsmål få sina personuppgifter raderade och den personuppgiftsansvarige ska vara skyldig att utan onödigt dröjsmål radera personuppgifter om något av följande gäller:
+
+a) Personuppgifterna är inte längre nödvändiga för de ändamål för vilka de samlats in eller på annat sätt behandlats.
+
+b) Den registrerade återkallar det samtycke på vilket behandlingen grundar sig enligt artikel [6.1 a](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller artikel [9.2 a](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) och det finns inte någon annan rättslig grund för behandlingen.
+
+c) Den registrerade invänder mot behandlingen i enlighet med artikel [21.1](#artikel-21-rätt-att-göra-invändningar) och det saknas berättigade skäl för behandlingen som väger tyngre, eller den registrerade invänder mot behandlingen i enlighet med artikel [21.2](#artikel-21-rätt-att-göra-invändningar).
+
+d) Personuppgifterna har behandlats på olagligt sätt.
+
+e) Personuppgifterna måste raderas för att uppfylla en rättslig förpliktelse i unionsrätten eller i medlemsstaternas nationella rätt som den personuppgiftsansvarige omfattas av.
+
+f) Personuppgifterna har samlats in i samband med erbjudande av informationssamhällets tjänster, i de fall som avses i artikel [8.1](/lagstiftning/gdpr/kap-2#artikel-8-villkor-som-gäller-barns-samtycke-avseende-informationssamhällets-tjänster).
+
+2\. Om den personuppgiftsansvarige har offentliggjort personuppgifterna och enligt punkt 1 är skyldig att radera personuppgifterna, ska den personuppgiftsansvarige med beaktande av tillgänglig teknik och kostnaden för genomförandet vidta rimliga åtgärder, inbegripet tekniska åtgärder, för att underrätta personuppgiftsansvariga som behandlar personuppgifterna om att den registrerade har begärt att de ska radera eventuella länkar till, eller kopior eller reproduktioner av dessa personuppgifter.
+
+3\. Punkterna 1 och 2 ska inte gälla i den utsträckning som behandlingen är nödvändig av följande skäl:
+
+a) För att utöva rätten till yttrande- och informationsfrihet.
+
+b) För att uppfylla en rättslig förpliktelse som kräver behandling enligt unionsrätten eller enligt en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av eller för att utföra en uppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den personuppgiftsansvarige.
+
+c) För skäl som rör ett viktigt allmänt intresse på folkhälsoområdet enligt artikel [9.2 h](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) och i samt artikel [9.3](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter).
+
+d) För arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål enligt artikel [89.1](/lagstiftning/gdpr/kap-9#artikel-89-skyddsåtgärder-och-undantag-för-behandling-för-arkivändamål-av-allmänt-intresse-vetenskapliga-eller-historiska-forskningsändamål-eller-statistiska-ändamål), i den utsträckning som den rätt som avses i punkt 1 sannolikt omöjliggör eller avsevärt försvårar uppnåendet av syftet med den behandlingen.
+
+e) För att kunna fastställa, göra gällande eller försvara rättsliga anspråk.
+
+### Artikel 18 – Rätt till begränsning av behandling
+
+1\. Den registrerade ska ha rätt att av den personuppgiftsansvarige kräva att behandlingen begränsas om något av följande alternativ är tillämpligt:
+
+a) Den registrerade bestrider personuppgifternas korrekthet, under en tid som ger den personuppgiftsansvarige möjlighet att kontrollera om personuppgifterna är korrekta.
+
+b) Behandlingen är olaglig och den registrerade motsätter sig att personuppgifterna raderas och i stället begär en begränsning av deras användning.
+
+c) Den personuppgiftsansvarige behöver inte längre personuppgifterna för ändamålen med behandlingen men den registrerade behöver dem för att kunna fastställa, göra gällande eller försvara rättsliga anspråk.
+
+d) Den registrerade har invänt mot behandling i enlighet med artikel [21.1](#artikel-21-rätt-att-göra-invändningar) i väntan på kontroll av huruvida den personuppgiftsansvariges berättigade skäl väger tyngre än den registrerades berättigade skäl.
+
+2\. Om behandlingen har begränsats i enlighet med punkt 1 får sådana personuppgifter, med undantag för lagring, endast behandlas med den registrerades samtycke eller för att fastställa, göra gällande eller försvara rättsliga anspråk eller för att skydda någon annan fysisk eller juridisk persons rättigheter eller för skäl som rör ett viktigt allmänintresse för unionen eller för en medlemsstat.
+
+3\. En registrerad som har fått behandling begränsad i enlighet med punkt 1 ska underrättas av den personuppgiftsansvarige innan begränsningen av behandlingen upphör.
+
+### Artikel 19 – Anmälningsskyldighet avseende rättelse eller radering av personuppgifter och begränsning av behandling
+
+Den personuppgiftsansvarige ska underrätta varje mottagare till vilken personuppgifterna har lämnats ut om eventuella rättelser eller radering av personuppgifter eller begränsningar av behandling som skett i enlighet med artiklarna [16](#artikel-16-rätt-till-rättelse), [17.1](#artikel-17-rätt-till-radering-rätten-att-bli-bortglömd) och [18](#artikel-18-rätt-till-begränsning-av-behandling), om inte detta visar sig vara omöjligt eller medföra en oproportionell ansträngning. Den personuppgiftsansvarige ska informera den registrerade om dessa mottagare på den registrerades begäran.
+
+### Artikel 20 – Rätt till dataportabilitet
+
+1\. Den registrerade ska ha rätt att få ut de personuppgifter som rör honom eller henne och som han eller hon har tillhandahållit den personuppgiftsansvarige i ett strukturerat, allmänt använt och maskinläsbart format och ha rätt att överföra dessa uppgifter till en annan personuppgiftsansvarig utan att den personuppgiftsansvarige som tillhandahållits personuppgifterna hindrar detta, om
+
+a) behandlingen grundar sig på samtycke enligt artikel [6.1 a](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller artikel [9.2 a](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) eller på ett avtal enligt artikel [6.1 b](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter), och
+
+b) behandlingen sker automatiserat.
+
+2 Vid utövandet av sin rätt till dataportabilitet i enlighet med punkt 1 ska den registrerade ha rätt till överföring av personuppgifterna direkt från en personuppgiftsansvarig till en annan, när detta är tekniskt möjligt.
+
+3\. Utövandet av den rätt som avses i punkt 1 i [den här artikeln](#artikel-20-rätt-till-dataportabilitet) ska inte påverka tillämpningen av artikel [17](#artikel-17-rätt-till-radering-rätten-att-bli-bortglömd). Den rätten ska inte gälla i fråga om en behandling som är nödvändig för att utföra en uppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den personuppgiftsansvarige.
+
+4\. Den rätt som avses i punkt 1 får inte påverka andras rättigheter och friheter på ett ogynnsamt sätt.
+
+### Artikel 21 – Rätt att göra invändningar
+
+1\. Den registrerade ska, av skäl som hänför sig till hans eller hennes specifika situation, ha rätt att när som helst göra invändningar mot behandling av personuppgifter avseende honom eller henne som grundar sig på artikel [6.1 e](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) eller f, inbegripet profilering som grundar sig på dessa bestämmelser. Den personuppgiftsansvarige får inte längre behandla personuppgifterna såvida denne inte kan påvisa tvingande berättigade skäl för behandlingen som väger tyngre än den registrerades intressen, rättigheter och friheter eller om det sker för fastställande, utövande eller försvar av rättsliga anspråk.
+
+2\. Om personuppgifterna behandlas för direkt marknadsföring ska den registrerade ha rätt att när som helst invända mot behandling av personuppgifter som avser honom eller henne för sådan marknadsföring, vilket inkluderar profilering i den utsträckning som denna har ett samband med sådan direkt marknadsföring.
+
+3\. Om den registrerade invänder mot behandling för direkt marknadsföring ska personuppgifterna inte längre behandlas för sådana ändamål.
+
+4\. Senast vid den första kommunikationen med den registrerade ska den rätt som avses i punkterna 1 och 2 uttryckligen meddelas den registrerade och redovisas tydligt, klart och åtskilt från eventuell annan information.
+
+5\. När det gäller användningen av informationssamhällets tjänster, och trots vad som sägs i [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058), får den registrerade utöva sin rätt att göra invändningar på automatiserat sätt med användning av tekniska specifikationer.
+
+6\. Om personuppgifter behandlas för vetenskapliga eller historiska forskningsändamål eller statistiska ändamål i enlighet med artikel [89.1](/lagstiftning/gdpr/kap-9#artikel-89-skyddsåtgärder-och-undantag-för-behandling-för-arkivändamål-av-allmänt-intresse-vetenskapliga-eller-historiska-forskningsändamål-eller-statistiska-ändamål) ska den registrerade, av skäl som hänför sig till hans eller hennes specifika situation, ha rätt att göra invändningar mot behandling av personuppgifter avseende honom eller henne om inte behandlingen är nödvändig för att utföra en uppgift av allmänt intresse.
+
+### Artikel 22 – Automatiserat individuellt beslutsfattande, inbegripet profilering
+
+1\. Den registrerade ska ha rätt att inte bli föremål för ett beslut som enbart grundas på automatiserad behandling, inbegripet profilering, vilket har rättsliga följder för honom eller henne eller på liknande sätt i betydande grad påverkar honom eller henne.
+
+2\. Punkt 1 ska inte tillämpas om beslutet
+
+a) är nödvändigt för ingående eller fullgörande av ett avtal mellan den registrerade och den personuppgiftsansvarige,
+
+b) tillåts enligt unionsrätten eller en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av och som fastställer lämpliga åtgärder till skydd för den registrerades rättigheter, friheter och berättigade intressen, eller
+
+c) grundar sig på den registrerades uttryckliga samtycke.
+
+3\. I fall som avses i punkt 2 a och c ska den personuppgiftsansvarige genomföra lämpliga åtgärder för att säkerställa den registrerades rättigheter, friheter och rättsliga intressen, åtminstone rätten till personlig kontakt med den personuppgiftsansvarige för att kunna utrycka sin åsikt och bestrida beslutet.
+
+4\. Beslut enligt punkt 2 får inte grunda sig på de särskilda kategorier av personuppgifter som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter), såvida inte artikel [9.2 a](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) eller g gäller och lämpliga åtgärder som ska skydda den registrerades berättigade intressen har vidtagits.
+
+### Artikel 23 – Begränsningar
+
+1\. Det ska vara möjligt att i unionsrätten eller i en medlemsstats nationella rätt som den personuppgiftsansvarige eller personuppgiftsbiträdet omfattas av införa en lagstiftningsåtgärd som begränsar tillämpningsområdet för de skyldigheter och rättigheter som föreskrivs i artiklarna [12](#artikel-12-klar-och-tydlig-information-och-kommunikation-samt-klara-och-tydliga-villkor-för-utövandet-av-den-registrerades-rättigheter)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering) och [34](/lagstiftning/gdpr/kap-4#artikel-34-information-till-den-registrerade-om-en-personuppgiftsincident), samt artikel [5](/lagstiftning/gdpr/kap-2#artikel-5-principer-för-behandling-av-personuppgifter) i den mån dess bestämmelser motsvarar de rättigheter och skyldigheter som fastställs i artiklarna [12](#artikel-12-klar-och-tydlig-information-och-kommunikation-samt-klara-och-tydliga-villkor-för-utövandet-av-den-registrerades-rättigheter)–[22](#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), om en sådan begränsning sker med respekt för andemeningen i de grundläggande rättigheterna och friheterna och utgör en nödvändig och proportionell åtgärd i ett demokratiskt samhälle i syfte att säkerställa
+
+a) den nationella säkerheten,
+
+b) försvaret,
+
+c) den allmänna säkerheten,
+
+d) förebyggande, förhindrande, utredning, avslöjande eller lagföring av brott eller verkställande av straffrättsliga sanktioner, inbegripet skydd mot samt förebyggande och förhindrande av hot mot den allmänna säkerheten,
+
+e) andra av unionens eller en medlemsstats viktiga mål av generellt allmänt intresse, särskilt ett av unionens eller en medlemsstats viktiga ekonomiska eller finansiella intressen, däribland penning-, budget- eller skattefrågor, folkhälsa och social trygghet,
+
+f) skydd av rättsväsendets oberoende och rättsliga åtgärder,
+
+g) förebyggande, förhindrande, utredning, avslöjande och lagföring av överträdelser av etiska regler som gäller för lagreglerade yrken,
+
+h) en tillsyns-, inspektions- eller regleringsfunktion som, även i enstaka fall, har samband med myndighetsutövning i fall som nämns i a–e och g,
+
+i) skydd av den registrerade eller andras rättigheter och friheter,
+
+j) verkställighet av civilrättsliga krav.
+
+2\. Framför allt ska alla lagstiftningsåtgärder som avses i punkt 1 innehålla specifika bestämmelser åtminstone, när så är relevant, avseende
+
+a) ändamålen med behandlingen eller kategorierna av behandling,
+
+b) kategorierna av personuppgifter,
+
+c) omfattningen av de införda begränsningarna,
+
+d) skyddsåtgärder för att förhindra missbruk eller olaglig tillgång eller överföring,
+
+e) specificeringen av den personuppgiftsansvarige eller kategorierna av personuppgiftsansvariga,
+
+f) lagringstiden samt tillämpliga skyddsåtgärder med beaktande av behandlingens art, omfattning och ändamål eller kategorierna av behandling,
+
+g) riskerna för de registrerades rättigheter och friheter, och
+
+h) de registrerades rätt att bli informerade om begränsningen, såvida detta inte kan inverka menligt på begränsningen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

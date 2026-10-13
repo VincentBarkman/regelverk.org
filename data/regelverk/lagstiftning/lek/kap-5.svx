@@ -1,0 +1,401 @@
+---
+'source': 'lek'
+'ref': '5 kap.'
+'title': '5 kap. – Samtrafik och andra former av tillträde'
+'kind': 'chapter'
+'description': 'Lagen om elektronisk kommunikation (LEK), 5 kap..'
+'designation': 'LEK 5 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022482-om-elektronisk-kommunikation_sfs-2022-482/#K5'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+En operatör av ett allmänt elektroniskt kommunikationsnät är skyldig att förhandla om samtrafik med den som tillhandahåller eller avser att tillhandahålla allmänt tillgängliga elektroniska kommunikationstjänster som inte är nummeroberoende interpersonella kommunikationstjänster.
+
+### 2 §
+
+Den som i samband med en förhandling som avses i [1 §](#1) får del av eller tillgång till uppgifter om ett annat företags affärs- eller driftförhållanden får inte obehörigen föra vidare eller utnyttja det som han eller hon har fått del av eller tillgång till.
+
+I det allmännas verksamhet ska i stället offentlighets- och [sekretesslagen (2009:400)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A400) tillämpas.
+
+### 3 §
+
+Regleringsmyndigheten får ålägga den som kontrollerar tillträde till slutanvändare och som bedriver verksamhet som ska anmälas enligt [2 kap. 1 §](/lagstiftning/lek/kap-2#1) att mot skälig ersättning
+
+1\. bedriva samtrafik eller vidta någon annan åtgärd som krävs för att säkerställa att slutanvändare kan nå varandra, eller
+
+2\. göra tjänster interoperabla med andra operatörers tjänster.
+
+### 4 §
+
+Regleringsmyndigheten får ålägga den som tillhandahåller en nummeroberoende interpersonell kommunikationstjänst med betydande geografisk täckning och ett betydande antal användare att göra sin tjänst interoperabel med andra tjänster, om det är nödvändigt för att säkerställa att slutanvändare kan nå varandra. Ett sådant beslut får förenas med en skyldighet att tillämpa särskilda standarder och att offentliggöra information som får användas av andra.
+
+Ett beslut enligt första stycket får meddelas endast om Europeiska kommissionen har antagit genomförandebestämmelser som närmare beskriver de skyldigheter som får åläggas.
+
+### 5 §
+
+Regleringsmyndigheten ska fortlöpande fastställa vilka produkt- och tjänstemarknader som har sådana särdrag att det kan vara motiverat att ålägga någon skyldigheter i syfte att motverka konkurrensproblem. Vid fastställandet ska marknadernas geografiska omfattning avgränsas. Myndigheten ska då beakta graden av infrastrukturkonkurrens inom olika områden och i vilken utsträckning som bredband är utbyggt.
+
+Regleringsmyndigheten ska fortlöpande analysera de marknader som har fastställts och, om myndigheten bedömer att det är motiverat att ålägga någon skyldigheter på en sådan marknad, identifiera företag med betydande inflytande på den marknaden.
+
+Regleringsmyndigheten ska särskilt beakta
+
+1\. Europeiska kommissionens rekommendation om relevanta produkt- och tjänstemarknader,
+
+2\. kommissionens riktlinjer för marknadsanalys och bedömning av ett företags betydande inflytande på marknaden, och
+
+3\. Berecs riktlinjer om gemensamma tillvägagångssätt för hur gränsöverskridande efterfrågan kan mötas.
+
+### 6 §
+
+Vid tillämpningen av [5 §](#5) kan det anses motiverat att ålägga någon skyldigheter på en marknad om
+
+1\. det finns stora och bestående hinder för marknadsinträde,
+
+2\. marknadsstrukturen är sådan att den inte utvecklas mot effektiv konkurrens, och
+
+3\. marknadsmisslyckandena inte kan åtgärdas med stöd av den allmänna konkurrensrätten.
+
+### 7 §
+
+Ett företag ska anses ha ett betydande inflytande på en fastställd marknad om det, antingen enskilt eller tillsammans med andra, har en ställning av sådan ekonomisk styrka att det i betydande omfattning kan uppträda oberoende av sina konkurrenter, sina kunder och i sista hand av konsumenterna.
+
+### 8 §
+
+I syfte att skapa effektiv konkurrens till förmån för slutanvändarna ska regleringsmyndigheten ålägga en operatör, som enligt [5 §](#5) andra stycket har identifierats som ett företag med betydande inflytande på en marknad, en eller flera skyldigheter enligt [12](#12)-[21 §§](#21).
+
+Regleringsmyndigheten får ålägga en sådan operatör andra skyldigheter avseende tillträde än de som anges i [detta kapitel](/lagstiftning/lek/kap-5), om det finns synnerliga skäl och åtgärden har godkänts av Europeiska kommissionen.
+
+### 9 §
+
+Ett beslut enligt [8](#8) eller [22 §](#22) ska förenas med en skyldighet för operatören att i god tid före åtgärden till regleringsmyndigheten anmäla planer på att avveckla eller byta ut nätdelar som omfattas av skyldigheten.
+
+Om det är nödvändigt för att säkerställa konkurrensen och slutanvändarnas rättigheter, får regleringsmyndigheten ålägga operatören att ge in en detaljerad beskrivning av planerna med avseende på övergångsperioder och villkor samt av vilka jämförbara tillträdesprodukter som erbjuds i stället.
+
+### 10 §
+
+På en marknad för samtalsterminering får regleringsmyndigheten ålägga en skyldighet enligt [19 §](#19) endast om Europeiska kommissionen inte har fastställt någon unionsomfattande termineringstaxa för marknaden.
+
+### 11 §
+
+Regleringsmyndigheten får ålägga en operatör som är ett rent grossistföretag skyldigheter enligt [12](#12), [14](#14) eller [15 §](#15) eller andra skyldigheter enligt [19 §](#19) än sådana som avser rättvis och skälig prissättning, endast om
+
+1\. myndigheten tidigare har ålagt operatören skyldigheter enligt [13](#13) eller [16 §](#16) eller en skyldighet om rättvis och skälig prissättning, och
+
+2\. ytterligare skyldigheter krävs på grund av att de villkor som operatören erbjuder medför eller kan medföra konkurrensproblem till skada för slutanvändarna.
+
+Operatören ska till regleringsmyndigheten omgående anmäla omständigheter som kan påverka bedömningen av om operatören är ett rent grossistföretag.
+
+### 12 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att i ett referenserbjudande eller på något annat sätt offentliggöra specificerade uppgifter om
+
+1\. redovisning,
+
+2\. tekniska specifikationer,
+
+3\. nätegenskaper,
+
+4\. villkor för tillhandahållande och användning, inbegripet villkor som begränsar tillträde till eller användning av vissa tjänster,
+
+5\. prissättning, eller
+
+6\. andra förhållanden som behövs för insyn i fråga om samtrafik och andra former av tillträde.
+
+I ett beslut om åläggande ska det anges vilka uppgifter som ska tillhandahållas, hur detaljerade uppgifterna ska vara och på vilket sätt de ska offentliggöras.
+
+Operatören får åläggas att ändra en uppgift enligt första stycket om det är nödvändigt för att den ska stämma överens med en skyldighet som har beslutats enligt [detta kapitel](/lagstiftning/lek/kap-5).
+
+Ett beslut enligt [denna paragraf](/lagstiftning/lek) får förenas med vite.
+
+### 13 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att tillämpa icke-diskriminerande villkor i sin verksamhet. En sådan skyldighet ska särskilt säkerställa att
+
+1\. operatören under likvärdiga omständigheter tillämpar likvärdiga villkor för andra som tillhandahåller likvärdiga tjänster, och
+
+2\. de tjänster och den information som operatören erbjuder andra tillhandahålls på samma villkor och med samma kvalitet som gäller för operatörens egna tjänster eller för dotterbolags eller samarbetspartners tjänster.
+
+### 14 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att särredovisa och rapportera specificerad verksamhet med anknytning till samtrafik och andra former av tillträde. En sådan skyldighet kan avse att operatören ska ge insyn i sina grossistpriser och sina priser vid intern försäljning eller tillhandahålla en myndighet sin redovisning, inbegripet uppgifter om intäkter från andra.
+
+### 15 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att uppfylla rimliga krav på tillträde till och användning av sådan infrastruktur som används för att anlägga ett elektroniskt kommunikationsnät. En sådan skyldighet får avse även infrastruktur som inte är en del av den relevanta marknaden.
+
+### 16 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att uppfylla rimliga krav på tillträde till och användning av nät och tillhörande faciliteter i syfte att tillhandahålla elektroniska kommunikationstjänster. En sådan skyldighet kan avse att operatören ska
+
+1\. ge någon annan tillträde till specificerade nätdelar och tillhörande faciliteter,
+
+2\. ge någon annan tillträde till specificerade aktiva eller virtuella nätdelar eller nättjänster,
+
+3\. förlänga ett redan beviljat tillträde till tillhörande faciliteter,
+
+4\. erbjuda andra operatörer specificerade tjänster för återförsäljning,
+
+5\. bevilja tillträde till tekniska gränssnitt, protokoll och annan nyckelteknik som är nödvändig för interoperabilitet mellan tjänster,
+
+6\. erbjuda samlokalisering eller andra möjligheter till gemensamt utnyttjande av tillhörande faciliteter,
+
+7\. erbjuda specificerade tjänster som krävs för att säkerställa interoperabilitet mellan tjänster ända fram till slutanvändarna,
+
+8\. erbjuda tillträde till driftstödssystem eller liknande programsystem som krävs för att garantera en sund konkurrens när det gäller tillhandahållande av tjänster,
+
+9\. erbjuda tillträde till sådana tjänster som möjliggör, stöder eller kan stödja tillhandahållande av tjänster via elektroniska kommunikationsnät eller elektroniska kommunikationstjänster, eller
+
+10\. bedriva samtrafik eller i övrigt vidta åtgärder så att nät eller tillhörande faciliteter kan förbindas.
+
+Ett beslut om åläggande får förenas med de villkor som behövs för att säkerställa normal nätdrift. Villkor om att följa särskilda tekniska standarder eller specifikationer ska vara förenliga med de standarder som Europeiska kommissionen, i en förteckning som har offentliggjorts i Europeiska unionens officiella tidning, har angett som obligatoriska.
+
+### 17 §
+
+När [16 §](#16) tillämpas ska särskilt beaktas
+
+1\. den tekniska och ekonomiska bärkraften för användning och installation av alternativa nätdelar eller tillhörande faciliteter, med hänsyn till marknadsutvecklingen samt arten och typen av samtrafik och andra former av tillträde,
+
+2\. den förväntade tekniska utvecklingens påverkan på nätens utformning och förvaltning,
+
+3\. behovet av att säkerställa teknikneutralitet i syfte att främja utformning och förvaltning av flera nät,
+
+4\. den tillgängliga kapaciteten,
+
+5\. de risker som en nyinvestering medför för ägaren till ett nät eller tillhörande faciliteter,
+
+6\. behovet av att värna konkurrensen på lång sikt,
+
+7\. berörda immateriella rättigheter, och
+
+8\. intresset av gränsöverskridande tjänster inom Europeiska ekonomiska samarbetsområdet.
+
+Regleringsmyndigheten ska också överväga om konkurrensen och slutanvändarnas intressen i stället kan främjas genom åläggande endast av skyldigheter enligt [15 §](#15) eller av skyldigheter på närliggande marknader.
+
+### 18 §
+
+En skyldighet enligt [15](#15) eller [16 §](#16) ska förenas med en skyldighet att offentliggöra ett sådant referenserbjudande som anges i [12 §](#12). Erbjudandet ska innehålla de uppgifter som anges i Berecs riktlinjer om minimikriterierna för ett referenserbjudande och de ytterligare uppgifter som regleringsmyndigheten bestämmer.
+
+Ett beslut om en skyldighet att offentliggöra ett referenserbjudande får förenas med vite.
+
+### 19 §
+
+En operatör som är ett företag med betydande inflytande på en marknad får åläggas att iaktta kostnadstäckning eller tillämpa kostnadsorienterad eller annan prissättning för specificerade typer av samtrafik och andra former av tillträde. Detta får ske om en marknadsanalys enligt [5 §](#5) andra stycket visar att en brist på effektiv konkurrens innebär att operatören kan ta ut överpriser eller använda prispress på ett sätt som missgynnar slutanvändarna.
+
+Ett åläggande får, i samband med att det beslutas eller senare, förenas med en skyldighet att tillämpa ett visst högsta eller lägsta pris för samtrafik och andra former av tillträde som omfattas av skyldigheten.
+
+Åläggandet kan avse även att operatören ska tillämpa en viss kostnadsredovisningsmetod och göra en beskrivning av metoden tillgänglig för allmänheten. I så fall ska kostnadernas huvudkategorier och reglerna för kostnadsfördelningen framgå av beskrivningen.
+
+### 20 §
+
+Den som har ålagts att tillämpa kostnadsorienterad prissättning enligt [19 §](#19) ska, om någon skyldighet enligt paragrafens andra stycke inte har ålagts, visa att priserna är rättvisa och skäliga med hänsyn till kostnaderna och får åläggas en skyldighet att justera sina priser.
+
+### 21 §
+
+När [19 §](#19) tillämpas ska hänsyn tas till den investering som operatören har gjort. En skyldighet som avses i [19 §](#19) ska utformas så att operatören får en rimlig avkastning på kapitalinvesteringen.
+
+När kostnadsorienterade taxor för samtalsterminering fastställs ska kriterierna i bilaga 3 till Europaparlamentets och rådets direktiv (EU) 2018/ 1972 av den 11 december 2018 om inrättande av en europeisk kodex för elektronisk kommunikation, i den ursprungliga lydelsen, tillämpas.
+
+### 22 §
+
+Regleringsmyndigheten ska, på begäran av en operatör som är ett företag med betydande inflytande på en marknad, besluta att ett åtagande av operatören om saminvestering i anläggandet av ett nytt optiskt fibernät fram till slutanvändares lokaler eller till en basstation ska vara helt eller delvis bindande, om
+
+1\. ett erbjudande till andra operatörer om saminvestering har offentliggjorts minst sex månader innan anläggandet påbörjas,
+
+2\. erbjudandet uppfyller kriterierna i bilaga 4 till [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972), i den ursprungliga lydelsen,
+
+3\. operatörer som ansöker om tillträde men inte deltar i saminvesteringen ges motsvarande möjligheter att nå slutanvändare som före anläggandet och tillträdet ges på rättvisa och icke-diskriminerande villkor samtidigt som incitamenten till saminvestering upprätthålls, och
+
+4\. minst ett saminvesteringsavtal har ingåtts med en annan operatör.
+
+När det gäller andra åtaganden av operatören om att följa villkor för tillträde eller andra villkor som har påverkan på konkurrenssituationen får regleringsmyndigheten besluta att ett sådant åtagande ska vara helt eller delvis bindande för en bestämd tid.
+
+### 23 §
+
+Ett beslut enligt [22 §](#22) första stycket ska avse en bestämd tid om minst sju år. Så länge beslutet gäller får regleringsmyndigheten ålägga ytterligare skyldigheter enligt
+
+[8 §](#8) när det gäller de nätdelar som omfattas av åtagandet endast om det finns betydande konkurrensproblem som inte kan åtgärdas på något annat sätt.
+
+### 24 §
+
+Om det finns synnerliga skäl får regleringsmyndigheten ålägga en vertikalt integrerad operatör, som med stöd av [8 §](#8) första stycket har ålagts en skyldighet att lämna tillträde, att organisatoriskt avskilja de verksamheter som har anknytning till beslutet om skyldigheten. Avskiljandet ska ske på ett sådant sätt att verksamheterna bedrivs av en oberoende affärsenhet och syfta särskilt till att säkerställa icke-
+
+diskriminering och insyn.
+
+### 25 §
+
+En skyldighet enligt [24 §](#24) får förenas med villkor som syftar till att säkerställa de avskilda verksamheternas oberoende i förhållande till operatörens egen försäljningsverksamhet i slutkundsledet. Villkoren får omfatta krav på att operatörens inflytande över verksamheterna inskränks genom organisatoriska åtgärder eller på att verksamheterna ska drivas av en separat juridisk person. Det får också ställas upp villkor om att de avskilda verksamheterna ska stå under en ledning som är oberoende i förhållande till operatörens övriga verksamhet.
+
+### 26 §
+
+Ett beslut enligt [24 §](#24) får inte fattas utan att ett förslag till beslutet först har godkänts av Europeiska kommissionen.
+
+### 27 §
+
+Om en operatör som avses i [24 §](#24) avser att, utan att ha ålagts en skyldighet enligt den paragrafen, avskilja en betydande del av eller samtliga sina tillgångar i accessnätet i syfte att säkerställa icke-diskriminering och insyn, ska operatören minst tre månader före genomförandet underrätta regleringsmyndigheten om sin avsikt. Detsamma ska gälla för eventuella ändringar av planerna. När processen är genomförd ska operatören underrätta myndigheten om slutresultatet.
+
+### 28 §
+
+Regleringsmyndigheten får ålägga en operatör, eller någon som äger ledningar i ett allmänt elektroniskt kommunikationsnät som operatören råder över, att mot skälig ersättning ge tillträde till ledningarna i en byggnad eller fram till det första utlopps- eller förgreningsstället. Skyldigheten får omfatta tillträde till tillhörande faciliteter.
+
+En skyldighet enligt första stycket får åläggas endast efter ansökan och om anläggande av ytterligare infrastruktur bedöms fysiskt ogenomförbart eller olönsamt. Skyldigheten får förenas med villkor för tillträdet samt med de villkor som behövs för att uppnå icke-diskriminering och insyn.
+
+### 29 §
+
+Om ett åläggande enligt [28 §](#28) inte bedöms tillräckligt för att åtgärda omfattande och varaktiga hinder mot anläggande av ytterligare infrastruktur och hindren motverkar effektiv konkurrens till förmån för slutanvändarna, får åläggandet avse även nätdelar bortom det första utlopps- eller förgreningsstället. Om det är motiverat av tekniska eller ekonomiska skäl, får åläggandet avse även aktivt och virtuellt tillträde.
+
+Vid bedömningen av om en sådan skyldighet ska åläggas ska särskild hänsyn tas till om operatören i stället ger ett hållbart och liknande tillträde till ett nät med mycket hög kapacitet på rättvisa, icke-diskriminerande och rimliga villkor.
+
+Första stycket får inte tillämpas om ett åläggande skulle äventyra den ekonomiska bärkraften vid anläggandet av små lokala nät.
+
+### 30 §
+
+En skyldighet enligt [29 §](#29) får inte åläggas ett rent grossistföretag om företaget i stället ger ett hållbart och liknande tillträde till ett nät med mycket hög kapacitet på rättvisa, icke-diskriminerande och rimliga villkor. En sådan skyldighet får dock åläggas om det nät som skyldigheten avser är offentligt finansierat.
+
+### 31 §
+
+Den som äger eller på något annat sätt råder över fysisk infrastruktur för elektronisk kommunikation i en byggnad ska uppfylla rimliga krav på tillträde till infrastrukturen för anläggande av ett elektroniskt kommunikationsnät med hög kapacitet. Tillträdet ska lämnas på rättvisa och icke-
+
+diskriminerande villkor. Skyldigheten gäller dock endast om anläggande av ytterligare infrastruktur bedöms fysiskt ogenomförbart eller olönsamt.
+
+Skyldigheten gäller inte om tillträde på objektiva, öppet redovisade, proportionella och icke-diskriminerande villkor redan ges till ett i byggnaden befintligt elektroniskt kommunikationsnät med hög kapacitet och det inte kan anses att slutanvändarna skulle bli gynnade av ett tillträde till byggnadens fysiska infrastruktur för elektronisk kommunikation.
+
+### 32 §
+
+Regleringsmyndigheten får, även i andra fall än som avses i [16 §](#16) första stycket [6](#6) eller [28](#28)-[30 §§](#30), ålägga en operatör att mot skälig ersättning tillhandahålla en annan operatör, som ansöker om det, samlokalisering eller andra möjligheter till gemensamt utnyttjande av egendom eller annat, om det
+
+1\. är av betydelse för att skydda miljön eller för att uppnå mål för fysisk planering, eller
+
+2\. krävs för att skydda folkhälsa eller allmän säkerhet.
+
+En sådan skyldighet får omfatta att operatören mot ersättning för uppkomna kostnader ska genomföra stagning eller påbyggnad av en mast för elektronisk kommunikation eller andra liknande åtgärder som krävs för att tillhandahållandet ska kunna ske. Skyldigheten får inte innebära att en befintlig mast ska bytas ut mot en ny.
+
+### 33 §
+
+Om det finns synnerliga skäl får regleringsmyndigheten ålägga en operatör som har rätt att använda radiosändare en skyldighet att mot skälig ersättning ge tillträde till infrastruktur som är nödvändig för tillhandahållandet av mobila elektroniska kommunikationstjänster. Skyldigheten får avse tillträde även till aktiv infrastruktur.
+
+Skyldigheten får åläggas endast om tillståndet att använda radiosändare, när tillståndet beviljades, förenades med ett förbehåll om att en sådan skyldighet kan komma att åläggas.
+
+### 34 §
+
+Regleringsmyndigheten ska upphäva eller ändra skyldigheter och villkor som har beslutats enligt [detta kapitel](/lagstiftning/lek/kap-5) när det är motiverat med hänsyn till syftet med beslutet.
+
+Ett beslut om upphävande av skyldigheter som fattas efter en marknadsanalys enligt [5 §](#5) andra stycket får förenas med villkor för en övergångsperiod.
+
+Tidpunkten för upphävande eller ändring av en skyldighet ska bestämmas med hänsyn till berörda parters intressen.
+
+### 35 §
+
+Om en operatör som är ett företag med betydande inflytande på en marknad uppsåtligen eller av oaktsamhet vidtar en åtgärd som strider mot en skyldighet som har beslutats med stöd av [8 §](#8), ska operatören ersätta den skada som uppkommer genom åtgärden. Detsamma gäller för den som uppsåtligen eller av oaktsamhet inte vidtar en åtgärd som är nödvändig för att följa en sådan skyldighet.
+
+Rätten till sådan ersättning faller bort om talan inte väcks inom tio år från det att skadan uppkom.
+
+### 36 §
+
+När regleringsmyndigheten avser att fatta ett beslut enligt [3](#3) eller [4 §](#4), [5 §](#5) andra stycket, [8 §](#8), [22 §](#22) första stycket eller [28](#28), [29](#29), [32](#32), [33](#33) eller [34 §](#34) ska myndigheten upprätta ett förslag och ge berörda parter skälig tid att yttra sig över förslaget. Tiden ska uppgå till minst 30 dagar om det inte finns särskilda skäl mot det. Detsamma ska gälla inför beslut om att fastställa en marknad enligt [5 §](#5) första stycket som avviker från de marknader som framgår av Europeiska kommissionens rekommendation om relevanta produkt- och tjänstemarknader.
+
+Första stycket gäller inte när en tvist har hänskjutits till prövning enligt [11 kap. 14 §](/lagstiftning/lek/kap-11#14).
+
+### 37 §
+
+Regleringsmyndigheten ska i ett ärende enligt [22 §](#22) ge berörda parter skälig tid att yttra sig över det erbjudna åtagandet. Tiden ska uppgå till minst 30 dagar om det inte finns särskilda skäl mot det. Parterna behöver dock inte ges tillfälle att yttra sig om det är uppenbart att åtagandet inte uppfyller relevanta krav.
+
+### 38 §
+
+Om ett beslut enligt [3](#3), [4](#4), [5](#5) eller [8 §](#8), [22 §](#22) första stycket eller [28](#28), [29](#29) eller [33 §](#33) skulle kunna påverka handeln mellan staterna inom Europeiska ekonomiska samarbetsområdet, ska regleringsmyndigheten överlämna ett motiverat förslag till beslut till behöriga myndigheter i övriga stater, Berec och Europeiska kommissionen. Det gäller även i fråga om ett beslut enligt [34 §](#34) om att upphäva eller ändra sådana beslut.
+
+Kommissionen ska också underrättas om regleringsmyndigheten i enlighet med internationella avtal avser att införa, ändra eller upphäva en skyldighet som har beslutats enligt [detta kapitel](/lagstiftning/lek/kap-5).
+
+### 39 §
+
+Ett förslag till beslut efter en marknadsanalys enligt
+
+[5 §](#5) andra stycket som ska överlämnas för samråd enligt [38 §](#38) första stycket ska upprättas och överlämnas inom fem år från det senaste beslutet som rör marknaden i fråga eller inom den längre tid om högst ytterligare ett år som Europeiska kommissionen dessförinnan har godkänt.
+
+Om en ny rekommendation som avses i [5 §](#5) tredje stycket 1 har antagits och rekommendationen rör en marknad som inte tidigare har analyserats, ska regleringsmyndigheten i stället upprätta och överlämna förslaget till beslut inom tre år från offentliggörandet av rekommendationen.
+
+Om förslag till beslut inte kan överlämnas inom den tid som anges i första eller andra stycket och orsaken till detta är att marknadsanalysen enligt [5 §](#5) andra stycket inte har slutförts, ska regleringsmyndigheten begära bistånd med slutförandet från Berec. Förslaget ska då överlämnas inom sex månader.
+
+### 40 §
+
+Regleringsmyndigheten får meddela beslut i fall som avses i [38 §](#38) tidigast en månad efter det att förslaget till beslut har överlämnats.
+
+Ett beslut får dock meddelas tidigast två månader efter utgången av den tid som anges i första stycket, om Europeiska kommissionen inom den tiden har meddelat regleringsmyndigheten att den överväger att inte godta ett förslag till beslut som
+
+1\. innebär att en marknad som ska fastställas enligt [5 §](#5) första stycket avviker från kommissionens rekommendation om relevanta produkt- och tjänstemarknader, eller
+
+2\. avser identifiering av företag enligt [5 §](#5) andra stycket.
+
+Ett beslut får inte meddelas om kommissionen inom den tid som anges i andra stycket beslutar att inte godta ett sådant förslag som avses där. Om kommissionens invändningar kan tillgodoses genom att förslaget ändras, ska regleringsmyndigheten inom sex månader från dagen för kommissionens beslut inleda ett samråd enligt [36 §](#36) om det nya förslaget.
+
+### 41 §
+
+Om ett förslag till beslut enligt [3](#3) eller [4 §](#4), [8 §](#8) första stycket, [22 §](#22) första stycket eller [28](#28), [29](#29) eller [33 §](#33) har överlämnats för samråd enligt [38 §](#38) första stycket och Europeiska kommissionen har meddelat att den har invändningar mot de föreslagna åtgärderna, ska regleringsmyndigheten samverka med kommissionen och Berec i syfte att fastställa vilka åtgärder som är mest effektiva och lämpliga. Det gäller även i fråga om ett förslag till beslut enligt [34 §](#34) om att upphäva eller ändra sådana beslut.
+
+I sådana fall får ett beslut meddelas tidigast fyra månader och senast fem månader efter utgången av den tid som anges i
+
+[40 §](#40) första stycket. Om det krävs för att ett förnyat samrådsförfarande enligt [36](#36) och [38](#38)-[40 §§](#40) ska kunna genomföras, får beslut meddelas även därefter.
+
+Ett beslut får inte meddelas om kommissionen inom fyra månader efter utgången av den tid som anges i [40 §](#40) första stycket beslutar att inte godta ett förslag till beslut enligt [22 §](#22) första stycket, [23 §](#23) eller [29 §](#29). Om kommissionens invändningar kan tillgodoses genom att förslaget ändras, ska regleringsmyndigheten inom sex månader från dagen för kommissionens beslut inleda ett samråd enligt [36 §](#36) om det nya förslaget.
+
+### 42 §
+
+När det är fråga om gränsöverskridande marknader som har fastställts enligt beslut av Europeiska kommissionen ska regleringsmyndigheten samråda med behöriga myndigheter i berörda länder inför beslut enligt [5 §](#5) andra stycket och [8 §](#8). Det gäller även inför beslut enligt [34 §](#34) om att upphäva eller ändra sådana beslut.
+
+### 43 §
+
+Regleringsmyndigheten får meddela beslut utan att samråda enligt [36](#36) eller [38 §](#38), om det behövs för att säkerställa konkurrensen på en fastställd marknad eller för att skydda användarnas intressen och åtgärden inte kan skjutas upp. Beslutet får gälla i högst sex månader. I ett sådant fall ska myndigheten utan dröjsmål underrätta behöriga myndigheter inom Europeiska ekonomiska samarbetsområdet, Europeiska kommissionen och Berec om beslutet och skälen för detta. Vid förlängning av ett sådant beslut gäller samrådsskyldigheten i
+
+[36](#36) och [38 §§](#38).
+
+### 44 §
+
+En myndighet ska, på rättvisa, rimliga och icke-
+
+diskriminerande villkor, på begäran ge en operatör tillträde till byggnader, anläggningar och föremål som myndigheten äger och som är tekniskt lämpliga för installation av trådlösa accesspunkter med kort räckvidd eller som behövs för anslutning av sådana accesspunkter till ett stamnät. Den som lämnar tillträde ska söka sådana tillstånd som krävs för att tillträdet ska kunna realiseras och som operatören själv inte kan söka.
+
+Skyldigheten att lämna tillträde gäller inte om tillträdet inte är rimligt med hänsyn till
+
+1\. byggnadens, anläggningens eller föremålets tekniska lämplighet för det avsedda ändamålet med tillträdet,
+
+2\. utrymmesbrist i eller på byggnaden, anläggningen eller föremålet,
+
+3\. personlig säkerhet eller folkhälsa,
+
+4\. risken för skada för allmän säkerhet, totalförsvaret eller Sveriges säkerhet i övrigt,
+
+5\. risken för att andra tjänster som byggnaden, anläggningen eller föremålet används för störs,
+
+6\. byggnadens, anläggningens eller föremålets kulturvärde, eller
+
+7\. andra liknande omständigheter.
+
+Regeringen får meddela föreskrifter om att vissa myndigheter ska vara undantagna från skyldigheten att lämna tillträde.
+
+### 45 §
+
+En begäran om tillträde enligt [44 §](#44) ska vara skriftlig och innehålla en redogörelse och en tidsplan för de åtgärder som begäran avser.
+
+Den myndighet som har tagit emot en begäran om tillträde ska senast två månader från mottagandet av en fullständig begäran skriftligen ge operatören besked om huruvida begäran medges eller inte. Beskedet ska innehålla villkoren för tillträdet eller skälen för att begäran inte medges.
+
+### 46 §
+
+Vid tillämpningen av [44](#44) och [45 §§](#45) ska med myndighet jämställas den som enligt [lagen (2016:1145)](https://rkrattsbaser.gov.se/sfst?bet=2016%3A1145) om offentlig upphandling är upphandlande myndighet.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

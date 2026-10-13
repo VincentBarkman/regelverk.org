@@ -1,0 +1,354 @@
+---
+title: CM – Configuration Management
+description: NIST SP 800-53 Rev. 5 – CM – Configuration Management
+source: nist-sp-800-53
+ref: CM
+designation: NIST SP 800-53 Rev. 5
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+  - fysisk
+url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### CM-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1. [organization-level or mission/business process-level or system-level] configuration management policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the configuration management policy and the associated configuration management controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the configuration management policy and procedures; and
+- c. Review and update the current configuration management:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### CM-2 – Baseline Configuration
+
+- a. Develop, document, and maintain under configuration control, a current baseline configuration of the system; and
+- b. Review and update the baseline configuration of the system:
+  - 1. [organization-defined frequency];
+  - 2. When required due to [organization-defined circumstances] ; and
+  - 3. When system components are installed or upgraded.
+
+#### CM-2(1) – Reviews and Updates
+
+
+
+#### CM-2(2) – Automation Support for Accuracy and Currency
+
+Maintain the currency, completeness, accuracy, and availability of the baseline configuration of the system using [organization-defined automated mechanisms].
+
+#### CM-2(3) – Retention of Previous Configurations
+
+Retain [organization-defined number] of previous versions of baseline configurations of the system to support rollback.
+
+#### CM-2(4) – Unauthorized Software
+
+
+
+#### CM-2(5) – Authorized Software
+
+
+
+#### CM-2(6) – Development and Test Environments
+
+Maintain a baseline configuration for system development and test environments that is managed separately from the operational baseline configuration.
+
+#### CM-2(7) – Configure Systems and Components for High-risk Areas
+
+- (a) Issue [organization-defined systems or system components] with [organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and
+- (b) Apply the following controls to the systems or components when the individuals return from travel: [organization-defined controls].
+
+### CM-3 – Configuration Change Control
+
+- a. Determine and document the types of changes to the system that are configuration-controlled;
+- b. Review proposed configuration-controlled changes to the system and approve or disapprove such changes with explicit consideration for security and privacy impact analyses;
+- c. Document configuration change decisions associated with the system;
+- d. Implement approved configuration-controlled changes to the system;
+- e. Retain records of configuration-controlled changes to the system for [organization-defined time period];
+- f. Monitor and review activities associated with configuration-controlled changes to the system; and
+- g. Coordinate and provide oversight for configuration change control activities through [organization-defined configuration change control element] that convenes [[organization-defined frequency]  or when [organization-defined configuration change conditions] ].
+
+#### CM-3(1) – Automated Documentation, Notification, and Prohibition of Changes
+
+Use [organization-defined automated mechanisms] to:
+- (a) Document proposed changes to the system;
+- (b) Notify [organization-defined approval authorities] of proposed changes to the system and request change approval;
+- (c) Highlight proposed changes to the system that have not been approved or disapproved within [organization-defined time period];
+- (d) Prohibit changes to the system until designated approvals are received;
+- (e) Document all changes to the system; and
+- (f) Notify [organization-defined personnel] when approved changes to the system are completed.
+
+#### CM-3(2) – Testing, Validation, and Documentation of Changes
+
+Test, validate, and document changes to the system before finalizing the implementation of the changes.
+
+#### CM-3(3) – Automated Change Implementation
+
+Implement changes to the current system baseline and deploy the updated baseline across the installed base using [organization-defined automated mechanisms].
+
+#### CM-3(4) – Security and Privacy Representatives
+
+Require [organization-defined security and privacy representatives] to be members of the [organization-defined configuration change control element].
+
+#### CM-3(5) – Automated Security Response
+
+Implement the following security responses automatically if baseline configurations are changed in an unauthorized manner: [organization-defined security responses].
+
+#### CM-3(6) – Cryptography Management
+
+Ensure that cryptographic mechanisms used to provide the following controls are under configuration management: [organization-defined controls].
+
+#### CM-3(7) – Review System Changes
+
+Review changes to the system [organization-defined frequency] or when [organization-defined circumstances] to determine whether unauthorized changes have occurred.
+
+#### CM-3(8) – Prevent or Restrict Configuration Changes
+
+Prevent or restrict changes to the configuration of the system under the following circumstances: [organization-defined circumstances].
+
+### CM-4 – Impact Analyses
+
+Analyze changes to the system to determine potential security and privacy impacts prior to change implementation.
+
+#### CM-4(1) – Separate Test Environments
+
+Analyze changes to the system in a separate test environment before implementation in an operational environment, looking for security and privacy impacts due to flaws, weaknesses, incompatibility, or intentional malice.
+
+#### CM-4(2) – Verification of Controls
+
+After system changes, verify that the impacted controls are implemented correctly, operating as intended, and producing the desired outcome with regard to meeting the security and privacy requirements for the system.
+
+### CM-5 – Access Restrictions for Change
+
+Define, document, approve, and enforce physical and logical access restrictions associated with changes to the system.
+
+#### CM-5(1) – Automated Access Enforcement and Audit Records
+
+- (a) Enforce access restrictions using [organization-defined automated mechanisms] ; and
+- (b) Automatically generate audit records of the enforcement actions.
+
+#### CM-5(2) – Review System Changes
+
+
+
+#### CM-5(3) – Signed Components
+
+
+
+#### CM-5(4) – Dual Authorization
+
+Enforce dual authorization for implementing changes to [organization-defined system components and system-level information].
+
+#### CM-5(5) – Privilege Limitation for Production and Operation
+
+- (a) Limit privileges to change system components and system-related information within a production or operational environment; and
+- (b) Review and reevaluate privileges [organization-defined frequency].
+
+#### CM-5(6) – Limit Library Privileges
+
+Limit privileges to change software resident within software libraries.
+
+#### CM-5(7) – Automatic Implementation of Security Safeguards
+
+
+
+### CM-6 – Configuration Settings
+
+- a. Establish and document configuration settings for components employed within the system that reflect the most restrictive mode consistent with operational requirements using [organization-defined common secure configurations];
+- b. Implement the configuration settings;
+- c. Identify, document, and approve any deviations from established configuration settings for [organization-defined system components] based on [organization-defined operational requirements] ; and
+- d. Monitor and control changes to the configuration settings in accordance with organizational policies and procedures.
+
+#### CM-6(1) – Automated Management, Application, and Verification
+
+Manage, apply, and verify configuration settings for [organization-defined system components] using [organization-defined automated mechanisms].
+
+#### CM-6(2) – Respond to Unauthorized Changes
+
+Take the following actions in response to unauthorized changes to [organization-defined configuration settings]: [organization-defined actions].
+
+#### CM-6(3) – Unauthorized Change Detection
+
+
+
+#### CM-6(4) – Conformance Demonstration
+
+
+
+### CM-7 – Least Functionality
+
+- a. Configure the system to provide only [organization-defined mission-essential capabilities] ; and
+- b. Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: [organization-defined prohibited or restricted functions, system ports, protocols, software, and/or services].
+
+#### CM-7(1) – Periodic Review
+
+- (a) Review the system [organization-defined frequency] to identify unnecessary and/or nonsecure functions, ports, protocols, software, and services; and
+- (b) Disable or remove [organization-defined functions, ports, protocols, software, and services within the system deemed to be unnecessary and/or nonsecure].
+
+#### CM-7(2) – Prevent Program Execution
+
+Prevent program execution in accordance with [[organization-defined policies, rules of behavior, and/or access agreements regarding software program usage and restrictions]  or rules authorizing the terms and conditions of software program usage].
+
+#### CM-7(3) – Registration Compliance
+
+Ensure compliance with [organization-defined registration requirements].
+
+#### CM-7(4) – Unauthorized Software — Deny-by-exception
+
+- (a) Identify [organization-defined software programs];
+- (b) Employ an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the system; and
+- (c) Review and update the list of unauthorized software programs [organization-defined frequency].
+
+#### CM-7(5) – Authorized Software — Allow-by-exception
+
+- (a) Identify [organization-defined software programs];
+- (b) Employ a deny-all, permit-by-exception policy to allow the execution of authorized software programs on the system; and
+- (c) Review and update the list of authorized software programs [organization-defined frequency].
+
+#### CM-7(6) – Confined Environments with Limited Privileges
+
+Require that the following user-installed software execute in a confined physical or virtual machine environment with limited privileges: [organization-defined user-installed software].
+
+#### CM-7(7) – Code Execution in Protected Environments
+
+Allow execution of binary or machine-executable code only in confined physical or virtual machine environments and with the explicit approval of [organization-defined personnel or roles] when such code is:
+- (a) Obtained from sources with limited or no warranty; and/or
+- (b) Without the provision of source code.
+
+#### CM-7(8) – Binary or Machine Executable Code
+
+- (a) Prohibit the use of binary or machine-executable code from sources with limited or no warranty or without the provision of source code; and
+- (b) Allow exceptions only for compelling mission or operational requirements and with the approval of the authorizing official.
+
+#### CM-7(9) – Prohibiting The Use of Unauthorized Hardware
+
+- (a) Identify [organization-defined hardware components];
+- (b) Prohibit the use or connection of unauthorized hardware components;
+- (c) Review and update the list of authorized hardware components [organization-defined frequency].
+
+### CM-8 – System Component Inventory
+
+- a. Develop and document an inventory of system components that:
+  - 1. Accurately reflects the system;
+  - 2. Includes all components within the system;
+  - 3. Does not include duplicate accounting of components or components assigned to any other system;
+  - 4. Is at the level of granularity deemed necessary for tracking and reporting; and
+  - 5. Includes the following information to achieve system component accountability: [organization-defined information] ; and
+- b. Review and update the system component inventory [organization-defined frequency].
+
+#### CM-8(1) – Updates During Installation and Removal
+
+Update the inventory of system components as part of component installations, removals, and system updates.
+
+#### CM-8(2) – Automated Maintenance
+
+Maintain the currency, completeness, accuracy, and availability of the inventory of system components using [organization-defined automated mechanisms].
+
+#### CM-8(3) – Automated Unauthorized Component Detection
+
+- (a) Detect the presence of unauthorized hardware, software, and firmware components within the system using [organization-defined automated mechanisms] [organization-defined frequency] ; and
+- (b) Take the following actions when unauthorized components are detected: [disable network access by unauthorized components or isolate unauthorized components or notify [organization-defined personnel or roles] ].
+
+#### CM-8(4) – Accountability Information
+
+Include in the system component inventory information, a means for identifying by [name or position or role] , individuals responsible and accountable for administering those components.
+
+#### CM-8(5) – No Duplicate Accounting of Components
+
+
+
+#### CM-8(6) – Assessed Configurations and Approved Deviations
+
+Include assessed component configurations and any approved deviations to current deployed configurations in the system component inventory.
+
+#### CM-8(7) – Centralized Repository
+
+Provide a centralized repository for the inventory of system components.
+
+#### CM-8(8) – Automated Location Tracking
+
+Support the tracking of system components by geographic location using [organization-defined automated mechanisms].
+
+#### CM-8(9) – Assignment of Components to Systems
+
+- (a) Assign system components to a system; and
+- (b) Receive an acknowledgement from [organization-defined personnel or roles] of this assignment.
+
+### CM-9 – Configuration Management Plan
+
+Develop, document, and implement a configuration management plan for the system that:
+- a. Addresses roles, responsibilities, and configuration management processes and procedures;
+- b. Establishes a process for identifying configuration items throughout the system development life cycle and for managing the configuration of the configuration items;
+- c. Defines the configuration items for the system and places the configuration items under configuration management;
+- d. Is reviewed and approved by [organization-defined personnel or roles] ; and
+- e. Protects the configuration management plan from unauthorized disclosure and modification.
+
+#### CM-9(1) – Assignment of Responsibility
+
+Assign responsibility for developing the configuration management process to organizational personnel that are not directly involved in system development.
+
+### CM-10 – Software Usage Restrictions
+
+- a. Use software and associated documentation in accordance with contract agreements and copyright laws;
+- b. Track the use of software and associated documentation protected by quantity licenses to control copying and distribution; and
+- c. Control and document the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.
+
+#### CM-10(1) – Open-source Software
+
+Establish the following restrictions on the use of open-source software: [organization-defined restrictions].
+
+### CM-11 – User-installed Software
+
+- a. Establish [organization-defined policies] governing the installation of software by users;
+- b. Enforce software installation policies through the following methods: [organization-defined methods] ; and
+- c. Monitor policy compliance [organization-defined frequency].
+
+#### CM-11(1) – Alerts for Unauthorized Installations
+
+
+
+#### CM-11(2) – Software Installation with Privileged Status
+
+Allow user installation of software only with explicit privileged status.
+
+#### CM-11(3) – Automated Enforcement and Monitoring
+
+Enforce and monitor compliance with software installation policies using [organization-defined automated mechanisms].
+
+### CM-12 – Information Location
+
+- a. Identify and document the location of [organization-defined information] and the specific system components on which the information is processed and stored;
+- b. Identify and document the users who have access to the system and system components where the information is processed and stored; and
+- c. Document changes to the location (i.e., system or system components) where the information is processed and stored.
+
+#### CM-12(1) – Automated Tools to Support Information Location
+
+Use automated tools to identify [organization-defined information by information type] on [organization-defined system components] to ensure controls are in place to protect organizational information and individual privacy.
+
+### CM-13 – Data Action Mapping
+
+Develop and document a map of system data actions.
+
+### CM-14 – Signed Components
+
+Prevent the installation of [organization-defined software and firmware components] without verification that the component has been digitally signed using a certificate that is recognized and approved by the organization.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_catalog.json).
+<!-- scan-standards:end -->

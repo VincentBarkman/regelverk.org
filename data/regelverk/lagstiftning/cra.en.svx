@@ -1,0 +1,38 @@
+---
+'name': 'Cyber Resilience Act (CRA)'
+'title': 'Regulation (EU) 2024/2847 of the European Parliament and of the Council'
+'type': 'eu-regulation'
+'description': 'EU regulation on horizontal cybersecurity requirements for
+  products with digital elements.'
+'designation': 'EU 2024/2847'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2024-10-23'
+'applies-from': '2027-12-11'
+'related':
+  - 'nis2'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – GENERAL PROVISIONS](/lagstiftning/cra/kap-1) · Articles 1–12
+- [Chapter II – OBLIGATIONS OF ECONOMIC OPERATORS AND PROVISIONS IN RELATION TO FREE AND OPEN-SOURCE SOFTWARE](/lagstiftning/cra/kap-2) · Articles 13–26
+- [Chapter III – CONFORMITY OF THE PRODUCT WITH DIGITAL ELEMENTS](/lagstiftning/cra/kap-3) · Articles 27–34
+- [Chapter IV – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/cra/kap-4) · Articles 35–51
+- [Chapter V – MARKET SURVEILLANCE AND ENFORCEMENT](/lagstiftning/cra/kap-5) · Articles 52–60
+- [Chapter VI – DELEGATED POWERS AND COMMITTEE PROCEDURE](/lagstiftning/cra/kap-6) · Articles 61–62
+- [Chapter VII – CONFIDENTIALITY AND PENALTIES](/lagstiftning/cra/kap-7) · Articles 63–65
+- [Chapter VIII – TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/cra/kap-8) · Articles 66–71
+<!-- scan-laws:end -->

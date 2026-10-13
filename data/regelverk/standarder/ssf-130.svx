@@ -1,0 +1,27 @@
+---
+title: SSF 130 – Inbrotts- och överfallslarm
+description: Projektering och installation av inbrotts- och överfallslarm, larmklass 1–4.
+designation: SSF 130 utgåva 10
+jurisdiction: Sverige
+status: active
+reviewStatus: auto
+issuer: SSF
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - fysisk
+url: https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/inbrottslarm/ssf-130-utg-10-projektering-och-installation-av-inbrotts-och-overfallslarmanlaggning/
+published: 2024-08-29
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+SSF 130 ger regler för projektering, installation, provning och dokumentation av inbrotts- och överfallslarmanläggningar. Den skiljer mellan larmklass 1–4 beroende på anläggningens kravbild.
+
+Larmklasserna gäller larmsystemet, inte det mekaniska skalskyddet. Det senare behandlas i SSF 200. Kravställare och försäkringsvillkor avgör ofta vilka klasser som ska användas i ett visst objekt.
+
+Officiell källa: [SSF 130 utgåva 10](https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/inbrottslarm/ssf-130-utg-10-projektering-och-installation-av-inbrotts-och-overfallslarmanlaggning/).
+<!-- scan-standards:end -->

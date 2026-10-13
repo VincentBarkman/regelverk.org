@@ -1,0 +1,55 @@
+---
+title: NIST SP 800-171
+description: Open control catalogue for protecting controlled unclassified
+  information (CUI) in non-federal systems.
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+translation: en
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Open control catalogue for protecting controlled unclassified information (CUI) in non-federal systems.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [NIST SP 800-171 Rev. 3](https://csrc.nist.gov/pubs/sp/800/171/r3/final).
+
+## Contents
+
+- [03.01 – Access Control](/standarder/nist-sp-800-171/03-01) · 22 requirements
+- [03.02 – Awareness and Training](/standarder/nist-sp-800-171/03-02) · 3 requirements
+- [03.03 – Audit and Accountability](/standarder/nist-sp-800-171/03-03) · 9 requirements
+- [03.04 – Configuration Management](/standarder/nist-sp-800-171/03-04) · 12 requirements
+- [03.05 – Identification and Authentication](/standarder/nist-sp-800-171/03-05) · 12 requirements
+- [03.06 – Incident Response](/standarder/nist-sp-800-171/03-06) · 5 requirements
+- [03.07 – Maintenance](/standarder/nist-sp-800-171/03-07) · 6 requirements
+- [03.08 – Media Protection](/standarder/nist-sp-800-171/03-08) · 9 requirements
+- [03.09 – Personnel Security](/standarder/nist-sp-800-171/03-09) · 2 requirements
+- [03.10 – Physical Protection](/standarder/nist-sp-800-171/03-10) · 8 requirements
+- [03.11 – Risk Assessment](/standarder/nist-sp-800-171/03-11) · 4 requirements
+- [03.12 – Security Assessment and Monitoring](/standarder/nist-sp-800-171/03-12) · 5 requirements
+- [03.13 – System and Communications Protection](/standarder/nist-sp-800-171/03-13) · 16 requirements
+- [03.14 – System and Information Integrity](/standarder/nist-sp-800-171/03-14) · 8 requirements
+- [03.15 – Planning](/standarder/nist-sp-800-171/03-15) · 3 requirements
+- [03.16 – System and Services Acquisition](/standarder/nist-sp-800-171/03-16) · 3 requirements
+- [03.17 – Supply Chain Risk Management](/standarder/nist-sp-800-171/03-17) · 3 requirements
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+- [NIS2 directive](/lagstiftning/nis2)
+<!-- scan-standards:end -->

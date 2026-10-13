@@ -1,17 +1,27 @@
 ---
-name: NIS2 Directive
-title: Directive (EU) 2022/2555 of the European Parliament and of the Council
-type: eu-directive
-description: EU directive on measures for a high common level of cybersecurity across the Union.
-designation: EU 2022/2555
-jurisdiction: EU
-issuer: EU
-status: in-force
-reviewStatus: verified
-legalStatus: binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+'name': 'NIS2 directive'
+'title': 'Directive (EU) 2022/2555 of the European Parliament and of the Council'
+'type': 'eu-directive'
+'description': 'EU directive on measures for a high common level of
+  cybersecurity across the Union.'
+'designation': 'EU 2022/2555'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'verified'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-01'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2022-12-14'
+'applies-from': '2024-10-18'
+'related':
+  - 'cybersakerhetslagen'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555'
 ---
 
 ## Scope
@@ -20,8 +30,8 @@ The directive applies to essential and important entities in sectors including e
 
 ## Key requirements
 
-- **Risk management measures** under Article 21 – organisations must take appropriate and proportionate technical, operational and organisational measures.
-- **Incident reporting** under Article 23 – significant incidents are reported to the competent authority within set deadlines.
+- **Risk management measures** under [Article 21](/lagstiftning/nis2/kap-4#artikel-21-cybersecurity-risk-management-measures) – organisations must take appropriate and proportionate technical, operational and organisational measures.
+- **Incident reporting** under [Article 23](/lagstiftning/nis2/kap-4#artikel-23-reporting-obligations) – significant incidents are reported to the competent authority within set deadlines.
 - **Management responsibility** – management must approve and follow up on the risk management measures.
 
 ## Swedish implementation

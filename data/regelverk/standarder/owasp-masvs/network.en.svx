@@ -1,0 +1,44 @@
+---
+title: MASVS-NETWORK – Network Communication
+description: OWASP MASVS 2.1.0 – MASVS-NETWORK – Network Communication
+source: owasp-masvs
+ref: NETWORK
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+Secure networking is a critical aspect of mobile app security, particularly for apps that communicate over the network. In order to ensure the confidentiality and integrity of data in transit, developers typically rely on encryption and authentication of the remote endpoint, such as through the use of TLS. However, there are numerous ways in which a developer may accidentally disable the platform secure defaults or bypass them entirely by utilizing low-level APIs or third-party libraries.
+
+This category is designed to ensure that the mobile app sets up secure connections under any circumstances. Specifically, it focuses on verifying that the app establishes a secure, encrypted channel for network communication. Additionally, this category covers situations where a developer may choose to trust only specific Certificate Authorities (CAs), which is commonly referred to as certificate pinning or public key pinning.
+
+### MASVS-NETWORK-1
+
+The app secures all network traffic according to the current best practices.
+
+Ensuring data privacy and integrity of any data in transit is critical for any app that communicates over the network. This is typically done by encrypting data and authenticating the remote endpoint, as TLS does. However, there are many ways for a developer to disable the platform secure defaults, or bypass them completely by using low-level APIs or third-party libraries. This control ensures that the app is in fact setting up secure connections in any situation.
+
+### MASVS-NETWORK-2
+
+The app performs identity pinning for all remote endpoints under the developer's control.
+
+Instead of trusting all the default root CAs of the framework or device, this control will make sure that only very specific CAs are trusted. This practice is typically called certificate pinning or public key pinning.
+
+---
+
+© OWASP Foundation, Mobile Application Security Verification Standard 2.1.0. The layout has been adapted; the English requirements have not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml).
+<!-- scan-standards:end -->

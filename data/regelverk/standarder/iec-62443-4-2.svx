@@ -1,0 +1,27 @@
+---
+title: IEC 62443-4-2
+description: Tekniska säkerhetskrav för IACS-komponenter, ordnade efter sju
+  grundläggande säkerhetsområden.
+designation: IEC 62443-4-2:2019
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+  - it
+url: https://webstore.iec.ch/en/publication/34421
+published: 2019-02-27
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Del 4-2 anger tekniska komponentkrav kopplade till de sju grundläggande kraven i IEC 62443-1-1 och definierar kapacitetssäkerhetsnivåer SL-C för komponenter.
+
+Officiell källa: [IEC 62443-4-2:2019](https://webstore.iec.ch/en/publication/34421).
+<!-- scan-standards:end -->

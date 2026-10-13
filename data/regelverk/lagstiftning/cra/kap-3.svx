@@ -1,0 +1,170 @@
+---
+'source': 'cra'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – ÖVERENSSTÄMMELSE FÖR PRODUKTEN MED DIGITALA ELEMENT'
+'kind': 'chapter'
+'description': 'CRA-förordningen, Kapitel III.'
+'designation': 'CRA-förordningen Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847#cpt_III'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 27 – Presumtion om överensstämmelse
+
+1\. Produkter med digitala element och processer som införts av tillverkaren som överensstämmer med harmoniserade standarder, eller delar av sådana, vilka har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de väsentliga cybersäkerhetskrav i bilaga I som omfattas av dessa standarder eller delar av dem.
+
+Kommissionen ska i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begära att en eller flera europeiska standardiseringsorganisationer utarbetar harmoniserade standarder för de väsentliga cybersäkerhetskraven i bilaga I till [den här förordningen](/lagstiftning/cra). När kommissionen utarbetar begäranden om standardisering för [den här förordningen](/lagstiftning/cra) ska den sträva efter att beakta befintliga europeiska och internationella standarder för cybersäkerhet som införts eller håller på att tas fram, i syfte att förenkla utvecklingen av harmoniserade standarder, i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+2\. Kommissionen får anta genomförandeakter om fastställande av gemensamma specifikationer som omfattar tekniska krav som gör det möjligt att uppfylla de väsentliga cybersäkerhetskraven i bilaga I för produkter med digitala element som omfattas av [denna förordnings](/lagstiftning/cra) tillämpningsområde.
+
+Dessa genomförandeakter får endast antas om följande villkor är uppfyllda:
+
+a) Kommissionen har, enligt artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), begärt att en eller flera europeiska standardiseringsorganisationer utarbetar en harmoniserad standard för de väsentliga cybersäkerhetskrav som fastställs i bilaga I och
+
+i) begäran har inte godtagits,
+
+ii) de harmoniserade standarder som avser begäran levereras inte inom den tidsfrist som fastställts i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) eller
+
+iii) de harmoniserade standarderna överensstämmer inte med begäran.
+
+b) Ingen hänvisning till harmoniserade standarder som omfattar de relevanta väsentliga cybersäkerhetskraven i bilaga I till [denna förordning](/lagstiftning/cra) har offentliggjorts i Europeiska unionens officiella tidning i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), och ingen sådan hänvisning förväntas offentliggöras inom rimlig tid.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+3\. Innan kommissionen utarbetar det utkast till genomförandeakt som avses i punkt 2 i [den här artikeln](#artikel-27-presumtion-om-överensstämmelse) ska den informera den kommitté som avses i artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) om att den anser att villkoren i punkt 2 i [den här artikeln](#artikel-27-presumtion-om-överensstämmelse) är uppfyllda.
+
+4\. När kommissionen utarbetar det utkast till genomförandeakt som avses i punkt 2 ska den ta hänsyn till synpunkter från relevanta organ och vederbörligen samråda med alla berörda parter.
+
+5\. Produkter med digitala element och processer som har införts av tillverkaren vilka överensstämmer med de gemensamma specifikationer som fastställts i de genomförandeakter som avses i punkt 2 i [denna artikel](#artikel-27-presumtion-om-överensstämmelse), eller delar av dem, ska förutsättas överensstämma med de väsentliga cybersäkerhetskraven i bilaga I som omfattas av de gemensamma specifikationerna eller delar av dem.
+
+6\. Om en harmoniserad standard antas av en europeisk standardiseringsorganisation och föreslås för kommissionen i syfte att offentliggöra hänvisningen till den i Europeiska unionens officiella tidning, ska kommissionen bedöma den harmoniserade standarden i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025). När en hänvisning till en harmoniserad standard offentliggörs i Europeiska unionens officiella tidning ska kommissionen upphäva de genomförandeakter som avses i punkt 2 i [denna artikel](#artikel-27-presumtion-om-överensstämmelse), eller delar av dem som omfattar samma väsentliga cybersäkerhetskrav som de som omfattas av denna harmoniserade standard.
+
+7\. Om en medlemsstat anser att en gemensam specifikation inte helt uppfyller de väsentliga cybersäkerhetskraven i bilaga I ska den underrätta kommissionen om detta genom att lämna en detaljerad förklaring. Kommissionen ska bedöma denna detaljerade förklaring och får vid behov ändra genomförandeakten om fastställande av den gemensamma specifikationen i fråga.
+
+8\. Produkter med digitala element och processer som har införts av tillverkaren för vilka en EU-försäkran om överensstämmelse eller ett certifikat har utfärdats enligt [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881), ska förutsättas överensstämma med de väsentliga cybersäkerhetskraven i bilaga I i den mån som EU-försäkran om överensstämmelse eller det europeiska cybersäkerhetscertifikatet, eller delar av dessa, täcker dessa krav.
+
+9\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) i [denna förordning](/lagstiftning/cra), för att komplettera [denna förordning](/lagstiftning/cra) genom att specificera vilka europeiska ordningar för cybersäkerhetscertifiering inom ramen för [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) som kan användas för att visa att produkter med digitala element överensstämmer med de väsentliga cybersäkerhetskrav som fastställs i bilaga I till [denna förordning](/lagstiftning/cra), eller delar av dessa. Utfärdandet av ett europeiskt cybersäkerhetscertifikat inom ramen för sådana system, med åtminstone assuransnivån ”betydande”, befriar tillverkaren från skyldigheten att utföra en tredjepartsbedömning av överensstämmelse för de motsvarande kraven, i enlighet med artikel [32.2 a](#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och b och 32.3 a och b i [den här förordningen](/lagstiftning/cra).
+
+### Artikel 28 – EU-försäkran om överensstämmelse
+
+1\. EU-försäkran om överensstämmelse ska upprättas av tillverkarna i enlighet med artikel [13.12](/lagstiftning/cra/kap-2#artikel-13-tillverkares-skyldigheter) och ska ange att det har visats att de tillämpliga väsentliga cybersäkerhetskraven i bilaga I uppfylls.
+
+2\. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga V och ska innehålla de uppgifter som anges i de relevanta förfaranden för bedömning av överensstämmelse som fastställs i bilaga VIII. En sådan försäkran ska uppdateras när så är lämpligt. Den ska tillhandahållas på de språk som krävs av den medlemsstat där produkten med digitala element släpps ut på marknaden eller tillhandahålls på marknaden.
+
+Den förenklade EU-försäkran om överensstämmelse som avses i artikel [13.20](/lagstiftning/cra/kap-2#artikel-13-tillverkares-skyldigheter) ska utformas i enlighet med mallen i bilaga VI. Den ska tillhandahållas på de språk som krävs av den medlemsstat där produkten med digitala element släpps ut på marknaden eller tillhandahålls på marknaden.
+
+3\. Om en produkt med digitala element omfattas av mer än en unionsrättsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas med avseende på alla dessa unionsrättsakter. I denna försäkran ska det anges vilka unionsrättsakter som berörs, inbegripet EUT-hänvisningarna till dem.
+
+4\. Genom att EU-försäkran om överensstämmelse upprättas ska tillverkaren ta ansvar för att produkten överensstämmer med digitala element.
+
+5\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/cra) genom att lägga till uppgifter till det minimiinnehåll för EU-försäkran om överensstämmelse som fastställs i bilaga V, för att ta hänsyn till den tekniska utvecklingen.
+
+### Artikel 29 – Allmänna principer för CE-märkning
+
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+### Artikel 30 – Regler och villkor för anbringande av CE-märkning
+
+1\. CE-märkningen ska fästas på produkten med digitala element så att den är synlig, läsbar och outplånlig. Om detta inte är möjligt eller inte är lämpligt på grund av produktens art, ska den fästas på förpackningen och på den EU-försäkran om överensstämmelse enligt artikel [28](#artikel-28-eu-försäkran-om-överensstämmelse) som medföljer produkten med digitala element. För produkter med digitala element i form av programvara ska CE-märkningen fästas antingen på EU-försäkran om överensstämmelse enligt artikel [28](#artikel-28-eu-försäkran-om-överensstämmelse) eller på den webbplats som åtföljer programvaruprodukten. I det sistnämnda fallet ska det relevanta avsnittet på webbplatsen kunna nås enkelt och direkt av konsumenterna.
+
+2\. På grund av arten av produkt med digitala element får höjden på den CE-märkning som fästas på produkten understiga 5 mm, förutsatt att den förblir synlig och läsbar.
+
+3\. CE-märkningen ska fästas innan produkten med digitala element släpps ut på marknaden. Den får åtföljas av ett piktogram eller annan märkning som anger en särskild cybersäkerhetsrisk eller användning som fastställs i de genomförandeakter som avses i punkt 6.
+
+4\. CE-märkningen ska följas av det anmälda organets identifikationsnummer, i de fall då det organet är involverat i det förfarande för bedömning av överensstämmelse baserat på fullständig kvalitetssäkring (baserat på modul H) som avses i artikel [32](#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element).
+
+Det anmälda organets identifikationsnummer ska fästas av organet självt eller, enligt organets anvisningar, av tillverkaren eller tillverkarens representant.
+
+5\. Medlemsstaterna ska utgå från befintliga mekanismer för att säkerställa att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av märkningen. I de fall då en produkt med digitala element omfattas av annan unionsharmoniseringslagstiftning än [denna förordning](/lagstiftning/cra) som också föreskriver CE-märkning ska CE-märkningen visa att produkten även uppfyller kraven som anges i sådan annan unionsharmoniseringslagstiftning.
+
+6\. Kommissionen får genom delegerade akter fastställa tekniska specifikationer för etiketter, piktogram eller andra märkningar som rör säkerheten för produkter med digitala element, deras stödperioder och mekanismer för att främja användningen av sådana och öka allmänhetens medvetenhet om säkerheten hos produkter med digitala element. När kommissionen utarbetar utkast till genomförandeakt ska den samråda med berörda parter och, enligt artikel [52.15](/lagstiftning/cra/kap-5#artikel-52-marknadskontroll-och-kontroll-av-produkter-med-digitala-element-på-unionsmarknaden), med Adco-gruppen om den redan har inrättats. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+### Artikel 31 – Teknisk dokumentation
+
+1\. Den tekniska dokumentationen ska omfatta alla relevanta data eller uppgifter om de metoder som tillverkaren använt för att säkerställa att produkter med digitala element och de processer som införts av tillverkaren uppfyller de väsentliga cybersäkerhetskrav som fastställs i bilaga I. Den ska åtminstone omfatta de aspekter som fastställs i bilaga VII.
+
+2\. Den tekniska dokumentationen ska upprättas innan produkten med digitala element släpps ut på marknaden och ska uppdateras kontinuerligt, vid behov, under åtminstone stödperioden.
+
+3\. För de produkter med digitala element som avses i artikel [12](/lagstiftning/cra/kap-1#artikel-12-ai-system-med-hög-risk) vilka även omfattas av andra unionsrättsakter som föreskriver teknisk dokumentation ska en enda serie teknisk dokumentation upprättas med den information som avses i bilaga VII och den information som föreskrivs i andra unionsrättsakter.
+
+4\. Den tekniska dokumentation och korrespondens som avser förfaranden för bedömning av överensstämmelse ska upprättas på ett officiellt språk i den medlemsstat där det anmälda organet finns eller på ett språk som kan godtas av det organet.
+
+5\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/cra) genom att lägga till aspekter som ska ingå i den tekniska dokumentationen enligt bilaga VII för att ta hänsyn till den tekniska utvecklingen, samt utveckling som skett under [denna förordnings](/lagstiftning/cra) genomförandeprocess. Kommissionen ska därför säkerställa att den administrativa bördan för mikroföretag samt små och medelstora företag är proportionell.
+
+### Artikel 32 – Förfaranden för bedömning av överensstämmelse för produkter med digitala element
+
+1\. Tillverkaren ska genomföra en bedömning av överensstämmelse avseende produkten med digitala element och de processer som införts av tillverkaren, där det ska fastställas om de väsentliga cybersäkerhetskraven i bilaga I uppfylls. Tillverkaren ska visa överensstämmelse med de väsentliga cybersäkerhetskraven genom att använda
+
+a) förfarandet för intern kontroll (baserat på modul A) enligt bilaga VIII,
+
+b) EU-typkontroll (baserat på modul B) enligt bilaga VIII, följd av förfarandet för överensstämmelse med EU-typ grundat på intern tillverkningskontroll (baserat på modul C) enligt bilaga VIII,
+
+c) överensstämmelse som grundar sig på fullständig kvalitetssäkring (baserat på modul H) enligt bilaga VIII, eller
+
+d) en europeisk ordning för cybersäkerhetscertifiering enligt artikel [27.9](#artikel-27-presumtion-om-överensstämmelse), om sådan finns och i tillämpliga fall.
+
+2\. Vid bedömningen av om en viktig produkt med digitala element som omfattas av klass I som anges i bilaga III och de processer som införts av dess tillverkare överensstämmer med de väsentliga cybersäkerhetskraven i bilaga I gäller att om tillverkaren inte har tillämpat – eller endast delvis har tillämpat – harmoniserade standarder, gemensamma specifikationer eller europeiska ordningar för cybersäkerhetscertifiering på minst assuransnivå ”betydande” enligt artikel [27](#artikel-27-presumtion-om-överensstämmelse), eller om sådana harmoniserade standarder, gemensamma specifikationer eller europeiska ordningar för cybersäkerhetscertifiering saknas, ska den berörda produkten med digitala element och de processer som införts av tillverkaren genomgå något av följande förfaranden med avseende på något av dessa väsentliga cybersäkerhetskrav:
+
+a) EU-typkontroll (baserat på modul B) som anges i bilaga VIII, följd av förfarandet för överensstämmelse med EU-typ grundat på intern tillverkningskontroll (baserat på modul C) enligt bilaga VIII, eller
+
+b) bedömning av överensstämmelse som grundar sig på fullständig kvalitetssäkring (baserat på modul H) enligt bilaga VIII.
+
+3\. Om produkten är en viktig produkt med digitala element som omfattas av klass II enligt bilaga III ska tillverkaren visa överensstämmelsen med de väsentliga cybersäkerhetskraven i bilaga I genom att använda något av följande förfaranden:
+
+a) EU-typkontroll (baserat på modul B) enligt bilaga VIII, följd av förfarandet för överensstämmelse med EU-typ grundat på intern tillverkningskontroll (baserat på modul C) enligt bilaga VIII,
+
+b) överensstämmelse som grundar sig på fullständig kvalitetssäkring (baserat på modul H) enligt bilaga VIII, eller
+
+c) en europeisk ordning för cybersäkerhetscertifiering enligt artikel [27.9](#artikel-27-presumtion-om-överensstämmelse) i [denna förordning](/lagstiftning/cra) på minst assuransnivån ”betydande” enligt [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881), om sådan finns och i tillämpliga fall.
+
+4\. Kritiska produkter med digitala element som förtecknas i bilaga IV ska visa överensstämmelsen med de väsentliga cybersäkerhetskraven i bilaga I genom att använda
+
+a) en europeisk ordning för cybersäkerhetscertifiering i enlighet med artikel [8.1](/lagstiftning/cra/kap-1#artikel-8-kritiska-produkter-med-digitala-element), eller
+
+b) om villkoren i artikel [8.1](/lagstiftning/cra/kap-1#artikel-8-kritiska-produkter-med-digitala-element) inte är uppfyllda, något av de förfaranden som avses i punkt 3 i [denna artikel](#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element).
+
+5\. Tillverkare av produkter med digitala element som klassificeras som programvara med fri och öppen källkod och som omfattas av de kategorier som anges i bilaga III ska kunna visa överensstämmelse med de väsentliga cybersäkerhetskraven i bilaga I genom att använda ett av de förfaranden som avses i punkt 1 i [denna artikel](#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element), förutsatt att den tekniska dokumentation som avses i artikel [31](#artikel-31-teknisk-dokumentation) görs tillgänglig för allmänheten när dessa produkter släpps ut på marknaden.
+
+6\. Mikroföretags och små och medelstora företags, inklusive uppstartsföretags, särskilda intressen och behov ska beaktas när avgifterna för bedömning av överensstämmelse fastställs, och dessa avgifter ska minskas i proportion till företagens särskilda intressen och behov.
+
+### Artikel 33 – Stödåtgärder för mikroföretag och små och medelstora företag, inbegripet uppstartsföretag
+
+1\. Medlemsstaterna ska, när så är lämpligt, vidta följande åtgärder som är anpassade till mikroföretags och små företags behov:
+
+a) Anordna särskild informations- och utbildningsverksamhet om tillämpningen av [denna förordning](/lagstiftning/cra).
+
+b) Inrätta en särskild kanal för kommunikation med mikroföretag och små företag och, när så är lämpligt, lokala myndigheter för att ge råd och besvara frågor om genomförandet av [denna förordning](/lagstiftning/cra).
+
+c) Stödja provning och bedömning av överensstämmelse, när så är lämpligt även med stöd av Europeiska kompetenscentrumet för cybersäkerhet.
+
+2\. Medlemsstaterna får, när så är lämpligt, inrätta regulatoriska sandlådor för cyberresiliens. Sådana regulatoriska sandlådor ska tillhandahålla kontrollerade provmiljöer för innovativa produkter med digitala element för att underlätta utvecklingen, utformningen, valideringen och provningen av dem i syfte att uppfylla kraven i [denna förordning](/lagstiftning/cra) under en begränsad tidsperiod innan de släpps ut på marknaden. Kommissionen och, när så är lämpligt, Enisa får tillhandahålla tekniskt stöd, rådgivning och verktyg för inrättande och drift av regulatoriska sandlådor. De regulatoriska sandlådorna ska inrättas under marknadskontrollmyndigheternas direkta tillsyn, vägledning och stöd. Medlemsstaterna ska genom Adco-gruppen informera kommissionen och de andra marknadskontrollmyndigheterna om inrättandet av en regulatorisk sandlåda. De regulatoriska sandlådorna ska inte påverka de behöriga myndigheternas tillsynsbefogenheter och korrigerande befogenheter. Medlemsstaterna ska säkerställa öppen, rättvis och transparent tillgång till regulatoriska sandlådor, och i synnerhet underlätta tillgång för mikroföretag och små företag, inbegripet uppstartsföretag.
+
+3\. I enlighet med artikel [26](/lagstiftning/cra/kap-2#artikel-26-vägledning) ska kommissionen ge mikroföretag och små och medelstora företag vägledning om genomförandet av [denna förordning](/lagstiftning/cra).
+
+4\. Kommissionen ska tillkännage att ekonomiskt stöd inom ramen för unionens befintliga program är tillgängligt, särskilt för att minska den ekonomiska bördan för mikroföretag och små företag.
+
+5\. Mikroföretag och små företag får tillhandahålla alla delar av den tekniska dokumentation som anges i bilaga VII med användning av ett förenklat formulär. För detta ändamål ska kommissionen genom genomförandeakter specificera det förenklade formuläret för teknisk dokumentation med hänsyn till mikroföretagens och småföretagens behov, inbegripet hur de uppgifter som anges i bilaga VII ska tillhandahållas. Om ett mikroföretag eller ett småföretag väljer att tillhandahålla den information som anges enligt bilaga VII på ett förenklat sätt ska det använda det formulär som avses i denna punkt. Anmälda organ ska godta detta formulär för bedömning av överensstämmelse.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+### Artikel 34 – Avtal om ömsesidigt erkännande
+
+Med beaktande av den tekniska utvecklingsnivån och ett tredjelands förhållningssätt till bedömning av överensstämmelse får unionen ingå avtal om ömsesidigt erkännande med tredjeländer, i enlighet med artikel [218](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:12012E) i EUF-fördraget, för att främja och underlätta internationell handel.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

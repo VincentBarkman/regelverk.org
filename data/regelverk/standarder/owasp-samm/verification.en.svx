@@ -1,0 +1,100 @@
+---
+title: Verification
+description: OWASP SAMM 2.2.0 – Verification
+source: owasp-samm
+ref: VERIFICATION
+designation: OWASP SAMM 2.2.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://owaspsamm.org/
+version: 2.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+Verification focuses on the processes and activities related to how an organization checks and tests artifacts produced throughout software development. This typically includes quality assurance work such as testing, but it can also include other review and evaluation activities.
+
+### Architecture Assessment (AA)
+
+The Architecture Assessment (AA) practice ensures that the application and infrastructure architecture adequately meets all relevant security and compliance requirements, and sufficiently mitigates identified security threats. The first stream focuses on verifying that the security and compliance requirements identified in the Policy and Compliance, and Security Requirements, practices are met, first in an ad-hoc manner, then more systematically for each interface in the system. The second stream reviews the architecture, first for mitigations against typical threats, then against the specific threats identified in the Threat Assessment practice.
+
+In its more advanced form, the practice formalizes the architecture security review process, continuously evaluates the effectiveness of the architecture's security controls, their scalability and strategic alignment. Identified weaknesses and possible improvements are fed back to the Secure Architecture practice to improve reference architectures.
+
+#### Stream A – Architecture Validation
+
+Architecture validation confirms the security of the software and supporting architecture by identifying application and infrastructure architecture components and verifying their provision of security objectives and requirements.
+
+- **Level 1:** Assess application architecture — Identify application and infrastructure architecture components and review for basic security provisioning.
+- **Level 2:** Verify the application architecture for security methodically — Validate the architecture security mechanisms.
+- **Level 3:** Verify the effectiveness of security components — Review of the architecture components' effectiveness.
+
+#### Stream B – Architecture Mitigation
+
+Architecture mitigation focuses on ensuring that all threats identified during Threat Assessment are adequately mitigated, and existing reference architectures updated to address any unhandled threats.
+
+- **Level 1:** Evaluate architecture for typical threats — Ad-hoc review of the architecture for unmitigated security threats.
+- **Level 2:** Structurally verify the architecture for identified threats — Analyze the architecture for known threats.
+- **Level 3:** Feed review results back to improve reference architectures — Feed the architecture review results back into the enterprise architecture, organization design principles and patterns, security solutions and reference architectures.
+
+### Requirements-driven Testing (RT)
+
+The goal of the Requirements-driven Testing (RT) practice is to ensure that the implemented security controls operate as expected and satisfy the project's stated security requirements. It does so by incrementally building a set of security test and regression cases and executing them regularly.
+
+A key aspect of this practice is its attention to both positive and negative testing. The former verifies that the application's security controls satisfy stated security requirements and validates their correct functioning. These requirements are typically functional in nature. Negative testing addresses the quality of the implementation of the security controls and aims to detect unexpected design flaws and implementation bugs through misuse and abuse testing. In its more advanced forms, the practice promotes security stress testing, such as denial of service, and strives to continuously improve application security by consistently automating security unit tests and creating security regression tests for all bugs identified and fixed.
+
+Although both the Requirements-driven Testing and Security Testing practices are concerned with security testing, the former focuses on verifying the correct implementation of security requirements, while the latter aims to uncover technical implementation weaknesses in an application, irrespective of requirements.
+
+#### Stream A – Control Verification
+
+Control Verification validates that security controls and requirements are met through testing derived from requirements, and prevents the introduction of bugs into later releases through regression testing.
+
+- **Level 1:** Test the effectiveness of security controls — Test for software security controls.
+- **Level 2:** Define and run security test cases from requirements — Derive test cases from known security requirements.
+- **Level 3:** Automate security requirements testing — Perform regression testing (with security unit tests).
+
+#### Stream B – Misuse/Abuse Testing
+
+Misuse/Abuse Testing leverages fuzzing, misuse/abuse cases, and the identification of any functionality or resources in the software that can be abused in order to identify weaknesses in features to attack an application.
+
+- **Level 1:** Perform fuzz testing — Perform security fuzz testing.
+- **Level 2:** Define and run security abuse cases from requirements — Create and test abuse cases and business logic flaw tests.
+- **Level 3:** Perform security stress testing — Denial of service and security stress testing.
+
+### Security Testing (ST)
+
+The Security Testing (ST) practice leverages the fact that, while automated security testing is fast and scales well to numerous applications, in-depth testing based on good knowledge of an application and its business logic is often only possible via slower, manual expert security testing. Each stream therefore has one approach at its core.
+
+The first stream focuses on establishing a common security baseline to automatically detect so-called "low-hanging fruit". Progressively customize the automated tests for each application and increase their frequency of execution to detect more bugs and regressions earlier, as close as possible to their inception. The more bugs the automated processes can detect, the more time experts have to use their knowledge and creativity to focus on more complex attack vectors and ensure in-depth application testing in the second stream. As manual review is slow and hard to scale, reviewers prioritize testing components based on their risk, recent relevant changes, or upcoming major releases. Organizations can also access external expertise by participating in bug bounty programs, for example.
+
+Unlike the Requirements-driven Testing practice which focuses on verifying that applications correctly implement their requirements, the goal of this practice is to uncover technical and business-logic weaknesses in the application and make them visible to management and business stakeholders, irrespective of requirements.
+
+#### Stream A – Scalable Baseline
+
+Scalable baseline focuses on the use of application-specific automated testing tools that integrate security validation into the build and deploy process. The goal of this stream is to favor width (a broad spectrum of applications) over depth of testing.
+
+- **Level 1:** Perform automated security testing — Utilize automated security testing tools.
+- **Level 2:** Develop application-specific security test cases — Employ application-specific security testing automation.
+- **Level 3:** Integrate security testing tools in the delivery pipeline — Integrate automated security testing into the build and deploy process.
+
+#### Stream B – Deep Understanding
+
+Deep understanding focuses on performing manual security testing of high-risk components, using complex attack vectors with the goal of making advanced security testing an integral part of the development process. The goal of this stream is to favor testing depth (testing rigor) over testing width (the portfolio of applications).
+
+- **Level 1:** Test high risk application components manually — Perform manual security testing of high-risk components.
+- **Level 2:** Establish a penetration testing process — Conduct manual penetration testing.
+- **Level 3:** Establish continuous, scalable security verification — Integrate security testing into development process.
+
+---
+
+© OWASP Foundation, Software Assurance Maturity Model 2.2.0. The layout has been adapted; the English model text has not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/owaspsamm/core/releases/download/v2.2.0/samm.tar.gz).
+<!-- scan-standards:end -->

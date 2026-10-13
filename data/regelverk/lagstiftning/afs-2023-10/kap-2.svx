@@ -1,0 +1,355 @@
+---
+'source': 'afs-2023-10'
+'ref': '2 kap.'
+'title': '2 kap. – Buller'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), 2 kap..'
+'designation': 'AFS 2023:10 2 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) reglerar all verksamhet där arbetstagare kan utsättas för buller.
+
+Bestämmelserna i [4 §](#4-exponeringsvärden) om toppvärde gäller inte vid skjutning eller sprängning inom Försvarsmakten.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-2).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-2) har följande begrepp dessa betydelser.
+
+Begrepp
+
+Betydelse
+
+A-vägd ljudtrycksnivå, LpA
+
+Vägt medeltal av ljudtrycksnivån inom det hörbara frekvensområdet mätt med vägningsfilter A enligt standard SS-EN 61672–1:2014 Elektroakustik - Ljudnivåmätare - Del 1: Specifikationer. Utgåva 2. Anges i enheten decibel (dB). Som förkortat skrivsätt för A-vägd ljudtrycksnivå används även begreppet ljudnivå med enheten dB(A).
+
+Buller
+
+Icke önskvärt ljud. Omfattar både hörselskadligt och störande ljud.
+
+Begreppet störande ljud omfattar både psykologiska och fysiologiska effekter.
+
+C-vägd ljudtrycksnivå, LpC
+
+Vägt medeltal av ljudtrycksnivån inom det hörbara frekvensområdet mätt med vägningsfilter C enligt standard SS-EN 61672–1:2014 Elektroakustik - Ljudnivåmätare - Del 1: Specifikationer. Utgåva 2. Anges i enheten dB. Som förkortat skrivsätt för C-vägd ljudtrycksnivå används även begreppet ljudnivå med enheten dB(C).
+
+Daglig bullerexponeringsnivå, LEX,8h
+
+Ekvivalent A-vägd ljudtrycksnivå normaliserad till en åttatimmars arbetsdag. Omfattar allt buller på arbetsplatsen, inklusive impulsbuller. (Se bilaga 1).
+
+Ekvivalent A-vägd ljudtrycksnivå, LpAeq,Te
+
+Energiekvivalent medelvärde av en varierande A-vägd ljudtrycksnivå under en given tidsperiod Te. Anges i enheten dB. (Exempel på skrivsätt: LpAeq,4 = 85 dB, om exponeringstiden är 4 timmar).
+
+Gränsvärde
+
+Värde som inte får överskridas.
+
+Insatsvärde för buller
+
+Värde som innebär krav på insatser om det uppnås eller överskrids.
+
+Ljudtrycksnivå, Lp
+
+Logaritmiskt mått på ljudets styrka baserat på ljudtrycket i förhållande till referensvärdet 20 µPa (mikropascal). Anges i enheten dB. (Exempel på skrivsätt: Lp = 85 dB).
+
+Maximal A-vägd ljudtrycksnivå, LpAFmax
+
+Maximal A-vägd ljudtrycksnivå bestämd med tidsvägningen ”F” (Fast) enligt standard SS-EN 61672–1:2014 Elektroakustik – Ljudnivåmätare – Del 1: Specifikationer. Utgåva 2.
+
+Ototoxiska ämnen
+
+Kemiska ämnen som vid inandning eller hudexponering kan skada eller förändra innerörats eller hörselnervens funktion eller struktur och därigenom orsaka akut eller kronisk hörselnedsättning eller balansstörning.
+
+Toppvärde, LpCpeak
+
+Maximal C-vägd momentan ljudtrycksnivå under mätperioden med inställningen ”peak” på instrumentet.
+
+Visa hela tabellen
+
+### 4 § – Exponeringsvärden
+
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-2) gäller insatsvärdena och gränsvärdena i tabellerna 1 och 2.
+
+Tabell 1 och 2 anger insatsvärden och gränsvärden för buller utifrån risken för hörselskada.
+
+Tabell 1. Insatsvärden för buller – risk för hörselskada. Typ av exponeringsmått
+
+Undre insatsvärden
+
+[dB]
+
+Övre insatsvärden
+
+[dB]
+
+Daglig bullerexponeringsnivå LEX,8h
+
+80
+
+85
+
+Maximal A-vägd ljudtrycksnivå LpAFmax
+
+- 115
+
+Toppvärde LpCpeak
+
+1351
+
+1351
+
+Visa hela tabellen1 Exponeringsvärdet ska inte tillämpas vid skjutning eller sprängning inom Försvarsmakten.
+
+Vid tillämpning av insatsvärdena i tabell 1 ska arbetsgivaren inte ta hänsyn till om arbetstagarna använder hörselskydd.
+
+Tabell 2. Gränsvärden för buller – risk för hörselskada. Typ av exponeringsmått
+
+Gränsvärden
+
+[dB]
+
+Daglig bullerexponeringsnivå LEX,8h
+
+85
+
+Maximal A-vägd ljudtrycksnivå LpAFmax
+
+115
+
+Toppvärde LpCpeak
+
+1351
+
+Visa hela tabellen1 Exponeringsvärdet ska inte tillämpas vid skjutning eller sprängning inom Försvarsmakten.
+
+Vid tillämpning av gränsvärdena i tabell 2 ska arbetsgivaren ta hänsyn till dämpningen hos hörselskydden när man bestämmer bullerexponeringen, i de fall arbetstagarna använder hörselskydd.
+
+> _Allmänna råd_
+
+> En metod för bestämning av bullerexponering finns i standarden SS-EN ISO 9612:2009. Akustik – Bestämning av bullerexponering i arbetsmiljön – Teknisk metod (ISO 9612:2009). Utgåva 1.
+
+> Boverket har bestämmelser och vägledningar om ljud i vissa arbetslokaler. Folkhälsomyndigheten har vägledningar om buller i lokaler för undervisning, vård eller annat omhändertagande och ger rekommendationer om buller inomhus.
+
+### 5 § – Undersökning och riskbedömning
+
+Vid undersökning och riskbedömning av exponering för buller ska arbetsgivaren särskilt uppmärksamma följande:
+
+Exponeringens nivå, typ och varaktighet, inklusive all exponering för impulsbuller.
+
+Insatsvärden och gränsvärden enligt [4 §](#4-exponeringsvärden) tabellerna 1 och 2.
+
+Negativa effekter på hälsa och säkerhet för arbetstagare som kan vara särskilt känsliga för buller.
+
+Negativa effekter på hälsa och säkerhet som beror på samverkan mellan buller och arbete med ototoxiska ämnen eller mellan buller och vibrationer, så långt det är genomförbart.
+
+Indirekta negativa effekter på hälsa och säkerhet, till följd av att buller maskerar varningssignaler eller andra ljud som behöver uppmärksammas för att minska risken för olycksfall.
+
+Tillverkarnas information om buller från arbetsutrustning.
+
+Om det finns alternativ utrustning som ger mindre buller.
+
+Om arbetstagarna är exponerade för buller på arbetsplatsen utanför arbetstid.
+
+Resultat från hörselundersökningar av arbetstagarna sysselsatta i verksamheten och, om det är möjligt, publicerade resultat från andra hörselundersökningar.
+
+Om arbetstagarna har tillgång till hörselskydd med lämpliga dämpningsegenskaper.
+
+Bestämmelser om bullerexponering för gravida arbetstagare finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar, i kapitlet om gravida, nyförlösta och ammande arbetstagare.
+
+> _Allmänna råd_
+
+> Situationer när arbetstagarna är exponerade för buller på arbetsplatsen utanför arbetstid kan vara raster, vila och andra tillfällen då arbetstagarna inte kan lämna arbetsplatsen.
+
+### 6 §
+
+Arbetsgivaren ska bedöma bullerexponeringen och, i den omfattning som behövs, utföra mätningar för att klarlägga om exponeringsvärdena i [4 §](#4-exponeringsvärden) tabellerna 1 och 2 uppnås eller överskrids. Mätningar ska planeras och genomföras med lämpliga intervall.
+
+Vid mätning ska arbetsgivaren särskilt uppmärksamma följande:
+
+De metoder och den utrustning som används ska vara anpassade till de aktuella förhållandena. Arbetsgivaren ska ta särskild hänsyn till
+
+egenskaperna hos det buller som ska mätas,
+
+exponeringens varaktighet,
+
+miljöfaktorer, och
+
+mätutrustningens specifika egenskaper.
+
+Metoderna och utrustningen ska göra det möjligt att bestämma parametrarna i [4 §](#4-exponeringsvärden) tabellerna 1 och 2. Det ska gå att avgöra om värdena i [4 §](#4-exponeringsvärden) tabellerna 1 och 2 har uppnåtts eller överskridits.
+
+Metoderna kan omfatta stickprovsundersökningar. De ska då vara representativa för en arbetstagares personliga exponering.
+
+Vid bedömning av de uppmätta värdena ska hänsyn tas till mätosäkerheter enligt praxis.
+
+### 7 § – Åtgärder
+
+Om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, ska arbetsgivaren utreda orsaken och vidta åtgärder för att minska exponeringen. När arbetsgivaren väljer åtgärder ska åtgärderna i [10 §](#10) särskilt övervägas.
+
+### 8 §
+
+Arbetstagarna får inte exponeras för buller som överskrider något av gränsvärdena i [4 §](#4-exponeringsvärden) tabell 2. Om detta ändå sker ska arbetsgivaren
+
+vidta omedelbara åtgärder för att minska exponeringen så att den ligger under gränsvärdena,
+
+utreda orsakerna till att gränsvärdena har överskridits, och
+
+vidta åtgärder så att gränsvärdena inte överskrids i fortsättningen.
+
+### 9 §
+
+Om arbetstagarna i en bullrande verksamhet av säkerhetsskäl behöver meddela sig med andra, ska arbetsgivaren vidta åtgärder så att detta är möjligt.
+
+### 10 §
+
+Arbetsgivaren ska planera, bedriva och följa upp arbetet så att bullerexponeringen minskas genom att bullret elimineras vid källan eller sänks till lägsta möjliga nivå. Hänsyn ska då tas till den tekniska utvecklingen. Arbetsgivaren ska särskilt överväga följande åtgärder:
+
+Ändra arbetsmetoder så att arbetstagarnas exponering för buller minskas.
+
+Välja arbetsutrustning som ger en så låg ljudnivå som möjligt.
+
+Vidta bullerbegränsande åtgärder på maskiner och andra bullerkällor.
+
+Ändra utformningen och planeringen av arbetsplatsen.
+
+Ge arbetstagarna information och utbildning, så att de vet hur arbetsutrustningen ska användas och därmed har möjlighet att minska sin exponering för buller.
+
+Vidta tekniska åtgärder för att minska bullret
+
+för luftburet buller, med skärmar, inbyggnader eller ljudabsorbenter i tak och på väggar, och
+
+för strukturburet buller, genom dämpning eller isolering.
+
+Ha lämpliga underhållsprogram för arbetsutrustning, arbetsplatser och kringutrustning.
+
+Organisera arbetet så att bullerexponeringen minskar, genom att
+
+begränsa tiden eller intensiteten för arbetstagarnas exponering, och
+
+anpassa arbetstiderna så att viloperioderna blir tillräckliga.
+
+Bestämmelser om utformning av arbetsplatser finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
+
+> _Allmänna råd_
+
+> Hörselskydd kan godtas som åtgärd för att begränsa risken för hörselskada till exempel vid följande situationer:
+
+> I verksamheter där man inte rimligen kan genomföra tekniska eller organisatoriska åtgärder för att sänka exponeringen för buller till en riskfri nivå.
+
+> Arbete under en begränsad övergångstid medan man genomför permanenta åtgärder för att minska bullerexponeringen.
+
+> Arbete som medför exponering för buller under korta, sällan förekommande tillfällen och där det är svårt att genomföra andra bullerbegränsande åtgärder.
+
+### 11 §
+
+Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder), [9](#9), [10](#10) och [12 §§](#12) för de arbetstagare som kan vara särskilt känsliga för buller.
+
+> _Allmänna råd_
+
+> Arbetstagare som kan vara särskilt känsliga för buller är de som är gravida eller har någon form av hörselnedsättning.
+
+### 12 §
+
+Arbetsgivaren ska se till att det finns en påbudsskylt Hörselskydd måste användas, utformad i enlighet med bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser, på de arbetsplatser där arbetstagarna kan exponeras för buller som är lika med eller överstiger något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1. Där det är möjligt ska arbetsgivaren avgränsa dessa områden och begränsa tillträdet till dem.
+
+Hörselskydd
+
+### 13 §
+
+Om de risker som uppstår vid bullerexponering inte kan förebyggas på annat sätt ska arbetsgivaren se till att berörda arbetstagare
+
+får tillgång till hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, eller
+
+får tillgång till och använder hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1.
+
+Arbetsgivaren ska kontrollera att de åtgärder som vidtas är effektiva.
+
+Om användningen av hörselskydd medför risk för olyckor, ska arbetsgivaren vidta åtgärder för att minska risken.
+
+Arbetsgivaren ska ge berörda arbetstagare möjlighet att medverka vid val av hörselskydd.
+
+> _Allmänna råd_
+
+> Olycksrisker på grund av hörselskydd kan bero på att arbetstagarna inte hör varningssignaler eller inte hör att en fara finns i närheten.
+
+### 14 § – Kunskaper
+
+Om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, ska arbetsgivaren se till att arbetstagarna får information och utbildning om de risker som uppkommer i samband med exponering för buller.
+
+Vid information och utbildning ska arbetsgivaren särskilt uppmärksamma följande:
+
+Vad riskerna med bullerexponering kan innebära.
+
+Vilka åtgärder som har vidtagits, eller kommer att vidtas, enligt [detta kapitel](/lagstiftning/afs-2023-10/kap-2) för att eliminera eller minimera riskerna till följd av buller.
+
+Gränsvärdena och insatsvärdena i [4 §](#4-exponeringsvärden).
+
+Resultaten av bedömningar och mätningar enligt [5](#5-undersökning-och-riskbedömning) och [6 §§](#6) samt beskrivning av deras innebörd och möjliga risker.
+
+Korrekt användning av hörselskydd.
+
+Att arbetstagarna har skyldighet att bära hörselskydd om de övre insatsvärdena uppnås eller överskrids.
+
+Nyttan med, samt metoder för, att upptäcka och rapportera tecken på hörselskador.
+
+När arbetstagarna har rätt till hörselundersökningar, och vad dessa syftar till enligt [15 §](#15-hörselundersökning).
+
+Säkra arbetsrutiner för att minimera exponeringen för buller.
+
+### 15 § – Hörselundersökning
+
+Arbetsgivaren ska erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1. Undersökningen ska utföras av läkare eller av annan person som har lämpliga kvalifikationer och då på en läkares ansvar.
+
+Syftet med hörselundersökningen är att tidigt upptäcka hörselnedsättningar på grund av buller och att bevara hörseln.
+
+Tiden mellan hörselundersökningarna ska anpassas till rådande exponeringsförhållanden.
+
+Arbetsgivaren ska även erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, om riskbedömningen och bestämningen av arbetstagarnas bullerexponering enligt [5](#5-undersökning-och-riskbedömning) och [6 §§](#6) visar att det finns risk för hörselskada.
+
+### 16 §
+
+Arbetsgivaren ska ta del av resultaten från hörselundersökningarna enligt [15 §](#15-hörselundersökning) om det inte hindras av sekretess eller tystnadsplikt.
+
+### 17 §
+
+Om en hörselundersökning enligt [15 §](#15-hörselundersökning) visar att en arbetstagare har drabbats av en hörselskada, ska arbetsgivaren se till att en läkare eller, om läkaren anser det nödvändigt, en specialist bedömer om det är sannolikt att skadan beror på exponering för buller på arbetsplatsen. I så fall ska arbetsgivaren
+
+se till att arbetstagaren informeras om resultatet, av en läkare eller en annan person med lämpliga kvalifikationer,
+
+revidera den befintliga undersökningen och riskbedömningen,
+
+följa upp och revidera de åtgärder som vidtagits för att minska riskerna enligt [7](#7-åtgärder), [9](#9)–[13 §§](#13) och vid behov anlita företagshälsovård eller motsvarande sakkunnig hjälp,
+
+överväga möjligheten att erbjuda arbetstagaren en annan sysselsättning där det inte finns risk för ytterligare skadlig exponering, och
+
+erbjuda alla andra arbetstagare, som har exponerats på liknande sätt, regelbundna hörselundersökningar.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

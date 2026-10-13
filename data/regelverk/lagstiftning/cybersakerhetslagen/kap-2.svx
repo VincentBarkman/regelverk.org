@@ -1,0 +1,136 @@
+---
+'source': 'cybersakerhetslagen'
+'ref': '2 kap.'
+'title': '2 kap. – Verksamhetsutövares skyldigheter'
+'kind': 'chapter'
+'description': 'Cybersäkerhetslagen, 2 kap..'
+'designation': 'Cybersäkerhetslagen 2 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/#K2'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Sådana verksamhetsutövare som saknar etablering inom Europeiska ekonomiska samarbetsområdet (EES), men som i övrigt uppfyller kraven i [1 kap. 7 §](/lagstiftning/cybersakerhetslagen/kap-1#7) och erbjuder tjänster i Sverige, ska utse en företrädare med etablering i Sverige eller i något annat land inom EES där tjänsterna erbjuds.
+
+### 2 §
+
+Verksamhetsutövare ska så snart det kan ske anmäla sig till den myndighet som regeringen bestämmer.
+
+Om de förhållanden som har redovisats i en anmälan har ändrats ska verksamhetsutövare anmäla förändringen så snart det kan ske, dock senast 14 dagar efter det att förändringen ägde rum.
+
+### 3 §
+
+Verksamhetsutövare ska vidta lämpliga och proportionella tekniska, driftsrelaterade och organisatoriska åtgärder för att skydda nätverks- och informationssystem som de använder för sin verksamhet eller för att tillhandahålla sina tjänster och systemens fysiska miljö mot incidenter
+
+(säkerhetsåtgärder).
+
+Säkerhetsåtgärderna ska utgå från ett allriskperspektiv och säkerställa en nivå på säkerheten i nätverks- och informationssystemen som är lämplig i förhållande till risken. Säkerhetsåtgärderna ska åtminstone avse
+
+1\. strategier för riskanalys och för nätverks- och informationssystemens säkerhet,
+
+2\. incidenthantering,
+
+3\. kontinuitetshantering och krishantering,
+
+4\. säkerhet i leveranskedjan,
+
+5\. säkerhet vid förvärv, utveckling och underhåll av nätverks- och informationssystem,
+
+6\. strategier och förfaranden för att bedöma effektiviteten i säkerhetsåtgärderna,
+
+7\. grundläggande praxis för cyberhygien och utbildning i cybersäkerhet,
+
+8\. strategier och förfaranden för användning av kryptografi samt, vid behov, kryptering,
+
+9\. personalsäkerhet, strategier för åtkomstkontroll och tillgångsförvaltning, och
+
+10\. vid behov användning av lösningar för autentisering, säkrade kommunikationer och säkrade nödkommunikationssystem.
+
+### 4 §
+
+De personer som ingår i ledningen för en verksamhetsutövare ska genomgå utbildning om säkerhetsåtgärder.
+
+### 5 §
+
+Verksamhetsutövare ska upplysa den myndighet som regeringen bestämmer om en betydande incident så snart det kan ske, dock senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten.
+
+En incident ska anses vara betydande om den har orsakat eller kan orsaka allvarlig driftsstörning för den erbjudna tjänsten eller ekonomisk skada för den berörda verksamhetsutövaren, eller om den har påverkat eller kan påverka andra fysiska eller juridiska personer genom att vålla betydande skada.
+
+### 6 §
+
+Verksamhetsutövare ska till samma myndighet som avses i
+
+[5 §](#5) göra en incidentanmälan om den betydande incidenten så snart det kan ske. Verksamhetsutövare som tillhandahåller betrodda tjänster ska göra anmälan senast 24 timmar efter det att verksamhetsutövaren har fått kännedom om incidenten och övriga verksamhetsutövare senast 72 timmar efter sådan kännedom.
+
+### 7 §
+
+På begäran av samma myndighet som avses i [5 §](#5) ska verksamhetsutövare lämna en delrapport med relevanta statusuppdateringar för den betydande incidenten.
+
+### 8 §
+
+Senast en månad efter incidentanmälan enligt [6 §](#6) ska verksamhetsutövare lämna en slutrapport till samma myndighet. Om den betydande incidenten fortfarande är pågående ska i stället en lägesrapport lämnas vid denna tidpunkt och därefter en slutrapport inom en månad efter det att incidenten har hanterats.
+
+### 9 §
+
+Om det är lämpligt ska verksamhetsutövare så snart det kan ske informera mottagarna av deras tjänster om en betydande incident som sannolikt inverkar negativt på tillhandahållandet av tjänsterna.
+
+### 10 §
+
+Vid ett betydande cyberhot ska verksamhetsutövare så snart det kan ske informera mottagarna av deras tjänster som kan påverkas av hotet om skydds- och motåtgärder som mottagarna kan vidta. Om det är lämpligt ska verksamhetsutövare även informera om själva hotet.
+
+Ett cyberhot ska anses vara betydande om det, på grund av dess tekniska egenskaper, kan antas ha potential att ha en allvarlig påverkan på en verksamhetsutövares nätverks- och informationssystem eller användarna av verksamhetsutövarens tjänster genom att vålla betydande skada.
+
+### 11 §
+
+En verksamhetsutövare som är en registreringsenhet för toppdomäner eller som erbjuder domännamnsregistreringstjänster ska föra ett register över tilldelade domännamn under toppdomänen och löpande upprätta säkerhetskopior av registeruppgifterna.
+
+Registret ska innehålla
+
+1\. domännamnet,
+
+2\. namnet på domännamnsinnehavaren och dennes telefonnummer och e-postadress,
+
+3\. namnet på den som tekniskt administrerar domännamnet och dennes telefonnummer och e-postadress, och
+
+4\. registreringsdatum.
+
+### 12 §
+
+Uppgifterna i det register som avses i [11 §](#11) ska kunna hämtas utan avgift via internet. Personuppgifter får dock göras tillgängliga på internet endast om den registrerade har samtyckt till det.
+
+Därutöver ska uppgifter lämnas ut till den som gör en lagligen grundad och motiverad begäran. Uppgifterna ska då lämnas ut skyndsamt och senast 72 timmar från mottagandet av begäran.
+
+En sådan verksamhetsutövare som avses i [11 §](#11) är personuppgiftsansvarig för behandling av personuppgifter i registret.
+
+### 13 §
+
+De skyldigheter som följer av [11](#11) och [12 §§](#12) gäller inte för den som är domänadministratör enligt [lagen (2006:24)](https://rkrattsbaser.gov.se/sfst?bet=2006%3A24) om nationella toppdomäner för Sverige på internet. För en sådan domänadministratör gäller skyldighet att föra register enligt
+
+[6 §](https://rkrattsbaser.gov.se/sfst?bet=2006%3A24) den lagen.
+
+### 14 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om säkerhetsåtgärder enligt [3 §](#3) och om vad som utgör en betydande incident enligt
+
+[5 §](#5) andra stycket.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om utbildning, incidentrapportering, informationsskyldighet och register enligt [4](#4)-[12 §§](#12).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

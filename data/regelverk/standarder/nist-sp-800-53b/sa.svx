@@ -1,0 +1,148 @@
+---
+title: SA – System and Services Acquisition
+description: NIST SP 800-53B – SA – System and Services Acquisition
+source: nist-sp-800-53b
+ref: SA
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### SA-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] system and services acquisition policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the system and services acquisition policy and the associated system and services acquisition controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the system and services acquisition policy and procedures; and
+- c. Review and update the current system and services acquisition:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### SA-2 – Allocation of Resources
+
+- a. Determine the high-level information security and privacy requirements for the system or system service in mission and business process planning;
+- b. Determine, document, and allocate the resources required to protect the system or system service as part of the organizational capital planning and investment control process; and
+- c. Establish a discrete line item for information security and privacy in organizational programming and budgeting documentation.
+
+### SA-3 – System Development Life Cycle
+
+- a. Acquire, develop, and manage the system using [organization-defined system-development life cycle] that incorporates information security and privacy considerations;
+- b. Define and document information security and privacy roles and responsibilities throughout the system development life cycle;
+- c. Identify individuals having information security and privacy roles and responsibilities; and
+- d. Integrate the organizational information security and privacy risk management process into system development life cycle activities.
+
+### SA-4 – Acquisition Process
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using [standardized contract language or  [organization-defined contract language] ] in the acquisition contract for the system, system component, or system service:
+- a. Security and privacy functional requirements;
+- b. Strength of mechanism requirements;
+- c. Security and privacy assurance requirements;
+- d. Controls needed to satisfy the security and privacy requirements.
+- e. Security and privacy documentation requirements;
+- f. Requirements for protecting security and privacy documentation;
+- g. Description of the system development environment and environment in which the system is intended to operate;
+- h. Allocation of responsibility or identification of parties responsible for information security, privacy, and supply chain risk management; and
+- i. Acceptance criteria.
+
+#### SA-4(1) – Functional Properties of Controls
+
+Require the developer of the system, system component, or system service to provide a description of the functional properties of the controls to be implemented.
+
+#### SA-4(2) – Design and Implementation Information for Controls
+
+Require the developer of the system, system component, or system service to provide design and implementation information for the controls that includes: [security-relevant external system interfaces or high-level design or low-level design or source code or hardware schematics or  [organization-defined design and implementation information] ] at [organization-defined level of detail].
+
+#### SA-4(9) – Functions, Ports, Protocols, and Services in Use
+
+Require the developer of the system, system component, or system service to identify the functions, ports, protocols, and services intended for organizational use.
+
+#### SA-4(10) – Use of Approved PIV Products
+
+Employ only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational systems.
+
+### SA-5 – System Documentation
+
+- a. Obtain or develop administrator documentation for the system, system component, or system service that describes:
+  - 1. Secure configuration, installation, and operation of the system, component, or service;
+  - 2. Effective use and maintenance of security and privacy functions and mechanisms; and
+  - 3. Known vulnerabilities regarding configuration and use of administrative or privileged functions;
+- b. Obtain or develop user documentation for the system, system component, or system service that describes:
+  - 1. User-accessible security and privacy functions and mechanisms and how to effectively use those functions and mechanisms;
+  - 2. Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner and protect individual privacy; and
+  - 3. User responsibilities in maintaining the security of the system, component, or service and privacy of individuals;
+- c. Document attempts to obtain system, system component, or system service documentation when such documentation is either unavailable or nonexistent and take [organization-defined actions] in response; and
+- d. Distribute documentation to [organization-defined personnel or roles].
+
+### SA-8 – Security and Privacy Engineering Principles
+
+Apply the following systems security and privacy engineering principles in the specification, design, development, implementation, and modification of the system and system components: [organization-defined systems security and privacy engineering principles].
+
+### SA-9 – External System Services
+
+- a. Require that providers of external system services comply with organizational security and privacy requirements and employ the following controls: [organization-defined controls];
+- b. Define and document organizational oversight and user roles and responsibilities with regard to external system services; and
+- c. Employ the following processes, methods, and techniques to monitor control compliance by external service providers on an ongoing basis: [organization-defined processes, methods, and techniques].
+
+#### SA-9(2) – Identification of Functions, Ports, Protocols, and Services
+
+Require providers of the following external system services to identify the functions, ports, protocols, and other services required for the use of such services: [organization-defined external system services].
+
+### SA-10 – Developer Configuration Management
+
+Require the developer of the system, system component, or system service to:
+- a. Perform configuration management during system, component, or service [design or development or implementation or operation or disposal];
+- b. Document, manage, and control the integrity of changes to [organization-defined configuration items];
+- c. Implement only organization-approved changes to the system, component, or service;
+- d. Document approved changes to the system, component, or service and the potential security and privacy impacts of such changes; and
+- e. Track security flaws and flaw resolution within the system, component, or service and report findings to [organization-defined personnel].
+
+### SA-11 – Developer Testing and Evaluation
+
+Require the developer of the system, system component, or system service, at all post-design stages of the system development life cycle, to:
+- a. Develop and implement a plan for ongoing security and privacy control assessments;
+- b. Perform [unit or integration or system or regression] testing/evaluation [organization-defined frequency to conduct] at [organization-defined depth and coverage];
+- c. Produce evidence of the execution of the assessment plan and the results of the testing and evaluation;
+- d. Implement a verifiable flaw remediation process; and
+- e. Correct flaws identified during testing and evaluation.
+
+### SA-15 – Development Process, Standards, and Tools
+
+- a. Require the developer of the system, system component, or system service to follow a documented development process that:
+  - 1. Explicitly addresses security and privacy requirements;
+  - 2. Identifies the standards and tools used in the development process;
+  - 3. Documents the specific tool options and tool configurations used in the development process; and
+  - 4. Documents, manages, and ensures the integrity of changes to the process and/or tools used in development; and
+- b. Review the development process, standards, tools, tool options, and tool configurations [organization-defined frequency] to determine if the process, standards, tools, tool options and tool configurations selected and employed can satisfy the following security and privacy requirements: [organization-defined security and privacy requirements].
+
+#### SA-15(3) – Criticality Analysis
+
+Require the developer of the system, system component, or system service to perform a criticality analysis:
+- (a) At the following decision points in the system development life cycle: [organization-defined decision points] ; and
+- (b) At the following level of rigor: [organization-defined breadth and depth of criticality analysis].
+
+### SA-22 – Unsupported System Components
+
+- a. Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer; or
+- b. Provide the following options for alternative sources for continued support for unsupported components [in-house support or  [organization-defined support from external providers] ].
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

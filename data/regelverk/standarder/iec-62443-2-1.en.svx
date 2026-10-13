@@ -1,0 +1,26 @@
+---
+title: IEC 62443-2-1
+description: Security program requirements for industrial automation and control
+  system asset owners.
+designation: IEC 62443-2-1:2024
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+url: https://webstore.iec.ch/en/publication/62883
+published: 2024-08-07
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Part 2-1 specifies the security programme an asset owner must maintain for its IACS environment. The second edition (2024) structures requirements as SPE elements and introduces a maturity model.
+
+Official source: [IEC 62443-2-1:2024](https://webstore.iec.ch/en/publication/62883).
+<!-- scan-standards:end -->

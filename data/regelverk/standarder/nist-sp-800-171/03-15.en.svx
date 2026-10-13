@@ -1,0 +1,55 @@
+---
+title: 03.15 – Planning
+description: NIST SP 800-171 Rev. 3 – 03.15 – Planning
+source: nist-sp-800-171
+ref: 03-15
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### 03.15.01 – Policy and Procedures
+
+- SR-03.15.01.a Develop, document, and disseminate to organizational personnel or roles the policies and procedures needed to satisfy the security requirements for the protection of CUI.
+- SR-03.15.01.b Review and update policies and procedures [organization-defined frequency].
+
+### 03.15.02 – System Security Plan
+
+- SR-03.15.02.a Develop a system security plan that:
+  - SR-03.15.02.a.01 Defines the constituent system components;
+  - SR-03.15.02.a.02 Identifies the information types processed, stored, and transmitted by the system;
+  - SR-03.15.02.a.03 Describes specific threats to the system that are of concern to the organization;
+  - SR-03.15.02.a.04 Describes the operational environment for the system and any dependencies on or connections to other systems or system components;
+  - SR-03.15.02.a.05 Provides an overview of the security requirements for the system;
+  - SR-03.15.02.a.06 Describes the safeguards in place or planned for meeting the security requirements;
+  - SR-03.15.02.a.07 Identifies individuals that fulfill system roles and responsibilities; and
+  - SR-03.15.02.a.08 Includes other relevant information necessary for the protection of CUI.
+- SR-03.15.02.b Review and update the system security plan [organization-defined frequency].
+- SR-03.15.02.c Protect the system security plan from unauthorized disclosure.
+
+### 03.15.03 – Rules of Behavior
+
+- SR-03.15.03.a Establish rules that describe the responsibilities and expected behavior for system usage and protecting CUI.
+- SR-03.15.03.b Provide rules to individuals who require access to the system.
+- SR-03.15.03.c Receive a documented acknowledgement from individuals indicating that they have read, understand, and agree to abide by the rules of behavior before authorizing access to CUI and the system.
+- SR-03.15.03.d Review and update the rules of behavior [organization-defined frequency].
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

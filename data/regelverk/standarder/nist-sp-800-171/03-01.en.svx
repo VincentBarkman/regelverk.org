@@ -1,0 +1,160 @@
+---
+title: 03.01 – Access Control
+description: NIST SP 800-171 Rev. 3 – 03.01 – Access Control
+source: nist-sp-800-171
+ref: 03-01
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### 03.01.01 – Account Management
+
+- SR-03.01.01.a Define the types of system accounts allowed and prohibited.
+- SR-03.01.01.b Create, enable, modify, disable, and remove system accounts in accordance with policy, procedures, prerequisites, and criteria.
+- SR-03.01.01.c Specify:
+  - SR-03.01.01.c.01 Authorized users of the system,
+  - SR-03.01.01.c.02 Group and role membership, and
+  - SR-03.01.01.c.03 Access authorizations (i.e., privileges) for each account.
+- SR-03.01.01.d Authorize access to the system based on:
+  - SR-03.01.01.d.01 A valid access authorization and
+  - SR-03.01.01.d.02 Intended system usage.
+- SR-03.01.01.e Monitor the use of system accounts.
+- SR-03.01.01.f Disable system accounts when:
+  - SR-03.01.01.f.01 The accounts have expired,
+  - SR-03.01.01.f.02 The accounts have been inactive for [organization-defined time period],
+  - SR-03.01.01.f.03 The accounts are no longer associated with a user or individual,
+  - SR-03.01.01.f.04 The accounts are in violation of organizational policy, or
+  - SR-03.01.01.f.05 Significant risks associated with individuals are discovered.
+- SR-03.01.01.g Notify account managers and designated personnel or roles within:
+  - SR-03.01.01.g.01 [organization-defined time period] when accounts are no longer required.
+  - SR-03.01.01.g.02 [organization-defined time period] when users are terminated or transferred.
+  - SR-03.01.01.g.03 [organization-defined time period] when system usage or the need-to-know changes for an individual.
+- SR-03.01.01.h Require that users log out of the system after [organization-defined time period] of expected inactivity or when [organization-defined circumstances].
+
+### 03.01.02 – Access Enforcement
+
+Enforce approved authorizations for logical access to CUI and system resources in accordance with applicable access control policies.
+
+### 03.01.03 – Information Flow Enforcement
+
+Enforce approved authorizations for controlling the flow of CUI within the system and between connected systems.
+
+### 03.01.04 – Separation of Duties
+
+- SR-03.01.04.a Identify the duties of individuals requiring separation.
+- SR-03.01.04.b Define system access authorizations to support separation of duties.
+
+### 03.01.05 – Least Privilege
+
+- SR-03.01.05.a Allow only authorized system access for users (or processes acting on behalf of users) that is necessary to accomplish assigned organizational tasks.
+- SR-03.01.05.b Authorize access to [organization-defined security functions] and [organization-defined security-relevant information].
+- SR-03.01.05.c Review the privileges assigned to roles or classes of users [organization-defined frequency] to validate the need for such privileges.
+- SR-03.01.05.d Reassign or remove privileges, as necessary.
+
+### 03.01.06 – Least Privilege – Privileged Accounts
+
+- SR-03.01.06.a Restrict privileged accounts on the system to [organization-defined personnel or roles]..
+- SR-03.01.06.b Require that users (or roles) with privileged accounts use non-privileged accounts when accessing non-security functions or non-security information.
+
+### 03.01.07 – Least Privilege – Privileged Functions
+
+- SR-03.01.07.a Prevent non-privileged users from executing privileged functions.
+- SR-03.01.07.b Log the execution of privileged functions.
+
+### 03.01.08 – Unsuccessful Logon Attempts
+
+- SR-03.01.08.a Enforce a limit of [organization-defined number] consecutive invalid logon attempts by a user during a [organization-defined time period].
+- SR-03.01.08.b Automatically [lock the account or node for an [organization-defined time period] or lock the account or node until released by an administrator or delay next logon prompt or notify system administrator or take other action] when the maximum number of unsuccessful attempts is exceeded.
+
+### 03.01.09 – System Use Notification
+
+Display a system use notification message with privacy and security notices consistent with applicable CUI rules before granting access to the system.
+
+### 03.01.10 – Device Lock
+
+- SR-03.01.10.a Prevent access to the system by [initiating a device lock after [organization-defined time period] of inactivity or requiring the user to initiate a device lock before leaving the system unattended].
+- SR-03.01.10.b Retain the device lock until the user reestablishes access using established identification and authentication procedures.
+- SR-03.01.10.c Conceal, via the device lock, information previously visible on the display with a publicly viewable image.
+
+### 03.01.11 – Session Termination
+
+Terminate a user session automatically after [organization-defined conditions or trigger events].
+
+### 03.01.12 – Remote Access
+
+- SR-03.01.12.a Establish usage restrictions, configuration requirements, and connection requirements for each type of allowable remote system access.
+- SR-03.01.12.b Authorize each type of remote system access prior to establishing such connections.
+- SR-03.01.12.c Route remote access to the system through authorized and managed access control points.
+- SR-03.01.12.d Authorize the remote execution of privileged commands and remote access to security-relevant information.
+
+### SP_800_171_03.01.13 – 03.01.13
+
+
+
+### SP_800_171_03.01.14 – 03.01.14
+
+
+
+### SP_800_171_03.01.15 – 03.01.15
+
+
+
+### 03.01.16 – Wireless Access
+
+- SR-03.01.16.a Establish usage restrictions, configuration requirements, and connection requirements for each type of wireless access to the system.
+- SR-03.01.16.b Authorize each type of wireless access to the system prior to establishing such connections.
+- SR-03.01.16.c Disable, when not intended for use, wireless networking capabilities prior to issuance and deployment.
+- SR-03.01.16.d Protect wireless access to the system using authentication and encryption.
+
+### SP_800_171_03.01.17 – 03.01.17
+
+
+
+### 03.01.18 – Access Control for Mobile Devices
+
+- SR-03.01.18.a Establish usage restrictions, configuration requirements, and connection requirements for mobile devices.
+- SR-03.01.18.b Authorize the connection of mobile devices to the system.
+- SR-03.01.18.c Implement full-device or container-based encryption to protect the confidentiality of CUI on mobile devices.
+
+### SP_800_171_03.01.19 – 03.01.19
+
+
+
+### 03.01.20 – Use of External Systems
+
+- SR-03.01.20.a Prohibit the use of external systems unless the systems are specifically authorized.
+- SR-03.01.20.b Establish the following security requirements to be satisfied on external systems prior to allowing use of or access to those systems by authorized individuals: [organization-defined security requirements].
+- SR-03.01.20.c Permit authorized individuals to use external systems to access the organizational system or to process, store, or transmit CUI only after:
+  - SR-03.01.20.c.01 Verifying that the security requirements on the external systems as specified in the organization’s system security plans have been satisfied and
+  - SR-03.01.20.c.02 Retaining approved system connection or processing agreements with the organizational entities hosting the external systems.
+- SR-03.01.20.d Restrict the use of organization-controlled portable storage devices by authorized individuals on external systems.
+
+### SP_800_171_03.01.21 – 03.01.21
+
+
+
+### 03.01.22 – Publicly Accessible Content
+
+- SR-03.01.22.a Train authorized individuals to ensure that publicly accessible information does not contain CUI.
+- SR-03.01.22.b Review the content on publicly accessible systems for CUI and remove such information, if discovered.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

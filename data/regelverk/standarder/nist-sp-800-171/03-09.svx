@@ -1,0 +1,44 @@
+---
+title: 03.09 – Personnel Security
+description: NIST SP 800-171 Rev. 3 – 03.09 – Personnel Security
+source: nist-sp-800-171
+ref: 03-09
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### 03.09.01 – Personnel Screening
+
+- SR-03.09.01.a Screen individuals prior to authorizing access to the system.
+- SR-03.09.01.b Rescreen individuals in accordance with [organization-defined conditions].
+
+### 03.09.02 – Personnel Termination and Transfer
+
+- SR-03.09.02.a When individual employment is terminated:
+  - SR-03.09.02.a.01 Disable system access within [organization-defined time period],
+  - SR-03.09.02.a.02 Terminate or revoke authenticators and credentials associated with the individual, and
+  - SR-03.09.02.a.03 Retrieve security-related system property.
+- SR-03.09.02.b When individuals are reassigned or transferred to other positions in the organization:
+  - SR-03.09.02.b.01 Review and confirm the ongoing operational need for current logical and physical access authorizations to the system and facility, and
+  - SR-03.09.02.b.02 Modify access authorization to correspond with any changes in operational need.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

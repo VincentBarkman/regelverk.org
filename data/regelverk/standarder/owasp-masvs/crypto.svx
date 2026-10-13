@@ -1,0 +1,44 @@
+---
+title: MASVS-CRYPTO – Cryptography
+description: OWASP MASVS 2.1.0 – MASVS-CRYPTO – Cryptography
+source: owasp-masvs
+ref: CRYPTO
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+Cryptography is essential for mobile apps because mobile devices are highly portable and can be easily lost or stolen. This means that an attacker who gains physical access to a device can potentially access all the sensitive data stored on it, including passwords, financial information, and personally identifiable information. Cryptography provides a means of protecting this sensitive data by encrypting it so that it cannot be easily read or accessed by an unauthorized user.
+
+The purpose of the controls in this category is to ensure that the verified app uses cryptography according to industry best practices, which are typically defined in external standards such as [NIST.SP.800-175B](https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final) and [NIST.SP.800-57](https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final). This category also focuses on the management of cryptographic keys throughout their lifecycle, including key generation, storage, and protection. Poor key management can compromise even the strongest cryptography, so it is crucial for developers to follow the recommended best practices to ensure the security of their users' sensitive data.
+
+### MASVS-CRYPTO-1
+
+The app employs current strong cryptography and uses it according to industry best practices.
+
+Cryptography plays an especially important role in securing the user's data - even more so in a mobile environment, where attackers having physical access to the user's device is a likely scenario. This control covers general cryptography best practices, which are typically defined in external standards.
+
+### MASVS-CRYPTO-2
+
+The app performs key management according to industry best practices.
+
+Even the strongest cryptography would be compromised by poor key management. This control covers the management of cryptographic keys throughout their lifecycle, including key generation, storage and protection.
+
+---
+
+© OWASP Foundation, Mobile Application Security Verification Standard 2.1.0. The layout has been adapted; the English requirements have not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml).
+<!-- scan-standards:end -->

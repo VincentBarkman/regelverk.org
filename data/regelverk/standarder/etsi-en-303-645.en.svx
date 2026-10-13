@@ -1,0 +1,30 @@
+---
+title: ETSI EN 303 645
+description: European standard for consumer IoT cybersecurity with baseline
+  security requirements.
+designation: ETSI EN 303 645
+jurisdiction: EU
+status: active
+reviewStatus: auto
+issuer: ETSI
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.etsi.org/deliver/etsi_en/303600_303699/303645/
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+EN 303 645 sets baseline cybersecurity requirements for internet-connected consumer products, such as password handling, vulnerability management and data protection. It underpins several national and European requirement frameworks and is free from ETSI.
+
+Official source: [ETSI EN 303 645](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/).
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+<!-- scan-standards:end -->

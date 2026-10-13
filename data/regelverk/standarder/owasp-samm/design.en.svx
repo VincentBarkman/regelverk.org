@@ -1,0 +1,92 @@
+---
+title: Design
+description: OWASP SAMM 2.2.0 – Design
+source: owasp-samm
+ref: DESIGN
+designation: OWASP SAMM 2.2.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://owaspsamm.org/
+version: 2.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+Design concerns the processes and activities related to how an organization defines goals and creates software within development projects. In general, this will include requirements gathering, high-level architecture specification and detailed design.
+
+### Threat Assessment (TA)
+
+The Threat Assessment (TA) practice focuses on identifying and understanding project-level risks based on the functionality of the software being developed and characteristics of the runtime environment. From details about threats and likely attacks against each project, the organization as a whole operates more effectively through better decisions about prioritization of initiatives for security. Additionally, decisions about risk acceptance are more informed and therefore better aligned with the business.
+
+By starting with simple threat models and building application risk profiles, an organization improves over time. Ultimately, a sophisticated organization would maintain this information in a way that is tightly coupled to the compensating factors and pass-through risks from external entities. This provides greater breadth of understanding for potential downstream impacts from security issues, tradeoffs, or flaws, while keeping a close watch on the organization’s current performance against known threats.
+
+#### Stream A – Application Risk Profile
+
+An application risk profile helps to identify which applications can pose a serious threat to the organization if they were attacked or breached.
+
+- **Level 1:** Perform application risk assessments — A basic assessment of the application risk is performed to understand likelihood and impact of an attack.
+- **Level 2:** Inventory risk profiles — Understand the risk for all applications in the organization by centralizing the risk profile inventory for stakeholders.
+- **Level 3:** Periodic review of risk profiles — Periodically review application risk profiles at regular intervals to ensure accuracy and reflect current state.
+
+#### Stream B – Threat Modeling
+
+Threat modeling is intended to help software development teams understand what risks exist in what is being built, what could go wrong, and how the risks can be mitigated or remediated.
+
+- **Level 1:** Perform basic threat modeling — Perform best-effort, risk-based threat modeling using brainstorming and existing diagrams with simple threat checklists.
+- **Level 2:** Standardize and scale threat modeling — Standardize threat modeling training, processes, and tools to scale across the organization.
+- **Level 3:** Optimize threat modeling — Continuous optimization and automation of your threat modeling methodology.
+
+### Security Requirements (SR)
+
+The Security Requirements (SR) practice focuses on security requirements that are important in the context of secure software. A first type deals with typical software-related requirements, to specify objectives and expectations to protect the service and data at the core of the application. A second type deals with requirements relative to supplier organizations that are part of the development context of the application, in particular for outsourced development. It is important to streamline the expectations in terms of secure development because outsourced development can have a significant impact on the security of the application. The security of 3rd party (technical) libraries is part of the software supply chain stream (see Secure Build), and it is not included in this practice.
+
+#### Stream A – Software Requirements
+
+Software requirements specify objectives and expectations to protect the service and data at the core of the application.
+
+- **Level 1:** Identify security requirements — High-level application security objectives are mapped to functional requirements.
+- **Level 2:** Standardize and integrate security requirements — Structured security requirements are available and utilized by developer teams.
+- **Level 3:** Develop a security requirements framework — Build a requirements framework for product teams to utilize.
+
+#### Stream B – Supplier Security
+
+Supplier security deals with requirements that are relative to supplier organizations within the development context of the application, in particular for outsourced development.
+
+- **Level 1:** Perform vendor assessments — Evaluate the supplier based on organizational security requirements.
+- **Level 2:** Discuss security responsibilities with suppliers — Build security into supplier agreements in order to ensure compliance with organizational requirements.
+- **Level 3:** Align security methodology with suppliers — Ensure proper security coverage for external suppliers by providing clear objectives.
+
+### Secure Architecture (SA)
+
+The Secure Architecture (SA) practice focuses on the security linked to components and technology you deal with during the architectural design of your software. Secure Architecture Design looks at the selection and composition of components that form the foundation of your solution, focusing on its security properties. Technology Management looks at the security of supporting technologies used during development, deployment and operations, such as development stacks and tooling, deployment tooling, and operating systems and tooling.
+
+#### Stream A – Architecture Design
+
+The design of a software architecture can significantly impact the security posture of software, and the use of good security practices will improve the overall design.
+
+- **Level 1:** Adhere to basic security principles — Teams are trained on the use of basic security principles during design.
+- **Level 2:** Provide preferred security solutions — Establish common design patterns and security solutions for adoption.
+- **Level 3:** Build reference architectures — Reference architectures are utilized and continuously evaluated for adoption and appropriateness.
+
+#### Stream B – Technology Management
+
+Technologies and frameworks are the cornerstones of any software solution. The security properties of these must be looked into to ensure an appropriate security level and to anticipate any potential issues herein.
+
+- **Level 1:** Identify tools and technologies — Elicit technologies, frameworks and integrations within the overall solution to identify risk.
+- **Level 2:** Promote preferred tools and technologies — Standardize technologies and frameworks to be used throughout the different applications.
+- **Level 3:** Enforce the use of recommended technologies — Impose the use of standard technologies on all software development.
+
+---
+
+© OWASP Foundation, Software Assurance Maturity Model 2.2.0. The layout has been adapted; the English model text has not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/owaspsamm/core/releases/download/v2.2.0/samm.tar.gz).
+<!-- scan-standards:end -->

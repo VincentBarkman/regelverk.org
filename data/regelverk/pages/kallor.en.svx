@@ -12,3 +12,20 @@ sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
 ---
 
 The database is built on official sources such as legislation, EU acts, authority regulations and standards.
+
+## Swedish law
+
+- [Svensk författningssamling (SFS)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/) – consolidated statute text via riksdagen.se.
+- [svenskforfattningssamling.se](https://svenskforfattningssamling.se/) – the authentic original version (PDF) of new statutes.
+- [Regeringskansliets rättsdatabaser](https://rkrattsbaser.gov.se/) – preparatory works, amendment registers and older SFS versions.
+
+## EU law
+
+- [EUR-Lex](https://eur-lex.europa.eu/) – regulations, directives and consolidated versions in Swedish and English.
+- [Official Journal of the EU (OJ)](https://eur-lex.europa.eu/oj/direct-access.html) – the official publication of EU acts.
+- [CURIA](https://curia.europa.eu/) – case law of the Court of Justice of the EU.
+
+## Authorities and standards
+
+- [Lagrummet](https://lagrummet.se/) – authority regulations and legal information.
+- [SIS](https://www.sis.se/), [NIST](https://www.nist.gov/), [ETSI](https://www.etsi.org/) and [CISA](https://www.cisa.gov/) – standards and guidance.

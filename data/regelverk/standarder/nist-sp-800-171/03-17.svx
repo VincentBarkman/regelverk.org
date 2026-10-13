@@ -1,0 +1,44 @@
+---
+title: 03.17 – Supply Chain Risk Management
+description: NIST SP 800-171 Rev. 3 – 03.17 – Supply Chain Risk Management
+source: nist-sp-800-171
+ref: 03-17
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### 03.17.01 – Supply Chain Risk Management Plan
+
+- SR-03.17.01.a Develop a plan for managing supply chain risks associated with the research and development, design, manufacturing, acquisition, delivery, integration, operations, maintenance, and disposal of the system, system components, or system services.
+- SR-03.17.01.b Review and update the supply chain risk management plan [organization-defined frequency].
+- SR-03.17.01.c Protect the supply chain risk management plan from unauthorized disclosure.
+
+### 03.17.02 – Acquisition Strategies, Tools, and Methods
+
+Develop and implement acquisition strategies, contract tools, and procurement methods to identify, protect against, and mitigate supply chain risks.
+
+### 03.17.03 – Supply Chain Requirements and Processes
+
+- SR-03.17.03.a Establish a process for identifying and addressing weaknesses or deficiencies in the supply chain elements and processes.
+- SR-03.17.03.b Enforce the following security requirements to protect against supply chain risks to the system, system components, or system services and to limit the harm or consequences from supply chain-related events: [organization-defined security requirements].
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

@@ -125,7 +125,8 @@ export const META_FIELDS: [key: string, label: () => string][] = [
 	['legalStatus', m.meta_legal_status],
 	['lastReviewed', m.meta_last_reviewed],
 	['sourceChecked', m.meta_source_checked],
-	['licenseClass', m.meta_license_class]
+	['licenseClass', m.meta_license_class],
+	['translation', m.meta_translation]
 ];
 
 export const META_EXTRA_LABELS: Record<string, () => string> = {
@@ -133,6 +134,7 @@ export const META_EXTRA_LABELS: Record<string, () => string> = {
 	version: m.meta_version,
 	published: m.meta_published,
 	'applies-from': m.meta_applies_from,
+	implementerar: m.val_implements,
 	provision: m.meta_provision,
 	ref: m.meta_ref,
 	deadline: m.meta_deadline,
@@ -162,6 +164,14 @@ export const META_VALUES: Record<string, () => string> = {
 	system: m.val_system,
 	myndighet: m.val_authority,
 	'eu-directive': m.val_eu_directive,
+	'eu-regulation': m.val_eu_regulation,
+	'national-law': m.val_national_law,
+	paragraph: m.val_paragraph,
+	chapter: m.val_chapter,
+	pending: m.val_pending,
+	auto: m.val_auto,
+	sv: m.val_translation_sv,
+	'sv-en': m.val_translation_sv_en,
 	'national-authority': m.val_national_authority,
 	'eu-agency': m.val_eu_agency,
 	'standards-org': m.val_standards_org,
@@ -187,7 +197,8 @@ export const META_VALUE_INFO: Record<string, () => string> = {
 	verified: m.info_verified,
 	granskad: m.info_reviewed,
 	binding: m.info_binding,
-	'non-binding': m.info_non_binding
+	'non-binding': m.info_non_binding,
+	auto: m.info_auto
 };
 
 export const META_FIELD_ICON: Record<string, Component> = {
@@ -231,7 +242,8 @@ export const LICENSE_LINK: Record<string, string> = {
 	'Apache-2.0': 'https://www.apache.org/licenses/LICENSE-2.0',
 	'CC0-1.0': 'https://creativecommons.org/publicdomain/zero/1.0/',
 	'CC-BY-4.0': 'https://creativecommons.org/licenses/by/4.0/',
-	'CC-BY-SA-4.0': 'https://creativecommons.org/licenses/by-sa/4.0/'
+	'CC-BY-SA-4.0': 'https://creativecommons.org/licenses/by-sa/4.0/',
+	'MITRE-TOU': 'https://attack.mitre.org/resources/terms-of-use/'
 };
 
 export const ISSUER_LOGO: Record<string, string> = {

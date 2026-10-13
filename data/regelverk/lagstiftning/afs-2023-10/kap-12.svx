@@ -1,0 +1,321 @@
+---
+'source': 'afs-2023-10'
+'ref': '12 kap.'
+'title': '12 kap. – Artificiell optisk strålning'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), 12 kap..'
+'designation': 'AFS 2023:10 12 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-12) reglerar all verksamhet där arbetstagare utsätts för exponering för artificiell optisk strålning, som kan utgöra säkerhetsrisker eller hälsorisker för arbetstagares ögon och hud.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-12) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-12). Den som driver sådan verksamhet omfattas dock inte av bestämmelserna i [10 §](#10-kunskaper).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-12) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-12) har följande begrepp dessa betydelser.
+
+Begrepp
+
+Betydelse
+
+Artificiell optisk strålning
+
+All optisk strålning som inte avges från solen.
+
+Gränsvärden för exponering
+
+Gränser för exponering för optisk strålning som grundar sig direkt på fastställd inverkan på hälsan och biologiska överväganden. Om dessa gränsvärden respekteras kommer det att säkerställa att arbetstagare som exponeras för artificiella optiska strålkällor skyddas mot alla kända negativa hälsoeffekter.
+
+Icke-koherent strålning
+
+All annan optisk strålning än laserstrålning.
+
+Infraröd strålning; IR-strålning
+
+Optisk strålning inom våglängdsområdet 780 nm–1 mm.
+
+Det infraröda området indelas i IRA (780–1 400 nm), IRB (1 400–3 000 nm) och IRC (3 000 nm–1 mm).
+
+Irradians (E)
+
+Den infallande strålningens effekt per ytenhet, uttryckt i watt per kvadratmeter [W/m2].
+
+Laser
+
+Anordning som kan fås att producera eller förstärka elektromagnetisk strålning inom våglängdsområdet för optisk strålning, framför allt genom processen med kontrollerad stimulerad emission.
+
+Laserklass
+
+Beteckning som anger hur riskfylld användningen av lasern är.
+
+Laserstrålning
+
+Optisk strålning från en laser.
+
+Nivå
+
+Den kombination av irradians, strålningsenergi och radians som en arbetstagare utsätts för.
+
+Optisk strålning
+
+Elektromagnetisk strålning inom våglängdsområdet 100 nm–1 mm; delas in i ultraviolett, synlig och infraröd strålning.
+
+Radians (L)
+
+Strålningsflödet eller uteffekten per rymdvinkelenhet per areaenhet uttryckt i watt per steradian per kvadratmeter [W/(m2 · sr)].
+
+Riskområde
+
+Område inom vilket strålning kan överstiga maximalt tillåten exponering.
+
+Synlig strålning
+
+Elektromagnetisk strålning inom våglängdsområdet 380–780 nm.
+
+Sysselsatta
+
+Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:
+
+anställda arbetstagare, och
+
+inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
+
+I fråga om verksamhet utan anställda arbetstagare (jämför [3 kap. 5 §](/lagstiftning/arbetsmiljolagen/kap-3#5) arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:
+
+de personer som driver verksamheten, och
+
+inhyrd arbetskraft.
+
+Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.
+
+Ultraviolett strålning; UV-strålning
+
+Elektromagnetisk strålning inom våglängdsområdet 100–400 nm.
+
+Det ultravioletta området indelas i UVA (315–400 nm), UVB (280–315 nm) och UVC (100–280 nm).
+
+Visa hela tabellen
+
+### 4 § – Undersökning och riskbedömning
+
+Vid undersökning och riskbedömning av exponering för artificiell optisk strålning ska arbetsgivaren särskilt uppmärksamma
+
+nivå, våglängdsområde och hur lång tid arbetstagarna exponeras för artificiell optisk strålning,
+
+de gränsvärden för exponering som avses i [5 §](#5),
+
+information från tillverkarna av optiska strålkällor och därmed sammanhängande arbetsutrustning,
+
+inverkan på hälsa och säkerhet för de arbetstagare som kan vara särskilt känsliga för artificiell optisk strålning,
+
+inverkan på arbetstagarnas hälsa och säkerhet som följd av växelverkan på arbetsplatsen mellan artificiell optisk strålning och kemiska ämnen som påverkar strålningskänsligheten,
+
+eventuella indirekta effekter, som tillfällig bländning, explosion eller eld,
+
+förekomst av ersättningsutrustning som konstruerats för att minska exponeringen för artificiell optisk strålning,
+
+betydelsefull information från hälsoundersökningar,
+
+exponering för artificiell optisk strålning från flera källor,
+
+laserutrustningar med en klassificering definierad i enlighet med tillämplig IEC-standard, och
+
+artificiella källor som kan orsaka skador liknande dem som orsakas av laserstrålning av klass 3B eller 4, eller motsvarande tillämpliga klassificeringar.
+
+Arbetsgivaren ska även kartlägga de indirekta arbetsmiljörisker som kan uppkomma med anledning av laseranvändning. Denna riskbedömning ska särskilt uppmärksamma risken för
+
+gasbildning,
+
+rökbildning,
+
+explosion, och
+
+brand.
+
+> _Allmänna råd_
+
+> Arbetstagare som kan vara särskilt känsliga för artificiell optisk strålning är personer med genetiskt mycket ljus hy och svag pigmentering. Andra riskfaktorer kan vara ärftligt melanom.
+
+### 5 §
+
+Exponeringen för artificiell optisk strålning får inte överskrida något av de gränsvärden som anges i bilagorna 8 och 9.
+
+Om detta ändå sker ska arbetsgivaren
+
+vidta omedelbara åtgärder för att minska exponeringen så att den ligger under gränsvärdena,
+
+utreda orsakerna till att gränsvärdena överskridits, och
+
+vidta åtgärder så att gränsvärdena inte överskrids i fortsättningen.
+
+Fastställande av exponering
+
+### 6 §
+
+Arbetsgivaren ska bedöma den sammanlagda exponeringen för artificiell optisk strålning som arbetstagarna kan komma att utsättas för.
+
+Om det finns risk för att arbetstagarna kan komma att utsättas för exponering av artificiell optisk strålning som överskrider de gränsvärden som avses i [5 §](#5), ska arbetsgivaren mäta eller beräkna dessa nivåer. Arbetsgivaren ska då tillämpa följande standarder eller andra standarder eller rekommendationer som harmoniserar med dessa:
+
+International Electrotechnical Commission; Internationella elektriska kommitténs (IEC) standarder för laserstrålning,
+
+International Commission on Illumination – internationellt organ för standardisering inom belysningsområdet (CIE), och
+
+European Committee for Standardization; Europeiska standardiseringskommitténs (CEN) standarder och rekommendationer för icke-koherent strålning.
+
+När det gäller exponering som inte omfattas av dessa standarder och rekommendationer ska mätning och beräkning genomföras i enlighet med tillgängliga vetenskapligt grundade riktlinjer.
+
+Beräkningarna av exponeringen för artificiell optisk strålning får baseras på uppgifter som tillverkarna av utrustningen har lämnat. Detta förutsätter att utrustningen uppfyller kraven i EU-direktiv eller standarder som harmoniserar med dessa.
+
+### 7 §
+
+Arbetsgivarens bedömning av exponeringen enligt [6 §](#6) ska planeras i samråd med berörda arbetstagare och genomföras med lämpliga intervall.
+
+Resultatet av bedömningen, inbegripet resultatet av mätningar och beräkningar av exponeringsnivån, ska dokumenteras.
+
+### 8 § – Åtgärder
+
+Arbetsgivaren ska genomföra de åtgärder som är nödvändiga för att exponeringen inte ska överskrida gränsvärdena.
+
+Risker som härrör från exponering för artificiell optisk strålning ska undanröjas eller reduceras till ett minimum. Detta med hänsyn tagen till den tekniska utvecklingen och möjligheten att minska en risk redan vid strålningskällan.
+
+Om riskbedömningen visar att gränsvärdena för exponeringen kan komma att överskridas ska arbetsgivaren utarbeta en handlingsplan som innehåller tekniska eller organisatoriska åtgärder som förhindrar att exponeringen överskrider gränsvärdena.
+
+När handlingsplanen utarbetas ska arbetsgivaren särskilt beakta
+
+alternativa arbetsmetoder som minskar risker förenade med artificiell optisk strålning,
+
+val av utrustning som minskar den artificiella optiska strålningen, med hänsyn tagen till det arbete som ska utföras,
+
+tekniska åtgärder, som gör att den artificiella optiska strålningen kan minskas, inbegripet spärranordningar, avskärmning eller liknande åtgärder,
+
+lämpliga program för underhåll av arbetsutrustning, arbetsplatser och arbetsställen,
+
+utformning och planering av arbetsplatser och arbetsställen,
+
+begränsning av den tid som exponeringen pågår och av exponeringens nivå,
+
+tillgång till effektiv personlig skyddsutrustning,
+
+instruktioner från tillverkaren av utrustningen, och
+
+behoven hos de arbetstagare som tillhör särskilt känsliga riskgrupper.
+
+Påbudskylt
+
+### 9 §
+
+Om riskbedömningen visar att det behövs ska arbetsgivaren sätta upp lämpliga skyltar för att markera de områden där exponeringen för artificiell optisk strålning kan komma att överskrida gränsvärdena. Tillträdet till dessa områden ska begränsas där detta är tekniskt möjligt.
+
+### 10 § – Kunskaper
+
+Arbetsgivaren ska se till att arbetstagarna som utsätts för risker på grund av artificiell optisk strålning på arbetsplatsen, och skyddsombud, har all nödvändig information och utbildning som behövs med anledning av resultatet av riskbedömningen i [4 §](#4-undersökning-och-riskbedömning).
+
+Informationen ska särskilt fokusera på
+
+åtgärder som vidtas för att följa dessa föreskrifter,
+
+gränsvärden för exponering och därmed sammanhängande potentiella risker,
+
+resultaten av de bedömningar, mätningar eller beräkningar av exponeringsnivåerna för artificiell optisk strålning som har gjorts i enlighet med [6 §](#6), med en förklaring av deras innebörd och de potentiella risker de påvisar,
+
+möjligheterna att upptäcka exponeringens skadliga inverkan på hälsan och hur sådan ska rapporteras,
+
+under vilka omständigheter som arbetstagarna har rätt till hälsokontroller,
+
+säkra arbetsrutiner för att minimera riskerna i samband med exponering, och
+
+korrekt användning av lämplig personlig skyddsutrustning.
+
+### 11 § – Läkarundersökning
+
+Arbetsgivaren ska erbjuda arbetstagarna läkarundersökning om
+
+exponeringen för artificiell optisk strålning överskrider gränsvärdena som avses i [5 §](#5), eller
+
+det vid en hälsoundersökning visat sig att en arbetstagare drabbats av en sjukdom eller skadlig inverkan på hälsan som en läkare eller annan sakkunnig inom företagshälsovården eller inom den övriga sjukvården anser beror på exponering för artificiell optisk strålning på arbetsplatsen.
+
+Arbetsgivaren ansvarar för att den som utför läkarundersökningen får tillgång till de resultat i riskbedömningen enligt [4 §](#4-undersökning-och-riskbedömning) som kan vara av betydelse för undersökningen.
+
+### 12 § – Uppföljning
+
+Arbetsgivaren ska ta del av läkarens bedömning vad gäller tecken på skador genom exponering för artificiell optisk strålning, så länge sekretess eller tystnadsplikt inte hindrar detta.
+
+Om en arbetstagare har utsatts för exponering över gränsvärdena eller om denna har tecken på skador på grund av artificiell optisk strålning ska arbetsgivaren
+
+revidera riskbedömningen,
+
+revidera de åtgärder som vidtagits för att eliminera eller minska riskerna och i samband med detta vid behov anlita företagshälsovård eller motsvarande sakkunnig hjälp utifrån, och
+
+erbjuda medicinsk undersökning av övriga arbetstagare som exponerats på liknande sätt.
+
+### 13 § – Arbete med laser
+
+Arbetsgivaren ska, om lasrar används i verksamheten, se till att lasrarnas märkning och varningstexter är korrekta samt att skyddsutrustning finns att tillgå. Arbetsgivaren ska även informera arbetstagarna och kontrollera att de förstår
+
+vilken laserklass lasern tillhör,
+
+vilka risker som är förenade med detta arbete, och
+
+vilka säkerhetsåtgärder som behövs.
+
+### 14 §
+
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren utse en särskild person som ska övervaka lasersäkerheten på arbetsplatsen. Denna person ska vara väl förtrogen med det sätt på vilket laserutrustningen används, risker förknippade med dess användning och tillämpliga föreskrifter.
+
+### 15 §
+
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren bestämma riskområdet med hänsyn till reflexioner och användning av strålningssamlande optik. Riskområdet ska märkas ut med varningsskyltar.
+
+Riskområdet får bara beträdas av dem som behöver vara där för att arbeta med eller underhålla lasern, eller för att assistera vid laserarbetet. Riskområdet ska i första hand vara avspärrat och i andra hand, om avspärrning av praktiska skäl inte är lämpligt, vara övervakat.
+
+### 16 §
+
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren se till att laserstrålens bana är inkapslad eller avskärmad. Inomhus ska strålbanan avslutas med ett strålstopp. Detta gäller dock inte för laser i medicinska tillämpningar.
+
+Den arbetsgivare som bryter mot något eller några av kraven i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
+
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 40 000 kronor + (antalet sysselsatta – 1) × 721 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+### 17 §
+
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren se till att laserskyddsglasögon används om det finns risk för att ett oskyddat öga exponeras för laserstrålen. Glasögonen ska ha så hög optisk dämpning, vid de våglängder av laserstrålning som används vid det aktuella tillfället, att denna risk elimineras.
+
+Den arbetsgivare som låter en eller flera personer arbeta utan laserskyddsglasögon, trots att sådana ska användas enligt första stycket, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
+
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 40 000 kronor + (antalet sysselsatta – 1) × 721 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

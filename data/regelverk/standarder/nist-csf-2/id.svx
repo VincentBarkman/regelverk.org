@@ -1,0 +1,350 @@
+---
+title: ID – IDENTIFY
+description: NIST CSF 2.0 – ID – IDENTIFY
+source: nist-csf-2
+ref: ID
+designation: NIST CSF 2.0
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.nist.gov/cyberframework
+version: 1.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### ID.AM – Asset Management
+
+Assets (e.g., data, hardware, software, systems, facilities, services, people) that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization's risk strategy
+
+#### ID.AM-01
+
+Inventories of hardware managed by the organization are maintained
+
+_Examples:_
+
+-  Maintain inventories for all types of hardware, including IT, IoT, OT, and mobile devices
+-  Constantly monitor networks to detect new hardware and automatically update inventories
+
+#### ID.AM-02
+
+Inventories of software, services, and systems managed by the organization are maintained
+
+_Examples:_
+
+-  Maintain inventories for all types of software and services, including commercial-off-the-shelf, open-source, custom applications, API services, and cloud-based applications and services
+-  Constantly monitor all platforms, including containers and virtual machines, for software and service inventory changes
+-  Maintain an inventory of the organization's systems
+
+#### ID.AM-03
+
+Representations of the organization's authorized network communication and internal and external network data flows are maintained
+
+_Examples:_
+
+-  Maintain baselines of communication and data flows within the organization's wired and wireless networks
+-  Maintain baselines of communication and data flows between the organization and third parties
+-  Maintain baselines of communication and data flows for the organization's infrastructure-as-a-service (IaaS) usage
+-  Maintain documentation of expected network ports, protocols, and services that are typically used among authorized systems
+
+#### ID.AM-04
+
+Inventories of services provided by suppliers are maintained
+
+_Examples:_
+
+-  Inventory all external services used by the organization, including third-party infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) offerings; APIs; and other externally hosted application services
+-  Update the inventory when a new external service is going to be utilized to ensure adequate cybersecurity risk management monitoring of the organization's use of that service
+
+#### ID.AM-05
+
+Assets are prioritized based on classification, criticality, resources, and impact on the mission
+
+_Examples:_
+
+-  Define criteria for prioritizing each class of assets
+-  Apply the prioritization criteria to assets
+-  Track the asset priorities and update them periodically or when significant changes to the organization occur
+
+#### ID.AM-06
+
+Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established
+
+#### ID.AM-07
+
+Inventories of data and corresponding metadata for designated data types are maintained
+
+_Examples:_
+
+-  Maintain a list of the designated data types of interest (e.g., personally identifiable information, protected health information, financial account numbers, organization intellectual property, operational technology data)
+-  Continuously discover and analyze ad hoc data to identify new instances of designated data types
+-  Assign data classifications to designated data types through tags or labels
+-  Track the provenance, data owner, and geolocation of each instance of designated data types
+
+#### ID.AM-08
+
+Systems, hardware, software, services, and data are managed throughout their life cycles
+
+_Examples:_
+
+-  Integrate cybersecurity considerations throughout the life cycles of systems, hardware, software, and services
+-  Integrate cybersecurity considerations into product life cycles
+-  Identify unofficial uses of technology to meet mission objectives (i.e., shadow IT)
+-  Periodically identify redundant systems, hardware, software, and services that unnecessarily increase the organization's attack surface
+-  Properly configure and secure systems, hardware, software, and services prior to their deployment in production
+-  Update inventories when systems, hardware, software, and services are moved or transferred within the organization
+-  Securely destroy stored data based on the organization's data retention policy using the prescribed destruction method, and keep and manage a record of the destructions
+-  Securely sanitize data storage when hardware is being retired, decommissioned, reassigned, or sent for repairs or replacement
+-  Offer methods for destroying paper, storage media, and other physical forms of data storage
+
+### ID.BE – Business Environment
+
+
+
+#### ID.BE-01
+
+The organization’s role in the supply chain is identified and communicated
+
+#### ID.BE-02
+
+The organization’s place in critical infrastructure and its industry sector is identified and communicated
+
+#### ID.BE-03
+
+Priorities for organizational mission, objectives, and activities are established and communicated
+
+#### ID.BE-04
+
+Dependencies and critical functions for delivery of critical services are established
+
+#### ID.BE-05
+
+Resilience requirements to support delivery of critical services are established for all operating states (e.g. under duress/attack, during recovery, normal operations)
+
+### ID.GV – Governance
+
+
+
+#### ID.GV-01
+
+Organizational cybersecurity policy is established and communicated
+
+#### ID.GV-02
+
+Cybersecurity roles and responsibilities are coordinated and aligned with internal roles and external partners
+
+#### ID.GV-03
+
+Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed
+
+#### ID.GV-04
+
+Governance and risk management processes address cybersecurity risks
+
+### ID.IM – Improvement
+
+Improvements to organizational cybersecurity risk management processes, procedures and activities are identified across all CSF Functions
+
+#### ID.IM-01
+
+Improvements are identified from evaluations
+
+_Examples:_
+
+-  Perform self-assessments of critical services that take current threats and TTPs into consideration
+-  Invest in third-party assessments or independent audits of the effectiveness of the organization's cybersecurity program to identify areas that need improvement
+-  Constantly evaluate compliance with selected cybersecurity requirements through automated means
+
+#### ID.IM-02
+
+Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties
+
+_Examples:_
+
+-  Identify improvements for future incident response activities based on findings from incident response assessments (e.g., tabletop exercises and simulations, tests, internal reviews, independent audits)
+-  Identify improvements for future business continuity, disaster recovery, and incident response activities based on exercises performed in coordination with critical service providers and product suppliers
+-  Involve internal stakeholders (e.g., senior executives, legal department, HR) in security tests and exercises as appropriate
+-  Perform penetration testing to identify opportunities to improve the security posture of selected high-risk systems as approved by leadership
+-  Exercise contingency plans for responding to and recovering from the discovery that products or services did not originate with the contracted supplier or partner or were altered before receipt
+-  Collect and analyze performance metrics using security tools and services to inform improvements to the cybersecurity program
+
+#### ID.IM-03
+
+Improvements are identified from execution of operational processes, procedures, and activities
+
+_Examples:_
+
+-  Conduct collaborative lessons learned sessions with suppliers
+-  Annually review cybersecurity policies, processes, and procedures to take lessons learned into account
+-  Use metrics to assess operational cybersecurity performance over time
+
+#### ID.IM-04
+
+Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+
+_Examples:_
+
+-  Establish contingency plans (e.g., incident response, business continuity, disaster recovery) for responding to and recovering from adverse events that can interfere with operations, expose confidential information, or otherwise endanger the organization's mission and viability
+-  Include contact and communication information, processes for handling common scenarios, and criteria for prioritization, escalation, and elevation in all contingency plans
+-  Create a vulnerability management plan to identify and assess all types of vulnerabilities and to prioritize, test, and implement risk responses
+-  Communicate cybersecurity plans (including updates) to those responsible for carrying them out and to affected parties
+-  Review and update all cybersecurity plans annually or when a need for significant improvements is identified
+
+### ID.RA – Risk Assessment
+
+The cybersecurity risk to the organization, assets, and individuals is understood by the organization
+
+#### ID.RA-01
+
+Vulnerabilities in assets are identified, validated, and recorded
+
+_Examples:_
+
+-  Use vulnerability management technologies to identify unpatched and misconfigured software
+-  Assess network and system architectures for design and implementation weaknesses that affect cybersecurity
+-  Review, analyze, or test organization-developed software to identify design, coding, and default configuration vulnerabilities
+-  Assess facilities that house critical computing assets for physical vulnerabilities and resilience issues
+-  Monitor sources of cyber threat intelligence for information on new vulnerabilities in products and services
+-  Review processes and procedures for weaknesses that could be exploited to affect cybersecurity
+
+#### ID.RA-02
+
+Cyber threat intelligence is received from information sharing forums and sources
+
+_Examples:_
+
+-  Configure cybersecurity tools and technologies with detection or response capabilities to securely ingest cyber threat intelligence feeds
+-  Receive and review advisories from reputable third parties on current threat actors and their tactics, techniques, and procedures (TTPs)
+-  Monitor sources of cyber threat intelligence for information on the types of vulnerabilities that emerging technologies may have
+
+#### ID.RA-03
+
+Internal and external threats to the organization are identified and recorded
+
+_Examples:_
+
+-  Use cyber threat intelligence to maintain awareness of the types of threat actors likely to target the organization and the TTPs they are likely to use
+-  Perform threat hunting to look for signs of threat actors within the environment
+-  Implement processes for identifying internal threat actors
+
+#### ID.RA-04
+
+Potential impacts and likelihoods of threats exploiting vulnerabilities are identified and recorded
+
+_Examples:_
+
+-  Business leaders and cybersecurity risk management practitioners work together to estimate the likelihood and impact of risk scenarios and record them in risk registers
+-  Enumerate the potential business impacts of unauthorized access to the organization's communications, systems, and data processed in or by those systems
+-  Account for the potential impacts of cascading failures for systems of systems
+
+#### ID.RA-05
+
+Threats, vulnerabilities, likelihoods, and impacts are used to understand inherent risk and inform risk response prioritization
+
+_Examples:_
+
+-  Develop threat models to better understand risks to the data and identify appropriate risk responses
+-  Prioritize cybersecurity resource allocations and investments based on estimated likelihoods and impacts
+
+#### ID.RA-06
+
+Risk responses are chosen, prioritized, planned, tracked, and communicated
+
+_Examples:_
+
+-  Apply the vulnerability management plan's criteria for deciding whether to accept, transfer, mitigate, or avoid risk
+-  Apply the vulnerability management plan's criteria for selecting compensating controls to mitigate risk
+-  Track the progress of risk response implementation (e.g., plan of action and milestones (POA&amp;M), risk register, risk detail report)
+-  Use risk assessment findings to inform risk response decisions and actions
+-  Communicate planned risk responses to affected stakeholders in priority order
+
+#### ID.RA-07
+
+Changes and exceptions are managed, assessed for risk impact, recorded, and tracked
+
+_Examples:_
+
+-  Implement and follow procedures for the formal documentation, review, testing, and approval of proposed changes and requested exceptions
+-  Document the possible risks of making or not making each proposed change, and provide guidance on rolling back changes
+-  Document the risks related to each requested exception and the plan for responding to those risks
+-  Periodically review risks that were accepted based upon planned future actions or milestones
+
+#### ID.RA-08
+
+Processes for receiving, analyzing, and responding to vulnerability disclosures are established
+
+_Examples:_
+
+-  Conduct vulnerability information sharing between the organization and its suppliers following the rules and protocols defined in contracts
+-  Assign responsibilities and verify the execution of procedures for processing, analyzing the impact of, and responding to cybersecurity threat, vulnerability, or incident disclosures by suppliers, customers, partners, and government cybersecurity organizations
+
+#### ID.RA-09
+
+The authenticity and integrity of hardware and software are assessed prior to acquisition and use
+
+_Examples:_
+
+-  Assess the authenticity and cybersecurity of critical technology products and services prior to acquisition and use
+
+#### ID.RA-10
+
+Critical suppliers are assessed prior to acquisition
+
+_Examples:_
+
+-  Conduct supplier risk assessments against business and applicable cybersecurity requirements, including the supply chain
+
+### ID.RM – Risk Management Strategy
+
+
+
+#### ID.RM-01
+
+Risk management processes are established, managed, and agreed to by organizational stakeholders
+
+#### ID.RM-02
+
+Organizational risk tolerance is determined and clearly expressed
+
+#### ID.RM-03
+
+The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis
+
+### ID.SC – Supply Chain Risk Management
+
+
+
+#### ID.SC-01
+
+Cyber supply chain risk management processes are identified, established, assessed, managed, and agreed to by organizational stakeholders
+
+#### ID.SC-02
+
+Suppliers and third party partners of information systems, components, and services are identified, prioritized, and assessed using a cyber supply chain risk assessment process
+
+#### ID.SC-03
+
+Contracts with suppliers and third-party partners are used to implement appropriate measures designed to meet the objectives of an organization’s cybersecurity program and Cyber Supply Chain Risk Management Plan.
+
+#### ID.SC-04
+
+Suppliers and third-party partners are routinely assessed using audits, test results, or other forms of evaluations to confirm they are meeting their contractual obligations.
+
+#### ID.SC-05
+
+Response and recovery planning and testing are conducted with suppliers and third-party providers
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/CSF/v2.0/json/NIST_CSF_v2.0_catalog.json).
+<!-- scan-standards:end -->

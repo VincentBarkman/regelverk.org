@@ -1,0 +1,80 @@
+---
+title: Discovery
+description: MITRE ATT&CK for ICS – Discovery
+source: mitre-attack-ics
+ref: DISCOVERY
+designation: MITRE ATT&CK for ICS
+jurisdiction: Internationell
+issuer: MITRE
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+translation: en
+type: standard
+sites:
+  - ot
+url: https://attack.mitre.org/attackics/
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+The adversary is locating information to assess and identify their targets in your environment.
+
+Discovery consists of techniques that adversaries use to survey your ICS environment and gain knowledge about the internal network, control system devices, and how their processes interact. These techniques help adversaries observe the environment and determine next steps for target selection and Lateral Movement. They also allow adversaries to explore what they can control and gain insight on interactions between various control system processes. Discovery techniques are often an act of progression into the environment which enable the adversary to orient themselves before deciding how to act. Adversaries may use Discovery techniques that result in Collection, to help determine how available resources benefit their current objective. A combination of native device communications and functions, and custom tools are often used toward this post-compromise information-gathering objective.
+
+### T0840 – Network Connection Enumeration
+
+Adversaries may perform network connection enumeration to discover information about device communication patterns. If an adversary can inspect the state of a network connection with tools, such as Netstat(Citation: Netstat), in conjunction with [System Firmware](https://attack.mitre.org/techniques/T0857), then they can determine the role of certain devices on the network  (Citation: MITRE). The adversary can also use [Network Sniffing](https://attack.mitre.org/techniques/T0842) to watch network traffic for details about the source, destination, protocol, and content.
+
+### T0842 – Network Sniffing
+
+Network sniffing is the practice of using a network interface on a computer system to monitor or capture information (Citation: Enterprise ATT&amp;CK January 2018) regardless of whether it is the specified destination for the information. 
+
+An adversary may attempt to sniff the traffic to gain information about the target. This information can vary in the level of importance. Relatively unimportant information is general communications to and from machines.  Relatively important information would be login information. User credentials may be sent over an unencrypted protocol, such as Telnet, that can be captured and obtained through network packet analysis. 
+
+In addition, ARP and Domain Name Service (DNS) poisoning can be used to capture credentials to websites, proxies, and internal systems by redirecting traffic to an adversary.
+
+### T0846 – Remote System Discovery
+
+Adversaries may attempt to get a listing of other systems by IP address, hostname, or other logical identifier on a network that may be used for subsequent Lateral Movement or Discovery techniques. Functionality could exist within adversary tools to enable this, but utilities available on the operating system or vendor software could also be used.(Citation: Enterprise ATT&amp;CK January 2018)
+
+#### T0846.001 – Port Scan
+
+Adversaries may perform a port scan on a system, device, or network to identify live hosts, enumerate open ports and running services, identify operating systems, and map out the network.(Citation: NIST SP 800-82r3) The results of a port scan may inform adversary [Discovery](https://attack.mitre.org/tactics/TA0102), [Lateral Movement](https://attack.mitre.org/tactics/TA0109), and vulnerability exploitation decisions ([Exploitation for Evasion](https://attack.mitre.org/techniques/T0820), [Exploitation for Privilege Escalation](https://attack.mitre.org/techniques/T0890), [Exploitation of Remote Services](https://attack.mitre.org/techniques/T0866)). 
+
+Some common tools for executing a port scan include `nmap`, `netcat`, and the Advanced Port Scanner.
+
+#### T0846.002 – Broadcast Discovery
+
+Adversaries may perform broadcast discovery requests to enumerate systems and devices on a network. Broadcast discovery works by one system or device sending messages to all systems and devices on a network (or subnet) and then waiting for a response. If a response is received that means the system or device that responded is live and can communicate over that protocol. Adversaries may leverage different protocols supported on the network for sending broadcast messages. 
+
+Some common OT protocols that have broadcast discovery mechanisms are Building Automation and Control Network (BACNet) Who-Is requests, Common Industrial Protocol (CIP) List Identity User Datagram Protocol (UDP) broadcast requests, and Siemens S7 broadcast identification requests.(Citation: Broadcasting BACnet)(Citation: Cisco Active Discovery)
+
+#### T0846.003 – Multicast Discovery
+
+Adversaries may perform multicast discovery requests which is when one system or device sends messages to all systems and devices in a pre-defined group on a network (or subnet) and then waits for a response. If a response is received that means the system or device that responded is live and can communicate over that protocol.  Multicast discovery tends to be stealthier than broadcast discovery because every system or device on the network (or subnet) is not being messaged. 
+
+One common OT protocol that has a multicast discovery mechanism is the Process Field Network (PROFINET) Discovery and Configuration Protocol (DCP) with its Identify All requests.(Citation: Cisco Active Discovery)
+
+### T0887 – Wireless Sniffing
+
+Adversaries may seek to capture radio frequency (RF) communication used for remote control and reporting in distributed environments. RF communication frequencies vary between 3 kHz to 300 GHz, although are commonly between 300 MHz to 6 GHz. (Citation: Candell, R., Hany, M., Lee, K. B., Liu,Y., Quimby, J., Remley, K. April 2018)  The wavelength and frequency of the signal affect how the signal propagates through open air, obstacles (e.g. walls and trees) and the type of radio required to capture them. These characteristics are often standardized in the protocol and hardware and may have an effect on how the signal is captured. Some examples of wireless protocols that may be found in cyber-physical environments are: WirelessHART, Zigbee, WIA-FA, and 700 MHz Public Safety Spectrum. 
+
+Adversaries may capture RF communications by using specialized hardware, such as software defined radio (SDR), handheld radio, or a computer with radio demodulator tuned to the communication frequency. (Citation: Bastille April 2017) Information transmitted over a wireless medium may be captured in-transit whether the sniffing device is the intended destination or not. This technique may be particularly useful to an adversary when the communications are not encrypted. (Citation: Gallagher, S. April 2017) 
+
+In the 2017 Dallas Siren incident, it is suspected that adversaries likely captured wireless command message broadcasts on a 700 MHz frequency during a regular test of the system. These messages were later replayed to trigger the alarm systems. (Citation: Gallagher, S. April 2017)
+
+### T0888 – Remote System Information Discovery
+
+An adversary may attempt to get detailed information about remote systems and their peripherals, such as make/model, role, and configuration. Adversaries may use information from Remote System Information Discovery to aid in targeting and shaping follow-on behaviors. For example, the system's operational role and model information can dictate whether it is a relevant target for the adversary's operational objectives. In addition, the system's configuration may be used to scope subsequent technique usage. 
+
+Requests for system information are typically implemented using automation and management protocols and are often automatically requested by vendor software during normal operation. This information may be used to tailor management actions, such as program download and system or module firmware. An adversary may leverage this same information by issuing calls directly to the system's API.
+
+---
+
+© The MITRE Corporation, MITRE ATT&CK® 19.2. This content is reproduced under the MITRE ATT&CK Terms of Use with attribution. [attack.mitre.org](https://attack.mitre.org/). [Source](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json).
+<!-- scan-standards:end -->

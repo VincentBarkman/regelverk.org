@@ -1,0 +1,72 @@
+---
+title: MP – Media Protection
+description: NIST SP 800-53B – MP – Media Protection
+source: nist-sp-800-53b
+ref: MP
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### MP-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] media protection policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the media protection policy and the associated media protection controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the media protection policy and procedures; and
+- c. Review and update the current media protection:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### MP-2 – Media Access
+
+Restrict access to [organization-defined types of digital and/or non-digital media] to [organization-defined personnel or roles].
+
+### MP-3 – Media Marking
+
+- a. Mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
+- b. Exempt [organization-defined types of media exempted from marking] from marking if the media remain within [organization-defined controlled areas].
+
+### MP-4 – Media Storage
+
+- a. Physically control and securely store [organization-defined types of digital and/or non-digital media] within [organization-defined controlled areas] ; and
+- b. Protect system media types defined in MP-4a until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
+
+### MP-5 – Media Transport
+
+- a. Protect and control [organization-defined types of system media] during transport outside of controlled areas using [organization-defined controls];
+- b. Maintain accountability for system media during transport outside of controlled areas;
+- c. Document activities associated with the transport of system media; and
+- d. Restrict the activities associated with the transport of system media to authorized personnel.
+
+### MP-6 – Media Sanitization
+
+- a. Sanitize [organization-defined system media] prior to disposal, release out of organizational control, or release for reuse using [organization-defined sanitization techniques and procedures] ; and
+- b. Employ sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
+
+### MP-7 – Media Use
+
+- a.  [restrict or prohibit] the use of [organization-defined types of system media] on [organization-defined systems or system components] using [organization-defined controls] ; and
+- b. Prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

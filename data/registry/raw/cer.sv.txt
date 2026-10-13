@@ -1,0 +1,1071 @@
+# cer [sv] scraped 2026-10-12
+# source: https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2557
+
+# kap-1 | Kapitel I | ALLMÄNNA BESTÄMMELSER | cpt_I
+
+## Artikel 1 | Innehåll och tillämpningsområde | art_1
+1. I detta direktiv
+
+a)
+
+fastställs skyldigheter för medlemsstaterna att vidta särskilda åtgärder som syftar till att säkerställa att tjänster som är nödvändiga för att upprätthålla viktiga samhällsfunktioner eller central ekonomisk verksamhet inom tillämpningsområdet för artikel 114 i EUF-fördraget tillhandahålls på ett obehindrat sätt på den inre marknaden, särskilt skyldigheter för att identifiera kritiska entiteter samt för att stödja kritiska entiteter i uppfyllandet av de skyldigheter som åläggs dem,
+
+b)
+
+fastställs skyldigheter för kritiska entiteter som syftar till att stärka deras motståndskraft och förmåga att tillhandahålla tjänster som avses i led a på den inre marknaden,
+
+c)
+
+fastställs regler
+
+i)
+
+om tillsyn av kritiska entiteter,
+
+ii)
+
+om efterlevnadskontroll,
+
+iii)
+
+för identifiering av kritiska entiteter av särskild europeisk betydelse samt om rådgivande uppdrag för att bedöma de åtgärder som sådana entiteter har infört för att uppfylla sina skyldigheter enligt kapitel III,
+
+d)
+
+inrättas gemensamma förfaranden för samarbete och rapportering om tillämpningen av detta direktiv,
+
+e)
+
+fastställs åtgärder i syfte att uppnå en hög grad av motståndskraft för kritiska entiteter, för att säkerställa tillhandahållande av samhällsviktiga tjänster i unionen och förbättra den inre marknadens funktionssätt.
+
+2. Detta direktiv ska inte vara tillämpligt på frågor som omfattas av direktiv (EU) 2022/2555, utan att detta påverkar tillämpningen av artikel 8 i det här direktivet. Med beaktande av förhållandet mellan kritiska entiteters fysiska säkerhet och cybersäkerhet ska medlemsstaterna säkerställa att det här direktivet och direktiv (EU) 2022/2555 genomförs på ett samordnat sätt.
+
+3. Om det enligt bestämmelser i sektorsspecifika unionsrättsakter krävs att kritiska entiteter ska vidta åtgärder för att stärka sin motståndskraft och om de kraven erkänns av medlemsstaterna som åtminstone likvärdiga med de motsvarande skyldigheter som fastställs i detta direktiv, ska de berörda bestämmelserna i detta direktiv, inbegripet de bestämmelser om tillsyn och efterlevnadskontroll som fastställs i kapitel VI, inte vara tillämpliga.
+
+4. Utan att det påverkar tillämpningen av artikel 346 i EUF-fördraget ska information som är konfidentiell enligt unionsregler eller nationella regler, såsom regler om affärshemligheter, utbytas med kommissionen och andra relevanta myndigheter i enlighet med detta direktiv endast när sådant utbyte är nödvändigt för att tillämpa detta direktiv. Den information som utbyts ska begränsas till vad som är relevant och proportionerligt för ändamålet med utbytet. Vid informationsutbytet ska informationens konfidentialitet och kritiska entiteters säkerhetsintressen och kommersiella intressen bevaras samtidigt som medlemsstaternas säkerhet respekteras.
+
+5. Detta direktiv påverkar inte medlemsstaternas ansvar att skydda den nationella säkerheten och försvaret eller deras befogenhet att skydda andra väsentliga statliga funktioner, inbegripet att säkerställa statens territoriella integritet och upprätthålla lag och ordning.
+
+6. Detta direktiv är inte tillämpligt på offentliga förvaltningsentiteter som bedriver verksamhet på områdena nationell säkerhet, allmän säkerhet, försvar eller brottsbekämpning, inbegripet utredning, upptäckt och lagföring av brott.
+
+7. Medlemsstaterna får besluta att artikel 11 och kapitlen III, IV och VI, helt eller delvis, inte är tillämpliga på särskilda kritiska entiteter som bedriver verksamhet på områdena nationell säkerhet, allmän säkerhet, försvar eller brottsbekämpning, inbegripet utredning, upptäckt och lagföring av brott, eller som uteslutande tillhandahåller tjänster till de offentliga förvaltningsentiteter som avses i punkt 6 i den här artikeln.
+
+8. De skyldigheter som fastställs i detta direktiv får inte medföra tillhandahållande av information vars utlämnande skulle strida mot väsentliga intressen i fråga om medlemsstaternas nationella säkerhet, allmänna säkerhet eller försvar.
+
+9. Detta direktiv påverkar inte tillämpningen av unionsrätt om skydd av personuppgifter, i synnerhet Europaparlamentets och rådets förordning (EU) 2016/679 (28) och Europaparlamentets och rådets direktiv 2002/58/EG (29).
+
+## Artikel 2 | Definitioner | art_2
+I detta direktiv gäller följande definitioner:
+
+1.
+
+kritisk entitet: en offentlig eller privat entitet som har identifierats av en medlemsstat i enlighet med artikel 6 som tillhörande en av de kategorier som anges i den tredje kolumnen i tabellen i bilagan.
+
+2.
+
+motståndskraft: en kritisk entitets förmåga att förebygga, skydda mot, reagera på, stå emot, begränsa, absorbera, anpassa sig till och återhämta sig från en incident.
+
+3.
+
+incident: varje händelse som kan medföra en betydande störning, eller som medför en störning, av tillhandahållandet av en samhällsviktig tjänst, inbegripet när den påverkar de nationella system som skyddar rättsstatens principer.
+
+4.
+
+kritisk infrastruktur: en tillgång, en anläggning, utrustning, ett nätverk eller ett system, eller en del av en tillgång, en anläggning, utrustning, ett nätverk eller ett system, som krävs för tillhandahållandet av en samhällsviktig tjänst.
+
+5.
+
+samhällsviktig tjänst: en tjänst som är avgörande för att upprätthålla viktiga samhällsfunktioner, ekonomisk verksamhet, folkhälsa och allmän säkerhet, eller miljön.
+
+6.
+
+risk: risk för förlust eller störning orsakad av en incident, som ska uttryckas som en kombination av omfattningen av förlusten eller störningen och sannolikheten för att incidenten inträffar.
+
+7.
+
+riskbedömning: den övergripande processen för att fastställa arten och omfattningen av en risk genom att identifiera och analysera potentiella relevanta hot, sårbarheter och faror som skulle kunna leda till en incident och genom att utvärdera den potentiella förlusten eller störningen i samband med tillhandahållandet av en samhällsviktig tjänst till följd av den incidenten.
+
+8.
+
+standard: en standard enligt definitionen i artikel 2.1 i Europaparlamentets och rådets förordning (EU) nr 1025/2012 (30).
+
+9.
+
+teknisk specifikation: en teknisk specifikation enligt definitionen i artikel 2.4 i förordning (EU) nr 1025/2012.
+
+10.
+
+offentlig förvaltningsentitet: en entitet som erkänts som sådan i en medlemsstat enligt nationell rätt, med undantag för rättsväsendet, parlament och centralbanker, och som uppfyller följande kriterier:
+
+a)
+
+Den har inrättats för att tillgodose behov i det allmännas intresse och har inte industriell eller kommersiell karaktär.
+
+b)
+
+Den har ställning som juridisk person eller har lagstadgad rätt att agera för en annan entitet som har ställning som juridisk person.
+
+c)
+
+Den finansieras till största delen av statliga myndigheter eller av andra offentligrättsliga organ på central nivå, står under administrativ tillsyn av dessa myndigheter eller organ, eller har ett förvaltnings-, lednings- eller tillsynsorgan där mer än hälften av ledamöterna utses av statliga myndigheter eller av andra offentligrättsliga organ på central nivå.
+
+d)
+
+Den har befogenhet att rikta administrativa eller reglerande beslut till fysiska eller juridiska personer som påverkar deras rättigheter när det gäller gränsöverskridande rörlighet för personer, varor, tjänster eller kapital.
+
+## Artikel 3 | Minimiharmonisering | art_3
+Detta direktiv hindrar inte medlemsstaterna från att anta eller behålla bestämmelser i nationell rätt som syftar till att uppnå en högre grad av motståndskraft för kritiska entiteter, förutsatt att sådana bestämmelser står i överensstämmelse med medlemsstaternas förpliktelser enligt unionsrätten.
+
+# kap-2 | Kapitel II | NATIONELLA RAMAR FÖR KRITISKA ENTITETERS MOTSTÅNDSKRAFT | cpt_II
+
+## Artikel 4 | Strategi för kritiska entiteters motståndskraft | art_4
+1. Efter ett samråd som, i den mån det är praktiskt möjligt, ska vara öppet för berörda parter ska varje medlemsstat senast den 17 januari 2026 anta en strategi för att stärka kritiska entiteters motståndskraft (strategin). Strategin ska innehålla strategiska mål och policyåtgärder, som bygger på relevanta befintliga nationella och sektorsspecifika strategier, planer eller liknande dokument, för att uppnå och upprätthålla en hög grad av motståndskraft hos kritiska entiteter, och ska åtminstone omfatta de sektorer som anges i bilagan.
+
+2. Varje strategi ska innehålla åtminstone följande delar:
+
+a)
+
+Strategiska mål och prioriteringar för att stärka kritiska entiteters övergripande motståndskraft, med beaktande av gränsöverskridande och sektorsöverskridande beroenden och ömsesidiga beroenden.
+
+b)
+
+En styrningsram för att uppnå de strategiska målen och prioriteringarna, inklusive en beskrivning av rollerna och ansvarsområdena för de olika myndigheter, kritiska entiteter och andra parter som deltar i genomförandet av strategin.
+
+c)
+
+En beskrivning av de åtgärder som är nödvändiga för att stärka kritiska entiteters övergripande motståndskraft, inklusive en beskrivning av den riskbedömning som avses i artikel 5.
+
+d)
+
+En beskrivning av den process genom vilken kritiska entiteter identifieras.
+
+e)
+
+En beskrivning av processen till stöd för kritiska entiteter i enlighet med detta kapitel, inbegripet åtgärder för att förbättra samarbetet mellan, å ena sidan den offentliga sektorn och, å andra sidan, den privata sektorn och offentliga och privata entiteter.
+
+f)
+
+En förteckning över de viktigaste myndigheter och berörda parter som inte är kritiska entiteter men som deltar i genomförandet av strategin.
+
+g)
+
+En policyram för samordning mellan de behöriga myndigheterna enligt detta direktiv och de behöriga myndigheterna enligt direktiv (EU) 2022/2555 för att dela information om cybersäkerhetsrisker, cyberhot och cyberincidenter och icke-cyberrelaterade risker, hot och incidenter och utföra tillsynsuppgifter.
+
+h)
+
+En beskrivning av de åtgärder som redan har införts för att underlätta genomförandet av skyldigheter enligt kapitel III i detta direktiv för små och medelstora företag i den mening som avses i bilagan till kommissionens rekommendation 2003/361/EG (31) som medlemsstaten i fråga har identifierat som kritiska entiteter.
+
+Efter ett samråd som, i den mån det är praktiskt möjligt, är öppet för berörda parter ska medlemsstaterna uppdatera sina strategier minst vart fjärde år.
+
+3. Medlemsstaterna ska meddela kommissionen sina strategier och betydande uppdateringar av dem inom tre månader efter det att de har antagits.
+
+## Artikel 5 | Riskbedömning av medlemsstaterna | art_5
+1. Kommissionen ges befogenhet att anta en delegerad akt i enlighet med artikel 23 senast den 17 november 2023 för att komplettera detta direktiv genom att upprätta en icke uttömmande förteckning över samhällsviktiga tjänster inom de sektorer och undersektorer som anges i bilagan. De behöriga myndigheterna ska använda den förteckningen över samhällsviktiga tjänster för att göra en riskbedömning (medlemsstaternas riskbedömning) senast den 17 januari 2026 och därefter när så är nödvändigt och minst vart fjärde år. De behöriga myndigheterna ska använda medlemsstaternas riskbedömningar i syfte att identifiera kritiska entiteter i enlighet med artikel 6 och bistå de kritiska entiteterna med att vidta åtgärder enligt artikel 13.
+
+Medlemsstaternas riskbedömningar ska innehålla en redogörelse för relevanta risker för naturolyckor och risker orsakade av människan, inbegripet risker av sektorsövergripande eller gränsöverskridande slag, olyckor, naturkatastrofer, hot mot folkhälsan och hybridhot eller andra antagonistiska hot, inklusive terroristbrott enligt Europaparlamentets och rådets direktiv (EU) 2017/541 (32).
+
+2. När medlemsstaternas riskbedömningar görs ska medlemsstaterna åtminstone ta hänsyn till följande:
+
+a)
+
+Den allmänna riskbedömning som har utförts enligt artikel 6.1 i beslut nr 1313/2013/EU.
+
+b)
+
+Andra relevanta riskbedömningar som har utförts i enlighet med kraven i relevanta sektorsspecifika unionsrättsakter, inbegripet Europaparlamentets och rådets förordningar (EU) 2017/1938 (33) och (EU) 2019/941 (34) och Europaparlamentets och rådets direktiv 2007/60/EG (35) och 2012/18/EU (36).
+
+c)
+
+De relevanta risker som uppstår till följd av den grad till vilken de sektorer som anges i bilagan är beroende av varandra, inbegripet den grad till vilken de är beroende av entiteter som är belägna i andra medlemsstater och tredjeländer, samt de konsekvenser en betydande störning i en sektor kan få för andra sektorer, inklusive eventuella betydande risker för medborgare och den inre marknaden.
+
+d)
+
+Information om incidenter som har anmälts i enlighet med artikel 15.
+
+Vid tillämpning av första stycket c ska medlemsstaterna samarbeta med de behöriga myndigheterna i andra medlemsstater och de behöriga myndigheterna i tredjeländer, när så är lämpligt.
+
+3. Medlemsstaterna ska, i förekommande fall genom sina gemensamma kontaktpunkter, göra de relevanta delarna i medlemsstaternas riskbedömningar tillgängliga för de kritiska entiteter som de har identifierat i enlighet med artikel 6. Medlemsstaterna ska säkerställa att den information som tillhandahålls kritiska entiteter hjälper dem när de utför sina riskbedömningar enligt artikel 12 och vidtar åtgärder för att säkerställa sin motståndskraft enligt artikel 13.
+
+4. Inom tre månader från det att en medlemsstats riskbedömning utfördes ska en medlemsstat förse kommissionen med relevant information om de typer av risker som har identifierats till följd av, och resultatet av, den medlemsstatens riskbedömning, per sektor och undersektor som anges bilagan.
+
+5. Kommissionen ska i samarbete med medlemsstaterna utveckla en frivillig gemensam rapporteringsmall som kan användas för att uppfylla punkt 4.
+
+## Artikel 6 | Identifiering av kritiska entiteter | art_6
+1. Senast den 17 juli 2026 ska medlemsstaterna identifiera de kritiska entiteterna för de sektorer och undersektorer som anges i bilagan.
+
+2. När en medlemsstat identifierar kritiska entiteter enligt punkt 1 ska den ta hänsyn till resultatet av sin riskbedömning samt sin strategi och tillämpa samtliga följande kriterier:
+
+a)
+
+Entiteten tillhandahåller en eller flera samhällsviktiga tjänster.
+
+b)
+
+Entiteten bedriver verksamhet, och dess kritiska infrastruktur är belägen, på denna medlemsstats territorium.
+
+c)
+
+En incident skulle få betydande störande effekter, enligt vad som fastställs i enlighet med artikel 7.1, för entitetens tillhandahållande av en eller flera samhällsviktiga tjänster eller för tillhandahållandet av andra samhällsviktiga tjänster i de sektorer som anges i bilagan och som är beroende av den eller de samhällsviktiga tjänsterna.
+
+3. Varje medlemsstat ska upprätta en förteckning över de kritiska entiteter som har identifierats enligt punkt 2 och säkerställa att dessa kritiska entiteter underrättas om att de har identifierats som kritiska entiteter inom en månad från identifieringen. Medlemsstaterna ska informera dessa kritiska entiteter om deras skyldigheter enligt kapitlen III och IV och om det datum från och med vilket dessa skyldigheter är tillämpliga på dem, utan att detta påverkar tillämpningen av artikel 8. Medlemsstaterna ska informera kritiska entiteter i de sektorer som anges i punkterna 3, 4 och 8 i tabellen i bilagan om att de inte har några skyldigheter enligt kapitlen III och IV såvida inte nationella åtgärder föreskriver något annat.
+
+För de berörda kritiska entiteterna ska kapitel III vara tillämpligt från och med tio månader efter dagen för den underrättelse som avses i första stycket i denna punkt.
+
+4. Medlemsstaterna ska säkerställa att deras behöriga myndigheter enligt detta direktiv underrättar de behöriga myndigheterna enligt direktiv (EU) 2022/2555 om identiteten på de kritiska entiteter som de har identifierat enligt denna artikel inom en månad från den identifieringen. Denna underrättelse ska, i tillämpliga fall, innehålla information om att de berörda kritiska entiteterna är entiteter i de sektorer som anges i punkterna 3, 4 och 8 i tabellen i bilagan till det här direktivet och inte har några skyldigheter enligt kapitlen III och IV i det här direktivet.
+
+5. Medlemsstaterna ska när så är nödvändigt och minst vart fjärde år se över och när så är lämpligt uppdatera förteckningen över identifierade kritiska entiteter som avses i punkt 3. Om dessa uppdateringar leder till att ytterligare kritiska entiteter identifieras ska punkterna 3 och 4 tillämpas på dessa ytterligare kritiska entiteter. Dessutom ska medlemsstaterna säkerställa att entiteter som inte längre identifieras som kritiska entiteter till följd av en sådan uppdatering i god tid underrättas om detta och om att de inte längre omfattas av skyldigheterna enligt kapitel III från och med dagen för mottagandet av denna underrättelse.
+
+6. Kommissionen ska i samarbete med medlemsstaterna utarbeta rekommendationer och icke-bindande riktlinjer för att stödja medlemsstaterna i arbetet med att identifiera kritiska entiteter.
+
+## Artikel 7 | Betydande störande effekt | art_7
+1. När medlemsstaterna fastställer om en störande effekt som avses i artikel 6.2 c är betydande, ska de beakta följande kriterier:
+
+a)
+
+Antalet användare som är beroende av den samhällsviktiga tjänst som den berörda entiteten tillhandahåller.
+
+b)
+
+Den grad till vilken andra sektorer och undersektorer som anges i bilagan är beroende av den samhällsviktiga tjänsten i fråga.
+
+c)
+
+Vilken effekt incidenter skulle kunna ha på ekonomisk och samhällelig verksamhet, miljön, den allmänna säkerheten och tryggheten eller befolkningens hälsa, uttryckt i grad och varaktighet.
+
+d)
+
+Entitetens marknadsandel på marknaden för den eller de berörda samhällsviktiga tjänsterna.
+
+e)
+
+Det geografiska område som skulle kunna påverkas av en incident, inbegripet eventuella gränsöverskridande konsekvenser, med beaktande av den sårbarhet som är förknippad med graden av isolering för vissa typer av geografiska områden, såsom öregioner, avlägsna områden eller bergsområden.
+
+f)
+
+Entitetens betydelse för upprätthållandet av en tillräcklig nivå på den samhällsviktiga tjänsten, med beaktande av tillgången till alternativa sätt för att tillhandahålla den samhällsviktiga tjänsten.
+
+2. Efter identifieringen av de kritiska entiteterna enligt artikel 6.1 ska varje medlemsstat utan onödigt dröjsmål lämna följande information till kommissionen:
+
+a)
+
+En förteckning över samhällsviktiga tjänster i den medlemsstaten, om det finns ytterligare samhällsviktiga tjänster jämfört med den förteckning över samhällsviktiga tjänster som avses i artikel 5.1.
+
+b)
+
+Det antal kritiska entiteter som har identifierats för varje sektor och undersektor som anges i bilagan och för varje samhällsviktig tjänst.
+
+c)
+
+Eventuella tröskelvärden som har tillämpats för att närmare fastställa ett eller flera av de kriterier som anges i punkt 1.
+
+De tröskelvärden som avses i första stycket c får presenteras som sådana eller i aggregerad form.
+
+Därefter ska medlemsstaterna lämna den information som avses i första stycket när så är nödvändigt och minst vart fjärde år.
+
+3. Kommissionen ska efter samråd med den grupp för kritiska entiteters motståndskraft som avses i artikel 19 anta icke-bindande riktlinjer för att underlätta tillämpningen av de kriterier som avses i punkt 1 i den här artikeln, med beaktande av den information som avses i punkt 2 i den här artikeln.
+
+## Artikel 8 | Kritiska entiteter inom sektorerna för bankverksamhet, finansmarknadsinfrastruktur och digital infrastruktur | art_8
+Medlemsstaterna ska säkerställa att artikel 11 och kapitlen III, IV och VI inte är tillämpliga på kritiska entiteter som de har identifierat inom de sektorer som anges i punkterna 3, 4 och 8 i tabellen i bilagan. Medlemsstaterna får anta eller behålla bestämmelser i nationell rätt för att uppnå en högre grad av motståndskraft för dessa kritiska entiteter, förutsatt att dessa bestämmelser är förenliga med tillämplig unionsrätt.
+
+## Artikel 9 | Behöriga myndigheter och gemensam kontaktpunkt | art_9
+1. Varje medlemsstat ska utse eller inrätta en eller flera behöriga myndigheter som ansvariga för den korrekta tillämpningen och, vid behov, efterlevnadskontrollen avseende reglerna i detta direktiv på nationell nivå.
+
+När det gäller de kritiska entiteterna inom de sektorer som anges i punkterna 3 och 4 i tabellen i bilagan till detta direktiv ska de behöriga myndigheterna i princip vara de behöriga myndigheter som avses i artikel 46 i förordning (EU) 2022/2554. När det gäller de kritiska entiteterna inom den sektor som anges i punkt 8 i tabellen i bilagan till detta direktiv ska de behöriga myndigheterna i princip vara de behöriga myndigheterna enligt direktiv (EU) 2022/2555. Medlemsstaterna får utse en annan behörig myndighet för de sektorer som anges i punkterna 3, 4 och 8 i tabellen i bilagan till det här direktivet i enlighet med befintliga nationella ramar.
+
+Om medlemsstaterna utser eller inrättar mer än en behörig myndighet ska de tydligt fastställa uppgifterna för var och en av de berörda myndigheterna och säkerställa att de samarbetar effektivt för att fullgöra sina uppgifter enligt detta direktiv, inbegripet vad gäller utseendet av och verksamheten inom den gemensamma kontaktpunkt som avses i punkt 2.
+
+2. Varje medlemsstat ska utse eller inrätta en gemensam kontaktpunkt, som ska ha en sambandsfunktion för att säkerställa gränsöverskridande samarbete med de gemensamma kontaktpunkterna i andra medlemsstater och den grupp för kritiska entiteters motståndskraft som avses i artikel 19 (gemensam kontaktpunkt). I förekommande fall ska en medlemsstat utse sin gemensamma kontaktpunkt inom en behörig myndighet. I förekommande fall får en medlemsstat föreskriva att dess gemensamma kontaktpunkt även ska ha en sambandsfunktion med kommissionen och säkerställa samarbete med tredjeländer.
+
+3. De gemensamma kontaktpunkterna ska senast den 17 juli 2028, och därefter vartannat år, lämna en sammanfattande rapport till kommissionen och den grupp för kritiska entiteters motståndskraft som avses i artikel 19 om de anmälningar som de har mottagit, inklusive antalet anmälningar, de anmälda incidenternas art och vilka åtgärder som vidtagits i enlighet med artikel 15.3.
+
+Kommissionen ska i samarbete med gruppen för kritiska entiteters motståndskraft utveckla en gemensam rapporteringsmall. De behöriga myndigheterna får på frivillig basis använda den gemensamma rapporteringsmallen för att lämna in de sammanfattande rapporter som avses i första stycket.
+
+4. Varje medlemsstat ska säkerställa att dess behöriga myndighet och gemensamma kontaktpunkt har de befogenheter och tillräckliga ekonomiska, personella och tekniska resurser som krävs för att på ett effektivt och ändamålsenligt sätt fullgöra de uppgifter som de har ålagts.
+
+5. Varje medlemsstat ska säkerställa att dess behöriga myndighet när så är lämpligt och i enlighet med unionsrätten och nationell rätt samråder och samarbetar med andra relevanta nationella myndigheter, inbegripet de som ansvarar för civilskydd, brottsbekämpning och skydd av personuppgifter, samt med kritiska entiteter och relevanta berörda parter.
+
+6. Varje medlemsstat ska säkerställa att dess behöriga myndighet enligt detta direktiv samarbetar och utbyter information med de behöriga myndigheterna enligt direktiv 2022/2555 om cybersäkerhetsrisker, cyberhot och cyberincidenter och icke-cyberrelaterade risker, hot och incidenter som påverkar kritiska entiteter, inbegripet avseende relevanta åtgärder som har vidtagits av dess behöriga myndigheter och de behöriga myndigheterna enligt direktiv (EU) 2022/2555.
+
+7. Inom tre månader från det att den behöriga myndigheten och den gemensamma kontaktpunkten har utsetts eller inrättats ska varje medlemsstat underrätta kommissionen om deras identitet och deras uppgifter och ansvarsområden enligt detta direktiv, deras kontaktuppgifter samt alla senare ändringar av dessa. Om medlemsstaterna har beslutat att utse en annan myndighet än de behöriga myndigheter som avses i punkt 1 andra stycket som behöriga myndigheter med avseende på de kritiska entiteterna i de sektorer som anges i punkterna 3, 4 och 8 i tabellen i bilagan ska de underrätta kommissionen om detta. Varje medlemsstat ska offentliggöra identiteten på dess behöriga myndighet och gemensamma kontaktpunkt.
+
+8. Kommissionen ska offentliggöra en förteckning över de gemensamma kontaktpunkterna.
+
+## Artikel 10 | Medlemsstaternas stöd till kritiska entiteter | art_10
+1. Medlemsstaterna ska stödja kritiska entiteter för att stärka deras motståndskraft. Stödet får innefatta utveckling av vägledningsmaterial och metoder, stöd till anordnande av övningar för att testa deras motståndskraft och tillhandahållande av rådgivning och utbildning för kritiska entiteters personal. Utan att det påverkar tillämpningen av gällande regler för statligt stöd får medlemsstaterna tillhandahålla ekonomiska resurser till kritiska entiteter, om det är nödvändigt och motiverat av mål av allmänt intresse.
+
+2. Varje medlemsstat ska säkerställa att dess behöriga myndighet samarbetar och utbyter information och god praxis med kritiska entiteter i de sektorer som anges i bilagan.
+
+3. Medlemsstaterna ska underlätta frivillig informationsdelning mellan kritiska entiteter i frågor som omfattas av detta direktiv, i enlighet med unionsrätten och nationell rätt, särskilt i fråga om sekretessbelagd och känslig information, konkurrens och skydd av personuppgifter.
+
+## Artikel 11 | Samarbete mellan medlemsstater | art_11
+1. När så är lämpligt ska medlemsstaterna samråda med varandra om kritiska entiteter i syfte att säkerställa att detta direktiv tillämpas på ett konsekvent sätt. Sådana samråd ska äga rum i synnerhet med avseende på kritiska entiteter som
+
+a)
+
+använder kritisk infrastruktur som är fysiskt sammankopplad mellan två eller flera medlemsstater,
+
+b)
+
+ingår i företagsstrukturer som är sammankopplade eller sammanlänkade med kritiska entiteter i andra medlemsstater,
+
+c)
+
+har identifierats som kritiska entiteter i en medlemsstat och tillhandahåller samhällsviktiga tjänster för eller i andra medlemsstater.
+
+2. De samråd som avses i punkt 1 ska syfta till att stärka kritiska entiteters motståndskraft och, om möjligt, minska deras administrativa börda.
+
+# kap-3 | Kapitel III | KRITISKA ENTITETERS MOTSTÅNDSKRAFT | cpt_III
+
+## Artikel 12 | Riskbedömning av kritiska entiteter | art_12
+1. Utan hinder av den tidsfrist som anges i artikel 6.3 andra stycket ska medlemsstaterna säkerställa att kritiska entiteter gör en riskbedömning inom nio månader från mottagandet av den underrättelse som avses i artikel 6.3 och därefter när det är nödvändigt och minst vart fjärde år, på grundval av medlemsstaternas riskbedömningar och andra relevanta informationskällor, för att bedöma alla relevanta risker som kan störa tillhandahållandet av deras samhällsviktiga tjänster (riskbedömning av kritiska entiteter).
+
+2. Riskbedömningar av kritiska entiteter ska innehålla en redogörelse för alla relevanta risker för naturolyckor och risker orsakade av människan som skulle kunna leda till en incident, inbegripet risker av sektorsövergripande eller gränsöverskridande slag, olyckor, naturkatastrofer, hot mot folkhälsan och hybridhot samt andra antagonistiska hot, inklusive terroristbrott enligt direktiv (EU) 2017/541. En riskbedömning av kritiska entiteter ska beakta den grad till vilken andra sektorer som anges i bilagan är beroende av den samhällsviktiga tjänst som tillhandahålls av den kritiska entiteten och den grad till vilken den kritiska entiteten är beroende av samhällsviktiga tjänster som tillhandahålls av andra entiteter i sådana andra sektorer, inbegripet i angränsande medlemsstater och tredjeländer i förekommande fall.
+
+Om en kritisk entitet, i enlighet med skyldigheter som föreskrivs i andra rättsakter, har gjort andra riskbedömningar eller utarbetat dokument som är relevanta för dess riskbedömning av kritiska entiteter får den använda dessa bedömningar och dokument för att uppfylla kraven i denna artikel. När den behöriga myndigheten utövar sina tillsynsfunktioner får den slå fast att en befintlig riskbedömning som gjorts av en kritisk entitet och som omfattar de risker och den beroendegrad som avses i första stycket i denna punkt helt eller delvis uppfyller skyldigheterna enligt denna artikel.
+
+## Artikel 13 | Kritiska entiteters åtgärder för motståndskraft | art_13
+1. Medlemsstaterna ska säkerställa att kritiska entiteter vidtar lämpliga och proportionella tekniska, säkerhetsmässiga och organisatoriska åtgärder för att säkerställa sin motståndskraft, på grundval av den relevanta information som tillhandahålls av medlemsstaterna om medlemsstaternas riskbedömning samt resultatet av riskbedömningen av kritiska entiteter, inbegripet åtgärder som är nödvändiga för att
+
+a)
+
+förhindra incidenter från att uppstå, med vederbörlig hänsyn till åtgärder för katastrofriskreducering och klimatanpassning,
+
+b)
+
+säkerställa ett tillfredsställande fysiskt skydd av deras lokaler och kritiska infrastruktur, med vederbörlig hänsyn till exempelvis stängsel, barriärer, verktyg och rutiner för övervakning av områdesgränser, detektionsutrustning och åtkomstkontroller,
+
+c)
+
+reagera på, stå emot och begränsa konsekvenserna av incidenter, med vederbörlig hänsyn till genomförandet av risk- och krishanteringsförfaranden och protokoll samt varningsrutiner,
+
+d)
+
+återhämta sig från incidenter, med vederbörlig hänsyn till åtgärder för driftskontinuitet och identifiering av alternativa försörjningskedjor, för att återuppta tillhandahållandet av den samhällsviktiga tjänsten,
+
+e)
+
+säkerställa en ändamålsenlig hantering av personalsäkerhet, med vederbörlig hänsyn till åtgärder såsom fastställande av kategorier av personal som utför kritiska funktioner, fastställande av åtkomsträttigheter till lokaler, kritisk infrastruktur och känslig information, inrättande av förfaranden för bakgrundskontroller i enlighet med artikel 14 och fastställande av de kategorier av personer som måste genomgå sådana bakgrundskontroller samt fastställande av lämpliga utbildningskrav och kvalifikationer,
+
+f)
+
+öka medvetenheten om de åtgärder som anges i leden a–e hos berörd personal, med vederbörlig hänsyn till utbildningskurser, informationsmaterial och övningar.
+
+Vid tillämpning av första stycket e ska medlemsstaterna säkerställa att kritiska entiteter beaktar externa tjänsteleverantörers personal vid fastställandet av kategorier av personal som utför kritiska funktioner.
+
+2. Medlemsstaterna ska säkerställa att kritiska entiteter har och tillämpar en plan för motståndskraft eller ett eller flera likvärdiga dokument med en beskrivning av de åtgärder som vidtagits enligt punkt 1. Om kritiska entiteter har utarbetat dokument eller vidtagit åtgärder i enlighet med skyldigheter som anges i andra rättsakter som är relevanta för de åtgärder som avses i punkt 1 får de använda dessa dokument och åtgärder för att uppfylla kraven i denna artikel. När den behöriga myndigheten utövar sina tillsynsfunktioner får den slå fast att befintliga motståndskraftsstärkande åtgärder som vidtagits av en kritisk entitet och som på ett lämpligt och proportionerligt sätt adresserar de tekniska, säkerhetsmässiga och organisatoriska åtgärder som avses i punkt 1 helt eller delvis uppfyller skyldigheterna enligt denna artikel.
+
+3. Medlemsstaterna ska säkerställa att varje kritisk entitet utser en sambandsansvarig eller motsvarande som kontaktpunkt med de berörda myndigheterna.
+
+4. På begäran av den medlemsstat som identifierade den kritiska entiteten och med den berörda kritiska entitetens samtycke ska kommissionen anordna rådgivande uppdrag i enlighet med de arrangemang som fastställs i artikel 18.6, 18.8 och 18.9 för att tillhandahålla rådgivning för den berörda kritiska entiteten avseende uppfyllandet av dess skyldigheter enligt kapitel III. Det rådgivande uppdraget ska rapportera sina slutsatser till kommissionen, medlemsstaten och den berörda kritiska entiteten.
+
+5. Kommissionen ska efter samråd med den grupp för kritiska entiteters motståndskraft som avses i artikel 19 anta icke-bindande riktlinjer för att närmare fastställa de tekniska, säkerhetsmässiga och organisatoriska åtgärder som får vidtas enligt punkt 1 i den här artikeln.
+
+6. Kommissionen ska anta genomförandeakter för att fastställa de nödvändiga tekniska och metodrelaterade specifikationerna för tillämpningen av de åtgärder som avses i punkt 1 i denna artikel. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 24.2.
+
+## Artikel 14 | Bakgrundskontroller | art_14
+1. Medlemsstaterna ska ange de villkor enligt vilka en kritisk entitet, i vederbörligen motiverade fall och med beaktande av medlemsstatens riskbedömning, får ansöka om bakgrundskontroller av personer som
+
+a)
+
+innehar känsliga roller i eller till förmån för den kritiska entiteten, särskilt när det gäller den kritiska entitetens motståndskraft,
+
+b)
+
+är bemyndigade att direkt eller på distans få tillgång till den kritiska entitetens lokaler eller dess informations- eller kontrollsystem, inbegripet när det gäller den kritiska entitetens säkerhet,
+
+c)
+
+övervägs för rekrytering till tjänster som omfattas av de kriterier som anges i led a eller b.
+
+2. De ansökningar som avses i punkt 1 i denna artikel ska bedömas inom en rimlig tidsram och hanteras i enlighet med nationell rätt och nationella förfaranden samt relevant och tillämplig unionsrätt, inbegripet förordning (EU) 2016/679 och Europaparlamentets och rådets direktiv (EU) 2016/680 (37). Bakgrundskontroller ska vara proportionella och strikt begränsade till vad som är nödvändigt. De ska utföras enbart i syfte att utvärdera en potentiell säkerhetsrisk för den berörda kritiska entiteten.
+
+3. En bakgrundskontroll enligt punkt 1 ska åtminstone
+
+a)
+
+bekräfta identiteten på den person som är föremål för bakgrundskontrollen,
+
+b)
+
+kontrollera uppgifter ur kriminalregistret för den personen avseende brott som är relevanta för en viss tjänst.
+
+När de utför bakgrundskontroller ska medlemsstaterna använda det europeiska informationssystemet för utbyte av uppgifter ur kriminalregister i enlighet med de förfaranden som fastställs i rambeslut 2009/315/RIF och, i förekommande och tillämpliga fall, förordning (EU) 2019/816 för att inhämta uppgifter ur kriminalregister som innehas av andra medlemsstater. De centralmyndigheter som avses i artikel 3.1 i rambeslut 2009/315/RIF och i artikel 3.5 i förordning (EU) 2019/816 ska besvara begäranden om sådana uppgifter inom tio arbetsdagar från och med den dag då begäran togs emot i enlighet med artikel 8.1 i rambeslut 2009/315/RIF.
+
+## Artikel 15 | Incidentanmälan | art_15
+1. Medlemsstaterna ska säkerställa att kritiska entiteter utan onödigt dröjsmål lämnar in en anmälan till den behöriga myndigheten om incidenter som medför en betydande störning eller kan medföra en betydande störning i tillhandahållandet av samhällsviktiga tjänster. Medlemsstaterna ska säkerställa att de kritiska entiteterna, om det inte är operativt omöjligt för dem, lämnar in en första anmälan inom 24 timmar efter det att de har fått kännedom om en incident, åtföljd, i förekommande fall, av en detaljerad rapport senast en månad därefter. För att fastställa huruvida störningen är betydande ska i synnerhet följande parametrar tas i beaktande:
+
+a)
+
+Antal och andel användare som berörs av störningen.
+
+b)
+
+Störningens varaktighet.
+
+c)
+
+Det geografiska område som påverkas av störningen, med beaktande av huruvida området är geografiskt isolerat.
+
+Om en incident har eller kan ha en betydande påverkan på kontinuiteten i tillhandahållandet av samhällsviktiga tjänster i minst sex medlemsstater ska de behöriga myndigheterna i de medlemsstater som berörs av incidenten anmäla den incidenten till kommissionen.
+
+2. De anmälningar som avses i punkt 1 första stycket ska omfatta all tillgänglig information som är nödvändig för att den behöriga myndigheten ska kunna förstå incidentens art, orsak och möjliga konsekvenser, inbegripet eventuell information som krävs för att kunna fastställa incidentens eventuella gränsöverskridande verkningar. Sådana anmälningar ska inte medföra ett ökat ansvar för de kritiska entiteterna.
+
+3. På grundval av den information som en kritisk entitet lämnar i den anmälan som avses i punkt 1 ska den relevanta behöriga myndigheten via den gemensamma kontaktpunkten informera den gemensamma kontaktpunkten i andra medlemsstater som påverkas om incidenten har eller kan ha en betydande påverkan på kritiska entiteter och kontinuiteten i tillhandahållandet av samhällsviktiga tjänster i en eller flera andra medlemsstater.
+
+Gemensamma kontaktpunkter som skickar eller tar emot information enligt första stycket ska i enlighet med unionsrätten eller nationell rätt behandla den informationen på ett sätt som respekterar dess konfidentialitet och skyddar den berörda kritiska entitetens säkerhet och kommersiella intressen.
+
+4. Så snart som möjligt efter en anmälan enligt punkt 1 ska den berörda behöriga myndigheten ge den berörda kritiska entiteten relevant uppföljningsinformation, inklusive information som skulle kunna hjälpa den kritiska entiteten att reagera ändamålsenligt på incidenten i fråga. Medlemsstaterna ska informera allmänheten om de anser att det skulle ligga i allmänhetens intresse.
+
+## Artikel 16 | Standarder | art_16
+För att främja ett enhetligt genomförande av detta direktiv ska medlemsstaterna, när det är användbart och utan att föreskriva eller gynna användning av en viss typ av teknik, uppmuntra användningen av europeiska och internationellt erkända standarder och tekniska specifikationer som är relevanta för åtgärder för säkerhet och motståndskraft som är tillämpliga på kritiska entiteter.
+
+# kap-4 | Kapitel IV | KRITISKA ENTITETER AV SÄRSKILD EUROPEISK BETYDELSE | cpt_IV
+
+## Artikel 17 | Identifiering av kritiska entiteter av särskild europeisk betydelse | art_17
+1. En entitet ska betraktas som en kritisk entitet av särskild europeisk betydelse om
+
+a)
+
+den har identifierats som en kritisk entitet enligt artikel 6.1,
+
+b)
+
+den tillhandahåller samma eller liknande samhällsviktiga tjänster till eller i minst sex medlemsstater, och
+
+c)
+
+den har mottagit en underrättelse enligt punkt 3 i denna artikel.
+
+2. Medlemsstaterna ska säkerställa att en kritisk entitet, efter den underrättelse som avses i artikel 6.3, informerar sin behöriga myndighet om den tillhandahåller samhällsviktiga tjänster till eller i minst sex medlemsstater. I ett sådant fall ska medlemsstaterna säkerställa att den kritiska entiteten underrättar sin behöriga myndighet om de samhällsviktiga tjänster som den tillhandahåller till eller i dessa medlemsstater och till eller i vilka medlemsstater den tillhandahåller sådana samhällsviktiga tjänster. Medlemsstaterna ska utan onödigt dröjsmål underrätta kommissionen om identiteten på dessa kritiska entiteter och den information som de tillhandahåller enligt denna punkt.
+
+Kommissionen ska samråda med den behöriga myndigheten i den medlemsstat som identifierat en kritisk entitet som avses i första stycket, den behöriga myndigheten i andra berörda medlemsstater samt den kritiska entiteten i fråga. Vid dessa samråd ska varje medlemsstat informera kommissionen om den bedömer att de tjänster som den kritiska entiteten tillhandahåller den medlemsstaten är samhällsviktiga tjänster.
+
+3. Om kommissionen, på grundval av de samråd som avses i punkt 2 i denna artikel, fastställer att den berörda kritiska entiteten tillhandahåller samhällsviktiga tjänster till eller i fler än sex medlemsstater, ska kommissionen underrätta den berörda entiteten, genom dess behöriga myndighet, om att den betraktas som en kritisk entitet av särskild europeisk betydelse och informera den kritiska entiteten om dess skyldigheter enligt detta kapitel samt från och med vilken dag dessa skyldigheter är tillämpliga på den. När kommissionen underrättar den behöriga myndigheten om sitt beslut att betrakta en kritisk entitet som en kritisk entitet av särskild europeisk betydelse ska den behöriga myndigheten utan onödigt dröjsmål vidarebefordra den underrättelsen till den kritiska entiteten.
+
+4. Detta kapitel ska tillämpas på den berörda kritiska entiteten av särskild europeisk betydelse från och med dagen för mottagandet av den underrättelse som avses i punkt 3 i denna artikel.
+
+## Artikel 18 | Rådgivande uppdrag | art_18
+1. På begäran av den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1 ska kommissionen anordna ett rådgivande uppdrag för att bedöma de åtgärder som den kritiska entiteten har infört för att uppfylla sina skyldigheter enligt kapitel III.
+
+2. På eget initiativ eller på begäran av en eller flera medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls, och under förutsättning att den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1 samtycker till detta, ska kommissionen anordna ett sådant rådgivande uppdrag som avses i punkt 1 i den här artikeln.
+
+3. På motiverad begäran från kommissionen eller från en eller flera medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls, ska den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1 tillhandahålla kommissionen följande:
+
+a)
+
+Relevanta delar av riskbedömningen av kritiska entiteter.
+
+b)
+
+En förteckning över relevanta åtgärder som vidtagits i enlighet med artikel 13.
+
+c)
+
+Tillsyns- eller efterlevnadskontrollåtgärder, inbegripet bedömningar av efterlevnad eller utfärdade förelägganden, som dess behöriga myndighet har vidtagit enligt artiklarna 21 och 22 med avseende på den kritiska entiteten.
+
+4. Det rådgivande uppdraget ska rapportera sina slutsatser till kommissionen, den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1, de medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls och den berörda kritiska entiteten inom tre månader efter det att det rådgivande uppdraget har avslutats.
+
+De medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls ska analysera den rapport som avses i första stycket och, om så är nödvändigt, ge kommissionen råd om huruvida den berörda kritiska entiteten av särskild europeisk betydelse uppfyller sina skyldigheter enligt kapitel III och, i förekommande fall, vilka åtgärder som skulle kunna vidtas för att förbättra den kritiska entitetens motståndskraft.
+
+Kommissionen ska på grundval av den rådgivning som avses i andra stycket i denna punkt meddela sitt yttrande till den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1, de medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls och den kritiska entiteten om huruvida den kritiska entiteten uppfyller sina skyldigheter enligt kapitel III och i förekommande fall vilka åtgärder som skulle kunna vidtas för att förbättra den kritiska entitetens motståndskraft.
+
+Den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1 ska säkerställa att dess behöriga myndighet och den berörda kritiska entiteten tar vederbörlig hänsyn till det yttrande som avses i tredje stycket i den här punkten och lämna information till kommissionen och de medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls om åtgärder som den har vidtagit i enlighet med det yttrandet.
+
+5. Varje rådgivande uppdrag ska bestå av experter från den medlemsstat där den kritiska entiteten av särskild europeisk betydelse är belägen, experter från de medlemsstater till eller i vilka den samhällsviktiga tjänsten tillhandahålls och företrädare för kommissionen. Dessa medlemsstater får föreslå kandidater för att delta i ett rådgivande uppdrag. Kommissionen ska, efter samråd med den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1, välja ut och utnämna medlemmarna i varje rådgivande uppdrag i enlighet med deras yrkesmässiga kapacitet och, när så är möjligt, säkerställa en geografiskt balanserad representation från alla dessa medlemsstater. Medlemmarna i det rådgivande uppdraget ska när så krävs ha ett giltigt och lämpligt säkerhetsgodkännande. Kommissionen ska täcka kostnaderna i samband med deltagandet i rådgivande uppdrag.
+
+Kommissionen ska anordna programmet för varje rådgivande uppdrag i samråd med deltagarna i det rådgivande uppdraget i fråga och i överenskommelse med den medlemsstat som har identifierat en kritisk entitet av särskild europeisk betydelse som en kritisk entitet enligt artikel 6.1.
+
+6. Kommissionen ska anta en genomförandeakt om regler för förfaranden för begäranden om att anordna rådgivande uppdrag, för hantering av sådana begäranden, för genomförande av och rapportering från rådgivande uppdrag och för hantering av kommunikationen av kommissionens yttrande som avses i punkt 4 tredje stycket i denna artikel samt om de åtgärder som vidtagits, med vederbörlig hänsyn tagen till de berörda uppgifternas konfidentialitet och kommersiella känslighet. Denna genomförandeakt ska antas i enlighet med det granskningsförfarande som avses i artikel 24.2.
+
+7. Medlemsstaterna ska säkerställa att kritiska entiteter av särskild europeisk betydelse ger det rådgivande uppdraget åtkomst till uppgifter, system och anläggningar som rör tillhandahållandet av deras samhällsviktiga tjänster som är nödvändiga för utförandet av det berörda rådgivande uppdraget.
+
+8. Rådgivande uppdrag ska genomföras i enlighet med tillämplig nationell rätt i den medlemsstat där de äger rum, med respekt för den medlemsstatens ansvar för den nationella säkerheten och skyddet av sina säkerhetsintressen.
+
+9. När kommissionen anordnar rådgivande uppdrag ska den ta hänsyn till rapporterna från inspektioner som kommissionen har genomfört enligt förordningarna (EG) nr 725/2004 och (EG) nr 300/2008 och till rapporterna från övervakning som kommissionen har utfört enligt direktiv 2005/65/EG med avseende på den berörda kritiska entiteten.
+
+10. Kommissionen ska underrätta den grupp för kritiska entiteters motståndskraft som avses i artikel 19 när ett rådgivande uppdrag anordnas. Den medlemsstat där det rådgivande uppdraget ägde rum och kommissionen ska även informera gruppen för kritiska entiteters motståndskraft om de viktigaste resultaten av det rådgivande uppdraget och de tillvaratagna erfarenheterna i syfte att underlätta ett ömsesidigt lärande.
+
+# kap-5 | Kapitel V | SAMARBETE OCH RAPPORTERING | cpt_V
+
+## Artikel 19 | Gruppen för kritiska entiteters motståndskraft | art_19
+1. En grupp för kritiska entiteters motståndskraft inrättas härmed. Gruppen för kritiska entiteters motståndskraft ska ge kommissionen stöd och underlätta samarbete mellan medlemsstaterna och informationsutbyte om frågor som rör detta direktiv.
+
+2. Gruppen för kritiska entiteters motståndskraft ska bestå av företrädare för medlemsstaterna och kommissionen, vid behov med säkerhetsgodkännande. Gruppen för kritiska entiteters motståndskraft får bjuda in andra berörda parter att delta i sitt arbete när detta är relevant för fullgörandet av gruppens uppgifter. Om Europaparlamentet så begär får kommissionen bjuda in experter från Europaparlamentet att närvara vid möten i gruppen för kritiska entiteters motståndskraft.
+
+Kommissionens företrädare ska vara ordförande för gruppen för kritiska entiteters motståndskraft.
+
+3. Gruppen för kritiska entiteters motståndskraft ska ha följande uppgifter:
+
+a)
+
+Stödja kommissionen med att bistå medlemsstaterna för att stärka deras kapacitet att bidra till att säkerställa kritiska entiteters motståndskraft i enlighet med detta direktiv.
+
+b)
+
+Analysera strategierna för att identifiera bästa praxis för strategierna.
+
+c)
+
+Underlätta utbyte av bästa praxis i fråga om medlemsstaternas identifiering av kritiska entiteter enligt artikel 6.1, inbegripet i förhållande till gränsöverskridande och sektorsöverskridande beroenden och med avseende på risker och incidenter.
+
+d)
+
+När så är lämpligt, bidra i frågor som rör detta direktiv till dokument om motståndskraft på unionsnivå.
+
+e)
+
+Bidra till utarbetandet av de riktlinjer som avses i artiklarna 7.3 och 13.5 och, på begäran, eventuella delegerade akter eller genomförandeakter som antas enligt detta direktiv.
+
+f)
+
+Analysera de sammanfattande rapporter som avses i artikel 9.3 i syfte att främja utbyte av bästa praxis om de åtgärder som vidtagits i enlighet med artikel 15.3.
+
+g)
+
+Utbyta bästa praxis angående den incidentanmälan som avses i artikel 15.
+
+h)
+
+Diskutera de sammanfattande rapporterna från rådgivande uppdrag och tillvaratagna erfarenheter i enlighet med artikel 18.10.
+
+i)
+
+Utbyta information och bästa praxis om innovation, forskning och utveckling som rör kritiska entiteters motståndskraft i enlighet med detta direktiv.
+
+j)
+
+Vid behov utbyta information om frågor som rör kritiska entiteters motståndskraft med unionens berörda institutioner, organ och byråer.
+
+4. Gruppen för kritiska entiteters motståndskraft ska, senast den 17 januari 2025 och därefter vartannat år, utarbeta ett arbetsprogram med åtgärder som ska vidtas för att genomföra dess mål och uppgifter. Det arbetsprogrammet ska överensstämma med kraven i och målen för detta direktiv.
+
+5. Gruppen för kritiska entiteters motståndskraft ska regelbundet och under alla omständigheter minst en gång om året sammanträda med den samarbetsgrupp som inrättats enligt direktiv (EU) 2022/2555 för att främja och underlätta samarbete och informationsutbyte.
+
+6. Kommissionen får anta genomförandeakter i vilka fastställs de förfaranden som krävs för verksamheten i gruppen för kritiska entiteters motståndskraft, under iakttagande av artikel 1.4. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 24.2.
+
+7. Kommissionen ska till gruppen för kritiska entiteters motståndskraft lämna en sammanfattande rapport om den information som har lämnats av medlemsstaterna enligt artiklarna 4.3 och 5.4 senast den 17 januari 2027 och därefter vid behov och minst vart fjärde år.
+
+## Artikel 20 | Kommissionens stöd till behöriga myndigheter och kritiska entiteter | art_20
+1. Kommissionen ska när så är lämpligt ge medlemsstaterna och kritiska entiteter stöd för att uppfylla deras skyldigheter enligt detta direktiv. Kommissionen ska utarbeta en översikt på unionsnivå över gränsöverskridande och sektorsöverskridande risker för tillhandahållandet av samhällsviktiga tjänster, anordna rådgivande uppdrag enligt artiklarna 13.4 och 18 och underlätta informationsutbyte mellan medlemsstater och experter i hela unionen.
+
+2. Kommissionen ska komplettera medlemsstaternas verksamhet som avses i artikel 10 genom att utveckla bästa praxis, vägledningsmaterial och metoder samt gränsöverskridande utbildningstillfällen och övningar för att testa kritiska entiteters motståndskraft.
+
+3. Kommissionen ska informera medlemsstaterna om de ekonomiska resurser på unionsnivå som finns tillgängliga för medlemsstaterna för att stärka kritiska entiteters motståndskraft.
+
+# kap-6 | Kapitel VI | TILLSYN OCH EFTERLEVNADSKONTROLL | cpt_VI
+
+## Artikel 21 | Tillsyn och efterlevnadskontroll | art_21
+1. För att bedöma om de entiteter som medlemsstaterna har identifierat som kritiska entiteter enligt artikel 6.1 fullgör de skyldigheter som fastställs i detta direktiv ska medlemsstaterna säkerställa att de behöriga myndigheterna har befogenheter och medel för att
+
+a)
+
+genomföra inspektioner på plats av den kritiska infrastruktur och de lokaler som den kritiska entiteten använder för att tillhandahålla sina samhällsviktiga tjänster och tillsyn på distans av de åtgärder som vidtagits av kritiska entiteter i enlighet med artikel 13,
+
+b)
+
+utföra eller beställa revisioner av kritiska entiteter.
+
+2. Medlemsstaterna ska säkerställa att de behöriga myndigheterna har befogenheter och medel för att, när så är nödvändigt för att fullgöra deras uppgifter enligt detta direktiv, kräva att entiteter enligt direktiv (EU) 2022/2555 som medlemsstaterna har identifierat som kritiska entiteter enligt det här direktivet inom en rimlig tidsfrist, som fastställs av dessa myndigheter, lämnar
+
+a)
+
+den information som är nödvändig för att bedöma om de åtgärder som entiteterna har vidtagit för att säkerställa sin motståndskraft uppfyller kraven i artikel 13,
+
+b)
+
+bevis på att de åtgärderna faktiskt har genomförts, inklusive resultatet av en revision som har utförts av en oberoende och kvalificerad revisor som har valts av entiteten och som har utförts på entitetens bekostnad.
+
+När de behöriga myndigheterna begär denna information ska de ange syftet med kravet och specificera vilken information som krävs.
+
+3. Utan att det påverkar möjligheten att ålägga sanktioner i enlighet med artikel 22 får de behöriga myndigheterna, efter de tillsynsåtgärder som avses i punkt 1 i den här artikeln eller den bedömning av information som avses i punkt 2 i den här artikeln, beordra de berörda kritiska entiteterna att vidta de åtgärder som är nödvändiga och proportionella för att avhjälpa konstaterade överträdelser av detta direktiv, inom en rimlig tidsfrist som fastställs av de myndigheterna, och att lämna information om de åtgärder som har vidtagits till de myndigheterna. Sådana förelägganden ska framför allt ta hänsyn till hur allvarlig överträdelsen är.
+
+4. Medlemsstaterna ska säkerställa att de befogenheter som anges i punkterna 1, 2 och 3 endast kan utövas om de omfattas av lämpliga skyddsåtgärder. Sådana skyddsåtgärder ska särskilt garantera att befogenheterna utövas på ett objektivt, öppet och proportionerligt sätt och att de berörda kritiska entiteternas rättigheter och legitima intressen, såsom skyddet av handels- och affärshemligheter, skyddas på vederbörligt sätt, däribland rätten att höras, rätten till försvar och rätten till rättslig prövning inför en oberoende domstol.
+
+5. Medlemsstaterna ska säkerställa att när en behörig myndighet enligt detta direktiv bedömer efterlevnaden hos en kritisk entitet enligt denna artikel ska den behöriga myndigheten informera de behöriga myndigheterna i de berörda medlemsstaterna enligt direktiv (EU) 2022/2555. I detta syfte ska medlemsstaterna säkerställa att de behöriga myndigheterna enligt det här direktivet kan begära att de behöriga myndigheterna enligt direktiv (EU) 2022/2555 ska utöva sina tillsyns- och efterlevnadskontrollbefogenheter med avseende på en entitet enligt det direktivet som har identifierats som en kritisk entitet enligt det här direktivet. För det ändamålet ska medlemsstaterna säkerställa att de behöriga myndigheterna enligt det här direktivet samarbetar och utbyter information med de behöriga myndigheterna enligt direktiv (EU) 2022/2555.
+
+## Artikel 22 | Sanktioner | art_22
+Medlemsstaterna ska fastställa regler om sanktioner för överträdelse av de nationella åtgärder som antagits enligt detta direktiv och vidta alla nödvändiga åtgärder för att säkerställa att de tillämpas. Sanktionerna ska vara effektiva, proportionella och avskräckande. Medlemsstaterna ska till kommissionen anmäla dessa regler och åtgärder senast den 17 oktober 2024 samt utan dröjsmål eventuella ändringar som berör dem.
+
+# kap-7 | Kapitel VII | DELEGERADE AKTER OCH GENOMFÖRANDEAKTER | cpt_VII
+
+## Artikel 23 | Utövande av delegeringen | art_23
+1. Befogenheten att anta delegerade akter ges till kommissionen med förbehåll för de villkor som anges i denna artikel.
+
+2. Den befogenhet att anta delegerade akter som avses i artikel 5.1 ska ges till kommissionen för en period på fem år från och med den 16 januari 2023.
+
+3. Den delegering av befogenhet som avses i artikel 5.1 får när som helst återkallas av Europaparlamentet eller rådet. Ett beslut om återkallelse innebär att delegeringen av den befogenhet som anges i beslutet upphör att gälla. Beslutet får verkan dagen efter det att det offentliggörs i Europeiska unionens officiella tidning, eller vid ett senare i beslutet angivet datum. Det påverkar inte giltigheten av delegerade akter som redan har trätt i kraft.
+
+4. Innan kommissionen antar en delegerad akt ska den samråda med experter som utsetts av varje medlemsstat i enlighet med principerna i det interinstitutionella avtalet av den 13 april 2016 om bättre lagstiftning.
+
+5. Så snart kommissionen antar en delegerad akt ska den samtidigt delge Europaparlamentet och rådet denna.
+
+6. En delegerad akt som antas enligt artikel 5.1 ska träda i kraft endast om varken Europaparlamentet eller rådet har gjort invändningar mot den delegerade akten inom en period på två månader från den dag då akten delgavs Europaparlamentet och rådet, eller om både Europaparlamentet och rådet, före utgången av den perioden, har underrättat kommissionen om att de inte kommer att invända. Denna period ska förlängas med två månader på Europaparlamentets eller rådets initiativ.
+
+## Artikel 24 | Kommittéförfarande | art_24
+1. Kommissionen ska biträdas av en kommitté. Denna kommitté ska vara en kommitté i den mening som avses i förordning (EU) nr 182/2011.
+
+2. När det hänvisas till denna punkt ska artikel 5 i förordning (EU) nr 182/2011 tillämpas.
+
+# kap-8 | Kapitel VIII | SLUTBESTÄMMELSER | cpt_VIII
+
+## Artikel 25 | Rapportering och översyn | art_25
+Kommissionen ska senast den 17 juli 2027 överlämna en rapport till Europaparlamentet och rådet med en bedömning av i vilken utsträckning varje medlemsstat har vidtagit de åtgärder som är nödvändiga för att följa detta direktiv.
+
+Kommissionen ska regelbundet se över hur detta direktiv fungerar och rapportera resultaten till Europaparlamentet och rådet. Rapporten ska framför allt bedöma mervärdet av detta direktiv, dess effekt när det gäller att säkerställa kritiska entiteters motståndskraft och huruvida bilagan till detta direktiv bör ändras. Kommissionen ska lämna den första rapporten senast den 17 juni 2029. Vid rapportering enligt denna artikel ska kommissionen beakta relevanta dokument från gruppen för kritiska entiteters motståndskraft.
+
+## Artikel 26 | Införlivande | art_26
+1. Medlemsstaterna ska senast den 17 oktober 2024 anta och offentliggöra de bestämmelser som är nödvändiga för att följa detta direktiv. De ska genast underrätta kommissionen om detta.
+
+De ska tillämpa dessa bestämmelser från och med den 18 oktober 2024.
+
+2. När en medlemsstat antar de bestämmelser som avses i punkt 1 ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.
+
+## Artikel 27 | Upphävande av direktiv 2008/114/EG | art_27
+Direktiv 2008/114/EG ska upphöra att gälla med verkan från och med den 18 oktober 2024.
+
+Hänvisningar till det upphävda direktivet ska anses som hänvisningar till det här direktivet.
+
+## Artikel 28 | Ikraftträdande | art_28
+Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.
+
+## Artikel 29 | Adressater | art_29
+Detta direktiv riktar sig till medlemsstaterna.
+
+Utfärdat i Strasbourg den 14 december 2022.
+
+På Europaparlamentets vägnar
+
+R. METSOLA
+
+Ordförande
+
+På rådets vägnar
+
+M. BEK
+
+Ordförande
+
+(1)
+
+EUT C 286, 16.7.2021, s. 170.
+
+(2)
+
+EUT C 440, 29.10.2021, s. 99.
+
+(3) Europaparlamentets ståndpunkt av den 22 november 2022 (ännu inte offentliggjord i EUT) och rådets beslut av den 8 december 2022.
+
+(4) Rådets direktiv 2008/114/EG av den 8 december 2008 om identifiering av, och klassificering som, europeisk kritisk infrastruktur och bedömning av behovet att stärka skyddet av denna (EUT L 345, 23.12.2008, s. 75).
+
+(5) Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv (EU) 2018/1972, och om upphävande av direktiv (EU) 2016/1148 (NIS 2-direktivet) (se sidan 80 i detta nummer av EUT).
+
+(6) Europaparlamentets och rådets direktiv (EU) 2016/1148 av den 6 juli 2016 om åtgärder för en hög gemensam nivå på säkerhet i nätverks- och informationssystem i hela unionen (EUT L 194, 19.7.2016, s. 1).
+
+(7) Europaparlamentets och rådets förordning (EU) 2019/452 av den 19 mars 2019 om upprättande av en ram för granskning av utländska direktinvesteringar i unionen (EUT L 79I, 21.3.2019, s. 1).
+
+(8) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister (EUT L 201, 27.7.2012, s. 1).
+
+(9) Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012 (EUT L 176, 27.6.2013, s. 1).
+
+(10) Europaparlamentets och rådets förordning (EU) nr 600/2014 av den 15 maj 2014 om marknader för finansiella instrument och om ändring av förordning (EU) nr 648/2012 (EUT L 173, 12.6.2014, s. 84).
+
+(11) Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut och värdepappersföretag, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG (EUT L 176, 27.6.2013, s. 338).
+
+(12) Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU (EUT L 173, 12.6.2014, s. 349).
+
+(13) Europaparlamentets och rådets förordning (EU) 2022/2554 av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011 (se sidan 1 i detta nummer av EUT).
+
+(14) Europaparlamentets och rådets förordning (EG) nr 725/2004 av den 31 mars 2004 om förbättrat sjöfartsskydd på fartyg och i hamnanläggningar (EUT L 129, 29.4.2004, s. 6).
+
+(15) Europaparlamentets och rådets förordning (EG) nr 300/2008 av den 11 mars 2008 om gemensamma skyddsregler för den civila luftfarten och om upphävande av förordning (EG) nr 2320/2002 (EUT L 97, 9.4.2008, s. 72).
+
+(16) Europaparlamentets och rådets direktiv 2005/65/EG av den 26 oktober 2005 om ökat hamnskydd (EUT L 310, 25.11.2005, s. 28).
+
+(17) Europaparlamentets och rådets direktiv 2008/96/EG av den 19 november 2008 om förvaltning av vägars säkerhet (EUT L 319, 29.11.2008, s. 59).
+
+(18) Kommissionens beslut av den 29 juni 2018 om inrättandet av EU:s plattform för tågresenärers säkerhet (EUT C 232, 3.7.2018, s. 10).
+
+(19) Rådets rambeslut 2009/315/RIF av den 26 februari 2009 om organisationen av medlemsstaternas utbyte av uppgifter ur kriminalregistret och uppgifternas innehåll (EUT L 93, 7.4.2009, s. 23).
+
+(20) Europaparlamentets och rådets förordning (EU) 2019/816 av den 17 april 2019 om inrättande av ett centraliserat system för identifiering av medlemsstater som innehar uppgifter om fällande domar mot tredjelandsmedborgare och statslösa personer (Ecris-TCN) för att komplettera det europeiska informationssystemet för utbyte av uppgifter ur kriminalregister och om ändring av förordning (EU) 2018/1726 (EUT L 135, 22.5.2019, s. 1).
+
+(21) Europaparlamentets och rådets förordning (EU) 2018/1862 av den 28 november 2018 om inrättande, drift och användning av Schengens informationssystem (SIS) på området polissamarbete och straffrättsligt samarbete, om ändring och upphävande av rådets beslut 2007/533/RIF och om upphävande av Europaparlamentets och rådets förordning (EG) nr 1986/2006 och kommissionens beslut 2010/261/EU (EUT L 312, 7.12.2018, s. 56).
+
+(22) Europaparlamentets och rådets beslut nr 1313/2013/EU av den 17 december 2013 om en civilskyddsmekanism för unionen (EUT L 347, 20.12.2013, s. 924).
+
+(23) Europaparlamentets och rådets förordning (EU) 2021/1149 av den 7 juli 2021 om inrättande av Fonden för inre säkerhet (EUT L 251, 15.7.2021, s. 94).
+
+(24) Europaparlamentets och rådets förordning (EU) 2021/695 av den 28 april 2021 om inrättande av Horisont Europa – ramprogrammet för forskning och innovation, om fastställande av dess regler för deltagande och spridning och om upphävande av förordningarna (EU) nr 1290/2013 och (EU) nr 1291/2013 (EUT L 170, 12.5.2021, s. 1).
+
+(25)
+
+EUT L 123, 12.5.2016, s. 1.
+
+(26) Europaparlamentets och rådets förordning (EU) nr 182/2011 av den 16 februari 2011 om fastställande av allmänna regler och principer för medlemsstaternas kontroll av kommissionens utövande av sina genomförandebefogenheter (EUT L 55, 28.2.2011, s. 13).
+
+(27) Europaparlamentets och rådets förordning (EU) 2018/1725 av den 23 oktober 2018 om skydd för fysiska personer med avseende på behandling av personuppgifter som utförs av unionens institutioner, organ och byråer och om det fria flödet av sådana uppgifter samt om upphävande av förordning (EG) nr 45/2001 och beslut nr 1247/2002/EG (EUT L 295, 21.11.2018, s. 39).
+
+(28) Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) (EUT L 119, 4.5.2016, s. 1).
+
+(29) Europaparlamentets och rådets direktiv 2002/58/EG av den 12 juli 2002 om behandling av personuppgifter och integritetsskydd inom sektorn för elektronisk kommunikation (direktiv om integritet och elektronisk kommunikation) (EGT L 201, 31.7.2002, s. 37).
+
+(30) Europaparlamentets och rådets förordning (EU) nr 1025/2012 av den 25 oktober 2012 om europeisk standardisering och om ändring av rådets direktiv 89/686/EEG och 93/15/EEG samt av Europaparlamentets och rådets direktiv 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG och 2009/105/EG samt om upphävande av rådets beslut 87/95/EEG och Europaparlamentets och rådets beslut 1673/2006/EG (EUT L 316, 14.11.2012, s. 12).
+
+(31) Kommissionens rekommendation 2003/361/EG av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag (EUT L 124, 20.5.2003, s. 36).
+
+(32) Europaparlamentets och rådets direktiv (EU) 2017/541 av den 15 mars 2017 om bekämpande av terrorism, om ersättande av rådets rambeslut 2002/475/RIF och om ändring av rådets beslut 2005/671/RIF (EUT L 88, 31.3.2017, s. 6).
+
+(33) Europaparlamentets och rådets förordning (EU) 2017/1938 av den 25 oktober 2017 om åtgärder för att säkerställa försörjningstryggheten för gas och om upphävande av förordning (EU) nr 994/2010 (EUT L 280, 28.10.2017, s. 1).
+
+(34) Europaparlamentets och rådets förordning (EU) 2019/941 av den 5 juni 2019 om riskberedskap inom elsektorn och om upphävande av direktiv 2005/89/EG (EUT L 158, 14.6.2019, s. 1).
+
+(35) Europaparlamentets och rådets direktiv 2007/60/EG av den 23 oktober 2007 om bedömning och hantering av översvämningsrisker (EUT L 288, 6.11.2007, s. 27).
+
+(36) Europaparlamentets och rådets direktiv 2012/18/EU av den 4 juli 2012 om åtgärder för att förebygga och begränsa faran för allvarliga olyckshändelser där farliga ämnen ingår och om ändring och senare upphävande av rådets direktiv 96/82/EG (EUT L 197, 24.7.2012, s. 1).
+
+(37) Europaparlamentets och rådets direktiv (EU) 2016/680 av den 27 april 2016 om skydd för fysiska personer med avseende på behöriga myndigheters behandling av personuppgifter för att förebygga, förhindra, utreda, avslöja eller lagföra brott eller verkställa straffrättsliga påföljder, och det fria flödet av sådana uppgifter och om upphävande av rådets rambeslut 2008/977/RIF (EUT L 119, 4.5.2016, s. 89).
+
+BILAGA
+
+SEKTORER, UNDERSEKTORER OCH KATEGORIER AV ENTITETER
+
+Sektorer
+
+Undersektorer
+
+Kategorier av entiteter
+
+1.
+
+Energi
+
+a)
+
+Elektricitet
+
+—
+
+Elföretag enligt definitionen i artikel 2.57 i Europaparlamentets och rådets direktiv (EU) 2019/944 (1) som bedriver leverans enligt definitionen i artikel 2.12 i det direktivet
+
+—
+
+Systemansvariga för distributionssystem enligt definitionen i artikel 2.29 i direktiv (EU) 2019/944
+
+—
+
+Systemansvariga för överföringssystem enligt definitionen i artikel 2.35 i direktiv (EU) 2019/944
+
+—
+
+Producenter enligt definitionen i artikel 2.38 i direktiv (EU) 2019/944
+
+—
+
+Nominerade elmarknadsoperatörer enligt definitionen i artikel 2.8 i Europaparlamentets och rådets förordning (EU) 2019/943 (2)
+
+—
+
+Marknadsaktörer enligt definitionen i artikel 2.25 i förordning (EU) 2019/943 som tillhandahåller aggregering, efterfrågeflexibilitet eller energilagringstjänster enligt definitionerna i artikel 2.18, 2.20 och 2.59 i direktiv (EU) 2019/944
+
+b)
+
+Fjärrvärme eller fjärrkyla
+
+—
+
+Operatörer av fjärrvärme eller fjärrkyla enligt definitionen i artikel 2.19 i Europaparlamentets och rådets direktiv (EU) 2018/2001 (3)
+
+c)
+
+Olja
+
+—
+
+Operatörer av oljeledningar
+
+—
+
+Operatörer av anläggningar för oljeproduktion, raffinaderier, bearbetningsanläggningar och anläggningar för lagring och överföring av olja
+
+—
+
+Centrala lagringsenheter enligt definitionen i artikel 2 f i rådets direktiv 2009/119/EG (4)
+
+d)
+
+Gas
+
+—
+
+Gashandelsföretag eller gashandlare enligt definitionen i artikel 2.8 i Europaparlamentets och rådets direktiv 2009/73/EG (5)
+
+—
+
+Systemansvariga för distributionssystemet enligt definitionen i artikel 2.6 i direktiv 2009/73/EG
+
+—
+
+Systemansvariga för överföringssystemet enligt definitionen i artikel 2.4 i direktiv 2009/73/EG
+
+—
+
+Systemansvariga för lagringssystemet enligt definitionen i artikel 2.10 i direktiv 2009/73/EG
+
+—
+
+Systemansvariga för en LNG-anläggning enligt definitionen i artikel 2.12 i direktiv 2009/73/EG
+
+—
+
+Naturgasföretag enligt definitionen i artikel 2.1 i direktiv 2009/73/EG
+
+—
+
+Operatörer av raffinaderier och bearbetningsanläggningar för naturgas
+
+e)
+
+Vätgas
+
+—
+
+Operatörer av produktion, lagring och överföring av vätgas
+
+2.
+
+Transport
+
+a)
+
+Luftfart
+
+—
+
+Lufttrafikföretag enligt definitionen i artikel 3.4 i förordning (EG) nr 300/2008 och som används för kommersiella syften
+
+—
+
+Flygplatsens ledningsenheter enligt definitionen i artikel 2.2 i Europaparlamentets och rådets direktiv 2009/12/EG (6), flygplatser enligt definitionen i artikel 2.1 i det direktivet, inbegripet de huvudflygplatser som förtecknas i avsnitt 2 i bilaga II till Europaparlamentets och rådets förordning (EU) nr 1315/2013 (7) och entiteter som driver kringliggande installationer vid flygplatser
+
+—
+
+Operatörer inom trafikstyrning och trafikledning som tillhandahåller flygkontrolltjänster enligt definitionen i artikel 2.1 i Europaparlamentets och rådets förordning (EG) nr 549/2004 (8)
+
+b)
+
+Järnväg
+
+—
+
+Infrastrukturförvaltare enligt definitionen i artikel 3.2 i Europaparlamentets och rådets direktiv 2012/34/EU (9)
+
+—
+
+Järnvägsföretag enligt definitionen i artikel 3.1 i direktiv 2012/34/EU och tjänsteleverantörer enligt definitionen i artikel 3.12 i det direktivet
+
+c)
+
+Vatten
+
+—
+
+Transportföretag som bedriver persontrafik och godstrafik på inre vattenvägar, till havs och längs kuster, enligt definitionerna för sjötransport i bilaga I till Europaparlamentets och rådets förordning (EG) nr 725/2004, exklusive de enskilda fartyg som drivs av dessa företag
+
+—
+
+Ledningsenheter för hamnar enligt definitionen i artikel 3.1 i direktiv 2005/65/EG, inbegripet deras hamnanläggningar enligt definitionen i artikel 2.11 i förordning (EG) nr 725/2004, och entiteter som sköter anläggningar och utrustning i hamnar
+
+—
+
+Operatörer av sjötrafikinformationstjänst (VTS) enligt definitionen i artikel 3 o i Europaparlamentets och rådets direktiv 2002/59/EG (10)
+
+d)
+
+Väg
+
+—
+
+Vägmyndigheter enligt definitionen i artikel 2.12 i kommissionens delegerade förordning (EU) 2015/962 (11) med ansvar för trafikstyrning, med undantag för offentliga entiteter för vilka trafikstyrning eller driften av intelligenta transportsystem är en icke väsentlig del av deras allmänna verksamhet
+
+—
+
+Operatörer av intelligenta transportsystem enligt definitionen i artikel 4.1 i Europaparlamentets och rådets direktiv 2010/40/EU (12)
+
+e)
+
+Kollektivtrafik
+
+—
+
+Kollektivtrafikföretag enligt definitionen i artikel 2 d i Europaparlamentets och rådets förordning (EG) nr 1370/2007 (13)
+
+3.
+
+Bankverksamhet
+
+—
+
+Kreditinstitut enligt definitionen i artikel 4.1 i förordning (EU) nr 575/2013
+
+4.
+
+Finansmarknadsinfrastruktur
+
+—
+
+Operatörer av handelsplatser enligt definitionen i artikel 4.24 i direktiv 2014/65/EU
+
+—
+
+Centrala motparter enligt definitionen i artikel 2.1 i förordning (EU) nr 648/2012
+
+5.
+
+Hälso- och sjukvård
+
+—
+
+Vårdgivare enligt definitionen i artikel 3 g i Europaparlamentets och rådets direktiv 2011/24/EU (14)
+
+—
+
+EU-referenslaboratorier som avses i artikel 15 i Europaparlamentets och rådets förordning (EU) 2022/2371 (15)
+
+—
+
+Entiteter som bedriver forskning och utveckling avseende läkemedel enligt definitionen i artikel 1.2 i Europaparlamentets och rådets direktiv 2001/83/EG (16)
+
+—
+
+Entiteter som tillverkar farmaceutiska basprodukter och läkemedel som avses i huvudgrupp 21 avsnitt C i Nace Rev. 2
+
+—
+
+Entiteter som tillverkar medicintekniska produkter som betraktas som kritiska vid ett hot mot folkhälsan (förteckning över kritiska medicintekniska produkter vid ett hot mot folkhälsan) i den mening som avses i artikel 22 i Europaparlamentets och rådets förordning (EU) 2022/123 (17)
+
+—
+
+Entiteter med tillstånd att bedriva partihandel i den mening som avses i artikel 79 i direktiv 2001/83/EG
+
+6.
+
+Dricksvatten
+
+—
+
+Leverantörer och distributörer av dricksvatten enligt definitionen i artikel 2.1 a i Europaparlamentets och rådets direktiv (EU) 2020/2184 (18), undantaget distributörer för vilka distribution av dricksvatten utgör en icke väsentlig del av deras allmänna verksamhet, som består i distribution av andra förnödenheter och varor
+
+7.
+
+Avloppsvatten
+
+—
+
+Verksamheter som samlar ihop, släpper ut och renar avloppsvatten från tätbebyggelse, hushållsspillvatten eller industrispillvatten enligt definitionerna i artikel 2.1, 2.2 och 2.3 i rådets direktiv 91/271/EEG (19), undantaget verksamheter som samlar in, släpper ut eller renar avloppsvatten från tätbebyggelse, hushållsspillvatten eller industrispillvatten som en icke väsentlig del av sin allmänna verksamhet
+
+8.
+
+Digital infrastruktur
+
+—
+
+Leverantörer av internetknutpunkter enligt definitionen i artikel 6.18 i direktiv (EU) 2022/2555
+
+—
+
+Leverantörer av DNS-tjänster enligt definitionen i artikel 6.20 i direktiv (EU) 2022/2555, med undantag för operatörer av rotnamnsservrar
+
+—
+
+Registreringsenheter för toppdomäner enligt definitionen i artikel 6.21 i direktiv (EU) 2022/2555
+
+—
+
+Leverantörer av molntjänster enligt definitionen i artikel 6.30 i direktiv (EU) 2022/2555
+
+—
+
+Tillhandahållare av datacentralstjänster enligt definitionen i artikel 6.31 i direktiv (EU) 2022/2555
+
+—
+
+Tillhandahållare av nätverk för innehållsleverans enligt definitionen i artikel 6.32 i direktiv (EU) 2022/2555
+
+—
+
+Tillhandahållare av betrodda tjänster enligt definitionen i artikel 3.19 i Europaparlamentets och rådets förordning (EU) nr 910/2014 (20).
+
+—
+
+Tillhandahållare av allmänna elektroniska kommunikationsnät enligt definitionen i artikel 2.8 i Europaparlamentets och rådets direktiv (EU) 2018/1972 (21)
+
+—
+
+Tillhandahållare av elektroniska kommunikationstjänster i den mening som avses i artikel 2.4 i direktiv (EU) 2018/1972 i den mån deras tjänster är allmänt tillgängliga
+
+9.
+
+Offentlig förvaltning
+
+—
+
+Offentliga förvaltningsentiteter hos nationella regeringar såsom de definieras av en medlemsstat i enlighet med nationell rätt
+
+10.
+
+Rymden
+
+—
+
+Operatörer av markbaserad infrastruktur som ägs, förvaltas och drivs av medlemsstater eller privata parter och som stöder tillhandahållandet av rymdbaserade tjänster, undantaget tillhandahållare av allmänna elektroniska kommunikationsnät enligt definitionen i artikel 2.8 i direktiv (EU) 2018/1972
+
+11.
+
+Produktion, bearbetning och distribution av livsmedel
+
+—
+
+Livsmedelsföretag enligt definitionen i artikel 3.2 i Europaparlamentets och rådets förordning (EG) nr 178/2002 (22) som uteslutande bedriver logistikverksamhet och grossisthandel samt storskalig industriell produktion och bearbetning
+
+(1) Europaparlamentets och rådets direktiv (EU) 2019/944 av den 5 juni 2019 om gemensamma regler för den inre marknaden för el och om ändring av direktiv 2012/27/EU (EUT L 158, 14.6.2019, s. 125).
+
+(2) Europaparlamentets och rådets förordning (EU) 2019/943 av den 5 juni 2019 om den inre marknaden för el (EUT L 158, 14.6.2019, s. 54).
+
+(3) Europaparlamentets och rådets direktiv (EU) 2018/2001 av den 11 december 2018 om främjande av användningen av energi från förnybara energikällor (EUT L 328, 21.12.2018, s. 82).
+
+(4) Rådets direktiv 2009/119/EG av den 14 september 2009 om skyldighet för medlemsstaterna att inneha minimilager av råolja och/eller petroleumprodukter (EUT L 265, 9.10.2009, s. 9).
+
+(5) Europaparlamentets och rådets direktiv 2009/73/EG av den 13 juli 2009 om gemensamma regler för den inre marknaden för naturgas och om upphävande av direktiv 2003/55/EG (EUT L 211, 14.8.2009, s. 94).
+
+(6) Europaparlamentets och rådets direktiv 2009/12/EG av den 11 mars 2009 om flygplatsavgifter (EUT L 70, 14.3.2009, s. 11).
+
+(7) Europaparlamentets och rådets förordning (EU) nr 1315/2013 av den 11 december 2013 om unionens riktlinjer för utbyggnad av det transeuropeiska transportnätet och om upphävande av beslut nr 661/2010/EU (EUT L 348, 20.12.2013, s. 1).
+
+(8) Europaparlamentets och rådets förordning (EG) nr 549/2004 av den 10 mars 2004 om ramen för inrättande av det gemensamma europeiska luftrummet (”ramförordning”) (EUT L 96, 31.3.2004, s. 1).
+
+(9) Europaparlamentets och rådets direktiv 2012/34/EU av den 21 november 2012 om inrättande av ett gemensamt europeiskt järnvägsområde (EUT L 343, 14.12.2012, s. 32).
+
+(10) Europaparlamentets och rådets direktiv 2002/59/EG av den 27 juni 2002 om inrättande av ett övervaknings- och informationssystem för sjötrafik i gemenskapen och om upphävande av rådets direktiv 93/75/EEG (EGT L 208, 5.8.2002, s. 10).
+
+(11) Kommissionens delegerade förordning (EU) 2015/962 av den 18 december 2014 om komplettering av Europaparlamentets och rådets direktiv 2010/40/EU vad gäller tillhandahållande av EU-omfattande realtidstrafikinformationstjänster (EUT L 157, 23.6.2015, s. 21).
+
+(12) Europaparlamentets och rådets direktiv 2010/40/EU av den 7 juli 2010 om ett ramverk för införande av intelligenta transportsystem på vägtransportområdet och för gränssnitt mot andra transportslag (EUT L 207, 6.8.2010, s. 1).
+
+(13) Europaparlamentets och rådets förordning (EG) nr 1370/2007 av den 23 oktober 2007 om kollektivtrafik på järnväg och väg och om upphävande av rådets förordning (EEG) nr 1191/69 och (EEG) nr 1107/70 (EUT L 315, 3.12.2007, s. 1).
+
+(14) Europaparlamentets och rådets direktiv 2011/24/EU av den 9 mars 2011 om tillämpningen av patienträttigheter vid gränsöverskridande hälso- och sjukvård (EUT L 88, 4.4.2011, s. 45).
+
+(15) Europaparlamentets och rådets förordning (EU) 2022/2371 av den 23 november 2022 om allvarliga gränsöverskridande hot mot människors hälsa och om upphävande av beslut nr 1082/2013/EU (EUT L 314, 6.12.2022, s 26).
+
+(16) Europaparlamentets och rådets direktiv 2001/83/EG av den 6 november 2001 om upprättande av gemenskapsregler för humanläkemedel (EGT L 311, 28.11.2001, s. 67).
+
+(17) Europaparlamentets och rådets förordning (EU) 2022/123 av den 25 januari 2022 om en förstärkt roll för Europeiska läkemedelsmyndigheten vid krisberedskap och krishantering avseende läkemedel och medicintekniska produkter (EUT L 20, 31.1.2022, s. 1).
+
+(18) Europaparlamentets och rådets direktiv (EU) 2020/2184 av den 16 december 2020 om kvaliteten på dricksvatten, (EUT L 435, 23.12.2020, s. 1).
+
+(19) Rådets direktiv 91/271/EEG av den 21 maj 1991 om rening av avloppsvatten från tätbebyggelse (EGT L 135, 30.5.1991, s. 40).
+
+(20) Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av direktiv 1999/93/EG (EUT L 257, 28.8.2014, s. 73).
+
+(21) Europaparlamentets och rådets direktiv (EU) 2018/1972 av den 11 december 2018 om inrättande av en europeisk kodex för elektronisk kommunikation (EUT L 321, 17.12.2018, s. 36).
+
+(22) Europaparlamentets och rådets förordning (EG) nr 178/2002 av den 28 januari 2002 om allmänna principer och krav för livsmedelslagstiftning, om inrättande av Europeiska myndigheten för livsmedelssäkerhet och om förfaranden i frågor som gäller livsmedelssäkerhet (EGT L 31, 1.2.2002, s. 1).

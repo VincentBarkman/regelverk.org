@@ -1,0 +1,102 @@
+---
+title: Governance
+description: OWASP SAMM 2.2.0 – Governance
+source: owasp-samm
+ref: GOVERNANCE
+designation: OWASP SAMM 2.2.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://owaspsamm.org/
+version: 2.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+Governance focuses on the processes and activities related to how an organization manages overall software development activities. More specifically, this includes concerns that impact cross-functional groups involved in development, as well as business processes established at the organization level.
+
+### Strategy and Metrics (SM)
+
+Software assurance entails many different activities and concerns. Without an overall plan, you might be spending a lot of effort to build in security, while in fact your efforts may be unaligned, disproportional or even counterproductive. The goal of the Strategy and Metrics (SM) practice is to build an efficient and effective plan for realizing your software security objectives within your organization.
+
+A software security program that selects and prioritizes activities of the rest of the model serves as the foundation for your efforts. The practice works on building the plan, maintaining and disseminating it.
+
+At the same time, you want to keep track of your security posture and program improvements. A metrics-driven approach is included to ensure an accurate view on your activities. To measure is to know.
+
+#### Stream A – Create and Promote
+
+This stream is about creating and promoting an application security roadmap to set the objectives of the enterprise on this topic and increase alignment among stakeholders.
+
+- **Level 1:** Identify the organization's risk appetite — Identify organization drivers as they relate to the organization's risk tolerance.
+- **Level 2:** Define the security strategy — Publish a unified strategy for application security.
+- **Level 3:** Align security and business strategies — Align the application security program to support the organization's growth.
+
+#### Stream B – Measure and Improve
+
+This stream aims to drive the validity, relevance, and improvement of the application security roadmap through measurements of performance within the organization.
+
+- **Level 1:** Define basic security metrics — Define metrics with insight into the effectiveness and efficiency of the Application Security Program.
+- **Level 2:** Set strategic KPIs — Set targets and KPI's for measuring the program effectiveness.
+- **Level 3:** Drive the security program through metrics — Influence the strategy based on the metrics and organizational needs.
+
+### Policy and Compliance (PC)
+
+The Policy and Compliance (PC) practice focuses on understanding and meeting external legal and regulatory requirements while driving internal security standards to ensure compliance in a way that is aligned with the business purpose of the organization.
+
+A driving theme for improvement within this practice is describing the organization's standards and 3rd party obligations as application requirements, enabling efficient and automated audits that may be leveraged within the SDLC and continuously demonstrate that all expectations are met.
+
+In a sophisticated form, provision of this practice entails an organization-wide understanding of both internal standards and external compliance drivers while also maintaining low-latency checkpoints with project teams to ensure no project is operating outside expectations without visibility.
+
+#### Stream A – Policy and Standards
+
+This stream focuses on maintaining policies and standards and providing them to support integration into the SDLC.
+
+- **Level 1:** Define policies and standards — Determine a security baseline representing organization's policies and standards.
+- **Level 2:** Develop test procedures — Develop security requirements applicable to all applications.
+- **Level 3:** Measure compliance to policies and standards — Measure and report on the status of individual application's adherence to policies and standards.
+
+#### Stream B – Compliance Management
+
+This stream focuses on identifying and providing compliance requirements to support integration into the SDLC.
+
+- **Level 1:** Identify compliance requirements — Identify 3rd-party compliance drivers and requirements and map to existing policies and standards.
+- **Level 2:** Standardize policy and compliance requirements — Publish compliance-specific application requirements and test guidance.
+- **Level 3:** Measure compliance to external requirements — Measure and report on individual application's compliance with 3rd party requirements.
+
+### Education and Guidance (EG)
+
+The Education and Guidance (EG) practice focuses on arming personnel involved in the software lifecycle with knowledge and resources to design, develop, and deploy secure software. With improved access to information, project teams can proactively identify and mitigate the specific security risks that apply to their organization.
+
+One major theme for improvement across the Objectives is providing training for employees and increasing their security awareness, either through instructor-led sessions or computer-based modules. As an organization progresses, it builds a broad base of training starting with developers and moving to other roles, culminating with the addition of role-based training to ensure applicability and effectiveness.
+
+In addition to training, this practice also requires the organization to make a significant investment in improving organizational culture to promote application security through collaboration between teams. Collaboration tools and increased transparency between technologies and tools support this approach to improve the security of the applications.
+
+#### Stream A – Training and Awareness
+
+Training and awareness focuses on increasing the overall knowledge around software security among the different stakeholders within the organization.
+
+- **Level 1:** Train all stakeholders for awareness — Provide security awareness training for all personnel involved in software development.
+- **Level 2:** Customize security training — Offer technology and role-specific guidance, including security nuances of each language and platform.
+- **Level 3:** Standardize security guidance — Standardized in-house guidance around the organization's secure software development standards.
+
+#### Stream B – Organization and Culture
+
+Organization and culture focuses on promoting the culture of application security within the organization as an important success factor of an SDLC project.
+
+- **Level 1:** Identify security champions — Identify a "Security Champion" within each development team.
+- **Level 2:** Implement centers of excellence — Develop a secure software center of excellence promoting thought leadership among developers and architects.
+- **Level 3:** Establish a security community — Build a secure software community including all organization people involved in software security.
+
+---
+
+© OWASP Foundation, Software Assurance Maturity Model 2.2.0. The layout has been adapted; the English model text has not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/owaspsamm/core/releases/download/v2.2.0/samm.tar.gz).
+<!-- scan-standards:end -->

@@ -1,0 +1,56 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel VI'
+'title': 'Kapitel VI – INFORMATIONSUTBYTE'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel VI.'
+'designation': 'NIS2-direktivet Kapitel VI'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_VI'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 29 – Arrangemang för informationsutbyte om cybersäkerhet
+
+1\. Medlemsstaterna ska säkerställa att entiteter som omfattas av tillämpningsområdet för [detta direktiv](/lagstiftning/nis2) och, i relevanta fall, andra relevanta entiteter som inte omfattas av [detta direktivs](/lagstiftning/nis2) tillämpningsområde på frivillig basis har möjlighet att utbyta relevant information om cybersäkerhet sinsemellan, inbegripet information om cyberhot, tillbud, sårbarheter, tekniker och förfaranden, angreppsindikatorer, fientlig taktik, specifik information om fientliga aktörer, cybersäkerhetsvarningar och rekommendationer avseende konfigurationsverktyg för cybersäkerhet för att upptäcka cyberattacker, om sådant informationsutbyte
+
+a) syftar till att förebygga, upptäcka, reagera på eller återhämta sig från incidenter eller begränsa deras inverkan,
+
+b) höjer cybersäkerhetsnivån, särskilt genom att öka medvetenheten om cyberhot, begränsa eller hindra sådana hots förmåga att sprida sig, stödja en rad defensiva förmågor, avhjälpande av sårbarheter och delgivning av information om sårbarheter, metoder för att upptäcka och förebygga hot, strategier för begränsning av hot eller reaktions- och återhämtningsfaser, eller genom att främja forskningssamverkan om cyberhot bland offentliga och privata entiteter.
+
+2\. Medlemsstaterna ska säkerställa att informationsutbytet sker inom grupper av väsentliga och viktiga entiteter, och i relevanta fall, deras leverantörer eller tjänsteleverantörer. Sådant utbyte ska genomföras med hjälp av arrangemang för informationsutbyte om cybersäkerhet med hänsyn till den potentiellt känsliga karaktären hos den information som utbyts.
+
+3\. Medlemsstaterna ska underlätta inrättandet av de arrangemang för informationsutbyte om cybersäkerhet som avses i punkt 2 i [denna artikel](#artikel-29-arrangemang-för-informationsutbyte-om-cybersäkerhet). Sådana arrangemang får ange operativa aspekter, inbegripet användning av särskilda IKT-plattformar och automatiseringsverktyg, innehållet i och villkoren för de arrangemangen för informationsutbyte. Medlemsstaterna får, i samband med fastställandet av närmare bestämmelser om offentliga myndigheters deltagande i sådana arrangemang, införa villkor för den information som tillgängliggörs av behöriga myndigheter eller CSIRT-enheter. Medlemsstaterna ska erbjuda stöd för tillämpningen av sådana arrangemang i enlighet med de riktlinjer som avses i artikel [7.2 h](/lagstiftning/nis2/kap-2#artikel-7-nationell-strategi-för-cybersäkerhet).
+
+4\. Medlemsstaterna ska säkerställa att väsentliga och viktiga entiteter underrättar de behöriga myndigheterna om sitt deltagande i de arrangemang för informationsutbyte om cybersäkerhet som avses i punkt 2, när de ingår sådana arrangemang eller, om de utträder ur sådana arrangemang, när utträdet får verkan.
+
+5\. Enisa ska tillhandahålla stöd för inrättandet av de arrangemang för informationsutbyte om cybersäkerhet som avses i punkt 2 genom att utbyta bästa praxis och erbjuda vägledning.
+
+### Artikel 30 – Frivillig underrättelse om relevant information
+
+1\. Medlemsstaterna ska säkerställa att underrättelser, utöver den underrättelseskyldighet som föreskrivs i artikel [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), kan lämnas in till CSIRT-enheterna eller, i tillämpliga fall, de behöriga myndigheterna, på frivillig basis av
+
+a) väsentliga och viktiga entiteter med avseende på incidenter, cyberhot och tillbud,
+
+b) andra entiteter än de som avses i led a, oberoende av om de omfattas av [detta direktiv](/lagstiftning/nis2), vad gäller om betydande incidenter, cyberhot och tillbud.
+
+2\. Medlemsstaterna ska behandla de underrättelser som avses i punkt 1 i [denna artikel](#artikel-30-frivillig-underrättelse-om-relevant-information) i enlighet med det förfarande som anges i artikel [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter). Medlemsstaterna får ge behandling av obligatoriska underrättelser företräde framför behandling av frivilliga underrättelser.
+
+CSIRT-enheterna, och i tillämpliga fall, de behöriga myndigheterna ska vid behov informera de gemensamma kontaktpunkterna om underrättelser som mottagits i enlighet med [denna artikel](#artikel-30-frivillig-underrättelse-om-relevant-information), och samtidigt säkerställa att informationen från den underrättande entiteten förblir konfidentiell och skyddas på lämpligt sätt. Utan att det påverkar förebyggande, utredning, avslöjande och lagföring av brott får frivillig rapportering inte leda till att den underrättande entiteten åläggs ytterligare skyldigheter som den inte skulle ha blivit föremål för om den inte hade lämnat in underrättelsen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,0 +1,30 @@
+---
+title: CIS Critical Security Controls
+description: Prioritised set of cybersecurity safeguards from the Center for
+  Internet Security.
+designation: CIS Controls v8.1
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: CIS
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.cisecurity.org/controls/cis-controls-list
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+CIS Controls v8 collects 18 prioritised controls with safeguards organised into three implementation groups. The list is free to read at CIS but is covered by CIS terms of use, so only catalogue information and an original summary are shown here.
+
+Official source: [CIS Controls v8.1](https://www.cisecurity.org/controls/cis-controls-list).
+
+## Related legal acts
+
+- [NIS2 directive](/lagstiftning/nis2)
+<!-- scan-standards:end -->

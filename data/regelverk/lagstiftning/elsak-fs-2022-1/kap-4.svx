@@ -1,0 +1,43 @@
+---
+'source': 'elsak-fs-2022-1'
+'ref': '4 kap.'
+'title': '4 kap. – Särskilda säkerhetskrav för lågspänningsanläggningar'
+'kind': 'chapter'
+'description': 'Utförande av starkströmsanläggningar (ELSÄK-FS 2022:1), 4 kap..'
+'designation': 'ELSÄK-FS 2022:1 4 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Elsäkerhetsverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.elsakerhetsverket.se/globalassets/foreskrifter/elsak-fs-2022-1.pdf'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Allmänna distributionsnät för lågspänning ska vara utförda som TN-system.
+
+Nätets PE-/PEN-ledare ska vara jordad i närheten av strömkällan. I allmänna
+distributionsnät som inte ingår i sammanhängande jordningssystem ska PE-/PEN-
+ledaren även vara jordad på lämpliga platser i nätets utkanter.
+
+### 2 §
+
+Nätanslutna uttag för allmänbruk i lågspänningsanläggningar ska uppfylla kraven
+
+i Elsäkerhetsverkets föreskrifter (2019:1) om stickproppar och uttag för allmänbruk,
+eller författning som trätt i dess ställe. Uttagen ska antingen vara försedda med
+petskydd eller utföras eller placeras så att risken för barnolycksfall begränsas.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

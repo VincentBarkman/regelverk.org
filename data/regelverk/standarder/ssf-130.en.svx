@@ -1,0 +1,27 @@
+---
+title: SSF 130 – Intruder and hold-up alarms
+description: Design and installation of intruder and hold-up alarms, alarm classes 1–4.
+designation: SSF 130 utgåva 10
+jurisdiction: Sverige
+status: active
+reviewStatus: auto
+issuer: SSF
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - fysisk
+url: https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/inbrottslarm/ssf-130-utg-10-projektering-och-installation-av-inbrotts-och-overfallslarmanlaggning/
+published: 2024-08-29
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+SSF 130 provides rules for the design, installation, testing, and documentation of intruder and hold-up alarms. It distinguishes alarm classes 1–4 according to the system requirements.
+
+Alarm classes apply to the alarm system, not the building's physical protection, which is addressed by SSF 200. Customers and insurance terms often determine the required classes for a particular site.
+
+Official source: [SSF 130 utgåva 10](https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/inbrottslarm/ssf-130-utg-10-projektering-och-installation-av-inbrotts-och-overfallslarmanlaggning/).
+<!-- scan-standards:end -->

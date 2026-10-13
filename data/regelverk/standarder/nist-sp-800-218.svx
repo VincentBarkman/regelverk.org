@@ -1,0 +1,40 @@
+---
+title: NIST SP 800-218 Secure Software Development Framework
+description: Öppet ramverk för säker mjukvaruutveckling (SSDF) med praktiker för
+  förberedelse, skydd, utveckling och sårbarhetshantering.
+designation: NIST SP 800-218 (SSDF)
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+url: https://csrc.nist.gov/pubs/sp/800/218/final
+translation: en
+version: 1.0.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Öppet ramverk för säker mjukvaruutveckling (SSDF) med praktiker för förberedelse, skydd, utveckling och sårbarhetshantering.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [NIST SP 800-218 (SSDF)](https://csrc.nist.gov/pubs/sp/800/218/final).
+
+## Innehåll
+
+- [PO – Prepare the Organization](/standarder/nist-sp-800-218/po) · 18 krav
+- [PS – Protect Software](/standarder/nist-sp-800-218/ps) · 7 krav
+- [PW – Produce Well-Secured Software](/standarder/nist-sp-800-218/pw) · 24 krav
+- [RV – Respond to Vulnerabilities](/standarder/nist-sp-800-218/rv) · 12 krav
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+<!-- scan-standards:end -->

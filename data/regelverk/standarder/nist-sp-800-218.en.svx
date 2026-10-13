@@ -1,0 +1,40 @@
+---
+title: NIST SP 800-218 Secure Software Development Framework
+description: Open Secure Software Development Framework (SSDF) with practices
+  for preparation, protection, development and vulnerability response.
+designation: NIST SP 800-218 (SSDF)
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+url: https://csrc.nist.gov/pubs/sp/800/218/final
+translation: en
+version: 1.0.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Open Secure Software Development Framework (SSDF) with practices for preparation, protection, development and vulnerability response.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [NIST SP 800-218 (SSDF)](https://csrc.nist.gov/pubs/sp/800/218/final).
+
+## Contents
+
+- [PO – Prepare the Organization](/standarder/nist-sp-800-218/po) · 18 requirements
+- [PS – Protect Software](/standarder/nist-sp-800-218/ps) · 7 requirements
+- [PW – Produce Well-Secured Software](/standarder/nist-sp-800-218/pw) · 24 requirements
+- [RV – Respond to Vulnerabilities](/standarder/nist-sp-800-218/rv) · 12 requirements
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+<!-- scan-standards:end -->

@@ -64,7 +64,7 @@
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<main class="flex flex-1 flex-col items-center px-4">
 		<header
-			class="@container flex min-h-[35svh] w-full flex-col items-center justify-end gap-4 pb-3 sm:min-h-[50svh]"
+			class="@container flex min-h-[35svh] w-full flex-col items-center justify-end gap-4 pb-3 sm:min-h-[50svh] [@media(max-height:40rem)]:min-h-0! [@media(max-height:40rem)]:pt-8"
 		>
 			<h1
 				use:fitText

@@ -1,0 +1,337 @@
+---
+'source': 'cra'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – EKONOMISKA AKTÖRERS SKYLDIGHETER OCH BESTÄMMELSER OM
+  PROGRAMVARA MED FRI OCH ÖPPEN KÄLLKOD'
+'kind': 'chapter'
+'description': 'CRA-förordningen, Kapitel II.'
+'designation': 'CRA-förordningen Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847#cpt_II'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 13 – Tillverkares skyldigheter
+
+1\. När en produkt med digitala element släpps ut på marknaden ska tillverkarna säkerställa att den har utformats, utvecklats och producerats i enlighet med de väsentliga cybersäkerhetskrav som fastställs i bilaga I i del I.
+
+2\. För att följa punkt 1 ska tillverkarna göra en bedömning av de cybersäkerhetsrisker som är förbundna med en produkt med digitala element och beakta resultatet av bedömningen under planerings-, utformnings-, utvecklings-, produktions-, leverans- och underhållsfaserna för en produkt med digitala element, för att minimera cybersäkerhetsriskerna, förhindra incidenter och minimera deras konsekvenser, inbegripet vad gäller användarnas hälsa och säkerhet.
+
+3\. Bedömningen av cybersäkerhetsrisker ska dokumenteras och uppdateras på lämpligt sätt under en stödperiod som ska fastställas i enlighet med punkt 8 i [denna artikel](#artikel-13-tillverkares-skyldigheter). Bedömningen av cybersäkerhetsrisker ska omfatta åtminstone en analys av cybersäkerhetsriskerna på grundval av det avsedda ändamålet och den rimligen förutsebara användningen samt användningsförhållandena för produkten med digitala element, såsom driftsmiljön eller de tillgångar som ska skyddas, med beaktande av hur länge produkten förväntas vara i bruk. Bedömningen av cybersäkerhetsrisker ska ange huruvida, och i så fall på vilket sätt, de säkerhetskrav som anges i bilaga I del I punkt 2 är tillämpliga på den relevanta produkten med digitala element och hur dessa krav genomförs på grundval av bedömningen av cybersäkerhetrisker. Det ska också anges hur tillverkaren tillämpar bilaga I del I punkt 1 och de krav på sårbarhetshantering som anges i bilaga I del II.
+
+4\. När en produkt med digitala element släpps ut på marknaden ska tillverkaren inkludera den bedömning av cybersäkerhetsrisker som avses i punkt 3 i [denna artikel](#artikel-13-tillverkares-skyldigheter) i den tekniska dokumentation som krävs enligt artikel [31](/lagstiftning/cra/kap-3#artikel-31-teknisk-dokumentation) och bilaga VII. För de produkter med digitala element som avses i artikel [12](/lagstiftning/cra/kap-1#artikel-12-ai-system-med-hög-risk) och som också omfattas av andra unionsrättsakter får bedömningen av cybersäkerhetsriskerna ingå i den riskbedömning som krävs enligt dessa unionsrättsakter. I de fall då vissa väsentliga cybersäkerhetskrav inte är tillämpliga på produkten med digitala element ska tillverkaren inkludera en tydlig motivering till detta i den tekniska dokumentationen.
+
+5\. För att uppfylla kraven i punkt 1 ska tillverkarna visa tillbörlig aktsamhet när de integrerar komponenter som kommer från tredje part så att dessa komponenter inte komprometterar cybersäkerheten för produkten med digitala element, inbegripet vid integrering av komponenter i programvara med fri och öppen källkod som inte har tillhandahållits på marknaden i samband med kommersiell verksamhet.
+
+6\. Tillverkarna ska när de identifierar en sårbarhet i en komponent, inbegripet en komponent med fri och öppen källkod, som är integrerad i en produkt med digitala element, rapportera sårbarheten till den person eller entitet som tillverkar eller underhåller komponenten och åtgärda och avhjälpa sårbarheten i enlighet med de krav på sårbarhetshantering som anges i bilaga I del II. Om tillverkarna har utvecklat en programvaru- eller hårdvaruändring för att åtgärda sårbarheten i den komponenten ska de dela den relevanta koden eller dokumentationen med den person eller entitet som tillverkar eller underhåller komponenten, när så är lämpligt, i ett maskinläsbart format.
+
+7\. Tillverkarna ska systematiskt och på ett sätt som står i proportion till cybersäkerhetsriskernas art dokumentera relevanta cybersäkerhetsaspekter som rör produkterna med digitala element, inbegripet sårbarheter de får kännedom om och all relevant information som tillhandahålls av tredje part, och ska, i förekommande fall, uppdatera bedömningen av cybersäkerhetsrisker för produkterna.
+
+8\. När en produkt med digitala element släpps ut på marknaden, och under stödperioden, ska tillverkarna säkerställa att produktens, inbegripet dess komponenters, sårbarheter hanteras effektivt och i enlighet med de väsentliga cybersäkerhetskrav som fastställs i bilaga I del II.
+
+Tillverkarna ska fastställa stödperioden så att den återspeglar den tidsperiod under vilken produkten förväntas vara i bruk, med särskilt beaktande av rimliga förväntningar från användarna, produktens art, inbegripet dess avsedda ändamål, samt relevant unionsrätt som fastställer livslängden för produkter med digitala element. Vid fastställandet av stödperioden får tillverkarna också beakta stödperioderna för produkter med digitala element som erbjuder en liknande funktion som släppts ut på marknaden av andra tillverkare, tillgången till driftsmiljön, stödperioderna för integrerade komponenter som tillhandahåller kärnfunktioner och kommer från tredje parter samt relevant vägledning från den särskilda administrativa samarbetsgruppen (Adco-gruppen), som inrättats enligt artikel [52.15](/lagstiftning/cra/kap-5#artikel-52-marknadskontroll-och-kontroll-av-produkter-med-digitala-element-på-unionsmarknaden), och kommissionen. De faktorer som ska beaktas vid fastställandet av den stödperiod som ska beaktas på ett sätt som säkerställer proportionalitet.
+
+Utan att det påverkar tillämpningen av andra stycket ska stödperioden vara minst fem år. Om produkten med digitala element förväntas vara i bruk i mindre än fem år ska stödperioden motsvara den förväntade användningstiden.
+
+Med beaktande av de rekommendationer från Adco-gruppen som avses i artikel [52.16](/lagstiftning/cra/kap-5#artikel-52-marknadskontroll-och-kontroll-av-produkter-med-digitala-element-på-unionsmarknaden) får kommissionen anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/cra) genom att specificera den minsta tillåtna stödperioden för specifika produktkategorier om uppgifter från marknadskontrollen tyder på otillräckliga stödperioder.
+
+Tillverkarna ska inkludera den information som har beaktats för att fastställa stödperioden för en produkt med digitala element i den tekniska dokumentationen enligt bilaga VII.
+
+Tillverkarna ska ha lämpliga policyer och förfaranden, inbegripet policyer för samordnad delgivning av information om sårbarheter, enligt bilaga I del II punkt 5, för att behandla och åtgärda de potentiella sårbarheter i produkter med digitala element som rapporterats av interna eller externa källor.
+
+9\. Tillverkarna ska säkerställa att varje säkerhetsuppdatering som avses i bilaga I del II punkt 8 och som har gjorts tillgänglig för användare under stödperioden förblir tillgänglig efter det att den har utfärdats i minst tio år eller under återstoden av stödperioden, beroende på vilken period som är längst.
+
+10\. Om en tillverkare har släppt ut senare väsentligt ändrade versioner av en programvaruprodukt på marknaden får tillverkaren säkerställa överensstämmelse med det väsentliga cybersäkerhetskrav som anges i bilaga I del II punkt 2 endast för den version som tillverkaren senast släppte ut på marknaden, förutsatt att användarna av de versioner som tidigare släppts ut på marknaden kostnadsfritt har tillgång till den version som senast släpptes ut på marknaden och inte ådrar sig ytterligare kostnader för att anpassa den hårdvaru- och programvarumiljö där de använder den ursprungliga versionen av den produkten.
+
+11\. Tillverkarna får upprätthålla offentliga programvaruarkiv som förbättrar användarnas tillgång till äldre versioner. I sådana fall ska användarna på ett lättillgängligt sätt få tydlig information om riskerna med att använda programvara som inte stöds.
+
+12\. Innan en produkt med digitala element släpps ut på marknaden ska tillverkarna sammanställa den tekniska dokumentation som avses i artikel [31](/lagstiftning/cra/kap-3#artikel-31-teknisk-dokumentation).
+
+De ska genomföra de valda förfaranden för bedömning av överensstämmelse som avses i artikel [32](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) eller se till att de genomförs.
+
+När det genom detta förfarande för bedömning av överensstämmelse har visats att produkten med digitala element uppfyller de väsentliga cybersäkerhetskraven i bilaga I del I och att de processer som tillverkaren infört uppfyller de väsentliga cybersäkerhetskraven i bilaga I del II, ska tillverkarna upprätta EU-försäkran om överensstämmelse i enlighet med artikel [28](/lagstiftning/cra/kap-3#artikel-28-eu-försäkran-om-överensstämmelse) och fästa CE-märkningen i enlighet med artikel [30](/lagstiftning/cra/kap-3#artikel-30-regler-och-villkor-för-anbringande-av-ce-märkning).
+
+13\. Tillverkarna ska kunna uppvisa den tekniska dokumentationen och EU-försäkran om överensstämmelse för marknadskontrollmyndigheterna i minst tio år efter det att produkten med digitala element har släppts ut på marknaden, eller under stödperioden, beroende på vilken period som är längst.
+
+14\. Tillverkarna ska säkerställa att det finns förfaranden som säkerställer att produkter med digitala element som är en del av serietillverkning fortsätter att överensstämma med kraven i [denna förordning](/lagstiftning/cra). Tillverkarna ska på lämpligt sätt ta hänsyn till förändringar i utvecklings- och tillverkningsprocessen eller i utformningen av eller egenskaperna hos produkten med digitala element samt till ändringar av de harmoniserade standarderna, de europeiska ordningarna för cybersäkerhetscertifiering eller de gemensamma specifikationer som avses i artikel [27](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse) med hänvisning till vilka överensstämmelsen för produkten med digitala element försäkras eller genom vars tillämpning överensstämmelsen kontrolleras.
+
+15\. Tillverkarna ska säkerställa att deras produkter med digitala element är försedda med typnummer, partinummer, serienummer eller annan identifieringsmärkning eller, om detta inte är möjligt, säkerställa att den informationen fästas på produktens förpackning eller på ett dokument som åtföljer produkten med digitala element.
+
+16\. Tillverkarna ska, på produkten med digitala element, på förpackningen eller i ett dokument som åtföljer produkten med digitala element, ange sitt namn, registrerade firmanamn eller registrerade varumärke samt postadress och e-postadress eller andra digitala kontaktuppgifter och, när så är tillämpligt, webbplatsen där de kan kontaktas. Denna information ska också ingå i den information och de instruktioner till användaren som anges i bilaga II. Kontaktuppgifterna ska vara på ett språk som lätt kan förstås av användarna och marknadskontrollmyndigheterna.
+
+17\. Vid tillämpningen av [denna förordning](/lagstiftning/cra) ska tillverkarna utse en gemensam kontaktpunkt som gör det möjligt för användarna att kommunicera direkt och snabbt med dem, bland annat för att underlätta rapportering om sårbarheter hos produkten med digitala element.
+
+Tillverkarna ska säkerställa att den gemensamma kontaktpunkten lätt kan identifieras av användarna. De ska också inkludera den gemensamma kontaktpunkten i den information och de instruktioner till användaren som anges i bilaga II.
+
+Den gemensamma kontaktpunkten ska göra det möjligt för användarna att välja det kommunikationsmedel som de föredrar och får inte begränsa sådana medel till automatiserade verktyg.
+
+18\. Tillverkarna ska säkerställa att produkter med digitala element åtföljs av information och instruktioner till användaren enligt bilaga II i pappersform eller elektronisk form. Sådan information och sådana instruktioner ska tillhandahållas på ett språk som lätt kan förstås av användarna och marknadskontrollmyndigheterna. De ska vara tydliga, begripliga och läsbara. De ska möjliggöra en säker installation, drift och användning av produkter med digitala element. Tillverkarna ska säkerställa att informationen och instruktionerna till användaren enligt bilaga II förblir tillgängliga för användarna och marknadskontrollmyndigheterna i minst tio år efter det att produkten med digitala element har släppts ut på marknaden, eller under stödperioden, beroende på vilken period som är längst. Om sådan information och sådana instruktioner tillhandahålls online ska tillverkarna säkerställa att de är åtkomliga, användarvänliga och tillgängliga online i minst tio år efter det att produkten med digitala element har släppts ut på marknaden, eller under stödperioden, beroende på vilken period som är längst.
+
+19\. Tillverkarna ska säkerställa att slutdatumet för den stödperiod som avses i punkt 8, inbegripet åtminstone månad och år, tydligt och begripligt anges vid tidpunkten för köpet på ett lättillgängligt sätt och, i tillämpliga fall, på produkten med digitala element, dess förpackning eller digitalt.
+
+Om det är tekniskt möjligt mot bakgrund av arten av produkt med digitala element ska tillverkarna visa ett meddelande till användarna om att deras produkt med digitala element har nått slutet av stödperioden.
+
+20\. Tillverkarna ska antingen lämna en kopia av EU-försäkran om överensstämmelse eller en förenklad EU-försäkran om överensstämmelse tillsammans med produkten med digitala element. Om en förenklad EU-försäkran om överensstämmelse lämnas ska den innehålla den exakta webbadress där det går att få tillgång till hela texten till EU-försäkran om överensstämmelse.
+
+21\. Från och med utsläppandet på marknaden och under stödperioden ska en tillverkare som vet eller har skäl att tro att produkten med digitala element eller de processer som införts av tillverkaren inte överensstämmer med de väsentliga cybersäkerhetskraven i bilaga I omedelbart vidta de korrigerande åtgärder som krävs för att bringa produkten med digitala element eller tillverkarens processer i överensstämmelse eller dra tillbaka eller återkalla produkten, såsom lämpligt.
+
+22\. Tillverkarna ska på motiverad begäran av en marknadskontrollmyndighet förse denna med all information och dokumentation som behövs för att visa att produkten med digitala element och de processer som införts av tillverkaren överensstämmer med de väsentliga cybersäkerhetskrav som fastställs i bilaga I, i pappersform eller i elektronisk form och på ett språk som lätt kan förstås av myndigheten. Tillverkarna ska samarbeta med marknadskontrollmyndigheten, på dess begäran, om alla åtgärder som vidtas för att undanröja de cybersäkerhetsrisker som den produkt med digitala element som de har släppt ut på marknaden utgör.
+
+23\. En tillverkare som upphör med sin verksamhet och därmed inte kan följa [denna förordning](/lagstiftning/cra) ska, innan verksamheten upphör, underrätta de berörda marknadskontrollmyndigheterna om detta och även, i möjligaste mån och på alla tillgängliga sätt, underrätta användarna av de relevanta produkterna med digitala element som släppts ut på marknaden om att verksamheten snart kommer att upphöra.
+
+24\. Kommissionen får genom genomförandeakter, med beaktande av europeiska eller internationella standarder och bästa praxis, specificera formatet och de aspekter som ska ingå i den programvaruförteckning som avses i bilaga I del II punkt 1. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+25\. För att bedöma medlemsstaternas och unionens beroende av programvarukomponenter och i synnerhet av komponenter som klassificeras som programvara med fri och öppen källkod får Adco-gruppen besluta att genomföra en unionsomfattande beroendebedömning för specifika kategorier av produkter med digitala element. För detta ändamål får marknadskontrollmyndigheterna begära att tillverkare av sådana kategorier av produkter med digitala element tillhandahåller den relevanta programvaruförteckning som avses i bilaga I del II punkt 1. På grundval av denna information får marknadskontrollmyndigheterna förse Adco-gruppen med anonymiserad och aggregerad information om programvaruberoenden. Adco-gruppen ska lämna en rapport om resultaten av beroendebedömningen till den samarbetsgrupp som inrättats enligt artikel [14](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+### Artikel 14 – Tillverkarnas rapporteringsskyldigheter
+
+1\. En tillverkare ska till den CSIRT-enhet som utsetts till samordnare i enlighet med punkt 7 i [denna artikel](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och samtidigt till Enisa anmäla alla aktivt utnyttjade sårbarheter i produkten med digitala element som tillverkaren får kännedom om. Tillverkaren ska anmäla den aktivt utnyttjade sårbarheten via den gemensamma rapporteringsplattform som inrättats enligt artikel [16](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform).
+
+2\. För den anmälan som avses i punkt 1 ska tillverkaren
+
+a) utan onödigt dröjsmål och under alla omständigheter senast 24 timmar efter att ha fått kännedom om den, lämna in en tidig varning om en aktivt utnyttjad sårbarhet och, i tillämpliga fall, ange de medlemsstater på vars territorium tillverkaren känner till att produkten med digitala element har tillhandahållits,
+
+b) såvida inte relevant information redan har lämnats, utan onödigt dröjsmål och under alla omständigheter senast 72 timmar efter att ha fått kännedom om den aktivt utnyttjade sårbarheten, lämna in en anmälan om sårbarhet, som ska innehålla allmän information, om sådan finns tillgänglig, om den berörda produkten med digitala element, den allmänna karaktären av utnyttjandet och sårbarheten i fråga samt eventuella korrigerande eller riskreducerande åtgärder som vidtagits och korrigerande eller riskreducerande åtgärder som användarna kan vidta, och som också, i tillämpliga fall, ska ange hur känslig tillverkaren anser att den anmälda informationen är,
+
+c) såvida inte relevant information redan har lämnats, senast 14 dagar efter det att en korrigerande eller riskreducerande åtgärd blivit tillgänglig, lämna in en slutrapport, som ska innehålla minst följande:
+
+i) En beskrivning av sårbarheten och dess allvarlighetsgrad och konsekvenser.
+
+ii) I förekommande fall information om en fientlig aktör som har utnyttjat eller som utnyttjar sårbarheten.
+
+iii) Detaljer om säkerhetsuppdateringen eller andra korrigerande åtgärder som har gjorts tillgängliga för att avhjälpa sårbarheten.
+
+3\. En tillverkare ska till den CSIRT-enhet som utsetts till samordnare i enlighet med punkt 7 i [denna artikel](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och samtidigt till Enisa anmäla alla allvarliga incidenter som påverkar säkerheten för produkten med digitala element som tillverkaren får kännedom om. Tillverkaren ska anmäla incidenten via den gemensamma rapporteringsplattform som inrättats enligt artikel [16](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform).
+
+4\. För den anmälan som avses i punkt 3 ska tillverkaren
+
+a) lämna in en tidig varning om en allvarlig incident som påverkar säkerheten för produkten med digitala element, utan onödigt dröjsmål och under alla omständigheter senast 24 timmar efter att ha fått kännedom om den, och åtminstone ange om tillverkaren misstänker att incidenten orsakats av olagliga eller fientliga handlingar, och i tillämpliga fall även ange de medlemsstater på vars territorium tillverkaren känner till att produkten med digitala element har tillhandahållits,
+
+b) såvida inte relevant information redan har lämnats, utan onödigt dröjsmål och under alla omständigheter senast 72 timmar efter att ha fått kännedom om incidenten, lämna in en incidentanmälan, som ska innehålla allmän information, om sådan finns tillgänglig, om arten av incident, en första bedömning av incidenten samt eventuella korrigerande eller riskreducerande åtgärder som vidtagits och korrigerande eller riskreducerande åtgärder som användarna kan vidta, och som också, i tillämpliga fall, ska ange hur känslig tillverkaren anser att den anmälda informationen är,
+
+c) såvida inte relevant information redan har lämnats, inom en månad efter inlämningen av den incidentanmälan som avses i led b, lämna in en slutrapport, som ska innehålla minst följande:
+
+i) En detaljerad beskrivning av incidenten, inbegripet dess allvarlighetsgrad och konsekvenser.
+
+ii) Den typ av hot eller grundorsak som sannolikt har utlöst incidenten.
+
+iii) Tillämpade och pågående riskreducerande åtgärder.
+
+5\. Vid tillämpning av punkt 3 ska en incident som påverkar säkerheten för produkten med digitala element anses vara allvarlig om
+
+a) den inverkar negativt på eller kan inverka negativt på förmågan hos en produkt med digitala element att skydda tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten för känsliga eller viktiga data eller funktioner, eller
+
+b) den har lett eller kan leda till att en skadlig kod införts eller använts i en produkt med digitala element eller i nätverks- och informationssystemet hos en användare av produkten med digitala element.
+
+6\. Vid behov får den CSIRT-enhet som utsetts till samordnare som först tog emot anmälan begära att tillverkarna lämnar en delrapport om relevanta statusuppdateringar om den aktivt utnyttjade sårbarheten eller allvarliga incidenten som påverkar säkerheten för produkten med digitala element.
+
+7\. De anmälningar som avses i punkterna 1 och 3 i [denna artikel](#artikel-14-tillverkarnas-rapporteringsskyldigheter) ska lämnas in via den gemensamma rapporteringsplattform som avses i artikel [16](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform) med hjälp av en av de slutpunkter för elektronisk anmälan som avses i artikel [16.1](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform). Anmälan ska lämnas in med hjälp av slutpunkten för elektronisk anmälan hos den CSIRT-enhet som utsetts till samordnare i den medlemsstat där tillverkarna har sitt huvudsakliga verksamhetsställe i unionen och ska samtidigt göras tillgänglig för Enisa.
+
+Vid tillämpning av [denna förordning](/lagstiftning/cra) ska en tillverkare anses ha sitt huvudsakliga verksamhetsställe i unionen i den medlemsstat där de cybersäkerhetsrelaterade besluten avseende dess produkter med digitala element i huvudsak fattas. Om en sådan medlemsstat inte kan fastställas ska det huvudsakliga verksamhetsstället anses vara beläget i den medlemsstat där den berörda tillverkaren har det verksamhetsställe som har flest anställda i unionen.
+
+Om en tillverkare inte har något huvudsakligt verksamhetsställe i unionen ska tillverkaren lämna in de anmälningar som avses i punkterna 1 och 3 med hjälp av slutpunkten för elektronisk anmälan hos den CSIRT-enhet som utsetts till samordnare i den medlemsstat som fastställs enligt följande ordning och på grundval av den information som tillverkaren har tillgång till:
+
+a) Den medlemsstat där tillverkarens representant som agerar för tillverkarens räkning för det största antalet produkter med digitala element från den tillverkaren är etablerad.
+
+b) Den medlemsstat där den importör som släpper ut det största antalet produkter med digitala element från den tillverkaren är etablerad.
+
+c) Den medlemsstat där den distributör som tillhandahåller det största antalet produkter med digitala element från den tillverkaren är etablerad.
+
+d) Den medlemsstat där det största antalet användare av produkter med digitala element från den tillverkaren finns.
+
+När det gäller tredje stycket d får en tillverkare lämna in anmälningar om eventuella efterföljande aktivt utnyttjade sårbarheter eller allvarliga incidenter som påverkar säkerheten för produkten med digitala element till samma CSIRT-enhet som utsetts till samordnare till vilken den först rapporterade.
+
+8\. Efter att ha fått kännedom om en aktivt utnyttjad sårbarhet eller en allvarlig incident som påverkar säkerheten för produkten med digitala element, ska tillverkaren underrätta de drabbade användarna av produkten med digitala element, och när så är lämpligt alla användare, om den sårbarheten eller incidenten och, vid behov, om riskreducering och eventuella korrigerande åtgärder som användarna kan vidta för att begränsa konsekvenserna av denna sårbarhet eller incident, om lämpligt i ett strukturerat, maskinläsbart format som är enkelt att automatiskt behandla. Om tillverkaren underlåter att underrätta användarna av produkten med digitala element i tid får de CSIRT-enheter som utsetts till samordnare som mottagit anmälan lämna sådan information till användarna när detta anses vara proportionellt och nödvändigt för att förebygga eller mildra konsekvenserna av sårbarheten eller incidenten.
+
+9\. Senast den 11 december 2025 ska kommissionen anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) i [denna förordning](/lagstiftning/cra) för att komplettera [denna förordning](/lagstiftning/cra) genom att specificera villkoren för att tillämpa de cybersäkerhetsrelaterade skälen till att skjuta upp spridningen av anmälningar som avses i artikel [16.2](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform) i [denna förordning](/lagstiftning/cra). Kommissionen ska samarbeta med det CSIRT-nätverk som inrättats enligt artikel [15](/lagstiftning/nis2/kap-3#artikel-15-csirt-nätverk) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) och Enisa vid utarbetandet av utkasten till delegerad akt.
+
+10\. Kommissionen får genom genomförandeakter ytterligare specificera formatet och förfarandena för de anmälningar som avses i [denna artikel](#artikel-14-tillverkarnas-rapporteringsskyldigheter) samt i artiklarna [15](#artikel-15-frivillig-rapportering) och [16](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande). Kommissionen ska samarbeta med CSIRT-nätverket och Enisa vid utarbetandet av dessa utkast till genomförandeakter.
+
+### Artikel 15 – Frivillig rapportering
+
+1\. Tillverkarna och andra fysiska eller juridiska personer får, på frivillig basis, till en CSIRT-enhet som utsetts till samordnare eller till Enisa anmäla eventuella sårbarheter i en produkt med digitala element samt cyberhot som kan påverka riskprofilen för en produkt med digitala element.
+
+2\. Tillverkarna och andra fysiska eller juridiska personer får, på frivillig basis, till en CSIRT-enhet som utsetts till samordnare eller till Enisa anmäla eventuella incidenter som påverkar säkerheten för produkten med digitala element och tillbud som hade kunnat leda till en sådan incident.
+
+3\. Den CSIRT-enhet som utsetts till samordnare eller Enisa ska behandla de anmälningar som avses i punkterna 1 och 2 i [denna artikel](#artikel-15-frivillig-rapportering) i enlighet med det förfarande som anges i artikel [16](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform).
+
+Den CSIRT-enhet som utsetts till samordnare får prioritera behandlingen av obligatoriska anmälningar före behandlingen av frivilliga anmälningar.
+
+4\. Om en annan fysisk eller juridisk person än tillverkaren anmäler en aktivt utnyttjad sårbarhet eller en allvarlig incident som påverkar säkerheten för en produkt med digitala element i enlighet med punkt 1 eller 2 ska den CSIRT-enhet som utsetts till samordnare, utan onödigt dröjsmål, informera tillverkaren.
+
+5\. Den CSIRT-enhet som utsetts till samordnare och Enisa ska säkerställa konfidentialitet och lämpligt skydd för den information som tillhandahålls av den anmälande fysiska eller juridiska personen. Utan att det påverkar förebyggandet, utredningen, avslöjandet och lagföringen av brott får frivillig rapportering inte leda till att den anmälande fysiska eller juridiska personen åläggs ytterligare skyldigheter som den inte skulle ha blivit föremål för om den inte hade lämnat in anmälan.
+
+### Artikel 16 – Inrättande av en gemensam rapporteringsplattform
+
+1\. För de anmälningar som avses i artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) samt artikel [15.1](#artikel-15-frivillig-rapportering) och [15.2](#artikel-15-frivillig-rapportering) och för att förenkla tillverkarnas rapporteringsskyldigheter ska Enisa inrätta en gemensam rapporteringsplattform. Den dagliga driften av den gemensamma rapporteringsplattformen ska skötas och upprätthållas av Enisa. Strukturen för den gemensamma rapporteringsplattformen ska göra det möjligt för medlemsstaterna och Enisa att införa sina egna slutpunkter för elektronisk anmälan.
+
+2\. Efter att ha mottagit en anmälan ska den CSIRT-enhet som utsetts till samordnare som först tog emot anmälan, utan dröjsmål, sprida anmälan via den gemensamma rapporteringsplattformen till de CSIRT-enheter som utsetts till samordnare på det territorium där tillverkaren har angett att produkten med digitala element har tillhandahållits.
+
+Under exceptionella omständigheter, särskilt på begäran av tillverkaren och mot bakgrund av känslighetsnivån hos den anmälda information som tillverkaren angett i enlighet med artikel [14.2 a](#artikel-14-tillverkarnas-rapporteringsskyldigheter) i [denna förordning](/lagstiftning/cra), får spridningen av anmälan skjutas upp på grundval av motiverade cybersäkerhetsrelaterade skäl under en tidsperiod som är absolut nödvändig, inbegripet när en sårbarhet är föremål för ett förfarande för samordnad delgivning av information om sårbarheter som avses i artikel [12.1](/lagstiftning/nis2/kap-2#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas) i [direktiv (EU) 2022/2555](/lagstiftning/nis2). Om en CSIRT-enhet beslutar att undanhålla en anmälan ska den omedelbart informera Enisa om beslutet och motivera varför anmälan undanhålls och ange när den kommer att sprida anmälan i enlighet med det spridningsförfarande som fastställs i denna punkt. Enisa får stödja CSIRT-enheten i tillämpningen av cybersäkerhetsrelaterade skäl när det gäller att skjuta upp spridningen av anmälan.
+
+Under särskilt exceptionella omständigheter, om tillverkaren i den anmälan som avses i artikel [14.2 b](#artikel-14-tillverkarnas-rapporteringsskyldigheter) anger att
+
+a) den anmälda sårbarheten aktivt har utnyttjats av en fientlig aktör och att den, enligt tillgänglig information, inte har utnyttjats i någon annan medlemsstat än den där den CSIRT-enhet som utsetts till samordnare finns till vilken tillverkaren har anmält sårbarheten,
+
+b) all omedelbar ytterligare spridning av den anmälda sårbarheten sannolikt skulle leda till tillhandahållande av information vars utlämnande skulle strida mot den medlemsstatens väsentliga intressen, eller
+
+c) den anmälda sårbarheten utgör en överhängande hög cybersäkerhetsrisk till följd av den fortsatta spridningen,
+
+ska endast information om att tillverkaren har gjort en anmälan, allmän information om produkten, den allmänna karaktären av utnyttjandet och information om att säkerhetsrelaterade skäl angetts göras tillgänglig samtidigt för Enisa till dess att den fullständiga anmälan sprids till de berörda CSIRT-enheterna och Enisa. Om Enisa på grundval av denna information anser att det finns en systemrisk som påverkar säkerheten på den inre marknaden ska Enisa rekommendera den mottagande CSIRT-enheten att sprida den fullständiga anmälan till de andra CSIRT-enheter som utsetts till samordnare och till Enisa själv.
+
+3\. Efter att ha mottagit en anmälan om en aktivt utnyttjad sårbarhet i en produkt med digitala element eller om en allvarlig incident som påverkar säkerheten för en produkt med digitala element ska de CSIRT-enheter som utsetts till samordnare förse marknadskontrollmyndigheterna i sina respektive medlemsstater med den anmälda information som behövs för att marknadskontrollmyndigheterna ska kunna fullgöra sina skyldigheter enligt [denna förordning](/lagstiftning/cra).
+
+4\. Enisa ska vidta lämpliga och proportionella tekniska, operativa och organisatoriska åtgärder för att hantera säkerhetsriskerna för den gemensamma rapporteringsplattformen och den information som lämnas in eller sprids via den gemensamma rapporteringsplattformen. Enisa ska utan onödigt dröjsmål underrätta CSIRT-nätverket och kommissionen om alla säkerhetsincidenter som påverkar den gemensamma rapporteringsplattformen.
+
+5\. Enisa ska, i samarbete med CSIRT-nätverket, tillhandahålla och genomföra specifikationer för de tekniska, operativa och organisatoriska åtgärderna för inrättande, underhåll och säker drift av den gemensamma rapporteringsplattform som avses i punkt 1, inbegripet åtminstone säkerhetsarrangemangen i samband med inrättande, drift och underhåll av den gemensamma rapporteringsplattformen, samt de slutpunkter för elektronisk anmälan som inrättats av de CSIRT-enheter som utsetts till samordnare på nationell nivå och Enisa på unionsnivå, inbegripet förfarandemässiga aspekter för att – i fall där det för en anmäld sårbarhet inte finns några korrigerande eller riskreducerande åtgärder – säkerställa att information om denna sårbarhet delas i enlighet med strikta säkerhetsprotokoll och på grundval av behovsenlig behörighet.
+
+6\. Om en CSIRT-enhet som utsetts till samordnare har uppmärksammats på en aktivt utnyttjad sårbarhet, som en del av ett förfarande för samordnad delgivning av information om sårbarheter som avses i artikel [12.1](/lagstiftning/nis2/kap-2#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas) i [direktiv (EU) 2022/2555](/lagstiftning/nis2), får den CSIRT-enhet som utsetts till samordnare som först tog emot anmälan skjuta upp spridningen av den berörda anmälan via den gemensamma rapporteringsplattformen på grundval av motiverade cybersäkerhetsrelaterade skäl under en period som inte är längre än vad som är absolut nödvändigt och till dess att de berörda parterna inom samordnad delgivning av information om sårbarheter har gett sitt samtycke till utlämnande. Detta krav ska inte hindra tillverkarna från att frivilligt anmäla en sådan sårbarhet i enlighet med förfarandet i [denna artikel](#artikel-16-inrättande-av-en-gemensam-rapporteringsplattform).
+
+### Artikel 17 – Andra bestämmelser avseende rapportering
+
+1\. Enisa får lämna information som anmälts enligt artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) samt artikel [15.1](#artikel-15-frivillig-rapportering) och [15.2](#artikel-15-frivillig-rapportering) i [denna förordning](/lagstiftning/cra) till Europeiska kontaktnätverket för cyberkriser (EU-CyCLONe), som inrättats enligt artikel [16](/lagstiftning/nis2/kap-3#artikel-16-det-europeiska-kontaktnätverket-för-cyberkriser-eu-cyclone) i [direktiv (EU) 2022/2555](/lagstiftning/nis2), om informationen är relevant för den samordnade hanteringen av storskaliga cybersäkerhetsincidenter och -kriser på operativ nivå. För att fastställa sådan relevans får Enisa överväga tekniska analyser som utförs av CSIRT-nätverket, om sådana finns tillgängliga.
+
+2\. Om det är nödvändigt att informera allmänheten för att förebygga eller begränsa en allvarlig incident som påverkar säkerheten för produkten med digitala element eller för att hantera en pågående incident, eller om ett avslöjande av incidenten på annat sätt ligger i allmänhetens intresse, får den CSIRT-enhet som utsetts till samordnare för den berörda medlemsstaten, efter samråd med den berörda tillverkaren och, när så är lämpligt, i samarbete med Enisa, informera allmänheten om incidenten eller kräva att tillverkaren gör detta.
+
+3\. På grundval av de anmälningar som inkommer enligt artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) samt artikel [15.1](#artikel-15-frivillig-rapportering) och [15.2](#artikel-15-frivillig-rapportering) i [denna förordning](/lagstiftning/cra) ska Enisa vartannat år utarbeta en teknisk rapport om nya trender i fråga om cybersäkerhetsrisker i produkter med digitala element, och lämna den till den samarbetsgrupp som inrättats enligt artikel [14](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp) i [direktiv (EU) 2022/2555](/lagstiftning/nis2). Den första av dessa rapporter ska lämnas in inom 24 månader från det att de skyldigheter som fastställs i artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) i [denna förordning](/lagstiftning/cra) börjar tillämpas. Enisa ska inkludera relevant information från sina tekniska rapporter i sin rapport om cybersäkerhetssituationen i unionen enligt artikel [18](/lagstiftning/nis2/kap-3#artikel-18-rapport-om-cybersäkerhetssituationen-i-unionen) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+4\. Själva anmälan i enlighet med artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) eller artikel [15.1](#artikel-15-frivillig-rapportering) och [15.2](#artikel-15-frivillig-rapportering) ska inte medföra ökat ansvar för den anmälande fysiska eller juridiska personen.
+
+5\. Efter det att en säkerhetsuppdatering eller någon annan form av korrigerande eller riskreducerande åtgärd finns tillgänglig ska Enisa, i samförstånd med tillverkaren av den berörda produkten med digitala element, lägga till den allmänt kända sårbarhet som anmälts enligt artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) eller [15.1](#artikel-15-frivillig-rapportering) i [denna förordning](/lagstiftning/cra) i den europeiska sårbarhetsdatabas som inrättats enligt artikel [12.2](/lagstiftning/nis2/kap-2#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+6\. De CSIRT-enheter som utsetts till samordnare ska tillhandahålla hjälptjänster i samband med rapporteringsskyldigheterna enligt artikel [14](#artikel-14-tillverkarnas-rapporteringsskyldigheter) till tillverkare, särskilt tillverkare som kan betecknas som mikroföretag eller små eller medelstora företag.
+
+### Artikel 18 – Tillverkarens representanter
+
+1\. En tillverkare får genom skriftlig fullmakt utse en tillverkarens representant.
+
+2\. Skyldigheterna enligt artikel [13.1](#artikel-13-tillverkares-skyldigheter)–[13.11](#artikel-13-tillverkares-skyldigheter) och artikel [13.12](#artikel-13-tillverkares-skyldigheter) första stycket samt artikel [13.14](#artikel-13-tillverkares-skyldigheter) får inte delegeras till tillverkarens representant.
+
+3\. Tillverkarens representant ska utföra de uppgifter som anges i fullmakten från tillverkaren. Tillverkarens representant ska på begäran lämna en kopia av fullmakten till marknadskontrollmyndigheterna. Fullmakten ska ge tillverkarens representant rätt att göra minst följande:
+
+a) Inneha den EU-försäkran om överensstämmelse som avses i artikel [28](/lagstiftning/cra/kap-3#artikel-28-eu-försäkran-om-överensstämmelse) och den tekniska dokumentation som avses i artikel [31](/lagstiftning/cra/kap-3#artikel-31-teknisk-dokumentation) för att kunna uppvisa dem för marknadskontrollmyndigheterna i minst tio år efter det att produkten med digitala element har släppts ut på marknaden, eller under stödperioden, beroende på vilken period som är längst.
+
+b) På motiverad begäran av en marknadskontrollmyndighet förse denna med all information och dokumentation som behövs för att visa överensstämmelsen för en produkt med digitala element.
+
+c) På marknadskontrollmyndigheternas begäran samarbeta med dem om åtgärder som vidtas för att undanröja riskerna med en produkt med digitala element som omfattas av fullmakten för tillverkarens representant.
+
+### Artikel 19 – Importörers skyldigheter
+
+1\. Importörer får på marknaden endast släppa ut sådana produkter med digitala element som uppfyller de väsentliga cybersäkerhetskraven i del I i bilaga I och för vilka de processer som införts av tillverkaren uppfyller de väsentliga cybersäkerhetskraven i del II i bilaga I.
+
+2\. Innan en produkt med digitala element släpps ut på marknaden ska importörerna säkerställa att
+
+a) de tillämpliga förfaranden för bedömning av överensstämmelse som avses i artikel [32](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) har genomförts av tillverkaren,
+
+b) tillverkaren har upprättat den tekniska dokumentationen, och
+
+c) produkten med digitala element är försedd med den CE-märkning som avses i artikel [30](/lagstiftning/cra/kap-3#artikel-30-regler-och-villkor-för-anbringande-av-ce-märkning) och åtföljs av den EU-försäkran om överensstämmelse som avses i artikel [13.20](#artikel-13-tillverkares-skyldigheter) och den information och de instruktioner till användaren som anges i bilaga II på ett språk som lätt kan förstås av användarna och marknadskontrollmyndigheterna,
+
+d) tillverkaren har uppfyllt kraven i artikel [13.15](#artikel-13-tillverkares-skyldigheter), [13.16](#artikel-13-tillverkares-skyldigheter) och [13.19](#artikel-13-tillverkares-skyldigheter).
+
+Vid tillämpningen av denna punkt ska importörerna kunna tillhandahålla nödvändiga dokument som styrker att kraven i [denna artikel](#artikel-19-importörers-skyldigheter) är uppfyllda.
+
+3\. Om en importör anser eller har skäl att tro att en produkt med digitala element eller de processer som införts av tillverkaren inte överensstämmer med [denna förordning](/lagstiftning/cra), får importören inte släppa ut produkten på marknaden förrän produkten eller processerna som införts av tillverkaren har bringats till överensstämmelse med [denna förordning](/lagstiftning/cra). Om en produkt med digitala element utgör en betydande cybersäkerhetsrisk ska importören också underrätta tillverkaren och marknadskontrollmyndigheterna om detta.
+
+Om en importör har skäl att tro att en produkt med digitala element kan utgöra en betydande cybersäkerhetsrisk mot bakgrund av icke-tekniska riskfaktorer, ska importören underrätta marknadskontrollmyndigheterna om detta. Vid mottagandet av sådan information ska marknadskontrollmyndigheterna följa de förfaranden som avses i artikel [54.2](/lagstiftning/cra/kap-5#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk).
+
+4\. På produkter med digitala element eller på förpackningen eller i ett dokument som åtföljer produkten med digitala element ska importörer ange namn, registrerat firmanamn eller registrerat varumärke, postadress, e-postadress eller annan digital kontaktuppgift samt, i tillämpliga fall, webbplatsen där de kan kontaktas. Kontaktuppgifterna ska vara på ett språk som lätt kan förstås av användarna och marknadskontrollmyndigheterna.
+
+5\. Importörer som vet eller har skäl att tro att en produkt med digitala element som de har släppt ut på marknaden inte överensstämmer med [denna förordning](/lagstiftning/cra) ska omedelbart vidta de korrigerande åtgärder som krävs för att säkerställa att produkten överensstämmer med [denna förordning](/lagstiftning/cra) eller dra tillbaka eller återkalla produkten, om så är lämpligt.
+
+När importörer blir medvetna om en sårbarhet i en produkt med digitala element ska de utan dröjsmål underrätta tillverkaren om denna. Om en produkt med digitala element utgör en betydande cybersäkerhetsrisk ska importörerna dessutom omedelbart underrätta marknadskontrollmyndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit produkten med digitala element, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+6\. Under minst tio år efter det att produkten med digitala element har släppts ut på marknaden eller under stödperioden, beroende på vilken period som är längst, ska importörerna kunna uppvisa en kopia av EU-försäkran om överensstämmelse för marknadskontrollmyndigheterna och säkerställa att dessa myndigheter på begäran kan få tillgång till den tekniska dokumentationen.
+
+7\. Importörerna ska på motiverad begäran av en marknadskontrollmyndighet förse denna med all information och dokumentation som behövs för att visa att produkten med digitala element överensstämmer med de väsentliga cybersäkerhetskrav som fastställs i del I i bilaga I och att de processer som införts av tillverkaren överensstämmer med de väsentliga cybersäkerhetskrav som fastställs i del II i bilaga I, i pappersform eller i elektronisk form och på ett språk som lätt kan förstås av myndigheten. De ska på begäran samarbeta med den myndigheten om de åtgärder som vidtas för att undanröja de cybersäkerhetsrisker som den produkt med digitala element som de släppt ut på marknaden utgör.
+
+8\. När en importör av en produkt med digitala element får kännedom om att produktens tillverkare upphört med sin verksamhet och därmed inte kan uppfylla de skyldigheter som fastställs i [denna förordning](/lagstiftning/cra) ska importören underrätta berörda marknadskontrollmyndigheter om detta och även, i möjligaste mån och på alla tillgängliga sätt, underrätta användarna av de produkter med digitala element som släppts ut på marknaden.
+
+### Artikel 20 – Distributörers skyldigheter
+
+1\. När distributörerna tillhandahåller en produkt med digitala element på marknaden ska de agera med vederbörligt iakttagande av kraven i [denna förordning](/lagstiftning/cra).
+
+2\. Innan distributörerna tillhandahåller en produkt med digitala element på marknaden ska de kontrollera att
+
+a) produkten med digitala element är försedd med CE-märkning,
+
+b) tillverkaren och importören har uppfyllt de krav som anges i artikel [13.15](#artikel-13-tillverkares-skyldigheter), [13.16](#artikel-13-tillverkares-skyldigheter), [13.18](#artikel-13-tillverkares-skyldigheter), [13.19](#artikel-13-tillverkares-skyldigheter), [13.20](#artikel-13-tillverkares-skyldigheter) och artikel [19.4](#artikel-19-importörers-skyldigheter), och har försett distributören med alla dokument som krävs.
+
+3\. Om en distributör på grundval av information som distributören förfogar över anser eller har skäl att tro att en produkt med digitala element eller de processer som införts av tillverkaren inte överensstämmer med de väsentliga cybersäkerhetskraven i bilaga I, får distributören inte tillhandahålla produkten på marknaden förrän produkten eller processerna som införts av tillverkaren har bringats till överensstämmelse med [denna förordning](/lagstiftning/cra). Om en produkt med digitala element utgör en betydande cybersäkerhetsrisk ska distributören utan onödigt dröjsmål underrätta tillverkaren och marknadskontrollmyndigheterna om detta.
+
+4\. Distributörer som på grundval av information som distributörerna förfogar över vet eller har skäl att tro att en produkt med digitala element, som de har tillhandahållit på marknaden, eller de processer som införts av tillverkaren inte överensstämmer med [denna förordning](/lagstiftning/cra) ska se till att de korrigerande åtgärder som krävs för att bringa produkten eller tillverkarens processer i överensstämmelse vidtas, eller dra tillbaka eller återkalla produkten, om så är lämpligt.
+
+När importörer blir medvetna om en sårbarhet i en produkt med digitala element ska de utan dröjsmål underrätta tillverkaren om denna. Om en produkt med digitala element utgör en betydande cybersäkerhetsrisk ska distributörerna dessutom omedelbart underrätta marknadskontrollmyndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit produkten med digitala element, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+5\. Distributörerna ska på motiverad begäran av en marknadskontrollmyndighet förse denna med all information och dokumentation som behövs för att visa att produkten med digitala element och de processer som införts av tillverkaren överensstämmer med [denna förordning](/lagstiftning/cra), i pappersform eller i elektronisk form och på ett språk som lätt kan förstås av myndigheten. De ska på begäran samarbeta med marknadskontrollmyndigheten om de åtgärder som vidtas för att undanröja de cybersäkerhetsrisker som den produkt med digitala element som de tillhandahåller på marknaden utgör.
+
+6\. När en distributör av en produkt med digitala element på grundval av information som distributören förfogar över får kännedom om att produktens tillverkare upphört med sin verksamhet och därmed inte kan uppfylla de skyldigheter som fastställs i [denna förordning](/lagstiftning/cra) ska distributören utan onödigt dröjsmål underrätta berörda marknadskontrollmyndigheter om detta och även, i möjligaste mån och på alla tillgängliga sätt, underrätta användarna av de produkter med digitala element som släppts ut på marknaden.
+
+### Artikel 21 – Fall där tillverkares skyldigheter gäller för importörer och distributörer
+
+En importör eller distributör ska anses som tillverkare enligt [denna förordning](/lagstiftning/cra) och omfattas av artiklarna [13](#artikel-13-tillverkares-skyldigheter) och [14](#artikel-14-tillverkarnas-rapporteringsskyldigheter) om importören eller distributören släpper ut en produkt med digitala element på marknaden i eget namn eller under eget varumärke eller utför en väsentlig ändring av en produkt med digitala element som redan har släppts ut på marknaden.
+
+### Artikel 22 – Andra fall där tillverkarnas skyldigheter gäller
+
+1\. En fysisk eller juridisk person, annan än tillverkaren, importören eller distributören, som utför en väsentlig ändring av en produkt med digitala element och tillhandahåller den produkten på marknaden ska anses som tillverkare vid tillämpningen av [denna förordning](/lagstiftning/cra).
+
+2\. Den person som avses i punkt 1 i [denna artikel](#artikel-22-andra-fall-där-tillverkarnas-skyldigheter-gäller) ska omfattas av de skyldigheter som fastställs i artiklarna [13](#artikel-13-tillverkares-skyldigheter) och [14](#artikel-14-tillverkarnas-rapporteringsskyldigheter) när det gäller den del av produkten med digitala element som påverkas av den väsentliga ändringen eller, om den väsentliga ändringen påverkar cybersäkerheten för produkten med digitala element som helhet, för hela produkten.
+
+### Artikel 23 – Identifiering av ekonomiska aktörer
+
+1\. Ekonomiska aktörer ska på begäran förse marknadskontrollmyndigheterna med följande information:
+
+a) Namn och adress för ekonomiska aktörer som har levererat en produkt med digitala element till dem.
+
+b) Namn och adress för ekonomiska aktörer som de har levererat en produkt med digitala element till, om tillgängligt.
+
+2\. De ekonomiska aktörerna ska kunna tillhandahålla den information som avses i punkt 1 i tio år efter det att de har fått en produkt med digitala element levererad och i tio år efter det att de har levererat en produkt med digitala element.
+
+### Artikel 24 – Skyldigheter för förvaltare av programvara med fri och öppen källkod
+
+1\. Förvaltare av programvara med fri och öppen källkod ska på ett verifierbart sätt införa och dokumentera en cybersäkerhetspolicy så att det utvecklas en säker produkt med digitala element och så att utvecklarna av den produkten effektivt hanterar sårbarheter. I denna policy ska också ingå att utvecklarna av den produkten frivilligt rapporterar sårbarheter enligt artikel [15](#artikel-15-frivillig-rapportering) och att den särskilda karaktären hos förvaltaren av programvara med fri och öppen källkod beaktas liksom de rättsliga och organisatoriska arrangemang som förvaltaren omfattas av. Policyn ska särskilt omfatta aspekter som rör dokumentering, hantering och avhjälpande av sårbarheter och främja utbyte av information om sårbarheter som upptäckts inom nätgemenskapen för öppen källkodsprojekt.
+
+2\. Förvaltarna av programvara med fri och öppen källkod ska samarbeta med marknadskontrollmyndigheterna på deras begäran i syfte att minska cybersäkerhetsriskerna med en produkt med digitala element som klassificeras som programvara med fri och öppen källkod.
+
+På motiverad begäran från en marknadskontroll myndighet ska förvaltare av programvara med fri och öppen källkod förse den myndigheten med den dokumentation som avses i punkt 1, på ett språk som lätt kan förstås av den myndigheten, i pappersform eller elektronisk form.
+
+3\. De skyldigheter som fastställs i artikel [14.1](#artikel-14-tillverkarnas-rapporteringsskyldigheter) ska tillämpas på förvaltare av programvara med fri och öppen källkod i den mån de deltar i utvecklingen av produkter med digitala element. De skyldigheter som fastställs i artikel [14.3](#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.8](#artikel-14-tillverkarnas-rapporteringsskyldigheter) ska tillämpas på förvaltare av programvara med fri och öppen källkod i den mån allvarliga incidenter som påverkar säkerheten för produkter med digitala element påverkar de nätverks- och informationssystem som tillhandahålls av förvaltarna för programvara med fri och öppen källkod för utvecklingen av sådana produkter.
+
+### Artikel 25 – Säkerhetsintyg för programvara med fri och öppen källkod
+
+I syfte att underlätta den skyldighet att visa tillbörlig aktsamhet som anges i artikel [13.5](#artikel-13-tillverkares-skyldigheter), särskilt när det gäller tillverkare som införlivar komponenter av programvara med fri och öppen källkod i sina produkter med digitala element, ges kommissionen befogenhet att anta delegerade akter i enlighet med artikel [61](/lagstiftning/cra/kap-6#artikel-61-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/cra) genom att inrätta frivilliga program för säkerhetsintyg som gör det möjligt för utvecklare eller användare av produkter med digitala element som klassificeras som programvara med fri och öppen källkod samt andra tredje parter att bedöma sådana produkters överensstämmelse med alla eller vissa väsentliga cybersäkerhetskrav eller andra skyldigheter som fastställs i [denna förordning](/lagstiftning/cra).
+
+### Artikel 26 – Vägledning
+
+1\. För att underlätta genomförandet av [denna förordning](/lagstiftning/cra) och säkerställa ett konsekvent genomförande ska kommissionen offentliggöra vägledning som ska vara till hjälp för de ekonomiska aktörerna vid tillämpningen av [denna förordning](/lagstiftning/cra), med särskilt fokus på att underlätta efterlevnaden för mikroföretag samt små och medelstora företag.
+
+2\. Om kommissionen avser att tillhandahålla sådan vägledning som avses i punkt 1 ska den ta upp åtminstone följande aspekter:
+
+a) [Denna förordnings](/lagstiftning/cra) tillämpningsområde, med särskilt fokus på lösningar för fjärrbehandling av data och programvara med fri och öppen källkod.
+
+b) Tillämpningen av stödperioder med avseende på särskilda kategorier av produkter med digitala element.
+
+c) Vägledning för tillverkare som omfattas av [denna förordning](/lagstiftning/cra) och som också omfattas av annan unionsharmoniseringslagstiftning än [denna förordning](/lagstiftning/cra) eller av andra relaterade unionsrättsakter.
+
+d) Begreppet väsentlig ändring.
+
+Kommissionen ska också upprätthålla en lättillgänglig förteckning över de delegerade akter och genomförandeakter som antagits enligt [denna förordning](/lagstiftning/cra).
+
+3\. Vid utarbetandet av vägledningen enligt [denna artikel](#artikel-26-vägledning) ska kommissionen samråda med berörda parter.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

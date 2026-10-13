@@ -1,0 +1,52 @@
+---
+title: MITRE ATT&CK Enterprise
+description: Kunskapsbas över angripares taktiker och tekniker i IT-miljöer,
+  baserad på verkliga observationer.
+designation: MITRE ATT&CK
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: MITRE
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+type: standard
+sites:
+  - it
+url: https://attack.mitre.org/
+translation: en
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Kunskapsbas över angripares taktiker och tekniker i IT-miljöer, baserad på verkliga observationer.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [MITRE ATT&CK](https://attack.mitre.org/).
+
+## Innehåll
+
+- [Reconnaissance](/standarder/mitre-attack/reconnaissance) · 46 krav
+- [Resource Development](/standarder/mitre-attack/resource-development) · 50 krav
+- [Initial Access](/standarder/mitre-attack/initial-access) · 22 krav
+- [Execution](/standarder/mitre-attack/execution) · 64 krav
+- [Persistence](/standarder/mitre-attack/persistence) · 113 krav
+- [Privilege Escalation](/standarder/mitre-attack/privilege-escalation) · 96 krav
+- [Stealth](/standarder/mitre-attack/stealth) · 148 krav
+- [Defense Impairment](/standarder/mitre-attack/defense-impairment) · 56 krav
+- [Credential Access](/standarder/mitre-attack/credential-access) · 67 krav
+- [Discovery](/standarder/mitre-attack/discovery) · 49 krav
+- [Lateral Movement](/standarder/mitre-attack/lateral-movement) · 23 krav
+- [Collection](/standarder/mitre-attack/collection) · 41 krav
+- [Command and Control](/standarder/mitre-attack/command-and-control) · 45 krav
+- [Exfiltration](/standarder/mitre-attack/exfiltration) · 19 krav
+- [Impact](/standarder/mitre-attack/impact) · 33 krav
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+- [Cybersäkerhetslagen](/lagstiftning/cybersakerhetslagen)
+<!-- scan-standards:end -->

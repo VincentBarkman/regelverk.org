@@ -1,0 +1,55 @@
+---
+title: NIST SP 800-53B – Moderate baseline
+description: NIST control baselines for SP 800-53; the moderate baseline is
+  reproduced here as an OSCAL catalogue.
+designation: NIST SP 800-53B
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+translation: en
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+NIST control baselines for SP 800-53; the moderate baseline is reproduced here as an OSCAL catalogue.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [NIST SP 800-53B](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final).
+
+## Contents
+
+- [AC – Access Control](/standarder/nist-sp-800-53b/ac) · 39 requirements
+- [AT – Awareness and Training](/standarder/nist-sp-800-53b/at) · 6 requirements
+- [AU – Audit and Accountability](/standarder/nist-sp-800-53b/au) · 16 requirements
+- [CA – Assessment, Authorization, and Monitoring](/standarder/nist-sp-800-53b/ca) · 10 requirements
+- [CM – Configuration Management](/standarder/nist-sp-800-53b/cm) · 24 requirements
+- [CP – Contingency Planning](/standarder/nist-sp-800-53b/cp) · 23 requirements
+- [IA – Identification and Authentication](/standarder/nist-sp-800-53b/ia) · 24 requirements
+- [IR – Incident Response](/standarder/nist-sp-800-53b/ir) · 13 requirements
+- [MA – Maintenance](/standarder/nist-sp-800-53b/ma) · 9 requirements
+- [MP – Media Protection](/standarder/nist-sp-800-53b/mp) · 7 requirements
+- [PE – Physical and Environmental Protection](/standarder/nist-sp-800-53b/pe) · 18 requirements
+- [PL – Planning](/standarder/nist-sp-800-53b/pl) · 7 requirements
+- [PS – Personnel Security](/standarder/nist-sp-800-53b/ps) · 9 requirements
+- [RA – Risk Assessment](/standarder/nist-sp-800-53b/ra) · 10 requirements
+- [SA – System and Services Acquisition](/standarder/nist-sp-800-53b/sa) · 17 requirements
+- [SC – System and Communications Protection](/standarder/nist-sp-800-53b/sc) · 25 requirements
+- [SI – System and Information Integrity](/standarder/nist-sp-800-53b/si) · 18 requirements
+- [SR – Supply Chain Risk Management](/standarder/nist-sp-800-53b/sr) · 12 requirements
+
+## Related legal acts
+
+- [NIS2 directive](/lagstiftning/nis2)
+<!-- scan-standards:end -->

@@ -1,0 +1,46 @@
+---
+title: OWASP API Security Top 10
+description: Förteckning över de tio viktigaste säkerhetsriskerna för webb-API:er.
+designation: OWASP API Security Top 10 (2023)
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: OWASP
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+type: standard
+sites:
+  - it
+url: https://owasp.org/API-Security/
+translation: en
+version: "2023"
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Förteckning över de tio viktigaste säkerhetsriskerna för webb-API:er.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [OWASP API Security Top 10 (2023)](https://owasp.org/API-Security/).
+
+## Innehåll
+
+- [API1:2023 Broken Object Level Authorization](/standarder/owasp-api-top10/api1) · 1 krav
+- [API2:2023 Broken Authentication](/standarder/owasp-api-top10/api2) · 1 krav
+- [API3:2023 Broken Object Property Level Authorization](/standarder/owasp-api-top10/api3) · 1 krav
+- [API4:2023 Unrestricted Resource Consumption](/standarder/owasp-api-top10/api4) · 1 krav
+- [API5:2023 Broken Function Level Authorization](/standarder/owasp-api-top10/api5) · 1 krav
+- [API6:2023 Unrestricted Access to Sensitive Business Flows](/standarder/owasp-api-top10/api6) · 1 krav
+- [API7:2023 Server Side Request Forgery](/standarder/owasp-api-top10/api7) · 1 krav
+- [API8:2023 Security Misconfiguration](/standarder/owasp-api-top10/api8) · 1 krav
+- [API9:2023 Improper Inventory Management](/standarder/owasp-api-top10/api9) · 1 krav
+- [API10:2023 Unsafe Consumption of APIs](/standarder/owasp-api-top10/api10) · 1 krav
+
+## Relaterade regelverk
+
+- [Dataskyddsförordningen (GDPR)](/lagstiftning/gdpr)
+- [CRA-förordningen](/lagstiftning/cra)
+<!-- scan-standards:end -->

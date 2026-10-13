@@ -1,0 +1,44 @@
+---
+title: Privilege Escalation
+description: MITRE ATT&CK for ICS – Privilege Escalation
+source: mitre-attack-ics
+ref: PRIVILEGE-ESCALATION
+designation: MITRE ATT&CK for ICS
+jurisdiction: Internationell
+issuer: MITRE
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+translation: en
+type: standard
+sites:
+  - ot
+url: https://attack.mitre.org/attackics/
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+The adversary is trying to gain higher-level permissions.
+
+Privilege Escalation consists of techniques that adversaries use to gain higher-level permissions on a system or network. Adversaries can often enter and explore a network with unprivileged access but require elevated permissions to follow through on their objectives. Common approaches are to take advantage of system weaknesses, misconfigurations, and vulnerabilities.
+
+### T0874 – Hooking
+
+Adversaries may hook into application programming interface (API) functions used by processes to redirect calls for execution and privilege escalation means. Windows processes often leverage these API functions to perform tasks that require reusable system resources. Windows API functions are typically stored in dynamic-link libraries (DLLs) as exported functions. (Citation: Enterprise ATT&amp;CK)
+
+One type of hooking seen in ICS involves redirecting calls to these functions via import address table (IAT) hooking. IAT hooking uses modifications to a process IAT, where pointers to imported API functions are stored. (Citation: Nicolas Falliere, Liam O Murchu, Eric Chien February 2011)
+
+### T0890 – Exploitation for Privilege Escalation
+
+Adversaries may exploit software vulnerabilities in an attempt to elevate privileges. Exploitation of a software vulnerability occurs when an adversary takes advantage of a programming error in a program, service, or within the operating system software or kernel itself to execute adversary-controlled code. Security constructs such as permission levels will often hinder access to information and use of certain techniques, so adversaries will likely need to perform privilege escalation to include use of software exploitation to circumvent those restrictions. (Citation: The MITRE Corporation) 
+
+When initially gaining access to a system, an adversary may be operating within a lower privileged process which will prevent them from accessing certain resources on the system. Vulnerabilities may exist, usually in operating system components and software commonly running at higher permissions, that can be exploited to gain higher levels of access on the system. This could enable someone to move from unprivileged or user level permissions to SYSTEM or root permissions depending on the component that is vulnerable. This may be a necessary step for an adversary compromising an endpoint system that has been properly configured and limits other privilege escalation methods. (Citation: The MITRE Corporation)
+
+---
+
+© The MITRE Corporation, MITRE ATT&CK® 19.2. This content is reproduced under the MITRE ATT&CK Terms of Use with attribution. [attack.mitre.org](https://attack.mitre.org/). [Source](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json).
+<!-- scan-standards:end -->

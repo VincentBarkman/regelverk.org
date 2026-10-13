@@ -1,0 +1,35 @@
+---
+'name': 'Cybersäkerhetslagen'
+'title': 'Cybersäkerhetslag (2025:1506)'
+'type': 'national-law'
+'description': 'Svensk lag som genomför NIS2-direktivet och ställer krav på
+  cybersäkerhet för samhällsviktig verksamhet.'
+'designation': 'SFS 2025:1506'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'published': '2025-12-11'
+'applies-from': '2026-01-15'
+'implementerar':
+  - 'nis2'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [1 kap. – Inledande bestämmelser](/lagstiftning/cybersakerhetslagen/kap-1) · §§ 1–17
+- [2 kap. – Verksamhetsutövares skyldigheter](/lagstiftning/cybersakerhetslagen/kap-2) · §§ 1–14
+- [3 kap. – Tillsyn](/lagstiftning/cybersakerhetslagen/kap-3) · §§ 1–11
+- [4 kap. – Ingripanden](/lagstiftning/cybersakerhetslagen/kap-4) · §§ 1–14
+- [5 kap. – Överklagande](/lagstiftning/cybersakerhetslagen/kap-5)
+<!-- scan-laws:end -->

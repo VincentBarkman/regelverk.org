@@ -1,0 +1,131 @@
+---
+title: PE – Physical and Environmental Protection
+description: NIST SP 800-53B – PE – Physical and Environmental Protection
+source: nist-sp-800-53b
+ref: PE
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### PE-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] physical and environmental protection policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the physical and environmental protection policy and the associated physical and environmental protection controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the physical and environmental protection policy and procedures; and
+- c. Review and update the current physical and environmental protection:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### PE-2 – Physical Access Authorizations
+
+- a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;
+- b. Issue authorization credentials for facility access;
+- c. Review the access list detailing authorized facility access by individuals [organization-defined frequency] ; and
+- d. Remove individuals from the facility access list when access is no longer required.
+
+### PE-3 – Physical Access Control
+
+- a. Enforce physical access authorizations at [organization-defined entry and exit points] by:
+  - 1. Verifying individual access authorizations before granting access to the facility; and
+  - 2. Controlling ingress and egress to the facility using [ [organization-defined systems or devices]  or guards];
+- b. Maintain physical access audit logs for [organization-defined entry or exit points];
+- c. Control access to areas within the facility designated as publicly accessible by implementing the following controls: [organization-defined physical access controls];
+- d. Escort visitors and control visitor activity [organization-defined circumstances];
+- e. Secure keys, combinations, and other physical access devices;
+- f. Inventory [organization-defined physical access devices] every [organization-defined frequency] ; and
+- g. Change combinations and keys [organization-defined frequency] and/or when keys are lost, combinations are compromised, or when individuals possessing the keys or combinations are transferred or terminated.
+
+### PE-4 – Access Control for Transmission
+
+Control physical access to [organization-defined system distribution and transmission lines] within organizational facilities using [organization-defined security controls].
+
+### PE-5 – Access Control for Output Devices
+
+Control physical access to output from [organization-defined output devices] to prevent unauthorized individuals from obtaining the output.
+
+### PE-6 – Monitoring Physical Access
+
+- a. Monitor physical access to the facility where the system resides to detect and respond to physical security incidents;
+- b. Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events] ; and
+- c. Coordinate results of reviews and investigations with the organizational incident response capability.
+
+#### PE-6(1) – Intrusion Alarms and Surveillance Equipment
+
+Monitor physical access to the facility where the system resides using physical intrusion alarms and surveillance equipment.
+
+### PE-8 – Visitor Access Records
+
+- a. Maintain visitor access records to the facility where the system resides for [organization-defined time period];
+- b. Review visitor access records [organization-defined frequency] ; and
+- c. Report anomalies in visitor access records to [organization-defined personnel].
+
+### PE-9 – Power Equipment and Cabling
+
+Protect power equipment and power cabling for the system from damage and destruction.
+
+### PE-10 – Emergency Shutoff
+
+- a. Provide the capability of shutting off power to [organization-defined system or individual system components] in emergency situations;
+- b. Place emergency shutoff switches or devices in [organization-defined location] to facilitate access for authorized personnel; and
+- c. Protect emergency power shutoff capability from unauthorized activation.
+
+### PE-11 – Emergency Power
+
+Provide an uninterruptible power supply to facilitate [an orderly shutdown of the system or transition of the system to long-term alternate power] in the event of a primary power source loss.
+
+### PE-12 – Emergency Lighting
+
+Employ and maintain automatic emergency lighting for the system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility.
+
+### PE-13 – Fire Protection
+
+Employ and maintain fire detection and suppression systems that are supported by an independent energy source.
+
+#### PE-13(1) – Detection Systems — Automatic Activation and Notification
+
+Employ fire detection systems that activate automatically and notify [organization-defined personnel or roles] and [organization-defined emergency responders] in the event of a fire.
+
+### PE-14 – Environmental Controls
+
+- a. Maintain [temperature or humidity or pressure or radiation or  [organization-defined environmental control] ] levels within the facility where the system resides at [organization-defined acceptable levels] ; and
+- b. Monitor environmental control levels [organization-defined frequency].
+
+### PE-15 – Water Damage Protection
+
+Protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.
+
+### PE-16 – Delivery and Removal
+
+- a. Authorize and control [organization-defined types of system components] entering and exiting the facility; and
+- b. Maintain records of the system components.
+
+### PE-17 – Alternate Work Site
+
+- a. Determine and document the [organization-defined alternate work sites] allowed for use by employees;
+- b. Employ the following controls at alternate work sites: [organization-defined controls];
+- c. Assess the effectiveness of controls at alternate work sites; and
+- d. Provide a means for employees to communicate with information security and privacy personnel in case of incidents.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

@@ -1,0 +1,27 @@
+---
+title: IEC 62443-4-2
+description: Technical security requirements for IACS components, organised
+  around seven foundational requirements.
+designation: IEC 62443-4-2:2019
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+  - it
+url: https://webstore.iec.ch/en/publication/34421
+published: 2019-02-27
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Part 4-2 specifies technical component requirements linked to the seven foundational requirements of IEC 62443-1-1 and defines capability security levels SL-C for components.
+
+Official source: [IEC 62443-4-2:2019](https://webstore.iec.ch/en/publication/34421).
+<!-- scan-standards:end -->

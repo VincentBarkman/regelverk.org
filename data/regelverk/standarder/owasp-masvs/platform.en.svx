@@ -1,0 +1,52 @@
+---
+title: MASVS-PLATFORM – Platform Interaction
+description: OWASP MASVS 2.1.0 – MASVS-PLATFORM – Platform Interaction
+source: owasp-masvs
+ref: PLATFORM
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+The security of mobile apps heavily depends on their interaction with the mobile platform, which often involves exposing data or functionality intentionally through the use of platform-provided inter-process communication (IPC) mechanisms and WebViews to enhance the user experience. However, these mechanisms can also be exploited by attackers or other installed apps, potentially compromising the app's security.
+
+Furthermore, sensitive data, such as passwords, credit card details, and one-time passwords in notifications, is often displayed in the app's user interface. It is essential to ensure that this data is not unintentionally leaked through platform mechanisms such as auto-generated screenshots or accidental disclosure through shoulder surfing or device sharing.
+
+This category comprises controls that ensure the app's interactions with the mobile platform occur securely. These controls cover the secure use of platform-provided IPC mechanisms, WebView configurations to prevent sensitive data leakage and functionality exposure, and secure display of sensitive data in the app's user interface. By implementing these controls, mobile app developers can safeguard sensitive user information and prevent unauthorized access by attackers.
+
+### MASVS-PLATFORM-1
+
+The app uses IPC mechanisms securely.
+
+Apps typically use platform provided IPC mechanisms to intentionally expose data or functionality. Both installed apps and the user are able to interact with the app in many different ways. This control ensures that all interactions involving IPC mechanisms happen securely.
+
+### MASVS-PLATFORM-2
+
+The app uses WebViews securely.
+
+WebViews are typically used by apps that have a need for increased control over the UI. This control ensures that WebViews are configured securely to prevent sensitive data leakage as well as sensitive functionality exposure (e.g. via JavaScript bridges to native code).
+
+### MASVS-PLATFORM-3
+
+The app uses the user interface securely.
+
+Sensitive data has to be displayed in the UI in many situations (e.g. passwords, credit card details, OTP codes in notifications). This control ensures that this data doesn't end up being unintentionally leaked due to platform mechanisms such as auto-generated screenshots or accidentally disclosed via e.g. shoulder surfing or sharing the device with another person.
+
+---
+
+© OWASP Foundation, Mobile Application Security Verification Standard 2.1.0. The layout has been adapted; the English requirements have not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml).
+<!-- scan-standards:end -->

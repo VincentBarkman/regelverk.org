@@ -92,13 +92,15 @@ export function listRecords(scope: string, entity: string): DataRecordRef[] {
 		const key = `${ref.scope}/${ref.entity}/${ref.id}`;
 		byKey.set(key, byKey.has(key) ? bestVariant(byKey.get(key)!, record) : record);
 	}
-	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id));
+	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
 }
 
 export function nestRecords(items: DataRecordRef[]): DataRecordRef[] {
 	const top = items.filter((i) => !i.parent);
 	for (const p of top)
-		p.children = items.filter((c) => c.parent === p.id).sort((a, b) => a.id.localeCompare(b.id));
+		p.children = items
+			.filter((c) => c.parent === p.id)
+			.sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
 	return top;
 }
 
@@ -176,7 +178,7 @@ export function listPages(scope: string): DataRecordRef[] {
 		const key = `${home}/pages/${id}`;
 		byKey.set(key, byKey.has(key) ? bestVariant(byKey.get(key)!, record) : record);
 	}
-	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id));
+	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
 }
 
 export interface SearchHit extends DataRecordRef {
@@ -298,7 +300,7 @@ export function searchRecords(query: string): SearchHit[] {
 	const index = getSearchIndex();
 	const options = {
 		prefix: true,
-		fuzzy: (term: string) => (term.length >= 5 ? 2 : 1),
+		fuzzy: (term: string) => (term.length >= 4 ? 2 : 1),
 		boost: { title: 4, idText: 2, description: 1.5 }
 	};
 	let results = index.search(query, { ...options, combineWith: 'AND' });
@@ -306,26 +308,37 @@ export function searchRecords(query: string): SearchHit[] {
 
 	if (!results.length) {
 		const q = fold(query).replace(/[^\p{L}\p{N}]+/gu, '');
-		return [...SEARCH_STORE.values()]
-			.map((h) => ({
-				h,
-				score: h.tokens.length
-					? Math.max(...h.tokens.map((t) => dice(q, t) + (t.startsWith(q.slice(0, 2)) ? 0.1 : 0)))
-					: 0
-			}))
-			.filter(({ score }) => score >= 0.35)
-			.sort((a, b) => b.score - a.score)
-			.slice(0, 10)
-			.map(({ h, score }) => ({
-				scope: h.scope,
-				entity: h.entity,
-				id: h.id,
-				title: h.title,
-				meta: h.meta,
-				description: h.description,
-				score,
-				matchedFields: ['id', 'title']
-			}));
+		const qWords = tokenize(query);
+		const scoreOf = (h: StoredHit): number => {
+			const idt = fold(`${h.id} ${h.title ?? ''}`).replace(/[^\p{L}\p{N}]+/gu, '');
+			const tokScore = h.tokens.length
+				? Math.max(...h.tokens.map((t) => dice(q, t) + (t.startsWith(q.slice(0, 2)) ? 0.1 : 0)))
+				: 0;
+			const strScore = idt && (idt.includes(q) || q.includes(idt)) ? 1 : dice(q, idt);
+			const wordScore = qWords.length
+				? Math.max(
+						...qWords.map((w) =>
+							h.tokens.length ? Math.max(...h.tokens.map((t) => dice(w, t))) : 0
+						)
+					)
+				: 0;
+			return Math.max(tokScore, strScore, wordScore);
+		};
+		const scored = [...SEARCH_STORE.values()]
+			.map((h) => ({ h, score: scoreOf(h) }))
+			.filter(({ score }) => score > 0)
+			.sort((a, b) => b.score - a.score);
+		const best = scored.filter(({ score }) => score >= 0.3);
+		return (best.length ? best : scored.slice(0, 5)).slice(0, 10).map(({ h, score }) => ({
+			scope: h.scope,
+			entity: h.entity,
+			id: h.id,
+			title: h.title,
+			meta: h.meta,
+			description: h.description,
+			score,
+			matchedFields: ['id', 'title']
+		}));
 	}
 
 	return results

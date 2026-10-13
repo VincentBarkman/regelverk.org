@@ -1,0 +1,52 @@
+---
+title: MITRE ATT&CK Enterprise
+description: Knowledge base of adversary tactics and techniques in IT
+  environments based on real-world observations.
+designation: MITRE ATT&CK
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: MITRE
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+type: standard
+sites:
+  - it
+url: https://attack.mitre.org/
+translation: en
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Knowledge base of adversary tactics and techniques in IT environments based on real-world observations.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [MITRE ATT&CK](https://attack.mitre.org/).
+
+## Contents
+
+- [Reconnaissance](/standarder/mitre-attack/reconnaissance) · 46 requirements
+- [Resource Development](/standarder/mitre-attack/resource-development) · 50 requirements
+- [Initial Access](/standarder/mitre-attack/initial-access) · 22 requirements
+- [Execution](/standarder/mitre-attack/execution) · 64 requirements
+- [Persistence](/standarder/mitre-attack/persistence) · 113 requirements
+- [Privilege Escalation](/standarder/mitre-attack/privilege-escalation) · 96 requirements
+- [Stealth](/standarder/mitre-attack/stealth) · 148 requirements
+- [Defense Impairment](/standarder/mitre-attack/defense-impairment) · 56 requirements
+- [Credential Access](/standarder/mitre-attack/credential-access) · 67 requirements
+- [Discovery](/standarder/mitre-attack/discovery) · 49 requirements
+- [Lateral Movement](/standarder/mitre-attack/lateral-movement) · 23 requirements
+- [Collection](/standarder/mitre-attack/collection) · 41 requirements
+- [Command and Control](/standarder/mitre-attack/command-and-control) · 45 requirements
+- [Exfiltration](/standarder/mitre-attack/exfiltration) · 19 requirements
+- [Impact](/standarder/mitre-attack/impact) · 33 requirements
+
+## Related legal acts
+
+- [NIS2 directive](/lagstiftning/nis2)
+- [Swedish Cybersecurity Act](/lagstiftning/cybersakerhetslagen)
+<!-- scan-standards:end -->

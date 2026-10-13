@@ -1,0 +1,120 @@
+---
+title: AU – Audit and Accountability
+description: NIST SP 800-53B – AU – Audit and Accountability
+source: nist-sp-800-53b
+ref: AU
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### AU-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] audit and accountability policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the audit and accountability policy and the associated audit and accountability controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the audit and accountability policy and procedures; and
+- c. Review and update the current audit and accountability:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### AU-2 – Event Logging
+
+- a. Identify the types of events that the system is capable of logging in support of the audit function: [organization-defined event types];
+- b. Coordinate the event logging function with other organizational entities requiring audit-related information to guide and inform the selection criteria for events to be logged;
+- c. Specify the following event types for logging within the system: [organization-defined event types (subset of the event types defined in [AU-2a.](#au-2_smt.a)) along with the frequency of (or situation requiring) logging for each identified event type];
+- d. Provide a rationale for why the event types selected for logging are deemed to be adequate to support after-the-fact investigations of incidents; and
+- e. Review and update the event types selected for logging [organization-defined frequency].
+
+### AU-3 – Content of Audit Records
+
+Ensure that audit records contain information that establishes the following:
+- a. What type of event occurred;
+- b. When the event occurred;
+- c. Where the event occurred;
+- d. Source of the event;
+- e. Outcome of the event; and
+- f. Identity of any individuals, subjects, or objects/entities associated with the event.
+
+#### AU-3(1) – Additional Audit Information
+
+Generate audit records containing the following additional information: [organization-defined additional information].
+
+### AU-4 – Audit Log Storage Capacity
+
+Allocate audit log storage capacity to accommodate [organization-defined audit log retention requirements].
+
+### AU-5 – Response to Audit Logging Process Failures
+
+- a. Alert [organization-defined personnel or roles] within [organization-defined time period] in the event of an audit logging process failure; and
+- b. Take the following additional actions: [organization-defined additional actions].
+
+### AU-6 – Audit Record Review, Analysis, and Reporting
+
+- a. Review and analyze system audit records [organization-defined frequency] for indications of [organization-defined inappropriate or unusual activity] and the potential impact of the inappropriate or unusual activity;
+- b. Report findings to [organization-defined personnel or roles] ; and
+- c. Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
+
+#### AU-6(1) – Automated Process Integration
+
+Integrate audit record review, analysis, and reporting processes using [organization-defined automated mechanisms].
+
+#### AU-6(3) – Correlate Audit Record Repositories
+
+Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
+
+### AU-7 – Audit Record Reduction and Report Generation
+
+Provide and implement an audit record reduction and report generation capability that:
+- a. Supports on-demand audit record review, analysis, and reporting requirements and after-the-fact investigations of incidents; and
+- b. Does not alter the original content or time ordering of audit records.
+
+#### AU-7(1) – Automatic Processing
+
+Provide and implement the capability to process, sort, and search audit records for events of interest based on the following content: [organization-defined fields within audit records].
+
+### AU-8 – Time Stamps
+
+- a. Use internal system clocks to generate time stamps for audit records; and
+- b. Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.
+
+### AU-9 – Protection of Audit Information
+
+- a. Protect audit information and audit logging tools from unauthorized access, modification, and deletion; and
+- b. Alert [organization-defined personnel or roles] upon detection of unauthorized access, modification, or deletion of audit information.
+
+#### AU-9(4) – Access by Subset of Privileged Users
+
+Authorize access to management of audit logging functionality to only [organization-defined subset of privileged users or roles].
+
+### AU-11 – Audit Record Retention
+
+Retain audit records for [organization-defined time period] to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements.
+
+### AU-12 – Audit Record Generation
+
+- a. Provide audit record generation capability for the event types the system is capable of auditing as defined in [AU-2a](#au-2_smt.a) on [organization-defined system components];
+- b. Allow [organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
+- c. Generate audit records for the event types defined in [AU-2c](#au-2_smt.c) that include the audit record content defined in [AU-3](#au-3).
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

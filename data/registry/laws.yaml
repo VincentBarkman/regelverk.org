@@ -1,0 +1,973 @@
+laws:
+  - slug: gdpr
+    type: eu-regulation
+    designation: 'EU 2016/679'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32016R0679'
+    published: '2016-05-04'
+    applies-from: '2018-05-25'
+    sites: [it, ot]
+    name:
+      sv: Dataskyddsförordningen (GDPR)
+      en: General Data Protection Regulation (GDPR)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2016/679
+      en: Regulation (EU) 2016/679 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om skydd för fysiska personer vid behandling av personuppgifter och om det fria flödet av sådana uppgifter.
+      en: EU regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: nis2
+    type: eu-directive
+    designation: 'EU 2022/2555'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32022L2555'
+    published: '2022-12-14'
+    applies-from: '2024-10-18'
+    sites: [it, ot]
+    related: [cybersakerhetslagen]
+    name:
+      sv: NIS2-direktivet
+      en: NIS2 directive
+    title:
+      sv: Europaparlamentets och rådets direktiv (EU) 2022/2555
+      en: Directive (EU) 2022/2555 of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om åtgärder för en hög gemensam cybersäkerhetsnivå i unionen.
+      en: EU directive on measures for a high common level of cybersecurity across the Union.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: cer
+    type: eu-directive
+    designation: 'EU 2022/2557'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32022L2557'
+    published: '2022-12-14'
+    applies-from: '2024-10-18'
+    sites: [ot, fysisk, it]
+    related: [nis2]
+    name:
+      sv: CER-direktivet
+      en: CER directive
+    title:
+      sv: Europaparlamentets och rådets direktiv (EU) 2022/2557
+      en: Directive (EU) 2022/2557 of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om kritiska enheters motståndskraft.
+      en: EU directive on the resilience of critical entities.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: cra
+    type: eu-regulation
+    designation: 'EU 2024/2847'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32024R2847'
+    published: '2024-10-23'
+    applies-from: '2027-12-11'
+    sites: [it, ot]
+    related: [nis2]
+    name:
+      sv: CRA-förordningen
+      en: Cyber Resilience Act (CRA)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2024/2847
+      en: Regulation (EU) 2024/2847 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om cybersäkerhetskrav för produkter med digitala komponenter.
+      en: EU regulation on horizontal cybersecurity requirements for products with digital elements.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: cybersakerhetslagen
+    type: national-law
+    designation: 'SFS 2025:1506'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2025:1506'
+    sfs-slug: cybersakerhetslag-20251506
+    published: '2025-12-11'
+    applies-from: '2026-01-15'
+    sites: [it, ot]
+    implements: [nis2]
+    name:
+      sv: Cybersäkerhetslagen
+      en: Swedish Cybersecurity Act
+    title:
+      sv: Cybersäkerhetslag (2025:1506)
+    description:
+      sv: Svensk lag som genomför NIS2-direktivet och ställer krav på cybersäkerhet för samhällsviktig verksamhet.
+    locales: [sv]
+    provisions: all
+
+  - slug: sakerhetsskyddslagen
+    type: national-law
+    designation: 'SFS 2018:585'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2018:585'
+    sfs-slug: sakerhetsskyddslag-2018585
+    published: '2018-04-19'
+    applies-from: '2019-04-01'
+    sites: [fysisk, it, ot]
+    name:
+      sv: Säkerhetsskyddslagen
+      en: Swedish Protective Security Act
+    title:
+      sv: Säkerhetsskyddslag (2018:585)
+    description:
+      sv: Svensk lag om skydd för verksamheter av betydelse för Sveriges säkerhet.
+    locales: [sv]
+    provisions: all
+
+  - slug: arbetsmiljolagen
+    type: national-law
+    designation: 'SFS 1977:1160'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1977:1160'
+    sfs-slug: arbetsmiljolag-19771160
+    applies-from: '1978-07-01'
+    sites: [arbetsmiljo]
+    name:
+      sv: Arbetsmiljölagen
+      en: Swedish Work Environment Act
+    title:
+      sv: Arbetsmiljölag (1977:1160)
+    description:
+      sv: Ramverkslag om krav på arbetsmiljön och fördelningen av arbetsmiljöansvar.
+    locales: [sv]
+    provisions: all
+
+  - slug: lso
+    type: national-law
+    designation: 'SFS 2003:778'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2003:778'
+    sfs-slug: lag-2003778-om-skydd-mot-olyckor
+    applies-from: '2004-01-01'
+    sites: [brandskydd, fysisk]
+    name:
+      sv: Lagen om skydd mot olyckor (LSO)
+      en: Swedish Civil Protection Act (LSO)
+    title:
+      sv: Lag (2003:778) om skydd mot olyckor
+    description:
+      sv: Svensk lag om skydd mot olyckor, inklusive kommuners räddningstjänst och ägares ansvar för brandskydd.
+    locales: [sv]
+    provisions: all
+
+  - slug: elsakerhetslagen
+    type: national-law
+    designation: 'SFS 2016:732'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2016:732'
+    sfs-slug: elsakerhetslag-2016732
+    applies-from: '2017-07-01'
+    sites: [el]
+    name:
+      sv: Elsäkerhetslagen
+      en: Swedish Electrical Safety Act
+    title:
+      sv: Elsäkerhetslag (2016:732)
+    description:
+      sv: Svensk lag om elsäkerhet för elanläggningar och elektrisk materiel.
+    locales: [sv]
+    provisions: all
+    groups:
+      - title: Inledande bestämmelser
+        sections:
+          - inledande
+          - avsnitt-ordförklaringar
+      - title: Skyldigheter
+        sections:
+          - avsnitt-skyldigheter-i-fråga-om-elektriska-anläggningar
+          - avsnitt-skyldigheter-i-fråga-om-elektrisk-utrustning
+      - title: Elinstallationsarbete
+        sections:
+          - avsnitt-auktorisation-för-elinstallationsarbete
+          - avsnitt-elinstallationsföretag
+          - avsnitt-skyldighet-att-anmäla-elinstallationsarbete
+          - avsnitt-utförande-av-elinstallationsarbete
+      - title: Skadestånd
+        sections:
+          - avsnitt-ansvar-för-skada-som-orsakas-av-el-från-en-starkströmsanläggning
+          - avsnitt-ansvar-för-skada-som-orsakas-av-säkerhetsbrist-i-el
+          - avsnitt-ansvar-för-skada-vid-driftstörning
+          - avsnitt-ägares-skadeståndsansvar
+          - avsnitt-bestämmande-av-skadestånd
+          - avsnitt-skadelidandes-medvållande
+          - avsnitt-preskription
+      - title: Tillsyn och marknadskontroll
+        sections:
+          - avsnitt-tillsynsmyndighet
+          - avsnitt-upplysningar-och-handlingar
+          - avsnitt-tillträde-och-provning
+          - avsnitt-förelägganden
+          - avsnitt-förbud
+          - avsnitt-återkallelse-av-auktorisation
+          - avsnitt-varning
+          - avsnitt-marknadskontroll
+      - title: Bemyndiganden, straff och överklagande
+        sections:
+          - avsnitt-bemyndiganden
+          - avsnitt-straff
+          - avsnitt-dispens
+          - avsnitt-överklagande
+
+  - slug: personuppgiftslagen
+    type: national-law
+    designation: 'SFS 2018:218'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2018:218'
+    applies-from: '2018-05-25'
+    sites: [it]
+    related: [gdpr]
+    name:
+      sv: Personuppgiftslagen
+      en: Swedish Data Protection Act
+    title:
+      sv: Lag (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning
+    description:
+      sv: Svensk lag som kompletterar GDPR med nationella bestämmelser om behandling av personuppgifter.
+    locales: [sv]
+    provisions: all
+
+  - slug: lek
+    type: national-law
+    designation: 'SFS 2022:482'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2022:482'
+    applies-from: '2022-08-01'
+    sites: [it]
+    name:
+      sv: Lagen om elektronisk kommunikation (LEK)
+      en: Swedish Electronic Communications Act
+    title:
+      sv: Lag (2022:482) om elektronisk kommunikation
+    description:
+      sv: Svensk lag om elektroniska kommunikationsnät och -tjänster, inklusive sekretess och säkerhetskrav.
+    locales: [sv]
+    provisions: all
+
+  - slug: skyddslagen
+    type: national-law
+    designation: 'SFS 2010:305'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2010:305'
+    applies-from: '2011-01-01'
+    sites: [fysisk]
+    name:
+      sv: Skyddslagen
+      en: Swedish Security Services Act
+    title:
+      sv: Skyddslag (2010:305)
+    description:
+      sv: Svensk lag om väktarverksamhet, skyddspersonal och fysisk bevakning.
+    locales: [sv]
+    provisions: all
+
+  - slug: fn-barnkonventionen
+    type: convention
+    designation: 'SFS 2018:1197'
+    jurisdiction: Internationell
+    issuer: FN
+    sfs: '2018:1197'
+    sfs-slug: lag-20181197-om-forenta-nationernas-konvention
+    annex: sv
+    applies-from: '2020-01-01'
+    sites: [arbetsmiljo, brandskydd]
+    name:
+      sv: Barnkonventionen
+      en: UN Convention on the Rights of the Child
+    title:
+      sv: Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter
+    description:
+      sv: FN-konvention som införlivats i svensk lag och ställer krav på barnets bästa i alla beslut som rör barn.
+    locales: [sv]
+    provisions: all
+    groups:
+      - title: Införlivande
+        sections: [inledande]
+      - title: Konventionens inledning
+        sections: [avsnitt-inledning]
+      - title: Del I
+        sections: [avsnitt-del-i]
+      - title: Del II
+        sections: [avsnitt-del-ii]
+      - title: Del III
+        sections: [avsnitt-del-iii]
+
+  - slug: kamerabevakningslagen
+    type: national-law
+    designation: 'SFS 2018:1200'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2018:1200'
+    applies-from: '2018-08-01'
+    sites: [fysisk, it]
+    related: [gdpr]
+    name:
+      sv: Kamerabevakningslagen
+      en: Swedish Camera Surveillance Act
+    title:
+      sv: Kamerabevakningslag (2018:1200)
+    description:
+      sv: Svensk lag om tillstånd och regler för kamerabevakning av platser dit allmänheten har tillträde.
+    locales: [sv]
+    provisions: all
+
+  - slug: ordningslagen
+    type: national-law
+    designation: 'SFS 1993:1617'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1993:1617'
+    applies-from: '1994-07-01'
+    sites: [fysisk]
+    name:
+      sv: Ordningslagen
+      en: Swedish Public Order Act
+    title:
+      sv: Ordningslag (1993:1617)
+    description:
+      sv: Svensk lag om allmän ordning, ordningsföreskrifter, ingripanden och ordningsvakter.
+    locales: [sv]
+    provisions: all
+
+  - slug: brandfarliga-varor
+    type: national-law
+    designation: 'SFS 2010:1011'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2010:1011'
+    applies-from: '2011-04-01'
+    sites: [brandskydd]
+    related: [lso]
+    name:
+      sv: Lagen om brandfarliga och explosiva varor (LBE)
+      en: Swedish Flammables and Explosives Act
+    title:
+      sv: Lag (2010:1011) om brandfarliga och explosiva varor
+    description:
+      sv: Svensk lag om hantering, förvaring och tillstånd för brandfarliga och explosiva varor.
+    locales: [sv]
+    provisions: all
+
+  - slug: extraordinara-handelser
+    type: national-law
+    designation: 'SFS 2006:544'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2006:544'
+    applies-from: '2007-01-01'
+    sites: [brandskydd, fysisk]
+    related: [lso]
+    name:
+      sv: Lagen om extraordinära händelser
+      en: Swedish Extraordinary Events Act
+    title:
+      sv: Lag (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap
+    description:
+      sv: Svensk lag om kommunal krisberedskap och förmåga att hantera extraordinära händelser.
+    locales: [sv]
+    provisions: all
+
+  - slug: ellagen
+    type: national-law
+    designation: 'SFS 1997:857'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1997:857'
+    applies-from: '1999-01-01'
+    sites: [el]
+    related: [elsakerhetslagen]
+    name:
+      sv: Ellagen
+      en: Swedish Electricity Act
+    title:
+      sv: Ellag (1997:857)
+    description:
+      sv: Svensk lag om framställning, överföring, distribution och handel med el samt elnätskoncessioner.
+    locales: [sv]
+    provisions: all
+
+  - slug: arbetstidslagen
+    type: national-law
+    designation: 'SFS 1982:673'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1982:673'
+    applies-from: '1983-07-01'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen, arbetstidsdirektivet]
+    name:
+      sv: Arbetstidslagen
+      en: Swedish Working Time Act
+    title:
+      sv: Arbetstidslag (1982:673)
+    description:
+      sv: Svensk lag om ordinarie arbetstid, övertid, nattarbete och vilotider.
+    locales: [sv]
+    provisions: all
+
+  - slug: mbl
+    type: national-law
+    designation: 'SFS 1976:580'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1976:580'
+    applies-from: '1977-01-01'
+    sites: [arbetsmiljo]
+    name:
+      sv: Lagen om medbestämmande i arbetslivet (MBL)
+      en: Swedish Co-determination Act (MBL)
+    title:
+      sv: Lag (1976:580) om medbestämmande i arbetslivet
+    description:
+      sv: Svensk lag om arbetstagares inflytande, förhandlingsrätt och kollektivavtal.
+    locales: [sv]
+    provisions: all
+
+  - slug: dora
+    type: eu-regulation
+    designation: 'EU 2022/2554'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32022R2554'
+    published: '2022-12-27'
+    applies-from: '2025-01-17'
+    sites: [it]
+    related: [nis2]
+    name:
+      sv: DORA-förordningen
+      en: Digital Operational Resilience Act (DORA)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2022/2554
+      en: Regulation (EU) 2022/2554 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om digital driftsäkerhet för finanssektorn.
+      en: EU regulation on digital operational resilience for the financial sector.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: ai
+    type: eu-regulation
+    designation: 'EU 2024/1689'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32024R1689'
+    published: '2024-07-12'
+    applies-from: '2026-08-02'
+    sites: [it, ot]
+    name:
+      sv: AI-förordningen
+      en: Artificial Intelligence Act (AI Act)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2024/1689
+      en: Regulation (EU) 2024/1689 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om harmoniserade regler för artificiell intelligens.
+      en: EU regulation laying down harmonised rules on artificial intelligence.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: data-act
+    type: eu-regulation
+    designation: 'EU 2023/2854'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32023R2854'
+    published: '2023-12-22'
+    applies-from: '2025-09-12'
+    sites: [it]
+    name:
+      sv: Dataförordningen
+      en: Data Act
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2023/2854
+      en: Regulation (EU) 2023/2854 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om rättvis tillgång till och användning av data.
+      en: EU regulation on harmonised rules on fair access to and use of data.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: dsa
+    type: eu-regulation
+    designation: 'EU 2022/2065'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32022R2065'
+    published: '2022-10-27'
+    applies-from: '2024-02-17'
+    sites: [it]
+    name:
+      sv: Förordningen om digitala tjänster (DSA)
+      en: Digital Services Act (DSA)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2022/2065
+      en: Regulation (EU) 2022/2065 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om en inre marknad för digitala tjänster.
+      en: EU regulation on a single market for digital services.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: eidas
+    type: eu-regulation
+    designation: 'EU 2024/1183'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32024R1183'
+    published: '2024-04-30'
+    applies-from: '2024-05-20'
+    sites: [it]
+    name:
+      sv: eIDAS-förordningen
+      en: eIDAS Regulation
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2024/1183
+      en: Regulation (EU) 2024/1183 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om europeisk digital identitet och förtroendetjänster.
+      en: EU regulation establishing the European Digital Identity Framework.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: cpr
+    type: eu-regulation
+    designation: 'EU 2024/3110'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32024R3110'
+    published: '2024-12-18'
+    applies-from: '2026-01-08'
+    sites: [brandskydd]
+    name:
+      sv: Byggproduktförordningen (CPR)
+      en: Construction Products Regulation (CPR)
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2024/3110
+      en: Regulation (EU) 2024/3110 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om harmoniserade regler för byggprodukter, inklusive brandsäkerhetskrav.
+      en: EU regulation laying down harmonised rules for construction products.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: lvd
+    type: eu-directive
+    designation: 'EU 2014/35'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32014L0035'
+    published: '2014-03-29'
+    applies-from: '2016-04-20'
+    sites: [el]
+    related: [elsakerhetslagen]
+    name:
+      sv: Lågspänningsdirektivet
+      en: Low Voltage Directive (LVD)
+    title:
+      sv: Europaparlamentets och rådets direktiv 2014/35/EU
+      en: Directive 2014/35/EU of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om tillhandahållande på marknaden av elektrisk utrustning avsedd för vissa spänningsgränser.
+      en: EU directive on making electrical equipment designed for certain voltage limits available on the market.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: emc
+    type: eu-directive
+    designation: 'EU 2014/30'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32014L0030'
+    published: '2014-03-29'
+    applies-from: '2016-04-20'
+    sites: [el]
+    name:
+      sv: EMC-direktivet
+      en: EMC Directive
+    title:
+      sv: Europaparlamentets och rådets direktiv 2014/30/EU
+      en: Directive 2014/30/EU of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om elektromagnetisk kompatibilitet.
+      en: EU directive on the harmonisation of the laws relating to electromagnetic compatibility.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: red
+    type: eu-directive
+    designation: 'EU 2014/53'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32014L0053'
+    published: '2014-05-22'
+    applies-from: '2016-06-13'
+    sites: [el, it]
+    name:
+      sv: Radiodirektivet
+      en: Radio Equipment Directive (RED)
+    title:
+      sv: Europaparlamentets och rådets direktiv 2014/53/EU
+      en: Directive 2014/53/EU of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om tillhandahållande på marknaden av radioutrustning.
+      en: EU directive on making radio equipment available on the market.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: arbetsmiljodirektivet
+    type: eu-directive
+    designation: 'EEG 89/391'
+    jurisdiction: EU
+    issuer: EU
+    celex: '31989L0391'
+    published: '1989-06-29'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Arbetsmiljödirektivet
+      en: OSH Framework Directive
+    title:
+      sv: Rådets direktiv 89/391/EEG
+      en: Council Directive 89/391/EEC
+    description:
+      sv: EU-ramverksdirektiv om åtgärder för att förbättra arbetstagares säkerhet och hälsa i arbetet.
+      en: EU framework directive on measures to encourage improvements in the safety and health of workers at work.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: arbetstidsdirektivet
+    type: eu-directive
+    designation: 'EG 2003/88'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32003L0088'
+    published: '2003-11-18'
+    applies-from: '2004-08-02'
+    sites: [arbetsmiljo]
+    related: [arbetstidslagen]
+    name:
+      sv: Arbetstidsdirektivet
+      en: Working Time Directive
+    title:
+      sv: Europaparlamentets och rådets direktiv 2003/88/EG
+      en: Directive 2003/88/EC of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om vissa aspekter på arbetstidens förläggning.
+      en: EU directive concerning certain aspects of the organisation of working time.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: marknadskontrollforordningen
+    type: eu-regulation
+    designation: 'EU 2019/1020'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32019R1020'
+    published: '2019-06-25'
+    applies-from: '2021-07-16'
+    sites: [el, it]
+    related: [lvd, emc]
+    name:
+      sv: Marknadskontrollförordningen
+      en: Market Surveillance Regulation
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2019/1020
+      en: Regulation (EU) 2019/1020 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om marknadskontroll och överensstämmelse för produkter.
+      en: EU regulation on market surveillance and compliance of products.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: elmarknadsforordningen
+    type: eu-regulation
+    designation: 'EU 2019/943'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32019R0943'
+    published: '2019-06-05'
+    applies-from: '2020-01-01'
+    sites: [el]
+    related: [ellagen]
+    name:
+      sv: Elmarknadsförordningen
+      en: Electricity Market Regulation
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2019/943
+      en: Regulation (EU) 2019/943 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om den inre marknaden för el.
+      en: EU regulation on the internal market for electricity.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: elmarknadsdirektivet
+    type: eu-directive
+    designation: 'EU 2019/944'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32019L0944'
+    published: '2019-06-05'
+    applies-from: '2021-01-01'
+    sites: [el]
+    related: [ellagen, elmarknadsforordningen]
+    name:
+      sv: Elmarknadsdirektivet
+      en: Electricity Market Directive
+    title:
+      sv: Europaparlamentets och rådets direktiv (EU) 2019/944
+      en: Directive (EU) 2019/944 of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om gemensamma regler för den inre marknaden för el.
+      en: EU directive on common rules for the internal market for electricity.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: maskinforordningen
+    type: eu-regulation
+    designation: 'EU 2023/1230'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32023R1230'
+    published: '2023-06-29'
+    applies-from: '2027-01-20'
+    sites: [arbetsmiljo, ot]
+    related: [cra]
+    name:
+      sv: Maskinförordningen
+      en: Machinery Regulation
+    title:
+      sv: Europaparlamentets och rådets förordning (EU) 2023/1230
+      en: Regulation (EU) 2023/1230 of the European Parliament and of the Council
+    description:
+      sv: EU-förordning om maskiner och därmed sammanhängande produkter.
+      en: EU regulation on machinery and related products.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: afs-2023-1
+    type: foreskrift
+    designation: 'AFS 2023:1'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:1'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Systematiskt arbetsmiljöarbete (AFS 2023:1)
+      en: Systematic work environment management (AFS 2023:1)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar
+    description:
+      sv: Föreskrifter om systematiskt arbetsmiljöarbete med grundläggande skyldigheter för den som har arbetsgivaransvar.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-2
+    type: foreskrift
+    designation: 'AFS 2023:2'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:2'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Planering och organisering av arbetsmiljöarbete (AFS 2023:2)
+      en: Planning and organising work environment management (AFS 2023:2)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar
+    description:
+      sv: Föreskrifter om att planera och organisera det systematiska arbetsmiljöarbetet.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-3
+    type: foreskrift
+    designation: 'AFS 2023:3'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:3'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Byggarbetsmiljösamordning (AFS 2023:3)
+      en: Construction work environment coordination (AFS 2023:3)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:3) om projektering och byggarbetsmiljösamordning – grundläggande skyldigheter
+    description:
+      sv: Föreskrifter om projektering och byggarbetsmiljösamordning vid byggnads- och anläggningsarbete.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-10
+    type: foreskrift
+    designation: 'AFS 2023:10'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:10'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Risker i arbetsmiljön (AFS 2023:10)
+      en: Work environment risks (AFS 2023:10)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön
+    description:
+      sv: Föreskrifter om riskbedömning och åtgärder mot risker i arbetsmiljön.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-11
+    type: foreskrift
+    designation: 'AFS 2023:11'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:11'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Arbetsutrustning och personlig skyddsutrustning (AFS 2023:11)
+      en: Work equipment and personal protective equipment (AFS 2023:11)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning
+    description:
+      sv: Föreskrifter om säker användning av arbetsutrustning och personlig skyddsutrustning.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-12
+    type: foreskrift
+    designation: 'AFS 2023:12'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:12'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Utformning av arbetsplatser (AFS 2023:12)
+      en: Workplace design (AFS 2023:12)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser
+    description:
+      sv: Föreskrifter om hur arbetsplatser ska utformas för en god arbetsmiljö.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-13
+    type: foreskrift
+    designation: 'AFS 2023:13'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:13'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Risker vid vissa typer av arbeten (AFS 2023:13)
+      en: Risks in certain types of work (AFS 2023:13)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten
+    description:
+      sv: Föreskrifter om särskilda risker vid arbete på höjd, i trånga utrymmen och liknande arbeten.
+    locales: [sv]
+    provisions: all
+
+  - slug: elsak-fs-2022-1
+    type: foreskrift
+    designation: 'ELSÄK-FS 2022:1'
+    jurisdiction: Sverige
+    issuer: Elsäkerhetsverket
+    source: elsak
+    fs: '2022:1'
+    sites: [el]
+    related: [elsakerhetslagen]
+    name:
+      sv: Utförande av starkströmsanläggningar (ELSÄK-FS 2022:1)
+      en: Design of high-current installations (ELSÄK-FS 2022:1)
+    title:
+      sv: Elsäkerhetsverkets föreskrifter och allmänna råd (ELSÄK-FS 2022:1) om hur starkströmsanläggningar ska vara utförda
+    description:
+      sv: Föreskrifter om hur elektriska starkströmsanläggningar ska vara utförda för att vara elsäkra.
+    locales: [sv]
+    provisions: all
+
+  - slug: elsak-fs-2017-3
+    type: foreskrift
+    designation: 'ELSÄK-FS 2017:3'
+    jurisdiction: Sverige
+    issuer: Elsäkerhetsverket
+    source: elsak
+    fs: '2017:3'
+    sites: [el]
+    related: [elsakerhetslagen]
+    name:
+      sv: Elinstallationsföretag (ELSÄK-FS 2017:3)
+      en: Electrical installation companies (ELSÄK-FS 2017:3)
+    title:
+      sv: Elsäkerhetsverkets föreskrifter och allmänna råd (ELSÄK-FS 2017:3) om elinstallationsföretag och om utförande av elinstallationsarbete
+    description:
+      sv: Föreskrifter om elinstallationsföretag, auktorisation och utförande av elinstallationsarbete.
+    locales: [sv]
+    provisions: all
+
+  - slug: msbfs-2020-7
+    type: foreskrift
+    designation: 'MSBFS 2020:7'
+    jurisdiction: Sverige
+    issuer: MSB
+    source: msbfs
+    fs: '2020:7'
+    sites: [it, ot]
+    related: [sakerhetsskyddslagen, nis2]
+    name:
+      sv: Säkerhetsåtgärder i informationssystem (MSBFS 2020:7)
+      en: Security measures in information systems (MSBFS 2020:7)
+    title:
+      sv: Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2020:7) om säkerhetsåtgärder i informationssystem för statliga myndigheter
+    description:
+      sv: Föreskrifter om säkerhetsåtgärder i informationssystem för statliga myndigheter.
+    locales: [sv]
+    provisions: all
+
+  - slug: msbfs-2015-6
+    type: foreskrift
+    designation: 'MSBFS 2015:6'
+    jurisdiction: Sverige
+    issuer: MSB
+    source: msbfs
+    fs: '2015:6'
+    sites: [brandskydd]
+    related: [brandfarliga-varor, lso]
+    name:
+      sv: Pyrotekniska artiklar och ammunition (MSBFS 2015:6)
+      en: Pyrotechnic articles and ammunition (MSBFS 2015:6)
+    title:
+      sv: Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2015:6) om tillhandahållande av pyrotekniska artiklar och ammunition
+    description:
+      sv: Föreskrifter om tillhandahållande på marknaden av pyrotekniska artiklar och ammunition.
+    locales: [sv]
+    provisions: all

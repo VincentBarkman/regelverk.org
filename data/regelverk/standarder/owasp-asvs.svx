@@ -1,0 +1,53 @@
+---
+title: OWASP Application Security Verification Standard
+description: Öppen standard för verifierbara krav på applikationssäkerhet.
+designation: OWASP ASVS 5.0.0
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: OWASP
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/ASVS/releases/tag/v5.0.0_release
+translation: en
+version: 5.0.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Öppen standard för verifierbara krav på applikationssäkerhet.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [OWASP ASVS 5.0.0](https://github.com/OWASP/ASVS/releases/tag/v5.0.0_release).
+
+## Innehåll
+
+- [V1 – Encoding and Sanitization](/standarder/owasp-asvs/v1) · 30 krav
+- [V2 – Validation and Business Logic](/standarder/owasp-asvs/v2) · 13 krav
+- [V3 – Web Frontend Security](/standarder/owasp-asvs/v3) · 31 krav
+- [V4 – API and Web Service](/standarder/owasp-asvs/v4) · 16 krav
+- [V5 – File Handling](/standarder/owasp-asvs/v5) · 13 krav
+- [V6 – Authentication](/standarder/owasp-asvs/v6) · 47 krav
+- [V7 – Session Management](/standarder/owasp-asvs/v7) · 19 krav
+- [V8 – Authorization](/standarder/owasp-asvs/v8) · 13 krav
+- [V9 – Self-contained Tokens](/standarder/owasp-asvs/v9) · 7 krav
+- [V10 – OAuth and OIDC](/standarder/owasp-asvs/v10) · 36 krav
+- [V11 – Cryptography](/standarder/owasp-asvs/v11) · 24 krav
+- [V12 – Secure Communication](/standarder/owasp-asvs/v12) · 12 krav
+- [V13 – Configuration](/standarder/owasp-asvs/v13) · 21 krav
+- [V14 – Data Protection](/standarder/owasp-asvs/v14) · 13 krav
+- [V15 – Secure Coding and Architecture](/standarder/owasp-asvs/v15) · 21 krav
+- [V16 – Security Logging and Error Handling](/standarder/owasp-asvs/v16) · 17 krav
+- [V17 – WebRTC](/standarder/owasp-asvs/v17) · 12 krav
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [NIS2-direktivet](/lagstiftning/nis2)
+<!-- scan-standards:end -->

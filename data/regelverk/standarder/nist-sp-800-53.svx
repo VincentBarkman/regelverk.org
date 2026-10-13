@@ -1,0 +1,59 @@
+---
+title: NIST SP 800-53
+description: Öppen kontrollkatalog för informationssäkerhet och integritet.
+designation: NIST SP 800-53 Rev. 5
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+  - fysisk
+url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+translation: en
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Öppen kontrollkatalog för informationssäkerhet och integritet.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final).
+
+## Innehåll
+
+- [AC – Access Control](/standarder/nist-sp-800-53/ac) · 147 krav
+- [AT – Awareness and Training](/standarder/nist-sp-800-53/at) · 17 krav
+- [AU – Audit and Accountability](/standarder/nist-sp-800-53/au) · 69 krav
+- [CA – Assessment, Authorization, and Monitoring](/standarder/nist-sp-800-53/ca) · 32 krav
+- [CM – Configuration Management](/standarder/nist-sp-800-53/cm) · 66 krav
+- [CP – Contingency Planning](/standarder/nist-sp-800-53/cp) · 56 krav
+- [IA – Identification and Authentication](/standarder/nist-sp-800-53/ia) · 74 krav
+- [IR – Incident Response](/standarder/nist-sp-800-53/ir) · 42 krav
+- [MA – Maintenance](/standarder/nist-sp-800-53/ma) · 30 krav
+- [MP – Media Protection](/standarder/nist-sp-800-53/mp) · 30 krav
+- [PE – Physical and Environmental Protection](/standarder/nist-sp-800-53/pe) · 59 krav
+- [PL – Planning](/standarder/nist-sp-800-53/pl) · 17 krav
+- [PM – Program Management](/standarder/nist-sp-800-53/pm) · 37 krav
+- [PS – Personnel Security](/standarder/nist-sp-800-53/ps) · 18 krav
+- [PT – Personally Identifiable Information Processing and Transparency](/standarder/nist-sp-800-53/pt) · 21 krav
+- [RA – Risk Assessment](/standarder/nist-sp-800-53/ra) · 26 krav
+- [SA – System and Services Acquisition](/standarder/nist-sp-800-53/sa) · 147 krav
+- [SC – System and Communications Protection](/standarder/nist-sp-800-53/sc) · 162 krav
+- [SI – System and Information Integrity](/standarder/nist-sp-800-53/si) · 119 krav
+- [SR – Supply Chain Risk Management](/standarder/nist-sp-800-53/sr) · 27 krav
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+- [Cybersäkerhetslagen](/lagstiftning/cybersakerhetslagen)
+- [Säkerhetsåtgärder i informationssystem (MSBFS 2020:7)](/lagstiftning/msbfs-2020-7)
+<!-- scan-standards:end -->

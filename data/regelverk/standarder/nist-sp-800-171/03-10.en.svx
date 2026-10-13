@@ -1,0 +1,72 @@
+---
+title: 03.10 – Physical Protection
+description: NIST SP 800-171 Rev. 3 – 03.10 – Physical Protection
+source: nist-sp-800-171
+ref: 03-10
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### 03.10.01 – Physical Access Authorizations
+
+- SR-03.10.01.a Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides.
+- SR-03.10.01.b Issue authorization credentials for facility access.
+- SR-03.10.01.c Review the facility access list [organization-defined frequency].
+- SR-03.10.01.d Remove individuals from the facility access list when access is no longer required.
+
+### 03.10.02 – Monitoring Physical Access
+
+- SR-03.10.02.a Monitor physical access to the facility where the system resides to detect and respond to physical security incidents.
+- SR-03.10.02.b Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events or potential indicators of events].
+
+### SP_800_171_03.10.03 – 03.10.03
+
+
+
+### SP_800_171_03.10.04 – 03.10.04
+
+
+
+### SP_800_171_03.10.05 – 03.10.05
+
+
+
+### 03.10.06 – Alternate Work Site
+
+- SR-03.10.06.a Determine alternate work sites allowed for use by employees.
+- SR-03.10.06.b Employ the following security requirements at alternate work sites: [organization-defined security requirements].
+
+### 03.10.07 – Physical Access Control
+
+- SR-03.10.07.a Enforce physical access authorizations at entry and exit points to the facility where the system resides by:
+  - SR-03.10.07.a.01 Verifying individual physical access authorizations before granting access to the facility and
+  - SR-03.10.07.a.02 Controlling ingress and egress with physical access control systems, devices, or guards.
+- SR-03.10.07.b Maintain physical access audit logs for entry or exit points.
+- SR-03.10.07.c Escort visitors, and control visitor activity.
+- SR-03.10.07.d Secure keys, combinations, and other physical access devices.
+- SR-03.10.07.e Control physical access to output devices to prevent unauthorized individuals from obtaining access to CUI.
+
+### 03.10.08 – Access Control for Transmission
+
+Control physical access to system distribution and transmission lines within organizational facilities.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

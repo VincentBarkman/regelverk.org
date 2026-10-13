@@ -1,0 +1,71 @@
+---
+title: 03.14 – System and Information Integrity
+description: NIST SP 800-171 Rev. 3 – 03.14 – System and Information Integrity
+source: nist-sp-800-171
+ref: 03-14
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### 03.14.01 – Flaw Remediation
+
+- SR-03.14.01.a Identify, report, and correct system flaws.
+- SR-03.14.01.b Install security-relevant software and firmware updates within [organization-defined time period] of the release of the updates.
+
+### 03.14.02 – Malicious Code Protection
+
+- SR-03.14.02.a Implement malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code.
+- SR-03.14.02.b Update malicious code protection mechanisms as new releases are available in accordance with configuration management policies and procedures.
+- SR-03.14.02.c Configure malicious code protection mechanisms to:
+  - SR-03.14.02.c.01 Perform scans of the system [organization-defined frequency] and real-time scans of files from external sources at endpoints or system entry and exit points as the files are downloaded, opened, or executed; and
+  - SR-03.14.02.c.02 Block malicious code, quarantine malicious code, or take other mitigation actions in response to malicious code detection.
+
+### 03.14.03 – Security Alerts, Advisories, and Directives
+
+- SR-03.14.03.a Receive system security alerts, advisories, and directives from external organizations on an ongoing basis.
+- SR-03.14.03.b Generate and disseminate internal system security alerts, advisories, and directives, as necessary.
+
+### SP_800_171_03.14.04 – 03.14.04
+
+
+
+### SP_800_171_03.14.05 – 03.14.05
+
+
+
+### 03.14.06 – System Monitoring
+
+- SR-03.14.06.a Monitor the system to detect:
+  - SR-03.14.06.a.01 Attacks and indicators of potential attacks and
+  - SR-03.14.06.a.02 Unauthorized connections.
+- SR-03.14.06.b Identify unauthorized use of the system.
+- SR-03.14.06.c Monitor inbound and outbound communications traffic to detect unusual or unauthorized activities or conditions.
+
+### SP_800_171_03.14.07 – 03.14.07
+
+
+
+### 03.14.08 – Information Management and Retention
+
+Manage and retain CUI within the system and CUI output from the system in accordance with applicable laws, Executive Orders, directives, regulations, policies, standards, guidelines, and operational requirements.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

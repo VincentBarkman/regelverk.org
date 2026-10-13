@@ -1,0 +1,234 @@
+---
+'source': 'cybersakerhetslagen'
+'ref': '1 kap.'
+'title': '1 kap. – Inledande bestämmelser'
+'kind': 'chapter'
+'description': 'Cybersäkerhetslagen, 1 kap..'
+'designation': 'Cybersäkerhetslagen 1 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/#K1'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Syftet med [denna lag](/lagstiftning/cybersakerhetslagen) är att uppnå en hög nivå av cybersäkerhet i samhället.
+
+Bestämmelserna i lagen genomför delvis [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet).
+
+### 2 §
+
+I [denna lag](/lagstiftning/cybersakerhetslagen) betyder
+
+1\. allmänt elektroniskt kommunikationsnät: detsamma som i
+
+[1 kap. 7 § lagen (2022:482)](https://rkrattsbaser.gov.se/sfst?bet=2022%3A482) om elektronisk kommunikation,
+
+2\. anknutet företag: detsamma som i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag,
+
+3\. betrodd tjänst: detsamma som i artikel [3.16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av [direktiv 1999/93/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) (EU:s förordning om elektronisk identifiering),
+
+4\. cyberhot: en potentiell omständighet, händelse eller handling som kan skada, störa eller på annat negativt sätt påverka nätverks- och informationssystem, användare av dessa system och andra personer,
+
+5\. cybersäkerhet: all verksamhet som är nödvändig för att skydda nätverks- och informationssystem, användare av dessa system och andra berörda personer mot cyberhot,
+
+6\. datacentraltjänst: en tjänst som omfattar strukturer, eller grupper av strukturer, avsedda för centraliserad inkvartering, sammankoppling och drift av sådan it- och nätutrustning som tillhandahåller datalagrings-, databehandlings- och dataöverföringstjänster samt alla anläggningar och infrastrukturer för kraftdistribution och miljökontroll,
+
+7\. domännamnssystemtjänst (DNS-tjänst): en allmän rekursiv tjänst för att lösa domännamnsfrågor till internetslutanvändare, eller en auktoritativ tjänst för att lösa domännamnsfrågor för användning av tredje part, med undantag för rotnamnsservrar,
+
+8\. elektronisk kommunikationstjänst: detsamma som i [1 kap. 7 § lagen om elektronisk kommunikation](/lagstiftning/lek/kap-1#7),
+
+9\. enskild verksamhetsutövare: den som uppfyller kraven i någon av [4](#4)-[7 §§](#7) och som inte är en offentlig verksamhetsutövare,
+
+10\. incident: en händelse som undergräver tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten hos lagrade, överförda eller behandlade uppgifter eller hos de tjänster som erbjuds genom eller är tillgängliga via nätverks- och informationssystem,
+
+11\. kvalificerad tillhandahållare av betrodda tjänster: detsamma som i artikel [3.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) i EU:s förordning om elektronisk identifiering,
+
+12\. marknadsplats online: en tjänst som
+
+a) använder programvara, inbegripet en webbplats, en del av en webbplats eller en applikation,
+
+b) administreras av en näringsidkare eller för dennas räkning, och
+
+c) ger konsumenterna möjlighet att ingå distansavtal med andra näringsidkare eller konsumenter,
+
+13\. medelstort företag: ett företag som räknas som ett medelstort företag enligt artikel [2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag, utan beaktande av artikel [3.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) enligt samma bilaga,
+
+14\. molntjänst: en digital tjänst som möjliggör administration på begäran och bred fjärråtkomst till en skalbar och elastisk pool av gemensamma dataresurser, inbegripet då sådana resurser är distribuerade på flera platser,
+
+15\. nätverk för leverans av innehåll: ett nätverk av geografiskt spridda servrar vars syfte är att säkerställa hög tillgänglighet för, tillgång till eller snabb leverans av digitalt innehåll och digitala tjänster till internetanvändare för innehålls- och tjänsteleverantörers räkning,
+
+16\. nätverks- och informationssystem:
+
+a) ett elektroniskt kommunikationsnät enligt [1 kap. 7 § lagen om elektronisk kommunikation](/lagstiftning/lek/kap-1#7),
+
+b) en enhet eller en grupp enheter som är sammankopplade eller hör samman med varandra, av vilka en eller flera genom ett program utför automatisk behandling av digitala uppgifter, eller
+
+c) digitala uppgifter som lagras, behandlas, hämtas eller överförs med sådana hjälpmedel som omfattas av a och b för att de ska kunna användas, skyddas och underhållas,
+
+17\. offentlig verksamhetsutövare:
+
+a) en statlig myndighet som omfattas av lagen enligt 3 eller
+
+[8 §](#8) eller uppfyller något av kraven i [4](#4)-[7 §§](#7), eller
+
+b) en region, en kommun eller ett kommunalförbund,
+
+18\. partnerföretag: detsamma som i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag,
+
+19\. plattform för sociala nätverkstjänster: en plattform som gör det möjligt för slutanvändare att interagera, dela och upptäcka innehåll, finna andra användare och kommunicera med andra via flera enheter, exempelvis genom chattar, inlägg, videor och rekommendationer,
+
+20\. registreringsenhet för toppdomäner: en verksamhetsutövare som har delegerats en specifik toppdomän och som ansvarar för administrationen av den, dock inte om toppdomänen används endast för registreringsenhetens eget bruk,
+
+21\. sökmotor: detsamma som i artikel [2.5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) i [Europaparlamentets och rådets förordning (EU) 2019/1150](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) av den 20 juni 2019 om främjande av rättvisa villkor och transparens för företagsanvändare av onlinebaserade förmedlingstjänster,
+
+22\. utlokaliserad driftstjänst: en tjänst som avser installation, förvaltning, drift eller underhåll av IKT-
+
+produkter, IKT-nät, IKT-infrastruktur, IKT-tillämpningar eller andra nätverks- och informationssystem, genom bistånd eller aktiv administration i kundernas lokaler eller på distans,
+
+23\. utlokaliserad säkerhetstjänst: en tjänst som tillhandahålls av en leverantör av utlokaliserade driftstjänster och som innebär hantering av eller utgör stöd för hantering av cybersäkerhetsrisker.
+
+### 3 §
+
+Lagen gäller för en verksamhetsutövare som är
+
+1\. en statlig myndighet med befogenhet att fatta beslut som påverkar fysiska eller juridiska personers rättigheter när det gäller gränsöverskridande rörlighet för personer, varor, tjänster eller kapital, eller
+
+2\. en region, en kommun eller ett kommunalförbund.
+
+### 4 §
+
+Lagen gäller också för en verksamhetsutövare som
+
+1\. omfattas av bilaga 1 eller 2 till NIS 2-direktivet i den ursprungliga lydelsen, men inte av [5 §](#5) [4](#4), [6 §](#6) eller [7 §](#7) 1-3, eller är en enskild utbildningsanordnare med tillstånd att utfärda examina enligt [lagen (1993:792)](https://rkrattsbaser.gov.se/sfst?bet=1993%3A792) om tillstånd att utfärda vissa examina,
+
+2\. är etablerad i Sverige, och
+
+3\. storleksmässigt motsvarar eller är större än ett medelstort företag.
+
+### 5 §
+
+Lagen gäller också för en verksamhetsutövare som uppfyller kraven i [4 §](#4) 1 och 2, om
+
+1\. verksamhetsutövaren är den enda leverantören av en tjänst i Sverige som är väsentlig för att upprätthålla kritisk samhällelig eller ekonomisk verksamhet,
+
+2\. en störning av den tjänst som verksamhetsutövaren tillhandahåller kan ha en betydande påverkan på skyddet för människors liv och hälsa, allmän säkerhet eller folkhälsa eller kan medföra betydande systemrisker,
+
+3\. verksamhetsutövaren har särskild betydelse på nationell eller regional nivå för en särskild sektor eller typ av tjänst eller för andra sektorer som är beroende av verksamhetsutövaren, eller
+
+4\. verksamhetsutövaren tillhandahåller betrodda tjänster.
+
+### 6 §
+
+Lagen gäller också för en verksamhetsutövare som i Sverige tillhandahåller allmänna elektroniska kommunikationsnät eller allmänt tillgängliga elektroniska kommunikationstjänster.
+
+### 7 §
+
+Lagen gäller också för en verksamhetsutövare som har huvudsakligt etableringsställe i Sverige eller en företrädare som är etablerad här, om verksamhetsutövaren
+
+1\. uppfyller kravet i [4 §](#4) 3 eller något av kraven i [5 §](#5) 1-3 och erbjuder molntjänster, datacentraltjänster, nätverk för leverans av innehåll, utlokaliserade driftstjänster, utlokaliserade säkerhetstjänster, marknadsplatser online, sökmotorer eller plattformar för sociala nätverkstjänster,
+
+2\. är en registreringsenhet för toppdomäner,
+
+3\. erbjuder DNS-tjänster, eller
+
+4\. erbjuder domännamnsregistreringstjänster.
+
+### 8 §
+
+Lagen gäller också för de statliga myndigheter som regeringen bestämmer även om inte kraven i [3](#3)-[7 §§](#7) är uppfyllda.
+
+### 9 §
+
+Som väsentlig verksamhetsutövare räknas
+
+1\. en verksamhetsutövare som är en statlig myndighet,
+
+2\. en verksamhetsutövare som är större än ett medelstort företag och som
+
+a) är en kommun eller en region,
+
+b) i övrigt omfattas av bilaga 1 till NIS 2-direktivet i den ursprungliga lydelsen men inte av [7 §](#7) 2 eller 3, eller
+
+c) är en enskild utbildningsanordnare med tillstånd att utfärda examina enligt [lagen (1993:792)](https://rkrattsbaser.gov.se/sfst?bet=1993%3A792) om tillstånd att utfärda vissa examina,
+
+3\. en verksamhetsutövare som avses i [6 §](#6) och som storleksmässigt motsvarar eller är större än ett medelstort företag,
+
+4\. en verksamhetsutövare som avses i [7 §](#7) 2 eller 3,
+
+5\. en verksamhetsutövare som är en kvalificerad tillhandahållare av betrodda tjänster, och
+
+6\. en verksamhetsutövare som räknas som väsentlig enligt föreskrifter som har meddelats med stöd av [15 §](#15) andra stycket.
+
+Verksamhetsutövare som inte är väsentliga är viktiga verksamhetsutövare.
+
+### 10 §
+
+Om det i lag eller annan författning finns bestämmelser som innehåller krav på säkerhetsåtgärder eller incidentrapportering ska de bestämmelserna gälla om verkan av kraven minst motsvarar verkan av skyldigheterna enligt [2 kap. 3](/lagstiftning/cybersakerhetslagen/kap-2#3)-[10 §§](/lagstiftning/cybersakerhetslagen/kap-2#10), med beaktande av bestämmelsernas omfattning samt vilken tillsyn och vilka sanktioner som är kopplade till kraven i bestämmelserna.
+
+### 11 §
+
+[Denna lag](/lagstiftning/cybersakerhetslagen) gäller inte för verksamhetsutövare som har undantagits enligt artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [Europaparlamentets och rådets förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (DORA-
+
+förordningen).
+
+För en verksamhetsutövare som omfattas av DORA-förordningen gäller inte skyldigheterna enligt [2 kap. 3](/lagstiftning/cybersakerhetslagen/kap-2#3)-[10 §§](/lagstiftning/cybersakerhetslagen/kap-2#10).
+
+### 12 §
+
+[Denna lag](/lagstiftning/cybersakerhetslagen) gäller inte för en statlig myndighet som till övervägande del bedriver säkerhetskänslig verksamhet enligt [säkerhetsskyddslagen (2018:585)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A585) eller som till övervägande del bedriver brottsbekämpande verksamhet.
+
+Lagen gäller inte heller för en enskild verksamhetsutövare som enbart bedriver säkerhetskänslig verksamhet enligt säkerhetsskyddslagen eller som enbart erbjuder tjänster till sådana statliga myndigheter som avses i första stycket.
+
+För andra verksamhetsutövare som till någon del bedriver sådan verksamhet eller erbjuder sådana tjänster som avses i första eller andra stycket gäller inte skyldigheterna enligt [2 kap. 3](/lagstiftning/cybersakerhetslagen/kap-2#3)-[10 §§](/lagstiftning/cybersakerhetslagen/kap-2#10) för den delen av verksamheten.
+
+Undantagen i första-tredje styckena gäller inte för en verksamhetsutövare som tillhandahåller betrodda tjänster.
+
+### 13 §
+
+Skyldigheterna att lämna uppgifter enligt [denna lag](/lagstiftning/cybersakerhetslagen) gäller inte uppgifter som är säkerhetsskyddsklassificerade enligt [säkerhetsskyddslagen (2018:585)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A585).
+
+### 14 §
+
+[Denna lag](/lagstiftning/cybersakerhetslagen) gäller inte för regeringen, Regeringskansliet, utlandsmyndigheter, kommittéväsendet, myndigheter under riksdagen, domstolar och inte heller för nämnder som utövar rättskipning.
+
+Lagen gäller inte heller för förbundsfullmäktige eller förbundsdirektion i ett kommunalförbund, kommunfullmäktige och regionfullmäktige.
+
+### 15 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1\. undantag från skyldigheterna enligt [denna lag](/lagstiftning/cybersakerhetslagen) för partnerföretag och anknutna företag som omfattas av lagen med stöd av [4 §](#4), och
+
+2\. vad som utgör huvudsakligt etableringsställe enligt [7 §](#7).
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om kriterier för när verksamhetsutövare ska omfattas av lagen enligt [5 §](#5) 1-3 och för när sådana verksamhetsutövare ska räknas som väsentliga enligt [9 §](#9) första stycket 6.
+
+### 16 §
+
+Regeringen eller den myndighet som regeringen bestämmer får, om det finns särskilda skäl, i enskilda fall besluta om undantag från skyldigheterna enligt [denna lag](/lagstiftning/cybersakerhetslagen) för
+
+1\. enskilda utbildningsanordnare som avses i [4 §](#4) 1, och
+
+2\. partnerföretag och anknutna företag som omfattas av lagen med stöd av [4 §](#4).
+
+### 17 §
+
+Den myndighet som regeringen bestämmer ska vara gemensam kontaktpunkt, cyberkrishanteringsmyndighet och enhet för hantering av it-säkerhetsincidenter enligt artiklarna [8](/lagstiftning/nis2/kap-2#artikel-8-behöriga-myndigheter-och-gemensamma-kontaktpunkter)-[10](/lagstiftning/nis2/kap-2#artikel-10-enheter-för-hantering-av-it-säkerhetsincidenter-csirt-enheter) i NIS 2-direktivet, i den ursprungliga lydelsen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

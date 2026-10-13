@@ -1,17 +1,26 @@
 ---
-name: NIS2-direktivet
-title: Europaparlamentets och rådets direktiv (EU) 2022/2555
-type: eu-directive
-description: EU-direktiv om åtgärder för en hög gemensam cybersäkerhetsnivå i unionen.
-designation: EU 2022/2555
-jurisdiction: EU
-issuer: EU
-status: in-force
-reviewStatus: verified
-legalStatus: binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+'name': 'NIS2-direktivet'
+'title': 'Europaparlamentets och rådets direktiv (EU) 2022/2555'
+'type': 'eu-directive'
+'description': 'EU-direktiv om åtgärder för en hög gemensam cybersäkerhetsnivå i unionen.'
+'designation': 'EU 2022/2555'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'verified'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-01'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2022-12-14'
+'applies-from': '2024-10-18'
+'related':
+  - 'cybersakerhetslagen'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555'
 ---
 
 ## Omfattning
@@ -20,8 +29,8 @@ Direktivet gäller för väsentliga och viktiga enheter inom bland annat energi,
 
 ## Centrala krav
 
-- **Riskhanteringsåtgärder** enligt artikel 21 – organisationer ska vidta lämpliga och proportionella tekniska, operativa och organisatoriska åtgärder.
-- **Incidentrapportering** enligt artikel 23 – betydande incidenter rapporteras till behörig myndighet inom fastställda tidsfrister.
+- **Riskhanteringsåtgärder** enligt [artikel 21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) – organisationer ska vidta lämpliga och proportionella tekniska, operativa och organisatoriska åtgärder.
+- **Incidentrapportering** enligt [artikel 23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) – betydande incidenter rapporteras till behörig myndighet inom fastställda tidsfrister.
 - **Ledningsansvar** – ledningen ska godkänna och följa upp riskhanteringsåtgärderna.
 
 ## Svensk implementering

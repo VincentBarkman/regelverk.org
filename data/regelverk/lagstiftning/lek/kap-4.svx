@@ -1,0 +1,127 @@
+---
+'source': 'lek'
+'ref': '4 kap.'
+'title': '4 kap. – Rätt att använda nummer'
+'kind': 'chapter'
+'description': 'Lagen om elektronisk kommunikation (LEK), 4 kap..'
+'designation': 'LEK 4 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022482-om-elektronisk-kommunikation_sfs-2022-482/#K4'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Regeringen eller den myndighet som regeringen bestämmer får fastställa nationella nummerplaner för elektronisk kommunikation och meddela föreskrifter om planerna och deras användning.
+
+### 2 §
+
+Den som bedriver verksamhet som ska anmälas enligt
+
+[2 kap. 1 §](/lagstiftning/lek/kap-2#1) eller tillhandahåller elektroniska kommunikationstjänster i samtrafik med den som bedriver sådan verksamhet ska följa fastställda nummerplaner.
+
+### 3 §
+
+Nummer ur en nationell nummerplan får användas endast efter tillstånd från regleringsmyndigheten. Ett tillstånd ska avse serier av nummer eller enskilda nummer.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om tilldelning av nummer.
+
+### 4 §
+
+Den som har tillstånd att använda en nummerserie får inte diskriminera andra som tillhandahåller elektroniska kommunikationstjänster i fråga om de nummer som ger tillgång till tjänster i näten.
+
+### 5 §
+
+Ett tillstånd att använda nummer får förenas med villkor om
+
+1\. vilket slag av tjänst som numret ska användas för,
+
+2\. faktiskt och effektivt utnyttjande av numret,
+
+3\. en lämplig giltighetstid, med förbehåll för eventuella ändringar i den nationella nummerplanen,
+
+4\. åtaganden som har gjorts i samband med att tillstånd har beviljats enligt [6 §](#6),
+
+5\. skyldigheter som följer av tillämpliga internationella avtal i fråga om användning av nummer, och
+
+6\. skyldigheter som följer av konsumentskyddsbestämmelser eller av andra nummerrelaterade bestämmelser i andra medlemsstater i fråga om användning av nummer inom Europeiska unionen.
+
+### 6 §
+
+Regleringsmyndigheten får bevilja tillstånd att använda nummer av betydande ekonomiskt värde efter en allmän inbjudan till ansökan. Ett sådant tillstånd ska beviljas efter
+
+1\. ett jämförande urvalsförfarande,
+
+2\. ett anbudsförfarande där det pris sökanden är villig att betala för tillståndet ska vara utslagsgivande,
+
+3\. ett förfarande med slumpmässig tilldelning, eller
+
+4\. en kombination av förfaranden enligt 1-3.
+
+Den allmänna inbjudan ska innehålla uppgifter om det förfarande som ska användas, förutsättningarna för deltagande i förfarandet och de villkor som tillstånd kommer att förenas med.
+
+### 7 §
+
+Ett tillstånd eller en del av ett tillstånd att använda nummer får överlåtas efter medgivande från regleringsmyndigheten. Ett sådant medgivande ska lämnas, om
+
+1\. förvärvaren uppfyller de krav som har ställts på sökanden i samband med att tillståndet beviljades,
+
+2\. det inte finns skäl att anta att överlåtelsen inverkar menligt på konkurrensen, och
+
+3\. det inte finns något annat särskilt skäl mot det.
+
+Kravet på medgivande gäller inte när ett nummer ur en nationell nummerplan, på slutanvändarens begäran, överlämnas till en annan tillhandahållare enligt [7 kap. 19 §](/lagstiftning/lek/kap-7#19).
+
+### 8 §
+
+En överlåtelse i strid med [7 §](#7) är utan verkan.
+
+### 9 §
+
+Förvärvaren övertar överlåtarens rättigheter och skyldigheter enligt [denna lag](/lagstiftning/lek) för tiden efter medgivandet. Vid överlåtelse av en del av ett tillstånd ska den överlåtna delen anses som ett nytt tillstånd.
+
+Vid medgivandet får regleringsmyndigheten besluta de nya eller ändrade villkor som behövs på grund av överlåtelsen.
+
+### 10 §
+
+Den som tillhandahåller ett allmänt elektroniskt kommunikationsnät eller en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska se till att slutanvändare kan nå samtliga nummer som tillhandahålls inom Europeiska ekonomiska samarbetsområdet, om
+
+1\. det är ekonomiskt genomförbart,
+
+2\. det inte är fråga om ett nummer som har enbart ett nationellt syfte, och
+
+3\. den uppringda slutanvändaren inte av kommersiella skäl har valt att begränsa nåbarheten från vissa geografiska områden.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om skyldighetens omfattning enligt första stycket och föreskrifter om undantag från skyldigheten.
+
+### 11 §
+
+Konsumentombudsmannen får ålägga den som tillhandahåller ett allmänt elektroniskt kommunikationsnät eller en allmänt tillgänglig elektronisk kommunikationstjänst att hindra användares tillgång till ett nummer eller till en tjänst via ett nummer vars sifferstruktur saknar geografisk betydelse, om marknadsföringen av numret eller tjänsten är otillbörlig eller om väsentlig information utelämnas vid marknadsföringen.
+
+Konsumentombudsmannens beslut får förenas med en skyldighet för tillhandahållaren att hålla inne betalning avseende numret eller tjänsten tills ärendet har avgjorts slutligt. Om beslutet står fast, ska medel som har hållits inne snarast betalas tillbaka till användaren.
+
+Beslut får inte meddelas utan att den som har vidtagit marknadsföringsåtgärden har fått tillfälle att yttra sig. I brådskande fall får dock beslut meddelas omedelbart att gälla till dess något annat bestäms.
+
+### 12 §
+
+En tillhandahållare av en allmänt tillgänglig nummerbaserad interpersonell kommunikationstjänst ska avstå från att överföra ett elektroniskt meddelande, om trafikuppgifter ger anledning att anta att meddelandet över-
+
+förs som ett led i ett bedrägeri. Detsamma gäller om trafikuppgifter ger anledning att anta att meddelandet överförs i syfte att på något annat sätt vilseleda en vidare krets av mottagare.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vilka åtgärder som ska vidtas för att fullgöra skyldigheten i första stycket. [Lag (2026:1302)](https://rkrattsbaser.gov.se/sfst?bet=2026%3A1302).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

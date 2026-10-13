@@ -1,0 +1,157 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel IV'
+'title': 'Kapitel IV – ÅTGÄRDER FÖR RISKHANTERING OCH RAPPORTERINGSKRAV FÖR
+  CYBERSÄKERHET'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel IV.'
+'designation': 'NIS2-direktivet Kapitel IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_IV'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 20 – Styrning
+
+1\. Medlemsstaterna ska säkerställa att väsentliga och viktiga entiteters ledningsorgan godkänner de riskhanteringsåtgärder för cybersäkerhet som dessa entiteter vidtar för att följa artikel [21](#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet), övervakar genomförandet av dem och kan ställas till svars för entiteternas överträdelser av den artikeln.
+
+Tillämpningen av denna punkt påverkar inte nationell rätt när det gäller de ansvarsregler som är tillämpliga på offentliga institutioner, samt ansvaret för statligt anställda och valda eller utnämnda tjänstepersoner.
+
+2\. Medlemsstaterna ska säkerställa att medlemmarna i väsentliga och viktiga entiteters ledningsorgan är skyldiga att genomgå utbildning, och ska uppmuntra väsentliga och viktiga entiteter att regelbundet erbjuda liknande utbildning till sina anställda för att de ska få tillräckligt med kunskap och kompetens för att kunna identifiera risker och bedöma riskhanteringspraxis för cybersäkerhet och deras inverkan på de tjänster som tillhandahålls av entiteten.
+
+### Artikel 21 – Riskhanteringsåtgärder för cybersäkerhet
+
+1\. Medlemsstaterna ska säkerställa att väsentliga och viktiga entiteter vidtar lämpliga och proportionella tekniska, driftsrelaterade och organisatoriska åtgärder för att hantera risker som hotar säkerheten i nätverks- och informationssystem som de använder för sin verksamhet eller för att tillhandahålla sina tjänster och för att förhindra eller minimera incidenters påverkan på mottagarna av deras tjänster och på andra tjänster.
+
+Med beaktande av de senaste, och i tillämpliga fall, relevanta europeiska och internationella standarder samt genomförandekostnaderna, ska de åtgärder som avses i första stycket säkerställa en nivå på säkerheten i nätverks- och informationssystem som är lämplig i förhållande till den föreliggande risken. Vid bedömningen av dessa åtgärders proportionalitet ska vederbörlig hänsyn tas till entitetens grad av riskexponering, entitetens storlek samt sannolikheten för att incidenter inträffar och deras allvarlighetsgrad, inbegripet deras samhälleliga och ekonomiska konsekvenser.
+
+2\. De åtgärder som avses i punkt 1 ska baseras på en allriskansats som syftar till att skydda nätverks- och informationssystem och dessa systems fysiska miljö från incidenter, och ska minst inbegripa
+
+a) strategier för riskanalys och informationssystemens säkerhet,
+
+b) incidenthantering,
+
+c) driftskontinuitet, exempelvis hantering av säkerhetskopiering och katastrofhantering, och krishantering,
+
+d) säkerhet i leveranskedjan, inbegripet säkerhetsaspekter som rör förbindelserna mellan varje entitet och dess direkta leverantörer eller tjänsteleverantörer,
+
+e) säkerhet vid förvärv, utveckling och underhåll av nätverks- och informationssystem, inbegripet hantering av sårbarheter och sårbarhetsinformation,
+
+f) strategier och förfaranden för att bedöma effektiviteten i riskhanteringsåtgärderna för cybersäkerhet,
+
+g) grundläggande praxis för cyberhygien och utbildning i cybersäkerhet,
+
+h) strategier och förfaranden för användning av kryptografi och, när så är lämpligt, kryptering,
+
+i) personalsäkerhet, strategier för åtkomstkontroll och tillgångsförvaltning,
+
+j) användning inom entiteten, när så är lämpligt, av lösningar för multifaktorautentisering eller kontinuerlig autentisering, säkrade röst-, video- och textkommunikationer och säkrade nödkommunikationssystem.
+
+3\. Medlemsstaterna ska säkerställa att entiteter, när de överväger lämpliga åtgärder enligt punkt 2 d i [denna artikel](#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet), beaktar de sårbarheter som är specifika för varje direktleverantör och tjänsteleverantör och den övergripande kvaliteten på deras leverantörers och tjänsteleverantörers produkter och cybersäkerhetspraxis, inbegripet deras förfaranden för säker utveckling. Medlemsstaterna ska också säkerställa att entiteter, när de överväger lämpliga åtgärder enligt den punkten är skyldiga att beakta resultatet av de samordnade säkerhetsriskbedömningar av kritiska leveranskedjor som utförs i enlighet med artikel [22.1](#artikel-22-samordnade-säkerhetsriskbedömningar-på-unionsnivå-av-kritiska-leveranskedjor).
+
+4\. Medlemsstaterna ska säkerställa att en entitet som finner att den inte följer de åtgärder som föreskrivs i punkt 2 utan onödigt dröjsmål vidtar alla nödvändiga, lämpliga och proportionella korrigerande åtgärder.
+
+5\. Senast den 17 oktober 2024 ska kommissionen anta genomförandeakter för att fastställa de tekniska och metodologiska specifikationerna för de åtgärder som avses i punkt 2 med avseende på leverantörer av DNS-tjänster, registreringsenheter för toppdomäner, leverantörer av molntjänster, leverantörer av datacentraltjänster, leverantörer av nätverk för leverans av innehåll, leverantörer av hanterade tjänster, leverantörer av hanterade säkerhetstjänster, leverantörer av marknadsplatser online, sökmotorer och för plattformar för sociala nätverkstjänster samt kvalificerade tillhandahållare av betrodda tjänster.
+
+Kommissionen får anta genomförandeakter för att fastställa tekniska och metodologiska krav samt, vid behov, sektorskrav för de åtgärder som avses i punkt 2 med avseende på andra väsentliga och viktiga entiteter än de som avses i första stycket i denna punkt.
+
+När kommissionen utarbetar de genomförandeakter som avses i första och andra stycket i denna punkt ska den i största möjliga utsträckning följa europeiska och internationella standarder samt relevanta tekniska specifikationer. Kommissionen ska utbyta råd och samarbeta med samarbetsgruppen och Enisa om de utkast till genomförandeakter som avses i artikel [14.4 e](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp).
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [39.2](/lagstiftning/nis2/kap-8#artikel-39-kommittéförfarande).
+
+### Artikel 22 – Samordnade säkerhetsriskbedömningar på unionsnivå av kritiska leveranskedjor
+
+1\. Samarbetsgruppen får, i samarbete med kommissionen och Enisa, utföra samordnade säkerhetsriskbedömningar av specifika kritiska leveranskedjor för IKT-tjänster, IKT-system eller IKT-produkter, med beaktande av tekniska och, i relevanta fall, icke-tekniska riskfaktorer.
+
+2\. Kommissionen ska, efter samråd med samarbetsgruppen och Enisa och, vid behov, relevanta intressenter, identifiera de specifika kritiska IKT-tjänster, IKT-system eller IKT-produkter som kan bli föremål för den samordnade säkerhetsriskbedömning som avses i punkt 1.
+
+### Artikel 23 – Rapporteringsskyldigheter
+
+1\. Varje medlemsstat ska säkerställa att väsentliga och viktiga entiteter utan onödigt dröjsmål underrättar sin CSIRT-enhet eller, i tillämpliga fall, sin behöriga myndighet i enlighet med punkt 4 om alla incidenter som har en betydande inverkan på tillhandahållandet av deras tjänster enligt punkt 3 (betydande incident). När så är lämpligt ska berörda entiteter utan onödigt dröjsmål underrätta mottagarna av deras tjänster om betydande incidenter som sannolikt inverkar negativt på tillhandahållandet av de tjänsterna. Varje medlemsstat ska säkerställa att dessa entiteter bland annat rapporterar information som gör det möjligt för CSIRT-enheten eller, i tillämpliga fall, den behöriga myndigheten att fastställa incidentens eventuella gränsöverskridande verkningar. Själva underrättelsen ska inte medföra ökat ansvar för den underrättande entiteten.
+
+Om de berörda entiteterna underrättar den behöriga myndigheten om en betydande incident enligt första stycket ska medlemsstaten säkerställa att den behöriga myndigheten vidarebefordrar underrättelsen till CSIRT-enheten vid mottagandet.
+
+Vid en gränsöverskridande eller sektorsövergripande betydande incident ska medlemsstaterna säkerställa att deras gemensamma kontaktpunkter i god tid förses med relevant information som meddelats i enlighet med punkt 4.
+
+2\. I tillämpliga fall ska medlemsstaterna säkerställa att väsentliga och viktiga entiteter utan onödigt dröjsmål underrättar de mottagare av deras tjänster som kan påverkas av ett betydande cyberhot om eventuella åtgärder eller avhjälpande arrangemang som dessa mottagare kan vidta som svar på hotet. När så är lämpligt ska entiteterna också informera dessa mottagare om själva det betydande cyberhotet.
+
+3\. En incident ska anses vara betydande om
+
+a) den har orsakat eller kan orsaka allvarliga driftsstörningar för tjänsterna eller ekonomiska förluster för den berörda entiteten,
+
+b) den har påverkat eller kan påverka andra fysiska eller juridiska personer genom att vålla betydande materiell eller immateriell skada.
+
+4\. När det gäller det underrättelseförfarande som avses i punkt 1 ska medlemsstaterna säkerställa att de berörda entiteterna lämnar följande till CSIRT-enheten eller, i tillämpliga fall, den behöriga myndigheten:
+
+a) Utan onödigt dröjsmål och under alla omständigheter inom 24 timmar efter att ha fått kännedom om den betydande incidenten, en tidig varning som i tillämpliga fall ska ange om den betydande incidenten misstänks ha orsakats av olagliga eller avsiktligt skadliga handlingar eller kan ha gränsöverskridande verkningar.
+
+b) Utan onödigt dröjsmål och under alla omständigheter inom 72 timmar efter att ha fått kännedom om den betydande incidenten, en incidentanmälan som, i tillämpliga fall, ska uppdatera den information som avses i led a och ange en inledande bedömning av den betydande incidenten, dess allvarlighetsgrad och konsekvenser samt, i förekommande fall, angreppsindikatorer.
+
+c) På begäran av en CSIRT-enhet eller, i tillämpliga fall, den behöriga myndigheten, en delrapport om relevanta statusuppdateringar.
+
+d) Senast en månad efter inlämningen av den incidentanmälan som avses i led b, en slutrapport som ska innehålla följande:
+
+i) En detaljerad beskrivning av incidenten, inbegripet dess allvarlighetsgrad och konsekvenser.
+
+ii) Den typ av hot eller grundorsak som sannolikt har utlöst incidenten.
+
+iii) Tillämpade och pågående begränsande åtgärder.
+
+iv) I tillämpliga fall, incidentens gränsöverskridande verkningar.
+
+e) I händelse av en pågående incident vid tidpunkten för inlämnandet av den slutrapport som avses i led d ska medlemsstaterna säkerställa att de berörda entiteterna tillhandahåller en lägesrapport vid den tidpunkten och en slutrapport inom en månad efter det att de hanterat incidenten.
+
+Genom undantag från första stycket b ska en tillhandahållare av betrodda tjänster, när det gäller betydande incidenter som påverkar tillhandahållandet av de betrodda tjänsterna, utan onödigt dröjsmål och under alla omständigheter inom 24 timmar efter att ha fått kännedom om den betydande incidenten, underrätta CSIRT-enheten eller, i tillämpliga fall, den behöriga myndigheten.
+
+5\. CSIRT-enheten eller den behöriga myndigheten ska utan onödigt dröjsmål och om möjligt inom 24 timmar från mottagandet av den tidiga varning som avses i punkt 4 a lämna ett svar till den underrättande entiteten, inbegripet initial återkoppling om den betydande incidenten och, på entitetens begäran, vägledning eller operativa råd om genomförandet av möjliga begränsande åtgärder. Om CSIRT-enheten inte är den ursprungliga mottagaren av den underrättelse som avses i punkt 1 ska vägledningen tillhandahållas av den behöriga myndigheten i samarbete med CSIRT-enheten. CSIRT-enheten ska tillhandahålla ytterligare tekniskt stöd om den berörda entiteten begär det. Om den betydande incidenten misstänks vara av brottslig art ska CSIRT-enheten eller den behöriga myndigheten också tillhandahålla vägledning om rapporteringen av den betydande incidenten till de brottsbekämpande myndigheterna.
+
+6\. När så är lämpligt, och särskilt om den betydande incidenten berör två eller flera medlemsstater, ska CSIRT-enheten, den behöriga myndigheten eller den gemensamma kontaktpunkten utan onödigt dröjsmål informera andra berörda medlemsstater och Enisa om den betydande incidenten. Sådan information ska åtminstone inbegripa den typ av information som mottagits i enlighet med punkt 4. Därvid ska CSIRT-enheten, den behöriga myndigheten eller den gemensamma kontaktpunkten, i enlighet med unionsrätten eller nationell rätt, bevara entitetens säkerhets- och affärsintressen samt den tillhandahållna informationens konfidentialitet.
+
+7\. Om allmänhetens medvetenhet är nödvändig för att förhindra en betydande incident eller för att hantera en pågående betydande incident, eller om information om den betydande incidenten på annat sätt ligger i allmänhetens intresse, får en medlemsstats CSIRT-enhet eller, i tillämpliga fall, dess behöriga myndighet och, om det är lämpligt, CSIRT-enheterna eller de behöriga myndigheterna i andra berörda medlemsstater, efter samråd med den berörda entiteten, informera allmänheten om den betydande incidenten eller ålägga entiteten att göra detta.
+
+8\. På begäran av CSIRT-enheten eller den behöriga myndigheten ska den gemensamma kontaktpunkten vidarebefordra underrättelser som mottagits i enlighet med punkt 1 till de gemensamma kontaktpunkterna i andra berörda medlemsstater.
+
+9\. Den gemensamma kontaktpunkten ska var tredje månad lämna in en sammanfattande rapport till Enisa med anonymiserade och aggregerade uppgifter om betydande incidenter, incidenter, cyberhot och tillbud om vilket underrättats i enlighet med punkt 1 i [denna artikel](#artikel-23-rapporteringsskyldigheter) och med artikel [30](/lagstiftning/nis2/kap-6#artikel-30-frivillig-underrättelse-om-relevant-information). För att bidra till att jämförbar information lämnas får Enisa anta teknisk vägledning om parametrarna för den information som ska tas med i den sammanfattande rapporten. Enisa ska var sjätte månad informera samarbetsgruppen och CSIRT-nätverket om sina slutsatser om de mottagna anmälningarna.
+
+10\. CSIRT-enheterna eller, i tillämpliga fall, de behöriga myndigheterna ska förse de behöriga myndigheterna enligt [direktiv (EU) 2022/2557](/lagstiftning/cer) med information om betydande incidenter, incidenter, cyberhot och tillbud om vilket underrättats i enlighet med punkt 1 i [denna artikel](#artikel-23-rapporteringsskyldigheter) och med artikel [30](/lagstiftning/nis2/kap-6#artikel-30-frivillig-underrättelse-om-relevant-information) av entiteter som identifierats som kritiska i enlighet med [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+11\. Kommissionen får anta genomförandeakter som närmare anger typen av information i och formatet och förfarandet för underrättelser som lämnas i enlighet med punkt 1 i [denna artikel](#artikel-23-rapporteringsskyldigheter) och med artikel [30](/lagstiftning/nis2/kap-6#artikel-30-frivillig-underrättelse-om-relevant-information) samt för underrättelser som lämnas i enlighet med punkt 2 i [den här artikeln](#artikel-23-rapporteringsskyldigheter).
+
+Senast den 17 oktober 2024 ska kommissionen, med avseende på leverantörer av DNS-tjänster, registreringsenheter för toppdomäner, leverantörer av molntjänster, leverantörer av datacentraltjänster, leverantörer av nätverk för leverans av innehåll, leverantörer av hanterade tjänster, leverantörer av hanterade säkerhetstjänster samt leverantörer av marknadsplatser online, sökmotorer eller av plattformar för sociala nätverkstjänster, anta genomförandeakter som närmare anger i vilka fall en incident ska anses vara betydande enligt punkt 3. Kommissionen får anta sådana genomförandeakter med avseende på andra väsentliga och viktiga entiteter.
+
+Kommissionen ska utbyta råd och samarbeta med samarbetsgruppen om de utkast till genomförandeakter som avses i första och andra stycket i denna punkt i enlighet med artikel [14.4 e](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp).
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [39.2](/lagstiftning/nis2/kap-8#artikel-39-kommittéförfarande).
+
+### Artikel 24 – Användning av europeiska ordningar för cybersäkerhetscertifiering
+
+1\. För att visa att vissa krav enligt artikel [21](#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) är uppfyllda får medlemsstaterna ålägga väsentliga och viktiga entiteter att använda särskilda IKT-produkter, IKT-tjänster och IKT-processer, som har utvecklats av den väsentliga eller viktiga entiteten eller upphandlats från tredje parter, som är certifierade enligt europeiska ordningar för cybersäkerhetscertifiering som antagits i enlighet med artikel [49](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881). Medlemsstaterna ska dessutom uppmuntra väsentliga och viktiga entiteter att använda kvalificerade betrodda tjänster.
+
+2\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [38](/lagstiftning/nis2/kap-8#artikel-38-utövande-av-delegeringen) för att komplettera [detta direktiv](/lagstiftning/nis2) genom att ange vilka kategorier av väsentliga eller viktiga entiteter som ska vara skyldiga att använda vissa certifierade IKT-produkter, IKT-tjänster och IKT-processer eller erhålla ett certifikat enligt en europeisk ordning för cybersäkerhetscertifiering som har antagits enligt artikel [49](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881). Dessa delegerade akter ska antas om det har fastställts att cybersäkerhetsnivån är otillräcklig och ska omfatta en genomförandeperiod.
+
+Innan kommissionen antar sådana delegerade akter ska den göra en konsekvensbedömning och genomföra samråd i enlighet med artikel [56](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+3\. I fall där det inte finns en lämplig europeisk ordning för cybersäkerhetscertifiering med avseende på tillämpningen av punkt 2 i [denna artikel](#artikel-24-användning-av-europeiska-ordningar-för-cybersäkerhetscertifiering) kan kommissionen, efter samråd med samarbetsgruppen och europeiska gruppen för cybersäkerhetscertifiering, begära att Enisa utarbetar ett förslag till certifieringsordning enligt artikel [48.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+### Artikel 25 – Standardisering
+
+1\. För att främja en enhetlig tillämpning av artikel [21.1](#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [21.2](#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) ska medlemsstaterna, utan att föreskriva eller gynna användning av en viss typ av teknik, uppmuntra användningen av europeiska och internationella standarder och tekniska specifikationer av relevans för säkerheten i nätverks- och informationssystem.
+
+2\. Enisa ska i samarbete med medlemsstaterna och, när så är lämpligt, efter samråd med relevanta intressenter, utarbeta råd och riktlinjer för de tekniska områden som ska beaktas när det gäller punkt 1 samt för redan befintliga standarder, inklusive nationella standarder, som skulle göra det möjligt att täcka dessa områden.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

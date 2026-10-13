@@ -1,0 +1,24 @@
+---
+title: PCI DSS – Payment Card Industry Data Security Standard
+description: Kravstandard för skydd av kortinnehavardata hos kortindustrins aktörer.
+designation: PCI DSS v4.0.1
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: PCI SSC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - it
+url: https://www.pcisecuritystandards.org/standards/pci-dss/
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+PCI DSS ställer tolv kravområden på organisationer som lagrar, behandlar eller överför kortinnehavardata. Standarden ges ut av PCI Security Standards Council; den aktuella versionen 4.0.1 publicerades 2024. Standardtexten hämtas från PCI SSC:s dokumentbibliotek.
+
+Officiell källa: [PCI DSS v4.0.1](https://www.pcisecuritystandards.org/standards/pci-dss/).
+<!-- scan-standards:end -->

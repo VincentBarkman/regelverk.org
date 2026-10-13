@@ -1,0 +1,102 @@
+---
+title: Implementation
+description: OWASP SAMM 2.2.0 – Implementation
+source: owasp-samm
+ref: IMPLEMENTATION
+designation: OWASP SAMM 2.2.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://owaspsamm.org/
+version: 2.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+Implementation is focused on the processes and activities related to how an organization builds and deploys software components and their related defects.
+
+Activities within the Implementation function have the most impact on the daily life of developers. The joint goal is to ship reliably working software with minimum defects.
+
+### Secure Build (SB)
+
+The Secure Build (SB) practice emphasizes the importance of building software in a standardized, repeatable manner, and of doing so using secure components, including 3rd party software dependencies.
+
+The first stream focuses on removing any subjectivity from the build process by striving for full automation. An automated build pipeline can include additional automated security checks such as SAST and DAST to gain further assurance and flag security regressions early by failing the build, for example.
+
+The second stream acknowledges the prevalence of software dependencies in modern applications. It aims to identify them and track their security status in order to contain the impact of their insecurity on an otherwise secure application. In an advanced form, it applies similar security checks to software dependencies as to the application itself.
+
+#### Stream A – Build Process
+
+A consistent build process ensures the software you are deploying is predictable and directly linked to the source code. Furthermore, you can take advantage of the software build process for various security activities.
+
+- **Level 1:** Define a consistent build process — Create a formal definition of the build process so that it becomes consistent and repeatable.
+- **Level 2:** Automate the build process — Automate your build pipeline and secure the used tooling. Add security checks in the build pipeline.
+- **Level 3:** Enforce a security baseline during build — Define mandatory security checks in the build process and ensure that building non-compliant artifacts fails.
+
+#### Stream B – Software Dependencies
+
+External libraries are a significant part of modern software. The activities in this stream help create a view of external libraries and ensure their security strength is adequate.
+
+- **Level 1:** Identify application dependencies — Create records with Bill of Materials of your applications and opportunistically analyze these.
+- **Level 2:** Review application dependencies for security — Evaluate used dependencies and ensure timely reaction to situations posing risk to your applications.
+- **Level 3:** Test application dependencies — Analyze used dependencies for security issues in a comparable way to your own code.
+
+### Secure Deployment (SD)
+
+One of the final stages in delivering secure software is ensuring the security and integrity of developed applications are not compromised during deployment. The Secure Deployment (SD) practice focuses on this. To this end, the practice’s first stream focuses on removing manual error by automating the deployment process as much as possible, and making its success contingent upon the outcomes of integrated security verification checks. It also fosters Separation of Duties by making adequately trained, non-developers responsible for deployment.
+
+The second stream goes beyond the mechanics of deployment, and focuses on protecting the privacy and integrity of sensitive data, such as passwords, tokens, and other secrets, required for applications to operate in production environments. In its simplest form, suitable production secrets are moved from repositories and configuration files into adequately managed digital vaults. In more advanced forms, secrets are dynamically generated at deployment time and routine processes detect and mitigate the presence of any unprotected secrets in the environment.
+
+#### Stream A – Deployment Process
+
+A repeatable and consistent deployment process ensures you only deploy correct software artifacts to production. It also paves the way for representative test environments prior to production.
+
+- **Level 1:** Use a repeatable deployment process — Formalize the deployment process and secure the used tooling and processes.
+- **Level 2:** Automate deployment and integrate security checks — Automate the deployment process over all stages and introduce sensible security verification tests.
+- **Level 3:** Verify the integrity of deployment artifacts — Automatically verify the integrity of all deployed software, regardless of whether it's internally or externally developed.
+
+#### Stream B – Secret Management
+
+As the secure execution of any software system requires credentials, this stream ensures proper handling of these sensitive data elements within the organization's environment.
+
+- **Level 1:** Protect application secrets in configuration and code — Introduce basic protection measures to limit access to your production secrets.
+- **Level 2:** Include application secrets during deployment — Inject secrets dynamically during the deployment process from hardened storage and audit all human access to them.
+- **Level 3:** Enforce lifecycle management of application secrets — Improve the lifecycle of application secrets by regularly generating them and by ensuring proper use.
+
+### Defect Management (DM)
+
+The Defect Management (DM) practice focuses on collecting, recording, and analyzing software security defects and enriching them with information to drive metrics-based decisions.
+
+The practice’s first stream deals with the process of handling and managing defects to ensure released software has a given assurance level. The second stream focuses on enriching the information about the defects and deriving metrics to guide decisions about the security of individual projects and of the security assurance program as a whole.
+
+In a sophisticated form, the practice requires formalized, independent defect management and real-time, correlated information to detect trends and influence security strategy.
+
+#### Stream A – Defect Tracking
+
+Defect tracking manages the collection and follow-up of all potential issues in a piece of software, from architectural flaws to coding issues and run-time vulnerabilities.
+
+- **Level 1:** Track security defects centrally — Introduce a structured tracking of security defects and make knowledgeable decisions based on this information.
+- **Level 2:** Rate and track security defects — Rate all security defects over the whole organization consistently and define SLAs for particular severity classes.
+- **Level 3:** Enforce an SLA for defect management — Enforce the predefined SLAs and integrate your defect management system with other relevant tooling.
+
+#### Stream B – Metrics and Feedback
+
+Defect tracking can drive the improvement of security activities within the organization through metrics and feedback.
+
+- **Level 1:** Define basic defect metrics — Regularly go over previously recorded security defects and derive quick wins from basic metrics.
+- **Level 2:** Define advanced defect metrics — Collect standardized defect management metrics and use these also for prioritization of centrally driven initiatives.
+- **Level 3:** Use metrics to improve the security strategy — Continuously improve your security defect management metrics and correlate it with other sources.
+
+---
+
+© OWASP Foundation, Software Assurance Maturity Model 2.2.0. The layout has been adapted; the English model text has not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/owaspsamm/core/releases/download/v2.2.0/samm.tar.gz).
+<!-- scan-standards:end -->

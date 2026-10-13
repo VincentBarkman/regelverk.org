@@ -1,0 +1,121 @@
+---
+'source': 'elsak-fs-2022-1'
+'ref': '5 kap.'
+'title': '5 kap. – Särskilda säkerhetskrav för högspänningsanläggningar'
+'kind': 'chapter'
+'description': 'Utförande av starkströmsanläggningar (ELSÄK-FS 2022:1), 5 kap..'
+'designation': 'ELSÄK-FS 2022:1 5 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Elsäkerhetsverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.elsakerhetsverket.se/globalassets/foreskrifter/elsak-fs-2022-1.pdf'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 § – Jordning och skydd mot beröring av spänningssatta delar
+
+Utsatta delar av en högspänningsanläggning ska jordas. Detta gäller även för
+
+sådana främmande ledande delar som vid fel, genom induktion eller influens, kan bli
+spänningssatta och medföra fara för personskada eller sakskada.
+Utanför driftrum ska apparater och kablar antingen ha jordad mellandel eller genom
+sitt läge vara skyddade mot oavsiktlig beröring. Med jordad mellandel avses
+metallkapsling för apparater och skärm för kablar.
+
+### 2 §
+
+I driftrum får skydd mot direkt beröring av en högspänningsanläggning utformas
+
+### 3 § – med hjälp av hinder. Balkar, kedjor och rep utgör inte hinder.
+
+Vid TN-system för lågspänning som är ansluten till en strömkälla från ett
+
+> _Allmänna råd_
+
+> högspänningssystem får enpolig jordslutning i det anslutande högspänningssystemet
+> orsaka en jordpotentialstegring om högst 100 V i lågspänningssystemets utsatta
+> delar. Detta gäller enbart för TN-system som lämnar högspänningens påverkans-
+> område.
+> Denna bestämmelse ska inte tillämpas på högspänningsanläggningar för drift av
+> järnväg.
+
+> Krav på frånkoppling
+
+### 4 §
+
+I högspänningsanläggningar med jordslutningsströmmar överstigande 500 A ska
+
+> _Allmänna råd_
+
+> jordslutningar frånkopplas inom 0,5 s. I starkströmsanläggningar för högspänning
+> innehållande luftledning för högspänning med jordslutningsströmmar understigande
+> 500 A ska jordslutningar frånkopplas inom 5 s.
+
+### 5 §
+
+I högspänningsanläggningar med jordslutningsströmmar understigande 500 A
+
+> _Allmänna råd_
+
+> i vilken det ingår
+> -   en friledning i förstärkt utförande,
+> -   en friledning med belagda ledare, eller
+> -   en luftledning utförd med kabel utan metallmantel eller skärm,
+> ska jordfelsskydden ha högsta möjliga känslighet vid detektering av jordfel.
+> Reläfunktionen för frånkoppling ska vara säkerställd för resistansvärden upp till
+> 5 kOhm.
+
+### 6 §
+
+I högspänningsanläggningar med jordslutningsströmmar understigande 500 A för
+
+> _Allmänna råd_
+
+> högst 25 kV nominell spänning, i vilken det ingår luftledningar av något annat slag
+> än vad som anges i [5 §](#5), ska reläfunktionen för frånkoppling vara säkerställd för
+> resistansvärden upp till 3 kOhm för jordfelsskydden. Inom områden som inte
+> omfattas av detaljplan får en sådan anläggning innehålla ett fåtal spann friledning
+> med belagda ledare.
+
+### 7 §
+
+I högspänningsanläggningar ska spänningssättningens värde vara sådant att
+
+> _Allmänna råd_
+
+> betryggande säkerhet ges vid uppkommen jordslutning. Värdet ska anpassas till
+> rådande förhållanden på platsen.
+
+> Allmänna råd
+> De rådande förhållanden som bör beaktas är:
+> -   markresistivitet,
+> -   markens ytbeläggning, och
+> -   om människor förväntas befinna sig på platsen.
+
+För svenska förhållanden kan följande tilläggsresistanser till en mätresistans om
+1 kOhm anses utgöra god elsäkerhetsteknisk praxis gällande berörings-
+spänningar:
+-   0 Ohm vid badplatser, lekplatser, campingplatser, skolgårdar eller
+liknande platser där kroppens kontakt med omgivningen kan förväntas ha
+små begränsningar,
+-   4 kOhm vid platser där människor kan förväntas befinna sig, exempelvis
+driftrum, gator, vägar eller parkeringsplatser, eller
+-   7 kOhm för övriga platser.
+I högspänningsanläggningar med jordslutningsströmmar överstigande 500 A, kan
+betryggande säkerhet anses föreligga om förhöjda markpotentialer till följd av
+jordslutningsströmmen är utjämnade och förekommande spänningar inte
+överstiger 220 V vid en mätresistans om 1 kOhm.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

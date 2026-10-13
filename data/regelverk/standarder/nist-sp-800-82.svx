@@ -1,0 +1,24 @@
+---
+title: NIST SP 800-82
+description: Vägledning för cybersäkerhet i industriella styrsystem (ICS/OT).
+designation: NIST SP 800-82 Rev. 3
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/82/r3/final
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+NIST SP 800-82 beskriver hur industriella styrsystem skiljer sig från vanliga IT-system och hur säkerhetsprogram anpassas till driftmiljöer där tillgänglighet och personsäkerhet är avgörande. Publikationen är fri att ladda ner från NIST men saknar maskinläsbar kontrollkatalog; komplettera med NIST SP 800-53 och IEC 62443.
+
+Officiell källa: [NIST SP 800-82 Rev. 3](https://csrc.nist.gov/pubs/sp/800/82/r3/final).
+<!-- scan-standards:end -->

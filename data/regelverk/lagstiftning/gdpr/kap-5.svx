@@ -1,0 +1,177 @@
+---
+'source': 'gdpr'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – Överföring av personuppgifter till tredjeländer eller
+  internationella organisationer'
+'kind': 'chapter'
+'description': 'Dataskyddsförordningen (GDPR), Kapitel V.'
+'designation': 'GDPR Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32016R0679#cpt_V'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 44 – Allmän princip för överföring av uppgifter
+
+Överföring av personuppgifter som är under behandling eller är avsedda att behandlas efter det att de överförts till ett tredjeland eller en internationell organisation får bara ske under förutsättning att den personuppgiftsansvarige och personuppgiftsbiträdet, med förbehåll för övriga bestämmelser i [denna förordning](/lagstiftning/gdpr), uppfyller villkoren i [detta kapitel](/lagstiftning/gdpr/kap-5), inklusive för vidare överföring av personuppgifter från tredjelandet eller den internationella organisationen till ett annat tredjeland eller en annan internationell organisation. Alla bestämmelser i [detta kapitel](/lagstiftning/gdpr/kap-5) ska tillämpas för att säkerställa att den nivå på skyddet av fysiska personer som säkerställs genom [denna förordning](/lagstiftning/gdpr) inte undergrävs.
+
+### Artikel 45 – Överföring på grundval av ett beslut om adekvat skyddsnivå
+
+1\. Personuppgifter får överföras till ett tredjeland eller en internationell organisation om kommissionen har beslutat att tredjelandet, ett territorium eller en eller flera specificerade sektorer i tredjelandet, eller den internationella organisationen i fråga säkerställer en adekvat skyddsnivå. En sådan överföring ska inte kräva något särskilt tillstånd.
+
+2\. När kommissionen bedömer om en adekvat skyddsnivå föreligger ska den särskilt beakta
+
+a) rättsstatsprincipen, respekten för de mänskliga rättigheterna och de grundläggande friheterna, relevant lagstiftning, både allmän lagstiftning och sektorslagstiftning, inklusive avseende allmän säkerhet, försvar, nationell säkerhet och straffrätt och offentliga myndigheters tillgång till personuppgifter samt tillämpningen av sådan lagstiftning, dataskyddsregler, yrkesregler och säkerhetsbestämmelser, inbegripet regler för vidare överföring av personuppgifter till ett annat tredjeland eller en annan internationell organisation, som ska följas i det landet eller den internationella organisationen, rättspraxis samt faktiska och verkställbara rättigheter för registrerade och effektiv administrativ och rättslig prövning för de registrerade vars personuppgifter överförs,
+
+b) huruvida det finns en eller flera effektivt fungerande oberoende tillsynsmyndigheter i tredjelandet, eller som utövar tillsyn över den internationella organisationen, som har ansvar för att säkerställa och kontrollera att dataskyddsregler följs, inklusive lämpliga verkställighetsbefogenheter, ge de registrerade råd och assistans när det gäller utövandet av deras rättigheter och samarbeta med medlemsstaternas tillsynsmyndigheter, och
+
+c) vilka internationella åtaganden det berörda tredjelandet eller den berörda internationella organisationen har gjort, eller andra skyldigheter som följer av rättsligt bindande konventioner eller instrument samt av dess deltagande i multilaterala eller regionala system, särskilt rörande skydd av personuppgifter.
+
+3\. Kommissionen får, efter att ha bedömt om det föreligger en adekvat skyddsnivå, genom en genomförandeakt besluta att ett tredjeland, ett territorium eller en eller flera specificerade sektorer inom ett tredjeland, eller en internationell organisation säkerställer en adekvat skyddsnivå i den mening som avses i punkt 2 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå). Genomförandeakten ska inrätta en mekanism för regelbunden översyn, minst vart fjärde år, som ska beakta all relevant utveckling i det tredjelandet eller den internationella organisationen. Beslutets territoriella och sektorsmässiga tillämpning ska regleras i genomförandeakten, där det också i förekommande fall ska anges vilken eller vilka myndigheter som är tillsynsmyndighet(er) enligt punkt 2 b i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå). Genomförandeakten ska antas i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+4\. Kommissionen ska fortlöpande övervaka utveckling i tredjeländer och internationella organisationer vilken kan påverka hur beslut som antagits enligt punkt 3 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå) och beslut som antagits på grundval av artikel [25.6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32046L0095) i [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) fungerar.
+
+5\. Kommissionen ska, när tillgänglig information visar, i synnerhet efter den översyn som avses i punkt 3 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå), att ett tredjeland, ett territorium eller en eller flera specificerade sektorer inom tredjelandet i fråga eller en internationell organisation inte längre säkerställer adekvat skydd i den mening som avses i punkt 2 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå) och, i den mån det behövs, genom genomförandeakter återkalla, ändra eller upphäva det beslut som avses i punkt 3 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå) utan retroaktiv verkan. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+När det föreligger vederbörligen motiverade och tvingande skäl till skyndsamhet ska kommissionen anta omedelbart tillämpliga genomförandeakter i enlighet med det förfarande som avses i artikel [93.3](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+6\. Kommissionen ska samråda med tredjelandet eller den internationella organisationen i fråga för att lösa den situation som lett till beslutet enligt punkt 5.
+
+7\. Beslut enligt punkt 5 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå) ska inte påverka överföring av personuppgifter till tredjelandet, ett territorium eller en eller flera specificerade sektorer inom tredjelandet, eller den internationella organisationen i fråga enligt artiklarna [46](#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder)–[49](#artikel-49-undantag-i-särskilda-situationer).
+
+8\. Kommissionen ska i Europeiska unionens officiella tidning och på sin webbplats offentliggöra en förteckning över de tredjeländer och de territorier och specificerade sektorer i ett givet tredjeland samt de internationella organisationer för vilka den har fastställt att en adekvat skyddsnivå inte eller inte längre säkerställs.
+
+> _9\. De beslut som antas av kommissionen på grundval av artikel [25.6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32046L0095) i [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) ska förbli i kraft tills de ändrats, ersatts eller upphävts av ett kommissionsbeslut som antagits i enlighet med punkt 3 eller 5 i [den här artikeln](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå)._
+
+### Artikel 46 – Överföring som omfattas av lämpliga skyddsåtgärder
+
+1\. I avsaknad av ett beslut i enlighet med artikel [45.3](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå), får en personuppgiftsansvarig eller ett personuppgiftsbiträde endast överföra personuppgifter till ett tredjeland eller en internationell organisation efter att ha vidtagit lämpliga skyddsåtgärder, och på villkor att lagstadgade rättigheter för registrerade och effektiva rättsmedel för registrerade finns tillgängliga.
+
+2\. Lämpliga skyddsåtgärder enligt punkt 1 får, utan att det krävs särskilt tillstånd från en övervakningsmyndighet, ta formen av
+
+a) ett rättsligt bindande och verkställbart instrument mellan offentliga myndigheter eller organ,
+
+b) bindande företagsbestämmelser i enlighet med artikel [47](#artikel-47-bindande-företagsbestämmelser),
+
+c) standardiserade dataskyddsbestämmelser som antas av kommissionen i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande),
+
+d) standardiserade dataskyddsbestämmelser som antagits av en tillsynsmyndighet och godkänts av kommissionen i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande),
+
+e) en godkänd uppförandekod enlig artikel [40](/lagstiftning/gdpr/kap-4#artikel-40-uppförandekoder) tillsammans med rättsligt bindande och verkställbara åtaganden för den personuppgiftsansvarige eller personuppgiftsbiträdet i tredjelandet att tillämpa lämpliga skyddsåtgärder, även när det gäller registrerades rättigheter, eller
+
+f) en godkänd certifieringsmekanism enlig artikel [42](/lagstiftning/gdpr/kap-4#artikel-42-certifiering) tillsammans med rättsligt bindande och verkställbara åtaganden för den personuppgiftsansvarige, personuppgiftsbiträdet i tredjelandet att tillämpa lämpliga skyddsåtgärder, även när det gäller de registrerades rättigheter.
+
+3\. Med förbehåll för tillstånd från den behöriga tillsynsmyndigheten, får lämpliga skyddsåtgärder enligt punkt 1 också i synnerhet ta formen av
+
+a) avtalsklausuler mellan den personuppgiftsansvarige eller personuppgiftsbiträdet och den personuppgiftsansvarige, personuppgiftsbiträdet eller mottagaren av personuppgifterna i tredjelandet eller den internationella organisationen, eller
+
+b) bestämmelser som ska införas i administrativa överenskommelser mellan offentliga myndigheter eller organ vilka inbegriper verkställbara och faktiska rättigheter för registrerade.
+
+4\. Tillsynsmyndigheten ska tillämpa den mekanism för enhetlighet som avses i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet) i de fall som avses i punkt 3 i [den här artikeln](#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder).
+
+> _5\. Tillstånd från en medlemsstat eller tillsynsmyndighet på grundval av artikel [26.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32046L0095) i [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) ska förbli giltigt tills det, vid behov, ändrats, ersatts eller upphävts av den tillsynsmyndigheten. De beslut som fattas av kommissionen på grundval av artikel [26.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32046L0095) i [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) ska förbli i kraft tills de, vid behov, ändrats, ersatts eller upphävts av ett kommissionsbeslut som antagits i enlighet med punkt 2 i [den här artikeln](#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder)._
+
+### Artikel 47 – Bindande företagsbestämmelser
+
+1\. Den behöriga tillsynsmyndigheten ska godkänna bindande företagsbestämmelser i enlighet med den mekanism för enhetlighet som föreskrivs i artikel [63](/lagstiftning/gdpr/kap-7#artikel-63-mekanism-för-enhetlighet) under förutsättning att de
+
+a) är rättslig bindande, tillämpas på, och verkställs av alla delar som berörs inom den koncern eller grupp av företag som deltar i gemensam ekonomisk verksamhet, inklusive deras anställda,
+
+b) innehåller uttryckliga bestämmelser om de registrerades lagstadgade rättigheter när det gäller behandlingen av deras personuppgifter, och
+
+c) uppfyller villkoren i punkt 2.
+
+2\. De bindande företagsbestämmelser som avses i punkt 1 ska närmare ange åtminstone följande:
+
+a) struktur och kontaktuppgifter för den koncern eller grupp av företag som deltar i gemensam ekonomisk verksamhet och för var och en av dess medlemmar,
+
+b) vilka överföringar eller uppsättningar av överföringar av uppgifter som omfattas, inklusive kategorierna av personuppgifter, typen av behandling och dess ändamål, den typ av registrerade som berörs samt vilket eller vilka tredjeländer som avses,
+
+c) bestämmelsernas rättsligt bindande natur, såväl internt som externt,
+
+d) tillämpningen av allmänna principer för dataskydd, särskilt avgränsning av syften, uppgiftsminimering, begränsade lagringsperioder, datakvalitet, inbyggt dataskydd och dataskydd som standard, rättslig grund för behandling, behandling av särskilda kategorier av personuppgifter, åtgärder för att säkerställa datasäkerhet och villkoren när det gäller vidare överföring av uppgifter till organ som inte är bundna av bindande företagsbestämmelser,
+
+e) de registrerades rättigheter avseende behandling och medlen för att utöva dessa rättigheter, inklusive rätten att inte bli föremål för beslut grundade enbart på automatisk behandling, inklusive profilering, enligt artikel [22](/lagstiftning/gdpr/kap-3#artikel-22-automatiserat-individuellt-beslutsfattande-inbegripet-profilering), rätten att inge klagomål till den behöriga tillsynsmyndigheten och till behöriga domstolar i medlemsstaterna enligt artikel [79](/lagstiftning/gdpr/kap-8#artikel-79-rätt-till-ett-effektivt-rättsmedel-mot-en-personuppgiftsansvarig-eller-ett-personuppgiftsbiträde), rätten till prövning samt i förekommande fall rätten till kompensation för överträdelse av de bindande företagsbestämmelserna,
+
+f) att den personuppgiftsansvarige eller personuppgiftsbiträdet som är etablerad inom en medlemsstats territorium tar på sig ansvaret om en berörd enhet som inte är etablerad inom unionen bryter mot de bindande företagsbestämmelserna; den personuppgiftsansvarige eller personuppgiftsbiträdet får helt eller delvis undantas från denna skyldighet endast på villkor att det kan visas att den berörda enheten i företagsgruppen inte kan hållas ansvarig för den skada som har uppkommit,
+
+g) hur de registrerade ska informeras om innehållet i de bindande företagsbestämmelserna, särskilt de bestämmelser som avses i leden d, e och f i denna punkt utöver den information som avses i artiklarna [13](/lagstiftning/gdpr/kap-3#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](/lagstiftning/gdpr/kap-3#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade),
+
+h) uppgifterna för varje dataskyddsombud som utsetts i enlighet med artikel [37](/lagstiftning/gdpr/kap-4#artikel-37-utnämning-av-dataskyddsombudet), eller varje annan person eller enhet med ansvar för kontrollen av att de bindande företagsbestämmelserna följs inom den koncern eller grupp av företag som deltar i gemensam ekonomisk verksamhet, samt i fråga om utbildning och hantering av klagomål,
+
+i) förfaranden för klagomål,
+
+j) rutinerna inom den koncern eller grupp av företag som deltar i gemensam ekonomisk verksamhet för att kontrollera att de bindande företagsreglerna följs; sådana rutiner ska inbegripa dataskyddstillsyn och metoder för att säkerställa korrigerande åtgärder för att skydda de registrerades rättigheter; resultaten av sådana kontroller bör meddelas den person eller enhet som avses i led h och styrelsen i det kontrollerande företaget i koncernen eller gruppen av företag som deltar i gemensam ekonomisk verksamhet, och bör på begäran vara tillgänglig för den behöriga tillsynsmyndigheten,
+
+k) rutinerna för att rapportera och dokumentera ändringar i bestämmelserna, samt rutinerna för att rapportera dessa ändringar till tillsynsmyndigheten,
+
+l) rutinerna för att samarbeta med tillsynsmyndigheten i syfte att se till att alla medlemmar i den koncern eller grupp av företag som deltar i gemensam ekonomisk verksamhet följer reglerna, särskilt genom att meddela tillsynsmyndigheten resultaten av kontroller av de åtgärder som avses i led j,
+
+m) rutinerna för att till den behöriga tillsynsmyndigheten rapportera alla rättsliga krav som en medlem i koncernen eller gruppen av företag som deltar i gemensam ekonomisk verksamhet är underkastad i ett tredjeland och som sannolikt kommer att ha en avsevärd negativ inverkan på de garantier som ges genom de bindande företagsbestämmelserna, och
+
+n) lämplig utbildning om dataskydd för personal som har ständig eller regelbunden tillgång till personuppgifter.
+
+3\. Kommissionen får närmare ange vilket format och vilka rutiner som ska användas för de personuppgiftsansvarigas, personuppgiftsbiträdenas och tillsynsmyndigheternas utbyte av information om bindande företagsbestämmelser i den mening som avses i [denna artikel](#artikel-47-bindande-företagsbestämmelser). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [93.2](/lagstiftning/gdpr/kap-10#artikel-93-kommittéförfarande).
+
+### Artikel 48 – Överföringar och utlämnanden som inte är tillåtna enligt unionsrätten
+
+Domstolsbeslut eller beslut från myndigheter i tredjeland där det krävs att en personuppgiftsansvarig eller ett personuppgiftsbiträde överför eller lämnar ut personuppgifter får erkännas eller genomföras på något som helst sätt endast om det grundar sig på en internationell överenskommelse, såsom ett avtal om ömsesidig rättslig hjälp, som gäller mellan det begärande tredjelandet och unionen eller en medlemsstat, utan att detta påverkar andra grunder för överföring enligt [detta kapitel](/lagstiftning/gdpr/kap-5).
+
+### Artikel 49 – Undantag i särskilda situationer
+
+1\. Om det inte föreligger något beslut om adekvat skyddsnivå enligt artikel [45.3](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå), eller om lämpliga skyddsåtgärder enligt artikel [46](#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder), inbegripet bindande företagsbestämmelser, får en överföring eller uppsättning av överföringar av personuppgifter till ett tredjeland eller en internationell organisation endast ske om något av följande villkor är uppfyllt:
+
+a) Den registrerade har uttryckligen samtyckt till att uppgifterna får överföras, efter att först ha blivit informerad om de eventuella riskerna med sådana överföringar för den registrerade när det inte föreligger något beslut om adekvat skyddsnivå eller lämpliga skyddsåtgärder.
+
+b) Överföringen är nödvändig för att fullgöra ett avtal mellan den registrerade och den personuppgiftsansvarige eller för att genomföra åtgärder som föregår ett sådant avtal på den registrerades begäran.
+
+c) Överföringen är nödvändig för att ingå eller fullgöra ett avtal mellan den personuppgiftsansvarige och en annan fysisk eller juridisk person i den registrerades intresse.
+
+d) Överföringen är nödvändig av viktiga skäl som rör allmänintresset.
+
+e) Överföringen är nödvändig för att kunna fastställa, göra gällande eller försvara rättsliga anspråk.
+
+f) Överföringen är nödvändig för att skydda den registrerades eller andra personers grundläggande intressen, när den registrerade är fysiskt eller rättsligt förhindrad att ge sitt samtycke.
+
+g) Överföringen görs från ett register som enligt unionsrätten eller medlemsstaternas nationella rätt är avsett att ge allmänheten information och som är tillgängligt antingen för allmänheten eller för var och en som kan styrka ett berättigat intresse, men endast i den utsträckning som de i unionsrätten eller i medlemsstaternas nationella rätt angivna villkoren för tillgänglighet uppfylls i det enskilda fallet.
+
+När en överföring inte skulle kunna grundas på en bestämmelse i artikel [45](#artikel-45-överföring-på-grundval-av-ett-beslut-om-adekvat-skyddsnivå) eller [46](#artikel-46-överföring-som-omfattas-av-lämpliga-skyddsåtgärder), inklusive bestämmelserna om bindande företagsbestämmelser, och inget av undantagen för en särskild situation som avses i första stycket i den här punkten är tillämpligt, får en överföring till ett tredjeland eller en internationell organisation äga rum endast omöverföringen inte är repetitiv, endast gäller ett begränsat antal registrerade, är nödvändig för ändamål som rör den personuppgiftsansvariges tvingande berättigade intressen och den registrerades intressen eller rättigheter och friheter inte väger tyngre, och den personuppgiftsansvarige har bedömt samtliga omständigheter kring överföringen av uppgifter och på grundval av denna bedömning vidtagit lämpliga skyddsåtgärder för att skydda personuppgifter. Den personuppgiftsansvarige ska informera tillsynsmyndigheten om överföringen. Den personuppgiftsansvarige ska utöver tillhandahållande av den information som avses i artiklarna [13](/lagstiftning/gdpr/kap-3#artikel-13-information-som-ska-tillhandahållas-om-personuppgifterna-samlas-in-från-den-registrerade) och [14](/lagstiftning/gdpr/kap-3#artikel-14-information-som-ska-tillhandahållas-om-personuppgifterna-inte-har-erhållits-från-den-registrerade) informera den registrerade om överföringen och om de tvingande berättigade intressen som eftersträvas.
+
+2\. En överföring enligt led g i punkt 1 första stycket får inte omfatta alla personuppgifter eller hela kategorier av personuppgifter som finns i registret. Om registret är avsett att vara tillgängligt för personer med ett berättigat intresse ska överföringen göras endast på begäran av dessa personer eller om de själva är mottagarna.
+
+3\. Leden a, b och c i punkt 1 första stycket samt andra stycket i samma punkt ska inte gälla åtgärder som vidtas av offentliga myndigheter som ett led i myndighetsutövning.
+
+4\. Det allmänintresse som avses i led d i punkt 1 första stycket ska vara erkänt i unionsrätten eller i den nationella rätt som den personuppgiftsansvarige omfattas av.
+
+5\. Saknas beslut om adekvat skyddsnivå, får unionsrätten eller medlemsstaternas nationella rätt med hänsyn till viktiga allmänintressen uttryckligen fastställa gränser för överföringen av specifika kategorier av personuppgifter till ett tredjeland eller en internationell organisation. Medlemsstaterna ska underrätta kommissionen om sådana bestämmelser.
+
+6\. Den personuppgiftsansvarige eller personuppgiftsbiträdet ska bevara uppgifter både om bedömningen och om de lämpliga skyddsåtgärder som avses i punkt 1 andra stycket i [den här artikeln](#artikel-49-undantag-i-särskilda-situationer) i det register som avses i artikel [30](/lagstiftning/gdpr/kap-4#artikel-30-register-över-behandling).
+
+### Artikel 50 – Internationellt samarbete för skydd av personuppgifter
+
+När det gäller tredjeländer och internationella organisationer ska kommissionen och tillsynsmyndigheterna vidta lämpliga åtgärder för att
+
+a) utveckla rutiner för det internationella samarbetet för att underlätta en effektiv tillämpning av lagstiftningen om skydd av personuppgifter,
+
+b) på internationell nivå erbjuda ömsesidigt bistånd för en effektiv tillämpning av lagstiftningen om skydd av personuppgifter, bland annat genom underrättelse, hänskjutande av klagomål, bistånd vid utredningar samt informationsutbyte, med iakttagande av lämpliga skyddsåtgärder för personuppgifter samt skyddet av andra grundläggande rättigheter och friheter,
+
+c) involvera berörda aktörer i diskussioner och åtgärder som syftar till att öka det internationella samarbetet när det gäller tillämpningen av lagstiftningen om skydd av personuppgifter,
+
+d) främja utbyte och dokumentation om lagstiftning och praxis för skydd av personuppgifter, inklusive avseende behörighetskonflikter med tredjeländer.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

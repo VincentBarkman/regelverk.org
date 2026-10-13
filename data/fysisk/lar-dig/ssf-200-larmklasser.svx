@@ -1,44 +1,27 @@
 ---
-title: SSF 200 och larmklasser
-description: Så klassas inbrotts- och larmanläggningar enligt SSF 200.
+title: SSF 130 och larmklasser
+description: Larmklasser enligt SSF 130 och skillnaden mot SSF 200.
 jurisdiction: Sverige
 status: active
 issuer: regelverk.org
 legalStatus: non-binding
 reviewStatus: granskad
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
+lastReviewed: '2026-10-13'
+sourceChecked: '2026-10-13'
 licenseClass: AGPL-3.0
 ---
 
-SSF 200 delar in inbrottslarm i larmklasser beroende på **motståndskraft** mot manipulation och *saboteurs* med olika kunskap.
+[SSF 130](/standarder/ssf-130) behandlar projektering och installation av inbrotts- och överfallslarm i **larmklass 1–4**. Kraven på utformning och installation beror på vilken larmklass kravställaren eller försäkringsbolaget anger.
 
 ## Larmklasser
 
-- Larmklass 1 för låg risk och enkla installationer
-- Larmklass 2 för normal risk
-- Larmklass 3 för högre risk och skyddsvärda objekt
-- Larmklass 4 för mycket hög risk
+- Larmklass 1 används när grundläggande larmövervakning krävs.
+- Larmklass 2 omfattar skalskydd kompletterat med invändigt volymskydd.
+- Larmklass 3 ställer högre krav på övervakning och sabotageskydd.
+- Larmklass 4 omfattar övervakning även av utrymmen som kan undantas i lägre klasser.
 
-## Praktiska konsekvenser
+## Skillnaden mot SSF 200
 
-1. Klassen styr krav på komponenter och installation
-2. Överföring av larm sätts i relation till klassen
-3. Försäkringar knyter ofta villkor till larmklass
+[SSF 200](/standarder/ssf-200) gäller **mekaniskt inbrottsskydd av byggnader och lokaler**, indelat i skyddsklass 1–3. Den normen omfattar inte projektering eller installation av larmanläggningar. Skyddsklass och larmklass är två skilda krav som kan förekomma tillsammans.
 
-### Samband med standarder
-
-> EN 50131 används tillsammans med SSF 200 för att klassa hela larmanläggningen.
-
-| Klass | Typisk miljö |
-| ----- | ------------ |
-| 2 | Butik, kontor |
-| 3 | Skyddsobjekt, värdedepå |
-
-```sh
-sök "SSF 200" --scope fysisk
-```
-
----
-
-Exemplet visar typografin för rubriker, listor, tabeller och kod.
+Utgå alltid från den aktuella normen och de villkor som gäller för det specifika objektet.

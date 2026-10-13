@@ -1,0 +1,25 @@
+---
+title: IEC 62443-3-2
+description: Säkerhetsriskbedömning vid systemdesign med zoner och kanaler.
+designation: IEC 62443-3-2:2020
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+url: https://webstore.iec.ch/en/publication/30727
+published: 2020-06-24
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Del 3-2 beskriver metoden för att dela in ett IACS-system i zoner och kanaler, utföra riskbedömning och fastställa målsäkerhetsnivåer (SL-T). Det är utgångspunkten för att välja krav ur del 3-3.
+
+Officiell källa: [IEC 62443-3-2:2020](https://webstore.iec.ch/en/publication/30727).
+<!-- scan-standards:end -->

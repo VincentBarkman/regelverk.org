@@ -1,3 +1,106 @@
-# Registry of regulation sources across all sites.
-# <id>: { title: {sv,en}, authority: <authority-id>, sites: [scope,...], url: ... }
-sources: {}
+sources:
+  svensk-forfattningssamling:
+    title:
+      sv: Svensk författningssamling (SFS)
+      en: Swedish Code of Statutes (SFS)
+    authority: regeringskansliet
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/
+  sfs-original:
+    title:
+      sv: SFS originaltext
+      en: SFS original text
+    authority: regeringskansliet
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://svenskforfattningssamling.se/
+  rkrattsbaser:
+    title:
+      sv: Regeringskansliets rättsdatabaser
+      en: Swedish Government Offices legal databases
+    authority: regeringskansliet
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://rkrattsbaser.gov.se/
+  eur-lex:
+    title:
+      sv: EUR-Lex
+      en: EUR-Lex
+    authority: eu
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://eur-lex.europa.eu/
+  eut:
+    title:
+      sv: Europeiska unionens officiella tidning (EUT)
+      en: Official Journal of the European Union (OJ)
+    authority: eu
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://eur-lex.europa.eu/oj/direct-access.html
+  curia:
+    title:
+      sv: EU-domstolen (CURIA)
+      en: Court of Justice of the EU (CURIA)
+    authority: eu
+    sites: [regelverk, ot, it, fysisk, brandskydd, el, arbetsmiljo]
+    url: https://curia.europa.eu/
+  iec-catalog:
+    title:
+      sv: IEC:s standardkatalog
+      en: IEC standards catalogue
+    authority: iec
+    sites: [regelverk, ot, it, el]
+    url: https://webstore.iec.ch/en/
+  isa-standards:
+    title:
+      sv: ISA:s standardkatalog
+      en: ISA standards catalogue
+    authority: isa
+    sites: [regelverk, ot]
+    url: https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
+  sis-catalog:
+    title:
+      sv: SIS standardkatalog
+      en: SIS standards catalogue
+    authority: sis
+    sites: [regelverk, arbetsmiljo, brandskydd]
+    url: https://www.sis.se/
+  ssf-normer:
+    title:
+      sv: SSF:s normkatalog
+      en: SSF standards catalogue
+    authority: ssf
+    sites: [regelverk, fysisk]
+    url: https://www.stoldskyddsforeningen.se/
+  nist-oscal:
+    title:
+      sv: NIST SP 800-53 OSCAL-katalog
+      en: NIST SP 800-53 OSCAL catalogue
+    authority: nist
+    sites: [regelverk, it, ot, fysisk]
+    url: https://github.com/usnistgov/oscal-content/tree/main/nist.gov/SP800-53/rev5
+  owasp-asvs:
+    title:
+      sv: OWASP Application Security Verification Standard
+      en: OWASP Application Security Verification Standard
+    authority: owasp
+    sites: [regelverk, it]
+    url: https://github.com/OWASP/ASVS/releases/tag/v5.0.0_release
+  av-foreskrifter:
+    title:
+      sv: Arbetsmiljöverkets föreskrifter (AFS)
+      en: Swedish Work Environment Authority regulations (AFS)
+    authority: arbetsmiljoverket
+    sites: [regelverk, arbetsmiljo]
+    url: https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/
+  elsak-fs:
+    title:
+      sv: Elsäkerhetsverkets föreskrifter (ELSÄK-FS)
+      en: National Electrical Safety Board regulations (ELSÄK-FS)
+    authority: elsakerhetsverket
+    sites: [regelverk, el]
+    url: https://www.elsakerhetsverket.se/om-oss/lag-och-ratt/foreskrifter-i-nummerordning/
+  msbfs:
+    title:
+      sv: MSB:s föreskrifter (MSBFS)
+      en: Swedish Civil Contingencies Agency regulations (MSBFS)
+    authority: msb
+    sites: [regelverk, brandskydd, it, ot]
+    url: https://www.msb.se/sv/regler/gallande-regler/

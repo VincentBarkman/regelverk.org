@@ -1,0 +1,37 @@
+---
+'name': 'CRA-förordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2024/2847'
+'type': 'eu-regulation'
+'description': 'EU-förordning om cybersäkerhetskrav för produkter med digitala komponenter.'
+'designation': 'EU 2024/2847'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2024-10-23'
+'applies-from': '2027-12-11'
+'related':
+  - 'nis2'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/cra/kap-1) · Artiklarna 1–12
+- [Kapitel II – EKONOMISKA AKTÖRERS SKYLDIGHETER OCH BESTÄMMELSER OM PROGRAMVARA MED FRI OCH ÖPPEN KÄLLKOD](/lagstiftning/cra/kap-2) · Artiklarna 13–26
+- [Kapitel III – ÖVERENSSTÄMMELSE FÖR PRODUKTEN MED DIGITALA ELEMENT](/lagstiftning/cra/kap-3) · Artiklarna 27–34
+- [Kapitel IV – ANMÄLAN AV ORGAN FÖR BEDÖMNING AV ÖVERENSSTÄMMELSE](/lagstiftning/cra/kap-4) · Artiklarna 35–51
+- [Kapitel V – MARKNADSKONTROLL OCH VERKSTÄLLIGHET](/lagstiftning/cra/kap-5) · Artiklarna 52–60
+- [Kapitel VI – DELEGERADE BEFOGENHETER OCH KOMMITTÉFÖRFARANDE](/lagstiftning/cra/kap-6) · Artiklarna 61–62
+- [Kapitel VII – KONFIDENTIALITET OCH SANKTIONER](/lagstiftning/cra/kap-7) · Artiklarna 63–65
+- [Kapitel VIII – ÖVERGÅNGS- OCH SLUTBESTÄMMELSER](/lagstiftning/cra/kap-8) · Artiklarna 66–71
+<!-- scan-laws:end -->

@@ -1,0 +1,24 @@
+---
+title: NIST SP 800-82
+description: Guide to operational technology (OT) security for industrial control systems.
+designation: NIST SP 800-82 Rev. 3
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/82/r3/final
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+NIST SP 800-82 explains how industrial control systems differ from conventional IT systems and how security programs adapt to environments where availability and human safety are paramount. The publication is free to download from NIST but has no machine-readable control catalogue; complement it with NIST SP 800-53 and IEC 62443.
+
+Official source: [NIST SP 800-82 Rev. 3](https://csrc.nist.gov/pubs/sp/800/82/r3/final).
+<!-- scan-standards:end -->

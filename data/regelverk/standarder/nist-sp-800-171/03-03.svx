@@ -1,0 +1,80 @@
+---
+title: 03.03 – Audit and Accountability
+description: NIST SP 800-171 Rev. 3 – 03.03 – Audit and Accountability
+source: nist-sp-800-171
+ref: 03-03
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### 03.03.01 – Event Logging
+
+- SR-03.03.01.a Specify the following event types selected for logging within the system: [organization-defined event types].
+- SR-03.03.01.b Review and update the event types selected for logging [organization-defined frequency].
+
+### 03.03.02 – Audit Record Content
+
+- SR-03.03.02.a Include the following content in audit records:
+  - SR-03.03.02.a.01 What type of event occurred
+  - SR-03.03.02.a.02 When the event occurred
+  - SR-03.03.02.a.03 Where the event occurred
+  - SR-03.03.02.a.04 Source of the event
+  - SR-03.03.02.a.05 Outcome of the event
+  - SR-03.03.02.a.06 Identity of the individuals, subjects, objects, or entities associated with the event
+- SR-03.03.02.b Provide additional information for audit records as needed.
+
+### 03.03.03 – Audit Record Generation
+
+- SR-03.03.03.a Generate audit records for the selected event types and audit record content specified in 03.03.01 and 03.03.02.
+- SR-03.03.03.b Retain audit records for a time period consistent with the records retention policy.
+
+### 03.03.04 – Response to Audit Logging Process Failures
+
+- SR-03.03.04.a Alert organizational personnel or roles within [organization-defined time period] in the event of an audit logging process failure.
+- SR-03.03.04.b Take the following additional actions: [organization-defined additional actions].
+
+### 03.03.05 – Audit Record Review, Analysis, and Reporting
+
+- SR-03.03.05.a Review and analyze system audit records [organization-defined frequency] for indications and the potential impact of inappropriate or unusual activity.
+- SR-03.03.05.b Report findings to organizational personnel or roles.
+- SR-03.03.05.c Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
+
+### 03.03.06 – Audit Record Reduction and Report Generation
+
+- SR-03.03.06.a Implement an audit record reduction and report generation capability that supports audit record review, analysis, reporting requirements, and after-the-fact investigations of incidents.
+- SR-03.03.06.b Preserve the original content and time ordering of audit records.
+
+### 03.03.07 – Time Stamps
+
+- SR-03.03.07.a Use internal system clocks to generate time stamps for audit records.
+- SR-03.03.07.b Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time (UTC), have a fixed local time offset from UTC, or include the local time offset as part of the time stamp.
+
+### 03.03.08 – Protection of Audit Information
+
+- SR-03.03.08.a Protect audit information and audit logging tools from unauthorized access, modification, and deletion.
+- SR-03.03.08.b Authorize access to management of audit logging functionality to only a subset of privileged users or roles.
+
+### SP_800_171_03.03.09 – 03.03.09
+
+
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

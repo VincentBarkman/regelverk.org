@@ -1,0 +1,226 @@
+---
+title: RS – RESPOND
+description: NIST CSF 2.0 – RS – RESPOND
+source: nist-csf-2
+ref: RS
+designation: NIST CSF 2.0
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.nist.gov/cyberframework
+version: 1.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### RS.AN – Incident Analysis
+
+Investigations are conducted to ensure effective response and support forensics and recovery activities
+
+#### RS.AN-01
+
+Notifications from detection systems are investigated
+
+#### RS.AN-02
+
+The impact of the incident is understood
+
+#### RS.AN-03
+
+Analysis is performed to establish what has taken place during an incident and the root cause of the incident
+
+_Examples:_
+
+-  Determine the sequence of events that occurred during the incident and which assets and resources were involved in each event
+-  Attempt to determine what vulnerabilities, threats, and threat actors were directly or indirectly involved in the incident
+-  Analyze the incident to find the underlying, systemic root causes
+-  Check any cyber deception technology for additional information on attacker behavior
+
+#### RS.AN-04
+
+Incidents are categorized consistent with response plans
+
+#### RS.AN-05
+
+Processes are established to receive, analyze and respond to vulnerabilities disclosed to the organization from internal and external sources (e.g. internal testing, security bulletins, or security researchers)
+
+#### RS.AN-06
+
+Actions performed during an investigation are recorded, and the records' integrity and provenance are preserved
+
+_Examples:_
+
+-  Require each incident responder and others (e.g., system administrators, cybersecurity engineers) who perform incident response tasks to record their actions and make the record immutable
+-  Require the incident lead to document the incident in detail and be responsible for preserving the integrity of the documentation and the sources of all information being reported
+
+#### RS.AN-07
+
+Incident data and metadata are collected, and their integrity and provenance are preserved
+
+_Examples:_
+
+-  Collect, preserve, and safeguard the integrity of all pertinent incident data and metadata (e.g., data source, date/time of collection) based on evidence preservation and chain-of-custody procedures
+
+#### RS.AN-08
+
+An incident's magnitude is estimated and validated
+
+_Examples:_
+
+-  Review other potential targets of the incident to search for indicators of compromise and evidence of persistence
+-  Automatically run tools on targets to look for indicators of compromise and evidence of persistence
+
+### RS.CO – Incident Response Reporting and Communication
+
+Response activities are coordinated with internal and external stakeholders as required by laws, regulations, or policies
+
+#### RS.CO-01
+
+Personnel know their roles and order of operations when a response is needed
+
+#### RS.CO-02
+
+Internal and external stakeholders are notified of incidents
+
+_Examples:_
+
+-  Follow the organization's breach notification procedures after discovering a data breach incident, including notifying affected customers
+-  Notify business partners and customers of incidents in accordance with contractual requirements
+-  Notify law enforcement agencies and regulatory bodies of incidents based on criteria in the incident response plan and management approval
+
+#### RS.CO-03
+
+Information is shared with designated internal and external stakeholders
+
+_Examples:_
+
+-  Securely share information consistent with response plans and information sharing agreements
+-  Voluntarily share information about an attacker's observed TTPs, with all sensitive data removed, with an Information Sharing and Analysis Center (ISAC)
+-  Notify HR when malicious insider activity occurs
+-  Regularly update senior leadership on the status of major incidents
+-  Follow the rules and protocols defined in contracts for incident information sharing between the organization and its suppliers
+-  Coordinate crisis communication methods between the organization and its critical suppliers
+
+#### RS.CO-04
+
+Coordination with stakeholders occurs consistent with response plans
+
+#### RS.CO-05
+
+Voluntary information sharing occurs with external stakeholders to achieve broader cybersecurity situational awareness
+
+### RS.IM – Improvements
+
+
+
+#### RS.IM-01
+
+Response plans incorporate lessons learned
+
+#### RS.IM-02
+
+Response strategies are updated
+
+### RS.MA – Incident Management
+
+Responses to detected cybersecurity incidents are managed
+
+#### RS.MA-01
+
+The incident response plan is executed in coordination with relevant third parties once an incident is declared
+
+_Examples:_
+
+-  Detection technologies automatically report confirmed incidents
+-  Request incident response assistance from the organization's incident response outsourcer
+-  Designate an incident lead for each incident
+-  Initiate execution of additional cybersecurity plans as needed to support incident response (for example, business continuity and disaster recovery)
+
+#### RS.MA-02
+
+Incident reports are triaged and validated
+
+_Examples:_
+
+-  Preliminarily review incident reports to confirm that they are cybersecurity-related and necessitate incident response activities
+-  Apply criteria to estimate the severity of an incident
+
+#### RS.MA-03
+
+Incidents are categorized and prioritized
+
+_Examples:_
+
+-  Further review and categorize incidents based on the type of incident (e.g., data breach, ransomware, DDoS, account compromise)
+-  Prioritize incidents based on their scope, likely impact, and time-critical nature
+-  Select incident response strategies for active incidents by balancing the need to quickly recover from an incident with the need to observe the attacker or conduct a more thorough investigation
+
+#### RS.MA-04
+
+Incidents are escalated or elevated as needed
+
+_Examples:_
+
+-  Track and validate the status of all ongoing incidents
+-  Coordinate incident escalation or elevation with designated internal and external stakeholders
+
+#### RS.MA-05
+
+The criteria for initiating incident recovery are applied
+
+_Examples:_
+
+-  Apply incident recovery criteria to known and assumed characteristics of the incident to determine whether incident recovery processes should be initiated
+-  Take the possible operational disruption of incident recovery activities into account
+
+### RS.MI – Incident Mitigation
+
+Activities are performed to prevent expansion of an event and mitigate its effects
+
+#### RS.MI-01
+
+Incidents are contained
+
+_Examples:_
+
+-  Cybersecurity technologies (e.g., antivirus software) and cybersecurity features of other technologies (e.g., operating systems, network infrastructure devices) automatically perform containment actions
+-  Allow incident responders to manually select and perform containment actions
+-  Allow a third party (e.g., internet service provider, managed security service provider) to perform containment actions on behalf of the organization
+-  Automatically transfer compromised endpoints to a remediation virtual local area network (VLAN)
+
+#### RS.MI-02
+
+Incidents are eradicated
+
+_Examples:_
+
+-  Cybersecurity technologies and cybersecurity features of other technologies (e.g., operating systems, network infrastructure devices) automatically perform eradication actions
+-  Allow incident responders to manually select and perform eradication actions
+-  Allow a third party (e.g., managed security service provider) to perform eradication actions on behalf of the organization
+
+#### RS.MI-03
+
+Newly identified vulnerabilities are mitigated or documented as accepted risks
+
+### RS.RP – Response Planning
+
+
+
+#### RS.RP-01
+
+Response plan is executed during or after an incident
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/CSF/v2.0/json/NIST_CSF_v2.0_catalog.json).
+<!-- scan-standards:end -->

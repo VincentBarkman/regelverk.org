@@ -1,0 +1,44 @@
+---
+title: 03.16 – System and Services Acquisition
+description: NIST SP 800-171 Rev. 3 – 03.16 – System and Services Acquisition
+source: nist-sp-800-171
+ref: 03-16
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### 03.16.01 – Security Engineering Principles
+
+Apply the following systems security engineering principles to the development or modification of the system and system components: [organization-defined systems security engineering principles].
+
+### 03.16.02 – Unsupported System Components
+
+- SR-03.16.02.a Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer.
+- SR-03.16.02.b Provide options for risk mitigation or alternative sources for continued support for unsupported components that cannot be replaced.
+
+### 03.16.03 – External System Services
+
+- SR-03.16.03.a Require the providers of external system services used for the processing, storage, or transmission of CUI to comply with the following security requirements: [organization-defined security requirements].
+- SR-03.16.03.b Define and document user roles and responsibilities with regard to external system services, including shared responsibilities with external service providers.
+- SR-03.16.03.c Implement processes, methods, and techniques to monitor security requirement compliance by external service providers on an ongoing basis.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

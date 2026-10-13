@@ -1,0 +1,30 @@
+---
+title: IEC 62443-4-1
+description: Secure product development lifecycle requirements for IACS components.
+designation: IEC 62443-4-1:2018
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+  - it
+url: https://webstore.iec.ch/en/publication/33615
+published: 2018-01-15
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Part 4-1 sets process requirements for manufacturers' secure development lifecycle of industrial control system products, from requirements definition to vulnerability management and product end-of-life.
+
+Official source: [IEC 62443-4-1:2018](https://webstore.iec.ch/en/publication/33615).
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+<!-- scan-standards:end -->

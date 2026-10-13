@@ -18,6 +18,7 @@
 	import * as m from '#lib/paraglide/messages.js';
 	import * as Table from '#lib/components/ui/table/index.js';
 	import RecordLink from '#lib/components/recordLink.svelte';
+	import RefPreview from '#lib/components/refPreview.svelte';
 	import type { PageProps } from './$types';
 
 	let { data }: PageProps = $props();
@@ -237,6 +238,7 @@
 		{/if}
 
 		{#if data.record}
+			<RefPreview />
 			<article bind:this={articleEl} class={ARTICLE_PROSE}>
 				{#if data.ref}
 					<BreadCrumbs

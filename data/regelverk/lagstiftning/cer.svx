@@ -1,0 +1,38 @@
+---
+'name': 'CER-direktivet'
+'title': 'Europaparlamentets och rådets direktiv (EU) 2022/2557'
+'type': 'eu-directive'
+'description': 'EU-direktiv om kritiska enheters motståndskraft.'
+'designation': 'EU 2022/2557'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2022-12-14'
+'applies-from': '2024-10-18'
+'related':
+  - 'nis2'
+'sites':
+  - 'ot'
+  - 'fysisk'
+  - 'it'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2557'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/cer/kap-1) · Artiklarna 1–3
+- [Kapitel II – NATIONELLA RAMAR FÖR KRITISKA ENTITETERS MOTSTÅNDSKRAFT](/lagstiftning/cer/kap-2) · Artiklarna 4–11
+- [Kapitel III – KRITISKA ENTITETERS MOTSTÅNDSKRAFT](/lagstiftning/cer/kap-3) · Artiklarna 12–16
+- [Kapitel IV – KRITISKA ENTITETER AV SÄRSKILD EUROPEISK BETYDELSE](/lagstiftning/cer/kap-4) · Artiklarna 17–18
+- [Kapitel V – SAMARBETE OCH RAPPORTERING](/lagstiftning/cer/kap-5) · Artiklarna 19–20
+- [Kapitel VI – TILLSYN OCH EFTERLEVNADSKONTROLL](/lagstiftning/cer/kap-6) · Artiklarna 21–22
+- [Kapitel VII – DELEGERADE AKTER OCH GENOMFÖRANDEAKTER](/lagstiftning/cer/kap-7) · Artiklarna 23–24
+- [Kapitel VIII – SLUTBESTÄMMELSER](/lagstiftning/cer/kap-8) · Artiklarna 25–29
+<!-- scan-laws:end -->

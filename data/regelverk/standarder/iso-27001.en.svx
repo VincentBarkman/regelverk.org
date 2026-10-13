@@ -7,14 +7,17 @@ status: in-force
 reviewStatus: verified
 issuer: ISO
 legalStatus: non-binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+lastReviewed: 2026-10-01
+sourceChecked: 2026-10-13
+licenseClass: public-info
 type: standard
 sites:
   - it
   - ot
-related: [isms]
+related:
+  - isms
+url: https://webstore.iec.ch/en/publication/79694
+published: 2022-10-25
 ---
 
 ## About the standard
@@ -31,3 +34,9 @@ ISO/IEC 27001 is the international standard for establishing, implementing, main
 ## Certification
 
 Organisations can be certified against the standard by accredited certification bodies. Certification is voluntary but is often used to demonstrate that requirements in e.g. NIS2 are handled systematically.
+
+## Related legal acts
+
+- [NIS2 Directive](/lagstiftning/nis2)
+- [Cybersecurity Act](/lagstiftning/cybersakerhetslagen)
+- [GDPR](/lagstiftning/gdpr)

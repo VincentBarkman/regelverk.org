@@ -1,0 +1,74 @@
+---
+'source': 'gdpr'
+'ref': 'Kapitel IX'
+'title': 'Kapitel IX – Bestämmelser om särskilda behandlingssituationer'
+'kind': 'chapter'
+'description': 'Dataskyddsförordningen (GDPR), Kapitel IX.'
+'designation': 'GDPR Kapitel IX'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32016R0679#cpt_IX'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 85 – Behandling och yttrande- och informationsfriheten
+
+1\. Medlemsstaterna ska i lag förena rätten till integritet i enlighet med [denna förordning](/lagstiftning/gdpr) med yttrande- och informationsfriheten, inbegripet behandling som sker för journalistiska ändamål eller för akademiskt, konstnärligt eller litterärt skapande.
+
+2\. Medlemsstaterna ska, för behandling som sker för journalistiska ändamål eller för akademiskt, konstnärligt eller litterärt skapande, fastställa undantag eller avvikelser från [kapitel II](/lagstiftning/gdpr/kap-2) (principer), [kapitel III](/lagstiftning/gdpr/kap-3) (den registrerades rättigheter), [kapitel IV](/lagstiftning/gdpr/kap-4) (personuppgiftsansvarig och personuppgiftsbiträde), [kapitel V](/lagstiftning/gdpr/kap-5) (överföring av personuppgifter till tredjeländer eller internationella organisationer), [kapitel VI](/lagstiftning/gdpr/kap-6) (oberoende tillsynsmyndigheter), [kapitel VII](/lagstiftning/gdpr/kap-7) (samarbete och enhetlighet) och [kapitel IX](/lagstiftning/gdpr/kap-9) (särskilda situationer vid behandling av personuppgifter) om dessa är nödvändiga för att förena rätten till integritet med yttrande- och informationsfriheten.
+
+3\. Varje medlemsstat ska till kommissionen anmäla de bestämmelser i sin lagstiftning som den antagit i enlighet med punkt 2, samt utan dröjsmål anmäla eventuell senare ändringslagstiftning eller ändringar som berör dem.
+
+### Artikel 86 – Behandling och allmänhetens tillgång till allmänna handlingar
+
+Personuppgifter i allmänna handlingar som förvaras av en myndighet eller ett offentligt organ eller ett privat organ för utförande av en uppgift av allmänt intresse får lämnas ut av myndigheten eller organet i enlighet med den unionsrätt eller den medlemsstats nationella rätt som myndigheten eller det offentliga organet omfattas av, för att jämka samman allmänhetens rätt att få tillgång till allmänna handlingar med rätten till skydd av personuppgifter i enlighet med [denna förordning](/lagstiftning/gdpr).
+
+### Artikel 87 – Behandling av nationella identifikationsnummer
+
+Medlemsstaterna får närmare bestämma på vilka särskilda villkor ett nationellt identifikationsnummer eller något annat vedertaget sätt för identifiering får behandlas. Ett nationellt identifikationsnummer eller ett annat vedertaget sätt för identifiering ska i sådana fall endast användas med iakttagande av lämpliga skyddsåtgärder för de registrerades rättigheter och friheter enligt [denna förordning](/lagstiftning/gdpr).
+
+### Artikel 88 – Behandling i anställningsförhållanden
+
+1\. Medlemsstaterna får i lag eller i kollektivavtal fastställa mer specifika regler för att säkerställa skyddet av rättigheter och friheter vid behandling av anställdas personuppgifter i anställningsförhållanden, särskilt när det gäller rekrytering, genomförande av anställningsavtalet inklusive befrielse från i lag eller kollektivavtal stadgade skyldigheter, ledning, planering och organisering av arbetet, jämställdhet och mångfald i arbetslivet, hälsa och säkerhet på arbetsplatsen samt skydd av arbetsgivarens eller kundens egendom men också när det gäller att såväl kollektivt som individuellt utöva och komma i åtnjutande av rättigheter och förmåner som är knutna till anställningen samt att avsluta anställningsförhållandet.
+
+2\. Dessa regler ska innehålla lämpliga och specifika åtgärder för att skydda den registrerades mänskliga värdighet, berättigade intressen och grundläggande rättigheter, varvid hänsyn särskilt ska tas till insyn i behandlingen, överföring av personuppgifter inom en koncern eller en grupp av företag som deltar i gemensam ekonomisk verksamhet samt övervakningssystem på arbetsplatsen.
+
+3\. Varje medlemsstat ska till kommissionen anmäla de bestämmelser i sin lagstiftning som den antar i enlighet med punkt 1 senast den 25 maj 2018, samt utan dröjsmål anmäla eventuella senare ändringar som berör dem.
+
+### Artikel 89 – Skyddsåtgärder och undantag för behandling för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål
+
+1\. Behandling för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål ska omfattas av lämpliga skyddsåtgärder i enlighet med [denna förordning](/lagstiftning/gdpr) för den registrerades rättigheter och friheter. Skyddsåtgärderna ska säkerställa att tekniska och organisatoriska åtgärder har införts för att se till att särskilt principen om uppgiftsminimering iakttas. Dessa åtgärder får inbegripa pseudonymisering, under förutsättning att dessa ändamål kan uppfyllas på det sättet. När dessa ändamål kan uppfyllas genom vidare behandling av uppgifter som inte medger eller inte längre medger identifiering av de registrerade ska dessa ändamål uppfyllas på det sättet.
+
+2\. Om personuppgifter behandlas för vetenskapliga eller historiska forskningsändamål eller statistiska ändamål får det i unionsrätten eller i medlemsstaternas nationella rätt föreskrivas undantag från de rättigheter som avses i artiklarna [15](/lagstiftning/gdpr/kap-3#artikel-15-den-registrerades-rätt-till-tillgång), [16](/lagstiftning/gdpr/kap-3#artikel-16-rätt-till-rättelse), [18](/lagstiftning/gdpr/kap-3#artikel-18-rätt-till-begränsning-av-behandling) och [21](/lagstiftning/gdpr/kap-3#artikel-21-rätt-att-göra-invändningar) med förbehåll för de villkor och skyddsåtgärder som avses i punkt 1 i [den här artikeln](#artikel-89-skyddsåtgärder-och-undantag-för-behandling-för-arkivändamål-av-allmänt-intresse-vetenskapliga-eller-historiska-forskningsändamål-eller-statistiska-ändamål) i den utsträckning som sådana rättigheter sannolikt kommer att göra det omöjligt eller mycket svårare att uppfylla de särskilda ändamålen, och sådana undantag krävs för att uppnå dessa ändamål.
+
+3\. Om personuppgifter behandlas för arkivändamål av allmänt intresse får det i unionsrätten eller i medlemsstaternas nationella rätt föreskrivas om undantag från de rättigheter som avses i artiklarna [15](/lagstiftning/gdpr/kap-3#artikel-15-den-registrerades-rätt-till-tillgång), [16](/lagstiftning/gdpr/kap-3#artikel-16-rätt-till-rättelse), [18](/lagstiftning/gdpr/kap-3#artikel-18-rätt-till-begränsning-av-behandling), [19](/lagstiftning/gdpr/kap-3#artikel-19-anmälningsskyldighet-avseende-rättelse-eller-radering-av-personuppgifter-och-begränsning-av-behandling), [20](/lagstiftning/gdpr/kap-3#artikel-20-rätt-till-dataportabilitet) och [21](/lagstiftning/gdpr/kap-3#artikel-21-rätt-att-göra-invändningar) med förbehåll för de villkor och skyddsåtgärder som avses i punkt 1 i [den här artikeln](#artikel-89-skyddsåtgärder-och-undantag-för-behandling-för-arkivändamål-av-allmänt-intresse-vetenskapliga-eller-historiska-forskningsändamål-eller-statistiska-ändamål) i den utsträckning som sådana rättigheter sannolikt kommer att göra det omöjligt eller mycket svårare att uppfylla de särskilda ändamålen, och sådana undantag krävs för att uppnå dessa ändamål.
+
+4\. Om behandling enligt punkterna 2 och 3 samtidigt har andra ändamål, ska undantagen endast tillämpas på behandling för de ändamål som avses i dessa punkter.
+
+### Artikel 90 – Tystnadsplikt
+
+1\. Medlemsstaterna får anta särskilda bestämmelser för att fastställa tillsynsmyndigheternas befogenheter enligt artikel [58.1 e](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) och f gentemot personuppgiftsansvariga eller personuppgiftsbiträden som enligt unionsrätten eller medlemsstaternas nationella rätt eller bestämmelser som fastställts av behöriga nationella organ omfattas av tystnadsplikt eller andra motsvarande former av förbud mot att lämna ut uppgifter, om det är nödvändigt och står i proportion till vad som behövs för att förena rätten till skydd för personuppgifter och tystnadsplikten. Dessa bestämmelser ska endast tillämpas med avseende på personuppgifter som den personuppgiftsansvarige eller personuppgiftsbiträdet har erhållit i samband med en verksamhet som omfattas av denna tystnadsplikt.
+
+2\. Varje medlemsstat ska till kommissionen anmäla de bestämmelser den har antagit i enlighet med punkt 1 senast den 25 maj 2018, samt utan dröjsmål anmäla eventuella ändringar som berör dem.
+
+### Artikel 91 – Befintliga bestämmelser om dataskydd inom kyrkor och religiösa samfund
+
+> _1\. Om kyrkor och religiösa samfund eller gemenskaper i en medlemsstat vid tidpunkten för ikraftträdandet av [denna förordning](/lagstiftning/gdpr) tillämpar övergripande bestämmelser om skyddet av fysiska personer i samband med behandling, får sådana befintliga bestämmelser fortsätta att tillämpas under förutsättning att de görs förenliga med [denna förordning](/lagstiftning/gdpr)._
+
+2\. Kyrkor och religiösa samfund som tillämpar övergripande bestämmelser i enlighet med punkt 1 i [denna artikel](#artikel-91-befintliga-bestämmelser-om-dataskydd-inom-kyrkor-och-religiösa-samfund) ska vara föremål för kontroll av en oberoende tillsynsmyndighet som kan vara specifik, förutsatt att den uppfyller de villkor som fastställs i [kapitel VI](/lagstiftning/gdpr/kap-6) i [denna förordning](/lagstiftning/gdpr).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

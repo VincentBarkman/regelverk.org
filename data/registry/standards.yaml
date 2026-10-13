@@ -1,0 +1,488 @@
+standards:
+  - slug: iso-27001
+    designation: ISO/IEC 27001:2022
+    publisher: IEC
+    issuer: ISO
+    url: https://webstore.iec.ch/en/publication/79694
+    sites: [it, ot]
+    relatedLaws: [nis2, cybersakerhetslagen, gdpr]
+    title:
+      sv: ISO/IEC 27001
+      en: ISO/IEC 27001
+    description:
+      sv: Standard för ledningssystem för informationssäkerhet.
+      en: Standard for information security management systems.
+  - slug: iec-62443
+    designation: ISA/IEC 62443
+    publisher: ISA
+    issuer: IEC
+    url: https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
+    sites: [ot]
+    relatedLaws: [cra, nis2]
+    title:
+      sv: IEC 62443
+      en: IEC 62443
+    description:
+      sv: Standardserie för säkerhet i industriella automations- och styrsystem.
+      en: Standards series for security in industrial automation and control systems.
+  - slug: iec-62443-3-3
+    designation: IEC 62443-3-3:2013
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/7033
+    sites: [ot]
+    relatedLaws: [cra, nis2]
+    title:
+      sv: IEC 62443-3-3
+      en: IEC 62443-3-3
+    description:
+      sv: Del av IEC 62443-serien om säkerhetskrav och säkerhetsnivåer för industriella styrsystem.
+      en: IEC 62443 part on system security requirements and security levels.
+    overview:
+      sv: |
+        Del 3-3 beskriver tekniska säkerhetskrav för industriella automations- och styrsystem. Den används när en anläggningsägare och leverantör ska ange vilken säkerhetsnivå ett system behöver kunna uppnå.
+
+        Kraven är ordnade efter sju grundläggande säkerhetsområden, bland annat identifiering, åtkomstkontroll, systemintegritet och tillgänglighet. Säkerhetsnivåer måste väljas utifrån systemets riskbedömning; en katalogpost ersätter inte standardtexten.
+      en: |
+        Part 3-3 sets out technical security requirements for industrial automation and control systems. Asset owners and suppliers use it to specify the security capability a system needs.
+
+        The requirements are organized around seven foundational security areas, including identification, access control, system integrity, and availability. Security levels need to follow a system-specific risk assessment; the catalogue listing does not replace the standard.
+  - slug: iso-45001
+    designation: ISO 45001:2018
+    publisher: SIS
+    issuer: ISO
+    url: https://www.sis.se/en/produkter/environment-health-protection-safety/occupational-safety-industrial-hygiene/iso-450012018/
+    sites: [arbetsmiljo]
+    relatedLaws: [arbetsmiljolagen, afs-2023-1]
+    title:
+      sv: ISO 45001
+      en: ISO 45001
+    description:
+      sv: Standard för ledningssystem för arbetsmiljö.
+      en: Standard for occupational health and safety management systems.
+    overview:
+      sv: |
+        ISO 45001 beskriver hur en organisation kan bygga upp ett ledningssystem för att förebygga arbetsrelaterade skador och ohälsa. Den är tillämplig på verksamheter av olika storlek och inriktning.
+
+        Arbetet omfattar bland annat ledningens ansvar, arbetstagarnas medverkan, identifiering av faror, hantering av arbetsmiljörisker och uppföljning. En certifiering kan visa att ett ledningssystem har granskats, men ersätter inte arbetsmiljölagens krav.
+      en: |
+        ISO 45001 describes how an organization can establish a management system to prevent work-related injury and ill health. It applies to organizations of different sizes and activities.
+
+        The system covers leadership, worker participation, hazard identification, occupational health and safety risks, and performance review. Certification can demonstrate that the system has been audited, but does not replace applicable legal duties.
+  - slug: ss-en-54-1
+    designation: SS-EN 54-1:2021
+    publisher: SIS
+    url: https://www.sis.se/produkter/miljo-och-halsoskydd-sakerhet/skydd-mot-brand/brandskydd/ss-en-54-120212/
+    sites: [brandskydd]
+    relatedLaws: [lso]
+    title:
+      sv: SS-EN 54-1
+      en: SS-EN 54-1
+    description:
+      sv: Introduktion till standardserien för branddetekterings- och brandlarmsystem.
+      en: Introduction to the fire detection and fire alarm systems standards series.
+    overview:
+      sv: |
+        SS-EN 54-1 definierar begrepp som används i EN 54-serien och beskriver hur delstandarderna är uppbyggda. Den behandlar funktionerna hos komponenterna i branddetekterings- och brandlarmsystem.
+
+        Serien gäller sådana system i byggnader och anläggningar. Brandvarnare för bostäder omfattas i stället av andra standarder, bland annat EN 14604.
+      en: |
+        SS-EN 54-1 defines terminology used throughout the EN 54 series and explains the principles behind its parts. It describes the functions of components in fire detection and alarm systems.
+
+        The series concerns systems in buildings and civil engineering works. Domestic smoke alarms are covered by other standards, including EN 14604.
+  - slug: iec-60364-1
+    designation: IEC 60364-1:2025
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/63699
+    sites: [el]
+    relatedLaws: [elsakerhetslagen, elsak-fs-2022-1]
+    title:
+      sv: IEC 60364-1
+      en: IEC 60364-1
+    description:
+      sv: Grundläggande principer och säkerhetskrav för lågspänningsinstallationer.
+      en: Fundamental principles and safety requirements for low-voltage electrical installations.
+    overview:
+      sv: |
+        IEC 60364-1 anger grundläggande principer för säkra elektriska lågspänningsinstallationer och introducerar bedömningen av installationens allmänna förutsättningar. Del 1 ger ramen för de övriga delarna i serien.
+
+        Vid projektering behöver kraven i relevanta delstandarder och tillämpliga nationella regler läsas tillsammans. Utgåvan från 2025 ersätter den tidigare utgåvan från 2005.
+      en: |
+        IEC 60364-1 sets out fundamental safety principles for low-voltage electrical installations and introduces the assessment of general installation characteristics. Part 1 provides the framework for the rest of the series.
+
+        Design work also requires the relevant parts of the series and applicable national rules. The 2025 edition replaces the previous 2005 edition.
+  - slug: ssf-200
+    designation: SSF 200 utgåva 6
+    match: SSF 200
+    edition: 6
+    publisher: SSF
+    url: https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/skal-inbrottsskydd/ssf-200-utg-6-regler-for-inbrottsskydd-byggnader-och-lokaler/
+    sites: [fysisk]
+    title:
+      sv: SSF 200 – Regler för inbrottsskydd
+      en: SSF 200 – Rules for burglar resistance
+    description:
+      sv: Regler för mekaniskt inbrottsskydd av byggnader och lokaler, skyddsklass 1–3.
+      en: Rules for physical burglary protection of buildings and premises, protection classes 1–3.
+    overview:
+      sv: |
+        SSF 200 behandlar byggnaders och lokalers mekaniska skalskydd. Skyddsklass 1–3 används för att beskriva skyddsnivåer för exempelvis väggar, dörrar, fönster, lås och andra delar av omslutningsytan.
+
+        Normen omfattar inte projektering av inbrottslarm eller kamerabevakning. Sådana system behöver bedömas mot andra krav, exempelvis SSF 130 för inbrotts- och överfallslarm.
+      en: |
+        SSF 200 concerns the physical security of buildings and premises. Protection classes 1–3 describe the required level of protection for elements such as walls, doors, windows, locks, and other parts of the building envelope.
+
+        The standard does not cover the design of intruder alarms or surveillance systems. Those systems are assessed against other requirements, such as SSF 130 for intruder and hold-up alarms.
+  - slug: ssf-130
+    designation: SSF 130 utgåva 10
+    match: SSF 130
+    edition: 10
+    publisher: SSF
+    url: https://www.stoldskyddsforeningen.se/butik/foretag/ssf-normer/inbrottslarm/ssf-130-utg-10-projektering-och-installation-av-inbrotts-och-overfallslarmanlaggning/
+    sites: [fysisk]
+    title:
+      sv: SSF 130 – Inbrotts- och överfallslarm
+      en: SSF 130 – Intruder and hold-up alarms
+    description:
+      sv: Projektering och installation av inbrotts- och överfallslarm, larmklass 1–4.
+      en: Design and installation of intruder and hold-up alarms, alarm classes 1–4.
+    overview:
+      sv: |
+        SSF 130 ger regler för projektering, installation, provning och dokumentation av inbrotts- och överfallslarmanläggningar. Den skiljer mellan larmklass 1–4 beroende på anläggningens kravbild.
+
+        Larmklasserna gäller larmsystemet, inte det mekaniska skalskyddet. Det senare behandlas i SSF 200. Kravställare och försäkringsvillkor avgör ofta vilka klasser som ska användas i ett visst objekt.
+      en: |
+        SSF 130 provides rules for the design, installation, testing, and documentation of intruder and hold-up alarms. It distinguishes alarm classes 1–4 according to the system requirements.
+
+        Alarm classes apply to the alarm system, not the building's physical protection, which is addressed by SSF 200. Customers and insurance terms often determine the required classes for a particular site.
+  - slug: nist-sp-800-53
+    designation: NIST SP 800-53 Rev. 5
+    publisher: NIST
+    jurisdiction: USA
+    url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+    sites: [it, ot, fysisk]
+    relatedLaws: [nis2, cybersakerhetslagen, msbfs-2020-7]
+    title:
+      sv: NIST SP 800-53
+      en: NIST SP 800-53
+    description:
+      sv: Öppen kontrollkatalog för informationssäkerhet och integritet.
+      en: Open catalogue of security and privacy controls.
+    content:
+      format: nist-oscal
+      url: https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_catalog.json
+      license: CC0-1.0
+  - slug: owasp-asvs
+    designation: OWASP ASVS 5.0.0
+    publisher: OWASP
+    jurisdiction: Internationell
+    url: https://github.com/OWASP/ASVS/releases/tag/v5.0.0_release
+    sites: [it]
+    title:
+      sv: OWASP Application Security Verification Standard
+      en: OWASP Application Security Verification Standard
+    description:
+      sv: Öppen standard för verifierbara krav på applikationssäkerhet.
+      en: Open standard for verifiable application security requirements.
+    relatedLaws: [cra, nis2]
+    content:
+      format: owasp-asvs
+      url: https://raw.githubusercontent.com/OWASP/ASVS/v5.0.0/5.0/docs_en/OWASP_Application_Security_Verification_Standard_5.0.0_en.json
+      license: CC-BY-SA-4.0
+  - slug: owasp-masvs
+    designation: OWASP MASVS 2.1.0
+    publisher: OWASP
+    jurisdiction: Internationell
+    url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+    sites: [it]
+    title:
+      sv: OWASP Mobile Application Security Verification Standard
+      en: OWASP Mobile Application Security Verification Standard
+    description:
+      sv: Öppen standard för verifierbara krav på säkerhet i mobilapplikationer.
+      en: Open standard for verifiable mobile application security requirements.
+    relatedLaws: [cra, gdpr]
+    content:
+      format: owasp-masvs
+      url: https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml
+      license: CC-BY-SA-4.0
+  - slug: owasp-samm
+    designation: OWASP SAMM 2.2.0
+    publisher: OWASP
+    jurisdiction: Internationell
+    url: https://owaspsamm.org/
+    sites: [it]
+    title:
+      sv: OWASP Software Assurance Maturity Model
+      en: OWASP Software Assurance Maturity Model
+    description:
+      sv: Öppen mognadsmodell för säker mjukvaruutveckling med affärsfunktioner, säkerhetspraktiker och aktiviteter per mognadsnivå.
+      en: Open maturity model for secure software development with business functions, security practices and activities per maturity level.
+    relatedLaws: [cra, nis2]
+    content:
+      format: owasp-samm
+      url: https://github.com/owaspsamm/core/releases/download/v2.2.0/samm.tar.gz
+      license: CC-BY-SA-4.0
+  - slug: owasp-api-top10
+    designation: OWASP API Security Top 10 (2023)
+    publisher: OWASP
+    jurisdiction: Internationell
+    url: https://owasp.org/API-Security/
+    sites: [it]
+    title:
+      sv: OWASP API Security Top 10
+      en: OWASP API Security Top 10
+    description:
+      sv: Förteckning över de tio viktigaste säkerhetsriskerna för webb-API:er.
+      en: List of the ten most important security risks for web APIs.
+    relatedLaws: [gdpr, cra]
+    content:
+      format: owasp-api-top10
+      url: https://api.github.com/repos/OWASP/API-Security/contents/editions/2023/en
+      license: CC-BY-SA-4.0
+  - slug: nist-csf-2
+    designation: NIST CSF 2.0
+    publisher: NIST
+    jurisdiction: USA
+    url: https://www.nist.gov/cyberframework
+    sites: [it, ot]
+    title:
+      sv: NIST Cybersecurity Framework 2.0
+      en: NIST Cybersecurity Framework 2.0
+    description:
+      sv: Öppet ramverk för hantering av cybersäkerhetsrisker med funktionerna styrning, identifiering, skydd, detektering, respons och återhämtning.
+      en: Open framework for managing cybersecurity risks with the functions govern, identify, protect, detect, respond and recover.
+    relatedLaws: [nis2, cybersakerhetslagen]
+    content:
+      format: nist-oscal
+      url: https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/CSF/v2.0/json/NIST_CSF_v2.0_catalog.json
+      license: CC0-1.0
+  - slug: nist-sp-800-171
+    designation: NIST SP 800-171 Rev. 3
+    publisher: NIST
+    jurisdiction: USA
+    url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+    sites: [it, ot]
+    title:
+      sv: NIST SP 800-171
+      en: NIST SP 800-171
+    description:
+      sv: Öppen kontrollkatalog för skydd av kontrollerad oklassificerad information (CUI) i icke-federala system.
+      en: Open control catalogue for protecting controlled unclassified information (CUI) in non-federal systems.
+    relatedLaws: [cra, nis2]
+    content:
+      format: nist-oscal
+      url: https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json
+      license: CC0-1.0
+  - slug: nist-sp-800-218
+    designation: NIST SP 800-218 (SSDF)
+    publisher: NIST
+    jurisdiction: USA
+    url: https://csrc.nist.gov/pubs/sp/800/218/final
+    sites: [it]
+    title:
+      sv: NIST SP 800-218 Secure Software Development Framework
+      en: NIST SP 800-218 Secure Software Development Framework
+    description:
+      sv: Öppet ramverk för säker mjukvaruutveckling (SSDF) med praktiker för förberedelse, skydd, utveckling och sårbarhetshantering.
+      en: Open Secure Software Development Framework (SSDF) with practices for preparation, protection, development and vulnerability response.
+    relatedLaws: [cra]
+    content:
+      format: nist-oscal
+      url: https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-218/ver1/json/NIST_SP800-218_ver1_catalog.json
+      license: CC0-1.0
+  - slug: nist-sp-800-53b
+    designation: NIST SP 800-53B
+    publisher: NIST
+    jurisdiction: USA
+    url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+    sites: [it, ot]
+    title:
+      sv: NIST SP 800-53B – Moderate baseline
+      en: NIST SP 800-53B – Moderate baseline
+    description:
+      sv: NIST:s kontrollbaslinjer för SP 800-53; den moderata baslinjen återges här som OSCAL-katalog.
+      en: NIST control baselines for SP 800-53; the moderate baseline is reproduced here as an OSCAL catalogue.
+    relatedLaws: [nis2]
+    content:
+      format: nist-oscal
+      url: https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json
+      license: CC0-1.0
+  - slug: nist-sp-800-82
+    designation: NIST SP 800-82 Rev. 3
+    publisher: NIST
+    jurisdiction: USA
+    url: https://csrc.nist.gov/pubs/sp/800/82/r3/final
+    sites: [ot]
+    relatedLaws: [nis2, cer]
+    title:
+      sv: NIST SP 800-82
+      en: NIST SP 800-82
+    description:
+      sv: Vägledning för cybersäkerhet i industriella styrsystem (ICS/OT).
+      en: Guide to operational technology (OT) security for industrial control systems.
+    overview:
+      sv: |
+        NIST SP 800-82 beskriver hur industriella styrsystem skiljer sig från vanliga IT-system och hur säkerhetsprogram anpassas till driftmiljöer där tillgänglighet och personsäkerhet är avgörande. Publikationen är fri att ladda ner från NIST men saknar maskinläsbar kontrollkatalog; komplettera med NIST SP 800-53 och IEC 62443.
+      en: |
+        NIST SP 800-82 explains how industrial control systems differ from conventional IT systems and how security programs adapt to environments where availability and human safety are paramount. The publication is free to download from NIST but has no machine-readable control catalogue; complement it with NIST SP 800-53 and IEC 62443.
+  - slug: iec-62443-2-1
+    designation: IEC 62443-2-1:2024
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/62883
+    sites: [ot]
+    relatedLaws: [cra, nis2]
+    title:
+      sv: IEC 62443-2-1
+      en: IEC 62443-2-1
+    description:
+      sv: Krav på säkerhetsprogram för driftägare av industriella automations- och styrsystem.
+      en: Security program requirements for industrial automation and control system asset owners.
+    overview:
+      sv: |
+        Del 2-1 anger krav på det säkerhetsprogram en driftägare ska ha för sin IACS-miljö. Andra utgåvan (2024) strukturerar kraven i SPE-element och inför en mognadsmodell för utvärdering.
+      en: |
+        Part 2-1 specifies the security programme an asset owner must maintain for its IACS environment. The second edition (2024) structures requirements as SPE elements and introduces a maturity model.
+  - slug: iec-62443-3-2
+    designation: IEC 62443-3-2:2020
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/30727
+    sites: [ot]
+    relatedLaws: [cra, nis2]
+    title:
+      sv: IEC 62443-3-2
+      en: IEC 62443-3-2
+    description:
+      sv: Säkerhetsriskbedömning vid systemdesign med zoner och kanaler.
+      en: Security risk assessment for system design using zones and conduits.
+    overview:
+      sv: |
+        Del 3-2 beskriver metoden för att dela in ett IACS-system i zoner och kanaler, utföra riskbedömning och fastställa målsäkerhetsnivåer (SL-T). Det är utgångspunkten för att välja krav ur del 3-3.
+      en: |
+        Part 3-2 describes the method for partitioning an IACS into zones and conduits, assessing risk and setting target security levels (SL-T). It is the starting point for selecting requirements from part 3-3.
+  - slug: iec-62443-4-1
+    designation: IEC 62443-4-1:2018
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/33615
+    sites: [ot, it]
+    title:
+      sv: IEC 62443-4-1
+      en: IEC 62443-4-1
+    description:
+      sv: Krav på säker produktutvecklingscykel för IACS-komponenter.
+      en: Secure product development lifecycle requirements for IACS components.
+    relatedLaws: [cra]
+    overview:
+      sv: |
+        Del 4-1 ställer processkrav på tillverkares säkra utvecklingslivscykel för produkter i industriella styrsystem, från kravdefinition till sårbarhetshantering och produktens livsslut.
+      en: |
+        Part 4-1 sets process requirements for manufacturers' secure development lifecycle of industrial control system products, from requirements definition to vulnerability management and product end-of-life.
+  - slug: iec-62443-4-2
+    designation: IEC 62443-4-2:2019
+    publisher: IEC
+    url: https://webstore.iec.ch/en/publication/34421
+    sites: [ot, it]
+    relatedLaws: [cra, nis2]
+    title:
+      sv: IEC 62443-4-2
+      en: IEC 62443-4-2
+    description:
+      sv: Tekniska säkerhetskrav för IACS-komponenter, ordnade efter sju grundläggande säkerhetsområden.
+      en: Technical security requirements for IACS components, organised around seven foundational requirements.
+    overview:
+      sv: |
+        Del 4-2 anger tekniska komponentkrav kopplade till de sju grundläggande kraven i IEC 62443-1-1 och definierar kapacitetssäkerhetsnivåer SL-C för komponenter.
+      en: |
+        Part 4-2 specifies technical component requirements linked to the seven foundational requirements of IEC 62443-1-1 and defines capability security levels SL-C for components.
+  - slug: pci-dss
+    designation: PCI DSS v4.0.1
+    match: PCI DSS
+    publisher: PCI SSC
+    jurisdiction: Internationell
+    url: https://www.pcisecuritystandards.org/standards/pci-dss/
+    sites: [it]
+    relatedLaws: [gdpr]
+    title:
+      sv: PCI DSS – Payment Card Industry Data Security Standard
+      en: PCI DSS – Payment Card Industry Data Security Standard
+    description:
+      sv: Kravstandard för skydd av kortinnehavardata hos kortindustrins aktörer.
+      en: Requirements standard for protecting cardholder data across the payment card industry.
+    overview:
+      sv: |
+        PCI DSS ställer tolv kravområden på organisationer som lagrar, behandlar eller överför kortinnehavardata. Standarden ges ut av PCI Security Standards Council; den aktuella versionen 4.0.1 publicerades 2024. Standardtexten hämtas från PCI SSC:s dokumentbibliotek.
+      en: |
+        PCI DSS defines twelve requirement areas for organisations that store, process or transmit cardholder data. The standard is published by the PCI Security Standards Council; the current version 4.0.1 was released in 2024. The standard text is obtained from the PCI SSC document library.
+  - slug: cis-controls
+    designation: CIS Controls v8.1
+    match: CIS Controls
+    publisher: CIS
+    jurisdiction: Internationell
+    url: https://www.cisecurity.org/controls/cis-controls-list
+    sites: [it, ot]
+    title:
+      sv: CIS Critical Security Controls
+      en: CIS Critical Security Controls
+    description:
+      sv: Prioriterad uppsättning cybersäkerhetsåtgärder från Center for Internet Security.
+      en: Prioritised set of cybersecurity safeguards from the Center for Internet Security.
+    overview:
+      sv: |
+        CIS Controls v8 samlar 18 prioriterade kontroller med underåtgärder (safeguards) ordnade i tre implementeringsgrupper. Listan är fri att läsa hos CIS men omfattas av CIS:s användarvillkor, så här återges endast kataloginformation och en egen sammanfattning.
+      en: |
+        CIS Controls v8 collects 18 prioritised controls with safeguards organised into three implementation groups. The list is free to read at CIS but is covered by CIS terms of use, so only catalogue information and an original summary are shown here.
+    relatedLaws: [nis2]
+  - slug: etsi-en-303-645
+    designation: ETSI EN 303 645
+    match: '303645'
+    publisher: ETSI
+    jurisdiction: EU
+    url: https://www.etsi.org/deliver/etsi_en/303600_303699/303645/
+    sites: [it, ot]
+    title:
+      sv: ETSI EN 303 645
+      en: ETSI EN 303 645
+    description:
+      sv: Europeisk standard för cybersäkerhet i konsument-IoT med grundläggande säkerhetskrav.
+      en: European standard for consumer IoT cybersecurity with baseline security requirements.
+    relatedLaws: [cra]
+    overview:
+      sv: |
+        EN 303 645 anger baslinjekrav för cybersäkerhet i internetanslutna konsumentprodukter, exempelvis lösenordshantering, sårbarhetshantering och dataskydd. Standarden ligger till grund för flera nationella och europeiska kravramar och finns gratis hos ETSI.
+      en: |
+        EN 303 645 sets baseline cybersecurity requirements for internet-connected consumer products, such as password handling, vulnerability management and data protection. It underpins several national and European requirement frameworks and is free from ETSI.
+  - slug: mitre-attack
+    designation: MITRE ATT&CK
+    publisher: MITRE
+    jurisdiction: Internationell
+    url: https://attack.mitre.org/
+    sites: [it]
+    title:
+      sv: MITRE ATT&CK Enterprise
+      en: MITRE ATT&CK Enterprise
+    description:
+      sv: Kunskapsbas över angripares taktiker och tekniker i IT-miljöer, baserad på verkliga observationer.
+      en: Knowledge base of adversary tactics and techniques in IT environments based on real-world observations.
+    relatedLaws: [nis2, cybersakerhetslagen]
+    content:
+      format: mitre-attack
+      domain: enterprise-attack
+      url: https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json
+      license: MITRE-TOU
+  - slug: mitre-attack-ics
+    designation: MITRE ATT&CK for ICS
+    publisher: MITRE
+    jurisdiction: Internationell
+    url: https://attack.mitre.org/attackics/
+    sites: [ot]
+    title:
+      sv: MITRE ATT&CK for ICS
+      en: MITRE ATT&CK for ICS
+    description:
+      sv: Kunskapsbas över angripares taktiker och tekniker mot industriella styrsystem.
+      en: Knowledge base of adversary tactics and techniques against industrial control systems.
+    relatedLaws: [nis2, cer]
+    content:
+      format: mitre-attack
+      domain: ics-attack
+      url: https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json
+      license: MITRE-TOU

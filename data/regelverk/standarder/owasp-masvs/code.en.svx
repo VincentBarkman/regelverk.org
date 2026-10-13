@@ -1,0 +1,56 @@
+---
+title: MASVS-CODE – Code Quality
+description: OWASP MASVS 2.1.0 – MASVS-CODE – Code Quality
+source: owasp-masvs
+ref: CODE
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+Mobile apps have many data entry points, including the UI, IPC, network, and file system, which might receive data that has been inadvertently modified by untrusted actors. By treating this data as untrusted input and properly verifying and sanitizing it before use, developers can prevent classical injection attacks, such as SQL injection, XSS, or insecure deserialization. However, other common coding vulnerabilities, such as memory corruption flaws, are hard to detect in penetration testing but easy to prevent with secure architecture and coding practices. Developers should follow best practices such as the [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/model/) and [NIST.SP.800-218 Secure Software Development Framework (SSDF)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf) to avoid introducing these flaws in the first place.
+
+This category covers coding vulnerabilities that arise from external sources such as app data entry points, the OS, and third-party software components. Developers should verify and sanitize all incoming data to prevent injection attacks and bypass of security checks. They should also enforce app updates and ensure that the app runs up-to-date platforms to protect users from known vulnerabilities.
+
+### MASVS-CODE-1
+
+The app requires an up-to-date platform version.
+
+Every release of the mobile OS includes security patches and new security features. By supporting older versions, apps stay vulnerable to well-known threats. This control ensures that the app is running on an up-to-date platform version so that users have the latest security protections.
+
+### MASVS-CODE-2
+
+The app has a mechanism for enforcing app updates.
+
+Sometimes critical vulnerabilities are discovered in the app when it is already in production. This control ensures that there is a mechanism to force the users to update the app before they can continue using it.
+
+### MASVS-CODE-3
+
+The app only uses software components without known vulnerabilities.
+
+To be truly secure, a full whitebox assessment should have been performed on all app components. However, as it usually happens with e.g. for third-party components this is not always feasible and not typically part of a penetration test. This control covers "low-hanging fruit" cases, such as those that can be detected just by scanning libraries for known vulnerabilities.
+
+### MASVS-CODE-4
+
+The app validates and sanitizes all untrusted inputs.
+
+Apps have many data entry points including the UI, IPC, the network, the file system, etc. This incoming data might have been inadvertently modified by untrusted actors and may lead to bypass of critical security checks as well as classical injection attacks such as SQL injection, XSS or insecure deserialization. This control ensures that this data is treated as untrusted input and is properly verified and sanitized before it's used.
+
+---
+
+© OWASP Foundation, Mobile Application Security Verification Standard 2.1.0. The layout has been adapted; the English requirements have not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml).
+<!-- scan-standards:end -->

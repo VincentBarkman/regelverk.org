@@ -1,0 +1,47 @@
+---
+'source': 'lek'
+'ref': '6 kap.'
+'title': '6 kap. – Samhällsomfattande tjänster'
+'kind': 'chapter'
+'description': 'Lagen om elektronisk kommunikation (LEK), 6 kap..'
+'designation': 'LEK 6 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022482-om-elektronisk-kommunikation_sfs-2022-482/#K6'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Om det behövs för att tillgång till samhällsomfattande tjänster till ett överkomligt pris ska kunna säkerställas, får regleringsmyndigheten besluta om en skyldighet för den som bedöms lämplig för det att tillhandahålla sådana tjänster för att tillgodose varje rimlig begäran från slutanvändare om tillgång till tjänsterna.
+
+Med en samhällsomfattande tjänst avses en adekvat internetanslutningstjänst eller en talkommunikationstjänst i en fast nätanslutningspunkt i en stadigvarande bostad eller i ett fast verksamhetsställe.
+
+Regleringsmyndigheten får utse ett eller flera företag som ska säkerställa sådan tillgång i hela eller en del av landet. En skyldighet får inte vara oskäligt betungande för ett utsett företag.
+
+### 2 §
+
+En internetanslutningstjänst ska, för att vara adekvat enligt [1 §](#1), ha kapacitet att leverera en sådan lägsta datahastighet som medger funktionell tillgång till internet.
+
+### 3 §
+
+En tjänst enligt [1 §](#1) får inte tillhandahållas på villkor som innebär att slutanvändaren tvingas att betala för något som inte är nödvändigt för tjänsten.
+
+### 4 §
+
+Den som enligt [1 §](#1) har utsetts att tillhandahålla en samhällsomfattande tjänst och som avser att avhända sig en betydande del av eller samtliga sina tillgångar i accessnätet, ska i god tid före avhändandet underrätta regleringsmyndigheten om sin avsikt.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

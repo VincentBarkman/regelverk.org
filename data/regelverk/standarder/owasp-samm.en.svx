@@ -1,0 +1,42 @@
+---
+title: OWASP Software Assurance Maturity Model
+description: Open maturity model for secure software development with business
+  functions, security practices and activities per maturity level.
+designation: OWASP SAMM 2.2.0
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: OWASP
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+type: standard
+sites:
+  - it
+url: https://owaspsamm.org/
+translation: en
+version: 2.2.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Open maturity model for secure software development with business functions, security practices and activities per maturity level.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [OWASP SAMM 2.2.0](https://owaspsamm.org/).
+
+## Contents
+
+- [Governance](/standarder/owasp-samm/governance) · 18 requirements
+- [Design](/standarder/owasp-samm/design) · 18 requirements
+- [Implementation](/standarder/owasp-samm/implementation) · 18 requirements
+- [Verification](/standarder/owasp-samm/verification) · 18 requirements
+- [Operations](/standarder/owasp-samm/operations) · 18 requirements
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/lagstiftning/cra)
+- [NIS2 directive](/lagstiftning/nis2)
+<!-- scan-standards:end -->

@@ -1,0 +1,92 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – JURISDIKTION OCH REGISTRERING'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel V.'
+'designation': 'NIS2-direktivet Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_V'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 26 – Jurisdiktion och territorialitet
+
+1\. Entiteter som omfattas av [detta direktivs](/lagstiftning/nis2) tillämpningsområde ska anses omfattas av jurisdiktionen i den medlemsstat där de är etablerade, utom när det gäller följande:
+
+a) Tillhandahållare av allmänna elektroniska kommunikationsnät eller av allmänt tillgängliga elektroniska kommunikationstjänster, som ska anses omfattas av jurisdiktionen i den medlemsstat där de tillhandahåller sina tjänster.
+
+b) Leverantörer av DNS-tjänster, registreringsenheter för toppdomäner, entiteter som tillhandahåller domännamnsregistreringstjänster, leverantörer av molntjänster, leverantörer av datacentraltjänster, leverantörer av nätverk för leverans av innehåll, leverantörer av hanterade tjänster och leverantörer av hanterade säkerhetstjänster samt leverantörer av marknadsplatser online, sökmotorer eller plattformar för sociala nätverkstjänster, vilka ska anses omfattas av jurisdiktionen i den medlemsstat där de har sitt huvudsakliga etableringsställe i unionen i enlighet med punkt 2.
+
+c) Offentliga förvaltningsentiteter, som ska anses omfattas av jurisdiktionen i den medlemsstat som inrättade dem.
+
+2\. Vid tillämpning av [detta direktiv](/lagstiftning/nis2) ska en entitet som avses i punkt 1 b anses ha sitt huvudsakliga etableringsställe i unionen i den medlemsstat där besluten om riskhanteringsåtgärder för cybersäkerhet i huvudsak fattas. Om en sådan medlemsstat inte kan fastställas eller om sådana beslut inte fattas i unionen ska det huvudsakliga etableringsstället anses vara beläget i den medlemsstat där cybersäkerhetsoperationer utförs. Om en sådan medlemsstat inte kan fastställas ska det huvudsakliga etableringsstället anses vara beläget i den medlemsstat där den berörda entiteten har det etableringsställe som har flest anställda i unionen.
+
+3\. Om en entitet som avses i punkt 1 b inte är etablerad i unionen, men erbjuder tjänster inom unionen, ska den utse en företrädare i unionen. Företrädaren ska vara etablerad i en av de medlemsstater där tjänsterna erbjuds. Entiteten ska anses omfattas av jurisdiktionen i den medlemsstat där företrädaren är etablerad. Om det inte finns en utsedd företrädare i unionen enligt denna punkt får varje medlemsstat där entiteten tillhandahåller tjänster vidta rättsliga åtgärder mot entiteten för överträdelsen av [detta direktiv](/lagstiftning/nis2).
+
+4\. Det faktum att en entitet som avses i punkt 1 b utsett en företrädare ska inte påverka eventuella rättsliga åtgärder mot entiteten i sig.
+
+5\. De medlemsstater som har mottagit en begäran om ömsesidigt bistånd med avseende på en entitet som avses i punkt 1 b får, inom ramen för den begäran, vidta lämpliga tillsyns- och efterlevnadskontrollåtgärder med avseende på den berörda entitet som tillhandahåller tjänster eller som har ett nätverks- och informationssystem inom deras territorium.
+
+### Artikel 27 – Register över entiteter
+
+1\. Enisa ska skapa och upprätthålla ett register över leverantörer av DNS-tjänster, registreringsenheter för toppdomäner, entiteter som tillhandahåller domännamnsregistreringstjänster, leverantörer av molntjänster, leverantörer av datacentraltjänster, leverantörer av nätverk för leveransleverans av innehåll, leverantörer av hanterade tjänster, leverantörer av hanterade säkerhetstjänster samt leverantörer av internetbaserade marknadsplatser online, internetbaserade sökmotorer och plattformar för sociala nätverkstjänster, på grundval av den information som mottagits från de gemensamma kontaktpunkterna i enlighet med punkt 4. Enisa ska på begäran ge de behöriga myndigheterna tillgång till detta register, samtidigt som skydd av informationens konfidentialitet säkerställs i tillämpliga fall.
+
+2\. Medlemsstaterna ska ålägga de entiteter som avses i punkt 1 att lämna följande uppgifter till de behöriga myndigheterna senast den 17 januari 2025:
+
+a) Entitetens namn.
+
+b) Den relevanta sektorn och delsektorn samt typen av entitet enligt bilaga I eller II i tillämpliga fall.
+
+c) Adressen till entitetens huvudsakliga etableringsställe och andra rättsligt giltiga etableringsställen i unionen eller, om entiteten inte är etablerad i unionen, till dess företrädare som utsetts i enlighet med artikel [26.3](#artikel-26-jurisdiktion-och-territorialitet).
+
+d) Aktuella kontaktuppgifter, inklusive e-postadresser och telefonnummer till entiteten och, i tillämpliga fall, till dess företrädare som utsetts i enlighet med artikel [26.3](#artikel-26-jurisdiktion-och-territorialitet).
+
+e) De medlemsstater där entiteten tillhandahåller tjänster.
+
+f) Entitetens IP-adressintervall.
+
+3\. Medlemsstaterna ska säkerställa att de entiteter som avses i punkt 1 underrättar den behöriga myndigheten om alla ändringar av de uppgifter som de lämnat enligt punkt 2 utan dröjsmål och under alla omständigheter inom tre månader från dagen för ändringen.
+
+4\. När den gemensamma kontaktpunkten i den berörda medlemsstaten mottagit den information som avses i punkterna 2 och 3, med undantag för den information som avses i punkt 2 f, ska den utan dröjsmål vidarebefordra den informationen till Enisa.
+
+5\. Den information som avses i punkterna 2 och 3 i [denna artikel](#artikel-27-register-över-entiteter) ska, i tillämpliga fall, lämnas genom den nationella mekanism som avses i artikel [3.4](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) fjärde stycket.
+
+### Artikel 28 – Databas över domännamnsregistreringsuppgifter
+
+1\. För att bidra till domännamnssystemets säkerhet, stabilitet och motståndskraft ska medlemsstaterna ålägga registreringsenheter för toppdomäner och de enheter som tillhandahåller domännamnsregistreringstjänster att samla in och upprätthålla korrekta och fullständiga registreringsuppgifter för domännamn i en särskild databas med tillbörlig aktsamhet i enlighet med unionens dataskyddslagstiftning när det gäller personuppgifter.
+
+2\. För tillämpningen av punkt 1 ska medlemsstaterna föreskriva att databasen med registreringsuppgifter för domännamn innehåller nödvändig information för att identifiera och kontakta innehavarna av domännamnen och de kontaktpunkter som administrerar domännamnen under toppdomänerna. Denna information ska omfatta följande:
+
+a) Domännamn.
+
+b) Registreringsdatum.
+
+c) Registrantens namn, e-postadress och telefonnummer.
+
+d) E-postadress och telefonnummer till den kontaktpunkt som administrerar domännamnet om dessa inte är desamma som för registranten.
+
+3\. Medlemsstaterna ska ålägga registreringsenheter för toppdomäner och de entiteter som tillhandahåller domännamnsregistreringstjänster att ha strategier och förfaranden, inbegripet kontrollförfaranden, för att säkerställa att de databaser som avses i punkt 1 innehåller korrekt och fullständig information. Medlemsstaterna ska föreskriva att sådana strategier och förfaranden offentliggörs.
+
+4\. Medlemsstaterna ska ålägga registreringsenheter för toppdomäner och de entiteter som tillhandahåller domännamnsregistreringstjänster att utan onödigt dröjsmål efter registreringen av ett domännamn offentliggöra registreringsuppgifter för domännamn som inte är personuppgifter.
+
+5\. Medlemsstaterna ska ålägga registreringsenheter för toppdomäner och de entiteter som tillhandahåller domännamnsregistreringstjänster att ge åtkomst till specifika registreringsuppgifter för domännamn på lagliga och vederbörligen motiverade begäranden från legitima åtkomstsökande, i enlighet med unionens dataskyddslagstiftning. Medlemsstaterna ska ålägga registreringsenheter för toppdomäner och de entiteter som tillhandahåller domännamnsregistreringstjänster att utan onödigt dröjsmål och under alla omständigheter inom 72 timmar från mottagandet besvarar en begäran om åtkomst. Medlemsstaterna ska föreskriva att strategier och förfaranden för utlämning av sådana uppgifter offentliggörs.
+
+6\. Fullgörandet av de skyldigheter som fastställs i punkterna 1–5 får inte leda till dubblerad insamling av registreringsuppgifter för domännamn. I detta syfte ska medlemsstaterna ålägga registreringsenheter för toppdomäner och de entiteter som tillhandahåller domännamnsregistreringstjänster att samarbeta med varandra.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -14,9 +14,7 @@ try {
 			const [hash, date, ...rest] = line.split('\x1f');
 			return { hash, date, message: rest.join('\x1f') };
 		});
-} catch {
-	// No git history (e.g. build sandbox) – emit an empty list.
-}
+} catch {}
 
 mkdirSync('src/lib/generated', { recursive: true });
 writeFileSync(

@@ -1,0 +1,162 @@
+---
+title: IA – Identification and Authentication
+description: NIST SP 800-53B – IA – Identification and Authentication
+source: nist-sp-800-53b
+ref: IA
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### IA-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] identification and authentication policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the identification and authentication policy and the associated identification and authentication controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the identification and authentication policy and procedures; and
+- c. Review and update the current identification and authentication:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### IA-2 – Identification and Authentication (Organizational Users)
+
+Uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users.
+
+#### IA-2(1) – Multi-factor Authentication to Privileged Accounts
+
+Implement multi-factor authentication for access to privileged accounts.
+
+#### IA-2(2) – Multi-factor Authentication to Non-privileged Accounts
+
+Implement multi-factor authentication for access to non-privileged accounts.
+
+#### IA-2(8) – Access to Accounts — Replay Resistant
+
+Implement replay-resistant authentication mechanisms for access to [privileged accounts or non-privileged accounts].
+
+#### IA-2(12) – Acceptance of PIV Credentials
+
+Accept and electronically verify Personal Identity Verification-compliant credentials.
+
+### IA-3 – Device Identification and Authentication
+
+Uniquely identify and authenticate [organization-defined devices and/or types of devices] before establishing a [local or remote or network] connection.
+
+### IA-4 – Identifier Management
+
+Manage system identifiers by:
+- a. Receiving authorization from [organization-defined personnel or roles] to assign an individual, group, role, service, or device identifier;
+- b. Selecting an identifier that identifies an individual, group, role, service, or device;
+- c. Assigning the identifier to the intended individual, group, role, service, or device; and
+- d. Preventing reuse of identifiers for [organization-defined time period].
+
+#### IA-4(4) – Identify User Status
+
+Manage individual identifiers by uniquely identifying each individual as [organization-defined characteristics].
+
+### IA-5 – Authenticator Management
+
+Manage system authenticators by:
+- a. Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, service, or device receiving the authenticator;
+- b. Establishing initial authenticator content for any authenticators issued by the organization;
+- c. Ensuring that authenticators have sufficient strength of mechanism for their intended use;
+- d. Establishing and implementing administrative procedures for initial authenticator distribution, for lost or compromised or damaged authenticators, and for revoking authenticators;
+- e. Changing default authenticators prior to first use;
+- f. Changing or refreshing authenticators [organization-defined time period by authenticator type] or when [organization-defined events] occur;
+- g. Protecting authenticator content from unauthorized disclosure and modification;
+- h. Requiring individuals to take, and having devices implement, specific controls to protect authenticators; and
+- i. Changing authenticators for group or role accounts when membership to those accounts changes.
+
+#### IA-5(1) – Password-based Authentication
+
+For password-based authentication:
+- (a) Maintain a list of commonly-used, expected, or compromised passwords and update the list [organization-defined frequency] and when organizational passwords are suspected to have been compromised directly or indirectly;
+- (b) Verify, when users create or update passwords, that the passwords are not found on the list of commonly-used, expected, or compromised passwords in IA-5(1)(a);
+- (c) Transmit passwords only over cryptographically-protected channels;
+- (d) Store passwords using an approved salted key derivation function, preferably using a keyed hash;
+- (e) Require immediate selection of a new password upon account recovery;
+- (f) Allow user selection of long passwords and passphrases, including spaces and all printable characters;
+- (g) Employ automated tools to assist the user in selecting strong password authenticators; and
+- (h) Enforce the following composition and complexity rules: [organization-defined composition and complexity rules].
+
+#### IA-5(2) – Public Key-based Authentication
+
+- (a) For public key-based authentication:
+  - (1) Enforce authorized access to the corresponding private key; and
+  - (2) Map the authenticated identity to the account of the individual or group; and
+- (b) When public key infrastructure (PKI) is used:
+  - (1) Validate certificates by constructing and verifying a certification path to an accepted trust anchor, including checking certificate status information; and
+  - (2) Implement a local cache of revocation data to support path discovery and validation.
+
+#### IA-5(6) – Protection of Authenticators
+
+Protect authenticators commensurate with the security category of the information to which use of the authenticator permits access.
+
+### IA-6 – Authentication Feedback
+
+Obscure feedback of authentication information during the authentication process to protect the information from possible exploitation and use by unauthorized individuals.
+
+### IA-7 – Cryptographic Module Authentication
+
+Implement mechanisms for authentication to a cryptographic module that meet the requirements of applicable laws, executive orders, directives, policies, regulations, standards, and guidelines for such authentication.
+
+### IA-8 – Identification and Authentication (Non-organizational Users)
+
+Uniquely identify and authenticate non-organizational users or processes acting on behalf of non-organizational users.
+
+#### IA-8(1) – Acceptance of PIV Credentials from Other Agencies
+
+Accept and electronically verify Personal Identity Verification-compliant credentials from other federal agencies.
+
+#### IA-8(2) – Acceptance of External Authenticators
+
+- (a) Accept only external authenticators that are NIST-compliant; and
+- (b) Document and maintain a list of accepted external authenticators.
+
+#### IA-8(4) – Use of Defined Profiles
+
+Conform to the following profiles for identity management [organization-defined identity management profiles].
+
+### IA-11 – Re-authentication
+
+Require users to re-authenticate when [organization-defined circumstances or situations].
+
+### IA-12 – Identity Proofing
+
+- a. Identity proof users that require accounts for logical access to systems based on appropriate identity assurance level requirements as specified in applicable standards and guidelines;
+- b. Resolve user identities to a unique individual; and
+- c. Collect, validate, and verify identity evidence.
+
+#### IA-12(2) – Identity Evidence
+
+Require evidence of individual identification be presented to the registration authority.
+
+#### IA-12(3) – Identity Evidence Validation and Verification
+
+Require that the presented identity evidence be validated and verified through [organization-defined methods of validation and verification].
+
+#### IA-12(5) – Address Confirmation
+
+Require that a [registration code or notice of proofing] be delivered through an out-of-band channel to verify the users address (physical or digital) of record.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

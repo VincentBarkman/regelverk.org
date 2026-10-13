@@ -1,44 +1,27 @@
 ---
-title: SSF 200 and alarm classes
-description: How intrusion and alarm systems are classified under SSF 200.
+title: SSF 130 and alarm classes
+description: Alarm classes under SSF 130 and how they differ from SSF 200.
 jurisdiction: Sverige
 status: active
 issuer: regelverk.org
 legalStatus: non-binding
 reviewStatus: granskad
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
+lastReviewed: '2026-10-13'
+sourceChecked: '2026-10-13'
 licenseClass: AGPL-3.0
 ---
 
-SSF 200 divides intruder alarms into alarm classes depending on **resistance** against manipulation and *saboteurs* with different levels of knowledge.
+[SSF 130](/standarder/ssf-130) covers the design and installation of intruder and hold-up alarms in **alarm classes 1–4**. The required design and installation depend on the alarm class specified by the customer or insurer.
 
 ## Alarm classes
 
-- Alarm class 1 for low risk and simple installations
-- Alarm class 2 for normal risk
-- Alarm class 3 for higher risk and protected objects
-- Alarm class 4 for very high risk
+- Alarm class 1 applies where basic alarm monitoring is required.
+- Alarm class 2 includes perimeter protection supplemented by interior volumetric detection.
+- Alarm class 3 sets higher requirements for monitoring and tamper protection.
+- Alarm class 4 covers rooms that may be excluded at lower classes.
 
-## Practical consequences
+## How SSF 200 differs
 
-1. The class drives requirements on components and installation
-2. Alarm transmission is set in relation to the class
-3. Insurers often tie policy conditions to the alarm class
+[SSF 200](/standarder/ssf-200) covers **physical burglary protection of buildings and premises**, using protection classes 1–3. It does not cover the design or installation of alarm systems. Protection class and alarm class are separate requirements that may apply together.
 
-### Connection to standards
-
-> EN 50131 is used together with SSF 200 to classify the whole alarm system.
-
-| Class | Typical environment |
-| ----- | ------------------- |
-| 2 | Shop, office |
-| 3 | Protected object, valuables depot |
-
-```sh
-search "SSF 200" --scope fysisk
-```
-
----
-
-The example shows the typography for headings, lists, tables and code.
+Always consult the current standard and the terms applicable to the particular site.

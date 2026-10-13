@@ -1,0 +1,220 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – SAMORDNADE RAMVERK FÖR CYBERSÄKERHET'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel II.'
+'designation': 'NIS2-direktivet Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_II'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 7 – Nationell strategi för cybersäkerhet
+
+1\. Varje medlemsstat ska anta en nationell strategi för cybersäkerhet som tillhandahåller strategiska mål, de resurser som krävs för att uppnå dessa mål och relevanta politiska och reglerande åtgärder, i syfte att uppnå och upprätthålla en hög cybersäkerhetsnivå. Den nationella strategin för cybersäkerhet ska inbegripa
+
+a) mål och prioriteringar för medlemsstatens strategi för cybersäkerhet som särskilt omfattar de sektorer som avses i bilagorna I och II,
+
+b) en styrningsram för att uppnå de mål och prioriteringar som avses i led a i denna punkt, inbegripet de politiska åtgärder som avses i punkt 2,
+
+c) en styrningsram som klargör roller och ansvarsområden för relevanta intressenter på nationell nivå och som stöder samarbetet och samordningen på nationell nivå mellan de gemensamma myndigheterna, de gemensamma kontaktpunkterna och CSIRT-enheterna enligt [detta direktiv](/lagstiftning/nis2), samt samordningen och samarbetet mellan dessa organ och behöriga myndigheter enligt sektorsspecifika unionsrättsakter,
+
+d) en mekanism för att identifiera relevanta tillgångar och en bedömning av riskerna i den medlemsstaten,
+
+e) en identifiering av åtgärder som säkerställer beredskap inför, svar på och återställande efter incidenter, inklusive samarbete mellan offentlig och privat sektor,
+
+f) en förteckning över de olika myndigheter och intressenter som är involverade i genomförandet av den nationella strategin för cybersäkerhet,
+
+g) en politisk ram för förbättrad samordning mellan de behöriga myndigheterna enligt [detta direktiv](/lagstiftning/nis2) och de behöriga myndigheterna enligt [direktiv (EU) 2022/2557](/lagstiftning/cer), i syfte att utbyta information om risker, cyberhot och incidenter och icke-cyberrelaterade risker, hot och incidenter och utföra tillsynsuppgifter, beroende på vad som är lämpligt,
+
+h) en plan, med nödvändiga åtgärder, för att höja medborgarnas allmänna medvetenhet om cybersäkerhetshot.
+
+2\. Som en del av den nationella strategin för cybersäkerhet ska medlemsstaterna särskilt anta följande:
+
+a) Riktlinjer för cybersäkerhet i leveranskedjan för IKT-produkter och IKT-tjänster som används av entiteter när de tillhandahåller sina tjänster.
+
+b) Riktlinjer för att inkludera och specificera cybersäkerhetsrelaterade krav för IKT-produkter och IKT-tjänster vid offentlig upphandling, inbegripet vad gäller cybersäkerhetscertifiering, kryptering och användning av cybersäkerhetsprodukter med öppen källkod.
+
+c) Riktlinjer för hantering av sårbarheter, inbegripet främjande och underlättande av samordnad delgivning av information om sårbarheter enligt artikel [12.1](#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas).
+
+d) Riktlinjer för att upprätthålla den allmänna tillgängligheten, integriteten och konfidentialiteten hos den offentliga kärnan i det öppna internet, inbegripet, i tillämpliga fall, cybersäkerheten hos undervattenskablar.
+
+e) Riktlinjer för att främja utveckling och integrering av relevant avancerad teknik som syftar till att genomföra moderna riskhanteringsåtgärder för cybersäkerhet.
+
+f) Riktlinjer för att främja och utveckla cybersäkerhetsutbildning, cybersäkerhetskompetens, medvetandehöjande åtgärder och forsknings- och utvecklingsinitiativ, samt vägledning om god praxis och kontroll för cyberhygien som riktar sig till medborgare, intressenter och entiteter.
+
+g) Riktlinjer för stöd till akademiska institutioner och forskningsinstitut för att utveckla, förbättra och främja användningen av cybersäkerhetsverktyg och säker nätinfrastruktur.
+
+h) Riktlinjer, inbegripet relevanta förfaranden och lämpliga verktyg för informationsutbyte för att stödja ett frivilligt informationsutbyte om cybersäkerhet mellan entiteter i enlighet med unionsrätten.
+
+i) Riktlinjer som stärker cyberresiliensen och cyberhygienen hos små och medelstora företag, särskilt de som inte omfattas av [detta direktiv](/lagstiftning/nis2), genom att tillhandahålla lättillgänglig vägledning och stöd för deras specifika behov.
+
+j) Riktlinjer för att främja ett aktivt cyberskydd.
+
+3\. Medlemsstaterna ska meddela sina nationella strategier för cybersäkerhet till kommissionen inom tre månader från det att de antagits. Härvid får medlemsstaterna undanta information som rör den nationella säkerheten.
+
+4\. Medlemsstaterna ska regelbundet och minst vart femte år bedöma sina nationella strategier för cybersäkerhet på grundval av centrala resultatindikatorer och vid behov uppdatera dem. Enisa ska på medlemsstaternas begäran bistå medlemsstaterna vid utarbetandet eller uppdateringen av en nationell strategi för cybersäkerhet och centrala resultatindikatorer för bedömningen av strategin, i syfte att anpassa den till de krav och skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2).
+
+### Artikel 8 – Behöriga myndigheter och gemensamma kontaktpunkter
+
+1\. Varje medlemsstat ska utse eller inrätta en eller flera behöriga myndigheter med ansvar för cybersäkerhet och för de tillsynsuppgifter som avses i [kapitel VII](/lagstiftning/nis2/kap-7) (behöriga myndigheter).
+
+2\. De behöriga myndigheter som avses i punkt 1 ska övervaka genomförandet av [detta direktiv](/lagstiftning/nis2) på nationell nivå.
+
+3\. Varje medlemsstat ska utse eller inrätta en gemensam kontaktpunkt. Om en medlemsstat bara utser eller inrättar en behörig myndighet i enlighet med punkt 1, ska denna behöriga myndighet också vara den gemensamma kontaktpunkten i den medlemsstaten.
+
+4\. Varje gemensam kontaktpunkt ska utöva en sambandsfunktion som säkerställer ett gränsöverskridande samarbete mellan medlemsstatens myndigheter och relevanta myndigheter i andra medlemsstater och, när det är lämpligt, kommissionen och Enisa samt ett sektorsövergripande samarbete med andra behöriga myndigheter i medlemsstaten.
+
+5\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter och gemensamma kontaktpunkter har tillräckliga resurser för att på ett ändamålsenligt och effektivt sätt utföra de uppgifter de tilldelas och därigenom uppnå målen med [detta direktiv](/lagstiftning/nis2).
+
+6\. Varje medlemsstat ska utan onödigt dröjsmål meddela kommissionen identiteten för den behöriga myndighet som avses i punkt 1 och den gemensamma kontaktpunkt som avses i punkt 3, dessa myndigheters uppgifter samt eventuella senare ändringar. Varje medlemsstat ska offentliggöra sin behöriga myndighets identitet. Kommissionen ska upprätta en förteckning över offentligt tillgängliga gemensamma kontaktpunkter.
+
+### Artikel 9 – Nationella ramar för hantering av cybersäkerhetskriser
+
+1\. Varje medlemsstat ska utse eller inrätta en eller flera behöriga myndigheter med ansvar för hanteringen av storskaliga cybersäkerhetsincidenter och kriser (cyberkrishanteringsmyndigheter). Medlemsstaterna ska säkerställa att dessa myndigheter har tillräckliga resurser för att kunna utföra sina uppgifter på ett ändamålsenligt och effektivt sätt. Medlemsstaterna ska säkerställa samstämmighet med befintliga ramar för allmän nationell krishantering.
+
+2\. Om en medlemsstat utser eller inrättar mer än en cyberkrishanteringsmyndighet enligt punkt 1 ska den tydligt ange vilken av dessa myndigheter som ska samordna hanteringen av storskaliga cybersäkerhetsincidenter och kriser.
+
+3\. För tillämpning av [detta direktiv](/lagstiftning/nis2) ska varje medlemsstat identifiera vilka kapaciteter, tillgångar och förfaranden som kan användas i händelse av en kris.
+
+4\. Varje medlemsstat ska anta en nationell plan för hanteringen av storskaliga cybersäkerhetsincidenter och kriser där mål och villkor för hanteringen av storskaliga cybersäkerhetsincidenter och kriser fastställs. Planen ska särskilt innehålla följande:
+
+a) Målen för nationella beredskapsåtgärder och beredskapsverksamheter.
+
+b) Cyberkrishanteringsmyndigheternas uppgifter och ansvarsområden.
+
+c) Cyberkrishanteringsförfaranden, inbegripet deras integrering i den allmänna nationella ramen för krishantering och kanaler för informationsutbyte.
+
+d) Nationella beredskapsåtgärder, inbegripet övningar och utbildningsverksamhet.
+
+e) Berörda offentliga och privata intressenter och berörd infrastruktur.
+
+f) Nationella förfaranden och arrangemang mellan relevanta nationella myndigheter och organ för att säkerställa att medlemsstaten på ett ändamålsenligt sätt kan delta i och stödja en samordnad hantering av storskaliga cybersäkerhetsincidenter och kriser på unionsnivå.
+
+5\. Inom tre månader från det att den cyberkrishanteringsmyndighet som avses i punkt 1 har utsetts eller inrättats ska varje medlemsstat meddela kommissionen sin myndighets identitet samt alla senare ändringar. Medlemsstaterna ska till kommissionen och Europeiska kontaktnätverket för cyberkriser (EU-CyCLONe) lämna relevant information avseende kraven i punkt 4 om sina nationella planer för hanteringen av storskaliga cybersäkerhetsincidenter och kriser inom tre månader från det att dessa planer antagits. Medlemsstaterna får undanta information om och i den utsträckning det är nödvändigt för den nationella säkerheten.
+
+### Artikel 10 – Enheter för hantering av it-säkerhetsincidenter (CSIRT-enheter)
+
+1\. Varje medlemsstat ska utse eller inrätta en eller flera CSIRT-enheter. CSIRT-enheterna får utses eller inrättas inom en behörig myndighet. CSIRT-enheterna ska uppfylla kraven i artikel [11.1](#artikel-11-krav-på-csirt-enheter-och-deras-tekniska-kapacitet-och-uppgifter), ska omfatta minst de sektorer, delsektorer och typer av entiteter som avses i bilagorna I och II och ska ansvara för incidenthantering i enlighet med ett tydligt fastställt förfarande.
+
+2\. Medlemsstaterna ska säkerställa att varje CSIRT-enhet har tillräckliga resurser för att på ett ändamålsenligt sätt kunna utföra sina uppgifter enligt artikel [11.3](#artikel-11-krav-på-csirt-enheter-och-deras-tekniska-kapacitet-och-uppgifter).
+
+3\. Medlemsstaterna ska säkerställa att varje CSIRT-enhet har tillgång till en lämplig, säker och motståndskraftig kommunikations- och informationsinfrastruktur för utbyte av information med väsentliga och viktiga entiteter och andra relevanta intressenter. För detta ändamål ska medlemsstaterna säkerställa att varje CSIRT-enhet bidrar till införandet av säkra verktyg för informationsutbyte.
+
+4\. CSIRT-enheterna ska samarbeta och, när det är lämpligt, utbyta relevant information i enlighet med artikel [29](/lagstiftning/nis2/kap-6#artikel-29-arrangemang-för-informationsutbyte-om-cybersäkerhet) med sektoriella eller sektorsövergripande grupper av väsentliga och viktiga entiteter.
+
+5\. CSIRT-enheterna ska delta i sakkunnigbedömningar som organiseras i enlighet med artikel [19](/lagstiftning/nis2/kap-3#artikel-19-sakkunnigbedömningar).
+
+6\. Medlemsstaterna ska säkerställa ett ändamålsenligt, effektivt och säkert samarbete mellan sina CSIRT-enheter i CSIRT-nätverket.
+
+7\. CSIRT-enheter får upprätta samarbetsförbindelser med tredjeländers nationella enheter för hantering av it-säkerhetsincidenter. Som en del av sådana samarbetsförbindelser ska medlemsstaterna underlätta ett ändamålsenligt, effektivt och säkert informationsutbyte med dessa nationella enheter för hantering av it-säkerhetsincidenter i tredjeländer, med hjälp av relevanta protokoll för informationsutbyte, inbegripet Traffic Light Protocol. CSIRT-enheter får utbyta relevant information med tredjeländers nationella enheter för hantering av it-säkerhetsincidenter, inbegripet personuppgifter i enlighet med unionens dataskyddslagstiftning.
+
+8\. CSIRT-enheter får samarbeta med tredjeländers nationella enheter för hantering av it-säkerhetsincidenter eller motsvarande organ i tredjeländer, särskilt i syfte att ge dem cybersäkerhetsstöd.
+
+9\. Varje medlemsstat ska utan onödigt dröjsmål meddela kommissionen identiteten för den CSIRT-enhet som avses i punkt 1 i [denna artikel](#artikel-10-enheter-för-hantering-av-it-säkerhetsincidenter-csirt-enheter) och för den CSIRT-enhet som utsetts till samordnare i enlighet med artikel [12.1](#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas), deras respektive uppgifter i förhållande till de väsentliga och viktiga entiteterna samt alla senare ändringar.
+
+10\. Medlemsstaterna får begära Enisas bistånd vid inrättandet av sina CSIRT-enheter.
+
+### Artikel 11 – Krav på CSIRT-enheter och deras tekniska kapacitet och uppgifter
+
+1\. CSIRT-enheter ska uppfylla följande krav:
+
+a) CSIRT-enheterna ska säkerställa en hög nivå av tillgänglighet för sina kommunikationskanaler genom att undvika felkritiska systemdelar och ska kunna kontaktas och kontakta andra när som helst och på flera olika sätt. De ska tydligt ange kommunikationskanalerna och underrätta användargrupper och samarbetspartner om dessa.
+
+b) CSIRT-enheternas lokaler och de informationssystem som de använder sig av ska vara belägna på säkra platser.
+
+c) CSIRT-enheterna ska ha ett ändamålsenligt system för handläggning och dirigering av förfrågningar, särskilt för att underlätta ändamålsenliga och effektiva överlämnanden.
+
+d) CSIRT-enheterna ska säkerställa verksamhetens konfidentialitet och trovärdighet.
+
+e) CSIRT-enheterna ska ha tillräckligt med personal för att säkerställa att deras tjänster är ständigt tillgängliga och de ska säkerställa att personalen har fått lämplig utbildning.
+
+f) CSIRT-enheterna ska utrustas med redundanta system och reservlokaler för att säkerställa kontinuiteten i deras tjänster.
+
+De ska kunna delta i internationella samarbetsnätverk.
+
+2\. Medlemsstaterna ska säkerställa att deras CSIRT-enheter tillsammans har nödvändig teknisk kapacitet för att utföra de uppgifter som avses i punkt 3. Medlemsstaterna ska säkerställa att tillräckliga resurser anslås till deras CSIRT-enheter för att säkerställa en tillräcklig personalstyrka för att göra det möjligt för CSIRT-enheterna att utveckla sin tekniska kapacitet.
+
+3\. CSIRT-enheterna ska ha följande uppgifter:
+
+a) Övervakning och analys av cyberhot, sårbarheter och incidenter på nationell nivå och, på begäran, tillhandahållande av stöd till berörda väsentliga och viktiga entiteter avseende realtidsövervakning eller nära realtidsövervakning av deras nätverks- och informationssystem.
+
+b) Tillhandahållande av tidiga varningar, larm, meddelanden och spridning av information till väsentliga och viktiga entiteter samt till behöriga myndigheter och andra relevanta intressenter om cyberhot, sårbarheter och incidenter, om möjligt i nära realtid.
+
+c) Vidtagande av åtgärder till följd av incidenter och, i tillämpliga fall, tillhandahållande av stöd till de berörda väsentliga och viktiga entiteterna.
+
+d) Insamling och analys av forensiska uppgifter och tillhandahållande av dynamisk risk- och incidentanalys och situationsmedvetenhet när det gäller cybersäkerhet.
+
+e) Tillhandahållande, på begäran av den väsentliga eller viktiga entiteten, av en proaktiv skanning av den berörda entitetens nätverks- och informationssystem i syfte att upptäcka sårbarheter med en potentiellt betydande påverkan.
+
+f) Deltagande i CSIRT-nätverket och ömsesidigt bistånd i enlighet med deras kapacitet och befogenheter till andra medlemmar i CSIRT-nätverket på deras begäran.
+
+g) I tillämpliga fall, fungera som processamordnare för den samordnade delgivningen av information om sårbarheter enligt artikel [12.1](#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas).
+
+h) Bidrag till införandet av säkra verktyg för informationsutbyte enligt artikel [10.3](#artikel-10-enheter-för-hantering-av-it-säkerhetsincidenter-csirt-enheter).
+
+CSIRT-enheterna får utföra en proaktiv, icke-inkräktande skanning av väsentliga och viktiga entiteters allmänt tillgängliga nätverks- och informationssystem. Sådan skanning ska utföras för att upptäcka sårbara eller osäkert konfigurerade nätverks- och informationssystem och informera de berörda enheterna. Sådan skanning får inte ha någon negativ inverkan på hur entiteternas tjänster fungerar.
+
+När CSIRT-enheterna utför de uppgifter som avses i första stycket får de prioritera särskilda uppgifter på grundval av en riskbaserad metod.
+
+4\. CSIRT-enheterna ska upprätta samarbetsförbindelser med relevanta intressenter inom den privata sektorn i syfte att uppnå målen för [detta direktiv](/lagstiftning/nis2).
+
+5\. För att underlätta det samarbete som avses i punkt 4 ska CSIRT-enheterna främja antagande och användning av gemensamma eller standardiserade metoder, klassificeringssystem och taxonomier när det gäller
+
+a) förfaranden för incidenthantering,
+
+b) krishantering, och
+
+c) samordnad delgivning av information om sårbarheter enligt artikel [12.1](#artikel-12-samordnad-delgivning-av-information-om-sårbarheter-och-en-europeisk-sårbarhetsdatabas).
+
+### Artikel 12 – Samordnad delgivning av information om sårbarheter och en europeisk sårbarhetsdatabas
+
+1\. Varje medlemsstat ska utse en av sina CSIRT-enheter till samordnare för den samordnade delgivningen av informationen om sårbarheter. Den CSIRT-enhet som utsetts till samordnare ska fungera som betrodd mellanhand och vid behov underlätta interaktionen mellan en fysisk eller juridisk person som rapporterar en sårbarhet och tillverkaren eller leverantören av de potentiellt sårbara IKT-produkterna eller IKT-tjänsterna, på begäran av endera parten. Den CSIRT-enhet som utsetts till samordnare ska bland annat
+
+a) identifiera och kontakta de berörda entiteterna,
+
+b) stödja de fysiska eller juridiska personer som rapporterar en sårbarhet, och
+
+c) förhandla om tidsramar för delgivning av information och hantera sårbarheter som påverkar flera entiteter.
+
+Medlemsstaterna ska säkerställa att fysiska eller juridiska personer kan, anonymt om de så begär, rapportera en sårbarhet till den CSIRT-enhet som utsetts till samordnare. Den CSIRT-enhet som utsetts till samordnare ska säkerställa att skyndsamma uppföljningsåtgärder vidtas med avseende på den rapporterade sårbarheten och ska säkerställa anonymiteten för den fysiska eller juridiska person som rapporterar sårbarheten. Om en rapporterad sårbarhet kan ha en betydande påverkan på entiteter i fler än en medlemsstat, ska den CSIRT-enhet som utsetts till samordnare i varje berörd medlemsstat, när det är lämpligt, samarbeta med andra CSIRT-enheter som utsetts till samordnare inom CSIRT-nätverket.
+
+2\. Enisa ska, efter samråd med samarbetsgruppen, utveckla och underhålla en europeisk sårbarhetsdatabas. I detta syfte ska Enisa inrätta och underhålla lämpliga informationssystem, riktlinjer och förfaranden och anta nödvändiga tekniska och organisatoriska åtgärder för att säkerställa den europeiska sårbarhetsdatabasens säkerhet och integritet, särskilt för att göra det möjligt för entiteter, oberoende om de omfattas av tillämpningsområdet för [detta direktiv](/lagstiftning/nis2), och deras leverantörer av nätverks- och informationssystem, att på frivillig basis lämna information om och registrera allmänt kända sårbarheter hos IKT-produkter eller IKT-tjänster. Alla intressenter ska få tillgång till informationen om de sårbarheter som finns i den europeiska sårbarhetsdatabasen. Databasen ska innehålla
+
+a) information som beskriver sårbarheten,
+
+b) den berörda IKT-produkten eller IKT-tjänsten och hur allvarlig sårbarheten är med tanke på de omständigheter under vilka den kan utnyttjas,
+
+c) tillgången till relaterade programfixar och, i avsaknad av tillgängliga programfixar, vägledning som tillhandahållits av behöriga myndigheter eller CSIRT-enheter riktad till användare av sårbara IKT-produkter och IKT-tjänster om hur riskerna med meddelade sårbarheter kan begränsas.
+
+### Artikel 13 – Samarbete på nationell nivå
+
+1\. Om de är separata ska de behöriga myndigheterna, den gemensamma kontaktpunkten och CSIRT-enheterna i en och samma medlemsstat samarbeta sinsemellan när det gäller fullgörandet av skyldigheter enligt [detta direktiv](/lagstiftning/nis2).
+
+2\. Medlemsstaterna ska säkerställa att deras CSIRT-enheter eller, i tillämpliga fall, deras behöriga myndigheter, mottar underrättelser om betydande incidenter enligt artikel [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), och incidenter, cyberhot och tillbud enligt artikel [30](/lagstiftning/nis2/kap-6#artikel-30-frivillig-underrättelse-om-relevant-information).
+
+3\. Medlemsstaterna ska säkerställa att deras CSIRT-enheter eller, i tillämpliga fall, deras behöriga myndigheter informerar sina gemensamma kontaktpunkter om de underrättelser om incidenter, cyberhot och tillbud som lämnas in i enlighet med [detta direktiv](/lagstiftning/nis2).
+
+4\. För att säkerställa att de behöriga myndigheternas, de gemensamma kontaktpunkternas och CSIRT-enheternas uppgifter och skyldigheter utförs på ett effektivt sätt, ska medlemsstaterna, i den utsträckning det är möjligt, säkerställa ett lämpligt samarbete mellan dessa organ och brottsbekämpande myndigheter, dataskyddsmyndigheter, nationella myndigheter enligt [förordningarna (EG) nr 300/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0300) och [(EU) 2018/1139](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1139), tillsynsorganen enligt [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910), behöriga myndigheter enligt [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554), nationella regleringsmyndigheter enligt [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972), behöriga myndigheter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer) samt behöriga myndigheter enligt andra sektorsspecifika unionsrättsakter, i den medlemsstaten.
+
+5\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) och deras behöriga myndigheter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer) regelbundet samarbetar och utbyter information avseende identifieringen av kritiska entiteter, om risker, cyberhot och incidenter samt icke-cyberrelaterade risker, hot och incidenter som berör väsentliga entiteter som identifierats som kritiska i enlighet med [direktiv (EU) 2022/2557](/lagstiftning/cer), samt om de åtgärder som vidtagits till följd av sådana risker, hot och incidenter. Medlemsstaterna ska också säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) och deras behöriga myndigheter enligt [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910), [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) regelbundet utbyter relevant information, även när det gäller relevanta incidenter och cyberhot.
+
+6\. Medlemsstaterna ska förenkla rapporteringen med tekniska medel för de underrättelser som avses i artiklarna [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) och [30](/lagstiftning/nis2/kap-6#artikel-30-frivillig-underrättelse-om-relevant-information).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

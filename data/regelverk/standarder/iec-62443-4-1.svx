@@ -1,0 +1,30 @@
+---
+title: IEC 62443-4-1
+description: Krav på säker produktutvecklingscykel för IACS-komponenter.
+designation: IEC 62443-4-1:2018
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+  - it
+url: https://webstore.iec.ch/en/publication/33615
+published: 2018-01-15
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Del 4-1 ställer processkrav på tillverkares säkra utvecklingslivscykel för produkter i industriella styrsystem, från kravdefinition till sårbarhetshantering och produktens livsslut.
+
+Officiell källa: [IEC 62443-4-1:2018](https://webstore.iec.ch/en/publication/33615).
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+<!-- scan-standards:end -->

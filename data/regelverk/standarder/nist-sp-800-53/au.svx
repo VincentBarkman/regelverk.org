@@ -1,0 +1,340 @@
+---
+title: AU – Audit and Accountability
+description: NIST SP 800-53 Rev. 5 – AU – Audit and Accountability
+source: nist-sp-800-53
+ref: AU
+designation: NIST SP 800-53 Rev. 5
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+  - fysisk
+url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### AU-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1. [organization-level or mission/business process-level or system-level] audit and accountability policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the audit and accountability policy and the associated audit and accountability controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the audit and accountability policy and procedures; and
+- c. Review and update the current audit and accountability:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### AU-2 – Event Logging
+
+- a. Identify the types of events that the system is capable of logging in support of the audit function: [organization-defined event types];
+- b. Coordinate the event logging function with other organizational entities requiring audit-related information to guide and inform the selection criteria for events to be logged;
+- c. Specify the following event types for logging within the system: [organization-defined event types (subset of the event types defined in [AU-2a.](#au-2_smt.a)) along with the frequency of (or situation requiring) logging for each identified event type];
+- d. Provide a rationale for why the event types selected for logging are deemed to be adequate to support after-the-fact investigations of incidents; and
+- e. Review and update the event types selected for logging [organization-defined frequency].
+
+#### AU-2(1) – Compilation of Audit Records from Multiple Sources
+
+
+
+#### AU-2(2) – Selection of Audit Events by Component
+
+
+
+#### AU-2(3) – Reviews and Updates
+
+
+
+#### AU-2(4) – Privileged Functions
+
+
+
+### AU-3 – Content of Audit Records
+
+Ensure that audit records contain information that establishes the following:
+- a. What type of event occurred;
+- b. When the event occurred;
+- c. Where the event occurred;
+- d. Source of the event;
+- e. Outcome of the event; and
+- f. Identity of any individuals, subjects, or objects/entities associated with the event.
+
+#### AU-3(1) – Additional Audit Information
+
+Generate audit records containing the following additional information: [organization-defined additional information].
+
+#### AU-3(2) – Centralized Management of Planned Audit Record Content
+
+
+
+#### AU-3(3) – Limit Personally Identifiable Information Elements
+
+Limit personally identifiable information contained in audit records to the following elements identified in the privacy risk assessment: [organization-defined elements].
+
+### AU-4 – Audit Log Storage Capacity
+
+Allocate audit log storage capacity to accommodate [organization-defined audit log retention requirements].
+
+#### AU-4(1) – Transfer to Alternate Storage
+
+Transfer audit logs [organization-defined frequency] to a different system, system component, or media other than the system or system component conducting the logging.
+
+### AU-5 – Response to Audit Logging Process Failures
+
+- a. Alert [organization-defined personnel or roles] within [organization-defined time period] in the event of an audit logging process failure; and
+- b. Take the following additional actions: [organization-defined additional actions].
+
+#### AU-5(1) – Storage Capacity Warning
+
+Provide a warning to [organization-defined personnel, roles, and/or locations] within [organization-defined time period] when allocated audit log storage volume reaches [organization-defined percentage] of repository maximum audit log storage capacity.
+
+#### AU-5(2) – Real-time Alerts
+
+Provide an alert within [organization-defined real-time period] to [organization-defined personnel, roles, and/or locations] when the following audit failure events occur: [organization-defined audit logging failure events requiring real-time alerts].
+
+#### AU-5(3) – Configurable Traffic Volume Thresholds
+
+Enforce configurable network communications traffic volume thresholds reflecting limits on audit log storage capacity and [reject or delay] network traffic above those thresholds.
+
+#### AU-5(4) – Shutdown on Failure
+
+Invoke a [full system shutdown or partial system shutdown or degraded operational mode with limited mission or business functionality available] in the event of [organization-defined audit logging failures] , unless an alternate audit logging capability exists.
+
+#### AU-5(5) – Alternate Audit Logging Capability
+
+Provide an alternate audit logging capability in the event of a failure in primary audit logging capability that implements [organization-defined alternate audit logging functionality].
+
+### AU-6 – Audit Record Review, Analysis, and Reporting
+
+- a. Review and analyze system audit records [organization-defined frequency] for indications of [organization-defined inappropriate or unusual activity] and the potential impact of the inappropriate or unusual activity;
+- b. Report findings to [organization-defined personnel or roles] ; and
+- c. Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
+
+#### AU-6(1) – Automated Process Integration
+
+Integrate audit record review, analysis, and reporting processes using [organization-defined automated mechanisms].
+
+#### AU-6(2) – Automated Security Alerts
+
+
+
+#### AU-6(3) – Correlate Audit Record Repositories
+
+Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
+
+#### AU-6(4) – Central Review and Analysis
+
+Provide and implement the capability to centrally review and analyze audit records from multiple components within the system.
+
+#### AU-6(5) – Integrated Analysis of Audit Records
+
+Integrate analysis of audit records with analysis of [vulnerability scanning information or performance data or system monitoring information or [organization-defined data/information collected from other sources] ] to further enhance the ability to identify inappropriate or unusual activity.
+
+#### AU-6(6) – Correlation with Physical Monitoring
+
+Correlate information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.
+
+#### AU-6(7) – Permitted Actions
+
+Specify the permitted actions for each [system process or role or user] associated with the review, analysis, and reporting of audit record information.
+
+#### AU-6(8) – Full Text Analysis of Privileged Commands
+
+Perform a full text analysis of logged privileged commands in a physically distinct component or subsystem of the system, or other system that is dedicated to that analysis.
+
+#### AU-6(9) – Correlation with Information from Nontechnical Sources
+
+Correlate information from nontechnical sources with audit record information to enhance organization-wide situational awareness.
+
+#### AU-6(10) – Audit Level Adjustment
+
+
+
+### AU-7 – Audit Record Reduction and Report Generation
+
+Provide and implement an audit record reduction and report generation capability that:
+- a. Supports on-demand audit record review, analysis, and reporting requirements and after-the-fact investigations of incidents; and
+- b. Does not alter the original content or time ordering of audit records.
+
+#### AU-7(1) – Automatic Processing
+
+Provide and implement the capability to process, sort, and search audit records for events of interest based on the following content: [organization-defined fields within audit records].
+
+#### AU-7(2) – Automatic Sort and Search
+
+
+
+### AU-8 – Time Stamps
+
+- a. Use internal system clocks to generate time stamps for audit records; and
+- b. Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.
+
+#### AU-8(1) – Synchronization with Authoritative Time Source
+
+
+
+#### AU-8(2) – Secondary Authoritative Time Source
+
+
+
+### AU-9 – Protection of Audit Information
+
+- a. Protect audit information and audit logging tools from unauthorized access, modification, and deletion; and
+- b. Alert [organization-defined personnel or roles] upon detection of unauthorized access, modification, or deletion of audit information.
+
+#### AU-9(1) – Hardware Write-once Media
+
+Write audit trails to hardware-enforced, write-once media.
+
+#### AU-9(2) – Store on Separate Physical Systems or Components
+
+Store audit records [organization-defined frequency] in a repository that is part of a physically different system or system component than the system or component being audited.
+
+#### AU-9(3) – Cryptographic Protection
+
+Implement cryptographic mechanisms to protect the integrity of audit information and audit tools.
+
+#### AU-9(4) – Access by Subset of Privileged Users
+
+Authorize access to management of audit logging functionality to only [organization-defined subset of privileged users or roles].
+
+#### AU-9(5) – Dual Authorization
+
+Enforce dual authorization for [movement or deletion] of [organization-defined audit information].
+
+#### AU-9(6) – Read-only Access
+
+Authorize read-only access to audit information to [organization-defined subset of privileged users or roles].
+
+#### AU-9(7) – Store on Component with Different Operating System
+
+Store audit information on a component running a different operating system than the system or component being audited.
+
+### AU-10 – Non-repudiation
+
+Provide irrefutable evidence that an individual (or process acting on behalf of an individual) has performed [organization-defined actions].
+
+#### AU-10(1) – Association of Identities
+
+- (a) Bind the identity of the information producer with the information to [organization-defined strength of binding] ; and
+- (b) Provide the means for authorized individuals to determine the identity of the producer of the information.
+
+#### AU-10(2) – Validate Binding of Information Producer Identity
+
+- (a) Validate the binding of the information producer identity to the information at [organization-defined frequency] ; and
+- (b) Perform [organization-defined actions] in the event of a validation error.
+
+#### AU-10(3) – Chain of Custody
+
+Maintain reviewer or releaser credentials within the established chain of custody for information reviewed or released.
+
+#### AU-10(4) – Validate Binding of Information Reviewer Identity
+
+- (a) Validate the binding of the information reviewer identity to the information at the transfer or release points prior to release or transfer between [organization-defined security domains] ; and
+- (b) Perform [organization-defined actions] in the event of a validation error.
+
+#### AU-10(5) – Digital Signatures
+
+
+
+### AU-11 – Audit Record Retention
+
+Retain audit records for [organization-defined time period] to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements.
+
+#### AU-11(1) – Long-term Retrieval Capability
+
+Employ [organization-defined measures] to ensure that long-term audit records generated by the system can be retrieved.
+
+### AU-12 – Audit Record Generation
+
+- a. Provide audit record generation capability for the event types the system is capable of auditing as defined in [AU-2a](#au-2_smt.a) on [organization-defined system components];
+- b. Allow [organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
+- c. Generate audit records for the event types defined in [AU-2c](#au-2_smt.c) that include the audit record content defined in [AU-3](#au-3).
+
+#### AU-12(1) – System-wide and Time-correlated Audit Trail
+
+Compile audit records from [organization-defined system components] into a system-wide (logical or physical) audit trail that is time-correlated to within [organization-defined level of tolerance].
+
+#### AU-12(2) – Standardized Formats
+
+Produce a system-wide (logical or physical) audit trail composed of audit records in a standardized format.
+
+#### AU-12(3) – Changes by Authorized Individuals
+
+Provide and implement the capability for [organization-defined individuals or roles] to change the logging to be performed on [organization-defined system components] based on [organization-defined selectable event criteria] within [organization-defined time thresholds].
+
+#### AU-12(4) – Query Parameter Audits of Personally Identifiable Information
+
+Provide and implement the capability for auditing the parameters of user query events for data sets containing personally identifiable information.
+
+### AU-13 – Monitoring for Information Disclosure
+
+- a. Monitor [organization-defined open-source information and/or information sites] [organization-defined frequency] for evidence of unauthorized disclosure of organizational information; and
+- b. If an information disclosure is discovered:
+  - 1. Notify [organization-defined personnel or roles] ; and
+  - 2. Take the following additional actions: [organization-defined additional actions].
+
+#### AU-13(1) – Use of Automated Tools
+
+Monitor open-source information and information sites using [organization-defined automated mechanisms].
+
+#### AU-13(2) – Review of Monitored Sites
+
+Review the list of open-source information sites being monitored [organization-defined frequency].
+
+#### AU-13(3) – Unauthorized Replication of Information
+
+Employ discovery techniques, processes, and tools to determine if external entities are replicating organizational information in an unauthorized manner.
+
+### AU-14 – Session Audit
+
+- a. Provide and implement the capability for [organization-defined users or roles] to [record or view or hear or log] the content of a user session under [organization-defined circumstances] ; and
+- b. Develop, integrate, and use session auditing activities in consultation with legal counsel and in accordance with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines.
+
+#### AU-14(1) – System Start-up
+
+Initiate session audits automatically at system start-up.
+
+#### AU-14(2) – Capture and Record Content
+
+
+
+#### AU-14(3) – Remote Viewing and Listening
+
+Provide and implement the capability for authorized users to remotely view and hear content related to an established user session in real time.
+
+### AU-15 – Alternate Audit Logging Capability
+
+
+
+### AU-16 – Cross-organizational Audit Logging
+
+Employ [organization-defined methods] for coordinating [organization-defined audit information] among external organizations when audit information is transmitted across organizational boundaries.
+
+#### AU-16(1) – Identity Preservation
+
+Preserve the identity of individuals in cross-organizational audit trails.
+
+#### AU-16(2) – Sharing of Audit Information
+
+Provide cross-organizational audit information to [organization-defined organizations] based on [organization-defined cross-organizational sharing agreements].
+
+#### AU-16(3) – Disassociability
+
+Implement [organization-defined measures] to disassociate individuals from audit information transmitted across organizational boundaries.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_catalog.json).
+<!-- scan-standards:end -->

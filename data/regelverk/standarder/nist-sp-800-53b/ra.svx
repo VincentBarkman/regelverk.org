@@ -1,0 +1,96 @@
+---
+title: RA – Risk Assessment
+description: NIST SP 800-53B – RA – Risk Assessment
+source: nist-sp-800-53b
+ref: RA
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### RA-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] risk assessment policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the risk assessment policy and the associated risk assessment controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the risk assessment policy and procedures; and
+- c. Review and update the current risk assessment:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### RA-2 – Security Categorization
+
+- a. Categorize the system and information it processes, stores, and transmits;
+- b. Document the security categorization results, including supporting rationale, in the security plan for the system; and
+- c. Verify that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
+
+### RA-3 – Risk Assessment
+
+- a. Conduct a risk assessment, including:
+  - 1. Identifying threats to and vulnerabilities in the system;
+  - 2. Determining the likelihood and magnitude of harm from unauthorized access, use, disclosure, disruption, modification, or destruction of the system, the information it processes, stores, or transmits, and any related information; and
+  - 3. Determining the likelihood and impact of adverse effects on individuals arising from the processing of personally identifiable information;
+- b. Integrate risk assessment results and risk management decisions from the organization and mission or business process perspectives with system-level risk assessments;
+- c. Document risk assessment results in [security and privacy plans or risk assessment report or  [organization-defined document] ];
+- d. Review risk assessment results [organization-defined frequency];
+- e. Disseminate risk assessment results to [organization-defined personnel or roles] ; and
+- f. Update the risk assessment [organization-defined frequency] or when there are significant changes to the system, its environment of operation, or other conditions that may impact the security or privacy state of the system.
+
+#### RA-3(1) – Supply Chain Risk Assessment
+
+- (a) Assess supply chain risks associated with [organization-defined systems, system components, and system services] ; and
+- (b) Update the supply chain risk assessment [organization-defined frequency] , when there are significant changes to the relevant supply chain, or when changes to the system, environments of operation, or other conditions may necessitate a change in the supply chain.
+
+### RA-5 – Vulnerability Monitoring and Scanning
+
+- a. Monitor and scan for vulnerabilities in the system and hosted applications [organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system are identified and reported;
+- b. Employ vulnerability monitoring tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
+  - 1. Enumerating platforms, software flaws, and improper configurations;
+  - 2. Formatting checklists and test procedures; and
+  - 3. Measuring vulnerability impact;
+- c. Analyze vulnerability scan reports and results from vulnerability monitoring;
+- d. Remediate legitimate vulnerabilities [organization-defined response times] in accordance with an organizational assessment of risk;
+- e. Share information obtained from the vulnerability monitoring process and control assessments with [organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and
+- f. Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.
+
+#### RA-5(2) – Update Vulnerabilities to Be Scanned
+
+Update the system vulnerabilities to be scanned [ [organization-defined frequency]  or prior to a new scan or when new vulnerabilities are identified and reported].
+
+#### RA-5(5) – Privileged Access
+
+Implement privileged access authorization to [organization-defined system components] for [organization-defined vulnerability scanning activities].
+
+#### RA-5(11) – Public Disclosure Program
+
+Establish a public reporting channel for receiving reports of vulnerabilities in organizational systems and system components.
+
+### RA-7 – Risk Response
+
+Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.
+
+### RA-9 – Criticality Analysis
+
+Identify critical system components and functions by performing a criticality analysis for [organization-defined systems, system components, or system services] at [organization-defined decision points in the system development life cycle].
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

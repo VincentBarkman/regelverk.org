@@ -1,0 +1,25 @@
+---
+title: PCI DSS – Payment Card Industry Data Security Standard
+description: Requirements standard for protecting cardholder data across the
+  payment card industry.
+designation: PCI DSS v4.0.1
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: PCI SSC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - it
+url: https://www.pcisecuritystandards.org/standards/pci-dss/
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+PCI DSS defines twelve requirement areas for organisations that store, process or transmit cardholder data. The standard is published by the PCI Security Standards Council; the current version 4.0.1 was released in 2024. The standard text is obtained from the PCI SSC document library.
+
+Official source: [PCI DSS v4.0.1](https://www.pcisecuritystandards.org/standards/pci-dss/).
+<!-- scan-standards:end -->

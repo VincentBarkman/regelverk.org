@@ -1,0 +1,91 @@
+---
+title: 03.05 – Identification and Authentication
+description: NIST SP 800-171 Rev. 3 – 03.05 – Identification and Authentication
+source: nist-sp-800-171
+ref: 03-05
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+### 03.05.01 – User Identification and Authentication
+
+- SR-03.05.01.a Uniquely identify and authenticate system users, and associate that unique identification with processes acting on behalf of those users.
+- SR-03.05.01.b Re-authenticate users when [organization-defined circumstances or situations] .
+
+### 03.05.02 – Device Identification and Authentication
+
+Uniquely identify and authenticate [organization-defined devices or types of devices] before establishing a system connection.
+
+### 03.05.03 – Multi-Factor Authentication
+
+Implement multi-factor authentication for access to privileged and non-privileged accounts.
+
+### 03.05.04 – Replay-Resistant Authentication
+
+Implement replay-resistant authentication mechanisms for access to privileged and non-privileged accounts.
+
+### 03.05.05 – Identifier Management
+
+- SR-03.05.05.a Receive authorization from organizational personnel or roles to assign an individual, group, role, service, or device identifier.
+- SR-03.05.05.b Select and assign an identifier that identifies an individual, group, role, service, or device.
+- SR-03.05.05.c Prevent the reuse of identifiers for [organization-defined time period].
+- SR-03.05.05.d Manage individual identifiers by uniquely identifying each individual as [organization-defined characteristic].
+
+### SP_800_171_03.05.06 – 03.05.06
+
+
+
+### 03.05.07 – Password Management
+
+- SR-03.05.07.a Maintain a list of commonly-used, expected, or compromised passwords, and update the list [organization-defined frequency] and when organizational passwords are suspected to have been compromised.
+- SR-03.05.07.b Verify that passwords are not found on the list of commonly used, expected, or compromised passwords when users create or update passwords.
+- SR-03.05.07.c Transmit passwords only over cryptographically protected channels.
+- SR-03.05.07.d Store passwords in a cryptographically protected form.
+- SR-03.05.07.e Select a new password upon first use after account recovery.
+- SR-03.05.07.f Enforce the following composition and complexity rules for passwords: [organization-defined rules].
+
+### SP_800_171_03.05.08 – 03.05.08
+
+
+
+### SP_800_171_03.05.09 – 03.05.09
+
+
+
+### SP_800_171_03.05.10 – 03.05.10
+
+
+
+### 03.05.11 – Authentication Feedback
+
+Obscure feedback of authentication information during the authentication process.
+
+### 03.05.12 – Authenticator Management
+
+- SR-03.05.12.a Verify the identity of the individual, group, role, service, or device receiving the authenticator as part of the initial authenticator distribution.
+- SR-03.05.12.b Establish initial authenticator content for any authenticators issued by the organization.
+- SR-03.05.12.c Establish and implement administrative procedures for initial authenticator distribution; for lost, compromised, or damaged authenticators; and for revoking authenticators.
+- SR-03.05.12.d Change default authenticators at first use.
+- SR-03.05.12.e Change or refresh authenticators [organization-defined frequency] or when the following events occur: [organization-defined events].
+- SR-03.05.12.f Protect authenticator content from unauthorized disclosure and modification.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

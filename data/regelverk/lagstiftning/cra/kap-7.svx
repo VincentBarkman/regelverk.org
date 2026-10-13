@@ -1,0 +1,82 @@
+---
+'source': 'cra'
+'ref': 'Kapitel VII'
+'title': 'Kapitel VII – KONFIDENTIALITET OCH SANKTIONER'
+'kind': 'chapter'
+'description': 'CRA-förordningen, Kapitel VII.'
+'designation': 'CRA-förordningen Kapitel VII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847#cpt_VII'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 63 – Konfidentialitet
+
+1\. Alla parter som deltar i tillämpningen av [denna förordning](/lagstiftning/cra) ska respektera konfidentialiteten för den information och de data som de erhåller när de utför sina uppgifter och sin verksamhet på ett sådant sätt att de skyddar följande:
+
+a) Immateriella rättigheter och en fysisk eller juridisk persons konfidentiella affärsinformation eller företagshemligheter, inbegripet källkod, utom i de fall som avses i artikel [5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) i [Europaparlamentets och rådets direktiv (EU) 2016/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) (37).
+
+b) Ett ändamålsenligt genomförande av [denna förordning](/lagstiftning/cra), särskilt med avseende på inspektioner, utredningar eller revisioner.
+
+c) Intressen som rör allmän och nationell säkerhet.
+
+d) Integriteten i straffrättsliga eller administrativa förfaranden.
+
+2\. Utan att det påverkar tillämpningen av punkt 1 får information som utbyts på konfidentiell basis mellan marknadskontrollmyndigheterna och mellan marknadskontrollmyndigheter och kommissionen inte lämnas ut utan föregående samtycke från den marknadskontrollmyndighet som ursprungligen lämnat informationen.
+
+3\. Punkterna 1 och 2 påverkar inte kommissionens, medlemsstaternas och de anmälda organens rättigheter och skyldigheter när det gäller att utbyta information och utfärda varningar och inte heller de berörda personernas skyldighet att lämna information enligt medlemsstaternas straffrätt.
+
+4\. Kommissionen och medlemsstaterna får vid behov utbyta känslig information med berörda myndigheter i tredjeländer med vilka de har slutit bilaterala eller multilaterala avtal om konfidentialitet som garanterar en tillräcklig skyddsnivå.
+
+### Artikel 64 – Sanktioner
+
+1\. Medlemsstaterna ska fastställa regler om sanktioner för överträdelser av bestämmelserna i [denna förordning](/lagstiftning/cra) och vidta alla nödvändiga åtgärder för att säkerställa att de tillämpas. Sanktionerna ska vara effektiva, proportionella och avskräckande. Medlemsstaterna ska till kommissionen anmäla dessa regler och åtgärder utan dröjsmål samt utan dröjsmål eventuella ändringar som berör dem.
+
+2\. Bristande efterlevnad av de väsentliga cybersäkerhetskrav som anges i bilaga I och de skyldigheter som fastställs i artiklarna [13](/lagstiftning/cra/kap-2#artikel-13-tillverkares-skyldigheter) och [14](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter) ska medföra administrativa sanktionsavgifter på upp till 15 000 000 EUR eller, om överträdelsen begås av ett företag, upp till 2,5 % av dess totala globala årsomsättning under det föregående räkenskapsåret, beroende på vilket som är högst.
+
+3\. Bristande efterlevnad av de skyldigheter som anges i artiklarna [18](/lagstiftning/cra/kap-2#artikel-18-tillverkarens-representanter)–[23](/lagstiftning/cra/kap-2#artikel-23-identifiering-av-ekonomiska-aktörer), [28](/lagstiftning/cra/kap-3#artikel-28-eu-försäkran-om-överensstämmelse), [30.1](/lagstiftning/cra/kap-3#artikel-30-regler-och-villkor-för-anbringande-av-ce-märkning)–[30.4](/lagstiftning/cra/kap-3#artikel-30-regler-och-villkor-för-anbringande-av-ce-märkning), [31.1](/lagstiftning/cra/kap-3#artikel-31-teknisk-dokumentation)–[31.4](/lagstiftning/cra/kap-3#artikel-31-teknisk-dokumentation), [32.1](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element), [32.2](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element) och [32.3](/lagstiftning/cra/kap-3#artikel-32-förfaranden-för-bedömning-av-överensstämmelse-för-produkter-med-digitala-element). Artiklarna [33.5](/lagstiftning/cra/kap-3#artikel-33-stödåtgärder-för-mikroföretag-och-små-och-medelstora-företag-inbegripet-uppstartsföretag), [39](/lagstiftning/cra/kap-4#artikel-39-krav-på-anmälda-organ), [41](/lagstiftning/cra/kap-4#artikel-41-dotterbolag-och-underentreprenörer-till-anmälda-organ), [47](/lagstiftning/cra/kap-4#artikel-47-de-anmälda-organens-operativa-skyldigheter), [49](/lagstiftning/cra/kap-4#artikel-49-de-anmälda-organens-informationsskyldighet) och [53](/lagstiftning/cra/kap-5#artikel-53-tillgång-till-data-och-dokumentation) ska bli föremål för administrativa sanktionsavgifter på upp till 10 000 000 EUR eller, om överträdelsen begås av ett företag, upp till 2 % av dess totala globala årsomsättning för det föregående räkenskapsåret, beroende på vilket som är högst.
+
+4\. Tillhandahållande av oriktig, ofullständig eller vilseledande information till anmälda organ och marknadskontrollmyndigheter som svar på en begäran ska medföra administrativa sanktionsavgifter på upp till 5 000 000 EUR eller, om överträdelsen begås av ett företag, upp till 1 % av dess totala globala årsomsättning för det föregående räkenskapsåret, beroende på vilket som är högst.
+
+5\. Vid beslut om storleken på den administrativa sanktionsavgiften i varje enskilt fall ska alla relevanta omständigheter i den specifika situationen beaktas och vederbörlig hänsyn ska tas till
+
+a) överträdelsens art, allvarlighetsgrad och varaktighet samt dess konsekvenser,
+
+b) huruvida administrativa sanktionsavgifter redan har påförts av samma eller andra marknadskontrollmyndigheter på samma ekonomiska aktör för en liknande överträdelse,
+
+c) storleken på, särskilt när det gäller mikroföretag, små och medelstora företag, inbegripet uppstartsföretag, och marknadsandelen för den ekonomiska aktör som begått överträdelsen.
+
+6\. Marknadskontrollmyndigheter som påför administrativa sanktionsavgifter ska meddela marknadskontrollmyndigheterna i andra medlemsstater detta via det informations- och kommunikationssystem som avses i artikel [34](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+7\. Varje medlemsstat ska fastställa regler för huruvida och i vilken utsträckning administrativa sanktionsavgifter kan påföras offentliga myndigheter och offentliga organ som är inrättade i medlemsstaten.
+
+8\. Beroende på medlemsstatens rättssystem kan reglerna om administrativa sanktionsavgifter tillämpas på ett sådant sätt att sanktionsavgifterna utdöms av behöriga nationella domstolar eller andra organ, i enlighet med befogenheter som fastställs på nationell nivå i dessa medlemsstater. Tillämpningen av sådana regler i dessa medlemsstater ska ha motsvarande verkan.
+
+9\. Administrativa sanktionsavgifter får, beroende på omständigheterna i det enskilda fallet, påföras utöver eventuella andra korrigerande eller begränsande åtgärder som marknadskontrollmyndigheterna tillämpar på samma överträdelse.
+
+10\. Genom undantag från punkterna 3–9 ska de administrativa sanktionsavgifter som avses i dessa punkter inte tillämpas på följande:
+
+a) Tillverkare som klassificeras som mikroföretag eller små företag när det gäller underlåtenhet att iaktta den tidsfrist som avses i artikel [14.2 a](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter) eller [14.4 a](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter).
+
+b) Alla överträdelser av [denna förordning](/lagstiftning/cra) som begås av förvaltare av programvara med fri och öppen källkod.
+
+### Artikel 65 – Grupptalan
+
+[Direktiv (EU) 2020/1828](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020L1828) ska tillämpas på grupptalan om ekonomiska aktörers överträdelser av bestämmelserna i [denna förordning](/lagstiftning/cra) som skadar eller kan skada konsumenternas kollektiva intressen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

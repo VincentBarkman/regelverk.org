@@ -1,0 +1,27 @@
+---
+title: IEC 60364-1
+description: Grundläggande principer och säkerhetskrav för lågspänningsinstallationer.
+designation: IEC 60364-1:2025
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - el
+url: https://webstore.iec.ch/en/publication/63699
+published: 2025-09-05
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+IEC 60364-1 anger grundläggande principer för säkra elektriska lågspänningsinstallationer och introducerar bedömningen av installationens allmänna förutsättningar. Del 1 ger ramen för de övriga delarna i serien.
+
+Vid projektering behöver kraven i relevanta delstandarder och tillämpliga nationella regler läsas tillsammans. Utgåvan från 2025 ersätter den tidigare utgåvan från 2005.
+
+Officiell källa: [IEC 60364-1:2025](https://webstore.iec.ch/en/publication/63699).
+<!-- scan-standards:end -->

@@ -1,0 +1,34 @@
+---
+'source': 'cybersakerhetslagen'
+'ref': '5 kap.'
+'title': '5 kap. – Överklagande'
+'kind': 'chapter'
+'description': 'Cybersäkerhetslagen, 5 kap..'
+'designation': 'Cybersäkerhetslagen 5 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/#K5'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Tillsynsmyndighetens beslut enligt [denna lag](/lagstiftning/cybersakerhetslagen) får överklagas till allmän förvaltningsdomstol. När ett sådant beslut överklagas är tillsynsmyndigheten motpart i domstolen. Övriga beslut får inte överklagas.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

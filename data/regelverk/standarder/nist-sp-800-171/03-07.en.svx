@@ -1,0 +1,60 @@
+---
+title: 03.07 – Maintenance
+description: NIST SP 800-171 Rev. 3 – 03.07 – Maintenance
+source: nist-sp-800-171
+ref: 03-07
+designation: NIST SP 800-171 Rev. 3
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/171/r3/final
+version: 1.1.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### SP_800_171_03.07.01 – 03.07.01
+
+
+
+### SP_800_171_03.07.02 – 03.07.02
+
+
+
+### SP_800_171_03.07.03 – 03.07.03
+
+
+
+### 03.07.04 – Maintenance Tools
+
+- SR-03.07.04.a Approve, control, and monitor the use of system maintenance tools.
+- SR-03.07.04.b Check media with diagnostic and test programs for malicious code before it is used in the system.
+- SR-03.07.04.c Prevent the removal of system maintenance equipment containing CUI by verifying that there is no CUI on the equipment, sanitizing or destroying the equipment, or retaining the equipment within the facility.
+
+### 03.07.05 – Nonlocal Maintenance
+
+- SR-03.07.05.a Approve and monitor nonlocal maintenance and diagnostic activities.
+- SR-03.07.05.b Implement multi-factor authentication and replay resistance in the establishment of nonlocal maintenance and diagnostic sessions.
+- SR-03.07.05.c Terminate session and network connections when nonlocal maintenance is completed.
+
+### 03.07.06 – Maintenance Personnel
+
+- SR-03.07.06.a Establish a process for maintenance personnel authorization.
+- SR-03.07.06.b Maintain a list of authorized maintenance organizations or personnel.
+- SR-03.07.06.c Verify that non-escorted personnel who perform maintenance on the system possess the required access authorizations.
+- SR-03.07.06.d Designate organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 1.1.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-171/rev3/json/NIST_SP800-171_rev3_catalog.json).
+<!-- scan-standards:end -->

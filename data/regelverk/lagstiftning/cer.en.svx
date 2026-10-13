@@ -1,0 +1,38 @@
+---
+'name': 'CER directive'
+'title': 'Directive (EU) 2022/2557 of the European Parliament and of the Council'
+'type': 'eu-directive'
+'description': 'EU directive on the resilience of critical entities.'
+'designation': 'EU 2022/2557'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2022-12-14'
+'applies-from': '2024-10-18'
+'related':
+  - 'nis2'
+'sites':
+  - 'ot'
+  - 'fysisk'
+  - 'it'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – GENERAL PROVISIONS](/lagstiftning/cer/kap-1) · Articles 1–3
+- [Chapter II – NATIONAL FRAMEWORKS ON THE RESILIENCE OF CRITICAL ENTITIES](/lagstiftning/cer/kap-2) · Articles 4–11
+- [Chapter III – RESILIENCE OF CRITICAL ENTITIES](/lagstiftning/cer/kap-3) · Articles 12–16
+- [Chapter IV – CRITICAL ENTITIES OF PARTICULAR EUROPEAN SIGNIFICANCE](/lagstiftning/cer/kap-4) · Articles 17–18
+- [Chapter V – COOPERATION AND REPORTING](/lagstiftning/cer/kap-5) · Articles 19–20
+- [Chapter VI – SUPERVISION AND ENFORCEMENT](/lagstiftning/cer/kap-6) · Articles 21–22
+- [Chapter VII – DELEGATED AND IMPLEMENTING ACTS](/lagstiftning/cer/kap-7) · Articles 23–24
+- [Chapter VIII – FINAL PROVISIONS](/lagstiftning/cer/kap-8) · Articles 25–29
+<!-- scan-laws:end -->

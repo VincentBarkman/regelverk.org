@@ -1,0 +1,105 @@
+---
+'source': 'personuppgiftslagen'
+'ref': '3 kap.'
+'title': '3 kap. – Behandling av vissa kategorier av personuppgifter'
+'kind': 'chapter'
+'description': 'Personuppgiftslagen, 3 kap..'
+'designation': 'Personuppgiftslagen 3 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser-till-eu-s-dataskyddsforordning_sfs-2018-218/#K3'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Med känsliga personuppgifter avses i [denna lag](/lagstiftning/personuppgiftslagen) sådana uppgifter som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning.
+
+### 2 §
+
+Känsliga personuppgifter får behandlas med stöd av artikel [9.2 b](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning, om behandlingen är nödvändig för att den personuppgiftsansvarige eller den registrerade ska kunna fullgöra sina skyldigheter och utöva sina särskilda rättigheter inom arbetsrätten och inom områdena social trygghet och socialt skydd.
+
+Personuppgifter som behandlas med stöd av första stycket får lämnas ut till tredje part endast om det inom arbetsrätten eller inom områdena social trygghet och socialt skydd finns en skyldighet för den personuppgiftsansvarige att göra det eller om den registrerade uttryckligen har samtyckt till utlämnandet.
+
+### 3 §
+
+Känsliga personuppgifter får behandlas av en myndighet med stöd av artikel [9.2 g](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning
+
+1\. om uppgifterna har lämnats till myndigheten och behandlingen krävs enligt lag,
+
+2\. om behandlingen är nödvändig för handläggningen av ett ärende, eller
+
+3\. i annat fall, om behandlingen är nödvändig med hänsyn till ett viktigt allmänt intresse och inte innebär ett otillbörligt intrång i den registrerades personliga integritet.
+
+Vid behandling som sker enbart med stöd av första stycket är det förbjudet att utföra sökningar i syfte att få fram ett urval av personer grundat på känsliga personuppgifter.
+
+Vid tillämpningen av första stycket 1 ska andra än myndigheter jämställas med myndigheter, i den utsträckning bestämmelserna om allmänna handlingar och sekretess i tryckfrihetsförordningen och offentlighets- och [sekretesslagen (2009:400)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A400) gäller i deras verksamhet.
+
+### 4 §
+
+Regeringen får meddela ytterligare föreskrifter om sådan behandling av känsliga personuppgifter som är nödvändig med hänsyn till ett viktigt allmänt intresse.
+
+### 5 §
+
+Känsliga personuppgifter får behandlas med stöd av artikel [9.2 h](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning, om behandlingen är nödvändig för
+
+1\. förebyggande hälso- och sjukvård och yrkesmedicin,
+
+2\. bedömningen av en arbetstagares arbetskapacitet,
+
+3\. medicinska diagnoser,
+
+4\. tillhandahållande av hälso- och sjukvård eller behandling,
+
+5\. social omsorg, eller
+
+6\. förvaltning av hälso- och sjukvårdstjänster, social omsorg samt deras system.
+
+Behandling enligt första stycket får ske under förutsättning att kravet på tystnadsplikt i artikel [9.3](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning är uppfyllt.
+
+### 6 §
+
+Känsliga personuppgifter får behandlas för arkivändamål av allmänt intresse med stöd av artikel [9.2 j](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning, om behandlingen är nödvändig för att den personuppgiftsansvarige ska kunna följa föreskrifter om arkiv.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att personuppgiftsansvariga som inte omfattas av föreskrifter om arkiv får behandla känsliga personuppgifter för arkivändamål av allmänt intresse.
+
+Den myndighet som regeringen bestämmer får i enskilda fall besluta att sådana personuppgiftsansvariga får behandla känsliga personuppgifter för arkivändamål av allmänt intresse. Ett beslut får förenas med villkor.
+
+### 7 §
+
+Känsliga personuppgifter får behandlas med stöd av artikel [9.2 j](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i EU:s dataskyddsförordning, om behandlingen är nödvändig för statistiska ändamål och samhällsintresset av det statistikprojekt där behandlingen ingår klart väger över den risk för otillbörligt intrång i enskildas personliga integritet som behandlingen kan innebära.
+
+### 8 §
+
+Personuppgifter som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser) i EU:s dataskyddsförordning får behandlas av myndigheter.
+
+Även andra än myndigheter får behandla sådana personuppgifter, om behandlingen är nödvändig för att den personuppgiftsansvarige ska kunna följa föreskrifter om arkiv.
+
+### 9 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om i vilka fall andra än myndigheter får behandla sådana personuppgifter som avses i artikel [10](/lagstiftning/gdpr/kap-2#artikel-10-behandling-av-personuppgifter-som-rör-fällande-domar-i-brottmål-samt-överträdelser) i EU:s dataskyddsförordning.
+
+Den myndighet som regeringen bestämmer får i enskilda fall besluta att andra än myndigheter får behandla sådana uppgifter. Ett beslut får förenas med villkor.
+
+### 10 §
+
+Personnummer och samordningsnummer får behandlas utan samtycke endast när det är klart motiverat med hänsyn till ändamålet med behandlingen, vikten av en säker identifiering eller något annat beaktansvärt skäl.
+
+### 11 §
+
+Regeringen får meddela ytterligare föreskrifter om i vilka fall behandling av personnummer och samordningsnummer är tillåten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

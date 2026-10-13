@@ -1,0 +1,206 @@
+---
+'source': 'cra'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – MARKNADSKONTROLL OCH VERKSTÄLLIGHET'
+'kind': 'chapter'
+'description': 'CRA-förordningen, Kapitel V.'
+'designation': 'CRA-förordningen Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32024R2847#cpt_V'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 52 – Marknadskontroll och kontroll av produkter med digitala element på unionsmarknaden
+
+1\. [Förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska tillämpas på produkter med digitala element som omfattas av [den här förordningen](/lagstiftning/cra).
+
+2\. Varje medlemsstat ska utse en eller flera marknadskontrollmyndigheter för att säkerställa ett effektivt genomförande av [denna förordning](/lagstiftning/cra). Medlemsstaterna får utse en befintlig eller en ny myndighet till att fungera som marknadskontrollmyndighet inom ramen för [denna förordning](/lagstiftning/cra).
+
+3\. De marknadskontrollmyndigheter som utsetts enligt punkt 2 i [denna artikel](#artikel-52-marknadskontroll-och-kontroll-av-produkter-med-digitala-element-på-unionsmarknaden) ska också ansvara för att utföra marknadskontroll rörande de skyldigheter för förvaltare av programvara med fri och öppen källkod som fastställs i artikel [24](/lagstiftning/cra/kap-2#artikel-24-skyldigheter-för-förvaltare-av-programvara-med-fri-och-öppen-källkod). Om en marknadskontrollmyndighet konstaterar att en förvaltare av programvara med fri och öppen källkod inte uppfyller de skyldigheter som anges i den artikeln ska den kräva att förvaltaren av programvaran med fri och öppen källkod säkerställer att alla lämpliga korrigerande åtgärder vidtas. Förvaltare av programvara med fri och öppen källkod ska säkerställa att alla lämpliga korrigerande åtgärder vidtas med avseende på deras skyldigheter enligt [denna förordning](/lagstiftning/cra).
+
+4\. När så är lämpligt ska marknadskontrollmyndigheterna samarbeta med de nationella myndigheter för cybersäkerhetscertifiering som utsetts enligt artikel [58](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) och regelbundet utbyta information med dessa. När det gäller tillsynen över genomförandet av rapporteringsskyldigheterna enligt artikel [14](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter) i [den här förordningen](/lagstiftning/cra) ska de utsedda marknadskontrollmyndigheterna samarbeta och regelbundet utbyta information med de CSIRT-enheter som utsetts till samordnare och Enisa.
+
+5\. Marknadskontrollmyndigheterna får be en CSIRT-enhet som utsetts till samordnare eller Enisa att ge tekniska råd i frågor som rör genomförandet och efterlevnaden av [denna förordning](/lagstiftning/cra). Vid genomförandet av en utredning enligt artikel [54](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) får marknadskontrollmyndigheterna be CSIRT-enheten som utsetts till samordnare eller Enisa att tillhandahålla en analys till stöd för utvärderingar av överensstämmelse för produkter med digitala element.
+
+6\. När så är relevant ska marknadskontrollmyndigheterna samarbeta med andra marknadskontrollmyndigheter som utsetts på grundval av annan unionsharmoniseringslagstiftning än [denna förordning](/lagstiftning/cra) och regelbundet utbyta information med dessa.
+
+7\. Marknadskontrollmyndigheterna ska vid behov samarbeta med de myndigheter som utövar tillsyn över unionens dataskyddsrätt. I detta samarbete ingår att underrätta dessa myndigheter om alla iakttagelser av betydelse för deras fullgörande av sina befogenheter, inbegripet utfärdande av vägledning och råd enligt punkt 10 om vägledningen och råden rör behandling av personuppgifter.
+
+Myndigheter som utövar tillsyn över unionens dataskyddsrätt ska ha befogenhet att begära och få åtkomst till all dokumentation som skapas eller upprätthålls enligt [denna förordning](/lagstiftning/cra) när de behöver åtkomst till sådan dokumentation för att utföra sina uppgifter. De ska underrätta de utsedda marknadskontrollmyndigheterna i den berörda medlemsstaten om varje sådan begäran.
+
+8\. Medlemsstaterna ska säkerställa att de utsedda marknadskontrollmyndigheterna har tillräckliga ekonomiska och tekniska resurser, inbegripet vid behov verktyg för automatisk databehandling samt personalresurser med nödvändig cybersäkerhetskompetens för att kunna fullgöra sina uppgifter enligt [denna förordning](/lagstiftning/cra).
+
+9\. Kommissionen ska uppmuntra och underlätta utbytet av erfarenhet mellan utsedda marknadskontrollmyndigheter.
+
+10\. Marknadskontrollmyndigheterna får ge ekonomiska aktörer vägledning och råd om genomförandet av [denna förordning](/lagstiftning/cra), med stöd av kommissionen och CSIRT-enheter och Enisa när så är lämpligt.
+
+11\. Marknadskontrollmyndigheterna ska informera konsumenterna om var klagomål som kan indikera bristande överensstämmelse med [denna förordning](/lagstiftning/cra), i enlighet med artikel [11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) lämnas in, och ska informera konsumenterna om var och hur de kan få tillgång till mekanismer för att underlätta rapportering av sårbarheter, incidenter och cyberhot som kan påverka produkter med digitala element.
+
+12\. Marknadskontrollmyndigheterna ska när så är lämpligt underlätta samarbetet med berörda parter, inbegripet vetenskapliga organisationer samt forsknings- och konsumentorganisationer.
+
+13\. Marknadskontrollmyndigheterna ska årligen rapportera resultaten av relevant marknadskontroll till kommissionen. De utsedda marknadskontrollmyndigheterna ska utan dröjsmål rapportera till kommissionen och berörda nationella konkurrensmyndigheter om all information som framkommit i samband med marknadskontrollen och som kan vara av potentiellt intresse för tillämpningen av unionens konkurrensrätt.
+
+14\. För produkter med digitala element som omfattas av [denna förordning](/lagstiftning/cra) och som klassificeras som AI-system med hög risk enligt artikel [6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) i [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) ska de marknadskontrollmyndigheter som utsetts enligt den förordningen vara de myndigheter som ansvarar för den marknadskontroll som föreskrivs i [den här förordningen](/lagstiftning/cra). De marknadskontrollmyndigheter som utsetts enligt [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) ska vid behov samarbeta med de marknadskontrollmyndigheter som utsetts i enlighet med [den här förordningen](/lagstiftning/cra) och, när det gäller tillsyn över genomförandet av rapporteringsskyldigheten enligt artikel [14](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter) i [den här förordningen](/lagstiftning/cra), med de CSIRT-enheter som utsetts till samordnare och Enisa. De marknadskontrollmyndigheter som utsetts enligt [förordning (EU) 2024/1689](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1689) ska i synnerhet underrätta de marknadskontrollmyndigheter som utsetts enligt [den här förordningen](/lagstiftning/cra) om alla iakttagelser av betydelse för fullgörandet av deras uppgifter förbundna med genomförandet av [den här förordningen](/lagstiftning/cra).
+
+15\. En Adco-grupp ska inrättas för en enhetlig tillämpning av [denna förordning](/lagstiftning/cra), enligt artikel [30.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020). Adco-gruppen ska bestå av företrädare för de utsedda marknadskontrollmyndigheterna och, om så är lämpligt, företrädare för de centrala samordningskontoren. Adco-gruppen ska också behandla särskilda frågor som rör marknadskontroll rörande de skyldigheter som åläggs förvaltare av programvara med fri och öppen källkod.
+
+16\. Marknadskontrollmyndigheterna ska övervaka hur tillverkarna har tillämpat de kriterier som avses i artikel [13.8](/lagstiftning/cra/kap-2#artikel-13-tillverkares-skyldigheter) när de fastställer stödperioden för sina produkter med digitala element.
+
+Adco-gruppen ska i en allmänt tillgänglig och användarvänlig form offentliggöra relevant statistik om kategorier av produkter med digitala element, inbegripet genomsnittliga stödperioder, vilka fastställs av tillverkaren enligt artikel [13.8](/lagstiftning/cra/kap-2#artikel-13-tillverkares-skyldigheter), samt tillhandahålla vägledning som inbegriper vägledande stödperioder för kategorier av produkter med digitala element.
+
+Om uppgifterna tyder på otillräckliga stödperioder för specifika kategorier av produkter med digitala element får Adco-gruppen utfärda rekommendationer till marknadskontrollmyndigheterna om att inrikta sin verksamhet på sådana kategorier av produkter med digitala element.
+
+### Artikel 53 – Tillgång till data och dokumentation
+
+När det behövs för att bedöma överensstämmelsen med de väsentliga cybersäkerhetskraven i bilaga I för produkter med digitala element och de processer som införts av tillverkarna ska marknadskontrollmyndigheterna på motiverad begäran beviljas tillgång, på ett språk som lätt kan förstås av dem, till de data som behövs för att bedöma utformningen, utvecklingen, produktionen och sårbarhetshanteringen av sådana produkter, inbegripet tillhörande intern dokumentation hos den berörda ekonomiska aktören.
+
+### Artikel 54 – Förfarande på nationell nivå för produkter med digitala element som utgör en betydande cybersäkerhetsrisk
+
+1\. Om marknadskontrollmyndigheten i en medlemsstat har tillräckliga skäl att anse att en produkt med digitala element, inbegripet dess sårbarhetshantering, utgör en betydande cybersäkerhetsrisk, ska den, utan onödigt dröjsmål och om lämpligt i samarbete med den berörda CSIRT-enheten, göra en utvärdering av den berörda produkten med digitala element med avseende på dess uppfyllande av alla krav som fastställs i [denna förordning](/lagstiftning/cra). De berörda ekonomiska aktörerna ska när så krävs samarbeta med marknadskontrollmyndigheten.
+
+Om marknadskontrollsmyndigheten vid utvärderingen konstaterar att en produkt med digitala element inte uppfyller kraven i [denna förordning](/lagstiftning/cra) ska den utan dröjsmål ålägga den berörda ekonomiska aktören att vidta alla lämpliga korrigerande åtgärder för att se till att produkten med digitala element uppfyller dessa krav eller dra tillbaka produkten från marknaden eller återkalla den inom en rimlig tid som marknadskontrollmyndigheten fastställer i förhållande till typen av cybersäkerhetsrisk.
+
+Marknadskontrollmyndigheten ska informera det berörda anmälda organet om detta. Artikel [18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska tillämpas på de korrigerande åtgärderna.
+
+2\. När marknadskontrollmyndigheterna fastställer betydelsen av en cybersäkerhetsrisk som avses i punkt 1 i [denna artikel](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) ska de också beakta icke-tekniska riskfaktorer, särskilt de som fastställts till följd av samordnade säkerhetsriskbedömningar av kritiska leveranskedjor på unionsnivå som genomförs i enlighet med artikel [22](/lagstiftning/nis2/kap-4#artikel-22-samordnade-säkerhetsriskbedömningar-på-unionsnivå-av-kritiska-leveranskedjor) i [direktiv (EU) 2022/2555](/lagstiftning/nis2). Om en marknadskontrollmyndighet har tillräckliga skäl att anse att en produkt med digitala element utgör en betydande cybersäkerhetsrisk mot bakgrund av icke-tekniska riskfaktorer ska den informera de behöriga myndigheter som utsetts eller inrättats enligt artikel [8](/lagstiftning/nis2/kap-2#artikel-8-behöriga-myndigheter-och-gemensamma-kontaktpunkter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) och när så krävs samarbeta med dessa myndigheter.
+
+3\. Om marknadskontrollmyndigheten anser att den bristande överensstämmelsen inte bara gäller det nationella territoriet, ska den informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som den har ålagt den ekonomiska aktören att vidta.
+
+4\. Den ekonomiska aktören ska säkerställa att alla lämpliga korrigerande åtgärder vidtas i fråga om alla berörda produkter med digitala element som den har tillhandahållit på unionsmarknaden.
+
+5\. Om den ekonomiska aktören inte vidtar lämpliga korrigerande åtgärder inom den period som avses i punkt 1 andra stycket, ska marknadskontrollmyndigheten vidta alla lämpliga provisoriska åtgärder för att förbjuda eller begränsa tillhandahållandet av produkten med digitala element på sin nationella marknad, dra tillbaka produkten från den marknaden eller återkalla den.
+
+Myndigheten ska utan dröjsmål anmäla dessa åtgärder till kommissionen och de andra medlemsstaterna.
+
+6\. I den information som avses i punkt 5 ska alla tillgängliga uppgifter ingå, särskilt de uppgifter som krävs för att kunna identifiera den produkt med digitala element som inte uppfyller kraven, dess ursprung, vilken typ av bristande överensstämmelse som görs gällande och den risk produkten utgör, vilken typ av nationell åtgärd som vidtagits och åtgärdens varaktighet samt den berörda ekonomiska aktörens synpunkter. Marknadskontrollmyndigheten ska särskilt ange om den bristande överensstämmelsen beror på en eller flera av följande orsaker:
+
+a) Produkten med digitala element eller de processer som införts av tillverkaren uppfyller inte de väsentliga cybersäkerhetskraven i bilaga I.
+
+b) Det finns brister i de harmoniserade standarder, de europeiska ordningar för cybersäkerhetscertifiering eller de gemensamma specifikationer som avses i artikel [27](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse).
+
+7\. Marknadskontrollmyndigheterna i andra medlemsstater än den som inledde förfarandet ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om alla vidtagna åtgärder och eventuella kompletterande uppgifter som de har tillgång till med avseende på bristande överensstämmelse hos den berörda produkten med digitala element samt eventuella invändningar mot den anmälda nationella åtgärden.
+
+8\. Åtgärden ska anses vara berättigad om ingen medlemsstat eller kommissionen har gjort invändningar inom tre månader efter mottagandet av den anmälan som avses i punkt 5 i [denna artikel](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) mot en provisorisk åtgärd som vidtagits av en medlemsstat. Detta påverkar inte den ekonomiska aktörens processuella rättigheter i enlighet med artikel [18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+9\. Marknadskontrollmyndigheterna i alla medlemsstater ska säkerställa att lämpliga begränsande åtgärder vidtas utan dröjsmål med avseende på den berörda produkten med digitala element, till exempel att produkten dras tillbaka från marknaden.
+
+### Artikel 55 – Unionens förfarande i fråga om skyddsåtgärder
+
+1\. Om en medlemsstat inom tre månader efter mottagandet av den anmälan som avses i artikel [54.5](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) har gjort invändningar mot en åtgärd som vidtagits av en annan medlemsstat, eller om kommissionen anser att åtgärden strider mot unionsrätten, ska kommissionen utan dröjsmål inleda samråd med den berörda medlemsstaten och den eller de ekonomiska aktörerna och ska utvärdera den nationella åtgärden. På grundval av utvärderingsresultaten ska kommissionen besluta om den nationella åtgärden är berättigad eller inte inom nio månader från den anmälan som avses i artikel [54.5](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) och meddela beslutet till den berörda medlemsstaten.
+
+2\. Om den nationella åtgärden anses vara berättigad, ska alla medlemsstater vidta de åtgärder som krävs för att säkerställa att den produkt med digitala element som inte uppfyller kraven dras tillbaka från deras marknader och underrätta kommissionen om detta. Om den nationella åtgärden inte anses vara berättigad ska den berörda medlemsstaten upphäva åtgärden.
+
+3\. Om den nationella åtgärden anses vara berättigad och produktens bristande överensstämmelse kan tillskrivas brister i de harmoniserade standarderna ska kommissionen tillämpa det förfarande som föreskrivs i artikel [11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+4\. Om den nationella åtgärden anses vara berättigad och produktens bristande överensstämmelse kan tillskrivas brister i en europeisk ordning för cybersäkerhetscertifiering som avses i artikel [27](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse), ska kommissionen överväga att ändra eller upphäva eventuella delegerade akter som antagits enligt artikel [27.9](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse) som specificerar presumtionen om överensstämmelse för det certifieringssystemet.
+
+5\. Om den nationella åtgärden anses vara berättigad och produktens bristande överensstämmelse kan tillskrivas i de gemensamma specifikationer som avses i artikel [27](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse), ska kommissionen överväga att ändra eller upphäva eventuella genomförandeakter som antagits enligt artikel [27.2](/lagstiftning/cra/kap-3#artikel-27-presumtion-om-överensstämmelse) som fastställer dessa gemensamma specifikationer.
+
+### Artikel 56 – Förfarande på unionsnivå för produkter med digitala element som utgör en betydande cybersäkerhetsrisk
+
+1\. Om kommissionen har tillräckliga skäl, inbegripet baserat på information från Enisa, att anse att en produkt med digitala element som utgör en betydande cybersäkerhetsrisk inte uppfyller kraven enligt [denna förordning](/lagstiftning/cra) ska den informera de berörda marknadskontrollmyndigheterna. Om marknadskontrollmyndigheterna gör en utvärdering av produkten med digitala element som kan utgöra en betydande cybersäkerhetsrisk med avseende på dess överensstämmelse med kraven i [denna förordning](/lagstiftning/cra) ska de förfaranden som avses i artiklarna [54](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) och [55](#artikel-55-unionens-förfarande-i-fråga-om-skyddsåtgärder) tillämpas.
+
+2\. Om kommissionen har tillräckliga skäl att anse att en produkt med digitala element utgör en betydande cybersäkerhetsrisk mot bakgrund av icke-tekniska riskfaktorer ska den informera de berörda marknadskontrollmyndigheterna och, om så är lämpligt, de behöriga myndigheter som utsetts eller inrättats enligt artikel [8](/lagstiftning/nis2/kap-2#artikel-8-behöriga-myndigheter-och-gemensamma-kontaktpunkter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) och när så krävs samarbeta med dessa myndigheter. Kommissionen ska också beakta relevansen hos de identifierade riskerna för produkten med digitala element med tanke på sina uppgifter avseende de samordnade säkerhetsriskbedömningar av kritiska leveranskedjor på unionsnivå som föreskrivs i artikel [22](/lagstiftning/nis2/kap-4#artikel-22-samordnade-säkerhetsriskbedömningar-på-unionsnivå-av-kritiska-leveranskedjor) i [direktiv (EU) 2022/2555](/lagstiftning/nis2), och vid behov samråda med den samarbetsgrupp som inrättats enligt artikel [14](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) och Enisa.
+
+3\. Vid omständigheter som motiverar ett omedelbart ingripande för att bevara en välfungerande inre marknad, och där kommissionen har tillräckliga skäl att anse att den produkt med digitala element som avses i punkt 1 fortfarande inte uppfyller kraven enligt [denna förordning](/lagstiftning/cra) och inga effektiva åtgärder har vidtagits av de berörda marknadskontrollmyndigheterna, ska kommissionen göra en utvärdering av överensstämmelsen och får begära att Enisa tillhandahåller en analys för att stödja den. Kommissionen ska underrätta de berörda marknadskontrollmyndigheterna om detta. De berörda ekonomiska aktörerna ska när så krävs samarbeta med Enisa.
+
+4\. Baserat på den utvärdering som avses i punkt 3 får kommissionen besluta att en korrigerande eller begränsande åtgärd krävs på unionsnivå. Därför ska kommissionen utan dröjsmål samråda med de berörda medlemsstaterna och berörda ekonomiska aktörer (en eller flera).
+
+5\. Baserat på det samråd som avses i punkt 4 i [denna artikel](#artikel-56-förfarande-på-unionsnivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) får kommissionen anta genomförandeakter för att föreskriva korrigerande eller begränsande åtgärder på unionsnivå, inbegripet krav på att de berörda produkterna med digitala element ska dras tillbaka från marknaden eller återkallas, inom en rimlig tid i förhållande till typen av risk. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+6\. Kommissionen ska omedelbart delge berörda ekonomiska aktörer de genomförandeakter som avses i punkt 5. Medlemsstaterna ska genomföra dessa genomförandeakter utan dröjsmål och underrätta kommissionen om detta.
+
+7\. Punkterna 3–6 ska vara tillämpliga under den tid som den exceptionella situation som motiverade kommissionens ingripande varar, under förutsättning att den berörda produkten med digitala element inte bringas till överensstämmelse med [denna förordning](/lagstiftning/cra).
+
+### Artikel 57 – Produkter med digitala element som överensstämmer med kraven men utgör en betydande cybersäkerhetsrisk
+
+1\. Marknadskontrollmyndigheten i en medlemsstat ska kräva att en ekonomisk aktör vidtar alla lämpliga åtgärder om den, efter att ha gjort en utvärdering enligt artikel [54](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk), konstaterar att en produkt med digitala element och de processer som införts av tillverkaren överensstämmer med [denna förordning](/lagstiftning/cra), men att de utgör en betydande cybersäkerhetsrisk och en risk för
+
+a) människors hälsa eller säkerhet,
+
+b) efterlevnad av skyldigheter enligt unionsrätt eller nationell rätt avsedda att skydda de grundläggande rättigheterna,
+
+c) tillgången till och autenticiteten, riktigheten eller konfidentialiteten för tjänster som de väsentliga entiteter som avses i artikel [3.1](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) erbjuder med användning av ett elektroniskt informationssystem, eller
+
+d) andra aspekter av skyddet av allmänintresset.
+
+De åtgärder som avses i första stycket får omfatta åtgärder för att säkerställa att den berörda produkten med digitala element och de processer som införts av tillverkaren inte längre utgör de berörda riskerna när den tillhandahålls på marknaden, tillbakadragande från marknaden av den berörda produkten med digitala element eller återkallande av den, och ska stå i proportion till typen av risker.
+
+2\. Tillverkaren eller andra berörda ekonomiska aktörer ska säkerställa att korrigerande åtgärder vidtas i fråga om berörda produkter med digitala element som de har tillhandahållit på marknaden i unionen inom den tidsfrist som fastställts av den marknadskontrollmyndighet i medlemsstaten som avses i punkt 1.
+
+3\. Medlemsstaten ska omedelbart underrätta kommissionen och de andra medlemsstaterna om de åtgärder som vidtagits enligt punkt 1. Informationen ska innehålla alla tillgängliga uppgifter, särskilt de uppgifter som krävs för att kunna identifiera den berörda produkten med digitala element, dess ursprung och leveranskedja, vilken typ av risk som produkten utgör samt vilken typ av nationella åtgärder som vidtagits och deras varaktighet.
+
+4\. Kommissionen ska utan dröjsmål inleda samråd med medlemsstaterna och den berörda ekonomiska aktören samt utvärdera de nationella åtgärder som vidtagits. På grundval av utvärderingsresultaten ska kommissionen besluta om åtgärden är berättigad eller inte, och vid behov föreslå lämpliga åtgärder.
+
+5\. Kommissionen ska rikta det beslut som avses i punkt 4 till medlemsstaterna.
+
+6\. Om kommissionen har tillräckliga skäl, däribland baserat på information från Enisa, att anse att en produkt med digitala element som uppfyller kraven i [denna förordning](/lagstiftning/cra) ändå utgör de risker som avses i punkt 1 i [denna artikel](#artikel-57-produkter-med-digitala-element-som-överensstämmer-med-kraven-men-utgör-en-betydande-cybersäkerhetsrisk), ska den informera och begära att berörda marknadskontrollmyndigheter (en eller flera) gör en utvärdering och följer de förfaranden som avses i artikel [54](#artikel-54-förfarande-på-nationell-nivå-för-produkter-med-digitala-element-som-utgör-en-betydande-cybersäkerhetsrisk) och i punkterna 1, 2 och 3 i [denna artikel](#artikel-57-produkter-med-digitala-element-som-överensstämmer-med-kraven-men-utgör-en-betydande-cybersäkerhetsrisk).
+
+7\. Vid omständigheter som motiverar ett omedelbart ingripande för att bevara en välfungerande inre marknad, och där kommissionen har tillräckliga skäl att anse att den produkt med digitala element som avses i punkt 6 fortsätter att utgöra de risker som avses i punkt 1 och att inga effektiva åtgärder har vidtagits av de berörda nationella marknadskontrollmyndigheterna, ska kommissionen göra en utvärdering av de risker som produkten med digitala element utgör och får begära att Enisa tillhandahåller en analys för att stödja denna utvärdering och ska underrätta de berörda marknadskontrollmyndigheterna om detta. De berörda ekonomiska aktörerna ska när så krävs samarbeta med Enisa.
+
+8\. Baserat på den utvärdering som avses i punkt 7 får kommissionen besluta att en korrigerande eller begränsande åtgärd krävs på unionsnivå. Därför ska kommissionen utan dröjsmål samråda med de berörda medlemsstaterna och berörda ekonomiska aktörer (en eller flera).
+
+9\. Baserat på det samråd som avses i punkt 8 i [denna artikel](#artikel-57-produkter-med-digitala-element-som-överensstämmer-med-kraven-men-utgör-en-betydande-cybersäkerhetsrisk) får kommissionen anta genomförandeakter för att besluta om korrigerande eller begränsande åtgärder på unionsnivå, inbegripet krav på att de berörda produkterna med digitala element ska dras tillbaka från marknaden eller återkallas, inom en rimlig tid i förhållande till typen av risk. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [62.2](/lagstiftning/cra/kap-6#artikel-62-kommittéförfarande).
+
+10\. Kommissionen ska omedelbart delge berörda ekonomiska aktörer de genomförandeakter som avses i punkt 9. Medlemsstaterna ska genomföra dessa genomförandeakter utan dröjsmål och underrätta kommissionen om detta.
+
+11\. Punkterna 6–10 ska tillämpas under den tid som den exceptionella situation som motiverade kommissionens ingripande varar och så länge som den berörda produkten med digitala element fortsätter att utgöra de risker som avses i punkt 1.
+
+### Artikel 58 – Formell bristande överensstämmelse
+
+1\. Om marknadskontrollmyndigheten i en medlemsstat konstaterar något av följande ska den ålägga den berörda tillverkaren att åtgärda den bristande överensstämmelsen:
+
+a) CE-märkningen har fästs i strid med artiklarna [29](/lagstiftning/cra/kap-3#artikel-29-allmänna-principer-för-ce-märkning) och [30](/lagstiftning/cra/kap-3#artikel-30-regler-och-villkor-för-anbringande-av-ce-märkning).
+
+b) CE-märkning saknas.
+
+c) Det har inte upprättats någon EU-försäkran om överensstämmelse.
+
+d) EU-försäkran om överensstämmelse har inte upprättats på ett korrekt sätt.
+
+e) Identifikationsnumret för det anmälda organ som deltar i förfarandet för bedömning av överensstämmelse saknas i tillämpliga fall.
+
+f) Den tekniska dokumentationen är antingen inte tillgänglig eller inte komplett.
+
+2\. Om sådan bristande överensstämmelse som avses i punkt 1 kvarstår ska den berörda medlemsstaten vidta lämpliga åtgärder för att begränsa eller förbjuda tillhandahållandet av produkten med digitala element på marknaden eller säkerställa att den återkallas eller dras tillbaka från marknaden.
+
+### Artikel 59 – Marknadskontrollmyndigheternas gemensamma aktiviteter
+
+1\. Marknadskontrollmyndigheter får komma överens med andra berörda myndigheter om att genomföra gemensamma aktiviteter för att säkerställa cybersäkerheten och skyddet av konsumenter med avseende på specifika produkter med digitala element som släpps ut på marknaden eller tillhandahålls på marknaden, i synnerhet produkter med digitala element som ofta befinns utgöra cybersäkerhetsrisker.
+
+2\. Kommissionen eller Enisa ska föreslå gemensamma aktiviteter för att kontrollera överensstämmelsen med [denna förordning](/lagstiftning/cra) vilka ska genomföras av marknadskontrollmyndigheter baserat på indikationer eller information om potentiell bristande överensstämmelse i flera medlemsstater med kraven i [denna förordning](/lagstiftning/cra) när det gäller produkter med digitala element som fastställs i [denna förordning](/lagstiftning/cra).
+
+3\. Marknadskontrollmyndigheterna och i tillämpliga fall kommissionen ska säkerställa att överenskommelsen om att genomföra gemensamma aktiviteter inte leder till illojal konkurrens mellan ekonomiska aktörer och inte har någon negativ påverkan på objektiviteten, oberoendet och opartiskheten för parterna i överenskommelsen.
+
+4\. En marknadskontrollmyndighet får använda all information som erhållits genom genomförda gemensamma aktiviteter som ett led i utredningar som den gör.
+
+5\. Den berörda marknadskontrollmyndigheten och i tillämpliga fall kommissionen ska göra överenskommelsen om gemensamma aktiviteter, inbegripet namnen på de berörda parterna, tillgänglig för allmänheten.
+
+### Artikel 60 – Samordnade tillsynsåtgärder
+
+1\. Marknadskontrollmyndigheterna ska genomföra samtidiga samordnade tillsynsåtgärder (sweeps) för specifika produkter med digitala element eller kategorier av sådana produkter för att kontrollera överensstämmelsen med eller upptäcka överträdelser av [denna förordning](/lagstiftning/cra). Dessa samordnade tillsynsåtgärder får omfatta inspektioner av produkter med digitala element som förvärvats under fingerad identitet.
+
+2\. Om inte annat överenskommits mellan de berörda marknadskontrollmyndigheterna ska samordnade tillsynsåtgärder samordnas av kommissionen. Samordnaren av den samordnade tillsynsåtgärden ska, när så är lämpligt, offentliggöra de sammanställda resultaten.
+
+3\. Om Enisa vid utförandet av sina uppgifter, däribland baserat på de anmälningar som inkommit enligt artikel [14.1](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter) och [14.3](/lagstiftning/cra/kap-2#artikel-14-tillverkarnas-rapporteringsskyldigheter), identifierar kategorier av produkter med digitala element som får omfattas av samordnade tillsynsåtgärder ska Enisa lämna in ett förslag till en samordnad tillsynsåtgärd till den samordnare som avses i punkt 2 i [den här artikeln](#artikel-60-samordnade-tillsynsåtgärder) för att övervägas av marknadskontrollmyndigheterna.
+
+4\. I samband med samordnade tillsynsåtgärder får marknadskontrollmyndigheterna utnyttja de utredningsbefogenheter som fastställs i artiklarna [52](#artikel-52-marknadskontroll-och-kontroll-av-produkter-med-digitala-element-på-unionsmarknaden)–[58](#artikel-58-formell-bristande-överensstämmelse) och andra befogenheter som tilldelats dem enligt nationell rätt.
+
+5\. Marknadskontrollmyndigheterna får bjuda in kommissionens tjänstemän och andra medföljande personer som bemyndigats av kommissionen att delta i samordnade tillsynsåtgärder.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,3 +1,91 @@
-# Rights and licensing terms per source or per site.
-# <id>: { license, attribution, notes: {sv,en} }
-rights: {}
+rights:
+  svensk-forfattningssamling:
+    license: official-text
+    attribution: Sveriges riksdag / Svensk författningssamling
+    notes:
+      sv: Lagtexter och myndighetsbeslut är inte upphovsrättsskyddade (9 § upphovsrättslagen). Fritt att återge med källhänvisning.
+      en: Statutory texts and official decisions are not copyright-protected (9 § upphovsrättslagen). Free to reproduce with attribution.
+  sfs-original:
+    license: official-text
+    attribution: Svensk författningssamling
+    notes:
+      sv: SFS-original i officiell lydelse. Inte upphovsrättsskyddat (9 § upphovsrättslagen); använd gärna originaldokumentet som källa.
+      en: Official SFS original text. Not copyright-protected (9 § upphovsrättslagen); cite the original document as source.
+  rkrattsbaser:
+    license: official-text
+    attribution: Regeringskansliets rättsdatabaser
+    notes:
+      sv: Konsoliderade lagtexter från regeringens rättsdatabaser. Inte upphovsrättsskyddade (9 § upphovsrättslagen).
+      en: Consolidated statutory texts from the Government Offices legal databases. Not copyright-protected (9 § upphovsrättslagen).
+  eur-lex:
+    license: official-text
+    attribution: Europeiska unionen / EUR-Lex
+    notes:
+      sv: EU-rättsakter och förarbeten får återanvändas fritt med källhänvisning (kommissionens beslut 2011/833/EU om återanvändning av dokument).
+      en: EU legal acts and preparatory documents may be reused freely with attribution (Commission Decision 2011/833/EU on the reuse of documents).
+  eut:
+    license: official-text
+    attribution: Europeiska unionens officiella tidning
+    notes:
+      sv: Texter publicerade i EUT är officiella och får återanvändas fritt med källhänvisning (2011/833/EU).
+      en: Texts published in the Official Journal are official and may be reused freely with attribution (2011/833/EU).
+  curia:
+    license: official-text
+    attribution: EU-domstolen (CURIA)
+    notes:
+      sv: Domar och andra rättsliga handlingar från EU-domstolen är officiella texter som får återanvändas med källhänvisning.
+      en: Judgments and other judicial documents of the Court of Justice are official texts that may be reused with attribution.
+  iec-catalog:
+    license: metadata-only
+    attribution: IEC
+    notes:
+      sv: Endast katalogmetadata och egna sammanfattningar; standardtexten tillhör utgivaren.
+      en: Catalogue metadata and original summaries only; the publisher retains rights to the standard text.
+  isa-standards:
+    license: metadata-only
+    attribution: ISA
+    notes:
+      sv: Endast katalogmetadata och egna sammanfattningar; ingen återpublicering av standardtext.
+      en: Catalogue metadata and original summaries only; no republication of standard text.
+  sis-catalog:
+    license: metadata-only
+    attribution: SIS
+    notes:
+      sv: Endast katalogmetadata och egna sammanfattningar; standardtexten kräver åtkomst hos utgivaren.
+      en: Catalogue metadata and original summaries only; access to the standard text is through the publisher.
+  ssf-normer:
+    license: metadata-only
+    attribution: SSF Stöldskyddsföreningen
+    notes:
+      sv: Endast katalogmetadata och egna sammanfattningar; SSF-normernas fulltext återpubliceras inte.
+      en: Catalogue metadata and original summaries only; the full SSF standards are not republished.
+  nist-oscal:
+    license: CC0-1.0
+    attribution: National Institute of Standards and Technology
+    notes:
+      sv: NIST:s OSCAL-katalog är CC0. Kontrolltexterna återges på engelska med angiven källa och version.
+      en: NIST's OSCAL catalogue is CC0. Control statements are reproduced in English with source and version.
+  owasp-asvs:
+    license: CC-BY-SA-4.0
+    attribution: OWASP Foundation
+    notes:
+      sv: ASVS 5.0.0 återges på engelska enligt CC BY-SA 4.0; sidornas struktur är omformaterad, kravtexterna inte översatta.
+      en: ASVS 5.0.0 is reproduced in English under CC BY-SA 4.0; page layout is reformatted, requirement text is not translated.
+  av-foreskrifter:
+    license: official-text
+    attribution: Arbetsmiljöverket
+    notes:
+      sv: Myndighetsföreskrifter är inte upphovsrättsskyddade (9 § upphovsrättslagen). Allmänna råd markeras särskilt och är inte bindande.
+      en: Agency regulations are not copyright-protected (9 § upphovsrättslagen). General recommendations are marked separately and are non-binding.
+  elsak-fs:
+    license: official-text
+    attribution: Elsäkerhetsverket
+    notes:
+      sv: Myndighetsföreskrifter är inte upphovsrättsskyddade (9 § upphovsrättslagen). Återgivet från den officiella PDF-författningen.
+      en: Agency regulations are not copyright-protected (9 § upphovsrättslagen). Reproduced from the official PDF regulation.
+  msbfs:
+    license: official-text
+    attribution: Myndigheten för samhällsskydd och beredskap
+    notes:
+      sv: Myndighetsföreskrifter är inte upphovsrättsskyddade (9 § upphovsrättslagen). Återgivet från den officiella PDF-författningen.
+      en: Agency regulations are not copyright-protected (9 § upphovsrättslagen). Reproduced from the official PDF regulation.

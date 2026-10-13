@@ -1,0 +1,39 @@
+---
+'name': 'Dataskyddsförordningen (GDPR)'
+'title': 'Europaparlamentets och rådets förordning (EU) 2016/679'
+'type': 'eu-regulation'
+'description': 'EU-förordning om skydd för fysiska personer vid behandling av
+  personuppgifter och om det fria flödet av sådana uppgifter.'
+'designation': 'EU 2016/679'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-12'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2016-05-04'
+'applies-from': '2018-05-25'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32016R0679'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – Allmänna bestämmelser](/lagstiftning/gdpr/kap-1) · Artiklarna 1–4
+- [Kapitel II – Principer](/lagstiftning/gdpr/kap-2) · Artiklarna 5–11
+- [Kapitel III – Den registrerades rättigheter](/lagstiftning/gdpr/kap-3) · Artiklarna 12–23
+- [Kapitel IV – Personuppgiftsansvarig och personuppgiftsbiträde](/lagstiftning/gdpr/kap-4) · Artiklarna 24–43
+- [Kapitel V – Överföring av personuppgifter till tredjeländer eller internationella organisationer](/lagstiftning/gdpr/kap-5) · Artiklarna 44–50
+- [Kapitel VI – Oberoende tillsynsmyndigheter](/lagstiftning/gdpr/kap-6) · Artiklarna 51–59
+- [Kapitel VII – Samarbete och enhetlighet](/lagstiftning/gdpr/kap-7) · Artiklarna 60–76
+- [Kapitel VIII – Rättsmedel, ansvar och sanktioner](/lagstiftning/gdpr/kap-8) · Artiklarna 77–84
+- [Kapitel IX – Bestämmelser om särskilda behandlingssituationer](/lagstiftning/gdpr/kap-9) · Artiklarna 85–91
+- [Kapitel X – Delegerade akter och genomförandeakter](/lagstiftning/gdpr/kap-10) · Artiklarna 92–93
+- [Kapitel XI – Slutbestämmelser](/lagstiftning/gdpr/kap-11) · Artiklarna 94–99
+<!-- scan-laws:end -->

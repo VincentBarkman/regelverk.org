@@ -1,0 +1,254 @@
+---
+title: PM – Program Management
+description: NIST SP 800-53 Rev. 5 – PM – Program Management
+source: nist-sp-800-53
+ref: PM
+designation: NIST SP 800-53 Rev. 5
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+  - fysisk
+url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### PM-1 – Information Security Program Plan
+
+- a. Develop and disseminate an organization-wide information security program plan that:
+  - 1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;
+  - 2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;
+  - 3. Reflects the coordination among organizational entities responsible for information security; and
+  - 4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
+- b. Review and update the organization-wide information security program plan [organization-defined frequency] and following [organization-defined events] ; and
+- c. Protect the information security program plan from unauthorized disclosure and modification.
+
+### PM-2 – Information Security Program Leadership Role
+
+Appoint a senior agency information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program.
+
+### PM-3 – Information Security and Privacy Resources
+
+- a. Include the resources needed to implement the information security and privacy programs in capital planning and investment requests and document all exceptions to this requirement;
+- b. Prepare documentation required for addressing information security and privacy programs in capital planning and investment requests in accordance with applicable laws, executive orders, directives, policies, regulations, standards; and
+- c. Make available for expenditure, the planned information security and privacy resources.
+
+### PM-4 – Plan of Action and Milestones Process
+
+- a. Implement a process to ensure that plans of action and milestones for the information security, privacy, and supply chain risk management programs and associated organizational systems:
+  - 1. Are developed and maintained;
+  - 2. Document the remedial information security, privacy, and supply chain risk management actions to adequately respond to risk to organizational operations and assets, individuals, other organizations, and the Nation; and
+  - 3. Are reported in accordance with established reporting requirements.
+- b. Review plans of action and milestones for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions.
+
+### PM-5 – System Inventory
+
+Develop and update [organization-defined frequency] an inventory of organizational systems.
+
+#### PM-5(1) – Inventory of Personally Identifiable Information
+
+Establish, maintain, and update [organization-defined frequency] an inventory of all systems, applications, and projects that process personally identifiable information.
+
+### PM-6 – Measures of Performance
+
+Develop, monitor, and report on the results of information security and privacy measures of performance.
+
+### PM-7 – Enterprise Architecture
+
+Develop and maintain an enterprise architecture with consideration for information security, privacy, and the resulting risk to organizational operations and assets, individuals, other organizations, and the Nation.
+
+#### PM-7(1) – Offloading
+
+Offload [organization-defined non-essential functions or services] to other systems, system components, or an external provider.
+
+### PM-8 – Critical Infrastructure Plan
+
+Address information security and privacy issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.
+
+### PM-9 – Risk Management Strategy
+
+- a. Develops a comprehensive strategy to manage:
+  - 1. Security risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of organizational systems; and
+  - 2. Privacy risk to individuals resulting from the authorized processing of personally identifiable information;
+- b. Implement the risk management strategy consistently across the organization; and
+- c. Review and update the risk management strategy [organization-defined frequency] or as required, to address organizational changes.
+
+### PM-10 – Authorization Process
+
+- a. Manage the security and privacy state of organizational systems and the environments in which those systems operate through authorization processes;
+- b. Designate individuals to fulfill specific roles and responsibilities within the organizational risk management process; and
+- c. Integrate the authorization processes into an organization-wide risk management program.
+
+### PM-11 – Mission and Business Process Definition
+
+- a. Define organizational mission and business processes with consideration for information security and privacy and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation; and
+- b. Determine information protection and personally identifiable information processing needs arising from the defined mission and business processes; and
+- c. Review and revise the mission and business processes [organization-defined frequency].
+
+### PM-12 – Insider Threat Program
+
+Implement an insider threat program that includes a cross-discipline insider threat incident handling team.
+
+### PM-13 – Security and Privacy Workforce
+
+Establish a security and privacy workforce development and improvement program.
+
+### PM-14 – Testing, Training, and Monitoring
+
+- a. Implement a process for ensuring that organizational plans for conducting security and privacy testing, training, and monitoring activities associated with organizational systems:
+  - 1. Are developed and maintained; and
+  - 2. Continue to be executed; and
+- b. Review testing, training, and monitoring plans for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions.
+
+### PM-15 – Security and Privacy Groups and Associations
+
+Establish and institutionalize contact with selected groups and associations within the security and privacy communities:
+- a. To facilitate ongoing security and privacy education and training for organizational personnel;
+- b. To maintain currency with recommended security and privacy practices, techniques, and technologies; and
+- c. To share current security and privacy information, including threats, vulnerabilities, and incidents.
+
+### PM-16 – Threat Awareness Program
+
+Implement a threat awareness program that includes a cross-organization information-sharing capability for threat intelligence.
+
+#### PM-16(1) – Automated Means for Sharing Threat Intelligence
+
+Employ automated mechanisms to maximize the effectiveness of sharing threat intelligence information.
+
+### PM-17 – Protecting Controlled Unclassified Information on External Systems
+
+- a. Establish policy and procedures to ensure that requirements for the protection of controlled unclassified information that is processed, stored or transmitted on external systems, are implemented in accordance with applicable laws, executive orders, directives, policies, regulations, and standards; and
+- b. Review and update the policy and procedures [organization-defined frequency].
+
+### PM-18 – Privacy Program Plan
+
+- a. Develop and disseminate an organization-wide privacy program plan that provides an overview of the agency’s privacy program, and:
+  - 1. Includes a description of the structure of the privacy program and the resources dedicated to the privacy program;
+  - 2. Provides an overview of the requirements for the privacy program and a description of the privacy program management controls and common controls in place or planned for meeting those requirements;
+  - 3. Includes the role of the senior agency official for privacy and the identification and assignment of roles of other privacy officials and staff and their responsibilities;
+  - 4. Describes management commitment, compliance, and the strategic goals and objectives of the privacy program;
+  - 5. Reflects coordination among organizational entities responsible for the different aspects of privacy; and
+  - 6. Is approved by a senior official with responsibility and accountability for the privacy risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation; and
+- b. Update the plan [organization-defined frequency] and to address changes in federal privacy laws and policy and organizational changes and problems identified during plan implementation or privacy control assessments.
+
+### PM-19 – Privacy Program Leadership Role
+
+Appoint a senior agency official for privacy with the authority, mission, accountability, and resources to coordinate, develop, and implement, applicable privacy requirements and manage privacy risks through the organization-wide privacy program.
+
+### PM-20 – Dissemination of Privacy Program Information
+
+Maintain a central resource webpage on the organization’s principal public website that serves as a central source of information about the organization’s privacy program and that:
+- a. Ensures that the public has access to information about organizational privacy activities and can communicate with its senior agency official for privacy;
+- b. Ensures that organizational privacy practices and reports are publicly available; and
+- c. Employs publicly facing email addresses and/or phone lines to enable the public to provide feedback and/or direct questions to privacy offices regarding privacy practices.
+
+#### PM-20(1) – Privacy Policies on Websites, Applications, and Digital Services
+
+Develop and post privacy policies on all external-facing websites, mobile applications, and other digital services, that:
+- (a) Are written in plain language and organized in a way that is easy to understand and navigate;
+- (b) Provide information needed by the public to make an informed decision about whether and how to interact with the organization; and
+- (c) Are updated whenever the organization makes a substantive change to the practices it describes and includes a time/date stamp to inform the public of the date of the most recent changes.
+
+### PM-21 – Accounting of Disclosures
+
+- a. Develop and maintain an accurate accounting of disclosures of personally identifiable information, including:
+  - 1. Date, nature, and purpose of each disclosure; and
+  - 2. Name and address, or other contact information of the individual or organization to which the disclosure was made;
+- b. Retain the accounting of disclosures for the length of the time the personally identifiable information is maintained or five years after the disclosure is made, whichever is longer; and
+- c. Make the accounting of disclosures available to the individual to whom the personally identifiable information relates upon request.
+
+### PM-22 – Personally Identifiable Information Quality Management
+
+Develop and document organization-wide policies and procedures for:
+- a. Reviewing for the accuracy, relevance, timeliness, and completeness of personally identifiable information across the information life cycle;
+- b. Correcting or deleting inaccurate or outdated personally identifiable information;
+- c. Disseminating notice of corrected or deleted personally identifiable information to individuals or other appropriate entities; and
+- d. Appeals of adverse decisions on correction or deletion requests.
+
+### PM-23 – Data Governance Body
+
+Establish a Data Governance Body consisting of [organization-defined roles] with [organization-defined responsibilities].
+
+### PM-24 – Data Integrity Board
+
+Establish a Data Integrity Board to:
+- a. Review proposals to conduct or participate in a matching program; and
+- b. Conduct an annual review of all matching programs in which the agency has participated.
+
+### PM-25 – Minimization of Personally Identifiable Information Used in Testing, Training, and Research
+
+- a. Develop, document, and implement policies and procedures that address the use of personally identifiable information for internal testing, training, and research;
+- b. Limit or minimize the amount of personally identifiable information used for internal testing, training, and research purposes;
+- c. Authorize the use of personally identifiable information when such information is required for internal testing, training, and research; and
+- d. Review and update policies and procedures [organization-defined frequency].
+
+### PM-26 – Complaint Management
+
+Implement a process for receiving and responding to complaints, concerns, or questions from individuals about the organizational security and privacy practices that includes:
+- a. Mechanisms that are easy to use and readily accessible by the public;
+- b. All information necessary for successfully filing complaints;
+- c. Tracking mechanisms to ensure all complaints received are reviewed and addressed within [organization-defined time period];
+- d. Acknowledgement of receipt of complaints, concerns, or questions from individuals within [organization-defined time period] ; and
+- e. Response to complaints, concerns, or questions from individuals within [organization-defined time period].
+
+### PM-27 – Privacy Reporting
+
+- a. Develop [organization-defined privacy reports] and disseminate to:
+  - 1. [organization-defined oversight bodies] to demonstrate accountability with statutory, regulatory, and policy privacy mandates; and
+  - 2. [organization-defined officials] and other personnel with responsibility for monitoring privacy program compliance; and
+- b. Review and update privacy reports [organization-defined frequency].
+
+### PM-28 – Risk Framing
+
+- a. Identify and document:
+  - 1. Assumptions affecting risk assessments, risk responses, and risk monitoring;
+  - 2. Constraints affecting risk assessments, risk responses, and risk monitoring;
+  - 3. Priorities and trade-offs considered by the organization for managing risk; and
+  - 4. Organizational risk tolerance;
+- b. Distribute the results of risk framing activities to [organization-defined personnel] ; and
+- c. Review and update risk framing considerations [organization-defined frequency].
+
+### PM-29 – Risk Management Program Leadership Roles
+
+- a. Appoint a Senior Accountable Official for Risk Management to align organizational information security and privacy management processes with strategic, operational, and budgetary planning processes; and
+- b. Establish a Risk Executive (function) to view and analyze risk from an organization-wide perspective and ensure management of risk is consistent across the organization.
+
+### PM-30 – Supply Chain Risk Management Strategy
+
+- a. Develop an organization-wide strategy for managing supply chain risks associated with the development, acquisition, maintenance, and disposal of systems, system components, and system services;
+- b. Implement the supply chain risk management strategy consistently across the organization; and
+- c. Review and update the supply chain risk management strategy on [organization-defined frequency] or as required, to address organizational changes.
+
+#### PM-30(1) – Suppliers of Critical or Mission-essential Items
+
+Identify, prioritize, and assess suppliers of critical or mission-essential technologies, products, and services.
+
+### PM-31 – Continuous Monitoring Strategy
+
+Develop an organization-wide continuous monitoring strategy and implement continuous monitoring programs that include:
+- a. Establishing the following organization-wide metrics to be monitored: [organization-defined metrics];
+- b. Establishing [organization-defined monitoring frequencies] and [organization-defined assessment frequencies] for control effectiveness;
+- c. Ongoing monitoring of organizationally-defined metrics in accordance with the continuous monitoring strategy;
+- d. Correlation and analysis of information generated by control assessments and monitoring;
+- e. Response actions to address results of the analysis of control assessment and monitoring information; and
+- f. Reporting the security and privacy status of organizational systems to [organization-defined personnel or roles] [organization-defined frequency].
+
+### PM-32 – Purposing
+
+Analyze [organization-defined systems or system components] supporting mission essential services or functions to ensure that the information resources are being used consistent with their intended purpose.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_catalog.json).
+<!-- scan-standards:end -->

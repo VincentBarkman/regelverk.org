@@ -41,8 +41,10 @@
 		const headings = [...article.querySelectorAll('h2')].filter((h) => h.id);
 
 		const onHeadingClick = (e: MouseEvent) => {
-			const h = (e.target as Element).closest('h2');
+			const h = (e.target as Element).closest('h2, h3');
 			if (!h?.id || window.getSelection()?.toString()) return;
+			const a = (e.target as Element).closest('a');
+			if (a && !a.classList.contains('anchor')) return;
 			e.preventDefault();
 			void navigator.clipboard?.writeText(new URL(`#${h.id}`, location.href).href);
 			replaceState(`#${h.id}`, {});
@@ -82,10 +84,8 @@
 		<ul class="flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs">
 			{#each items as t, i (t.id)}
 				<li>
-					<a
-						href="#{t.id}"
-						title={t.text}
-						class="block truncate text-primary/60 hover:text-primary">{i + 1}. {t.text}</a
+					<a href="#{t.id}" title={t.text} class="block truncate text-primary/60 hover:text-primary"
+						>{i + 1}. {t.text}</a
 					>
 				</li>
 			{/each}

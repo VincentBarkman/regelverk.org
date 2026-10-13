@@ -1,0 +1,45 @@
+---
+title: NIST Cybersecurity Framework 2.0
+description: Öppet ramverk för hantering av cybersäkerhetsrisker med
+  funktionerna styrning, identifiering, skydd, detektering, respons och
+  återhämtning.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.nist.gov/cyberframework
+translation: en
+version: 1.2.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Öppet ramverk för hantering av cybersäkerhetsrisker med funktionerna styrning, identifiering, skydd, detektering, respons och återhämtning.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [NIST CSF 2.0](https://www.nist.gov/cyberframework).
+
+## Innehåll
+
+- [GV – GOVERN](/standarder/nist-csf-2/gv) · 37 krav
+- [ID – IDENTIFY](/standarder/nist-csf-2/id) · 46 krav
+- [PR – PROTECT](/standarder/nist-csf-2/pr) · 66 krav
+- [DE – DETECT](/standarder/nist-csf-2/de) · 25 krav
+- [RS – RESPOND](/standarder/nist-csf-2/rs) · 30 krav
+- [RC – RECOVER](/standarder/nist-csf-2/rc) · 15 krav
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+- [Cybersäkerhetslagen](/lagstiftning/cybersakerhetslagen)
+<!-- scan-standards:end -->

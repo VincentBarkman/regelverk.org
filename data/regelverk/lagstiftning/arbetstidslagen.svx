@@ -1,0 +1,33 @@
+---
+'name': 'Arbetstidslagen'
+'title': 'Arbetstidslag (1982:673)'
+'type': 'national-law'
+'description': 'Svensk lag om ordinarie arbetstid, övertid, nattarbete och vilotider.'
+'designation': 'SFS 1982:673'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-13'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'applies-from': '1983-07-01'
+'related':
+  - 'arbetsmiljolagen'
+  - 'arbetstidsdirektivet'
+'sites':
+  - 'arbetsmiljo'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arbetstidslag-1982673_sfs-1982-673/'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [1 kap. – Tillämpningsområde](/lagstiftning/arbetstidslagen/kap-1) · §§ 1–6
+- [2 kap. – Övertid](/lagstiftning/arbetstidslagen/kap-2) · §§ 7–10 a
+- [3 kap. – Den sammanlagda arbetstiden](/lagstiftning/arbetstidslagen/kap-3) · §§ 10 b–18
+- [4 kap. – Dispens av Arbetsmiljöverket](/lagstiftning/arbetstidslagen/kap-4) · §§ 19–25
+- [5 kap. – Sanktionsavgifter](/lagstiftning/arbetstidslagen/kap-5) · §§ 26–32
+<!-- scan-laws:end -->

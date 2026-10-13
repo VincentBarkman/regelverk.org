@@ -1,0 +1,29 @@
+---
+name: Riksdagen
+short: Riksdagen
+kind: national-authority
+description: Sveriges lagstiftande församling som stiftar lagar och beslutar om statens budget.
+url: https://www.riksdagen.se
+logo: /logos/riksdagen.svg
+aliases:
+  - Sveriges riksdag
+  - Riksdag
+sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
+designation: Riksdagen
+jurisdiction: Sverige
+status: active
+reviewStatus: verified
+issuer: Riksdagen
+legalStatus: myndighet
+lastReviewed: '2026-10-12'
+sourceChecked: '2026-10-12'
+licenseClass: public-info
+---
+
+## Om Riksdagen
+
+Riksdagen är Sveriges främsta beslutande församling och stiftar lag genom Svensk författningssamling (SFS). Lagtexten publiceras på riksdagen.se och i Regeringskansliets rättsdatabaser, som utgör primärkällorna för lagstiftningsposterna här.
+
+## Roll i regelverksarbetet
+
+Riksdagen beslutar om lagändringar efter propositioner från regeringen. Myndigheter utfärdar sedan föreskrifter med stöd av bemyndiganden i lagarna.

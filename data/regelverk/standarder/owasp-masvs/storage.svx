@@ -1,0 +1,44 @@
+---
+title: MASVS-STORAGE – Storage
+description: OWASP MASVS 2.1.0 – MASVS-STORAGE – Storage
+source: owasp-masvs
+ref: STORAGE
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+issuer: OWASP
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+translation: en
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Kravtext (engelskt original)
+
+Mobile applications handle a wide variety of sensitive data, such as personally identifiable information (PII), cryptographic material, secrets, and API keys, that often need to be stored locally. This sensitive data may be stored in private locations, such as the app's internal storage, or in public folders that are accessible by the user or other apps installed on the device. However, sensitive data can also be unintentionally stored or exposed to publicly accessible locations, typically as a side-effect of using certain APIs or system capabilities such as backups or logs.
+
+This category is designed to help developers ensure that any sensitive data intentionally stored by the app is properly protected, regardless of the target location. It also covers unintentional leaks that can occur due to improper use of APIs or system capabilities.
+
+### MASVS-STORAGE-1
+
+The app securely stores sensitive data.
+
+Apps handle sensitive data coming from many sources such as the user, the backend, system services or other apps on the device and usually need to store it locally. The storage locations may be private to the app (e.g. its internal storage) or be public and therefore accessible by the user or other installed apps (e.g. public folders such as Downloads). This control ensures that any sensitive data that is intentionally stored by the app is properly protected independently of the target location.
+
+### MASVS-STORAGE-2
+
+The app prevents leakage of sensitive data.
+
+There are cases when sensitive data is unintentionally stored or exposed to publicly accessible locations; typically as a side-effect of using certain APIs, system capabilities such as backups or logs. This control covers this kind of unintentional leaks where the developer actually has a way to prevent it.
+
+---
+
+© OWASP Foundation, Mobile Application Security Verification Standard 2.1.0. The layout has been adapted; the English requirements have not been translated. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). [Source](https://github.com/OWASP/masvs/releases/download/v2.1.0/OWASP_MASVS.yaml).
+<!-- scan-standards:end -->

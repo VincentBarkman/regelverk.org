@@ -1,0 +1,222 @@
+---
+'source': 'nis2'
+'ref': 'Kapitel VII'
+'title': 'Kapitel VII – TILLSYN OCH EFTERLEVNADSKONTROLL'
+'kind': 'chapter'
+'description': 'NIS2-direktivet, Kapitel VII.'
+'designation': 'NIS2-direktivet Kapitel VII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_VII'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 31 – Allmänna aspekter på tillsyn och efterlevnadskontroll
+
+1\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter på ett ändamålsenligt sätt övervakar och vidtar de åtgärder som krävs för att säkerställa att [detta direktiv](/lagstiftning/nis2) efterlevs.
+
+2\. Medlemsstaterna får tillåta sina behöriga myndigheter att prioritera tillsyn. Denna prioritering ska baseras på en riskbaserad metod. När de behöriga myndigheterna utövar sina tillsynsuppgifter enligt artiklarna [32](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) och [33](#artikel-33-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-viktiga-entiteter) får de i detta syfte fastställa tillsynsmetoder som gör det möjligt att prioritera sådana uppgifter enligt en riskbaserad metod.
+
+3\. De behöriga myndigheterna ska ha ett nära samarbete med tillsynsmyndigheterna enligt [förordning (EU) 2016/679](/lagstiftning/gdpr) när de behandlar incidenter som medför personuppgiftsincidenter, utan att det påverkar tillsynsmyndigheternas befogenheter och uppgifter enligt den förordningen.
+
+4\. Utan att det påverkar de nationella rättsliga och institutionella ramarna ska medlemsstaterna säkerställa att de behöriga myndigheterna, vid tillsynen av de offentliga förvaltningsentiteternas efterlevnad av [detta direktiv](/lagstiftning/nis2) och införandet av efterlevnadskontrollåtgärder vid överträdelser av [detta direktiv](/lagstiftning/nis2), har lämpliga befogenheter att utföra dessa uppgifter och är operativt oberoende i förhållande till de offentliga förvaltningsentiteter som övervakas. Medlemsstaterna får besluta att införa lämpliga, proportionella och effektiva tillsyns- och efterlevnadskontrollåtgärder med avseende på dessa entiteter i enlighet med de nationella rättsliga och institutionella ramarna.
+
+### Artikel 32 – Tillsyns- och efterlevnadskontrollåtgärder i fråga om väsentliga entiteter
+
+1\. Medlemsstaterna ska säkerställa att de tillsyns- eller efterlevnadskontrollåtgärder som åläggs väsentliga entiteter angående de skyldigheter som anges i [detta direktiv](/lagstiftning/nis2) är effektiva, proportionella och avskräckande, med beaktande av omständigheterna i varje enskilt fall.
+
+2\. Medlemsstaterna ska säkerställa att behöriga myndigheter, när de utövar sina tillsynsuppgifter avseende väsentliga entiteter, har befogenhet att åtminstone underställa dessa entiteter
+
+a) inspektioner på plats och distansbaserad tillsyn, inklusive slumpvisa kontroller som utförs av utbildad personal,
+
+b) regelbundna och riktade säkerhetsrevisioner som utförs av ett oberoende organ eller en behörig myndighet,
+
+c) ad hoc-revisioner, inbegripet när detta är motiverat på grund av en betydande incident eller av en väsentlig entitets överträdelse av [detta direktiv](/lagstiftning/nis2),
+
+d) säkerhetsskanningar på grundval av objektiva, icke-diskriminerande, rättvisa och transparenta riskbedömningskriterier, vid behov i samarbete med den berörda entiteten,
+
+e) begäranden om sådan information som behövs för att bedöma de riskhanteringsåtgärder för cybersäkerhet som antagits av den berörda entiteten, inbegripet dokumenterade cybersäkerhetsstrategier, samt fullgörandet av skyldigheten att lämna information till de behöriga myndigheterna i enlighet med artikel [27](/lagstiftning/nis2/kap-5#artikel-27-register-över-entiteter),
+
+f) begäranden om tillgång till uppgifter, handlingar och information som behövs för att de ska kunna utföra sina tillsynsuppgifter,
+
+g) begäranden om bevis på genomförandet av cybersäkerhetsstrategier, t.ex. resultaten av säkerhetsrevisioner som utförts av en kvalificerad revisor och respektive underliggande bevis.
+
+De riktade säkerhetsrevisioner som avses i första stycket led b ska baseras på riskbedömningar som utförs av den behöriga myndigheten eller den granskade entiteten, eller på annan tillgänglig riskrelaterad information.
+
+Resultaten av alla riktade säkerhetsrevisioner ska göras tillgängliga för den behöriga myndigheten. Kostnaderna för sådana riktade säkerhetsrevisioner som utförs av ett oberoende organ ska betalas av den granskade entiteten, utom i vederbörligen motiverade fall när den behöriga myndigheten beslutar något annat.
+
+3\. När de behöriga myndigheterna utövar sina befogenheter enligt punkt 2 e, f eller g ska de ange syftet med en begäran och specificera den begärda informationen.
+
+4\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter, när de utövar sina befogenheter med avseende på efterlevnadskontroll gentemot väsentliga entiteter, åtminstone har befogenhet att
+
+a) utfärda varningar om berörda entiteters överträdelser av [detta direktiv](/lagstiftning/nis2),
+
+b) anta bindande instruktioner, också om vilka åtgärder som krävs för att förebygga eller avhjälpa en incident, samt tidsgränser för genomförandet av sådana åtgärder och för rapporteringen om deras genomförande, eller ett föreläggande om att de berörda entiteterna ska avhjälpa konstaterade brister eller överträdelser av [detta direktiv](/lagstiftning/nis2),
+
+c) ålägga de berörda entiteterna att upphöra med beteenden som utgör en överträdelse av [detta direktiv](/lagstiftning/nis2) och att avstå från att upprepa sådana beteenden,
+
+d) ålägga de berörda entiteterna att säkerställa att deras riskhanteringsåtgärder för cybersäkerhet överensstämmer med artikel [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) eller att fullgöra de rapporteringsskyldigheter som fastställs i artikel [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), på ett specificerat sätt och inom en angiven tidsperiod,
+
+e) ålägga de berörda entiteterna att informera de fysiska eller juridiska personer till vilka de tillhandahåller tjänster eller utför verksamheter som potentiellt kan beröras av ett betydande cyberhot om hotets karaktär och om eventuella skyddsåtgärder eller avhjälpande åtgärder som dessa fysiska eller juridiska personer kan vidta som svar på hotet,
+
+f) ålägga de berörda entiteterna att inom en rimlig tidsfrist genomföra de rekommendationer som lämnats till följd av en säkerhetsrevision,
+
+g) utse en övervakningsansvarig med väldefinierade uppgifter för en fastställd tidsperiod för att övervaka att de berörda entiteterna efterlever artiklarna [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter),
+
+h) ålägga de berörda entiteterna att offentliggöra aspekter av överträdelser av [detta direktiv](/lagstiftning/nis2) på ett specificerat sätt,
+
+i) påföra eller begära att relevanta organ eller domstolar i enlighet med nationell rätt påför administrativa sanktionsavgifter enligt artikel [34](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) utöver någon av de åtgärder som avses i leden a–h i denna punkt.
+
+5\. Om efterlevnadskontrollåtgärder som antas enligt punkt 4 a–d och f är ineffektiva ska medlemsstaterna säkerställa att deras behöriga myndigheter har befogenhet att fastställa en tidsfrist inom vilken en väsentlig entitet ska vidta nödvändiga åtgärder för att avhjälpa bristerna eller uppfylla dessa myndigheters krav. Om de begärda åtgärderna inte vidtas inom den fastställda tidsfristen ska medlemsstaterna säkerställa att de behöriga myndigheterna har befogenhet att
+
+a) tillfälligt upphäva eller begära att ett certifierings- eller auktorisationsorgan, eller en domstol, i enlighet med nationell rätt, tillfälligt upphäver en certifiering eller auktorisation för en del av eller alla relevanta tjänster som tillhandahålls eller verksamheter som utövas av den väsentliga entiteten,
+
+b) begära att relevanta organ eller domstolar, i enlighet med nationell rätt, inför ett tillfälligt förbud för varje fysisk person som på nivån för verkställande direktör eller juridiskt ombud har ledningsansvar i den väsentliga entiteten att utöva ledningsfunktioner i den entiteten.
+
+Tillfälliga upphävanden eller förbud i enlighet med denna punkt ska tillämpas endast till dess att den berörda entiteten vidtar nödvändiga åtgärder för att avhjälpa bristerna eller uppfylla de krav från den behöriga myndigheten som gav upphov till sådana efterlevnadskontrollåtgärder. Sådana tillfälliga upphävanden eller förbud får komma i fråga endast om lämpliga rättssäkerhetsgarantier i enlighet med de allmänna principerna i unionsrätten och stadgan iakttas, inbegripet rätten till ett effektivt rättsmedel och en rättvis rättegång, oskuldspresumtion och rätten till försvar.
+
+De efterlevnadskontrollåtgärder som föreskrivs i denna punkt är inte tillämpliga på sådana offentliga förvaltningsentiteter som omfattas av [detta direktiv](/lagstiftning/nis2).
+
+6\. Medlemsstaterna ska säkerställa att varje fysisk person som ansvarar för eller agerar som juridiskt ombud för en väsentlig entitet har befogenhet att säkerställa att entiteten efterlever [detta direktiv](/lagstiftning/nis2), på grundval av en befogenhet att företräda entiteten, att fatta beslut på dess vägnar eller att utöva kontroll över entiteten. Medlemsstaterna ska säkerställa att dessa fysiska personer kan hållas ansvariga för överträdelser av sitt uppdrag att säkerställa att [detta direktiv](/lagstiftning/nis2) efterlevs.
+
+När det gäller offentliga förvaltningsentiteter påverkar inte denna punkt nationell rätt avseende det ansvar som åligger statligt anställda och valda eller utnämnda tjänstepersoner.
+
+7\. När de behöriga myndigheterna tillämpar efterlevnadskontrollåtgärder som avses i punkt 4 eller 5 ska de iaktta rätten till försvar och ta hänsyn till omständigheterna i varje enskilt fall och som ett minimum ta vederbörlig hänsyn till följande:
+
+a) Överträdelsens allvar och betydelsen av de bestämmelser som har överträtts, med beaktande av att bland annat följande alltid ska anses vara en allvarlig överträdelse:
+
+i) Upprepade överträdelser.
+
+ii) Underlåtenhet att underrätta om eller avhjälpa betydande incidenter.
+
+iii) Underlåtenhet att avhjälpa brister enligt bindande instruktioner från behöriga myndigheter.
+
+iv) Hindrande av revisioner eller övervakningsverksamhet som den behöriga myndigheten beordrat efter det att en överträdelse konstaterats.
+
+v) Tillhandahållande av falsk eller grovt felaktig information i fråga om riskhanteringsåtgärder för cybersäkerhet eller rapporteringsskyldigheter enligt artiklarna [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter).
+
+b) Överträdelsens varaktighet.
+
+c) Eventuella tidigare relevanta överträdelser från den berörda entitetens sida.
+
+d) Den materiella eller immateriella skada som uppstått, inbegripet finansiella eller ekonomiska förluster, effekter på andra tjänster och det antal användare som berörs.
+
+e) Uppsåt eller oaktsamhet från den som har gjort sig skyldig till överträdelsen.
+
+f) De åtgärder som entiteten har vidtagit för att förhindra eller begränsa den materiella eller immateriella skadan.
+
+g) Efterlevnad av godkända uppförandekoder eller godkända certifieringsmekanismer.
+
+h) I vilken utsträckning de fysiska eller juridiska personer som hålls ansvariga samarbetar med de behöriga myndigheterna.
+
+8\. De behöriga myndigheterna ska utförligt motivera sina efterlevnadskontrollåtgärder. Innan sådana åtgärder antas ska de behöriga myndigheterna underrätta de berörda entiteterna om sina preliminära slutsatser. De ska också ge dessa entiteter en rimlig tidsfrist för att lämna synpunkter, utom i vederbörligen motiverade fall där omedelbara åtgärder för att förhindra eller reagera på incidenter annars skulle hindras.
+
+9\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) informerar de relevanta behöriga myndigheterna inom samma medlemsstat i enlighet med [direktiv (EU) 2022/2557](/lagstiftning/cer) när de utövar sina befogenheter med avseende på tillsyn och efterlevnadskontroll för att säkerställa att en entitet som identifierats som en kritisk entitet i enlighet med [direktiv (EU) 2022/2557](/lagstiftning/cer) efterlever [detta direktiv](/lagstiftning/nis2). När så är lämpligt får behöriga myndigheter enligt [direktiv (EU) 2022/2557](/lagstiftning/cer) begära att behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) utövar sina befogenheter med avseende på tillsyn och efterlevnadskontroll gentemot en entitet som identifieras som en kritisk entitet i enlighet med [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+10\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) samarbetar med de relevanta behöriga myndigheterna i den berörda medlemsstaten enligt [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554). Medlemsstaterna ska särskilt säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) informerar det tillsynsforum som inrättats enligt artikel [32.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) när de utövar sina befogenheter med avseende på tillsyn och efterlevnadskontroll för att säkerställa att en väsentlig entitet som har identifierats som en kritisk tredjepartsleverantör av IKT-tjänster enligt artikel [31](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) efterlever [detta direktiv](/lagstiftning/nis2).
+
+### Artikel 33 – Tillsyns- och efterlevnadskontrollåtgärder i fråga om viktiga entiteter
+
+1\. När medlemsstaterna får bevis, indikationer på eller information om att en viktig entitet påstås underlåta att fullgöra [detta direktiv](/lagstiftning/nis2), särskilt artiklarna [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), ska de säkerställa att de behöriga myndigheterna vid behov vidtar åtgärder i form av tillsynsåtgärder i efterhand. Medlemsstaterna ska säkerställa att dessa åtgärder är effektiva, proportionella och avskräckande, med beaktande av omständigheterna i varje enskilt fall.
+
+2\. Medlemsstaterna ska säkerställa att de behöriga myndigheterna, när de utövar sina tillsynsuppgifter avseende viktiga entiteter, har befogenhet att åtminstone underställa dessa entiteter
+
+a) inspektioner på plats och distansbaserad tillsyn i efterhand, som utförs av utbildad personal,
+
+b) riktade säkerhetsrevisioner utförda av ett oberoende organ eller en behörig myndighet,
+
+c) säkerhetsskanningar på grundval av objektiva, icke-diskriminerande, rättvisa och transparenta riskbedömningskriterier, vid behov i samarbete med den berörda entiteten,
+
+d) begäranden om information som behövs för att i efterhand bedöma de riskhanteringsåtgärder för cybersäkerhet som antagits av den berörda entiteten, inbegripet dokumenterade cybersäkerhetsstrategier, samt fullgörandet av skyldigheten att lämna information till de behöriga myndigheterna i enlighet med artikel [27](/lagstiftning/nis2/kap-5#artikel-27-register-över-entiteter),
+
+e) begäranden om tillgång till uppgifter, handlingar och information som behövs för att utföra sina tillsynsuppgifter,
+
+f) begäranden om bevis på genomförandet av cybersäkerhetsstrategier, t.ex. resultaten av säkerhetsrevisioner som utförts av en kvalificerad revisor och respektive underliggande bevis.
+
+De riktade säkerhetsrevisioner som avses i första stycket led b ska baseras på riskbedömningar som utförs av den behöriga myndigheten eller den granskade entiteten, eller på annan tillgänglig riskrelaterad information.
+
+Resultaten av alla riktade säkerhetsrevisioner ska göras tillgängliga för den behöriga myndigheten. Kostnaderna för sådana riktade säkerhetsrevisioner som utförs av ett oberoende organ ska betalas av den granskade entiteten, utom i vederbörligen motiverade fall när den behöriga myndigheten beslutar något annat.
+
+3\. När de behöriga myndigheterna utövar sina befogenheter enligt punkt 2 d, e eller f ska de ange syftet med en begäran och specificera den begärda informationen.
+
+4\. Medlemsstaterna ska säkerställa att de behöriga myndigheterna, när de utövar sina befogenheter med avseende på efterlevnadskontroll gentemot viktiga entiteter åtminstone har befogenhet att
+
+a) utfärda varningar om de berörda entiteternas överträdelser av [detta direktiv](/lagstiftning/nis2),
+
+b) anta bindande instruktioner eller ett föreläggande om att de berörda entiteterna ska avhjälpa konstaterade brister eller överträdelser av [detta direktiv](/lagstiftning/nis2),
+
+c) ålägga de berörda entiteterna att upphöra med beteenden som utgör en överträdelse av [detta direktiv](/lagstiftning/nis2) och att avstå från att upprepa sådana beteenden,
+
+d) ålägga de berörda entiteterna att säkerställa att deras riskhanteringsåtgärder för cybersäkerhet överensstämmer med artikel [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) eller att fullgöra de rapporteringsskyldigheter som fastställs i artikel [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), på ett specificerat sätt och inom en angiven tidsperiod,
+
+e) ålägga de berörda entiteterna att informera de fysiska eller juridiska personer till vilka de tillhandahåller tjänster eller utför verksamheter som potentiellt kan beröras av ett betydande cyberhot om hotets karaktär och om eventuella skyddsåtgärder eller avhjälpande åtgärder som dessa fysiska eller juridiska personer kan vidta som svar på hotet,
+
+f) ålägga de berörda entiteterna att inom en rimlig tidsfrist genomföra de rekommendationer som lämnats till följd av en säkerhetsrevision,
+
+g) ålägga de berörda entiteterna att offentliggöra aspekter av överträdelser av [detta direktiv](/lagstiftning/nis2) på ett specificerat sätt,
+
+h) påföra eller begära att relevanta organ eller domstolar i enlighet med nationell rätt påför administrativa sanktionsavgifter enligt artikel [34](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) utöver någon av de åtgärder som avses i leden a–g i denna punkt.
+
+5\. Artikel [32.6](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter), [32.7](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) och [32.8](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) ska i tillämpliga delar tillämpas på de tillsyns- och efterlevnadskontrollåtgärder som föreskrivs i [denna artikel](#artikel-33-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-viktiga-entiteter) för viktiga entiteter.
+
+6\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) samarbetar med de relevanta behöriga myndigheterna i den berörda medlemsstaten i enlighet med [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554). Medlemsstaterna ska särskilt säkerställa att deras behöriga myndigheter enligt [detta direktiv](/lagstiftning/nis2) informerar det tillsynsforum som inrättats enligt artikel [32.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) när de utövar sina befogenheter med avseende på tillsyn och efterlevnadskontroll för att säkerställa att en viktig entitet som har identifierats som en kritisk tredjepartsleverantör av IKT-tjänster i enlighet med artikel [31](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) efterlever [detta direktiv](/lagstiftning/nis2).
+
+### Artikel 34 – Allmänna villkor för påförande av administrativa sanktionsavgifter för väsentliga och viktiga entiteter
+
+1\. Medlemsstaterna ska säkerställa att de administrativa sanktionsavgifter som påförs väsentliga och viktiga entiteter enligt [denna artikel](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) för överträdelser av [detta direktiv](/lagstiftning/nis2) är effektiva, proportionella och avskräckande, med beaktande av omständigheterna i varje enskilt fall.
+
+2\. Administrativa sanktionsavgifter ska påföras utöver någon av de åtgärder som avses i artikel [32.4 a](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter)–h, artikel [32.5](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) och artikel [33.4 a](#artikel-33-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-viktiga-entiteter)–g.
+
+3\. När beslut fattas om huruvida administrativa sanktionsavgifter ska påföras och om avgiftsbeloppet i varje enskilt fall, ska vederbörlig hänsyn tas till åtminstone de faktorer som anges i artikel [32.7](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter).
+
+4\. Medlemsstaterna ska säkerställa att väsentliga entiteter som överträder artikel [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) eller [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), i enlighet med punkterna 2 och 3 i [den här artikeln](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) påförs administrativa sanktionsavgifter på högst 10 000 000 EUR eller högst 2 % av den totala globala årsomsättningen under det föregående räkenskapsåret för det företag som den väsentliga entiteten tillhör, beroende på vilken siffra som är högst.
+
+5\. Medlemsstaterna ska säkerställa att viktiga entiteter som överträder artikel [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) eller [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter), i enlighet med punkterna 2 och 3 i [den här artikeln](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) påförs administrativa sanktionsavgifter på högst 7 000 000 EUR eller högst 1,4 % av den totala globala årsomsättningen under det föregående räkenskapsåret för det företag som den viktiga entiteten tillhör, beroende på vilken siffra som är högst.
+
+6\. Medlemsstaterna får föreskriva befogenhet att förelägga viten för att tvinga en väsentlig eller viktig entitet att upphöra med en överträdelse av [detta direktiv](/lagstiftning/nis2) i enlighet med ett föregående beslut av den behöriga myndigheten.
+
+7\. Utan att det påverkar behöriga myndigheters befogenheter enligt artiklarna [32](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) och [33](#artikel-33-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-viktiga-entiteter) får varje medlemsstat fastställa regler för huruvida och i vilken utsträckning administrativa sanktionsavgifter kan påföras offentliga förvaltningsentiteter som omfattas av de skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2).
+
+8\. Om administrativa sanktionsavgifter inte föreskrivs i en medlemsstats rättssystem ska den medlemsstaten säkerställa att [denna artikel](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) tillämpas på ett sådant sätt att förfarandet inleds av den behöriga myndigheten och sanktionsavgifterna sedan påförs av behöriga nationella domstolar, varvid det säkerställs att dessa rättsmedel är effektiva och har samma verkan som de administrativa sanktionsavgifter som påförs av de behöriga myndigheterna. De påförda sanktionsavgifterna ska i alla händelser vara effektiva, proportionella och avskräckande. Medlemsstaten ska underrätta kommissionen om bestämmelserna i de lagar som den antar i enlighet med denna punkt senast den 17 oktober 2024 och, utan dröjsmål, om eventuella senare ändringslagstiftning eller ändringar som berör dem.
+
+### Artikel 35 – Överträdelser som innebär personuppgiftsincidenter
+
+1\. Om de behöriga myndigheterna under tillsyn eller efterlevnadskontroll får kännedom om att en väsentlig eller viktig entitets överträdelse av de skyldigheter som fastställs i artiklarna [21](/lagstiftning/nis2/kap-4#artikel-21-riskhanteringsåtgärder-för-cybersäkerhet) och [23](/lagstiftning/nis2/kap-4#artikel-23-rapporteringsskyldigheter) i [detta direktiv](/lagstiftning/nis2) kan innebära en personuppgiftsincident, enligt definitionen i artikel [4.12](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr), som ska anmälas i enlighet med artikel [33](/lagstiftning/gdpr/kap-4#artikel-33-anmälan-av-en-personuppgiftsincident-till-tillsynsmyndigheten) i den förordningen, ska de utan onödigt dröjsmål informera de tillsynsmyndigheter som avses i artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet) i den förordningen.
+
+2\. Om de tillsynsmyndigheter som avses i artikel [55](/lagstiftning/gdpr/kap-6#artikel-55-behörighet) eller [56](/lagstiftning/gdpr/kap-6#artikel-56-den-ansvariga-tillsynsmyndighetens-behörighet) i [förordning (EU) 2016/679](/lagstiftning/gdpr) påför administrativa sanktionsavgifter enligt artikel [58.2](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) i) i den förordningen ska de behöriga myndigheterna inte påföra administrativa sanktionsavgifter enligt artikel [34](#artikel-34-allmänna-villkor-för-påförande-av-administrativa-sanktionsavgifter-för-väsentliga-och-viktiga-entiteter) i [detta direktiv](/lagstiftning/nis2) för en överträdelse som avses i punkt 1 i [den här artikeln](#artikel-35-överträdelser-som-innebär-personuppgiftsincidenter) som följer av samma beteende som det som den administrativa sanktionsavgiften avsåg enligt artikel [58.2](/lagstiftning/gdpr/kap-6#artikel-58-befogenheter) i) i [förordning (EU) 2016/679](/lagstiftning/gdpr). De behöriga myndigheterna får emellertid tillämpa de efterlevnadskontrollåtgärder som föreskrivs i artikel [32.4 a](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter)–h, artikel [32.5](#artikel-32-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-väsentliga-entiteter) och artikel [33.4 a](#artikel-33-tillsyns-och-efterlevnadskontrollåtgärder-i-fråga-om-viktiga-entiteter)–g i [detta direktiv](/lagstiftning/nis2).
+
+3\. Om den tillsynsmyndighet som är behörig enligt [förordning (EU) 2016/679](/lagstiftning/gdpr) är etablerad i en annan medlemsstat än den behöriga myndigheten, ska den behöriga myndigheten informera den tillsynsmyndighet som är etablerad i dess egen medlemsstat om det potentiella dataintrång som avses i punkt 1.
+
+### Artikel 36 – Sanktioner
+
+Medlemsstaterna ska fastställa regler om sanktioner för överträdelse av nationella åtgärder som antagits enligt [detta direktiv](/lagstiftning/nis2) och vidta alla nödvändiga åtgärder för att säkerställa att de tillämpas. Sanktionerna ska vara effektiva, proportionella och avskräckande. Medlemsstaterna ska till kommissionen anmäla dessa regler och åtgärder senast den 17 januari 2025 samt utan dröjsmål eventuella ändringar som berör dem.
+
+### Artikel 37 – Ömsesidigt bistånd
+
+1\. Om en entitet tillhandahåller tjänster i mer än en medlemsstat eller tillhandahåller tjänster i en eller flera medlemsstater och dess nätverks- och informationssystem är belägna i en eller flera andra medlemsstater ska de behöriga myndigheterna i de berörda medlemsstaterna vid behov samarbeta med och bistå varandra. Detta samarbete ska åtminstone omfatta följande:
+
+a) Att de behöriga myndigheter som tillämpar tillsyns- eller efterlevnadskontrollåtgärder i en medlemsstat via den gemensamma kontaktpunkten informerar och samråder med de behöriga myndigheterna i övriga berörda medlemsstater om de tillsyns- och efterlevnadskontrollåtgärder som vidtagits.
+
+b) Att en behörig myndighet får begära att en annan behörig myndighet vidtar tillsyns- eller efterlevnadskontrollåtgärder.
+
+c) Att en behörig myndighet, efter att ha mottagit en motiverad begäran från en annan behörig myndighet, ska tillhandahålla ömsesidigt bistånd till den andra behöriga myndigheten i proportion till sina egna resurser så att tillsyns- eller efterlevnadskontrollåtgärderna kan genomföras på ett ändamålsenligt, effektivt och konsekvent sätt.
+
+Det ömsesidiga bistånd som avses i första stycket led c får omfatta begäranden om information och tillsynsåtgärder, inbegripet begäranden om att utföra inspektioner på plats, distansbaserad tillsyn eller riktade säkerhetsrevisioner. En behörig myndighet till vilken en begäran om bistånd riktas får inte avslå begäran om det inte fastställs att myndigheten antingen inte är behörig att tillhandahålla det begärda biståndet, att det begärda biståndet inte står i proportion till den behöriga myndighetens tillsynsuppgifter eller att begäran avser information eller omfattar verksamhet som, om den lämnas ut eller utförs, skulle strida mot den medlemsstatens väsentliga nationella säkerhetsintressen, allmänna säkerhet eller försvar. Innan den behöriga myndigheten avslår en sådan begäran ska den samråda med övriga berörda behöriga myndigheter samt, på begäran av en av de berörda medlemsstaterna, med kommissionen och Enisa.
+
+2\. När så är lämpligt får behöriga myndigheter från olika medlemsstater i samförstånd genomföra de gemensamma tillsynsåtgärderna.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

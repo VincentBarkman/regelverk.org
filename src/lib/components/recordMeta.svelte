@@ -57,7 +57,19 @@
 		return [...std, ...extra];
 	});
 
-	const display = (v: unknown) => META_VALUES[String(v)]?.() ?? String(v);
+	const display = (v: unknown) => {
+		const s = String(v);
+		if (META_VALUES[s]) return META_VALUES[s]();
+		if (/^https?:\/\//.test(s)) {
+			try {
+				const u = new URL(s);
+				return u.hostname.replace(/^www\./, '') + (u.hash || '');
+			} catch {
+				return s;
+			}
+		}
+		return s;
+	};
 	const isTab = (v: unknown) => String(v) in META_VALUES;
 
 	const FIELD_LABELS = new Map<string, () => string>([
@@ -119,7 +131,7 @@
 		}
 		if (key === 'reviewStatus') {
 			if (['verified', 'granskad'].includes(s)) return DOT_GREEN;
-			if (['stale', 'pending', 'in-progress'].includes(s)) return DOT_AMBER;
+			if (['stale', 'pending', 'in-progress', 'auto'].includes(s)) return DOT_AMBER;
 			return DOT_RED;
 		}
 		if (key === 'lastReviewed' || key === 'sourceChecked') return dateDot(v);

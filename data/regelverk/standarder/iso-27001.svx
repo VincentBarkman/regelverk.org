@@ -7,19 +7,22 @@ status: in-force
 reviewStatus: verified
 issuer: ISO
 legalStatus: non-binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+lastReviewed: 2026-10-01
+sourceChecked: 2026-10-13
+licenseClass: public-info
 type: standard
 sites:
   - it
   - ot
-related: [isms]
+related:
+  - isms
+url: https://webstore.iec.ch/en/publication/79694
+published: 2022-10-25
 ---
 
 ## Om standarden
 
-ISO/IEC 27001 är den internationella standarden för upprättande, införande, underhåll och ständig förbättring av ett ledningssystem för informationssäkerhet (ISMS). Standardversionen 2022:1 omfattar de uppdaterade kontrollerna i ISO/IEC 27002.
+ISO/IEC 27001 är den internationella standarden för upprättande, införande, underhåll och ständig förbättring av ett ledningssystem för informationssäkerhet (ISMS). Utgåvan från 2022 hänvisar till de uppdaterade kontrollerna i ISO/IEC 27002.
 
 ## Vad standarden kräver
 
@@ -31,3 +34,9 @@ ISO/IEC 27001 är den internationella standarden för upprättande, införande, 
 ## Certifiering
 
 Organisationer kan certifieras mot standarden av ackrediterade certifieringsorgan. Certifiering är frivillig men används ofta för att visa att krav i till exempel NIS2 hanteras systematiskt.
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+- [Cybersäkerhetslagen](/lagstiftning/cybersakerhetslagen)
+- [Dataskyddsförordningen (GDPR)](/lagstiftning/gdpr)

@@ -1,0 +1,28 @@
+---
+title: IEC 62443-3-3
+description: Del av IEC 62443-serien om säkerhetskrav och säkerhetsnivåer för
+  industriella styrsystem.
+designation: IEC 62443-3-3:2013
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: IEC
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: public-info
+type: standard
+sites:
+  - ot
+url: https://webstore.iec.ch/en/publication/7033
+published: 2013-08-07
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Del 3-3 beskriver tekniska säkerhetskrav för industriella automations- och styrsystem. Den används när en anläggningsägare och leverantör ska ange vilken säkerhetsnivå ett system behöver kunna uppnå.
+
+Kraven är ordnade efter sju grundläggande säkerhetsområden, bland annat identifiering, åtkomstkontroll, systemintegritet och tillgänglighet. Säkerhetsnivåer måste väljas utifrån systemets riskbedömning; en katalogpost ersätter inte standardtexten.
+
+Officiell källa: [IEC 62443-3-3:2013](https://webstore.iec.ch/en/publication/7033).
+<!-- scan-standards:end -->

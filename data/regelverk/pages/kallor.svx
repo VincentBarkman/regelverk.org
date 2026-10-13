@@ -12,3 +12,20 @@ sites: [ot, it, fysisk, brandskydd, el, arbetsmiljo]
 ---
 
 Databasen bygger på officiella källor som lagstiftning, EU-rättsakter, myndighetsföreskrifter och standarder.
+
+## Svensk lagstiftning
+
+- [Svensk författningssamling (SFS)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/) – gällande lagtext i konsoliderat skick via riksdagen.se.
+- [svenskforfattningssamling.se](https://svenskforfattningssamling.se/) – den autentiska originalversionen (PDF) av nya författningar.
+- [Regeringskansliets rättsdatabaser](https://rkrattsbaser.gov.se/) – förarbeten, ändringsregister och äldre SFS-versioner.
+
+## EU-rätt
+
+- [EUR-Lex](https://eur-lex.europa.eu/) – förordningar, direktiv och konsoliderade versioner på svenska och engelska.
+- [Europeiska unionens officiella tidning (EUT)](https://eur-lex.europa.eu/oj/direct-access.html) – officiella publiceringen av EU-rättsakter.
+- [CURIA](https://curia.europa.eu/) – EU-domstolens rättspraxis och prejudicerande avgöranden.
+
+## Myndigheter och standarder
+
+- [Lagrummet](https://lagrummet.se/) – myndighetsföreskrifter och rättslig information.
+- [SIS](https://www.sis.se/), [NIST](https://www.nist.gov/), [ETSI](https://www.etsi.org/) och [CISA](https://www.cisa.gov/) – standarder och vägledningar.

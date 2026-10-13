@@ -1,20 +1,36 @@
 ---
-title: FN:s konvention om barnets rättigheter
-description: FN-konvention som införlivats i svensk lag och ställer krav på barnets bästa i alla beslut som rör barn.
-designation: Barnkonventionen
-jurisdiction: Internationell
-status: in-force
-reviewStatus: verified
-issuer: FN
-legalStatus: binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
-sites:
-  - arbetsmiljo
-  - brandskydd
+'name': 'Barnkonventionen'
+'title': 'FN:s konvention om barnets rättigheter'
+'type': 'convention'
+'description': 'FN-konvention som införlivats i svensk lag och ställer krav på
+  barnets bästa i alla beslut som rör barn.'
+'designation': 'SFS 2018:1197'
+'jurisdiction': 'Internationell'
+'issuer': 'FN'
+'status': 'in-force'
+'reviewStatus': 'verified'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-01'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'applies-from': '2020-01-01'
+'sites':
+  - 'arbetsmiljo'
+  - 'brandskydd'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20181197-om-forenta-nationernas-konvention_sfs-2018-1197/'
 ---
 
 FN:s konvention om barnets rättigheter antogs 1989 och blev svensk lag 2020. Konventionen slår fast att barnets bästa ska komma i främsta rummet vid alla åtgärder som rör barn.
 
 I svensk reglering återfinns konventionens principer bland annat i arbetsmiljö- och brandskyddssammanhang där unga arbetstagare eller barns säkerhet berörs.
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [1 kap. – Införlivande](/lagstiftning/fn-barnkonventionen/kap-1)
+- [2 kap. – Konventionens inledning](/lagstiftning/fn-barnkonventionen/kap-2)
+- [3 kap. – Del I](/lagstiftning/fn-barnkonventionen/kap-3) · Artiklarna I–41
+- [4 kap. – Del II](/lagstiftning/fn-barnkonventionen/kap-4) · Artiklarna 42–45
+- [5 kap. – Del III](/lagstiftning/fn-barnkonventionen/kap-5) · Artiklarna 46–54
+<!-- scan-laws:end -->

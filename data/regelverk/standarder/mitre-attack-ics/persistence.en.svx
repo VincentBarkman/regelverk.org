@@ -1,0 +1,109 @@
+---
+title: Persistence
+description: MITRE ATT&CK for ICS – Persistence
+source: mitre-attack-ics
+ref: PERSISTENCE
+designation: MITRE ATT&CK for ICS
+jurisdiction: Internationell
+issuer: MITRE
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: MITRE-TOU
+translation: en
+type: standard
+sites:
+  - ot
+url: https://attack.mitre.org/attackics/
+version: "19.2"
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+The adversary is trying to maintain their foothold in your ICS environment.
+
+Persistence consists of techniques that adversaries use to maintain access to ICS systems and devices across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that allow them to secure their ongoing activity and keep their foothold on systems. This may include replacing or hijacking legitimate code, firmware, and other project files, or adding startup code and downloading programs onto devices.
+
+### T0859 – Valid Accounts
+
+Adversaries may steal the credentials of a specific user or service account using credential access techniques. In some cases, default credentials for control system devices may be publicly available. Compromised credentials may be used to bypass access controls placed on various resources on hosts and within the network, and may even be used for persistent access to remote systems. Compromised and default credentials may also grant an adversary increased privilege to specific systems and devices or access to restricted areas of the network. Adversaries may choose not to use malware or tools, in conjunction with the legitimate access those credentials provide, to make it harder to detect their presence or to control devices and send legitimate commands in an unintended way. 
+
+Adversaries may also create accounts, sometimes using predefined account names and passwords, to provide a means of backup access for persistence. (Citation: Booz Allen Hamilton) 
+
+The overlap of credentials and permissions across a network of systems is of concern because the adversary may be able to pivot across accounts and systems to reach a high level of access (i.e., domain or enterprise administrator)  and possibly between the enterprise and operational technology environments. Adversaries may be able to leverage valid credentials from one system to gain access to another system.
+
+### T0873 – Project File Infection
+
+Adversaries may attempt to infect project files with malicious code. These project files may consist of objects, program organization units, variables such as tags, documentation, and other configurations needed for PLC programs to function.(Citation: Beckhoff) Using built in functions of the engineering software, adversaries may be able to download an infected program to a PLC in the operating environment enabling further [Execution](https://attack.mitre.org/tactics/TA0104) and [Persistence](https://attack.mitre.org/tactics/TA0110) techniques.(Citation: PLCdev) 
+
+Adversaries may export their own code into project files with conditions to execute at specific intervals.(Citation: Nicolas Falliere, Liam O Murchu, Eric Chien February 2011) Malicious programs allow adversaries control of all aspects of the process enabled by the PLC. Once the project file is downloaded to a PLC the workstation device may be disconnected with the infected project file still executing.(Citation: PLCdev)
+
+#### T0873.001 – Siemens Project File Format
+
+Adversaries may infect Siemens PLC project files (i.e., Step 7, WinCC, etc.) to achieve [Execution](https://attack.mitre.org/tactics/TA0104), [Persistence](https://attack.mitre.org/tactics/TA0110), and [Lateral Movement](https://attack.mitre.org/tactics/TA0109) objectives. Adversaries may modify an existing project file or bring their own project files into the environment.(Citation: Nicolas Falliere, Liam O Murchu, Eric Chien February 2011)
+
+The ability for an adversary to deploy an infected project file relies on access to a workstation with Siemens PLC programming software installed on it from which a program download can be performed.
+
+### T0889 – Modify Program
+
+Adversaries may modify or add a program on a controller to affect how it interacts with the physical process, peripheral devices and other hosts on the network. Modification to controller programs can be accomplished using a Program Download in addition to other types of program modification such as online edit and program append. 
+
+Program modification encompasses the addition and modification of instructions and logic contained in Program Organization Units (POU)  (Citation: IEC February 2013) and similar programming elements found on controllers. This can include, for example, adding new functions to a controller, modifying the logic in existing functions and making new calls from one function to another. 
+
+Some programs may allow an adversary to interact directly with the native API of the controller to take advantage of obscure features or vulnerabilities.
+
+### T1693 – Modify Firmware
+
+Firmware is low-level software embedded in hardware that enables systems and devices to function properly and is commonly found in ICS environments. Adversaries may modify firmware on a system or device by installing malicious or vulnerable versions that enable them to achieve objectives such as [Persistence](https://attack.mitre.org/tactics/TA0110), [Impair Process Control](https://attack.mitre.org/tactics/TA0106), and [Inhibit Response Function](https://attack.mitre.org/tactics/TA0107). 
+
+Adversaries may modify system and device firmware by using the built-in firmware update functionality which may support local or remote installation. The malicious or vulnerable firmware may be delivered via [Replication Through Removable Media](https://attack.mitre.org/techniques/T0847), [Supply Chain Compromise](https://attack.mitre.org/techniques/T0862), or [Remote Services](https://attack.mitre.org/techniques/T0886). Once installed, the malicious or vulnerable firmware could be used to provide [Rootkit](https://attack.mitre.org/techniques/T0851) and [Hooking](https://attack.mitre.org/techniques/T0874) functionality, [Exploitation for Privilege Escalation](https://attack.mitre.org/techniques/T0890), or [Denial of Service](https://attack.mitre.org/techniques/T0814).(Citation: Basnight, Zachry, et al.)
+
+#### T1693.001 – System Firmware
+
+System firmware on modern assets is often designed with an update feature. Older device firmware may be factory installed and require special reprograming equipment. When available, the firmware update feature enables vendors to remotely patch bugs and perform upgrades. Device firmware updates are often delegated to the user and may be done using a software update package. It may also be possible to perform this task over the network.
+
+An adversary may exploit the firmware update feature on accessible devices to upload malicious or out-of-date firmware. Malicious modification of device firmware may provide an adversary with root access to a device, given firmware is one of the lowest programming abstraction layers.(Citation: Basnight, Zachry, et al.)
+
+#### T1693.002 – Module Firmware
+
+Adversaries may install malicious or vulnerable firmware onto modular hardware devices. Control system devices often contain modular hardware devices. These devices may have their own set of firmware that is separate from the firmware of the main control system equipment.
+
+This technique is similar to System Firmware, but is conducted on other system components that may not have the same capabilities or level of integrity checking. Although it results in a device re-image, malicious device firmware may provide persistent access to remaining devices.(Citation: Daniel Peck,  Dale Peterson January 2009)
+
+An easy point of access for an adversary is the Ethernet card, which may have its own CPU, RAM, and operating system. The adversary may attack and likely exploit the computer on an Ethernet card. Exploitation of the Ethernet card computer may enable the adversary to accomplish additional attacks, such as the following:(Citation: Daniel Peck,  Dale Peterson January 2009)
+
+* Delayed Attack - The adversary may stage an attack in advance and choose when to launch it, such as at a particularly damaging time.
+* Brick the Ethernet Card - Malicious firmware may be programmed to result in an Ethernet card failure, requiring a factory return.
+* Random Attack or Failure - The adversary may load malicious firmware onto multiple field devices. Execution of an attack and the time it occurs is generated by a pseudo-random number generator.
+* A Field Device Worm - The adversary may choose to identify all field devices of the same model, with the end goal of performing a device-wide compromise.
+* Attack Other Cards on the Field Device - Although it is not the most important module in a field device, the Ethernet card is most accessible to the adversary and malware. Compromise of the Ethernet card may provide a more direct route to compromising other modules, such as the CPU module.
+
+### T1694 – Insecure Credentials
+
+Adversaries may target insecure credentials as a means to persist on a system or device or move laterally from one system or device to another. Insecure credentials may appear as default credentials which are pre-configured credentials on a system, device, or software that are well-known in documentation or hard-coded credentials which are built into the system, device, or software that cannot be changed or not easily changed because of the impact on control processes.(Citation: NIST SP 800-82r3)(Citation: ICS-ALERT-13-164-01)(Citation: OT IceFall)
+ Adversaries often times use insecure credentials to evade detection as they are typically forgotten about by system and device owners.
+
+#### T1694.001 – Default Credentials
+
+Adversaries may leverage manufacturer or supplier set default credentials on control system devices. These default credentials may have administrative permissions and may be necessary for initial configuration of the device. It is general best practice to change the passwords for these accounts as soon as possible, but some manufacturers may have devices that have passwords or usernames that cannot be changed.(Citation: Keith Stouffer May 2015)
+
+Default credentials are normally documented in an instruction manual that is either packaged with the device, published online through official means, or published online through unofficial means. Adversaries may leverage default credentials that have not been properly modified or disabled.
+
+#### T1694.002 – Hardcoded Credentials
+
+Adversaries may leverage credentials that are hardcoded in software or firmware to gain an unauthorized interactive user session to an asset. Examples credentials that may be hardcoded in an asset include:
+
+* Username/Passwords
+* Cryptographic keys/Certificates
+* API tokens
+
+Unlike [Default Credentials](https://attack.mitre.org/techniques/T0812), these credentials are built into the system in a way that they either cannot be changed by the asset owner, or may be infeasible to change because of the impact it would cause to the control system operation. These credentials may be reused across whole product lines or device models and are often not published or known to the owner and operators of the asset.(Citation: ICS-ALERT-13-164-01)(Citation: OT IceFall)
+
+Adversaries may utilize these hardcoded credentials to move throughout the control system environment or provide reliable access for their tools to interact with industrial assets.
+
+---
+
+© The MITRE Corporation, MITRE ATT&CK® 19.2. This content is reproduced under the MITRE ATT&CK Terms of Use with attribution. [attack.mitre.org](https://attack.mitre.org/). [Source](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json).
+<!-- scan-standards:end -->

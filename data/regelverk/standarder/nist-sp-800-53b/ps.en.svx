@@ -1,0 +1,93 @@
+---
+title: PS – Personnel Security
+description: NIST SP 800-53B – PS – Personnel Security
+source: nist-sp-800-53b
+ref: PS
+designation: NIST SP 800-53B
+jurisdiction: USA
+issuer: NIST
+status: active
+reviewStatus: auto
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+translation: en
+type: standard
+sites:
+  - it
+  - ot
+url: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+version: 5.2.0
+---
+
+<!-- scan-standards:start -->
+## Requirements (English original)
+
+### PS-1 – Policy and Procedures
+
+- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - 1.  [organization-level or mission/business process-level or system-level] personnel security policy that:
+    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - 2. Procedures to facilitate the implementation of the personnel security policy and the associated personnel security controls;
+- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the personnel security policy and procedures; and
+- c. Review and update the current personnel security:
+  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+
+### PS-2 – Position Risk Designation
+
+- a. Assign a risk designation to all organizational positions;
+- b. Establish screening criteria for individuals filling those positions; and
+- c. Review and update position risk designations [organization-defined frequency].
+
+### PS-3 – Personnel Screening
+
+- a. Screen individuals prior to authorizing access to the system; and
+- b. Rescreen individuals in accordance with [organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of rescreening].
+
+### PS-4 – Personnel Termination
+
+Upon termination of individual employment:
+- a. Disable system access within [organization-defined time period];
+- b. Terminate or revoke any authenticators and credentials associated with the individual;
+- c. Conduct exit interviews that include a discussion of [organization-defined information security topics];
+- d. Retrieve all security-related organizational system-related property; and
+- e. Retain access to organizational information and systems formerly controlled by terminated individual.
+
+### PS-5 – Personnel Transfer
+
+- a. Review and confirm ongoing operational need for current logical and physical access authorizations to systems and facilities when individuals are reassigned or transferred to other positions within the organization;
+- b. Initiate [organization-defined transfer or reassignment actions] within [organization-defined time period following the formal transfer action];
+- c. Modify access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and
+- d. Notify [organization-defined personnel or roles] within [organization-defined time period].
+
+### PS-6 – Access Agreements
+
+- a. Develop and document access agreements for organizational systems;
+- b. Review and update the access agreements [organization-defined frequency] ; and
+- c. Verify that individuals requiring access to organizational information and systems:
+  - 1. Sign appropriate access agreements prior to being granted access; and
+  - 2. Re-sign access agreements to maintain access to organizational systems when access agreements have been updated or [organization-defined frequency].
+
+### PS-7 – External Personnel Security
+
+- a. Establish personnel security requirements, including security roles and responsibilities for external providers;
+- b. Require external providers to comply with personnel security policies and procedures established by the organization;
+- c. Document personnel security requirements;
+- d. Require external providers to notify [organization-defined personnel or roles] of any personnel transfers or terminations of external personnel who possess organizational credentials and/or badges, or who have system privileges within [organization-defined time period] ; and
+- e. Monitor provider compliance with personnel security requirements.
+
+### PS-8 – Personnel Sanctions
+
+- a. Employ a formal sanctions process for individuals failing to comply with established information security and privacy policies and procedures; and
+- b. Notify [organization-defined personnel or roles] within [organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
+
+### PS-9 – Position Descriptions
+
+Incorporate security and privacy roles and responsibilities into organizational position descriptions.
+
+---
+
+National Institute of Standards and Technology, OSCAL release 5.2.0. Republished courtesy of the National Institute of Standards and Technology. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [Source](https://raw.githubusercontent.com/usnistgov/oscal-content/main/nist.gov/SP800-53/rev5/json/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.json).
+<!-- scan-standards:end -->

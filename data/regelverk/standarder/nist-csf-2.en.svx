@@ -1,0 +1,44 @@
+---
+title: NIST Cybersecurity Framework 2.0
+description: Open framework for managing cybersecurity risks with the functions
+  govern, identify, protect, detect, respond and recover.
+designation: NIST CSF 2.0
+jurisdiction: USA
+status: active
+reviewStatus: auto
+issuer: NIST
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC0-1.0
+type: standard
+sites:
+  - it
+  - ot
+url: https://www.nist.gov/cyberframework
+translation: en
+version: 1.2.0
+---
+
+<!-- scan-standards:start -->
+## About the standard
+
+Open framework for managing cybersecurity risks with the functions govern, identify, protect, detect, respond and recover.
+
+The control and requirement statements below are reproduced in English from the publisher’s open data.
+
+Official source: [NIST CSF 2.0](https://www.nist.gov/cyberframework).
+
+## Contents
+
+- [GV – GOVERN](/standarder/nist-csf-2/gv) · 37 requirements
+- [ID – IDENTIFY](/standarder/nist-csf-2/id) · 46 requirements
+- [PR – PROTECT](/standarder/nist-csf-2/pr) · 66 requirements
+- [DE – DETECT](/standarder/nist-csf-2/de) · 25 requirements
+- [RS – RESPOND](/standarder/nist-csf-2/rs) · 30 requirements
+- [RC – RECOVER](/standarder/nist-csf-2/rc) · 15 requirements
+
+## Related legal acts
+
+- [NIS2 directive](/lagstiftning/nis2)
+- [Swedish Cybersecurity Act](/lagstiftning/cybersakerhetslagen)
+<!-- scan-standards:end -->

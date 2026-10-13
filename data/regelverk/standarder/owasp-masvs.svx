@@ -1,0 +1,44 @@
+---
+title: OWASP Mobile Application Security Verification Standard
+description: Öppen standard för verifierbara krav på säkerhet i mobilapplikationer.
+designation: OWASP MASVS 2.1.0
+jurisdiction: Internationell
+status: active
+reviewStatus: auto
+issuer: OWASP
+legalStatus: non-binding
+sourceChecked: 2026-10-13
+licenseClass: CC-BY-SA-4.0
+type: standard
+sites:
+  - it
+url: https://github.com/OWASP/masvs/releases/tag/v2.1.0
+translation: en
+version: 2.1.0
+---
+
+<!-- scan-standards:start -->
+## Om standarden
+
+Öppen standard för verifierbara krav på säkerhet i mobilapplikationer.
+
+Kontroll- och kravtexterna nedan återges på engelska från utgivarens öppna data; detta är ingen svensk översättning.
+
+Officiell källa: [OWASP MASVS 2.1.0](https://github.com/OWASP/masvs/releases/tag/v2.1.0).
+
+## Innehåll
+
+- [MASVS-STORAGE – Storage](/standarder/owasp-masvs/storage) · 2 krav
+- [MASVS-CRYPTO – Cryptography](/standarder/owasp-masvs/crypto) · 2 krav
+- [MASVS-AUTH – Authentication and Authorization](/standarder/owasp-masvs/auth) · 3 krav
+- [MASVS-NETWORK – Network Communication](/standarder/owasp-masvs/network) · 2 krav
+- [MASVS-PLATFORM – Platform Interaction](/standarder/owasp-masvs/platform) · 3 krav
+- [MASVS-CODE – Code Quality](/standarder/owasp-masvs/code) · 4 krav
+- [MASVS-RESILIENCE – Resilience Against Reverse Engineering and Tampering](/standarder/owasp-masvs/resilience) · 4 krav
+- [MASVS-PRIVACY – Privacy](/standarder/owasp-masvs/privacy) · 4 krav
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [Dataskyddsförordningen (GDPR)](/lagstiftning/gdpr)
+<!-- scan-standards:end -->

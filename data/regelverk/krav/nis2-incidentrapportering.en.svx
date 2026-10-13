@@ -1,5 +1,5 @@
 ---
-provision: nis2-art-21
+provision: nis2/kap-4
 title: Reporting of significant incidents
 deadline: 24h-early-warning
 obligatory: true

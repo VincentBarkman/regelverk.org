@@ -1,0 +1,196 @@
+---
+'source': 'elsak-fs-2022-1'
+'ref': '7 kap.'
+'title': '7 kap. – Särskilda säkerhetskrav för kontaktledningar för drift av'
+'kind': 'chapter'
+'description': 'Utförande av starkströmsanläggningar (ELSÄK-FS 2022:1), 7 kap..'
+'designation': 'ELSÄK-FS 2022:1 7 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Elsäkerhetsverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-13'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.elsakerhetsverket.se/globalassets/foreskrifter/elsak-fs-2022-1.pdf'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Vid en väg- eller gångbro över en kontaktledning ska det finnas
+
+> _Allmänna råd_
+
+> skyddsanordningar som avskärmar kontaktledningen, om avståndet mellan
+> brobanan och kontaktledningen är mindre än 5 m.
+
+### 2 §
+
+En kontaktledning ska vara utförd så att skador på kablar, rörledningar och
+
+> _Allmänna råd_
+
+> metallföremål orsakade av inverkan från läckströmmar förebyggs i rimlig
+> omfattning.
+
+### 3 §
+
+En kontaktledning ska vara framdragen på betryggande avstånd från upplag med
+
+> _Allmänna råd_
+
+> brännbart material eller områden med explosionsrisk.
+
+> Allmänna råd
+> De mått som anges i [6 kap. 13 §](/lagstiftning/elsak-fs-2022-1/kap-6#13-avstånd-till-vissa-områden) tabell 4 kan ge vägledning vid bedömning av
+> vad som kan anses vara betryggande avstånd till ett område med explosionsrisk.
+
+### 4 §
+
+En kontaktledning ska dras så att det horisontella avståndet mellan spänningssatt
+
+> _Allmänna råd_
+
+> del och en byggnad eller någon byggnadsdel, i vilken ledningen inte ska införas,
+> uppgår till minst 5 m när det är vindstilla.
+> En kontaktledning som är friledning för högst 750 V nominell spänning får dock dras
+> närmare byggnader under förutsättning att den endast med särskilda hjälpmedel kan
+> nås från fönster, balkonger eller tak.
+> Utan hinder av första stycket får det horisontella avståndet minskas
+> -   vid driftbyggnader till 3 m,
+> -   vid driftbyggnader med en basarea om högst 10 m² till 0,5 m från friledning
+> under förutsättning att byggnaden har ett sidoavstånd om minst 4 m till
+> kontaktledningen och ett horisontellt avstånd till närmaste stolpe om minst
+> 4 m,
+> -   vid plattformstak till det avstånd som kan anses ge betryggande säkerhet
+> under förutsättning att tillträde till plattformstaket är begränsat för obehöriga
+> och med hänsyn tagen till fordonens strömavtagare och det arbete som kan
+> behöva utföras på taket, eller
+> -   vid isolerad utliggare i kombination med skyddsskärm med en minsta bredd
+> av 1 m monterad på ömse sidor i kontaktledningsstolpe som skydd om inga
+> övriga spänningssatta delar än utliggare finns under förutsättning att
+> byggnaden har ett sidoavstånd om minst 5,4 m till spårmitt.
+
+Allmänna råd
+Om en kontaktledning är framdragen i närheten av en byggnad som är avsevärt
+högre än kontaktledningen kan särskilda säkerhetsåtgärder ibland behövas.
+Normalt behövs dock inte några särskilda skyddsåtgärder om någon byggnadsdel
+inte finns närmare kontaktledningen än som anges av gränslinjerna A-B-C-D i
+nedanstående figur med sektion av spår med en kontaktledning för nominell
+spänning över 750 V.
+
+### 5 § – Kontaktledning för drift av järnväg
+
+En kontaktledning för drift av järnväg ska placeras så att den minsta höjden över
+
+rälsens överkant inte understiger 5 m.
+Under vägbroar, tunnlar och liknande får kontaktledningens minsta höjd sänkas
+till 4,8 m vid en högspänningsanläggning respektive 4,2 m vid en lågspännings-
+anläggning.
+
+### 6 §
+
+En kontaktledning för drift av järnväg ska dras så, att det horisontella avståndet
+
+mellan spänningssatt del och en vägkant uppgår till minst 4 m.
+Vid kontaktledning för drift av järnväg får det horisontella avståndet minskas under
+förutsättning att isolerad utliggare används i kombination med skyddsskärm med en
+minsta bredd av 1 m. Dessa ska monteras som skydd på ömse sidor av kontakt-
+ledningsstolpe. Undantaget gäller enbart om inga övriga spänningssatta delar än
+utliggare finns och under förutsättning att vägkanten har ett sidoavstånd om minst
+4,4 m till spårmitt. Sidoavståndet ska mätas från spårmitt till närmaste vägkant. Med
+vägkant avses normal körbanekant. Vid asfalterad vägren, parkering eller bussficka
+ska asfaltskanten anses vara vägkant.
+
+### 7 §
+
+Vid plankorsning mellan en kontaktledning för drift av järnväg och en allmänt
+
+trafikerad väg ska det på båda sidor om järnvägen finnas portaler med underkanten
+förlagd minst 4,7 m över vägbanan. Kontaktledningen ska vara förlagd minst 0,5 m
+högre än portalens underkant vid lågspänning eller minst 0,8 m vid högspänning.
+
+> _Allmänna råd_
+
+> Vid tillfälligt arbete får avståndet 0,8 m minskas till 0,5 m.
+> Om särskilda skäl föreligger och väghållaren medger det får kontaktledningens höjd
+> över rälsens överkant minskas till lägst 5 m samt vertikala avståndet mellan portalens
+> underkant och vägbanan minskas till lägst 4,2 m.
+
+> Kontaktledning för drift av tunnelbana
+
+### 8 §
+
+Ett spårområde för tunnelbana med strömskena ska vara slutet eller inhägnat på
+
+> _Allmänna råd_
+
+> betryggande sätt. Endast fackkunniga personer eller personer som har fått
+> instruktioner om risken för skada på grund av el får ha tillträde till spårområdet.
+
+> Kontaktledning för drift av elväg
+
+### 9 §
+
+En kontaktledning för drift av elväg ska placeras så att den minsta höjden över
+
+> _Allmänna råd_
+
+> vägbanan vid en allmän väg inte understiger 5 m.
+
+### 10 §
+
+En kontaktledning för drift av elväg ska vara helt avslutad minst 4 m före
+
+> _Allmänna råd_
+
+> korsande kontaktledning i plankorsning med spårbunden trafik.
+
+### 11 §
+
+Bestämmelserna i [1 §](#1) och [3](#3)-[9 §§](#9) ska inte tillämpas på kontaktlednings-
+
+> _Allmänna råd_
+
+> anläggningar för drift av elväg med ledare i markförlagd strömskena. [3 §](#3) ska inte
+> heller tillämpas på övriga typer av kontaktledningsanläggningar för drift av elväg.
+
+> ___________________
+Ikraftträdande och övergångsbestämmelser
+Dessa föreskrifter träder i kraft den 1 december 2022 då Elsäkerhetsverkets
+föreskrifter (ELSÄK-FS 2008:1) om hur elektriska starkströmsanläggningar ska vara
+utförda samt allmänna råd om tillämpningen av dessa föreskrifter ska upphöra att
+gälla.
+Anläggningar som har tagits i bruk före ikraftträdandet får vara utförda enligt äldre
+bestämmelser. Om en sådan anläggnings användning eller förutsättningar ändras på
+ett sätt som har väsentlig betydelse för elsäkerheten ska dock de nya bestämmelserna
+tillämpas.
+Vid ombyggnad eller utvidgning av en anläggning ska de nya bestämmelserna
+tillämpas på ombyggnaden eller utvidgningen oavsett när anläggningen
+ursprungligen togs i bruk. Följande undantag får göras från:
+-   krav på utförande enligt god elsäkerhetsteknisk praxis i [2 kap. 1 §](/lagstiftning/elsak-fs-2022-1/kap-2#1):
+-       vid utvidgning av en lågspänningsanläggning inom ett befintligt torrt
+rum i bostäder med isolerande golv behöver de utsatta delarna inte
+skyddsjordas, om de redan befintliga utsatta delarna inte är
+skyddsjordade och anläggningen är utförd före den 1 januari 1994,
+-       vid utvidgning av en lågspänningsanläggning inom ett befintligt torrt
+rum i bostäder behöver inte tilläggsskydd i form av jordfelsbrytare
+installeras, om den befintliga anläggningen är utförd enligt ELSÄK-
+FS 1994:7 eller motsvarande äldre bestämmelser, och
+-   krav på känslighet hos jordfelsskydd i [5 kap. 6 §](/lagstiftning/elsak-fs-2022-1/kap-5#6):
+-     sådana luftledningar får utvidgas eller byggas om med oisolerade
+ledare utan att kravet på jordfelsskyddets känslighet ändras._
+
+ANDERS PERSSON
+Peter Lindberg
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

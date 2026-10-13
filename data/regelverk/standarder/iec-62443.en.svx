@@ -1,18 +1,20 @@
 ---
 title: IEC 62443
-description: Series of standards for cybersecurity in industrial automation systems and OT environments.
-designation: IEC 62443
+description: Series of standards for cybersecurity in industrial automation
+  systems and OT environments.
+designation: ISA/IEC 62443
 jurisdiction: Internationell
 status: in-force
 reviewStatus: verified
 issuer: IEC
 legalStatus: non-binding
-lastReviewed: '2026-10-01'
-sourceChecked: '2026-10-01'
-licenseClass: official-text
+lastReviewed: 2026-10-01
+sourceChecked: 2026-10-13
+licenseClass: public-info
 type: standard
 sites:
   - ot
+url: https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 ---
 
 ## About the series
@@ -34,3 +36,8 @@ IEC 62443 is the international series of standards for security in industrial au
 | SL 2 | Simple intentional attacks |
 | SL 3 | Sophisticated attacks with limited resources |
 | SL 4 | Sophisticated attacks with extensive resources |
+
+## Related legal acts
+
+- [Cyber Resilience Act](/lagstiftning/cra)
+- [NIS2 Directive](/lagstiftning/nis2)
