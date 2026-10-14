@@ -69,7 +69,7 @@ export const ARTICLE_PROSE = `prose prose-sm max-w-none
 	prose-h1:text-3xl prose-h1:mb-6
 	prose-h2:text-lg prose-h2:mt-7 prose-h2:mb-2 prose-h2:scroll-mt-8
 	prose-p:text-primary/70 prose-p:leading-relaxed
-	prose-li:text-primary/70 prose-li:marker:text-primary/40
+	prose-li:text-primary/70 prose-li:marker:text-primary/60
 	prose-strong:text-primary prose-a:text-primary prose-a:no-underline
 	prose-a:underline-offset-4 prose-a:hover:underline
 	prose-code:font-mono prose-code:text-[0.85em] prose-code:font-normal prose-code:text-primary/80

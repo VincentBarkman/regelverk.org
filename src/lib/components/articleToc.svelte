@@ -84,7 +84,10 @@
 		<ul class="flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs">
 			{#each items as t, i (t.id)}
 				<li>
-					<a href="#{t.id}" title={t.text} class="block truncate text-primary/60 hover:text-primary"
+					<a
+						href="#{t.id}"
+						title={t.text}
+						class="block min-h-6 truncate py-1 text-primary/60 hover:text-primary"
 						>{i + 1}. {t.text}</a
 					>
 				</li>

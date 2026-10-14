@@ -97,7 +97,7 @@
 										<span class="text-xs font-medium {site.colorClass} flex items-center gap-1.5"
 											><Icon class="size-3.5" aria-hidden="true" />{ENTITY_LABEL[ent]()}</span
 										>
-										<span class="mt-0.5 text-[11px] text-primary/50">{m.ui_view_all()}</span>
+										<span class="mt-0.5 text-[11px] text-primary/60">{m.ui_view_all()}</span>
 									</NavigationMenu.Link>
 									<ul class="flex min-h-32 flex-col">
 										{#each records(ent) as r (r.id)}
@@ -141,7 +141,7 @@
 										: 'text-primary/70 hover:bg-primary/5'}"
 								>
 									<Icon
-										class="size-4 shrink-0 {ent === active ? site.colorClass : 'text-primary/40'}"
+										class="size-4 shrink-0 {ent === active ? site.colorClass : 'text-primary/60'}"
 										aria-hidden="true"
 									/>
 									{ENTITY_LABEL[ent]()}

@@ -43,7 +43,7 @@
 </script>
 
 <footer
-	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-wrap items-center justify-between gap-x-3 gap-y-1.5 pt-2 pb-4 text-xs text-primary/60 backdrop-blur-sm {wide
+	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-wrap items-center justify-between gap-x-3 gap-y-1.5 pt-2 pb-4 text-xs leading-6 text-primary/60 backdrop-blur-sm {wide
 		? 'max-w-4xl px-4 sm:px-6 xl:max-w-296 xl:px-0'
 		: 'max-w-2xl px-4'}"
 >
@@ -89,7 +89,7 @@
 			<button
 				onclick={toggleMode}
 				aria-label={m.ui_toggle_theme()}
-				class="relative inline-flex size-4 items-center justify-center text-primary/60 transition-colors hover:text-primary"
+				class="relative inline-flex size-6 items-center justify-center text-primary/60 transition-colors hover:text-primary"
 			>
 				<RiSunLine
 					class="size-3.5 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90"

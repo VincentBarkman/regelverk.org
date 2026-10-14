@@ -1,0 +1,43 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 18'
+'title': 'Bilaga 18'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 18.'
+'designation': 'AFS 2023:10 Bilaga 18'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Insatsnivåer för kontaktström och inducerad ström
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8, 9, 11, 12 och 21 §§.
+
+I tabell 31 anges insatsnivåer för kontinuerlig kontaktström (ikontakt) och för inducerad ström (iinducerad) i en godtycklig extremitet.
+
+<table><caption>Tabell 31. Insatsnivåer för kontaktström och inducerad ström </caption><tbody><tr><th><div><div>Frekvens f [kHz]</div></div></th><th><div><div>i<sub>kontakt</sub> [mA]</div></div></th><th><div><div>i<sub>inducerad</sub> [mA]</div></div></th></tr><tr><td><div><div>f &lt; 2,5</div></div></td><td><div><div>1,0</div></div></td><td><div><div>–</div></div></td></tr><tr><td><div><div>2,5 ≤ f &lt; 100</div></div></td><td><div><div>0,4 · f</div></div></td><td><div><div>–</div></div></td></tr><tr><td><div><div>100 ≤ f &lt; 1,0 · 10<sup>4</sup></div></div></td><td><div><div>40</div></div></td><td><div><div>–</div></div></td></tr><tr><td><div><div>1,0 · 10<sup>4</sup> ≤ f ≤ 1,1 · 10<sup>5</sup></div></div></td><td><div><div>40</div></div></td><td><div><div>100</div></div></td></tr></tbody></table>
+
+Anmärkning till tabell 31:
+
+1\. ikontakt och iinducerad ges som rms-värden.
+
+2\. (iinducerad)2 ska beräknas som ett medelvärde under en sexminutersperiod.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

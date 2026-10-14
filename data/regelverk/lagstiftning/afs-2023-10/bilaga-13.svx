@@ -1,0 +1,47 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 13'
+'title': 'Bilaga 13'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 13.'
+'designation': 'AFS 2023:10 Bilaga 13'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Gränsvärden för exponering för tidsvarierande elektriska och magnetiska fält
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8–10, 12 och 13 §§.
+
+I tabell 26 anges gränsvärden för inducerade elektriska fält (Eind) i frekvensintervallet från 1 Hz upp till 10 MHz.
+
+<table><caption>Tabell 26. Gränsvärden för inducerade elektriska fält i frekvensintervallet från 1 Hz till 10 MHz </caption><tbody><tr><th><div><div>Frekvens<br>f [Hz]</div></div></th><th><div><div>Sensoriska effekter<br>E<sub>ind</sub> [V/m]</div></div></th><th><div><div>Hälsoeffekter<br>E<sub>ind</sub> [V/m]</div></div></th></tr><tr><td><div><div>1 ≤ f &lt; 10</div></div></td><td><div><div>0,7/f</div></div></td><td><div><div>1,1</div></div></td></tr><tr><td><div><div>10 ≤ f &lt; 25</div></div></td><td><div><div>0,07</div></div></td><td><div><div>1,1</div></div></td></tr><tr><td><div><div>25 ≤ f &lt; 400</div></div></td><td><div><div>0,0028 · f</div></div></td><td><div><div>1,1</div></div></td></tr><tr><td><div><div>400 ≤ f &lt; 3 · 10<sup>3</sup></div></div></td><td><div><div>-</div></div></td><td><div><div>1,1</div></div></td></tr><tr><td><div><div>3 · 10<sup>3</sup> ≤ f ≤ 10 · 10<sup>6</sup></div></div></td><td><div><div>-</div></div></td><td><div><div>3,8 · 10<sup>–4</sup> · f</div></div></td></tr></tbody></table>
+
+Anmärkningar till tabell 26:
+
+1\. Eind för hälsoeffekter är lika med spatiala toppvärden i hela kroppen hos den som exponeras.
+
+2\. Eind för sensoriska effekter är lika med spatiala toppvärden i huvudet hos den som exponeras.
+
+3\. Eind ges som toppvärden. För sinusoidala fält gäller att rms-värdet är toppvärdet dividerat med √2.
+
+4\. För fält som inte är sinusoidala ska bedömning av exponering göras med den så kallade weighted peak-metoden (filtrering i tidsdomän), men andra vetenskapligt bevisade och validerade utvärderingsförfaranden för exponering får tillämpas, förutsatt att de leder till ungefär likvärdiga och jämförbara resultat.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

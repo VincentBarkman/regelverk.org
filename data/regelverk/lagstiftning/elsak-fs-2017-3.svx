@@ -12,14 +12,14 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-13'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'related':
   - 'elsakerhetslagen'
 'sites':
   - 'el'
-'url': 'https://www.elsakerhetsverket.se/globalassets/foreskrifter/elsak-fs-2017-3.pdf'
+'url': 'https://www.elsakerhetsverket.se/om-oss/lag-och-ratt/foreskrifter/elsak-fs-2017-3/'
 ---
 
 <!-- scan-laws:start -->

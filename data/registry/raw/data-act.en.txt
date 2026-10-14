@@ -3,7 +3,7 @@
 
 # kap-1 | Chapter I | GENERAL PROVISIONS | cpt_I
 
-## Artikel 1 | Subject matter and scope | art_1
+## Article 1 | Subject matter and scope | art_1
 1. This Regulation lays down harmonised rules, inter alia, on:
 
 (a)
@@ -102,7 +102,7 @@ This Regulation does not affect Union or national legal acts providing for the s
 
 10. This Regulation does not preclude the conclusion of voluntary lawful data sharing contracts, including contracts concluded on a reciprocal basis, which comply with the requirements laid down in this Regulation.
 
-## Artikel 2 | Definitions | art_2
+## Article 2 | Definitions | art_2
 For the purposes of this Regulation, the following definitions apply:
 
 (1)
@@ -279,7 +279,7 @@ open interoperability specification’ means a technical specification in the fi
 
 # kap-2 | Chapter II | BUSINESS TO CONSUMER AND BUSINESS TO BUSINESS DATA SHARING | cpt_II
 
-## Artikel 3 | Obligation to make product data and related service data accessible to the user | art_3
+## Article 3 | Obligation to make product data and related service data accessible to the user | art_3
 1. Connected products shall be designed and manufactured, and related services shall be designed and provided, in such a manner that product data and related service data, including the relevant metadata necessary to interpret and use those data, are, by default, easily, securely, free of charge, in a comprehensive, structured, commonly used and machine-readable format, and, where relevant and technically feasible, directly accessible to the user.
 
 2. Before concluding a contract for the purchase, rent or lease of a connected product, the seller, rentor or lessor, which may be the manufacturer, shall provide at least the following information to the user, in a clear and comprehensible manner:
@@ -338,7 +338,7 @@ whether a prospective data holder is the holder of trade secrets contained in th
 
 the duration of the contract between the user and the prospective data holder, as well as the arrangements for terminating such a contract.
 
-## Artikel 4 | The rights and obligations of users and data holders with regard to access, use and making available product data and related service data | art_4
+## Article 4 | The rights and obligations of users and data holders with regard to access, use and making available product data and related service data | art_4
 1. Where data cannot be directly accessed by the user from the connected product or related service, data holders shall make readily available data, as well as the relevant metadata necessary to interpret and use those data, accessible to the user without undue delay, of the same quality as is available to the data holder, easily, securely, free of charge, in a comprehensive, structured, commonly used and machine-readable format and, where relevant and technically feasible, continuously and in real-time. This shall be done on the basis of a simple request through electronic means where technically feasible.
 
 2. Users and data holders may contractually restrict or prohibit accessing, using or further sharing data, if such processing could undermine security requirements of the connected product, as laid down by Union or national law, resulting in a serious adverse effect on the health, safety or security of natural persons. Sectoral authorities may provide users and data holders with technical expertise in that context. Where the data holder refuses to share data pursuant to this Article, it shall notify the competent authority designated pursuant to Article 37.
@@ -383,7 +383,7 @@ agree with the data holder to refer the matter to a dispute settlement body in a
 
 14. Data holders shall not make available non-personal product data to third parties for commercial or non-commercial purposes other than the fulfilment of their contract with the user. Where relevant, data holders shall contractually bind third parties not to further share data received from them.
 
-## Artikel 5 | Right of the user to share data with third parties | art_5
+## Article 5 | Right of the user to share data with third parties | art_5
 1. Upon request by a user, or by a party acting on behalf of a user, the data holder shall make available readily available data, as well as the relevant metadata necessary to interpret and use those data, to a third party without undue delay, of the same quality as is available to the data holder, easily, securely, free of charge to the user, in a comprehensive, structured, commonly used and machine-readable format and, where relevant and technically feasible, continuously and in real-time. The data shall be made available by the data holder to the third party in accordance with Articles 8 and 9.
 
 2. Paragraph 1 shall not apply to readily available data in the context of the testing of new connected products, substances or processes that are not yet placed on the market unless their use by a third party is contractually permitted.
@@ -430,7 +430,7 @@ agree with the data holder to refer the matter to a dispute settlement body in a
 
 13. The right referred to in paragraph 1 shall not adversely affect the rights of data subjects pursuant to the applicable Union and national law on the protection of personal data.
 
-## Artikel 6 | Obligations of third parties receiving data at the request of the user | art_6
+## Article 6 | Obligations of third parties receiving data at the request of the user | art_6
 1. A third party shall process the data made available to it pursuant to Article 5 only for the purposes and under the conditions agreed with the user and subject to Union and national law on the protection of personal data including the rights of the data subject insofar as personal data are concerned. The third party shall erase the data when they are no longer necessary for the agreed purpose, unless otherwise agreed with the user in relation to non-personal data.
 
 2. The third party shall not:
@@ -467,7 +467,7 @@ disregard the specific measures agreed with a data holder or with the trade secr
 
 prevent the user that is a consumer, including on the basis of a contract, from making the data it receives available to other parties.
 
-## Artikel 7 | Scope of business-to-consumer and business-to-business data sharing obligations | art_7
+## Article 7 | Scope of business-to-consumer and business-to-business data sharing obligations | art_7
 1. The obligations of this Chapter shall not apply to data generated through the use of connected products manufactured or designed or related services provided by a microenterprise or a small enterprise, provided that that enterprise does not have a partner enterprise or a linked enterprise within the meaning of Article 3 of the Annex to Recommendation 2003/361/EC that does not qualify as a microenterprise or a small enterprise and where the microenterprise and small enterprise is not subcontracted to manufacture or design a connected product or to provide a related service.
 
 The same shall apply to data generated through the use of connected products manufactured by or related services provided by an enterprise that has qualified as a medium-sized enterprise under Article 2 of the Annex to Recommendation 2003/361/EC for less than one year and to connected products for one year after the date on which they were placed on the market by a medium-sized enterprise.
@@ -476,7 +476,7 @@ The same shall apply to data generated through the use of connected products man
 
 # kap-3 | Chapter III | OBLIGATIONS FOR DATA HOLDERS OBLIGED TO MAKE DATA AVAILABLE PURSUANT TO UNION LAW | cpt_III
 
-## Artikel 8 | Conditions under which data holders make data available to data recipients | art_8
+## Article 8 | Conditions under which data holders make data available to data recipients | art_8
 1. Where, in business-to-business relations, a data holder is obliged to make data available to a data recipient under Article 5 or under other applicable Union law or national legislation adopted in accordance with Union law, it shall agree with a data recipient the arrangements for making the data available and shall do so under fair, reasonable and non-discriminatory terms and conditions and in a transparent manner in accordance with this Chapter and Chapter IV.
 
 2. A contractual term concerning access to and the use of data, or liability and remedies for the breach or termination of data-related obligations, shall not be binding if it constitutes an unfair contractual term within the meaning of Article 13 or if, to the detriment of the user, it excludes the application of, derogates from or varies the effect of the user’s rights under Chapter II.
@@ -489,7 +489,7 @@ The same shall apply to data generated through the use of connected products man
 
 6. Unless otherwise provided for in Union law, including Article 4(6) and Article 5(9) of this Regulation, or by national legislation adopted in accordance with Union law, an obligation to make data available to a data recipient shall not oblige the disclosure of trade secrets.
 
-## Artikel 9 | Compensation for making data available | art_9
+## Article 9 | Compensation for making data available | art_9
 1. Any compensation agreed upon between a data holder and a data recipient for making data available in business-to-business relations shall be non- discriminatory and reasonable and may include a margin.
 
 2. When agreeing on any compensation, the data holder and the data recipient shall take into account in particular:
@@ -512,7 +512,7 @@ investments in the collection and production of data, where applicable, taking i
 
 7. The data holder shall provide the data recipient with information setting out the basis for the calculation of the compensation in sufficient detail so that the data recipient can assess whether the requirements of paragraphs 1 to 4 are met.
 
-## Artikel 10 | Dispute settlement | art_10
+## Article 10 | Dispute settlement | art_10
 1. Users, data holders and data recipients shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes pursuant to Article 4(3) and (9) and Article 5(12) as well as disputes relating to the fair, reasonable and non-discriminatory terms and conditions for, and transparent manner of, making data available in accordance with this Chapter and Chapter IV.
 
 2. Dispute settlement bodies shall make the fees, or the mechanisms used to determine the fees, known to the parties concerned before those parties request a decision.
@@ -567,7 +567,7 @@ the most common reasons for disputes.
 
 13. This Article does not affect the right of parties to seek an effective remedy before a court or tribunal of a Member State.
 
-## Artikel 11 | Technical protection measures on the unauthorised use or disclosure of data | art_11
+## Article 11 | Technical protection measures on the unauthorised use or disclosure of data | art_11
 1. A data holder may apply appropriate technical protection measures, including smart contracts and encryption, to prevent unauthorised access to data, including metadata, and to ensure compliance with Articles 4, 5, 6, 8 and 9, as well as with the agreed contractual terms for making data available. Such technical protection measures shall not discriminate between data recipients or hinder a user’s right to obtain a copy of, retrieve, use or access data, to provide data to third parties pursuant to Article 5 or any right of a third party under Union law or national legislation adopted in accordance with Union law. Users, third parties and data recipients shall not alter or remove such technical protection measures unless agreed by the data holder.
 
 2. In the circumstances referred to in paragraph 3, the third party or data recipient shall comply, without undue delay, with the requests of the data holder and, where applicable and where they are not the same person, the trade secret holder or the user:
@@ -614,14 +614,14 @@ altered or removed technical protection measures applied by the data holder purs
 
 5. Where the data recipient infringes Article 6(2), point (a) or (b), users shall have the same rights as data holders under paragraph 2 of this Article.
 
-## Artikel 12 | Scope of obligations for data holders obliged pursuant to Union law to make data available | art_12
+## Article 12 | Scope of obligations for data holders obliged pursuant to Union law to make data available | art_12
 1. This Chapter shall apply where, in business-to-business relations, a data holder is obliged under Article 5 or under applicable Union law or national legislation adopted in accordance with Union law, to make data available to a data recipient.
 
 2. A contractual term in a data sharing agreement which, to the detriment of one party, or, where applicable, to the detriment of the user, excludes the application of this Chapter, derogates from it, or varies its effect, shall not be binding on that party.
 
 # kap-4 | Chapter IV | UNFAIR CONTRACTUAL TERMS RELATED TO DATA ACCESS AND USE BETWEEN ENTERPRISES | cpt_IV
 
-## Artikel 13 | Unfair contractual terms unilaterally imposed on another enterprise | art_13
+## Article 13 | Unfair contractual terms unilaterally imposed on another enterprise | art_13
 1. A contractual term concerning access to and the use of data or liability and remedies for the breach or the termination of data related obligations, which has been unilaterally imposed by an enterprise on another enterprise, shall not be binding on the latter enterprise if it is unfair.
 
 2. A contractual term which reflects mandatory provisions of Union law, or provisions of Union law which would apply if the contractual terms did not regulate the matter, shall not be considered to be unfair.
@@ -684,10 +684,10 @@ Point (g) of the first subparagraph shall not affect terms by which the party th
 
 # kap-5 | Chapter V | MAKING DATA AVAILABLE TO PUBLIC SECTOR BODIES, THE COMMISSION, THE EUROPEAN CENTRAL BANK AND UNION BODIES ON THE BASIS OF AN EXCEPTIONAL NEED | cpt_V
 
-## Artikel 14 | Obligation to make data available on the basis of an exceptional need | art_14
+## Article 14 | Obligation to make data available on the basis of an exceptional need | art_14
 Where a public sector body, the Commission, the European Central Bank or a Union body demonstrates an exceptional need, as set out in Article 15, to use certain data, including the relevant metadata necessary to interpret and use those data, to carry out its statutory duties in the public interest, data holders that are legal persons, other than public sectors bodies, which hold those data shall make them available upon a duly reasoned request.
 
-## Artikel 15 | Exceptional need to use data | art_15
+## Article 15 | Exceptional need to use data | art_15
 1. An exceptional need to use certain data within the meaning of this Chapter shall be limited in time and scope and shall be considered to exist only in any of the following circumstances:
 
 (a)
@@ -710,12 +710,12 @@ the public sector body, the Commission, the European Central Bank or the Union b
 
 3. The obligation to demonstrate that the public sector body was unable to obtain non-personal data by purchasing them on the market shall not apply where the specific task carried out in the public interest is the production of official statistics and where the purchase of such data is not allowed by national law.
 
-## Artikel 16 | Relationship with other obligations to make data available to public sector bodies, the Commission, the European Central Bank and Union bodies | art_16
+## Article 16 | Relationship with other obligations to make data available to public sector bodies, the Commission, the European Central Bank and Union bodies | art_16
 1. This Chapter shall not affect the obligations laid down in Union or national law for the purposes of reporting, complying with requests for access to information or demonstrating or verifying compliance with legal obligations.
 
 2. This Chapter shall not apply to public sector bodies, the Commission, the European Central Bank or Union bodies carrying out activities for the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal penalties, or to customs or taxation administration. This Chapter does not affect applicable Union and national law on the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal or administrative penalties, or for customs or taxation administration.
 
-## Artikel 17 | Requests for data to be made available | art_17
+## Article 17 | Requests for data to be made available | art_17
 1. When requesting data pursuant to Article 14, a public sector body, the Commission, the European Central Bank or a Union body shall:
 
 (a)
@@ -806,7 +806,7 @@ The European Central Bank and Union bodies shall inform the Commission of their 
 
 6. The Commission shall develop a model template for requests pursuant to this Article.
 
-## Artikel 18 | Compliance with requests for data | art_18
+## Article 18 | Compliance with requests for data | art_18
 1. A data holder receiving a request to make data available under this Chapter shall make the data available to the requesting public sector body, the Commission, the European Central Bank or a Union body without undue delay, taking into account necessary technical, organisational and legal measures.
 
 2. Without prejudice to specific needs regarding the availability of data defined in Union or national law, a data holder may decline or seek the modification of a request to make data available under this Chapter without undue delay and, in any event, no later than five working days after the receipt of a request for the data necessary to respond to a public emergency and without undue delay and, in any event, no later than 30 working days after the receipt of such a request in other cases of an exceptional need, on any of the following grounds:
@@ -829,7 +829,7 @@ the request does not meet the conditions laid down in Article 17(1) and (2).
 
 5. Where the public sector body, the Commission, the European Central Bank or the Union body wishes to challenge a data holder’s refusal to provide the data requested, or where the data holder wishes to challenge the request and the matter cannot be resolved by an appropriate modification of the request, the matter shall be referred to the competent authority designated pursuant to Article 37 of the Member State where the data holder is established.
 
-## Artikel 19 | Obligations of public sector bodies, the Commission, the European Central Bank and Union bodies | art_19
+## Article 19 | Obligations of public sector bodies, the Commission, the European Central Bank and Union bodies | art_19
 1. A public sector body, the Commission, the European Central Bank or a Union body receiving data pursuant to a request made under Article 14 shall:
 
 (a)
@@ -858,7 +858,7 @@ share the data with another third party for any of the purposes referred to in p
 
 4. A public sector body, the Commission, the European Central Bank or a Union body shall be responsible for the security of the data it receives.
 
-## Artikel 20 | Compensation in cases of an exceptional need | art_20
+## Article 20 | Compensation in cases of an exceptional need | art_20
 1. Data holders other than microenterprises and small enterprises shall make available data necessary to respond to a public emergency pursuant to Article 15(1), point (a), free of charge. The public sector body, the Commission, the European Central Bank or the Union body that has received data shall provide public acknowledgement to the data holder if requested by the data holder.
 
 2. The data holder shall be entitled to fair compensation for making data available in compliance with a request made pursuant to Article 15(1), point (b). Such compensation shall cover the technical and organisational costs incurred to comply with the request including, where applicable, the costs of anonymisation, pseudonymisation, aggregation and of technical adaptation, and a reasonable margin. Upon request of the public sector body, the Commission, the European Central Bank or the Union body, the data holder shall provide information on the basis for the calculation of the costs and the reasonable margin.
@@ -869,7 +869,7 @@ share the data with another third party for any of the purposes referred to in p
 
 5. Where the public sector body, the Commission, the European Central Bank or the Union body disagrees with the level of compensation requested by the data holder, they may lodge a complaint with the competent authority designated pursuant to Article 37 of the Member State where the data holder is established.
 
-## Artikel 21 | Sharing of data obtained in the context of an exceptional need with research organisations or statistical bodies | art_21
+## Article 21 | Sharing of data obtained in the context of an exceptional need with research organisations or statistical bodies | art_21
 1. A public sector body, the Commission, the European Central Bank or a Union body shall be entitled to share data received under this Chapter:
 
 (a)
@@ -888,7 +888,7 @@ with national statistical institutes and Eurostat for the production of official
 
 5. Where a public sector body, the Commission, the European Central Bank or a Union body intends to transmit or make data available under paragraph 1 of this Article, it shall notify without undue delay the data holder from whom the data was received, stating the identity and contact details of the organisation or the individual receiving the data, the purpose of the transmission or making available of the data, the period for which the data is to be used and the technical protection and organisational measures taken, including where personal data or trade secrets are involved. Where the data holder disagrees with the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article 37 of the Member State where the data holder is established.
 
-## Artikel 22 | Mutual assistance and cross-border cooperation | art_22
+## Article 22 | Mutual assistance and cross-border cooperation | art_22
 1. Public sector bodies, the Commission, the European Central Bank and Union bodies shall cooperate and assist one another, to implement this Chapter in a consistent manner.
 
 2. Any data exchanged in the context of assistance requested and provided pursuant to paragraph 1 shall not be used in a manner incompatible with the purpose for which they were requested.
@@ -909,7 +909,7 @@ The requesting public sector body, the Commission, the European Central Bank and
 
 # kap-6 | Chapter VI | SWITCHING BETWEEN DATA PROCESSING SERVICES | cpt_VI
 
-## Artikel 23 | Removing obstacles to effective switching | art_23
+## Article 23 | Removing obstacles to effective switching | art_23
 Providers of data processing services shall take the measures provided for in Articles 25, 26, 27, 29 and 30 to enable customers to switch to a data processing service, covering the same service type, which is provided by a different provider of data processing services, or to on-premises ICT infrastructure, or, where relevant, to use several providers of data processing services at the same time. In particular, providers of data processing services shall not impose and shall remove pre-commercial, commercial, technical, contractual and organisational obstacles, which inhibit customers from:
 
 (a)
@@ -932,10 +932,10 @@ in accordance with Article 24, achieving functional equivalence in the use of th
 
 unbundling, where technically feasible, data processing services referred to in Article 30(1) from other data processing services provided by the provider of data processing services.
 
-## Artikel 24 | Scope of the technical obligations | art_24
+## Article 24 | Scope of the technical obligations | art_24
 The responsibilities of providers of data processing services laid down in Articles 23, 25, 29, 30 and 34 shall apply only to the services, contracts or commercial practices provided by the source provider of data processing services.
 
-## Artikel 25 | Contractual terms concerning switching | art_25
+## Article 25 | Contractual terms concerning switching | art_25
 1. The rights of the customer and the obligations of the provider of data processing services in relation to switching between providers of such services or, where applicable, to an on-premises ICT infrastructure shall be clearly set out in a written contract. The provider of data processing services shall make that contract available to the customer prior to signing the contract in a way that allows the customer to store and reproduce the contract.
 
 2. Without prejudice to Directive (EU) 2019/770, the contract referred to in paragraph 1 of this Article shall include at least the following:
@@ -1018,7 +1018,7 @@ erase its exportable data and digital assets.
 
 5. Without prejudice to paragraph 4, the contract referred to in paragraph 1 shall include clauses providing the customer with the right to extend the transitional period once for a period that the customer considers more appropriate for its own purposes.
 
-## Artikel 26 | Information obligation of providers of data processing services | art_26
+## Article 26 | Information obligation of providers of data processing services | art_26
 The provider of data processing services shall provide the customer with:
 
 (a)
@@ -1029,10 +1029,10 @@ information on available procedures for switching and porting to the data proces
 
 a reference to an up-to-date online register hosted by the provider of data processing services, with details of all the data structures and data formats as well as the relevant standards and open interoperability specifications, in which the exportable data referred to in Article 25(2), point (e), are available.
 
-## Artikel 27 | Obligation of good faith | art_27
+## Article 27 | Obligation of good faith | art_27
 All parties involved, including destination providers of data processing services, shall cooperate in good faith to make the switching process effective, enable the timely transfer of data and maintain the continuity of the data processing service.
 
-## Artikel 28 | Contractual transparency obligations on international access and transfer | art_28
+## Article 28 | Contractual transparency obligations on international access and transfer | art_28
 1. Providers of data processing services shall make the following information available on their websites, and keep that information up to date:
 
 (a)
@@ -1045,7 +1045,7 @@ a general description of the technical, organisational and contractual measures 
 
 2. The websites referred to in paragraph 1 shall be listed in contracts for all data processing services offered by providers of data processing services.
 
-## Artikel 29 | Gradual withdrawal of switching charges | art_29
+## Article 29 | Gradual withdrawal of switching charges | art_29
 1. From 12 January 2027, providers of data processing services shall not impose any switching charges on the customer for the switching process.
 
 2. From 11 January 2024 to 12 January 2027, providers of data processing services may impose reduced switching charges on the customer for the switching process.
@@ -1060,7 +1060,7 @@ a general description of the technical, organisational and contractual measures 
 
 7. The Commission is empowered to adopt delegated acts in accordance with Article 45 to supplement this Regulation by establishing a monitoring mechanism for the Commission to monitor switching charges, imposed by providers of data processing services on the market to ensure that the withdrawal and reduction of switching charges, pursuant to paragraphs 1 and 2 of this Article are to be attained in accordance with the deadlines laid down in those paragraphs.
 
-## Artikel 30 | Technical aspects of switching | art_30
+## Article 30 | Technical aspects of switching | art_30
 1. Providers of data processing services that concern scalable and elastic computing resources limited to infrastructural elements such as servers, networks and the virtual resources necessary for operating the infrastructure, but that do not provide access to the operating services, software and applications that are stored, otherwise processed, or deployed on those infrastructural elements, shall, in accordance with Article 27, take all reasonable measures in their power to facilitate that the customer, after switching to a service covering the same service type, achieves functional equivalence in the use of the destination data processing service. The source provider of data processing services shall facilitate the switching process by providing capabilities, adequate information, documentation, technical support and, where appropriate, the necessary tools.
 
 2. Providers of data processing services, other than those referred to in paragraph 1, shall make open interfaces available to an equal extent to all their customers and the concerned destination providers of data processing services free of charge to facilitate the switching process. Those interfaces shall include sufficient information on the service concerned to enable the development of software to communicate with the services, for the purposes of data portability and interoperability.
@@ -1073,7 +1073,7 @@ a general description of the technical, organisational and contractual measures 
 
 6. Providers of data processing services shall not be required to develop new technologies or services, or disclose or transfer digital assets that are protected by intellectual property rights or that constitute a trade secret, to a customer or to a different provider of data processing services or compromise the customer’s or provider’s security and integrity of service.
 
-## Artikel 31 | Specific regime for certain data processing services | art_31
+## Article 31 | Specific regime for certain data processing services | art_31
 1. The obligations laid down in Article 23, point (d), Article 29 and Article 30(1) and (3) shall not apply to data processing services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where all components have been developed for the purposes of an individual customer, and where those data processing services are not offered at broad commercial scale via the service catalogue of the provider of data processing services.
 
 2. The obligations laid down in this Chapter shall not apply to data processing services provided as a non-production version for testing and evaluation purposes and for a limited period of time.
@@ -1082,7 +1082,7 @@ a general description of the technical, organisational and contractual measures 
 
 # kap-7 | Chapter VII | UNLAWFUL INTERNATIONAL GOVERNMENTAL ACCESS AND TRANSFER OF NON-PERSONAL DATA | cpt_VII
 
-## Artikel 32 | International governmental access and transfer | art_32
+## Article 32 | International governmental access and transfer | art_32
 1. Providers of data processing services shall take all adequate technical, organisational and legal measures, including contracts, in order to prevent international and third-country governmental access and transfer of non-personal data held in the Union where such transfer or access would create a conflict with Union law or with the national law of the relevant Member State, without prejudice to paragraph 2 or 3.
 
 2. Any decision or judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a provider of data processing services to transfer or give access to non-personal data falling within the scope of this Regulation held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union, or any such agreement between the requesting third country and a Member State.
@@ -1111,7 +1111,7 @@ The EDIB referred to in Article 42 shall advise and assist the Commission in dev
 
 # kap-8 | Chapter VIII | INTEROPERABILITY | cpt_VIII
 
-## Artikel 33 | Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces | art_33
+## Article 33 | Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces | art_33
 1. Participants in data spaces that offer data or data services to other participants shall comply with the following essential requirements to facilitate the interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces which are purpose- or sector-specific or cross-sectoral interoperable frameworks for common standards and practices to share or jointly process data for, inter alia, the development of new products and services, scientific research or civil society initiatives:
 
 (a)
@@ -1176,12 +1176,12 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 11. The Commission may adopt guidelines taking into account the proposal of the EDIB in accordance with Article 30, point (h), of Regulation (EU) 2022/868 laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces.
 
-## Artikel 34 | Interoperability for the purposes of in-parallel use of data processing services | art_34
+## Article 34 | Interoperability for the purposes of in-parallel use of data processing services | art_34
 1. The requirements laid down in Article 23, Article 24, Article 25(2), points (a)(ii), (a)(iv), (e) and (f) and Article 30(2) to (5) shall also apply mutatis mutandis to providers of data processing services to facilitate interoperability for the purposes of in-parallel use of data processing services.
 
 2. Where a data processing service is being used in parallel with another data processing service, the providers of data processing services may impose data egress charges, but only for the purpose of passing on egress costs incurred, without exceeding such costs.
 
-## Artikel 35 | Interoperability of data processing services | art_35
+## Article 35 | Interoperability of data processing services | art_35
 1. Open interoperability specifications and harmonised standards for the interoperability of data processing services shall:
 
 (a)
@@ -1232,7 +1232,7 @@ the cloud application aspects of application syntactic portability, application 
 
 9. The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 46(2).
 
-## Artikel 36 | Essential requirements regarding smart contracts for executing data sharing agreements | art_36
+## Article 36 | Essential requirements regarding smart contracts for executing data sharing agreements | art_36
 1. The vendor of an application using smart contracts or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available shall ensure that those smart contracts comply with the following essential requirements of:
 
 (a)
@@ -1299,7 +1299,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 # kap-9 | Chapter IX | IMPLEMENTATION AND ENFORCEMENT | cpt_IX
 
-## Artikel 37 | Competent authorities and data coordinators | art_37
+## Article 37 | Competent authorities and data coordinators | art_37
 1. Each Member State shall designate one or more competent authorities to be responsible for the application and enforcement of this Regulation (competent authorities). Member States may establish one or more new authorities or rely on existing authorities.
 
 2. Where a Member State designates more than one competent authority, it shall designate a data coordinator from among them to facilitate cooperation between the competent authorities and to assist entities within the scope of this Regulation on all matters related to its application and enforcement. Competent authorities shall, in the exercise of the tasks and powers assigned to them under paragraph 5, cooperate with each other.
@@ -1398,21 +1398,21 @@ inform the Commission, on an annual basis, of the refusals notified under Articl
 
 16. Competent authorities shall respect the principles of confidentiality and of professional and commercial secrecy and shall protect personal data in accordance with Union or national law. Any information exchanged in the context of a request for assistance and provided pursuant to this Article shall be used only in respect of the matter for which it was requested.
 
-## Artikel 38 | Right to lodge a complaint | art_38
+## Article 38 | Right to lodge a complaint | art_38
 1. Without prejudice to any other administrative or judicial remedy, natural and legal persons shall have the right to lodge a complaint, individually or, where relevant, collectively, with the relevant competent authority in the Member State of their habitual residence, place of work or establishment if they consider that their rights under this Regulation have been infringed. The data coordinator shall, upon request, provide all the necessary information to natural and legal persons for the lodging of their complaints with the appropriate competent authority.
 
 2. The competent authority with which the complaint has been lodged shall inform the complainant, in accordance with national law, of the progress of the proceedings and of the decision taken.
 
 3. Competent authorities shall cooperate to handle and resolve complaints effectively and in a timely manner, including by exchanging all relevant information by electronic means, without undue delay. This cooperation shall not affect the cooperation mechanisms provided for by Chapters VI and VII of Regulation (EU) 2016/679 and by Regulation (EU) 2017/2394.
 
-## Artikel 39 | Right to an effective judicial remedy | art_39
+## Article 39 | Right to an effective judicial remedy | art_39
 1. Notwithstanding any administrative or other non-judicial remedy, any affected natural and legal person shall have the right to an effective judicial remedy with regard to legally binding decisions taken by competent authorities.
 
 2. Where a competent authority fails to act on a complaint, any affected natural and legal person shall, in accordance with national law, either have the right to an effective judicial remedy or access to review by an impartial body with the appropriate expertise.
 
 3. Proceedings pursuant to this Article shall be brought before the courts or tribunals of the Member State of the competent authority against which the judicial remedy is sought individually or, where relevant, collectively by the representatives of one or more natural or legal persons.
 
-## Artikel 40 | Penalties | art_40
+## Article 40 | Penalties | art_40
 1. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
 
 2. Member States shall by 12 September 2025 notify the Commission of those rules and measures and shall notify it without delay of any subsequent amendment affecting them. The Commission shall regularly update and maintain an easily accessible public register of those measures.
@@ -1447,10 +1447,10 @@ infringing party’s annual turnover in the preceding financial year in the Unio
 
 5. For infringements of the obligations laid down in Chapter V of this Regulation, the European Data Protection Supervisor may impose within its scope of competence administrative fines in accordance with Article 66 of Regulation (EU) 2018/1725 up to the amount referred to in Article 66(3) of that Regulation.
 
-## Artikel 41 | Model contractual terms and standard contractual clauses | art_41
+## Article 41 | Model contractual terms and standard contractual clauses | art_41
 The Commission, before 12 September 2025, shall develop and recommend non-binding model contractual terms on data access and use, including terms on reasonable compensation and the protection of trade secrets, and non-binding standard contractual clauses for cloud computing contracts to assist parties in drafting and negotiating contracts with fair, reasonable and non-discriminatory contractual rights and obligations.
 
-## Artikel 42 | Role of the EDIB | art_42
+## Article 42 | Role of the EDIB | art_42
 The EDIB established by the Commission as an expert group pursuant to Article 29 of Regulation (EU) 2022/868, in which competent authorities shall be represented, shall support the consistent application of this Regulation by:
 
 (a)
@@ -1483,12 +1483,12 @@ the adoption of the guidelines laying down interoperable frameworks for common s
 
 # kap-10 | Chapter X | SUI GENERIS RIGHT UNDER DIRECTIVE 96/9/EC | cpt_X
 
-## Artikel 43 | Databases containing certain data | art_43
+## Article 43 | Databases containing certain data | art_43
 The sui generis right provided for in Article 7 of Directive 96/9/EC shall not apply when data is obtained from or generated by a connected product or related service falling within the scope of this Regulation, in particular in relation to Articles 4 and 5 thereof.
 
 # kap-11 | Chapter XI | FINAL PROVISIONS | cpt_XI
 
-## Artikel 44 | Other Union legal acts governing rights and obligations on data access and use | art_44
+## Article 44 | Other Union legal acts governing rights and obligations on data access and use | art_44
 1. The specific obligations for the making available of data between businesses, between businesses and consumers, and on exceptional basis between businesses and public bodies, in Union legal acts that entered into force on or before 11 January 2024, and delegated or implementing acts pursuant thereto, shall remain unaffected.
 
 2. This Regulation is without prejudice to Union law specifying, in light of the needs of a sector, a common European data space, or an area of public interest, further requirements, in particular in relation to:
@@ -1507,7 +1507,7 @@ aspects going beyond data access and use.
 
 3. This Regulation, with the exception of Chapter V, is without prejudice to Union and national law providing for access to and authorising the use of data for scientific research purposes.
 
-## Artikel 45 | Exercise of the delegation | art_45
+## Article 45 | Exercise of the delegation | art_45
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
 2. The power to adopt delegated acts referred to in Article 29(7) and Article 33(2) shall be conferred on the Commission for an indeterminate period of time from 11 January 2024.
@@ -1520,26 +1520,26 @@ aspects going beyond data access and use.
 
 6. A delegated act adopted pursuant to Article 29(7) or Article 33(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
 
-## Artikel 46 | Committee procedure | art_46
+## Article 46 | Committee procedure | art_46
 1. The Commission shall be assisted by the Committee established by Regulation (EU) 2022/868. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
-## Artikel 47 | Amendment to Regulation (EU) 2017/2394 | art_47
+## Article 47 | Amendment to Regulation (EU) 2017/2394 | art_47
 In the Annex to Regulation (EU) 2017/2394 the following point is added:
 
 ‘29.
 
 Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).’
 
-## Artikel 48 | Amendment to Directive (EU) 2020/1828 | art_48
+## Article 48 | Amendment to Directive (EU) 2020/1828 | art_48
 In Annex I to Directive (EU) 2020/1828 the following point is added:
 
 ‘68.
 
 Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj). ’
 
-## Artikel 49 | Evaluation and review | art_49
+## Article 49 | Evaluation and review | art_49
 1. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee. That evaluation shall assess, in particular:
 
 (a)
@@ -1600,7 +1600,7 @@ the impact of this Regulation on SMEs with regard to their capacity to innovate 
 
 4. On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.
 
-## Artikel 50 | Entry into force and application | art_50
+## Article 50 | Entry into force and application | art_50
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 It shall apply from 12 September 2025.

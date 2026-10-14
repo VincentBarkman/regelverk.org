@@ -1,0 +1,75 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 2'
+'title': 'Bilaga 2'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 2.'
+'designation': 'AFS 2023:10 Bilaga 2'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Hand- och armvibrationer
+
+### Inledning
+
+Denna bilaga anger formler för daglig exponering för hand- och armvibrationer och hör till [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5).
+
+Uppskattningen av exponering för hand- och armvibrationer grundar sig på den dagliga vibrationsexponeringen under en representativ arbetsdag.
+
+### 1 – . Uppskattning av daglig vibrationsexponering
+
+Den dagliga vibrationsexponeringen för hand- och armvibrationer, A(8), beräknas med hjälp av vibrationsvärdet och exponeringstiden under en åttatimmarsperiod enligt formel (1) och har enheten m/s2.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>h</mi><mi>v</mi></mrow></msub><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></msqrt></math>
+
+#### Fotnoter
+
+(1)
+
+där
+
+T är exponeringstiden för vibrationsvärdet, ahv och T0 referensvärdet för en representativ arbetsdag (åtta timmar).
+
+Vibrationsvärdet för hand- och armvibrationer, ahv, beräknas enligt formel (2) och har enheten m/s2.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>a</mi></mrow><mrow><mi>h</mi><mi>v</mi></mrow></msub><mo>=</mo><msqrt><msubsup><mrow><mi>a</mi></mrow><mrow><mi>h</mi><mi>w</mi><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mi>a</mi></mrow><mrow><mi>h</mi><mi>w</mi><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><msubsup><mrow><mi>a</mi></mrow><mrow><mi>h</mi><mi>w</mi><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msubsup></msqrt></math>
+
+(2)
+
+där
+
+ahwx, ahwy, ahwz är RMS-värdet av den frekvensvägda accelerationen, mätt i tre vinkelräta riktningar, x, y, z.
+
+Vibrationsvärdet för hand- och armvibrationer, ahv, uppskattas antingen genom mätning av maskinen under pågående arbetsmoment eller genom att använda tillverkarens information, enligt [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5).
+
+Om flera olika maskiner används under samma arbetsdag, eller om flera arbetsmoment med olika vibrationsvärden behöver summeras, ska exponeringsbidragen från de olika maskinerna och arbetsmomenten summeras enligt formel (3).
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><munderover><mo stretchy="false">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msubsup><mrow><mi>A</mi></mrow><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>(</mo><mn>8</mn><mo>)</mo></mrow></mrow></msqrt></math>
+
+(3)
+
+där
+
+n är antalet individuella arbetsmoment under arbetsdagen och Ai(8) är den partiella dagliga vibrationsexponeringen för varje använd maskin under utfört arbetsmoment.
+
+### 2 – . Mätning
+
+När mätning görs enligt [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5) får metoderna som används omfatta stickprovsundersökningar som är representativa för vibrationsexponeringen. De metoder och den apparatur som används ska vara anpassade till den specifika karaktäristiken hos de vibrationer som ska mätas, till miljöfaktorer och till mätutrustningens karaktäristik, enligt svensk standard. På utrustning som hålls med två händer ska mätningar göras på båda händerna. Vibrationsexponeringen bestäms utifrån det högre av de två värdena. Information om värdet för den andra handen ska också ges.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

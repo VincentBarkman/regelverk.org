@@ -1,0 +1,49 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 15'
+'title': 'Bilaga 15'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 15.'
+'designation': 'AFS 2023:10 Bilaga 15'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Insatsnivåer för tidsvarierande magnetiska fält
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8, 9, 11, 12 och 21 §§.
+
+Blåg i tabell 28 motsvarar gränsvärden för Eind för sensoriska effekter och gränsvärden Eind för hälsoeffekter i tabell 26 bilaga 13.
+
+Bhög i tabell 28 motsvarar gränsvärden för hälsoeffekter för interna elektriska fält Eind i samband med elektrisk stimulering av centrala och perifera nervsystemet. Uppfyllande av Bhög säkerställer att gränsvärden för hälsoeffekter inte överskrids, men effekter såsom fosfener och mindre övergående förändringar i hjärnverksamheten är möjliga, om exponeringen av huvudet överskrider Blåg vid exponeringar upp till 400 Hz.
+
+Bextr gäller för exponering av extremiteterna och motsvarar gränsvärden för hälsoeffekter för interna elektriska fält i samband med elektrisk stimulering av vävnader i extremiteterna med hänsyn tagen till att magnetiska fält har en svagare koppling till extremiteterna än till hela kroppen.
+
+<table><caption>Tabell 28. Insatsnivåer för exponering för magnetisk flödestäthet B i frekvensintervallet från 1 Hz upp till 10 MHz </caption><tbody><tr><th><div><div>Frekvens f [Hz]</div></div></th><th><div><div>B<sub>låg</sub> [10<sup>–6</sup> T]</div></div></th><th><div><div>B<sub>hög</sub> [10<sup>–6</sup> T]</div></div></th><th><div><div>B<sub>extr</sub> [10<sup>–6</sup> T]</div></div></th></tr><tr><td><div><div>1 ≤ f &lt; 8</div></div></td><td><div><div>2,0 · 10<sup>5</sup>/f<sup>2</sup></div></div></td><td><div><div>3,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>9,0 · 10<sup>5</sup>/f</div></div></td></tr><tr><td><div><div>8 ≤ f &lt; 25</div></div></td><td><div><div>2,5 · 10<sup>4</sup>/f</div></div></td><td><div><div>3,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>9,0 · 10<sup>5</sup>/f</div></div></td></tr><tr><td><div><div>25 ≤ f &lt; 300</div></div></td><td><div><div>1,0 · 10<sup>3</sup></div></div></td><td><div><div>3,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>9,0 · 10<sup>5</sup>/f</div></div></td></tr><tr><td><div><div>300 ≤ f &lt; 3 · 10<sup>3</sup></div></div></td><td><div><div>3,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>3,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>9,0 · 10<sup>5</sup>/f</div></div></td></tr><tr><td><div><div>3 · 10<sup>3</sup> ≤ f ≤ 10 · 10<sup>6</sup></div></div></td><td><div><div>1,0 · 10<sup>2</sup></div></div></td><td><div><div>1,0 · 10<sup>2</sup></div></div></td><td><div><div>3,0 · 10<sup>2</sup></div></div></td></tr></tbody></table>
+
+Anmärkningar till tabell 28:
+
+1\. Blåg, Bhög, Bextr ges som rms-värden. För sinusoidala fält gäller att rms-värdet är toppvärdet dividerat med √2.
+
+2\. För fält som inte är sinusoidala ska bedömning av exponering göras med den så kallade weighted peak-metoden (filtrering i tidsdomän), men andra vetenskapligt bevisade och validerade utvärderingsförfaranden för exponering får tillämpas, förutsatt att de leder till ungefär likvärdiga och jämförbara resultat.
+
+3\. Insatsnivåerna motsvarar maximala värden där arbetstagarens kropp befinner sig. Detta leder till en försiktig bedömning av exponeringen och automatiskt uppfyllande av gränsvärdet under alla förhållanden med ojämn exponering. I situationer med en mycket lokal källa inom ett avstånd av några centimeter från kroppen ska efterlevnad av gränsvärden fastställas dosimetriskt, från fall till fall, och inte genom användning av insatsnivåer.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

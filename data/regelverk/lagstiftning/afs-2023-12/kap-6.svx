@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/'
@@ -21,77 +21,153 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Belysning och vägledande markering för utrymning
+### 1 § – Skydd mot våld och hot om våld
+
+Arbetsplatser ska vara utformade så att risken för våld eller hot om våld så långt som det är möjligt förebyggs.
+
+Bestämmelser om larm för att tillkalla hjälp vid våld och hot om våld finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar i kapitlet om våld och hot om våld.
+
+> _Allmänna råd_
+>
+> Risk för våld och hot om våld kan vara en orsak till utlösning av utrymningslarm.
+>
+> Exempel på utformning som minimerar risken för våld och hot om våld är att det finns möjlighet till reträtt ut ur den aktuella lokalen eller att det finns någon annan möjlighet att sätta sig i säkerhet i lokalen, att lokalerna är möjliga att överblicka och inte innehåller gömda skrymslen och att det är möjligt att överblicka området utanför en entré innan man öppnar ytterdörren.
+
+### 2 § – Skydd mot fall
+
+Arbetsplatser ska vara utformade så att risken för fall minimeras. Det gäller fall till lägre nivå, från samma nivå genom att man halkar eller snubblar och till bassänger, kar och liknande anordningar, vars innehåll innebär särskild fara.
+
+> _Allmänna råd_
+>
+> Exempel på hur risken för fall kan minimeras är skyddsräcken och skyddstäckning samt att öppningar i golv så långt som möjligt undviks, framförallt i närheten av platser där arbetstagare passerar eller utför arbete. I vissa fall kan avspärrning vara tillräckligt. Skydd mot fall från samma nivå berörs bland annat i paragrafer om golv, förbindelseleder och underhåll.
+
+### 3 §
+
+Plattformar, avsatser, trappor, balkonger, förbindelsebryggor, ramper, öppna bassänger eller kar, större nivåskillnader och liknande samt öppningar i golv och väggar ska normalt ha skyddsräcke om de inte avgränsas av väggar. Det ska finnas skydd som hindrar att man oavsiktligt beträder ytor med låg bärighet, såsom glas- och plastytor.
+
+### 4 §
+
+En fast stege som är högre än 6 meter ska ha skydd som hindrar fall.
+
+### 5 §
+
+Om det är möjligt från godshanteringssynpunkt ska det finnas avkörningsskydd vid kanter där det finns risk för att fordon störtar ned. Avkörningsskydden ska vara minst 0,3 meter höga, varningsmarkerade, och utförda så att de hindrar att fordon störtar ned om de körs eller glider mot skydden oavsiktligt.
+
+### 6 § – Skyddsräcken
+
+Ett skyddsräcke ska vara utformat så att det begränsar risken att falla över, genom eller under räcket och, när det behövs, inte går att klättra på.
+
+> _Allmänna råd_
+>
+> För att ett skyddsräcke ska begränsa fallrisken bör det vara minst 1,1 meter högt. I trappor räcker det normalt med räckeshöjden 0,9 meter, om det inte finns risk att falla mer än 3,0 meter.
+>
+> Utomhus behöver hänsyn tas till snöförhållandena, så att räckeshöjden är tillräcklig även när underlaget är snö.
+>
+> Enligt Boverkets byggregler (BBR) ska räcken i utrymmen där barn kan vistas utformas så att barn inte skadar sig till följd av att de klättrar eller kryper.
+
+### 7 §
+
+Ett skyddsräcke ska vara dimensionerat så att det håller för den belastning som det kan bli utsatt för. Räcket ska normalt vara fast. Om man kan ta loss, fälla eller vrida räcket, ska det lätt kunna återföras till skyddsläget och säkras.
+
+### 8 § – Skydd mot ras
+
+Arbetsplatser ska vara utformade så att föremål inte kan falla ned och skada arbetstagare.
 
 ### 9 §
 
-Utrymningsvägar ska ha belysning som fungerar med tillfredsställande säkerhet.
-
-En utrymningsväg där det krävs belysning för att utrymningen ska vara säker ska ha tillräcklig nödbelysning för utrymning om det är fel på den ordinarie belysningen.
+Ytterdörrar och portar ska normalt ha skydd mot snöras och fallande istappar.
 
 > _Allmänna råd_
+>
+> Exempel på skydd är skyddstak och snörasskydd.
 
-> Exempel på när nödbelysning för utrymning kan behövas är i trapphus eller på arbetsplatser där nödbelysning krävs enligt 5 kap. 26 §. På golvet i gångstråket bör belysningsstyrkan vara minst 1 lux på det sämst belysta stället. Exempel på ljusbehov för att dimensionera belysningen av utrymningsvägar finns i standarden
+### 10 § – Skydd mot sammanstötning med glasytor
 
-> SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
-
-### 10 §
-
-Utrymningsvägar samt vägar och dörrar till utrymningsvägar ska normalt vara skyltade eller ha andra vägledande markeringar.
+Genomsynliga dörrar, portar och väggpartier ska där det behövs vara tydligt markerade så att de är lätta att upptäcka.
 
 > _Allmänna råd_
+>
+> Bestämmelser om glas finns även i Boverkets byggregler (BBR).
 
-> Exempel på andra vägledande markeringar är fluorescerande ljus i golvet och taktila ledstråk.
+### 11 § – Skydd mot skärskador
 
-### 11 §
-
-Skyltar och andra vägledande markeringar för utrymning ska vara placerade på väl synliga ställen och ha ett varaktigt utförande. När det behövs, ska de vara belysta eller genomlysta. Skyltarna ska vara utförda enligt bilagorna 2 och 3.
+Om det finns risk för att arbetstagarna kommer i kontakt med glasytor på ett sådant sätt att glasytorna kan splittras, ska glasytorna antingen förses med skydd eller vara så utförda att skärskador undviks.
 
 > _Allmänna råd_
+>
+> I skolor bör glasytor i dörrar och väggpartier vara gjorda av härdat eller laminerat glas, om avståndet från glasytans underkant till golvet eller marken är mindre än 1,5 meter. Bestämmelser om glas finns även i Boverkets byggregler (BBR).
 
-> Exempel på lämplig storlek på skyltar, i förhållande till läsavstånd, finns i standarden SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
+### 12 § – Skydd mot köldskador och brännskador
 
-#### Utrymningslarm
+Kalla eller heta ytor och installationer ska vara placerade och utformade så att kylskador eller brännskador undviks. De ska vara isolerade eller ha skydd mot oavsiktlig beröring, om det behövs för att förhindra skada.
 
-### 12 §
-
-För att förebygga olycksfall och akut ohälsa på grund av brand, gasutströmning, syrebrist eller liknande ska det finnas detektorer och larmanordningar i den omfattning som är nödvändig. Vid bedömningen av vad som är nödvändig omfattning ska hänsyn tas till arbetsplatsens storlek, läge och användning, de fysikaliska och kemiska egenskaperna hos de material, ämnen och produkter och den utrustning som förekommer samt det antal människor som arbetsplatsen är avsedd för och deras förutsättningar.
+> _Allmänna råd_
+>
+> Exempel på hur risken för brännskador och köldskador kan bedömas finns i standarderna
+>
+> SS-EN ISO 13732-1:2008. Ergonomi för termiskt klimat – Metoder för bedömning av reaktioner hos människan vid kontakt med ytor – Del 1: Varma ytor (ISO 13732-1:2006). Utgåva 2, respektive
+>
+> SS-EN ISO 13732-3:2008 Ergonomi för termiskt klimat – Metoder för bedömning av reaktioner hos människan vid kontakt med ytor – Del 3: Kalla ytor (ISO 13732-3:2005). Utgåva 2.
 
 ### 13 §
 
-Larm ska kunna utlösas manuellt vid fara. Om det behövs ska det finnas en anordning som automatiskt utlöser larmet vid brand, gasutströmning, syrebrist eller liknande.
+Vid arbetsplatser där det finns särskilt stor risk för brännskador ska det i anslutning till arbetsplatsen finnas tillgång till tempererat vatten i tillräcklig omfattning.
 
-Bestämmelser om larm vid våld och hot om våld finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar i kapitlet om våld och hot om våld.
+### 14 § – Skydd mot instängning
 
-> _Allmänna råd_
+Skydd mot instängning ska finnas i lokaler där de som arbetar är speciellt utsatta för risker vid instängning. När instängning innebär en allvarlig hälsorisk ska det finnas en ljus- och ljudsignalanordning som är tillförlitlig, synlig och lätt åtkomlig inifrån.
 
-> Se även bilagorna 2 och 6–8.
+Signalanordningen ska vara placerad cirka 0,5 meter över golvet. Signalerna ska nå en plats där de säkert kan uppmärksammas. Signalanordningen ska vara märkt ”Nödsignal”.
 
-> Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
-
-### 14 §
-
-Larmanordningar ska avge signaler som kan uppfattas av alla arbetstagare som berörs av faran. Signalerna ska inte kunna förväxlas med processignaler eller andra signaler som förekommer på arbetsplatsen.
+Dörrar till kyl- och frysrum ska enkelt kunna öppnas inifrån.
 
 > _Allmänna råd_
-
-> Se även bilagorna 2 och 6–8.
-
-> Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
+>
+> Exempel på lokaler som innebär en allvarlig hälsorisk för den som blir instängd, är kyl- och frysrum där temperaturen är under –5 °C och ouppvärmda bodar. I bilaga 2, avsnitt 2.9, finns krav på säker reservtillförsel av energi till signaler.
 
 ### 15 §
 
-Arbetsgivaren ska se till att installationer för utrymning underhålls och kontrolleras regelbundet. Kontrollen ska dokumenteras och arbetsgivaren ska ha tillgång till dokumentationen.
+Arbetsgivaren ska se till att larm från kyl- och frysrum kontrolleras regelbundet.
 
-> _Allmänna råd_
+### 16 § – Utrymmen, utrustning och skyltning för första hjälpen
 
-> Utrymningslarm, detektorer för brand eller gas, nödbelysning och automatiska dörröppnare i utrymningsvägar är exempel på installationer för utrymning.
+På alla arbetsplatser ska det finnas utrustning för första hjälpen i tillräcklig omfattning. Utrustningen ska vara anpassad efter riskerna i verksamheten. Den ska vara skyltad och lätt att komma åt.
 
-> Att skyltar ska underhållas framgår av bilaga 2.
+I den utsträckning som motiveras av eventuella lokalers storlek, verksamhetens art samt de särskilda riskerna ska det finnas ett eller flera utrymmen för första hjälpen. Dessa ska vara skyltade enligt bilaga 3.
 
-> Exempel på hur kontroll och dokumentation av utrymningslarm kan göras finns beskrivet i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
+### 17 §
 
-> För att kunna se till att installationer för utrymning underhålls och kontrolleras regelbundet kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena. Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i [lagen (2003:778)](https://rkrattsbaser.gov.se/sfst?bet=2003%3A778) om skydd mot olyckor.
+På väl synliga ställen ska det finnas anslag med uppgift om var det finns utrustning för första hjälpen och vilka personer som kan ge första hjälpen. Telefonnummer till larmcentral och taxi, adress och, om det behövs, färdbeskrivning och GPS–koordinater till arbetsplatsen, ska också finnas på anslaget.
+
+Anslaget ska vara utformat så att det lätt känns igen.
+
+### 18 §
+
+En lättåtkomlig nöddusch ska finnas i direkt anslutning till verksamheter där det finns risk för översköljning av ämnen som kan skada huden eller lätt tas upp genom denna, brännskada eller brand i kläderna, hår eller skägg.
+
+Vägen till nödduschen får inte vara blockerad. Nödduschen ska vara lätt att utlösa både av stående och krypande person, och den ska ge tillräckligt med vatten för att hindra skada eller en fortsatt skadeutveckling.
+
+Vattnet i nödduschen ska vara av god kvalitet. Vattnet i nödduschen ska normalt vara tempererat.
+
+### 19 §
+
+Där det finns risk för att partiklar eller ämnen kan stänka eller på annat sätt komma in i ögonen och ge ögonskador ska det finnas en lättåtkomlig ögonspolningsanordning. Den ska normalt vara fast installerad.
+
+Vid behov ska det finnas kompletterande utrustning med ögonspolningsvätska i omedelbar närhet av den plats där arbetet utförs.
+
+Vätska i ögonspolningsanordning som avses i första stycket och ögonspolingsvätska som avses i andra stycket ska vara tempererad och av god kvalitet samt finnas i den mängd som risken kräver.
+
+Vägen till ögonspolningsanordningen får inte vara blockerad. Anordningen ska vara lätt att utlösa och att använda.
+
+### 20 §
+
+Arbetsgivaren ska se till att nödduschar och ögonspolningsanordningar kontrolleras regelbundet, och att kontrollen dokumenteras minst en gång per halvår.
+
+Arbetsgivaren ska ha tillgång till dokumentationen.
+
+### 21 §
+
+Arbetsgivaren ska se till att arbetstagarna informeras om hur nödduschar och ögonspolningsanordningar ska användas.
 <!-- scan-laws:end -->
 
 ## Tolkning

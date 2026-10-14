@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/'
@@ -21,183 +21,221 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Kompletterande krav för personalutrymmen
+### Inledning
 
-### 37 § – Allmänt
+Stöd och verktyg: Säker utrymning och brandskydd
 
-För personalutrymmen preciserar och kompletterar [38](#38)–[65 §§](#65) de krav som i övrigt gäller för arbetsplatser enligt dessa föreskrifter.
+### 1 § – Definitioner
 
-### 38 §
+I [detta kapitel](/lagstiftning/afs-2023-12/kap-4) har följande begrepp dessa betydelser.
 
-Antalet personalutrymmen, samt deras placering, storlek och inredning ska vara anpassat till arbetets art och varaktighet, det antal arbetstagare som normalt kan beräknas använda utrymmena samtidigt, och arbetstagarnas funktionsförmåga.
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Tillfällig utrymningsplats</div></div></td><td><div><div>Plats där arbetstagare, som på egen hand inte kan utrymma hela vägen till en säker plats, säkert kan invänta hjälp.</div></div></td></tr><tr><td><div><div>Utrymningsväg</div></div></td><td><div><div>Utgång som leder till en säker plats, det vill säga en plats i det fria, där brand och brandgaser inte kan påverka utrymmande personer. Det kan även vara ett utrymme i en byggnad som leder från en brandcell till en sådan utgång.</div></div></td></tr></tbody></table>
 
-Personalutrymmen ska vara lättåtkomliga.
+### 2 § – Utrymning
 
-> _Allmänna råd_
+Alla arbetstagare, oavsett funktionsförmåga, ska kunna utrymma arbetsplatsen på ett snabbt och säkert sätt i händelse av fara.
 
-> Personalutrymmen kan också finnas utomhus. Detta gäller speciellt skolelever. Allmänna råd (2015:1) om friyta för lek och utevistelse vid fritidshem, förskolor, skolor eller liknande verksamhet ges ut av Boverket.
+Om egenutrymning inte är möjlig för alla, ska arbetsgivaren se till att alla arbetstagare ändå kan ta sig till en säker plats innan kritiska förhållanden uppstår.
 
-### 39 §
+### 3 §
 
-Ett personalutrymme får inte användas för verksamhet eller förvaring som försämrar användbarheten som personalutrymme.
-
-### 40 § – Förvaringsutrymmen
-
-Det ska finnas utrymmen för förvaring av privata kläder. Kläderna ska kunna förvaras så att de inte smutsas ned eller skadas, och så att risken för stöld motverkas. Utrymmena ska räcka till för alla arbetstagare som samtidigt behöver använda dem. Om privata kläder förvaras i omklädningsrum ska de gå att låsa in.
+Arbetsgivaren ska se till att det finns rutiner för att alla arbetstagare ska kunna utrymma arbetsplatsen. Utrymningsövningar ska normalt genomföras så att arbetstagarna har aktuell kunskap om hur utrymningen ska ske.
 
 > _Allmänna råd_
+>
+> Exempel på när utrymningsövningar behöver genomföras regelbundet är i verksamheter där kritiska förhållanden kan uppstå snabbt eller där personal har särskilda uppgifter i samband med en utrymning. Exempel på sådana verksamheter är vissa industrier, vårdanläggningar och skolor. Exempel på när utrymningsövningar kan ersättas med genomgångar, om det ger likvärdiga kunskaper, är om verksamheten sker i små och överblickbara lokaler och alla arbetstagare har förutsättningar att utrymma på egen hand.
+>
+> För att följa bestämmelsen kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena.
+>
+> Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i [lagen (2003:778)](https://rkrattsbaser.gov.se/sfst?bet=2003%3A778) om skydd mot olyckor.
 
-> Risken för stöld kan motverkas genom att förvaringsutrymmen har eller kan förses med lås.
+### 4 §
 
-### 41 §
+Om en utrymningsväg på en befintlig arbetsplats är utformad så att arbetstagare med nedsatt funktionsförmåga inte kan utrymma hela vägen till en säker plats på egen hand, ska det normalt finnas en tillfällig utrymningsplats i eller i anslutning till utrymningsvägen. Den tillfälliga utrymningsplatsen och vägen till denna ska vara tillgänglig.
 
-Det ska finnas utrymmen för personliga värdesaker. De ska ha eller kunna förses med lås.
-
-### 42 §
-
-I de fall som omklädning mellan privata kläder och arbetskläder måste ske på arbetsplatsen, ska det finnas utrymmen enligt [40 §](#40-förvaringsutrymmen) i anslutning till den plats där omklädningen sker.
-
-### 43 §
-
-Om arbetet är smutsande eller svettdrivande eller det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs från arbetskläder eller skyddskläder ska de privata kläderna kunna förvaras så att smuts inte överförs från arbetskläder eller skyddskläder till privata kläder.
+Arbetsgivaren ska se till att ingen lämnas kvar på en tillfällig utrymningsplats.
 
 > _Allmänna råd_
+>
+> En tillfällig utrymningsplats kan ibland ordnas i trapphuset om det inte hindrar övriga som utrymmer. Exempel på sätt att säkerställa att ingen lämnas kvar på en tillfällig utrymningsplats är att det finns kommunikationssystem eller rutiner för att meddela räddningstjänsten att någon behöver assistans. Exempel på hur utrymningsplatser kan utformas finns i Boverkets byggregler (BBR).
 
-> Nedsmutsning kan motverkas genom att kläderna förvaras separat.
+### 5 §
 
-> Exempel på arbeten där privata kläder kan behöva förvaras skilda från arbetskläder eller skyddskläder är djurhållning och arbete vid avloppsreningsverk.
+Antalet utrymningsvägar samt deras fördelning och kapacitet ska vara avpassade efter arbetsplatsernas storlek och användning, den inredning och utrustning som förekommer på arbetsplatserna, det största antal människor arbetsplatsen är avsedd för och arbetstagarnas förutsättningar att använda utrymningsvägarna.
 
-### 44 §
-
-Vid arbete där skyddskläder används ska det finnas ett lämpligt utrymme för förvaring av dessa.
-
-### 45 §
-
-Det ska finnas möjlighet att torka arbetskläder, skyddskläder och skodon som blir våta under arbetet eller som rengjorts på grund av nedsmutsning i arbetet.
-
-### 46 § – Omklädningsrum
-
-Arbetstagare ska ha tillgång till omklädningsrum eller något annat lämpligt utrymme för omklädning på arbetsplatsen om de utför smutsande eller svettdrivande arbete eller måste bära särskilda arbetskläder.
+Det ska normalt finnas minst två av varandra oberoende utrymningsvägar.
 
 > _Allmänna råd_
+>
+> Ibland kan fönster i markplan vara en utrymningsväg, beroende på arbetstagarnas förmåga att använda utrymningsvägen. Ibland kan fönster med balkong och hjälp av räddningstjänsten godtas som den ena av de två av varandra oberoende utrymningsvägarna, beroende på räddningstjänstens insatstid och kapacitet.
+>
+> Exempel på när det kan vara tillräckligt med en (1) utrymningsväg är små lokaler i markplan, och lokaler där man bara vistas tillfälligt.
+>
+> För bedömning av enskilda fall kan Boverkets byggregler (BBR) användas som vägledning.
 
-> Exempel på ett annat lämpligt utrymme för omklädning kan vara en rymlig toalett eller ett annat avskiljbart utrymme.
+### 6 §
 
-### 47 §
+Utrymningsvägar, samt vägar och dörrar till utrymningsvägar, ska hållas fria från hinder så att de när som helst är fullt användbara. De ska, så direkt som möjligt, leda ut i det fria eller till en annan säker plats.
 
-I omklädningsrum ska det finnas tillräcklig plats för ombyte för de arbetstagare som hänvisas dit samtidigt. Det ska finnas sittplatser för så många personer som normalt behöver sitta samtidigt.
+Inredning får inte bidra till rökutveckling eller brandspridning inom utrymningsvägarna. Lättantändligt material får inte förvaras i utrymningsvägarna.
 
-### 48 §
+### 7 §
 
-Omklädningsrum ska normalt vara skilda för män och kvinnor om de behöver använda dem samtidigt.
+Dörrar och grindar för utrymning ska normalt vara utåtgående i utrymningsriktningen.
 
-### 49 §
-
-Om det behövs ska det finnas olika omklädningsrum för byte till och från privata kläder, respektive till och från arbetskläder eller skyddskläder.
-
-> _Allmänna råd_
-
-> Exempel på när det kan behövas olika omklädningsrum är när det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs vid byte av kläder. Ibland kan dusch mellan rummen behövas.
-
-### 50 § – Tvättplatser
-
-I personalutrymmen ska det finnas tillräckligt många och lämpligt utformade tvättplatser.
-
-### 51 §
-
-Om arbetet är svettdrivande eller smutsande, ska det normalt finnas dusch.
+Skjutdörrar och roterdörrar, som bara är avsedda för utrymning, är inte tillåtna.
 
 > _Allmänna råd_
+>
+> Om bara ett fåtal personer vistas i lokalen kan inåtgående dörrar eller grindar accepteras.
 
-> Om arbetet bara smutsar ned en begränsad del av kroppen, kan det ibland räcka med en annan tvättplats.
+### 8 §
 
-### 52 §
-
-Det ska alltid finnas tillgång till dusch om arbetet medför risk för smitta eller utförs med starkt luktande ämnen, allergena ämnen eller andra hälsofarliga ämnen.
-
-Duschen ska ligga i ett särskilt tvättrum i anslutning till omklädningsrummen.
+Dörrar som behöver passeras vid utrymning ska vara lätta att öppna för dem som behöver använda dem. De får inte vara låsta eller reglade på sådant sätt att utrymning försvåras.
 
 > _Allmänna råd_
+>
+> För att underlätta utrymningen kan tunga dörrar och dörrar med dörrstängare förses med automatisk dörröppnare.
 
-> Exempel på ett sådant arbete är arbete med mjöl, försöksdjur eller vissa bekämpningsmedel och arbeten i återvinningsanläggningar.
+### 9 § – Belysning och vägledande markering för utrymning
 
-### 53 §
+Utrymningsvägar ska ha belysning som fungerar med tillfredsställande säkerhet.
 
-Duschar ska vara skilda för män och kvinnor, om de behöver använda duscharna samtidigt. Tvättplatser ska vara åtskilda för män och kvinnor om det behövs för arbetstagarnas personliga integritet.
-
-> _Allmänna råd_
-
-> När det finns flera duschar bör behovet av avskilda duschplatser ses över. En avskärmad duschplats bör vara försedd med ett eget omklädningsutrymme.
-
-### 54 §
-
-Dusch- och tvättutrymmen ska normalt ligga i anslutning till omklädningsrum.
-
-### 55 §
-
-När det behövs ska det finnas utrustning för att spola av kläder eller skodon som blivit smutsiga i arbetet.
-
-### 56 § – Toaletter
-
-Det ska finnas tillräckligt många toaletter och tvättställ. De ska normalt ligga i närheten av platsen där arbete utförs, pausutrymmen, omklädningsrum samt duschutrymmen och tvättutrymmen.
+En utrymningsväg där det krävs belysning för att utrymningen ska vara säker ska ha tillräcklig nödbelysning för utrymning om det är fel på den ordinarie belysningen.
 
 > _Allmänna råd_
+>
+> Exempel på när nödbelysning för utrymning kan behövas är i trapphus eller på arbetsplatser där nödbelysning krävs enligt [5 kap. 26 §](/lagstiftning/afs-2023-12/kap-5#26). På golvet i gångstråket bör belysningsstyrkan vara minst 1 lux på det sämst belysta stället. Exempel på ljusbehov för att dimensionera belysningen av utrymningsvägar finns i standarden
+>
+> SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
 
-> Det är i allmänhet nödvändigt med en toalett per påbörjat 15-tal arbetstagare. Exempel på när tvättställ behöver ligga i anslutning till arbetsplatser är vid arbete där smittrisk förekommer, kemiska processer, laddning av batterier och arbete inom förskola och annan omsorgsverksamhet. Om arbetet medför smittrisk bör det finnas desinfektionsmedel för huden.
+### 10 §
 
-### 57 §
-
-Toalettrum ska vara tillräckligt stora, vara avskilda, ha låsbar dörr och inte ha direkt förbindelse med matutrymme.
-
-I toalettrummet, eller i anslutning till detta, ska det finnas ett tvättställ eller en tvättränna.
-
-### 58 §
-
-På befintliga arbetsplatser ska det finnas toaletter som är tillgängliga för alla som behöver använda dem.
+Utrymningsvägar samt vägar och dörrar till utrymningsvägar ska normalt vara skyltade eller ha andra vägledande markeringar.
 
 > _Allmänna råd_
+>
+> Exempel på andra vägledande markeringar är fluorescerande ljus i golvet och taktila ledstråk.
 
-> För att vara tillgänglig bör en toalett vara minst 2,2 x 2,2 meter. Större area kan behövas för assisterande arbetstagare och eventuella hjälpmedel, arbetsutrustning eller annan teknisk utrustning. Toaletten bör ha ett larm som går till en plats där det säkert kan uppmärksammas. Den bör ha kontrastmarkeringar samt en inredning och utrustning som är lämpligt utformad och placerad.
+### 11 §
 
-### 59 §
-
-Om det finns larm från toaletter ska arbetsgivaren se till att larmet kontrolleras regelbundet.
-
-### 60 § – Matutrymme
-
-Arbetstagare ska kunna äta under tillfredsställande förhållanden. Det gäller även de som äter medhavd mat. Det ska ske i lämpliga utrymmen med bord och stolar med ryggstöd.
+Skyltar och andra vägledande markeringar för utrymning ska vara placerade på väl synliga ställen och ha ett varaktigt utförande. När det behövs, ska de vara belysta eller genomlysta. Skyltarna ska vara utförda enligt bilagorna 2 och 3.
 
 > _Allmänna råd_
+>
+> Exempel på lämplig storlek på skyltar, i förhållande till läsavstånd, finns i standarden SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
 
-> Exempel på lämpliga utrymmen är en restaurang eller ett matrum, men kan också vara ett avskilt matutrymme i arbetslokalen.
+### 12 § – Utrymningslarm
 
-### 61 §
+För att förebygga olycksfall och akut ohälsa på grund av brand, gasutströmning, syrebrist eller liknande ska det finnas detektorer och larmanordningar i den omfattning som är nödvändig. Vid bedömningen av vad som är nödvändig omfattning ska hänsyn tas till arbetsplatsens storlek, läge och användning, de fysikaliska och kemiska egenskaperna hos de material, ämnen och produkter och den utrustning som förekommer samt det antal människor som arbetsplatsen är avsedd för och deras förutsättningar.
 
-Nära platsen där man äter medhavd mat ska det finnas kylskåp, möjlighet att värma maten och möjlighet att diska.
+### 13 §
 
-### 62 § – Pausutrymme
+Larm ska kunna utlösas manuellt vid fara. Om det behövs ska det finnas en anordning som automatiskt utlöser larmet vid brand, gasutströmning, syrebrist eller liknande.
 
-Arbetstagare ska kunna tillbringa pauser och eventuella väntetider i arbetet på en plats där de har möjlighet till kortare återhämtning. Det ska finnas tillräckligt många sittplatser med ryggstöd.
-
-### 63 § – Vilutrymme
-
-På arbetsplatser ska det finnas, eller gå snabbt att ställa i ordning, ett lämpligt vilutrymme för tillfällig, ostörd och liggande vila.
+Bestämmelser om larm vid våld och hot om våld finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar i kapitlet om våld och hot om våld.
 
 > _Allmänna råd_
+>
+> Se även bilagorna 2 och 6–8.
+>
+> Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
 
-> Exempel på när vilutrymmet kan behöva vara utfört som ett särskilt vilrum är när fler än 50 personer samtidigt sysselsätts inom samma område. I närheten av vilutrymmet bör det finnas en toalett.
+### 14 §
 
-### 64 § – Jourrum
-
-För den arbetstagare som har jourtjänst ska det finnas ett ostört jourrum med en storlek och inredning så att arbetstagaren får tillräcklig vila. Rummet ska ligga så nära huvudarbetsplatsen för jourtjänsten som det är praktiskt möjligt. Det ska vara utformat som ett enkelrum.
+Larmanordningar ska avge signaler som kan uppfattas av alla arbetstagare som berörs av faran. Signalerna ska inte kunna förväxlas med processignaler eller andra signaler som förekommer på arbetsplatsen.
 
 > _Allmänna råd_
+>
+> Se även bilagorna 2 och 6–8.
+>
+> Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
 
-> Jourrum ska finnas när jour i arbetstidslagens (1982:673) mening förekommer. Bestämmelser om att det ska finnas utrymmen för vila, även där arbetsgivaren inte råder över arbetsplatsen, finns i arbetsmiljölagen.
+### 15 §
 
-### 65 §
+Arbetsgivaren ska se till att installationer för utrymning underhålls och kontrolleras regelbundet. Kontrollen ska dokumenteras och arbetsgivaren ska ha tillgång till dokumentationen.
 
-I närheten av jourrum ska det finnas möjlighet att värma och äta mat. Toalett och dusch ska finnas nära jourrummet.
+> _Allmänna råd_
+>
+> Utrymningslarm, detektorer för brand eller gas, nödbelysning och automatiska dörröppnare i utrymningsvägar är exempel på installationer för utrymning.
+>
+> Att skyltar ska underhållas framgår av bilaga 2.
+>
+> Exempel på hur kontroll och dokumentation av utrymningslarm kan göras finns beskrivet i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
+>
+> För att kunna se till att installationer för utrymning underhålls och kontrolleras regelbundet kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena. Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i [lagen (2003:778)](https://rkrattsbaser.gov.se/sfst?bet=2003%3A778) om skydd mot olyckor.
+
+### 16 § – Särskilda åtgärder för brandskydd
+
+Arbetsgivaren ska se till att det finns rutiner för att förebygga uppkomst och spridning av brand.
+
+> _Allmänna råd_
+>
+> Hur omfattande rutinerna behöver vara beror bland annat på verksamhetens art, lokalernas utformning och antalet arbetstagare. För att följa bestämmelsen kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena.
+>
+> Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i [lagen (2003:778)](https://rkrattsbaser.gov.se/sfst?bet=2003%3A778) om skydd mot olyckor.
+
+### 17 §
+
+Arbetsplatser ska vara utrustade med de brandredskap som behövs. Vid val av brandredskap ska hänsyn tas till arbetsplatsens storlek, läge och användning, de fysikaliska och kemiska egenskaperna hos de material, ämnen och produkter och den utrustning som förekommer samt det största antal människor som arbetsplatsen är avsedd för och deras förutsättningar.
+
+### 18 §
+
+Särskilda åtgärder ska vidtas för att underlätta utrymning i byggnader och andra anläggningar där en brand kan få en så snabb spridning eller medföra en så snabb rökutveckling att utrymning väsentligt försvåras.
+
+Om det behövs ska det finnas ett automatiskt släcksystem.
+
+> _Allmänna råd_
+>
+> Särskilda åtgärder kan vara både tekniska och organisatoriska. Exempel på tekniska åtgärder är automatiska släckanläggningar, automatiskt styrd brand- och rökgasevakuering och extra utrymningsvägar. Exempel på organisatoriska åtgärder är extra utbildning av personal och att arbetstagare som utför tillfälliga arbeten i serviceutrymmen står i kontakt med någon utanför rummet.
+>
+> Exempel på när särskilda åtgärder kan behöva vidtas är när stora mängder plast, färg eller papper hanteras i verksamheten och när arbete utförs i utrymmen som är svåra att utrymma som till exempel höglager, traversförarrum, maskinrum, cisterner, kulvertar och transformatorrum eller när det bara finns en utrymningsväg.
+>
+> Riktlinjer för vattensprinklersystem finns i Brandskyddsföreningens skrift SBF 120:8.
+
+### 19 §
+
+Släckutrustning och släcksystem som inte är automatiska ska vara lätta att komma åt och använda samt markeras med skyltar på väl synliga ställen.
+
+> _Allmänna råd_
+>
+> Se bilagorna 2–4 för utformning av skyltningen.
+
+### 20 §
+
+I utrymmen där utlöst släckmedel från ett automatiskt släcksystem innebär risk för kvävning eller ohälsa för arbetstagarna ska särskilda åtgärder vidtas för att skydda mot sådana risker. Utlösningen ska då ske med viss fördröjning efter larmet, så att utrymningen kan ske innan en akut risk för skador uppstår.
+
+> _Allmänna råd_
+>
+> Exempel på utformning av sådana släcksystem finns beskrivet i Brandskyddsföreningens skrifter SBF 500 och SBF 115.
+
+### 21 § – Utrymningsplan
+
+På arbetsplatser ska det, i den omfattning som behövs och på platser som är väl synliga och lätta att upptäcka, finnas anslag med utrymningsplan. Utrymningsplaner behövs dock inte för arbetsplatser vars storlek, läge och överskådlighet är sådana att en utrymningsplan saknar betydelse för arbetstagarnas säkerhet vid en utrymning.
+
+> _Allmänna råd_
+>
+> Små lokaler där samtliga utrymningsvägar är synliga från hela lokalen är exempel på när utrymningsplanen kan sakna betydelse för arbetstagarnas säkerhet.
+
+### 22 §
+
+Utrymningsplanen ska
+
+visa alla utrymningsvägar, inklusive tillfälliga utrymningsplatser,
+
+visa återsamlingsplats,
+
+ange hur räddningstjänsten och annan nödvändig hjälpinsats larmas, och
+
+när detta är aktuellt, visa placering av handbrandsläckare, manuella larmutlösningsdon och larmtelefon.
+
+Om inte alla utrymningsvägar är tillgängliga för personer med nedsatt rörelse- eller orienteringsförmåga ska det framgå av utrymningsplanen vilka utrymningsvägar de kan använda.
+
+Utrymningsplanen får också innehålla annan information om det inte försvårar läsningen.
+
+> _Allmänna råd_
+>
+> Exempel på hur en utrymningsplan kan vara utformad finns i svensk standard SS 2875:2019. Brand och räddning – Utrymningsplan – symboler. Utgåva 3.
 <!-- scan-laws:end -->
 
 ## Tolkning

@@ -30,6 +30,17 @@ function bestVariant<T extends { locale?: string }>(a: T, b: T): T {
 	return a.locale === 'sv' ? a : b;
 }
 
+// legal document order: chapters/articles first, then sections (e.g.
+// övergångsbestämmelser), then annexes last
+const slugRank = (id: string) => {
+	const leaf = id.slice(id.lastIndexOf('/') + 1);
+	return leaf.startsWith('bilaga-') ? 2 : leaf.startsWith('avsnitt-') ? 1 : 0;
+};
+
+function byDocOrder(a: { id: string }, b: { id: string }): number {
+	return slugRank(a.id) - slugRank(b.id) || a.id.localeCompare(b.id, 'sv', { numeric: true });
+}
+
 export function listRecords(scope: string, entity: string): DataRecordRef[] {
 	const byKey = new Map<string, DataRecordRef>();
 	for (const r of records) {
@@ -47,15 +58,12 @@ export function listRecords(scope: string, entity: string): DataRecordRef[] {
 		const key = `${ref.scope}/${ref.entity}/${ref.id}`;
 		byKey.set(key, byKey.has(key) ? bestVariant(byKey.get(key)!, ref) : ref);
 	}
-	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
+	return [...byKey.values()].sort(byDocOrder);
 }
 
 export function nestRecords(items: DataRecordRef[]): DataRecordRef[] {
 	const top = items.filter((i) => !i.parent);
-	for (const p of top)
-		p.children = items
-			.filter((c) => c.parent === p.id)
-			.sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
+	for (const p of top) p.children = items.filter((c) => c.parent === p.id).sort(byDocOrder);
 	return top;
 }
 
@@ -123,7 +131,7 @@ export function listPages(scope: string): DataRecordRef[] {
 		const key = `${ref.scope}/pages/${ref.id}`;
 		byKey.set(key, byKey.has(key) ? bestVariant(byKey.get(key)!, ref) : ref);
 	}
-	return [...byKey.values()].sort((a, b) => a.id.localeCompare(b.id, 'sv', { numeric: true }));
+	return [...byKey.values()].sort(byDocOrder);
 }
 
 export function topRecords(scope: string, entity: Entity): { id: string; title?: string }[] {

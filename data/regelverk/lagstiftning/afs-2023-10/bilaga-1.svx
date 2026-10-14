@@ -1,0 +1,53 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 1'
+'title': 'Bilaga 1'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 1.'
+'designation': 'AFS 2023:10 Bilaga 1'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Beräkning av daglig bullerexponeringsnivå
+
+### Inledning
+
+Denna bilaga hör till [2 kap.](/lagstiftning/afs-2023-10/kap-2)
+
+Om arbetsdagens längd avviker från 8 timmar beräknas den dagliga bullerexponeringsnivån LEX,8h, uttryckt i dB, med hjälp av nedanstående formel.
+
+LEX,8h = LpAeq,Te + 10 log (Te/T0)
+
+där
+
+LpAeq,Te = uppmätt ekvivalent A-vägd ljudtrycksnivå under tiden Te
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>L</mi></mrow><mrow><mi>p</mi><mi>A</mi><mi>e</mi><mi>q</mi><mo>,</mo><mi>T</mi><mi>e</mi></mrow></msub><mo>=</mo><mn>10</mn><mi mathvariant="normal"></mi><mi mathvariant="normal">l</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">g</mi><mrow><mo>[</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>-</mo><msub><mrow><mi>t</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mrow><munderover><mo stretchy="false">∫</mo><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></munderover><mrow><msup><mrow><mrow><mo>[</mo><mrow><mfrac><mrow><msub><mrow><mi>p</mi></mrow><mrow><mi>A</mi></mrow></msub><mrow><mo>(</mo><mrow><mi>t</mi></mrow><mo>)</mo></mrow></mrow><mrow><msub><mrow><mi>p</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow><mo>]</mo></mrow></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant="normal"></mi><mi>d</mi><mi>t</mi></mrow></mrow></mrow><mo>]</mo></mrow></math>
+
+Te = t2 – t1 = den dagliga exponeringstiden, uttryckt i timmar, för buller med ekvivalenta A-vägda ljudtrycksnivån LpAeq,Te
+
+T0 = 8 [h]
+
+p0 = 20 x 10-6 [Pa]
+
+pA = A-vägt momentant ljudtryck [Pa]
+
+Om Te = T0 = 8 timmar blir LEX,8h = LpAeq,Te
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

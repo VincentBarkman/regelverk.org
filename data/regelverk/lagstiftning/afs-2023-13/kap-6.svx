@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,83 +21,359 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Rutiner och kunskaper
+### Inledning
 
-### 10 §
+Stöd och verktyg: Dykeriarbete
 
-Arbetsgivaren ska se till att det finns rutiner för att överföra information till de som arbetar med transport, seminering, provtagning eller behandling av djur.
+### 1 § – Då gäller föreskrifterna
 
-Arbetsgivaren ska även se till att det finns rutiner för hur arbetet ska kunna utföras säkert med djur som tidigare har visat beteenden som kan innebära risk för olycksfall.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-6) reglerar all verksamhet där arbetsgivare sysselsätter arbetstagare med arbete under vatten och de därvid andas andningsgas under förhöjt tryck.
 
-Om ett djur har visat ett avvikande beteende, som kan medföra att djuret utgör en allvarlig olycksrisk för människor, ska arbetsgivaren vidta åtgärder så att en betryggande säkerhet uppnås.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-6) gäller inte för Försvarsmakten och Polismyndighetens nationella insatsstyrka.
 
-### 11 §
+### 2 § – Vem föreskrifterna riktar sig till
 
-Arbetsgivaren ska se till att den som arbetar med djur har tillräckliga kunskaper om djurets egenskaper, beteendemönster, och hur djuret reagerar i olika situationer.
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-6) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Den som kommer i kontakt med farliga djur, som normalt hålls i fångenskap, ska ha tillräckliga kunskaper om hur man tar hand om djuret. Om det behövs ska personer med tillräckliga kunskaper om hur man hanterar sådana djur anlitas.
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-13/kap-6).
 
-#### Behandling av djur
+Föreskrifterna, med undantag för bestämmelserna i [23](#23-medicinska-kontroller-med-bedömning-för-tjänstbarhetsintyg) och [24 §§](#24-gravida-arbetstagare), gäller för den som ensam eller gemensamt med en familjemedlem men utan anställda yrkesmässigt driver byggnads- eller anläggningsarbete. Om sådan verksamhet bedrivs på ett gemensamt arbetsställe gäller dock föreskrifterna i sin helhet.
 
-### 12 §
+För den som ensam eller gemensamt med en familjemedlem men utan anställda driver yrkesmässig verksamhet som inte är byggnads- eller anläggningsarbete gäller föreskrifterna vid arbete på ett gemensamt arbetsställe, med undantag för bestämmelserna i [28](#28-tryckkammare) och [29 §§](#29-utrustning-för-första-hjälpen).
 
-När arbetstagarna ska behandla ett djur ska arbetsgivaren se till att djuret bedöms med tanke på säker hantering för att undvika att någon får skador som orsakas av att djuret sparkar, biter, stångar eller tränger.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-6) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
-Arbetsgivaren ska se till att djuret kan fixeras vid behandling om det behövs.
+### 3 § – Definitioner
 
-### 13 §
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-6) har följande begrepp dessa betydelser.
 
-Arbetsgivaren ska se till att det finns anordningar som gör det möjligt att behandla ett lösgående djur avskilt från andra djur.
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Andningsgas</div></div></td><td><div><div>Gasblandning avsedd för dykning.</div></div></td></tr><tr><td><div><div>Arbetsutrustning</div></div></td><td><div><div>Maskin, anordning, verktyg, redskap eller installation som används i arbetet.</div></div></td></tr><tr><td><div><div>Dekompression</div></div></td><td><div><div>Tryckminskning som erhålls vid uppstigning i vattnet eller vid tryckminskning i tryckkammare.</div></div></td></tr><tr><td><div><div>Dekompressionstabell</div></div></td><td><div><div>Instrument och tabeller som beskriver eller visar säker dekompression för att undvika dekompressionssjuka.</div></div></td></tr><tr><td><div><div>Direktuppstigning</div></div></td><td><div><div>Uppstigning till ytan som, enligt dekompressionstabell, inte kräver etappstopp.</div></div></td></tr><tr><td><div><div>Dykare</div></div></td><td><div><div>Den som sysselsätts med dykeriarbete.</div></div></td></tr><tr><td><div><div>Dykarledare</div></div></td><td><div><div>Den som är utsedd att planera, leda och övervaka dykning.</div></div></td></tr><tr><td><div><div>Dykarskötare</div></div></td><td><div><div>Den som är utsedd att upprätthålla den direkta kontakten med dykaren i vattnet.</div></div></td></tr><tr><td><div><div>Dykeriarbete</div></div></td><td><div><div>Arbete under vatten då arbetstagaren andas andningsgas under förhöjt tryck.</div></div></td></tr><tr><td><div><div>Dykplats</div></div></td><td><div><div>Plats på båt, pråm eller annan installation varifrån dykeriarbetet leds,&nbsp;bedrivs&nbsp;och där dykaren påbörjar sin nedstigning i vattnet.</div></div></td></tr><tr><td><div><div>Dykprofil</div></div></td><td><div><div>Dykdjup som funktion av tid.</div></div></td></tr><tr><td><div><div>Dykutrustning</div></div></td><td><div><div>Utrustning som medger att dykare kan vistas och arbeta under vatten.</div></div></td></tr><tr><td><div><div>Dykväst</div></div></td><td><div><div>Väst som används dels för avvägning av dykaren i vattnet, dels för uppstigning vid en nödsituation.</div></div></td></tr><tr><td><div><div>Etappuppstigning</div></div></td><td><div><div>Uppstigning med etappstopp och etapptider, enligt en särskild dekompressionstabell, då direktuppstigning inte kan genomföras på grund av risk för dekompressionssjuka.</div></div></td></tr><tr><td><div><div>Gasförsörjning från ytan</div></div></td><td><div><div>Dykning där dykaren försörjs med andningsgas från ytan via en slang.</div></div></td></tr><tr><td><div><div>Hjälmdykning</div></div></td><td><div><div>Dykning med hjälm där dykaren förses med andningsgas från ett friflödessystem eller ett behovsstyrt system.</div></div></td></tr><tr><td><div><div>Insatstid</div></div></td><td><div><div>Tiden mellan det att en nödställd dykare behöver assistans och reservdykarens assistans.</div></div></td></tr><tr><td><div><div>Kommunikationsutrustning</div></div></td><td><div><div>Utrustning som minst medger överföring av akustisk information mellan ytan och dykaren i vattnet.</div></div></td></tr><tr><td><div><div>Livlina</div></div></td><td><div><div>Lina, mellan dykaren och dykarskötaren på ytan, genom vilken kontakt mellan dem upprätthålls och signaler kan utväxlas.</div></div></td></tr><tr><td><div><div>Lättdykning</div></div></td><td><div><div>Dykning med andningsapparat där dykaren förses med andningsgas från ytan eller från ett självburet förråd.</div></div></td></tr><tr><td><div><div>Mellanlina</div></div></td><td><div><div>Lina kopplad mellan dykare genom vilken kontakt mellan dykarna upprätthålls.</div></div></td></tr><tr><td><div><div>Pardykning</div></div></td><td><div><div>Två eller flera dykare som dyker tillsammans och är förbundna med mellanlina.</div></div></td></tr><tr><td><div><div>Ytdekompression</div></div></td><td><div><div>Dekompression som äger rum i en tryckkammare ovan vattnet, enligt särskilda ytdekompressionstabeller.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (24 rader)</label></div>
 
-#### Bestämmelser för olika typer av djur
+### 4 § – Upprättande av dykplan
 
-### 14 § – Arbete med nötkreatur
+Innan dykeriarbete får påbörjas ska arbetsgivaren upprätta en skriftlig dykplan. Dykplanen ska baseras på undersökning och riskbedömning av det planerade dykeriarbetet enligt [5 §](#5-undersökning-och-riskbedömning) och åtgärder enligt [6 §](#6-åtgärder).
 
-Arbetsgivaren ska vidta åtgärder för att minska risken för stångskador av nötkreatur.
+Av en dykplan ska minst framgå
 
-### 15 §
+vilken typ av dykeriarbete som ska utföras,
 
-Arbetsgivaren ska se till att arbetstagarna arbetar med stor försiktighet bland kvigor eller kor där det finns en lösgående tjur eller vid arbete med nykalvade kor.
+bemanning och uppgiftsfördelning inom dyklaget och bland de övriga som medverkar i dykeriarbetet,
 
-Arbetsgivaren ska se till att det finns reträttvägar eller skyddsanordningar som går att nå vid en risksituation.
+vilka certifikat och utbildningsbevis som varje medlem i dyklaget har,
 
-### 16 § – Arbete med hästar
+vilken dyk- och kommunikationsutrustning som ska användas,
 
-Arbetsgivaren ska se till att det finns ett utrymme för verkning och skoning som
+vilken andningsgas och dekompressionstabell som ska användas,
 
-är placerat så att hästen som skos inte kan störas av passerande hästar eller personer,
+vilka åtgärder som planeras vid en eventuell olycka eller nödsituation, och
 
-har en lämplig belysning och temperatur,
+var det finns tillgång till tryckkammare och hur lång tid det tar att nå denna.
 
-är dragfritt, och
+### 5 § – Undersökning och riskbedömning
 
-har ett halksäkert golv.
+Arbetsgivaren ska i sin undersökning och riskbedömning av det planerade dykeriarbetet särskilt uppmärksamma
 
-Arbetsgivaren ska se till att hästen är uppbunden på ett säkert sätt. Det ska finnas tillräckligt fritt utrymme runt hästen, så att den som skor hästen inte riskerar att bli klämd.
+dyklagets sammansättning: antal, utbildning, kompetens och erfarenhet,
 
-### 17 §
+uppgiftsfördelningen inom dyklaget och bland de övriga som medverkar i dykeriarbetet,
 
-Arbetsgivaren ska se till att arbetet kan utföras så att arbetstagaren undviker risk för sparkar och bett vid utgödsling i spiltor och boxar. En häst i box ska kunna bindas under utgödslingen.
+den dyk- och arbetsutrustning som ska användas,
 
-### 18 §
+valet av andningsgas och dekompressionstabell,
 
-Arbetsgivaren ska se till att utrustningsdetaljer alltid kontrolleras före ridning eller körning. De ska vara hela, justerade och anpassade efter hästen, och de får inte ha några allvarliga förslitningar.
+dykutrustningens kompatibilitet med den andningsgas som används,
 
-Arbetsgivaren ska se till att sadling, selning och förspänning utförs på ett säkert sätt.
+användningen av gasförsörjning från ytan,
 
-### 19 §
+användningen av dykvästar, livlinor och mellanlinor,
 
-Arbetsgivaren ska se till att bara hästar som är lämpade för uppgiften används vid utbildning av elever.
+kommunikationen mellan dykare och dykarskötare och dykare emellan,
 
-### 20 § – Arbete med svin
+insatstiden för reservdykare,
 
-Arbetsgivaren ska se till att det i en box för galtar eller suggor finns möjlighet för arbetstagarna att ta skydd mot angrepp av djuren. Detta gäller inte om det finns hjälpmedel tillgängliga för att skydda sig vid ett angrepp.
+tillträde till dyk- och arbetsplatsen,
 
-Vid arbete med smågrisar ska arbetsgivaren se till att suggan kan hållas avskild från smågrisarna.
+väder-, vatten- och bottenförhållanden på dyk- och arbetsplatsen,
 
-[3 kap.](/lagstiftning/afs-2023-13/kap-3) Arbete med risk för exponering för asbest
+samordningen av dykeriarbetet med andra eventuella arbetsuppgifter på dyk- och arbetsplatsen,
 
-Stöd och verktyg: Asbest
+planerade åtgärder vid en olycka och en nödsituation, och
+
+var det finns tillgång till tryckkammare och hur lång tid det tar att nå denna.
+
+### 6 § – Åtgärder
+
+Arbetsgivaren ska vidta åtgärder som minimerar riskerna vid dykeriarbete om riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) motiverar det.
+
+Vid val av åtgärder ska arbetsgivaren särskilt överväga att
+
+utöka dyklaget,
+
+omfördela arbetsuppgifter inom dyklaget och bland de övriga som medverkar i dykeriarbetet,
+
+välja annan dykmetod, dykutrustning, andningsgas och dekompressionstabell,
+
+välja annan arbetsutrustning,
+
+använda tekniska hjälpmedel som kompletterar eller ersätter dykning,
+
+ge kompletterande utbildning,
+
+ge information så att dyk- och arbetsutrustningen används på ett riktigt och säkert sätt, och
+
+utforma och planera arbetsplatsen och dykplatsen på ett annat sätt.
+
+Dykeriarbete får inte påbörjas innan arbetsgivaren vidtagit åtgärder som reducerar riskerna.
+
+Om det planerade dykeriarbetet inte kan genomföras på ett säkert sätt, trots att arbetsgivaren vidtagit åtgärder för att minimera riskerna, får dykeriarbetet inte genomföras.
+
+#### Kunskaper, certifikat, utbildningsbevis och upprätthållande av kunskaper
+
+### 7 § – Kunskapskrav
+
+Arbetsgivaren ska se till att den som utför eller medverkar i dykeriarbete har teoretiska och praktiska kunskaper som motsvarar de krav som dykeriarbetet ställer, eller kan komma att ställa, med hänsyn tagen till den dykutrustning och arbetsutrustning som används samt de arbetsuppgifter som ska utföras.
+
+Kunskaperna ska vara dokumenterade i form av ett certifikat eller ett utbildningsbevis.
+
+Certifikatet eller utbildningsbeviset ska vara utfärdat av en nationell eller internationell myndighet eller organisation och tydligt ange hur omfattande kunskaper personen har.
+
+Kravet på certifikat eller utbildningsbevis gäller inte för dem som genomgår utbildning.
+
+### 8 § – Certifikat vid lättdykning
+
+Arbetsgivaren ska se till att den som utför dykeriarbete i form av lättdykning ned till 30 meter har ett dykarcertifikat minst i nivå med ett svenskt yrkesdykarcertifikat S 30.
+
+Vid dykeriarbete i form av lättdykning till större djup än 30 meter krävs ett dykarcertifikat minst i nivå med ett svenskt yrkesdykarcertifikat A 40.
+
+### 9 § – Certifikat vid hjälmdykning
+
+Arbetsgivaren ska se till att den som utför dykeriarbete i form av hjälmdykning ned till 30 meter har ett dykarcertifikat minst i nivå med ett svenskt yrkesdykarcertifikat H 30.
+
+Vid dykeriarbete i form av hjälmdykning till större djup än 30 meter krävs ett dykarcertifikat minst i nivå med ett svenskt yrkesdykarcertifikat B 50.
+
+### 10 § – Dykarledarcertifikat och utbildningsbevis för dykarledare
+
+Arbetsgivaren ska se till att dykarledare har ett dykarledarcertifikat eller utbildningsbevis som dykarledare samt minst har de teoretiska kunskaper som motsvarar kraven för att få ett svenskt yrkesdykarcertifikat S 30.
+
+### 11 § – Utbildningsbevis inom fritidsdykning
+
+Arbetsgivaren ska se till att de som utför dykeriarbete som instruktörer eller dykarledare inom fritidsdykning ska ha en utbildning på lämplig nivå.
+
+> _Allmänna råd_
+>
+> Lämplig nivå på utbildning kan vara utbildningsbevis i nivå med kraven i SS-EN ISO 24801-3:2014 Fritidsdykning - Säkerhetsrelaterade krav vid utbildning av fritidsdykare - Del 3: Nivå 3 - Dykledare.
+
+### 12 § – Upprätthållande av kunskaper
+
+Arbetsgivaren ska se till att den som utför eller medverkar i dykeriarbete upprätthåller tillräckliga kunskaper och färdigheter.
+
+Den som utför eller medverkar i dykeriarbete inom räddningstjänsten ska upprätthålla sina kunskaper och färdigheter genom minst tio övningar per år.
+
+Om dykeriarbete genomförs under året får antalet övningar minskas i motsvarande grad.
+
+Övningstillfällena ska fördelas jämnt över året.
+
+#### Utrustning
+
+### 13 § – Gasförsörjning från ytan
+
+Arbetsgivaren ska se till att gasförsörjning från ytan om möjligt används
+
+vid byggnads- och anläggningsarbeten,
+
+vid svetsning och termisk skärning,
+
+vid användning av maskindriven arbetsutrustning,
+
+i tunnlar, gångar, rör och andra slutna rum där dykaren inte kan göra en uppstigning direkt rakt upp till ytan,
+
+i och till undervattensstrukturer där dykaren kan fastna, snärjas eller sugas fast, och
+
+i förorenat vatten.
+
+> _Allmänna råd_
+>
+> Exempel på undervattensstrukturer är vrak, nedfallna konstruktioner, kablar och ledningar. Andra exempel är dammar, slussar och intag eller utsläpp av vatten från kraftverk.
+>
+> Exempel på förorenat vatten är vatten som innehåller kemiska, biologiska eller radioaktiva ämnen i sådan koncentration att det finns risk för akut eller långsiktig ohälsa.
+
+### 14 § – Dykväst
+
+Arbetsgivaren ska se till att den som utför dykeriarbete använder dykväst vid all dykning om inte riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) visar att användningen medför en ökad risk eller är uppenbart onödig.
+
+> _Allmänna råd_
+>
+> Exempel på när användning av dykväst kan medföra ökad risk är vid dykning under is och i slutna rum.
+
+### 15 § – Kommunikationsutrustning
+
+Arbetsgivaren ska se till att kommunikationsutrustning används vid all dykning om inte riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) visar att den är uppenbart onödig.
+
+> _Allmänna råd_
+>
+> Det är viktigt att dykarledaren eller dykarskötaren kan upprätthålla kontakt med dem som dyker. Hur denna kontakt upprätthålls beror på dykarens utrustning och på hur andningsgasen tillförs dykaren. Vid gasförsörjning från ytan är det viktigt att dykarledaren eller dykarskötaren kan höra dykarens andning eller kan tala med dykaren. Exempel på när kommunikationsutrustning kan bedömas vara onödig är vid pardykning.
+
+### 16 § – Livlina och mellanlina
+
+Arbetsgivaren ska se till att livlina eller mellanlina används vid all dykning om inte riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) visar att användningen medför en ökad risk eller är uppenbart onödig.
+
+> _Allmänna råd_
+>
+> Ett exempel på när livlina till en dykare i vattnet kan bedömas vara onödig är vid pardykning.
+>
+> Vid dykning i bassänger, delfinarier eller liknande där dykarledaren visuellt kan följa och observera dykaren eller dykarna i vattnet under hela dykningen, kan livlina eller mellanlina bedömas vara onödig.
+>
+> Exempel på när livlina kan innebära ökad risk är vid stråksökning.
+
+#### Bemanning
+
+### 17 § – Dyklag
+
+Arbetsgivaren ska se till att ett dyklag utses innan dykeriarbete får påbörjas.
+
+Ett dyklag ska bestå av minst tre personer: en dykarledare, en dykare och en reservdykare.
+
+I ett dyklag ska det även finnas en dykarskötare till varje dykare i vattnet som dyker med livlina eller med gasförsörjning från ytan.
+
+Dykarledaren får samtidigt tjänstgöra som dykarskötare till en dykare i vattnet om riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) visar att dykeriarbetet kan utföras på ett säkert sätt och om samtliga av följande omständigheter föreligger:
+
+Antalet dykare i vattnet är maximalt två.
+
+Dykning med direktuppstigning planeras.
+
+Dykningen sker till maximalt 30 meters djup.
+
+Vid dykning med en tryckkammare på dykplatsen ska det i dyklaget även finnas en person med kompetens att sköta tryckkammaren.
+
+### 18 § – Dykarledare
+
+Arbetsgivaren ska se till att dykarledaren på dykplatsen planerar, leder och övervakar dykeriarbetet i enlighet med dykplanen enligt [4 §](#4-upprättande-av-dykplan) och riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) samt i övrigt ser till att dykeriarbetet kan utföras på ett säkert sätt.
+
+Följande uppgifter ska särskilt uppmärksammas:
+
+Informera dyklaget, och övriga som medverkar i dykeriarbetet, om dykplanen och riskbedömningen.
+
+Se till att all den dyk- och arbetsutrustning som behövs är tillgänglig, i gott skick och klar att använda.
+
+Kontrollera att dykutrustningen är anpassad för den andningsgas som används och de temperaturförhållanden som råder på dykplatsen och i vattnet.
+
+Se till att den andningsgas som behövs för dykningen och vid nödsituationer finns tillgänglig och har rätt sammansättning.
+
+Planera dykningen utifrån den dekompressionstabell som används.
+
+Se till att förhållandena på dykplatsen inte påverkar dykarens arbete negativt.
+
+Säkerställa att det finns anordningar som gör att dykaren säkert kan komma ned i och upp ur vattnet.
+
+Se till att dykarflagga eller dykskärm A förs vid behov och belyses vid mörker.
+
+Beräkna insatstiden för reservdykare enligt [21 §](#21).
+
+Säkerställa att en skadad dykare kan tas upp ur vattnet.
+
+Se till att det på dykplatsen finns utrustning för första hjälpen.
+
+> _Allmänna råd_
+>
+> Dykarledaren planerar, leder och övervakar den aktuella dykningen på dykplatsen så att dykningen sker i samklang med den gjorda riskbedömningen. I denna roll ingår även befogenhet att fatta beslut och vidta åtgärder, exempelvis att avbryta ett dykeriarbete om risker tillkommit som inte kunde förutses.
+
+### 19 § – Dykare
+
+Arbetsgivaren ska se till att dykaren
+
+före dykning anmäler om dykaren inte anser sig kapabel att utföra dykeriarbetet av fysiska eller andra orsaker,
+
+följer dykarledarens och dykarskötarens anvisningar,
+
+provar dykutrustningen under ytan och ger klartecken om utrustningen fungerar som den ska,
+
+under och efter dykning omedelbart meddelar dykarledaren om dykaren känner några besvär,
+
+avbryter dykeriarbetet om något onormalt inträffar med andningsgasen, dyk- och arbetsutrustningen eller på arbetsobjektet, och
+
+avbryter dykningen om dykaren behöver övergå till nödförsörjning med andningsgas.
+
+### 20 § – Reservdykare
+
+Arbetsgivaren ska se till att reservdykaren undsätter dykaren i vattnet i händelse av en nödsituation eller någon annan händelse som innebär att dykaren i vattnet behöver assistans.
+
+En reservdykare ska finnas tillgänglig för omedelbar insats vid dykning
+
+utan gasförsörjning från ytan,
+
+till större djup än 30 meter, eller
+
+om dykning med etappuppstigning planeras.
+
+Vid pardykning eller vid dykning med flera dykare i vattnet får dykarna vara varandras reservdykare om riskbedömningen enligt [5 §](#5-undersökning-och-riskbedömning) medger detta.
+
+### 21 §
+
+Vid annan dykning än den som beskrivs i [20 §](#20-reservdykare), ska arbetsgivaren se till att reservdykare finns i beredskap.
+
+Insatstiden för reservdykaren i beredskap ska bestämmas av dykarledaren.
+
+### 22 § – Dykarskötare
+
+Arbetsgivaren ska se till att dykarskötare assisterar dykaren vid dykning med gasförsörjning från ytan och vid dykning med livlina.
+
+Följande uppgifter ska särskilt prioriteras:
+
+Se till att dykaren på ett säkert sätt kommer ned i och upp ur vattnet.
+
+Kontrollera att dykutrustningen vid avprovning under ytan inte har något läckage eller något annat fel som dykaren inte själv kan notera.
+
+Sköta dykarens livlina och utväxla överenskomna signaler.
+
+Kommunicera med dykaren, om kommunikationsutrustning används.
+
+Övervaka förrådet av andningsgas på ytan.
+
+### 23 § – Medicinska kontroller med bedömning för tjänstbarhetsintyg
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller med bedömning för tjänstbarhetsintyg för de arbetstagare som kommer att sysselsättas eller sysselsätts i dykeriarbete.
+
+Bestämmelser om sanktionsavgifter för den arbetsgivare som sysselsätter arbetstagare som inte har ett tjänstbarhetsintyg, finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet.
+
+### 24 § – Gravida arbetstagare
+
+För gravida arbetstagare finns särskilda bestämmelser i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar, i kapitlet om gravida, nyförlösta och ammande.
+
+#### Andningsgas och partialtryck för oxygen
+
+### 25 § – Andningsgas
+
+Arbetsgivaren ska se till att andningsgas som behövs för dykning och vid nödsituationer, finns tillgänglig i tillräcklig mängd, har rätt sammansättning för den planerade dykprofilen och är fri från skadliga föroreningar.
+
+### 26 §
+
+Arbetsgivaren ska se till att dykaren har omedelbar tillgång till nödförsörjning med andningsgas.
+
+### 27 § – Partialtryck för oxygen
+
+Arbetsgivaren ska se till att partialtrycket för oxygen i öppna andningssystem vid dykning inte överskrider 160 kPa under nedstigning och under bottenfasen.
+
+Om dykeriarbetet beräknas bli ansträngande ska partialtrycket för oxygen hållas lägre. Oxygendosen får inte överskrida värdena i tabell 2 och 3 i bilaga 1.
+
+Vid dekompression i vattnet får partialtrycket för oxygen inte överskrida 190 kPa.
+
+I tryckkammare får partialtrycket för oxygen inte överskrida 280 kPa.
+
+### 28 § – Tryckkammare
+
+Arbetsgivaren ska se till att det vid dykeriarbete finns tillgång till tryckkammare enligt nedan:
+
+En fleravdelningstryckkammare ska kunna nås och hyperbar oxygenbehandling (HBO) ska kunna påbörjas inom sex timmar efter det att dykaren har brutit vattenytan vid dykning djupare än 9 meter och som planeras med direktuppstigning eller vid etappuppstigning där dekompressionstiden understiger 31 minuter.
+
+En tryckkammare ska kunna nås och HBO ska kunna påbörjas inom 30 minuter efter det att dykaren har brutit vattenytan vid dykning med etappuppstigning och om den planerade dekompressionstiden överstiger 31 minuter eller om det planerade dykdjupet är större än 40 meter.
+
+En fleravdelningstryckkammare ska finnas på dykplatsen vid dykning med planerad ytdekompression.
+
+### 29 § – Utrustning för första hjälpen
+
+Arbetsgivaren ska se till att det i utrustning för första hjälpen finns utrustning och ett förråd av 100 procent oxygen som gör det möjligt för en dykare att andas 100 procent oxygen under atmosfärstryck i minst 60 minuter.
+
+Vid pardykning ska utrustningen och förrådet av oxygen göra det möjligt för två dykare att andas 100 procent oxygen under atmosfärstryck i minst 60 minuter.
 <!-- scan-laws:end -->
 
 ## Tolkning

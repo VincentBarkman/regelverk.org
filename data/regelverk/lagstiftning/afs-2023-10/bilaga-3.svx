@@ -1,0 +1,93 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 3'
+'title': 'Bilaga 3'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 3.'
+'designation': 'AFS 2023:10 Bilaga 3'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Helkroppsvibrationer
+
+### Inledning
+
+Denna bilaga anger formler för daglig exponering för helkroppsvibrationer och hör till [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5).
+
+Uppskattningen av exponering för helkroppsvibrationer grundar sig på den dagliga vibrationsexponeringen under en representativ arbetsdag.
+
+### 1 – . Uppskattning av daglig vibrationsexponering
+
+Den dagliga vibrationsexponeringen för helkroppsvibrationer, A(8), beräknas med hjälp av vibrationsvärdet och exponeringstiden under en åttatimmarsperiod enligt formel (4) och har enheten m/s2.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>w</mi><mi>l</mi></mrow></msub><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></msqrt></math>
+
+#### Fotnoter
+
+(4)
+
+där
+
+T är exponeringstiden för vibrationsvärdet awl och T0 referensvärdet för en representativ arbetsdag (åtta timmar).
+
+Vibrationsvärdet för helkroppsvibrationer, awl, är det högsta RMS-värdet av den frekvensvägda accelerationen, mätt i de tre vinkelräta riktningarna l, där l = x, y, z, inklusive multiplikation med k-faktor (det vill säga kx=1,4, ky=1,4 och kz=1, för sittande eller stående personer), enligt svensk standard. Se formel (5). Enheten är m/s2.
+
+awl = max[1,4· awx, 1,4· awy, 1· awz] (5)
+
+där
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>a</mi></mrow><mrow><mi>w</mi><mi>l</mi></mrow></msub><mo>=</mo><msup><mrow><mrow><mo>[</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>T</mi></mrow></mfrac><mrow><munderover><mo stretchy="false">∫</mo><mrow><mn>0</mn></mrow><mrow><mi>T</mi></mrow></munderover><mrow><msubsup><mrow><mi>a</mi></mrow><mrow><mi>w</mi><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mo>(</mo><mrow><mi>t</mi></mrow><mo>)</mo></mrow><mi>d</mi><mi>t</mi></mrow></mrow></mrow><mo>]</mo></mrow></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></math>
+
+(6)
+
+Vibrationsvärdet för helkroppsvibrationer, awl, uppskattas antingen genom mätning under pågående arbetsmoment eller genom att använda tillverkarens information, enligt [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5).
+
+Om flera olika maskiner används under samma arbetsdag, eller om flera arbetsmoment med olika vibrationsvärden behöver summeras, ska exponeringsbidragen från de olika maskinerna och arbetsmomenten summeras enligt formel (7).
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><munderover><mo stretchy="false">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msubsup><mrow><mi>A</mi></mrow><mrow><mi>i</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>(</mo><mn>8</mn><mo>)</mo></mrow></mrow></msqrt></math>
+
+(7)
+
+där
+
+n är antalet individuella arbetsmoment under arbetsdagen och Ai(8), är den partiella dagliga vibrationsexponeringen för varje använd maskin under utfört arbetsmoment.
+
+Den dagliga vibrationsexponeringen för helkroppsvibrationer, A(8), är det högsta av de tre värdena Ax(8), Ay(8) och Az(8) enligt formel (8) och (9).
+
+A(8) = max[Ax(8), Ay(8), Az(8)] (8)
+
+där
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>A</mi></mrow><mrow><mi>x</mi></mrow></msub><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>1,4</mn><msub><mrow><mo>·</mo><mi>a</mi></mrow><mrow><mi>w</mi><mi>x</mi></mrow></msub><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></msqrt></math>
+
+,
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>A</mi></mrow><mrow><mi>y</mi></mrow></msub><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>1,4</mn><mo>·</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>w</mi><mi>y</mi></mrow></msub><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></msqrt></math>
+
+,
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>A</mi></mrow><mrow><mi>z</mi></mrow></msub><mrow><mo>(</mo><mrow><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mi></mi><mn>1</mn><mo>·</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>w</mi><mi>z</mi></mrow></msub><msqrt><mfrac><mrow><mi>T</mi></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></msqrt></math>
+
+(9)
+
+### 2 – . Mätning
+
+När mätning görs enligt [3 kap. 5 §](/lagstiftning/afs-2023-10/kap-3#5), får de metoder som används omfatta stickprovsundersökningar som måste vara representativa för vibrationsexponeringen. De metoder och den apparatur som används måste vara anpassade till den specifika karaktäristiken hos vibrationerna som ska mätas, till miljöfaktorer och till mätutrustningens karaktäristik.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

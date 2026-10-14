@@ -1,0 +1,93 @@
+---
+'source': 'afs-2023-12'
+'ref': 'Bilaga 1'
+'title': 'Bilaga 1 – Tidsvägt värmeindex'
+'kind': 'chapter'
+'description': 'Utformning av arbetsplatser (AFS 2023:12), Bilaga 1.'
+'designation': 'AFS 2023:12 Bilaga 1'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Inledning
+
+Denna bilaga innehåller bestämmelser som tillhör kapitel 5 om klimat och installationer.
+
+### 1.1 – Beräkning av värmeindex
+
+Värmeindexet WBGT (wet bulb globe temperature) ska beräknas enligt formel 1 eller 2.
+
+Beräkning av värmeindex för arbete utan direkt solljusbestrålning:
+
+WBGT = 0,7 · TV + 0,3 · TG formel 1
+
+Beräkning av värmeindex för arbete i direkt solljusbestrålning:
+
+WBGT = 0,7 · TV + 0,2 · TG + 0,1 · TL formel 2
+
+WBGT uttrycks i °C
+
+TV är den naturliga våttemperaturen
+
+TG är globtemperaturen
+
+TL är lufttemperaturen utomhus
+
+TV mäts med en termometer vars cylindriska, långa sensordel är omsluten av en ständigt vattenfuktad väv.
+
+TG mäts med en termometer placerad i centrum av en sfär med tunna väggar, starkt värmeabsorberande yta och 150 mm diameter.
+
+TL mäts med en konventionell termometer som skyddas från direkt solbelysning eller annan värmestrålning samt är placerad så att luftrörelser runt termometern inte hindras.
+
+Om klimatfaktorerna är olika på olika höjd över golvet, ska WBGT bestämmas som ett medelvärde för mätpunkter i fotleds-, midje- och huvudhöjd, 0,1 meter, 1,1 meter och 1,7 meter över golv.
+
+Värmeindex för det aktuella arbetet ska bestämmas som ett tidsvägt medelvärde (WBGTvägt) för en timmes representativt arbete.
+
+Om de yttre förhållandena på arbetsplatsen inte ändras och arbetet fortgår under minst en timme räcker det med en mätning av WBGT. Det tidsvägda medelvärdet (WBGTvägt) för en timmes representativt arbete blir då lika med detta värde.
+
+Om förhållandena under arbetspasset ändras så att WBGT påverkas till exempel genom att den arbetande växlar mellan olika arbetsuppgifter, krävs en mätning av WBGT för var och en av de olika situationerna för att bestämma WBGTvägt. WBGTvägt beräknas sedan enligt formeln nedan.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mi mathvariant="normal">v</mi><mi mathvariant="normal">ä</mi><mi mathvariant="normal">g</mi><mi mathvariant="normal">t</mi></mrow></msub><mo>=</mo><mi></mi><mfrac><mrow><msub><mrow><mo>(</mo><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mn>1</mn><mi mathvariant="normal"></mi></mrow></msub><mo>·</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal"></mi><mi mathvariant="normal">t</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant="normal"></mi><mo>·</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi mathvariant="normal"></mi><mo>.</mo><mo>…</mo><mi mathvariant="normal"></mi><mo>+</mo><msub><mrow><mi mathvariant="normal"></mi><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><msub><mrow><mi mathvariant="normal"></mi><mo>·</mo><mi mathvariant="normal"></mi><mi mathvariant="normal">t</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><mo>)</mo></mrow><mrow><msub><mrow><mo>(</mo><mi mathvariant="normal">t</mi></mrow><mrow><mn>1</mn><mi mathvariant="normal"></mi></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>…</mo><mo>+</mo><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><mo>)</mo></mrow></mfrac></math>
+
+formel 3
+
+där
+
+N = antal olika ”arbetssituationer”,
+
+WBGTN är uppmätt WBGT i °C för den N:te ”arbetssituationen”,
+
+tN är vistelsetiden i minuter i den N:te ”arbetssituationen”, och
+
+(t1 + t2 +.....+ tN) = 60 min.
+
+### 1.2 – Mätningarnas genomförande
+
+Värmeindex ska bestämmas med den berörda arbetstagaren närvarande och sysselsatt i sitt vanliga arbete. Om inte detta är möjligt av mättekniska skäl, ska bestämningen göras på den plats där arbetet vanligen utförs och under så likartade förhållanden som möjligt.
+
+### 1.3 – Högsta tillåtna värden för tidsvägt värmeindex
+
+När högsta tillåtna värde för tidsvägt värmeindex (WBGTvägt) ska bestämmas, bestäms först någon av aktivitetsklasserna 0–4 (kolumn 1) i tabell 1. Det görs med hjälp av antingen arbetstyngden eller effektutvecklingen i det aktuella arbetet (kolumnerna 2 eller 3) och därefter utifrån om personen genomgått värmeträning eller inte (kolumnerna 5 eller 6).
+
+Om arbetets intensitet ändras under arbetspasset ska ett tidsvägt medelvärde för arbetsintensiteten bestämmas och användas som ingångsvärde i tabellen. Om arbetsintensiteten är lika under hela arbetspasset, blir den tidsvägda arbetsintensiteten lika med detta värde.
+
+Det tidsvägda medelvärdet för arbetsintensiteten bestäms på samma sätt som WBGTvägt ovan. Om arbetsintensiteten bestämts med hjälp av arbetstyngden (aktivitetsklass) ska medelvärdet av effektutvecklingen för respektive aktivitetsklass (kolumn 4) användas för att beräkna det tidsvägda medelvärdet. Vid svårigheter med valet mellan två kategorier av arbete ska den högre aktivitetsklassen väljas eller, om ingen bedömning överhuvudtaget är möjlig, den högsta aktivitetsklassen.
+
+<table><caption>Tabell 1. Aktivitetsklasser med högsta tillåtna värde för tidsvägt värmeindex (WBGT<sub>vägt</sub>) i °C, med och utan värmeträning. </caption><tbody><tr><th><div><div>Aktivitetsklass</div></div></th><th><div><div>Arbetstyngd</div></div></th><th><div><div>Effektutveckling i watt per enhet kroppsyta (W/m²)</div></div></th><th><div><div>Medelvärde av effektutveckling för aktivitets-klassen i watt per enhet kroppsyta (W/m²)</div></div></th><th><div><div>Högsta tillåtna värde med värmeträning (°C)</div></div></th><th><div><div>Högsta tillåtna värde utan värmeträning (°C)</div></div></th></tr><tr><th><div><div>0</div></div></th><td><div><div>Vila</div></div></td><td><div><div>&lt;65</div></div></td><td><div><div>65</div></div></td><td><div><div>33</div></div></td><td><div><div>32</div></div></td></tr><tr><th><div><div>1</div></div></th><td><div><div>Låg</div></div></td><td><div><div>65–129</div></div></td><td><div><div>97</div></div></td><td><div><div>30</div></div></td><td><div><div>29</div></div></td></tr><tr><th><div><div>2</div></div></th><td><div><div>Måttlig</div></div></td><td><div><div>130–199</div></div></td><td><div><div>165</div></div></td><td><div><div>28</div></div></td><td><div><div>26</div></div></td></tr><tr><th><div><div>3</div></div></th><td><div><div>Hög</div></div></td><td><div><div>200–259</div></div></td><td><div><div>230</div></div></td><td><div><div>26</div></div></td><td><div><div>23</div></div></td></tr><tr><th><div><div>4</div></div></th><td><div><div>Mycket hög</div></div></td><td><div><div>≥ 260</div></div></td><td><div><div>260</div></div></td><td><div><div>25</div></div></td><td><div><div>20</div></div></td></tr></tbody></table>
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

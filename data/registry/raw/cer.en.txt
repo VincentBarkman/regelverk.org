@@ -1,9 +1,9 @@
-# cer [en] scraped 2026-10-12
-# source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557
+# cer [en] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03
 
 # kap-1 | Chapter I | GENERAL PROVISIONS | cpt_I
 
-## Artikel 1 | Subject matter and scope | art_1
+## Article 1 | Subject matter and scope | art_1
 1. This Directive:
 
 (a)
@@ -54,7 +54,7 @@ lays down measures with a view to achieving a high level of resilience of critic
 
 9. This Directive is without prejudice to Union law on the protection of personal data, in particular Regulation (EU) 2016/679 of the European Parliament and of the Council (28) and Directive 2002/58/EC of the European Parliament and of the Council (29).
 
-## Artikel 2 | Definitions | art_2
+## Article 2 | Definitions | art_2
 For the purposes of this Directive, the following definitions apply:
 
 (1)
@@ -113,12 +113,12 @@ it is financed, for the most part, by the State authorities or by other central-
 
 it has the power to address to natural or legal persons administrative or regulatory decisions affecting their rights in the cross-border movement of persons, goods, services or capital.
 
-## Artikel 3 | Minimum harmonisation | art_3
+## Article 3 | Minimum harmonisation | art_3
 This Directive shall not preclude Member States from adopting or maintaining provisions of national law with a view to achieving a higher level of resilience of critical entities, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
 
 # kap-2 | Chapter II | NATIONAL FRAMEWORKS ON THE RESILIENCE OF CRITICAL ENTITIES | cpt_II
 
-## Artikel 4 | Strategy on the resilience of critical entities | art_4
+## Article 4 | Strategy on the resilience of critical entities | art_4
 1. Following a consultation that is, to the extent practically possible, open to relevant stakeholders, each Member State shall adopt by 17 January 2026 a strategy for enhancing the resilience of critical entities (the ‘strategy’). The strategy shall set out strategic objectives and policy measures, building upon relevant existing national and sectoral strategies, plans or similar documents, with a view to achieving and maintaining a high level of resilience on the part of critical entities and covering at least the sectors set out in the Annex.
 
 2. Each strategy shall contain at least the following elements:
@@ -159,7 +159,7 @@ Following a consultation that is, to the extent practically possible, open to re
 
 3. Member States shall communicate their strategies, and substantial updates thereto, to the Commission within three months of their adoption.
 
-## Artikel 5 | Risk assessment by Member States | art_5
+## Article 5 | Risk assessment by Member States | art_5
 1. The Commission is empowered to adopt a delegated act, in accordance with Article 23, by 17 November 2023 to supplement this Directive by establishing a non-exhaustive list of essential services in the sectors and subsectors set out in the Annex. The competent authorities shall use that list of essential services for the purpose of carrying out a risk assessment (‘Member State risk assessment’) by 17 January 2026, whenever necessary subsequently, and at least every four years. The competent authorities shall use Member State risk assessments for the purpose of identifying critical entities in accordance with Article 6 and assisting those critical entities to take measures pursuant to Article 13.
 
 Member State risk assessments shall account for the relevant natural and man-made risks, including those of a cross-sectoral or cross-border nature, accidents, natural disasters, public health emergencies and hybrid threats or other antagonistic threats, including terrorist offences as provided for in Directive (EU) 2017/541 of the European Parliament and of the Council (32).
@@ -190,7 +190,7 @@ For the purposes of the first subparagraph, point (c), Member States shall coope
 
 5. The Commission shall, in cooperation with the Member States, develop a voluntary common reporting template for the purpose of complying with paragraph 4.
 
-## Artikel 6 | Identification of critical entities | art_6
+## Article 6 | Identification of critical entities | art_6
 1. By 17 July 2026, each Member State shall identify the critical entities for the sectors and subsectors set out in the Annex.
 
 2. When a Member State identifies critical entities pursuant to paragraph 1, it shall take into account the outcomes of its Member State risk assessment and its strategy and shall apply all of the following criteria:
@@ -217,7 +217,7 @@ For the critical entities concerned, Chapter III shall apply from 10 months afte
 
 6. The Commission shall, in cooperation with the Member States, develop recommendations and non-binding guidelines to support Member States in identifying critical entities.
 
-## Artikel 7 | Significant disruptive effect | art_7
+## Article 7 | Significant disruptive effect | art_7
 1. When determining the significance of a disruptive effect as referred to in Article 6(2), point (c), Member States shall take into account the following criteria:
 
 (a)
@@ -264,10 +264,10 @@ Member States shall subsequently submit information referred to in the first sub
 
 3. The Commission shall, after consulting the Critical Entities Resilience Group referred to in Article 19, adopt non-binding guidelines to facilitate the application of the criteria referred to in paragraph 1 of this Article, taking into account the information referred to in paragraph 2 of this Article.
 
-## Artikel 8 | Critical entities in the banking, financial market infrastructure and digital infrastructure sectors | art_8
+## Article 8 | Critical entities in the banking, financial market infrastructure and digital infrastructure sectors | art_8
 Member States shall ensure that Article 11 and Chapters III, IV and VI do not apply to critical entities that they have identified in the sectors set out in points 3, 4 and 8 of the table in the Annex. Member States may adopt or maintain provisions of national law to achieve a higher level of resilience for those critical entities, provided that those provisions are consistent with applicable Union law.
 
-## Artikel 9 | Competent authorities and single point of contact | art_9
+## Article 9 | Competent authorities and single point of contact | art_9
 1. Each Member State shall designate or establish one or more competent authorities responsible for the correct application and, where necessary, enforcement of the rules set out in this Directive at national level.
 
 As regards the critical entities in the sectors set out in points 3 and 4 of the table in the Annex to this Directive, the competent authorities shall, in principle, be the competent authorities referred to in Article 46 of Regulation (EU) 2022/2554. As regards the critical entities in the sector set out in point 8 of the table in the Annex to this Directive, the competent authorities shall, in principle, be the competent authorities under Directive (EU) 2022/2555. Member States may designate a different competent authority for the sectors set out in points 3, 4 and 8 of the table in the Annex to this Directive in accordance with existing national frameworks.
@@ -290,14 +290,14 @@ The Commission shall, in cooperation with the Critical Entities Resilience Group
 
 8. The Commission shall make a list of the single points of contact publicly available.
 
-## Artikel 10 | Member States’ support to critical entities | art_10
+## Article 10 | Member States’ support to critical entities | art_10
 1. Member States shall support critical entities in enhancing their resilience. That support may include developing guidance materials and methodologies, supporting the organisation of exercises to test their resilience and providing advice and training to the personnel of critical entities. Without prejudice to applicable rules on State aid, Member States may provide financial resources to critical entities, where necessary and justified by public interest objectives.
 
 2. Each Member State shall ensure that its competent authority cooperates and exchanges information and good practices with critical entities of the sectors set out in the Annex.
 
 3. Member States shall facilitate voluntary information sharing between critical entities in relation to matters covered by this Directive, in accordance with Union and national law on, in particular, classified and sensitive information, competition and protection of personal data.
 
-## Artikel 11 | Cooperation between Member States | art_11
+## Article 11 | Cooperation between Member States | art_11
 1. Whenever appropriate, Member States shall consult one another regarding critical entities for the purpose of ensuring that this Directive is applied in a consistent manner. Such consultations shall take place, in particular, regarding critical entities that:
 
 (a)
@@ -316,14 +316,14 @@ have been identified as critical entities in one Member State and provide essent
 
 # kap-3 | Chapter III | RESILIENCE OF CRITICAL ENTITIES | cpt_III
 
-## Artikel 12 | Risk assessment by critical entities | art_12
+## Article 12 | Risk assessment by critical entities | art_12
 1. Notwithstanding the deadline set out in Article 6(3), second subparagraph, Member States shall ensure that critical entities carry out a risk assessment within nine months of receiving the notification referred to in Article 6(3), whenever necessary subsequently, and at least every four years, on the basis of Member State risk assessments and other relevant sources of information, in order to assess all relevant risks that could disrupt the provision of their essential services (‘critical entity risk assessment’).
 
 2. Critical entity risk assessments shall account for all the relevant natural and man-made risks which could lead to an incident, including those of a cross-sectoral or cross-border nature, accidents, natural disasters, public health emergencies and hybrid threats and other antagonistic threats, including terrorist offences as provided for in Directive (EU) 2017/541. A critical entity risk assessment shall take into account the extent to which other sectors as set out in the Annex depend on the essential service provided by the critical entity and the extent to which that critical entity depends on essential services provided by other entities in such other sectors, including, where relevant, in neighbouring Member States and third countries.
 
 Where a critical entity has carried out other risk assessments or drawn up documents pursuant to obligations laid down in other legal acts that are relevant for its critical entity risk assessment, it may use those assessments and documents to meet the requirements set out in this Article. When exercising its supervisory functions, the competent authority may declare an existing risk assessment carried out by a critical entity that addresses the risks and extent of dependence referred to in the first subparagraph of this paragraph as compliant, in whole or in part, with the obligations under this Article.
 
-## Artikel 13 | Resilience measures of critical entities | art_13
+## Article 13 | Resilience measures of critical entities | art_13
 1. Member States shall ensure that critical entities take appropriate and proportionate technical, security and organisational measures to ensure their resilience, based on the relevant information provided by Member States on the Member State risk assessment and on the outcomes of the critical entity risk assessment, including measures necessary to:
 
 (a)
@@ -362,7 +362,7 @@ For the purposes of the first subparagraph, point (e), Member States shall ensur
 
 6. The Commission shall adopt implementing acts in order to set out the necessary technical and methodological specifications relating to the application of the measures referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
 
-## Artikel 14 | Background checks | art_14
+## Article 14 | Background checks | art_14
 1. Member States shall specify the conditions under which a critical entity is permitted, in duly reasoned cases and taking into account the Member State risk assessment, to submit requests for background checks on persons who:
 
 (a)
@@ -391,7 +391,7 @@ check the criminal records of that person with regards to offences which would b
 
 When carrying out background checks, Member States shall use the European Criminal Records Information System in accordance with the procedures set out in Framework Decision 2009/315/JHA and, where relevant and applicable, Regulation (EU) 2019/816 for the purpose of obtaining information from criminal records held by other Member States. The central authorities referred to in Article 3(1) of Framework Decision 2009/315/JHA and in Article 3, point (5), of Regulation (EU) 2019/816 shall provide replies to requests for such information within 10 working days from the date on which the request was received in accordance with Article 8(1) of Framework Decision 2009/315/JHA.
 
-## Artikel 15 | Incident notification | art_15
+## Article 15 | Incident notification | art_15
 1. Member States shall ensure that critical entities notify the competent authority, without undue delay, of incidents that significantly disrupt or have the potential to significantly disrupt the provision of essential services. Member States shall ensure that, unless operationally unable to do so, critical entities submit an initial notification no later than 24 hours after becoming aware of an incident, followed, where relevant, by a detailed report no later than one month thereafter. In order to determine the significance of a disruption, the following parameters shall, in particular, be taken into account:
 
 (a)
@@ -416,12 +416,12 @@ Single points of contact sending and receiving information pursuant to the first
 
 4. As soon as possible following a notification as referred to in paragraph 1, the competent authority concerned shall provide the critical entity concerned with relevant follow-up information, including information that could support that critical entity’s effective response to the incident in question. Member States shall inform the public where they determine that it would be in the public interest to do so.
 
-## Artikel 16 | Standards | art_16
+## Article 16 | Standards | art_16
 In order to promote the convergent implementation of this Directive, Member States shall, where useful and without imposing or discriminating in favour of the use of a particular type of technology, encourage the use of European and international standards and technical specifications relevant to the security and resilience measures applicable to critical entities.
 
 # kap-4 | Chapter IV | CRITICAL ENTITIES OF PARTICULAR EUROPEAN SIGNIFICANCE | cpt_IV
 
-## Artikel 17 | Identification of critical entities of particular European significance | art_17
+## Article 17 | Identification of critical entities of particular European significance | art_17
 1. An entity shall be considered a critical entity of particular European significance where it:
 
 (a)
@@ -444,7 +444,7 @@ The Commission shall consult the competent authority of the Member State which i
 
 4. This Chapter shall apply to the critical entity of particular European significance concerned from the date of receipt of the notification referred to in paragraph 3 of this Article.
 
-## Artikel 18 | Advisory missions | art_18
+## Article 18 | Advisory missions | art_18
 1. At the request of the Member State that has identified a critical entity of particular European significance as a critical entity pursuant to Article 6(1), the Commission shall organise an advisory mission to assess the measures that that critical entity has put in place to meet its obligations under Chapter III.
 
 2. On its own initiative or at the request of one or more Member States to or in which the essential service is provided, and provided that the Member State that has identified a critical entity of particular European significance as a critical entity pursuant to Article 6(1) so agrees, the Commission shall organise an advisory mission as referred to in paragraph 1 of this Article.
@@ -487,7 +487,7 @@ The Commission shall organise the programme of each advisory mission, in consult
 
 # kap-5 | Chapter V | COOPERATION AND REPORTING | cpt_V
 
-## Artikel 19 | Critical Entities Resilience Group | art_19
+## Article 19 | Critical Entities Resilience Group | art_19
 1. A Critical Entities Resilience Group is hereby established. The Critical Entities Resilience Group shall support the Commission and facilitate cooperation among Member States and the exchange of information on issues relating to this Directive.
 
 2. The Critical Entities Resilience Group shall be composed of representatives of the Member States and the Commission who hold security clearance, where appropriate. Where relevant for the performance of its tasks, the Critical Entities Resilience Group may invite relevant stakeholders to participate in its work. Where requested by the European Parliament, the Commission may invite experts from the European Parliament to attend meetings of the Critical Entities Resilience Group.
@@ -544,7 +544,7 @@ where relevant, exchanging information on matters concerning the resilience of c
 
 7. The Commission shall provide the Critical Entities Resilience Group with a summary report of the information provided by the Member States pursuant to Article 4(3) and Article 5(4) by 17 January 2027, whenever necessary subsequently, and at least every four years.
 
-## Artikel 20 | Commission support to competent authorities and critical entities | art_20
+## Article 20 | Commission support to competent authorities and critical entities | art_20
 1. The Commission shall, where appropriate, support Member States and critical entities in complying with their obligations under this Directive. The Commission shall prepare a Union-level overview of cross-border and cross-sectoral risks to the provision of essential services, organise advisory missions as referred to in Article 13(4) and Article 18 and facilitate information exchange among Member States and experts across the Union.
 
 2. The Commission shall complement Member States’ activities as referred to in Article 10 by developing best practices, guidance materials and methodologies, and cross-border training activities and exercises to test the resilience of critical entities.
@@ -553,7 +553,7 @@ where relevant, exchanging information on matters concerning the resilience of c
 
 # kap-6 | Chapter VI | SUPERVISION AND ENFORCEMENT | cpt_VI
 
-## Artikel 21 | Supervision and enforcement | art_21
+## Article 21 | Supervision and enforcement | art_21
 1. In order to assess the compliance of the entities identified by Member States as critical entities pursuant to Article 6(1) with the obligations laid down in this Directive, Member States shall ensure that the competent authorities have the powers and means to:
 
 (a)
@@ -582,12 +582,12 @@ When requiring that information, the competent authorities shall state the purpo
 
 5. Member States shall ensure that, where a competent authority under this Directive assesses the compliance of a critical entity pursuant to this Article, that competent authority informs the competent authorities of the Member States concerned under Directive (EU) 2022/2555. For that purpose, Member States shall ensure that competent authorities under this Directive can request the competent authorities under Directive (EU) 2022/2555 to exercise their supervisory and enforcement powers in relation to an entity under that Directive that has been identified as a critical entity under this Directive. For that purpose, Member States shall ensure that competent authorities under this Directive cooperate and exchange information with the competent authorities under Directive (EU) 2022/2555.
 
-## Artikel 22 | Penalties | art_22
+## Article 22 | Penalties | art_22
 Member States shall lay down the rules on penalties applicable to infringements of the national measures adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 17 October 2024, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
 
 # kap-7 | Chapter VII | DELEGATED AND IMPLEMENTING ACTS | cpt_VII
 
-## Artikel 23 | Exercise of the delegation | art_23
+## Article 23 | Exercise of the delegation | art_23
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
 2. The power to adopt delegated acts referred to in Article 5(1) shall be conferred on the Commission for a period of five years from 16 January 2023.
@@ -600,34 +600,34 @@ Member States shall lay down the rules on penalties applicable to infringements 
 
 6. A delegated act adopted pursuant to Article 5(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
 
-## Artikel 24 | Committee procedure | art_24
+## Article 24 | Committee procedure | art_24
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
 # kap-8 | Chapter VIII | FINAL PROVISIONS | cpt_VIII
 
-## Artikel 25 | Reporting and review | art_25
+## Article 25 | Reporting and review | art_25
 By 17 July 2027, the Commission shall submit to the European Parliament and to the Council a report assessing the extent to which each Member State has taken the necessary measures to comply with this Directive.
 
 The Commission shall periodically review the functioning of this Directive and report to the European Parliament and to the Council. That report shall, in particular, assess the added value of this Directive, its impact on ensuring the resilience of critical entities and whether the Annex to this Directive should be modified. The Commission shall submit the first such report by 17 June 2029. For the purpose of reporting under this Article, the Commission shall take into account relevant documents of the Critical Entities Resilience Group.
 
-## Artikel 26 | Transposition | art_26
+## Article 26 | Transposition | art_26
 1. By 17 October 2024, Member States shall adopt and publish the measures necessary to comply with this Directive. They shall immediately inform the Commission thereof.
 
 They shall apply those measures from 18 October 2024.
 
 2. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
 
-## Artikel 27 | Repeal of Directive 2008/114/EC | art_27
+## Article 27 | Repeal of Directive 2008/114/EC | art_27
 Directive 2008/114/EC is repealed with effect from 18 October 2024.
 
 References to the repealed Directive shall be construed as references to this Directive.
 
-## Artikel 28 | Entry into force | art_28
+## Article 28 | Entry into force | art_28
 This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-## Artikel 29 | Addressees | art_29
+## Article 29 | Addressees | art_29
 This Directive is addressed to the Member States.
 
 Done at Strasbourg, 14 December 2022.

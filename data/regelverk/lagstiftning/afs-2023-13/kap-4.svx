@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,25 +21,367 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Byggnader och anordningar
+### Inledning
 
-### 3 §
+Stöd och verktyg: Berg- och gruvarbete
 
-Arbetsgivaren ska se till att stall, utrymmen, inredningar, stängsel och andra anordningar är dimensionerade och underhålls så att arbetet med djuren kan utföras med betryggande säkerhet.
+### 1 § – Då gäller föreskrifterna
 
-### 4 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-4) reglerar all verksamhet där det sker berg- och gruvarbete och prospektering efter malm och mineral.
 
-Arbetsgivaren ska se till att arbetstagarna i byggnader, eller på andra platser för djurhållning för lösgående djur, ska kunna sätta sig i säkerhet snabbt.
+Berg- och gruvarbete kan omfatta
 
-### 5 §
+tillredning och brytning av malmer och industrimineral i gruvor, dagbrott, stenbrott och bergtag,
 
-Arbetsgivaren ska se till att dörrar, grindar och andra öppningsanordningar
+brytning av berg genom borrning, sprängning eller mekanisk fragmentering,
 
-är säkrade, så att de inte går att lyfta av, och
+bergbesiktning, skrotning och olika förstärkningsarbeten som bergbultning, nätning och injektering,
 
-har en tillförlitlig låsanordning, som lätt går att öppna inifrån med en hand.
+betongsprutning,
 
-En dörr, som inte är en skjutdörr, ska ha en öppningsanordning som öppnas utåt.
+undersökningsborrning och diamantborrning,
+
+lastning, transport och deposition av det brutna berget,
+
+krossning och siktning av bergmassor,
+
+drivning av tunnlar, schakt och bergrum, och
+
+installations-, service- och underhållsarbete i icke färdigställda bergutrymmen.
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-4) gäller inte arbete i färdigställda och inredda bergrum och berganläggningar.
+
+För prospekteringsarbeten som inte är berg- eller gruvarbete gäller endast [27 §](#27-prospektering-och-geotekniska-arbeten) i [detta kapitel](/lagstiftning/afs-2023-13/kap-4).
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-4) följs. Med arbetsgivare likställs den som hyr in arbetskraft. Den som är samordningsansvarig omfattas av [54 §](#54-samordning-mellan-flera-arbetsgivare).
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-13/kap-4).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-4) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-4) har följande begrepp dessa betydelser.
+
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Autonom maskin</div></div></td><td><div><div>Fordon eller maskin som kan användas i arbete utan en operatör och agerar utifrån förprogrammerade villkor för den tänkta tillämpningen.</div></div></td></tr><tr><td><div><div>Deflagration</div></div></td><td><div><div>Förbränning där den kemiska omsättningen sker i en hastighet som underskrider ljudhastigheten i mediet. I allmänhet sker denna förbränning på ytan av kroppar eller partiklar.</div></div></td></tr><tr><td><div><div>Detonation</div></div></td><td><div><div>Förbränning där den kemiska omsättningen sker i en hastighet som överskrider ljudhastigheten i mediet. Vanligen sker denna förbränning inuti massan efter initiering av en stötvåg.</div></div></td></tr><tr><td><div><div>Dola</div></div></td><td><div><div>Dold laddning av en odetonerad eller odeflagrerad explosiv vara som återfinns i sprängmassor eller fast berg, efter det att sprängning har genomförts. Dolor kan uppträda även i betong, jord, mark, metall och dylikt där sprängning tidigare förekommit.</div></div></td></tr><tr><td><div><div>Flyktfilter</div></div></td><td><div><div>Partikel- och/eller gasfilter som används av en arbetstagare när arbetstagaren räddar sig undan en brand eller motsvarande som avger farliga partiklar och rökgaser.</div></div></td></tr><tr><td><div><div>Hålavvikelse </div></div></td><td><div><div>Avvikelsen mellan ett borrhåls planerade utformning och den utformning som uppstått i samband med borrning.</div></div></td></tr><tr><td><div><div>Pall </div></div></td><td><div><div>Del av ett berg som ska sönderdelas.</div></div></td></tr><tr><td><div><div>Prospektering </div></div></td><td><div><div>Undersökning av berggrunden med syfte att finna utvinningsbara fyndigheter inför framtida berg- och gruvarbete.</div></div></td></tr><tr><td><div><div>Räddningskammare </div></div></td><td><div><div>Utrymme som används för att rädda personer från farliga situationer. Exempel på detta kan vara bränder eller andra oavsiktliga händelser. Räddningskammare kan vara fasta eller mobila.</div></div></td></tr><tr><td><div><div>Skrotning </div></div></td><td><div><div>Nedtagning av lösa stycken från berg som sönderdelats. Kan ske både med maskin och manuellt av arbetstagare.</div></div></td></tr><tr><td><div><div>Stuff/Ortgavel</div></div></td><td><div><div>Bergvägg som finns längst inne i en tunnel eller ort som är under framdrivning.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3&nbsp;kap.&nbsp;5&nbsp;§ arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten. </div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (13 rader)</label></div>
+
+### 4 § – Undersökning och riskbedömning
+
+I sin undersökning och riskbedömning av bergarbetet eller gruvarbetet ska arbetsgivaren särskilt beakta
+
+geologiska förhållanden,
+
+bergtekniska förhållanden,
+
+bergmekaniska förhållanden, och
+
+andra förhållanden i den omfattning som behövs för att kunna göra en planering som gör det fortsatta arbetet säkert.
+
+Riskbedömningen ska vara skriftlig.
+
+Om arbetet berör områden under jord som har höga bergspänningar ska undersökningen och riskbedömningen även innefatta en analys av bergspänningarna. Detta för att ge underlag för att planera en lämplig profil och storlek på orten, tunneln eller annat bergutrymme.
+
+#### Åtgärder
+
+### 5 § – Allmänt
+
+Arbetsgivaren ska välja arbetsmetoder och utrustning som förebygger ohälsa och olycksfall orsakade exempelvis av
+
+luftföroreningar,
+
+syrebrist,
+
+buller,
+
+vibrationer,
+
+otillräcklig belysning, eller
+
+olämpliga arbetsställningar och arbetsrörelser under arbete.
+
+I möjligaste mån ska motorer som inte avger förbränningsgaser till omgivningen användas under jord.
+
+### 6 §
+
+Arbetsgivaren ska se till att berg- och gruvarbetet vid projektering och utförande tidsplaneras så att allt sådant arbete kan utföras på ett omsorgsfullt och säkert sätt.
+
+### 7 §
+
+Arbetsgivaren ska se till att de som arbetar med berg- och gruvarbete har tillräckliga kunskaper för att kunna undvika ohälsa och olycksfall. Det innefattar tillräckliga kunskaper om
+
+utrymning,
+
+farliga områden,
+
+lokala trafik- och arbetsmiljöregler, och
+
+andra förhållanden såsom dolor och stenfall på arbetsstället.
+
+### 8 §
+
+Arbetsgivaren ska vid planering och utförande av arbetet beakta möjligheten för arbetstagarna att ha kontakt med andra människor. Arbetsgivaren ska se till att arbetstagarna regelbundet har personlig kontakt eller annan kommunikation med andra människor. Om personlig kontakt inte är möjlig ska trådlös kommunikation finnas.
+
+### 9 §
+
+Arbetsgivaren ska se till att skyddshjälm med hakrem, skyddsskor med skyddståhätta och spiktrampskydd samt varselklädsel används, om inte riskbedömningen visar att det är uppenbart onödigt. Annan personlig skyddsutrustning ska användas i den utsträckning som arbetsförhållandena kräver.
+
+Den som arbetar under jord ska medföra bärbar lampa.
+
+### 10 §
+
+Arbetsgivaren ska se till att det finns markeringar och tillräcklig belysning på platser där personer regelbundet uppehåller sig och där det under mörker finns risk för att fordon kolliderar, personer störtar ned i schakt, faller till lägre nivå eller där det finns risk för andra händelser som kan orsaka olycksfall.
+
+### 11 § – Ventilation
+
+Arbetsgivaren ska bedöma och dokumentera behovet av ventilation innan arbetet påbörjas. Om ventilation behövs ska arbetsgivaren planera och dokumentera ventilationssystemets utformning innan arbetet påbörjas.
+
+Ventilationssystemet ska dimensioneras så att luftkvaliteten i vistelseområdet blir tillfredsställande. Huvudfläktarnas luftflöde och tryck ska mätas kontinuerligt. Larm ska finnas som indikerar oförutsedda stopp i fläktsystemet.
+
+#### Fjärrstyrning, arbetsutrustning, fordon och maskiner
+
+### 12 § – Fjärrstyrning, automation och autonomitet
+
+Arbetsgivaren ska hantera och underhålla styrsystem för fjärrstyrda, automatiska och autonoma fordon, maskiner och utrustningar så att funktionerna som avser personsäkerhet upprätthålls.
+
+### 13 §
+
+Vid olycksfall eller tillbud som misstänks bero på felfunktion i styrsystemet ska arbetsgivaren göra en särskild utredning för att finna felfunktionen. Utredningen ska dokumenteras skriftligt och åtgärder vidtas för att förebygga framtida olycksfall eller tillbud.
+
+### 14 §
+
+När fjärrstyrda, automatiska eller autonoma fordon, maskiner eller utrustningar är i bruk inom ett arbetsställe, ska arbetsgivaren se till att området där denna typ av utrustning används är avstängt för obehöriga.
+
+### 15 § – Arbetsutrustning, fordon och maskiner
+
+Arbetsgivaren ska se till att fortlöpande undersökningar görs av dieselmotorer som regelbundet används under jord beträffande avgasernas halter av kolmonoxid och partiklar (svärtning) och vid behov justera motorerna. Motorerna ska även undersökas, åtgärdas och hållas rena för att minska brandrisken.
+
+### 16 §
+
+Arbetsgivaren ska se till att bensin, etanol eller gas inte används som bränsle för förbränningsmotorer under jord.
+
+Utryckningsfordon får vara bensin-, etanol- eller gasdrivna.
+
+### 17 §
+
+Arbetsgivaren ska se till att det i fordon och maskiner som nyttjas under jord finns tillräckligt många flyktfilter för det antal personer som kan transporteras i fordonet eller maskinen.
+
+Flyktfilter ska förvaras på ett sådant sätt att de inte skadas, är lättåtkomliga samt hålls rena och funktionsdugliga. Flyktfilter kan även vara personliga.
+
+### 18 §
+
+Arbetsgivaren ska se till att personer bara transporteras på särskilda passagerarplatser i fordon eller maskiner.
+
+### 19 §
+
+Arbetsgivaren ska se till att personer som arbetar med fordon eller maskiner skyddas mot fallande sten på arbetsställen som inte säkrats mot stenfall.
+
+### 20 §
+
+Arbetsgivaren ska se till att fordon som används under jord har belysning med för ändamålet tillräcklig ljusstyrka.
+
+### 21 §
+
+Arbetsgivaren ska se till att operatörer av arbetsutrustning, fordon och maskiner som används i berg- och gruvarbete är utbildade för uppgiften att använda arbetsutrustningen, fordonen och maskinerna i dessa miljöer. Utbildningen ska vara dokumenterad.
+
+### 22 § – Transportvägar och tippställen
+
+Arbetsgivaren ska se till att det på arbetsställen som omfattas av dessa föreskrifter och där fordonstrafik förekommer finns trafikregler för att främja trafiksäkerheten.
+
+### 23 §
+
+Arbetsgivaren ska se till att utrymmen under jord som är trafikerade av fordon och maskiner är tillräckligt stora för den trafik som förekommer och utformade så att riskerna för kollision, påkörning, vältning eller nedstörtning minimeras.
+
+Där gångtrafik regelbundet förekommer ska det normalt finnas ett särskilt utrymme för de gående. Utrymmet ska minst vara 1,0 meter brett och 2,1 meter högt. Om detta inte går att ordna, ska särskilda åtgärder vidtas för att skydda de gående.
+
+### 24 §
+
+Arbetsgivaren ska se till att vägbanor under och ovan jord håller god standard. Där det finns risk för att fordon eller maskiner störtar ned eller välter ska effektiva förebyggande skyddsåtgärder vidtas.
+
+### 25 §
+
+Arbetsgivaren ska se till att tillfälliga tillträdesvägar till arbetsställen ovan jord där berg- eller gruvarbete förekommer är så utförda och beskaffade att de kan användas för trafik med borraggregat, andra maskiner och fordon utan risk för föraren.
+
+### 26 §
+
+Arbetsgivaren ska se till att det finns en barriär vid tippställen som förhindrar att fordon eller maskiner kör utför slänten vid tippstället.
+
+> _Allmänna råd_
+>
+> Med tippställen avses upplagstippar, störtschakt och liknande. På tippställen med höga slänter är det lämpligt att anordna ett stopp vars höjd motsvarar minst halva hjuldiametern hos fordonet som tippar. Kan inte detta genomföras är det lämpligt att tippa en bit från slänten varefter en maskin med schaktblad knuffar tippmassorna nedför slänten.
+
+### 27 § – Prospektering och geotekniska arbeten
+
+Vid prospekteringsarbeten, ovan och under jord, samt vid geotekniska arbeten som kan innebära risker för personskador, ska arbetsgivaren se till att det finns kommunikationsmedel tillgängliga som medger tillförlitlig kontakt med de arbetstagare som är sysselsatta med sådant arbete.
+
+### 28 § – Radon
+
+Arbetsgivaren ska eftersträva låg radonhalt på alla arbetsställen under jord.
+
+Vid arbete under jord ska radonhalten bestämmas genom mätningar. Mätningar av radonhalten ska ske regelbundet, dock minst en gång per år.
+
+Radonhalten ska bestämmas så snart nytt bergutrymme skapats eller vid ändrade förhållanden som kan påverka radonhalten.
+
+Den arbetsgivare som i strid med kraven i andra stycket inte genomför mätning ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+### 29 § – Utrymning, undsättning och brandskydd
+
+Arbetsgivaren ska se till att det vid varje arbetsställe som omfattas av dessa föreskrifter finns utrymningslarm vid inträffad brand, inträffat ras eller annan seismisk händelse samt vid utsläpp av skadliga gaser.
+
+### 30 §
+
+Arbetsgivaren ska se till att det vid varje arbetsställe under jord finns minst två av varandra oberoende utrymningsvägar. Om detta inte går att ordna ska åtgärder vidtas som gör säker undsättning eller utrymning möjlig. Mobila eller fasta räddningskammare ska finnas där så behövs.
+
+Utrymningsvägarna får inte vara blockerade och ska vara tydligt markerade.
+
+> _Allmänna råd_
+>
+> Åtgärder för säker undsättning eller utrymning kan till exempel vara att
+>
+> installera räddningskammare,
+>
+> hålla utrustning tillgänglig som ger tillgång till andningsluft,
+>
+> utrusta fordon, elanläggningar och materialupplag med fasta automatiska brandbekämpningsanordningar, och
+>
+> använda ledningsmateriel bestående av svårantändligt material.
+
+### 31 §
+
+Arbetsgivaren ska se till att det finns rutiner för åtgärder vid olyckshändelser på arbetsställen under jord, samt för gruvor, bergtag, dagbrott och stenbrott.
+
+Rutinerna ska vara skriftliga, tillgängliga, och uppdateras vid förändringar på arbetsstället.
+
+### 32 §
+
+Arbetsgivaren ska se till att arbetstagarna övar utrymning av arbetsställen under jord regelbundet och minst en gång per år.
+
+### 33 §
+
+Arbetsgivaren ska se till att uppgifter om hur många personer som befinner sig under jord, och var dessa befinner sig, finns tillgängliga och är kontinuerligt uppdaterade så att man kan lokalisera eventuella nödställda och genomföra räddningsåtgärder.
+
+### 34 §
+
+På arbetsställen under jord ska arbetsgivaren se till att brandbelastningen är så låg som möjligt, det vill säga att mängden föremål eller andra faktorer som kan bidra till att öka eller sprida en brand är så låg som möjligt.
+
+Brandfarliga och explosiva varor ska hanteras och förvaras så att risken för brand eller explosion minimeras.
+
+### 35 §
+
+Arbetsgivaren ska se till att installationer av ledningar för tryckluft, vätska eller elektricitet är utförda så att olycksfall förebyggs vid eventuella skador eller brott på ledningarna.
+
+### 36 §
+
+Arbetsgivaren ska vidta sådana åtgärder under jord att bränder kan bekämpas snabbt och effektivt och att spridning av brandgaser effektivt förebyggs eller kontrolleras.
+
+Brandbekämpningsutrustning, inklusive handbrandsläckare, ska finnas på motordrivna fordon och maskiner.
+
+#### Bergarbete
+
+### 37 § – Borrning i berg
+
+Vid bergborrning ska arbetsgivaren se till att uppkomst och spridning av damm förebyggs.
+
+### 38 §
+
+Arbetsgivaren ska vidta åtgärder som förebygger risken för att någon borrar i dolor. Bergytan ska rensas noggrant innan borrning av nya hål påbörjas.
+
+### 39 §
+
+Arbetsgivaren ska se till att bergborraggregat på lutande underlag förankras om det finns risk för att aggregatet börjar glida. Om aggregatet ska förflyttas på ett sådant underlag ska förflyttningen kunna genomföras utan risk för operatören.
+
+### 40 §
+
+Arbetsgivaren ska se till att det bara i undantagsfall vistas någon annan än operatören intill aggregatet, vid borrning med bergborraggregat. Vid horisontell eller uppåtriktad borrning får ingen vistas framför aggregatet under drift.
+
+### 41 §
+
+Arbetsgivaren ska se till att åtgärder vidtas så att den som arbetar på manöverplatsen till bergborraggregatet skyddas mot fallande sten och mot stenkastning eller splitter orsakade av en påborrad dola som detonerar eller deflagrerar.
+
+### 42 §
+
+När en pall, belägen ovan jord, har en pallhöjd som överstiger tio meter ska arbetsgivaren se till att hålavvikelsen i borrhålen i de två främre hålraderna normalt kontrolleras. Kontrollen ska utföras på ett sådant sätt att den ger kännedom om den faktiska försättningen för varje borrhål i dessa hålrader.
+
+> _Allmänna råd_
+>
+> Inhomogeniteter i bergmassan, det vill säga sprickor, glidytor och bergarter med olika egenskaper, liksom borrets egenrotation medför att hålavvikelser ofta uppkommer även vid ringa borrhålsdjup. Det är därför av betydelse att den faktiska försättningen är känd vid de främre hålraderna så att mängden sprängämne kan anpassas till det faktiska behovet. För stor laddning i förhållande till försättningen kan vid sprängningen medföra okontrollerad stenkastning med flera hundra meters kastlängd med uppenbara risker för personskador. Det innebär att inmätning (skanning) av pallens frontyta normalt kan behöva göras. Om pallens hela frontyta är täckt av bergmassor kan inmätning eller skanning uteslutas för att förebygga stenkastning.
+
+### 43 §
+
+Arbetsgivaren ska vidta lämpliga skyddsåtgärder där det finns risk för personskador vid fall över pallkant.
+
+### 44 § – Skuthantering, krossning och mekanisk demolering av berg
+
+När en hydraulhammare eller annan utrustning används för att sönderdela större stenar som är oönskade (skut) eller fast bergyta, ska arbetsgivaren vidta åtgärder för att skydda de som arbetar från damm och detonerande eller deflagerande dolor samt förhindra att de träffas av stenkastning.
+
+### 45 §
+
+Vid krossning av berg ska arbetsgivaren se till att uppkomst och spridning av damm förebyggs.
+
+### 46 §
+
+Arbetsgivaren ska vidta åtgärder så att den som arbetar på eller intill krossanläggningen skyddas mot stenkastning eller splitter orsakade av en detonerande eller deflagrerande dola.
+
+### 47 § – Lastning av berg och annat material
+
+Arbetsgivaren ska se till att berg och annat material hanteras så att uppkomst av vattenlås eller valv (häng) av material motverkas. Om sådana misstänks ska det riskfyllda området utrymmas. Utlastning eller dränering ska därefter ske från en säker plats.
+
+> _Allmänna råd_
+>
+> Vattenlås kan uppstå då vatten ansamlas i schakt eller bergrum där dräneringen är otillräcklig. Då vattnets vikt överskrider hållfastheten i ”proppen” brister denna och ett okontrollerat flöde uppstår. Valvbildning eller häng kan uppstå i bergschakt, särskilt om schakten är för trånga eller om alltför grovstyckigt berg eller skräp tippas i schaktet. Att ta ned sådana valv eller häng kräver stor kunskap och försiktighet.
+
+### 48 §
+
+Arbetsgivaren ska se till att åtgärder vidtas vid maskinell lastning av sprängt berg så att maskinoperatören skyddas mot stenkastning eller splitter från en detonerande eller deflagrerande dola.
+
+### 49 § – Bergbesiktning, skrotning och bergförstärkning
+
+Arbetsgivaren ska se till att bergbesiktning, skrotning och bergförstärkning samt efterkontroll utförs efter sprängning i den omfattning som behövs för att hindra stenfall och ras. Vid behov ska tak och väggar förstärkas ända fram till stuffen (ortgaveln) efter varje sprängning.
+
+Mekaniserad skrotning ska alltid eftersträvas. Under arbete med skrotaggregat ska operatören skyddas mot fallande sten.
+
+Vid bergbesiktning och vid manuell skrotning ska berget vara rengjort och väl belyst och arbetsstället fritt från störande buller.
+
+### 50 §
+
+Arbetsgivaren ska se till att en eller flera personer med ansvar för bergbesiktning, skrotning och bergförstärkning utses och ansvarsområden för dessa anges. Detta gäller inte arbetsställen ovan jord, om risken för personskador på grund av fallande sten är liten.
+
+Dessa utsedda personer ska utföra bergbesiktning, skrotning och bergförstärkning inom sitt ansvarsområde. Om det finns risk för fallande sten eller ras ska området stängas av till dess att risken undanröjts.
+
+De ansvariga ska ha erfarenhet av bergbesiktning och skrotningsarbete och därutöver kunskaper i bergförstärkning.
+
+Manuell skrotning ska utföras av eller tillsammans med en person som har erfarenhet av arbete med skrotning och bergförstärkning.
+
+### 51 § – Underhåll och besiktning av bergutrymme
+
+Innan ett bergutrymme som omfattas av dessa föreskrifter tas i bruk ska arbetsgivaren se till att bergbesiktning utförs. Återkommande besiktning ska sedan utföras med tidsintervall som bestäms utifrån resultatet från föregående besiktning. Vid behov ska bergförstärkning eller andra skadeförebyggande åtgärder snarast vidtas.
+
+### 52 § – Gruvhissar
+
+Arbetsgivaren ska se till att lindrivna gruvspel avsedda för berg- eller personbefordran, gruvhissar, räddningshissar och schakthängställningar är installerade och utförda så att de kan användas med betryggande säkerhet.
+
+### 53 § – Gravida arbetstagare
+
+Bestämmelser om gravida arbetstagare finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar, i kapitlet om gravida, nyförlösta och ammande.
+
+### 54 § – Samordning mellan flera arbetsgivare
+
+Den som är samordningsansvarig enligt [3 kap. 7 d § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) på ett arbetsställe som omfattas av dessa föreskrifter ska upprätta ett särskilt dokument för samordningen.
+
+Den samordningsansvarige som inte upprättar ett särskilt dokument för samordningen enligt vad som föreskrivs i denna bestämmelse ska betala sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+
+Lägsta avgiften är 5 000 kronor och högsta avgiften är 50 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 50 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 5 000 kronor + (antal sysselsatta – 1) × 90 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
 <!-- scan-laws:end -->
 
 ## Tolkning

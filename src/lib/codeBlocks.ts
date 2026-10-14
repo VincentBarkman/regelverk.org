@@ -32,7 +32,7 @@ export function enhanceCodeBlocks(article: HTMLElement) {
 		const btn = document.createElement('button');
 		btn.type = 'button';
 		btn.className =
-			'inline-flex items-center gap-1 text-[10px] font-medium text-primary/50 hover:text-primary transition-colors';
+			'inline-flex items-center gap-1 text-[10px] font-medium text-primary/60 hover:text-primary transition-colors';
 		btn.innerHTML = `${COPY_ICON}<span>${m.ui_copy()}</span>`;
 		btn.addEventListener('click', () => {
 			void navigator.clipboard?.writeText(code?.innerText ?? pre.innerText);

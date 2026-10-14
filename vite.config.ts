@@ -57,7 +57,7 @@ const rehypeHeadings = () => (tree: HastNode) => {
 				node.children.unshift({
 					type: 'element',
 					tagName: 'span',
-					properties: { className: ['secno', 'mr-1.5', 'text-primary/40'] },
+					properties: { className: ['secno', 'mr-1.5', 'text-primary/60'] },
 					children: [{ type: 'text', value: `${n}.` }]
 				});
 			node.children.push({
@@ -68,8 +68,13 @@ const rehypeHeadings = () => (tree: HastNode) => {
 					'aria-label': text,
 					className: [
 						'anchor',
-						'ml-2',
-						'text-primary/40',
+						'ml-1',
+						'inline-flex',
+						'min-h-6',
+						'min-w-6',
+						'items-center',
+						'justify-center',
+						'text-primary/60',
 						'no-underline',
 						'hover:text-primary',
 						'opacity-0',

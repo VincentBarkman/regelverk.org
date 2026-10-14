@@ -1,0 +1,41 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 11'
+'title': 'Bilaga 11'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 11.'
+'designation': 'AFS 2023:10 Bilaga 11'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Gränsvärden för exponering för statiska magnetiska fält
+
+### Inledning
+
+Denna bilaga innehåller gränsvärden för sensoriska effekter och hälsoeffekter och hör till 13 kap. 8–10 och 13 §§.
+
+I tabell 24 anges gränsvärden för magnetisk flödestäthet B vid exponering för statiska magnetiska fält i frekvensintervallet 0 Hz upp till 1 Hz. Värdena avser magnetisk flödestäthet B i luft.
+
+Med normala arbetsförhållanden avses förhållanden där arbetstagarna kan arbeta utan restriktioner med avseende på hur och var de rör sig.
+
+Med kontrollerade arbetsförhållanden avses förhållanden där arbetstagarna har getts information om lämpliga sätt att röra och förflytta sig i det statiska fältet.
+
+<table><caption>Tabell 24. Gränsvärden för magnetisk flödestäthet B i frekvensintervallet 0 Hz upp till 1 Hz </caption><tbody><tr><th><div><div>Exponeringssituationer</div></div></th><th><div><div>Sensoriska effekter<br>B [T]</div></div></th><th><div><div>Hälsoeffekter<br>B [T]</div></div></th></tr><tr><td><div><div>Normala arbetsförhållanden</div></div></td><td><div><div>2</div></div></td><td><div><div>-</div></div></td></tr><tr><td><div><div>Lokal exponering av extremiteter</div></div></td><td><div><div>8</div></div></td><td><div><div>-</div></div></td></tr><tr><td><div><div>Kontrollerade arbetsförhållanden</div></div></td><td><div><div>-</div></div></td><td><div><div>8</div></div></td></tr></tbody></table>
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

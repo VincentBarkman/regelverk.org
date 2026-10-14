@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20232/'
@@ -21,19 +21,49 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Vilutrymme
-
-### 14 §
-
-En arbetsgivare ska ordna så att det finns möjlighet för en arbetstagare som är gravid eller ammar, att under lämpliga förhållanden tillfälligt kunna vila liggande på arbetsstället.
-
-[8 kap.](/lagstiftning/afs-2023-2/kap-8) Minderårigas arbetsmiljö
+### Inledning
 
 Stöd och verktyg: För arbetsgivare till minderåriga arbetstagare
 
-#### Medicinsk kontroll
+### 1 § – Då gäller föreskrifterna
 
-### 5 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-2/kap-8) reglerar all verksamhet där minderårig utför arbete eller genomgår utbildning.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare som låter den som inte fyllt 18 år anlitas att utföra arbete eller genomgå utbildning, ansvarar för att bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-2/kap-8) följs. Skolhuvudmän omfattas endast av [3](#3-definitioner)–[6](#6-åtgärder) och [9](#9-rutiner-för-introduktion-och-information)–[11 §§](#11-ensamarbete).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-2/kap-8) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-2/kap-8) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Familjemedlem</div></div></td><td><div><div>Person som</div><ol><li><div><div>är vårdnadshavare till den minderåriga,</div></div></li><li><div><div>är släkt med och lever i samma hushåll som den minderåriga,</div></div></li><li><div><div>är gift med vårdnadshavaren och lever i samma hushåll som den minderåriga, eller</div></div></li><li><div><div>lever under äktenskapsliknande förhållanden med vårdnadshavaren i samma hushåll som den minderåriga.</div></div></li></ol></div></td></tr><tr><td><div><div>Minderårig</div></div></td><td><div><div>Den som inte fyllt 18&nbsp;år.</div></div></td></tr><tr><td><div><div>Praktik</div></div></td><td><div><div>Alla de former av arbetsplatsförlagt lärande som förekommer inom ramen för en utbildning.</div></div></td></tr><tr><td><div><div>Praktikgivare</div></div></td><td><div><div>Den som tar emot minderårig för praktik.</div></div></td></tr><tr><td><div><div>Skolhuvudman </div></div></td><td><div><div>Den som driver en verksamhet för utbildning av minderåriga.</div></div></td></tr><tr><td><div><div>Skolvecka</div></div></td><td><div><div>En vecka då eleven går minst en dag i skolan.</div></div></td></tr><tr><td><div><div>Ungdom</div></div></td><td><div><div>Minderårig som har fullgjort sin skolplikt och som fyller minst 16&nbsp;år under innevarande kalenderår.</div></div></td></tr><tr><td><div><div>Uppdragsgivare</div></div></td><td><div><div>Den som på annat sätt än att vara arbetsgivare låter minderårig utföra arbete.</div></div></td></tr><tr><td><div><div>Yngre barn</div></div></td><td><div><div>Minderårig som inte har fyllt 13&nbsp;år.</div></div></td></tr><tr><td><div><div>Äldre barn</div></div></td><td><div><div>Minderårig som har fyllt 13&nbsp;år men inte är ungdom.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
+
+Om arbetsuppgifter eller skoluppgifter kan komma att utföras av minderåriga som ännu inte är fysiskt eller psykiskt mogna, ska arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare genomföra en undersökning och riskbedömning av arbetsmiljön med särskild hänsyn till detta.
+
+Undersökningen och riskbedömningen ska ta särskild hänsyn till den minderårigas fysiska och psykiska mognad, ålder och övriga förutsättningar för att utföra arbetet.
+
+I undersökningen och riskbedömningen för yngre och äldre barn ska dessutom bedömas om arbetet kräver stort ansvarstagande, är fysiskt tungt eller är psykiskt påfrestande.
+
+Om verksamheten ändras så att riskerna för minderåriga påverkas ska en ny undersökning och riskbedömning göras.
+
+Skyddsombud eller studerandeskyddsombud och elevskyddsombud ska få möjlighet att delta i undersökningar och riskbedömningar och lämna synpunkter på vilka arbetsuppgifter som minderåriga ska utföra.
+
+> _Allmänna råd_
+>
+> Eftersom bestämmelserna preciserar de krav på riskbedömning som finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar omfattas riskbedömningen i bestämmelsen av skriftlighetskravet i de föreskrifterna.
+>
+> Bestämmelsen gäller bara undersökning och bedömning av risker som är typiska för minderåriga i olika åldersgrupper och ställer alltså inte krav på att undersöka och bedöma risker på individnivå. Däremot kan riskbedömningen visa att det finns ett behov av att fastställa rutiner över hur man ska agera för att i olika fall anpassa verksamheten till en enskild minderårigs egenskaper.
+>
+> När det gäller minderåriga i utbildning bör man alltid riskbedöma bland annat arbets- och skoluppgifter med särskilda risker både på yrkesprogram och högskoleförberedande program. Områden där sådana risker kan finnas är kemiska ämnen, ergonomi, teknisk utrustning, ljud- och ljusförhållanden. Dessa risker kan finnas i till exempel slöjd, idrott och hälsa, hem- och konsumentkunskap samt laborationer inom kemi och biologi.
+>
+> Eftersom utbildningsväsendet hela tiden förändras finns det liknande arbetsuppgifter, som inte är av lika traditionellt slag, som också måste riskbedömas. Exempel på arbeten där stort ansvarstagande krävs är arbete som innebär makt- eller myndighetsutövning i form av exempelvis kontroll och godkännande av en person. Fysiskt tunga uppgifter kan vara till exempel tunga lyft, buller och arbete med kemiska ämnen. Psykiskt tunga uppgifter kan vara till exempel att arbeta ensam, ta hand om personer i kris eller hantera pengar.
+
+### 5 § – Medicinsk kontroll
 
 Arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare ska se till att regelbundna medicinska kontroller görs av den minderåriga om det behövs för att bedöma risker beträffande den minderårigas säkerhet, fysiska eller psykiska hälsa eller utveckling.
 
@@ -42,16 +72,24 @@ Kontrollerna ska utföras så ofta det behövs utifrån den minderårigas hälso
 Skolhuvudmän ska undersöka om det finns krav på medicinsk kontroll för de arbetsuppgifter som eleven planeras utföra under praktik och försäkra sig om att praktikgivaren erbjuder en sådan kontroll, om skolan inte gör det.
 
 > _Allmänna råd_
-
+>
 > Den medicinska kontrollen av minderåriga skiljer sig från medicinsk kontroll av andra grupper genom att minderåriga kan förväntas vara särskilt känsliga för vissa belastningar.
-
+>
 > Bristande mognad och erfarenhet kan medföra risk för både olycksfall och psykisk påfrestning vid stor belastning. Det innebär att man behöver beakta den minderårigas fysiska och psykiska mognad vid den medicinska kontrollen, samt risktillstånden i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet.
-
+>
 > I skolan kan elevhälsans personal genomföra den medicinska kontrollen om de har den nödvändiga kompetensen och erfarenheten som krävs enligt Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet.
 
-#### Information till vårdnadshavare och skyddsombud, samt vårdnadshavares medgivande
+### 6 § – Åtgärder
 
-### 7 §
+Innan arbetet eller utbildningen påbörjas, ska arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare genomföra de åtgärder som följer av riskbedömningen enligt [4 §](#4-undersökning-och-riskbedömning) och den medicinska kontrollen enligt [5 §](#5-medicinsk-kontroll).
+
+> _Allmänna råd_
+>
+> I samband med praktik bör skolhuvudmannen och praktikgivaren vidta åtgärderna i samråd. Även i situationer då praktikgivaren har ett ansvar att vidta en viss åtgärd är skolhuvudmannen också ansvarig för att inom sin verksamhet genom till exempel ingående av utbildningskontrakt och uppföljning verka för att praktikgivaren vidtar åtgärden. Om den uppföljning som skolhuvudmannen ska göra skulle visa att praktikgivaren inte följer en viss regel i dessa eller andra av Arbetsmiljöverkets föreskrifter, och skolhuvudmannen inte lyckas förmå praktikgivaren att vidta rättelse, kan skolhuvudmannen tillsammans med praktikgivaren vara ansvarig för överträdelserna.
+>
+> Åtgärder som avses i bestämmelsen kan vara sådana som generellt minskar riskerna, till exempel att ta fram rutiner och köpa skyddsutrustning. Åtgärderna kan även vara individuella som att anpassa verksamheten till risker som härrör från en särskild minderårigs individuella egenskaper.
+
+### 7 § – Information till vårdnadshavare och skyddsombud, samt vårdnadshavares medgivande
 
 Om en arbetsgivare eller uppdragsgivare låter ett yngre eller äldre barn utföra arbete, ska de
 
@@ -65,16 +103,14 @@ Skyddsombud ska meddelas om en arbetsgivare beslutar att anställa en minderåri
 
 Om en arbetsgivare eller uppdragsgivare låter ett yngre eller äldre barn arbeta vid sidan av skolan, får det inte försämra möjligheten för barnet att göra skolarbetet, eller hindra barnet från att tillgodogöra sig undervisningen.
 
-#### Rutiner för introduktion och information
-
-### 9 §
+### 9 § – Rutiner för introduktion och information
 
 Arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare ska se till att den minderåriga får en introduktion med information om arbetsuppgifterna och dess risker och har förstått informationen.
 
 Minderåriga ska arbeta under ledning och tillsyn av en lämplig person som har fyllt 18 år och har kunskaper om arbetet. Det ska även finnas rutiner för hur introduktionen och handledningen ska gå till.
 
 > _Allmänna råd_
-
+>
 > En lämplig person att leda och ha tillsyn över den minderåriga kan till exempel vara en lärare, arbetsledare eller en mer erfaren arbetskamrat. Personen bör ha minst ett års erfarenhet av uppgifterna från arbetsliv eller utbildning och ha nödvändiga kunskaper om risker och skydd.
 
 #### Förbjudna arbetsuppgifter
@@ -85,7 +121,161 @@ Det är förbjudet för arbetsgivare, uppdragsgivare, skolhuvudmän och praktikg
 
 Om arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare bryter mot första stycket kan det leda till böter.
 
-Utöver vad som anges i första stycket ska dessutom [11](/lagstiftning/afs-2023-2/kap-4#11)–[14 §§](#14) uppfyllas för att arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare ska få låta en minderårig utföra arbete.
+Utöver vad som anges i första stycket ska dessutom [11](#11-ensamarbete)–[14 §§](#14-särskilda-bestämmelser-för-äldre-barn) uppfyllas för att arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare ska få låta en minderårig utföra arbete.
+
+### 11 § – Ensamarbete
+
+Arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare får inte låta en minderårig utföra någon av arbetsuppgifterna som anges i bilaga 2, som ensamarbete. Vad som är att anse som ensamarbete regleras i [1 §](#1-då-gäller-föreskrifterna) i kapitlet om ensamarbete.
+
+Om arbetsgivare, uppdragsgivare, skolhuvudmän eller praktikgivare bryter mot detta kan det leda till böter.
+
+Bestämmelser om ensamarbete för minderåriga finns även i kapitlet om ensamarbete.
+
+### 12 § – Särskilda bestämmelser för yngre barn
+
+Det är förbjudet för arbetsgivare, uppdragsgivare och praktikgivare att låta yngre barn utföra arbete. Undantag gäller
+
+för mycket lätta och ofarliga arbetsuppgifter, inom verksamheter som bedrivs av en familjemedlem utan andra anställda, och
+
+om Arbetsmiljöverket har gett tillstånd enligt [13 §](#13).
+
+Om arbetsgivare, uppdragsgivare, eller praktikgivare bryter mot detta kan det leda till böter.
+
+### 13 §
+
+Arbetsmiljöverket kan ge tillstånd för att anlita yngre barn för att uppträda och repetera inom
+
+kulturell verksamhet,
+
+konstnärlig verksamhet, eller
+
+sportevenemang eller reklamevenemang.
+
+Tillstånd kan beviljas om arbetsuppgifterna inte riskerar barnets säkerhet, hälsa eller utveckling och inte går ut över skolarbetet eller hindrar barnet från att tillgodogöra sig undervisningen i skolan.
+
+### 14 § – Särskilda bestämmelser för äldre barn
+
+Det är förbjudet för arbetsgivare, uppdragsgivare eller praktikgivare att låta äldre barn
+
+sälja åldersreglerade varor,
+
+utföra annat arbete som kräver ett stort ansvarstagande, eller
+
+utföra arbete som är fysiskt tungt eller psykiskt påfrestande.
+
+Om arbetsgivare, uppdragsgivare, eller praktikgivare bryter mot detta kan det leda till böter.
+
+#### Arbetstider
+
+### 15 § – Allmänna bestämmelser om arbetstid för minderåriga
+
+Det är den minderårigas vårdnadshavare som avgör arbetstiden för
+
+yngre barn som utför mycket lätta och ofarliga arbetsuppgifter enligt [12 §](#12-särskilda-bestämmelser-för-yngre-barn) p. 1, och
+
+äldre barn och ungdomar som anlitas på samma sätt.
+
+### 16 §
+
+En arbetsgivare eller uppdragsgivare får inte låta en minderårig utföra arbete mellan klockan 24.00 och 5.00.
+
+Om arbetsgivare eller uppdragsgivare bryter mot detta kan det leda till böter.
+
+### 17 §
+
+Om det finns särskilda skäl får Arbetsmiljöverket godkänna undantag från [16](#16) och [19](#19-särskilda-bestämmelser-om-arbetstid-för-yngre-och-äldre-barn)–[21 §§](#21-särskilda-bestämmelser-om-arbetstid-för-ungdomar) för uppträdande och repetitioner inom kulturell eller konstnärlig verksamhet samt för sportevenemang och reklamevenemang.
+
+> _Allmänna råd_
+>
+> Exempel på särskilda skäl är om minderåriga ska delta i filminspelningar där nattmörker är en förutsättning och det bara gäller ett fåtal tillfällen.
+
+### 18 §
+
+Arbetsgivare eller uppdragsgivare ska ordna med en sammanhängande rast som är minst 30 minuter, senast efter fyra och en halv timmes arbete.
+
+Om en arbetsgivare eller uppdragsgivare bryter mot detta kan det leda till böter.
+
+### 19 § – Särskilda bestämmelser om arbetstid för yngre och äldre barn
+
+Arbetsgivare eller uppdragsgivare får inte låta yngre eller äldre barn utföra arbete mellan klockan 20.00 och 6.00.
+
+Om en arbetsgivare eller uppdragsgivare bryter mot detta kan det leda till böter.
+
+### 20 §
+
+När arbetsgivare eller uppdragsgivare anlitar yngre eller äldre barn gäller utöver [19 §](#19-särskilda-bestämmelser-om-arbetstid-för-yngre-och-äldre-barn), även följande avseende arbetstid:
+
+Dygnsvila: Barnet ska vara ledigt från arbete minst 14 timmar sammanhängande för nattvila, under varje period om 24 timmar.
+
+Veckoledighet: Barnet ska vara ledigt från arbete minst två dagar under varje period om sju dagar. Så långt som möjligt ska ledigheten vara sammanhängande och vara förlagd till lördag och söndag. Minst 36 timmar av veckoledigheten ska vara sammanhängande, och ligga på tid som är fri från skolundervisning.
+
+Lov eller semester: Varje kalenderår ska barnet vara ledigt från arbete minst fyra veckor sammanhängande. Ledigheten ska ligga på tid som är fri från skolundervisning.
+
+Arbete som utförs under ett skollov, som är minst en vecka tillsammans med lördag och söndag, får totalt omfatta högst 7 timmar per dag, och högst 35 timmar per vecka.
+
+Arbete som utförs under en skolvecka får totalt omfatta högst 2 timmar per skoldag, eller 7 timmar per skolfri dag, och högst 12 timmar per skolvecka.
+
+Bestämmelserna i första stycket punkterna 1–5 gäller oavsett om arbetstiden rubriceras som ordinarie arbetstid, övertid, mertid eller jourtid.
+
+Om en arbetsgivare eller uppdragsgivare bryter mot första stycket punkterna 1–5 kan det leda till böter.
+
+### 21 § – Särskilda bestämmelser om arbetstid för ungdomar
+
+När arbetsgivare eller uppdragsgivare anlitar ungdomar gäller följande avseende arbetstid:
+
+1\. Ungdomen får arbeta högst 8 timmar per dag och högst 40 timmar per vecka. Under skolveckor ska arbetstiden förläggas så att den inte hindrar den ungdomens skolgång eller möjlighet att tillgodogöra sig skolundervisningen. Ungdomen får dock arbeta i genomsnitt 8 timmar per dag under en vecka, eller i genomsnitt 40 timmar per vecka under en period om fyra veckor, när det behövs på grund av arbetsuppgifternas natur eller arbetsförhållandena i övrigt. Detta gäller oavsett om arbetstiden rubriceras som ordinarie arbetstid, övertid, mertid eller jourtid.
+
+2\. Ungdomen ska ha minst 12 timmars sammanhängande ledighet under varje period om 24 timmar (dygnsvila).
+
+Dygnsvilan får dock förkortas till 11 timmar, om den minderåriga har en kompenserande viloperiod direkt efter arbetspasset eller arbetspassen. Detta gäller förutsatt att arbetet
+
+består av flera arbetspass, under ett dygn, som alla är kortare än 4 timmar,
+
+utförs på sjukhus, på äldreboende, inom jordbruk eller inom hotell och restaurang, eller
+
+omfattas av undantaget till punkt 3.
+
+3\. Ungdomen ska vara fri från arbete mellan klockan 22.00–6.00 eller 23.00–7.00. Ungdomen får dock arbeta till klockan 24.00, och börja arbeta klockan 5.00, om
+
+ordinarie arbetspass på arbetsplatsen slutar mellan klockan 22.00 och 24.00, eller börjar mellan klockan 5.00 och 7.00, och
+
+det medför stor olägenhet för verksamheten om ungdomen inte kan avsluta eller påbörja arbetspasset vid de ordinarie tiderna.
+
+4\. Ungdomen ska ha en ledighet om minst två dagar under varje period om sju dagar. Så långt som möjligt ska ledigheten vara sammanhängande och vara förlagd till veckoslutet. Den sammanhängande ledigheten får aldrig understiga 36 timmar.
+
+Om en arbetsgivare eller uppdragsgivare, bryter mot detta kan det leda till böter.
+
+### 22 § – Arbetstid när en minderårig arbetar hos flera arbetsgivare
+
+Om en minderårig arbetar åt flera olika arbetsgivare ska den totala arbetstiden beaktas när den tillåtna arbetstiden beräknas enligt [20 §](#20) punkten 5 för yngre och äldre barn respektive [21 §](#21-särskilda-bestämmelser-om-arbetstid-för-ungdomar) första stycket punkten 1 för ungdomar.
+
+Den arbetsgivare eller uppdragsgivare som sysselsätter en minderårig, som under samma tidsperiod utför arbete åt en annan arbetsgivare, uppdragsgivare, eller praktikgivare som avses i [23 §](#23-arbetstid-inom-ramen-för-utbildning-som-kombinerar-undervisning-och-praktik), ska dra ifrån den tid som den minderåriga arbetar för andra, för att beräkna den tillåtna arbetstiden.
+
+Vid tillämpningen av första stycket får minderåriga, som utför arbete åt praktikgivare som avses i [23 §](#23-arbetstid-inom-ramen-för-utbildning-som-kombinerar-undervisning-och-praktik), arbeta ytterligare 20 timmar per vecka, oavsett om den minderåriga är anställd inom ramen för sin praktik eller inte. Av dessa ytterligare 20 timmar får upp till 8 timmar förläggas till en och samma dag.
+
+Om en arbetsgivare, uppdragsgivare eller praktikgivare bryter mot detta kan det leda till böter.
+
+> _Allmänna råd_
+>
+> För att avgöra om man behöver tillämpa denna bestämmelse kan en arbetsgivare fråga den minderåriga om den minderåriga arbetar för en annan arbetsgivare eller praktikgivare. Om den minderåriga svarar nej bör arbetsgivaren vid tillämpningen av bestämmelsen utgå från att svaret överensstämmer med verkligheten.
+>
+> Vid exempelvis en situation där en 17-åring är anställd av två olika arbetsgivare som båda har underlåtit att ställa en sådan fråga och den minderåriga arbetar 8 timmar åt den ena arbetsgivaren och 1 timme åt den andra under en och samma dag är båda arbetsgivarna ansvariga för överträdelsen av [21 §](#21-särskilda-bestämmelser-om-arbetstid-för-ungdomar) första stycket punkten [1](#1-då-gäller-föreskrifterna) och [22 §](#22-arbetstid-när-en-minderårig-arbetar-hos-flera-arbetsgivare).
+>
+> Att första stycket enbart hänvisar till bestämmelserna om längsta tillåtna arbetstid per dag och vecka innebär att en arbetsgivare, precis som för vuxna arbetstagare, inte behöver beakta att en minderårig arbetar åt någon annan när arbetsgivaren tillämpar vilobestämmelserna i [21 §](#21-särskilda-bestämmelser-om-arbetstid-för-ungdomar) punkterna 2–3. Genom undantaget i punkten 2 kan en arbetsgivare låta en minderårig arbeta 8 timmar på onsdag, 7 timmar på lördag och 5 timmar på söndag även om den minderåriga som lärling under samma vecka arbetar 7,5 timmar om dagen måndag till fredag åt sin praktikgivare och har ett möte med sin handledare på skolan i 2,5 timmar. Skulle mötet på skolan bara ta 2 timmar i anspråk är det tillåtet för arbetsgivaren att låta den minderåriga arbeta ytterligare 0,5 timmar under den veckan eftersom den totala arbets- och utbildningstid inom ramen för lärlingsutbildningen då bara uppgår till 39,5 timmar.
+
+### 23 § – Arbetstid inom ramen för utbildning som kombinerar undervisning och praktik
+
+För arbete som en minderårig utför åt praktikgivare, inom ramen för en utbildning som kombinerar undervisning och praktik, gäller bestämmelserna om arbetstider oavsett om den minderåriga är anställd eller inte.
+
+När praktikgivaren beräknar den arbetstid som avses i första stycket ska denna lägga ihop den tid som den minderåriga deltar i skolundervisning och den tid som den minderåriga utför arbete åt praktikgivare, inom samma vecka.
+
+Praktikgivaren ansvarar för att arbetstiden beräknad enligt första stycket inte överskrids.
+
+Om praktikgivaren bryter mot första stycket i [denna paragraf](/lagstiftning/afs-2023-2) kan det leda till böter.
+
+> _Allmänna råd_
+>
+> Med utbildning för kombinerad undervisning och praktik avses till exempel gymnasieskolan lärlingsutbildning och grundskolans PRAO. När praktikgivaren för en lärling ska följa upp undervisnings- och arbetstid är det lämpligt att använda sig av det utbildningskontrakt som upprättas i början av lärlingsutbildningen. Ett exempel på när praktikgivaren måste ta hänsyn till bestämmelsen i andra stycket är om skolan meddelar att praktikanten kommer att ha ett uppföljningsmöte med skolans kontaktperson för praktiken. Om praktikanten i sådana fall har 40 timmars arbetsvecka måste praktikgivaren minska arbetstiden för den aktuella veckan med så lång tid som mötet pågår.
 <!-- scan-laws:end -->
 
 ## Tolkning

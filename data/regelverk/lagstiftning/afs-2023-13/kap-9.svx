@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,67 +21,131 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Anmälan om rivning eller sanering
+### Inledning
 
-### 12 §
+Stöd och verktyg: Innesluten användning av genetiskt modifierade mikroorganismer (GMM)
 
-Den arbetsgivare som har fått ett tillstånd enligt [7 §](/lagstiftning/afs-2023-13/kap-5#7-förflyttning-av-djur) första stycket får påbörja ett rivnings- eller saneringsarbete först när en skriftlig anmälan har lämnats in till Arbetsmiljöverket. Anmälan ska lämnas in av den arbetsgivare vars arbetstagare ska utföra arbetet. Anmälan ska ha kommit in till Arbetsmiljöverket senast två helgfria vardagar innan rivningen eller saneringen ska påbörjas, om inte Arbetsmiljöverket har medgivit något annat.
+### 1 § – Då gäller föreskrifterna
 
-Anmälan ska innehålla uppgifter om
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-9) reglerar all verksamhet som gäller innesluten användning av genetiskt modifierade mikroorganismer (GMM) med de undantag som anges i [3 och 5 §§ i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer.
 
-adressen till rivnings- eller saneringsobjektet och i förekommande fall de specifika områden där arbetet kommer att utföras,
+### 2 § – Vem föreskrifterna riktar sig till
 
-namn och adress till den som har beställt arbetet,
+Verksamhetsutövaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-9) följs. Med verksamhetsutövare avses i [detta kapitel](/lagstiftning/afs-2023-13/kap-9) den juridiska eller fysiska person som bedriver en eller flera GMM-verksamheter.
 
-datum för rivningens eller saneringens början och slut,
+### 3 § – Definitioner
 
-rivnings- eller saneringsarbetets art och omfattning,
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-9) har följande begrepp dessa betydelser.
 
-typ och kvantitet av asbesthaltigt material som ska hanteras,
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Dekontaminering</div></div></td><td><div><div>Behandling av material, kulturer och ytor för att avdöda eller inaktivera GMM.</div></div></td></tr><tr><td><div><div>Givarorganism </div></div></td><td><div><div>Organism varifrån genetiskt material överförs till en annan organism.</div></div></td></tr><tr><td><div><div>GMM</div></div></td><td><div><div>Mikroorganism vars genetiska material har ändrats på ett sätt som inte inträffar naturligt genom parning eller naturlig rekombination.</div></div></td></tr><tr><td><div><div>GMM-användning</div></div></td><td><div><div>Innesluten användning av GMM som, på ett inte obetydligt sätt, skiljer sig från andra inneslutna användningar i fråga om vilka GMM som används eller i fråga om metoderna för framställningen eller användningen av dem.</div></div></td></tr><tr><td><div><div>GMM-verksamhet</div></div></td><td><div><div>F-, L- eller R-verksamhet enligt 2&nbsp;§ i förordningen om innesluten användning av genetiskt modifierade organismer i en anläggning med en verksamhetsinriktning och under ledning av en verksamhetsledare.</div></div></td></tr><tr><td><div><div>Mottagarorganism</div></div></td><td><div><div>Organism som mottagit ett främmande genetiskt material. Var och en av de organismer som gemensamt bidragit till en GMM i de fall då det inte går att avgöra vilken organism som är givare eller mottagare.</div></div></td></tr><tr><td><div><div>Olycka</div></div></td><td><div><div>Betydande och oavsiktligt utsläpp av genetiskt modifierade organismer vid innesluten användning som kan innebära omedelbar eller fördröjd fara för människors hälsa eller för miljön.</div></div></td></tr><tr><td><div><div>Skyddsnivå</div></div></td><td><div><div>Den uppsättning av skyddsåtgärder som är anpassade för GMM-användningar med likartade risker på en definierad nivå enligt tabellerna i bilaga&nbsp;3.</div></div></td></tr><tr><td><div><div>Vektor </div></div></td><td><div><div>Virus, plasmid eller annan typ av bärare som kan överföra främmande genetiskt material till en mottagarorganism.</div></div></td></tr><tr><td><div><div>Verksamhetsinriktning</div></div></td><td><div><div>Den inriktning som GMM-verksamheten har och som definieras av vilka skyddsåtgärder som behövs enligt bilaga&nbsp;3, avsnitt&nbsp;B.</div></div></td></tr></tbody></table>
 
-aktiviteter och arbetsmoment som ingår i arbetet,
+> _Allmänna råd_
+>
+> I bilaga I del A i [direktivet 2009/41/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0041) anges exempel på metoder som ger upphov till GMM. I del B i samma bilaga finns metoder angivna som normalt inte anses ge upphov till GMM.
 
-luftomsättning i inneslutning, om sådan används,
+### 4 § – Utredning för bedömning av vilka skyddsåtgärder som är nödvändiga
 
-åtgärder som vidtagits, inbegripet en översikt över den utrustning som används för att begränsa arbetstagarnas exponering för asbest,
+Innan verksamhetsutövaren kan påbörja innesluten användning av GMM ska skaderiskerna bedömas enligt [7 § i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer. Verksamhetsutövaren ska då göra en utredning på det sätt som anges i bilaga 2.
 
-skyddsåtgärder och personlig rengöring,
+Resultatet av utredningen ska ligga till grund för bedömningen av vilka skyddsåtgärder som är nödvändiga och vilken skyddsnivå som behövs.
 
-antal berörda arbetstagare och en förteckning över de arbetstagare som sannolikt kommer att arbeta på den berörda platsen,
+> _Allmänna råd_
+>
+> Utredningen ska göras i enlighet med vetenskap och beprövad erfarenhet. Det kan innebära att verksamhetsutövaren behöver ta in expertis i sin organisation om sådan saknas. I en större organisation kan det vara lämpligt att bilda en biosäkerhetskommitté med samlad allsidig kompetens som kan ge råd vid utredning och bedömning.
 
-arbetstagarnas individuella utbildningsbevis,
+### 5 § – Dokumentation
 
-datum för den senaste medicinska kontrollen av arbetstagarna som deltar i arbetet,
+Verksamhetsutövaren ska dokumentera utredningen och bedömningen enligt [4 §](#4-utredning-för-bedömning-av-vilka-skyddsåtgärder-som-är-nödvändiga) och bilaga 2.
 
-den beräknade mängden asbesthaltigt avfall,
+Dokumentationen ska finnas tillgänglig inom GMM-verksamheten och kunna uppvisas på begäran av Arbetsmiljöverket.
 
-vem som ska transportera bort avfallet, och
+### 6 § – Skyddsnivå, skyddsåtgärder
 
-var avfallet slutligt ska tas omhand.
+Verksamhetsutövaren ska bedriva innesluten användning av GMM på lägst den skyddsnivå som verksamhetsutövaren har kommit fram till med tillvägagångssättet i bilaga 2. Om någon eller några skyddsåtgärder enligt en högre skyddsnivå behövs ska den högre skyddsnivån tillämpas.
 
-Med arbetstagare i andra stycket punkt 10 och 11 avses både de som leder och de som deltar i rivnings- eller saneringsarbetet.
+Arbetsmiljöverket kan bevilja undantag från bestämmelserna i första stycket och kan då besluta att inte alla skyddsåtgärder enligt den högre skyddsnivån behövs eller att en kombination av skyddsåtgärder från tabell 4 och 5 i bilaga 3 ska tillämpas i det enskilda fallet.
 
-Datumen för medicinsk kontroll enligt punkt 12 ska bifogas till förteckningen enligt punkt 10.
+### 7 §
 
-(AFS 2025:6)
+Verksamhetsutövaren ska alltid tillämpa de grundläggande skyddsåtgärderna och arbetssätten som listas i bilaga 3, avsnitt A. Skyddsåtgärderna enligt tabellerna i bilaga 3, avsnitt B ska tillämpas utifrån resultatet av utredningen och bedömningen enligt [4 §](#4-utredning-för-bedömning-av-vilka-skyddsåtgärder-som-är-nödvändiga).
 
-#### Handlingar på arbetsplatsen vid rivning eller sanering
+På skyddsnivå 2 och högre ska verksamhetsutövaren se till att det finns skriftliga hanterings- och skyddsinstruktioner för hur arbetet ska utföras och för åtgärder vid oönskade händelser.
 
-### 13 §
+> _Allmänna råd_
+>
+> Det kan behövas olika instruktioner för olika personalkategorier. Det är viktigt att inte glömma bort
+>
+> disk-, städ- och annan servicepersonal. Särskilda instruktioner kan också behöva ges till väktare med flera.
 
-Arbetsgivaren ska se till att följande handlingar finns tillgängliga på den arbetsplats där sådan rivning eller sanering som anges i [7 §](/lagstiftning/afs-2023-13/kap-5#7-förflyttning-av-djur) första stycket utförs:
+### 8 § – Klassificering för anmälan och ansökan om tillstånd
 
-Arbetsmiljöverkets beslut om tillstånd.
+Med utgångspunkt från den skyddsnivå som verksamhetsutövaren har kommit fram till med tillvägagångssättet i bilaga 2 ska varje GMM-användning ingå i en GMM-verksamhet och klassificeras som F-, L- eller R-verksamhet enligt tabell 1.
 
-Hanterings- och skyddsinstruktioner anpassade till det aktuella rivnings- eller saneringsarbetet.
+<table><caption>Tabell 1. Nödvändig skyddsnivå beroende på klassificering </caption><tbody><tr><th><div><div>Nödvändig skyddsnivå</div></div></th><th><div><div>Klassificering</div></div></th></tr><tr><td><div><div>1</div></div></td><td><div><div>F-verksamhet</div></div></td></tr><tr><td><div><div>2</div></div></td><td><div><div>L-verksamhet</div></div></td></tr><tr><td><div><div>3 eller 4</div></div></td><td><div><div>R-verksamhet</div></div></td></tr></tbody></table>
 
-Bevis om asbestutbildning för de som leder och de som deltar i rivnings- eller saneringsarbetet.
+### 9 § – Skyltning och märkning
 
-Intyg om sådana medicinska kontroller som avses i [44 §](/lagstiftning/afs-2023-13/kap-14#44) (tjänstbarhetsintyg) för de som deltar i rivnings- eller saneringsarbetet.
+Verksamhetsutövaren ska, vid innesluten användning av GMM på skyddsnivå 2 eller högre enligt [4 §](#4-utredning-för-bedömning-av-vilka-skyddsåtgärder-som-är-nödvändiga) och bilaga 4, se till att varningsskyltar finns vid ingångar till lokaler eller arbetsområden. Material, inklusive behållare och annan utrustning som innehåller GMM, ska också märkas.
 
-Uppgifterna i anmälan enligt [12 §](#12) andra stycket.
+Skyltar och märkning ska ha symbolen för biologisk fara med uppgift om skyddsnivå enligt bestämmelser i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser, i kapitlet om skyltar och signaler. När det är frågan om smittämnen ska också den information finnas som krävs enligt Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om smittrisker.
 
-(AFS 2025:6)
+Uppgifter som är allmänt kända på den plats där material, behållare och annan utrustning används kan uteslutas om det kan ske utan risk för hälsa och miljö.
+
+### 10 § – Avfall, dekontaminering och rengöring
+
+För att undvika risker för hälsa och miljö ska verksamhetsutövaren se till att avfall som innehåller GMM hanteras enligt på förhand uppgjorda rutiner. Verksamhetsutövaren ska i förväg informera den som transporterar eller omhändertar sådant avfall om innehållet samt om riskerna med att hantera det och om behovet av skyddsåtgärder.
+
+> _Allmänna råd_
+>
+> När GMM i avfallet har dekontaminerats med validerad metod kan det behandlas som hushållsavfall eller farligt avfall, beroende på övrigt innehåll.
+>
+> När man transporterar avfall med GMM som inte har dekontaminerats med validerad metod finns det transportregler att följa, bland annat regler om förpackning och märkning. Se föreskrifter utfärdade med stöd av [förordningen (2006:311)](https://rkrattsbaser.gov.se/sfst?bet=2006%3A311) om transport av farligt gods.
+
+### 11 §
+
+Verksamhetsutövaren ska se till att rengöring och dekontaminering genomförs i den omfattning som behövs för att förebygga att GMM orsakar skador på hälsa eller miljö och i övrigt enligt vad som anges i bilaga 3.
+
+### 12 § – Utbildning och kunskaper
+
+Verksamhetsutövaren ska se till att den som leder arbetet och de som kan komma i direkt kontakt med GMM har lämplig utbildning och tillräckliga kunskaper om de GMM som förekommer, riskerna med dessa och om hur riskerna ska undvikas.
+
+### 13 § – Beredskapsplan och rapportering
+
+För GMM-verksamheter där ett oavsiktligt utsläpp kan medföra allvarlig omedelbar eller fördröjd fara för miljön eller för människor utanför anläggningen ska verksamhetsutövaren upprätta en beredskapsplan enligt [31 § i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer.
+
+De myndigheter och andra som kan beröras av en olycka ska underrättas om innehållet i planen.
+
+### 14 §
+
+Om en olycka inträffar ska verksamhetsutövaren underrätta Arbetsmiljöverket och andra berörda myndigheter omedelbart eller senast inom 24 timmar och informera om
+
+de närmare omständigheterna kring olyckan,
+
+identiteten och mängden av de GMM som kommit ut,
+
+allt som behövs för att bedöma olyckans inverkan på hälsa och miljö, och
+
+vilka räddningsåtgärder som vidtagits.
+
+### 15 § – Anmälan och ansökan om tillstånd
+
+I en anmälan av en F-verksamhet, enligt [15 och 23 §§ i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer ska verksamhetsutövaren lämna uppgifter som framgår av bilaga 4 till Arbetsmiljöverket.
+
+### 16 §
+
+I en anmälan av en L-verksamhet och nya GMM-användningar enligt [15 och 25 §§ i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer, ska verksamhetsutövaren lämna de uppgifter som framgår av bilaga 5 till Arbetsmiljöverket.
+
+### 17 §
+
+I en ansökan om tillstånd för en R-verksamhet och nya GMM-användningar enligt [15 och 26 §§ i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer, ska verksamhetsutövaren lämna de uppgifter som framgår av bilaga 6 till Arbetsmiljöverket.
+
+### 18 § – Ändring och uppdatering av lämnade uppgifter
+
+Vid förändringar i GMM-verksamheten gäller följande:
+
+Ändring av en uppgift som i bilaga 4–6 har markerats med en asterisk (*) ska lämnas som en uppdatering enligt [22 § i förordningen (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer.
+
+Ändring av en uppgift som har markerats med två asterisker (**) får inte lämnas som en uppdatering. Vid en sådan ändring ska en ny, fullständig anmälan eller ansökan lämnas.
 <!-- scan-laws:end -->
 
 ## Tolkning

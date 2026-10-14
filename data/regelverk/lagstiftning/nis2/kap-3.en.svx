@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555#cpt_III'
+'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_III'
 'sites':
   - 'it'
   - 'ot'
@@ -22,13 +22,13 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 14 – Cooperation Group
+### Article 14 – Cooperation Group
 
 1\. In order to support and facilitate strategic cooperation and the exchange of information among Member States, as well as to strengthen trust and confidence, a Cooperation Group is established.
 
 2\. The Cooperation Group shall carry out its tasks on the basis of biennial work programmes referred to in paragraph 7.
 
-3\. The Cooperation Group shall be composed of representatives of Member States, the Commission and ENISA. The European External Action Service shall participate in the activities of the Cooperation Group as an observer. The European Supervisory Authorities (ESAs) and the competent authorities under [Regulation (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554) may participate in the activities of the Cooperation Group in accordance with Article [47](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554)(1) of that Regulation.
+3\. The Cooperation Group shall be composed of representatives of Member States, the Commission and ENISA. The European External Action Service shall participate in the activities of the Cooperation Group as an observer. The European Supervisory Authorities (ESAs) and the competent authorities under [Regulation (EU) 2022/2554](/lagstiftning/dora) may participate in the activities of the Cooperation Group in accordance with Article [47](/lagstiftning/dora/kap-7#artikel-47-samarbete-med-strukturer-och-myndigheter-som-har-inrättats-genom-direktiv-eu-2022-2555)(1) of that Regulation.
 
 Where appropriate, the Cooperation Group may invite the European Parliament and representatives of relevant stakeholders to participate in its work.
 
@@ -38,9 +38,9 @@ The Commission shall provide the secretariat.
 
 (a) to provide guidance to the competent authorities in relation to the transposition and implementation of [this Directive](/lagstiftning/nis2);
 
-(b) to provide guidance to the competent authorities in relation to the development and implementation of policies on coordinated vulnerability disclosure, as referred to in Article [7](/lagstiftning/nis2/kap-2#artikel-7-national-cybersecurity-strategy)(2), point (c);
+(b) to provide guidance to the competent authorities in relation to the development and implementation of policies on coordinated vulnerability disclosure, as referred to in Article [7](/lagstiftning/nis2/kap-2#article-7-national-cybersecurity-strategy)(2), point (c);
 
-(c) to exchange best practices and information in relation to the implementation of [this Directive](/lagstiftning/nis2), including in relation to cyber threats, incidents, vulnerabilities, near misses, awareness-raising initiatives, training, exercises and skills, capacity building, standards and technical specifications as well as the identification of essential and important entities pursuant to Article [2](/lagstiftning/nis2/kap-1#artikel-2-scope)(2), points (b) to (e);
+(c) to exchange best practices and information in relation to the implementation of [this Directive](/lagstiftning/nis2), including in relation to cyber threats, incidents, vulnerabilities, near misses, awareness-raising initiatives, training, exercises and skills, capacity building, standards and technical specifications as well as the identification of essential and important entities pursuant to Article [2](/lagstiftning/nis2/kap-1#article-2-scope)(2), points (b) to (e);
 
 (d) to exchange advice and cooperate with the Commission on emerging cybersecurity policy initiatives and the overall consistency of sector-specific cybersecurity requirements;
 
@@ -50,13 +50,13 @@ The Commission shall provide the secretariat.
 
 (g) to exchange views on the implementation of sector-specific Union legal acts that contain provisions on cybersecurity;
 
-(h) where relevant, to discuss reports on the peer review referred to in Article [19](#artikel-19-peer-reviews)(9) and draw up conclusions and recommendations;
+(h) where relevant, to discuss reports on the peer review referred to in Article [19](#article-19-peer-reviews)(9) and draw up conclusions and recommendations;
 
-(i) to carry out coordinated security risk assessments of critical supply chains in accordance with Article [22](/lagstiftning/nis2/kap-4#artikel-22-union-level-coordinated-security-risk-assessments-of-critical-supply-chains)(1);
+(i) to carry out coordinated security risk assessments of critical supply chains in accordance with Article [22](/lagstiftning/nis2/kap-4#article-22-union-level-coordinated-security-risk-assessments-of-critical-supply-chains)(1);
 
-(j) to discuss cases of mutual assistance, including experiences and results from cross-border joint supervisory actions as referred to in Article [37](/lagstiftning/nis2/kap-7#artikel-37-mutual-assistance);
+(j) to discuss cases of mutual assistance, including experiences and results from cross-border joint supervisory actions as referred to in Article [37](/lagstiftning/nis2/kap-7#article-37-mutual-assistance);
 
-(k) upon the request of one or more Member States concerned, to discuss specific requests for mutual assistance as referred to in Article [37](/lagstiftning/nis2/kap-7#artikel-37-mutual-assistance);
+(k) upon the request of one or more Member States concerned, to discuss specific requests for mutual assistance as referred to in Article [37](/lagstiftning/nis2/kap-7#article-37-mutual-assistance);
 
 (l) to provide strategic guidance to the CSIRTs network and EU-CyCLONe on specific emerging issues;
 
@@ -68,9 +68,9 @@ The Commission shall provide the secretariat.
 
 (p) to discuss the work undertaken in relation to cybersecurity exercises, including the work done by ENISA;
 
-(q) to establish the methodology and organisational aspects of the peer reviews referred to in Article [19](#artikel-19-peer-reviews)(1), as well as to lay down the self-assessment methodology for Member States in accordance with Article [19](#artikel-19-peer-reviews)(5), with the assistance of the Commission and ENISA, and, in cooperation with the Commission and ENISA, to develop codes of conduct underpinning the working methods of designated cybersecurity experts in accordance with Article [19](#artikel-19-peer-reviews)(6);
+(q) to establish the methodology and organisational aspects of the peer reviews referred to in Article [19](#article-19-peer-reviews)(1), as well as to lay down the self-assessment methodology for Member States in accordance with Article [19](#article-19-peer-reviews)(5), with the assistance of the Commission and ENISA, and, in cooperation with the Commission and ENISA, to develop codes of conduct underpinning the working methods of designated cybersecurity experts in accordance with Article [19](#article-19-peer-reviews)(6);
 
-(r) to prepare reports for the purpose of the review referred to in Article [40](/lagstiftning/nis2/kap-9#artikel-40-review) on the experience gained at a strategic level and from peer reviews;
+(r) to prepare reports for the purpose of the review referred to in Article [40](/lagstiftning/nis2/kap-9#article-40-review) on the experience gained at a strategic level and from peer reviews;
 
 (s) to discuss and carry out on a regular basis an assessment of the state of play of cyber threats or incidents, such as ransomware.
 
@@ -84,17 +84,17 @@ The Cooperation Group shall submit the reports referred to in the first subparag
 
 8\. The Commission may adopt implementing acts laying down procedural arrangements necessary for the functioning of the Cooperation Group.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/lagstiftning/nis2/kap-8#artikel-39-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/lagstiftning/nis2/kap-8#article-39-committee-procedure)(2).
 
 The Commission shall exchange advice and cooperate with the Cooperation Group on the draft implementing acts referred to in the first subparagraph of this paragraph in accordance with paragraph (4), point (e).
 
 9\. The Cooperation Group shall meet on a regular basis and in any event at least once a year with the Critical Entities Resilience Group established under [Directive (EU) 2022/2557](/lagstiftning/cer) to promote and facilitate strategic cooperation and the exchange of information.
 
-### Artikel 15 – CSIRTs network
+### Article 15 – CSIRTs network
 
 1\. In order to contribute to the development of confidence and trust and to promote swift and effective operational cooperation among Member States, a network of national CSIRTs is established.
 
-2\. The CSIRTs network shall be composed of representatives of the CSIRTs designated or established pursuant to Article [10](/lagstiftning/nis2/kap-2#artikel-10-computer-security-incident-response-teams-csirts) and the computer emergency response team for the Union’s institutions, bodies and agencies (CERT-EU). The Commission shall participate in the CSIRTs network as an observer. ENISA shall provide the secretariat and shall actively provide assistance for the cooperation among the CSIRTs.
+2\. The CSIRTs network shall be composed of representatives of the CSIRTs designated or established pursuant to Article [10](/lagstiftning/nis2/kap-2#article-10-computer-security-incident-response-teams-csirts) and the computer emergency response team for the Union’s institutions, bodies and agencies (CERT-EU). The Commission shall participate in the CSIRTs network as an observer. ENISA shall provide the secretariat and shall actively provide assistance for the cooperation among the CSIRTs.
 
 3\. The CSIRTs network shall have the following tasks:
 
@@ -114,7 +114,7 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 (h) to provide Member States with assistance in addressing cross-border incidents pursuant to [this Directive](/lagstiftning/nis2);
 
-(i) to cooperate, exchange best practices and provide assistance to the CSIRTs designated as coordinators pursuant to Article [12](/lagstiftning/nis2/kap-2#artikel-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1) with regard to the management of the coordinated disclosure of vulnerabilities which could have a significant impact on entities in more than one Member State;
+(i) to cooperate, exchange best practices and provide assistance to the CSIRTs designated as coordinators pursuant to Article [12](/lagstiftning/nis2/kap-2#article-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1) with regard to the management of the coordinated disclosure of vulnerabilities which could have a significant impact on entities in more than one Member State;
 
 (j) to discuss and identify further forms of operational cooperation, including in relation to:
 
@@ -126,7 +126,7 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 (iv) principles and arrangements for coordination in response to cross-border risks and incidents;
 
-(v) contribution to the national large-scale cybersecurity incident and crisis response plan referred to in Article [9](/lagstiftning/nis2/kap-2#artikel-9-national-cyber-crisis-management-frameworks)(4) at the request of a Member State;
+(v) contribution to the national large-scale cybersecurity incident and crisis response plan referred to in Article [9](/lagstiftning/nis2/kap-2#article-9-national-cyber-crisis-management-frameworks)(4) at the request of a Member State;
 
 (k) to inform the Cooperation Group of its activities and of the further forms of operational cooperation discussed pursuant to point (j), and, where necessary, request guidance in that regard;
 
@@ -136,17 +136,17 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 (n) to cooperate and exchange information with regional and Union-level Security Operations Centres (SOCs) in order to improve common situational awareness on incidents and cyber threats across the Union;
 
-(o) where relevant, to discuss the peer-review reports referred to in Article [19](#artikel-19-peer-reviews)(9);
+(o) where relevant, to discuss the peer-review reports referred to in Article [19](#article-19-peer-reviews)(9);
 
-(p) to provide guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of [this Article](#artikel-15-csirts-network) concerning operational cooperation.
+(p) to provide guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of [this Article](#article-15-csirts-network) concerning operational cooperation.
 
-4\. By 17 January 2025, and every two years thereafter, the CSIRTs network shall, for the purpose of the review referred to in Article [40](/lagstiftning/nis2/kap-9#artikel-40-review), assess the progress made with regard to the operational cooperation and adopt a report. The report shall, in particular, draw up conclusions and recommendations on the basis of the outcome of the peer reviews referred to in Article [19](#artikel-19-peer-reviews), which are carried out in relation to the national CSIRTs. That report shall be submitted to the Cooperation Group.
+4\. By 17 January 2025, and every two years thereafter, the CSIRTs network shall, for the purpose of the review referred to in Article [40](/lagstiftning/nis2/kap-9#article-40-review), assess the progress made with regard to the operational cooperation and adopt a report. The report shall, in particular, draw up conclusions and recommendations on the basis of the outcome of the peer reviews referred to in Article [19](#article-19-peer-reviews), which are carried out in relation to the national CSIRTs. That report shall be submitted to the Cooperation Group.
 
 5\. The CSIRTs network shall adopt its rules of procedure.
 
 6\. The CSIRTs network and EU-CyCLONe shall agree on procedural arrangements and cooperate on the basis thereof.
 
-### Artikel 16 – European cyber crisis liaison organisation network (EU-CyCLONe)
+### Article 16 – European cyber crisis liaison organisation network (EU-CyCLONe)
 
 1\. EU-CyCLONe is established to support the coordinated management of large-scale cybersecurity incidents and crises at operational level and to ensure the regular exchange of relevant information among Member States and Union institutions, bodies, offices and agencies.
 
@@ -166,21 +166,21 @@ Where appropriate, EU-CyCLONe may invite representatives of relevant stakeholder
 
 (d) to coordinate the management of large-scale cybersecurity incidents and crises and support decision-making at political level in relation to such incidents and crises;
 
-(e) to discuss, upon the request of a Member State concerned, national large-scale cybersecurity incident and crisis response plans referred to in Article [9](/lagstiftning/nis2/kap-2#artikel-9-national-cyber-crisis-management-frameworks)(4).
+(e) to discuss, upon the request of a Member State concerned, national large-scale cybersecurity incident and crisis response plans referred to in Article [9](/lagstiftning/nis2/kap-2#article-9-national-cyber-crisis-management-frameworks)(4).
 
 4\. EU-CyCLONe shall adopt its rules of procedure.
 
 5\. EU-CyCLONe shall report on a regular basis to the Cooperation Group on the management of large-scale cybersecurity incidents and crises, as well as trends, focusing in particular on their impact on essential and important entities.
 
-6\. EU-CyCLONe shall cooperate with the CSIRTs network on the basis of agreed procedural arrangements provided for in Article [15](#artikel-15-csirts-network)(6).
+6\. EU-CyCLONe shall cooperate with the CSIRTs network on the basis of agreed procedural arrangements provided for in Article [15](#article-15-csirts-network)(6).
 
 7\. By 17 July 2024 and every 18 months thereafter, EU-CyCLONe shall submit to the European Parliament and to the Council a report assessing its work.
 
-### Artikel 17 – International cooperation
+### Article 17 – International cooperation
 
 The Union may, where appropriate, conclude international agreements, in accordance with Article 218 TFEU, with third countries or international organisations, allowing and organising their participation in particular activities of the Cooperation Group, the CSIRTs network and EU-CyCLONe. Such agreements shall comply with Union data protection law.
 
-### Artikel 18 – Report on the state of cybersecurity in the Union
+### Article 18 – Report on the state of cybersecurity in the Union
 
 1\. ENISA shall adopt, in cooperation with the Commission and the Cooperation Group, a biennial report on the state of cybersecurity in the Union and shall submit and present that report to the European Parliament. The report shall, inter alia, be made available in machine-readable data and include the following:
 
@@ -190,29 +190,29 @@ The Union may, where appropriate, conclude international agreements, in accordan
 
 (c) an assessment of the general level of cybersecurity awareness and cyber hygiene among citizens and entities, including small and medium-sized enterprises;
 
-(d) an aggregated assessment of the outcome of the peer reviews referred to in Article [19](#artikel-19-peer-reviews);
+(d) an aggregated assessment of the outcome of the peer reviews referred to in Article [19](#article-19-peer-reviews);
 
 (e) an aggregated assessment of the level of maturity of cybersecurity capabilities and resources across the Union, including those at sector level, as well as of the extent to which the Member States’ national cybersecurity strategies are aligned.
 
-2\. The report shall include particular policy recommendations, with a view to addressing shortcomings and increasing the level of cybersecurity across the Union, and a summary of the findings for the particular period from the EU Cybersecurity Technical Situation Reports on incidents and cyber threats prepared by ENISA in accordance with Article [7](/lagstiftning/nis2/kap-2#artikel-7-national-cybersecurity-strategy)(6) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881).
+2\. The report shall include particular policy recommendations, with a view to addressing shortcomings and increasing the level of cybersecurity across the Union, and a summary of the findings for the particular period from the EU Cybersecurity Technical Situation Reports on incidents and cyber threats prepared by ENISA in accordance with Article [7](/lagstiftning/nis2/kap-2#article-7-national-cybersecurity-strategy)(6) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881).
 
 3\. ENISA, in cooperation with the Commission, the Cooperation Group and the CSIRTs network, shall develop the methodology, including the relevant variables, such as quantitative and qualitative indicators, of the aggregated assessment referred to in paragraph 1, point (e).
 
-### Artikel 19 – Peer reviews
+### Article 19 – Peer reviews
 
 1\. The Cooperation Group shall, on 17 January 2025, establish, with the assistance of the Commission and ENISA, and, where relevant, the CSIRTs network, the methodology and organisational aspects of peer reviews with a view to learning from shared experiences, strengthening mutual trust, achieving a high common level of cybersecurity, as well as enhancing Member States’ cybersecurity capabilities and policies necessary to implement [this Directive](/lagstiftning/nis2). Participation in peer reviews is voluntary. The peer reviews shall be carried out by cybersecurity experts. The cybersecurity experts shall be designated by at least two Member States, different from the Member State being reviewed.
 
 The peer reviews shall cover at least one of the following:
 
-(a) the level of implementation of the cybersecurity risk-management measures and reporting obligations laid down in Articles [21](/lagstiftning/nis2/kap-4#artikel-21-cybersecurity-risk-management-measures) and [23](/lagstiftning/nis2/kap-4#artikel-23-reporting-obligations);
+(a) the level of implementation of the cybersecurity risk-management measures and reporting obligations laid down in Articles [21](/lagstiftning/nis2/kap-4#article-21-cybersecurity-risk-management-measures) and [23](/lagstiftning/nis2/kap-4#article-23-reporting-obligations);
 
 (b) the level of capabilities, including the available financial, technical and human resources, and the effectiveness of the exercise of the tasks of the competent authorities;
 
 (c) the operational capabilities of the CSIRTs;
 
-(d) the level of implementation of mutual assistance referred to in Article [37](/lagstiftning/nis2/kap-7#artikel-37-mutual-assistance);
+(d) the level of implementation of mutual assistance referred to in Article [37](/lagstiftning/nis2/kap-7#article-37-mutual-assistance);
 
-(e) the level of implementation of the cybersecurity information-sharing arrangements referred to in Article [29](/lagstiftning/nis2/kap-6#artikel-29-cybersecurity-information-sharing-arrangements);
+(e) the level of implementation of the cybersecurity information-sharing arrangements referred to in Article [29](/lagstiftning/nis2/kap-6#article-29-cybersecurity-information-sharing-arrangements);
 
 (f) specific issues of cross-border or cross-sector nature.
 

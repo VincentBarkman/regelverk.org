@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2555#cpt_I'
+'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_I'
 'sites':
   - 'it'
   - 'ot'
@@ -84,13 +84,13 @@ b) utbildningsinstitut, särskilt om de utför kritisk forskningsverksamhet.
 
 9\. Punkterna 7 och 8 är inte tillämpliga om en entitet agerar som tillhandahållare av betrodda tjänster.
 
-10\. [Detta direktiv](/lagstiftning/nis2) är inte tillämpligt på entiteter som medlemsstaterna har undantagit från tillämpningsområdet för [förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i enlighet med artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i den förordningen.
+10\. [Detta direktiv](/lagstiftning/nis2) är inte tillämpligt på entiteter som medlemsstaterna har undantagit från tillämpningsområdet för [förordning (EU) 2022/2554](/lagstiftning/dora) i enlighet med artikel [2.4](/lagstiftning/dora/kap-1#artikel-2-tillämpningsområde) i den förordningen.
 
 11\. De skyldigheter som fastställs i [detta direktiv](/lagstiftning/nis2) ska inte medföra tillhandahållande av information vars utlämnande strider mot väsentliga intressen i fråga om medlemsstaternas nationella säkerhet, allmänna säkerhet eller försvar.
 
 12\. [Detta direktiv](/lagstiftning/nis2) påverkar inte tillämpningen av [förordning (EU) 2016/679](/lagstiftning/gdpr), [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058), Europaparlamentets och rådets [direktiv 2011/93/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0093) (27) och [2013/40/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0040) (28) och [direktiv (EU) 2022/2557](/lagstiftning/cer).
 
-13\. Utan att det påverkar tillämpningen av artikel [346](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:12012E) i EUF-fördraget ska information som är konfidentiell enligt unionsbestämmelser eller nationella bestämmelser, såsom bestämmelser om affärshemligheter, utbytas med kommissionen och andra berörda myndigheter i enlighet med [detta direktiv](/lagstiftning/nis2) endast när ett sådant utbyte är nödvändigt för att tillämpa [detta direktiv](/lagstiftning/nis2). Den information som utbyts ska begränsas till vad som är relevant och proportionellt för ändamålet med utbytet. Vid utbytet ska informationens konfidentialitet bevaras och berörda entiteters säkerhets- och affärsintressen skyddas.
+13\. Utan att det påverkar tillämpningen av artikel [346](/lagstiftning/cer) i EUF-fördraget ska information som är konfidentiell enligt unionsbestämmelser eller nationella bestämmelser, såsom bestämmelser om affärshemligheter, utbytas med kommissionen och andra berörda myndigheter i enlighet med [detta direktiv](/lagstiftning/nis2) endast när ett sådant utbyte är nödvändigt för att tillämpa [detta direktiv](/lagstiftning/nis2). Den information som utbyts ska begränsas till vad som är relevant och proportionellt för ändamålet med utbytet. Vid utbytet ska informationens konfidentialitet bevaras och berörda entiteters säkerhets- och affärsintressen skyddas.
 
 14\. Entiteter, behöriga myndigheter, gemensamma kontaktpunkter och CSIRT-enheter ska behandla personuppgifter i den utsträckning som krävs för tillämpningen av [detta direktiv](/lagstiftning/nis2) och i enlighet med [förordning (EU) 2016/679](/lagstiftning/gdpr), i synnerhet ska sådan behandling baseras på artikel [6](#artikel-6-definitioner) i denna.
 
@@ -218,13 +218,13 @@ b) auktoritativa tjänster för att lösa domännamnsfrågor för användning av
 
 23\. digital tjänst: en tjänst enligt definitionen i artikel [1.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L1535) i [Europaparlamentets och rådets direktiv (EU) 2015/1535](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L1535) (30).
 
-24\. betrodd tjänst: en betrodd tjänst enligt definitionen i artikel [3.16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+24\. betrodd tjänst: en betrodd tjänst enligt definitionen i artikel [3.16](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [förordning (EU) nr 910/2014](/lagstiftning/eidas).
 
-25\. tillhandahållare av betrodda tjänster: en tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.19](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+25\. tillhandahållare av betrodda tjänster: en tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.19](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [förordning (EU) nr 910/2014](/lagstiftning/eidas).
 
-26\. kvalificerad betrodd tjänst: en kvalificerad betrodd tjänst enligt definitionen i artikel [3.17](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+26\. kvalificerad betrodd tjänst: en kvalificerad betrodd tjänst enligt definitionen i artikel [3.17](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [förordning (EU) nr 910/2014](/lagstiftning/eidas).
 
-27\. kvalificerad tillhandahållare av betrodda tjänster: en kvalificerad tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910).
+27\. kvalificerad tillhandahållare av betrodda tjänster: en kvalificerad tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.20](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [förordning (EU) nr 910/2014](/lagstiftning/eidas).
 
 28\. marknadsplats online: en marknadsplats online enligt definitionen i artikel [2 n](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0029) i Europaparlamentets och rådets [direktiv 2005/29/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0029) (31).
 

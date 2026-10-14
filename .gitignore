@@ -36,3 +36,4 @@ src/lib/generated/
 
 # Others
 .playwright-mcp/
+.unlighthouse/

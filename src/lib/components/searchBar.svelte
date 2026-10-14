@@ -296,16 +296,16 @@
 										onclick={() => (showResults = true)}
 									>
 										<span class="flex h-5 shrink-0 items-center">
-											<Icon class="size-3.5 text-primary/40" aria-hidden="true" />
+											<Icon class="size-3.5 text-primary/60" aria-hidden="true" />
 										</span>
 										<span class="flex min-w-0 flex-1 flex-col">
 											<span class="truncate font-serif text-sm font-semibold text-primary"
 												>{item.title}</span
 											>
 											{#if item.description}
-												<span class="truncate text-xs text-primary/55">{item.description}</span>
+												<span class="truncate text-xs text-primary/60">{item.description}</span>
 											{/if}
-											<span class="mt-0.5 text-[10px] text-primary/40"
+											<span class="mt-0.5 text-[10px] text-primary/60"
 												>{ENTITY_LABEL[item.entity]()} · {SITES[item.scope]?.label ??
 													item.scope}</span
 											>
@@ -322,9 +322,9 @@
 									onclick={() => goToSearch(value.trim())}
 									class="flex w-full items-center gap-2 text-left text-xs font-medium text-primary/60"
 								>
-									<RiSearchLine class="size-3.5 shrink-0 text-primary/40" aria-hidden="true" />
+									<RiSearchLine class="size-3.5 shrink-0 text-primary/60" aria-hidden="true" />
 									<span class="truncate">{m.ui_view_all()}</span>
-									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/60" aria-hidden="true" />
 								</button>
 							</Command.Item>
 						</Command.Group>

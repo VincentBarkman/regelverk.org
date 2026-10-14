@@ -159,5 +159,7 @@
 	"err_need_help": "Behöver du hjälp?",
 	"err_open_issue": "Öppna ett ärende",
 	"ui_copy": "Kopiera",
-	"ui_copied": "Kopierat!"
+	"ui_copied": "Kopierat!",
+	"ui_show_all_count": "Visa alla {count}",
+	"ui_show_less": "Visa färre"
 }

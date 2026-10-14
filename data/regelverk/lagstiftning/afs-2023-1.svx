@@ -13,7 +13,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-13'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'related':
@@ -26,5 +26,8 @@
 <!-- scan-laws:start -->
 ## Innehåll
 
-- [1 kap. – Inledande bestämmelser](/lagstiftning/afs-2023-1/kap-1) · §§ 1–16
+- [1 kap. – Varför föreskrifterna finns](/lagstiftning/afs-2023-1/kap-1) · §§ 1–5
+- [2 kap. – Medverkan](/lagstiftning/afs-2023-1/kap-2) · §§ 6–11
+- [3 kap. – Utredning av ohälsa eller olycksfall och allvarliga tillbud](/lagstiftning/afs-2023-1/kap-3) · §§ 12–Övergångsbestämmelser
+- [Bilaga 1](/lagstiftning/afs-2023-1/bilaga-1)
 <!-- scan-laws:end -->

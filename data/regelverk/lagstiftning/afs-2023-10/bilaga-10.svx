@@ -1,0 +1,57 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 10'
+'title': 'Bilaga 10'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 10.'
+'designation': 'AFS 2023:10 Bilaga 10'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Fysikaliska storheter
+
+### Inledning
+
+Denna bilaga innehåller de fysikaliska storheter som användas för att beskriva exponering för elektromagnetiska fält och hör till 13 kap. 9 §.
+
+Elektrisk fältstyrka E är en vektorstorhet som motsvarar den kraft som verkar på en laddad partikel oavsett dess rörelse. Denna storhet uttrycks i volt per meter [V/m]. En skillnad måste göras mellan det omgivande elektriska fältet E och det elektriska fält Eind som induceras i kroppen som ett resultat av exponering för externa elektromagnetiska fält.
+
+Inducerad ström iinducerad är den ström som induceras i kroppen som resultat av exponering för externa elektromagnetiska fält. Denna storhet uttrycks i ampere [A].
+
+Kontaktström ikontakt är den ström som flyter när en person är i kontinuerlig kontakt med ett föremål i ett elektromagnetiskt fält. Denna storhet uttrycks i ampere [A].
+
+Elektrisk laddning Q är en lämplig storhet för att beskriva gnisturladdning. Denna storhet uttrycks i coulomb [C].
+
+Magnetisk fältstyrka H är en vektorstorhet som tillsammans med den magnetiska flödestätheten karakteriserar ett magnetfält i varje punkt i rummet. Denna storhet uttrycks i ampere per meter [A/m].
+
+Magnetisk flödestäthet B är en vektorstorhet som beskriver den kraft som verkar på laddningar i rörelse. Storheten uttrycks i tesla [T]. I fri rymd och i biologiskt material kan den magnetiska flödestätheten B och den magnetiska fältstyrkan H omräknas till den andra storheten med användande av relationen
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mo>=</mo><mn>4</mn><mi>π</mi><mo>·</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>7</mn></mrow></msup><mo>·</mo><mi>H</mi><mo>≈</mo><mn>1,26</mn><mo>·</mo><mi>H</mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mi></mi><mrow><mo>[</mo><mrow><mi>μ</mi><mi>T</mi></mrow><mo>]</mo></mrow></math>
+
+.
+
+Strålningstäthet S är en storhet som används vid mycket höga frekvenser, där inträngningsdjupet i kroppen är litet. Den definieras som den mot ytan i rät vinkel infallande strålningens effekt, dividerad med ytans area. Denna storhet uttrycks i watt per kvadratmeter [W/m2].
+
+Specifik absorption SA definieras som en energi som absorberas per mass­enhet biologisk vävnad. Denna storhet uttrycks i joule per kilogram [J/kg]. I dessa föreskrifter används det för att ange gränsvärden i syfte att begränsa påverkan av pulsad mikrovågsstrålning.
+
+Specifik absorptionshastighet SAR definieras som den energi, medelvärdesbildad över hela kroppen eller delar av kroppen, som absorberas per tidsenhet och per massenhet i biologisk vävnad. Denna storhet uttrycks i watt per kilogram [W/kg]. Helkropps-SAR är ett allmänt accepterat mått för att koppla termiska effekter till exponering för högfrekventa elektromagnetiska fält. Utöver medelvärden för helkropps-SAR krävs lokala SAR-värden för att kunna bedöma och begränsa hur stor energimängd som tas upp i mindre delar av kroppen vid särskilda exponeringsförhållanden. Ett sådant förhållande kan till exempel vara en person som exponeras för radiovågor i det nedre MHz-området (till exempel dielektrisk uppvärmning) samt personer som utsätts för exponering i närheten av en antenn.
+
+Av dessa storheter är magnetisk kontaktström ikontakt, ström i extremiteter iinducerad, elektrisk fältstyrka E, magnetisk fältstyrka H, magnetisk flödestäthet B och strålningstäthet S direkt mätbara.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

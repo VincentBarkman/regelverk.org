@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/#K1'
@@ -26,7 +26,7 @@
 
 Syftet med [denna lag](/lagstiftning/cybersakerhetslagen) är att uppnå en hög nivå av cybersäkerhet i samhället.
 
-Bestämmelserna i lagen genomför delvis [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet).
+Bestämmelserna i lagen genomför delvis [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](/lagstiftning/eidas) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet).
 
 ### 2 §
 
@@ -38,7 +38,7 @@ I [denna lag](/lagstiftning/cybersakerhetslagen) betyder
 
 2\. anknutet företag: detsamma som i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till kommissionens [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag,
 
-3\. betrodd tjänst: detsamma som i artikel [3.16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av [direktiv 1999/93/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) (EU:s förordning om elektronisk identifiering),
+3\. betrodd tjänst: detsamma som i artikel [3.16](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](/lagstiftning/eidas) av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av [direktiv 1999/93/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) (EU:s förordning om elektronisk identifiering),
 
 4\. cyberhot: en potentiell omständighet, händelse eller handling som kan skada, störa eller på annat negativt sätt påverka nätverks- och informationssystem, användare av dessa system och andra personer,
 
@@ -54,7 +54,7 @@ I [denna lag](/lagstiftning/cybersakerhetslagen) betyder
 
 10\. incident: en händelse som undergräver tillgängligheten, autenticiteten, riktigheten eller konfidentialiteten hos lagrade, överförda eller behandlade uppgifter eller hos de tjänster som erbjuds genom eller är tillgängliga via nätverks- och informationssystem,
 
-11\. kvalificerad tillhandahållare av betrodda tjänster: detsamma som i artikel [3.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) i EU:s förordning om elektronisk identifiering,
+11\. kvalificerad tillhandahållare av betrodda tjänster: detsamma som i artikel [3.20](/lagstiftning/lek) i EU:s förordning om elektronisk identifiering,
 
 12\. marknadsplats online: en tjänst som
 
@@ -180,7 +180,7 @@ Om det i lag eller annan författning finns bestämmelser som innehåller krav p
 
 ### 11 §
 
-[Denna lag](/lagstiftning/cybersakerhetslagen) gäller inte för verksamhetsutövare som har undantagits enligt artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) i [Europaparlamentets och rådets förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (DORA-
+[Denna lag](/lagstiftning/cybersakerhetslagen) gäller inte för verksamhetsutövare som har undantagits enligt artikel [2.4](/lagstiftning/dora/kap-1#artikel-2-tillämpningsområde) i [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (DORA-
 
 förordningen).
 

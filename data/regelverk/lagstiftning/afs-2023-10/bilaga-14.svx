@@ -1,0 +1,51 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 14'
+'title': 'Bilaga 14'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 14.'
+'designation': 'AFS 2023:10 Bilaga 14'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Insatsnivåer för tidsvarierande elektriska fält
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8, 9, 11, 12 och 21 §§.
+
+I tabell 27 anges insatsnivåer för elektrisk fältstyrka Elåg och Ehög för frekvenser mellan 1 Hz upp till 10 MHz.
+
+Insatsnivåerna Elåg och Ehög gäller i fri rymd, det vill säga utan närvaro av arbetstagare.
+
+Elåg för det externa elektriska fältet bygger på en begränsning av det inducerade elektriska fältet Eind i bilaga 13 och begränsning av gnisturladdningar i arbetsmiljön.
+
+Under Ehög överskrider det inducerade elektriska fältet Eind inte värdena i bilaga 13 och besvärande gnisturladdningar förebyggs, förutsatt att skyddsåtgärder enligt 13 kap. 24 § vidtas.
+
+<table><caption>Tabell 27. Insatsnivåer för exponering för tidsvarierande elektriska fält E i frekvensintervallet från 1 Hz upp till 10 MHz </caption><tbody><tr><th><div><div>Frekvens f [Hz]</div></div></th><th><div><div>E<sub>låg</sub> [V/m]</div></div></th><th><div><div>E<sub>hög</sub> [V/m]</div></div></th></tr><tr><td><div><div>1 ≤ f &lt; 25</div></div></td><td><div><div>2,0 · 10<sup>4</sup></div></div></td><td><div><div>2,0 · 10<sup>4</sup></div></div></td></tr><tr><td><div><div>25 ≤ f &lt; 50</div></div></td><td><div><div>5,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>2,0 · 10<sup>4</sup></div></div></td></tr><tr><td><div><div>50 ≤ f &lt; 1,64 · 10<sup>3</sup></div></div></td><td><div><div>5,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>1,0 · 10<sup>6</sup>/f</div></div></td></tr><tr><td><div><div>1,64 · 10<sup>3</sup> ≤ f &lt; 3 · 10<sup>3</sup></div></div></td><td><div><div>5,0 · 10<sup>5</sup>/f</div></div></td><td><div><div>6,1 · 10<sup>2</sup></div></div></td></tr><tr><td><div><div>3 · 10<sup>3</sup> ≤ f ≤ 10 · 10<sup>6</sup></div></div></td><td><div><div>1,7 · 10<sup>2</sup></div></div></td><td><div><div>6,1 · 10<sup>2</sup></div></div></td></tr></tbody></table>
+
+Anmärkningar till tabell 27:
+
+1\. Elåg och Ehög ges som rms-värden. För sinusoidala fält gäller att rms-värdet är toppvärdet dividerat med √2.
+
+2\. För fält som inte är sinusoidala ska bedömning av exponering göras med den så kallade weighted peak-metoden (filtrering i tidsdomän), men andra vetenskapligt bevisade och validerade utvärderingsförfaranden för exponering får tillämpas, förutsatt att de leder till ungefär likvärdiga och jämförbara resultat.
+
+3\. Insatsnivåerna motsvarar maximala värden där arbetstagarens kropp befinner sig. Detta leder till en försiktig bedömning av exponeringen och automatiskt uppfyllande av gränsvärdet under alla förhållanden med ojämn exponering. I situationer med en mycket lokal källa inom ett avstånd av några centimeter från kroppen ska efterlevnad av gränsvärden fastställas dosimetriskt, från fall till fall, och inte genom användning av insatsnivåer.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

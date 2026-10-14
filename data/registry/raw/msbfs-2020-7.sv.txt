@@ -1,4 +1,4 @@
-# msbfs-2020-7 [sv] scraped 2026-10-13
+# msbfs-2020-7 [sv] scraped 2026-10-14
 # source: https://www.msb.se/siteassets/dokument/regler/forfattningar/msbfs-2020-7-foreskrifter-om-sakerhetsatgarder-i-informationssystem-for-statliga-myndigheter.pdf
 
 # bestammelser | Bestämmelser | Bestämmelser | 
@@ -97,7 +97,7 @@ Om en annan författning innehåller en bestämmelse som ställer högre
 > _Allmänna råd_
 
 > krav än kraven i dessa föreskrifter tillämpas den bestämmelsen.
-
+>
 > Begreppsförklaring
 
 Myndigheten ska bedriva omvärldsbevakning för att underlätta
@@ -155,7 +155,7 @@ I dessa föreskrifter avses med
 > komponenter som hanterar information. I
 > begreppet ingår också nätverk och
 > infrastruktur.
-
+>
 > ___________________________________________________________________________
 > Förordningen senast ändrad genom SFS 2020:25.
 > Allmänna råd har en annan juridisk status än föreskrifter. De är inte tvingande. Deras funktion är
@@ -185,6 +185,8 @@ intrångsskydd eller skydd mot skadlig kod.
 
 säkerhetsloggning             Elektronisk registrering av
 säkerhetsrelaterade händelser.
+
+> _Allmänna råd_
 
 > Grundläggande bestämmelser
 

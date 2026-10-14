@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/'
@@ -21,81 +21,33 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Särskilda åtgärder för brandskydd
+### Inledning
 
-### 16 §
+Stöd och verktyg: Skyltar och signaler
 
-Arbetsgivaren ska se till att det finns rutiner för att förebygga uppkomst och spridning av brand.
+### 1 § – Definitioner
 
-> _Allmänna råd_
+I [detta kapitel](/lagstiftning/afs-2023-12/kap-7) har följande begrepp dessa betydelser.
 
-> Hur omfattande rutinerna behöver vara beror bland annat på verksamhetens art, lokalernas utformning och antalet arbetstagare. För att följa bestämmelsen kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena.
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Brandredskapsskylt</div></div></td><td><div><div>Skylt som anger placeringen av brandskyddsanordning eller brandskyddsutrustning.</div></div></td></tr><tr><td><div><div>Förbudsskylt</div></div></td><td><div><div>Skylt som förbjuder ett beteende som kan innebära fara.</div></div></td></tr><tr><td><div><div>Genomlyst skylt</div></div></td><td><div><div>Skylt som är gjord av transparent eller genomlyst material, upplyst från in- eller baksidan, så att den ger intryck av en lysande yta.</div></div></td></tr><tr><td><div><div>Handsignal</div></div></td><td><div><div>Fastställt rörelsemönster med armar och händer för att leda personal som utför manövrer som kan innebära risk eller fara.</div></div></td></tr><tr><td><div><div>Ljudsignal</div></div></td><td><div><div>Fastställd signal som avges från ett särskilt don utan att någon mänsklig eller syntetisk röst används.</div></div></td></tr><tr><td><div><div>Ljussignal</div></div></td><td><div><div>Fastställd signal bestående av utsänt ljus.</div></div></td></tr><tr><td><div><div>Nödskylt</div></div></td><td><div><div>Skylt som ger information om utrymningsväg, väg till utrymningsväg, utrustning för första hjälpen eller räddningsutrustning.</div></div></td></tr><tr><td><div><div>Påbudsskylt</div></div></td><td><div><div>Skylt som påbjuder ett visst beteende.</div></div></td></tr><tr><td><div><div>Symbol</div></div></td><td><div><div>Bild som beskriver en situation eller föreskriver ett visst uppträdande.</div></div></td></tr><tr><td><div><div>Talat meddelande</div></div></td><td><div><div>I förväg fastställt talat (verbalt) meddelande som avges med mänsklig eller syntetisk röst.</div></div></td></tr><tr><td><div><div>Tilläggsskylt</div></div></td><td><div><div>Skylt som används tillsammans med en annan skylt och lämnar kompletterande information.</div></div></td></tr><tr><td><div><div>Varningsskylt</div></div></td><td><div><div>Skylt som varnar för en risk eller fara.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (13 rader)</label></div>
 
-> Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i [lagen (2003:778)](https://rkrattsbaser.gov.se/sfst?bet=2003%3A778) om skydd mot olyckor.
+### 2 § – Skyltar och signaler
 
-### 17 §
+Arbetsgivaren ska se till att det finns skyltar, märkning och signaler i tillräcklig omfattning på arbetsplatsen. Skyltar, märkning och signaler ska användas när riskerna för ohälsa eller olycksfall inte kan undvikas eller begränsas tillräckligt mycket genom andra åtgärder. Tydlig markering ska finnas för områden där sådana risker finns.
 
-Arbetsplatser ska vara utrustade med de brandredskap som behövs. Vid val av brandredskap ska hänsyn tas till arbetsplatsens storlek, läge och användning, de fysikaliska och kemiska egenskaperna hos de material, ämnen och produkter och den utrustning som förekommer samt det största antal människor som arbetsplatsen är avsedd för och deras förutsättningar.
+I bilagorna 2–9 finns bestämmelser om hur skyltar, märkning och signaler ska vara utformade.
 
-### 18 §
+### 3 §
 
-Särskilda åtgärder ska vidtas för att underlätta utrymning i byggnader och andra anläggningar där en brand kan få en så snabb spridning eller medföra en så snabb rökutveckling att utrymning väsentligt försvåras.
+Arbetsgivaren ska, där det behövs för säkerheten, även se till att märkning, skyltar och signaler för väg-, järnvägs-, sjö- och lufttrafik används inom fabriksområden eller motsvarande.
 
-Om det behövs ska det finnas ett automatiskt släcksystem.
+### 4 §
 
-> _Allmänna råd_
+Arbetsgivaren ska se till att arbetstagarna får information och instruktion om de skyltar, den märkning och de signaler som används på arbetsplatsen och som har betydelse för hälsa och säkerhet.
 
-> Särskilda åtgärder kan vara både tekniska och organisatoriska. Exempel på tekniska åtgärder är automatiska släckanläggningar, automatiskt styrd brand- och rökgasevakuering och extra utrymningsvägar. Exempel på organisatoriska åtgärder är extra utbildning av personal och att arbetstagare som utför tillfälliga arbeten i serviceutrymmen står i kontakt med någon utanför rummet.
+Informationen och instruktionen ska förklara vad skyltar, märkning och signalering betyder, instruera hur man ska uppträda med anledning av dem och informera om vilka särskilda åtgärder de ska leda till.
 
-> Exempel på när särskilda åtgärder kan behöva vidtas är när stora mängder plast, färg eller papper hanteras i verksamheten och när arbete utförs i utrymmen som är svåra att utrymma som till exempel höglager, traversförarrum, maskinrum, cisterner, kulvertar och transformatorrum eller när det bara finns en utrymningsväg.
-
-> Riktlinjer för vattensprinklersystem finns i Brandskyddsföreningens skrift SBF 120:8.
-
-### 19 §
-
-Släckutrustning och släcksystem som inte är automatiska ska vara lätta att komma åt och använda samt markeras med skyltar på väl synliga ställen.
-
-> _Allmänna råd_
-
-> Se bilagorna 2–4 för utformning av skyltningen.
-
-### 20 §
-
-I utrymmen där utlöst släckmedel från ett automatiskt släcksystem innebär risk för kvävning eller ohälsa för arbetstagarna ska särskilda åtgärder vidtas för att skydda mot sådana risker. Utlösningen ska då ske med viss fördröjning efter larmet, så att utrymningen kan ske innan en akut risk för skador uppstår.
-
-> _Allmänna råd_
-
-> Exempel på utformning av sådana släcksystem finns beskrivet i Brandskyddsföreningens skrifter SBF 500 och SBF 115.
-
-#### Utrymningsplan
-
-### 21 §
-
-På arbetsplatser ska det, i den omfattning som behövs och på platser som är väl synliga och lätta att upptäcka, finnas anslag med utrymningsplan. Utrymningsplaner behövs dock inte för arbetsplatser vars storlek, läge och överskådlighet är sådana att en utrymningsplan saknar betydelse för arbetstagarnas säkerhet vid en utrymning.
-
-> _Allmänna råd_
-
-> Små lokaler där samtliga utrymningsvägar är synliga från hela lokalen är exempel på när utrymningsplanen kan sakna betydelse för arbetstagarnas säkerhet.
-
-### 22 §
-
-Utrymningsplanen ska
-
-visa alla utrymningsvägar, inklusive tillfälliga utrymningsplatser,
-
-visa återsamlingsplats,
-
-ange hur räddningstjänsten och annan nödvändig hjälpinsats larmas, och
-
-när detta är aktuellt, visa placering av handbrandsläckare, manuella larmutlösningsdon och larmtelefon.
-
-Om inte alla utrymningsvägar är tillgängliga för personer med nedsatt rörelse- eller orienteringsförmåga ska det framgå av utrymningsplanen vilka utrymningsvägar de kan använda.
-
-Utrymningsplanen får också innehålla annan information om det inte försvårar läsningen.
-
-> _Allmänna råd_
-
-> Exempel på hur en utrymningsplan kan vara utformad finns i svensk standard SS 2875:2019. Brand och räddning – Utrymningsplan – symboler. Utgåva 3.
+Informationen och instruktionen ska vara utformad så att den kan tillgodogöras av alla berörda, och ges så ofta att arbetstagarna har aktuell kunskap.
 <!-- scan-laws:end -->
 
 ## Tolkning

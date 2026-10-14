@@ -46,7 +46,7 @@
 						href={legalHref(scope, p.slug)}
 						class="flex items-center gap-2.5 rounded-md border border-primary/15 px-4 py-3 text-sm text-primary transition-colors hover:bg-primary/4"
 					>
-						<Icon class="size-4 shrink-0 text-primary/55" aria-hidden="true" />
+						<Icon class="size-4 shrink-0 text-primary/60" aria-hidden="true" />
 						{p.label()}
 					</a>
 				</li>

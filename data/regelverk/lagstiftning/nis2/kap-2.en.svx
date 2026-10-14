@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555#cpt_II'
+'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_II'
 'sites':
   - 'it'
   - 'ot'
@@ -22,7 +22,7 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 7 – National cybersecurity strategy
+### Article 7 – National cybersecurity strategy
 
 1\. Each Member State shall adopt a national cybersecurity strategy that provides for the strategic objectives, the resources required to achieve those objectives, and appropriate policy and regulatory measures, with a view to achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall include:
 
@@ -48,7 +48,7 @@
 
 (b) on the inclusion and specification of cybersecurity-related requirements for ICT products and ICT services in public procurement, including in relation to cybersecurity certification, encryption and the use of open-source cybersecurity products;
 
-(c) managing vulnerabilities, encompassing the promotion and facilitation of coordinated vulnerability disclosure under Article [12](#artikel-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1);
+(c) managing vulnerabilities, encompassing the promotion and facilitation of coordinated vulnerability disclosure under Article [12](#article-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1);
 
 (d) related to sustaining the general availability, integrity and confidentiality of the public core of the open internet, including, where relevant, the cybersecurity of undersea communications cables;
 
@@ -68,7 +68,7 @@
 
 4\. Member States shall assess their national cybersecurity strategies on a regular basis and at least every five years on the basis of key performance indicators and, where necessary, update them. ENISA shall assist Member States, upon their request, in the development or the update of a national cybersecurity strategy and of key performance indicators for the assessment of that strategy, in order to align it with the requirements and obligations laid down in [this Directive](/lagstiftning/nis2).
 
-### Artikel 8 – Competent authorities and single points of contact
+### Article 8 – Competent authorities and single points of contact
 
 1\. Each Member State shall designate or establish one or more competent authorities responsible for cybersecurity and for the supervisory tasks referred to in [Chapter VII](/lagstiftning/nis2/kap-7) (competent authorities).
 
@@ -82,7 +82,7 @@
 
 6\. Each Member State shall notify the Commission without undue delay of the identity of the competent authority referred to in paragraph 1 and of the single point of contact referred to in paragraph 3, of the tasks of those authorities, and of any subsequent changes thereto. Each Member State shall make public the identity of its competent authority. The Commission shall make a list of the single points of contact publicly available.
 
-### Artikel 9 – National cyber crisis management frameworks
+### Article 9 – National cyber crisis management frameworks
 
 1\. Each Member State shall designate or establish one or more competent authorities responsible for the management of large-scale cybersecurity incidents and crises (cyber crisis management authorities). Member States shall ensure that those authorities have adequate resources to carry out, in an effective and efficient manner, the tasks assigned to them. Member States shall ensure coherence with the existing frameworks for general national crisis management.
 
@@ -106,17 +106,17 @@
 
 5\. Within three months of the designation or establishment of the cyber crisis management authority referred to in paragraph 1, each Member State shall notify the Commission of the identity of its authority and of any subsequent changes thereto. Member States shall submit to the Commission and to the European cyber crisis liaison organisation network (EU-CyCLONe) relevant information relating to the requirements of paragraph 4 about their national large-scale cybersecurity incident and crisis response plans within three months of the adoption of those plans. Member States may exclude information where and to the extent that such exclusion is necessary for their national security.
 
-### Artikel 10 – Computer security incident response teams (CSIRTs)
+### Article 10 – Computer security incident response teams (CSIRTs)
 
-1\. Each Member State shall designate or establish one or more CSIRTs. The CSIRTs may be designated or established within a competent authority. The CSIRTs shall comply with the requirements set out in Article [11](#artikel-11-requirements-technical-capabilities-and-tasks-of-csirts)(1), shall cover at least the sectors, subsectors and types of entity referred to in Annexes I and II, and shall be responsible for incident handling in accordance with a well-defined process.
+1\. Each Member State shall designate or establish one or more CSIRTs. The CSIRTs may be designated or established within a competent authority. The CSIRTs shall comply with the requirements set out in Article [11](#article-11-requirements-technical-capabilities-and-tasks-of-csirts)(1), shall cover at least the sectors, subsectors and types of entity referred to in Annexes I and II, and shall be responsible for incident handling in accordance with a well-defined process.
 
-2\. Member States shall ensure that each CSIRT has adequate resources to carry out effectively its tasks as set out in Article [11](#artikel-11-requirements-technical-capabilities-and-tasks-of-csirts)(3).
+2\. Member States shall ensure that each CSIRT has adequate resources to carry out effectively its tasks as set out in Article [11](#article-11-requirements-technical-capabilities-and-tasks-of-csirts)(3).
 
 3\. Member States shall ensure that each CSIRT has at its disposal an appropriate, secure, and resilient communication and information infrastructure through which to exchange information with essential and important entities and other relevant stakeholders. To that end, Member States shall ensure that each CSIRT contributes to the deployment of secure information-sharing tools.
 
-4\. The CSIRTs shall cooperate and, where appropriate, exchange relevant information in accordance with Article [29](/lagstiftning/nis2/kap-6#artikel-29-cybersecurity-information-sharing-arrangements) with sectoral or cross-sectoral communities of essential and important entities.
+4\. The CSIRTs shall cooperate and, where appropriate, exchange relevant information in accordance with Article [29](/lagstiftning/nis2/kap-6#article-29-cybersecurity-information-sharing-arrangements) with sectoral or cross-sectoral communities of essential and important entities.
 
-5\. The CSIRTs shall participate in peer reviews organised in accordance with Article [19](/lagstiftning/nis2/kap-3#artikel-19-peer-reviews).
+5\. The CSIRTs shall participate in peer reviews organised in accordance with Article [19](/lagstiftning/nis2/kap-3#article-19-peer-reviews).
 
 6\. Member States shall ensure the effective, efficient and secure cooperation of their CSIRTs in the CSIRTs network.
 
@@ -124,11 +124,11 @@
 
 8\. The CSIRTs may cooperate with third countries’ national computer security incident response teams or equivalent third-country bodies, in particular for the purpose of providing them with cybersecurity assistance.
 
-9\. Each Member State shall notify the Commission without undue delay of the identity of the CSIRT referred to in paragraph 1 of [this Article](#artikel-10-computer-security-incident-response-teams-csirts) and the CSIRT designated as coordinator pursuant to Article [12](#artikel-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1), of their respective tasks in relation to essential and important entities, and of any subsequent changes thereto.
+9\. Each Member State shall notify the Commission without undue delay of the identity of the CSIRT referred to in paragraph 1 of [this Article](#article-10-computer-security-incident-response-teams-csirts) and the CSIRT designated as coordinator pursuant to Article [12](#article-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1), of their respective tasks in relation to essential and important entities, and of any subsequent changes thereto.
 
 10\. Member States may request the assistance of ENISA in developing their CSIRTs.
 
-### Artikel 11 – Requirements, technical capabilities and tasks of CSIRTs
+### Article 11 – Requirements, technical capabilities and tasks of CSIRTs
 
 1\. The CSIRTs shall comply with the following requirements:
 
@@ -162,9 +162,9 @@ The CSIRTs may participate in international cooperation networks.
 
 (f) participating in the CSIRTs network and providing mutual assistance in accordance with their capacities and competencies to other members of the CSIRTs network upon their request;
 
-(g) where applicable, acting as a coordinator for the purposes of the coordinated vulnerability disclosure under Article [12](#artikel-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1);
+(g) where applicable, acting as a coordinator for the purposes of the coordinated vulnerability disclosure under Article [12](#article-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1);
 
-(h) contributing to the deployment of secure information-sharing tools pursuant to Article [10](#artikel-10-computer-security-incident-response-teams-csirts)(3).
+(h) contributing to the deployment of secure information-sharing tools pursuant to Article [10](#article-10-computer-security-incident-response-teams-csirts)(3).
 
 The CSIRTs may carry out proactive non-intrusive scanning of publicly accessible network and information systems of essential and important entities. Such scanning shall be carried out to detect vulnerable or insecurely configured network and information systems and inform the entities concerned. Such scanning shall not have any negative impact on the functioning of the entities’ services.
 
@@ -178,9 +178,9 @@ When carrying out the tasks referred to in the first subparagraph, the CSIRTs ma
 
 (b) crisis management; and
 
-(c) coordinated vulnerability disclosure under Article [12](#artikel-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1).
+(c) coordinated vulnerability disclosure under Article [12](#article-12-coordinated-vulnerability-disclosure-and-a-european-vulnerability-database)(1).
 
-### Artikel 12 – Coordinated vulnerability disclosure and a European vulnerability database
+### Article 12 – Coordinated vulnerability disclosure and a European vulnerability database
 
 1\. Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure. The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products or ICT services, upon the request of either party. The tasks of the CSIRT designated as coordinator shall include:
 
@@ -200,19 +200,19 @@ Member States shall ensure that natural or legal persons are able to report, ano
 
 (c) the availability of related patches and, in the absence of available patches, guidance provided by the competent authorities or the CSIRTs addressed to users of vulnerable ICT products and ICT services as to how the risks resulting from disclosed vulnerabilities can be mitigated.
 
-### Artikel 13 – Cooperation at national level
+### Article 13 – Cooperation at national level
 
 1\. Where they are separate, the competent authorities, the single point of contact and the CSIRTs of the same Member State shall cooperate with each other with regard to the fulfilment of the obligations laid down in [this Directive](/lagstiftning/nis2).
 
-2\. Member States shall ensure that their CSIRTs or, where applicable, their competent authorities, receive notifications of significant incidents pursuant to Article [23](/lagstiftning/nis2/kap-4#artikel-23-reporting-obligations), and incidents, cyber threats and near misses pursuant to Article [30](/lagstiftning/nis2/kap-6#artikel-30-voluntary-notification-of-relevant-information).
+2\. Member States shall ensure that their CSIRTs or, where applicable, their competent authorities, receive notifications of significant incidents pursuant to Article [23](/lagstiftning/nis2/kap-4#article-23-reporting-obligations), and incidents, cyber threats and near misses pursuant to Article [30](/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information).
 
 3\. Member States shall ensure that their CSIRTs or, where applicable, their competent authorities inform their single points of contact of notifications of incidents, cyber threats and near misses submitted pursuant to [this Directive](/lagstiftning/nis2).
 
-4\. In order to ensure that the tasks and obligations of the competent authorities, the single points of contact and the CSIRTs are carried out effectively, Member States shall, to the extent possible, ensure appropriate cooperation between those bodies and law enforcement authorities, data protection authorities, the national authorities under [Regulations (EC) No 300/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0300) and [(EU) 2018/1139](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1139), the supervisory bodies under [Regulation (EU) No 910/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910), the competent authorities under [Regulation (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554), the national regulatory authorities under [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), the competent authorities under [Directive (EU) 2022/2557](/lagstiftning/cer), as well as the competent authorities under other sector-specific Union legal acts, within that Member State.
+4\. In order to ensure that the tasks and obligations of the competent authorities, the single points of contact and the CSIRTs are carried out effectively, Member States shall, to the extent possible, ensure appropriate cooperation between those bodies and law enforcement authorities, data protection authorities, the national authorities under [Regulations (EC) No 300/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0300) and [(EU) 2018/1139](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1139), the supervisory bodies under [Regulation (EU) No 910/2014](/lagstiftning/eidas), the competent authorities under [Regulation (EU) 2022/2554](/lagstiftning/dora), the national regulatory authorities under [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), the competent authorities under [Directive (EU) 2022/2557](/lagstiftning/cer), as well as the competent authorities under other sector-specific Union legal acts, within that Member State.
 
-5\. Member States shall ensure that their competent authorities under [this Directive](/lagstiftning/nis2) and their competent authorities under [Directive (EU) 2022/2557](/lagstiftning/cer) cooperate and exchange information on a regular basis with regard to the identification of critical entities, on risks, cyber threats, and incidents as well as on non-cyber risks, threats and incidents affecting entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer), and the measures taken in response to such risks, threats and incidents. Member States shall also ensure that their competent authorities under [this Directive](/lagstiftning/nis2) and their competent authorities under [Regulation (EU) No 910/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910), [Regulation (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) exchange relevant information on a regular basis, including with regard to relevant incidents and cyber threats.
+5\. Member States shall ensure that their competent authorities under [this Directive](/lagstiftning/nis2) and their competent authorities under [Directive (EU) 2022/2557](/lagstiftning/cer) cooperate and exchange information on a regular basis with regard to the identification of critical entities, on risks, cyber threats, and incidents as well as on non-cyber risks, threats and incidents affecting entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer), and the measures taken in response to such risks, threats and incidents. Member States shall also ensure that their competent authorities under [this Directive](/lagstiftning/nis2) and their competent authorities under [Regulation (EU) No 910/2014](/lagstiftning/eidas), [Regulation (EU) 2022/2554](/lagstiftning/dora) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) exchange relevant information on a regular basis, including with regard to relevant incidents and cyber threats.
 
-6\. Member States shall simplify the reporting through technical means for notifications referred to in Articles [23](/lagstiftning/nis2/kap-4#artikel-23-reporting-obligations) and [30](/lagstiftning/nis2/kap-6#artikel-30-voluntary-notification-of-relevant-information).
+6\. Member States shall simplify the reporting through technical means for notifications referred to in Articles [23](/lagstiftning/nis2/kap-4#article-23-reporting-obligations) and [30](/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information).
 <!-- scan-laws:end -->
 
 ## Interpretation

@@ -16,7 +16,6 @@
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
 	import LdJson from '#lib/components/ldJson.svelte';
-	import { getLocale } from '#lib/paraglide/runtime.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import * as Table from '#lib/components/ui/table/index.js';
 	import RecordLink from '#lib/components/recordLink.svelte';
@@ -221,16 +220,6 @@
 			? `https://${host}/wiki/${data.ref.scope}/pages/${idPath}`
 			: `https://${host}/${data.ref.entity}/${idPath}`;
 	});
-
-	const jsonLd = $derived({
-		'@context': 'https://schema.org',
-		'@type': 'Article',
-		headline: title,
-		url: canonicalUrl,
-		inLanguage: getLocale() === 'en' ? 'en' : 'sv',
-		...(description ? { description } : {}),
-		isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
-	});
 </script>
 
 <svelte:head>
@@ -251,7 +240,7 @@
 		description={description ?? SITE_BLURB[scope]()}
 		url={canonicalUrl}
 	/>
-	<LdJson data={jsonLd} />
+	<LdJson json={data.ldJson} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
@@ -308,9 +297,11 @@
 					<ol class="not-prose mt-6 flex flex-col border-t border-primary/10">
 						{#each data.updates as u (u.entity + u.id)}
 							<li class="border-b border-primary/10 py-3">
-								<p class="text-[11px] text-primary/50">
+								<p class="text-[11px] text-primary/60">
 									{dateOf(u.meta)}
-									<span class="mx-1.5 text-primary/30">·</span>{ENTITY_LABEL[u.entity as Entity]()}
+									<span class="mx-1.5 text-primary/60" aria-hidden="true">·</span>{ENTITY_LABEL[
+										u.entity as Entity
+									]()}
 								</p>
 								<p class="mt-0.5">
 									<a
@@ -367,7 +358,7 @@
 												class="text-primary underline decoration-primary/30 underline-offset-4 hover:decoration-primary"
 												>{s.title ?? s.id}</RecordLink
 											>
-											<span class="ml-1.5 text-[11px] text-primary/45"
+											<span class="ml-1.5 text-[11px] text-primary/60"
 												>{ENTITY_LABEL[s.entity as Entity]()}</span
 											>
 										</Table.Cell>
@@ -394,11 +385,11 @@
 										>{s.title ?? s.id}</RecordLink
 									>
 								</p>
-								<p class="mt-0.5 flex items-baseline justify-between gap-2 text-xs text-primary/55">
+								<p class="mt-0.5 flex items-baseline justify-between gap-2 text-xs text-primary/60">
 									<span class="shrink-0">{ENTITY_LABEL[s.entity as Entity]()}</span>
 									<span class="truncate text-right">{@render sourceValue(src)}</span>
 								</p>
-								<p class="mt-0.5 text-[11px] text-primary/45">
+								<p class="mt-0.5 text-[11px] text-primary/60">
 									{m.meta_source_checked()}: {typeof s.meta?.sourceChecked === 'string'
 										? s.meta.sourceChecked
 										: '–'}
@@ -421,7 +412,7 @@
 										class="rounded bg-primary/8 px-1.5 py-px font-mono text-[11px] text-primary/70 hover:bg-primary/15"
 										>{c.hash}</a
 									>
-									<span class="text-[11px] text-primary/45">{c.date}</span>
+									<span class="text-[11px] text-primary/60">{c.date}</span>
 								</p>
 								<p class="mt-1 text-sm text-primary/80">{c.message}</p>
 							</li>

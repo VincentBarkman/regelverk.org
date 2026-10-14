@@ -1,0 +1,55 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 17'
+'title': 'Bilaga 17'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 17.'
+'designation': 'AFS 2023:10 Bilaga 17'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Insatsnivåer för elektromagnetiska fält
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8, 9, 11 och 21 §§.
+
+I tabell 30 anges insatsnivåer för elektromagnetiska fält i frekvensintervallet mellan 100 kHz upp till 300 GHz.
+
+Insatsnivåerna E, B och S gäller i fri rymd, det vill säga utan närvaro av arbetstagare, och anger maximalt tillåtna värden för exponering av kroppen, del eller delar av kroppen.
+
+<table><caption>Tabell 30. Insatsnivåer för exponering i frekvensintervallet 100 kHz till 300 GHz </caption><tbody><tr><th><div><div>Frekvens f [MHz]</div></div></th><th><div><div>E [V/m]</div></div></th><th><div><div>B [10<sup>–6</sup> T]</div></div></th><th><div><div>S [W/m<sup>2</sup>]</div></div></th></tr><tr><td><div><div>0,1 ≤ f &lt; 1 </div></div></td><td><div><div>6,1 · 10<sup>2</sup></div></div></td><td><div><div>2,0/f</div></div></td><td></td></tr><tr><td><div><div>1 ≤ f &lt; 10 </div></div></td><td><div><div>6,1 · 10<sup>2</sup>/f</div></div></td><td><div><div>2,0/f</div></div></td><td></td></tr><tr><td><div><div>10 ≤ f &lt; 400 </div></div></td><td><div><div>61</div></div></td><td><div><div>0,2</div></div></td><td><div><div>10</div></div></td></tr><tr><td><div><div>400 ≤ f &lt; 2 000</div></div></td><td><div><div>3 · f<sup>1/2</sup></div></div></td><td><div><div>1 · 10<sup>–2</sup> · f<sup>1/2</sup></div></div></td><td><div><div>f/40</div></div></td></tr><tr><td><div><div>2 000 ≤ f &lt; 6 000</div></div></td><td><div><div>1,4 · 10<sup>2</sup></div></div></td><td><div><div>4,5 · 10<sup>–1</sup></div></div></td><td><div><div>50</div></div></td></tr><tr><td><div><div>6 000 ≤ f ≤ 300 000</div></div></td><td><div><div>1,4 · 10<sup>2</sup></div></div></td><td><div><div>4,5 · 10<sup>–1</sup></div></div></td><td><div><div>50</div></div></td></tr></tbody></table>
+
+Anmärkningar till tabell 30:
+
+1\. E2 och B2 ska beräknas som medelvärden under en sexminutersperiod. För pulser får toppvärdet av effekttätheten S, som medelvärde över pulsbredden, inte vara större än 1 000 gånger.
+
+2\. För multifrekventa fält ska analysen bygga på summering, som förklaras i Europeiska kommissionens vägledning.
+
+3\. E och B motsvarar de maximala beräknade eller uppmätta värden där arbetstagarens kropp befinner sig. Detta leder till en försiktig bedömning av exponeringen och automatiskt uppfyllande av gränsvärdet under alla förhållanden med ojämn exponering.
+
+4\. För bedömning av uppfyllande av gränsvärdena under särskilda förhållanden med ojämn exponering, se Europeiska kommissionens vägledning.
+
+5\. I situationer med en mycket lokal källa inom ett avstånd av några centimeter från kroppen ska uppfyllande av gränsvärden fastställas dosimetriskt, från fall till fall, och inte genom användning av insatsnivåer.
+
+6\. S ska beräknas som ett medelvärde över 20 cm2 av exponerat område. Den maximala spatiala strålningstätheten S, beräknad som ett medelvärde över 1 cm2, får inte överstiga 1 000 W/m2.
+
+7\. Över 10 GHz ska effekttätheten beräknas som ett medelvärde över en godtycklig 68/f1,05–minutersperiod, f i GHz, för att kompensera för ett progressivt kortare penetrationsdjup när frekvensen ökar.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

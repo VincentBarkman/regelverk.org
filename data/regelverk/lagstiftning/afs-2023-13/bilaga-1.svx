@@ -1,0 +1,37 @@
+---
+'source': 'afs-2023-13'
+'ref': 'Bilaga 1'
+'title': 'Bilaga 1 – Maximalt tillåten oxygenbelastning'
+'kind': 'chapter'
+'description': 'Risker vid vissa typer av arbeten (AFS 2023:13), Bilaga 1.'
+'designation': 'AFS 2023:13 Bilaga 1'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Inledning
+
+Denna bilaga anger maximalt tillåten oxygenbelastning enligt [6 kap.](/lagstiftning/afs-2023-13/kap-6) om dykeriarbete.
+
+OTU (Oxygen Tolerance Unit) är den biologiska effekt som erhålls vid exponering för oxygen med ett partialtryck på 100 kPa under 1 minut.
+
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Partialtryck O<sub>2</sub> [kPa]</div></div></th><th><div><div>OTU/minut</div></div></th><th><div><div>OTU/timme</div></div></th></tr><tr><td><div><div>60</div></div></td><td><div><div>0,26</div></div></td><td><div><div>16</div></div></td></tr><tr><td><div><div>70</div></div></td><td><div><div>0,47</div></div></td><td><div><div>28</div></div></td></tr><tr><td><div><div>80</div></div></td><td><div><div>0,65</div></div></td><td><div><div>39</div></div></td></tr><tr><td><div><div>90</div></div></td><td><div><div>0,83</div></div></td><td><div><div>50</div></div></td></tr><tr><td><div><div>100</div></div></td><td><div><div>1,00</div></div></td><td><div><div>60</div></div></td></tr><tr><td><div><div>110</div></div></td><td><div><div>1,16</div></div></td><td><div><div>70</div></div></td></tr><tr><td><div><div>120</div></div></td><td><div><div>1,32</div></div></td><td><div><div>79</div></div></td></tr><tr><td><div><div>130</div></div></td><td><div><div>1,48</div></div></td><td><div><div>89</div></div></td></tr><tr><td><div><div>140</div></div></td><td><div><div>1,63</div></div></td><td><div><div>98</div></div></td></tr><tr><td><div><div>150</div></div></td><td><div><div>1,78</div></div></td><td><div><div>107</div></div></td></tr><tr><td><div><div>160</div></div></td><td><div><div>1,93</div></div></td><td><div><div>116</div></div></td></tr><tr><td><div><div>170</div></div></td><td><div><div>2,07</div></div></td><td><div><div>124</div></div></td></tr><tr><td><div><div>180</div></div></td><td><div><div>2,22</div></div></td><td><div><div>133</div></div></td></tr><tr><td><div><div>190</div></div></td><td><div><div>2,36</div></div></td><td><div><div>142</div></div></td></tr><tr><td><div><div>200</div></div></td><td><div><div>2,50</div></div></td><td><div><div>150</div></div></td></tr><tr><td><div><div>210</div></div></td><td><div><div>2,64</div></div></td><td><div><div>158</div></div></td></tr><tr><td><div><div>220</div></div></td><td><div><div>2,77</div></div></td><td><div><div>166</div></div></td></tr><tr><td><div><div>250</div></div></td><td><div><div>3,15</div></div></td><td><div><div>189</div></div></td></tr><tr><td><div><div>280</div></div></td><td><div><div>3,55</div></div></td><td><div><div>213</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell 2: OTU per tidsenhet vid olika partialtryck O 2</label></div>
+
+<table><caption>Tabell 3: Maximalt tillåten kumulativ OTU </caption><tbody><tr><th><div><div>Exponering [antal dagar i sträck]</div></div></th><th><div><div>OTU/dygn</div></div></th></tr><tr><td><div><div> 1</div></div></td><td><div><div>850</div></div></td></tr><tr><td><div><div> 2</div></div></td><td><div><div>700</div></div></td></tr><tr><td><div><div> 3</div></div></td><td><div><div>620</div></div></td></tr><tr><td><div><div> 4</div></div></td><td><div><div>525</div></div></td></tr><tr><td><div><div> 5</div></div></td><td><div><div>460</div></div></td></tr><tr><td><div><div> 6</div></div></td><td><div><div>420</div></div></td></tr><tr><td><div><div> 7</div></div></td><td><div><div>380</div></div></td></tr><tr><td><div><div> 8</div></div></td><td><div><div>350</div></div></td></tr><tr><td><div><div> 9</div></div></td><td><div><div>330</div></div></td></tr><tr><td><div><div>10</div></div></td><td><div><div>310</div></div></td></tr><tr><td><div><div>11–30</div></div></td><td><div><div>300</div></div></td></tr></tbody></table>
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

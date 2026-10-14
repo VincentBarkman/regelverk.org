@@ -11,7 +11,7 @@
 'reviewStatus': 'verified'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-01'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2022-12-14'
@@ -21,7 +21,7 @@
 'sites':
   - 'it'
   - 'ot'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555'
+'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03'
 ---
 
 ## Scope

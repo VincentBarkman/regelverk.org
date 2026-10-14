@@ -1,0 +1,143 @@
+---
+'source': 'msbfs-2020-7'
+'ref': '2 kap.'
+'title': '2 kap. – 9 § – 16 §'
+'kind': 'chapter'
+'description': 'Säkerhetsåtgärder i informationssystem (MSBFS 2020:7), 2 kap..'
+'designation': 'MSBFS 2020:7 2 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'MSB'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.msb.se/siteassets/dokument/regler/forfattningar/msbfs-2020-7-foreskrifter-om-sakerhetsatgarder-i-informationssystem-for-statliga-myndigheter.pdf'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Bestämmelser
+
+### 9 §
+
+Myndigheten ska ha interna regler för kryptering med krav på
+
+1\. hantering av krypteringsnycklar,
+2. godkännande och förvaltning av krypteringslösningar, och
+3. hur krypteringsalgoritmer, krypteringsprotokoll och nyckellängder ska
+väljas.
+
+### 10 § – Säkerhetskonfigurering
+
+Myndigheten ska, för att skydda informationssystem mot obehörig
+
+åtkomst,
+1. byta ut förinställda autentiseringsuppgifter,
+2. stänga av, ta bort eller blockera systemfunktioner som inte behövs,
+och
+3. i övrigt anpassa konfigurationer för att uppnå avsedd säkerhet.
+
+### 11 § – Säkerhetstester och granskningar
+
+Myndigheten ska säkerställa att säkerhetstester och granskningar
+
+möjliggör identifiering av sårbarheter. Myndigheten ska ha interna regler för
+hur kontroll görs av att
+1. informationssystemen är uppdaterade,
+2. valda säkerhetsåtgärder är införda på korrekt sätt, och
+3. genomförda säkerhetskonfigurationer är tillräckliga.
+
+Allmänna råd
+
+Automatiserade säkerhetstester och manuella granskningar bör kombineras vid
+kontroll av säkerheten i informationssystemen.
+
+### 12 § – Ändringshantering, uppgradering och uppdatering
+
+Myndigheten ska säkerställa att förändringar i informationssystem
+
+genomförs på ett strukturerat och spårbart sätt. Myndigheten ska ha interna
+regler för ändringshantering med krav på
+1. vilka kriterier som ska användas för att godkänna hård- och mjukvara
+innan installation eller användning,
+2. hur risker för incidenter och avvikelser i samband med förändring i
+produktionsmiljön ska identifieras och hanteras,
+3. hur mjukvara, utan onödigt dröjsmål, ska uppdateras till senaste
+version,
+4. hur utbyte eller uppgradering av hård- och mjukvara som inte längre
+uppdateras eller stöds av leverantören ska säkerställas utan onödigt
+dröjsmål, och
+5. hur risker ska hanteras när uppdatering eller uppgradering enligt punkt
+3 och 4 inte kan genomföras.
+
+Allmänna råd
+
+Säkerhetsuppdateringar bör införas skyndsamt och behovet av att automatisera
+uppdateringar bör övervägas.
+För att undvika störning vid förändring bör myndigheten genomföra tester och ta fram
+en plan för återställning innan förändringen genomförs.
+De interna reglerna bör tydliggöra hur risker för incidenter och avvikelser i samband
+med förändringar i utvecklings-, test- och utbildningsmiljö identifieras och hanteras.
+
+### 13 § – Korrekt och spårbar tid
+
+Myndigheten ska använda robust och korrekt tid spårbar till den
+
+svenska tillämpningen av koordinerad universell tid, UTC(SP), i sin
+produktionsmiljö.
+
+Allmänna råd
+
+..Myndigheten bör använda tidstjänsten Swedish Distributed Time Service på
+www.ntp.se.
+Behovet av att använda robust och korrekt tid spårbar till den svenska tillämpningen
+av koordinerad universell tid, UTC (SP) i utvecklings-, test- och utbildningsmiljö bör
+identifieras och hanteras.
+
+### 14 § – Säkerhetskopiering
+
+Myndigheten ska, för att kunna återställa information som förlorats
+
+eller förvanskats, regelbundet säkerhetskopiera sin information.
+
+Allmänna råd
+
+Myndigheten bör
+1. en gång per dygn säkerhetskopiera information som behövs för
+myndighetens förmåga att utföra sitt uppdrag, och
+2. en gång per år, eller vid större förändringar av produktionsmiljön, verifiera
+förmågan att, inom för myndigheten godtagbar tidsperiod, återställa
+information från säkerhetskopior.
+Vid bedömning av säkerhetskopieringens omfattning och intervall, bör programvara,
+konfiguration respektive information hanteras separat.
+Behovet av säkerhetskopiering och förmåga till återställning av information i
+utvecklings-, test- och utbildningsmiljö bör identifieras och hanteras.
+
+### 15 §
+
+Säkerhetskopior ska förvaras skilda från produktionsmiljön och
+
+skyddas mot skada, obehörig åtkomst och obehörig förändring.
+
+### 16 § – Säkerhetsloggning och övervakning
+
+Myndigheten ska, för att säkerställa spårbarhet i informationssystem,
+
+logga följande säkerhetsrelaterade händelser:
+1. Obehörig åtkomst och försök till obehörig åtkomst till it-miljö och
+enskilda informationssystem.
+2. Förändringar av konfigurationer och säkerhetsfunktioner som
+förutsätter priviligierade rättigheter.
+3. Förändringar av behörighet för användare och informationssystem.
+4. Åtkomst till information som bedömts ha behov av utökat skydd.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

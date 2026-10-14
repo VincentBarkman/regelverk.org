@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,81 +21,179 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Kunskaper
+### Inledning
+
+Stöd och verktyg: Lyftanordningar och lyftredskap
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-12) gäller för utrustning och arbete när personer lyfts med kranar eller truckar, som ursprungligen inte är konstruerade och tillverkade för att lyfta personer enligt det undantag som anges i [11 kap. 15 §](/lagstiftning/afs-2023-11/kap-11#15-personlyft) och som gäller [detta kapitel](/lagstiftning/afs-2023-11/kap-12). De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-12) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-12). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-12) om arbetsgivare och om arbetstagare.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-12) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-12) gäller då även dem.
+
+### 3 § – Definitioner
+
+I dessa föreskrifter har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Basmaskin</div></div></td><td><div><div>Kran eller truck som kombineras med arbetskorg för att lyfta personer.</div></div></td></tr><tr><td><div><div>Containerkorg</div></div></td><td><div><div>Arbetskorg särskilt avsedd för arbete med montering och demontering av vridlås på containrar. </div></div></td></tr><tr><td><div><div>Gruppbesiktning</div></div></td><td><div><div>Särskild besiktningsform tillämplig på en grupp utrustningar bestående av kranar, arbetskorgar och anslutningsdelar verkande inom ett fysiskt avgränsat område. Gruppbesiktningen innebär att varje utrustning genomgår individuell besiktning, och när det fastslagits att alla utrustningar i gruppen sinsemellan är kompatibla, kan de fritt användas i olika kombinationer inom gruppen, utan att genomgå ytterligare besiktning. </div></div></td></tr><tr><td><div><div>Kran</div></div></td><td><div><div>Lyftanordning som enbart är avsedd att med hjälp av ett icke styrt lastbärande organ lyfta och sänka lasten vertikalt och dessutom förflytta den horisontellt i en eller flera riktningar.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr><tr><td><div><div>Truck</div></div></td><td><div><div>Självgående arbetsutrustning avsedd att med gaffelarmar eller andra lyftaggregat med liknande funktion, lyfta, sänka och bära gods inom ett begränsat område och huvudsakligen användas på plana och hårdgjorda underlag.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
+
+Vid undersökning och riskbedömning innan ett personlyft med kran eller truck, ska arbetsgivaren särskilt uppmärksamma
+
+basmaskinens och arbetskorgens lämplighet för uppgiften,
+
+stabiliteten vid rådande mark- och väderförhållanden,
+
+arbetstagarnas praktiska och teoretiska kunskaper,
+
+aktiviteter och pågående arbete i närheten, och
+
+rörelser hos arbetskorgar och arbetsobjekt på grund av yttre faktorer.
+
+### 5 §
+
+Arbetsgivaren ska se till att kranar och truckar, som används för personlyft, uppfyller kraven i bilaga 10. Arbetskorgar som används för personlyft, ska uppfylla kraven i [2 kap.](/lagstiftning/afs-2023-11/kap-2) i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:9) om produkter – stegar, ställningar, och viss annan utrustning för arbete på höjd, samt vissa trycksatta anordningar.
+
+### 6 § – Krav vid användning
+
+Arbetsgivaren ska se till att personer får lyftas med en kran eller truck endast om det är svårt eller olämpligt att använda arbetsutrustning som är konstruerad och tillverkad för att lyfta personer.
+
+Vid tillfälliga personlyft med kranar eller truckar ska arbetsuppgifterna utföras inifrån en arbetskorg, som är utformad för ändamålet.
+
+Personer får lyftas med en truck bara vid tillfälligt och kortvarigt arbete.
+
+Personer får bara lyftas med en containerkorg i samband med montering och demontering av vridlås och annan surrning av containrar.
+
+### 7 §
+
+Arbetsgivaren ska se till att personlyft med kranar eller truckar planeras och genomförs så att ohälsa och olycksfall förebyggs.
+
+När det finns risk för att basmaskinen blir påkörd av ett annat fordon, ska åtgärder vidtas som förhindrar detta.
+
+Vid lyft av personer med en kran, får den sammanlagda vikten av korgen och lasten i korgen inte i något läge överskrida 50 procent av kranens maxlast. Vid lyft av personer med en truck, får den sammanlagda vikten av korgen och lasten i korgen inte i något läge överskrida 25 procent av truckens maxlast.
+
+### 8 §
+
+Arbetsgivaren ska se till att när personlyft sker, ska basmaskinens manöverplats vara bemannad. Basmaskinen får inte manövreras från arbetskorgen. Det ska finnas möjlighet att evakuera de berörda personerna.
+
+### 9 §
+
+Arbetsgivaren ska se till att ett arbete så långt som möjligt utförs så att basmaskinens förare hela tiden kan hålla god uppsikt över arbetskorgen. Kommunikationen mellan personen i korgen och föraren av basmaskinen ska vara säkerställd.
+
+### 10 §
+
+Arbetsgivaren ska se till att personlig fallskyddsutrustning används vid tillfälliga personlyft med en kran med tillhörande arbetskorg.
+
+### 11 §
+
+Arbetsgivaren ska se till att basmaskinen inte används för att samtidigt lyfta en eller flera personer i en arbetskorg och en last utanför korgen.
+
+Vid ett montagearbete med en kran, får man göra undantag från första stycket, förutsatt att
+
+den sammanlagda vikten av det som lyfts är högst 50 procent av kranens maxlast,
+
+arbetskorgen och de föremål som lyfts utanför den är separat upphängda i kranen, och
+
+risken för klämning är undanröjd, så långt som möjligt.
+
+### 12 §
+
+Arbetsgivaren ska se till att föraren av en basmaskin är väl förtrogen med kombinationen av en basmaskin och en arbetskorg.
+
+### 13 §
+
+Arbetsgivaren ska utse en person, som leder arbetet med ett personlyft.
+
+Arbetsgivaren ska också se till att personen i fråga har tillräckliga kunskaper och tillgång till den information som är nödvändig.
+
+En arbetsgivare som tillämpar gruppbesiktning, ska ha en aktuell förteckning över de utrustningar, som ingår i respektive grupp.
+
+### 14 § – Underhåll och kontroll
+
+Arbetsgivaren ska, innan en basmaskin med tillhörande arbetskorg används, se till att kontrollera de funktioner som är nödvändiga för att utföra ett säkert personlyft.
+
+### 15 §
+
+Arbetsgivaren ska se till att en basmaskin eller arbetskorg, som vid en kontroll har visat sig ha brister som kan äventyra säkerheten, inte används förrän bristerna har åtgärdats.
 
 ### 16 §
 
-Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg har avlagt ett teoretiskt och praktiskt prov med godkänt resultat, som visar att personen har kunskaper, som motsvarar de arbetsuppgifter som ska utföras.
+Arbetsgivaren ska se till att en arbetskorg förvaras och transporteras så att den inte riskerar att skadas.
 
-Det ska finnas dokumentation, som styrker att den som arbetar med en motorkedjesåg har avlagt ett teoretiskt och praktiskt prov för motorsågsanvändning med godkänt resultat.
+#### Besiktning
 
-Den som låter någon använda en motorkedjesåg i strid med kraven i andra stycket, ska betala en sanktionsavgift om 10 000 kronor per användare.
+### 17 § – Allmänt
 
-> _Allmänna råd_
+Arbetsgivaren ska se till att varje kombination av en basmaskin och en arbetskorg är besiktigad, enligt [21](#21-första-besiktning)–[23 §§](#23-revisionsbesiktning) och bilaga 11, för att få användas till personlyft. Kombinationen ska då ha bedömts erbjuda betryggande säkerhet, för att få användas till personlyft. Om ett kontrollorgan har angivit att bedömningen bara gäller om vissa brister åtgärdas, ska dessa brister dessutom ha rättats till.
 
-> Exempel på vad som i regel bör ingå i utbildningen för arbete med en motorkedjesåg, är kunskaper om
+Containerkranar, containerok och containerkorgar inom ett avgränsat hamnområde, kan alternativt gruppbesiktigas. I så fall ska varje ingående utrustning vara tydligt och väl synligt märkt med en unik gruppbeteckning. Vid lyft av personer, får enbart utrustningar som tillhör samma grupp användas tillsammans.
 
-> underhåll och kontroll av sågar,
+En arbetsgivare som använder en kombination av en eller flera basmaskiner och arbetskorgar i strid med kraven i första eller andra stycket, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
 
-> arbetsutrustningens egenskaper,
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta, är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta, ska sanktionsavgiften beräknas enligt följande:
 
-> lämplig personlig skyddsutrustning,
+Avgift = 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
 
-> hur utrustningen ska användas,
+Summan ska avrundas nedåt till närmaste hela hundratal.
 
-> olika typer av redskap för trädfällning och nedtagning av fastfällda träd,
+### 18 §
 
-> moment som ingår vid trädfällning och upparbetning av träd,
+En arbetsgivare, som använder en kran med en arbetskorg för tillfälliga personlyft, ska förvara intyget från den första besiktningen och det senaste intyget från den återkommande besiktningen.
 
-> teknik och metoder vid fällning av svårfällda träd,
+En arbetsgivare, som använder en truck med en arbetskorg för tillfälliga personlyft, ska förvara intyget från den första besiktningen.
 
-> metoder för nedtagning av hängande och fastfällda träd,
+En arbetsgivare, som använder en eller flera kranar eller truckar med en arbetskorg, utan att kunna visa upp det senaste besiktningsintyget, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
 
-> arbete i stormfälld skog, och
+Har en sanktionsavgift betalats enligt [17 §](#17-allmänt), ska inte någon sanktionsavgift enligt [denna paragraf](/lagstiftning/afs-2023-11) betalas.
 
-> riskbedömningar vid olika arbetssituationer.
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta, är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta, ska sanktionsavgiften beräknas enligt följande:
 
-> Det är viktigt att utbildningen också omfattar instruktioner och träningsmoment, som är anpassade till de speciella arbetsuppgifterna, så att riskerna vid användning av motorkedjesåg blir kända och olycksfall därigenom kan undvikas.
+Avgift = 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
 
-> Det är lämpligt att proven görs om vart femte år.
-
-> Dokumentationen, som visar på att den arbetstagare som använder motorkedjesåg har genomgått proven med godkänt resultat behöver inte finnas tillgänglig hos arbetstagaren. Dokumentationen ska på begäran från Arbetsmiljöverket kunna visas upp. Exempel på dokumentation som avses i [16 §](#16) andra stycket kan vara ett så kallat motorsågskörkort eller något annat utbildningsbevis.
-
-### 17 §
-
-Arbetsgivaren ska se till att den som arbetar med en röjsåg, har genomgått en utbildning för den typ av arbete som ska utföras och har kunskaper för det arbetet. Utbildningen ska ta upp de olycksrisker, som förekommer i arbetet.
-
-[6 kap.](/lagstiftning/afs-2023-11/kap-6) Användning av traktorer
-
-Stöd och verktyg: Arbeta säkert med traktorer
+Summan ska avrundas nedåt till närmaste hela hundratal.
 
 ### 19 §
 
-Arbetsgivaren ska se till att den som arbetar med en traktor
+Dokumentationen enligt [18 §](#18), eller en kopia av den, ska vara tillgänglig där utrustningen används.
 
-känner till traktorns konstruktion, dess säkerhetsanordningar och egenskaper för att kunna använda den på ett säkert sätt,
+### 20 §
 
-använder lämplig arbetsteknik för att undvika ohälsa och olycksfall, och
+Arbetsgivaren ska se till att en besiktning har utförts av ett kontrollorgan som kan uppvisa oberoende, rutiner och kompetens som motsvarar kraven enligt SS-EN ISO/IEC 17020:2012 utgåva 2, Bedömning av överensstämmelse – Krav på verksamhet inom olika typer av kontrollorgan.
 
-tar hänsyn till de risker för ohälsa och olycksfall som terrängen och väderleken kan medföra.
+Kontrollorganet ska vara anmält till Arbetsmiljöverket och ackrediterat för uppgiften enligt [Europaparlamentets och rådets förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) av den 9 juli 2008 om krav för ackreditering och upphävande av [förordning (EG) nr 339/93](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31993R0339), och [lagen (2011:791)](https://rkrattsbaser.gov.se/sfst?bet=2011%3A791) om ackreditering och teknisk kontroll, eller enligt motsvarande bestämmelser i något annat land i Europeiska unionen, Europeiska ekonomiska samarbetsområdet eller Turkiet.
 
-[7 kap.](/lagstiftning/afs-2023-11/kap-7) Användning av stegar och arbetsbockar
+### 21 § – Första besiktning
 
-Stöd och verktyg: Arbeta säkert med stegar och arbetsbockar
+Arbetsgivaren ska se till att en basmaskin och en arbetskorg tillsammans har genomgått en första besiktning, för att få användas till personlyft. Besiktningen ska omfatta
 
-### 27 §
+en kontroll av att basmaskinen uppfyller kraven i bilaga 10,
 
-Arbetsgivaren ska se till att en lyftanordning eller ett lyftredskap bara används av den, som är väl förtrogen med arbetet och har teoretiska och praktiska kunskaper för säker användning.
+en kontroll av att korgen uppfyller bestämmelserna i [2 kap.](/lagstiftning/afs-2023-11/kap-2) Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:9) om produkter – stegar, ställningar, och viss annan utrustning för arbete på höjd, samt vissa trycksatta anordningar,
 
-Kunskaperna ska omfatta aktuella arbetsmiljöregler och i relevanta delar lyftanordningens eller lyftredskapets uppbyggnad, drift, manövrering, egenskaper, användningsområde, begränsningar, underhåll och kontroll.
+en kontroll av att de även i övrigt ger betryggande säkerhet, och
 
-### 28 §
+ett funktionsprov med en provlast.
 
-Arbetsgivare, som låter en arbetstagare eller inhyrd personal använda lyftanordningar eller lyftredskap, ska ha dokumentation över personens praktiska och teoretiska kunskaper om säker användning av utrustningen. Den arbetsgivare som ansvarar för användning av lyftanordningar eller lyftredskap på ett gemensamt arbetsställe, ska ha motsvarande dokumentation tillgänglig där.
+Vid gruppbesiktning ska varje utrustning i en grupp genomgå en första besiktning. Utrustningen ska då besiktigas tillsammans med övriga delar i gruppen, så att minst en kombination av kran, anslutningsdel och arbetskorg sätts samman.
 
-Arbetsgivare får bara låta arbetstagare med skriftligt tillstånd använda en maskindriven lyftanordning. Tillståndet ska vara utfärdat av arbetsgivaren. För inhyrd arbetstagare ska tillståndet vara utfärdat av den arbetsgivare som hyr in arbetstagaren. Tillståndet ska upplysa om de typer av lyftanordningar, lyftredskap och arbetsuppgifter som omfattas.
+### 22 § – Återkommande besiktning
 
-Kraven på dokumentation och tillstånd gäller inte vid användning av hissar. (AFS 2024:4)
+Arbetsgivaren ska se till att en kran med en arbetskorg och eventuella anslutningsdelar som används till personlyft, återkommande besiktigas tillsammans, så länge de är i bruk.
+
+När gruppbesiktning tillämpas, ska varje utrustning i en grupp genomgå återkommande besiktningar. Vid en återkommande besiktning av en utrustning, ska relevanta delar av besiktningen genomföras tillsammans med övriga delar i gruppen, så att minst en kombination av kran, anslutningsdel och arbetskorg sätts samman.
+
+Återkommande besiktningar ska utföras var tolfte månad enligt bilaga 12. En återkommande besiktning ska utföras under den ordinarie besiktningsmånaden, eller inom två månader efter den ordinarie besiktningsmånaden. Ordinarie besiktningsmånad beräknas enligt bestämmelserna i [13 kap. 10 §](/lagstiftning/afs-2023-11/kap-13#10-ordinarie-besiktningsmånad).
+
+### 23 § – Revisionsbesiktning
+
+Arbetsgivaren ska se till att en basmaskin, arbetskorg eller anslutningsdel som har reparerats, ändrats, byggts om eller som befaras ha skador, på ett sätt som har betydelse för säkerheten, revisionsbesiktigas innan den används till tillfälliga personlyft.
 <!-- scan-laws:end -->
 
 ## Tolkning

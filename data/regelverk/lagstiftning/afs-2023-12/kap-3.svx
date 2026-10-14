@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/'
@@ -21,14 +21,22 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Lokalutformning
+### Inledning
 
-### 2 §
+Stöd och verktyg: Arbetsplatsens utformning ska främja en god arbetsmiljö
+
+### 1 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-12/kap-3) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Lastkaj</div></div></td><td><div><div>Plattform för att underlätta lastning och lossning.</div></div></td></tr><tr><td><div><div>Ställage</div></div></td><td><div><div>Lagerställ på vilket material lagras.</div></div></td></tr><tr><td><div><div>Tvättplats</div></div></td><td><div><div>Sammanfattande beteckning för dusch, tvättställ eller tvättränna med rinnande varmt och kallt vatten.</div></div></td></tr><tr><td><div><div>Varumottag</div></div></td><td><div><div>Anläggning eller avgränsad yta för lastning och lossning av gods.</div></div></td></tr></tbody></table>
+
+### 2 § – Lokalutformning
 
 Arbetsplatser ska ha de lokaler och andra utrymmen som behövs med hänsyn till verksamheten, så att risken för ohälsa och olycksfall begränsas.
 
 > _Allmänna råd_
-
+>
 > Exempel på utrymmen som kan behövas är tysta rum, utrymmen för fastighetsskötsel och service samt till exempel sköljrum inom vården.
 
 ### 3 §
@@ -52,19 +60,19 @@ tillfälliga utrymningsplatser ha tvåvägs kommunikationssystem, och
 minst en toalett på varje våningsplan vara tillgänglig.
 
 > _Allmänna råd_
-
+>
 > Dimensionerande vändmått för en mindre utomhusrullstol är en cirkel med diametern 1,50 meter. Det fria passagemåttet i dörrar för en sådan rullstol behöver vara minst 0,80 meter när dörren är uppställd i 90º.
-
+>
 > Exempel på hur utrymningsplatser kan utformas finns i Boverkets byggregler (BBR).
-
-> I allmänna råd till [58 §](/lagstiftning/afs-2023-12/kap-4#58) finns information om hur en tillgänglig toalett bör utformas.
+>
+> I allmänna råd till [58 §](#58) finns information om hur en tillgänglig toalett bör utformas.
 
 ### 5 §
 
 Arbetsplatser ska ha en, med hänsyn till verksamheten, tillräcklig area och fri höjd, så att risken för ohälsa och olycksfall begränsas. Arbetsplatser ska vara lämpligt placerade, utformade och inredda. Placeringen av arbetsplatsens olika delar ska vara sådan att sambanden blir tydliga och funktionella.
 
 > _Allmänna råd_
-
+>
 > Rumshöjden bör vara minst 2,40 meter. I begränsade delar av arbetslokalen kan denna rumshöjd underskridas. I sådana delar av arbetslokalen där ståhöjd behövs bör rumshöjden inte vara lägre än 2,10 meter under horisontella delar av tak eller 1,90 meter under snedtak. Rumshöjden i undervisningslokaler, eller andra lokaler avsedda för ett större antal personer, bör vara lägst 2,70 meter. Om täta förflyttningar eller transporter kan förutses mellan olika lokaler bör lokalerna samlas för att ge en enkel invändig förbindelse.
 
 ### 6 §
@@ -76,9 +84,9 @@ Vid arbete där arbetstagaren måste utföra arbetsmoment som innebär kraftutö
 När hjälpmedel och arbetsutrustning eller annan teknisk utrustning används, behövs dessutom ett fritt utrymme för att hantera och manövrera dessa.
 
 > _Allmänna råd_
-
+>
 > För att uppfylla första stycket kan det ibland behövas ett större arbetsutrymme än det minimimått som anges i andra stycket. Särskilda förhållanden kan vara tillfälliga eller kortare arbetsuppgifter, till exempel servicearbeten i trånga utrymmen.
-
+>
 > Exempel på arbeten där arbetsutrymme enligt andra stycket kan behövas är vård och omsorg, städning, fastighetsservice, leveranser och handel.
 
 ### 7 §
@@ -86,7 +94,7 @@ När hjälpmedel och arbetsutrustning eller annan teknisk utrustning används, b
 Arbeten eller processer som medför en särskild risk för ohälsa eller olycksfall ska normalt utföras i en särskild lokal som är avskild från övriga lokaler.
 
 > _Allmänna råd_
-
+>
 > Sådana arbeten eller processer är till exempel de som ger hög ljudnivå, utsläpp av luftföroreningar eller som kan medföra särskild risk för brand eller explosion. Fläktaggregat, batterier under laddning, diskmaskiner och kopieringsmaskiner kan behöva placeras i en särskild lokal. Även vård av smittade bör ske i en särskild lokal.
 
 ### 8 §
@@ -98,9 +106,9 @@ Arbetsplatser ska vara placerade och utformade så att inredning, installationer
 Förbindelseleder ska vara utformade och dimensionerade så att arbetstagarna kan förflytta sig utan risk för olycksfall eller ohälsa. Om det finns risk för sammanstötning eller om fasta arbetsplatser ligger i anslutning till en förbindelseled för fordons- och trucktrafik ska det finnas ett tillräckligt säkerhetsavstånd eller en avskiljande barriär.
 
 > _Allmänna råd_
-
+>
 > Att kunna förflytta sig utan risk för olycksfall eller ohälsa, innebär både att kunna förflytta sig utan risk för skador och att kunna orientera sig på ett enkelt sätt. Vad som krävs för att kunna orientera sig på ett enkelt sätt kan variera beroende på arbetstagarnas kognitiva funktionsförmåga.
-
+>
 > Vid dörrar, portar eller andra öppningar kan en avskiljande barriär vara räcken eller annan form av avvisare.
 
 ### 10 §
@@ -114,7 +122,7 @@ Förbindelseleder för tyngre eller otympliga transporter ska vara utformade så
 Det ska vara möjligt att vid behov tillfälligt ställa upp dörrar i förbindelseleder vid leveranser. Den möjligheten får inte medföra en risk för spridning av brand.
 
 > _Allmänna råd_
-
+>
 > Rullande hantering kan vara ett sätt att undvika tung manuell hantering. Både lutning och underlag påverkar vad som är en lämplig utformning för rullande hantering.
 
 ### 12 §
@@ -124,9 +132,9 @@ Ramper ska ha en lutning och utformning som är anpassad efter användningsområ
 En ramp som ska kunna användas självständigt av en arbetstagare som använder rullstol får inte ha brantare lutning än 1:12.
 
 > _Allmänna råd_
-
+>
 > Att rampens utformning är anpassad efter användningsområdet kan innebära att den behöver ha avåkningsskydd. Vid en bedömning av en lämplig utformning av ramper för rullande hantering av gods är det viktigt att ta hänsyn till de belastningsergonomiska förhållandena. Vid användning av truck i lutning är det viktigt att följa trucktillverkarens anvisningar.
-
+>
 > En ramp för en arbetstagare som använder rullstol bör inte ha en brantare lutning än 1:20 för att öka tillgängligheten och ytterligare höja säkerheten mot fall. Höjdskillnaden mellan vilplan bör vara högst 0,5 meter.
 
 ### 13 §
@@ -150,7 +158,7 @@ Golv ska vara fasta och stabila, ha en för verksamheten lämplig svikt, utforma
 På arbetsplatser där statisk elektricitet kan innebära en risk ska golvmaterial, inredning och utrustning väljas så att elektrisk uppladdning motverkas, om inte andra åtgärder vidtas för att motverka detta.
 
 > _Allmänna råd_
-
+>
 > Andra åtgärder kan vara förhöjd luftfuktighet eller val av kläder och skor som inte genererar statisk elektricitet.
 
 ### 18 § – Fönster, glaspartier, dörrar och portar
@@ -162,7 +170,7 @@ På arbetsplatser där statisk elektricitet kan innebära en risk ska golvmateri
 Fönster och glaspartier ska vara utformade så att de inte brister vid den belastning de kan förväntas utsättas för.
 
 > _Allmänna råd_
-
+>
 > Exempel på en sådan belastning är skolbarn som sitter i fönsternischer och taklanterniner som kan komma att beträdas.
 
 ### 20 §
@@ -190,7 +198,7 @@ Maskindrivna och manuella dörrar och portar ska vara placerade och utformade s�
 Antalet trappor och deras utformning ska anpassas efter antal användare och arbetets art. Trappor ska vara säkra att använda. De ska normalt ha ledstänger och vara utförda så att halkrisken minimeras.
 
 > _Allmänna råd_
-
+>
 > För att en trappa ska vara säker att använda bör minsta stegdjup normalt vara 0,25 meter och största steghöjd 0,18 meter. Trappan bör ha kontrastmarkeringar samt ha ledstänger på en höjd av 0,9 meter, mätt vid stegnosen.
 
 ### 26 §
@@ -206,7 +214,7 @@ För tillträde till plattformar, serviceutrymmen och liknande utrymmen, som anv
 Inredning och utrustning ska väljas, utformas och placeras med hänsyn till arbetstagarnas olika förutsättningar och de krav som arbetsuppgifterna ställer. Inredning och utrustning ska kunna användas utan risk för ohälsa och olycksfall. Den som i huvudsak arbetar stående, eller gående, ska ha möjlighet att sätta sig.
 
 > _Allmänna råd_
-
+>
 > Exempel på inredning utformad med hänsyn till arbetstagarnas olika förutsättningar är inredning och utrustning anpassade för både barn och vuxna i skolor, förskoleklasser och liknande.
 
 ### 29 §
@@ -218,7 +226,7 @@ Ett ställage som är avsett för varierande laster ska vara beständigt märkt 
 Ett ställage ska vara förankrat om det finns risk för instabilitet. Där det finns risk att köra på ställaget ska det finnas påkörningsskydd.
 
 > _Allmänna råd_
-
+>
 > Exempel på när det finns risk för instabilitet är om ställagets totalhöjd är fyra gånger högre än ställagets djup, om det har utdragsenheter eller inte är ordentligt förankrat.
 
 ### 31 §
@@ -236,7 +244,7 @@ En verksamhet med lastning och lossning av en stor mängd gods ska normalt ha et
 Om varumottaget har angöringsplatser för fordon ska angöringsplatserna vara placerade och utformade så att sammanstötningar mellan fordon och mellan fordon och gående förhindras.
 
 > _Allmänna råd_
-
+>
 > Utformningen av angöringsplatser bör vara sådan att det fria utrymmet för gående, mellan fordon, är minst 0,7 meter, räknat från fordonets mest utstickande del. För att minska risken för att överhäng går in på angränsande område, bör det finnas tillräckligt stort manöverutrymme framför angöringsplatserna. Om det inte går att ordna tillräckligt stora utrymmen kan sammanstötningar förebyggas med organisatoriska åtgärder.
 
 ### 34 §
@@ -244,7 +252,7 @@ Om varumottaget har angöringsplatser för fordon ska angöringsplatserna vara p
 Lastkajer ska ha minst en tillträdesled från marken, normalt en trappa.
 
 > _Allmänna råd_
-
+>
 > Vid längre lastkajer kan det av säkerhetsskäl behövas flera trappor.
 
 ### 35 §
@@ -256,8 +264,212 @@ Varumottag utomhus, som används mer än tillfälligt, ska normalt ha tak som sk
 Det ska finnas tillgång till dricksvatten i nära anslutning till den plats där arbete utförs och till matutrymmen.
 
 > _Allmänna råd_
-
+>
 > Tillgång till dricksvatten kan även ordnas med dunkar eller flaskor.
+
+### Kompletterande krav för personalutrymmen
+
+Stöd och verktyg: Personalutrymmen
+
+### 37 § – Allmänt
+
+För personalutrymmen preciserar och kompletterar [38](#38)–[65 §§](#65) de krav som i övrigt gäller för arbetsplatser enligt dessa föreskrifter.
+
+### 38 §
+
+Antalet personalutrymmen, samt deras placering, storlek och inredning ska vara anpassat till arbetets art och varaktighet, det antal arbetstagare som normalt kan beräknas använda utrymmena samtidigt, och arbetstagarnas funktionsförmåga.
+
+Personalutrymmen ska vara lättåtkomliga.
+
+> _Allmänna råd_
+>
+> Personalutrymmen kan också finnas utomhus. Detta gäller speciellt skolelever. Allmänna råd (2015:1) om friyta för lek och utevistelse vid fritidshem, förskolor, skolor eller liknande verksamhet ges ut av Boverket.
+
+### 39 §
+
+Ett personalutrymme får inte användas för verksamhet eller förvaring som försämrar användbarheten som personalutrymme.
+
+### 40 § – Förvaringsutrymmen
+
+Det ska finnas utrymmen för förvaring av privata kläder. Kläderna ska kunna förvaras så att de inte smutsas ned eller skadas, och så att risken för stöld motverkas. Utrymmena ska räcka till för alla arbetstagare som samtidigt behöver använda dem. Om privata kläder förvaras i omklädningsrum ska de gå att låsa in.
+
+> _Allmänna råd_
+>
+> Risken för stöld kan motverkas genom att förvaringsutrymmen har eller kan förses med lås.
+
+### 41 §
+
+Det ska finnas utrymmen för personliga värdesaker. De ska ha eller kunna förses med lås.
+
+### 42 §
+
+I de fall som omklädning mellan privata kläder och arbetskläder måste ske på arbetsplatsen, ska det finnas utrymmen enligt [40 §](#40-förvaringsutrymmen) i anslutning till den plats där omklädningen sker.
+
+### 43 §
+
+Om arbetet är smutsande eller svettdrivande eller det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs från arbetskläder eller skyddskläder ska de privata kläderna kunna förvaras så att smuts inte överförs från arbetskläder eller skyddskläder till privata kläder.
+
+> _Allmänna råd_
+>
+> Nedsmutsning kan motverkas genom att kläderna förvaras separat.
+>
+> Exempel på arbeten där privata kläder kan behöva förvaras skilda från arbetskläder eller skyddskläder är djurhållning och arbete vid avloppsreningsverk.
+
+### 44 §
+
+Vid arbete där skyddskläder används ska det finnas ett lämpligt utrymme för förvaring av dessa.
+
+### 45 §
+
+Det ska finnas möjlighet att torka arbetskläder, skyddskläder och skodon som blir våta under arbetet eller som rengjorts på grund av nedsmutsning i arbetet.
+
+### 46 § – Omklädningsrum
+
+Arbetstagare ska ha tillgång till omklädningsrum eller något annat lämpligt utrymme för omklädning på arbetsplatsen om de utför smutsande eller svettdrivande arbete eller måste bära särskilda arbetskläder.
+
+> _Allmänna råd_
+>
+> Exempel på ett annat lämpligt utrymme för omklädning kan vara en rymlig toalett eller ett annat avskiljbart utrymme.
+
+### 47 §
+
+I omklädningsrum ska det finnas tillräcklig plats för ombyte för de arbetstagare som hänvisas dit samtidigt. Det ska finnas sittplatser för så många personer som normalt behöver sitta samtidigt.
+
+### 48 §
+
+Omklädningsrum ska normalt vara skilda för män och kvinnor om de behöver använda dem samtidigt.
+
+### 49 §
+
+Om det behövs ska det finnas olika omklädningsrum för byte till och från privata kläder, respektive till och från arbetskläder eller skyddskläder.
+
+> _Allmänna råd_
+>
+> Exempel på när det kan behövas olika omklädningsrum är när det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs vid byte av kläder. Ibland kan dusch mellan rummen behövas.
+
+### 50 § – Tvättplatser
+
+I personalutrymmen ska det finnas tillräckligt många och lämpligt utformade tvättplatser.
+
+### 51 §
+
+Om arbetet är svettdrivande eller smutsande, ska det normalt finnas dusch.
+
+> _Allmänna råd_
+>
+> Om arbetet bara smutsar ned en begränsad del av kroppen, kan det ibland räcka med en annan tvättplats.
+
+### 52 §
+
+Det ska alltid finnas tillgång till dusch om arbetet medför risk för smitta eller utförs med starkt luktande ämnen, allergena ämnen eller andra hälsofarliga ämnen.
+
+Duschen ska ligga i ett särskilt tvättrum i anslutning till omklädningsrummen.
+
+> _Allmänna råd_
+>
+> Exempel på ett sådant arbete är arbete med mjöl, försöksdjur eller vissa bekämpningsmedel och arbeten i återvinningsanläggningar.
+
+### 53 §
+
+Duschar ska vara skilda för män och kvinnor, om de behöver använda duscharna samtidigt. Tvättplatser ska vara åtskilda för män och kvinnor om det behövs för arbetstagarnas personliga integritet.
+
+> _Allmänna råd_
+>
+> När det finns flera duschar bör behovet av avskilda duschplatser ses över. En avskärmad duschplats bör vara försedd med ett eget omklädningsutrymme.
+
+### 54 §
+
+Dusch- och tvättutrymmen ska normalt ligga i anslutning till omklädningsrum.
+
+### 55 §
+
+När det behövs ska det finnas utrustning för att spola av kläder eller skodon som blivit smutsiga i arbetet.
+
+### 56 § – Toaletter
+
+Det ska finnas tillräckligt många toaletter och tvättställ. De ska normalt ligga i närheten av platsen där arbete utförs, pausutrymmen, omklädningsrum samt duschutrymmen och tvättutrymmen.
+
+> _Allmänna råd_
+>
+> Det är i allmänhet nödvändigt med en toalett per påbörjat 15-tal arbetstagare. Exempel på när tvättställ behöver ligga i anslutning till arbetsplatser är vid arbete där smittrisk förekommer, kemiska processer, laddning av batterier och arbete inom förskola och annan omsorgsverksamhet. Om arbetet medför smittrisk bör det finnas desinfektionsmedel för huden.
+
+### 57 §
+
+Toalettrum ska vara tillräckligt stora, vara avskilda, ha låsbar dörr och inte ha direkt förbindelse med matutrymme.
+
+I toalettrummet, eller i anslutning till detta, ska det finnas ett tvättställ eller en tvättränna.
+
+### 58 §
+
+På befintliga arbetsplatser ska det finnas toaletter som är tillgängliga för alla som behöver använda dem.
+
+> _Allmänna råd_
+>
+> För att vara tillgänglig bör en toalett vara minst 2,2 x 2,2 meter. Större area kan behövas för assisterande arbetstagare och eventuella hjälpmedel, arbetsutrustning eller annan teknisk utrustning. Toaletten bör ha ett larm som går till en plats där det säkert kan uppmärksammas. Den bör ha kontrastmarkeringar samt en inredning och utrustning som är lämpligt utformad och placerad.
+
+### 59 §
+
+Om det finns larm från toaletter ska arbetsgivaren se till att larmet kontrolleras regelbundet.
+
+### 60 § – Matutrymme
+
+Arbetstagare ska kunna äta under tillfredsställande förhållanden. Det gäller även de som äter medhavd mat. Det ska ske i lämpliga utrymmen med bord och stolar med ryggstöd.
+
+> _Allmänna råd_
+>
+> Exempel på lämpliga utrymmen är en restaurang eller ett matrum, men kan också vara ett avskilt matutrymme i arbetslokalen.
+
+### 61 §
+
+Nära platsen där man äter medhavd mat ska det finnas kylskåp, möjlighet att värma maten och möjlighet att diska.
+
+### 62 § – Pausutrymme
+
+Arbetstagare ska kunna tillbringa pauser och eventuella väntetider i arbetet på en plats där de har möjlighet till kortare återhämtning. Det ska finnas tillräckligt många sittplatser med ryggstöd.
+
+### 63 § – Vilutrymme
+
+På arbetsplatser ska det finnas, eller gå snabbt att ställa i ordning, ett lämpligt vilutrymme för tillfällig, ostörd och liggande vila.
+
+> _Allmänna råd_
+>
+> Exempel på när vilutrymmet kan behöva vara utfört som ett särskilt vilrum är när fler än 50 personer samtidigt sysselsätts inom samma område. I närheten av vilutrymmet bör det finnas en toalett.
+
+### 64 § – Jourrum
+
+För den arbetstagare som har jourtjänst ska det finnas ett ostört jourrum med en storlek och inredning så att arbetstagaren får tillräcklig vila. Rummet ska ligga så nära huvudarbetsplatsen för jourtjänsten som det är praktiskt möjligt. Det ska vara utformat som ett enkelrum.
+
+> _Allmänna råd_
+>
+> Jourrum ska finnas när jour i arbetstidslagens (1982:673) mening förekommer. Bestämmelser om att det ska finnas utrymmen för vila, även där arbetsgivaren inte råder över arbetsplatsen, finns i arbetsmiljölagen.
+
+### 65 §
+
+I närheten av jourrum ska det finnas möjlighet att värma och äta mat. Toalett och dusch ska finnas nära jourrummet.
+
+### 66 § – Kompletterande krav för arbete utomhus
+
+Den mark som omger en verksamhets byggnader ska, så långt det är möjligt, vara utformad så att transporter, markskötsel, fasadarbeten och liknande kan utföras med betryggande säkerhet mot ohälsa och olycksfall.
+
+> _Allmänna råd_
+>
+> Fönsterputsning och avfallshantering är exempel på verksamheter för vilka hänsyn behöver tas vid utformningen av mark i anslutning till byggnader.
+
+### 67 §
+
+Fasta arbetsplatser utomhus ska vara utformade så att arbetstagare skyddas mot väder och vind. Tillfälliga arbetsplatser ska, så långt som möjligt, vara utformade så att de arbetande skyddas mot väder och vind.
+
+> _Allmänna råd_
+>
+> Exempel på skydd mot väder och vind är solavskärmning. På skolgårdar, och i liknande miljöer, bör det finnas tillräckligt stora områden med skugga.
+
+### 68 §
+
+Arbetsplatser utomhus ska vara utformade så att halkrisken är liten. Där det behövs ska ytskikten motverka att man halkar. De ska ha en lämplig lutning, så att vatten kan rinna av när så behövs.
+
+### 69 § – Underhåll och städning
+
+Arbetsgivaren ska se till att arbetsplatser underhålls och rengörs enligt rutiner som är anpassade efter verksamheten på arbetsplatsen, arbetstagarnas förutsättningar, och arbetsplatsens utformning.
 <!-- scan-laws:end -->
 
 ## Tolkning

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.msb.se/siteassets/dokument/regler/forfattningar/msbfs-2020-7-foreskrifter-om-sakerhetsatgarder-i-informationssystem-for-statliga-myndigheter.pdf'
@@ -120,7 +120,7 @@ Om en annan författning innehåller en bestämmelse som ställer högre
 > _Allmänna råd_
 
 > krav än kraven i dessa föreskrifter tillämpas den bestämmelsen.
-
+>
 > Begreppsförklaring
 
 Myndigheten ska bedriva omvärldsbevakning för att underlätta
@@ -179,7 +179,7 @@ I dessa föreskrifter avses med
 > komponenter som hanterar information. I
 > begreppet ingår också nätverk och
 > infrastruktur.
-
+>
 > ___________________________________________________________________________
 > Förordningen senast ändrad genom SFS 2020:25.
 > Allmänna råd har en annan juridisk status än föreskrifter. De är inte tvingande. Deras funktion är
@@ -209,6 +209,8 @@ intrångsskydd eller skydd mot skadlig kod.
 
 säkerhetsloggning             Elektronisk registrering av
 säkerhetsrelaterade händelser.
+
+> _Allmänna råd_
 
 > Grundläggande bestämmelser
 
@@ -345,222 +347,6 @@ Myndigheten ska använda Domain Name System Security
 
 Extensions (DNSSEC) avseende samtliga domännamn som myndigheten
 registrerat i domännamnssystemet (DNS).
-
-### 9 §
-
-Myndigheten ska ha interna regler för kryptering med krav på
-
-1\. hantering av krypteringsnycklar,
-2. godkännande och förvaltning av krypteringslösningar, och
-3. hur krypteringsalgoritmer, krypteringsprotokoll och nyckellängder ska
-väljas.
-
-### 10 § – Säkerhetskonfigurering
-
-Myndigheten ska, för att skydda informationssystem mot obehörig
-
-åtkomst,
-1. byta ut förinställda autentiseringsuppgifter,
-2. stänga av, ta bort eller blockera systemfunktioner som inte behövs,
-och
-3. i övrigt anpassa konfigurationer för att uppnå avsedd säkerhet.
-
-### 11 § – Säkerhetstester och granskningar
-
-Myndigheten ska säkerställa att säkerhetstester och granskningar
-
-möjliggör identifiering av sårbarheter. Myndigheten ska ha interna regler för
-hur kontroll görs av att
-1. informationssystemen är uppdaterade,
-2. valda säkerhetsåtgärder är införda på korrekt sätt, och
-3. genomförda säkerhetskonfigurationer är tillräckliga.
-
-Allmänna råd
-
-Automatiserade säkerhetstester och manuella granskningar bör kombineras vid
-kontroll av säkerheten i informationssystemen.
-
-### 12 § – Ändringshantering, uppgradering och uppdatering
-
-Myndigheten ska säkerställa att förändringar i informationssystem
-
-genomförs på ett strukturerat och spårbart sätt. Myndigheten ska ha interna
-regler för ändringshantering med krav på
-1. vilka kriterier som ska användas för att godkänna hård- och mjukvara
-innan installation eller användning,
-2. hur risker för incidenter och avvikelser i samband med förändring i
-produktionsmiljön ska identifieras och hanteras,
-3. hur mjukvara, utan onödigt dröjsmål, ska uppdateras till senaste
-version,
-4. hur utbyte eller uppgradering av hård- och mjukvara som inte längre
-uppdateras eller stöds av leverantören ska säkerställas utan onödigt
-dröjsmål, och
-5. hur risker ska hanteras när uppdatering eller uppgradering enligt punkt
-3 och 4 inte kan genomföras.
-
-Allmänna råd
-
-Säkerhetsuppdateringar bör införas skyndsamt och behovet av att automatisera
-uppdateringar bör övervägas.
-För att undvika störning vid förändring bör myndigheten genomföra tester och ta fram
-en plan för återställning innan förändringen genomförs.
-De interna reglerna bör tydliggöra hur risker för incidenter och avvikelser i samband
-med förändringar i utvecklings-, test- och utbildningsmiljö identifieras och hanteras.
-
-### 13 § – Korrekt och spårbar tid
-
-Myndigheten ska använda robust och korrekt tid spårbar till den
-
-svenska tillämpningen av koordinerad universell tid, UTC(SP), i sin
-produktionsmiljö.
-
-Allmänna råd
-
-..Myndigheten bör använda tidstjänsten Swedish Distributed Time Service på
-www.ntp.se.
-Behovet av att använda robust och korrekt tid spårbar till den svenska tillämpningen
-av koordinerad universell tid, UTC (SP) i utvecklings-, test- och utbildningsmiljö bör
-identifieras och hanteras.
-
-### 14 § – Säkerhetskopiering
-
-Myndigheten ska, för att kunna återställa information som förlorats
-
-eller förvanskats, regelbundet säkerhetskopiera sin information.
-
-Allmänna råd
-
-Myndigheten bör
-1. en gång per dygn säkerhetskopiera information som behövs för
-myndighetens förmåga att utföra sitt uppdrag, och
-2. en gång per år, eller vid större förändringar av produktionsmiljön, verifiera
-förmågan att, inom för myndigheten godtagbar tidsperiod, återställa
-information från säkerhetskopior.
-Vid bedömning av säkerhetskopieringens omfattning och intervall, bör programvara,
-konfiguration respektive information hanteras separat.
-Behovet av säkerhetskopiering och förmåga till återställning av information i
-utvecklings-, test- och utbildningsmiljö bör identifieras och hanteras.
-
-### 15 §
-
-Säkerhetskopior ska förvaras skilda från produktionsmiljön och
-
-skyddas mot skada, obehörig åtkomst och obehörig förändring.
-
-### 16 § – Säkerhetsloggning och övervakning
-
-Myndigheten ska, för att säkerställa spårbarhet i informationssystem,
-
-logga följande säkerhetsrelaterade händelser:
-1. Obehörig åtkomst och försök till obehörig åtkomst till it-miljö och
-enskilda informationssystem.
-2. Förändringar av konfigurationer och säkerhetsfunktioner som
-förutsätter priviligierade rättigheter.
-3. Förändringar av behörighet för användare och informationssystem.
-4. Åtkomst till information som bedömts ha behov av utökat skydd.
-
-### 17 §
-
-Myndigheten ska analysera innehållet i säkerhetsloggarna för att
-
-upptäcka och hantera incidenter och avvikelser. Säkerhetsloggarna ska
-1. möjliggöra utredning av intrång, tekniska fel och brister i säkerheten,
-2. utformas på ett sätt som möjliggör jämförbarhet mellan olika loggar,
-och
-3. vara tillgängliga för analys under fastställd bevarandetid.
-Myndigheten ska dokumentera hur säkerhetsloggarna ska användas samt var
-loggningsuppgifter hämtas och lagras, hur de skyddas och hur länge de ska
-bevaras.
-
-Allmänna råd
-
-En säkerhetslogg bör innehålla uppgift om vem eller vad som agerat, vad som har
-skett och vid vilken tidpunkt.
-För att skapa jämförbarhet bör myndigheten använda myndighetens tidstjänst för
-samtliga säkerhetsloggar.
-Säkerhetsloggar bör samlas i ett för ändamålet avsett informationssystem.
-
-### 18 §
-
-Myndigheten ska identifiera och hantera behovet av
-
-intrångsdetektering och intrångsskydd.
-
-Allmänna råd
-
-Behovet av intrångsdetektering och intrångsskydd bör bedömas för enskilda
-informationssystem och för myndighetens produktionsmiljö i sin helhet. Behovet bör
-även bedömas för myndighetens utvecklings- test- och utbildningsmiljö.
-
-### 19 §
-
-Myndigheten ska identifiera och hantera behovet av
-
-realtidsövervakning av informationssystem.
-
-(realtidsövervakning), [21 §](#21-skydd-av-utrustning) (skydd av utrustning), och 5 kapitlet [1 §](#1) ska
-
-vara införda senast den 1 oktober 2021.
-
-Myndigheten för samhällsskydd och beredskap
-
-DAN ELIASSON
-
-> _Allmänna råd_
-
-> Helena Andersson
-> (Avdelningen för cybersäkerhet och
-> säker kommunikation)
-
-Beställningsadress:
-Norstedts Juridik, 106 47 Stockholm
-Telefon: 08-598 191 90
-E-post: kundservice@nj.se
-Webbadress: www.nj.se/offentligapublikationer
-Beställningsnummer: 19120-07
-
-### 20 § – Skydd mot skadlig kod
-
-Myndigheten ska använda mjukvara som ger skydd mot skadlig kod.
-
-För informationssystem där sådan mjukvara inte finns tillgänglig ska andra
-åtgärder vidtas som ger motsvarande skydd.
-
-### 21 § – Skydd av utrustning
-
-Myndigheten ska skydda den utrustning som informationssystem
-
-består av mot skador och obehörig åtkomst, genom att
-1. placera centrala servrar och central nätverksutrustning i särskilda it-
-utrymmen,
-2. tilldela behörighet till särskilda it-utrymmen restriktivt,
-3. identifiera och hantera behovet av övervakning och larm i särskilda it-
-utrymmen,
-4. registrera tillträde till särskilda it-utrymmen på individnivå och spara
-dokumentationen under fastställd bevarandetid, och
-5. ha interna regler för hur mobil utrustning ska skyddas.
-
-### 22 § – Redundans och återställning
-
-Myndigheten ska, för att säkerställa tillgänglighet till information
-
-och informationssystem vid incidenter och avvikelser,
-1. ha interna regler för återställning av produktionsmiljön i sin helhet och
-för enskilda informationssystem,
-2. öva återställning av informationssystem som är centrala för
-myndighetens förmåga att utföra sitt uppdrag, och
-3. placera centrala servrar och central nätverksutrustning som skapar
-redundant funktion i olika särskilda it-utrymmen.
-
-Allmänna råd
-
-Övning av återställning bör ske regelbundet och utifrån identifierat behov av
-tillgänglighet.
-
-> _Allmänna råd_
-
-> För myndigheter med ett särskilt ansvar för
-> krisberedskapen
 <!-- scan-laws:end -->
 
 ## Tolkning

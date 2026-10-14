@@ -1,9 +1,9 @@
-# nis2 [en] scraped 2026-10-12
-# source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555
+# nis2 [en] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03
 
 # kap-1 | Chapter I | GENERAL PROVISIONS | cpt_I
 
-## Artikel 1 | Subject matter | art_1
+## Article 1 | Subject matter | art_1
 1. This Directive lays down measures that aim to achieve a high common level of cybersecurity across the Union, with a view to improving the functioning of the internal market.
 
 2. To that end, this Directive lays down:
@@ -24,7 +24,7 @@ rules and obligations on cybersecurity information sharing;
 
 supervisory and enforcement obligations on Member States.
 
-## Artikel 2 | Scope | art_2
+## Article 2 | Scope | art_2
 1. This Directive applies to public or private entities of a type referred to in Annex I or II which qualify as medium-sized enterprises under Article 2 of the Annex to Recommendation 2003/361/EC, or exceed the ceilings for medium-sized enterprises provided for in paragraph 1 of that Article, and which provide their services or carry out their activities within the Union.
 
 Article 3(4) of the Annex to that Recommendation shall not apply for the purposes of this Directive.
@@ -109,7 +109,7 @@ education institutions, in particular where they carry out critical research act
 
 The processing of personal data pursuant to this Directive by providers of public electronic communications networks or providers of publicly available electronic communications services shall be carried out in accordance with Union data protection law and Union privacy law, in particular Directive 2002/58/EC.
 
-## Artikel 3 | Essential and important entities | art_3
+## Article 3 | Essential and important entities | art_3
 1. For the purposes of this Directive, the following entities shall be considered to be essential entities:
 
 (a)
@@ -180,7 +180,7 @@ the Commission of relevant information about the number of essential and importa
 
 6. Until 17 April 2025 and upon request of the Commission, Member States may notify the Commission of the names of the essential and important entities referred to in paragraph 5, point (b).
 
-## Artikel 4 | Sector-specific Union legal acts | art_4
+## Article 4 | Sector-specific Union legal acts | art_4
 1. Where sector-specific Union legal acts require essential or important entities to adopt cybersecurity risk-management measures or to notify significant incidents and where those requirements are at least equivalent in effect to the obligations laid down in this Directive, the relevant provisions of this Directive, including the provisions on supervision and enforcement laid down in Chapter VII, shall not apply to such entities. Where sector-specific Union legal acts do not cover all entities in a specific sector falling within the scope of this Directive, the relevant provisions of this Directive shall continue to apply to the entities not covered by those sector-specific Union legal acts.
 
 2. The requirements referred to in paragraph 1 of this Article shall be considered to be equivalent in effect to the obligations laid down in this Directive where:
@@ -195,10 +195,10 @@ the sector-specific Union legal act provides for immediate access, where appropr
 
 3. The Commission shall, by 17 July 2023, provide guidelines clarifying the application of paragraphs 1 and 2. The Commission shall review those guidelines on a regular basis. When preparing those guidelines, the Commission shall take into account any observations of the Cooperation Group and ENISA.
 
-## Artikel 5 | Minimum harmonisation | art_5
+## Article 5 | Minimum harmonisation | art_5
 This Directive shall not preclude Member States from adopting or maintaining provisions ensuring a higher level of cybersecurity, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
 
-## Artikel 6 | Definitions | art_6
+## Article 6 | Definitions | art_6
 For the purposes of this Directive, the following definitions apply:
 
 (1)
@@ -403,7 +403,7 @@ it has the power to address to natural or legal persons administrative or regula
 
 # kap-2 | Chapter II | COORDINATED CYBERSECURITY FRAMEWORKS | cpt_II
 
-## Artikel 7 | National cybersecurity strategy | art_7
+## Article 7 | National cybersecurity strategy | art_7
 1. Each Member State shall adopt a national cybersecurity strategy that provides for the strategic objectives, the resources required to achieve those objectives, and appropriate policy and regulatory measures, with a view to achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall include:
 
 (a)
@@ -484,7 +484,7 @@ promoting active cyber protection.
 
 4. Member States shall assess their national cybersecurity strategies on a regular basis and at least every five years on the basis of key performance indicators and, where necessary, update them. ENISA shall assist Member States, upon their request, in the development or the update of a national cybersecurity strategy and of key performance indicators for the assessment of that strategy, in order to align it with the requirements and obligations laid down in this Directive.
 
-## Artikel 8 | Competent authorities and single points of contact | art_8
+## Article 8 | Competent authorities and single points of contact | art_8
 1. Each Member State shall designate or establish one or more competent authorities responsible for cybersecurity and for the supervisory tasks referred to in Chapter VII (competent authorities).
 
 2. The competent authorities referred to in paragraph 1 shall monitor the implementation of this Directive at national level.
@@ -497,7 +497,7 @@ promoting active cyber protection.
 
 6. Each Member State shall notify the Commission without undue delay of the identity of the competent authority referred to in paragraph 1 and of the single point of contact referred to in paragraph 3, of the tasks of those authorities, and of any subsequent changes thereto. Each Member State shall make public the identity of its competent authority. The Commission shall make a list of the single points of contact publicly available.
 
-## Artikel 9 | National cyber crisis management frameworks | art_9
+## Article 9 | National cyber crisis management frameworks | art_9
 1. Each Member State shall designate or establish one or more competent authorities responsible for the management of large-scale cybersecurity incidents and crises (cyber crisis management authorities). Member States shall ensure that those authorities have adequate resources to carry out, in an effective and efficient manner, the tasks assigned to them. Member States shall ensure coherence with the existing frameworks for general national crisis management.
 
 2. Where a Member State designates or establishes more than one cyber crisis management authority pursuant to paragraph 1, it shall clearly indicate which of those authorities is to serve as the coordinator for the management of large-scale cybersecurity incidents and crises.
@@ -532,7 +532,7 @@ national procedures and arrangements between relevant national authorities and b
 
 5. Within three months of the designation or establishment of the cyber crisis management authority referred to in paragraph 1, each Member State shall notify the Commission of the identity of its authority and of any subsequent changes thereto. Member States shall submit to the Commission and to the European cyber crisis liaison organisation network (EU-CyCLONe) relevant information relating to the requirements of paragraph 4 about their national large-scale cybersecurity incident and crisis response plans within three months of the adoption of those plans. Member States may exclude information where and to the extent that such exclusion is necessary for their national security.
 
-## Artikel 10 | Computer security incident response teams (CSIRTs) | art_10
+## Article 10 | Computer security incident response teams (CSIRTs) | art_10
 1. Each Member State shall designate or establish one or more CSIRTs. The CSIRTs may be designated or established within a competent authority. The CSIRTs shall comply with the requirements set out in Article 11(1), shall cover at least the sectors, subsectors and types of entity referred to in Annexes I and II, and shall be responsible for incident handling in accordance with a well-defined process.
 
 2. Member States shall ensure that each CSIRT has adequate resources to carry out effectively its tasks as set out in Article 11(3).
@@ -553,7 +553,7 @@ national procedures and arrangements between relevant national authorities and b
 
 10. Member States may request the assistance of ENISA in developing their CSIRTs.
 
-## Artikel 11 | Requirements, technical capabilities and tasks of CSIRTs | art_11
+## Article 11 | Requirements, technical capabilities and tasks of CSIRTs | art_11
 1. The CSIRTs shall comply with the following requirements:
 
 (a)
@@ -638,7 +638,7 @@ crisis management; and
 
 coordinated vulnerability disclosure under Article 12(1).
 
-## Artikel 12 | Coordinated vulnerability disclosure and a European vulnerability database | art_12
+## Article 12 | Coordinated vulnerability disclosure and a European vulnerability database | art_12
 1. Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure. The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products or ICT services, upon the request of either party. The tasks of the CSIRT designated as coordinator shall include:
 
 (a)
@@ -669,7 +669,7 @@ the affected ICT products or ICT services and the severity of the vulnerability 
 
 the availability of related patches and, in the absence of available patches, guidance provided by the competent authorities or the CSIRTs addressed to users of vulnerable ICT products and ICT services as to how the risks resulting from disclosed vulnerabilities can be mitigated.
 
-## Artikel 13 | Cooperation at national level | art_13
+## Article 13 | Cooperation at national level | art_13
 1. Where they are separate, the competent authorities, the single point of contact and the CSIRTs of the same Member State shall cooperate with each other with regard to the fulfilment of the obligations laid down in this Directive.
 
 2. Member States shall ensure that their CSIRTs or, where applicable, their competent authorities, receive notifications of significant incidents pursuant to Article 23, and incidents, cyber threats and near misses pursuant to Article 30.
@@ -684,7 +684,7 @@ the availability of related patches and, in the absence of available patches, gu
 
 # kap-3 | Chapter III | COOPERATION AT UNION AND INTERNATIONAL LEVEL | cpt_III
 
-## Artikel 14 | Cooperation Group | art_14
+## Article 14 | Cooperation Group | art_14
 1. In order to support and facilitate strategic cooperation and the exchange of information among Member States, as well as to strengthen trust and confidence, a Cooperation Group is established.
 
 2. The Cooperation Group shall carry out its tasks on the basis of biennial work programmes referred to in paragraph 7.
@@ -789,7 +789,7 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 9. The Cooperation Group shall meet on a regular basis and in any event at least once a year with the Critical Entities Resilience Group established under Directive (EU) 2022/2557 to promote and facilitate strategic cooperation and the exchange of information.
 
-## Artikel 15 | CSIRTs network | art_15
+## Article 15 | CSIRTs network | art_15
 1. In order to contribute to the development of confidence and trust and to promote swift and effective operational cooperation among Member States, a network of national CSIRTs is established.
 
 2. The CSIRTs network shall be composed of representatives of the CSIRTs designated or established pursuant to Article 10 and the computer emergency response team for the Union’s institutions, bodies and agencies (CERT-EU). The Commission shall participate in the CSIRTs network as an observer. ENISA shall provide the secretariat and shall actively provide assistance for the cooperation among the CSIRTs.
@@ -886,7 +886,7 @@ to provide guidelines in order to facilitate the convergence of operational prac
 
 6. The CSIRTs network and EU-CyCLONe shall agree on procedural arrangements and cooperate on the basis thereof.
 
-## Artikel 16 | European cyber crisis liaison organisation network (EU-CyCLONe) | art_16
+## Article 16 | European cyber crisis liaison organisation network (EU-CyCLONe) | art_16
 1. EU-CyCLONe is established to support the coordinated management of large-scale cybersecurity incidents and crises at operational level and to ensure the regular exchange of relevant information among Member States and Union institutions, bodies, offices and agencies.
 
 2. EU-CyCLONe shall be composed of the representatives of Member States’ cyber crisis management authorities as well as, in cases where a potential or ongoing large-scale cybersecurity incident has or is likely to have a significant impact on services and activities falling within the scope of this Directive, the Commission. In other cases, the Commission shall participate in the activities of EU-CyCLONe as an observer.
@@ -925,10 +925,10 @@ to discuss, upon the request of a Member State concerned, national large-scale c
 
 7. By 17 July 2024 and every 18 months thereafter, EU-CyCLONe shall submit to the European Parliament and to the Council a report assessing its work.
 
-## Artikel 17 | International cooperation | art_17
+## Article 17 | International cooperation | art_17
 The Union may, where appropriate, conclude international agreements, in accordance with Article 218 TFEU, with third countries or international organisations, allowing and organising their participation in particular activities of the Cooperation Group, the CSIRTs network and EU-CyCLONe. Such agreements shall comply with Union data protection law.
 
-## Artikel 18 | Report on the state of cybersecurity in the Union | art_18
+## Article 18 | Report on the state of cybersecurity in the Union | art_18
 1. ENISA shall adopt, in cooperation with the Commission and the Cooperation Group, a biennial report on the state of cybersecurity in the Union and shall submit and present that report to the European Parliament. The report shall, inter alia, be made available in machine-readable data and include the following:
 
 (a)
@@ -955,7 +955,7 @@ an aggregated assessment of the level of maturity of cybersecurity capabilities 
 
 3. ENISA, in cooperation with the Commission, the Cooperation Group and the CSIRTs network, shall develop the methodology, including the relevant variables, such as quantitative and qualitative indicators, of the aggregated assessment referred to in paragraph 1, point (e).
 
-## Artikel 19 | Peer reviews | art_19
+## Article 19 | Peer reviews | art_19
 1. The Cooperation Group shall, on 17 January 2025, establish, with the assistance of the Commission and ENISA, and, where relevant, the CSIRTs network, the methodology and organisational aspects of peer reviews with a view to learning from shared experiences, strengthening mutual trust, achieving a high common level of cybersecurity, as well as enhancing Member States’ cybersecurity capabilities and policies necessary to implement this Directive. Participation in peer reviews is voluntary. The peer reviews shall be carried out by cybersecurity experts. The cybersecurity experts shall be designated by at least two Member States, different from the Member State being reviewed.
 
 The peer reviews shall cover at least one of the following:
@@ -1002,14 +1002,14 @@ specific issues of cross-border or cross-sector nature.
 
 # kap-4 | Chapter IV | CYBERSECURITY RISK-MANAGEMENT MEASURES AND REPORTING OBLIGATIONS | cpt_IV
 
-## Artikel 20 | Governance | art_20
+## Article 20 | Governance | art_20
 1. Member States shall ensure that the management bodies of essential and important entities approve the cybersecurity risk-management measures taken by those entities in order to comply with Article 21, oversee its implementation and can be held liable for infringements by the entities of that Article.
 
 The application of this paragraph shall be without prejudice to national law as regards the liability rules applicable to public institutions, as well as the liability of public servants and elected or appointed officials.
 
 2. Member States shall ensure that the members of the management bodies of essential and important entities are required to follow training, and shall encourage essential and important entities to offer similar training to their employees on a regular basis, in order that they gain sufficient knowledge and skills to enable them to identify risks and assess cybersecurity risk-management practices and their impact on the services provided by the entity.
 
-## Artikel 21 | Cybersecurity risk-management measures | art_21
+## Article 21 | Cybersecurity risk-management measures | art_21
 1. Member States shall ensure that essential and important entities take appropriate and proportionate technical, operational and organisational measures to manage the risks posed to the security of network and information systems which those entities use for their operations or for the provision of their services, and to prevent or minimise the impact of incidents on recipients of their services and on other services.
 
 Taking into account the state-of-the-art and, where applicable, relevant European and international standards, as well as the cost of implementation, the measures referred to in the first subparagraph shall ensure a level of security of network and information systems appropriate to the risks posed. When assessing the proportionality of those measures, due account shall be taken of the degree of the entity’s exposure to risks, the entity’s size and the likelihood of occurrence of incidents and their severity, including their societal and economic impact.
@@ -1068,12 +1068,12 @@ When preparing the implementing acts referred to in the first and second subpara
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 39(2).
 
-## Artikel 22 | Union level coordinated security risk assessments of critical supply chains | art_22
+## Article 22 | Union level coordinated security risk assessments of critical supply chains | art_22
 1. The Cooperation Group, in cooperation with the Commission and ENISA, may carry out coordinated security risk assessments of specific critical ICT services, ICT systems or ICT products supply chains, taking into account technical and, where relevant, non-technical risk factors.
 
 2. The Commission, after consulting the Cooperation Group and ENISA, and, where necessary, relevant stakeholders, shall identify the specific critical ICT services, ICT systems or ICT products that may be subject to the coordinated security risk assessment referred to in paragraph 1.
 
-## Artikel 23 | Reporting obligations | art_23
+## Article 23 | Reporting obligations | art_23
 1. Each Member State shall ensure that essential and important entities notify, without undue delay, its CSIRT or, where applicable, its competent authority in accordance with paragraph 4 of any incident that has a significant impact on the provision of their services as referred to in paragraph 3 (significant incident). Where appropriate, entities concerned shall notify, without undue delay, the recipients of their services of significant incidents that are likely to adversely affect the provision of those services. Each Member State shall ensure that those entities report, inter alia, any information enabling the CSIRT or, where applicable, the competent authority to determine any cross-border impact of the incident. The mere act of notification shall not subject the notifying entity to increased liability.
 
 Where the entities concerned notify the competent authority of a significant incident under the first subparagraph, the Member State shall ensure that that competent authority forwards the notification to the CSIRT upon receipt.
@@ -1152,7 +1152,7 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 39(2).
 
-## Artikel 24 | Use of European cybersecurity certification schemes | art_24
+## Article 24 | Use of European cybersecurity certification schemes | art_24
 1. In order to demonstrate compliance with particular requirements of Article 21, Member States may require essential and important entities to use particular ICT products, ICT services and ICT processes, developed by the essential or important entity or procured from third parties, that are certified under European cybersecurity certification schemes adopted pursuant to Article 49 of Regulation (EU) 2019/881. Furthermore, Member States shall encourage essential and important entities to use qualified trust services.
 
 2. The Commission is empowered to adopt delegated acts, in accordance with Article 38, to supplement this Directive by specifying which categories of essential and important entities are to be required to use certain certified ICT products, ICT services and ICT processes or obtain a certificate under a European cybersecurity certification scheme adopted pursuant to Article 49 of Regulation (EU) 2019/881. Those delegated acts shall be adopted where insufficient levels of cybersecurity have been identified and shall include an implementation period.
@@ -1161,14 +1161,14 @@ Before adopting such delegated acts, the Commission shall carry out an impact as
 
 3. Where no appropriate European cybersecurity certification scheme for the purposes of paragraph 2 of this Article is available, the Commission may, after consulting the Cooperation Group and the European Cybersecurity Certification Group, request ENISA to prepare a candidate scheme pursuant to Article 48(2) of Regulation (EU) 2019/881.
 
-## Artikel 25 | Standardisation | art_25
+## Article 25 | Standardisation | art_25
 1. In order to promote the convergent implementation of Article 21(1) and (2), Member States shall, without imposing or discriminating in favour of the use of a particular type of technology, encourage the use of European and international standards and technical specifications relevant to the security of network and information systems.
 
 2. ENISA, in cooperation with Member States, and, where appropriate, after consulting relevant stakeholders, shall draw up advice and guidelines regarding the technical areas to be considered in relation to paragraph 1 as well as regarding already existing standards, including national standards, which would allow for those areas to be covered.
 
 # kap-5 | Chapter V | JURISDICTION AND REGISTRATION | cpt_V
 
-## Artikel 26 | Jurisdiction and territoriality | art_26
+## Article 26 | Jurisdiction and territoriality | art_26
 1. Entities falling within the scope of this Directive shall be considered to fall under the jurisdiction of the Member State in which they are established, except in the case of:
 
 (a)
@@ -1191,7 +1191,7 @@ public administration entities, which shall be considered to fall under the juri
 
 5. Member States that have received a request for mutual assistance in relation to an entity as referred to in paragraph 1, point (b), may, within the limits of that request, take appropriate supervisory and enforcement measures in relation to the entity concerned that provides services or which has a network and information system on their territory.
 
-## Artikel 27 | Registry of entities | art_27
+## Article 27 | Registry of entities | art_27
 1. ENISA shall create and maintain a registry of DNS service providers, TLD name registries, entities providing domain name registration services, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines and of social networking services platforms, on the basis of the information received from the single points of contact in accordance with paragraph 4. Upon request, ENISA shall allow the competent authorities access to that registry, while ensuring that the confidentiality of information is protected where applicable.
 
 2. Member States shall require entities referred to in paragraph 1 to submit the following information to the competent authorities by 17 January 2025:
@@ -1226,7 +1226,7 @@ the entity’s IP ranges.
 
 5. Where applicable, the information referred to in paragraphs 2 and 3 of this Article shall be submitted through the national mechanism referred to in Article 3(4), fourth subparagraph.
 
-## Artikel 28 | Database of domain name registration data | art_28
+## Article 28 | Database of domain name registration data | art_28
 1. For the purpose of contributing to the security, stability and resilience of the DNS, Member States shall require TLD name registries and entities providing domain name registration services to collect and maintain accurate and complete domain name registration data in a dedicated database with due diligence in accordance with Union data protection law as regards data which are personal data.
 
 2. For the purposes of paragraph 1, Member States shall require the database of domain name registration data to contain the necessary information to identify and contact the holders of the domain names and the points of contact administering the domain names under the TLDs. Such information shall include:
@@ -1257,7 +1257,7 @@ the contact email address and telephone number of the point of contact administe
 
 # kap-6 | Chapter VI | INFORMATION SHARING | cpt_VI
 
-## Artikel 29 | Cybersecurity information-sharing arrangements | art_29
+## Article 29 | Cybersecurity information-sharing arrangements | art_29
 1. Member States shall ensure that entities falling within the scope of this Directive and, where relevant, other entities not falling within the scope of this Directive are able to exchange on a voluntary basis relevant cybersecurity information among themselves, including information relating to cyber threats, near misses, vulnerabilities, techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information, cybersecurity alerts and recommendations regarding configuration of cybersecurity tools to detect cyberattacks, where such information sharing:
 
 (a)
@@ -1276,7 +1276,7 @@ enhances the level of cybersecurity, in particular through raising awareness in 
 
 5. ENISA shall provide assistance for the establishment of cybersecurity information-sharing arrangements referred to in paragraph 2 by exchanging best practices and providing guidance.
 
-## Artikel 30 | Voluntary notification of relevant information | art_30
+## Article 30 | Voluntary notification of relevant information | art_30
 1. Member States shall ensure that, in addition to the notification obligation provided for in Article 23, notifications can be submitted to the CSIRTs or, where applicable, the competent authorities, on a voluntary basis, by:
 
 (a)
@@ -1293,7 +1293,7 @@ Where necessary, the CSIRTs and, where applicable, the competent authorities sha
 
 # kap-7 | Chapter VII | SUPERVISION AND ENFORCEMENT | cpt_VII
 
-## Artikel 31 | General aspects concerning supervision and enforcement | art_31
+## Article 31 | General aspects concerning supervision and enforcement | art_31
 1. Member States shall ensure that their competent authorities effectively supervise and take the measures necessary to ensure compliance with this Directive.
 
 2. Member States may allow their competent authorities to prioritise supervisory tasks. Such prioritisation shall be based on a risk-based approach. To that end, when exercising their supervisory tasks provided for in Articles 32 and 33, the competent authorities may establish supervisory methodologies allowing for a prioritisation of such tasks following a risk-based approach.
@@ -1302,7 +1302,7 @@ Where necessary, the CSIRTs and, where applicable, the competent authorities sha
 
 4. Without prejudice to national legislative and institutional frameworks, Member States shall ensure that, in the supervision of compliance of public administration entities with this Directive and the imposition of enforcement measures with regard to infringements of this Directive, the competent authorities have appropriate powers to carry out such tasks with operational independence vis-à-vis the public administration entities supervised. Member States may decide on the imposition of appropriate, proportionate and effective supervisory and enforcement measures in relation to those entities in accordance with the national legislative and institutional frameworks.
 
-## Artikel 32 | Supervisory and enforcement measures in relation to essential entities | art_32
+## Article 32 | Supervisory and enforcement measures in relation to essential entities | art_32
 1. Member States shall ensure that the supervisory or enforcement measures imposed on essential entities in respect of the obligations laid down in this Directive are effective, proportionate and dissuasive, taking into account the circumstances of each individual case.
 
 2. Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to essential entities, have the power to subject those entities at least to:
@@ -1457,7 +1457,7 @@ the level of cooperation of the natural or legal persons held responsible with t
 
 10. Member States shall ensure that their competent authorities under this Directive cooperate with the relevant competent authorities of the Member State concerned under Regulation (EU) 2022/2554. In particular, Member States shall ensure that their competent authorities under this Directive inform the Oversight Forum established pursuant to Article 32(1) of Regulation (EU) 2022/2554 when exercising their supervisory and enforcement powers aimed at ensuring compliance of an essential entity that is designated as a critical ICT third-party service provider pursuant to Article 31 of Regulation (EU) 2022/2554. with this Directive.
 
-## Artikel 33 | Supervisory and enforcement measures in relation to important entities | art_33
+## Article 33 | Supervisory and enforcement measures in relation to important entities | art_33
 1. When provided with evidence, indication or information that an important entity allegedly does not comply with this Directive, in particular Articles 21 and 23 thereof, Member States shall ensure that the competent authorities take action, where necessary, through ex post supervisory measures. Member States shall ensure that those measures are effective, proportionate and dissuasive, taking into account the circumstances of each individual case.
 
 2. Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to important entities, have the power to subject those entities at least to:
@@ -1530,7 +1530,7 @@ impose, or request the imposition by the relevant bodies, courts or tribunals, i
 
 6. Member States shall ensure that their competent authorities under this Directive cooperate with the relevant competent authorities of the Member State concerned under Regulation (EU) 2022/2554. In particular, Member States shall ensure that their competent authorities under this Directive inform the Oversight Forum established pursuant to Article 32(1) of Regulation (EU) 2022/2554 when exercising their supervisory and enforcement powers aimed at ensuring compliance of an important entity that is designated as a critical ICT third-party service provider pursuant to Article 31 of Regulation (EU) 2022/2554. with this Directive.
 
-## Artikel 34 | General conditions for imposing administrative fines on essential and important entities | art_34
+## Article 34 | General conditions for imposing administrative fines on essential and important entities | art_34
 1. Member States shall ensure that the administrative fines imposed on essential and important entities pursuant to this Article in respect of infringements of this Directive are effective, proportionate and dissuasive, taking into account the circumstances of each individual case.
 
 2. Administrative fines shall be imposed in addition to any of the measures referred to in Article 32(4), points (a) to (h), Article 32(5) and Article 33(4), points (a) to (g).
@@ -1547,17 +1547,17 @@ impose, or request the imposition by the relevant bodies, courts or tribunals, i
 
 8. Where the legal system of a Member State does not provide for administrative fines, that Member State shall ensure that this Article is applied in such a manner that the fine is initiated by the competent authority and imposed by competent national courts or tribunals, while ensuring that those legal remedies are effective and have an equivalent effect to the administrative fines imposed by the competent authorities. In any event, the fines imposed shall be effective, proportionate and dissuasive. The Member State shall notify to the Commission the provisions of the laws which it adopts pursuant to this paragraph by 17 October 2024 and, without delay, any subsequent amendment law or amendment affecting them.
 
-## Artikel 35 | Infringements entailing a personal data breach | art_35
+## Article 35 | Infringements entailing a personal data breach | art_35
 1. Where the competent authorities become aware in the course of supervision or enforcement that the infringement by an essential or important entity of the obligations laid down in Articles 21 and 23 of this Directive can entail a personal data breach, as defined in Article 4, point (12), of Regulation (EU) 2016/679 which is to be notified pursuant to Article 33 of that Regulation, they shall, without undue delay, inform the supervisory authorities as referred to in Article 55 or 56 of that Regulation.
 
 2. Where the supervisory authorities as referred to in Article 55 or 56 of Regulation (EU) 2016/679 impose an administrative fine pursuant to Article 58(2), point (i), of that Regulation, the competent authorities shall not impose an administrative fine pursuant to Article 34 of this Directive for an infringement referred to in paragraph 1 of this Article arising from the same conduct as that which was the subject of the administrative fine under Article 58(2), point (i), of Regulation (EU) 2016/679. The competent authorities may, however, impose the enforcement measures provided for in Article 32(4), points (a) to (h), Article 32(5) and Article 33(4), points (a) to (g), of this Directive.
 
 3. Where the supervisory authority competent pursuant to Regulation (EU) 2016/679 is established in another Member State than the competent authority, the competent authority shall inform the supervisory authority established in its own Member State of the potential data breach referred to in paragraph 1.
 
-## Artikel 36 | Penalties | art_36
+## Article 36 | Penalties | art_36
 Member States shall lay down rules on penalties applicable to infringements of national measures adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 17 January 2025, notify the Commission of those rules and of those measures and shall notify it, without delay of any subsequent amendment affecting them.
 
-## Artikel 37 | Mutual assistance | art_37
+## Article 37 | Mutual assistance | art_37
 1. Where an entity provides services in more than one Member State, or provides services in one or more Member States and its network and information systems are located in one or more other Member States, the competent authorities of the Member States concerned shall cooperate with and assist each other as necessary. That cooperation shall entail, at least, that:
 
 (a)
@@ -1578,7 +1578,7 @@ The mutual assistance referred to in the first subparagraph, point (c), may cove
 
 # kap-8 | Chapter VIII | DELEGATED AND IMPLEMENTING ACTS | cpt_VIII
 
-## Artikel 38 | Exercise of the delegation | art_38
+## Article 38 | Exercise of the delegation | art_38
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
 2. The power to adopt delegated acts referred to in Article 24(2) shall be conferred on the Commission for a period of five years from 16 January 2023.
@@ -1591,7 +1591,7 @@ The mutual assistance referred to in the first subparagraph, point (c), may cove
 
 6. A delegated act adopted pursuant to Article 24(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
 
-## Artikel 39 | Committee procedure | art_39
+## Article 39 | Committee procedure | art_39
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
@@ -1600,31 +1600,31 @@ The mutual assistance referred to in the first subparagraph, point (c), may cove
 
 # kap-9 | Chapter IX | FINAL PROVISIONS | cpt_IX
 
-## Artikel 40 | Review | art_40
+## Article 40 | Review | art_40
 By 17 October 2027 and every 36 months thereafter, the Commission shall review the functioning of this Directive, and report to the European Parliament and to the Council. The report shall in particular assess the relevance of the size of the entities concerned, and the sectors, subsectors and types of entity referred to in Annexes I and II for the functioning of the economy and society in relation to cybersecurity. To that end and with a view to further advancing the strategic and operational cooperation, the Commission shall take into account the reports of the Cooperation Group and the CSIRTs network on the experience gained at a strategic and operational level. The report shall be accompanied, where necessary, by a legislative proposal.
 
-## Artikel 41 | Transposition | art_41
+## Article 41 | Transposition | art_41
 1. By 17 October 2024, Member States shall adopt and publish the measures necessary to comply with this Directive. They shall immediately inform the Commission thereof.
 
 They shall apply those measures from 18 October 2024.
 
 2. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
 
-## Artikel 42 | Amendment of Regulation (EU) No 910/2014 | art_42
+## Article 42 | Amendment of Regulation (EU) No 910/2014 | art_42
 In Regulation (EU) No 910/2014, Article 19 is deleted with effect from 18 October 2024.
 
-## Artikel 43 | Amendment of Directive (EU) 2018/1972 | art_43
+## Article 43 | Amendment of Directive (EU) 2018/1972 | art_43
 In Directive (EU) 2018/1972, Articles 40 and 41 are deleted with effect from 18 October 2024.
 
-## Artikel 44 | Repeal | art_44
+## Article 44 | Repeal | art_44
 Directive (EU) 2016/1148 is repealed with effect from 18 October 2024.
 
 References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex III.
 
-## Artikel 45 | Entry into force | art_45
+## Article 45 | Entry into force | art_45
 This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-## Artikel 46 | Addressees | art_46
+## Article 46 | Addressees | art_46
 This Directive is addressed to the Member States.
 
 Done at Strasbourg, 14 December 2022.

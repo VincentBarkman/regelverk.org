@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_V'
+'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03#cpt_V'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -23,7 +23,7 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 19 – Critical Entities Resilience Group
+### Article 19 – Critical Entities Resilience Group
 
 1\. A Critical Entities Resilience Group is hereby established. The Critical Entities Resilience Group shall support the Commission and facilitate cooperation among Member States and the exchange of information on issues relating to [this Directive](/lagstiftning/cer).
 
@@ -37,17 +37,17 @@ The Commission’s representative shall chair the Critical Entities Resilience G
 
 (b) analysing the strategies in order to identify best practices in respect of the strategies;
 
-(c) facilitating the exchange of best practices with regard to the identification of critical entities by the Member States pursuant to Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities)(1), including in relation to cross-border and cross-sectoral dependencies and regarding risks and incidents;
+(c) facilitating the exchange of best practices with regard to the identification of critical entities by the Member States pursuant to Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities)(1), including in relation to cross-border and cross-sectoral dependencies and regarding risks and incidents;
 
 (d) where appropriate, contributing on issues relating to [this Directive](/lagstiftning/cer) to documents concerning resilience at Union level;
 
-(e) contributing to the preparation of the guidelines referred to in Article [7](/lagstiftning/cer/kap-2#artikel-7-significant-disruptive-effect)(3) and Article [13](/lagstiftning/cer/kap-3#artikel-13-resilience-measures-of-critical-entities)(5) and, upon request, any delegated or implementing acts adopted pursuant to [this Directive](/lagstiftning/cer);
+(e) contributing to the preparation of the guidelines referred to in Article [7](/lagstiftning/cer/kap-2#article-7-significant-disruptive-effect)(3) and Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities)(5) and, upon request, any delegated or implementing acts adopted pursuant to [this Directive](/lagstiftning/cer);
 
-(f) analysing the summary reports referred to in Article [9](/lagstiftning/cer/kap-2#artikel-9-competent-authorities-and-single-point-of-contact)(3) with a view to promoting the sharing of best practices on the action taken in accordance with Article [15](/lagstiftning/cer/kap-3#artikel-15-incident-notification)(3);
+(f) analysing the summary reports referred to in Article [9](/lagstiftning/cer/kap-2#article-9-competent-authorities-and-single-point-of-contact)(3) with a view to promoting the sharing of best practices on the action taken in accordance with Article [15](/lagstiftning/cer/kap-3#article-15-incident-notification)(3);
 
-(g) exchanging best practices related to the notification of incidents referred to in Article [15](/lagstiftning/cer/kap-3#artikel-15-incident-notification);
+(g) exchanging best practices related to the notification of incidents referred to in Article [15](/lagstiftning/cer/kap-3#article-15-incident-notification);
 
-(h) discussing the summary reports of advisory missions and the lessons learned in accordance with Article [18](/lagstiftning/cer/kap-4#artikel-18-advisory-missions)(10);
+(h) discussing the summary reports of advisory missions and the lessons learned in accordance with Article [18](/lagstiftning/cer/kap-4#article-18-advisory-missions)(10);
 
 (i) exchanging information and best practices on innovation, research and development relating to the resilience of critical entities in accordance with [this Directive](/lagstiftning/cer);
 
@@ -57,15 +57,15 @@ The Commission’s representative shall chair the Critical Entities Resilience G
 
 5\. The Critical Entities Resilience Group shall meet on a regular basis and in any event at least once a year with the Cooperation Group established under [Directive (EU) 2022/2555](/lagstiftning/nis2) to promote and facilitate cooperation and the exchange of information.
 
-6\. The Commission may adopt implementing acts laying down procedural arrangements necessary for the functioning of the Critical Entities Resilience Group, respecting Article [1](/lagstiftning/cer/kap-1#artikel-1-subject-matter-and-scope)(4). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [24](/lagstiftning/cer/kap-7#artikel-24-committee-procedure)(2).
+6\. The Commission may adopt implementing acts laying down procedural arrangements necessary for the functioning of the Critical Entities Resilience Group, respecting Article [1](/lagstiftning/cer/kap-1#article-1-subject-matter-and-scope)(4). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [24](/lagstiftning/cer/kap-7#article-24-committee-procedure)(2).
 
-7\. The Commission shall provide the Critical Entities Resilience Group with a summary report of the information provided by the Member States pursuant to Article [4](/lagstiftning/cer/kap-2#artikel-4-strategy-on-the-resilience-of-critical-entities)(3) and Article [5](/lagstiftning/cer/kap-2#artikel-5-risk-assessment-by-member-states)(4) by 17 January 2027, whenever necessary subsequently, and at least every four years.
+7\. The Commission shall provide the Critical Entities Resilience Group with a summary report of the information provided by the Member States pursuant to Article [4](/lagstiftning/cer/kap-2#article-4-strategy-on-the-resilience-of-critical-entities)(3) and Article [5](/lagstiftning/cer/kap-2#article-5-risk-assessment-by-member-states)(4) by 17 January 2027, whenever necessary subsequently, and at least every four years.
 
-### Artikel 20 – Commission support to competent authorities and critical entities
+### Article 20 – Commission support to competent authorities and critical entities
 
-1\. The Commission shall, where appropriate, support Member States and critical entities in complying with their obligations under [this Directive](/lagstiftning/cer). The Commission shall prepare a Union-level overview of cross-border and cross-sectoral risks to the provision of essential services, organise advisory missions as referred to in Article [13](/lagstiftning/cer/kap-3#artikel-13-resilience-measures-of-critical-entities)(4) and Article [18](/lagstiftning/cer/kap-4#artikel-18-advisory-missions) and facilitate information exchange among Member States and experts across the Union.
+1\. The Commission shall, where appropriate, support Member States and critical entities in complying with their obligations under [this Directive](/lagstiftning/cer). The Commission shall prepare a Union-level overview of cross-border and cross-sectoral risks to the provision of essential services, organise advisory missions as referred to in Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities)(4) and Article [18](/lagstiftning/cer/kap-4#article-18-advisory-missions) and facilitate information exchange among Member States and experts across the Union.
 
-2\. The Commission shall complement Member States’ activities as referred to in Article [10](/lagstiftning/cer/kap-2#artikel-10-member-states-support-to-critical-entities) by developing best practices, guidance materials and methodologies, and cross-border training activities and exercises to test the resilience of critical entities.
+2\. The Commission shall complement Member States’ activities as referred to in Article [10](/lagstiftning/cer/kap-2#article-10-member-states-support-to-critical-entities) by developing best practices, guidance materials and methodologies, and cross-border training activities and exercises to test the resilience of critical entities.
 
 3\. The Commission shall inform Member States about financial resources at Union level available to Member States for enhancing the resilience of critical entities.
 <!-- scan-laws:end -->

@@ -1,23 +1,19 @@
-# afs-2023-12 [sv] scraped 2026-10-13
+# afs-2023-12 [sv] scraped 2026-10-14
 # source: https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202312/
 
-# avsnitt-varför-föreskrifterna-finns | Varför föreskrifterna finns | Varför föreskrifterna finns | 
+# kap-1 | 1 kap. | Allmänna bestämmelser | 
 
-## 1 § |  | 
+## 1 § | Varför föreskrifterna finns | 
 Syftet med dessa föreskrifter är att arbetsplatser ska utformas så att ohälsa och olycksfall förebyggs och förutsättningar ges för en god arbetsmiljö.
 
-# avsnitt-systematiskt-arbetsmiljöarbete | Systematiskt arbetsmiljöarbete | Systematiskt arbetsmiljöarbete | 
-
-## 2 § |  | 
+## 2 § | Systematiskt arbetsmiljöarbete | 
 I arbetsmiljölagen (1977:1160) och i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar finns grundläggande bestämmelser om hur arbetsgivaren ska organisera, genomföra och följa upp sitt arbetsmiljöarbete, för att förebygga risker för ohälsa och olycksfall i arbetet och uppnå en tillfredställande arbetsmiljö. Vidare framgår vilka som ska medverka i arbetet.
 
 I dessa föreskrifter finns bestämmelser med preciserade krav för det systematiska arbetsmiljöarbetet, som kan gälla undersökningar av arbetsmiljön, bedömningar av risker och åtgärder som ska vidtas. Det finns också preciseringar som kan gälla särskilda krav på kunskaper eller hur vissa arbetsmiljöuppgifter ska fördelas.
 
-2 kap. Generella bestämmelser
+# kap-2 | 2 kap. | Generella bestämmelser | 
 
-# avsnitt-då-gäller-föreskrifterna | Då gäller föreskrifterna | Då gäller föreskrifterna | 
-
-## 1 § |  | 
+## 1 § | Då gäller föreskrifterna | 
 Bestämmelserna i 2–6 kap. reglerar utformning, projektering, drift och underhåll av arbetsplatser i och i anslutning till byggnadsverk. Bestämmelserna reglerar även arbetsplatser i färdigställda utrymmen och bodar som förekommer inom utvinningsindustrin och byggnads- och anläggningsindustrin.
 
 ## 2 § |  | 
@@ -71,9 +67,7 @@ Varor som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i
 
 Föreskrifterna ska inte tillämpas om det skulle strida mot ett av Europeiska unionens produktdirektiv eller en av Europeiska unionens produktförordningar.
 
-# avsnitt-vem-föreskrifterna-riktar-sig-till | Vem föreskrifterna riktar sig till | Vem föreskrifterna riktar sig till | 
-
-## 7 § |  | 
+## 7 § | Vem föreskrifterna riktar sig till | 
 Arbetsgivaren ansvarar för att föreskrifterna i 1 och 3–7 kap. följs med undantag av bestämmelsen i 3 kap. 4 § om projektering för ny- och ombyggnad.
 
 Den arbetsgivare som inte råder över en arbetsplats behöver dock bara följa 5 kap. 18 § andra stycket om termiskt klimat och 19–22 §§ om arbete i stark värme, 6 kap. 16 § första stycket, 17 och 19 §§ om utrustning för första hjälpen och 20–21 §§ vad avser ögonspolningsanordningar samt 7 kap. 4 § om information och instruktion till arbetstagarna.
@@ -87,7 +81,7 @@ Den som driver sådan verksamhet som avses i fjärde stycket utan att råda öve
 Av 1 och 3 kap. arbetsmiljölagen följer att föreskrifterna i 3–7 kap. under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
 > _Allmänna råd_
-
+>
 > Arbetsgivaren råder inte över arbetsplatsen om arbetsgivaren varken äger eller har hyresavtal för arbetsplatsen eller av annan anledning inte har möjlighet att påverka utformningen av arbetsplatsen. Exempel på arbetsplatser som arbetsgivaren inte råder över är när arbetet sker i någon annans enskilda hem eller service- och underhållsarbete hos en företagskund. För alla arbetsgivare, även de som omfattas av undantaget i denna paragraf, finns bestämmelser om ansvar för arbetstagares hälsa och säkerhet på arbetsplatsen i arbetsmiljölagen och Arbetsmiljöverkets övriga föreskrifter. I arbetsmiljölagen finns till exempel krav på personalutrymmen.
 
 ## 8 § |  | 
@@ -108,185 +102,29 @@ bestämmelserna i 7 kap. 4 § om information och instruktion till arbetstagarna.
 Bestämmelser om hur byggherrar, byggarbetsmiljösamordnare, projektörer och de som tillverkar monteringsfärdiga byggnader eller anläggningar ska beakta föreskrifterna finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:3) om projektering och byggarbetsmiljösamordning – grundläggande skyldigheter.
 
 > _Allmänna råd_
-
+>
 > Med den som tillverkar monteringsfärdiga byggnader eller anläggningar avses den som ska se till att arbetsmiljösynpunkter beaktas vid projekteringen, både när det gäller bygg- och bruksskedet, och se till att olika delar av projekteringen samordnas enligt 3 kap. 7 h § arbetsmiljölagen. Den som tillverkar kan själv projektera och tillverka byggnaden eller anläggningen eller delar av den eller låta andra göra det.
 
-# avsnitt-definitioner | Definitioner | Definitioner | 
-
-## 9 § |  | 
+## 9 § | Definitioner | 
 I dessa föreskrifter har följande begrepp dessa betydelser.
 
-Begrepp
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Arbetsplats</div></div></td><td><div><div>Plats för arbete, inklusive förbindelseleder och personalutrymmen, till vilken en arbetstagare har tillträde under sitt arbete. Arbetsplatser kan finnas både inomhus och utomhus och vara både stadigvarande och tillfälliga.</div></div></td></tr><tr><td><div><div>Byggnadsverk</div></div></td><td><div><div>Byggnad eller annan anläggning.</div></div></td></tr><tr><td><div><div>Förbindelseled</div></div></td><td><div><div>Väg, utrymme eller annat som förbinder två platser, inomhus eller utomhus, till exempel en passage, transportväg eller tillträdesled. Den kan vara avsedd för personer eller fordon.</div></div></td></tr><tr><td><div><div>Normalt</div></div></td><td><div><div>I alla situationer utom vid de enstaka fall när speciella omständigheter gör att undantag behöver göras. Ett sådant fall kan vara att arbetsplatsen bara används tillfälligt och att säkerheten kan upprätthållas genom andra åtgärder.</div></div></td></tr><tr><td><div><div>Personalutrymme</div></div></td><td><div><div>Klädutrymme, omklädningsrum, torkutrymme, tvättutrymme, duschutrymme, toalettrum, matutrymme, pausutrymme, vilutrymme eller jourrum som arbetstagare kan använda i anslutning till sitt arbete.</div></div></td></tr><tr><td><div><div>Tillgänglig</div></div></td><td><div><div>Både tillgänglig och användbar så att så många som möjligt kan använda arbetsplatsen på lika villkor, även personer med nedsatt rörelse- eller orienteringsförmåga och personer med allergier.</div></div></td></tr></tbody></table>
 
-Betydelse
+# kap-3 | 3 kap. | Hur en arbetsplats ska vara utformad | 
 
-Arbetsplats
-
-Plats för arbete, inklusive förbindelseleder och personalutrymmen, till vilken en arbetstagare har tillträde under sitt arbete. Arbetsplatser kan finnas både inomhus och utomhus och vara både stadigvarande och tillfälliga.
-
-Byggnadsverk
-
-Byggnad eller annan anläggning.
-
-Förbindelseled
-
-Väg, utrymme eller annat som förbinder två platser, inomhus eller utomhus, till exempel en passage, transportväg eller tillträdesled. Den kan vara avsedd för personer eller fordon.
-
-Normalt
-
-I alla situationer utom vid de enstaka fall när speciella omständigheter gör att undantag behöver göras. Ett sådant fall kan vara att arbetsplatsen bara används tillfälligt och att säkerheten kan upprätthållas genom andra åtgärder.
-
-Personalutrymme
-
-Klädutrymme, omklädningsrum, torkutrymme, tvättutrymme, duschutrymme, toalettrum, matutrymme, pausutrymme, vilutrymme eller jourrum som arbetstagare kan använda i anslutning till sitt arbete.
-
-Tillgänglig
-
-Både tillgänglig och användbar så att så många som möjligt kan använda arbetsplatsen på lika villkor, även personer med nedsatt rörelse- eller orienteringsförmåga och personer med allergier.
-
-Visa hela tabellen
-
-3 kap. Hur en arbetsplats ska vara utformad
-
+## Inledning |  | 
 Stöd och verktyg: Arbetsplatsens utformning ska främja en god arbetsmiljö
 
-## 1 § |  | 
+## 1 § | Definitioner | 
 I detta kapitel har följande begrepp dessa betydelser.
 
-Begrepp
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Lastkaj</div></div></td><td><div><div>Plattform för att underlätta lastning och lossning.</div></div></td></tr><tr><td><div><div>Ställage</div></div></td><td><div><div>Lagerställ på vilket material lagras.</div></div></td></tr><tr><td><div><div>Tvättplats</div></div></td><td><div><div>Sammanfattande beteckning för dusch, tvättställ eller tvättränna med rinnande varmt och kallt vatten.</div></div></td></tr><tr><td><div><div>Varumottag</div></div></td><td><div><div>Anläggning eller avgränsad yta för lastning och lossning av gods.</div></div></td></tr></tbody></table>
 
-Betydelse
-
-Lastkaj
-
-Plattform för att underlätta lastning och lossning.
-
-Ställage
-
-Lagerställ på vilket material lagras.
-
-Tvättplats
-
-Sammanfattande beteckning för dusch, tvättställ eller tvättränna med rinnande varmt och kallt vatten.
-
-Varumottag
-
-Anläggning eller avgränsad yta för lastning och lossning av gods.
-
-Visa hela tabellen
-
-## 1 § |  | 
-I detta kapitel har följande begrepp dessa betydelser.
-
-Begrepp
-
-Betydelse
-
-Tillfällig utrymningsplats
-
-Plats där arbetstagare, som på egen hand inte kan utrymma hela vägen till en säker plats, säkert kan invänta hjälp.
-
-Utrymningsväg
-
-Utgång som leder till en säker plats, det vill säga en plats i det fria, där brand och brandgaser inte kan påverka utrymmande personer. Det kan även vara ett utrymme i en byggnad som leder från en brandcell till en sådan utgång.
-
-Visa hela tabellen
-
-## 1 § |  | 
-I detta kapitel har följande begrepp dessa betydelser.
-
-Begrepp
-
-Betydelse
-
-Buller
-
-Icke önskvärt ljud. Omfattar både hörselskadligt och störande ljud.
-
-Begreppet störande ljud omfattar både psykologiska och fysiologiska effekter.
-
-Processventilation
-
-Ventilation som fångar upp och för bort luftföroreningar så nära källan som möjligt.
-
-Termiskt klimat
-
-Benämning på de faktorer som inverkar på människans upplevelse av klimatet, det vill säga lufttemperatur, omgivande ytors temperatur, luftfuktighet och lufthastighet.
-
-Utblick
-
-Visuell kontakt med omgivningen, genom en öppning mot utsidan eller mot till exempel ett inomhustorg, som ger information om omgivningen och möjlighet att följa vädrets, dygnets och årstidernas variationer.
-
-Vistelsezon
-
-Den del av ett rum där krav ställs på luftkvalitet och termisk komfort. Vistelsezonen begränsas i rummet av två horisontella plan, ett på 0,1 meter över golvet och ett annat på 2,0 meter över golvet samt vertikala plan 0,6 meter från ytterväggen eller annan yttre begränsning, dock vid fönster och dörr 1,0 meter.
-
-Visa hela tabellen
-
-## 1 § |  | 
-I detta kapitel har följande begrepp dessa betydelser.
-
-Begrepp
-
-Betydelse
-
-Brandredskapsskylt
-
-Skylt som anger placeringen av brandskyddsanordning eller brandskyddsutrustning.
-
-Förbudsskylt
-
-Skylt som förbjuder ett beteende som kan innebära fara.
-
-Genomlyst skylt
-
-Skylt som är gjord av transparent eller genomlyst material, upplyst från in- eller baksidan, så att den ger intryck av en lysande yta.
-
-Handsignal
-
-Fastställt rörelsemönster med armar och händer för att leda personal som utför manövrer som kan innebära risk eller fara.
-
-Ljudsignal
-
-Fastställd signal som avges från ett särskilt don utan att någon mänsklig eller syntetisk röst används.
-
-Ljussignal
-
-Fastställd signal bestående av utsänt ljus.
-
-Nödskylt
-
-Skylt som ger information om utrymningsväg, väg till utrymningsväg, utrustning för första hjälpen eller räddningsutrustning.
-
-Påbudsskylt
-
-Skylt som påbjuder ett visst beteende.
-
-Symbol
-
-Bild som beskriver en situation eller föreskriver ett visst uppträdande.
-
-Talat meddelande
-
-I förväg fastställt talat (verbalt) meddelande som avges med mänsklig eller syntetisk röst.
-
-Tilläggsskylt
-
-Skylt som används tillsammans med en annan skylt och lämnar kompletterande information.
-
-Varningsskylt
-
-Skylt som varnar för en risk eller fara.
-
-Visa hela tabellen
-
-# avsnitt-lokalutformning | Lokalutformning | Lokalutformning | 
-
-## 2 § |  | 
+## 2 § | Lokalutformning | 
 Arbetsplatser ska ha de lokaler och andra utrymmen som behövs med hänsyn till verksamheten, så att risken för ohälsa och olycksfall begränsas.
 
 > _Allmänna råd_
-
+>
 > Exempel på utrymmen som kan behövas är tysta rum, utrymmen för fastighetsskötsel och service samt till exempel sköljrum inom vården.
 
 ## 3 § |  | 
@@ -308,18 +146,18 @@ tillfälliga utrymningsplatser ha tvåvägs kommunikationssystem, och
 minst en toalett på varje våningsplan vara tillgänglig.
 
 > _Allmänna råd_
-
+>
 > Dimensionerande vändmått för en mindre utomhusrullstol är en cirkel med diametern 1,50 meter. Det fria passagemåttet i dörrar för en sådan rullstol behöver vara minst 0,80 meter när dörren är uppställd i 90º.
-
+>
 > Exempel på hur utrymningsplatser kan utformas finns i Boverkets byggregler (BBR).
-
+>
 > I allmänna råd till 58 § finns information om hur en tillgänglig toalett bör utformas.
 
 ## 5 § |  | 
 Arbetsplatser ska ha en, med hänsyn till verksamheten, tillräcklig area och fri höjd, så att risken för ohälsa och olycksfall begränsas. Arbetsplatser ska vara lämpligt placerade, utformade och inredda. Placeringen av arbetsplatsens olika delar ska vara sådan att sambanden blir tydliga och funktionella.
 
 > _Allmänna råd_
-
+>
 > Rumshöjden bör vara minst 2,40 meter. I begränsade delar av arbetslokalen kan denna rumshöjd underskridas. I sådana delar av arbetslokalen där ståhöjd behövs bör rumshöjden inte vara lägre än 2,10 meter under horisontella delar av tak eller 1,90 meter under snedtak. Rumshöjden i undervisningslokaler, eller andra lokaler avsedda för ett större antal personer, bör vara lägst 2,70 meter. Om täta förflyttningar eller transporter kan förutses mellan olika lokaler bör lokalerna samlas för att ge en enkel invändig förbindelse.
 
 ## 6 § |  | 
@@ -330,16 +168,16 @@ Vid arbete där arbetstagaren måste utföra arbetsmoment som innebär kraftutö
 När hjälpmedel och arbetsutrustning eller annan teknisk utrustning används, behövs dessutom ett fritt utrymme för att hantera och manövrera dessa.
 
 > _Allmänna råd_
-
+>
 > För att uppfylla första stycket kan det ibland behövas ett större arbetsutrymme än det minimimått som anges i andra stycket. Särskilda förhållanden kan vara tillfälliga eller kortare arbetsuppgifter, till exempel servicearbeten i trånga utrymmen.
-
+>
 > Exempel på arbeten där arbetsutrymme enligt andra stycket kan behövas är vård och omsorg, städning, fastighetsservice, leveranser och handel.
 
 ## 7 § |  | 
 Arbeten eller processer som medför en särskild risk för ohälsa eller olycksfall ska normalt utföras i en särskild lokal som är avskild från övriga lokaler.
 
 > _Allmänna råd_
-
+>
 > Sådana arbeten eller processer är till exempel de som ger hög ljudnivå, utsläpp av luftföroreningar eller som kan medföra särskild risk för brand eller explosion. Fläktaggregat, batterier under laddning, diskmaskiner och kopieringsmaskiner kan behöva placeras i en särskild lokal. Även vård av smittade bör ske i en särskild lokal.
 
 ## 8 § |  | 
@@ -349,9 +187,9 @@ Arbetsplatser ska vara placerade och utformade så att inredning, installationer
 Förbindelseleder ska vara utformade och dimensionerade så att arbetstagarna kan förflytta sig utan risk för olycksfall eller ohälsa. Om det finns risk för sammanstötning eller om fasta arbetsplatser ligger i anslutning till en förbindelseled för fordons- och trucktrafik ska det finnas ett tillräckligt säkerhetsavstånd eller en avskiljande barriär.
 
 > _Allmänna råd_
-
+>
 > Att kunna förflytta sig utan risk för olycksfall eller ohälsa, innebär både att kunna förflytta sig utan risk för skador och att kunna orientera sig på ett enkelt sätt. Vad som krävs för att kunna orientera sig på ett enkelt sätt kan variera beroende på arbetstagarnas kognitiva funktionsförmåga.
-
+>
 > Vid dörrar, portar eller andra öppningar kan en avskiljande barriär vara räcken eller annan form av avvisare.
 
 ## 10 § |  | 
@@ -363,7 +201,7 @@ Förbindelseleder för tyngre eller otympliga transporter ska vara utformade så
 Det ska vara möjligt att vid behov tillfälligt ställa upp dörrar i förbindelseleder vid leveranser. Den möjligheten får inte medföra en risk för spridning av brand.
 
 > _Allmänna råd_
-
+>
 > Rullande hantering kan vara ett sätt att undvika tung manuell hantering. Både lutning och underlag påverkar vad som är en lämplig utformning för rullande hantering.
 
 ## 12 § |  | 
@@ -372,9 +210,9 @@ Ramper ska ha en lutning och utformning som är anpassad efter användningsområ
 En ramp som ska kunna användas självständigt av en arbetstagare som använder rullstol får inte ha brantare lutning än 1:12.
 
 > _Allmänna råd_
-
+>
 > Att rampens utformning är anpassad efter användningsområdet kan innebära att den behöver ha avåkningsskydd. Vid en bedömning av en lämplig utformning av ramper för rullande hantering av gods är det viktigt att ta hänsyn till de belastningsergonomiska förhållandena. Vid användning av truck i lutning är det viktigt att följa trucktillverkarens anvisningar.
-
+>
 > En ramp för en arbetstagare som använder rullstol bör inte ha en brantare lutning än 1:20 för att öka tillgängligheten och ytterligare höja säkerheten mot fall. Höjdskillnaden mellan vilplan bör vara högst 0,5 meter.
 
 ## 13 § |  | 
@@ -393,7 +231,7 @@ Golv ska vara fasta och stabila, ha en för verksamheten lämplig svikt, utforma
 På arbetsplatser där statisk elektricitet kan innebära en risk ska golvmaterial, inredning och utrustning väljas så att elektrisk uppladdning motverkas, om inte andra åtgärder vidtas för att motverka detta.
 
 > _Allmänna råd_
-
+>
 > Andra åtgärder kan vara förhöjd luftfuktighet eller val av kläder och skor som inte genererar statisk elektricitet.
 
 ## 18 § | Fönster, glaspartier, dörrar och portar | 
@@ -403,7 +241,7 @@ På arbetsplatser där statisk elektricitet kan innebära en risk ska golvmateri
 Fönster och glaspartier ska vara utformade så att de inte brister vid den belastning de kan förväntas utsättas för.
 
 > _Allmänna råd_
-
+>
 > Exempel på en sådan belastning är skolbarn som sitter i fönsternischer och taklanterniner som kan komma att beträdas.
 
 ## 20 § |  | 
@@ -425,7 +263,7 @@ Maskindrivna och manuella dörrar och portar ska vara placerade och utformade s�
 Antalet trappor och deras utformning ska anpassas efter antal användare och arbetets art. Trappor ska vara säkra att använda. De ska normalt ha ledstänger och vara utförda så att halkrisken minimeras.
 
 > _Allmänna råd_
-
+>
 > För att en trappa ska vara säker att använda bör minsta stegdjup normalt vara 0,25 meter och största steghöjd 0,18 meter. Trappan bör ha kontrastmarkeringar samt ha ledstänger på en höjd av 0,9 meter, mätt vid stegnosen.
 
 ## 26 § |  | 
@@ -438,7 +276,7 @@ För tillträde till plattformar, serviceutrymmen och liknande utrymmen, som anv
 Inredning och utrustning ska väljas, utformas och placeras med hänsyn till arbetstagarnas olika förutsättningar och de krav som arbetsuppgifterna ställer. Inredning och utrustning ska kunna användas utan risk för ohälsa och olycksfall. Den som i huvudsak arbetar stående, eller gående, ska ha möjlighet att sätta sig.
 
 > _Allmänna råd_
-
+>
 > Exempel på inredning utformad med hänsyn till arbetstagarnas olika förutsättningar är inredning och utrustning anpassade för både barn och vuxna i skolor, förskoleklasser och liknande.
 
 ## 29 § |  | 
@@ -448,7 +286,7 @@ Ett ställage som är avsett för varierande laster ska vara beständigt märkt 
 Ett ställage ska vara förankrat om det finns risk för instabilitet. Där det finns risk att köra på ställaget ska det finnas påkörningsskydd.
 
 > _Allmänna råd_
-
+>
 > Exempel på när det finns risk för instabilitet är om ställagets totalhöjd är fyra gånger högre än ställagets djup, om det har utdragsenheter eller inte är ordentligt förankrat.
 
 ## 31 § |  | 
@@ -463,14 +301,14 @@ En verksamhet med lastning och lossning av en stor mängd gods ska normalt ha et
 Om varumottaget har angöringsplatser för fordon ska angöringsplatserna vara placerade och utformade så att sammanstötningar mellan fordon och mellan fordon och gående förhindras.
 
 > _Allmänna råd_
-
+>
 > Utformningen av angöringsplatser bör vara sådan att det fria utrymmet för gående, mellan fordon, är minst 0,7 meter, räknat från fordonets mest utstickande del. För att minska risken för att överhäng går in på angränsande område, bör det finnas tillräckligt stort manöverutrymme framför angöringsplatserna. Om det inte går att ordna tillräckligt stora utrymmen kan sammanstötningar förebyggas med organisatoriska åtgärder.
 
 ## 34 § |  | 
 Lastkajer ska ha minst en tillträdesled från marken, normalt en trappa.
 
 > _Allmänna råd_
-
+>
 > Vid längre lastkajer kan det av säkerhetsskäl behövas flera trappor.
 
 ## 35 § |  | 
@@ -480,10 +318,11 @@ Varumottag utomhus, som används mer än tillfälligt, ska normalt ha tak som sk
 Det ska finnas tillgång till dricksvatten i nära anslutning till den plats där arbete utförs och till matutrymmen.
 
 > _Allmänna råd_
-
+>
 > Tillgång till dricksvatten kan även ordnas med dunkar eller flaskor.
 
-# avsnitt-kompletterande-krav-för-personalutrymmen | Kompletterande krav för personalutrymmen | Kompletterande krav för personalutrymmen | 
+## Kompletterande krav för personalutrymmen |  | 
+Stöd och verktyg: Personalutrymmen
 
 ## 37 § | Allmänt | 
 För personalutrymmen preciserar och kompletterar 38–65 §§ de krav som i övrigt gäller för arbetsplatser enligt dessa föreskrifter.
@@ -494,7 +333,7 @@ Antalet personalutrymmen, samt deras placering, storlek och inredning ska vara a
 Personalutrymmen ska vara lättåtkomliga.
 
 > _Allmänna råd_
-
+>
 > Personalutrymmen kan också finnas utomhus. Detta gäller speciellt skolelever. Allmänna råd (2015:1) om friyta för lek och utevistelse vid fritidshem, förskolor, skolor eller liknande verksamhet ges ut av Boverket.
 
 ## 39 § |  | 
@@ -504,7 +343,7 @@ Ett personalutrymme får inte användas för verksamhet eller förvaring som fö
 Det ska finnas utrymmen för förvaring av privata kläder. Kläderna ska kunna förvaras så att de inte smutsas ned eller skadas, och så att risken för stöld motverkas. Utrymmena ska räcka till för alla arbetstagare som samtidigt behöver använda dem. Om privata kläder förvaras i omklädningsrum ska de gå att låsa in.
 
 > _Allmänna råd_
-
+>
 > Risken för stöld kan motverkas genom att förvaringsutrymmen har eller kan förses med lås.
 
 ## 41 § |  | 
@@ -517,9 +356,9 @@ I de fall som omklädning mellan privata kläder och arbetskläder måste ske p�
 Om arbetet är smutsande eller svettdrivande eller det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs från arbetskläder eller skyddskläder ska de privata kläderna kunna förvaras så att smuts inte överförs från arbetskläder eller skyddskläder till privata kläder.
 
 > _Allmänna råd_
-
+>
 > Nedsmutsning kan motverkas genom att kläderna förvaras separat.
-
+>
 > Exempel på arbeten där privata kläder kan behöva förvaras skilda från arbetskläder eller skyddskläder är djurhållning och arbete vid avloppsreningsverk.
 
 ## 44 § |  | 
@@ -532,7 +371,7 @@ Det ska finnas möjlighet att torka arbetskläder, skyddskläder och skodon som 
 Arbetstagare ska ha tillgång till omklädningsrum eller något annat lämpligt utrymme för omklädning på arbetsplatsen om de utför smutsande eller svettdrivande arbete eller måste bära särskilda arbetskläder.
 
 > _Allmänna råd_
-
+>
 > Exempel på ett annat lämpligt utrymme för omklädning kan vara en rymlig toalett eller ett annat avskiljbart utrymme.
 
 ## 47 § |  | 
@@ -545,7 +384,7 @@ Omklädningsrum ska normalt vara skilda för män och kvinnor om de behöver anv
 Om det behövs ska det finnas olika omklädningsrum för byte till och från privata kläder, respektive till och från arbetskläder eller skyddskläder.
 
 > _Allmänna råd_
-
+>
 > Exempel på när det kan behövas olika omklädningsrum är när det finns risk för ohälsa eller besvär genom att smitta, hälsofarligt ämne eller stark lukt överförs vid byte av kläder. Ibland kan dusch mellan rummen behövas.
 
 ## 50 § | Tvättplatser | 
@@ -555,7 +394,7 @@ I personalutrymmen ska det finnas tillräckligt många och lämpligt utformade t
 Om arbetet är svettdrivande eller smutsande, ska det normalt finnas dusch.
 
 > _Allmänna råd_
-
+>
 > Om arbetet bara smutsar ned en begränsad del av kroppen, kan det ibland räcka med en annan tvättplats.
 
 ## 52 § |  | 
@@ -564,14 +403,14 @@ Det ska alltid finnas tillgång till dusch om arbetet medför risk för smitta e
 Duschen ska ligga i ett särskilt tvättrum i anslutning till omklädningsrummen.
 
 > _Allmänna råd_
-
+>
 > Exempel på ett sådant arbete är arbete med mjöl, försöksdjur eller vissa bekämpningsmedel och arbeten i återvinningsanläggningar.
 
 ## 53 § |  | 
 Duschar ska vara skilda för män och kvinnor, om de behöver använda duscharna samtidigt. Tvättplatser ska vara åtskilda för män och kvinnor om det behövs för arbetstagarnas personliga integritet.
 
 > _Allmänna råd_
-
+>
 > När det finns flera duschar bör behovet av avskilda duschplatser ses över. En avskärmad duschplats bör vara försedd med ett eget omklädningsutrymme.
 
 ## 54 § |  | 
@@ -584,7 +423,7 @@ När det behövs ska det finnas utrustning för att spola av kläder eller skodo
 Det ska finnas tillräckligt många toaletter och tvättställ. De ska normalt ligga i närheten av platsen där arbete utförs, pausutrymmen, omklädningsrum samt duschutrymmen och tvättutrymmen.
 
 > _Allmänna råd_
-
+>
 > Det är i allmänhet nödvändigt med en toalett per påbörjat 15-tal arbetstagare. Exempel på när tvättställ behöver ligga i anslutning till arbetsplatser är vid arbete där smittrisk förekommer, kemiska processer, laddning av batterier och arbete inom förskola och annan omsorgsverksamhet. Om arbetet medför smittrisk bör det finnas desinfektionsmedel för huden.
 
 ## 57 § |  | 
@@ -596,7 +435,7 @@ I toalettrummet, eller i anslutning till detta, ska det finnas ett tvättställ 
 På befintliga arbetsplatser ska det finnas toaletter som är tillgängliga för alla som behöver använda dem.
 
 > _Allmänna råd_
-
+>
 > För att vara tillgänglig bör en toalett vara minst 2,2 x 2,2 meter. Större area kan behövas för assisterande arbetstagare och eventuella hjälpmedel, arbetsutrustning eller annan teknisk utrustning. Toaletten bör ha ett larm som går till en plats där det säkert kan uppmärksammas. Den bör ha kontrastmarkeringar samt en inredning och utrustning som är lämpligt utformad och placerad.
 
 ## 59 § |  | 
@@ -606,7 +445,7 @@ Om det finns larm från toaletter ska arbetsgivaren se till att larmet kontrolle
 Arbetstagare ska kunna äta under tillfredsställande förhållanden. Det gäller även de som äter medhavd mat. Det ska ske i lämpliga utrymmen med bord och stolar med ryggstöd.
 
 > _Allmänna råd_
-
+>
 > Exempel på lämpliga utrymmen är en restaurang eller ett matrum, men kan också vara ett avskilt matutrymme i arbetslokalen.
 
 ## 61 § |  | 
@@ -619,50 +458,50 @@ Arbetstagare ska kunna tillbringa pauser och eventuella väntetider i arbetet p�
 På arbetsplatser ska det finnas, eller gå snabbt att ställa i ordning, ett lämpligt vilutrymme för tillfällig, ostörd och liggande vila.
 
 > _Allmänna råd_
-
+>
 > Exempel på när vilutrymmet kan behöva vara utfört som ett särskilt vilrum är när fler än 50 personer samtidigt sysselsätts inom samma område. I närheten av vilutrymmet bör det finnas en toalett.
 
 ## 64 § | Jourrum | 
 För den arbetstagare som har jourtjänst ska det finnas ett ostört jourrum med en storlek och inredning så att arbetstagaren får tillräcklig vila. Rummet ska ligga så nära huvudarbetsplatsen för jourtjänsten som det är praktiskt möjligt. Det ska vara utformat som ett enkelrum.
 
 > _Allmänna råd_
-
+>
 > Jourrum ska finnas när jour i arbetstidslagens (1982:673) mening förekommer. Bestämmelser om att det ska finnas utrymmen för vila, även där arbetsgivaren inte råder över arbetsplatsen, finns i arbetsmiljölagen.
 
 ## 65 § |  | 
 I närheten av jourrum ska det finnas möjlighet att värma och äta mat. Toalett och dusch ska finnas nära jourrummet.
 
-# avsnitt-kompletterande-krav-för-arbete-utomhus | Kompletterande krav för arbete utomhus | Kompletterande krav för arbete utomhus | 
-
-## 66 § |  | 
+## 66 § | Kompletterande krav för arbete utomhus | 
 Den mark som omger en verksamhets byggnader ska, så långt det är möjligt, vara utformad så att transporter, markskötsel, fasadarbeten och liknande kan utföras med betryggande säkerhet mot ohälsa och olycksfall.
 
 > _Allmänna råd_
-
+>
 > Fönsterputsning och avfallshantering är exempel på verksamheter för vilka hänsyn behöver tas vid utformningen av mark i anslutning till byggnader.
 
 ## 67 § |  | 
 Fasta arbetsplatser utomhus ska vara utformade så att arbetstagare skyddas mot väder och vind. Tillfälliga arbetsplatser ska, så långt som möjligt, vara utformade så att de arbetande skyddas mot väder och vind.
 
 > _Allmänna råd_
-
+>
 > Exempel på skydd mot väder och vind är solavskärmning. På skolgårdar, och i liknande miljöer, bör det finnas tillräckligt stora områden med skugga.
 
 ## 68 § |  | 
 Arbetsplatser utomhus ska vara utformade så att halkrisken är liten. Där det behövs ska ytskikten motverka att man halkar. De ska ha en lämplig lutning, så att vatten kan rinna av när så behövs.
 
-# avsnitt-underhåll-och-städning | Underhåll och städning | Underhåll och städning | 
-
-## 69 § |  | 
+## 69 § | Underhåll och städning | 
 Arbetsgivaren ska se till att arbetsplatser underhålls och rengörs enligt rutiner som är anpassade efter verksamheten på arbetsplatsen, arbetstagarnas förutsättningar, och arbetsplatsens utformning.
 
-4 kap. Utrymning, larm och brandskydd
+# kap-4 | 4 kap. | Utrymning, larm och brandskydd | 
 
+## Inledning |  | 
 Stöd och verktyg: Säker utrymning och brandskydd
 
-# avsnitt-utrymning | Utrymning | Utrymning | 
+## 1 § | Definitioner | 
+I detta kapitel har följande begrepp dessa betydelser.
 
-## 2 § |  | 
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Tillfällig utrymningsplats</div></div></td><td><div><div>Plats där arbetstagare, som på egen hand inte kan utrymma hela vägen till en säker plats, säkert kan invänta hjälp.</div></div></td></tr><tr><td><div><div>Utrymningsväg</div></div></td><td><div><div>Utgång som leder till en säker plats, det vill säga en plats i det fria, där brand och brandgaser inte kan påverka utrymmande personer. Det kan även vara ett utrymme i en byggnad som leder från en brandcell till en sådan utgång.</div></div></td></tr></tbody></table>
+
+## 2 § | Utrymning | 
 Alla arbetstagare, oavsett funktionsförmåga, ska kunna utrymma arbetsplatsen på ett snabbt och säkert sätt i händelse av fara.
 
 Om egenutrymning inte är möjlig för alla, ska arbetsgivaren se till att alla arbetstagare ändå kan ta sig till en säker plats innan kritiska förhållanden uppstår.
@@ -671,11 +510,11 @@ Om egenutrymning inte är möjlig för alla, ska arbetsgivaren se till att alla 
 Arbetsgivaren ska se till att det finns rutiner för att alla arbetstagare ska kunna utrymma arbetsplatsen. Utrymningsövningar ska normalt genomföras så att arbetstagarna har aktuell kunskap om hur utrymningen ska ske.
 
 > _Allmänna råd_
-
+>
 > Exempel på när utrymningsövningar behöver genomföras regelbundet är i verksamheter där kritiska förhållanden kan uppstå snabbt eller där personal har särskilda uppgifter i samband med en utrymning. Exempel på sådana verksamheter är vissa industrier, vårdanläggningar och skolor. Exempel på när utrymningsövningar kan ersättas med genomgångar, om det ger likvärdiga kunskaper, är om verksamheten sker i små och överblickbara lokaler och alla arbetstagare har förutsättningar att utrymma på egen hand.
-
+>
 > För att följa bestämmelsen kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena.
-
+>
 > Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i lagen (2003:778) om skydd mot olyckor.
 
 ## 4 § |  | 
@@ -684,7 +523,7 @@ Om en utrymningsväg på en befintlig arbetsplats är utformad så att arbetstag
 Arbetsgivaren ska se till att ingen lämnas kvar på en tillfällig utrymningsplats.
 
 > _Allmänna råd_
-
+>
 > En tillfällig utrymningsplats kan ibland ordnas i trapphuset om det inte hindrar övriga som utrymmer. Exempel på sätt att säkerställa att ingen lämnas kvar på en tillfällig utrymningsplats är att det finns kommunikationssystem eller rutiner för att meddela räddningstjänsten att någon behöver assistans. Exempel på hur utrymningsplatser kan utformas finns i Boverkets byggregler (BBR).
 
 ## 5 § |  | 
@@ -693,11 +532,11 @@ Antalet utrymningsvägar samt deras fördelning och kapacitet ska vara avpassade
 Det ska normalt finnas minst två av varandra oberoende utrymningsvägar.
 
 > _Allmänna råd_
-
+>
 > Ibland kan fönster i markplan vara en utrymningsväg, beroende på arbetstagarnas förmåga att använda utrymningsvägen. Ibland kan fönster med balkong och hjälp av räddningstjänsten godtas som den ena av de två av varandra oberoende utrymningsvägarna, beroende på räddningstjänstens insatstid och kapacitet.
-
+>
 > Exempel på när det kan vara tillräckligt med en (1) utrymningsväg är små lokaler i markplan, och lokaler där man bara vistas tillfälligt.
-
+>
 > För bedömning av enskilda fall kan Boverkets byggregler (BBR) användas som vägledning.
 
 ## 6 § |  | 
@@ -711,46 +550,42 @@ Dörrar och grindar för utrymning ska normalt vara utåtgående i utrymningsrik
 Skjutdörrar och roterdörrar, som bara är avsedda för utrymning, är inte tillåtna.
 
 > _Allmänna råd_
-
+>
 > Om bara ett fåtal personer vistas i lokalen kan inåtgående dörrar eller grindar accepteras.
 
 ## 8 § |  | 
 Dörrar som behöver passeras vid utrymning ska vara lätta att öppna för dem som behöver använda dem. De får inte vara låsta eller reglade på sådant sätt att utrymning försvåras.
 
 > _Allmänna råd_
-
+>
 > För att underlätta utrymningen kan tunga dörrar och dörrar med dörrstängare förses med automatisk dörröppnare.
 
-# avsnitt-belysning-och-vägledande-markering-för-utrymning | Belysning och vägledande markering för utrymning | Belysning och vägledande markering för utrymning | 
-
-## 9 § |  | 
+## 9 § | Belysning och vägledande markering för utrymning | 
 Utrymningsvägar ska ha belysning som fungerar med tillfredsställande säkerhet.
 
 En utrymningsväg där det krävs belysning för att utrymningen ska vara säker ska ha tillräcklig nödbelysning för utrymning om det är fel på den ordinarie belysningen.
 
 > _Allmänna råd_
-
+>
 > Exempel på när nödbelysning för utrymning kan behövas är i trapphus eller på arbetsplatser där nödbelysning krävs enligt 5 kap. 26 §. På golvet i gångstråket bör belysningsstyrkan vara minst 1 lux på det sämst belysta stället. Exempel på ljusbehov för att dimensionera belysningen av utrymningsvägar finns i standarden
-
+>
 > SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
 
 ## 10 § |  | 
 Utrymningsvägar samt vägar och dörrar till utrymningsvägar ska normalt vara skyltade eller ha andra vägledande markeringar.
 
 > _Allmänna råd_
-
+>
 > Exempel på andra vägledande markeringar är fluorescerande ljus i golvet och taktila ledstråk.
 
 ## 11 § |  | 
 Skyltar och andra vägledande markeringar för utrymning ska vara placerade på väl synliga ställen och ha ett varaktigt utförande. När det behövs, ska de vara belysta eller genomlysta. Skyltarna ska vara utförda enligt bilagorna 2 och 3.
 
 > _Allmänna råd_
-
+>
 > Exempel på lämplig storlek på skyltar, i förhållande till läsavstånd, finns i standarden SS-EN 1838:2013. Belysning – Nödbelysning. Utgåva 2.
 
-# avsnitt-utrymningslarm | Utrymningslarm | Utrymningslarm | 
-
-## 12 § |  | 
+## 12 § | Utrymningslarm | 
 För att förebygga olycksfall och akut ohälsa på grund av brand, gasutströmning, syrebrist eller liknande ska det finnas detektorer och larmanordningar i den omfattning som är nödvändig. Vid bedömningen av vad som är nödvändig omfattning ska hänsyn tas till arbetsplatsens storlek, läge och användning, de fysikaliska och kemiska egenskaperna hos de material, ämnen och produkter och den utrustning som förekommer samt det antal människor som arbetsplatsen är avsedd för och deras förutsättningar.
 
 ## 13 § |  | 
@@ -759,42 +594,40 @@ Larm ska kunna utlösas manuellt vid fara. Om det behövs ska det finnas en anor
 Bestämmelser om larm vid våld och hot om våld finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar i kapitlet om våld och hot om våld.
 
 > _Allmänna råd_
-
+>
 > Se även bilagorna 2 och 6–8.
-
+>
 > Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
 
 ## 14 § |  | 
 Larmanordningar ska avge signaler som kan uppfattas av alla arbetstagare som berörs av faran. Signalerna ska inte kunna förväxlas med processignaler eller andra signaler som förekommer på arbetsplatsen.
 
 > _Allmänna råd_
-
+>
 > Se även bilagorna 2 och 6–8.
-
+>
 > Exempel på hur larm kan utformas finns i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
 
 ## 15 § |  | 
 Arbetsgivaren ska se till att installationer för utrymning underhålls och kontrolleras regelbundet. Kontrollen ska dokumenteras och arbetsgivaren ska ha tillgång till dokumentationen.
 
 > _Allmänna råd_
-
+>
 > Utrymningslarm, detektorer för brand eller gas, nödbelysning och automatiska dörröppnare i utrymningsvägar är exempel på installationer för utrymning.
-
+>
 > Att skyltar ska underhållas framgår av bilaga 2.
-
+>
 > Exempel på hur kontroll och dokumentation av utrymningslarm kan göras finns beskrivet i Brandskyddsföreningens skrifter SBF 110 och SBF 502.
-
+>
 > För att kunna se till att installationer för utrymning underhålls och kontrolleras regelbundet kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena. Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i lagen (2003:778) om skydd mot olyckor.
 
-# avsnitt-särskilda-åtgärder-för-brandskydd | Särskilda åtgärder för brandskydd | Särskilda åtgärder för brandskydd | 
-
-## 16 § |  | 
+## 16 § | Särskilda åtgärder för brandskydd | 
 Arbetsgivaren ska se till att det finns rutiner för att förebygga uppkomst och spridning av brand.
 
 > _Allmänna råd_
-
+>
 > Hur omfattande rutinerna behöver vara beror bland annat på verksamhetens art, lokalernas utformning och antalet arbetstagare. För att följa bestämmelsen kan arbetsgivaren behöva samverka med fastighetsägaren eller andra aktörer som påverkar utrymningsförhållandena.
-
+>
 > Krav på fastighetsägares och verksamhetsutövares systematiska brandskyddsarbete finns i lagen (2003:778) om skydd mot olyckor.
 
 ## 17 § |  | 
@@ -806,34 +639,32 @@ Särskilda åtgärder ska vidtas för att underlätta utrymning i byggnader och 
 Om det behövs ska det finnas ett automatiskt släcksystem.
 
 > _Allmänna råd_
-
+>
 > Särskilda åtgärder kan vara både tekniska och organisatoriska. Exempel på tekniska åtgärder är automatiska släckanläggningar, automatiskt styrd brand- och rökgasevakuering och extra utrymningsvägar. Exempel på organisatoriska åtgärder är extra utbildning av personal och att arbetstagare som utför tillfälliga arbeten i serviceutrymmen står i kontakt med någon utanför rummet.
-
+>
 > Exempel på när särskilda åtgärder kan behöva vidtas är när stora mängder plast, färg eller papper hanteras i verksamheten och när arbete utförs i utrymmen som är svåra att utrymma som till exempel höglager, traversförarrum, maskinrum, cisterner, kulvertar och transformatorrum eller när det bara finns en utrymningsväg.
-
+>
 > Riktlinjer för vattensprinklersystem finns i Brandskyddsföreningens skrift SBF 120:8.
 
 ## 19 § |  | 
 Släckutrustning och släcksystem som inte är automatiska ska vara lätta att komma åt och använda samt markeras med skyltar på väl synliga ställen.
 
 > _Allmänna råd_
-
+>
 > Se bilagorna 2–4 för utformning av skyltningen.
 
 ## 20 § |  | 
 I utrymmen där utlöst släckmedel från ett automatiskt släcksystem innebär risk för kvävning eller ohälsa för arbetstagarna ska särskilda åtgärder vidtas för att skydda mot sådana risker. Utlösningen ska då ske med viss fördröjning efter larmet, så att utrymningen kan ske innan en akut risk för skador uppstår.
 
 > _Allmänna råd_
-
+>
 > Exempel på utformning av sådana släcksystem finns beskrivet i Brandskyddsföreningens skrifter SBF 500 och SBF 115.
 
-# avsnitt-utrymningsplan | Utrymningsplan | Utrymningsplan | 
-
-## 21 § |  | 
+## 21 § | Utrymningsplan | 
 På arbetsplatser ska det, i den omfattning som behövs och på platser som är väl synliga och lätta att upptäcka, finnas anslag med utrymningsplan. Utrymningsplaner behövs dock inte för arbetsplatser vars storlek, läge och överskådlighet är sådana att en utrymningsplan saknar betydelse för arbetstagarnas säkerhet vid en utrymning.
 
 > _Allmänna råd_
-
+>
 > Små lokaler där samtliga utrymningsvägar är synliga från hela lokalen är exempel på när utrymningsplanen kan sakna betydelse för arbetstagarnas säkerhet.
 
 ## 22 § |  | 
@@ -852,58 +683,61 @@ Om inte alla utrymningsvägar är tillgängliga för personer med nedsatt rörel
 Utrymningsplanen får också innehålla annan information om det inte försvårar läsningen.
 
 > _Allmänna råd_
-
+>
 > Exempel på hur en utrymningsplan kan vara utformad finns i svensk standard SS 2875:2019. Brand och räddning – Utrymningsplan – symboler. Utgåva 3.
 
-# avsnitt-luftkvalitet | Luftkvalitet | Luftkvalitet | 
+# kap-5 | 5 kap. | Klimat och installationer | 
 
-## 2 § |  | 
+## 1 § | Definitioner | 
+I detta kapitel har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Buller</div></div></td><td><div><div>Icke önskvärt ljud. Omfattar både hörselskadligt och störande ljud.</div></div><div><div>Begreppet störande ljud omfattar både psykologiska och fysiologiska effekter.</div></div></td></tr><tr><td><div><div>Processventilation</div></div></td><td><div><div>Ventilation som fångar upp och för bort luftföroreningar så nära källan som möjligt.</div></div></td></tr><tr><td><div><div>Termiskt klimat</div></div></td><td><div><div>Benämning på de faktorer som inverkar på människans upplevelse av klimatet, det vill säga lufttemperatur, omgivande ytors temperatur, luftfuktighet och lufthastighet.</div></div></td></tr><tr><td><div><div>Utblick</div></div></td><td><div><div>Visuell kontakt med omgivningen, genom en öppning mot utsidan eller mot till exempel ett inomhustorg, som ger information om omgivningen och möjlighet att följa vädrets, dygnets och årstidernas variationer.</div></div></td></tr><tr><td><div><div>Vistelsezon</div></div></td><td><div><div>Den del av ett rum där krav ställs på luftkvalitet och termisk komfort. Vistelsezonen begränsas i rummet av två horisontella plan, ett på 0,1&nbsp;meter över golvet och ett annat på 2,0&nbsp;meter över golvet samt vertikala plan 0,6&nbsp;meter från ytterväggen eller annan yttre begränsning, dock vid fönster och dörr 1,0&nbsp;meter.</div></div></td></tr></tbody></table>
+
+## 2 § | Luftkvalitet | 
 Under den tid som arbete pågår ska arbetsplatser inomhus ha en tillfredsställande luftkvalitet i vistelsezonen. Luften ska, så långt som möjligt, vara fri från föroreningar som kan vara skadliga för hälsan eller ge besvärande lukt.
 
 > _Allmänna råd_
-
+>
 > Exempel på vad som påverkar hur luftkvaliteten upplevs är lufttemperatur, relativ fuktighet, partiklar och andra luftföroreningar. Kravet på luftkvalitet är normalt lägre i lokaler som används tillfälligt, till exempel förråd.
 
-# avsnitt-ventilation | Ventilation | Ventilation | 
-
-## 3 § |  | 
+## 3 § | Ventilation | 
 Arbetsplatser inomhus ska ha ventilationssystem som bidrar till att skapa ett bra inomhusklimat. De ska på ett effektivt sätt kunna tillföra tillräcklig mängd uteluft och föra bort de luftföroreningar som inte tas om hand på annat sätt.
 
 Luftföringen ska ordnas så att föroreningar inte sprids mellan olika lokaler.
 
 > _Allmänna råd_
-
+>
 > Det kan vara nödvändigt med fläktstyrd till- och frånluft för att få tillfredsställande luftkvalitet, temperatur, lufthastighet, renhet och fuktighet i alla utrymmen.
-
+>
 > Föroreningar kan också tas om hand genom filtrering av partiklar eller gaser. Det ger möjlighet till en högre luftkvalitet än vad enbart ventilation ger.
-
+>
 > Luftutbyteseffektiviteten bör vara minst 40 procent. Kontroll av luftutbyteseffektiviteten kan ske med hjälp av spårgas.
-
+>
 > Användningen av överluft hör till de faktorer som behöver tas hänsyn till vid bedömningen av föroreningsspridningen. Normalt ordnas överluft från rum med högre krav på luftkvalitet till sådana med lägre krav.
-
+>
 > Det är lämpligt att ta fram en enklare information som beskriver för arbetstagarna hur ventilationen på arbetsplatsen fungerar.
 
 ## 4 § | Tillförsel av uteluft | 
 Arbetsplatser inomhus ska, under den tid som arbete pågår, normalt kunna förses med minst 7 liter uteluft per sekund och person och ett tillägg av minst 0,35 liter per sekund och m² golvyta.
 
 > _Allmänna råd_
-
+>
 > Det minsta flödet 7 liter per sekund och person gäller personer vid stillasittande arbete. Vid högre aktivitet kan flödet behöva ökas. Tillägget 0,35 liter per sekund och m² förutsätter att byggnadsmaterial och inredning är valda för att minimera avgivningen av luftföroreningar. Är detta inte fallet kan luftflödet behöva ökas.
 
 ## 5 § |  | 
 Tilluften till arbetsplatser inomhus ska vara så fri från luftföroreningar att den inte ger upphov till hälsorisker. Uteluftsintag ska placeras där halten av föroreningar är låg och där lufttemperaturen är lämplig.
 
 > _Allmänna råd_
-
+>
 > För de ämnen som omfattas av luftkvalitetsförordningen (2010:477) bör luftföroreningshalten i tilluften till arbetsplatser inte vara högre än de miljökvalitetsnormer som anges där. I vissa färdigställda utrymmen i gruvor är detta inte möjligt. För färdigställda utrymmen i gruvor bör istället halten av kväveoxid och kvävedioxid i tilluften inte överstiga 1/5 av nivågränsvärdet.
-
+>
 > Exempel på föroreningskällor som man behöver ta hänsyn till är trafikerade vägar, avluftsöppningar, kyltorn och spillvattenledningars luftningsledningar.
 
 ## 6 § |  | 
 Luften ska tillföras på ett sådant sätt att drag inte uppstår.
 
 > _Allmänna råd_
-
+>
 > Vid stillasittande arbete bör lufthastigheten i vistelsezonen vara lägre än 0,15 m/s. Högre lufthastigheter kan accepteras vid rörligt arbete, eller vid högre lufttemperaturer.
 
 ## 7 § | Kontroll och underhåll | 
@@ -918,14 +752,14 @@ dragskåp och mikrobiologiska säkerhetsbänkar, med tillhörande kontrollsystem
 Arbetsgivaren ska se till att kontroller och underhåll enligt 1–3 dokumenteras. Arbetsgivaren ska ha tillgång till dokumentationen.
 
 > _Allmänna råd_
-
+>
 > Kraven på kontroll i 1 och 2 anses uppfyllda om byggnaden omfattas av krav på obligatorisk ventilationskontroll, OVK, enligt plan- och bygglagen och plan- och byggförordningen, arbetsgivaren försäkrat sig om att obligatorisk ventilationskontroll utförts inom avsedd tid och arbetsgivaren har tillgång till dokumentationen av kontrollen.
 
 ## 8 § | Återluft | 
 Frånluft får bara återföras som återluft om luftkvaliteten i vistelsezonen kan hållas tillfredsställande. Återluftsföringen ska normalt kunna stängas av helt.
 
 > _Allmänna råd_
-
+>
 > Vid projektering bör det undersökas om återluftsföring är lämplig med tanke på luftkvaliteten. Oavsiktlig återluftsföring, exempelvis den som kan ske i roterande värmeväxlare, bör minimeras genom att ventilationssystemet utformas med tryckförhållanden som motverkar att luftkvaliteten i vistelsezonen försämras.
 
 ## 9 § | Processventilation | 
@@ -934,14 +768,14 @@ Där föroreningskällan så kräver ska det finnas processventilation. Den ska 
 Vid arbetsplatser där processventilation behövs mer än tillfälligt och där arbetet så medger ska den vara fast installerad. I annat fall ska ett mobilt utsug användas.
 
 > _Allmänna råd_
-
+>
 > Processventilation kan innebära olika slag av inkapsling, till exempel dragskåp och mikrobiologiska säkerhetsbänkar, men också olika typer av punktutsug. Även vattenånga från till exempel diskmaskiner är en luftförorening som kan kräva processventilation. Mobila utsug kan till exempel behöva användas vid svetsning av större objekt.
 
 ## 10 § |  | 
 Om ett dragskåp eller en mikrobiologisk säkerhetsbänk används för en effektiv processventilation ska det eller den ha en lufthastighet in genom lucköppningen som är tillräckligt hög för att ge en tillräcklig skyddseffekt under den tid arbetet eller processen som avger luftföroreningar pågår. Det eller den ska ha ett grundflöde som ger en stabil strömningsbild in i skåpet eller bänken under övrig tid.
 
 > _Allmänna råd_
-
+>
 > Exempel på hur ett dragskåps skyddseffekt kan bedömas vid kontroll finns i standarden SS-EN 14175-4:2004. Dragskåp – Del 4: Mätmetoder för installations- och periodisk kontroll. Utgåva 1. I ett traditionellt dragskåp bör luftflödet genom lucköppningen vara minst 0,5 m/s. Exempel på hur en säkerhetsbänks skyddseffekt kan bedömas finns i standarden SS-EN 12469. Bioteknik – Prestandakriterier för mikrobiologiska säkerhetsbänkar. Utgåva 1.
 
 ## 11 § |  | 
@@ -954,7 +788,7 @@ Arbetsgivaren ska se till att larm från processventilation kontrolleras regelbu
 Frånluft från en luftförorenande process, hantering eller dylikt får inte återföras som återluft eller cirkulationsluft, om den inte renas så att dess halt av luftföroreningar är väsentligt lägre än de hygieniska gränsvärden som anges i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljön.
 
 > _Allmänna råd_
-
+>
 > Kravet att frånluft som återförs ska renas så att dess halt av luftföroreningar är väsentligt lägre än de hygieniska gränsvärdena kan innebära att de krav på tillförd uteluft som finns i 5 § uppfylls, och att halten för andra ämnen, förutom för kolmonoxid (CO), koldioxid (CO2) och kvävedioxid (NO2), bör vara lägre än 1/20 av nivågränsvärdet, där sådant finns. För kolmonoxid (CO) bör halten vara lägre än 1/2 av nivågränsvärdet, för koldioxid (CO2) bör halten vara lägre än 1/5 av nivågränsvärdet och för kvävedioxid (NO2) lägre än 1/10 av nivågränsvärdet.
 
 ## 14 § |  | 
@@ -973,20 +807,18 @@ svetsrök från ett fast installerat utsug.
 ## 15 § |  | 
 Om ett fel i reningens funktion kan medföra att skadliga halter av luftföroreningar uppstår i vistelsezonen, ska eventuellt genomsläpp av luftföroreningar snabbt kunna konstateras och arbetstagarna göras uppmärksamma på detta. Frånluften ska då föras till en annan reningsanordning eller direkt till det fria, eller så ska processen eller hanteringen stoppas.
 
-# avsnitt-temperatur-och-klimat | Temperatur och klimat | Temperatur och klimat | 
-
-## 16 § |  | 
+## 16 § | Temperatur och klimat | 
 Arbetsplatser inomhus ska ha ett lämpligt termiskt klimat. Temperaturen och lufthastigheten ska anpassas till typen av arbete, om arbetet är lätt eller tungt eller om det är rörligt eller utförs stillasittande. Omgivande ytor ska ha sådana temperaturer att strålningsasymmetri, det vill säga skillnad i värmestrålning till och från olika ytor, undviks. Om olika arbetsuppgifter sker i olika delar av en lokal, kan de behöva ha olika termiskt klimat.
 
 > _Allmänna råd_
-
+>
 > En bedömning av lämpligt termiskt klimat kan göras i enlighet med Folkhälsomyndighetens handbok Temperatur inomhus, (SOSFS 2005:15). Exempel på hur lämpligt klimat kan beräknas finns i standarden SS-EN 7730:2006. Ergonomi för den termiska miljön – Analytisk bestämning och bedömning av termisk komfort med hjälp av indexen PMV och PPD samt kriterier för lokal termisk komfort. Utgåva 2. Om lufttemperaturen vid lätt och stillasittande arbete varaktigt avviker från 20–24 °C vintertid och 20–26 °C sommartid, bör det termiska klimatet undersökas närmare.
 
 ## 17 § |  | 
 En permanent arbetsplats ska ha skydd mot besvärande drag om den är placerad nära en dörr eller en port till det fria eller en lokal med väsentligt högre eller lägre temperatur.
 
 > _Allmänna råd_
-
+>
 > Lämpligt skydd kan vara vindfång, sluss, vädertätning eller luftridå.
 
 ## 18 § |  | 
@@ -995,7 +827,7 @@ Om det av produktionstekniska skäl inte är möjligt att skapa ett lämpligt te
 Om detta inte kan ordnas, ska arbetsgivaren vidta andra åtgärder för att minska risken för ohälsa och olycksfall.
 
 > _Allmänna råd_
-
+>
 > Produktionstekniska skäl kan till exempel vara hantering av livsmedel och metallsmältor. Exempel på åtgärder kan vara arbetsrotation till arbete i lämpligt klimat eller användning av skyddskläder. Exempel på hur erforderlig skyddsklädsel, samt lämplig längd på arbetspass, kan beräknas vid arbete i kylda lokaler finns i standarden SS-EN ISO 11079:2007. Ergonomi för den termiska miljön – Bestämning och bedömning av termisk belastning i kyla med hjälp av rekommenderad beklädnadsisolation (IREQ) samt lokala avkylningseffekter. Utgåva 1.
 
 ## 19 § | Arbete i stark värme | 
@@ -1010,24 +842,22 @@ Arbetsgivaren ska se till att inget arbete utförs som medför risk för att hö
 ## 22 § |  | 
 Arbetsgivaren ska se till att personlig skyddsutrustning i form av speciella värmeskyddskläder används, när överskridande av tidsvägt värmeindex eller brännskada inte kan hindras med andra åtgärder.
 
-# avsnitt-dagsljus-och-annan-belysning | Dagsljus och annan belysning | Dagsljus och annan belysning | 
-
-## 23 § |  | 
+## 23 § | Dagsljus och annan belysning | 
 Arbetsplatser ska ha en belysning som är anpassad till verksamheten och de synkrav arbetsuppgifterna innebär samt de enskilda arbetstagarnas syn och övriga förutsättningar. Belysningen ska göra det möjligt att förflytta sig säkert inom arbetsplatsen.
 
 > _Allmänna råd_
-
+>
 > Belysningsstyrkorna i angränsande utrymmen bör balanseras så att ljus- och mörkerseendet bibehålls.
 
 ## 24 § |  | 
 Belysningen ska vara av god kvalitet, vilket innebär att hänsyn tagits till belysningsstyrka, färgåtergivning anpassad till verksamheten, besvärande flimmer, bländfrihet, ljusfördelning och kontraster.
 
 > _Allmänna råd_
-
+>
 > Exempel på riktvärden för belysningsstyrkor och för begränsning av bländning finns beskrivna för olika typer av arbetsplatser i standarderna
-
+>
 > SS-EN 12464-1:2021. Ljus och belysning – Belysning av arbetsplatser – Del 1: Arbetsplatser inomhus. Utgåva 4, och
-
+>
 > SS-EN 12464-2:2014. Ljus och belysning – Belysning av arbetsplatser – Del 2: Arbetsplatser utomhus. Utgåva 2.
 
 ## 25 § |  | 
@@ -1036,28 +866,26 @@ Arbetsplatser ska vara utformade så att de kan ge tillfredsställande dagsljus 
 Om kravet i första stycket inte går att uppfylla på grund av att varken ombyggnad eller flytt till lokaler med dagsljus och utblick är rimlig, eller att verksamhetens art medför att det inte är möjligt med dagsljus och utblick, ska åtgärder vidtas som så långt som möjligt kompenserar för bristen på dagsljus och utblick.
 
 > _Allmänna råd_
-
+>
 > Exempel på metoder för bedömning av dagsljus och utblick finns i standarden SS-EN 17037:2018. Dagsljus i byggnader. Utgåva 1. Den ger även rekommendationer om god dagsljusbelysning och utblick.
 
 ## 26 § |  | 
 Nödbelysning av tillräcklig styrka ska finnas på sådana arbetsplatser, där de som arbetar är speciellt utsatta för risker i händelse av fel på den ordinarie belysningen.
 
 > _Allmänna råd_
-
+>
 > Exempel på arbetsplatser där nödbelysning kan behövas är kemisk industri, kemiska och biologiska laboratorier, frysrum samt arbetsplatser med rörliga maskindelar.
 
-# avsnitt-vatten-och-avlopp | Vatten och avlopp | Vatten och avlopp | 
-
-## 27 § |  | 
+## 27 § | Vatten och avlopp | 
 Tappställen för vatten som inte är drickbart ska vara tydligt skyltade så att de inte förväxlas med tappställen för dricksvatten, se bilaga 3.
 
 ## 28 § |  | 
 Vid duschar och andra aerosolskapande installationer ska varmvattensystemet vara utformat och tempererat så, att risken för tillväxt och spridning av legionellabakterier förhindras.
 
 > _Allmänna råd_
-
+>
 > Andra aerosolskapande installationer kan till exempel vara befuktningsanläggningar.
-
+>
 > Bestämmelser om utformning av varmvattensystem vid duschar, i syfte att undvika legionellatillväxt, finns i Boverkets byggregler (BBR).
 
 ## 29 § |  | 
@@ -1067,12 +895,10 @@ Golv som behöver spolas eller av andra skäl behöver avrinning ska normalt ha 
 Över golvgropar och större golvrännor där gångtrafik förekommer ska det finnas halksäkra golvgaller som är lätta att lyfta upp. Om det finns behov av att tömma ut stora mängder vätska, ska de vara utformade så att de inte ger återstänk. De redskap som behövs för att lyfta golvgaller ska finnas lätt åtkomliga.
 
 > _Allmänna råd_
-
+>
 > Exempel på verksamheter där man kan behöva tömma ut stora mängder vätska är restaurangkök och tvätterier.
 
-# avsnitt-akustik-och-buller | Akustik och buller | Akustik och buller | 
-
-## 31 § |  | 
+## 31 § | Akustik och buller | 
 Arbetsplatser ska ha en ljudmiljö som är lämplig med hänsyn till den verksamhet som bedrivs och arbetstagarnas förutsättningar.
 
 Arbetsplatser ska vara utformade så att bullerexponeringen är reducerad till lägsta praktiskt möjliga ljudnivå, och så få som möjligt utsätts för buller. Hänsyn ska tas till alla förekommande bullerkällor.
@@ -1080,57 +906,53 @@ Arbetsplatser ska vara utformade så att bullerexponeringen är reducerad till l
 Ytterligare bestämmelser om buller finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön i kapitlet om buller.
 
 > _Allmänna råd_
-
+>
 > För att undvika störning och negativ kognitiv påverkan kan nedan angivna ljudnivåer vara lämpliga. Värdet i punkterna nedan omfattar inte ljudbidrag från den egna verksamheten. Under en normal arbetsdag bör den ekvivalenta A-vägda ljudnivån inte överstiga
-
+>
 > 30 dB, vid stora krav på stadigvarande koncentration och på säker taluppfattbarhet,
-
+>
 > 40 dB, vid stora krav på stadigvarande koncentration eller behov av att kunna föra samtal obesvärat,
-
+>
 > 55 dB, när det är betydelsefullt att kunna samtala, eller där krav ställs på stadigvarande precision, snabbhet eller uppmärksamhet och där bara mindre bullrande utrustning är direkt knuten till arbetet, eller
-
+>
 > 75 dB, vid verksamhet där bullrande maskiner och utrustning används och som normalt inte hör till grupperna ovan.
-
+>
 > Bestämmelser om ljud i vissa arbetslokaler finns i Boverkets byggregler (BBR). Exempel på en metod för bestämning av bullerexponering finns i standarden SS-EN ISO 9612:2009. Akustik – Bestämning av bullerexponering i arbetsmiljön – Teknisk metod. Utgåva 1.
 
 ## 32 § |  | 
 Installationer ska vara utförda så att ljudnivån på arbetsplatser blir så låg som praktiskt är möjligt med avseende på bulleralstring och bulleröverföring.
 
 > _Allmänna råd_
-
+>
 > Bestämmelser om ljud från installationer för vissa lokaltyper finns i Boverkets byggregler (BBR).
 
-# avsnitt-el | El | El | 
-
-## 33 § |  | 
+## 33 § | El | 
 Elinstallationer ska vara utförda så att risken för brand, explosion eller ström genom kroppen undanröjs. Uttag och andra elinstallationer ska vara placerade så att användningen medger en god arbetsmiljö.
 
 Bestämmelser för arbetsplatser där exponering för elektromagnetiska fält förekommer finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön i kapitlet om elektromagnetiska fält.
 
 > _Allmänna råd_
-
+>
 > Ytterligare bestämmelser om utförande, skötsel och underhåll av elektriska anläggningar och elektrisk utrustning finns i Elsäkerhetsverkets föreskrifter.
 
-# avsnitt-skydd-mot-våld-och-hot-om-våld | Skydd mot våld och hot om våld | Skydd mot våld och hot om våld | 
+# kap-6 | 6 kap. | Säkerhet | 
 
-## 1 § |  | 
+## 1 § | Skydd mot våld och hot om våld | 
 Arbetsplatser ska vara utformade så att risken för våld eller hot om våld så långt som det är möjligt förebyggs.
 
 Bestämmelser om larm för att tillkalla hjälp vid våld och hot om våld finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:2) om planering och organisering av arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar i kapitlet om våld och hot om våld.
 
 > _Allmänna råd_
-
+>
 > Risk för våld och hot om våld kan vara en orsak till utlösning av utrymningslarm.
-
+>
 > Exempel på utformning som minimerar risken för våld och hot om våld är att det finns möjlighet till reträtt ut ur den aktuella lokalen eller att det finns någon annan möjlighet att sätta sig i säkerhet i lokalen, att lokalerna är möjliga att överblicka och inte innehåller gömda skrymslen och att det är möjligt att överblicka området utanför en entré innan man öppnar ytterdörren.
 
-# avsnitt-skydd-mot-fall | Skydd mot fall | Skydd mot fall | 
-
-## 2 § |  | 
+## 2 § | Skydd mot fall | 
 Arbetsplatser ska vara utformade så att risken för fall minimeras. Det gäller fall till lägre nivå, från samma nivå genom att man halkar eller snubblar och till bassänger, kar och liknande anordningar, vars innehåll innebär särskild fara.
 
 > _Allmänna råd_
-
+>
 > Exempel på hur risken för fall kan minimeras är skyddsräcken och skyddstäckning samt att öppningar i golv så långt som möjligt undviks, framförallt i närheten av platser där arbetstagare passerar eller utför arbete. I vissa fall kan avspärrning vara tillräckligt. Skydd mot fall från samma nivå berörs bland annat i paragrafer om golv, förbindelseleder och underhåll.
 
 ## 3 § |  | 
@@ -1146,65 +968,55 @@ Om det är möjligt från godshanteringssynpunkt ska det finnas avkörningsskydd
 Ett skyddsräcke ska vara utformat så att det begränsar risken att falla över, genom eller under räcket och, när det behövs, inte går att klättra på.
 
 > _Allmänna råd_
-
+>
 > För att ett skyddsräcke ska begränsa fallrisken bör det vara minst 1,1 meter högt. I trappor räcker det normalt med räckeshöjden 0,9 meter, om det inte finns risk att falla mer än 3,0 meter.
-
+>
 > Utomhus behöver hänsyn tas till snöförhållandena, så att räckeshöjden är tillräcklig även när underlaget är snö.
-
+>
 > Enligt Boverkets byggregler (BBR) ska räcken i utrymmen där barn kan vistas utformas så att barn inte skadar sig till följd av att de klättrar eller kryper.
 
 ## 7 § |  | 
 Ett skyddsräcke ska vara dimensionerat så att det håller för den belastning som det kan bli utsatt för. Räcket ska normalt vara fast. Om man kan ta loss, fälla eller vrida räcket, ska det lätt kunna återföras till skyddsläget och säkras.
 
-# avsnitt-skydd-mot-ras | Skydd mot ras | Skydd mot ras | 
-
-## 8 § |  | 
+## 8 § | Skydd mot ras | 
 Arbetsplatser ska vara utformade så att föremål inte kan falla ned och skada arbetstagare.
 
 ## 9 § |  | 
 Ytterdörrar och portar ska normalt ha skydd mot snöras och fallande istappar.
 
 > _Allmänna råd_
-
+>
 > Exempel på skydd är skyddstak och snörasskydd.
 
-# avsnitt-skydd-mot-sammanstötning-med-glasytor | Skydd mot sammanstötning med glasytor | Skydd mot sammanstötning med glasytor | 
-
-## 10 § |  | 
+## 10 § | Skydd mot sammanstötning med glasytor | 
 Genomsynliga dörrar, portar och väggpartier ska där det behövs vara tydligt markerade så att de är lätta att upptäcka.
 
 > _Allmänna råd_
-
+>
 > Bestämmelser om glas finns även i Boverkets byggregler (BBR).
 
-# avsnitt-skydd-mot-skärskador | Skydd mot skärskador | Skydd mot skärskador | 
-
-## 11 § |  | 
+## 11 § | Skydd mot skärskador | 
 Om det finns risk för att arbetstagarna kommer i kontakt med glasytor på ett sådant sätt att glasytorna kan splittras, ska glasytorna antingen förses med skydd eller vara så utförda att skärskador undviks.
 
 > _Allmänna råd_
-
+>
 > I skolor bör glasytor i dörrar och väggpartier vara gjorda av härdat eller laminerat glas, om avståndet från glasytans underkant till golvet eller marken är mindre än 1,5 meter. Bestämmelser om glas finns även i Boverkets byggregler (BBR).
 
-# avsnitt-skydd-mot-köldskador-och-brännskador | Skydd mot köldskador och brännskador | Skydd mot köldskador och brännskador | 
-
-## 12 § |  | 
+## 12 § | Skydd mot köldskador och brännskador | 
 Kalla eller heta ytor och installationer ska vara placerade och utformade så att kylskador eller brännskador undviks. De ska vara isolerade eller ha skydd mot oavsiktlig beröring, om det behövs för att förhindra skada.
 
 > _Allmänna råd_
-
+>
 > Exempel på hur risken för brännskador och köldskador kan bedömas finns i standarderna
-
+>
 > SS-EN ISO 13732-1:2008. Ergonomi för termiskt klimat – Metoder för bedömning av reaktioner hos människan vid kontakt med ytor – Del 1: Varma ytor (ISO 13732-1:2006). Utgåva 2, respektive
-
+>
 > SS-EN ISO 13732-3:2008 Ergonomi för termiskt klimat – Metoder för bedömning av reaktioner hos människan vid kontakt med ytor – Del 3: Kalla ytor (ISO 13732-3:2005). Utgåva 2.
 
 ## 13 § |  | 
 Vid arbetsplatser där det finns särskilt stor risk för brännskador ska det i anslutning till arbetsplatsen finnas tillgång till tempererat vatten i tillräcklig omfattning.
 
-# avsnitt-skydd-mot-instängning | Skydd mot instängning | Skydd mot instängning | 
-
-## 14 § |  | 
+## 14 § | Skydd mot instängning | 
 Skydd mot instängning ska finnas i lokaler där de som arbetar är speciellt utsatta för risker vid instängning. När instängning innebär en allvarlig hälsorisk ska det finnas en ljus- och ljudsignalanordning som är tillförlitlig, synlig och lätt åtkomlig inifrån.
 
 Signalanordningen ska vara placerad cirka 0,5 meter över golvet. Signalerna ska nå en plats där de säkert kan uppmärksammas. Signalanordningen ska vara märkt ”Nödsignal”.
@@ -1212,15 +1024,13 @@ Signalanordningen ska vara placerad cirka 0,5 meter över golvet. Signalerna ska
 Dörrar till kyl- och frysrum ska enkelt kunna öppnas inifrån.
 
 > _Allmänna råd_
-
+>
 > Exempel på lokaler som innebär en allvarlig hälsorisk för den som blir instängd, är kyl- och frysrum där temperaturen är under –5 °C och ouppvärmda bodar. I bilaga 2, avsnitt 2.9, finns krav på säker reservtillförsel av energi till signaler.
 
 ## 15 § |  | 
 Arbetsgivaren ska se till att larm från kyl- och frysrum kontrolleras regelbundet.
 
-# avsnitt-utrymmen-utrustning-och-skyltning-för-första-hjälpen | Utrymmen, utrustning och skyltning för första hjälpen | Utrymmen, utrustning och skyltning för första hjälpen | 
-
-## 16 § |  | 
+## 16 § | Utrymmen, utrustning och skyltning för första hjälpen | 
 På alla arbetsplatser ska det finnas utrustning för första hjälpen i tillräcklig omfattning. Utrustningen ska vara anpassad efter riskerna i verksamheten. Den ska vara skyltad och lätt att komma åt.
 
 I den utsträckning som motiveras av eventuella lokalers storlek, verksamhetens art samt de särskilda riskerna ska det finnas ett eller flera utrymmen för första hjälpen. Dessa ska vara skyltade enligt bilaga 3.
@@ -1254,13 +1064,17 @@ Arbetsgivaren ska ha tillgång till dokumentationen.
 ## 21 § |  | 
 Arbetsgivaren ska se till att arbetstagarna informeras om hur nödduschar och ögonspolningsanordningar ska användas.
 
-7 kap. Skyltar och signaler
+# kap-7 | 7 kap. | Skyltar och signaler | 
 
+## Inledning |  | 
 Stöd och verktyg: Skyltar och signaler
 
-# avsnitt-skyltar-och-signaler | Skyltar och signaler | Skyltar och signaler | 
+## 1 § | Definitioner | 
+I detta kapitel har följande begrepp dessa betydelser.
 
-## 2 § |  | 
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Brandredskapsskylt</div></div></td><td><div><div>Skylt som anger placeringen av brandskyddsanordning eller brandskyddsutrustning.</div></div></td></tr><tr><td><div><div>Förbudsskylt</div></div></td><td><div><div>Skylt som förbjuder ett beteende som kan innebära fara.</div></div></td></tr><tr><td><div><div>Genomlyst skylt</div></div></td><td><div><div>Skylt som är gjord av transparent eller genomlyst material, upplyst från in- eller baksidan, så att den ger intryck av en lysande yta.</div></div></td></tr><tr><td><div><div>Handsignal</div></div></td><td><div><div>Fastställt rörelsemönster med armar och händer för att leda personal som utför manövrer som kan innebära risk eller fara.</div></div></td></tr><tr><td><div><div>Ljudsignal</div></div></td><td><div><div>Fastställd signal som avges från ett särskilt don utan att någon mänsklig eller syntetisk röst används.</div></div></td></tr><tr><td><div><div>Ljussignal</div></div></td><td><div><div>Fastställd signal bestående av utsänt ljus.</div></div></td></tr><tr><td><div><div>Nödskylt</div></div></td><td><div><div>Skylt som ger information om utrymningsväg, väg till utrymningsväg, utrustning för första hjälpen eller räddningsutrustning.</div></div></td></tr><tr><td><div><div>Påbudsskylt</div></div></td><td><div><div>Skylt som påbjuder ett visst beteende.</div></div></td></tr><tr><td><div><div>Symbol</div></div></td><td><div><div>Bild som beskriver en situation eller föreskriver ett visst uppträdande.</div></div></td></tr><tr><td><div><div>Talat meddelande</div></div></td><td><div><div>I förväg fastställt talat (verbalt) meddelande som avges med mänsklig eller syntetisk röst.</div></div></td></tr><tr><td><div><div>Tilläggsskylt</div></div></td><td><div><div>Skylt som används tillsammans med en annan skylt och lämnar kompletterande information.</div></div></td></tr><tr><td><div><div>Varningsskylt</div></div></td><td><div><div>Skylt som varnar för en risk eller fara.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (13 rader)</label></div>
+
+## 2 § | Skyltar och signaler | 
 Arbetsgivaren ska se till att det finns skyltar, märkning och signaler i tillräcklig omfattning på arbetsplatsen. Skyltar, märkning och signaler ska användas när riskerna för ohälsa eller olycksfall inte kan undvikas eller begränsas tillräckligt mycket genom andra åtgärder. Tydlig markering ska finnas för områden där sådana risker finns.
 
 I bilagorna 2–9 finns bestämmelser om hur skyltar, märkning och signaler ska vara utformade.
@@ -1275,8 +1089,9 @@ Informationen och instruktionen ska förklara vad skyltar, märkning och signale
 
 Informationen och instruktionen ska vara utformad så att den kan tillgodogöras av alla berörda, och ges så ofta att arbetstagarna har aktuell kunskap.
 
-Övergångsbestämmelser
+# avsnitt-overgangsbestammelser | Övergångsbestämmelser | Övergångsbestämmelser | 
 
+## Övergångsbestämmelser |  | 
 Denna författning träder i kraft den 1 januari 2025.
 
 Genom denna författning upphävs Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2020:1) om arbetsplatsens utformning.
@@ -1287,327 +1102,514 @@ ERNA ZELMIN
 
 Eva Nilsson
 
-Bilaga 1 Tidsvägt värmeindex2
+# bilaga-1 | Bilaga 1 | Tidsvägt värmeindex | 
 
-Materialet i bilaga 1 kommer från standarden SS-EN ISO 7243: 2017. Det termiska klimatets ergonomi – Bedömning av värmestress genom användning av WBGT (wet bulb globe temperature) index (ISO 7243:2017). Utgåva 1. Upphovsrätten till standarden tillhör SIS, Svenska Institutet för Standarder, Stockholm, Sverige. Texten är tryckt med upphovsrättsinnehavarens tillstånd.
-
+## Inledning |  | 
 Denna bilaga innehåller bestämmelser som tillhör kapitel 5 om klimat och installationer.
 
-# avsnitt-3-3-utseende | 3.3 Utseende | 3.3 Utseende | 
+## 1.1 | Beräkning av värmeindex | 
+Värmeindexet WBGT (wet bulb globe temperature) ska beräknas enligt formel 1 eller 2.
 
-## 3.3.1 Förbudsskyltar |  | 
+Beräkning av värmeindex för arbete utan direkt solljusbestrålning:
+
+WBGT = 0,7 · TV + 0,3 · TG formel 1
+
+Beräkning av värmeindex för arbete i direkt solljusbestrålning:
+
+WBGT = 0,7 · TV + 0,2 · TG + 0,1 · TL formel 2
+
+WBGT uttrycks i °C
+
+TV är den naturliga våttemperaturen
+
+TG är globtemperaturen
+
+TL är lufttemperaturen utomhus
+
+TV mäts med en termometer vars cylindriska, långa sensordel är omsluten av en ständigt vattenfuktad väv.
+
+TG mäts med en termometer placerad i centrum av en sfär med tunna väggar, starkt värmeabsorberande yta och 150 mm diameter.
+
+TL mäts med en konventionell termometer som skyddas från direkt solbelysning eller annan värmestrålning samt är placerad så att luftrörelser runt termometern inte hindras.
+
+Om klimatfaktorerna är olika på olika höjd över golvet, ska WBGT bestämmas som ett medelvärde för mätpunkter i fotleds-, midje- och huvudhöjd, 0,1 meter, 1,1 meter och 1,7 meter över golv.
+
+Värmeindex för det aktuella arbetet ska bestämmas som ett tidsvägt medelvärde (WBGTvägt) för en timmes representativt arbete.
+
+Om de yttre förhållandena på arbetsplatsen inte ändras och arbetet fortgår under minst en timme räcker det med en mätning av WBGT. Det tidsvägda medelvärdet (WBGTvägt) för en timmes representativt arbete blir då lika med detta värde.
+
+Om förhållandena under arbetspasset ändras så att WBGT påverkas till exempel genom att den arbetande växlar mellan olika arbetsuppgifter, krävs en mätning av WBGT för var och en av de olika situationerna för att bestämma WBGTvägt. WBGTvägt beräknas sedan enligt formeln nedan.
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mi mathvariant="normal">v</mi><mi mathvariant="normal">ä</mi><mi mathvariant="normal">g</mi><mi mathvariant="normal">t</mi></mrow></msub><mo>=</mo><mi></mi><mfrac><mrow><msub><mrow><mo>(</mo><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mn>1</mn><mi mathvariant="normal"></mi></mrow></msub><mo>·</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal"></mi><mi mathvariant="normal">t</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant="normal"></mi><mo>·</mo><mi mathvariant="normal"></mi><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi mathvariant="normal"></mi><mo>.</mo><mo>…</mo><mi mathvariant="normal"></mi><mo>+</mo><msub><mrow><mi mathvariant="normal"></mi><mi mathvariant="normal">W</mi><mi mathvariant="normal">B</mi><mi mathvariant="normal">G</mi><mi mathvariant="normal">T</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><msub><mrow><mi mathvariant="normal"></mi><mo>·</mo><mi mathvariant="normal"></mi><mi mathvariant="normal">t</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><mo>)</mo></mrow><mrow><msub><mrow><mo>(</mo><mi mathvariant="normal">t</mi></mrow><mrow><mn>1</mn><mi mathvariant="normal"></mi></mrow></msub><mo>+</mo><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mo>…</mo><mo>+</mo><msub><mrow><mi mathvariant="normal">t</mi></mrow><mrow><mi mathvariant="normal">N</mi></mrow></msub><mo>)</mo></mrow></mfrac></math>
+
+formel 3
+
+där
+
+N = antal olika ”arbetssituationer”,
+
+WBGTN är uppmätt WBGT i °C för den N:te ”arbetssituationen”,
+
+tN är vistelsetiden i minuter i den N:te ”arbetssituationen”, och
+
+(t1 + t2 +.....+ tN) = 60 min.
+
+## 1.2 | Mätningarnas genomförande | 
+Värmeindex ska bestämmas med den berörda arbetstagaren närvarande och sysselsatt i sitt vanliga arbete. Om inte detta är möjligt av mättekniska skäl, ska bestämningen göras på den plats där arbetet vanligen utförs och under så likartade förhållanden som möjligt.
+
+## 1.3 | Högsta tillåtna värden för tidsvägt värmeindex | 
+När högsta tillåtna värde för tidsvägt värmeindex (WBGTvägt) ska bestämmas, bestäms först någon av aktivitetsklasserna 0–4 (kolumn 1) i tabell 1. Det görs med hjälp av antingen arbetstyngden eller effektutvecklingen i det aktuella arbetet (kolumnerna 2 eller 3) och därefter utifrån om personen genomgått värmeträning eller inte (kolumnerna 5 eller 6).
+
+Om arbetets intensitet ändras under arbetspasset ska ett tidsvägt medelvärde för arbetsintensiteten bestämmas och användas som ingångsvärde i tabellen. Om arbetsintensiteten är lika under hela arbetspasset, blir den tidsvägda arbetsintensiteten lika med detta värde.
+
+Det tidsvägda medelvärdet för arbetsintensiteten bestäms på samma sätt som WBGTvägt ovan. Om arbetsintensiteten bestämts med hjälp av arbetstyngden (aktivitetsklass) ska medelvärdet av effektutvecklingen för respektive aktivitetsklass (kolumn 4) användas för att beräkna det tidsvägda medelvärdet. Vid svårigheter med valet mellan två kategorier av arbete ska den högre aktivitetsklassen väljas eller, om ingen bedömning överhuvudtaget är möjlig, den högsta aktivitetsklassen.
+
+<table><caption>Tabell 1. Aktivitetsklasser med högsta tillåtna värde för tidsvägt värmeindex (WBGT<sub>vägt</sub>) i °C, med och utan värmeträning. </caption><tbody><tr><th><div><div>Aktivitetsklass</div></div></th><th><div><div>Arbetstyngd</div></div></th><th><div><div>Effektutveckling i watt per enhet kroppsyta (W/m²)</div></div></th><th><div><div>Medelvärde av effektutveckling för aktivitets-klassen i watt per enhet kroppsyta (W/m²)</div></div></th><th><div><div>Högsta tillåtna värde med värmeträning (°C)</div></div></th><th><div><div>Högsta tillåtna värde utan värmeträning (°C)</div></div></th></tr><tr><th><div><div>0</div></div></th><td><div><div>Vila</div></div></td><td><div><div>&lt;65</div></div></td><td><div><div>65</div></div></td><td><div><div>33</div></div></td><td><div><div>32</div></div></td></tr><tr><th><div><div>1</div></div></th><td><div><div>Låg</div></div></td><td><div><div>65–129</div></div></td><td><div><div>97</div></div></td><td><div><div>30</div></div></td><td><div><div>29</div></div></td></tr><tr><th><div><div>2</div></div></th><td><div><div>Måttlig</div></div></td><td><div><div>130–199</div></div></td><td><div><div>165</div></div></td><td><div><div>28</div></div></td><td><div><div>26</div></div></td></tr><tr><th><div><div>3</div></div></th><td><div><div>Hög</div></div></td><td><div><div>200–259</div></div></td><td><div><div>230</div></div></td><td><div><div>26</div></div></td><td><div><div>23</div></div></td></tr><tr><th><div><div>4</div></div></th><td><div><div>Mycket hög</div></div></td><td><div><div>≥ 260</div></div></td><td><div><div>260</div></div></td><td><div><div>25</div></div></td><td><div><div>20</div></div></td></tr></tbody></table>
+
+# bilaga-2 | Bilaga 2 | Allmänna bestämmelser för skyltar, märkning och signaler | 
+
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+## 2.1 | Allmänt | 
+I de situationer och för den information som anges i bilagorna 2–9 till dessa föreskrifter får bara sådana skyltar, sådan märkning och sådana signaler som anges i bilagorna användas.
+
+Skyltar, märkning och signaler för hälsa och säkerhet får bara användas för de ändamål som anges i dessa föreskrifter.
+
+## 2.2 | Permanenta skyltar och signaler | 
+Permanenta skyltar ska användas för förbud, varning och påbud samt för att märka ut väg till utrymningsväg, utrymningsvägar samt utrustning för första hjälpen. Permanent märkning med skyltar, tejp eller färg ska användas för att visa placeringen och typen av brandredskap.
+
+Varaktig märkning med färg eller skyltar ska användas för att märka ut platser där det finns risk för fall eller kollision med föremål eller hinder.
+
+Varaktig märkning med färg eller tejp ska användas för att märka ut gång- och transportleder.
+
+## 2.3 | Tillfälliga skyltar och signaler | 
+Ljus- eller ljudsignalering eller ett talat meddelande ska användas för att signalera fara, uppmana till ett särskilt beteende eller utrymning. Möjligheter att alternera eller kombinera märkning och signaler anges i punkt 2.4.
+
+Handsignaler eller ett talat meddelande ska användas när det behövs för att vägleda personer som utför farliga eller riskfyllda arbetsmoment.
+
+## 2.4 | Kombination av märkning och signalering | 
+Om effekten är lika kan följande alternativ fritt väljas:
+
+En färg eller skylt vid markering av platser med hinder eller nivåskillnader.
+
+Ljud- eller ljussignalering eller ett talat meddelande.
+
+Handsignalering eller ett talat meddelande.
+
+Följande signalering kan användas samtidigt:
+
+Ljus- och ljudsignalering.
+
+Ljussignalering och ett talat meddelande.
+
+Handsignalering och ett talat meddelande.
+
+## 2.5 | Färganvisningar för skyltar och ljussignaler för hälsa och säkerhet | 
+<table><caption>Tabell 2. Färganvisningar för skyltar och ljussignaler. </caption><tbody><tr><th><div><div>Färg</div></div></th><th><div><div>Betydelse</div></div></th><th><div><div>Användning/information</div></div></th></tr><tr><td rowspan="3"><div><div>Röd</div><figure><img src="/scanned/afs-2023-12/096ad074ec75.png" alt="Röd rektangel" width="76" height="37"><figcaption></figcaption></figure></div></td><td><div><div>Förbud</div></div></td><td><div><div>Farligt beteende</div></div></td></tr><tr><td><div><div>Larm vid fara</div></div></td><td><div><div>Stopp, stäng, nödstoppsdon*)</div><div>Brandlarm/utrymningslarm</div></div></td></tr><tr><td><div><div>Brandbekämpnings-utrustning</div></div></td><td><div><div>Utmärkning och placering</div></div></td></tr><tr><td><div><div>Gul</div><div>(Orangegul)</div><figure><img src="/scanned/afs-2023-12/1f730e6ab474.png" alt="Gul rektangel" width="76" height="37"><figcaption></figcaption></figure></div></td><td><div><div>Varning</div></div></td><td><div><div>Se upp, åtgärda, kontrollera</div></div></td></tr><tr><td><div><div>Blå</div><figure><img src="/scanned/afs-2023-12/43dca0a1761b.png" alt="Blå rektangel" width="76" height="37"><figcaption></figcaption></figure></div></td><td><div><div>Påbud</div></div></td><td><div><div>Krav på åtgärd eller beteende</div><div>Använd personlig skyddsutrustning</div></div></td></tr><tr><td rowspan="3"><div><div>Grön</div><figure><img src="/scanned/afs-2023-12/8dc26abae4e3.png" alt="Grön rektangel" width="76" height="37"><figcaption></figcaption></figure></div></td><td><div><div>Utrymning, utrymningsväg</div></div></td><td rowspan="2"><div><div>Dörrar, utgångar, vägar, utrustning, lokaler</div></div></td></tr><tr><td><div><div>Första hjälpen-utrustning</div></div></td></tr><tr><td><div><div>Ingen fara</div></div></td><td><div><div>Återgå till det normala</div></div></td></tr></tbody></table>
+
+*) En skylt till nödstoppsdon ska vara grön. Om skylten är en del av en nödstoppslina ska den vara röd.
+
+## 2.6 | Uppfattbarhet | 
+Skyltar, märkning eller signalering får inte störas genom något av följande:
+
+Närvaro av annan signalkälla av samma slag som kan påverka synligheten eller hörbarheten.
+
+Alltför många skyltar och signaler placerade för nära varandra.
+
+Samtidig användning av två ljussignaler som kan förväxlas.
+
+Användning av en ljussignal i närheten av en liknande ljuskälla.
+
+Användning av två ljudsignaler samtidigt.
+
+Användning av en ljudsignal, där ett starkt bakgrundsbuller förekommer.
+
+Dålig utformning, otillräckligt antal, felaktig placering, eftersatta reparationer eller felaktiga funktionssätt på skyltning, märkning och signaler.
+
+## 2.7 | Underhåll | 
+Skyltar och signalanordningar ska underhållas, kontrolleras, repareras och rengöras så att de behåller sin funktion och kvalitet.
+
+## 2.8 | Antal och placering | 
+Antalet skyltar och signalanordningar och deras placering ska anpassas till omfattningen av faran eller risken inom området.
+
+## 2.9 | Skyltar med energitillförsel | 
+Skyltar och signaler som kräver någon form av energitillförsel ska vara utrustade med en säker reservtillförsel som fungerar under tillräcklig tid vid strömavbrott om inte faran bortfaller när strömtillförseln bryts.
+
+## 2.10 | Start av signalering | 
+När en ljus- och ljudsignal sätts igång ska detta ange att en aktivitet startar. Signalerna ska fungera så länge aktiviteten pågår.
+
+Ljus- och ljudsignaler ska åter kunna fungera omedelbart efter användning.
+
+## 2.11 | Kontroll | 
+Ljus- och ljudsignalerna ska kontrolleras innan de tas i bruk och därefter regelbundet, så att de fungerar på avsett sätt och fyller sitt syfte.
+
+## 2.12 | Hörsel- och synskadade | 
+Om arbetstagarnas hörsel eller syn är nedsatt, till exempel beroende på att de använder personlig skyddsutrustning, ska varselsystemen kompletteras eller bytas.
+
+## 2.13 | Lagring av farliga ämnen | 
+Bestämmelser om hur områden, lokaler eller inhägnader som används för lagring av betydande mängder farliga ämnen eller blandningar ska skyltas finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön i kapitlet om övergripande bestämmelser för kemiska riskkällor.
+
+# bilaga-3 | Bilaga 3 | Skyltar | 
+
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+> _Allmänna råd_
+>
+> Även skyltar med symboler utformade enligt standarden SS-EN ISO 7010:2020 Grafiska symboler – Varselfärger och varselskyltar – Registrerade varselsignaler (ISO 7010:2019). Utgåva 2, uppfyller normalt kraven. Om det saknas en symbol för ett särskilt ändamål i dessa förskrifter, bör man i första hand använda en symbol i samma standard med gällande tillägg.
+>
+> Efterlysande skyltar bör vara utformade så att de behåller sin färg även när de inte är belysta.
+
+## 3.2 | Användning | 
+Skyltar ska så långt möjligt installeras på lämplig höjd och i ett läge som passar siktlinjen och tar hänsyn till eventuella hinder. Skyltarna ska placeras antingen vid ingången till ett riskområde eller i omedelbar närhet av en särskild fara eller särskilt föremål. De ska också placeras på en plats med bra ljusförhållanden och som är lätt att se och nå.
+
+Efterlysande färger, reflekterande material eller artificiell belysning ska användas där dagsljuset är otillräckligt.
+
+Skyltar ska avlägsnas när de inte längre behövs.
+
+## 3.3.1 | Förbudsskyltar | 
 Rund form.
 
 Svart symbol på vit bakgrund med röd bård och rött snedstreck.
 
 Den röda delen ska vara minst 35 procent av skyltens yta.
 
-Rökning förbjudenRökning och öppen eld förbjudenTillträde förbjudet för gående
+<img src="/scanned/afs-2023-12/df075bdcf5f5.png" alt="Förbudsskylt med en brinnande cigarett." width="76" height="76">
 
-Förbjudet att använda vatten för släckningEj dricksvattenObehöriga äga ej tillträde
+Rökning förbjuden
 
-Förbjudet för arbetsfordonFår ej vidröras
+<img src="/scanned/afs-2023-12/0be9f229799c.png" alt="Förbudsskylt med en brinnande tändsticka." width="76" height="76">
 
-## 3.3.2 Varningsskyltar |  | 
+Rökning och öppen eld förbjuden
+
+<img src="/scanned/afs-2023-12/ff098be185c5.png" alt="Förbudsskylt med siluett av en gående person." width="76" height="76">
+
+Tillträde förbjudet för gående
+
+<img src="/scanned/afs-2023-12/eb59b7282630.png" alt="Förbudsskylt med en hink som töms över en eld." width="76" height="76">
+
+Förbjudet att använda vatten för släckning
+
+<img src="/scanned/afs-2023-12/c622dc4a66df.png" alt="Förbudsskylt med vattenkran som tappar vatten i en mugg." width="76" height="76">
+
+Ej dricksvatten
+
+<img src="/scanned/afs-2023-12/ad37970bc94b.png" alt="Förbudsskylt med en person som sträcker fram handflatan." width="76" height="76">
+
+Obehöriga äga ej tillträde
+
+<img src="/scanned/afs-2023-12/bb8adb9e1bd8.png" alt="Förbudsskylt med en truck." width="76" height="76">
+
+Förbjudet för arbetsfordon
+
+<img src="/scanned/afs-2023-12/a0e27ec7bc9e.png" alt="Förbudsskylt med en hand med utsträckt pekfinger." width="76" height="76">
+
+Får ej vidröras
+
+## 3.3.2 | Varningsskyltar | 
 Triangelform.
 
 Svart symbol på gul bakgrund med svart bård.
 
 Den gula delen ska vara minst 50 procent av skyltens yta.
 
-Radioaktiva ämnenHängande lastGodstrafik
+<img src="/scanned/afs-2023-12/542e64b14ff8.png" alt="Varningsskylt med propellerliknande symbol för radioaktiv strålning." width="86" height="76">
 
-Farlig elektrisk spänningFara (med tilläggsskylt som anger farans art)Laserstrålning
+Radioaktiva ämnen
 
-Icke-joniserande strålningKraftigt magnetfältHinder/Snubbelrisk
+<img src="/scanned/afs-2023-12/64db2b46b550.png" alt="Varningsskylt med last hängande i en krok." width="86" height="76">
 
-FallriskBiologisk faraLåg temperatur
+Hängande last
+
+<img src="/scanned/afs-2023-12/49c5094ec1b6.png" alt="Varningsskylt med en körande truck. " width="86" height="76">
+
+Godstrafik
+
+<img src="/scanned/afs-2023-12/fb7adebc41a7.png" alt="Varningsskylt med en blixt." width="86" height="76">
+
+Farlig elektrisk spänning
+
+<img src="/scanned/afs-2023-12/bfb10114918f.png" alt="Varningsskylt med ett utropstecken." width="86" height="76">
+
+Fara (med tilläggsskylt som anger farans art)
+
+<img src="/scanned/afs-2023-12/ba5ddd7e6933.png" alt="Varningsskylt med symbol för laserstråle." width="86" height="76">
+
+Laserstrålning
+
+<img src="/scanned/afs-2023-12/24990641e1cc.png" alt="Varningsskylt med en sändande mast." width="86" height="76">
+
+Icke-joniserande strålning
+
+<img src="/scanned/afs-2023-12/6858c8585fa9.png" alt="Varningsskylt med en magnet." width="86" height="76">
+
+Kraftigt magnetfält
+
+<img src="/scanned/afs-2023-12/3ffcb32705a6.png" alt="Varningsskylt med en person som snubblar över ett hinder." width="86" height="76">
+
+Hinder/Snubbelrisk
+
+<img src="/scanned/afs-2023-12/c3c193848ce3.png" alt="Varningsskylt med en person som faller från en kant." width="86" height="76">
+
+Fallrisk
+
+<img src="/scanned/afs-2023-12/19fc11ad9d94.png" alt="Varningsskylt med symbol för biologisk fara." width="86" height="76">
+
+Biologisk fara
+
+<img src="/scanned/afs-2023-12/a7bad40f1128.png" alt="Varningsskylt med en snöflinga." width="86" height="76">
+
+Låg temperatur
+
+<img src="/scanned/afs-2023-12/679275f844bd.jpeg" alt="Varningsskylt med texten EX." width="86" height="82">
 
 Explosionsfarlig miljö (Tilläggsskylt med texten ”För arbetsrutiner och materiel se explosionsskydds-dokument” ska finnas)
 
-## 3.3.3 Påbudsskyltar |  | 
+## 3.3.3 | Påbudsskyltar | 
 Rund form.
 
 Vit symbol på blå bakgrund.
 
 Den blå delen ska vara minst 50 procent av skyltens yta.
 
-Ögonskydd måste användasSkyddshjälm måste användasHörselskydd måste användas
+<img src="/scanned/afs-2023-12/6a3914622850.png" alt="Påbudsskylt med ett huvud med skyddsglasögon." width="76" height="76">
 
-Andningsskydd måste användasSkyddsskor måste användasSkyddshandskar måste användas
+Ögonskydd måste användas
 
-Skyddskläder måste användasAnsiktsskydd måste användasSäkerhetssele måste användas
+<img src="/scanned/afs-2023-12/40857505793d.png" alt="Påbudsskylt med ett huvud med hjälm." width="76" height="76">
 
-Fotgängare ska använda denna vägAllmänt påbud (Eventuellt med tilläggsskylt)
+Skyddshjälm måste användas
 
-## 3.3.4 Nödskyltar3 |  | 
-Utformningen av skylten ”Tillfällig utrymningsplats” kommer från standarden SS-EN ISO 7010:2020 Grafiska symboler – Varselfärger och varselskyltar – Registrerade varselsignaler (ISO 7010:2019). Utgåva 2, med tillägg SS-EN ISO 7010:2020/A1:2020 Grafiska symboler – Varselfärger och varselskyltar – Registrerade varselsignaler – Tillägg 1 (ISO 7010:2019/Tillägg 1:2020). Upphovsrätten till standarden tillhör SIS, Svenska Institutet för Standarder, Stockholm, Sverige. Symbolen är tryckt med upphovsrättsinnehavarens tillstånd.
+<img src="/scanned/afs-2023-12/5dc7c8e826de.png" alt="Påbudsskylt med ett huvud med hörselskydd." width="76" height="76">
 
+Hörselskydd måste användas
+
+<img src="/scanned/afs-2023-12/2de9c0ea6fe7.png" alt="Påbudsskylt med ett huvud med andningsskydd." width="76" height="76">
+
+Andningsskydd måste användas
+
+<img src="/scanned/afs-2023-12/6eef0cf719fb.png" alt="Påbudsskylt med ett par skyddsskor." width="76" height="76">
+
+Skyddsskor måste användas
+
+<img src="/scanned/afs-2023-12/3fda72e6545f.png" alt="Påbudsskylt med ett par skyddshandskar." width="76" height="76">
+
+Skyddshandskar måste användas
+
+<img src="/scanned/afs-2023-12/c59ee4c95edd.png" alt="Påbudsskylt med en skyddsoverall." width="76" height="76">
+
+Skyddskläder måste användas
+
+<img src="/scanned/afs-2023-12/19aa4b4b2af5.png" alt="Påbudsskylt med ett huvud i profil med visir framför ansiktet." width="76" height="76">
+
+Ansiktsskydd måste användas
+
+<img src="/scanned/afs-2023-12/75dbee62b354.png" alt="Påbudsskylt med en person med skyddssele." width="76" height="76">
+
+Säkerhetssele måste användas
+
+<img src="/scanned/afs-2023-12/77ca9efc97eb.png" alt="Påbudsskylt med siluett av en gående person." width="76" height="76">
+
+Fotgängare ska använda denna väg
+
+<img src="/scanned/afs-2023-12/28f469da184b.png" alt="Påbudsskylt med ett utropstecken." width="76" height="76">
+
+Allmänt påbud (Eventuellt med tilläggsskylt)
+
+## 3.3.4 | Nödskyltar | 
 Rektangulär eller kvadratisk form.
 
 Vit symbol på grön bakgrund. Skyltar med pil kan vara spegelvända.
 
 Den gröna delen ska vara minst 50 procent av skyltens yta.
 
-UtrymningsvägUtrymningsväg
+<img src="/scanned/afs-2023-12/d96b0ef73f65.png" alt="Nödskylt med en riktningspil som pekar från en springande person mot en rektangel som symboliserar en dörr." width="76" height="34">
 
 Utrymningsväg
 
+<img src="/scanned/afs-2023-12/45569aa19178.png" alt="Nödskylt med en rektangel som symboliserar en dörr, en riktningspil som pekar nedåt och en springande person." width="75" height="34">
+
+Utrymningsväg
+
+<img src="/scanned/afs-2023-12/0722630b25f7.png" alt="Nödskylt med en riktningspil som pekar mot en rektangel som symboliserar en dörr." width="75" height="34">
+
+Utrymningsväg
+
+<img src="/scanned/afs-2023-12/52de0f26e3df.png" alt="Nödskylt med en riktningspil som pekar från en person som rör sig framåt i en rullstol och en springande person, mot en rektangel som symboliserar en dörr." width="104" height="34">
+
 Utrymningsväg för personer med funktionsnedsättning
 
-Tillfällig utrymningsplatsUtrymningsväg via säker hiss
+<img src="/scanned/afs-2023-12/ea4bea4d2871.jpeg" alt="Nödskylt med riktningspilar i skyltens fyra hörn som pekar inåt mot en person som sitter stilla i en rullstol i skyltens mitt. " width="76" height="76">
 
-Första hjälpen BårNöddusch
+Tillfällig utrymningsplats
 
-ÖgonduschRiktningspilNödtelefon för första hjälpen och utrymning
+<img src="/scanned/afs-2023-12/e37e48468113.jpeg" alt="Nödskylt med en person i rullstol i en hiss." width="76" height="76">
 
-## 3.3.5 Brandredskapsskyltar |  | 
-Rektangulär eller kvadratisk form.
+Utrymningsväg via säker hiss
 
-Vit symbol på röd bakgrund. Skyltar med pil kan vara spegelvända.
+<img src="/scanned/afs-2023-12/57f42f664979.png" alt="Nödskylt med ett kors." width="76" height="76">
 
-Den röda delen ska vara minst 50 procent av skyltens yta.
+Första hjälpen
 
-InomhusbrandpostBrandsläckareStege
+<img src="/scanned/afs-2023-12/9ad1c54a2366.png" alt="Nödskylt med en person som ligger på en bår och ett kors i övre högra hörnet." width="76" height="76">
 
-NödtelefonRiktningspilAndra brandskyddsanordningar eller brandskyddsutrustningar
+Bår
 
-Allmänna råd
+<img src="/scanned/afs-2023-12/1f9d7c90f077.png" alt="Nödskylt med en person som står under en dusch och ett kors i övre högra hörnet." width="76" height="76">
 
-Tilläggsskylt för skylten ”Andra brandskyddsanordningar eller brandskyddsutrustningar” kan till exempel vara brandventilation, branddörr, röklucka och brandfilt. Skylten är främst avsedd för räddningstjänsten.
+Nöddusch
 
-Bilaga 4 Märkning av brandbekämpningsutrustning
+<img src="/scanned/afs-2023-12/611b0668b506.png" alt="Nödskylt med ett öga som duschas och ett kors i övre högra hörnet." width="76" height="76">
 
+Ögondusch
+
+<img src="/scanned/afs-2023-12/95a673c24251.png" alt="Nödskylt med en riktningspil." width="76" height="76">
+
+Riktningspil
+
+<img src="/scanned/afs-2023-12/00958c660411.png" alt="Nödskylt med en telefonlur." width="76" height="76">
+
+Nödtelefon för första hjälpen och utrymning
+
+> _Allmänna råd_
+>
+> Tilläggsskylt för skylten ”Andra brandskyddsanordningar eller brandskyddsutrustningar” kan till exempel vara brandventilation, branddörr, röklucka och brandfilt. Skylten är främst avsedd för räddningstjänsten.
+
+# bilaga-4 | Bilaga 4 | Märkning av brandbekämpningsutrustning | 
+
+## Inledning |  | 
 Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
 
 Brandbekämpningsutrustning ska märkas med röd färg och dess placering ska anges med en särskild skylt eller genom att förvaringsplatserna eller ingångarna till dem ges röd färg.
 
 Färgen ska täcka så stor yta att utrustningen lätt kan observeras.
 
-Bilaga 5 Märkning av hinder, farliga områden, gång- och transportleder
+# bilaga-5 | Bilaga 5 | Märkning av hinder, farliga områden, gång- och transportleder | 
 
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+## 5.1 | Märkning av hinder och farliga områden | 
+Arbetsområden dit anställda har tillträde under sitt arbete och där det finns risk för kollision med hinder, fallrisk eller risk för fallande föremål ska markeras med gul- och svartrandiga eller röd- och vitrandiga fält.
+
+Märkningen ska anpassas till riskområdets storlek.
+
+Den gul- och svartrandiga eller röd- och vitrandiga markeringen ska vara snedstreckad i cirka 45 grader med ungefär lika breda fält.
+
+Exempel:
+
+<img src="/scanned/afs-2023-12/5cc0e0de2ded.png" alt="Två rektangulära fält, det första diagonalrandigt i svart och gult, det andra diagonalrandigt i rött och vitt." width="215" height="87">
+
+Två rektangulära fält, ett i svart och gult, ett i rött och vitt.
+
+## 5.2 | Märkning av gång- och transportleder | 
+Där det behövs ska leder för fordonstrafik inomhus vara tydligt markerade med obrutna linjer i väl synlig färg, helst vit eller gul, som valts med hänsyn till underlagets färg.
+
+Linjerna ska placeras så att de visar det nödvändiga säkerhetsavståndet mellan fordon och hinder eller gående.
+
+Permanenta gång- och transportleder utomhus ska om det behövs markeras på samma sätt om inte trottoarer eller avskärmningar finns.
+
+# bilaga-6 | Bilaga 6 | Ljussignaler och genomlysta skyltar | 
+
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+## 6.1 | Utförande | 
+En ljussignal eller en genomlyst skylt ska ha en kontrast som är anpassad till omgivningen och till de aktuella arbetsförhållandena. Den får varken blända eller vara svår att upptäcka.
+
+Ljussignalen eller den genomlysta skylten ska vara enfärgad eller visa en kombination av en symbol och en bakgrund.
+
+Färgen ska överensstämma med tabellen i bilaga 2, punkt 5.
+
+Om signalen eller skylten innehåller en symbol ska den uppfylla kraven i bilaga 3.
+
+## 6.2 | Särskilda bestämmelser för användning av ljussignaler | 
+Om en ljussignal eller en genomlyst skylt kan avge såväl fast som blinkande sken ska blinkande sken ange en högre risk eller ett mer akut behov av åtgärd än ett fast sken.
+
+Blinkningarnas längd och frekvens ska vara sådana att
+
+budskapet uppfattas på avsett sätt, och
+
+varje risk för förväxling med andra signaler eller skyltar med blinkande eller fast sken undviks.
+
+Om en ljussignal eller en blinkande skylt används i stället för eller tillsammans med en ljudsignal ska dessa synkroniseras.
+
+Anordningar för blinkande signaler eller skyltar som används vid allvarlig fara ska ägnas särskild tillsyn eller utrustas med en reservlampa.
+
+# bilaga-7 | Bilaga 7 | Ljudsignaler | 
+
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+## 7.1 | Utförande | 
+Ljudsignaler ska
+
+ha en ljudnivå som klart överstiger bakgrundsbullret så att de hörs väl utan att vara onödigt höga eller smärtsamma, och
+
+vara lätta att känna igen, särskilt ifråga om impulslängd och tidsintervall mellan impulserna eller grupperna av impulser, samt skilja sig klart från andra ljudsignaler och bakgrundsbuller.
+
+Om en signalanordning kan avge såväl fast som växlande ton ska växlande ton användas för att ange en högre risk eller ett mer akut behov av åtgärd än en fast ton.
+
+## 7.2 | Fastställda signaler | 
+En utrymningssignal ska vara kontinuerlig utan avbrott.
+
+# bilaga-8 | Bilaga 8 | Talade meddelanden | 
+
+## Inledning |  | 
+Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
+
+## 8.1 | Utförande | 
+Talade meddelanden ska lämnas i form av korta satser, fraser, ordgrupper eller enstaka ord, ibland i fastställd form.
+
+Talade meddelanden ska vara så korta, enkla och tydliga som möjligt. Talaren ska ha en sådan förmåga att uttrycka sig och lyssnaren en sådan förmåga att höra att den talade anvisningen kan uppfattas.
+
+Talade meddelanden får framföras direkt eller indirekt, genom mänsklig eller syntetisk röst.
+
+## 8.2 | Särskilda bestämmelser vid talade meddelanden | 
+Arbetsgivaren ska se till att arbetstagarna behärskar det använda språket så att de kan uttala och förstå den talade anvisningen och därmed uppträda på avsett sätt.
+
+Om ett talat meddelande används i stället för eller tillsammans med handsignalering ska fastställda former för sådan signalering användas.
+
+# bilaga-9 | Bilaga 9 | Handsignaler | 
+
+## Inledning |  | 
 Denna bilaga innehåller bestämmelser som tillhör kapitel 7 om skyltar och signaler.
 
 > _Allmänna råd_
+>
+> I Sverige är praxis vid teckengivning i byggbranschen och vid hamnarbete att använda tecknen för ”stopp” och ”hastigt stopp” enligt signalscheman i standarden SS-ISO 16715:2016 Lyftkranar – Handsignaler vid användande av lyftkranar (ISO 16715:2014, IDT). Utgåva 1.
 
-> Tilläggsskylt för skylten ”Andra brandskyddsanordningar eller brandskyddsutrustningar” kan till exempel vara brandventilation, branddörr, röklucka och brandfilt. Skylten är främst avsedd för räddningstjänsten.
+## 9.2 | Särskilda bestämmelser för handsignaler | 
+Arbetsgivaren ska se till att den som utför tecknen, nedan kallad signalman, använder rörelserna för att ge manövreringsanvisningar till teckenmottagaren, nedan kallad operatören.
 
-# avsnitt-9-4-signalschema | 9.4 Signalschema | 9.4 Signalschema | 
+Arbetsgivaren ska se till att signalmannen
 
-## 9.4.1 Allmänna tecken |  | 
-Signal
+kan se och kontrollera alla manövrer utan att utsätta sig för fara, och
 
-Rörelse
+uteslutande ägnar sig åt att dirigera manövrer och upprätthålla säkerheten för de arbetstagare som berörs.
 
-Start
+Om signalmannen inte kan se och kontrollera alla manövrer ska ytterligare signalmän anlitas.
 
-Uppmärksamhet.
+Arbetsgivaren ska se till att operatören avbryter den pågående manövern och ber om ytterligare instruktioner om operatören inte på ett säkert sätt kan genomföra manövern.
 
-Signalgivningen påbörjas.
+## 9.3 | Utrustning | 
+Arbetsgivaren ska se till att
 
-Båda armarna utsträckta vågrätt med handflatorna framåt.
+operatören kan känna igen signalmannen utan svårighet, och
 
-Stopp
+signalmannen bär ett eller flera igenkänningstecken, till exempel jacka, hjälm, manschetter eller använder en signalspade.
 
-Avbrott.
+Igenkänningstecknen ska ha samma klara färger och uteslutande användas av signalmän.
 
-Slut på rörelse.
+## 9.4.1 | Allmänna tecken | 
+<table><tbody><tr><th><div><div>Signal</div></div></th><th><div><div>Rörelse</div></div></th></tr><tr><td><div><div><strong>Start</strong></div><div>Uppmärksamhet.<br>Signalgivningen påbörjas.</div></div></td><td><div><figure><img src="/scanned/afs-2023-12/2a0a8de477a9.jpeg" alt="Signalmannen sträcker ut båda armarna vågrätt med handflatorna framåt." width="265" height="132"><figcaption></figcaption></figure><div>Båda armarna utsträckta vågrätt med handflatorna framåt.</div></div></td></tr><tr><td><div><div><strong>Stopp</strong></div><div>Avbrott.<br>Slut på rörelse.</div></div></td><td><div><div><img src="/scanned/afs-2023-12/28c2384241ba.jpeg" alt="Signalmannen håller ut höger arm åt sidan med underarmen uppåt och handflatan framåt." width="107" height="132"></div><div>Höger arm sträcks uppåt med handflatan framåt.</div></div></td></tr><tr><td><div><div><strong>Slut</strong></div><div>Avslutning av manövern.</div></div></td><td><div><div><img src="/scanned/afs-2023-12/65635c57130a.jpeg" alt="Signalmannen håller armarna framför sig med den ena handen placerad ovanpå den andra." width="117" height="132"></div><div>Båda händerna sammanhållna i brösthöjd.</div></div></td></tr></tbody></table>
 
-Höger arm sträcks uppåt med handflatan framåt.
+## 9.4.2 | Lodräta rörelser | 
+<table><tbody><tr><th><div><div>Signal</div></div></th><th><div><div>Rörelse</div></div></th></tr><tr><td><div><div><strong>Upp</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/3ad61b12b8fc.jpeg" alt="Signalmannen håller ut höger arm åt sidan med underarmen uppåt och handflatan framåt och gör en långsam cirkelrörelse med hand och underarm." width="159" height="163"></div><div>Höger arm sträcks uppåt med handflatan framåt och gör en långsam cirkelrörelse.</div></div></td></tr><tr><td><div><div><strong>Ned</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/0af554cbea0d.jpeg" alt="Signalmannen sträcker ut höger arm snett nedåt med handflatan mot kroppen och gör en långsam cirkelrörelse." width="143" height="154"></div><div>Höger arm sänks med handflatan mot kroppen och gör en långsam cirkelrörelse.</div></div></td></tr><tr><td><div><div><strong>Lodrätt avstånd</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/fcfa820bf4d4.png" alt="Signalman som utför rörelsen." width="108" height="132"></div><div>Avståndet anges med händerna.</div></div></td></tr></tbody></table>
 
-Slut
+## 9.4.3 | Vågräta rörelser | 
+<table><tbody><tr><th><div><div>Signal</div></div></th><th><div><div>Rörelse</div></div></th></tr><tr><td><div><div><strong>Framåt</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/1a9324a02193.jpeg" alt="Signalman som utför rörelsen." width="111" height="132"></div><div>Båda armarna böjs med handflatorna uppåt och underarmarna rörs långsamt mot kroppen.</div></div></td></tr><tr><td><div><div><strong>Bakåt</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/15793f93a08b.jpeg" alt="Signalman som utför rörelsen." width="115" height="132"></div><div>Båda armarna böjs med handflatorna nedåt och underarmarna rörs långsamt från kroppen.</div></div></td></tr><tr><td><div><div><strong>Vågrätt avstånd</strong></div></div></td><td><div><div><img src="/scanned/afs-2023-12/e5405cf6911c.jpeg" alt="Signalman som utför rörelsen." width="112" height="132"></div><div>Avståndet anges med händerna.</div></div></td></tr><tr><td><div><div><strong>Åt vänster</strong></div><div>Signalmannens vänstra sida.</div></div></td><td><div><div><img src="/scanned/afs-2023-12/166387e670ad.jpeg" alt="Signalman som utför rörelsen." width="158" height="124"></div><div>Vänster arm sträcks ut närmast vågrätt med handflatan nedåt och gör långsamma rörelser åt vänster.</div></div></td></tr><tr><td><div><div><strong>Åt höger</strong></div><div>Signalmannens högra sida.</div></div></td><td><div><div><img src="/scanned/afs-2023-12/32285b89819d.jpeg" alt="Signalman som utför rörelsen." width="158" height="124"></div><div>Höger arm sträcks ut närmast vågrätt med handflatan nedåt och gör långsamma rörelser åt höger.</div></div></td></tr></tbody></table>
 
-Avslutning av manövern.
-
-Båda händerna sammanhållna i brösthöjd.
-
-Visa hela tabellen
-
-## 9.4.2 Lodräta rörelser |  | 
-Signal
-
-Rörelse
-
-Upp
-
-Höger arm sträcks uppåt med handflatan framåt och gör en långsam cirkelrörelse.
-
-Ned
-
-Höger arm sänks med handflatan mot kroppen och gör en långsam cirkelrörelse.
-
-Lodrätt avstånd
-
-Avståndet anges med händerna.
-
-Visa hela tabellen
-
-## 9.4.3 Vågräta rörelser |  | 
-Signal
-
-Rörelse
-
-Framåt
-
-Båda armarna böjs med handflatorna uppåt och underarmarna rörs långsamt mot kroppen.
-
-Bakåt
-
-Båda armarna böjs med handflatorna nedåt och underarmarna rörs långsamt från kroppen.
-
-Vågrätt avstånd
-
-Avståndet anges med händerna.
-
-Åt vänster
-
-Signalmannens vänstra sida.
-
-Vänster arm sträcks ut närmast vågrätt med handflatan nedåt och gör långsamma rörelser åt vänster.
-
-Åt höger
-
-Signalmannens högra sida.
-
-Höger arm sträcks ut närmast vågrätt med handflatan nedåt och gör långsamma rörelser åt höger.
-
-Visa hela tabellen
-
-## 9.4.4 Övrigt |  | 
-Signal
-
-Rörelse
-
-Fara
-
-Nödstopp.
-
-Båda armarna sträcks uppåt med handflatorna framåt.
-
-Snabbt
-
-Samtliga rörelser utförs snabbare.
-
-Långsamt
-
-Samtliga rörelser utförs långsammare.
-
-Visa hela tabellen
-
-bottomnav
-
-Lättläst
-
-Teckenspråk
-
-Lyssna
-
-Other languages
-
-(arabiska) العربية
-
-ܣܘܪܝܝܐ (assyriska/syriska)
-
-bosanski, hrvatski, srpski (bosniska, kroatiska, serbiska)
-
-български (bulgariska)
-
-čeština (tjeckiska)
-
-(dari) درى
-
-davvisámegiella (nordsamiska)
-
-deutsch (tyska)
-
-eesti (estniska)
-
-english (engelska)
-
-español (spanska)
-
-français (franska)
-
-हिंदी (hindi)
-
-中文 (kinesiska)
-
-kurmancî (kurmanji)
-
-latviešu (lettiska)
-
-lietuvių (litauiska)
-
-magyar (ungerska)
-
-meänkieli (tornedalsfinska)
-
-(pashto) پښتو
-
-polski (polska)
-
-pусский (ryska)
-
-română (rumänska)
-
-shqip (albanska)
-
-slovenčina (slovakiska)
-
-soomaali (somaliska)
-
-suomi (finska)
-
-ไทย (thailändska)
-
-ትግርኛ (tigrinska)
-
-türkçe (turkiska)
-
-українська (ukrainska)
-
-Other languages
-
-Kontakt
-
-Arbetsmiljöverket
-
-Box 9082
-
-171 09 Solna
-
-010-730 90 00
-
-Kontakta oss
-
-Följ oss
-
-Facebook
-
-Instagram
-
-Youtube
-
-LinkedIn
-
-Nyhetsbrev
-
-Podd: Hallå arbetsmiljö!
-
-Genvägar
-
-Anmäl arbetsskada
-
-Tipsa om risker i arbetsmiljön
-
-Sök och beställ handlingar
-
-Fler e-tjänster och blanketter
-
-Press
-
-Statistik
-
-Behandling av personuppgifter
-
-Till toppen
+## 9.4.4 | Övrigt | 
+<table><tbody><tr><th><div><div>Signal</div></div></th><th><div><div>Rörelse</div></div></th></tr><tr><td><div><div><strong>Fara</strong></div><div>Nödstopp.</div></div></td><td><div><figure><img src="/scanned/afs-2023-12/c12d95d113ef.jpeg" alt="Signalman som utför rörelsen." width="139" height="132"><figcaption></figcaption></figure><div>Båda armarna sträcks uppåt med handflatorna framåt.</div></div></td></tr><tr><td><div><div><strong>Snabbt</strong></div></div></td><td><div><div>Samtliga rörelser utförs snabbare.</div></div></td></tr><tr><td><div><div><strong>Långsamt</strong></div></div></td><td><div><div>Samtliga rörelser utförs långsammare.</div></div></td></tr></tbody></table>

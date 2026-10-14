@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,23 +21,111 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Krav vid användning av en traktor
+### Inledning
 
-### 15 §
+Stöd och verktyg: Användning av pressar och gradsaxar
 
-Arbetsgivaren ska se till att lösa föremål inte ligger på golvet runt förarplatsen.
+### 1 § – Då gäller föreskrifterna
 
-### 16 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-14) gäller för följande:
 
-Arbetsgivaren ska se till att föraren säkrar traktorn och de maskiner eller redskap som man kopplat till traktorn, så att traktorn inte kan komma i rörelse av misstag, efter det att föraren har lämnat förar- eller manöverplatsen.
+Utförandet hos följande gradsaxar och maskinellt drivna mekaniska, hydrauliska och pneumatiska pressar med slagrörelse.
 
-### 17 §
+Gradsaxar och pressar, som inte omfattades av Arbetarskyddsstyrelsens kungörelse (AFS 1993:10) med föreskrifter om maskiner och vissa andra tekniska anordningar, eller av motsvarande föreskrifter i något annat land inom Europeiska ekonomiska samarbetsområdet (EES), när de släpptes ut på marknaden eller togs i drift.
 
-Arbetsgivaren ska se till att ingen person är under de redskap som sitter i trepunktskopplingen eller under en frontlastare, om de är i ett upplyft läge och inte är säkrade.
+Gradsaxar och pressar, som omfattades av någon av föreskrifterna under punkt a, men som med stöd av övergångsbestämmelser följde äldre föreskrifter, när de släpptes ut på marknaden eller togs i drift.
 
-### 18 §
+Användningen vid produktion eller undervisning med alla maskinellt drivna mekaniska, hydrauliska och pneumatiska pressar med slagrörelse, för plastisk eller klippande bearbetning, eller för pulverpressning.
 
-Arbetsgivaren ska se till att maskiner och redskap som kopplas till en traktor är anpassade till denna, så att kombinationen är en säker enhet.
+Användningen vid produktion eller undervisning med alla gradsaxar för klippning av plåt.
+
+Föreskrifterna preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2.
+
+Föreskrifterna gäller inte utförandet hos gradsaxar och pressar, som omfattades av
+
+Arbetsmiljöverkets föreskrifter (AFS 2008:3) om maskiner, eller motsvarande bestämmelser i något annat land inom EES, när de släpptes ut på marknaden eller togs i drift, eller
+
+Arbetsmiljöverkets föreskrifter (AFS 2023:4) om produkter – maskiner, eller motsvarande bestämmelser i något annat land inom EES, när de släpptes ut på marknaden eller togs i drift.
+
+Föreskrifterna gäller inte
+
+avdragarpressar, kabelpressar, balpressar, barkpressar, valspressar, skrotpressar, pressvetsmaskiner, pressar för extrudering, isostatpressar, tegelpressar, hammare och hejare, pressar som bara är avsedda för nitning eller montering, samt andra pressar för speciella ändamål som är konstruerade så att de väsentligt avviker från vanliga pressar,
+
+pressar som bara används för verktygsprovning, och
+
+pressar för grafisk bearbetning.
+
+Varor som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i Turkiet, eller som har sitt ursprung i och som lagligen saluförs i en Eftastat som är part i EES-avtalet förutsätts vara förenliga med dessa föreskrifter. Tillämpningen av dessa föreskrifter omfattas av [Europaparlamentets och rådets förordning (EU) 2019/515](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0515) av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av [förordning (EG) nr 764/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0764).
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-14) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-14). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-14) om arbetsgivare och om arbetstagare.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-14) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-14) gäller då även dem.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-11/kap-14) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Avskärmningsskydd</div></div></td><td><div><div>Skyddsanordning i form av en fysisk avskärmning som huvudsakligen är avsedd att hindra att någon kroppsdel förs in i riskområdet.</div></div></td></tr><tr><td><div><div>Beröringsfritt skydd</div></div></td><td><div><div>Skyddsanordning med optiskt (t.ex. ljusridå), elektromagnetiskt eller annat skyddsfält som när skyddsfältet påverkas känner av detta och ger en stoppsignal.</div></div></td></tr><tr><td><div><div>Fast skydd</div></div></td><td><div><div>Avskärmningsskydd som hålls på plats</div><ol><li><div><div>antingen permanent (t.ex. fastsvetsat), eller</div></div></li><li><div><div>genom fasta förband som inte kan avlägsnas utan specialverktyg.</div></div></li></ol></div></td></tr><tr><td><div><div>Förreglande skydd</div></div></td><td><div><div>Öppningsbart avskärmningsskydd med eller utan låsanordning, som är försett med en förreglande anordning och utfört så att</div><ol><li><div><div>start av en farlig maskinrörelse hindras om skyddet är öppet, och</div></div></li><li><div><div>en pågående farlig maskinrörelse upphör om skyddet öppnas.</div></div></li></ol></div></td></tr><tr><td><div><div>Mekanisk press</div></div></td><td><div><div>Sammanfattande benämning på excenterpressar, skruvpressar och andra pressar med mekanisk energiöverföring.</div></div></td></tr><tr><td><div><div>Ofarligt läge</div></div></td><td><div><div>Läge under pressens eller gradsaxens slutningsrörelse där risken för klämskada mellan verktygsdelar har upphört.</div></div></td></tr><tr><td><div><div>Skyddsgrind</div></div></td><td><div><div>Förreglande skydd med eller utan startfunktion, som är särskilt avsett att användas vid manuellt repetitivt operatörsarbete i riskområdet.</div></div></td></tr><tr><td><div><div>Tvåhandsmanöveranordning</div></div></td><td><div><div>Manöveranordning med två manöverdon som är avsedda att samtidigt påverkas av händerna och som vid påverkan ger en startsignal och upprätthåller denna, tills något av donen släpps.</div></div></td></tr></tbody></table>
+
+### 4 § – Allmänna krav
+
+Arbetsgivaren ska se till att pressar och gradsaxar som avses i [1 §](#1-då-gäller-föreskrifterna) första stycket 1, är utförda så att de uppfyller kraven i bilaga 13.
+
+### 5 §
+
+Arbetsgivaren ska se till att pressar och gradsaxar som avses i [1 §](#1-då-gäller-föreskrifterna) första stycket 2 och 3, uppfyller kraven i bilaga 14 när de används.
+
+#### Kategoriindelning
+
+### 6 § – Pressar
+
+I dessa föreskrifter indelas pressar i följande kategorier, beroende av deras skyddsanordningar och avsedda användningssätt:
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Kategori&nbsp;I</div></div></td><td><div><div>Pressar som har tvåhandsmanöveranordning eller ett beröringsfritt skydd.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;II</div></div></td><td><div><div>Pressar som har en skyddsgrind.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;III</div></div></td><td><div><div>Pressar som är avsedda att användas bara med ett skyddat pressverktyg eller med ett fast skydd, som omsluter verktyget.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;IV</div></div></td><td><div><div>Pressar som är avsedda att användas bara för manuellt arbete med varma arbetsstycken.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;V</div></div></td><td><div><div>Pressar som är avsedda att användas bara för automatdrift.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;VI</div></div></td><td><div><div>Pressar som bara har en långsam slutningsrörelse.</div></div></td></tr></tbody></table>
+
+### 7 § – Gradsaxar
+
+I dessa föreskrifter indelas gradsaxar i följande kategorier, beroende av deras skyddsanordningar och avsedda användningssätt:
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Kategori&nbsp;I</div></div></td><td><div><div>Gradsaxar som har en tvåhandsmanöveranordning eller ett beröringsfritt skydd.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;II</div></div></td><td><div><div>Gradsaxar som har ett fast eller förreglande skydd framför skär och tillhållare.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;III</div></div></td><td><div><div>Gradsaxar utan motordrift.</div></div></td></tr><tr><td><div><div>Kategori&nbsp;IV</div></div></td><td><div><div>Gradsaxar som är avsedda att användas bara för automatdrift.</div></div></td></tr></tbody></table>
+
+### 8 § – Underhåll
+
+Arbetsgivaren ska se till att fortlöpande tillsyn samt periodiskt underhåll på pressar och gradsaxar genomförs, så att felfunktion som kan orsaka personskador undviks. Tillverkarens instruktioner ska beaktas.
+
+Kontroll ska ske enligt något av följande två alternativ:
+
+Intervallet får vara högst ett år.
+
+Intervallet får vara högst 1600 drifttimmar, dock inte längre än två år.
+
+Vid kontrollen ska särskild omsorg ägnas åt
+
+manöver- och skyddsanordningar samt övriga delar av styrutrustningen som ingår i eller kan påverka pressens, gradsaxens eller matarverkets start- och stoppfunktion,
+
+koppling och broms på en mekanisk press eller gradsax,
+
+skruvförband som ingår i kolv- och cylinderdelar samt övriga förband, som binder överliggande transmissionselement till pressens löpare respektive gradsaxens skärbalk och tillhållare, och
+
+andra maskindelar som utsätts för förslitning eller utmattningspåkänningar och som har betydelse för personsäkerheten.
+
+### 9 §
+
+Arbetsgivaren ska se till att fortlöpande tillsyn, underhåll och kontroll utförs av en sakkunnig person. Arbetsgivaren ska se till att tillsyn, underhåll och kontroller dokumenteras. Av dokumentationen ska minst framgå:
+
+Datum för när skötsel och kontroll utförts samt fel som framkommit.
+
+Uppgift om när delar bytts ut samt om utbytet gjorts på grund av haveri, slitage eller leverantörens skötselinstruktioner.
+
+Uppgift om vem som vidtagit åtgärderna.
+
+Dagliga funktionskontroller behöver inte dokumenteras.
+
+Dokumentation ska finnas tillgänglig på arbetsstället.
 <!-- scan-laws:end -->
 
 ## Tolkning

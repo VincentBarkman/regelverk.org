@@ -1,9 +1,9 @@
-# cra [en] scraped 2026-10-12
-# source: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847
+# cra [en] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/21b7d4eb-a6e2-11ef-85f0-01aa75ed71a1.0006.03
 
 # kap-1 | Chapter I | GENERAL PROVISIONS | cpt_I
 
-## Artikel 1 | Subject matter | art_1
+## Article 1 | Subject matter | art_1
 This Regulation lays down:
 
 (a)
@@ -22,7 +22,7 @@ essential cybersecurity requirements for the vulnerability handling processes pu
 
 rules on market surveillance, including monitoring, and enforcement of the rules and requirements referred to in this Article.
 
-## Artikel 2 | Scope | art_2
+## Article 2 | Scope | art_2
 1. This Regulation applies to products with digital elements made available on the market, the intended purpose or reasonably foreseeable use of which includes a direct or indirect logical or physical data connection to a device or network.
 
 2. This Regulation does not apply to products with digital elements to which the following Union legal acts apply:
@@ -61,7 +61,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 6
 
 8. The obligations laid down in this Regulation shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
 
-## Artikel 3 | Definitions | art_3
+## Article 3 | Definitions | art_3
 For the purposes of this Regulation, the following definitions apply:
 
 (1)
@@ -268,7 +268,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 ‘CSIRT designated as coordinator’ means a CSIRT designated as coordinator pursuant to Article 12(1) of Directive (EU) 2022/2555.
 
-## Artikel 4 | Free movement | art_4
+## Article 4 | Free movement | art_4
 1. Member States shall not impede, for the matters covered by this Regulation, the making available on the market of products with digital elements which comply with this Regulation.
 
 2. At trade fairs, exhibitions, demonstrations or similar events, Member States shall not prevent the presentation or use of a product with digital elements which does not comply with this Regulation, including its prototypes, provided that the product is presented with a visible sign clearly indicating that it does not comply with this Regulation and that it is not to be made available on the market until it does so.
@@ -277,12 +277,12 @@ For the purposes of this Regulation, the following definitions apply:
 
 4. Paragraph 3 does not apply to safety components as referred to in Union harmonisation legislation other than this Regulation.
 
-## Artikel 5 | Procurement or use of products with digital elements | art_5
+## Article 5 | Procurement or use of products with digital elements | art_5
 1. This Regulation shall not prevent Member States from subjecting products with digital elements to additional cybersecurity requirements for the procurement or use of those products for specific purposes, including where those products are procured or used for national security or defence purposes, provided that such requirements are consistent with Member States’ obligations laid down in Union law and that they are necessary and proportionate for the achievement of those purposes.
 
 2. Without prejudice to Directives 2014/24/EU and 2014/25/EU, where products with digital elements that fall within the scope of this Regulation are procured, Member States shall ensure that compliance with the essential cybersecurity requirements set out in Annex I to this Regulation, including the manufacturers’ ability to handle vulnerabilities effectively, are taken into consideration in the procurement process.
 
-## Artikel 6 | Requirements for products with digital elements | art_6
+## Article 6 | Requirements for products with digital elements | art_6
 Products with digital elements shall be made available on the market only where:
 
 (a)
@@ -293,7 +293,7 @@ they meet the essential cybersecurity requirements set out in Part I of Annex I,
 
 the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I.
 
-## Artikel 7 | Important products with digital elements | art_7
+## Article 7 | Important products with digital elements | art_7
 1. Products with digital elements which have the core functionality of a product category set out in Annex III shall be considered to be important products with digital elements and shall be subject to the conformity assessment procedures referred to in Article 32(2) and (3). The integration of a product with digital elements which has the core functionality of a product category set out in Annex III shall not in itself render the product in which it is integrated subject to the conformity assessment procedures referred to in Article 32(2) and (3).
 
 2. The categories of products with digital elements referred to in paragraph 1 of this Article, divided into classes I and II as set out in Annex III, meet at least one of the following criteria:
@@ -312,7 +312,7 @@ The delegated acts referred to in the first subparagraph of this paragraph shall
 
 4. By 11 December 2025, the Commission shall adopt an implementing act specifying the technical description of the categories of products with digital elements under classes I and II as set out in Annex III and the technical description of the categories of products with digital elements as set out in Annex IV. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 62(2).
 
-## Artikel 8 | Critical products with digital elements | art_8
+## Article 8 | Critical products with digital elements | art_8
 1. The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation to determine which products with digital elements that have the core functionality of a product category that is set out in Annex IV to this Regulation are to be required to obtain a European cybersecurity certificate at assurance level at least ‘substantial’ under a European cybersecurity certification scheme adopted pursuant to Regulation (EU) 2019/881, to demonstrate conformity with the essential cybersecurity requirements set out in Annex I to this Regulation or parts thereof, provided that a European cybersecurity certification scheme covering those categories of products with digital elements has been adopted pursuant to Regulation (EU) 2019/881 and is available to manufacturers. Those delegated acts shall specify the required assurance level that shall be proportionate to the level of cybersecurity risk associated with the products with digital elements and shall take account of their intended purpose, including the critical dependency on them by essential entities as referred to in Article 3(1) of Directive (EU) 2022/2555.
 
 Before adopting such delegated acts, the Commission shall carry out an assessment of the potential market impact of the envisaged measures and shall carry out consultations with relevant stakeholders, including the European Cybersecurity Certification Group established under Regulation (EU) 2019/881. The assessment shall take into account the readiness and the capacity level of the Member States for the implementation of the relevant European cybersecurity certification scheme. Where no delegated acts as referred to in the first subparagraph of this paragraph have been adopted, products with digital elements which have the core functionality of a product category as set out in Annex IV shall be subject to the conformity assessment procedures referred to in Article 32(3).
@@ -333,7 +333,7 @@ Before adopting such delegated acts, the Commission shall carry out an assessmen
 
 The delegated acts referred to in the first subparagraph shall provide for a minimum transitional period of six months, unless a shorter transitional period is justified for imperative reasons of urgency.
 
-## Artikel 9 | Stakeholder consultation | art_9
+## Article 9 | Stakeholder consultation | art_9
 1. When preparing measures for the implementation of this Regulation, the Commission shall consult and take into account the views of relevant stakeholders, such as relevant Member State authorities, private sector undertakings, including microenterprises and small and medium-sized enterprises, the open-source software community, consumer associations, academia, and relevant Union agencies and bodies as well as expert groups established at Union level. In particular, the Commission shall, in a structured manner, where appropriate, consult and seek the views of those stakeholders when:
 
 (a)
@@ -350,7 +350,7 @@ undertaking preparatory work for the evaluation and review of this Regulation.
 
 2. The Commission shall organise regular consultation and information sessions, at least once a year, to gather the views of the stakeholders referred to in paragraph 1 on the implementation of this Regulation.
 
-## Artikel 10 | Enhancing skills in a cyber resilient digital environment | art_10
+## Article 10 | Enhancing skills in a cyber resilient digital environment | art_10
 For the purposes of this Regulation and in order to respond to the needs of professionals in support of the implementation of this Regulation, Member States with, where appropriate, the support of the Commission, the European Cybersecurity Competence Centre and ENISA, while fully respecting the responsibility of the Member States in the education field, shall promote measures and strategies aiming to:
 
 (a)
@@ -361,10 +361,10 @@ develop cybersecurity skills and create organisational and technological tools t
 
 increase collaboration between the private sector, economic operators, including via re-skilling or up-skilling for manufacturers’ employees, consumers, training providers as well as public administrations, thereby expanding the options for young people to access jobs in the cybersecurity sector.
 
-## Artikel 11 | General product safety | art_11
+## Article 11 | General product safety | art_11
 By way of derogation from Article 2(1), third subparagraph, point (b), of Regulation (EU) 2023/988, Chapter III, Section 1, Chapters V and VII, and Chapters IX to XI of that Regulation shall apply to products with digital elements with respect to aspects and risks or categories of risks that are not covered by this Regulation where those products are not subject to specific safety requirements laid down in other ‘Union harmonisation legislation’ as defined in Article 3, point (27), of Regulation (EU) 2023/988.
 
-## Artikel 12 | High-risk AI systems | art_12
+## Article 12 | High-risk AI systems | art_12
 1. Without prejudice to the requirements relating to accuracy and robustness set out in Article 15 of Regulation (EU) 2024/1689, products with digital elements which fall within the scope of this Regulation and which are classified as high-risk AI systems pursuant to Article 6 of that Regulation shall be deemed to comply with the cybersecurity requirements set out in Article 15 of that Regulation where:
 
 (a)
@@ -387,7 +387,7 @@ the achievement of the level of cybersecurity protection required under Article 
 
 # kap-2 | Chapter II | OBLIGATIONS OF ECONOMIC OPERATORS AND PROVISIONS IN RELATION TO FREE AND OPEN-SOURCE SOFTWARE | cpt_II
 
-## Artikel 13 | Obligations of manufacturers | art_13
+## Article 13 | Obligations of manufacturers | art_13
 1. When placing a product with digital elements on the market, manufacturers shall ensure that it has been designed, developed and produced in accordance with the essential cybersecurity requirements set out in Part I of Annex I.
 
 2. For the purpose of complying with paragraph 1, manufacturers shall undertake an assessment of the cybersecurity risks associated with a product with digital elements and take the outcome of that assessment into account during the planning, design, development, production, delivery and maintenance phases of the product with digital elements with a view to minimising cybersecurity risks, preventing incidents and minimising their impact, including in relation to the health and safety of users.
@@ -458,7 +458,7 @@ Where technically feasible in light of the nature of the product with digital el
 
 25. In order to assess the dependence of Member States and of the Union as a whole on software components and in particular on components qualifying as free and open-source software, ADCO may decide to conduct a Union wide dependency assessment for specific categories of products with digital elements. For that purpose, market surveillance authorities may request manufacturers of such categories of products with digital elements to provide the relevant software bills of materials as referred to in Part II, point (1), of Annex I. On the basis of such information, the market surveillance authorities may provide ADCO with anonymised and aggregated information about software dependencies. ADCO shall submit a report on the results of the dependency assessment to the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555.
 
-## Artikel 14 | Reporting obligations of manufacturers | art_14
+## Article 14 | Reporting obligations of manufacturers | art_14
 1. A manufacturer shall notify any actively exploited vulnerability contained in the product with digital elements that it becomes aware of simultaneously to the CSIRT designated as coordinator, in accordance with paragraph 7 of this Article, and to ENISA. The manufacturer shall notify that actively exploited vulnerability via the single reporting platform established pursuant to Article 16.
 
 2. For the purposes of the notification referred to in paragraph 1, the manufacturer shall submit:
@@ -557,7 +557,7 @@ In relation to the third subparagraph, point (d), a manufacturer may submit noti
 
 10. The Commission may, by means of implementing acts, specify further the format and procedures of the notifications referred to in this Article as well as in Articles 15 and 16. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2). The Commission shall cooperate with the CSIRTs network and ENISA in preparing those draft implementing acts.
 
-## Artikel 15 | Voluntary reporting | art_15
+## Article 15 | Voluntary reporting | art_15
 1. Manufacturers as well as other natural or legal persons may notify any vulnerability contained in a product with digital elements as well as cyber threats that could affect the risk profile of a product with digital elements on a voluntary basis to a CSIRT designated as coordinator or ENISA.
 
 2. Manufacturers as well as other natural or legal persons may notify any incident having an impact on the security of the product with digital elements as well as near misses that could have resulted in such an incident on a voluntary basis to a CSIRT designated as coordinator or ENISA.
@@ -570,7 +570,7 @@ The CSIRT designated as coordinator may prioritise the processing of mandatory n
 
 5. The CSIRTs designated as coordinators as well as ENISA shall ensure the confidentiality and appropriate protection of the information provided by a notifying natural or legal person. Without prejudice to the prevention, investigation, detection and prosecution of criminal offences, voluntary reporting shall not result in the imposition of any additional obligations upon a notifying natural or legal person to which it would not have been subject had it not submitted the notification.
 
-## Artikel 16 | Establishment of a single reporting platform | art_16
+## Article 16 | Establishment of a single reporting platform | art_16
 1. For the purposes of the notifications referred to in Article 14(1) and (3) and Article 15(1) and (2) and in order to simplify the reporting obligations of manufacturers, a single reporting platform shall be established by ENISA. The day-to-day operations of that single reporting platform shall be managed and maintained by ENISA. The architecture of the single reporting platform shall allow Member States and ENISA to put in place their own electronic notification end-points.
 
 2. After receiving a notification, the CSIRT designated as coordinator initially receiving the notification shall, without delay, disseminate the notification via the single reporting platform to the CSIRTs designated as coordinators on the territory of which the manufacturer has indicated that the product with digital elements has been made available.
@@ -601,7 +601,7 @@ only the information that a notification was made by the manufacturer, the gener
 
 6. Where a CSIRT designated as coordinator has been made aware of an actively exploited vulnerability as part of a coordinated vulnerability disclosure procedure as referred to in Article 12(1) of Directive (EU) 2022/2555, the CSIRT designated as coordinator initially receiving the notification may delay the dissemination of the relevant notification via the single reporting platform based on justified cybersecurity-related grounds for a period that is no longer than is strictly necessary and until consent for disclosure by the involved coordinated vulnerability disclosure parties is given. That requirement shall not prevent manufacturers from notifying such a vulnerability on a voluntary basis in accordance with the procedure laid down in this Article.
 
-## Artikel 17 | Other provisions related to reporting | art_17
+## Article 17 | Other provisions related to reporting | art_17
 1. ENISA may submit to the European cyber crisis liaison organisation network (EU-CyCLONe) established under Article 16 of Directive (EU) 2022/2555 information notified pursuant to Article 14(1) and (3) and Article 15(1) and (2) of this Regulation if such information is relevant for the coordinated management of large-scale cybersecurity incidents and crises at an operational level. For the purpose of determining such relevance, ENISA may consider technical analyses performed by the CSIRTs network, where available.
 
 2. Where public awareness is necessary to prevent or mitigate a severe incident having an impact on the security of the product with digital elements or to handle an ongoing incident, or where disclosure of the incident is otherwise in the public interest, the CSIRT designated as coordinator of the relevant Member State may, after consulting the manufacturer concerned and, where appropriate, in cooperation with ENISA, inform the public about the incident or require the manufacturer to do so.
@@ -614,7 +614,7 @@ only the information that a notification was made by the manufacturer, the gener
 
 6. The CSIRTs designated as coordinators shall provide helpdesk support in relation to the reporting obligations pursuant to Article 14 to manufacturers and in particular manufacturers that qualify as microenterprises or as small or medium-sized enterprises.
 
-## Artikel 18 | Authorised representatives | art_18
+## Article 18 | Authorised representatives | art_18
 1. A manufacturer may, by a written mandate, appoint an authorised representative.
 
 2. The obligations laid down in Article 13(1) to (11), Article 13(12), first subparagraph, and Article 13(14) shall not form part of the authorised representative’s mandate.
@@ -633,7 +633,7 @@ further to a reasoned request from a market surveillance authority, provide that
 
 cooperate with the market surveillance authorities, at their request, on any action taken to eliminate the risks posed by a product with digital elements covered by the authorised representative’s mandate.
 
-## Artikel 19 | Obligations of importers | art_19
+## Article 19 | Obligations of importers | art_19
 1. Importers shall place on the market only products with digital elements that comply with the essential cybersecurity requirements set out in Part I of Annex I and where the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Part II of Annex I.
 
 2. Before placing a product with digital elements on the market, importers shall ensure that:
@@ -672,7 +672,7 @@ Upon becoming aware of a vulnerability in the product with digital elements, imp
 
 8. Where the importer of a product with digital elements becomes aware that the manufacturer of that product has ceased its operations and, as result, is not able to comply with the obligations laid down in this Regulation, the importer shall inform the relevant market surveillance authorities about this situation, as well as, by any means available and to the extent possible, the users of the products with digital elements placed on the market.
 
-## Artikel 20 | Obligations of distributors | art_20
+## Article 20 | Obligations of distributors | art_20
 1. When making a product with digital elements available on the market, distributors shall act with due care in relation to the requirements set out in this Regulation.
 
 2. Before making a product with digital elements available on the market, distributors shall verify that:
@@ -695,15 +695,15 @@ Upon becoming aware of a vulnerability in the product with digital elements, dis
 
 6. Where the distributor of a product with digital elements becomes aware, on the basis of information in its possession, that the manufacturer of that product has ceased its operations and, as result, is not able to comply with the obligations laid down in this Regulation, the distributor shall inform, without undue delay, the relevant market surveillance authorities about this situation, as well as, by any means available and to the extent possible, the users of the products with digital elements placed on the market.
 
-## Artikel 21 | Cases in which obligations of manufacturers apply to importers and distributors | art_21
+## Article 21 | Cases in which obligations of manufacturers apply to importers and distributors | art_21
 An importer or distributor shall be considered to be a manufacturer for the purposes of this Regulation and shall be subject to Articles 13 and 14, where that importer or distributor places a product with digital elements on the market under its name or trademark or carries out a substantial modification of a product with digital elements already placed on the market.
 
-## Artikel 22 | Other cases in which obligations of manufacturers apply | art_22
+## Article 22 | Other cases in which obligations of manufacturers apply | art_22
 1. A natural or legal person, other than the manufacturer, the importer or the distributor, that carries out a substantial modification of a product with digital elements and makes that product available on the market, shall be considered to be a manufacturer for the purposes of this Regulation.
 
 2. The person referred to in paragraph 1 of this Article shall be subject to the obligations set out in Articles 13 and 14 for the part of the product with digital elements that is affected by the substantial modification or, if the substantial modification has an impact on the cybersecurity of the product with digital elements as a whole, for the entire product.
 
-## Artikel 23 | Identification of economic operators | art_23
+## Article 23 | Identification of economic operators | art_23
 1. Economic operators shall, on request, provide the market surveillance authorities with the following information:
 
 (a)
@@ -716,7 +716,7 @@ where available, the name and address of any economic operator to whom they have
 
 2. Economic operators shall be able to present the information referred to in paragraph 1 for 10 years after they have been supplied with the product with digital elements and for 10 years after they have supplied the product with digital elements.
 
-## Artikel 24 | Obligations of open-source software stewards | art_24
+## Article 24 | Obligations of open-source software stewards | art_24
 1. Open-source software stewards shall put in place and document in a verifiable manner a cybersecurity policy to foster the development of a secure product with digital elements as well as an effective handling of vulnerabilities by the developers of that product. That policy shall also foster the voluntary reporting of vulnerabilities as laid down in Article 15 by the developers of that product and take into account the specific nature of the open-source software steward and the legal and organisational arrangements to which it is subject. That policy shall, in particular, include aspects related to documenting, addressing and remediating vulnerabilities and promote the sharing of information concerning discovered vulnerabilities within the open-source community.
 
 2. Open-source software stewards shall cooperate with the market surveillance authorities, at their request, with a view to mitigating the cybersecurity risks posed by a product with digital elements qualifying as free and open-source software.
@@ -725,10 +725,10 @@ Further to a reasoned request from a market surveillance authority, open-source 
 
 3. The obligations laid down in Article 14(1) shall apply to open-source software stewards to the extent that they are involved in the development of the products with digital elements. The obligations laid down in Article 14(3) and (8) shall apply to open-source software stewards to the extent that severe incidents having an impact on the security of products with digital elements affect network and information systems provided by the open-source software stewards for the development of such products.
 
-## Artikel 25 | Security attestation of free and open-source software | art_25
+## Article 25 | Security attestation of free and open-source software | art_25
 In order to facilitate the due diligence obligation set out in Article 13(5), in particular as regards manufacturers that integrate free and open-source software components in their products with digital elements, the Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by establishing voluntary security attestation programmes allowing the developers or users of products with digital elements qualifying as free and open-source software as well as other third parties to assess the conformity of such products with all or certain essential cybersecurity requirements or other obligations laid down in this Regulation.
 
-## Artikel 26 | Guidance | art_26
+## Article 26 | Guidance | art_26
 1. In order to facilitate implementation and ensure the consistency of such implementation, the Commission shall publish guidance to assist economic operators in applying this Regulation, with a particular focus on facilitating compliance by microenterprises and small and medium-sized enterprises.
 
 2. Where it intends to provide guidance as referred to in paragraph 1, the Commission shall address at least the following aspects:
@@ -755,7 +755,7 @@ The Commission shall also maintain an easy-to-access list of the delegated and i
 
 # kap-3 | Chapter III | CONFORMITY OF THE PRODUCT WITH DIGITAL ELEMENTS | cpt_III
 
-## Artikel 27 | Presumption of conformity | art_27
+## Article 27 | Presumption of conformity | art_27
 1. Products with digital elements and processes put in place by the manufacturer which are in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those standards or parts thereof.
 
 The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards for the essential cybersecurity requirements set out in Annex I to this Regulation. When preparing standardisation requests for this Regulation, the Commission shall strive to take into account existing European and international standards for cybersecurity that are in place or under development in order to simplify the development of harmonised standards, in accordance with Regulation (EU) No 1025/2012.
@@ -800,7 +800,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 9. The Commission is empowered to adopt delegated acts in accordance with Article 61 of this Regulation to supplement this Regulation by specifying the European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 that can be used to demonstrate conformity of products with digital elements with the essential cybersecurity requirements or parts thereof as set out in Annex I to this Regulation. Furthermore, the issuance of a European cybersecurity certificate issued under such schemes, at least at assurance level ‘substantial’, eliminates the obligation of a manufacturer to carry out a third-party conformity assessment for the corresponding requirements, as set out in Article 32(2), points (a) and (b), and Article 32(3), points (a) and (b), of this Regulation.
 
-## Artikel 28 | EU declaration of conformity | art_28
+## Article 28 | EU declaration of conformity | art_28
 1. The EU declaration of conformity shall be drawn up by manufacturers in accordance with Article 13(12) and state that the fulfilment of the applicable essential cybersecurity requirements set out in Annex I has been demonstrated.
 
 2. The EU declaration of conformity shall have the model structure set out in Annex V and shall contain the elements specified in the relevant conformity assessment procedures set out in Annex VIII. Such a declaration shall be updated as appropriate. It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
@@ -813,10 +813,10 @@ The simplified EU declaration of conformity referred to in Article 13(20) shall 
 
 5. The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by adding elements to the minimum content of the EU declaration of conformity set out in Annex V to take account of technological developments.
 
-## Artikel 29 | General principles of the CE marking | art_29
+## Article 29 | General principles of the CE marking | art_29
 The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
 
-## Artikel 30 | Rules and conditions for affixing the CE marking | art_30
+## Article 30 | Rules and conditions for affixing the CE marking | art_30
 1. The CE marking shall be affixed visibly, legibly and indelibly to the product with digital elements. Where that is not possible or not warranted on account of the nature of the product with digital elements, it shall be affixed to the packaging and to the EU declaration of conformity referred to in Article 28 accompanying the product with digital elements. For products with digital elements which are in the form of software, the CE marking shall be affixed either to the EU declaration of conformity referred to in Article 28 or on the website accompanying the software product. In the latter case, the relevant section of the website shall be easily and directly accessible to consumers.
 
 2. On account of the nature of the product with digital elements, the height of the CE marking affixed to the product with digital elements may be lower than 5 mm, provided that it remains visible and legible.
@@ -831,7 +831,7 @@ The identification number of the notified body shall be affixed by the body itse
 
 6. The Commission may, by means of implementing acts, lay down technical specifications for labels, pictograms or any other marks related to the security of the products with digital elements, their support periods and mechanisms to promote their use and to increase public awareness about the security of products with digital elements. When preparing the draft implementing acts, the Commission shall consult relevant stakeholders, and, if it has already been established pursuant to Article 52(15), ADCO. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).
 
-## Artikel 31 | Technical documentation | art_31
+## Article 31 | Technical documentation | art_31
 1. The technical documentation shall contain all relevant data or details of the means used by the manufacturer to ensure that the product with digital elements and the processes put in place by the manufacturer comply with the essential cybersecurity requirements set out in Annex I. It shall at least contain the elements set out in Annex VII.
 
 2. The technical documentation shall be drawn up before the product with digital elements is placed on the market and shall be continuously updated, where appropriate, at least during the support period.
@@ -842,7 +842,7 @@ The identification number of the notified body shall be affixed by the body itse
 
 5. The Commission is empowered to adopt delegated acts in accordance with Article 61 to supplement this Regulation by adding elements to be included in the technical documentation set out in Annex VII to take account of technological developments, as well as developments encountered in the implementation process of this Regulation. To that end, the Commission shall strive to ensure that the administrative burden on microenterprises and small and medium-sized enterprises is proportionate.
 
-## Artikel 32 | Conformity assessment procedures for products with digital elements | art_32
+## Article 32 | Conformity assessment procedures for products with digital elements | art_32
 1. The manufacturer shall perform a conformity assessment of the product with digital elements and the processes put in place by the manufacturer to determine whether the essential cybersecurity requirements set out in Annex I are met. The manufacturer shall demonstrate conformity with the essential cybersecurity requirements by using any of the following procedures:
 
 (a)
@@ -899,7 +899,7 @@ where the conditions in Article 8(1) are not met, any of the procedures referred
 
 6. The specific interests and needs of microenterprises and small and medium-sized enterprises, including start-ups, shall be taken into account when setting the fees for conformity assessment procedures and those fees shall be reduced proportionately to their specific interests and needs.
 
-## Artikel 33 | Support measures for microenterprises and small and medium-sized enterprises, including start-ups | art_33
+## Article 33 | Support measures for microenterprises and small and medium-sized enterprises, including start-ups | art_33
 1. Member States shall, where appropriate, undertake the following actions, tailored to the needs of microenterprises and small enterprises:
 
 (a)
@@ -924,17 +924,17 @@ support testing and conformity assessment activities, including where relevant w
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2).
 
-## Artikel 34 | Mutual recognition agreements | art_34
+## Article 34 | Mutual recognition agreements | art_34
 Taking into account the level of technical development and the approach on conformity assessment of a third country, the Union may conclude Mutual Recognition Agreements with third countries, in accordance with Article 218 TFEU, in order to promote and facilitate international trade.
 
 # kap-4 | Chapter IV | NOTIFICATION OF CONFORMITY ASSESSMENT BODIES | cpt_IV
 
-## Artikel 35 | Notification | art_35
+## Article 35 | Notification | art_35
 1. Member States shall notify the Commission and the other Member States of bodies authorised to carry out conformity assessments in accordance with this Regulation.
 
 2. Member States shall strive to ensure, by 11 December 2026 that there is a sufficient number of notified bodies in the Union to carry out conformity assessments, in order to avoid bottlenecks and hindrances to market entry.
 
-## Artikel 36 | Notifying authorities | art_36
+## Article 36 | Notifying authorities | art_36
 1. Each Member State shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and their monitoring, including compliance with Article 41.
 
 2. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of and in accordance with Regulation (EC) No 765/2008.
@@ -943,7 +943,7 @@ Taking into account the level of technical development and the approach on confo
 
 4. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
 
-## Artikel 37 | Requirements relating to notifying authorities | art_37
+## Article 37 | Requirements relating to notifying authorities | art_37
 1. A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs.
 
 2. A notifying authority shall be organised and shall function so as to safeguard the objectivity and impartiality of its activities.
@@ -956,12 +956,12 @@ Taking into account the level of technical development and the approach on confo
 
 6. A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.
 
-## Artikel 38 | Information obligation on notifying authorities | art_38
+## Article 38 | Information obligation on notifying authorities | art_38
 1. Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto.
 
 2. The Commission shall make the information referred to in paragraph 1 publicly available.
 
-## Artikel 39 | Requirements relating to notified bodies | art_39
+## Article 39 | Requirements relating to notified bodies | art_39
 1. For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 12.
 
 2. A conformity assessment body shall be established under national law and have legal personality.
@@ -1026,10 +1026,10 @@ The remuneration of the top level management and assessment personnel of a confo
 
 12. Conformity assessment bodies shall operate in accordance with a set of consistent, fair, proportionate and reasonable terms and conditions, while avoiding unnecessary burden for economic operators, in particular taking into account the interests of microenterprises and small and medium-sized enterprises in relation to fees.
 
-## Artikel 40 | Presumption of conformity of notified bodies | art_40
+## Article 40 | Presumption of conformity of notified bodies | art_40
 Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article 39 in so far as the applicable harmonised standards cover those requirements.
 
-## Artikel 41 | Subsidiaries of and subcontracting by notified bodies | art_41
+## Article 41 | Subsidiaries of and subcontracting by notified bodies | art_41
 1. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 39 and shall inform the notifying authority accordingly.
 
 2. Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever they are established.
@@ -1038,14 +1038,14 @@ Where a conformity assessment body demonstrates its conformity with the criteria
 
 4. Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation.
 
-## Artikel 42 | Application for notification | art_42
+## Article 42 | Application for notification | art_42
 1. A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
 
 2. That application shall be accompanied by a description of the conformity assessment activities, the conformity assessment procedure or procedures and the product or products with digital elements for which that body claims to be competent, as well as, where applicable, by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 39.
 
 3. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 39.
 
-## Artikel 43 | Notification procedure | art_43
+## Article 43 | Notification procedure | art_43
 1. Notifying authorities shall notify only conformity assessment bodies which have satisfied the requirements laid down in Article 39.
 
 2. The notifying authority shall notify the Commission and the other Member States using the New Approach Notified and Designated Organisations information system developed and managed by the Commission.
@@ -1060,7 +1060,7 @@ Only such a body shall be considered to be a notified body for the purposes of t
 
 6. The Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.
 
-## Artikel 44 | Identification numbers and lists of notified bodies | art_44
+## Article 44 | Identification numbers and lists of notified bodies | art_44
 1. The Commission shall assign an identification number to a notified body.
 
 It shall assign a single such number even where the body is notified under several Union legal acts.
@@ -1069,12 +1069,12 @@ It shall assign a single such number even where the body is notified under sever
 
 The Commission shall ensure that that list is kept up to date.
 
-## Artikel 45 | Changes to notifications | art_45
+## Article 45 | Changes to notifications | art_45
 1. Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article 39, or that it is failing to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw notification as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
 
 2. In the event of restriction, suspension or withdrawal of notification, or where the notified body has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body or kept available for the responsible notifying and market surveillance authorities at their request.
 
-## Artikel 46 | Challenge of the competence of notified bodies | art_46
+## Article 46 | Challenge of the competence of notified bodies | art_46
 1. The Commission shall investigate all cases where it doubts, or where doubt is brought to its attention regarding, the competence of a notified body to meet, or the continued fulfilment by a notified body of, the requirements and responsibilities to which it is subject.
 
 2. The notifying Member State shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the body concerned.
@@ -1083,7 +1083,7 @@ The Commission shall ensure that that list is kept up to date.
 
 4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including de-notification if necessary.
 
-## Artikel 47 | Operational obligations of notified bodies | art_47
+## Article 47 | Operational obligations of notified bodies | art_47
 1. Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Article 32 and Annex VIII.
 
 2. Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators. Conformity assessment bodies shall perform their activities taking due account of the size of undertakings, in particular as regards microenterprises and small and medium-sized enterprises, the sector in which they operate, their structure, their degree of complexity and the cybersecurity risk level of the products with digital elements and technology in question and the mass or serial nature of the production process.
@@ -1096,10 +1096,10 @@ The Commission shall ensure that that list is kept up to date.
 
 6. Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates, as appropriate.
 
-## Artikel 48 | Appeal against decisions of notified bodies | art_48
+## Article 48 | Appeal against decisions of notified bodies | art_48
 Member States shall ensure that an appeal procedure against decisions of the notified bodies is available.
 
-## Artikel 49 | Information obligation on notified bodies | art_49
+## Article 49 | Information obligation on notified bodies | art_49
 1. Notified bodies shall inform the notifying authority of the following:
 
 (a)
@@ -1120,17 +1120,17 @@ on request, conformity assessment activities performed within the scope of their
 
 2. Notified bodies shall provide the other bodies notified under this Regulation carrying out similar conformity assessment activities covering the same products with digital elements with relevant information on issues relating to negative and, upon request, positive conformity assessment results.
 
-## Artikel 50 | Exchange of experience | art_50
+## Article 50 | Exchange of experience | art_50
 The Commission shall provide for the organisation of the exchange of experience between the Member States’ national authorities responsible for notification policy.
 
-## Artikel 51 | Coordination of notified bodies | art_51
+## Article 51 | Coordination of notified bodies | art_51
 1. The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in place and properly operated in the form of a cross-sectoral group of notified bodies.
 
 2. Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives.
 
 # kap-5 | Chapter V | MARKET SURVEILLANCE AND ENFORCEMENT | cpt_V
 
-## Artikel 52 | Market surveillance and control of products with digital elements in the Union market | art_52
+## Article 52 | Market surveillance and control of products with digital elements in the Union market | art_52
 1. Regulation (EU) 2019/1020 shall apply to products with digital elements that fall within the scope of this Regulation.
 
 2. Each Member State shall designate one or more market surveillance authorities for the purpose of ensuring the effective implementation of this Regulation. Member States may designate an existing or new authority to act as market surveillance authority for this Regulation.
@@ -1169,10 +1169,10 @@ ADCO shall publish in a publicly accessible and user-friendly form relevant stat
 
 Where the data suggests inadequate support periods for specific categories of products with digital elements, ADCO may issue recommendations to market surveillance authorities to focus their activities on such categories of products with digital elements.
 
-## Artikel 53 | Access to data and documentation | art_53
+## Article 53 | Access to data and documentation | art_53
 Where necessary to assess the conformity of products with digital elements and the processes put in place by their manufacturers with the essential cybersecurity requirements set out in Annex I, the market surveillance authorities shall, upon a reasoned request, be granted access to the data, in a language easily understood by them, required to assess the design, development, production and vulnerability handling of such products, including related internal documentation of the relevant economic operator.
 
-## Artikel 54 | Procedure at national level concerning products with digital elements presenting a significant cybersecurity risk | art_54
+## Article 54 | Procedure at national level concerning products with digital elements presenting a significant cybersecurity risk | art_54
 1. Where the market surveillance authority of a Member State has sufficient reason to consider that a product with digital elements, including its vulnerability handling, presents a significant cybersecurity risk, it shall, without undue delay and, where appropriate, in cooperation with the relevant CSIRT, carry out an evaluation of the product with digital elements concerned in respect of its compliance with all the requirements laid down in this Regulation. The relevant economic operators shall cooperate with the market surveillance authority as necessary.
 
 Where, in the course of that evaluation, the market surveillance authority finds that the product with digital elements does not comply with the requirements laid down in this Regulation, it shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product with digital elements into compliance with those requirements, to withdraw it from the market, or to recall it within a reasonable period, commensurate with the nature of the cybersecurity risk, as the market surveillance authority may prescribe.
@@ -1205,7 +1205,7 @@ shortcomings in the harmonised standards, European cybersecurity certification s
 
 9. The market surveillance authorities of all Member States shall ensure that appropriate restrictive measures are taken in respect of the product with digital elements concerned, such as withdrawal of that product from their market, without delay.
 
-## Artikel 55 | Union safeguard procedure | art_55
+## Article 55 | Union safeguard procedure | art_55
 1. Where, within three months of receipt of the notification referred to in Article 54(5), objections are raised by a Member State against a measure taken by another Member State, or where the Commission considers the measure to be contrary to Union law, the Commission shall without delay enter into consultation with the relevant Member State and the economic operator or operators and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall decide whether the national measure is justified or not within nine months from the notification referred to in Article 54(5) and notify that decision to the Member State concerned.
 
 2. If the national measure is considered to be justified, all Member States shall take the measures necessary to ensure that the non-compliant product with digital elements is withdrawn from their market, and shall inform the Commission accordingly. If the national measure is not considered to be justified, the Member State concerned shall withdraw the measure.
@@ -1216,7 +1216,7 @@ shortcomings in the harmonised standards, European cybersecurity certification s
 
 5. Where the national measure is considered to be justified and the non-compliance of the product with digital elements is attributed to shortcomings in common specifications as referred to in Article 27, the Commission shall consider whether to amend or repeal any implementing act adopted pursuant to Article 27(2) setting out those common specifications.
 
-## Artikel 56 | Procedure at Union level concerning products with digital elements presenting a significant cybersecurity risk | art_56
+## Article 56 | Procedure at Union level concerning products with digital elements presenting a significant cybersecurity risk | art_56
 1. Where the Commission has sufficient reason to consider, including based on information provided by ENISA, that a product with digital elements that presents a significant cybersecurity risk does not comply with the requirements laid down in this Regulation, it shall inform the relevant market surveillance authorities. Where the market surveillance authorities carry out an evaluation of that product with digital elements that may present a significant cybersecurity risk in respect of its compliance with the requirements laid down in this Regulation, the procedures referred to in Articles 54 and 55 shall apply.
 
 2. Where the Commission has sufficient reason to consider that a product with digital elements presents a significant cybersecurity risk in light of non-technical risk factors, it shall inform the relevant market surveillance authorities and, where appropriate, the competent authorities designated or established pursuant to Article 8 of Directive (EU) 2022/2555 and cooperate with those authorities as necessary. The Commission shall also consider the relevance of the identified risks for that product with digital elements in view of its tasks regarding the Union level coordinated security risk assessments of critical supply chains provided for in Article 22 of Directive (EU) 2022/2555, and consult, as necessary, the Cooperation Group established pursuant to Article 14 of Directive (EU) 2022/2555 and ENISA.
@@ -1231,7 +1231,7 @@ shortcomings in the harmonised standards, European cybersecurity certification s
 
 7. Paragraphs 3 to 6 shall be applicable for the duration of the exceptional situation that justified the Commission’s intervention, provided that the product with digital elements concerned is not brought in compliance with this Regulation.
 
-## Artikel 57 | Compliant products with digital elements which present a significant cybersecurity risk | art_57
+## Article 57 | Compliant products with digital elements which present a significant cybersecurity risk | art_57
 1. The market surveillance authority of a Member State shall require an economic operator to take all appropriate measures where, having performed an evaluation under Article 54, it finds that although a product with digital elements and the processes put in place by the manufacturer are in compliance with this Regulation, they present a significant cybersecurity risk as well as a risk to:
 
 (a)
@@ -1272,7 +1272,7 @@ The measures referred to in the first subparagraph may include measures to ensur
 
 11. Paragraphs 6 to 10 shall apply for the duration of the exceptional situation that justified the Commission’s intervention and for as long as the product with digital elements concerned continues to present the risks referred to in paragraph 1.
 
-## Artikel 58 | Formal non-compliance | art_58
+## Article 58 | Formal non-compliance | art_58
 1. Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant manufacturer to put an end to the non-compliance concerned:
 
 (a)
@@ -1301,7 +1301,7 @@ the technical documentation is either not available or not complete.
 
 2. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the product with digital elements from being made available on the market or ensure that it is recalled or withdrawn from the market.
 
-## Artikel 59 | Joint activities of market surveillance authorities | art_59
+## Article 59 | Joint activities of market surveillance authorities | art_59
 1. Market surveillance authorities may agree with other relevant authorities to carry out joint activities aimed at ensuring cybersecurity and the protection of consumers with respect to specific products with digital elements placed on the market or made available on the market, in particular products with digital elements that are often found to present cybersecurity risks.
 
 2. The Commission or ENISA shall propose joint activities for checking compliance with this Regulation to be conducted by market surveillance authorities based on indications or information of potential non-compliance across several Member States of products with digital elements that fall within the scope of this Regulation with the requirements laid down in this Regulation.
@@ -1312,7 +1312,7 @@ the technical documentation is either not available or not complete.
 
 5. The market surveillance authority concerned and, where applicable, the Commission, shall make the agreement on joint activities, including the names of the parties involved, available to the public.
 
-## Artikel 60 | Sweeps | art_60
+## Article 60 | Sweeps | art_60
 1. Market surveillance authorities shall conduct simultaneous coordinated control actions (sweeps) of particular products with digital elements or categories thereof to check compliance with or to detect infringements to this Regulation. Those sweeps may include inspections of products with digital elements acquired under a cover identity.
 
 2. Unless otherwise agreed upon by the market surveillance authorities involved, sweeps shall be coordinated by the Commission. The coordinator of the sweep shall, where appropriate, make the aggregated results publicly available.
@@ -1325,7 +1325,7 @@ the technical documentation is either not available or not complete.
 
 # kap-6 | Chapter VI | DELEGATED POWERS AND COMMITTEE PROCEDURE | cpt_VI
 
-## Artikel 61 | Exercise of the delegation | art_61
+## Article 61 | Exercise of the delegation | art_61
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
 2. The power to adopt delegated acts referred to in Article 2(5), second subparagraph, Article 7(3), Article 8(1) and (2), Article 13(8), fourth subparagraph, Article 14(9), Article 25, Article 27(9), Article 28(5) and Article 31(5) shall be conferred on the Commission for a period of five years from 10 December 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
@@ -1338,7 +1338,7 @@ the technical documentation is either not available or not complete.
 
 6. A delegated act adopted pursuant to Article 2(5), second subparagraph, Article 7(3), Article 8(1) or (2), Article 13(8), fourth subparagraph, Article 14(9), Article 25, Article 27(9), Article 28(5) or Article 31(5) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
 
-## Artikel 62 | Committee procedure | art_62
+## Article 62 | Committee procedure | art_62
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
@@ -1347,7 +1347,7 @@ the technical documentation is either not available or not complete.
 
 # kap-7 | Chapter VII | CONFIDENTIALITY AND PENALTIES | cpt_VII
 
-## Artikel 63 | Confidentiality | art_63
+## Article 63 | Confidentiality | art_63
 1. All parties involved in the application of this Regulation shall respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
 
 (a)
@@ -1372,7 +1372,7 @@ integrity of criminal or administrative proceedings.
 
 4. The Commission and Member States may exchange, where necessary, sensitive information with relevant authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of protection.
 
-## Artikel 64 | Penalties | art_64
+## Article 64 | Penalties | art_64
 1. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and measures and shall notify it, without delay, of any subsequent amendment affecting them.
 
 2. Non-compliance with the essential cybersecurity requirements set out in Annex I and the obligations set out in Articles 13 and 14 shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 2,5 % of the its total worldwide annual turnover for the preceding financial year, whichever is higher.
@@ -1413,26 +1413,26 @@ manufacturers that qualify as microenterprises or small enterprises with regard 
 
 any infringement of this Regulation by open-source software stewards.
 
-## Artikel 65 | Representative actions | art_65
+## Article 65 | Representative actions | art_65
 Directive (EU) 2020/1828 shall apply to the representative actions brought against infringements by economic operators of provisions of this Regulation that harm, or may harm, the collective interests of consumers.
 
 # kap-8 | Chapter VIII | TRANSITIONAL AND FINAL PROVISIONS | cpt_VIII
 
-## Artikel 66 | Amendment to Regulation (EU) 2019/1020 | art_66
+## Article 66 | Amendment to Regulation (EU) 2019/1020 | art_66
 In Annex I to Regulation (EU) 2019/1020, the following point is added:
 
 ‘72.
 
 Regulation (EU) 2024/2847 of the European Parliament and of the Council (*1).
 
-## Artikel 67 | Amendment to Directive (EU) 2020/1828 | art_67
+## Article 67 | Amendment to Directive (EU) 2020/1828 | art_67
 In Annex I to Directive (EU) 2020/1828, the following point is added:
 
 ‘69.
 
 Regulation (EU) 2024/2847 of the European Parliament and of the Council (*2).
 
-## Artikel 68 | Amendment to Regulation (EU) No 168/2013 | art_68
+## Article 68 | Amendment to Regulation (EU) No 168/2013 | art_68
 In Part C1, in the table, of Annex II to Regulation (EU) No 168/2013 of the European Parliament and of the Council (38), the following entry is added:
 
 ‘
@@ -1473,19 +1473,19 @@ x
 
 ’.
 
-## Artikel 69 | Transitional provisions | art_69
+## Article 69 | Transitional provisions | art_69
 1. EU type-examination certificates and approval decisions issued regarding cybersecurity requirements for products with digital elements that are subject to Union harmonisation legislation other than this Regulation shall remain valid until 11 June 2028, unless they expire before that date, or unless otherwise specified in such other Union harmonisation legislation, in which case they shall remain valid as referred to in that legislation.
 
 2. Products with digital elements that have been placed on the market before 11 December 2027 shall be subject to the requirements set out in this Regulation only if, from that date, those products are subject to a substantial modification.
 
 3. By way of derogation from paragraph 2 of this Article, the obligations laid down in Article 14 shall apply to all products with digital elements that fall within the scope of this Regulation that have been placed on the market before 11 December 2027.
 
-## Artikel 70 | Evaluation and review | art_70
+## Article 70 | Evaluation and review | art_70
 1. By 11 December 2030 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. Those reports shall be made public.
 
 2. By 11 September 2028, the Commission shall, after consulting ENISA and the CSIRTs network, submit a report to the European Parliament and to the Council, assessing the effectiveness of the single reporting platform set out in Article 16, as well as the impact of the application of the cybersecurity-related grounds referred to Article 16(2) by the CSIRTs designated as coordinators on the effectiveness of the single reporting platform as regards the timely dissemination of received notifications to other relevant CSIRTs.
 
-## Artikel 71 | Entry into force and application | art_71
+## Article 71 | Entry into force and application | art_71
 1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 2. This Regulation shall apply from 11 December 2027.

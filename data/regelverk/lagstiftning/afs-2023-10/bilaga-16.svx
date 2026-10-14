@@ -1,0 +1,55 @@
+---
+'source': 'afs-2023-10'
+'ref': 'Bilaga 16'
+'title': 'Bilaga 16'
+'kind': 'chapter'
+'description': 'Risker i arbetsmiljön (AFS 2023:10), Bilaga 16.'
+'designation': 'AFS 2023:10 Bilaga 16'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Gränsvärden för exponering för elektromagnetiska fält
+
+### Inledning
+
+Denna bilaga hör till 13 kap. 8–10 och 13 §§.
+
+Gränsvärdena i tabell 29 gäller för exponering för elektromagnetiska fält i frekvensintervallet 100 kHz upp till 300 GHz.
+
+Gränsvärden uttryckta i SAR respektive S gäller för hälsoeffekter, medan gränsvärdet utryckt i SA gäller för sensoriska effekter.
+
+<table><caption>Tabell 29. Gränsvärden för elektromagnetiska fält i frekvensintervallet 100 kHz till 300 GHz </caption><tbody><tr><th><div><div>Frekvens<br>f [GHz]</div></div></th><th><div><div>Exponering av</div></div></th><th><div><div>Sensoriska effekter<br>SA [mJ/kg]</div></div></th><th><div><div>Hälsoeffekter<br>SAR [W/kg]</div></div></th><th><div><div>Hälsoeffekter<br>S [W/m<sup>2</sup>]</div></div></th><th><div><div>Not</div></div></th></tr><tr><td rowspan="4"><div><div>1 · 10<sup>–4</sup> ≤ f &lt; 0,3</div></div></td><td><div><div>helkropp</div></div></td><td><div><div>-</div></div></td><td><div><div>0,4</div></div></td><td><div><div>-</div></div></td><td><div><div>1</div></div></td></tr><tr><td><div><div>huvud</div></div></td><td><div><div>-</div></div></td><td><div><div>10</div></div></td><td><div><div>-</div></div></td><td><div><div>2, 3</div></div></td></tr><tr><td><div><div>bål</div></div></td><td><div><div>-</div></div></td><td><div><div>10</div></div></td><td><div><div>-</div></div></td><td><div><div>2, 3</div></div></td></tr><tr><td><div><div>extremitet</div></div></td><td><div><div>-</div></div></td><td><div><div>20</div></div></td><td><div><div>-</div></div></td><td><div><div>2, 3</div></div></td></tr><tr><td rowspan="4"><div><div>0,3 ≤ f &lt; 6</div></div></td><td><div><div>helkropp</div></div></td><td><div><div>-</div></div></td><td><div><div>0,4</div></div></td><td><div><div>-</div></div></td><td><div><div>1</div></div></td></tr><tr><td><div><div>huvud</div></div></td><td><div><div>10</div></div></td><td><div><div>10</div></div></td><td><div><div>-</div></div></td><td><div><div>2–4</div></div></td></tr><tr><td><div><div>bål</div></div></td><td><div><div>-</div></div></td><td><div><div>10</div></div></td><td><div><div>-</div></div></td><td><div><div>2, 3</div></div></td></tr><tr><td><div><div>extremitet</div></div></td><td><div><div>-</div></div></td><td><div><div>20</div></div></td><td><div><div>-</div></div></td><td><div><div>2, 3</div></div></td></tr><tr><td><div><div>6 ≤ f ≤ 300</div></div></td><td><div><div>hud</div></div></td><td><div><div>-</div></div></td><td><div><div>-</div></div></td><td><div><div>50</div></div></td><td><div><div>5–7</div></div></td></tr></tbody></table>
+
+Not till tabell 29:
+
+1\. Gränsvärdet gäller vid exponering av hela kroppen och ges som medelvärde för SAR i kroppen.
+
+2\. Gränsvärdet gäller för lokal exponering.
+
+3\. SAR beräknas som medelvärdet i en massa på 10 g sammanhängande vävnad. Det resulterande maximala SAR-värdet bör vara det värde som används vid bedömning av exponeringen. 10 g-vävnaden ska vara en massa av sammanhängande vävnad med någorlunda homogena elektriska egenskaper. Denna modell av sammanhängande vävnad kan användas vid dosimetriska beräkningar, men kan medföra svårigheter vid direkta fysikaliska mätningar. En enkel geometrisk form, som exempelvis kubisk eller sfärisk vävnadsmassa, kan användas.
+
+4\. SA beräknas som medelvärdet i 10 g vävnadsmassa.
+
+5\. S ska beräknas som ett medelvärde över 20 cm2 av exponerat område. Den maximala spatiala strålningstätheten S, beräknad som ett medelvärde över 1 cm2, får inte överstiga 1 000 W/m2.
+
+6\. Effekttätheter S i frekvensområdet 6–10 GHz ska beräknas som medelvärden under en sexminutersperiod.
+
+7\. Över 10 GHz ska effekttätheten S beräknas som ett medelvärde över en godtycklig 68/f1,05 – minutersperiod, f i GHz, för att kompensera för ett progressivt kortare penetrationsdjup när frekvensen ökar.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

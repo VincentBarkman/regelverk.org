@@ -145,3 +145,118 @@ html {
 	--tw-prose-th-borders: color-mix(in oklab, var(--color-primary) 15%, transparent);
 	--tw-prose-td-borders: color-mix(in oklab, var(--color-primary) 10%, transparent);
 }
+
+.prose math {
+	font-size: 1.05em;
+	max-width: 100%;
+	color: var(--color-foreground);
+}
+
+.prose math:only-child,
+.prose > math {
+	display: block math;
+	margin: 0.75em 0;
+	overflow-x: auto;
+	overflow-y: hidden;
+	text-align: center;
+}
+
+.prose table caption {
+	caption-side: bottom;
+	color: var(--color-foreground);
+	font-size: 0.875rem;
+	font-weight: 500;
+	padding-top: 0.5rem;
+	text-align: left;
+}
+
+.prose .scan-table {
+	margin: 1.25em 0;
+	border: 1px solid color-mix(in oklab, var(--color-primary) 15%, transparent);
+	border-radius: 0.5rem;
+}
+
+/* allmänna råd — agency guidance rendered as a callout, not a quote */
+.prose blockquote.allmanna-rad {
+	margin: 1.25em 0;
+	padding: 0.75rem 1rem;
+	border: 1px solid color-mix(in oklab, var(--color-primary) 25%, transparent);
+	border-left: 3px solid var(--color-primary);
+	border-radius: 0.375rem;
+	background: color-mix(in oklab, var(--color-primary) 6%, transparent);
+	font-style: normal;
+	font-weight: 400;
+	color: var(--color-foreground);
+	quotes: none;
+}
+
+.prose blockquote.allmanna-rad p {
+	margin: 0.4em 0;
+	font-style: normal;
+}
+
+.prose blockquote.allmanna-rad .allmanna-rad-tag {
+	margin: 0 0 0.25rem;
+	font-size: 0.8rem;
+	font-weight: 600;
+	font-style: normal;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: var(--color-primary);
+}
+
+.prose .scan-table-toggle {
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.prose .scan-table-content {
+	overflow-x: auto;
+}
+
+.prose .scan-table-toggle:not(:checked) ~ .scan-table-content tbody tr:nth-of-type(n + 5) {
+	display: none;
+}
+
+.prose .scan-table-toggle:not(:checked) ~ .scan-table-content {
+	overflow-x: clip;
+	mask-image:
+		linear-gradient(to bottom, black calc(100% - 2rem), transparent),
+		linear-gradient(to right, black calc(100% - 2rem), transparent);
+	mask-composite: intersect;
+}
+
+.prose .scan-table-content > table {
+	margin: 0;
+}
+
+.prose .scan-table-label {
+	display: block;
+	cursor: pointer;
+	padding: 0.5rem 0.875rem;
+	font-size: 0.875rem;
+	font-weight: 500;
+	color: var(--color-foreground);
+	user-select: none;
+}
+
+.prose .scan-table-label::before {
+	content: '▸';
+	display: inline-block;
+	margin-right: 0.375rem;
+	color: var(--color-muted-foreground);
+	transition: transform 0.15s;
+}
+
+.prose .scan-table-toggle:checked ~ .scan-table-label::before {
+	transform: rotate(90deg);
+}
+
+.prose .scan-table-label:hover {
+	background: color-mix(in oklab, var(--color-primary) 4%, transparent);
+}
+
+.prose .scan-table-toggle:checked ~ .scan-table-label {
+	border-top: 1px solid color-mix(in oklab, var(--color-primary) 15%, transparent);
+}

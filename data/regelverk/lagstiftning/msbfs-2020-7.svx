@@ -12,7 +12,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-13'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'related':
@@ -27,5 +27,7 @@
 <!-- scan-laws:start -->
 ## Innehåll
 
-- [1 kap. – Bestämmelser](/lagstiftning/msbfs-2020-7/kap-1) · §§ 1–22
+- [1 kap. – 1 § – 8 §](/lagstiftning/msbfs-2020-7/kap-1) · §§ 1–8
+- [2 kap. – 9 § – 16 §](/lagstiftning/msbfs-2020-7/kap-2) · §§ 9–16
+- [3 kap. – 17 § – 22 §](/lagstiftning/msbfs-2020-7/kap-3) · §§ 17–22
 <!-- scan-laws:end -->

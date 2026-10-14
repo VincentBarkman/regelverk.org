@@ -159,5 +159,7 @@
 	"err_need_help": "Need help?",
 	"err_open_issue": "Open an issue",
 	"ui_copy": "Copy",
-	"ui_copied": "Copied!"
+	"ui_copied": "Copied!",
+	"ui_show_all_count": "Show all {count}",
+	"ui_show_less": "Show fewer"
 }

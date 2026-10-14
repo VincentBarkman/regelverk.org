@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,159 +21,569 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Belysning och synförhållanden
+### Inledning
 
-### 11 §
+Stöd och verktyg: Arbeta säkert med ställningar
 
-Arbetsgivaren ska se till att allmänbelysningen ger lämplig kontrast mellan skärmen och den omgivande miljön, så att det inte blir svårt att läsa på skärmen. Syn- och belysningsförhållanden får inte orsaka olämpliga arbetsställningar.
+### 1 § – Då gäller föreskrifterna
 
-Allmänbelysningen ska anpassas till arbetstagarens förutsättningar, synkraven i bildskärmsarbetet och arbetets art.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) gäller vid uppförande av och arbete på och under ställningar och väderskydd. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2. Föreskrifterna gäller ställningar som används som
 
-Om det behövs, ska det finnas platsbelysning. Den ska vara justerbar och får inte blända.
+arbetsplats,
 
-Arbetsgivaren ska se till att bildskärmsarbetsplatsen är utformad så att den inte har besvärande bländning och reflexer från den omgivande miljön. Det ska man uppnå genom att samordna utformningen av arbetsplatsen och lokalen med placeringen av de artificiella ljuskällorna och deras tekniska egenskaper. Fönster ska ha en justerbar anordning för att skärma av dagsljus som lyser in på arbetsplatsen. Arbetsytor ska vara lågreflekterande där det behövs för att undvika besvärande reflexer.
+tillträdesled,
 
-> _Allmänna råd_
+skydd mot fall vid arbete på tak eller annan hög höjd,
 
-> Särskilt i lokaler med flera arbetsplatser är ljusfördelning och avbländning av armaturen viktig. Besvärande bländning och reflexer kan uppstå av artificiella ljuskällor, fönster och andra öppningar, genomskinliga eller halvgenomskinliga väggar, och ljusa inventarier och väggar.
+skyddstak, eller
 
-#### Arbetsplatsen
+upplag för väderskydd.
 
-### 12 §
+De gäller inte temporära konstruktioner för förvaring, eller temporära konstruktioner på mässor, festivaler och liknande. Föreskrifterna gäller inte heller för scener och läktare. Föreskrifterna gäller inte för väderskydd som är mindre än 3 meter höga, eller för väderskydd som har en horisontell yta som är mindre än 6 m2. Föreskrifterna gäller dock alltid för väderskydd som är uppförda på ställningar eller andra temporära konstruktioner.
 
-Arbetsgivaren ska se till att arbetsplatsen är dimensionerad, utformad och utrustad så att arbetstagaren kan variera och arbeta med bekväma arbetsställningar och arbetsrörelser. I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön finns grundläggande bestämmelser om belastningsergonomi.
+### 2 § – Vem föreskrifterna riktar sig till
 
-Bildskärmen, tangentbordet eller motsvarande, ska placeras så att arbetshöjden och blickvinkeln till skärmen blir lämplig och passar användarens kroppsmått.
+Arbetsgivaren ansvarar för att bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Arbetsbord och arbetsytor ska vara tillräckligt stora, så att skärm, tangentbord, datormus, dokument och övrig utrustning kan placeras flexibelt. Arbetstagaren ska kunna avlasta armar och händer på bordsytan.
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-8). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) om arbetsgivare och om arbetstagare.
 
-Om man använder manushållare, ska den vara stabil och reglerbar och placeras så att man undviker olämpliga huvud- och ögonrörelser.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) gäller då även dem.
 
-### 13 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-8) gäller inte för Försvarsmakten vid fältmässiga övningar och utbildning inför insatser.
 
-Arbetsstolen ska vara stadig, ge möjlighet till rörelsefrihet och en bekväm arbetsställning. Stolen ska vara lätt att ställa in. Sitsen och ryggstödet ska vara reglerbara i höjdled och ryggstödet ska kunna vinklas.
+Bestämmelserna i [5](#5), [24](#24-kunskaper-och-kvalifikationer), [30](#30), [32](#32-kontroll)–[34 §§](#34-överlämning) gäller inte vid undervisning, som är förlagd till en skollokal eller någon annan plats, som är anordnad särskilt för undervisning.
 
-#### Synundersökning och glasögon för bildskärmsarbete
+Bestämmelser om byggarbetsmiljösamordnare finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:3) om projektering och byggarbetsmiljösamordning – grundläggande skyldigheter.
 
-### 14 §
+### 3 § – Definitioner
 
-Arbetsgivaren ska erbjuda arbetstagare, som normalt ska arbeta vid bildskärm mer än en timme under arbetsdagen, att genomgå en synundersökning. En person med tillräckliga kvalifikationer ska utföra undersökningen.
+I dessa föreskrifter har följande begrepp dessa betydelser.
 
-Om arbetstagaren nyligen har genomgått en synundersökning hos en annan arbetsgivare, ska en ny synundersökning genomföras bara om
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Arbetsplan</div></div></td><td><div><div>Horisontell yta i en ställning, bestående av arbetsplanskomponenter, som kan beträdas och belastas. Ett arbetsplan är oftast avsett för arbete eller som tillträdesled, men behöver inte vara det.</div></div></td></tr><tr><td><div><div>Komponent</div></div></td><td><div><div>Enskild del till en ställning eller till ett väderskydd, som inte kan fungera självständigt. En komponent kan vara prefabricerad, men behöver inte vara det.</div></div></td></tr><tr><td><div><div>Koppling</div></div></td><td><div><div>Lös teknisk anordning som används för att koppla ihop två rör, där minst ett av rören har en nominell ytterdiameter av ca 48,3&nbsp;mm (kallas även rörkoppling).</div></div></td></tr><tr><td><div><div>Prefabricerad fasadställning</div></div></td><td><div><div>Prefabricerad ställning utan hjul, som främst är avsedd att användas vid fasader.</div></div></td></tr><tr><td><div><div>Prefabricerad rullställning</div></div></td><td><div><div>Prefabricerad ställning med hjul, som är avsedd att användas fristående och som har en maximal höjd till arbetsplan av 2,0 till 12,0&nbsp;meter.</div></div></td></tr><tr><td><div><div>Prefabricerad hantverkarställning</div></div></td><td><div><div>Prefabricerad ställning med eller utan hjul, som är avsedd att användas fristående och som har en maximal höjd till arbetsplan av 1,25 till 2,0&nbsp;meter.</div></div></td></tr><tr><td><div><div>Prefabricerad ställning </div></div></td><td><div><div>Ställning där alla eller vissa delar är förtillverkade med givna mått och som har förbandsanordningar, som är varaktigt fästade (kallas även systemställning).</div></div></td></tr><tr><td><div><div>Ställningsprodukt</div></div></td><td><div><div>Prefabricerad ställning, en koppling eller en prefabricerad komponent till en prefabricerad ställning.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr><tr><td><div><div>Rörställning </div></div></td><td><div><div>Ställning där stommen består av rör som är sammankopplade med lösa kopplingar (kallas även rör- och kopplingsställning).</div></div></td></tr><tr><td><div><div>Skyddstak</div></div></td><td><div><div>Tät och inklädd eller inbrädad konstruktion på en ställning, som är avsedd att fånga föremål som faller från ställningens högre partier. Skyddstak är oftast utkragande, men kan även finnas inne i ställningen.</div></div></td></tr><tr><td><div><div>Ställning</div></div></td><td><div><div>Teknisk anordning som är temporärt uppställd eller upphängd, som består av minst två komponenter och som är avsedd som arbetsplats, tillträdesled, skyddstak eller skydd mot fall vid arbete på tak eller annan höjd. Höjden från marken eller annat underliggande plan till ett horisontellt arbetsplan eller motsvarande är minst 1,25&nbsp;meter. </div></div></td></tr><tr><td><div><div>Typkontroll</div></div></td><td><div><div>Aktivitet där ett ackrediterat organ granskat och funnit att en produkt uppfyller kraven i gällande bestämmelser, och har utfärdat ett typkontrollintyg.</div></div></td></tr><tr><td><div><div>Väderskydd</div></div></td><td><div><div>Temporär konstruktion som är avsedd att täcka över eller kapsla in en yta, där man arbetar med en byggnad eller en anläggning, för att skydda arbetstagare och byggnadsverk från klimatisk påverkan. I ett väderskydd ingår alltid ett tak, men även väggar kan ingå. Inklädda fasadställningar är inte väderskydd, även om inklädnaden är invikt mot fasaden ovanför ställningen.</div></div><div><div>På byggarbetsplatser finns ofta temporära byggnader, till exempel lagerhallar, verkstäder och personalutrymmen. Dessa byggnader är inte väderskydd.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (15 rader)</label></div>
 
-det finns nya eller förändrade synkrav i det aktuella bildskärmsarbetet, eller
+### 4 § – Planering
 
-arbetstagarens syn har förändrats sedan den förra synundersökningen.
+Arbetsgivaren ska välja en ställning som bidrar till en god arbetsmiljö, både för dem som uppför ställningen och för dem som använder den. Följande ska beaktas:
 
-Arbetsgivaren ska därefter ordna synundersökningar regelbundet, samt när arbetstagaren uppger besvär som kan ha samband med synkraven i arbetet.
+ställningskomponenternas vikt och hanterbarhet,
 
-Arbetsgivaren ska stå för kostnaderna för synundersökningen. Denna ska även bekosta glasögon om
+ställningens bärförmåga och stabilitet,
 
-synundersökningen visar att arbetstagaren behöver särskilda glasögon, som är utprovade för bildskärmsarbetet, och
+skydd mot fall vid uppförande, nedmontering och användning,
 
-glasögon som arbetstagaren normalt använder, inte kan användas.
+ergonomi vid användning, och
 
-Om synundersökningen visar att det behövs en kompletterande undersökning av en ögonläkare på grund av synkraven i arbetet med bildskärm, ska arbetsgivaren ordna en sådan undersökning.
-
-> _Allmänna råd_
-
-> Synundersökningen kan man dela upp i två steg:
-
-> Synscreening för att bedöma om arbetstagaren behöver en synkorrektion.
-
-> Fullständig synundersökning för de arbetstagare som behöver synkorrektion.
-
-> En person med tillräckliga kvalifikationer för att utföra en synscreening kan till exempel vara personal från företagshälsovården med utbildning i synundersökning.
-
-> En fullständig synundersökning omfattar bestämning av synskärpa och eventuell ordination av särskilda arbetsglasögon. Det är viktigt att ta hänsyn till synkraven i den aktuella arbetssituationen. En person med tillräckliga kvalifikationer för att utföra en fullständig synundersökning, är ögonläkare eller optiker med kunskaper inom synergonomi och arbetsmedicin.
-
-#### Omgivande miljö
-
-### 15 §
-
-Arbetsgivaren ska se till att buller, värme, kemiska ämnen samt elektriska och magnetiska fält från bildskärmen och den tillhörande utrustningen, inte stör eller orsakar besvär eller obehag, som är en risk för arbetstagarens säkerhet och hälsa.
-
-[4 kap.](/lagstiftning/afs-2023-11/kap-4) Användning av truckar
-
-Stöd och verktyg: Truckar
-
-#### Undersökning och riskbedömning
-
-### 4 §
-
-Vid undersökning och riskbedömning av arbeten där truckar används, ska arbetsgivaren alltid minst uppmärksamma
-
-egenskaperna hos trucken och eventuell utbytbar utrustning till trucken,
-
-risken att föraren blir belastad på ett skadligt eller onödigt tröttande sätt,
-
-miljön där man ska använda trucken,
-
-hur man ska använda trucken,
-
-behovet av skyddsutrustning,
-
-behovet av skötsel och underhåll av trucken och eventuell utbytbar utrustning till truckar, och
-
-arbetstagarnas praktiska och teoretiska kunskaper.
-
-### 4 §
-
-Arbetsgivaren ska, i sin undersökning av arbetsförhållandena och i sin riskbedömning av verksamheter, där en motorkedjesåg eller en röjsåg ska användas, särskilt uppmärksamma
-
-arbetstagarnas praktiska och teoretiska kunskaper,
-
-risker i samband med in- och uthyrning av arbetskraft,
-
-underhållet av motorsågar och röjsågar,
-
-skyddsutrustningen,
-
-instruktionerna från tillverkaren,
-
-särskilt riskfyllda arbeten, och
-
-risker vid ensamarbete.
-
-### 4 §
-
-Vid en undersökning och riskbedömning innan lyftanordningar och lyftredskap används, ska arbetsgivaren särskilt uppmärksamma
-
-lyftanordningarnas stabilitet under olika mark- och väderförhållanden,
-
-tillträde till riskområden,
-
-arbetstagarnas praktiska och teoretiska kunskaper,
-
-arbete under upplyft last samt lyft av personer,
-
-service- och monteringsarbeten,
-
-användning och val av lyftredskap,
-
-säkring av last, lastkoppling och manuell styrning av last,
-
-sammanfallande arbetsområden och användning av flera lyftanordningar för lyft av gemensam last (så kallad samlyft), och
-
-livslängd och underhåll av lyftanordningar och lyftredskap.
-
-### 4 §
-
-Vid undersökning och riskbedömning innan ett personlyft med kran eller truck, ska arbetsgivaren särskilt uppmärksamma
-
-basmaskinens och arbetskorgens lämplighet för uppgiften,
-
-stabiliteten vid rådande mark- och väderförhållanden,
-
-arbetstagarnas praktiska och teoretiska kunskaper,
-
-aktiviteter och pågående arbete i närheten, och
-
-rörelser hos arbetskorgar och arbetsobjekt på grund av yttre faktorer.
+tillträdesledernas egenskaper.
 
 ### 5 §
 
-Arbetsgivaren ska se till att kranar och truckar, som används för personlyft, uppfyller kraven i bilaga 10. Arbetskorgar som används för personlyft, ska uppfylla kraven i [2 kap.](/lagstiftning/afs-2023-11/kap-2) i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:9) om produkter – stegar, ställningar, och viss annan utrustning för arbete på höjd, samt vissa trycksatta anordningar.
+Arbetsgivaren ska upprätta en plan för hur uppförande, användning och nedmontering av ställningen kan ske på ett säkert sätt, innan arbetet med att uppföra ställningen påbörjas. Om ett väderskydd ingår i konstruktionen, ska även väderskyddet omfattas av planen. Planen ska upprättas av en person som har god kunskap om och erfarenhet av arbete med ställningar.
+
+Planen ska innehålla uppgifter om
+
+den ställning eller det väderskydd som ska användas,
+
+hur ställningen eller väderskyddet ska uppföras, användas och monteras ned,
+
+hur de som uppför eller monterar ned ställningen eller väderskyddet ska skyddas mot fall och belastningsskador, och
+
+hur de övriga risker som kan uppkomma ska förebyggas.
+
+Utformningen av ställningen ska baseras på planen.
+
+> _Allmänna råd_
+>
+> Planens omfång och detaljeringsgrad beror på hur komplexa de aktuella ställningskonstruktionerna är.
+>
+> För ställningar som uppförs, används och monteras ned på likartat sätt och i jämförbar miljö kan planen gälla för flera olika användningstillfällen.
+>
+> I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:3) om projektering och byggarbetsmiljösamordning – grundläggande skyldigheter finns det krav på att en arbetsmiljöplan ska upprättas och finnas tillgänglig innan arbetsplatsen etableras, och att den fortlöpande ska anpassas till arbetsförhållandena. Det är lämpligt att dokumentationen om ställningar infogas som bilaga till arbetsmiljöplanen.
+
+### 6 § – Underlag och placering
+
+Arbetsgivaren ska kontrollera att underlaget med betryggande säkerhet kan bära upp den belastning som kan uppstå, vid både uppförandet och användningen, då en ställning eller ett väderskydd planeras. Detsamma gäller för fasader eller andra konstruktioner, som ställningen behöver förankras till.
+
+Ställningen ska kunna uppföras och användas med betryggande säkerhet på den aktuella platsen.
+
+#### Utformning av ställningar och väderskydd
+
+### 7 § – Skydd mot fall och ras
+
+Arbetsgivaren ska se till att en ställning är försedd med skyddsräcke, där det finns en risk att falla två meter eller mer. Där det finns särskild risk, ska det finnas skyddsräcke även vid en lägre fallhöjd.
+
+Arbetsgivaren ska se till att skyddsräcket har tillräcklig höjd och styrka, och att det är säkert fastsatt. Det ska bestå av överledare, mellanledare och fotlist, eller ge motsvarande skydd på annat sätt.
+
+På de delar av ställningen som varken används för arbete eller som tillträdesled, kan fotlisten utelämnas. Fotlist behövs normalt inte heller längs trappor, utom på vilplanens kortsidor. I rullställningar behövs fotlist bara på arbetsplanet.
+
+Skyddsräcket ska vara monterat i anslutning till arbetsplanet, så att inget farligt mellanrum uppstår mellan arbetsplanet och skyddsräcket. Om ett väderskyddstak behöver beträdas, ska det vara försett med tekniska anordningar som skyddar mot fall till en lägre nivå.
+
+> _Allmänna råd_
+>
+> Exempel på en särskild risk när ett skyddsräcke kan behövas vid en lägre fallhöjd, är när en ställning uppförs intill vatten eller vätskefyllda behållare, bassänger med mera.
+>
+> Ett skyddsräcke bör vara utfört enligt svensk standard SS-EN 12811-1:2004 Temporära konstruktioner – Del 1: Ställningar – Krav och utförande, respektive SS-EN 1004-1:2020 Prefabricerade rullställningar - Del 1: Material, dimensioner, dimensionerande laster och säkerhetskrav, där en absolut minsta höjd av 950 mm anges. Beroende på riskerna, kan ett skyddsräcke dock behöva vara högre.
+>
+> Springor eller öppningar mellan arbetsplan och fotlister bör vara så små som möjligt.
+>
+> Tekniska anordningar, som skyddar mot fall från väderskyddstak, är oftast skyddsräcken eller förankringspunkter för personlig skyddsutrustning.
+
+### 8 §
+
+Arbetsgivaren ska se till att ställningen har skyddstak, om det finns en särskild risk för att nedfallande föremål kan skada någon. Taket ska vara tillräckligt stort, starkt och tätt, för att kunna fånga nedfallande material och föremål på ett säkert sätt. Det ska dessutom vara säkert fastsatt.
+
+> _Allmänna råd_
+>
+> Exempel på områden där det kan vara nödvändigt med skyddstak, är i anslutning till trapptorn, andra tillträdesleder eller vid arbetsplatser i direkt anslutning till ställningen. Ett skyddstak som utformas enligt standarden SS-EN 12811-4:2013 Temporära konstruktioner – Del 4: Skyddstak för ställningar – Krav och utformning, är normalt tillräckligt säkert.
+
+### 9 §
+
+Arbetsgivaren ska se till att en ställning, som används som skydd mot fall från en angränsande konstruktion, är så stark och så förankrad att den med betryggande säkerhet kan fånga upp de personer som kan falla emot den. Ett skyddsräcke ska normalt vara minst 0,95 meter högt, mätt vertikalt, och 1,00 meter högt, mätt vinkelrätt mot arbetsområdets yta.
+
+> _Allmänna råd_
+>
+> En angränsande konstruktion kan till exempel vara taket på en byggnad. Svensk standard SS-EN 13374:2013 + A1:2019 Temporära konstruktioner – Temporära skyddsräckessystem – Specifikationer, produktkrav och provningsmetoder anger exempel på hur skyddsräcken på en ställning kan utföras med betryggande säkerhet. Om skyddsräcken, ställningar och infästningar tål fall från en angränsande konstruktion kan, vid en lutning av 0–10° hos arbetsytan på den angränsande konstruktionen, ett tvåledigt räcke med fotlist vara tillräckligt. Vid 10–30° behöver räcket vara tätare, och vid mer än 30° behövs normalt ett nät eller något annat som fyller samma funktion som ett nät.
+
+### 10 §
+
+Arbetsgivaren ska se till att avståndet mellan ett arbetsplan och en vägg eller någon annan angränsande konstruktion, är så litet som det är praktiskt möjligt. Detta är både för att undvika att personer faller till en lägre nivå, och för att undvika en olämplig arbetsbelastning. Avståndet får normalt inte överstiga 0,30 meter.
+
+> _Allmänna råd_
+>
+> Exempel på när avståndet mellan arbetsplan och angränsande konstruktioner kan överstiga 0,30 meter är vid hushörn, oregelbundna fasader och liknande.
+>
+> Om det inte är möjligt att uppföra ställningen tillräckligt nära fasaden, kan man montera ett konsolplan eller sätta upp ett skyddsräcke även på ställningens insida.
+
+### 11 § – Tillträde
+
+Arbetsgivaren ska se till att det finns tillträdesleder till varje arbetsplan respektive del av ett arbetsplan, där arbete ska utföras. De ska vara tillräckligt många med hänsyn till det arbete som ska utföras och de ska utformas på ett sätt som är lämpligt för arbetet. Där det behövs, ska det också finnas en lämplig transportled.
+
+En ställning, som består av två eller flera fack i längdled, ska vara utförd så att tillträde kan ske på ett säkert sätt till varje fack. Tillträdeslederna ska vara ergonomiskt utformade och ska normalt bestå av trappor eller landgångar. Trappor och landgångar ska ha tillräcklig bredd och lämplig lutning. Landgångar ska vara minst 0,60 meter breda.
+
+[Denna paragraf](/lagstiftning/afs-2023-11) gäller inte för tillträdesleder i rullställningar och hantverkarställningar.
+
+> _Allmänna råd_
+>
+> Det är viktigt att tillträde kan ske på ett säkert sätt runt hörn, förbi balkonger och liknande. I långa ställningskonstruktioner, där flera tillträdesleder behövs, bör avståndet mellan dem inte överstiga 25 meter.
+>
+> En lodrät eller nästan lodrät stege är normalt olämplig som tillträdesled. Trappor bör utformas enligt svensk standard SS-EN 12811-1:2004, Temporära konstruktioner – Del 1: Ställningar – Krav och utförande. Regler om tillträdes- och förbindelseleder finns även i kapitlet om byggnads- och anläggningsarbete i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten.
+
+### 12 §
+
+Arbetsgivaren ska se till att det i en rullställning finns en tillträdesled i form av antingen en lutande stege, en trappstege eller en trappa, om höjden till arbetsplanet är mer än 2,5 meter. Om tillträdesleden är en lutande stege, ska varje nivå som kan beträdas vara fullt intäckt med arbetsplanskomponenter.
+
+> _Allmänna råd_
+>
+> Rullställningar utformade enligt svensk standard SS-EN 1004-1:2020 Prefabricerade rullställningar - Del 1: Material, dimensioner, dimensionerande laster och säkerhetskrav, är normalt tillräckligt säkert. Vid byggnads- och anläggningsarbete krävs det normalt en trappa som tillträdesled i rullställningar.
+
+### 13 §
+
+Arbetsgivaren ska se till att det finns en säker tillträdesled till taket på ett väderskydd, om taket kan komma att beträdas.
+
+> _Allmänna råd_
+>
+> Tillträde till väderskyddets tak kan behövas för snöskottning och reparationer.
+
+### 14 § – Arbetsplan
+
+Arbetsgivaren ska se till att de nivåer och ytor som man behöver använda för arbete eller som tillträdesleder, inte har farliga hål, svagheter och springor, utan är helt täckta.
+
+Arbetsplanet ska vara monterat på ett sådant sätt att dess delar inte oavsiktligt kommer ur sitt läge.
+
+> _Allmänna råd_
+>
+> Andra stycket innebär att arbetsplanskomponenterna normalt behöver vara mekaniskt säkrade till ställningen. Detta gäller dock normalt inte för okade ställningsplank annat än i ändfacken.
+
+### 15 §
+
+Arbetsgivaren ska se till att arbetsplan är så plana som möjligt. Om det finns nivåskillnader, ska riskerna för att någon snubblar förebyggas.
+
+> _Allmänna råd_
+>
+> För att underlätta transporter och minska risken för att snubbla, är det lämpligt att man lägger en bockad plåt eller en kilformad träkloss vid ställningsplankens ändar, om ställningsplanken ligger omlott.
+
+### 16 §
+
+Arbetsgivaren ska se till att båda ändarna för ställningsplank som ligger omlott, skjuter över stödet så långt att riskerna för ras minimeras.
+
+Vid ändstöd ska möjligheterna att beträda utskjutande delar av ställningsplank, trall eller andra arbetsplanskomponenter förhindras, om de inte kan beträdas med betryggande säkerhet.
+
+> _Allmänna råd_
+>
+> Ställningsplank bör skjuta ut minst 0,15 meter över stöden.
+
+### 17 §
+
+Arbetsgivaren ska se till att samtliga enskilda ställningsplank förbinds, när man har arbetsplan av ställningsplank på en fasadställning.
+
+> _Allmänna råd_
+>
+> För ställningsplank finns det särskilda tvärförbindningar för sådana ändamål, så kallade ok.
+
+### 18 § – Väderskydd
+
+Arbetsgivaren ska se till att det finns utrymme, så att arbetet kan bedrivas under ett väderskydd utan risker för ohälsa och olycksfall. Den fria höjden där arbetstagare behöver vistas, ska normalt inte understiga 2,10 meter.
+
+> _Allmänna råd_
+>
+> Det kan ibland behövas dragstag eller liknande, som kan inkräkta något på den fria höjden.
+
+#### Dimensionering
+
+### 19 § – Ställningar
+
+Arbetsgivaren ska se till att ställningen är dimensionerad med betryggande säkerhet, innan man påbörjar arbetet med att uppföra en ställning. Hänsyn ska tas till risken för materialbrott, instabilitet och deformationer, som har betydelse för säkerheten när ställningen uppförs, används och monteras ned. Ställningen ska dimensioneras för den mest ogynnsamma kombinationen av yttre laster, som inte rimligen utesluter varandra. De yttre laster som man normalt ska ta hänsyn till, är last på arbetsplan och vindlast. Vid uppskattningen av de laster som belastar ett arbetsplan, ska man ta hänsyn till tyngden av personer, material och redskap. Dimensioneringen ska baseras på beräkningar och ska dokumenteras skriftligt i dimensioneringshandlingar.
+
+> _Allmänna råd_
+>
+> Normalt väljs en lastklass ur svensk standard SS-EN 12811-1:2004 Temporära konstruktioner – Del 1: Ställningar – Krav och utförande. Dimensioneringen utförs vanligen genom något av följande alternativ
+>
+> överensstämmelse med standardutföranden i typkontrollintyg (för prefabricerade ställningar),
+>
+> överensstämmelse med standardutföranden i typfall (för rörställningar),
+>
+> typkontrollintyg eller typfall och kompletterande, förenklade beräkningar vid avvikelser från de utföranden som är angivna i typkontrollintyg eller typfall, eller
+>
+> särskilda beräkningar i det enskilda fallet.
+
+### 20 §
+
+Arbetsgivaren ska se till att en särskild utredning görs, för att visa att säkerheten är betryggande, om komponenter från andra prefabricerade ställningssystem används i en enskild ställning. Utredningen ska dokumenteras i dimensioneringshandlingarna.
+
+> _Allmänna råd_
+>
+> Den särskilda utredningen består normalt av en kombination av provningar och beräkningar.
+
+### 21 § – Väderskydd
+
+Arbetsgivaren ska se till att ett väderskydd är dimensionerat med betryggande säkerhet mot materialbrott, instabilitet och deformationer, som har betydelse för säkerheten, innan man påbörjar arbetet med att uppföra ett väderskydd.
+
+Om följande laster kan uppstå, ska väderskyddet vara dimensionerat för dem:
+
+Snölast motsvarande minst den snömängd, som kan falla under en tidsrymd av sju dagar baserat på 50-årsvärdet.
+
+Vindlast.
+
+Personlast som motsvarar minst två punktlaster om 1,2 kN vardera. De behöver inte förutsättas vara placerade närmare varandra än 2,0 meter.
+
+Det är de mest ogynnsamma kombinationerna av lasterna, som man ska ta hänsyn till. När väderskydd och ställningar kombineras, ska de dimensioneras som en samverkande enhet.
+
+Dimensioneringen ska baseras på beräkningar och dokumenteras skriftligt i dimensioneringshandlingar.
+
+> _Allmänna råd_
+>
+> Väderskydd kan dimensioneras enligt svensk standard SS-EN 16508:2015 Temporära konstruktioner – Väderskydd – Krav och utförande, med beaktande av de avvikelser som gäller för Sverige enligt Annex B i standarden.
+>
+> Karakteristiska lastvärden för vindlast bör väljas enligt svensk standard SS-EN 12811-1:2004, Temporära konstruktioner – Del 1: Ställningar – Krav och utförande.
+
+### 22 § – Dimensioneringshandlingar
+
+Arbetsgivaren ska se till att beräkningar och övriga handlingar, som avses i [19](#19-ställningar)–[22 §§](#22-dimensioneringshandlingar), är på ett språk som arbetstagarna förstår.
+
+En dimensioneringshandling ska normalt delas upp i
+
+en beskrivning av konstruktionens läge och utformning,
+
+lastförutsättningar och imperfektioner (avvikelser från ideala förhållanden),
+
+en sammanställning och bedömning av förekommande lastfall,
+
+en beräkning av de lastfall som bedöms vara dimensionerande, och
+
+en slutlig bedömning av konstruktionens säkerhet.
+
+> _Allmänna råd_
+>
+> I lastförutsättningarna ska normalt anges värden på vertikal- och horisontallaster. Avvikelser att ta hänsyn till är bland annat snedställning av spiror och excentriciteter i anslutningar.
+>
+> Handlingarna i [19](#19-ställningar)–[22 §§](#22-dimensioneringshandlingar) kan infogas som bilaga till den plan för uppförande, användning och nedmontering som krävs enligt [5 §](#5).
+>
+> De som kan behöva ta del av handlingarna är arbetsgivare, arbetstagare, byggarbetsmiljösamordnare för utförandeskedet, beställare, inspektörer med flera.
+>
+> Vid beräkningar används ofta internationella beräkningsprogram. Utskrifter med mera på andra språk behöver inte finnas på svenska om resultatet förklaras i de övriga handlingarna.
+
+#### Uppförande och nedmontering
+
+### 23 § – Arbetsledning
+
+Arbetsgivaren ska se till att den som leder arbetet med att uppföra, göra väsentliga ändringar i eller montera ned en ställning eller ett väderskydd har kompetens, som minst motsvarar de krav som anges i bilaga 6, även om denna person inte själv arbetar i ställningen.
+
+Arbetsgivaren ska se till att den som leder arbetet och de arbetstagare som utför arbetet har tillgång till den plan för uppförande och nedmontering som krävs i [5 §](#5). (AFS 2024:4)
+
+### 24 § – Kunskaper och kvalifikationer
+
+Arbetsgivaren ska se till att de som uppför, gör väsentliga ändringar i eller monterar ned ställningar eller väderskydd har kunskap för detta arbete.
+
+Arbetstagarna ska som lägst ha fått särskild information eller lämplig utbildning enligt vad som står i bilaga 6. Bilaga 6 anger även för vilka arbetsuppgifter respektive utbildning gäller.
+
+Dokumentation, i enlighet med bilaga 6, som styrker att den som uppför, väsentligen ändrar eller monterar ned ställningar eller väderskydd har genomgått en utbildning med godkänt resultat ska finnas. Särskilda förutsättningar gäller för dem som genomgår lärlingsutbildning, se bilaga 6.
+
+Den arbetsgivare som inte följer kraven i andra och tredje stycket ska, för varje arbetstagare för vilken någon dokumentation om utbildning inte kan visas upp, betala en sanktionsavgift. Sanktionsavgiftens storlek avgörs av vilken utbildning som krävs för arbetsuppgiften enligt följande uppställning.
+
+Tabell 1 anger sanktionsavgift för den som inte följer kraven på utbildning.
+
+<table><caption>Tabell 1. Brist på utbildning – sanktionsavgift </caption><tbody><tr><th><div><div>Utbildning</div></div></th><th><div><div>Sanktionsavgift</div></div></th></tr><tr><td><div><div>Särskild information om rullställningar</div></div></td><td><div><div>5&nbsp;000&nbsp;kronor</div></div></td></tr><tr><td><div><div>Allmän utbildning om ställningar</div></div></td><td><div><div>10&nbsp;000&nbsp;kronor</div></div></td></tr><tr><td><div><div>Särskild utbildning om ställningar</div></div></td><td><div><div>20&nbsp;000&nbsp;kronor</div></div></td></tr><tr><td><div><div>Tilläggsutbildning om väderskydd</div></div></td><td><div><div>10&nbsp;000&nbsp;kronor</div></div></td></tr><tr><td><div><div>Tilläggsutbildning om speciella ställningskonstruktioner</div></div></td><td><div><div>10&nbsp;000&nbsp;kronor</div></div></td></tr></tbody></table>
+
+Om en tilläggsutbildning krävs för arbetsuppgiften, krävs även en allmän eller särskild utbildning om ställningar. Om inte något utbildningsbevis kan visas upp, ska sanktionsavgiften betalas för båda överträdelserna.
+
+> _Allmänna råd_
+>
+> De olika utbildningsnivåerna är minimikrav. För arbetstagare vars huvudsakliga sysselsättning är att uppföra, ändra och montera ned ställningar, behövs ofta en längre utbildning. Som exempel på sådan utbildning kan nämnas den, som leder till yrkesbevis eller kompetensbevis som ställningsbyggare.
+>
+> Arbetstagarna bör ha fått utbildning av en utbildningsgivare, vars ledningssystem är certifierat av ett ackrediterat certifieringsorgan.
+
+### 25 § – Avgränsning
+
+Arbetsgivaren ska tydligt avgränsa ställningar, väderskydd, eller delar av dessa som inte är färdiga att användas, så att tillträde till dem förhindras.
+
+Om det är förenat med risker att beträda området runt en ställning eller ett väderskydd, ska även det området märkas ut med skyltning.
+
+Om detta bara gäller delar av en ställning eller ett väderskydd, ska motsvarande avgränsning och skyltning utföras för dessa delar.
+
+> _Allmänna råd_
+>
+> I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser finns särskilda bestämmelser om skyltar och signaler.
+
+### 26 §
+
+Arbetsgivaren ska, när en ställning eller ett väderskydd uppförs på en särskilt riskutsatt plats, såsom vid vatten, vägar, gator, järnvägar, kranspår eller intill en starkströmsanläggning, ordna skydd mot de särskilda risker som kan uppkomma, exempelvis påkörning.
+
+> _Allmänna råd_
+>
+> Det kan ibland behövas särskilda tillstånd för att ha en ställning på platsen.
+
+### 27 § – Kontroll av komponenter
+
+Arbetsgivaren ska granska material till ställningar och väderskydd noga före varje uppsättning. Material eller komponenter med defekter av betydelse för säkerheten får inte användas.
+
+Det gäller till exempel defekter som skadade komponenter, komponenter med rost eller andra korrosionsangrepp eller trämaterial eller komponenter med röta, skevhet eller sprickor.
+
+> _Allmänna råd_
+>
+> Det är särskilt viktigt att kontrollera att spiror och arbetsplanskomponenter är fullgoda.
+
+### 28 § – Underlag och placering
+
+Arbetsgivaren ska se till att ställningar och väderskydd bara uppförs på underlag, och förankras till konstruktioner, som kan ta upp de laster som kan uppstå. Glidning och excentrisk lastöverföring mellan ställningen och underlaget ska förhindras.
+
+> _Allmänna råd_
+>
+> Om man är osäker på förankringarnas lastupptagande förmåga, kan förankringarna behöva provdras.
+>
+> Det är viktigt att vara uppmärksam på risken att rullställningar kan börja glida, i synnerhet vid lutande eller glatt underlag, eller om friktionen är liten mellan rullställningens hjul och underlaget.
+
+### 29 § – Skydd mot fall
+
+Arbetsgivaren ska, när fallhöjden är två meter eller mer, se till att arbetstagaren är skyddad mot risken att falla till en lägre nivå, när en ställning eller ett väderskydd uppförs eller monteras ned.
+
+### 30 §
+
+Arbetsgivaren ska i första hand se till att skyddsräcket till så stor del som möjligt finns på plats, när man kommer upp på en högre nivå.
+
+I andra hand ska man använda ett temporärt räckessystem.
+
+I tredje hand ska skyddet mot fall åstadkommas genom att arbetstagaren använder personlig skyddsutrustning.
+
+### 31 § – Ergonomi
+
+Arbetsgivaren ska planera arbetet och se till att de som utför arbetet med att uppföra eller montera ned ställningar och väderskydd har den arbetsutrustning som behövs, för att arbetet ska kunna utföras på ett ergonomiskt bra sätt.
+
+Arbetsgivaren ska minst se till att
+
+material och komponenter transporteras fram och läggs upp så nära montageplatsen som möjligt,
+
+maskinell utrustning normalt används när material och komponenter ska tas upp på respektive ned från ställningen,
+
+tillträdeslederna monteras tidigt så att de kan användas även av den personal som monterar ställningen eller väderskyddet, och
+
+det finns tillräckligt utrymme på ställningen vid uppförandet.
+
+> _Allmänna råd_
+>
+> Maskinell utrustning för lyft är viktigare, ju högre ställningarna är. Om man ska använda hiss, bör den monteras så tidigt som möjligt och byggas på uppåt allt eftersom. För väderskydd är det ofta en fördel, om de i så stor utsträckning som möjligt kan monteras ihop på marken och sedan lyftas upp i sektioner. Det är därför viktigt att utrymmet för dessa arbetsmoment är tillräckligt stort. Utrymmet är normalt tillräckligt, om arbetsplanen är minst 0,6 meter breda.
+
+### 32 § – Kontroll
+
+Den arbetsgivare som uppfört ställningen eller väderskyddet, ska kontrollera att de är korrekt byggda och fungerar väl, när de är klara att användas.
+
+Om den arbetsgivare som ska använda ställningen eller väderskyddet är en annan juridisk person än den som uppfört den, ska användaren, om möjligt, delta i kontrollen.
+
+### 33 §
+
+Arbetsgivaren som uppfört ställningen eller väderskyddet ska se till att den som utför kontrollen, säkerställer att ställningens eller väderskyddets utförande stämmer överens med de handlingar som ligger till grund för utformningen. Kontrollen ska dokumenteras i en särskild handling.
+
+> _Allmänna råd_
+>
+> Ställningsbyggarens representant bör skriva under handlingen, och även användarens representant, om denna deltagit. Stöd för dokumentationen kan vara att man fotograferar ställningen, särskilt om den är stor. Exempel på vad som ska kontrolleras framgår av de allmänna råden till [37 §](#37-kontroll).
+
+### 34 § – Överlämning
+
+Arbetsgivaren som uppfört ställningen eller väderskyddet ska, i samband med att ställningen eller väderskyddet lämnas över till arbetsgivaren för användare, även lämna över följande handlingar:
+
+Planen för uppförande, användning och nedmontering enligt [5 §](#5).
+
+Dimensioneringshandlingarna enligt [19](#19-ställningar)–[22 §§](#22-dimensioneringshandlingar).
+
+Dokumentation av kontrollen enligt [32](#32-kontroll)–[33 §§](#33).
+
+Information om snöskottning, tillträde till taket och skydd mot fall från väderskyddet.
+
+Information om hur väderskyddet ska kontrolleras.
+
+Särskilda instruktioner för uppförande, användning, nedmontering och skötsel av väderskyddet, om sådana finns.
+
+Instruktionerna för uppförande, användning, nedmontering och skötsel om det är fråga om en prefabricerad ställning.
+
+> _Allmänna råd_
+>
+> Det är viktigt att den som samordnar åtgärder till skydd mot ohälsa och olycksfall, får tillgång till handlingarna. Om det är fråga om byggnads- och anläggningsarbete, bör byggarbetsmiljösamordnaren för utförandeskedet hålla dem tillgängliga.
+
+#### Användning
+
+### 35 § – Undersökning och riskbedömning
+
+Arbetsgivaren för användare ska, innan arbeten påbörjas på en ställning eller under ett väderskydd, ta reda på förhållandena på arbetsplatsen och bedöma de särskilda riskerna. Arbetsgivaren ska också förvissa sig om att den valda ställningen är lämplig för arbetet.
+
+### 36 §
+
+Arbetsgivaren för användare ska försäkra sig om att dokumentationen om ställningen eller väderskyddet enligt [34 §](#34-överlämning) finns tillgänglig. En arbetsgivare som mottagit handlingar enligt [34 §](#34-överlämning), ska se till att handlingarna enligt [34 §](#34-överlämning) 1 och 3–7 finns tillgängliga på arbetsplatsen.
+
+Arbetsgivaren ska se till att information om ställningen eller väderskyddet även når arbetstagare med kognitiv funktionsnedsättning.
+
+Innan ställningar eller väderskydd som ska användas av flera arbetsgivare i byggnads- och anläggningsarbete börjar användas, ska arbetsgivaren lämna kopior av samtliga handlingar till byggarbetsmiljösamordnaren för utförandet.
+
+> _Allmänna råd_
+>
+> Dimensioneringshandlingarna enligt [34 §](#34-överlämning) 2 kan vara omfattande och de behöver därför normalt inte finnas tillgängliga på arbetsplatsen.
+
+### 37 § – Kontroll
+
+Arbetsgivaren för användare ska kontrollera ställningar och väderskydd innan de tas i bruk och även fortlöpande under den tid som de används.
+
+Om ställningar eller väderskydd har brister, som har betydelse från arbetsmiljösynpunkt, får de inte användas innan bristerna har åtgärdats.
+
+När ställningar eller väderskydd används, gäller bestämmelserna i [4](#4-planering)–[22](#22-dimensioneringshandlingar), [26](#26), [28](#28-underlag-och-placering) och [32](#32-kontroll)–[34 §§](#34-överlämning) även för de arbetsgivare som använder ställningen eller väderskyddet.
+
+Det är särskilt viktigt att kontrollera en ställning som har varit utsatt för stark vind, annan väderlek som kan ha påverkat den, samt när den varit utsatt för någon annan oförutsedd händelse eller har stått oanvänd en längre tid.
+
+> _Allmänna råd_
+>
+> Kontrollen bör omfatta följande:
+>
+> Underpallning.
+>
+> Att förankringarna är fullständiga och korrekt utförda, och att man provdrar dem, om man är osäker på deras förmåga att uppta last.
+>
+> Att skyddsräcken finns där de behövs.
+>
+> Att avståndet mellan arbetsplan och angränsande konstruktioner inte är för stort.
+>
+> Att komponenter, till exempel arbetsplan, är korrekt monterade och säkrade.
+>
+> Tillträdesleder.
+>
+> Väderskyddets tak, inklusive fastsättning och behov av snöskottning.
+>
+> Handlingarna, som nämns i [36 §](#36), kan vara till hjälp vid kontrollerna.
+
+### 38 § – Arbetsplatserna
+
+Arbetsgivaren ska se till att lösa stegar inte används på arbetsplan till fasad-, rull- och hantverkarställningar.
+
+Eventuella luckor för tillträde genom arbetsplan ska alltid hållas stängda, utom när de används för passage.
+
+### 39 §
+
+Arbetsgivaren ska se till att ställningar inte används som återledare vid elektrisk svetsning.
+
+### 40 § – Bärförmåga och stabilitet
+
+Arbetsgivaren ska lämna information till dem som arbetar på en ställning eller under ett väderskydd. Informationen ska minst omfatta
+
+tillåten belastning på ställningens olika delar, och
+
+för vilken snö- och personlast väderskyddet är dimensionerat.
+
+> _Allmänna råd_
+>
+> Det är viktigt att ställningen inte överbelastas av byggnads- och rivningsmaterial, blästersand eller liknande.
+>
+> Om flera företag använder ställningen eller väderskyddet, bör man informera om tillåten last genom ett tydligt anslag.
+
+### 41 §
+
+Arbetsgivaren ska se till att arbete utförs bara på ett arbetsplan mellan samma bärande spiror, om inte ställningen är särskilt dimensionerad för arbete på mer än en nivå.
+
+> _Allmänna råd_
+>
+> De förutsättningar som ligger till grund för typkontrollintyg (för prefabricerade ställningar) och typfall (för rörställningar) gäller normalt bara arbete på en nivå (mellan samma bärande spiror) åt gången.
+
+### 42 §
+
+Arbetsgivaren ska se till att tung utrustning, tunga maskiner eller dylikt bara finns på ställningen, om den är dimensionerad för det. Motsvarande gäller för maskiner eller annat, som ger upphov till dynamiska tilläggslaster.
+
+### 43 § – Ergonomi
+
+Arbetsgivaren ska se till att en ställning bara används om det finns tillräckligt utrymme för det avsedda arbetet, för transporter och för att lägga upp material. Arbetet ska kunna utföras med lämpliga arbetsställningar och arbetsrörelser.
+
+> _Allmänna råd_
+>
+> Standarden SS-EN 12811-1:2004, Temporära konstruktioner – Del 1: Ställningar – Krav och utförande är normalt tillämplig. Den anger
+>
+> minst 1,80 meter bredd för arbeten där såväl uppläggning som kärrning av material förekommer (till exempel vid murning enligt traditionell svensk metod),
+>
+> minst 1,20 meter bredd för arbeten där antingen uppläggning eller annan transport än kärrning av material förekommer, och
+>
+> minst 0,60 meter bredd för övriga arbeten.
+
+### 44 § – Upplastning och uppläggning av material
+
+Arbetsgivaren ska se till att upplastning och uppläggning av material på ställningar planeras noga och övervakas särskilt. Upplastning och uppläggning får bara göras om ställningen och intagsbryggorna är dimensionerade och anpassade för detta.
+
+### 45 §
+
+Arbetsgivaren ska se till att material sätts ner försiktigt och vertikalt, för att undvika att ställningen utsätts för dynamiska och horisontella krafter.
+
+Truckars lastgafflar och liknande ska lyftas och sväva fritt, innan de dras ut horisontellt. Arbetstagare som inte är sysselsatta med att lasta upp material, får inte uppehålla sig på den del av ställningen där upplastning eller uppläggning pågår.
+
+### 46 § – Särskilda krav för användning av rullställningar
+
+Arbetsgivaren ska se till att rullställningar normalt bara används för kortvariga arbeten, där ställningen behöver flyttas ofta och där förhållandena på arbetsplatsen medger detta. Bara arbeten som medför att ställningen inte utsätts för några större horisontella krafter, får utföras.
+
+Rullställningar får inte användas för större fasadarbeten. Vid fasadmålning av enfamiljshus såsom villor, par- och radhus kan dock rullställning användas, om arbetsgivarens undersökning och riskbedömning medger detta.
+
+Det är då viktigt att
+
+underlaget är sådant att rullställningen lätt kan flyttas,
+
+arbetet från rullställningen i huvudsak kan utföras från första arbetsplansnivån (maximalt cirka 2,5 meter över mark), och
+
+tillträdeslederna är säkra och ändamålsenliga.
+
+> _Allmänna råd_
+>
+> Byte av lampor och armaturer, upp- eller nedsättning av skyltar samt mindre målnings-, el-, ventilations- och plåtslageriarbeten är exempel på kortvariga arbeten.
+
+### 47 §
+
+Arbetsgivaren ska se till att en rullställnings hjul är låsta när den används.
+
+### 48 §
+
+Arbetsgivaren ska se till att personer eller material, som kan falla ner, inte finns på rullställningen när den flyttas, oavsett på vilken höjd arbetsplanet är placerat.
+
+Om en rullställning har stödben, får de inte tas bort under flyttningen.
+
+> _Allmänna råd_
+>
+> Det är viktigt att rullställningen flyttas försiktigt, så att den inte blir instabil. Vid flyttning av en rullställning med stödben, kan stödbenen behöva lyftas något.
+
+### 49 § – Särskilda krav för användning av hantverkarställningar
+
+Arbetsgivaren ska se till att hantverkarställningar normalt bara används för lätta arbeten, där ställningen behöver flyttas ofta. De får bara användas på plana och hårdgjorda eller förstärkta ytor och, om benen inte kan justeras i höjdled, bara på horisontella ytor.
+
+Hantverkarställningar får bara användas av en person åt gången. När de används måste hjulen vara låsta, oavsett på vilken höjd arbetsplanet är placerat.
+
+Bara arbeten, som medför att ställningen utsätts för små horisontella krafter, får utföras.
 <!-- scan-laws:end -->
 
 ## Tolkning

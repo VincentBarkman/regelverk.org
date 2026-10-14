@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,143 +21,57 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Allmänna åtgärder
+### Inledning
 
-### 14 § – Allmän utbildning
+Stöd och verktyg: Kylda livsmedelslokaler
 
-Arbetsgivaren ska se till att den som leder eller utför arbete med asbest eller asbesthaltigt material inom forskning, utveckling eller analys enligt [5 §](/lagstiftning/afs-2023-13/kap-4#5) och bearbetning och behandling enligt [6 §](/lagstiftning/afs-2023-13/kap-5#6-hjälpmedel) har genomgått utbildning om asbest och att kunskaperna uppdateras när det behövs.
+### 1 § – Då gäller föreskrifterna
 
-Utöver sådan verksamhet som avses i [5](/lagstiftning/afs-2023-13/kap-4#5)–[7 §§](/lagstiftning/afs-2023-13/kap-5#7-förflyttning-av-djur) ska arbetsgivaren även se till att de arbetstagare som inte ska arbeta med asbest eller asbesthaltiga material men som utför ett arbete där arbetstagaren exponeras eller sannolikt kommer att exponeras för asbesthaltigt damm har genomgått utbildning om asbest och att kunskaperna uppdateras när det behövs.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-10) reglerar all verksamhet där det sker arbete med livsmedel i kylda livsmedelslokaler där lufttemperaturen av livsmedelshygieniska skäl hålls under +16 °C.
 
-Arbetsgivaren ska se till att den instruktör som håller i utbildningen har dokumenterade kunskaper inom de områden som utbildningen omfattar och som anges i punkterna 1–9. Utbildningens innehåll och längd ska vara anpassad till de berörda arbetstagarnas uppgifter och arbetsmetoder. Utbildningen ska vara teoretisk och praktisk.
+Bestämmelserna gäller inte vid arbete i lastutrymme på transportfordon eller järnvägsvagnar.
 
-Utbildningen ska minst omfatta avsnitt om
+Om arbetet bara innebär transport av varor in i och ut ur till exempel ett kylrum, gäller endast [6 §](#6-personlig-skyddsutrustning).
 
-relevant arbetsmiljörättslig lagstiftning, inbegripet föreskrifter i denna författning och bestämmelser om medicinska kontroller i arbetslivet,
+### 2 § – Vem föreskrifterna riktar sig till
 
-asbestens egenskaper, förekomst och hälsoeffekter, inbegripet synergistiska effekter av rökning,
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-10) följs. Med arbetsgivare likställs den som hyr in arbetskraft. Den arbetsgivare som inte råder över en arbetsplats behöver endast följa [3](#3-åtgärder-mot-avkylning) och [6 §§](#6-personlig-skyddsutrustning).
 
-typer av produkter eller material som kan innehålla asbest,
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-10) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
-verksamhet som kan medföra exponering för asbest och vikten av förebyggande kontroller för att minimera sådan exponering,
+> _Allmänna råd_
+>
+> Arbetsgivaren råder inte över arbetsplatsen om arbetsgivaren varken äger eller har hyresavtal för arbetsplatsen eller av annan anledning inte har möjlighet att påverka utformningen av arbetsplatsen.
 
-säkra arbetsmetoder, kontrollåtgärder, och skyddsåtgärder,
+### 3 § – Åtgärder mot avkylning
 
-syfte med och val av personlig skyddsutrustning, dess begränsningar och dess korrekta användning, med särskild hänsyn till skyddande andningsutrustning,
+Arbetsgivaren ska se till att arbetet ordnas så att nedkylning av händerna genom kontakt med frysta eller kylda varor eller förpackningar förebyggs.
 
-rengöringsrutiner,
+### 4 § – Styckning av kött
 
-nödfallsåtgärder, och
+Arbetsgivaren ska se till att köttets temperatur i snittstället vid styckning hålls så hög som livsmedelshygienen tillåter.
 
-avfallshantering.
+> _Allmänna råd_
+>
+> Livsmedelsverket har föreskrifter om livsmedelshygien.
 
-Utbildningens innehåll ska vara lättförståeligt för arbetstagarna, ges på ett språk som arbetstagarna förstår och ge dem möjlighet att förvärva de kunskaper och färdigheter som behövs gällande förebyggande åtgärder och säkerhet.
+### 5 § – Lokaler
 
-Efter utbildningen ska arbetstagaren genomgå ett kunskapsprov.
+Arbetsgivaren ska se till att lufttemperaturen vid arbete i kylda livsmedelslokaler hålls så hög som livsmedelshygienen tillåter.
 
-Varje arbetstagare som genomgått utbildningen med tillfredsställande resultat ska få ett bevis på genomgången utbildning där samtliga nedanstående uppgifter anges
+> _Allmänna råd_
+>
+> Livsmedelsverket har föreskrifter om livsmedelshygien.
 
-arbetstagarens namn,
+### 6 § – Personlig skyddsutrustning
 
-arbetstagarens födelsedatum,
+Arbetsgivaren ska se till att personlig skyddsutrustning till skydd mot avkylning under arbetet används.
 
-datum för utbildningen,
+Kläder och handskar som används till skydd mot kyla ska bäras under sådana skyddskläder, handskar och annan utrustning som används av livsmedelshygieniska skäl.
 
-utbildningens längd,
+Vid styckningsarbete ska personlig skyddsutrustning till skydd mot skär- och stickskador användas. Vid annat arbete än industriell produktion får undantag göras, dock bara om en riskbedömning visar att skydden inte behövs. Bedömningen ska dokumenteras.
 
-utbildningens innehåll,
-
-språk som utbildningen gavs på, och
-
-namn, kvalifikationer och kontaktuppgifter avseende den instruktör eller institution som anordnat utbildningen, eller båda. (AFS 2025:6)
-
-### 15 § – Undersökning, prioritering och riskbedömning
-
-Innan ett arbete som medför risk för exponering för asbesthaltigt damm påbörjas ska arbetsgivaren vidta alla nödvändiga åtgärder för att identifiera de material som skulle kunna innehålla asbest.
-
-Arbetsgivaren ska i synnerhet efterfråga information från ägarna till lokaler och tekniska anordningar, från andra arbetsgivare och ta del av uppgifter från andra källor, inbegripet relevanta register och dokument.
-
-Om sådan information som avses i första stycket inte finns tillgänglig ska arbetsgivaren säkerställa att en kvalificerad yrkesutövare utför en undersökning av förekomsten av asbesthaltigt material. I undersökningen ska alla nödvändiga metoder som behövs användas för att identifiera förmodade asbesthaltiga material. Arbetsgivaren ska ha tagit del av resultatet av denna undersökning innan arbetet påbörjas.
-
-Arbetsgivaren ska ge andra berörda arbetsgivare tillgång till information som erhållits inom ramen för en sådan undersökning.
-
-(AFS 2025:6)
-
-### 15 a §
-
-Arbetsgivaren ska prioritera rivning eller sanering före andra former av hantering av asbest eller asbesthaltigt material.
-
-Prioriteringen enligt första stycket ska genomföras innan riskbedömningen enligt [16 §](#16) görs.
-
-(AFS 2025:8)
-
-### 16 §
-
-Arbetsgivaren ska i sin undersökning och riskbedömning beakta risken för exponering för asbesthaltigt damm innan ett arbete i verksamhet som omfattas av dessa föreskrifter påbörjas.
-
-### 17 § – Hanterings- och skyddsinstruktioner
-
-Vid arbete som medför eller kan medföra exponering för asbesthaltigt damm ska arbetsgivaren se till att det finns skriftliga hanterings- och skyddsinstruktioner som leder till att arbetet kan utföras på ett säkert sätt. De skriftliga hanterings- och skyddsinstruktionerna ska finnas tillgängliga på arbetsplatsen.
-
-Hanterings- och skyddsinstruktionerna ska minst omfatta
-
-åtgärder för att förhindra dammspridning och minimera exponering,
-
-personlig skyddsutrustning,
-
-typ av andningsskydd,
-
-arbetsmetod,
-
-efterstädning,
-
-avfallshantering, och
-
-personlig hygien.
-
-(AFS 2025:6)
-
-### 18 § – Förebyggande av dammspridning
-
-Arbetsgivaren ska se till att
-
-allt arbete med asbest och asbesthaltigt material planeras, ordnas och utförs så att exponeringen för asbesthaltigt damm blir så låg som möjligt och att asbesthaltigt damm sprids så lite som möjligt,
-
-antalet personer som kan komma att exponeras för asbesthaltigt damm begränsas till så få personer som möjligt, och
-
-hänsyn tas till risken för oförutsedd exponering för asbesthaltigt damm vid planeringen av arbetet.
-
-(AFS 2025:6)
-
-### 18 a §
-
-Arbetsgivaren ska omedelbart stoppa arbetet om det finns anledning att tro att asbesthaltiga material som inte identifierats innan arbetet påbörjades har påverkats så att det finns risk för bildning av asbesthaltigt damm.
-
-Arbetet får inte fortsätta innan relevanta åtgärder har vidtagits för att skydda de berörda arbetstagarna. Åtgärderna ska innefatta en undersökning av materialet med avseende på asbest.
-
-(AFS 2025:6)
-
-### 19 §
-
-Vid sådan hantering av asbest som anges i [5](/lagstiftning/afs-2023-13/kap-4#5) och [6 §§](/lagstiftning/afs-2023-13/kap-5#6-hjälpmedel) ska arbetsgivaren se till att platsen där verksamheten bedrivs är klart avgränsad och tydligt märkt med texten: ”Asbestarbete – Tillträde förbjudet för obehöriga”.
-
-### 20 §
-
-Arbetsgivaren ska se till att hytter på maskiner eller fordon som används i dammande arbete där asbest eller asbesthaltigt material förekommer har särskild tillförsel av luft som är så fri från luftföroreningar som möjligt.
-
-### 21 §
-
-Arbetsgivaren ska se till att asbesthaltigt material, asbesthaltigt avfall och emballage som innehållit asbest eller asbesthaltigt material genast tas tillvara och förvaras i lämpliga förslutna dammtäta förpackningar eller behållare, med tillräcklig hållfasthet, fram till slutligt omhändertagande.
-
-Till asbesthaltigt material eller avfall räknas även asbestförorenade skyddskläder och annan personlig skyddsutrustning.
-
-(AFS 2025:6)
-
-### 22 §
-
-Arbetsgivaren ska se till att frånluft från dammsugare eller punktutsug endast återförs om luften renas så att minst 99,95 procent av det respirabla asbestdammet avskiljs.
-
-Motsvarande krav på rening gäller frånluft från fläktaggregat som används för att åstadkomma undertryck i sådan inneslutning som avses i [36 §](/lagstiftning/afs-2023-13/kap-13#36).
+Om det behövs ska även annan personlig skyddsutrustning användas.
 <!-- scan-laws:end -->
 
 ## Tolkning

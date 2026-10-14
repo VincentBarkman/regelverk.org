@@ -161,7 +161,7 @@
 								>
 									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
 									<span>{ENTITY_LABEL[e]()}</span>
-									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/60" aria-hidden="true" />
 								</a>
 							{:else}
 								<a
@@ -171,7 +171,7 @@
 								>
 									<EIcon class="size-3.5 text-primary/60" aria-hidden="true" />
 									<span>{ENTITY_LABEL[e]()}</span>
-									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/40" aria-hidden="true" />
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/60" aria-hidden="true" />
 								</a>
 							{/if}
 						</li>

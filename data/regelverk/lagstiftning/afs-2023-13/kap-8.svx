@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,159 +21,471 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Tillstånd
+### Inledning
 
-### 4 §
+Stöd och verktyg: Arbeta säkert i hamnar
 
-Arbetsgivaren ska ha tillstånd från Arbetsmiljöverket för att bedriva verksamhet som innebär hantering av asbest eller asbesthaltigt material. Tillstånd kan ges för följande verksamheter
+### 1 § – Då gäller föreskrifterna
 
-forskning, utveckling eller analys enligt [5 §](#5-tillstånd-för-forskning-utveckling-och-analys),
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-8) reglerar endast verksamhet inom hamnområde, redd eller motsvarande vid
 
-bearbetning och behandling enligt [6 §](#6-tillstånd-för-bearbetning-och-behandling), och
+lastning, lossning, förtöjning, losskastning och bunkring av fartyg,
 
-rivning eller sanering enligt [7 §](#7-tillstånd-för-rivning-eller-sanering).
+därmed direkt sammanhängande godshantering eller annat terminalarbete, och
 
-Tillstånd ges antingen för en viss tid eller för ett visst arbete. Tillståndet kan förenas med villkor och får inte överlåtas. Vid beslut om tillstånd kommer Arbetsmiljöverket att beakta om den sökande tidigare har brutit mot bestämmelser i dessa föreskrifter.
+hantering av fartygs förråd och utrustning.
 
-(AFS 2025:6)
+### 2 § – Vem föreskrifterna riktar sig till
 
-### 5 § – Tillstånd för forskning, utveckling och analys
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-8) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Arbetsgivaren ska ha tillstånd från Arbetsmiljöverket för att hantera asbest eller asbesthaltigt material för forskning och utveckling samt analys.
+Den arbetsgivare som inte råder över arbetsstället behöver dock bara följa bestämmelserna i [3](#3-definitioner)–[11 §§](#11) och [17](#17-organisation)–[45 §§](#45).
 
-Den arbetsgivare som bryter mot något eller några av kraven i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-13/kap-8) och ska följa bestämmelserna [23](#23-tekniska-anordningar)–[28](#28-uppläggning-av-gods-med-mera-på-kaj-hamnplan-och-liknande), [30](#30)–[35](#35), [37](#37), [38](#38) och [40](#40-hantering-av-lastbärare)–[42 §§](#42) i [detta kapitel](/lagstiftning/afs-2023-13/kap-8).
 
-Lägsta avgiften är 15 000 kronor och högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-8) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
-Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
+### 3 § – Definitioner
 
-Summan ska avrundas nedåt till närmaste hela hundratal.
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-8) har följande begrepp dessa betydelser.
 
-### 6 § – Tillstånd för bearbetning och behandling
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Lastbärare </div></div></td><td><div><div>Anordning särskilt utformad för att bära och sammanhålla gods under transport och hantering.</div></div></td></tr><tr><td><div><div>Trim </div></div></td><td><div><div>Skillnad i djupgående mellan fartygets för och akter.</div></div></td></tr></tbody></table>
 
-Arbetsgivaren ska ha tillstånd från Arbetsmiljöverket vid bearbetning och behandling av asbest eller asbesthaltigt material som redan har installerats eller tagits i bruk.
+### 4 § – Allmänt
 
-Tillstånd enligt första stycket behövs inte för att borra hål om följande villkor är uppfyllda:
+Vid arbete ombord på fartyg ska arbetsgivare från land samarbeta med fartygets företrädare för att åstadkomma samordning mellan ombord- och landanställdas arbete.
 
-Antalet arbeten omfattar maximalt tre tillfällen per arbetsgivare och kalenderår.
+> _Allmänna råd_
+>
+> Det är viktigt att fartygsbesättningens och de landanställdas arbetsuppgifter samordnas så att inte nya olycksfallsrisker uppstår. Ett exempel på detta är att städning och annat arbete som inte är lastnings- eller lossningsarbete inte bör påbörjas förrän lastnings- eller lossningsarbetet har avslutats i ett område där det finns risk för fallande föremål, påkörning eller liknande.
 
-Den totala arbetsmängden för arbetet är mindre än en persontimme per tillfälle.
+### 5 §
 
-En anordning för utsug används och är placerad i direkt anslutning till håltagningen.
+Inför arbete på ett fartyg ska arbetsgivare från land överlämna skriftliga instruktioner till fartygets företrädare. Instruktionerna ska beskriva de säkerhetsregler som gäller vid hamnbesöket.
 
-Den arbetsgivare som i en eller flera situationer av bearbetning och behandling bryter mot kraven i denna bestämmelse ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+> _Allmänna råd_
+>
+> Det är lämpligt att dokumentet med instruktionerna sänds över till fartyget innan det anlöper hamnen och att fartygets befälhavare signerar dokumentet om samtliga krav är uppfyllda. Fartyg som frekvent anlöper samma hamn kan ha fasta rutiner för hamnbesök. Det kan vara lämpligt med instruktioner på flera språk.
 
-Lägsta avgiften är 15 000 kronor och högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+### 6 §
 
-Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
+Kommunikationen mellan arbetsgivare från land och fartygsbesättningens företrädare ska, så långt möjligt, föras på ett gemensamt språk.
 
-Summan ska avrundas nedåt till närmaste hela hundratal.
+Arbetsgivaren ska se till att kommunikationen kan ske säkert och på ett sätt så att alla lätt kan förstå varandra.
 
-### 7 § – Tillstånd för rivning eller sanering
+### 7 §
 
-Arbetsgivaren ska ha tillstånd från Arbetsmiljöverket för rivning eller sanering av material som innehåller asbest.
+Innan lastnings- eller lossningsarbete påbörjas ombord på ett fartyg ska arbetsplatsen och de tekniska anordningarna vara i ett sådant skick att arbetet kan utföras säkert. Innan arbetet påbörjas ska arbetsgivaren
 
-Tillstånd kan ges för rivning och sanering eller enbart för sanering.
+se till att en funktionskontroll utförs på de tekniska anordningar ombord på fartyget som ska användas under arbetet, och
 
-Den arbetsgivare som i en eller flera situationer av rivning eller sanering bryter mot kraven i denna bestämmelse ska betala en sanktionsavgift. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen.
+säkerställa att manövreringen av de tekniska anordningarna på fartyget kan ske säkert.
 
-Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+> _Allmänna råd_
+>
+> Exempel på tekniska anordningar ombord som omfattas av första stycket är lyftanordningar, hissar, tillträdesleder, lejdare, skyddsräcken, utrymningsvägar, ventilation och belysning.
+>
+> Exempel på funktionskontroll är att
+>
+> göra ett provlyft med de fartygskranar som används för lossning eller lastning, och
+>
+> kontrollera att fartygshissens säkerhetsspärrar aktiveras vid alla stannplan.
+>
+> Det är lämpligt att den som ska använda anordningen provar manövreringsegenskaperna innan lastnings- eller lossningsarbetet påbörjas.
 
-Avgift = 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
+### 8 §
 
-Summan ska avrundas nedåt till närmaste hela hundratal.
+Arbetsgivaren ska se till att arbetstagare som upptäcker felaktigheter, skador, förslitningar eller annat som kan äventyra säkerheten genast anmäler detta till arbetsledningen.
 
-(AFS 2025:6)
+### 9 § – Arbetsplatsens beskaffenhet
 
-### 8 § – Omprövning av tillstånd
+Arbetsgivaren ska se till att det vid gång- och fordonsinfarterna till ett hamnområde anges genom skyltning eller på liknande sätt vilka säkerhetsregler som gäller inom hamnområdet.
 
-Arbetsmiljöverket kan ompröva ett beslut om tillstånd enligt [5 §](#5-tillstånd-för-forskning-utveckling-och-analys) första stycket och [6 §](#6-tillstånd-för-bearbetning-och-behandling) första stycket eller [7 §](#7-tillstånd-för-rivning-eller-sanering) första stycket om det behövs av säkerhetsskäl eller om den som har fått ett tillstånd bryter mot bestämmelser i [12](/lagstiftning/afs-2023-13/kap-6#12) eller [13 §§](/lagstiftning/afs-2023-13/kap-6#13).
+> _Allmänna råd_
+>
+> Exempel på säkerhetsregler är regler om anmälan, behörig trafik, trafikregler, samordningsansvar med mera.
 
-#### Ansökan om tillstånd
+### 10 §
 
-### 9 § – Forskning, utveckling och analys
+Arbetsgivaren ska se till att ramper till fartyg där fordonstrafik förekommer har tydligt angivet den maximala hastighet som fordon får framföras med och rampens maxlast.
 
-Arbetsgivare vars arbetstagare ska utföra arbetet ska ansöka om tillstånd enligt [5 §](#5-tillstånd-för-forskning-utveckling-och-analys) första stycket hos Arbetsmiljöverket.
+Om rampen tillhör fartyget och maxlasten inte är tydligt angiven ska arbetsgivaren ta reda på maxlasten och informera berörd personal.
 
-Ansökan ska innehålla uppgifter om
+> _Allmänna råd_
+>
+> När man ska ange maxlast på ramp är det viktigt att ta hänsyn till den belastning och de dynamiska tillskottslaster som uppkommer då rörliga eller låsta ramper vilar på varandra.
 
-adressen till den plats där arbetet ska utföras,
+### 11 §
 
-ändamålet med hanteringen,
+För tillträde till fartyg, lastrum eller liknande utrymme ska arbetsgivaren se till att bara lämpliga och säkra förbindelseleder används. Förbindelselederna ska vara placerade och fastsatta på riktigt sätt.
 
-vilken typ av asbest eller asbesthaltigt material som ska hanteras,
+Skyddsnät som hindrar fall mellan fartygssidan och kajen ska finnas vid nedre änden av en förbindelseled som leder till ett fartyg, om det inte är uppenbart onödigt.
 
-den beräknade mängden asbest eller asbesthaltigt material som ska hanteras,
+> _Allmänna råd_
+>
+> Det är lämpligt att skyddsnät till förbindelseled som leder till fartyg sträcker sig cirka två meter om vardera sidan, utefter kajen.
+>
+> I fartyg som transporterar farligt gods är det normalt lämpligt att förbindelselederna till lastutrymmena finns i sådan omfattning att gångavstånd till närmaste förbindelseled inte är större än omkring 10 meter.
 
-den tidsperiod ansökan avser,
+### 12 §
 
-den beräknade mängden asbesthaltigt avfall,
+Arbetsgivaren ska se till att hamnområden, tillträdesleder dit samt tillträdesleder fram till fartyg har tillräckligt utrymme och även i övrigt är utformade så att arbete kan utföras säkert. Det ska särskilt beaktas att
 
-vem som ska transportera bort avfallet, och
+underlaget är fritt från sättningar och ojämnheter av betydelse för arbetsmiljön, och
 
-var avfallet slutligt ska tas om hand.
+dräneringen är tillfredsställande.
 
-Till ansökan ska bifogas
+Risker för trafikolycksfall ska beaktas.
 
-hanterings- och skyddsinstruktioner för arbetet,
+> _Allmänna råd_
+>
+> Åtgärder för att göra hamnområden och tillträdesleder säkra kan vara att
+>
+> hinder som inte kan avlägsnas och innebär fara markeras på lämpligt och iögonfallande sätt och om det behövs är belysta,
+>
+> ytor som används för trafik eller hantering och uppläggning av gods eller liknande är lämpade för ändamålet och underhålls väl, och
+>
+> områden som av olika anledningar är riskabla spärras av i nödvändig omfattning.
 
-intyg om asbestutbildning för de som ska leda arbetet och för de som ska delta i arbetet,
+### 13 §
 
-intyg om sådana medicinska kontroller som avses i [44 §](/lagstiftning/afs-2023-13/kap-14#44) (tjänstbarhetsintyg) för de som ska delta i arbetet, och
+Arbetsgivaren ska se till att hamnområdet och tillfarter till detta som är avsedda för hamnarbete har tillräcklig och lämplig belysning där arbete pågår. Sådan belysning ska dessutom finnas på den del av området som utgör tillträdesled till fartyg.
 
-ett yttrande över ansökan från arbetstagarnas skyddsombud alternativt arbetsmiljöombud eller, om sådant inte finns, yttrande från ett regionalt skyddsombud (arbetsmiljöombud).
+För belysning gäller att
 
-(AFS 2025:6)
+ljuskällors återgivning av färg är lämplig för arbetsuppgiften,
 
-### 10 § – Bearbetning och behandling
+belysningen är utformad så att varningsskyltar, nödstoppsdon och liknande lätt uppfattas,
 
-Den arbetsgivare vars arbetstagare ska utföra arbetet ska ansöka om tillstånd enligt [6 §](#6-tillstånd-för-bearbetning-och-behandling) första stycket hos Arbetsmiljöverket.
+belysningen har lämplig fördelning och riktning, och
 
-Ansökan ska innehålla uppgifter om
+bländning undviks så långt som möjligt.
 
-adressen till den plats där arbetet ska utföras,
+I områden som normalt är avsedda för hamnarbete ska belysningsstyrkan uppgå till minst 20 lux på fria ytor utan skymmande föremål såsom järnvägsvagnar, containrar, gods eller dylikt. Inom 5 meter från kajkanten får dock den lägsta belysningsstyrkan gå ner till 5 lux om detta är nödvändigt för att hindra att sjöfarande bländas. Nedtrappningen från 20 lux ska i sådant fall ske inom en sträcka av högst 25 meter från kajkanten.
 
-arbetsmetoden,
+### 14 §
 
-arbetets omfattning,
+Arbetsgivaren ska se till att det finns lämpligt skydd mot nedstörtning av fordon på hamnområdet där andra motordrivna fordon än mopeder används. Detta gäller dock inte om det är uppenbart onödigt. Vid kajändar där motordrivna fordon kan förekomma ska det alltid finnas avkörningsskydd.
 
-vilken typ av asbesthaltigt material som ska hanteras,
+Avkörningsskydd vid kajkanten ska ha en höjd som är anpassad efter den typ av fordon som normalt används. De ska dock alltid vara minst 0,3 meter höga. Skydden ska vara varningsmarkerade och så utförda att de hindrar nedstörtning av motordrivna fordon som oavsiktligt körs eller glider mot dem.
 
-datum för arbetets början och slut,
+I hamnar eller hamnavsnitt som företrädesvis är avsedda för sådana fiskefartyg varifrån fångsten lossas manuellt gäller följande. Avkörningsskydd får vara lägre än 0,3 meter om godtagbar säkerhet mot nedstörtning av fordon ändå uppnås. De ska dock vara minst 0,1 meter höga.
 
-den beräknade mängden asbesthaltigt avfall,
+> _Allmänna råd_
+>
+> Det är lämpligt att avkörningsskydd konstrueras och placeras så att de inte hindrar tillträde till fartyg, arbete på kajen och vattenavrinning från kajen. Avkörningsskyddet får vara flyttbart.
+>
+> Godtagbar säkerhet kan uppnås till exempel genom att avståndet mellan avkörningsskyddet och kajkanten ökas när avkörningsskyddet sänks. För fordon med mindre hjul kan till exempel ett avstånd på 1 meter till kajkanten från avkörningsskyddet vara lämpligt om avkörningsskyddets höjd är 0,1 meter.
 
-vem som ska transportera bort avfallet, och
+### 15 §
 
-var avfallet slutligt ska tas omhand.
+Arbetsgivaren ska se till att det utmed kajer, bryggor, pirar eller motsvarande där hamnarbete utförs finns
 
-Till ansökan ska bifogas
+lämplig livräddningsutrustning med högst 200 meters mellanrum, och
 
-hanterings- och skyddsinstruktioner för arbetet,
+fasta kajstegar eller likvärdig möjlighet för den nödställde att ta sig upp ur vattnet med cirka 50 meters mellanrum.
 
-intyg om asbestutbildning för de som ska leda arbetet och för de som ska delta i arbetet,
+Fasta kajstegar eller motsvarande ska alltid nå minst 1 meter under vattenytan vid det vattenstånd som normalt förekommer i hamnen. På lämpliga platser inom olika hamnavsnitt ska det finnas livräddningsflottar eller livräddningsbåtar.
 
-intyg om sådana medicinska kontroller som avses i [44 §](/lagstiftning/afs-2023-13/kap-14#44) (tjänstbarhetsintyg) för de som ska delta i arbetet, och
+> _Allmänna råd_
+>
+> Exempel på lämplig livräddningsutrustning är stege med hakar och livräddningshake som är så långa att de når minst 1 meter under vattenytan samt livboj med cirka 25 meter lång lina. Livräddningsutrustning bör placeras strategiskt vid förtöjningslägen. Vid utplacering av livräddningsutrustning och livräddningsflotte eller livräddningsbåt är det viktigt att snabb användning respektive sjösättning inte hindras av till exempel uppställda järnvägsvagnar.
+>
+> Om kajen bakom en fast stege är målad i avvikande färg är det lättare för en nödställd person att upptäcka stegen. Det är lättare att upptäcka stegen när det är mörkt om kajen bakom den fasta stegen målas i fluorescerande färg. Den avgränsning av utrymmet mellan kaj och fartyg som kan uppstå vid användning av avbärare, kan föranleda behov av kajstegar i det avgränsade utrymmet.
+>
+> De fasta kajstegarnas skick bör kontrolleras efter varje vinter.
 
-ett yttrande över ansökan från arbetstagarnas skyddsombud alternativt arbetsmiljöombud eller, om sådant inte finns, yttrande från ett regionalt skyddsombud (arbetsmiljöombud).
+### 16 §
 
-(AFS 2025:6)
+Arbetsgivaren ska se till att det utefter kajer, bryggor, pirar eller motsvarande där tillträde till fartyg förekommer finns fästanordningar för skyddsnät till landgång med lämpliga mellanrum. Fästena ska vara placerade så att snubblingsrisk så långt möjligt undviks.
 
-### 11 § – Rivning eller sanering
+> _Allmänna råd_
+>
+> I de flesta fall är ett lämpligt mellanrum för fästpunkterna för landgångsnät cirka 2 meter.
 
-Den arbetsgivare vars arbetstagare ska utföra arbetet ska ansöka om tillstånd enligt [7 §](#7-tillstånd-för-rivning-eller-sanering) första stycket hos Arbetsmiljöverket.
+### 17 § – Organisation
 
-Ansökan ska innehålla
+Arbetsgivaren ska se till att det finns en signalman för varje lyftanordning där någon vistas inom lyftanordningens arbetsområde om inte uppsikt över lyftanordningens arbetsområde kan uppnås på annat sätt. Om det behövs ska det finnas flera signalmän för en lyftanordning.
 
-allmänna hanterings- och skyddsinstruktioner som anger hur rivnings- eller saneringsarbetet ska utföras för att förhindra ohälsa,
+Kopplade bommar räknas som en lyftanordning.
 
-intyg om asbestutbildning för de som ska leda och för de som ska delta i rivnings- eller saneringsarbetet,
+> _Allmänna råd_
+>
+> En signalman kan i vissa fall undvaras, till exempel om arbetet organiseras så att föraren av lyftanordningen kan ha betryggande uppsikt över riskområdet med hjälp av exempelvis fjärrmanövrering eller användning av kamera och monitor i kombination med att åtgärder vidtas så att ingen uppehåller sig i riskområdet. Behov av mer än en signalman kan uppstå till exempel om föraren av lyftanordningen inte kan se den plats där godset landas eller tas på kajen.
 
-intyg om sådana medicinska kontroller som avses i [44 §](/lagstiftning/afs-2023-13/kap-14#44) (tjänstbarhetsintyg) för de som ska delta i rivnings- eller saneringsarbetet, och
+### 18 §
 
-ett yttrande över ansökan från arbetstagarnas skyddsombud alternativt arbetsmiljöombud eller, om sådant inte finns, yttrande från ett regionalt skyddsombud (arbetsmiljöombud).
+Arbetsgivaren ska se till att det finns en hissvakt för varje hiss eller grupp av hissar som manövreras från samma manöverplats och på varje däck som betjänas av hissen,
 
-(AFS 2025:6)
+om inte motsvarande säkerhet kan uppnås ändå.
+
+> _Allmänna råd_
+>
+> Hissvakten kan i vissa fall ersättas, till exempel genom att trafikvakten avdelas för hissvaktens uppgift eller genom övervakning med kamera och monitor.
+
+### 19 §
+
+Arbetsgivaren ska se till att det finns en trafikvakt där det finns behov av att dirigera fordon eller varna vid förflyttning av fordon eller järnvägsvagnar.
+
+> _Allmänna råd_
+>
+> Dirigering av fordon kan behövas när fordonsförarna inte kan överblicka arbetsområdet och framföra fordonet säkert utan hjälp, till exempel om de backar eller om lasten på fordonet eller något annat skymmer sikten. Det kan vara till exempel på roro-ramper, ombord på fartyg, på trånga pirar, inne i magasin och på platser med korsande eller dubbelriktad trafik. Det kan också vara på en kaj eller ett plan om sikten är skymd.
+
+### 20 §
+
+Arbetsgivaren ska se till att signalmän, hissvakter och trafikvakter övervakar säkerheten inom sina arbetsområden och kontrollerar att deras instruktioner följs.
+
+Arbetsgivaren ska se till att signalmän, hissvakter och trafikvakter inte har större arbetsområden än att de kan övervaka dem och har tillgång till och använder den särskilda utrustning som behövs för att arbetet ska kunna utföras säkert.
+
+> _Allmänna råd_
+>
+> I en signalmans övervakning av säkerheten ingår normalt bland annat att
+>
+> uppmärksamt följa den aktuella lasthanteringen och i god tid varna för hängande last,
+>
+> placera sig väl synlig för föraren av lyftanordningen så att signalmannen själv är skyddad för eventuell fallande last och i möjligaste mån kan iaktta arbetets hela förlopp,
+>
+> dirigera förare av lyftanordning på ett säkert och överenskommet sätt,
+>
+> särskilt uppmärksamma slingning av gods och belastningsförhållanden i linor, stroppar, längor, bommar och liknande, och
+>
+> kontrollera att alla som är sysselsatta i stuveriverksamheten har lämnat fartyget efter slutfört arbete.
+>
+> I en hissvakts övervakning av säkerheten ingår normalt bland annat att fortlöpande se till
+>
+> att avkörningsskydd, avspärrningsanordningar och övriga säkerhetsanordningar för hissen fungerar,
+>
+> att obehöriga inte vistas inom arbetsområdet vid lasthanteringen,
+>
+> att lasten placeras på hissplanet så att detta inte snedbelastas eller lasten skjuter över hissplanets lastprofil, samt
+>
+> att personbefordran inte utförs om hissen inte är godkänd för personbefordran.
+>
+> I övervakning av säkerheten ingår normalt att trafikvakt bland annat
+>
+> uppmärksamt följer aktuell trafik och lasthantering,
+>
+> placerar sig väl synlig för fordonsförare och så att trafikvakten inte löper risk att bli påkörd, samt
+>
+> dirigerar fordonsförare på ett säkert och överenskommet sätt.
+
+### 21 §
+
+Arbetsgivaren ska se till att signalmän och trafikvakter, och i förekommande fall, hissvakter när de behövs under lyftrörelser och fordonsrörelser har sådan uppsikt att lyftrörelserna och fordonsrörelserna kan ske utan risk. Föraren ska kunna hålla kontakt med signalmännen och trafikvakterna under hela rörelsen. Om föraren förlorar denna kontakt ska rörelsen omedelbart stoppas.
+
+### 22 §
+
+Arbetsgivaren ska se till att en vinschoperatör eller kranförare manövrerar två eller fler vinschar eller kranar bara om manöverdonen är särskilt avsedda för detta och manövreringen även i övrigt kan ske utan risk.
+
+Vid samlyft där två eller flera vinschoperatörer eller kranförare ingår ska en lyftledare finnas.
+
+### 23 § – Tekniska anordningar
+
+Arbetsgivaren ska se till att fästen för lyftredskap på mobila maskiner, andra fordon, flyttbara ramper och liknande som ska användas vid lastnings- eller lossningsarbete på fartyg och som är avsedda att lyftas, kontrolleras i samband med det fortlöpande underhållet och kontrollen av arbetsutrustningen.
+
+### 24 §
+
+När en fjärrstyrd anordning inte används ska arbetsgivaren se till att huvudkontaktorn på fjärrstyrningsanordningens mottagare är frånslagen. Sändarna ska förvaras så att obehöriga inte kan komma åt dem.
+
+### 25 §
+
+Arbetsgivaren ska se till att fjärrstyrda anordningar manövreras från en plats där operatören kan överblicka rörelsen. Om operatören inte har uppsikt över rörelsen ska en signalman eller en trafikvakt användas.
+
+#### Olika arbetsmoment
+
+### 26 § – Allmänt
+
+Om lasten består av mobila maskiner eller andra fordon som ska köras vid lastning eller lossning ska arbetsgivaren se till att manöverfunktionerna kontrolleras innan arbetet påbörjas. Arbetsgivaren ska också se till att maskinen eller fordonet kan manövreras på ett säkert sätt.
+
+### 27 §
+
+Innan lyft- och transportrörelser utförs ska arbetsgivaren se till att is, sten och liknande avlägsnas för att hindra skada genom ras. Alternativt ska motsvarande säkerhet skapas genom att arbetet organiseras så att inga personer befinner sig i riskområdet.
+
+### 28 § – Uppläggning av gods med mera på kaj, hamnplan och liknande
+
+Arbetsgivaren ska se till att gods och liknande inte läggs upp så att tillträde till fartygen eller hanteringen av fartygens förtöjningar hindras eller försvåras. Godset får inte heller läggas upp så att det hindrar framkomlighet på kajen. Minst följande avstånd ska hållas mellan gods eller liknande och de anordningar som anges nedan:
+
+Kaj- och bryggkant: 1,5 meter.
+
+Järnvägsräl: 2,2 meter.
+
+Spårgående kran: 0,9 meter räknat från kranens bredaste del och upp till en höjd av 2,5 meter över mark eller motsvarande.
+
+Gods och liknande får dock läggas upp närmare kaj- och bryggkant än 1,5 meter om det läggs så nära kanten att det inte finns någon möjlighet att passera på utsidan.
+
+> _Allmänna råd_
+>
+> Det är viktigt att framkomligheten för utryckningsfordon och räddningsarbete inte hindras. Linjemarkering på underlaget underlättar uppställning av gods för kran- och truckförare.
+
+### 29 § – Arbete med luckor med mera
+
+Arbetsgivaren ska se till att en ansvarig person från fartyget utför eller övervakar allt arbete med patentluckor, portar, ramper, hängdäck och liknande maskinellt driven fartygsutrustning.
+
+En mekanisk spärranordning ska säkra utrustningen i öppet eller upphängt läge.
+
+> _Allmänna råd_
+>
+> Det är viktigt att patentluckor, ramper, klaffar och hängdäck inte manövreras när personer befinner sig på dem.
+
+### 30 §
+
+Arbetsgivaren ska se till att avtagna luckor och annan liknande fartygsutrustning
+
+är stabilt upplagda och tillräckligt säkrade,
+
+inte inkräktar på det utrymme en signalman behöver, och
+
+inte hindrar en sådan förflyttning ombord som är nödvändig.
+
+> _Allmänna råd_
+>
+> Avståndet mellan upplagda luckor och dylikt och lucköppningen bör vara minst 1 meter om så är möjligt.
+
+### 31 §
+
+Arbetsgivaren ska se till att inget annat arbete pågår i lastrummet under en öppen lucka samtidigt som man hanterar ramper, luckor och annan liknande fartygsutrustning och om- eller tillriggar lastbommar.
+
+Luckor och annan liknande fartygsutrustning, som inte är stabilt upplagda och tillräckligt säkrade, ska tas bort innan man utför något arbete i ett lastrum.
+
+### 32 §
+
+Vid manövrering av ramper, luckor och liknande ska arbetsgivaren se till att ingen befinner sig på dessa eller i riskområdet för klämning.
+
+### 33 §
+
+Arbetsgivaren ska se till att inget annat arbete pågår inom områden där det finns risk för att fordon oavsiktligt kan komma i rörelse eller inom riskområde för fallande föremål.
+
+### 34 § – Arbete med fordon, järnvägsvagnar med mera
+
+I ett slutet utrymme ska arbetsgivaren se till att eldrivna fordon används när det är möjligt. Vid användning av förbränningsmotordrivna fordon i slutet utrymme gäller följande:
+
+Fordon med förbränningsmotor får bara användas om åtgärder vidtas som säkerställer tillräcklig luftväxling.
+
+Onödig tomgångskörning får inte förekomma.
+
+Motorn ska stängas av om ett fordon lämnas obevakat.
+
+Fordonen som används ska vara så underhållna och utrustade samt köras på sådant bränsle att mängden farliga och besvärande avgaser blir så liten som möjligt.
+
+Bestämmelser om ventilation finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
+
+> _Allmänna råd_
+>
+> Slutna utrymmen kan vara lastrum, mellandäck, slutna roro-utrymmen, djuptankar, magasin, förråd, containrar, järnvägsvagnar eller liknande.
+>
+> Åtgärder som avses kan vara
+>
+> att ändra arbetsorganisation eller arbetsmetoder,
+>
+> att öppna täckluckor,
+>
+> att se till att ventilationsanordningar som hör till utrymmet hålls igång och är rätt inställda,
+>
+> att, om anordningarna är otillräckliga, komplettera dem eller ersätta dem med en särskild ventilationsanordning, till exempel en flyttbar inblåsningsfläkt med slang, och
+>
+> att se till att avgaserna direkt evakueras, till exempel genom en slang.
+
+### 35 §
+
+Vid uppställning eller koppling av fordon eller järnvägsvagnar ska arbetsgivaren se till att åtgärder vidtas så att de inte kan komma i oavsiktlig rullning.
+
+Vid förflyttning av påhängsvagnar och andra släpfordon med broms- och belysningssystem ska dessa system vara anslutna, om inte betryggande säkerhet beträffande bromsförmåga och synlighet ändå kan uppnås.
+
+### 36 § – Stuvning, stapling, sektionslastning och hantering av containrar och bulklast med mera
+
+Arbetsgivaren ska se till att fartygets trim eller slagsida vid lastning och lossning inte överstiger 2°. Undantag gäller vid
+
+enstaka, väl kontrollerade lyft,
+
+så kallat haveriarbete, och
+
+speciella arbeten där arbetsmetoden kräver större trim eller slagsida än 2°.
+
+### 37 §
+
+Arbetsgivaren ska se till att det finns säkra utrymningsleder och andra lämpliga anordningar för att skydda personer vid hantering av bulklast. Arbetsgivaren ska i synnerhet ta hänsyn till att en nödställd person ska kunna undsättas vid ras.
+
+Bestämmelser om utrymning finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
+
+Bestämmelser om skydd mot skada genom ras finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om skydd mot skada genom ras.
+
+Bestämmelser om arbete i lastutrymme finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om kompletterande bestämmelser för vissa riskfyllda arbeten i kombination med kemiska riskkällor.
+
+> _Allmänna råd_
+>
+> Utöver risk för ras och andra fysiska risker behöver arbetsgivare vara uppmärksamma på att vissa laster, till exempel järnskrot, flis, massaved och finfördelat kol, kan orsaka syrebrist.
+
+### 38 §
+
+Vid arbete på en lastbärare eller gods där det finns särskild risk för skada genom fall till lägre nivå ska arbetsgivaren vidta förebyggande åtgärder. Anordningar för skydd mot fall ska användas där det behövs.
+
+Bestämmelser om skydd mot skada genom fall finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om skydd mot skada genom fall.
+
+### 39 § – Arbete med mer än ett arbetslag i samma lucköppning eller lastrum
+
+Arbetsgivaren ska se till att utrymmet mellan arbetslagen är tillräckligt så att arbetet kan utföras säkert, när flera av varandra oberoende arbetslag arbetar samtidigt i samma lucköppning eller lastrum. Det fria utrymmet för varje arbetslag ska vara så stort att det i händelse av fara går snabbt att sätta sig i säkerhet och hantering av långt eller skrymmande gods inte inkräktar på annat arbetslags utrymme.
+
+> _Allmänna råd_
+>
+> Olika typer av last och olika utformning av fartyg kan innebära större eller mindre risk, till exempel om lasten förskjuts i sidled (kalvning) eller kommer i obalans på grund av att lyftsling har glidit. Därför är det viktigt att arbetet planeras så att avstånden mellan olika arbetslag är tillräckliga. Ibland kan det vara nödvändigt att begränsa antalet arbetslag som arbetar i samma lucköppning eller lastrum för att de ska få tillräckligt med utrymme.
+>
+> Om arbete utförs på olika nivåer kan risk finnas att gods eller annat faller ner på den lägre nivån om det inte är säkrat.
+
+### 40 § – Hantering av lastbärare
+
+Arbetsgivaren ska se till att containrar, påhängsvagnar, växelflak och andra lastbärare bara lyfts i lyftanordningar som har ett tillförlitligt lastindikeringsdon eller en tillförlitlig kranvåg i anslutning till lastkroken. Detta gäller dock inte om
+
+lastbärarens vikt framgår på något annat sätt,
+
+lastbärarens vikt har kunnat kontrolleras genom vägning före lyftet, eller
+
+lastbäraren konstaterats vara tom.
+
+### 41 §
+
+Arbetsgivaren ska se till att en överlastad eller snedlastad lastbärare bara lyfts från ett fartyg, ett fordon eller en järnvägsvagn till en kaj, en flakvagn eller motsvarande om särskilda försiktighetsåtgärder vidtas. I övriga fall får en överlastad eller snedlastad lastbärare inte lyftas.
+
+Efter lyftet får en överlastad eller snedlastad lastbärare inte användas igen utan att den har tömts på överlasten eller att snedlasten har åtgärdats. Samtidigt ska arbetsgivaren ha förvissat sig om att det inte finns några synliga fel som kan inverka på säkerheten vid den fortsatta hanteringen. En överlastad eller snedlastad lastbärare ska rapporteras till avsändaren.
+
+> _Allmänna råd_
+>
+> Särskilda försiktighetsåtgärder för att hantera en överlastad eller snedlastad lastbärare kan vara att
+>
+> delvis tömma lastbäraren,
+>
+> flytta över lasten till flak eller liknande med tillräcklig bärighet,
+>
+> spärra av riskområdet, eller avbryta annat arbete i närheten, eller
+>
+> iaktta särskilda anvisningar till exempel från brandmyndighet eller liknande om lastbäraren innehåller farligt gods.
+
+### 42 §
+
+Om en lastbärare lyfts med mer än en lyftanordning samtidigt ska arbetsgivaren se till att lyftanordningarna är kopplade till lyftredskapet via lastok eller liknande.
+
+#### Utrustning
+
+### 43 § – Personlig skyddsutrustning
+
+Arbetsgivaren ska se till att arbetstagarna använder skyddshjälm, varselklädsel och skyddsskor om det inte bedöms att det är uppenbart onödigt. Arbetsgivaren ska göra en skriftlig riskbedömning där det framgår vid vilken typ av arbete och inom vilket område användning av viss personlig skyddsutrustning inte behövs.
+
+En lämplig räddningsväst ska användas vid förtöjningsarbete och annat arbete där det finns särskild risk att falla i vattnet.
+
+Annan personlig skyddsutrustning ska användas när det behövs.
+
+Bestämmelser om personlig skyddsutrustning finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning, i kapitlet om användning av personlig skyddsutrustning.
+
+### 44 § – Förbandsmaterial, sjuktransport, livräddningsutrustning med mera
+
+Arbetsgivaren ska se till att personal och utrustning finns lätt tillgängliga för att rädda personer som befinner sig i fara och för transport av skadade.
+
+### 45 §
+
+När arbete pågår på ett fartyg eller på en annan arbetsplats som inte har direkt förbindelse med land, ska arbetsgivaren se till att följande finns tillgängligt:
+
+Lämplig båt för att föra iland skadad person.
+
+Utrustning för livräddning och första hjälpen.
 <!-- scan-laws:end -->
 
 ## Tolkning

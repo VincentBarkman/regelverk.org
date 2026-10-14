@@ -1,12 +1,11 @@
 <script lang="ts">
-	let { data }: { data: Record<string, unknown> } = $props();
+	let { json }: { json?: string } = $props();
 	const tag = $derived(
-		`<script type="application/ld+json">${JSON.stringify(data).replace(/</g, '\\u003c')}</` +
-			`script>`
+		json ? `<script type="application/ld+json">${json.replace(/</g, '\\u003c')}</` + `script>` : ''
 	);
 </script>
 
-<svelte:head>
+{#if tag}
 	<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 	{@html tag}
-</svelte:head>
+{/if}

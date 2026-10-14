@@ -179,64 +179,6 @@
 		{ label: title, href: canonicalUrl, url: canonicalUrl }
 	]);
 
-	const jsonLd = $derived.by(() => {
-		const meta = recordMeta;
-		const main =
-			entity === 'lagstiftning'
-				? {
-						'@type': 'Legislation',
-						name: title,
-						url: canonicalUrl,
-						inLanguage: lang,
-						...(typeof meta.legislationType === 'string' || typeof meta.type === 'string'
-							? {
-									legislationType: String(meta.legislationType ?? meta.type)
-								}
-							: {}),
-						...(typeof meta.jurisdiction === 'string'
-							? { legislationJurisdiction: meta.jurisdiction }
-							: {}),
-						...(meta.designation || meta.sfs || meta.celex
-							? {
-									legislationIdentifier: String(meta.designation ?? meta.sfs ?? meta.celex)
-								}
-							: {}),
-						...(parentRef
-							? {
-									isPartOf: {
-										'@type': 'Legislation',
-										name: parentRef.title ?? parentRef.id,
-										url: `https://${host}/${entity}/${parentRef.id.split('/').map(encodeURIComponent).join('/')}`
-									}
-								}
-							: {}),
-						...(description ? { description } : {})
-					}
-				: {
-						'@type': 'Article',
-						headline: title,
-						url: canonicalUrl,
-						inLanguage: lang,
-						...(description ? { description } : {}),
-						isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
-					};
-		return {
-			'@context': 'https://schema.org',
-			'@graph': [
-				main,
-				{
-					'@type': 'BreadcrumbList',
-					itemListElement: crumbs.map((c, i) => ({
-						'@type': 'ListItem',
-						position: i + 1,
-						name: c.label,
-						item: c.url
-					}))
-				}
-			]
-		};
-	});
-
 	const more = $derived(
 		(parentRef ? (parentRef.children ?? []) : group)
 			.filter((i) => i.id !== data.id)
@@ -281,7 +223,7 @@
 		description={description ?? SITE_BLURB[scope]()}
 		url={canonicalUrl}
 	/>
-	<LdJson data={jsonLd} />
+	<LdJson json={data.ldJson} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">

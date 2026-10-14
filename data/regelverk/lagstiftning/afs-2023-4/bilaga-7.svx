@@ -1,0 +1,105 @@
+---
+'source': 'afs-2023-4'
+'ref': 'Bilaga 7'
+'title': 'Bilaga 7'
+'kind': 'chapter'
+'description': 'Maskiner (AFS 2023:4), Bilaga 7.'
+'designation': 'AFS 2023:4 Bilaga 7'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Teknisk tillverkningsdokumentation för maskiner
+
+### A. Teknisk tillverkningsdokumentation för maskiner
+
+I denna del beskrivs det förfarande enligt vilket den tekniska tillverkningsdokumentationen ska sammanställas. Den tekniska tillverkningsdokumentationen ska visa att maskinen överensstämmer med kraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042). I den utsträckning det krävs för denna bedömning, ska den ange maskinens konstruktion, tillverkning och funktionssätt. Den tekniska tillverkningsdokumentationen ska sammanställas på ett eller flera av de officiella språken inom EES, utom för maskinens bruksanvisning, för vilka de särskilda bestämmelserna i bilaga 1, punkt 1.7.4.1 gäller.
+
+Den tekniska tillverkningsdokumentationen ska innehålla följande:
+
+Tillverkningsdokumentation omfattande
+
+en allmän beskrivning av maskinen,
+
+en helhetsritning över maskinen och ritningar över styrkretsarna samt nödvändiga relevanta beskrivningar och förklaringar för att det ska gå att förstå hur maskinen fungerar,
+
+sådana fullständiga detaljritningar med beräkningar, provningsresultat, intyg osv. som krävs för att kontrollera att maskinen uppfyller de grundläggande hälso- och säkerhetskraven,
+
+dokumentationen av riskbedömningen, som ska visa vilket förfarande som följts, inbegripet
+
+en förteckning över de grundläggande hälso- och säkerhetskrav som är tillämpliga på maskinen,
+
+beskrivning av de skyddsåtgärder som införts för att undanröja identifierade riskkällor eller minska risker och i tillämpliga fall uppgift om kvarstående risker förknippade med maskinen,
+
+de standarder och andra tekniska specifikationer som har använts, med angivande av de grundläggande hälso- och säkerhetskrav som omfattas av dessa standarder,
+
+de tekniska rapporter med resultat av de provningar som utförts av tillverkaren eller av ett av tillverkaren eller dennes representant utsett organ,
+
+ett exemplar av maskinens bruksanvisning,
+
+i tillämpliga fall försäkran för inbyggnad för ingående delvis fullbordad maskin samt relevanta monteringsanvisningar för dessa,
+
+i tillämpliga fall exemplar av EG-försäkran om maskiners eller andra inbyggda produkters överensstämmelse,
+
+en kopia av EG-försäkran om överensstämmelse.
+
+Vid serietillverkning, dokumentation som visar vilka interna åtgärder som kommer att vidtas för att säkerställa att maskinerna även fortsättningsvis överensstämmer med bestämmelserna i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042).
+
+Tillverkaren ska genomföra sådana undersökningar och provningar av komponenter, tillbehör eller maskinen som krävs för att fastställa huruvida den är konstruerad och tillverkad så att den kan monteras och tas i drift utan risk. Relevanta rapporter och resultat ska inkluderas i den tekniska tillverkningsdokumentationen.
+
+Den tekniska tillverkningsdokumentationen som avses i punkt 1 ska hållas tillgänglig för de behöriga myndigheterna i EES-länderna i minst tio år efter tillverkningsdagen för maskinen eller den senaste producerade enheten vid serietillverkning.
+
+Denna tekniska tillverkningsdokumentation behöver inte finnas på EES-ländernas territorium. Den behöver inte heller finnas materiellt tillgänglig permanent. Den ska dock kunna sammanställas och göras tillgänglig av den person som anges i EG-försäkran om överensstämmelse inom en tidsperiod som står i rimligt förhållande till hur komplicerad den är.
+
+Den tekniska tillverkningsdokumentationen behöver inte omfatta detaljuppgifter eller annan särskild information om de komponenter som använts vid tillverkningen av maskinen, såvida denna information inte är väsentlig för att bestyrka överensstämmelse med de grundläggande hälso- och säkerhetskraven.
+
+Underlåtenhet att tillhandahålla den tekniska tillverkningsdokumentationen på begäran av en behörig nationell myndighet kan utgöra tillräcklig grund för att ifrågasätta att maskinen uppfyller de grundläggande hälso- och säkerhetskraven.
+
+### B. Relevant teknisk dokumentation för delvis fullbordade maskiner
+
+I denna del beskrivs det förfarande enligt vilket den relevanta tekniska tillverkningsdokumentationen ska sammanställas. Av dokumentationen ska det framgå vilka av kraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042) som tillämpats och som har uppfyllts. Den ska omfatta konstruktion, tillverkning och funktionssätt för den delvis fullbordade maskinen, i den utsträckning som behövs för bedömning av överensstämmelse med de tillämpade grundläggande hälso- och säkerhetskraven. Dokumentationen ska sammanställas på ett eller flera av de officiella språken i EES.
+
+Den ska innehålla följande:
+
+En teknisk tillverkningsdokumentation omfattande
+
+en helhetsritning över den delvis fullbordade maskinen samt ritningar över styrkretsarna,
+
+sådana fullständiga detaljritningar med beräkningar, provningsresultat, intyg osv. som krävs för att kontrollera att den delvis fullbordade maskinen uppfyller de tillämpade grundläggande hälso- och säkerhetskraven,
+
+dokumentation av riskbedömning, som ska visa vilket förfarande som följts, inbegripet
+
+en förteckning över de grundläggande hälso- och säkerhetskrav som tillämpats och som har uppfyllts,
+
+beskrivning av de skyddsåtgärder som införts för att undanröja identifierade riskkällor eller minska risker och i tillämpliga fall uppgift om kvarstående risker,
+
+de standarder och andra tekniska specifikationer som har använts med angivande av de grundläggande säkerhets- och hälsokrav som omfattas av dessa standarder,
+
+de tekniska rapporter med resultat av de provningar som utförts av tillverkaren eller av ett av tillverkaren eller dennes representant utsett organ,
+
+ett exemplar av monteringsanvisningarna för den delvis fullbordade maskinen.
+
+Vid serietillverkning, dokumentation som visar vilka interna åtgärder som ska vidtas för att säkerställa att den delvis fullbordade maskinen även fortsättningsvis överensstämmer med tillämpade grundläggande hälso- och säkerhetskrav.
+
+Tillverkaren ska genomföra sådana undersökningar och provningar av komponenter, tillbehör eller den delvis fullbordade maskinen som krävs för att fastställa huruvida den är konstruerad och tillverkad så att den kan monteras och användas på ett säkert sätt. Relevanta rapporter och resultat ska inkluderas i den tekniska tillverkningsdokumentationen.
+
+Den relevanta tekniska tillverkningsdokumentationen ska vara tillgänglig i minst tio år efter tillverkningsdagen för de delvis fullbordade maskinerna eller den sista producerade enheten vid serietillverkning, och på begäran läggas fram för de behöriga myndigheterna i EES. Den behöver inte finnas på EES-ländernas territorium. Den behöver heller inte finnas materiellt tillgänglig permanent. Den ska kunna sammanställas och överlämnas till de berörda myndigheterna av den person som anges i försäkran för inbyggnad.
+
+Underlåtenhet att tillhandahålla den relevanta tekniska dokumentationen efter det att de behöriga nationella myndigheterna har begärt detta kan utgöra tillräcklig grund för att ifrågasätta den delvis fullbordade maskinens överensstämmelse med de grundläggande hälso- och säkerhetskrav som tillämpats och intygats.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

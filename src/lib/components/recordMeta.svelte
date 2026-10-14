@@ -188,7 +188,7 @@
 			{#each rows as r (r.label)}
 				{@const Icon = META_FIELD_ICON[r.key]}
 				<div class="flex items-baseline justify-between gap-x-4">
-					<dt class="flex shrink-0 items-center gap-1.5 text-primary/50">
+					<dt class="flex shrink-0 items-center gap-1.5 text-primary/60">
 						{#if Icon}
 							<Icon class="size-3.5" aria-hidden="true" />
 						{/if}
@@ -257,7 +257,7 @@
 												<dl class="mt-2 space-y-1 border-t border-primary/10 pt-2">
 													{#each detail as fact (fact.label)}
 														<div class="flex items-baseline justify-between gap-3 text-[11px]">
-															<dt class="shrink-0 text-primary/45">{fact.label}</dt>
+															<dt class="shrink-0 text-primary/60">{fact.label}</dt>
 															<dd class="text-right text-primary/75">{fact.value}</dd>
 														</div>
 													{/each}

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,547 +21,531 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
+#### Avdelning VII: Strålning
+
+### 12 – kap. Artificiell optisk strålning
+
+Stöd och verktyg: Artificiell optisk strålning
+
 ### 1 § – Då gäller föreskrifterna
 
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) reglerar all verksamhet där kemiska riskkällor hanteras.
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) reglerar inte kemiska riskkällor som
-
-finns i arbetsgivarens hushåll och som arbetstagaren inte exponeras för i någon arbetsuppgift, eller
-
-är allmänt tillgängliga och används av arbetstagaren för eget bruk vid disk, tvätt och städning i pentryn, lunchrum eller liknande.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) reglerar all verksamhet där arbetstagare utsätts för exponering för artificiell optisk strålning, som kan utgöra säkerhetsrisker eller hälsorisker för arbetstagares ögon och hud.
 
 ### 2 § – Vem föreskrifterna riktar sig till
 
-Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) följs.
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Den som bara är arbetsgivare i egenskap av uthyrare av arbetstagare, är endast skyldig att följa föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) när det gäller att se till att de uthyrda arbetstagarna inte påbörjar sitt arbete innan en undersökning och riskbedömning är gjord och nödvändiga riskbegränsande åtgärder har vidtagits.
-
-Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-7). Den som driver sådan verksamhet omfattas dock inte av bestämmelserna i [23 §](#23).
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-7). Den som driver sådan verksamhet omfattas dock inte av bestämmelserna i [10 §](#10).
 
 Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
 ### 3 § – Definitioner
 
-I [7](/lagstiftning/afs-2023-10/kap-7)–[10 kap.](/lagstiftning/afs-2023-10/kap-10) har följande begrepp dessa betydelser.
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-7) har följande begrepp dessa betydelser.
 
-Begrepp
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Artificiell optisk strålning</div></div></td><td><div><div>All optisk strålning som inte avges från solen.</div></div></td></tr><tr><td><div><div>Gränsvärden för exponering</div></div></td><td><div><div>Gränser för exponering för optisk strålning som grundar sig direkt på fastställd inverkan på hälsan och biologiska överväganden. Om dessa gränsvärden respekteras kommer det att säkerställa att arbetstagare som exponeras för artificiella optiska strålkällor skyddas mot alla kända negativa hälsoeffekter.</div></div></td></tr><tr><td><div><div>Icke-koherent strålning</div></div></td><td><div><div>All annan optisk strålning än laserstrålning.</div></div></td></tr><tr><td><div><div>Infraröd strålning; IR-strålning</div></div></td><td><div><div>Optisk strålning inom våglängdsområdet 780 nm–1 mm.</div></div><div><div>Det infraröda området indelas i IRA (780–1 400 nm), IRB (1 400–3 000 nm) och IRC (3 000 nm–1 mm).</div></div></td></tr><tr><td><div><div>Irradians (E) </div></div></td><td><div><div>Den infallande strålningens effekt per ytenhet, uttryckt i watt per kvadratmeter [W/m<sup>2</sup>]. </div></div></td></tr><tr><td><div><div>Laser</div></div></td><td><div><div>Anordning som kan fås att producera eller förstärka elektromagnetisk strålning inom våglängdsområdet för optisk strålning, framför allt genom processen med kontrollerad stimulerad emission.</div></div></td></tr><tr><td><div><div>Laserklass</div></div></td><td><div><div>Beteckning som anger hur riskfylld användningen av lasern är.</div></div></td></tr><tr><td><div><div>Laserstrålning</div></div></td><td><div><div>Optisk strålning från en laser.</div></div></td></tr><tr><td><div><div>Nivå</div></div></td><td><div><div>Den kombination av irradians, strålningsenergi och radians som en arbetstagare utsätts för.</div></div></td></tr><tr><td><div><div>Optisk strålning</div></div></td><td><div><div>Elektromagnetisk strålning inom våglängdsområdet 100&nbsp;nm–1&nbsp;mm; delas in i ultraviolett, synlig och infraröd strålning.</div></div></td></tr><tr><td><div><div>Radians (L)</div></div></td><td><div><div>Strålningsflödet eller uteffekten per rymdvinkelenhet per areaenhet uttryckt i watt per steradian per kvadratmeter [W/(m<sup>2</sup> · sr)].</div></div></td></tr><tr><td><div><div>Riskområde</div></div></td><td><div><div>Område inom vilket strålning kan överstiga maximalt tillåten exponering.</div></div></td></tr><tr><td><div><div>Synlig strålning</div></div></td><td><div><div>Elektromagnetisk strålning inom våglängdsområdet 380–780 nm.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3&nbsp;kap.&nbsp;12&nbsp;§ andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3&nbsp;kap.&nbsp;5&nbsp;§ arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten. </div></div></td></tr><tr><td><div><div>Ultraviolett strålning; UV-strålning</div></div></td><td><div><div>Elektromagnetisk strålning inom våglängdsområdet 100–400 nm.</div></div><div><div>Det ultravioletta området indelas i UVA (315–400 nm), UVB (280–315 nm) och UVC (100–280 nm).</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (16 rader)</label></div>
 
-Betydelse
+### 4 § – Undersökning och riskbedömning
 
-CLP-förordningen
+Vid undersökning och riskbedömning av exponering för artificiell optisk strålning ska arbetsgivaren särskilt uppmärksamma
 
-[Europaparlamentets och rådets förordning (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) av den 16 december 2008 om klassificering, märkning och förpackning av ämnen och blandningar, ändring och upphävande av direktiven 67/548/EEG och 1999/45/EG samt ändring av [förordning (EG) nr 1907/2006](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31907R2006).
+nivå, våglängdsområde och hur lång tid arbetstagarna exponeras för artificiell optisk strålning,
 
-Exponering för kemisk riskkälla
+de gränsvärden för exponering som avses i [5 §](#5-vem-föreskrifterna-riktar-sig-till),
 
-Att utsättas för kemisk riskkälla genom inandning, förtäring eller via kontakt med hud, slemhinnor eller ögon.
+information från tillverkarna av optiska strålkällor och därmed sammanhängande arbetsutrustning,
 
-Farlig kemisk produkt
+inverkan på hälsa och säkerhet för de arbetstagare som kan vara särskilt känsliga för artificiell optisk strålning,
 
-Kemiska ämnen eller blandningar eller explosiva föremål som medför fysikalisk fara eller hälsofara enligt kriterierna i [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP).
+inverkan på arbetstagarnas hälsa och säkerhet som följd av växelverkan på arbetsplatsen mellan artificiell optisk strålning och kemiska ämnen som påverkar strålningskänsligheten,
 
-Begreppet innefattar även kemiska ämnen och blandningar som uppfyller kriterierna ovan, men som inte släpps ut på marknaden.
+eventuella indirekta effekter, som tillfällig bländning, explosion eller eld,
 
-Begreppet innefattar alla gaser med minst 2 bar övertryck, inklusive tryckluft.
+förekomst av ersättningsutrustning som konstruerats för att minska exponeringen för artificiell optisk strålning,
 
-Farlig kemisk produkt omfattas alltid av begreppet kemisk riskkälla.
+betydelsefull information från hälsoundersökningar,
 
-Gas
+exponering för artificiell optisk strålning från flera källor,
 
-Kemiska ämnen och blandningar som är
+laserutrustningar med en klassificering definierad i enlighet med tillämplig IEC-standard, och
 
-fullständigt gasformiga vid 20 °C, vid ett normaltryck på 101,3 kPa, eller
+artificiella källor som kan orsaka skador liknande dem som orsakas av laserstrålning av klass 3B eller 4, eller motsvarande tillämpliga klassificeringar.
 
-är i flytande tillstånd med ett ångtryck på över 3 bar (300 kPa, absoluttryck) vid 50 °C, även kallad kondenserad gas.
+Arbetsgivaren ska även kartlägga de indirekta arbetsmiljörisker som kan uppkomma med anledning av laseranvändning. Denna riskbedömning ska särskilt uppmärksamma risken för
 
-Koldioxid i fast tillstånd.
+gasbildning,
 
-Hantering
+rökbildning,
 
-Tillverkning, bearbetning, behandling, rivning, förpackning, förvaring, lastning och lossning, transport, användning, omhändertagande, destruktion, konvertering och liknande förfaranden.
+explosion, och
 
-Hygieniskt gränsvärde
+brand.
 
-Gränsvärde för genomsnittshalt av en luftförorening i inandningsluften beräknat som ett tidsvägt medelvärde.
+> _Allmänna råd_
+>
+> Arbetstagare som kan vara särskilt känsliga för artificiell optisk strålning är personer med genetiskt mycket ljus hy och svag pigmentering. Andra riskfaktorer kan vara ärftligt melanom.
 
-Kemisk riskkälla
+### 5 §
 
-Kemiska ämnen och blandningar som kan medföra ohälsa eller olycksfall genom
+Exponeringen för artificiell optisk strålning får inte överskrida något av de gränsvärden som anges i bilagorna 8 och 9.
 
-sina hälsofarliga egenskaper,
+Om detta ändå sker ska arbetsgivaren
 
-sina egenskaper beroende på hur de används eller i vilken form de förekommer,
+vidta omedelbara åtgärder för att minska exponeringen så att den ligger under gränsvärdena,
 
-sin temperatur,
+utreda orsakerna till att gränsvärdena överskridits, och
 
-att minska syrgashalten i luften, eller
+vidta åtgärder så att gränsvärdena inte överskrids i fortsättningen.
 
-att öka risken för brand, explosion eller annan farlig kemisk reaktion.
-
-Kemiska ämnen och blandningar
-
-Kemiskt grundämne, eller när två eller flera grundämnen är en blandning eller en kemisk förening. Kemiska ämnen och blandningar kan ha utvunnits, bildats eller tillverkats.
-
-I begreppet ingår bland annat alla former av damm, kosmetiska produkter, hygieniska produkter, läkemedel, avfall, mögelsporer och kemiska ämnen som frisätts från mikroorganismer.
-
-Reach-förordningen
-
-[Europaparlamentets och rådets förordning (EG) nr 1907/2006](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31907R2006) av den 18 december 2006 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach), inrättande av en europeisk kemikaliemyndighet, ändring av [direktiv 1999/45/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0045) och upphävande av rådets förordning (EEG) nr 793/93 och [kommissionens förordning (EG) nr 1488/94](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31994R1488) samt rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG, 93/105/EG och 2000/21/EG.
-
-Sysselsatta
-
-Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:
-
-anställda arbetstagare, och
-
-inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
-
-I fråga om verksamhet utan anställda arbetstagare (jämför [3 kap. 5 §](/lagstiftning/arbetsmiljolagen/kap-3#5) arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:
-
-de personer som driver verksamheten, och
-
-inhyrd arbetskraft.
-
-Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.
-
-Visa hela tabellen
-
-### 4 § – Generella bestämmelser
-
-All dokumentation riktad till arbetstagarna om kemiska riskkällor ska vara
-
-skriven på svenska eller annat språk som hela personalen använder,
-
-överskådlig,
-
-lättläst, och
-
-tydlig.
-
-### 5 § – Undersökning och riskbedömning
-
-Arbetsgivaren ska undersöka om det hanteras eller bildas några kemiska riskkällor i verksamheten. Om så är fallet, ska arbetsgivaren se till att
-
-inget arbete påbörjas innan
-
-en riskbedömning är gjord,
-
-nödvändiga åtgärder vidtagits, och
-
-en ny undersökning och riskbedömning genomförs, om ny information om risker kommer fram.
-
-Förteckning och andra underlag som behövs för undersökning och riskbedömning
+Fastställande av exponering
 
 ### 6 §
 
-Arbetsgivaren ska förteckna de kemiska riskkällor som hanteras eller bildas i verksamheten och ange datum när förteckningen senast uppdaterades. För varje kemisk riskkälla ska det anges
+Arbetsgivaren ska bedöma den sammanlagda exponeringen för artificiell optisk strålning som arbetstagarna kan komma att utsättas för.
 
-namn,
+Om det finns risk för att arbetstagarna kan komma att utsättas för exponering av artificiell optisk strålning som överskrider de gränsvärden som avses i [5 §](#5-vem-föreskrifterna-riktar-sig-till), ska arbetsgivaren mäta eller beräkna dessa nivåer. Arbetsgivaren ska då tillämpa följande standarder eller andra standarder eller rekommendationer som harmoniserar med dessa:
 
-farliga egenskaper,
+International Electrotechnical Commission; Internationella elektriska kommitténs (IEC) standarder för laserstrålning,
 
-var den förvaras, används eller bildas,
+International Commission on Illumination – internationellt organ för standardisering inom belysningsområdet (CIE), och
 
-om det finns ett hygieniskt gränsvärde eller inte, och
+European Committee for Standardization; Europeiska standardiseringskommitténs (CEN) standarder och rekommendationer för icke-koherent strålning.
 
-vilka andra bestämmelser om arbetsmiljö som gäller specifikt för riskkällan.
+När det gäller exponering som inte omfattas av dessa standarder och rekommendationer ska mätning och beräkning genomföras i enlighet med tillgängliga vetenskapligt grundade riktlinjer.
 
-Riskkällans namn, enligt första stycket 1, får inte skilja sig från namnet som används vid märkning enligt [25 §](#25).
-
-> _Allmänna råd_
-
-> Andra bestämmelser om arbetsmiljö som gäller specifikt för riskkällan, kan vara krav gällande
-
-> allergiframkallande ämnen,
-
-> cancerframkallande ämnen,
-
-> mutagena ämnen,
-
-> reproduktionsstörande ämnen,
-
-> medicinska kontroller, eller
-
-> [förordningen (EG) nr 1907/2006](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31907R2006) (Reach).
+Beräkningarna av exponeringen för artificiell optisk strålning får baseras på uppgifter som tillverkarna av utrustningen har lämnat. Detta förutsätter att utrustningen uppfyller kraven i EU-direktiv eller standarder som harmoniserar med dessa.
 
 ### 7 §
 
-Vid riskbedömningen av de förtecknade kemiska riskkällorna ska arbetsgivaren använda information i
+Arbetsgivarens bedömning av exponeringen enligt [6 §](#6-definitioner) ska planeras i samråd med berörda arbetstagare och genomföras med lämpliga intervall.
 
-säkerhetsdatablad eller annat material som leverantören är skyldig att lämna, eller
+Resultatet av bedömningen, inbegripet resultatet av mätningar och beräkningar av exponeringsnivån, ska dokumenteras.
 
-andra underlag som behövs för riskbedömningen.
+### 8 § – Åtgärder
 
-> _Allmänna råd_
+Arbetsgivaren ska genomföra de åtgärder som är nödvändiga för att exponeringen inte ska överskrida gränsvärdena.
 
-> Andra underlag som kan behövas vid riskbedömningen är
+Risker som härrör från exponering för artificiell optisk strålning ska undanröjas eller reduceras till ett minimum. Detta med hänsyn tagen till den tekniska utvecklingen och möjligheten att minska en risk redan vid strålningskällan.
 
-> yrkeshygieniska mätningar,
+Om riskbedömningen visar att gränsvärdena för exponeringen kan komma att överskridas ska arbetsgivaren utarbeta en handlingsplan som innehåller tekniska eller organisatoriska åtgärder som förhindrar att exponeringen överskrider gränsvärdena.
 
-> statistik över ohälsa, olycksfall eller tillbud i verksamheten,
+När handlingsplanen utarbetas ska arbetsgivaren särskilt beakta
 
-> erfarenheter från medicinska kontroller, samt
+alternativa arbetsmetoder som minskar risker förenade med artificiell optisk strålning,
 
-> erfarenheter och kunskap från branschorganisationer.
+val av utrustning som minskar den artificiella optiska strålningen, med hänsyn tagen till det arbete som ska utföras,
 
-### 8 §
+tekniska åtgärder, som gör att den artificiella optiska strålningen kan minskas, inbegripet spärranordningar, avskärmning eller liknande åtgärder,
 
-Arbetsgivaren ska se till att undersökningen och riskbedömningen av kemiska riskkällor omfattar de moment och situationer som kan innebära risk för
+lämpliga program för underhåll av arbetsutrustning, arbetsplatser och arbetsställen,
 
-exponering via inandning, hud, ögon eller intag via mun,
+utformning och planering av arbetsplatser och arbetsställen,
 
-brand eller explosion,
+begränsning av den tid som exponeringen pågår och av exponeringens nivå,
 
-syrefattig miljö, och
+tillgång till effektiv personlig skyddsutrustning,
 
-att gas tillsammans med luft blir antändningsbar.
+instruktioner från tillverkaren av utrustningen, och
+
+behoven hos de arbetstagare som tillhör särskilt känsliga riskgrupper.
+
+Påbudskylt
 
 ### 9 §
 
-Arbetsgivaren ska, vid undersökningen och riskbedömningen av kemiska riskkällor, ta hänsyn till
+Om riskbedömningen visar att det behövs ska arbetsgivaren sätta upp lämpliga skyltar för att markera de områden där exponeringen för artificiell optisk strålning kan komma att överskrida gränsvärdena. Tillträdet till dessa områden ska begränsas där detta är tekniskt möjligt.
 
-vilka farliga egenskaper ämnet har,
+### 10 § – Kunskaper
 
-vilken mängd som finns på arbetsplatsen,
+Arbetsgivaren ska se till att arbetstagarna som utsätts för risker på grund av artificiell optisk strålning på arbetsplatsen, och skyddsombud, har all nödvändig information och utbildning som behövs med anledning av resultatet av riskbedömningen i [4 §](#4).
 
-vilka konsekvenser som exponeringen kan medföra,
+Informationen ska särskilt fokusera på
 
-exponeringsnivån,
+åtgärder som vidtas för att följa dessa föreskrifter,
 
-hur ofta och hur länge exponeringen pågår,
+gränsvärden för exponering och därmed sammanhängande potentiella risker,
 
-effekterna som de förebyggande åtgärderna medför,
+resultaten av de bedömningar, mätningar eller beräkningar av exponeringsnivåerna för artificiell optisk strålning som har gjorts i enlighet med [6 §](#6-definitioner), med en förklaring av deras innebörd och de potentiella risker de påvisar,
 
-reaktioner med andra kemiska riskkällor,
+möjligheterna att upptäcka exponeringens skadliga inverkan på hälsan och hur sådan ska rapporteras,
 
-samverkande effekter med andra kemiska riskkällor, och
+under vilka omständigheter som arbetstagarna har rätt till hälsokontroller,
 
-samverkande effekter med andra arbetsmiljörisker.
+säkra arbetsrutiner för att minimera riskerna i samband med exponering, och
 
-### 10 §
+korrekt användning av lämplig personlig skyddsutrustning.
 
-Arbetsgivaren ska bedöma om halten av kemiska riskkällor i luften är godtagbar i förhållande till de hygieniska gränsvärden som anges i bilaga 1 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljön. Om de hygieniska gränsvärdena överskrids, måste arbetsgivaren omedelbart vidta åtgärder.
+### 11 § – Läkarundersökning
 
-Vid bedömningen ska arbetsgivaren även ta hänsyn till
+Arbetsgivaren ska erbjuda arbetstagarna läkarundersökning om
 
-sammantagen risk för kemiska riskkällor,
+exponeringen för artificiell optisk strålning överskrider gränsvärdena som avses i [5 §](#5-vem-föreskrifterna-riktar-sig-till), eller
 
-fysiskt påfrestande arbete som ökar upptaget av ämnet,
+det vid en hälsoundersökning visat sig att en arbetstagare drabbats av en sjukdom eller skadlig inverkan på hälsan som en läkare eller annan sakkunnig inom företagshälsovården eller inom den övriga sjukvården anser beror på exponering för artificiell optisk strålning på arbetsplatsen.
 
-om ämnet kan tas upp via huden, och
+Arbetsgivaren ansvarar för att den som utför läkarundersökningen får tillgång till de resultat i riskbedömningen enligt [4 §](#4) som kan vara av betydelse för undersökningen.
 
-under vilka förutsättningar som halten bedöms vara godtagbar.
+### 12 § – Uppföljning
 
-Skälen till att halten av kemiska riskkällor i luften bedöms som godtagbar eller inte ska dokumenteras skriftligt.
+Arbetsgivaren ska ta del av läkarens bedömning vad gäller tecken på skador genom exponering för artificiell optisk strålning, så länge sekretess eller tystnadsplikt inte hindrar detta.
 
-### 11 §
+Om en arbetstagare har utsatts för exponering över gränsvärdena eller om denna har tecken på skador på grund av artificiell optisk strålning ska arbetsgivaren
 
-Arbetsgivaren ska se till att yrkeshygieniska mätningar genomförs, om man inte på annat sätt kan bedöma om halten av kemiska riskkällor i luften är godtagbar i förhållande till de hygieniska gränsvärden som anges i bilaga 1 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljön.
+revidera riskbedömningen,
 
-Om bedömningen visar att yrkeshygieniska mätningar inte behövs, ska skälen för detta dokumenteras skriftligt.
+revidera de åtgärder som vidtagits för att eliminera eller minska riskerna och i samband med detta vid behov anlita företagshälsovård eller motsvarande sakkunnig hjälp utifrån, och
 
-Dokumentera resultatet av riskbedömningen
+erbjuda medicinsk undersökning av övriga arbetstagare som exponerats på liknande sätt.
 
-### 12 §
+### 13 § – Arbete med laser
 
-Arbetsgivaren ska skriftligt dokumentera resultatet av riskbedömningen och vilka åtgärder man har valt. Av dokumentationen ska det framgå
+Arbetsgivaren ska, om lasrar används i verksamheten, se till att lasrarnas märkning och varningstexter är korrekta samt att skyddsutrustning finns att tillgå. Arbetsgivaren ska även informera arbetstagarna och kontrollera att de förstår
 
-vilka delar av verksamheten som ingått i undersökningen och riskbedömningen,
+vilken laserklass lasern tillhör,
 
-i vilka situationer exponeringen behöver minskas eller elimineras,
+vilka risker som är förenade med detta arbete, och
 
-vilka skyddsåtgärder som ska användas i olika situationer,
-
-förväntade effekter av planerade skyddsåtgärder,
-
-vilka åtgärder och vilken skadebegränsande utrustning som ska vara förberedda vid ett eventuellt olycksfall,
-
-vilka övriga åtgärder eller undersökningar som är beslutade, när de ska vara genomförda och vem som är ansvarig,
-
-vilka personer som deltagit i undersökningen och riskbedömningen,
-
-tidpunkt för nästa planerade undersökning och riskbedömning, samt
-
-vilket datum dokumentet skapades och vilken ansvarig person som har godkänt dokumentet.
-
-> _Allmänna råd_
-
-> Skadebegränsande utrustning och åtgärder kan vara brandsläckare, ögonspolning och utrymningsplan.
-
-### 13 § – Åtgärder
-
-Vid beslut om åtgärder ska arbetsgivaren utgå från riskbedömning eller mätning enligt [8](#8)–[11 §§](#11). Arbetsgivaren ska planera arbetet och vidta åtgärder enligt [12 §](#12), så att exponeringen för kemiska riskkällor blir så låg som möjligt under hela arbetsprocessen. Åtgärderna ska väljas i följande prioritetsordning:
-
-Eliminera risken.
-
-Byta till en annan kemisk riskkälla eller metod som medför mindre risk.
-
-Minimera exponeringen genom att använda ett slutet system eller liknande.
-
-Begränsa risken genom att välja de arbetsmetoder, processer eller tekniska anordningar som ger så låg exponering som möjligt.
-
-Använda processventilation eller andra tekniska skyddsåtgärder så nära källan som möjligt, för att begränsa spridningen.
-
-Organisera arbetet så att det utförs vid sådan tid och plats, att bara den personal som behövs för arbetet är närvarande.
-
-Använda personlig skyddsutrustning.
-
-Mängden av varje kemisk riskkälla ska begränsas till vad som behövs vid det enskilda arbetsmomentet, om risken för ohälsa eller olycksfall kan minskas genom denna åtgärd.
-
-Minska risker vid inandning
+vilka säkerhetsåtgärder som behövs.
 
 ### 14 §
 
-Arbetsgivaren ska vidta åtgärder för att ingen ska skadas av kemiska riskkällor genom inandning. Arbetsgivaren ska vidta åtgärder så att inandningsluften, så långt det är möjligt, är fri från damm, gas, rök och andra luftföroreningar.
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren utse en särskild person som ska övervaka lasersäkerheten på arbetsplatsen. Denna person ska vara väl förtrogen med det sätt på vilket laserutrustningen används, risker förknippade med dess användning och tillämpliga föreskrifter.
 
 ### 15 §
 
-Arbetsgivaren ska se till att rengöring och städning av ytor och golv utförs regelbundet och så att damm inte virvlar upp eller sprids.
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren bestämma riskområdet med hänsyn till reflexioner och användning av strålningssamlande optik. Riskområdet ska märkas ut med varningsskyltar.
+
+Riskområdet får bara beträdas av dem som behöver vara där för att arbeta med eller underhålla lasern, eller för att assistera vid laserarbetet. Riskområdet ska i första hand vara avspärrat och i andra hand, om avspärrning av praktiska skäl inte är lämpligt, vara övervakat.
 
 ### 16 §
 
-För att kontrollera om åtgärder för att minska halten luftföroreningar har haft avsedd effekt, det vill säga är godtagbar i förhållande till de hygieniska gränsvärden som anges i bilaga 1 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljö, ska arbetsgivaren se till att yrkeshygieniska mätningar genomförs.
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren se till att laserstrålens bana är inkapslad eller avskärmad. Inomhus ska strålbanan avslutas med ett strålstopp. Detta gäller dock inte för laser i medicinska tillämpningar.
 
-Mätningar enligt första stycket ska genomföras senast 3 månader efter att man vidtagit åtgärden. Mätningar behöver inte genomföras om det är uppenbart onödigt.
+Den arbetsgivare som bryter mot något eller några av kraven i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
 
-Minska risker för hud- och ögonkontakt eller intag via munnen
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
 
-### 17 §
-
-Arbetsgivaren ska vidta åtgärder för att ingen ska skadas av kemiska riskkällor genom hud- eller ögonkontakt eller intag via munnen. Arbetsgivaren ska se till att
-
-behållare och utrustning hålls rena utvändigt,
-
-ögonskydd används när det finns risk för stänk, frätande ångor eller annat som kan skada ögonen,
-
-arbets- och skyddskläder byts, om de förorenats med en kemisk riskkälla i en mängd som kan medföra en risk,
-
-skyddskläder tas av och händerna tvättas, innan man går in i lokaler där skyddskläder inte behövs, och
-
-mat eller dryck inte tillagas eller äts, tobaksvaror inte används, personliga tillhörigheter inte tas med och att kosmetika, för eget bruk, inte appliceras där en kemisk riskkälla kan orsaka ohälsa.
-
-Minska risker för brand, explosion och okontrollerade kemiska reaktioner
-
-### 18 §
-
-För att förebygga risk för brand och explosion, ska arbetsgivaren överväga följande åtgärder i prioritetsordning:
-
-Begränsa hanteringen av kemiska riskkällor som kan medföra att antändbara halter i luften bildas.
-
-Begränsa antändningskällor.
-
-Utforma arbetslokaler och tekniska anordningar så att risken för personskada minimeras.
-
-Bestämmelser om explosionsfarlig miljö finns i kapitlet om kompletterande bestämmelser för vissa riskfyllda arbeten i kombination med kemiska riskkällor. Bestämmelser om utrustning för explosionsfarlig miljö finns i Arbetsmiljöverkets föreskrifter (AFS 2023:7) om produkter – utrustning för potentiellt explosiva atmosfärer.
-
-> _Allmänna råd_
-
-> Bestämmelser om brandfarliga och explosiva varor finns i [lagen (2010:1011)](https://rkrattsbaser.gov.se/sfst?bet=2010%3A1011) om brandfarliga och explosiva varor och i [förordningen (2010:1075)](https://rkrattsbaser.gov.se/sfst?bet=2010%3A1075) om brandfarliga och explosiva varor samt i tillämpningsföreskrifter till dessa.
-
-### 19 §
-
-Där en kemisk riskkälla kan orsaka brand eller explosion ska arbetsgivaren se till att lämplig utrustning för brandsläckning och livräddning finns tillgänglig. Denna typ av utrustning ska även finnas där man förvarar kemiska riskkällor som vid brand kan utveckla farlig mängd gas eller aerosol.
-
-### 20 §
-
-Arbetsgivaren ska se till att kemiskt instabila ämnen och blandningar hanteras på ett sådant sätt, att man undviker okontrollerade kemiska reaktioner eller sönderdelning.
-
-Beredskapsplan
-
-### 21 §
-
-Om riskbedömningen visar att kemiska riskkällor kan orsaka olycksfall och nödsituationer som omedelbart måste åtgärdas, ska arbetsgivaren ta fram en beredskapsplan. Beredskapsplanen ska innehålla instruktioner om
-
-vid vilka olycksfall och händelser det krävs omedelbara åtgärder,
-
-vilka uppgifter särskilt utsedda personer har vid olycksfall och nödsituationer,
-
-vilka skadebegränsande åtgärder som omedelbart ska genomföras,
-
-vilken skyddsutrustning som behövs och var den finns,
-
-vilka varningssystem som finns och hur de fungerar,
-
-hur berörda arbetstagare ska informeras om olycksfall och nödsituationer,
-
-när utrymning ska ske, och
-
-var utrustning för första hjälpen finns.
-
-För att beredskapsplanen ska kunna följas vid olycksfall och nödsituationer ska arbetsgivaren genomföra övningar i tillräcklig omfattning.
-
-### 22 § – Kunskaper
-
-Arbetsgivaren ska utgå från riskbedömningen av kemiska riskkällor, när skriftliga hanterings- och skyddsinstruktioner tas fram.
-
-När det handlar om en enkel hantering, där riskerna lätt kan överblickas, behöver instruktionerna inte vara skriftliga.
-
-Arbetsgivaren ska också ta fram andra nödvändiga rutiner.
-
-> _Allmänna råd_
-
-> Andra nödvändiga rutiner kan gälla inköp.
-
-### 23 §
-
-Arbetsgivaren ska informera berörda arbetstagare om vilka hälso- och olycksfallsrisker som finns med de kemiska riskkällor som hanteras eller bildas och hur dessa risker ska förebyggas. När informationen tas fram, ska man använda
-
-förteckning över kemiska riskkällor,
-
-säkerhetsdatablad eller annan information från leverantör,
-
-dokumentationen av bedömningen av yrkeshygieniska mätningar,
-
-dokumentationen av resultatet av riskbedömningen och valet av åtgärder,
-
-beredskapsplanen,
-
-hanterings- och skyddsinstruktionerna,
-
-tillstånd med villkor för hantering, enligt [8 kap. 21](/lagstiftning/afs-2023-10/kap-8#21-förbud-och-krav-på-tillstånd)–[23 §§](/lagstiftning/afs-2023-10/kap-8#23), av de ämnen som anges i bilaga 6, och
-
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljö samt andra föreskrifter som gäller för arbetet.
-
-Arbetsgivaren ska se till att de dokument som nämns i första stycket finns tillgängliga för de berörda arbetstagarna.
-
-Arbetsgivaren ska informera arbetstagarna om deras skyldighet att meddela arbetsgivaren vid misstanke om att en kemisk riskkälla orsakat ohälsa, olycksfall eller tillbud.
-
-Arbetsgivaren ska försäkra sig om att arbetstagarna har förstått hanterings- och skyddsinstruktionerna samt övrig relevant information.
-
-### 24 § – Märkning
-
-Arbetsgivaren ska se till att behållare som innehåller kemiska riskkällor är märkta så att man kan identifiera innehållet och de risker som ämnet kan medföra.
-
-### 25 §
-
-Arbetsgivaren ska se till att behållare som innehåller farliga kemiska produkter är märkta enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) eller åtminstone med
-
-produktens namn,
-
-produktens faropiktogram och tilläggstext enligt tabell 3.1 och 3.2 nedan, och
-
-information om att produkten klassificeras som
-
-allergiframkallande,
-
-cancerframkallande,
-
-mutagen, eller
-
-reproduktionsstörande.
-
-Faropiktogram enligt CLP-förordningen
-
-Tabell 3.1 Fysikaliska faror Faropiktogram
-
-Tilläggstext
-
-Explosiv
-
-Brandfarlig
-
-Oxiderande
-
-Gas under tryck
-
-Visa hela tabellen
-
-Tabell 3.2 Hälsofaror Faropiktogram
-
-Tilläggstext
-
-Giftig
-
-Frätande
-
-Hälsofarlig
-
-Skadlig
-
-Visa hela tabellen
-
-Behållare i en teknisk anordning, där den farliga kemiska produkten behövs för anordningens funktion, behöver bara uppfylla kravet i [24 §](#24-märkning).
-
-Märkning kan begränsas till produktens namn eller utelämnas om man använder farliga kemiska produkter kortvarigt eller om innehållet ofta byts ut. Detta gäller bara om åtgärder vidtas så att risken för ohälsa eller olycksfall inte ökar.
-
-(AFS 2025:1)
-
-> _Allmänna råd_
-
-> Situationer där farliga kemiska produkter används kortvarigt eller ofta byts ut kan omfatta färg i ett målartråg eller hantering av provrör vid kromatografi.
-
-### 26 §
-
-Arbetsgivaren ska se till att rörledningar som innehåller kemiska riskkällor är märkta så att man kan identifiera innehållet och de risker som ämnet kan medföra.
-
-Rörledningar ska vara märkta med en pil som anger strömningsriktningen. Om strömningsriktningen växlar, ska rörledningen märkas med en pil i den aktuella strömningsriktningen eller med pilar i båda riktningarna.
-
-Rörledningar som inte innehåller kemiska riskkällor ska vara märkta, om det finns risk för felkoppling som kan leda till ohälsa eller olycksfall.
-
-### 27 §
-
-Utöver bestämmelserna i [26 §](#26) ska arbetsgivaren se till att synliga rörledningar som innehåller en farlig kemisk produkt är märkta med produktens faropiktogram enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP). En rörledning som används för flera produkter kan märkas med alla aktuella faropiktogram.
-
-Märkningar ska placeras väl synliga, med lämpliga mellanrum och nära farliga ställen där det finns risk för läckage, såsom ventiler och kopplingar.
-
-Om en eller flera rörledningar med farliga kemiska produkter inte är märkta enligt kravet i första stycket, ska arbetsgivaren betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
-
-För rörledningar som bara innehåller tryckluft utgår ingen sanktionsavgift om faropiktogram saknas.
-
-Lägsta avgiften är 15 000 kronor och högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
-
-Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
+Avgift = 40 000 kronor + (antalet sysselsatta – 1) × 721 kronor.
 
 Summan ska avrundas nedåt till närmaste hela hundratal.
 
-### 28 § – Skyltning
+### 17 §
 
-Arbetsgivaren ska sätta upp skyltar med relevanta faropiktogram vid områden, lokaler och inhägnader där farliga kemiska produkter lagras. Skyltar behövs inte om
+På arbetsplatser där laserklass 3B och 4 används ska arbetsgivaren se till att laserskyddsglasögon används om det finns risk för att ett oskyddat öga exponeras för laserstrålen. Glasögonen ska ha så hög optisk dämpning, vid de våglängder av laserstrålning som används vid det aktuella tillfället, att denna risk elimineras.
 
-behållarnas märkning kan läsas utifrån, eller
+Den arbetsgivare som låter en eller flera personer arbeta utan laserskyddsglasögon, trots att sådana ska användas enligt första stycket, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
 
-riskbedömningen visar att det inte behövs för säkerheten.
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
 
-### 29 §
+Avgift = 40 000 kronor + (antalet sysselsatta – 1) × 721 kronor.
 
-Arbetsgivaren ska sätta upp skyltar med förbud, påbud och varningar som gäller kemiska risker, om riskbedömningen visar att det behövs.
+Summan ska avrundas nedåt till närmaste hela hundratal.
 
-Bestämmelser om varningsskylt för gasflaskor finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning i kapitlet om trycksatta anordningar.
+### 13 – kap. Elektromagnetiska fält
 
-### 30 § – Förvaring
+Stöd och verktyg: Elektromagnetiska fält
 
-Vid förvaring av kemiska riskkällor ska arbetsgivaren se till att
+### 1 § – Då gäller föreskrifterna
 
-förvaringsutrymmen, vad gäller material, utformning och hållfasthet, är anpassade till de kemiska riskkällornas egenskaper,
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7), med undantag enligt [2 §](#2), reglerar all verksamhet där arbetstagare utför arbete som medför exponering för och förekomst av elektromagnetiska fält.
 
-förvaringsskåp och förråd inomhus har fläktstyrd ventilation, när hälsofarliga gaser eller ångor kan avges från behållarna, och
+### 2 §
 
-behållare förvaras åtskilda, om två eller flera kemiska riskkällor tillsammans kan ge upphov till ökade risker.
+Försvarsmakten får tillämpa likvärdiga eller mer specifika skyddssystem för arbetstagare som arbetar vid operativa militära anläggningar eller deltar i militär verksamhet, inklusive gemensamma internationella militära övningar, förutsatt att hälsoeffekter och säkerhetsrisker förebyggs.
 
-Behållare
+### 3 §
 
-### 31 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) omfattar alla kända direkta biofysiska effekter och indirekta effekter som orsakas av elektromagnetiska fält.
 
-Vid förvaring av behållare med kemiska riskkällor, ska arbetsgivaren se till att behållarna
+### 4 §
 
-är anpassade, vad gäller material, utformning och hållfasthet, till de kemiska riskkällornas egenskaper,
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) omfattar inte eventuella långsiktiga effekter av exponering för elektromagnetiska fält eller de risker som uppstår vid beröring av spänningssatta ledare.
 
-är förslutna när de inte används,
+### 5 § – Vem föreskrifterna riktar sig till
 
-kontrolleras, för att upptäcka läckage, och
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-har säkerhetsutrustning, när det behövs.
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-7).
 
-Kemiska riskkällor får inte förvaras i behållare som kan förväxlas, och därigenom orsaka ohälsa eller olycksfall.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 6 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-7) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Direkta biofysiska effekter</div></div></td><td><div><div>Effekter i kroppen som direkt orsakas av vistelse i ett elektromagnetiskt fält, bland annat följande:</div><ol><li><div><div>Termiska effekter, såsom uppvärmning av vävnad genom energiabsorption från elektromagnetiska fält i vävnaden.</div></div></li><li><div><div>Icke-termiska effekter, såsom stimulering av muskler, nerver och sinnesorgan. Dessa effekter kan inverka negativt på de exponerade arbetstagarnas mentala och fysiska hälsa. Dessutom kan stimulering av sinnesorgan förorsaka övergående symtom, såsom svindel eller fosfener. Dessa effekter kan skapa tillfällig irritation eller påverka kognitionen eller andra hjärn- eller muskelfunktioner och kan därmed påverka en arbetstagares förmåga att utföra sina arbetsuppgifter på ett säkert sätt.</div></div></li><li><div><div>Strömmar i extremiteter.</div></div></li></ol></div><div><div>Dessa effekter kan uppträda var för sig eller tillsammans.</div></div></td></tr><tr><td><div><div>Elektromagnetiska fält</div></div></td><td><div><div>Statiska elektriska, statiska magnetiska och tidsvarierande elektriska, magnetiska och elektromagnetiska fält med frekvenser upp till 300&nbsp;GHz.</div></div></td></tr><tr><td><div><div>Gränsvärden för exponering</div></div></td><td><div><div>Värden grundade på biofysiska och biologiska hänsynstaganden, särskilt på grundval av vetenskapligt välgrundade direkta, akuta och övergående effekter, det vill säga termiska effekter och elektrisk stimulering av vävnad.</div></div></td></tr><tr><td><div><div>Gränsvärden för hälsoeffekter</div></div></td><td><div><div>Värden för exponering över vilka arbetstagare kan utsättas för negativa hälsoeffekter, såsom termisk uppvärmning eller stimulering av nerv- eller muskelvävnad.</div></div></td></tr><tr><td><div><div>Gränsvärden för sensoriska effekter</div></div></td><td><div><div>Värden för exponering över vilka arbetstagare kan utsättas för övergående störningar i sensoriska förnimmelser och smärre förändringar i hjärnans funktioner.</div></div><div><div>I begreppet sensoriska förnimmelser ingår bland annat fosfener, yrsel, svindel och tillfällig irritation. </div></div></td></tr><tr><td><div><div>Indirekta effekter</div></div></td><td><div><div>Effekter som orsakas av att ett ämne eller föremål befinner sig i ett elektromagnetiskt fält, vilket kan orsaka en hälso- eller säkerhetsrisk, såsom</div><ol><li><div><div>påverkan på medicinsk elektronisk utrustning och anordning, inklusive pacemakrar och andra implantat eller medicinska enheter som bärs på kroppen,</div></div></li><li><div><div>projektilrisk på grund av ferromagnetiska föremål i statiska magnetiska fält,</div></div></li><li><div><div>initiering av elektroexplosiv apparatur (detonatorer),</div></div></li><li><div><div>eldsvådor eller explosioner till följd av antändning av brännbart material genom gnistor från inducerade fält, kontaktströmmar eller gnisturladdningar, eller</div></div></li><li><div><div>kontaktströmmar.</div></div></li></ol></div></td></tr><tr><td><div><div>Insatsnivåer</div></div></td><td><div><div>Operativa nivåer som fastställts för att förenkla påvisandet att relevanta gränsvärden för exponering iakttas eller, i förekommande fall, för att vidta relevanta skyddsåtgärder eller förebyggande åtgärder enligt kraven i detta kapitel.</div></div><div><div>För tidsvarierande elektriska fält avser låga och höga insatsnivåer de särskilda skyddsåtgärder eller förebyggande åtgärder som följer av kraven i detta kapitel.</div></div><div><div>För tidsvarierande magnetiska fält avser låga insatsnivåer gränsvärden för sensoriska effekter, och höga insatsnivåer avser gränsvärden för hälsoeffekter.</div></div></td></tr></tbody></table>
+
+### 7 § – Undersökning och riskbedömning
+
+Arbetsgivaren ska bedöma alla de risker för arbetstagarna, både direkta och indirekta, som uppstår på grund av elektromagnetiska fält på arbetsplatsen. Om det är nödvändigt ska arbetsgivaren mäta eller beräkna nivåerna på de elektromagnetiska fält som arbetstagarna exponeras för.
+
+### 8 §
+
+Vid genomförande av riskbedömningen ska arbetsgivaren särskilt vara uppmärksam på
+
+gränsvärden för hälsoeffekter och sensoriska effekter och insatsnivåer som anges i bilagorna 11–18,
+
+exponeringens frekvens, nivå, varaktighet och typ, inklusive fördelning över arbetstagarens kropp och på arbetsplatsen,
+
+alla direkta biofysiska effekter,
+
+alla indirekta effekter,
+
+alla effekter på hälsa och säkerhet för arbetstagarna som är särskilt utsatta, i synnerhet arbetstagare som har aktiva eller passiva medicinska enheter inopererade i kroppen, såsom pacemakrar, bär medicinska enheter på kroppen, såsom insulinpumpar, eller är gravida,
+
+ersättningsutrustning som är avsedd att minska exponeringsnivån för elektromagnetiska fält,
+
+adekvat information från de hälsokontroller som avses i [30 §](#30-hälsoundersökning),
+
+information från tillverkaren av utrustning,
+
+annan relevant hälso- och säkerhetsrelaterad information,
+
+flera exponeringskällor, och
+
+samtidig exponering för fält med multipla frekvenser.
+
+Gränsvärden och insatsnivåer för exponering
+
+### 9 §
+
+Fysikaliska storheter som ska användas för att beskriva exponering för elektromagnetiska fält anges i bilaga 10. Gränsvärden för hälsoeffekter och sensoriska effekter samt insatsnivåer anges i bilagorna 11–18.
+
+De gränsvärden för exponering som fastställs i bilagorna 11, 13 och 16 omfattar bara vetenskapligt vedertagna samband mellan kortsiktiga direkta biofysiska effekter och exponering för elektromagnetiska fält.
 
 > _Allmänna råd_
+>
+> De insatsnivåer som anges avser uppmätta eller beräknade värden på en arbetsplats i arbetstagarens frånvaro. Insatsnivåerna avser de maximala insatsnivåerna på det ställe på arbetsplatsen där arbetstagaren kommer att befinna sig när arbete utförs. Insatsnivåerna gäller även om bara exempelvis en arm eller ett ben exponeras.
 
-> Säkerhetsutrustning kan vara överfyllnadsskydd, nivåmätare, säkerhetsventil och kylanordning.
+### 10 §
 
-### 32 § – Avfall
+Arbetsgivaren ska se till att arbetstagarnas exponering för elektromagnetiska fält inte överskrider de gränsvärden som anges i bilagorna 11, 13 och 16.
 
-När kemiska riskkällor skickas som avfall, ska arbetsgivaren se till att avfallsmottagaren får relevant information, så att avfallet kan hanteras på ett säkert sätt.
+Arbetsgivaren ska bedöma exponeringen genom att använda de metoder som anges i [14](#14-exponeringsbedömning)–[16 §§](#16).
+
+Om arbetstagarna exponeras för elektromagnetiska fält som överskrider något av gränsvärdena i bilagorna 11, 13 och 16 ska arbetsgivaren omedelbart vidta åtgärder enligt [27 §](#27).
+
+### 11 §
+
+Arbetsgivaren ska anses efterleva gränsvärden för hälsoeffekter och sensoriska effekter om arbetsgivaren har visat att de relevanta insatsnivåerna, som anges i bilagorna 12, 14, 15, 17 och 18, inte överskrids.
+
+Om exponeringen överskrider de relevanta insatsnivåerna ska arbetsgivaren vidta åtgärder enligt [21 §](#21), om inte den bedömning som genomförts enligt [14](#14-exponeringsbedömning)–[16 §§](#16) visar att de relevanta gränsvärdena för exponering inte överskrids och att säkerhetsrisker kan uteslutas.
+
+### 12 §
+
+Trots vad som anges i [11 §](#11), får exponeringen överskrida följande nivåer:
+
+Låga insatsnivåer för elektriska fält (bilaga 14 tabell 27) om detta är motiverat av praxis eller processen, förutsatt att gränsvärden för sensoriska effekter (bilaga 13 tabell 26) inte överskrids, eller
+
+gränsvärden för hälsoeffekter (bilaga 13 tabell 26) inte överskrids,
+
+alltför kraftig gnisturladdning och kontaktström (bilaga 18 tabell 31) förebyggs genom särskilda skyddsåtgärder enligt [25 §](#25), och
+
+arbetstagarna har fått information med avseende på de situationer som avses i [29 §](#29-kunskaper) 6.
+
+Låga insatsnivåer för magnetiska fält (bilaga 15 tabell 28), om detta är motiverat av praxis eller processen, inbegripet i huvud och bål, under skiftet, förutsatt att gränsvärden för sensoriska effekter (bilaga 13 tabell 26) inte överskrids, eller
+
+gränsvärden för sensoriska effekter endast tillfälligt överskrids,
+
+gränsvärden för hälsoeffekter (bilaga 13 tabell 26) inte överskrids,
+
+åtgärder vidtas i enlighet med [28 §](#28) om det förekommer övergående symtom enligt [28 §](#28) 1, och
+
+arbetstagarna har fått information med avseende på de situationer som avses i [29 §](#29-kunskaper) 6.
+
+### 13 §
+
+Trots vad som anges i [10](#10)–[12 §§](#12) får exponeringen överskrida följande gränsvärden:
+
+Gränsvärden för sensoriska effekter (bilaga 11 tabell 24) under skiftet, om detta är motiverat av praxis eller processen, förutsatt att
+
+överskridandet bara är tillfälligt,
+
+gränsvärden för hälsoeffekter (bilaga 11 tabell 24) inte överskrids,
+
+särskilda skyddsåtgärder har vidtagits i enlighet med [26 §](#26),
+
+åtgärder vidtas i enlighet med [28 §](#28), om det förekommer övergående symtom enligt [28 §](#28) 2, och
+
+arbetstagarna har fått information med avseende på de situationer som avses i [29 §](#29-kunskaper) 6.
+
+Gränsvärden för sensoriska effekter (bilaga 13 tabell 26 och bilaga 16 tabell 29) under skiftet, om detta är motiverat av praxis eller processen, förutsatt att
+
+överskridandet bara är tillfälligt,
+
+gränsvärden för hälsoeffekter inte överskrids (bilaga 13 tabell 26 och bilaga 16 tabell 29),
+
+åtgärder vidtas i enlighet med [28 §](#28), om det förekommer övergående symtom enligt [28 §](#28) 1, och
+
+arbetstagarna har fått information med avseende på de situationer som avses i [29 §](#29-kunskaper) 6.
+
+### 14 § – Exponeringsbedömning
+
+Vid undersökning och bedömning enligt [7 §](#7-undersökning-och-riskbedömning) av elektromagnetiska fält på arbetsplatsen ska arbetsgivaren beakta Europeiska kommissionens vägledningar och andra relevanta normer, riktlinjer och exponeringsdatabaser.
+
+Arbetsgivaren har rätt att beakta exponeringsnivåer och andra säkerhetsrelaterade uppgifter, inklusive en riskbedömning, som tillverkaren eller distributören tillhandahåller för utrustningen i enlighet med gällande unionsrätt om dessa är tillämpliga med avseende på exponeringsförhållandena på arbetsplatsen eller installationsplatsen.
+
+> _Allmänna råd_
+>
+> Icke-bindande vägledning för god praxis vid tillämpningen av [direktiv 2013/35/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0035) om elektromagnetiska fält, Vägledning för små och medelstora företag, ISBN 978-92-79-45957-3 (tryck), ISBN 978-92-45963-4 (online), 2014.
+>
+> Icke-bindande vägledning till god praxis vid tillämpningen av [direktiv 2013/35/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0035) Elektromagnetiska fält, Volym 1: Praktisk vägledning, ISBN 978-92-79-45905-4 (PDF), 2014.
+>
+> Praktisk vägledning för god praxis vid tillämpningen av [direktiv 2013/35/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0035) Elektromagnetiska fält, Volym 2: Fallstudier, ISBN 978-92-79-45950-4, 2015.
+
+### 15 §
+
+Om efterlevnaden av gränsvärden för exponering inte kan fastställas på ett tillförlitligt sätt, på grundval av tillgänglig information enligt [14 §](#14-exponeringsbedömning), ska arbetsgivaren bedöma exponeringen genom mätningar eller beräkningar.
+
+I sådana fall ska arbetsgivaren vid bedömningen beakta osäkerheten vid dessa mätningar eller beräkningar, såsom numeriska fel, källmodellering, fantomgeometri samt vävnaders och materials elektriska egenskaper som fastställts i enlighet med relevant god praxis.
+
+### 16 §
+
+Arbetsgivaren ska se till att de bedömningar, mätningar och beräkningar som avses i [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15) planeras och genomförs i lämpliga intervall av behöriga instanser eller personer, med beaktande av Europeiska kommissionens vägledning.
+
+### 17 §
+
+En bedömning av exponeringen behöver inte genomföras på arbetsplatser som är öppna för allmänheten. Detta gäller förutsatt att
+
+en utvärdering redan har gjorts i enlighet med bestämmelserna om begränsning av allmänhetens exponering för elektromagnetiska fält,
+
+de begränsningar som specificeras i dessa bestämmelser beträffande arbetstagarna respekteras, och
+
+hälso- och säkerhetsrisker utesluts.
+
+> _Allmänna råd_
+>
+> Allmänt råd
+>
+> Bestämmelser om allmänhetens exponering finns i Strål-säkerhetsmyndighetens föreskrift med allmänna råd om exponering för elektromagnetiska fält.
+
+### 18 §
+
+När utrustning som är avsedd för användning av allmänheten används på det sätt som avses, och som är förenlig med unionsrätten på produktområdet där det fastställs striktare säkerhetsnivåer än de som anges i dessa föreskrifter och ingen annan utrustning används, ska villkoren i [17 §](#17) anses vara uppfyllda.
+
+### 19 §
+
+Om arbetsgivaren anser att riskerna med avseende på elektromagnetiska fält är av sådan art och omfattning att en ytterligare detaljerad riskbedömning är onödig, får arbetsgivaren dokumentera skälen skriftligt i riskbedömningen.
+
+Riskbedömningen ska uppdateras regelbundet, särskilt om viktiga förändringar har ägt rum som kan göra den inaktuell eller om resultatet av de hälsokontroller som avses i [30 §](#30-hälsoundersökning) visar att det är nödvändigt.
+
+### 20 § – Åtgärder
+
+Arbetsgivaren ska vidta nödvändiga åtgärder för att se till att risker som uppstår på grund av elektromagnetiska fält på arbetsplatsen elimineras eller minskas till ett minimum under beaktande av tekniska framsteg och möjligheten att kontrollera produktionen av elektromagnetiska fält vid källan.
+
+### 21 §
+
+När de relevanta insatsnivåerna i bilagorna 12, 14, 15, 17 och 18 överskrids ska arbetsgivaren på grundval av riskbedömningen enligt [7](#7-undersökning-och-riskbedömning) och [8 §§](#8) utarbeta och genomföra en handlingsplan som innehåller tekniska och organisatoriska åtgärder för att förebygga exponering som överskrider gränsvärden för hälsoeffekter och sensoriska effekter.
+
+Om riskbedömningen enligt [7](#7-undersökning-och-riskbedömning) och [8 §§](#8), visar att de relevanta gränsvärdena för exponering inte överskrids och att säkerhetsrisker kan uteslutas, behöver arbetsgivaren inte utarbeta och genomföra handlingsplanen enligt ovan.
+
+Vid utarbetandet och genomförandet av handlingsplanen ska särskilt beaktas
+
+alternativa arbetsmetoder som ger mindre exponering för elektromagnetiska fält,
+
+val av utrustning som ger upphov till mindre intensiva elektromagnetiska fält, dock med hänsyn till det arbete som ska utföras,
+
+tekniska åtgärder för att minska emissionen för elektromagnetiska fält, inbegripet användning av spärranordningar, avskärmning eller liknande hälsoskyddsmekanismer när så krävs,
+
+lämpliga avgränsnings- och tillträdesåtgärder, såsom signaler, märkningar, markeringar i golvet och barriärer, för att begränsa eller kontrollera tillträde,
+
+vid exponering för elektriska fält, åtgärder och förfaranden för att hantera gnisturladdningar och kontaktströmmar med hjälp av tekniska metoder och utbildning av arbetstagarna,
+
+lämpliga program för underhåll av arbetsutrustning, arbetsplatser och system för arbetsställen,
+
+utformning och planering av arbetsplatser och arbetsställen,
+
+begränsning av exponeringens varaktighet och intensitet, och
+
+tillgång till lämplig personlig skyddsutrustning.
+
+### 22 §
+
+På grundval av den riskbedömning som avses i [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15) ska arbetsgivaren utarbeta och genomföra en handlingsplan som ska innehålla tekniska och organisatoriska åtgärder för att förebygga alla kända risker för arbetstagare som är särskilt utsatta, och alla risker som förorsakas av de indirekta effekter som avses i [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15).
+
+### 23 §
+
+Utöver att tillhandahålla den information som anges enligt [29 §](#29-kunskaper), ska arbetsgivaren anpassa de åtgärder som avses i dessa föreskrifter till behoven hos arbetstagare som är särskilt utsatta samt, i förekommande fall, till individuella riskbedömningar.
+
+Detta gäller särskilt beträffande arbetstagare som har uppgivit att de har aktiva eller passiva medicinska enheter inopererade i kroppen, såsom pacemakrar, eller har medicinska enheter som bärs på kroppen, såsom insulinpumpar, eller beträffande gravida arbetstagare som har uppgivit för arbetsgivaren att de är gravida.
+
+### 24 §
+
+Med utgångspunkt i den riskbedömning som avses i [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15) ska arbetsgivaren se till att de arbetsplatser där arbetstagarna kan komma att utsättas för elektromagnetiska fält som överskrider insatsnivåerna markeras med lämpliga skyltar, se Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser, bilaga 3. De berörda områdena ska märkas och tillträde till dem begränsas på lämpligt sätt.
+
+Om tillträde till dessa områden av andra skäl är begränsat på lämpligt sätt och arbetstagarna har underrättats om riskerna som uppstår på grund av elektromagnetiska fält, ska ingen särskild skyltning eller begränsning av tillträdet krävas.
+
+### 25 §
+
+När [12 §](#12) är tillämplig ska arbetsgivaren se till att särskilda skyddsåtgärder vidtas, såsom utbildning av arbetstagarna enligt [29 §](#29-kunskaper) och användning av tekniska metoder och personligt skydd, till exempel jordning av arbetsobjekt, förbindning av arbetstagare och arbetsobjekt (potentialutjämning) och, om lämpligt, användning av isolerande skor, handskar och skyddskläder.
+
+### 26 §
+
+När [13 §](#13) är tillämplig ska arbetsgivaren se till att särskilda skyddsåtgärder, såsom styrning av rörelser, vidtas.
+
+### 27 §
+
+Arbetsgivaren ska se till att arbetstagarna inte utsätts för exponering som överskrider gränsvärden för hälsoeffekter och gränsvärden för sensoriska effekter, såvida inte villkoren enligt [12](#12), [13](#13) eller [31 §§](#31-undantag-för-magnetisk-resonanstomografi) är uppfyllda.
+
+Om gränsvärden för hälsoeffekter och sensoriska effekter har överskridits, trots de åtgärder som arbetsgivaren har vidtagit för att tillämpa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-7), ska arbetsgivaren omedelbart vidta ytterligare åtgärder så att exponeringen inte överskrider dessa gränsvärden.
+
+Arbetsgivaren ska fastställa och dokumentera orsakerna till att gränsvärden för hälsoeffekter och sensoriska effekter har överskridits och anpassa skyddsåtgärder och förebyggande åtgärder för att undvika att detta upprepas.
+
+### 28 §
+
+När [12](#12) och [13 §§](#13) är tillämpliga och om arbetstagaren har rapporterat övergående symtom, ska arbetsgivaren vid behov uppdatera riskbedömningen och de förebyggande åtgärderna. Övergående symtom kan inbegripa
+
+sensoriska förnimmelser och effekter på hur det centrala nervsystemet i huvudet fungerar, som framkallas av tidsvarierande magnetiska fält, och
+
+effekter som framkallas av statiska magnetfält, såsom svindel och illamående.
+
+### 29 § – Kunskaper
+
+Arbetsgivaren ska se till att de arbetstagare som sannolikt kan komma att utsättas för risker på grund av elektromagnetiska fält på arbetsplatsen, eller skyddsombud, får ta del av all nödvändig information och utbildning om resultatet av den riskbedömning som föreskrivs i [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15). Detta gäller särskilt
+
+åtgärder som vidtas för att tillämpa dessa föreskrifter,
+
+värdena och principerna om gränsvärden för exponering och insatsnivåer, de därmed sammanhängande eventuella riskerna och de förebyggande åtgärder som vidtas,
+
+eventuella indirekta effekter av exponeringen,
+
+resultaten av bedömningen, mätningen eller beräkningarna av exponeringsnivåerna för elektromagnetiska fält som genomförs i enlighet med [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15),
+
+hur exponeringens negativa hälsoeffekter upptäcks och hur de ska rapporteras,
+
+eventuella övergående symtom och sinnesförnimmelser som är förknippade med effekter på det centrala eller perifera nervsystemet,
+
+under vilka omständigheter som arbetstagarna har rätt till hälsoundersökning,
+
+säkra arbetsrutiner för att minimera riskerna i samband med exponering, och
+
+arbetstagare som är särskilt utsatta, som avses i [8 §](#8) [5](#5-vem-föreskrifterna-riktar-sig-till), [22](#22) och [23 §§](#23).
+
+### 30 § – Hälsoundersökning
+
+I syfte att förebygga och tidigt diagnostisera eventuella negativa hälsoeffekter orsakade av exponering för elektromagnetiska fält, ska arbetsgivaren se till att lämpliga hälsoundersökningar genomförs i enlighet med vetenskap och beprövad erfarenhet.
+
+Om en oönskad eller oväntad hälsoeffekt rapporteras av en arbetstagare, och under alla omständigheter om exponering som överskrider gränsvärden för exponering upptäcks, ska arbetsgivaren se till att den eller de berörda arbetstagarna genomgår en hälsoundersökning i enlighet med vetenskap och beprövad erfarenhet.
+
+> _Allmänna råd_
+>
+> Det saknas kända risker eller symtom vid exponering för elektromagnetiska fält under gränsvärdena. Vid sådan exponering finns ingen grund för hälsoundersökning. De gränsvärden som anges i bilagorna 11, 13 och 16 skyddar mot alla kända, akuta och övergående negativa hälsoeffekter hos arbetstagare som exponeras för elektromagnetiska fält. Dessa effekter orsakas av i kroppen inducerade elektriska fält och energiabsorption i form av värme.
+>
+> Hälsoundersökning vid exponering under gränsvärden kan vara motiverat för arbetstagare som är utsatta för särskilda risker från exponering för elektromagnetiska fält. Dessa är bland andra arbetstagare som är gravida och arbetstagare som har aktiva eller passiva inopererade medicinska enheter eller enheter som bärs på kroppen. Elektronisk utrustning i kroppsimplantat kan skadas av elektromagnetiska fält. Metalliska implantat kan ge kroppsskador genom upphettning. Ferromagnetiska implantat kan rubbas genom inverkan av statiska magnetfält. Arbetstagare som är utsatta för särskilda risker kan behöva rådgivning hos exempelvis företagshälsovården för att se till att arbetstagarna helt förstår eventuella restriktioner för dem i deras arbetsmiljö.
+
+### 31 § – Undantag för magnetisk resonanstomografi
+
+Genom undantag från [9](#9)–[13 §§](#13), men utan att det påverkar tillämpningen av [20 §](#20-åtgärder), får exponeringen överskrida gränsvärden om den sker i samband med installation, testning, användning, utveckling och underhåll av eller forskning om utrustning för magnetisk resonanstomografi (MRT) för patienter inom hälsovården, under förutsättning att samtliga följande villkor är uppfyllda:
+
+Den riskbedömning som har genomförts i enlighet med [7](#7-undersökning-och-riskbedömning), [14](#14-exponeringsbedömning) och [15 §§](#15) har visat att gränsvärden för exponering har överskridits.
+
+Alla tekniska eller organisatoriska åtgärder har tillämpats med hänsyn till den aktuella tekniska utvecklingsnivån.
+
+Överskridandet av gränsvärdena för exponering sker under vederbörligen motiverade omständigheter.
+
+Särdragen hos arbetsplatsen, arbetsutrustningen eller arbetspraxis har beaktats.
+
+Arbetsgivaren visar att arbetstagarna fortfarande är skyddade mot hälsoeffekter och säkerhetsrisker, bland annat genom att se till att den bruksanvisning som tillverkaren tillhandahåller följs.
 <!-- scan-laws:end -->
 
 ## Tolkning

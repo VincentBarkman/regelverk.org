@@ -1,0 +1,133 @@
+---
+'source': 'msbfs-2020-7'
+'ref': '3 kap.'
+'title': '3 kap. – 17 § – 22 §'
+'kind': 'chapter'
+'description': 'Säkerhetsåtgärder i informationssystem (MSBFS 2020:7), 3 kap..'
+'designation': 'MSBFS 2020:7 3 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'MSB'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.msb.se/siteassets/dokument/regler/forfattningar/msbfs-2020-7-foreskrifter-om-sakerhetsatgarder-i-informationssystem-for-statliga-myndigheter.pdf'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Bestämmelser
+
+### 17 §
+
+Myndigheten ska analysera innehållet i säkerhetsloggarna för att
+
+upptäcka och hantera incidenter och avvikelser. Säkerhetsloggarna ska
+1. möjliggöra utredning av intrång, tekniska fel och brister i säkerheten,
+2. utformas på ett sätt som möjliggör jämförbarhet mellan olika loggar,
+och
+3. vara tillgängliga för analys under fastställd bevarandetid.
+Myndigheten ska dokumentera hur säkerhetsloggarna ska användas samt var
+loggningsuppgifter hämtas och lagras, hur de skyddas och hur länge de ska
+bevaras.
+
+Allmänna råd
+
+En säkerhetslogg bör innehålla uppgift om vem eller vad som agerat, vad som har
+skett och vid vilken tidpunkt.
+För att skapa jämförbarhet bör myndigheten använda myndighetens tidstjänst för
+samtliga säkerhetsloggar.
+Säkerhetsloggar bör samlas i ett för ändamålet avsett informationssystem.
+
+### 18 §
+
+Myndigheten ska identifiera och hantera behovet av
+
+intrångsdetektering och intrångsskydd.
+
+Allmänna råd
+
+Behovet av intrångsdetektering och intrångsskydd bör bedömas för enskilda
+informationssystem och för myndighetens produktionsmiljö i sin helhet. Behovet bör
+även bedömas för myndighetens utvecklings- test- och utbildningsmiljö.
+
+### 19 §
+
+Myndigheten ska identifiera och hantera behovet av
+
+realtidsövervakning av informationssystem.
+
+(realtidsövervakning), [21 §](#21-skydd-av-utrustning) (skydd av utrustning), och 5 kapitlet [1 §](/lagstiftning/msbfs-2020-7/kap-1#1) ska
+
+vara införda senast den 1 oktober 2021.
+
+Myndigheten för samhällsskydd och beredskap
+
+DAN ELIASSON
+
+> _Allmänna råd_
+
+> Helena Andersson
+> (Avdelningen för cybersäkerhet och
+> säker kommunikation)
+
+Beställningsadress:
+Norstedts Juridik, 106 47 Stockholm
+Telefon: 08-598 191 90
+E-post: kundservice@nj.se
+Webbadress: www.nj.se/offentligapublikationer
+Beställningsnummer: 19120-07
+
+### 20 § – Skydd mot skadlig kod
+
+Myndigheten ska använda mjukvara som ger skydd mot skadlig kod.
+
+För informationssystem där sådan mjukvara inte finns tillgänglig ska andra
+åtgärder vidtas som ger motsvarande skydd.
+
+### 21 § – Skydd av utrustning
+
+Myndigheten ska skydda den utrustning som informationssystem
+
+består av mot skador och obehörig åtkomst, genom att
+1. placera centrala servrar och central nätverksutrustning i särskilda it-
+utrymmen,
+2. tilldela behörighet till särskilda it-utrymmen restriktivt,
+3. identifiera och hantera behovet av övervakning och larm i särskilda it-
+utrymmen,
+4. registrera tillträde till särskilda it-utrymmen på individnivå och spara
+dokumentationen under fastställd bevarandetid, och
+5. ha interna regler för hur mobil utrustning ska skyddas.
+
+### 22 § – Redundans och återställning
+
+Myndigheten ska, för att säkerställa tillgänglighet till information
+
+och informationssystem vid incidenter och avvikelser,
+1. ha interna regler för återställning av produktionsmiljön i sin helhet och
+för enskilda informationssystem,
+2. öva återställning av informationssystem som är centrala för
+myndighetens förmåga att utföra sitt uppdrag, och
+3. placera centrala servrar och central nätverksutrustning som skapar
+redundant funktion i olika särskilda it-utrymmen.
+
+Allmänna råd
+
+Övning av återställning bör ske regelbundet och utifrån identifierat behov av
+tillgänglighet.
+
+> _Allmänna råd_
+
+> För myndigheter med ett särskilt ansvar för
+> krisberedskapen
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

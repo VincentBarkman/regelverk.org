@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import {
 	existsSync,
 	mkdirSync,
@@ -97,6 +98,99 @@ function htmlToText(html) {
 		.split('\n')
 		.map((l) => l.replace(/\s+/g, ' ').trim())
 		.filter(Boolean)
+		.join('\n\n');
+}
+
+const IMG_DIR = 'src/lib/assets/scanned';
+const IMG_STATIC_DIR = 'static/scanned';
+
+function saveImage(slug, mimeExt, b64) {
+	const ext = mimeExt === 'svg+xml' ? 'svg' : mimeExt.toLowerCase().replace(/[^a-z0-9]/g, '');
+	const buf = Buffer.from(b64.replace(/\s/g, ''), 'base64');
+	const name = `${createHash('sha1').update(buf).digest('hex').slice(0, 12)}.${ext}`;
+	// enhanced-img only handles raster formats; svg goes to static
+	const dir = ext === 'svg' ? IMG_STATIC_DIR : IMG_DIR;
+	write(resolve(ROOT, dir, slug, name), buf);
+	return `/scanned/${slug}/${name}`;
+}
+
+const attrEsc = (s) => decodeEntities(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+
+function imgToTag(slug, tag) {
+	const src = tag.match(/\bsrc="([^"]*)"/)?.[1] ?? '';
+	let out = src;
+	const data = src.match(/^data:image\/([\w+.-]+);base64,([\s\S]*)$/);
+	if (data) out = saveImage(slug, data[1], data[2]);
+	else if (src.startsWith('/')) out = `https://www.av.se${src}`;
+	else if (!src) return '';
+	const alt = tag.match(/\balt="([^"]*)"/)?.[1] ?? '';
+	const w = tag.match(/\bwidth="([\d.]+)"/)?.[1];
+	const h = tag.match(/\bheight="([\d.]+)"/)?.[1];
+	return `<img src="${out}" alt="${attrEsc(alt)}"${w ? ` width="${Math.round(+w)}"` : ''}${h ? ` height="${Math.round(+h)}"` : ''}>`;
+}
+
+// like htmlToText, but keeps tables as raw html and decodes embedded images to
+// asset files. used for sources whose html carries real figures (av.se).
+function htmlToRich(html, slug) {
+	let s = html
+		.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/g, '')
+		.replace(/<button[\s\S]*?<\/button>/g, '')
+		.replace(/<div class="provision__table-overlay"><\/div>/g, '');
+	// footnote dialogs hold duplicated footnote text; tables live in sibling
+	// wrappers and must be kept
+	for (;;) {
+		const i = s.indexOf('class="footnote"');
+		if (i < 0) break;
+		const divStart = s.lastIndexOf('<div', i);
+		const end = divEnd(s, divStart + 4);
+		s = s.slice(0, divStart) + s.slice(end + '</div>'.length);
+	}
+	const blocks = [];
+	const stash = (html) => `\n\n{BLOCK${blocks.push(html) - 1}}\n\n`;
+	// escape literal &, < inside element text (e.g. "t < 10 s") so svelte
+	// doesn't parse them as markup; real tags are left alone
+	const escBlockText = (h) =>
+		h.replace(/&(?!(?:[a-z]+|#\d+|#x[0-9a-f]+);)/gi, '&amp;').replace(/<(?![a-z!/])/gi, '&lt;');
+	s = s.replace(/<math[\s\S]*?<\/math>/gi, (m) =>
+		stash(escBlockText(m.replace(/\s+/g, ' ').replace(/>\s+</g, '><')))
+	);
+	s = s.replace(/<table[\s\S]*?<\/table>/gi, (m) => {
+		let clean = m
+			.replace(/\s(?:class|style|id|data-[\w-]+)="[^"]*"/g, '')
+			// svelte forbids div inside p; source nests both ways in cells
+			.replace(/<(\/?)p(\s[^>]*)?>/gi, '<$1div>')
+			.replace(/<img[^>]*>/g, (t) => imgToTag(slug, t))
+			.replace(/\s(rowspan|colspan)=(\d+)/g, ' $1="$2"')
+			.replace(/\s+/g, ' ')
+			.replace(/>\s+</g, '><');
+		// svelte requires trs inside tbody/thead; wrap each contiguous run of
+		// rows in one tbody (not one per row) so nth-of-type selectors work
+		if (!/<t(?:head|body|foot)\b/i.test(clean))
+			clean = clean.replace(/(?:<tr[\s\S]*?<\/tr>)+/g, (run) => `<tbody>${run}</tbody>`);
+		clean = escBlockText(clean);
+		// long lookup tables (e.g. wavelength tables) collapse behind a checkbox
+		// toggle (browsers always hoist <summary> to the top of <details>, so a
+		// checkbox keeps the label under the table)
+		const rows = (clean.match(/<tr\b/gi) ?? []).length;
+		if (rows > 12) {
+			const cap = clean.match(/<caption[^>]*>([\s\S]*?)<\/caption>/i);
+			const label = cap
+				? cap[1]
+						.replace(/<[^>]+>/g, ' ')
+						.replace(/\s+/g, ' ')
+						.trim()
+				: `Tabell (${rows} rader)`;
+			if (cap) clean = clean.replace(cap[0], '');
+			const id = `tbl-${blocks.length}`;
+			clean = `<div class="scan-table"><input type="checkbox" id="${id}" class="scan-table-toggle"><div class="scan-table-content">${clean}</div><label for="${id}" class="scan-table-label">${label}</label></div>`;
+		}
+		return stash(clean);
+	});
+	s = s.replace(/<img[^>]*>/g, (t) => stash(imgToTag(slug, t)));
+	s = htmlToText(s);
+	return s
+		.split('\n\n')
+		.map((p) => p.replace(/^\{BLOCK(\d+)\}$/, (_, i) => blocks[+i]))
 		.join('\n\n');
 }
 
@@ -442,29 +536,42 @@ function divEnd(html, from) {
 	return html.length;
 }
 
-function parseAv(html) {
-	const start = html.indexOf('id="rules"');
-	const doc = start >= 0 ? html.slice(start) : html;
+function parseAv(html, lawSlug) {
+	// the föreskrift body sits in a .document div that spans chapters,
+	// transitional provisions and bilagor (#rules only covers the chapters)
+	const docStart = html.indexOf('class="document"');
+	const divFrom = docStart >= 0 ? html.lastIndexOf('<div', docStart) : 0;
+	const docEnd = docStart >= 0 ? divEnd(html, html.indexOf('>', docStart) + 1) : html.length;
+	const doc = html.slice(divFrom, docEnd);
+	const headingText = (s) =>
+		htmlToText(
+			s.replace(
+				/<button[\s\S]*?<\/button>|<div class="provision__dialog-wrapper">[\s\S]*?<\/div><\/div>/g,
+				''
+			)
+		)
+			.replace(/\s+/g, ' ')
+			.trim();
 	const events = [];
-	for (const m of doc.matchAll(/<h3[^>]*data-menu="true"[^>]*>([\s\S]*?)<\/h3>/g))
+	for (const m of doc.matchAll(/<h2[^>]*data-menu="true"[^>]*>([\s\S]*?)<\/h2>/g))
 		events.push({
 			pos: m.index,
-			kind: 'h3',
-			title: htmlToText(m[1]).replace(/\s+/g, ' ').trim(),
+			kind: 'h2',
+			title: headingText(m[1]),
 			bodyFrom: m.index + m[0].length
 		});
-	for (const m of doc.matchAll(/<h4[^>]*data-menu="true"[^>]*>([\s\S]*?)<\/h4>/g))
+	for (const m of doc.matchAll(/<h[34][^>]*data-menu="true"[^>]*>([\s\S]*?)<\/h[34]>/g))
 		events.push({
 			pos: m.index,
-			kind: 'h4',
-			title: htmlToText(m[1]).replace(/\s+/g, ' ').trim(),
+			kind: 'head',
+			title: headingText(m[1]),
 			bodyFrom: m.index + m[0].length
 		});
 	for (const m of doc.matchAll(/<span[^>]*class="section-sign"[^>]*>([\s\S]*?)<\/span>/g))
 		events.push({
 			pos: m.index,
 			kind: 'para',
-			label: htmlToText(m[1]).replace(/\s+/g, ' ').trim(),
+			label: headingText(m[1]),
 			bodyFrom: m.index + m[0].length
 		});
 	for (const m of doc.matchAll(/<div[^>]*class="general-recommendation"[^>]*>/g))
@@ -479,6 +586,7 @@ function parseAv(html) {
 	const groups = new Map();
 	let cur = null;
 	let pendingTitle = '';
+	let pendingSection = '';
 	const fallback = () => {
 		if (cur) return cur;
 		cur = {
@@ -496,47 +604,79 @@ function parseAv(html) {
 	const addRad = (e) => {
 		const p = fallback().provisions.at(-1);
 		if (!p) return;
-		const text = htmlToText(doc.slice(e.bodyFrom, e.bodyTo)).trim();
+		const text = htmlToRich(doc.slice(e.bodyFrom, e.bodyTo), lawSlug).trim();
 		if (!text) return;
-		p.body += `\n\n> _Allmänna råd_\n\n${text
+		p.body += `\n\n> _Allmänna råd_\n>\n${text
 			.split('\n\n')
 			.filter((para) => !/^Allmänna råd$/i.test(para))
-			.map((para) => `> ${para}`)
-			.join('\n\n')}`;
+			.map((para) =>
+				para
+					.split('\n')
+					.map((l) => `> ${l}`)
+					.join('\n')
+			)
+			.join('\n>\n')}`;
 	};
-	const hasParaBeforeHeading = (i) => {
-		for (let j = i + 1; j < events.length; j++) {
-			if (events[j].kind === 'h3' || events[j].kind === 'h4') return false;
-			if (events[j].kind === 'para') return true;
-		}
-		return false;
-	};
-	const nextHeading = (i) =>
-		events.slice(i + 1).find((e) => e.kind === 'h3' || e.kind === 'h4')?.pos ?? doc.length;
+	const nextPos = (i) => events[i + 1]?.pos ?? doc.length;
 	for (let i = 0; i < events.length; i++) {
 		const e = events[i];
-		if (e.kind === 'h3') {
+		const next = events[i + 1];
+		if (e.kind === 'h2') {
 			const kap = e.title.match(/^(\d+)\s*kap\.?\s*(.*)$/i);
-			const slug = kap ? `kap-${parseInt(kap[1], 10)}` : `avsnitt-${slugify(e.title) || 'bilaga'}`;
-			cur = groups.get(slug) ?? {
-				slug,
+			const bil = e.title.match(/^bilaga\s*(\d+)\s*(.*)$/i);
+			cur = {
+				slug: kap
+					? `kap-${parseInt(kap[1], 10)}`
+					: bil
+						? `bilaga-${parseInt(bil[1], 10)}`
+						: `avsnitt-${slugify(e.title.normalize('NFD').replace(/[̀-ͯ]/g, '')) || 'avsnitt'}`,
 				anchor: '',
-				num: kap ? `${parseInt(kap[1], 10)}` : `${groups.size + 1}`,
-				title: kap ? kap[2].trim() : e.title,
-				labelSv: kap ? `${parseInt(kap[1], 10)} kap.` : e.title,
-				labelEn: kap ? `Chapter ${parseInt(kap[1], 10)}` : e.title,
+				num: `${groups.size + 1}`,
+				title: (kap?.[2] ?? bil?.[2] ?? e.title).trim(),
+				labelSv: kap
+					? `${parseInt(kap[1], 10)} kap.`
+					: bil
+						? `Bilaga ${parseInt(bil[1], 10)}`
+						: e.title,
+				labelEn: kap
+					? `Chapter ${parseInt(kap[1], 10)}`
+					: bil
+						? `Annex ${parseInt(bil[1], 10)}`
+						: e.title,
 				provisions: []
 			};
-			groups.set(cur.slug, cur);
+			if (groups.has(cur.slug)) cur = groups.get(cur.slug);
+			else groups.set(cur.slug, cur);
+			pendingTitle = pendingSection = '';
+			// free text between the chapter heading and the first sub-event
+			const intro = htmlToRich(doc.slice(e.bodyFrom, nextPos(i)), lawSlug).trim();
+			if (intro)
+				cur.provisions.push({
+					label: cur.slug.startsWith('avsnitt-') ? cur.labelSv : 'Inledning',
+					labelEn: cur.slug.startsWith('avsnitt-') ? cur.labelEn : 'Introduction',
+					title: '',
+					anchor: '',
+					body: intro
+				});
 			continue;
 		}
-		if (e.kind === 'h4') {
-			if (hasParaBeforeHeading(i)) {
+		if (e.kind === 'head') {
+			if (next?.kind === 'para' || next?.kind === 'rad') {
 				pendingTitle = e.title;
-			} else {
-				const text = htmlToText(doc.slice(e.bodyFrom, nextHeading(i))).trim();
-				if (text) fallback().provisions.push({ label: e.title, title: '', anchor: '', body: text });
+				continue;
 			}
+			const text = htmlToRich(doc.slice(e.bodyFrom, nextPos(i)), lawSlug).trim();
+			if (text) {
+				const num = e.title.match(/^(\d+(?:\.\d+)*)\s*(.*)$/);
+				fallback().provisions.push({
+					label: num ? num[1] : e.title,
+					labelEn: num ? num[1] : e.title,
+					title: num ? num[2].trim() : '',
+					anchor: '',
+					section: pendingSection,
+					body: text
+				});
+			} else pendingSection = e.title;
 			continue;
 		}
 		if (e.kind === 'rad') {
@@ -547,7 +687,8 @@ function parseAv(html) {
 			label: e.label,
 			title: pendingTitle,
 			anchor: '',
-			body: htmlToText(doc.slice(e.bodyFrom, events[i + 1]?.pos ?? doc.length)).trim()
+			section: pendingSection,
+			body: htmlToRich(doc.slice(e.bodyFrom, nextPos(i)), lawSlug).trim()
 		});
 		pendingTitle = '';
 	}
@@ -677,8 +818,9 @@ function parsePdf(text) {
 		}
 		if (deep) {
 			if (prov) {
+				const alreadyRad = inRad;
 				radOpen();
-				prov.body += `\n\n${plain
+				prov.body += `${alreadyRad ? '\n>\n' : '\n\n'}${plain
 					.split('\n')
 					.map((l) => `> ${l}`)
 					.join('\n')}`;
@@ -690,6 +832,7 @@ function parsePdf(text) {
 			pendingTitle = plain;
 			continue;
 		}
+		inRad = false;
 		if (prov) prov.body += `\n\n${plain}`;
 	}
 	return [...groups.values()].filter((c) => c.provisions.length);
@@ -714,6 +857,12 @@ function autoGroups(chapters) {
 	};
 	for (const c of chapters) {
 		const n = c.provisions.length;
+		// bilagor are self-contained documents — never merge them into chapters
+		if (c.slug.startsWith('bilaga-')) {
+			close();
+			groups.push({ title: c.labelSv, slug: c.slug, sections: [c.slug] });
+			continue;
+		}
 		if (n >= 10) {
 			close();
 			groups.push({ title: c.title, sections: [c.slug] });
@@ -734,13 +883,14 @@ function applyGroups(chapters, groups) {
 	let n = 0;
 	for (const g of groups) {
 		n += 1;
+		const first = bySlug.get(g.sections?.[0]);
 		const merged = {
-			slug: `kap-${n}`,
+			slug: g.slug ?? `kap-${n}`,
 			anchor: '',
 			num: `${n}`,
 			title: g.title,
-			labelSv: `${n} kap.`,
-			labelEn: `Chapter ${n}`,
+			labelSv: g.slug ? (first?.labelSv ?? g.title) : `${n} kap.`,
+			labelEn: g.slug ? (first?.labelEn ?? g.title) : `Chapter ${n}`,
 			provisions: []
 		};
 		for (const s of g.sections ?? []) {
@@ -987,7 +1137,7 @@ async function scanLaw(law) {
 				if (isEu) {
 					chapters = parseEurlex(html, locale);
 					if (!chapters.length) chapters = parseCellarLegacy(html, locale);
-				} else if (fsSource === 'av') chapters = parseAv(html);
+				} else if (fsSource === 'av') chapters = parseAv(html, law.slug);
 				else if (fsSource) {
 					const pdf = await fetchFsText(law, url, html);
 					url = pdf.url;
@@ -1740,12 +1890,22 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 	);
 }
 
+const isHtmlBlock = (p) => /^<(table|img|math|details|div)\b/i.test(p.trim());
+// source text may contain literal & and < (e.g. "< 11 mrad"); escape them so
+// the emitted svx doesn't get parsed as markup by svelte/markdown. > is left
+// alone — it is harmless in text and is needed for blockquote markers
+const escMd = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
 function formatLists(body) {
 	const paras = body.split('\n\n');
 	const out = [];
 	for (let i = 0; i < paras.length; i++) {
 		const t = paras[i].trim();
 		const prev = out.at(-1)?.trim() ?? '';
+		if (isHtmlBlock(t) || isHtmlBlock(prev)) {
+			out.push(paras[i]);
+			continue;
+		}
 		if (
 			(/^(?:\(\d{4}:\d+\)|§)/.test(t) ||
 				(/^(?:\((?:EU|EG|EC|EUG)\)\s*)?(?:(?:nr|no)\s*)?\d+\/\d+/i.test(t) &&
@@ -1784,6 +1944,7 @@ function markStatusLines(body) {
 		.split('\n\n')
 		.map((p) => {
 			let t = p.trim();
+			if (isHtmlBlock(t)) return p;
 			if (!/upphävts|upphör att gälla|träder i kraft|ikraftträd/i.test(t)) return p;
 			t = t
 				.replace(/^\/+|\/+$/g, '')
@@ -1799,22 +1960,23 @@ function chapterBlock(law, c, chapters, locale) {
 	let lastSection = null;
 	for (const p of c.provisions) {
 		if (p.section && p.section !== lastSection) {
-			parts.push(`#### ${p.section}`);
+			parts.push(`#### ${escMd(p.section)}`);
 			lastSection = p.section;
 		}
 		const heading = provHeading(p, locale);
+		const linkify = (s) =>
+			linkifyRefs(escMd(s), law, chapters, c.slug, slugifyText(heading), locale);
+		const escHeading = escMd(heading);
 		const body = formatEndmatter(
-			linkifyRefs(
-				formatLists(p.body),
-				law,
-				chapters,
-				c.slug,
-				slugifyText(provHeading(p, locale)),
-				locale
-			),
+			formatLists(p.body)
+				.split(
+					/(<div class="scan-table">[\s\S]*?<\/label><\/div>|<details[\s\S]*?<\/details>|<table[\s\S]*?<\/table>|<math[\s\S]*?<\/math>|<img\b[^>]*>)/g
+				)
+				.map((seg, i) => (i % 2 ? seg : linkify(seg)))
+				.join(''),
 			locale
 		);
-		parts.push(`### ${heading}\n\n${locale === 'sv' ? markStatusLines(body) : body}`);
+		parts.push(`### ${escHeading}\n\n${locale === 'sv' ? markStatusLines(body) : body}`);
 	}
 	return `${MARK_START}\n## ${lawHeading(locale)}\n\n${parts.join('\n\n')}\n${MARK_END}`;
 }

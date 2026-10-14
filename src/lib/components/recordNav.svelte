@@ -81,7 +81,7 @@
 												aria-expanded={subOpen(i)}
 												aria-label={i.title ?? i.id}
 												onclick={() => (openSubs[i.id] = !subOpen(i))}
-												class="mr-0.5 -ml-1 shrink-0 rounded-sm p-0.5 text-primary/50 hover:text-primary"
+												class="mr-0.5 -ml-1 flex size-6 shrink-0 items-center justify-center rounded-sm text-primary/60 hover:text-primary"
 											>
 												<RiArrowRightSLine
 													class="size-3 transition-transform {subOpen(i) ? 'rotate-90' : ''}"
@@ -102,7 +102,7 @@
 														: undefined,
 												tag: ENTITY_LABEL[g.entity]()
 											}}
-											class="block min-w-0 flex-1 truncate hover:text-primary {isCurrent
+											class="block min-w-0 flex-1 truncate py-1 hover:text-primary {isCurrent
 												? 'font-medium text-primary'
 												: 'text-primary/60'}"
 										>
@@ -110,7 +110,7 @@
 										</RecordLink>
 									</div>
 									{#if i.children?.length && subOpen(i)}
-										<ul class="mt-1.5 ml-1 flex flex-col gap-1.5 border-l border-primary/10 pl-3">
+										<ul class="mt-1 ml-1 flex flex-col gap-0.5 border-l border-primary/10 pl-3">
 											{#each i.children as c (c.id)}
 												{@render navItem(c)}
 											{/each}
@@ -118,9 +118,7 @@
 									{/if}
 								</li>
 							{/snippet}
-							<ul
-								class="mt-1.5 ml-1.5 flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs"
-							>
+							<ul class="mt-1 ml-1.5 flex flex-col gap-0.5 border-l border-primary/10 pl-3 text-xs">
 								{#each g.items as i (i.id)}
 									{@render navItem(i)}
 								{/each}
@@ -132,7 +130,7 @@
 				{#if pageHref}
 					<!-- eslint-disable svelte/no-navigation-without-resolve -->
 					<Separator class="mt-4 bg-primary/10" />
-					<ul class="mt-3 flex flex-col gap-1.5 pl-3 text-xs">
+					<ul class="mt-3 flex flex-col gap-0.5 pl-3 text-xs">
 						{#each PAGE_LINKS as p (p.slug)}
 							{@const Icon = p.icon}
 							{@const isCurrent = p.slug === currentId}
@@ -146,7 +144,7 @@
 								<a
 									href={pageHref(p.slug)}
 									title={p.label()}
-									class="flex items-center gap-1.5 text-primary/60 hover:text-primary"
+									class="flex min-h-6 items-center gap-1.5 py-1 text-primary/60 hover:text-primary"
 									><Icon class="size-3.5 shrink-0" aria-hidden="true" /><span class="truncate"
 										>{p.label()}</span
 									></a

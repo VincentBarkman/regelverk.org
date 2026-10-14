@@ -1,0 +1,193 @@
+---
+'source': 'afs-2023-11'
+'ref': 'Bilaga 7'
+'title': 'Bilaga 7 – Återkommande kontroll av trycksatta anordningar'
+'kind': 'chapter'
+'description': 'Arbetsutrustning och personlig skyddsutrustning (AFS 2023:11), Bilaga 7.'
+'designation': 'AFS 2023:11 Bilaga 7'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### 1. Driftprov av trycksatta anordningar i klass A eller B
+
+### 1.1 – Allmänt
+
+Vid driftprov ska kontrollorganet utföra en funktionskontroll av säkerhetsutrustningen samt en systemkontroll.
+
+Vid driftprov av trycksatta anordningar, som omfattas av ett program för riskanpassad kontroll av trycksatta anordningars skick, ska kontrollorganet utföra en funktionskontroll av säkerhetsutrustningen.
+
+### 1.2 – Funktionskontroll av säkerhetsutrustning
+
+Vid en funktionskontroll av säkerhetsutrustning ska kontrollorganet kontrollera, om den säkerhetsutrustning som fanns vid föregående kontroll, finns kvar och fungerar. Dessutom ska kontrollorganet undersöka säkerhetsutrustningen invändigt, om kontrollorganet har bedömt att utrustningen kan ha påverkats negativt av de fluider, som utrustningen kommit i kontakt med.
+
+Om en säkerhetsutrustning skyddar flera trycksatta anordningar i klass A eller B, behöver den bara kontrolleras vid driftprov av den av anordningarna, som har det kortaste intervallet mellan driftproven.
+
+### 1.3 – Systemkontroll
+
+Systemkontrollerna ska ligga till grund för bedömningen av om anordningen kan användas på ett säkert sätt, tillsammans med andra trycksatta anordningar eller maskiner som den påverkar och påverkas av.
+
+Kontrollorganet ska kontrollera om
+
+den trycksatta anordningen påverkas av vibrationer, utmattningslaster eller andra belastningar, som kan vara skadliga och som man inte tog hänsyn till när den togs i bruk,
+
+det förekommer läckage som har betydelse för säkerheten, och
+
+det uppstått omständigheter som kräver revisionskontroll enligt [10 kap. 20 §](/lagstiftning/afs-2023-11/kap-10#20-revisionskontroll).
+
+Vid kontrollen enligt 1–3 ska kontrollorganet ta hänsyn till brister, som dokumenterats vid arbetsgivarens fortlöpande tillsyn.
+
+När driftprovet inte utförs i kombination med en in- och utvändig undersökning, kan kontrollorganet göra systemkontrollen genom att granska rutinerna för och dokumentationen av den fortlöpande tillsynen, förutsatt att den är tillräcklig för att göra bedömningen enligt [10 kap. 21 §](/lagstiftning/afs-2023-11/kap-10#21).
+
+### 1.4 – Intervall mellan driftprov
+
+1.4.1 Grundintervall
+
+Grundintervall för driftprov anges i nedanstående tabell.
+
+<table><caption>Tabell 12. Typ av anordning – intervall för driftprov </caption><tbody><tr><th><div><div>Typ av anordning</div></div></th><th><div><div>Intervall</div></div></th></tr><tr><td><div><div>Tryckkärl och vakuumkärl som ingår i en kyl- eller värmepumpanläggning</div></div></td><td><div><div>1&nbsp;år</div></div></td></tr><tr><td><div><div>Tryckkärl och vakuumkärl som helt ska fyllas eller ska, enligt 9 kap. 26&nbsp;§, betraktas som om de helt fyllts med luft, kvävgas eller ädelgas i fluidgrupp 2a</div></div></td><td><div><div>4&nbsp;år</div></div></td></tr><tr><td><div><div>Tryckkärl och vakuumkärl som är vakuumisolerade och innehåller kondenserad syre, kväve, argon eller koldioxid</div></div></td><td><div><div>4&nbsp;år</div></div></td></tr><tr><td><div><div>Tryckkärl och vakuumkärl som används för lagring av gasol</div></div></td><td><div><div>4&nbsp;år</div></div></td></tr><tr><td><div><div>Tryckkärl och vakuumkärl som innehåller fluider i vätskefas och där utrustningen är avsedd att skydda enbart mot termisk expansion</div></div></td><td><div><div>4&nbsp;år</div></div></td></tr><tr><td><div><div>Övriga tryckkärl och vakuumkärl</div></div></td><td><div><div>2&nbsp;år</div></div></td></tr><tr><td><div><div>Cistern</div></div></td><td><div><div>3&nbsp;år</div></div></td></tr><tr><td><div><div>Rörledning som är sammanfogad till cistern</div></div></td><td><div><div>3&nbsp;år</div></div></td></tr><tr><td><div><div>Rörledning som inte är sammanfogad till cistern</div></div></td><td><div><div>4&nbsp;år</div></div></td></tr></tbody></table>
+
+Funktionskontroll av säkerhetsutrustning som utförts vid driftprov av en viss trycksatt anordning, får tillgodoräknas vid driftprovet av en annan trycksatt anordning, som genomgått driftprov under den första trycksatta anordningens intervall.
+
+1.4.2 Möjlighet till förlängt intervall
+
+Om kontrollorganet har konstaterat att en eventuell säkerhetsutrustning fungerade utan åtgärd vid de två föregående driftproven, samt bedömer att systemkontrollen gått att ersätta med granskning av arbetsgivarens rutiner för och dokumentationen av den fortlöpande tillsynen, kan kontrollorganet medge en förlängning av intervallet.
+
+Om arbetsgivaren byter ut säkerhetsutrustningen efter det senaste driftprovet, ska den utbytta säkerhetsutrustningen antingen funktionskontrolleras av ett kontrollorgan direkt efter bytet, eller bevaras för att funktionskontrolleras vid nästa återkommande kontroll, för att det förlängda intervallet fortfarande ska gälla.
+
+Det maximala intervallet mellan driftprov är 4 år.
+
+Om kontrollorganet vid nästa driftprov bedömer att det inte längre finns förutsättningar för ett förlängt intervall, ska intervallen enligt 1.4.1 åter tillämpas.
+
+1.4.3 Förkortat intervall för funktionskontroll av säkerhetsutrustning på grund av resultat vid föregående kontroller
+
+Om kontrollorganet vid driftprov konstaterat att en eventuell säkerhetsutrustning inte fungerar utan åtgärd, ska intervallet till nästkommande funktionsprov av säkerhetsutrustning vara hälften av vad som anges i tabell 12.
+
+Om bedömningen vid nästkommande kontroll är att säkerhetsutrustningen fungerar utan åtgärd, ska grundintervallen åter gälla för utrustningen.
+
+> _Allmänna råd_
+>
+> Beroende på förutsättningarna kan den omfattning som krävs innebära okulär bedömning, oförstörande provning, ett inspektionsprogram, mätningar eller andra dokumenterade iakttagelser från användningen.
+>
+> Vid undersökning av rörledningar är den omfattning som krävs normalt bara utvändig undersökning av högt påkända delar, expansionsanordningar och rörstöd samt delar där korrosion, nötning, sprickor eller andra felaktigheter misstänks kunna uppstå.
+>
+> Med den omfattning som krävs menas normalt, att nedgrävda rörledningar bedöms utan att de grävs upp.
+
+#### 2. In- och utvändig undersökning av trycksatta anordningar i klass A
+
+### 2.2 – Intervall för in- och utvändig undersökning
+
+Hur ofta in- och utvändiga undersökningar av trycksatta anordningar ska utföras, framgår av 2.2.2–2.2.9.
+
+2.2.1 Möjlighet att utföra in- och utvändig undersökning vid olika intervall
+
+Den in- och utvändiga undersökningen kan delas upp, så att den utvändiga undersökningen görs oftare, förutsatt att undersökningarna var för sig följer 2.2.2–2.2.9.
+
+2.2.2 Fyra års intervall
+
+Ett kontrollorgan kan efter en kontroll medge ett intervall av fyra år mellan in- och utvändiga undersökningar, förutsatt att
+
+de tryckbärande delarna inte är eldberörda eller utsatta för förbränningsgas med temperatur över beräkningstemperaturen,
+
+arbetsgivaren kan visa att den återstående livslängden är mer än fem år,
+
+materialet i tryckbärande delar är sådant att det erfarenhetsmässigt inte är stor risk för sprickbildning, och
+
+den inre och yttre miljön inte är svår ur skadesynpunkt, i förhållande till utförandet och det tryckbärande materialet.
+
+2.2.3 Två års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att villkoren för fyra års intervall inte uppfylls, kan kontrollorganet medge två års intervall om
+
+minst två in- och utvändiga undersökningar har utförts med ett intervall av ett år, eller
+
+minst en in- och utvändig undersökning har utförts med ett intervall som överstiger två år.
+
+Dessutom ska kontrollorganet bedöma att
+
+slitage eller skador som upptäckts vid den senaste in- och utvändiga undersökningen inte är sådana, att det har krävts reparationer eller andra åtgärder,
+
+det är mer än tre år fram till dess att korrosion, erosion eller andra skador kommer att kräva åtgärd,
+
+arbetsgivaren har visat att den återstående livslängden är mer än tre år, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att driftsbetingelserna är säkra fram till nästa kontroll.
+
+2.2.4 Ett års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att anordningen inte uppfyller villkoren i 2.2.2–2.2.3, kan kontrollorganet medge ett års intervall om
+
+kontrollorganet bedömer att skicket är sådant, att den är säker att använda i ett år, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att anordningen är säker att använda i minst ett år.
+
+2.2.5 Sex månaders intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt, att anordningen inte uppfyller villkoren i 2.2.4, kan kontrollorganet medge sex månaders intervall om
+
+kontrollorganet bedömer att skicket är sådant att den är säker att använda i sex månader, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att anordningen är säker att använda minst sex månader.
+
+2.2.6 Sex års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att anordningen uppfyller villkoren för fyra års intervall, kan det medge ett intervall på sex år för en in- och utvändig undersökning, förutsatt att
+
+minst en in- och utvändig undersökning med fyra års intervall har utförts som återkommande kontroll,
+
+inga skador eller förslitningar som krävt reparation eller andra åtgärder, upptäcktes vid kontrollen,
+
+anordningen används på ett sådant sätt att den inte utsätts för utmattning eller krypning, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att driftsbetingelserna är säkra under de kommande åtta åren.
+
+Även om förutsättningarna i första stycket inte är uppfyllda, kan kontrollorganet medge sex års intervall för cisterner eller rörledningar, som är sammanfogade till cisterner, om förutsättningarna i 2.2.2 punkt 1, 3 och 4 är uppfyllda och arbetsgivaren kan visa att den återstående livslängden är mer än åtta år.
+
+2.2.7 Åtta års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att anordningen uppfyller villkoren för sex års intervall, kan det medge ett intervall på åtta år för en in- och utvändig undersökning, förutsatt att
+
+minst två in- och utvändiga undersökningar med fyra eller sex års intervall har utförts som återkommande kontroll,
+
+korrosion, erosion eller andra skador inte har uppkommit, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att driftsbetingelserna är säkra under de kommande tio åren.
+
+2.2.8 Tio års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att anordningen uppfyller villkoren för åtta års intervall, kan det medge ett intervall på tio år för en in- och utvändig undersökning, förutsatt att
+
+minst två in- och utvändiga undersökningar har utförts med fyra, sex eller åtta års intervall där
+
+ett kontrollorgan vid varje tillfälle har bedömt att ett längre intervall än det föregående intervallet ska tillämpas, eller
+
+arbetsgivaren utifrån resultatet av de två tidigare kontrollerna kan visa för kontrollorganet, att ingen invändig korrosion, erosion eller annan negativ inre påverkan förekommer,
+
+korrosion, erosion eller andra skador inte har uppkommit, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att driftsbetingelserna är säkra under de kommande tolv åren.
+
+2.2.9 Tolv års intervall
+
+Om ett kontrollorgan efter en kontroll har bedömt att en cistern uppfyller villkoren för sex års intervall, kan det medge ett intervall på tolv år för en in- och utvändig undersökning för cisterner, förutsatt att minst en in- och utvändig undersökning har utförts med sex års intervall där
+
+korrosion, erosion eller andra skador inte har uppkommit, och
+
+arbetsgivaren har visat i sin riskbedömning enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), att driftsbetingelserna är säkra under de kommande fjorton åren.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -169,6 +169,7 @@
 		{#if options.length}
 			<div class="mt-3 flex flex-wrap gap-2">
 				{#each options as f (f.key)}
+					{@const fText = filters[f.key] || `${f.label()} · ${m.db_filter_all()}`}
 					<Select.Root
 						type="single"
 						value={filters[f.key] || 'all'}
@@ -176,10 +177,10 @@
 					>
 						<Select.Trigger
 							size="sm"
-							aria-label={f.label()}
+							aria-label={filters[f.key] ? `${f.label()}: ${fText}` : fText}
 							class="h-8 border-primary/15 bg-white/70 text-xs text-primary/80"
 						>
-							{filters[f.key] || `${f.label()} · ${m.db_filter_all()}`}
+							{fText}
 						</Select.Trigger>
 						<Select.Content>
 							<Select.Item value="all" label="{f.label()} · {m.db_filter_all()}"
@@ -206,7 +207,7 @@
 					{@const line = metaLine(r)}
 					<li class="border-b border-primary/10 py-4">
 						{#if line}
-							<p class="text-[11px] text-primary/50">{line}</p>
+							<p class="text-[11px] text-primary/60">{line}</p>
 						{/if}
 						<p class="mt-0.5">
 							{#if entity === 'myndigheter' && typeof r.meta?.logo === 'string'}
@@ -223,7 +224,7 @@
 								>{r.title ?? r.id}</a
 							>
 							{#if designation}
-								<span class="ml-2 text-xs text-primary/50 uppercase">{designation}</span>
+								<span class="ml-2 text-xs text-primary/60 uppercase">{designation}</span>
 							{/if}
 						</p>
 						{#if description}

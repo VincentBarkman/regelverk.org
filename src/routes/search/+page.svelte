@@ -107,6 +107,9 @@
 		{#if data.results.length && (scopes.length > 1 || entities.length > 1 || options.length)}
 			<div class="mt-3 flex flex-wrap gap-2">
 				{#if scopes.length > 1}
+					{@const scopeText = filters.scope
+						? SITES[filters.scope as SiteScope].label
+						: `${m.db_filter_area()} · ${m.db_filter_all()}`}
 					<Select.Root
 						type="single"
 						value={filters.scope || 'all'}
@@ -114,12 +117,10 @@
 					>
 						<Select.Trigger
 							size="sm"
-							aria-label={m.db_filter_area()}
+							aria-label={filters.scope ? `${m.db_filter_area()}: ${scopeText}` : scopeText}
 							class="h-8 border-primary/15 bg-white/70 text-xs text-primary/80"
 						>
-							{filters.scope
-								? SITES[filters.scope as SiteScope].label
-								: `${m.db_filter_area()} · ${m.db_filter_all()}`}
+							{scopeText}
 						</Select.Trigger>
 						<Select.Content>
 							<Select.Item value="all" label="{m.db_filter_area()} · {m.db_filter_all()}"
@@ -132,6 +133,9 @@
 					</Select.Root>
 				{/if}
 				{#if entities.length > 1}
+					{@const entityText = filters.entity
+						? ENTITY_LABEL[filters.entity as Entity]()
+						: `${m.db_filter_category()} · ${m.db_filter_all()}`}
 					<Select.Root
 						type="single"
 						value={filters.entity || 'all'}
@@ -139,12 +143,12 @@
 					>
 						<Select.Trigger
 							size="sm"
-							aria-label={m.db_filter_category()}
+							aria-label={filters.entity
+								? `${m.db_filter_category()}: ${entityText}`
+								: entityText}
 							class="h-8 border-primary/15 bg-white/70 text-xs text-primary/80"
 						>
-							{filters.entity
-								? ENTITY_LABEL[filters.entity as Entity]()
-								: `${m.db_filter_category()} · ${m.db_filter_all()}`}
+							{entityText}
 						</Select.Trigger>
 						<Select.Content>
 							<Select.Item value="all" label="{m.db_filter_category()} · {m.db_filter_all()}"
@@ -157,6 +161,7 @@
 					</Select.Root>
 				{/if}
 				{#each options as f (f.key)}
+					{@const fText = filters[f.key] || `${f.label()} · ${m.db_filter_all()}`}
 					<Select.Root
 						type="single"
 						value={filters[f.key] || 'all'}
@@ -164,10 +169,10 @@
 					>
 						<Select.Trigger
 							size="sm"
-							aria-label={f.label()}
+							aria-label={filters[f.key] ? `${f.label()}: ${fText}` : fText}
 							class="h-8 border-primary/15 bg-white/70 text-xs text-primary/80"
 						>
-							{filters[f.key] || `${f.label()} · ${m.db_filter_all()}`}
+							{fText}
 						</Select.Trigger>
 						<Select.Content>
 							<Select.Item value="all" label="{f.label()} · {m.db_filter_all()}"
@@ -200,8 +205,8 @@
 									<span class="mt-0.5 truncate text-xs text-primary/60">{r.description}</span>
 								{/if}
 							</span>
-							<span class="ml-auto shrink-0 text-xs text-primary/50">{r.scope} / {r.entity}</span>
-							<RiArrowRightSLine class="size-4 shrink-0 text-primary/40" aria-hidden="true" />
+							<span class="ml-auto shrink-0 text-xs text-primary/60">{r.scope} / {r.entity}</span>
+							<RiArrowRightSLine class="size-4 shrink-0 text-primary/60" aria-hidden="true" />
 						</a>
 					</li>
 				{/each}

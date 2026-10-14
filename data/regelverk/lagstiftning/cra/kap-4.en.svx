@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#cpt_IV'
+'url': 'http://publications.europa.eu/resource/cellar/21b7d4eb-a6e2-11ef-85f0-01aa75ed71a1.0006.03#cpt_IV'
 'sites':
   - 'it'
   - 'ot'
@@ -22,23 +22,23 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 35 – Notification
+### Article 35 – Notification
 
 1\. Member States shall notify the Commission and the other Member States of bodies authorised to carry out conformity assessments in accordance with [this Regulation](/lagstiftning/cra).
 
 2\. Member States shall strive to ensure, by 11 December 2026 that there is a sufficient number of notified bodies in the Union to carry out conformity assessments, in order to avoid bottlenecks and hindrances to market entry.
 
-### Artikel 36 – Notifying authorities
+### Article 36 – Notifying authorities
 
-1\. Each Member State shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and their monitoring, including compliance with Article [41](#artikel-41-subsidiaries-of-and-subcontracting-by-notified-bodies).
+1\. Each Member State shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and their monitoring, including compliance with Article [41](#article-41-subsidiaries-of-and-subcontracting-by-notified-bodies).
 
 2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of and in accordance with [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765).
 
-3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 of [this Article](#artikel-36-notifying-authorities) to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with Article [37](#artikel-37-requirements-relating-to-notifying-authorities). In addition, it shall have arrangements in place to cover liabilities arising from its activities.
+3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 of [this Article](#article-36-notifying-authorities) to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with Article [37](#article-37-requirements-relating-to-notifying-authorities). In addition, it shall have arrangements in place to cover liabilities arising from its activities.
 
 4\. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
 
-### Artikel 37 – Requirements relating to notifying authorities
+### Article 37 – Requirements relating to notifying authorities
 
 1\. A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs.
 
@@ -52,13 +52,13 @@
 
 6\. A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.
 
-### Artikel 38 – Information obligation on notifying authorities
+### Article 38 – Information obligation on notifying authorities
 
 1\. Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto.
 
 2\. The Commission shall make the information referred to in paragraph 1 publicly available.
 
-### Artikel 39 – Requirements relating to notified bodies
+### Article 39 – Requirements relating to notified bodies
 
 1\. For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 12.
 
@@ -106,17 +106,17 @@ The remuneration of the top level management and assessment personnel of a confo
 
 10\. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Annex VIII or any provision of national law giving effect to it, except in relation to the market surveillance authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected. The conformity assessment body shall have documented procedures ensuring compliance with this paragraph.
 
-11\. Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under Article [51](#artikel-51-coordination-of-notified-bodies) and apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
+11\. Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under Article [51](#article-51-coordination-of-notified-bodies) and apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
 
 12\. Conformity assessment bodies shall operate in accordance with a set of consistent, fair, proportionate and reasonable terms and conditions, while avoiding unnecessary burden for economic operators, in particular taking into account the interests of microenterprises and small and medium-sized enterprises in relation to fees.
 
-### Artikel 40 – Presumption of conformity of notified bodies
+### Article 40 – Presumption of conformity of notified bodies
 
-Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article [39](#artikel-39-requirements-relating-to-notified-bodies) in so far as the applicable harmonised standards cover those requirements.
+Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article [39](#article-39-requirements-relating-to-notified-bodies) in so far as the applicable harmonised standards cover those requirements.
 
-### Artikel 41 – Subsidiaries of and subcontracting by notified bodies
+### Article 41 – Subsidiaries of and subcontracting by notified bodies
 
-1\. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article [39](#artikel-39-requirements-relating-to-notified-bodies) and shall inform the notifying authority accordingly.
+1\. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article [39](#article-39-requirements-relating-to-notified-bodies) and shall inform the notifying authority accordingly.
 
 2\. Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever they are established.
 
@@ -124,23 +124,23 @@ Where a conformity assessment body demonstrates its conformity with the criteria
 
 4\. Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under [this Regulation](/lagstiftning/cra).
 
-### Artikel 42 – Application for notification
+### Article 42 – Application for notification
 
 1\. A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
 
-2\. That application shall be accompanied by a description of the conformity assessment activities, the conformity assessment procedure or procedures and the product or products with digital elements for which that body claims to be competent, as well as, where applicable, by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article [39](#artikel-39-requirements-relating-to-notified-bodies).
+2\. That application shall be accompanied by a description of the conformity assessment activities, the conformity assessment procedure or procedures and the product or products with digital elements for which that body claims to be competent, as well as, where applicable, by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article [39](#article-39-requirements-relating-to-notified-bodies).
 
-3\. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article [39](#artikel-39-requirements-relating-to-notified-bodies).
+3\. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article [39](#article-39-requirements-relating-to-notified-bodies).
 
-### Artikel 43 – Notification procedure
+### Article 43 – Notification procedure
 
-1\. Notifying authorities shall notify only conformity assessment bodies which have satisfied the requirements laid down in Article [39](#artikel-39-requirements-relating-to-notified-bodies).
+1\. Notifying authorities shall notify only conformity assessment bodies which have satisfied the requirements laid down in Article [39](#article-39-requirements-relating-to-notified-bodies).
 
 2\. The notifying authority shall notify the Commission and the other Member States using the New Approach Notified and Designated Organisations information system developed and managed by the Commission.
 
 3\. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and product or products with digital elements concerned and the relevant attestation of competence.
 
-4\. Where a notification is not based on an accreditation certificate as referred to in Article [42](#artikel-42-application-for-notification)(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article [39](#artikel-39-requirements-relating-to-notified-bodies).
+4\. Where a notification is not based on an accreditation certificate as referred to in Article [42](#article-42-application-for-notification)(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article [39](#article-39-requirements-relating-to-notified-bodies).
 
 5\. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
 
@@ -148,7 +148,7 @@ Only such a body shall be considered to be a notified body for the purposes of [
 
 6\. The Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.
 
-### Artikel 44 – Identification numbers and lists of notified bodies
+### Article 44 – Identification numbers and lists of notified bodies
 
 1\. The Commission shall assign an identification number to a notified body.
 
@@ -158,13 +158,13 @@ It shall assign a single such number even where the body is notified under sever
 
 The Commission shall ensure that that list is kept up to date.
 
-### Artikel 45 – Changes to notifications
+### Article 45 – Changes to notifications
 
-1\. Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article [39](#artikel-39-requirements-relating-to-notified-bodies), or that it is failing to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw notification as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
+1\. Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article [39](#article-39-requirements-relating-to-notified-bodies), or that it is failing to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw notification as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
 
 2\. In the event of restriction, suspension or withdrawal of notification, or where the notified body has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body or kept available for the responsible notifying and market surveillance authorities at their request.
 
-### Artikel 46 – Challenge of the competence of notified bodies
+### Article 46 – Challenge of the competence of notified bodies
 
 1\. The Commission shall investigate all cases where it doubts, or where doubt is brought to its attention regarding, the competence of a notified body to meet, or the continued fulfilment by a notified body of, the requirements and responsibilities to which it is subject.
 
@@ -174,25 +174,25 @@ The Commission shall ensure that that list is kept up to date.
 
 4\. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including de-notification if necessary.
 
-### Artikel 47 – Operational obligations of notified bodies
+### Article 47 – Operational obligations of notified bodies
 
-1\. Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Article [32](/lagstiftning/cra/kap-3#artikel-32-conformity-assessment-procedures-for-products-with-digital-elements) and Annex VIII.
+1\. Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Article [32](/lagstiftning/cra/kap-3#article-32-conformity-assessment-procedures-for-products-with-digital-elements) and Annex VIII.
 
 2\. Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators. Conformity assessment bodies shall perform their activities taking due account of the size of undertakings, in particular as regards microenterprises and small and medium-sized enterprises, the sector in which they operate, their structure, their degree of complexity and the cybersecurity risk level of the products with digital elements and technology in question and the mass or serial nature of the production process.
 
 3\. Notified bodies shall however respect the degree of rigour and the level of protection required for the compliance of products with digital elements with [this Regulation](/lagstiftning/cra).
 
-4\. Where a notified body finds that the requirements set out in Annex I or in corresponding harmonised standards or common specifications as referred to in Article [27](/lagstiftning/cra/kap-3#artikel-27-presumption-of-conformity) have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
+4\. Where a notified body finds that the requirements set out in Annex I or in corresponding harmonised standards or common specifications as referred to in Article [27](/lagstiftning/cra/kap-3#article-27-presumption-of-conformity) have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
 
 5\. Where, in the course of the monitoring of conformity following the issuance of a certificate, a notified body finds that a product with digital elements no longer complies with the requirements laid down in [this Regulation](/lagstiftning/cra), it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary.
 
 6\. Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates, as appropriate.
 
-### Artikel 48 – Appeal against decisions of notified bodies
+### Article 48 – Appeal against decisions of notified bodies
 
 Member States shall ensure that an appeal procedure against decisions of the notified bodies is available.
 
-### Artikel 49 – Information obligation on notified bodies
+### Article 49 – Information obligation on notified bodies
 
 1\. Notified bodies shall inform the notifying authority of the following:
 
@@ -206,11 +206,11 @@ Member States shall ensure that an appeal procedure against decisions of the not
 
 2\. Notified bodies shall provide the other bodies notified under [this Regulation](/lagstiftning/cra) carrying out similar conformity assessment activities covering the same products with digital elements with relevant information on issues relating to negative and, upon request, positive conformity assessment results.
 
-### Artikel 50 – Exchange of experience
+### Article 50 – Exchange of experience
 
 The Commission shall provide for the organisation of the exchange of experience between the Member States’ national authorities responsible for notification policy.
 
-### Artikel 51 – Coordination of notified bodies
+### Article 51 – Coordination of notified bodies
 
 1\. The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in place and properly operated in the form of a cross-sectoral group of notified bodies.
 

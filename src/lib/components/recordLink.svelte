@@ -45,15 +45,15 @@
 				{#if card.logo}
 					<img src={card.logo} alt="" class="h-4 w-auto shrink-0 {logoDarkClass(card.logo)}" />
 				{:else if card.external}
-					<RiExternalLinkLine class="size-3.5 shrink-0 text-primary/50" aria-hidden="true" />
+					<RiExternalLinkLine class="size-3.5 shrink-0 text-primary/60" aria-hidden="true" />
 				{/if}
 				<span class="min-w-0 truncate text-xs font-medium text-primary">{card.title}</span>
 				{#if card.external}
-					<RiExternalLinkLine class="ml-auto size-3 shrink-0 text-primary/40" aria-hidden="true" />
+					<RiExternalLinkLine class="ml-auto size-3 shrink-0 text-primary/60" aria-hidden="true" />
 				{/if}
 			</div>
 			{#if card.tag}
-				<p class="mt-0.5 text-[11px] text-primary/50">{card.tag}</p>
+				<p class="mt-0.5 text-[11px] text-primary/60">{card.tag}</p>
 			{/if}
 			{#if card.description}
 				<p class="mt-1.5 line-clamp-3 text-xs leading-relaxed text-primary/60">

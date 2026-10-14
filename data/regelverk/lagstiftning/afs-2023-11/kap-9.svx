@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,57 +21,561 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Krav på en truck eller en utbytbar utrustning till truckar
+### Inledning
 
-### 5 §
+Stöd och verktyg: Användning av trycksatta anordningar
 
-Arbetsgivaren ska se till att kraven i 2 kap. 5 § är uppfyllda när en truck eller en utbytbar utrustning till truckar används.
+### 1 § – Då gäller föreskrifterna
 
-### 6 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) gäller användning av trycksatta anordningar och tillhörande säkerhetsutrustning. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2.
 
-Arbetsgivaren ska se till att om kraven i 2 kap. 5 § inte är tillämpbara, ska en truck eller en utbytbar utrustning till truckar uppfylla kraven i bilaga 3 när den används.
+Bestämmelserna gäller inte anordningar som
 
-En truck, som bara i vissa avseenden omfattas av 2 kap. 5 §, ska i övrigt uppfylla kraven i bilaga 3 när den används.
+finns i kärntekniska anläggningar, för vilka det har utfärdats motsvarande föreskrifter med stöd av [förordningen (1984:14)](https://rkrattsbaser.gov.se/sfst?bet=1984%3A14) om kärnteknisk verksamhet, eller annan författning som har ersatt den förordningen,
 
-Varor som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i Turkiet, eller som har sitt ursprung i och som lagligen saluförs i en Eftastat som är part i EES-avtalet förutsätts vara förenliga med dessa föreskrifter. Tillämpningen av dessa föreskrifter omfattas av [Europaparlamentets och rådets förordning (EU) 2019/515](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0515) av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av [förordning (EG) nr 764/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0764).
+ingår i raketer, luftfartyg eller mobila offshore-enheter, samt utrustning som är speciellt avsedd för installation ombord på dessa farkoster eller för deras framdrivning,
 
-#### Krav vid användning av truckar och utbytbar utrustning till truckar
+ingår i vapen, ammunition eller annan materiel som är avsedd speciellt för militära ändamål,
 
-### 7 §
+är bildäck, luftkuddar, bollar och ballonger för lek och idrott, uppblåsbara båtar och andra liknande tryckbärande anordningar som består av ett mjukt hölje,
 
-Arbetsgivaren ska se till att truckar bara används i miljöer som är lämpade för det.
+är eller ingår i masugnar, med tillhörande kylsystem, varmluftsrekuperatorer, rökgasrenare till masugnar samt direktreduktionsugnar med tillhörande kylsystem, gaskonvertrar, ugnar och skänkar för smältning, omsmältning, avgasning och gjutning av stål, järn och icke-järnmetaller,
+
+är radiatorer och rörledningar i system för uppvärmning med vatten,
+
+är ventilationskanaler, rökgaskanaler eller liknande,
+
+ingår i system för tillförsel, fördelning och utsläpp av vatten med tillhörande utrustning, samt turbinrör, trycktunnlar, tryckschakt och andra tilloppskanaler i vattenkraftverk och tillhörande utrustningsdelar,
+
+är avsedda för transport och distribution av drycker, och vars tryck inte överstiger 7 bar, samtidigt som trycket gånger volymen inte överstiger 500 barliter,
+
+är höljen eller maskindelar för vilka dimensioneringen, valet av material och konstruktionsreglerna i huvudsak baseras på krav på tillräcklig hållfasthet, styvhet och stabilitet när det gäller statisk och dynamisk påkänning under drift, eller med hänsyn till andra egenskaper som påverkar deras funktion och där trycket inte har väsentlig betydelse för konstruktionen,
+
+är andra anordningar än enkla tryckkärl, som är avsedda för fordons funktion och som definieras i [Europaparlamentets och rådets förordning (EU) 2018/858](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R0858) av den 30 maj 2018 om godkännande av och marknadskontroll över motorfordon och släpfordon till dessa fordon samt av system, komponenter och separata tekniska enheter som är avsedda för dessa fordon, om ändring av [förordningarna (EG) nr 715/2007](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007R0715) och [(EG) nr 595/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R0595) samt om upphävande av [direktiv 2007/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007L0046), [Europaparlamentets och rådets förordning (EU) nr 167/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0167) av den 5 februari 2013 om godkännande och marknadskontroll av jordbruks- och skogsbruksfordon och [Europaparlamentets och rådets förordning (EU) nr 168/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0168) av den 15 januari 2013 om godkännande av och marknadskontroll för två- och trehjuliga fordon och fyrhjulingar, eller
+
+ingår i elektriska apparater för elproduktion eller eldistribution.
+
+De begrepp som används ovan, har samma innebörd som motsvarande begrepp i [2 §](#2-definitioner) i Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar. Med begreppet enkla tryckkärl avses anordningar som omfattas av Arbetsmiljöverkets föreskrifter (AFS 2023:6) om produkter – enkla tryckkärl, eller skulle omfattats av motsvarande föreskrifter, som gällde när tryckkärlet togs i bruk.
+
+### 2 § – Definitioner
+
+I dessa föreskrifter har följande begrepp dessa betydelser.
+
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Användning</div></div></td><td><div><div>Förutom det som står i 2&nbsp;kap. om användning av arbetsutrustning, även aktiviteter såsom nyttjande, övervakning, fortlöpande tillsyn, underhåll, rengöring och förvaring.</div></div></td></tr><tr><td><div><div>Behållare</div></div></td><td><div><div>Trycksatt anordning som inte är en rörledning.</div></div></td></tr><tr><td><div><div>Cistern</div></div></td><td><div><div>Behållare som är konstruerad för att innehålla vätska eller kondenserad gas, i vilken gastrycket ovanför innehållet varken understiger atmosfärstrycket med mer än 0,0065&nbsp;bar eller överstiger atmosfärstrycket med mer än 0,5&nbsp;bar.</div></div></td></tr><tr><td><div><div>Fluid</div></div></td><td><div><div>Gas, vätska och ånga i ren fas samt blandningar av dessa, oavsett om fasta ämnen ingår som suspension eller inte.</div></div></td></tr><tr><td><div><div>Inställelsetid</div></div></td><td><div><div>Den tid det tar för personal att inställa sig på en plats, där åtgärder som olika larm kräver, kan vidtas.</div></div></td></tr><tr><td><div><div>Panna</div></div></td><td><div><div>Annat tryckkärl än vattenvärmare i vilket värme, som frigörs ur bränsle, elenergi eller någon annan energikälla överförs till en fluid, för användning utanför kärlet.</div></div></td></tr><tr><td><div><div>Rörledning</div></div></td><td><div><div>Ledning som består av rör, inklusive slangar, med tillhörande rördelar och tryckbärande tillbehör. Gränsen mellan en behållare och en rörledning går vid svetsen mot behållarens stuts eller, vid flänsad anslutning, vid behållarens fläns. Svetsen tillhör rörledningen. Värmeväxlare, som består av rör för kylning eller uppvärmning av luft, anses som rörledning på samma sätt som enligt Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar.</div></div><div><div>Vanligen används ledningarna för transport av fluider men även ledningar såsom hydraulledningar ingår.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr><tr><td><div><div>Säkerhetsrelaterat larm</div></div></td><td><div><div>Indikation om en avvikelse från de avsedda driftbetingelserna, som kan påverka säkerheten negativt.</div></div></td></tr><tr><td><div><div>Säkerhetsutrustning</div></div></td><td><div><div>Utrustning som hindrar att tryck, temperatur, fluidnivå, effekt eller andra parametrar, som är av betydelse för trycksatta anordningars säkerhet, når nivåer som avviker från de gränser som fastställts som nödvändiga, vid konstruktion eller kontroll av en trycksatt anordning.</div></div></td></tr><tr><td><div><div>Tryck</div></div></td><td><div><div>Tryck jämfört med atmosfärstrycket. Övertryck anges med ett positivt värde. Undertryck anges med ett negativt värde.</div></div></td></tr><tr><td><div><div>Tryckbärande tillbehör</div></div></td><td><div><div>Anordningar med en driftsfunktion och ett tryckbärande hölje.</div></div></td></tr><tr><td><div><div>Tryckkontroll</div></div></td><td><div><div>Fastställande av om en anordning som genomgått tryckprovning uppfyller ställda krav på hållfasthet.</div></div></td></tr><tr><td><div><div>Tryckkärl</div></div></td><td><div><div>Behållare som konstruerats och tillverkats för att innehålla fluider under tryck, inkluderande till behållaren direkt sammanfogade delar fram till anslutningspunkten till annan anordning. Ett tryckkärl kan innehålla ett eller flera rum<em>. </em></div></div></td></tr><tr><td><div><div>Trycksatt anordning</div></div></td><td><div><div>Anordning som antingen är en cistern, ett vakuumkärl, ett tryckkärl eller en rörledning.</div></div></td></tr><tr><td><div><div>Trycksättning</div></div></td><td><div><div>Aktivitet där en trycksatt anordnings skal belastas, så att tryck- eller dragspänningar uppstår på grund av ett inre negativt eller positivt tryck. Med trycksättning avses för cisterner de spänningar, som uppkommer av det statiska tryck, som vätska i cisternen ger upphov till, då cisternen fylls.</div></div></td></tr><tr><td><div><div>Vakuumkärl</div></div></td><td><div><div>Behållare som är konstruerad för ett tryck, som understiger atmosfärstrycket med mer än 0,0065&nbsp;bar.</div></div></td></tr><tr><td><div><div>Vattenvärmare</div></div></td><td><div><div>Tryckkärl för eluppvärmning av tappvatten till en temperatur över 65&nbsp;°C men högst 110&nbsp;°C.</div></div></td></tr><tr><td><div><div>Övervakning</div></div></td><td><div><div>Arbetsuppgift som vidtas, för att säkerställa att driften av den trycksatta anordningen sker på ett korrekt och säkert sätt.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (20 rader)</label></div>
+
+Med begreppen gasflaska, batterivagn, batterifordon, tank, MEG-container, fordon och vagn avses i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) samma som i Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2022:3) om transport av farligt gods på väg och i terräng och Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2022:4) om transport av farligt gods på järnväg.
+
+Med begreppen bärbar brandsläckare och flaska för andningsapparat avses i dessa föreskrifter samma som i Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar. (AFS 2024:4)
+
+### 3 § – Undantag
+
+Dessa föreskrifter gäller inte sådan användning av trycksatta anordningar, som är sådan transport som avses i [3 § i lagen (2006:263)](https://rkrattsbaser.gov.se/sfst?bet=2006%3A263) om transport av farligt gods.
+
+För en sådan trycksatt anordning som är avsedd att användas för transport enligt första stycket, men som även ska användas på annat sätt, gäller bara [11 §](#11-fyllning-och-tömning-mellan-trycksatta-anordningar-och-anordningar-placerade-på-fordon-eller-vagn). För gasflaskor som är påfyllningsbara, gäller dock även kraven i [9](#9-fortlöpande-tillsyn), [10](#10) och [15](#15-förvaring-av-gasflaskor-och-flaskor-för-andningsapparater)–[22 §§](#22).
+
+Bärbara brandsläckare och flaskor för andningsapparater undantas från alla bestämmelser i dessa föreskrifter, utom [9](#9-fortlöpande-tillsyn), [10](#10) och [15](#15-förvaring-av-gasflaskor-och-flaskor-för-andningsapparater)–[22 §§](#22).
+
+### 4 §
+
+Följande anordningar omfattas inte av bestämmelserna om sammanfogning, reparation eller ändring i [40](#40-reparation-eller-ändring-av-trycksatta-anordningar-i-klass-a-eller-b)–[42 §§](#42):
+
+Cisterner och rörledningar för brandfarlig vätska som omfattas av krav på kontroll i föreskrifter, som har meddelats med stöd av [förordningen (2010:1075)](https://rkrattsbaser.gov.se/sfst?bet=2010%3A1075) om brandfarliga och explosiva varor.
+
+Sådana rörledningar som avses i [2 §](#2-definitioner) a Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar, om de är avsedda att innehålla en gasblandning, som till övervägande del innehåller metan.
+
+### 5 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-9). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) om arbetsgivare och om arbetstagare.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-9) gäller då även dem.
+
+### 6 § – Undersökning och riskbedömning
+
+Arbetsgivaren ska bedöma riskerna med användning av trycksatta anordningar. Vid bedömningen ska hänsyn tas till
+
+erfarenheter från användningen av anordningen,
+
+uppgifter om anordningens återstående livslängd,
+
+reparationer och ändringar som utförts,
+
+olyckor och tillbud som inträffat, och
+
+eventuella avvikelserapporter och resultat från kontroller av de trycksatta anordningarna.
+
+Av [7](#7-hur-trycksatta-anordningar-ska-vara-placerade)–[10 §§](#10) framgår ytterligare risker, som är förknippade med användningen av trycksatta anordningar och som arbetsgivaren ska bedöma i det systematiska arbetsmiljöarbetet.
+
+### 7 § – Hur trycksatta anordningar ska vara placerade
+
+Arbetsgivaren ska se till att den riskbedömning, som avgör var en trycksatt anordning ska vara placerad, tar hänsyn till betydelsen av
+
+att det är möjligt att utföra underhåll, fortlöpande tillsyn och kontroll på ett enkelt och säkert sätt,
+
+de förebyggande åtgärder som förhindrar att anordningen skadas av arbeten eller andra aktiviteter, som bedrivs i närheten, och
+
+att konsekvenserna av en olycka förvärras genom att
+
+de som befinner sig på arbetsstället utsätts för skadliga tryckvågor eller träffas av delar av anordningen inom ett område, där de normalt arbetar,
+
+de som befinner sig på arbetsstället inte kan stänga av anordningen,
+
+de som befinner sig på arbetsstället inte kan ta sig från platsen, och
+
+byggnader eller konstruktioners bärande delar skadas.
 
 > _Allmänna råd_
-
-> Lastenheter kan behöva förankras, så att de inte glider på varandra. Exempel på förebyggande åtgärder är lämpliga barriärer, som kan förhindra att en truck störtar ned från en lastkaj. Exempel på miljöer som inte är lämpade för användning av truckar, kan vara där det finns risk att truckföraren klämmer sig eller arbetar i olämpliga arbetsställningar på grund av höga pallställ och ständigt ändrade färdriktningar.
+>
+> Exempel på risker för att anordningen skadas av arbete eller andra aktiviteter som bedrivs i närheten, är att föremål faller ned på anordningen eller att anordningen blir påkörd av trafik. För att följa bestämmelsen, när det finns risk för att anordningen ska bli påkörd, bör man använda ett påkörningsskydd som är utformat enligt Trafikverkets rådgivande dokument om vägar och gators utformning (VGU) eller Boverkets konstruktionsregler.
 
 ### 8 §
 
-Arbetsgivaren ska, om det är möjligt, avgränsa trucktrafik från gående och annan verksamhet där personer befinner sig. Om det inte är möjligt, ska arbetsgivaren förebygga risk för personskador och då särskilt uppmärksamma områden med begränsat siktfält och områden där truckar kan köra utan att gående blir varnade innan de kommer in på området.
+Arbetsgivaren ska se till att trycksatta anordningar, som ska vara trycksatta, inte är placerade där omgivningens temperatur kan bli lägre än den temperatur, som anordningen tillverkats för att användas i, om det inte finns rutiner för hur anordningen ska hållas uppvärmd.
 
-### 9 §
+### 9 § – Fortlöpande tillsyn
 
-Arbetsgivaren ska organisera arbeten med truck så att föraren alltid har tillräcklig sikt i körriktningen från truckens förarplats.
+För att en anordning med tillhörande säkerhetsutrustning ska få vara trycksatt, ska arbetsgivaren fortlöpande undersöka den. Arbetsgivaren ska bedöma om den trycksatta anordningen och eventuell säkerhetsutrustning har skadats eller på annat sätt försämrats.
+
+Den fortlöpande tillsynen ska minst omfatta tillsyn av att
+
+anordningen fungerar tillfredsställande,
+
+inga otätheter har uppkommit,
+
+anordningen eller säkerhetsutrustningen inte har utsatts för skadlig yttre eller inre påverkan,
+
+inga andra fel eller avvikelser har uppstått,
+
+en trycksatt anordning, ventiler och nödstopp är korrekt märkta, och
+
+en eventuell föreskriven kontroll enligt [15](#15-förvaring-av-gasflaskor-och-flaskor-för-andningsapparater)–[22 §§](#22) eller [10 kap. 7](/lagstiftning/afs-2023-11/kap-10#7-villkor-för-trycksättning)–[26 §§](/lagstiftning/afs-2023-11/kap-10#26-tidsperioden-när-återkommande-kontroll-ska-utföras) eller [10 kap. 3 §](/lagstiftning/afs-2023-11/kap-10#3-undantag-för-vissa-cisterner-och-rörledningar-för-brandfarlig-gas-eller-vätska), har utförts.
 
 ### 10 §
 
-Arbetsgivaren ska se till att en utbytbar utrustning till truckar bara används tillsammans med den truck eller de truckar som den är avsedd för.
+För anordningar, som inte omfattas av krav på rutiner för fortlöpande tillsyn eller en journal över den återstående livslängden enligt [38](#38-rutiner-för-fortlöpande-tillsyn-av-trycksatta-anordningar-i-klass-a-eller-b) och [39 §§](#39-journal-över-återstående-livslängd), ska arbetsgivaren bedöma om riskerna med användningen kräver att det ändå upprättas rutiner och en journal enligt [38](#38-rutiner-för-fortlöpande-tillsyn-av-trycksatta-anordningar-i-klass-a-eller-b) och [39 §§](#39-journal-över-återstående-livslängd).
 
-### 11 §
+> _Allmänna råd_
+>
+> Exempel på anordningar där en riskbedömning kan visa att det finns behov av rutiner för fortlöpande tillsyn och en journal över den återstående livslängden, är anordningar som är sammanfogade med en anordning som omfattas av [38](#38-rutiner-för-fortlöpande-tillsyn-av-trycksatta-anordningar-i-klass-a-eller-b) och [39 §§](#39-journal-över-återstående-livslängd), och även slangar.
 
-Arbetsgivaren ska se till att en truck inte kommer i rullning, när den står stilla, samt att lasten och rörliga maskindelar säkras vid behov.
+### 11 § – Fyllning och tömning mellan trycksatta anordningar och anordningar placerade på fordon eller vagn
 
-### 12 §
+Arbetsgivaren ska säkerställa att en eventuell slang eller någon annan anslutning är säkert fastsatt, innan innehållet i en tank eller en MEG-container, som är placerad på ett fordon eller en vagn, eller innehållet i en batterivagn eller ett batterifordon, överförs till eller från en trycksatt anordning.
 
-Om trucken har ett bälte eller någon annan anordning för att hålla kvar föraren på förarplatsen, ska arbetsgivaren se till att föraren använder det, om det inte är uppenbart onödigt enligt riskbedömningen.
+Arbetsgivaren ska också säkerställa att övervakning sker av fyllningen eller tömningen enligt första stycket, så att åtgärder kan vidtas omedelbart vid läckage eller överfyllning.
+
+Arbetsgivaren ska även säkerställa att platsen avgränsas genom varselmärkning, för att motverka att andra arbetstagare, än de som arbetar med fyllning eller tömning, beträder platsen av misstag. Bara den eller de som utför fyllning eller tömning enligt första stycket, får vistas inom det område där arbetet utförs.
+
+### 12 § – Samordning av vissa arbeten på trycksatta anordningar
+
+Arbetsgivaren ska tilldela en fysisk person arbetsuppgiften att planera och samordna arbeten, när trycksatta anordningar i klass A eller B monteras, installeras, demonteras, rengörs, får service och underhåll, repareras, ändras samt kontrolleras.
+
+Denna person ska se till att det upprättas en skriftlig instruktion för arbetet enligt bilaga 2 avsnitt 2.1. Instruktionen ska vara tillgänglig på arbetsplatsen och den ska vara begriplig för de arbetstagare den riktar sig till.
 
 ### 13 §
 
-Arbetsgivaren ska se till att den som kör en truck eller arbetar med godshantering inom ett område där man kör truck använder skyddsskor.
+Arbetsgivaren ska dokumentera de åtgärder som vidtas, på grund av att en trycksatt anordning i klass A eller B kan ha skadats eller försämrats på något annat sätt. Åtgärderna ska dokumenteras i en avvikelserapport.
 
-### 14 §
+Avvikelserapporten ska beskriva
 
-Arbetsgivaren ska se till att föraren och eventuella passagerare bara åker på en sådan plats på trucken, som är särskilt avsedd för detta.
+skadan eller försämringen,
+
+hur skadan eller försämringen har upptäckts,
+
+datum för iakttagelsen,
+
+vilken åtgärd som behövs,
+
+orsaken till det som har iakttagits, och
+
+datum då åtgärden vidtogs.
+
+Det ska framgå vem som skrivit rapporten.
+
+### 14 § – Demontering, montering och isärtagning av trycksatta anordningar
+
+Arbetsgivaren ska säkerställa att en trycksatt anordning görs trycklös och töms på ett säkert sätt, innan den monteras till en annan anordning, demonteras eller tas isär.
+
+En rörledning får monteras eller infogas på en annan trycksatt anordning som är trycksatt, om arbetsgivaren har rutiner för hur monteringen ska utföras säkert. Rutinerna ska minst beskriva
+
+den metod som monteringen följer,
+
+vilka personer som får utföra monteringen,
+
+hur en kontrollplan ska upprättas vid varje enskild montering, och
+
+hur stort riskområde som riskbedömningen visar att monteringen omfattar, och hur detta område ska avgränsas så att bara de som utför monteringen kan röra sig där.
+
+#### Användning av gasflaskor, bärbara brandsläckare och flaskor för andningsapparater
+
+### 15 § – Förvaring av gasflaskor och flaskor för andningsapparater
+
+Arbetsgivaren ska förvara gasflaskor och flaskor för andningsapparater som är trycksatta utomhus eller i väl ventilerade utrymmen.
+
+En varningsskylt ska finnas uppsatt på eller i anslutning till dörren eller entrén till den lokal, annat utrymme, område eller inhägnad där flaskorna förvaras. Varningsskylten ska ha ett faropiktogram för gas under tryck enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP), och ha texten ”Gasflaskor förs i säkerhet vid brandfara”. Det ska finnas ytterligare en varningsskylt vid flaskornas uppställningsplats, om flaskorna inte är väl synliga inne i lokalen, utrymmet, området eller inhägnaden.
+
+Kraven på skylten enligt andra stycket gäller inte där det förvaras enstaka gasflaskor, som innehåller koldioxid och som används för att kolsyra drycker, om flaskorna har en säkerhetsutrustning som skyddar dem mot brandfara.
+
+> _Allmänna råd_
+>
+> För att bedöma om utrymmen är väl ventilerade, bör arbetsgivaren ta hänsyn till gasflaskornas innehåll, så att riskerna vid eventuellt utläckande gas minimeras. Exempel på ett annat utrymme är förvar i väderskydd, under presenning och i en särskilt inredd servicebil.
+
+### 16 §
+
+Arbetsgivaren får bara låta en gasflaska vara trycksatt om den är placerad så att den skyddas från att oavsiktligt tippas omkull. Skyddet får inte hindra att gasflaskan går att avlägsna vid brand.
+
+I lokaler eller andra utrymmen där arbete utförs, får bara finnas det antal trycksatta gasflaskor som behövs för arbetets utförande.
+
+### 17 §
+
+Om gasflaskor innehåller en gas som klassificerats som instabil enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP), ska arbetsgivaren upprätta rutiner för nödsituationer, där flaskorna utsätts för sådan påverkan att de riskerar att sprängas.
+
+### 18 § – Fyllning
+
+Arbetsgivaren ska säkerställa att en eventuell slang är säkert fastsatt, innan man börjar fylla en gasflaska, bärbar brandsläckare eller flaska för andningsapparater. Under fyllningen ska arbetsgivaren säkerställa att arbetet övervakas, så att det snabbt går att vidta åtgärder vid läckage eller överfyllning.
+
+### 19 § – Villkor för fyllning
+
+Arbetsgivaren ska säkerställa att följande anordningar endast får fyllas, om de har genomgått återkommande kontroll enligt de intervall, som anges i [20](#20-återkommande-kontroll) och [21 §§](#21):
+
+flaskor för andningsapparater,
+
+gasflaskor, och
+
+bärbara brandsläckare där koldioxid är släckmedel.
+
+### 20 § – Återkommande kontroll
+
+Gasflaskor ska genomgå återkommande kontroll i den ordning, på det sätt, och inom de intervall som anges i föreskrifter om kontroll, som meddelats med stöd av [förordningen (2006:311)](https://rkrattsbaser.gov.se/sfst?bet=2006%3A311) om transport av farligt gods.
+
+För flaskor för andningsapparater gäller motsvarande krav som i första stycket, men det längsta intervallet mellan kontrollerna får inte överstiga fem år för att flaskorna ska få användas.
+
+### 21 §
+
+En bärbar brandsläckare där koldioxid är släckmedel får som längst användas i tio år utan att ha genomgått återkommande kontroll av att den fortfarande är säker att använda. Vid återkommande kontroll ska kontrollorganet genomföra en
+
+in- och utvändig undersökning i den omfattning som krävs för att kunna bedöma om slitage, skador eller andra omständigheter medför att det inte längre är säkert att använda brandsläckaren,
+
+tryckprovning vid det tryck som anges på den bärbara brandsläckaren, och
+
+kontroll av eventuell säkerhetsutrustnings funktion.
+
+### 22 §
+
+Om en flaska för andningsapparater eller en bärbar brandsläckare uppfyller kraven i 20 respektive [21 §§](#21), ska kontrollorganet göra en markering på flaskan för andningsapparaten eller den bärbara brandsläckaren, som anger
+
+nationalitetsbokstav (-bokstäver) för det land som godkänt kontrollorganet, som genomfört den återkommande kontrollen,
+
+det registrerade märket för kontrollorganet, och
+
+datum för återkommande kontroll, angivet med år (två siffror), följt av månad (två siffror) skilda åt med ett snedstreck (”/”). För att ange året får även fyra siffror användas.
+
+#### Trycksatta anordningar i klass A och B
+
+### 23 § – Indelning av trycksatta anordningar
+
+För att en trycksatt anordning ska omfattas av särskilda krav på dokumentation och övervakning enligt [9 kap. 36](#36-förteckning-över-trycksatta-anordningar-i-klass-a-eller-b)–[42 §§](#42), kontroll enligt [10 kap.](/lagstiftning/afs-2023-11/kap-10) och krav på övervakning av pannor enligt [10 kap. 27](/lagstiftning/afs-2023-11/kap-10#27-villkor-för-driftsättning-av-pannor-i-klass-a-eller-b)–[42 §§](/lagstiftning/afs-2023-11/kap-10#42-bedömningens-giltighet), krävs att den uppfyller förutsättningarna för att delas in i klass A eller B enligt [9 kap. 29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl). Avgränsningslinjerna i tabellerna i [9 kap. 29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl) anger den övre gränsen för varje klass alternativt för att anordningen inte ska tillhöra någon klass. (AFS 2024:4)
+
+### 24 § – Innehållets fysikaliska och kemiska egenskaper
+
+Vid tillämpning av tabellerna i [29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl) är den fluid, som den trycksatta anordningen är avsedd att innehålla, en vätska enligt definitionen av vätska i bilaga 1 del 1 i [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP).
+
+Även om fluiden är en vätska enligt första stycket, ska tabellerna tillämpas som om den vore en gas, så länge som den högsta temperaturen som angivits enligt [28 §](#28-trycket-p-och-temperaturen-t-som-ska-användas-för-att-dela-in-trycksatta-anordningar-i-klass-a-eller-b), överstiger kokpunkten med mer än 10 °C vid ett normalt atmosfärstryck om 1,013 bar.
+
+Undantaget i andra stycket gäller inte, om arbetsgivaren kan visa att fluiden har ett ångtryck vid en högsta temperatur enligt [28 §](#28-trycket-p-och-temperaturen-t-som-ska-användas-för-att-dela-in-trycksatta-anordningar-i-klass-a-eller-b), som är högst 0,5 bar över det normala atmosfärstrycket.
+
+Om den fluid, som den trycksatta anordningen är avsedd att innehålla, inte är en vätska enligt första och tredje stycket, är den en gas vid tillämpning av tabellerna. Även kondenserad gas, under tryck löst gas och ångor är gaser vid tillämpning av tabellerna. (AFS 2024:4)
+
+### 25 § – Indelning efter innehållets farliga egenskaper
+
+För indelning av anordningar enligt [23 §](#23-indelning-av-trycksatta-anordningar) delas de fluider, som anordningen ska innehålla, in i två grupper.
+
+Grupp 1a består av:
+
+Ämnen och blandningar, så som de definieras i artikel [2.7](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) och [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) i [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP), som klassificeras som farliga i enlighet med följande faroklasser, farokategori och faroangivelser för fysikalisk fara eller hälsofara enligt delarna 2 och 3 i bilaga I till den förordningen:
+
+instabila explosiva ämnen, blandningar och föremål eller explosiva ämnen, blandningar och föremål i riskgrupperna 1.1, 1.2, 1.3, 1.4 och 1.5 (H200, H201, H202, H203, H204, H205),
+
+brandfarliga gaser, kategori 1 och 2 (H220, H221),
+
+oxiderande gaser, kategori 1 (H270),
+
+brandfarliga vätskor, kategori 1 och 2 (H224, H225),
+
+brandfarliga fasta ämnen, kategori 1 och 2 (H228),
+
+självreaktiva ämnen och blandningar, typ A–F (H240, H241, H242),
+
+pyrofora vätskor, kategori 1 (H250),
+
+pyrofora fasta ämnen, kategori 1 (H250),
+
+ämnen och blandningar som vid kontakt med vatten utvecklar brandfarliga gaser, kategori 1, 2 och 3 (H260, H261),
+
+oxiderande vätskor, kategori 1, 2 och 3 (H271, H272),
+
+oxiderande fasta ämnen, kategori 1, 2 och 3 (H271, H272),
+
+organiska peroxider, typ A–F (H240, H241, H242),
+
+akut oral toxicitet, kategori 1 och 2 (H300),
+
+akut dermal toxicitet, kategori 1 och 2 (H310),
+
+akut inhalationstoxicitet, kategori 1, 2 och 3 (H330, H331),
+
+specifik organtoxicitet – enstaka exponering, kategori 1 (H370),
+
+specifik organtoxicitet – upprepad exponering, kategori 1 (H372),
+
+frätande eller irriterande på huden, kategori 1A (H314),
+
+mutagenitet i könsceller, kategori 1A och 1B (H340),
+
+cancerogenitet, kategori 1A och 1B (H350), och
+
+reproduktionstoxicitet, kategori 1A och 1B (H360).
+
+Olja som används vid en temperatur över 110 ºC.
+
+Ämnen och blandningar vars flampunkt är lägre än den temperatur, som bestämts enligt [28 §](#28-trycket-p-och-temperaturen-t-som-ska-användas-för-att-dela-in-trycksatta-anordningar-i-klass-a-eller-b).
+
+Kemiska ämnen och blandningar med kompletterande krav på faroinformation enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP):
+
+explosivt i torrt tillstånd, (EUH001),
+
+vid användning kan brännbara eller explosiva ång–luftblandningar bildas, (EUH018),
+
+kan bilda brännbara peroxider, (EUH019), eller
+
+explosionsrisk vid uppvärmning i sluten behållare, (EUH044).
+
+Grupp 2a omfattar övriga fluider, som inte ingår i grupp 1a.
+
+### 26 § – Trycksatta anordningar som kommer att innehålla flera fluider
+
+Om en arbetsgivare avser att använda en trycksatt anordning med mer än en fluid, ska det vid tillämpning av tabellerna i [29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl) betraktas som att anordningen helt fylls med den fluid, som medför de mest omfattande kraven.
+
+### 27 § – Trycksatta anordningar med flera utrymmen
+
+När en trycksatt anordning har flera utrymmen, ska den vid tillämpning av tabellerna i [29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl) klassas utifrån det utrymme, som medför de mest omfattande kraven.
+
+När ett tryckkärl består av en uppvärmd trycksatt mantel, som omger ett utrymme för beskickning, ska volymen som används för att dela in anordningar i tabellerna i [31](#31) och [32 §§](#32), vara den sammanlagda volymen av manteln och utrymmet, som beskickas.
+
+> _Allmänna råd_
+>
+> Exempel på en anordning, som har flera utrymmen, är värmeväxlare. Exempel på anordningar, som avses i sista stycket, är kokgrytor och steriliseringsapparater.
+
+### 28 § – Trycket, p, och temperaturen, t, som ska användas för att dela in trycksatta anordningar i klass A eller B
+
+Om ett kontrollorgan har gjort en bedömning enligt [10 kap. 7 §](/lagstiftning/afs-2023-11/kap-10#7-villkor-för-trycksättning) andra stycket, ska man använda det högsta eller lägsta trycket i bar och temperaturen i °C, som kontrollorganet har angivit, för att dela in anordningen i klass A eller B enligt [29](#29-indelning-av-tryckkärl)–[35 §§](#35-indelning-av-vakuumkärl).
+
+Om det inte finns en bedömning enligt [10 kap. 7 §](/lagstiftning/afs-2023-11/kap-10#7-villkor-för-trycksättning), ska det tryck i bar och temperatur i °C som används, vara den tryck- respektive temperaturnivå, där säkerhetsutrustningen aktiveras.
+
+Om det saknas säkerhetsutrustning, ska arbetsgivaren använda det tryck och den temperatur som tillverkaren har märkt anordningen med eller angett i bruksanvisningen.
+
+### 29 § – Indelning av tryckkärl
+
+Pannor ska delas in i klass A och B enligt följande:
+
+Pannor klass A, ska ha en temperatur, t över 110 °C, och märkeffekt över 5 kW.
+
+Pannor klass B, ska ha en temperatur, t över 65 °C, men högst 110 °C och märkeffekt över 100 kW.
+
+Så länge som ett kontrollorgan inte gjort någon märkning gäller den effekt som tillverkaren märkt pannan med. Pannor av genomströmningstyp där slingans volym är högst 25 liter, exempelvis högtrycksaggregat, tillhör aldrig klass A eller B.
+
+### 30 §
+
+Vattenvärmare delas in i klasser enligt följande, om temperaturen, t, är högre än 65 °C men högst 110 °C. Vattenvärmare med en volym över 2 000 liter tillhör klass A. Vattenvärmare med en volym över 500 liter men högst 2 000 liter tillhör klass B. (AFS 2024:4)
+
+### 31 §
+
+Tabell 2 nedan anger hur många barliter ett tryckkärl får vara avsett att användas med, innan det faller inom klass B respektive A. Tabellen gäller kärl, som inte är pannor och som
+
+värms med direkt låga eller på annat sätt, som medför risk för överhettning, och
+
+är avsedda för produktion av vattenånga eller vatten med en temperatur som är högre än 110 ºC.
+
+För att delas in i klass A eller B, ska tryckkärlet ha en volym över 2 liter och ett tryck över 0,5 bar.
+
+<table><caption>Tabell 2. Indelning av kärl i klass A och B </caption><tbody><tr><th rowspan="2"><div><div>Tryck p, i bar</div></div></th><th colspan="3"><div><div>Tryck gånger volym, barliter</div></div></th></tr><tr><th><div><div>Över 50 men högst 64 barliter</div></div></th><th><div><div>Över 64 men högst 200 barliter</div></div></th><th><div><div>Över 200 barliter</div></div></th></tr><tr><td><div><div>Högst 32 bar</div></div></td><td><div><div>Klass B</div></div></td><td><div><div>Klass B</div></div></td><td><div><div>Klass A</div></div></td></tr><tr><td><div><div>Över 32 bar</div></div></td><td><div><div>-</div></div></td><td><div><div>Klass A</div></div></td><td><div><div>Klass A</div></div></td></tr></tbody></table>
+
+> _Allmänna råd_
+>
+> Exempel på tryckkärl som omfattas av [31 §](#31), är kokgrytor, autoklaver och impregneringskärl med inbyggd värmning, till exempel en värmepatron.
+
+### 32 §
+
+Tryckkärl, som inte omfattas av [29](#29-indelning-av-tryckkärl)–[31 §§](#31), ska delas in i klasser enligt tabell 3 och 4 nedan. Tabellerna visar, hur många barliter ett tryckkärl får vara avsett att användas med, innan det tillhör klass B respektive A.
+
+<table><caption>Tabell 3. Tryckkärl för gas med trycket, p, över 0,5 bar </caption><tbody><tr><th rowspan="2"><div><div>Fluid-grupp</div></div></th><th rowspan="2"><div><div>Volym i liter</div></div></th><th rowspan="2"><div><div>Tryck p, i bar</div></div></th><th colspan="3"><div><div>Barliter</div></div></th></tr><tr><th><div><div>Över 50 men högst 200</div></div></th><th><div><div>Över 200 men högst<br>1&nbsp;000</div></div></th><th><div><div>Över 1&nbsp;000</div></div></th></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 1</div></div></td><td><div><div>Över 0,5</div></div></td><td><div><div>B</div></div></td><td colspan="2"><div><div>A</div></div></td></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 0,1 men högst 1</div></div></td><td><div><div>Över 200</div></div></td><td colspan="3"><div><div>A</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 1</div></div></td><td><div><div>Över 0,5</div></div></td><td><div><div>-</div></div></td><td><div><div>B</div></div></td><td><div><div>A</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 0,1 men högst 1</div></div></td><td><div><div>Över 1&nbsp;000</div></div></td><td colspan="3"><div><div>A</div></div></td></tr></tbody></table>
+
+Kärl som är avsedda att innehålla en gas, som tillhör grupp 1a, vilken även är en instabil gas enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP), ska tillhöra klass A, även om de vid tillämpning av tabellen skulle tillhöra klass B.
+
+Vid bestämning av tryckkärlets klass enligt tabellen, ska trycket, p, sättas lika med 1 om luft i ett tryckkärl trycksätts, genom att vatten pumpas till ett från början trycklöst kärl.
+
+Följande tryckkärl, som skulle tillhöra klass B vid tillämpning av tabellen, ska ändå inte tillhöra någon klass:
+
+Tryckkärl i kyl- eller värmepumpsanläggningar vars innehåll är en gas, som tillhör grupp 2a.
+
+Tryckkärl för luft och kvävgas.
+
+<table><caption>Tabell 4. Tryckkärl för vätska med trycket, p, över 0,5 bar </caption><tbody><tr><th rowspan="2"><div><div>Fluid-grupp</div></div></th><th rowspan="2"><div><div>Volym i liter</div></div></th><th rowspan="2"><div><div>Tryck i bar, p</div></div></th><th colspan="4"><div><div>Barliter</div></div></th></tr><tr><th><div><div>Över 50 men högst 200</div></div></th><th><div><div>Över 200 men högst 2&nbsp;000</div></div></th><th><div><div>Över 2&nbsp;000 <br>men högst<br> 10 000</div></div></th><th><div><div>Över <br>10 000</div></div></th></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 1</div></div></td><td><div><div>Över 10</div></div></td><td><div><div>-</div></div></td><td><div><div>B</div></div></td><td colspan="2"><div><div>A</div></div></td></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 1</div></div></td><td><div><div>Högst 10</div></div></td><td><div><div>-</div></div></td><td colspan="3"><div><div>B</div></div></td></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 0,1 men högst 1</div></div></td><td><div><div>Över 500</div></div></td><td colspan="4"><div><div>B</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 10</div></div></td><td><div><div>Över 500</div></div></td><td colspan="3"><div><div>-</div></div></td><td><div><div>B</div></div></td></tr></tbody></table>
+
+Tabell 4 ska inte tillämpas på tryckkärl som ska innehålla en vätska som hör till grupp 2a vid en temperatur, t, som är 65 °C eller lägre. Sådana tryckkärl tillhör varken klass A eller B. (AFS 2024:4)
+
+> _Allmänna råd_
+>
+> Exempel på tryckkärl för luft och kvävgas är hydroforer, expansionskärl och hydraulackumulatorer.
+
+### 33 § – Indelning av rörledningar
+
+Rörledningar delas in i klasser, baserat på tillåtet tryck gånger rörledningens nominella diameter, DN. Tabell 5 och 6 nedan visar hur stor produkten får vara, innan rörledningen faller inom klass B respektive A.
+
+Rörledningar med skiftande diameter ska tillhöra den klass, som den största diametern medför.
+
+Om den nominella diametern, DN, inte går att bestämma, ska rörledningens innerdiameter användas. Om rörledningens tvärsnitt inte är cirkulärt, ska den innerdiameter användas, som motsvarar en cirkel med samma area som tvärsnittet.
+
+Rörledningar, som är grenledningar och har en mindre diameter, DN, än sin huvudrörledning, ska tillhöra samma klass som huvudrörledningen, fram till och med den första avstängningsventilen, räknat från anslutningspunkten mot huvudrörledningen.
+
+<table><caption>Tabell 5. Rörledningar för gas med trycket, p, över 0,5 bar </caption><tbody><tr><th rowspan="2"><div><div>Fluidgrupp</div></div></th><th rowspan="2"><div><div>Nominell diameter i mm, DN</div></div></th><th colspan="4"><div><div>Trycket, p, gånger DN</div></div></th></tr><tr><th><div><div>Över 12,5 men högst 1&nbsp;000</div></div></th><th><div><div>Över 1&nbsp;000 men högst 3&nbsp;500</div></div></th><th><div><div>Över 3&nbsp;500 men högst 5&nbsp;000</div></div></th><th><div><div>Över 5&nbsp;000</div></div></th></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 25 men högst 100</div></div></td><td><div><div>B</div></div></td><td colspan="3"><div><div>A</div></div></td></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 100</div></div></td><td colspan="4"><div><div>A</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 100 men högst 250</div></div></td><td colspan="2"><div><div>-</div></div></td><td colspan="2"><div><div>B</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 250</div></div></td><td colspan="2"><div><div>-</div></div></td><td><div><div>B</div></div></td><td><div><div>A</div></div></td></tr></tbody></table>
+
+Rörledningar, som är avsedda att innehålla en gas, som tillhör grupp 1a vilken även är en instabil gas enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP), ska tillhöra klass A även om de vid tillämpning av tabellen skulle tillhöra klass B.
+
+Rörledningar som ska innehålla en gas, som tillhör grupp 2a vid en temperatur högre än 350 °C, ska tillhöra klass A även om de vid tillämpning av tabellen skulle tillhöra klass B.
+
+<table><caption>Tabell 6. Rörledningar för vätska med trycket, p, över 0,5 bar </caption><tbody><tr><th rowspan="2"><div><div>Fluidgrupp</div></div></th><th rowspan="2"><div><div>Nominell diameter <br>i mm, DN</div></div></th><th rowspan="2"><div><div>Tryck i bar, p</div></div></th><th colspan="2"><div><div>Trycket, p, gånger DN</div></div></th></tr><tr><th><div><div>Över 2&nbsp;000</div></div></th><th><div><div>Över 5&nbsp;000</div></div></th></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 25</div></div></td><td><div><div>Högst 10</div></div></td><td colspan="2"><div><div>B</div></div></td></tr><tr><td><div><div>1a</div></div></td><td><div><div>Över 25</div></div></td><td><div><div>Över 10</div></div></td><td colspan="2"><div><div>A</div></div></td></tr><tr><td><div><div>2a</div></div></td><td><div><div>Över 200</div></div></td><td><div><div>Över 10</div></div></td><td><div><div>-</div></div></td><td><div><div>B</div></div></td></tr></tbody></table>
+
+Tabell 6 ska inte tillämpas på rörledningar, som ska innehålla en vätska, som hör till grupp 2a vid en temperatur, t, som är 65 °C eller lägre. Sådana rörledningar tillhör varken klass A eller B.
+
+### 34 § – Indelning av cisterner
+
+Cisterner delas in i klasser enligt följande:
+
+Fluidgrupp 1a och
+
+volym över 5 000 liter, men högst 10 000 liter tillhör klass B
+
+volym över 10 000 liter tillhör klass A.
+
+Fluidgrupp 2a, med temperatur, t, över 65° C och volym över 50 000 liter tillhör klass B.
+
+### 35 § – Indelning av vakuumkärl
+
+Vakuumkärl delas in i klasser enligt följande:
+
+Fluidgrupp 1a och
+
+volym över 1 000 liter, men högst 5 000 liter tillhör klass B
+
+volym över 5 000 liter tillhör klass A.
+
+Fluidgrupp 2a, med temperatur, t, över 65° C och
+
+volym över 50 000 liter, men högst 500 000 liter tillhör klass B
+
+volym över 500 000 liter tillhör klass A.
+
+### 36 § – Förteckning över trycksatta anordningar i klass A eller B
+
+Arbetsgivaren ska upprätta en förteckning över alla trycksatta anordningar i klass A eller B, som finns på de arbetsställen som den råder över. Förteckningen ska finnas tillgänglig på varje arbetsställe.
+
+I förteckningen ska det finnas information för att kunna identifiera anordningarna om senast utförda kontroller och om vilka behållare som inte har en skylt enligt [10 kap. 24 §](/lagstiftning/afs-2023-11/kap-10#24).
+
+### 37 § – Övervakning av behållare i klass A eller B
+
+Behållare i klass A och B ska ständigt övervakas. Ständig övervakning innebär att operatören omedelbart kan nå behållaren, och utan svårighet avgöra om det fortfarande är säkert att låta anordningen vara trycksatt, och vid avvikelser vidta nödvändiga åtgärder i tid.
+
+Om arbetsgivaren genom dokumentationen av riskbedömningen enligt [6 §](#6-undersökning-och-riskbedömning) kan visa, att det är säkert att övervaka behållaren med ett visst tidsintervall, behöver den inte övervakas i enlighet med första stycket. Om det finns ett säkerhetsrelaterat larm, ska det även framgå av dokumentationen
+
+på vilket sätt operatörer uppmärksammas på sådana larm från behållaren, och
+
+vilken inställelsetid som gäller vid säkerhetsrelaterade larm från behållaren.
+
+Om flera behållare har sammanfogats och fungerar tillsammans för ett särskilt ändamål, kan en gemensam bedömning enligt andra stycket göras för dessa behållare.
+
+För pannor finns särskilda krav för övervakning i [10 kap.](/lagstiftning/afs-2023-11/kap-10)
+
+### 38 § – Rutiner för fortlöpande tillsyn av trycksatta anordningar i klass A eller B
+
+En arbetsgivare som låter en trycksatt anordning i klass A eller B vara trycksatt, ska ha dokumenterade rutiner för fortlöpande tillsyn av anordningen och dess eventuella säkerhetsutrustning tillgängliga på arbetsplatsen. En rutin kan omfatta en eller flera trycksatta anordningar. Av rutinen ska det framgå, vilka trycksatta anordningar och eventuella säkerhetsutrustningar som avses.
+
+Av rutinerna enligt första stycket ska det framgå, hur arbetsgivaren säkerställer att kraven i [9 §](#9-fortlöpande-tillsyn) följs. Arbetsgivaren ska regelbundet och minst en gång per år utvärdera och vid behov revidera rutinerna.
+
+Arbetsgivaren ska utse en person, som genomför och dokumenterar den fortlöpande tillsynen enligt rutinen.
+
+Den arbetsgivare som låter en eller flera trycksatta anordningar vara trycksatt i strid med första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+
+Lägsta avgiften är 10 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta, är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta, ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 10 000 kronor + (antal sysselsatta – 1) × 781 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+Om arbetsgivaren redan har betalat sanktionsavgift för överträdelsen enligt [10 kap. 8](/lagstiftning/afs-2023-11/kap-10#8) eller [29 §§](/lagstiftning/afs-2023-11/kap-10#29) ska arbetsgivaren inte betala någon sanktionsavgift enligt [denna paragraf](/lagstiftning/afs-2023-11).
+
+### 39 § – Journal över återstående livslängd
+
+Arbetsgivaren ska föra en journal, som visar den återstående livslängden för trycksatta anordningar i klass A eller B, till stöd för den fortlöpande tillsynen. Om de delar som en anordning består av har olika livslängd, ska journalen beskriva de olika delarna separat.
+
+En anordning som enligt [4 §](#4) undantas från krav på revisionskontroll enligt [10 kap. 20 §](/lagstiftning/afs-2023-11/kap-10#20-revisionskontroll), och vars livslängd enligt journalen och bruksanvisningen har uppnåtts, får därefter bara vara trycksatt om arbetsgivaren har gjort en analys som visar att anordningen har en förlängd livslängd och dokumenterat analysen i journalen.
+
+> _Allmänna råd_
+>
+> Exempel på information som tillverkaren ofta lämnar i bruksanvisningen om en anordnings livslängd:
+>
+> För krypning: antalet driftstimmar vid specificerade temperaturer.
+>
+> För utmattning: antalet cykler vid specificerade trycknivåer.
+>
+> För allmän korrosion: väggtjocklek.
+
+### 40 § – Reparation eller ändring av trycksatta anordningar i klass A eller B
+
+En arbetsgivare som utför eller låter utföra en väsentlig reparation eller ändring av en trycksatt anordning i klass A eller B, ska upprätta en dokumentation enligt [41 §](#41) för åtgärden.
+
+Bestämmelserna i första stycket gäller inte reparationer eller ändringar, som utförs som ett led i tillverkningen enligt de väsentliga säkerhetskraven i ett av Europeiska unionens produktdirektiv eller produktförordningar.
+
+> _Allmänna råd_
+>
+> Exempel på sådant som kan vara en väsentlig reparation, eller ändring är byte av eller svetsarbete i tryckbärande delar, eller annat byte av skadade tryckbärande delar, där det nya materialet sammanfogas med den trycksatta anordningen.
+
+### 41 §
+
+Dokumentationen ska omfatta
+
+konstruktions- och tillverkningsritningar, samt flödesschema för åtgärden, tillsammans med de beskrivningar och förklaringar som behövs för att förstå ritningarna och flödesschemat,
+
+de metoder som använts för att utföra förband, som gör att anordningarna bara går att ta isär med förstörande metoder,
+
+den skriftligt upprättade riskbedömningen enligt [6 §](#6-undersökning-och-riskbedömning), som visar att arbetsgivaren har beaktat alla de avvikelser och händelser som är relevanta för säkerheten och som rimligen går att förutse som en följd av åtgärden,
+
+beräkningar som visar, att säkerhetsutrustning som valts är tillräcklig, och
+
+eventuella konstruktionsberäkningar för åtgärden.
+
+Dokumentation av åtgärden ska, i förekommande fall, visa att
+
+sådana förband, som gör att anordningarna bara går att ta isär med förstörande metoder, utförs på samma sätt som om förbandet utförts vid tillverkning enligt Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar bilaga 1, punkt 3.1.2 om permanenta förband,
+
+personalen som utför förband enligt 1 eller den oförstörande provningen av förbandet är kvalificerad eller godkänd, för att utföra motsvarande åtgärder enligt Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar bilaga 1, punkt 3.1.2 eller 3.1.3,
+
+eventuell värmebehandling utförs på samma sätt som om värmebehandlingen hade utförts vid tillverkning, enligt Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar bilaga 1, punkt 3.1.4 och att värmebehandlingen utförs vid ett lämpligt skede av åtgärden, i de fall som materialets egenskaper kan påverkas i sådan utsträckning att det påverkar anordningens säkerhet,
+
+en oförstörande provning är utförd med godkänt resultat
+
+en tryckkontroll är utförd efter åtgärden,
+
+det finns nödvändig säkerhetsutrustning som fungerar, och
+
+eventuella instruktioner i bruksanvisningen för åtgärden har följts, såvida inte instruktionerna avviker från 1–6.
+
+### 42 §
+
+Dokumentation, som upprättas av arbetsgivaren efter åtgärder enligt [40 §](#40-reparation-eller-ändring-av-trycksatta-anordningar-i-klass-a-eller-b), ska i huvudsak visa överensstämmelse med de väsentliga säkerhetskrav, som gäller enligt Europeiska unionens produktdirektiv, eller motsvarande regler för konstruktion och tillverkning, som om anordningen hade tillhandahållits på marknaden eller tagits i bruk vid den tidpunkt, då åtgärden utfördes.
+
+När det inte är möjligt eller lämpligt att tillämpa dessa säkerhetskrav, ska det tydligt framgå av dokumentationen enligt [41 §](#41), vilka tekniska lösningar som i stället vidtas, för att anordningen ska vara säker att trycksätta efter åtgärden.
 <!-- scan-laws:end -->
 
 ## Tolkning

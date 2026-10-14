@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,35 +21,537 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Krav vid användning av truck när det finns särskilda risker
+### Inledning
+
+Stöd och verktyg: Användning av trycksatta anordningar
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) gäller kontroll av trycksatta anordningar och tillhörande säkerhetsutrustning. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2.
+
+Föreskrifterna gäller inte anordningar som
+
+finns i kärntekniska anläggningar, för vilka det har utfärdats motsvarande föreskrifter med stöd av [förordningen (1984:14)](https://rkrattsbaser.gov.se/sfst?bet=1984%3A14) om kärnteknisk verksamhet, eller någon annan författning som har ersatt den förordningen,
+
+ingår i raketer, luftfartyg eller mobila offshore-enheter, samt utrustning som är speciellt avsedd för installation ombord på dessa farkoster eller för deras framdrivning,
+
+ingår i vapen, ammunition eller annan materiel som är avsedd speciellt för militära ändamål,
+
+är bildäck, luftkuddar, bollar och ballonger för lek och idrott, uppblåsbara båtar och andra liknande tryckbärande anordningar som består av ett mjukt hölje,
+
+är eller ingår i masugnar, med tillhörande kylsystem, varmluftsrekuperatorer, rökgasrenare till masugnar samt direktreduktionsugnar med tillhörande kylsystem, gaskonvertrar, ugnar och skänkar för smältning, omsmältning, avgasning och gjutning av stål, järn och icke-järnmetaller,
+
+är radiatorer och rörledningar i system för uppvärmning med vatten,
+
+är ventilationskanaler, rökgaskanaler eller liknande,
+
+ingår i system för tillförsel, fördelning och utsläpp av vatten med tillhörande utrustning samt turbinrör, trycktunnlar, tryckschakt och andra tilloppskanaler i vattenkraftverk och tillhörande utrustningsdelar,
+
+är avsedda för transport och distribution av drycker, och vars tryck inte överstiger 7 bar, samtidigt som trycket gånger volymen inte överstiger 500 barliter,
+
+är höljen eller maskindelar för vilka dimensioneringen, valet av material och konstruktionsreglerna i huvudsak baseras på krav på tillräcklig hållfasthet, styvhet och stabilitet när det gäller statisk och dynamisk påkänning under drift, eller med hänsyn till andra egenskaper, som påverkar deras funktion och där trycket inte har väsentlig betydelse för konstruktionen,
+
+är andra anordningar än enkla tryckkärl som är avsedda för fordons funktion och som definieras i [Europaparlamentets och rådets förordning (EU) 2018/858](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R0858) av den 30 maj 2018 om godkännande av och marknadskontroll över motorfordon och släpfordon till dessa fordon samt av system, komponenter och separata tekniska enheter som är avsedda för dessa fordon, om ändring av [förordningarna (EG) nr 715/2007](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007R0715) och [(EG) nr 595/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R0595) samt om upphävande av [direktiv 2007/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007L0046), [Europaparlamentets och rådets förordning (EU) nr 167/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0167) av den 5 februari 2013 om godkännande och marknadskontroll av jordbruks- och skogsbruksfordon och [Europaparlamentets och rådets förordning (EU) nr 168/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0168) av den 15 januari 2013 om godkännande av och marknadskontroll för två- och trehjuliga fordon och fyrhjulingar 167/2013 och 168/2013, eller
+
+ingår i elektriska apparater för elproduktion eller eldistribution.
+
+De begrepp som används ovan har samma innebörd, som motsvarande begrepp i Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar. Med begreppet enkla tryckkärl avses anordningar, som omfattas av Arbetsmiljöverkets föreskrifter (AFS 2023:6) om produkter – enkla tryckkärl eller skulle omfattats av motsvarande föreskrifter som gällde, när tryckkärlet togs i bruk. Med trycksatta anordningar i klass A och B avses samma anordningar som i [9 kap.](/lagstiftning/afs-2023-11/kap-9)
+
+### 2 § – Definitioner
+
+I dessa föreskrifter har följande begrepp dessa betydelser.
+
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Användning</div></div></td><td><div><div>Förutom det som står i 2&nbsp;kap. om användning av arbetsutrustning, även aktiviteter såsom nyttjande, övervakning, fortlöpande tillsyn, underhåll, rengöring och förvaring.</div></div></td></tr><tr><td><div><div>Behållare</div></div></td><td><div><div>Trycksatt anordning som inte är en rörledning.</div></div></td></tr><tr><td><div><div>Cistern</div></div></td><td><div><div>Behållare som är konstruerad för att innehålla vätska eller kondenserad gas, i vilken gastrycket ovanför innehållet varken understiger atmosfärstrycket med mer än 0,0065&nbsp;bar eller överstiger atmosfärstrycket med mer än 0,5&nbsp;bar.</div></div></td></tr><tr><td><div><div>Fluid</div></div></td><td><div><div>Gas, vätska och ånga i ren fas samt blandningar av dessa, oavsett om fasta ämnen ingår som suspension eller inte.</div></div></td></tr><tr><td><div><div>Inställelsetid</div></div></td><td><div><div>Den tid det tar för personal att inställa sig på en plats, där åtgärder som olika larm kräver, kan vidtas.</div></div></td></tr><tr><td><div><div>Panna</div></div></td><td><div><div>Annat tryckkärl än vattenvärmare i vilket värme, som frigörs ur bränsle, elenergi eller någon annan energikälla, överförs till fluid för användning utanför kärlet.</div></div></td></tr><tr><td><div><div>Rörledning</div></div></td><td><div><div>Ledning som består av rör, inklusive slangar, med tillhörande rördelar och tryckbärande tillbehör. Gränsen mellan behållare och rörledning går vid svetsen mot behållarens stuts eller, vid en flänsad anslutning, vid behållarens fläns. Svetsen tillhör rörledningen. Värmeväxlare, som består av rör för kylning eller uppvärmning av luft, anses som rörledning på samma sätt som enligt Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar.</div></div><div><div>Vanligen används ledningarna för transport av fluider, men även ledningar såsom hydraulledningar ingår.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr><tr><td><div><div>Säkerhetsrelaterat larm</div></div></td><td><div><div>Indikation om en avvikelse från avsedda driftbetingelser, som kan påverka säkerheten negativt.</div></div></td></tr><tr><td><div><div>Säkerhetsutrustning</div></div></td><td><div><div>Utrustning som hindrar att tryck, temperatur, fluidnivå, effekt eller andra parametrar, som är av betydelse för trycksatta anordningars säkerhet, når nivåer som avviker från de gränser som fastställts som nödvändiga vid konstruktion eller kontroll av en trycksatt anordning.</div></div></td></tr><tr><td><div><div>Tryck</div></div></td><td><div><div>Tryck jämfört med atmosfärstrycket. Övertryck anges med positivt värde. Undertryck anges med negativt värde.</div></div></td></tr><tr><td><div><div>Tryckbärande tillbehör</div></div></td><td><div><div>Anordningar med driftsfunktion och tryckbärande hölje.</div></div></td></tr><tr><td><div><div>Tryckkärl</div></div></td><td><div><div>Behållare som konstruerats och tillverkats för att innehålla fluider under tryck, inkluderande till behållaren direkt sammanfogade delar fram till anslutningspunkten till annan anordning. Ett tryckkärl kan innehålla ett eller flera rum. </div></div></td></tr><tr><td><div><div>Trycksatt anordning</div></div></td><td><div><div>Anordning som antingen är en cistern, ett vakuumkärl, ett tryckkärl eller en rörledning.</div></div></td></tr><tr><td><div><div>Tryckbärande anordning</div></div></td><td><div><div>Tryckkärl, rörledning, säkerhetsutrustning och tryckbärande tillbehör, i förekommande fall även sådana element som är sammanfogade med tryckbärande delar, såsom flänsar, stutsar, kopplingar, bärelement och lyftöglor.</div></div></td></tr><tr><td><div><div>Trycksättning</div></div></td><td><div><div>Aktivitet där en trycksatt anordnings skal belastas, så att tryck- eller dragspänningar uppstår på grund av ett inre negativt eller positivt tryck. Med trycksättning avses för cisterner de spänningar, som uppkommer av det statiska tryck, som vätska i cisternen ger upphov till, då cisternen fylls.</div></div></td></tr><tr><td><div><div>Vakuumkärl</div></div></td><td><div><div>Behållare som är konstruerad för ett tryck, som understiger atmosfärstrycket med mer än 0,0065&nbsp;bar.</div></div></td></tr><tr><td><div><div>Vattenvärmare</div></div></td><td><div><div>Tryckkärl för eluppvärmning av tappvatten till en temperatur över 65&nbsp;°C men högst 110&nbsp;°C.</div></div></td></tr><tr><td><div><div>Övervakning</div></div></td><td><div><div>Arbetsuppgift, som vidtas för att säkerställa, att driften av den trycksatta anordningen sker på ett korrekt och säkert sätt.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (20 rader)</label></div>
+
+Med begreppen gasflaska, batterivagn, batterifordon, tank, MEG-container, fordon och vagn avses i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) samma som i Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2022:3) om transport av farligt gods på väg och i terräng och Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2022:4) om transport av farligt gods på järnväg.
+
+Med begreppen bärbar brandsläckare och flaska för andningsapparat avses i dessa föreskrifter samma som i Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar. (AFS 2024:4)
+
+### 3 § – Undantag för vissa cisterner och rörledningar för brandfarlig gas eller vätska
+
+Följande anordningar omfattas inte av bestämmelserna i [7](#7-villkor-för-trycksättning)–[26 §§](#26-tidsperioden-när-återkommande-kontroll-ska-utföras):
+
+Cisterner och rörledningar för brandfarlig vätska som omfattas av krav på kontroll i föreskrifter, som har meddelats med stöd av [förordningen (2010:1075)](https://rkrattsbaser.gov.se/sfst?bet=2010%3A1075) om brandfarliga och explosiva varor.
+
+Sådana rörledningar som avses i [2 §](#2-definitioner) a i Arbetsmiljöverkets föreskrifter (AFS 2023:5) om produkter – tryckbärande anordningar, om de är avsedda att innehålla en gasblandning som till övervägande del innehåller metan.
+
+### 4 § – Undantag från driftprov
+
+Följande två typer av trycksatta anordningar är undantagna kraven på driftprov, även om de tillhör klass A eller B:
+
+Rörledningar som innehåller vatten vid en temperatur av högst 120 °C och där säkerhetsutrustningen, som skyddar rörledningen är placerad på en annan trycksatt anordning.
+
+Cisterner som inte behöver säkerhetsutrustning.
+
+### 5 § – Undantag från in- och utvändig undersökning
+
+Följande sex typer av trycksatta anordningar är undantagna kraven på in- och utvändig undersökning, även om de tillhör klass A:
+
+Värmeväxlare i en undercentral i fjärrvärmesystem, där temperaturen inte överstiger 120 °C.
+
+Behållare som är vakuumisolerade och innehåller kondenserad koldioxid.
+
+Behållare för djupkyld kondenserad gas, vars kokpunkt vid ett normalt atmosfärstryck om 1,013 bar är under -153 °C.
+
+Behållare och rörledningar i hydrauloljesystem, om materialet i dess tryckbärande delar är sådant att det erfarenhetsmässigt inte är stor risk för sprickbildning.
+
+Behållare i en kyl- eller värmepumpsanläggning för ett köldmedium, som inte är korrosivt i förhållande till det trycksatta materialet.
+
+Rörledningar som innehåller vatten med en temperatur av högst 120 °C och är förlagda på ett skyddat sätt.
+
+> _Allmänna råd_
+>
+> Exempel på när en rörledning kan vara förlagd på ett skyddat sätt är, om den är
+>
+> nedgrävd i marken, så att läckage inte är en risk,
+>
+> förlagd i en kulvert eller särskild ledningstunnel, dit ingen har tillträde när den är trycksatt, eller
+>
+> dubbelmantlad.
+
+### 6 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-10). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) om arbetsgivare och om arbetstagare.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-10) gäller då även dem.
+
+### 7 § – Villkor för trycksättning
+
+Arbetsgivaren får bara trycksätta anordningar i klass A eller B om ett kontrollorgan, vid en kontroll, har bedömt att anordningen uppfyller kraven i [detta kapitel](/lagstiftning/afs-2023-11/kap-10).
+
+Anordningen får inte användas trycksatt på ett sätt eller under sådana förhållanden, som avviker från ett kontrollorgans bedömning av det högsta eller lägsta trycket i bar respektive temperatur i °C.
+
+Bestämmelserna i första och andra styckena gäller inte trycksättning, som behövs för tryckkontroll, provdrift, intrimning eller liknande, som kontrollorganet har bedömt är nödvändigt, för att kunna utföra en kontroll.
+
+### 8 §
+
+Den arbetsgivare som låter en anordning vara trycksatt eller underlåter att göra en trycksatt anordning trycklös, i strid med [7 §](#7-villkor-för-trycksättning) första eller andra stycket, ska betala en sanktionsavgift.
+
+Avgiften ska bestämmas enligt tabellen nedan. Den lägsta avgiften är 15 000 kronor och den högsta är 300 000 kronor. En arbetsgivare som trycksätter flera trycksatta anordningar i strid med [7 §](#7-villkor-för-trycksättning) första eller andra stycket, ska maximalt betala 600 000 kronor.
+
+<table><caption>Tabell 7. Sanktionsavgift – typ av anordning </caption><tbody><tr><th><div><div>Typ av anordning</div></div></th><th><div><div>Märkeffekt alternativt kontrollklass</div></div></th><th><div><div>Avgift i kronor</div></div></th></tr><tr><th rowspan="5"><div><div>Pannor</div></div></th><td><div><div>Märkeffekt 100&nbsp;kW eller lägre</div></div></td><td><div><div>15&nbsp;000</div></div></td></tr><tr><td><div><div>Märkeffekt över 100&nbsp;kW men högst 2&nbsp;000&nbsp;kW</div></div></td><td><div><div>30&nbsp;000</div></div></td></tr><tr><td><div><div>Märkeffekt över 2&nbsp;000&nbsp;kW men högst 5&nbsp;000&nbsp;kW</div></div></td><td><div><div>75&nbsp;000</div></div></td></tr><tr><td><div><div>Märkeffekt över 5&nbsp;000&nbsp;kW men högst 120&nbsp;000&nbsp;kW</div></div></td><td><div><div>150&nbsp;000</div></div></td></tr><tr><td><div><div>Märkeffekt över 120&nbsp;000&nbsp;kW</div></div></td><td><div><div>300&nbsp;000</div></div></td></tr><tr><th rowspan="2"><div><div>Andra trycksatta <br>anordningar än pannor</div></div></th><td><div><div>Klass&nbsp;A utom behållare för luft och kvävgas</div></div></td><td><div><div>30&nbsp;000</div></div></td></tr><tr><td><div><div>Klass&nbsp;B och behållare för luft och kvävgas</div></div></td><td><div><div>15&nbsp;000</div></div></td></tr></tbody></table>
+
+Om arbetsgivaren redan har betalat sanktionsavgift för överträdelsen enligt [9 kap. 38 §](/lagstiftning/afs-2023-11/kap-9#38-rutiner-för-fortlöpande-tillsyn-av-trycksatta-anordningar-i-klass-a-eller-b) eller [29 §](#29) [detta kapitel](/lagstiftning/afs-2023-11/kap-10) ska arbetsgivaren inte betala någon sanktionsavgift enligt [denna paragraf](/lagstiftning/afs-2023-11).
+
+### 9 § – Första kontroll
+
+Arbetsgivaren ska låta göra en första kontroll av trycksatta anordningar i klass A eller B
+
+innan de trycksätts för första gången, eller
+
+om de har varit stationära och ska trycksättas, efter det att de har flyttats.
+
+Vid denna kontroll ska ett kontrollorgan kontrollera, att anordningen är lämplig för sitt ändamål och att den inte är skadad.
+
+Kontrollen ska alltid omfatta en bedömning av att anordningen inte uppenbarligen är placerad i strid med [9 kap. 7](/lagstiftning/afs-2023-11/kap-9#7-hur-trycksatta-anordningar-ska-vara-placerade) och [8 §§](/lagstiftning/afs-2023-11/kap-9#8).
+
+Om en arbetsgivare installerar eller låter installera en trycksatt anordning i klass A eller B, genom sammanfogning med minst en annan trycksatt anordning, ska kontrollorganet dessutom innan trycksättning bedöma, om bestämmelserna i [6 kap.](/lagstiftning/afs-2023-11/kap-6) i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:9) om produkter – för stegar, ställningar, och viss annan utrustning för arbete på höjd, samt vissa trycksatta anordningar är uppfyllda.
+
+Kontrollorganet ska inte göra någon bedömning enligt fjärde stycket, om en arbetsgivare kan visa att en trycksatt anordnings sammanfogning med en annan trycksatt anordning, har omfattats av en försäkran om överensstämmelse enligt ett av Europeiska unionens produktdirektiv.
+
+> _Allmänna råd_
+>
+> För att göra bedömningen är det ofta nödvändigt att kontrollorganet får möjlighet att undersöka anordningen, innan installationen utförs.
+
+### 10 § – Återkommande kontroll
+
+Arbetsgivaren ska låta genomföra återkommande kontroller av trycksatta anordningar i klass A eller B, enligt bilaga 7.
+
+Förfallomånad är den kalendermånad, när intervallet för nästa återkommande kontroll löper ut. Kontrollorganet bestämmer förfallomånaden vid varje kontrolltillfälle utifrån villkoren i bilaga 7.
+
+För trycksatta anordningar i klass B, utförs den återkommande kontrollen i form av driftprov.
+
+För trycksatta anordningar i klass A, utförs den återkommande kontrollen i form av driftprov, eller driftprov i kombination med en in- och utvändig undersökning.
+
+När driftprov utförs i kombination med en in- och utvändig undersökning, ska driftprovet utföras sist. Undantaget är om kontrollorganet har bedömt att det är minst lika säkert att genomföra hela eller delar av driftprovet före den in- och utvändiga undersökningen.
+
+### 11 § – Program för riskanpassad kontroll av trycksatta anordningars skick
+
+Om en arbetsgivare tillämpar ett program för riskanpassad kontroll av trycksatta anordningars skick, får förfallomånaden för nästkommande kontroll med in- och utvändig undersökning bedömas utan att tillämpa bilaga 7. Programmet ska bedömas av ett kontrollorgan i enlighet med [12](#12)–[19 §§](#19). En förutsättning för att tillämpa programmet är, att ett kontrollorgan har bedömt att programmet ger minst samma säkerhet, som om man hade tillämpat bilaga 7.
+
+Programmet ska omfatta en sammanfogad grupp av trycksatta anordningar och dessa anordningar ska användas med samma tryck, temperatur, fluid och andra driftsbetingelser.
+
+Programmet kan upprättas för enstaka anordningar i en sammanfogad grupp, om arbetsgivaren bedömer att avställning av anordningen för en in- och utvändig undersökning medför synnerliga olägenheter.
+
+### 12 §
+
+Innan arbetsgivaren upprättar ett program enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick), ska de trycksatta anordningar i klass A eller B som ingår i programmet, åtminstone ha genomgått en in- och utvändig undersökning enligt [10 §](#10-återkommande-kontroll).
+
+En anordning kan omfattas av ett program, utan att en invändig undersökning enligt första stycket är genomförd. Då ska arbetsgivaren ha bedömt, att en invändig undersökning medför synnerliga olägenheter. Ett kontrollorgan ska då ha bedömt att det
+
+finns metoder, som vid specificerade driftsbetingelser ger samma säkerhet, som att utföra en in- och utvändig undersökning enligt [10 §](#10-återkommande-kontroll), eller
+
+är bevisat att anordningens innehåll inte är skadligt för det material som den är tillverkad av, och att ingen annan skademekanism rimligen är förutsebar.
+
+> _Allmänna råd_
+>
+> Exempel på trycksatta anordningar, där en invändig undersökning ofta kan medföra synnerliga olägenheter, är processugnar, högtrycksreaktorer, stora behållare för kondenserade gaser, såsom eten och ammoniak, som lagras nära kokpunkten, samt anordningar som är så kallade coldboxanläggningar.
+
+### 13 §
+
+Arbetsgivaren ska ta fram ett skriftligt program enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick). Programmet ska identifiera de trycksatta anordningar som omfattas, och innehålla uppgifter om
+
+de driftsförutsättningar som programmet baserats på,
+
+erfarenheter från användningen,
+
+bedömningar och provrapporter från tidigare kontroller,
+
+intervall för kontrollorganets återkommande kontroll av de trycksatta anordningar som omfattas av programmet,
+
+den utökade riskbedömning av skicket hos anordningen eller gruppen av anordningar som tagits fram enligt [9 kap. 6 §](/lagstiftning/afs-2023-11/kap-9#6-undersökning-och-riskbedömning), och
+
+de metoder som programmet förutsätter, och kraven på de personer som utför den tillsyn som anges i programmet.
+
+Den utökade riskbedömning, som avses i första stycket 5, ska omfatta analyser av konsekvenser och skademekanismer, som gör det möjligt att avgöra intervall utan att tillämpa bilaga 7.
+
+Det ska också framgå hur programmet ökar omfattningen av den fortlöpande tillsynen, i förhållande till vad som skulle ha motiverats, om man i stället hade gjort återkommande kontroller enligt intervallen i bilaga 7.
+
+> _Allmänna råd_
+>
+> Exempel på sådana skademekanismer som avses i andra stycket, är korrosion, erosion, krypning och utmattning.
+
+### 14 §
+
+Arbetsgivaren ska kontinuerligt utveckla programmet enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick), utifrån det som framkommer vid användningen, den fortlöpande tillsynen och kontrollerna.
+
+Arbetsgivaren ska undersöka, och vid behov revidera, programmet när
+
+en revisionskontroll eller första kontroll har utförts,
+
+programmet inte längre är aktuellt, på grund av nya kunskaper om liknande anordningar, eller
+
+uppgifterna i [13 §](#13) första stycket har ändrats.
+
+Kontrollorganet ska bedöma, om programmet fortfarande ger samma säkerhet, som om en in- och utvändig undersökning hade utförts enligt bilaga 7
+
+efter en revidering enligt andra stycket, eller
+
+när sex år har gått sedan den senaste bedömningen enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick) första stycket.
 
 ### 15 §
 
-Arbetsgivaren ska se till att flak och eventuella lastbryggor är säkrade, så att de inte kan röra sig av misstag, när man lastar eller lossar på ett fordonsflak med en truck.
-
-#### Kunskaper och tillstånd
+Ett kontrollorgan, som har bedömt att en arbetsgivares program enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick) första stycket ger samma säkerhet, som om en in- och utvändig undersökning hade utförts enligt bilaga 7, ska besöka arbetsgivaren två gånger per år, för att försäkra sig om, att den upprätthåller och tillämpar programmet. Efter varje besök ska kontrollorganet lämna en rapport till arbetsgivaren, som visar att förutsättningarna, som låg till grund för den föregående bedömningen, fortfarande är uppfyllda.
 
 ### 16 §
 
-Arbetsgivaren ska se till att den som använder en truck, har dokumenterade teoretiska och praktiska kunskaper för att använda trucken säkert.
+Kontrollorganet kan göra oanmälda besök hos arbetsgivaren, utöver besöken i [15 §](#15). Nödvändigheten av besöken och deras frekvens ska följa ett besökskontrollsystem, som kontrollorganet handhar. Kontrollorganet ska särskilt ta hänsyn till följande faktorer, när de utformar systemet:
+
+Resultaten av tidigare kontroller enligt [11 §](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick) och [14 §](#14) tredje stycket samt resultaten av tidigare besök.
+
+Behovet av att följa upp åtgärder, som har föranletts av arbetsgivarens fortlöpande tillsyn enligt [13 §](#13) tredje stycket.
+
+Speciella villkor som är knutna till programmet, om det finns sådana.
+
+Betydelsefulla förändringar i arbetsgivarens organisation som kan påverka programmet.
+
+Vid de oanmälda besöken får kontrollorganet vid behov utföra eller låta utföra provningar, för att kontrollera att programmet fungerar tillfredsställande. Kontrollorganet ska lämna en rapport till arbetsgivaren, och en provningsrapport om de har utfört provning.
 
 ### 17 §
 
-Den som använder en truck ska ha ett skriftligt tillstånd för att få använda trucken. Arbetsgivaren ska utfärda tillståndet. Om den som kör trucken är inhyrd för att använda en truck i inhyrarens verksamhet, ska istället inhyraren utfärda tillståndet. Tillståndet ska vara personligt och upplysa om vilka typer av truckar och vilka arbetsuppgifter det gäller för.
+Om kontrollorganet inte ges möjlighet att göra besök enligt [15](#15) och [16 §§](#16), får arbetsgivaren inte trycksätta eller låta en anordning vara trycksatt, innan en kontroll med en in- och utvändig undersökning har utförts enligt bilaga 7.
 
-På ett gemensamt arbetsställe ska den samordningsansvariga ha rutiner för att kontrollera att den som använder en truck har ett giltigt tillstånd från sin arbetsgivare eller inhyrare. Den samordningsansvariga ska även informera om hur man säkert använder en truck på arbetsstället.
+Kontrollorgan, som inte ges möjlighet att göra besök enligt [15](#15) och [16 §§](#16), ska meddela Arbetsmiljöverket detta.
 
-Den arbetsgivare, som i strid med kraven i första stycket låter en eller flera använda en truck, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+### 18 §
 
-Den lägsta avgiften är 15 000 kronor och den högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+Arbetsgivaren ska låta göra en återkommande kontroll med en in- och utvändig undersökning enligt bilaga 7 inom sex månader, om kontrollorganet eller Arbetsmiljöverket bedömer, att programmet för riskanpassad kontroll av trycksatta anordningars skick inte längre ger samma säkerhet, som om en sådan undersökning hade utförts. Sedan ska intervallet för in- och utvändig undersökning bedömas utifrån kraven i bilaga 7.
 
-Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
+### 19 §
 
-Summan ska avrundas nedåt till närmaste hela hundratal.
+Ett kontrollorgan, som har bedömt att ett program för trycksatta anordningars skick uppfyller [13](#13) och [14 §§](#14), ska lämna en rapport till arbetsgivaren. Kontrollorganet ska utfärda ett intyg enligt [25 §](#25-intyg-efter-kontroll-och-bedömning-av-riskanpassat-program), som anger intervallet för nästkommande in- och utvändiga undersökning. Intyget ska utfärdas för varje anordning, som ingår i programmet.
 
-[5 kap.](/lagstiftning/afs-2023-11/kap-5) Användning av motorkedjesågar och röjsågar
+Kontrollorganet ska meddela Arbetsmiljöverket, vilka anordningar som omfattas av programmet för riskanpassad kontroll av trycksatta anordningars skick.
 
-Stöd och verktyg: Jordbruk och skogsbruk
+### 20 § – Revisionskontroll
+
+Arbetsgivaren ska låta göra en revisionskontroll av trycksatta anordningar i klass A eller B, när de
+
+väsentligen har reparerats eller ändrats,
+
+har utsatts för sådana risker att de kan ha skadats,
+
+ska vara trycksatta med väsentligt ändrade driftsförhållanden, eller
+
+ska vara trycksatta efter det att journalen enligt [9 kap. 39 §](/lagstiftning/afs-2023-11/kap-9#39-journal-över-återstående-livslängd) visar, att det inte finns någon återstående livslängd.
+
+En revisionskontroll behöver inte utföras om
+
+ett kontrollorgan bedömer, att omständigheterna i första stycket 1–3 obetydligt påverkar anordningens hållfasthet, eller
+
+arbetsgivaren kan visa, att en åtgärd enligt första stycket har utförts som ett led i tillverkningen, enligt de väsentliga säkerhetskraven i ett av Europeiska unionens produktdirektiv.
+
+> _Allmänna råd_
+>
+> För att göra bedömningen, är det ofta nödvändigt att kontrollorganet får möjlighet att undersöka anordningen, innan arbetsgivaren utför åtgärder eller reparationer.
+>
+> Exempel på sådant som kan vara en väsentlig reparation, eller ändring är
+>
+> byte av, eller svetsarbete i, tryckbärande delar,
+>
+> annat byte av skadade tryckbärande delar, där det nya materialet sammanfogas med den trycksatta anordningen, eller
+>
+> byte av säkerhetsutrustning.
+>
+> Exempel på sådana risker, som medför att en trycksatt anordning kan ha skadats, är att den har
+>
+> stått avställd utan korrosionshindrande åtgärder, eller
+>
+> utsatts för tryck eller temperatur, som avviker från det som tillverkaren har avsett.
+>
+> Exempel på väsentligt ändrade driftförhållanden är att innehållet ändras
+>
+> från en fluid som inte är korrosiv, till en fluid som är korrosiv i förhållande till anordningens material, eller
+>
+> från en fluid som tillhör grupp 2a, till en som tillhör grupp 1a.
+
+### 21 §
+
+Vid en revisionskontroll ska kontrollorganet kontrollera, om anordningen efter åtgärden fortfarande är lämplig för sitt ändamål, och dokumentationen av vidtagna åtgärder uppfyller kraven i [9 kap. 40](/lagstiftning/afs-2023-11/kap-9#40-reparation-eller-ändring-av-trycksatta-anordningar-i-klass-a-eller-b)–[42 §§](/lagstiftning/afs-2023-11/kap-9#42).
+
+> _Allmänna råd_
+>
+> För att göra kontrollen, är det ofta nödvändigt att kontrollorganet ges möjlighet att undersöka anordningen, innan arbetsgivaren utför åtgärder eller reparationer.
+
+### 22 § – Åtgärder efter kontroll
+
+Efter en kontroll ska kontrollorganet bedöma om anordningen uppfyller kraven i bestämmelserna, som den har kontrollerats mot, och i övrigt är säker att använda för ändamålet, som arbetsgivaren avser.
+
+För anordningar som uppfyller kraven ska kontrollorganet därefter bedöma högsta respektive lägsta tryck i bar, och temperatur i °C med hänsyn till säkerheten vid den avsedda användningen, och förfallomånad för nästa återkommande kontroll enligt [10](#10-återkommande-kontroll) eller [19 §§](#19).
+
+### 23 § – Skyltar på kontrollerade behållare
+
+För en behållare, som ett kontrollorgan har bedömt uppfyller kraven, ska kontrollorganet utfärda en skylt eller uppdatera informationen på en skylt som redan finns.
+
+På skylten ska det finnas lättförståeliga och tydliga uppgifter om
+
+anordningens identitet eller tillverkningsnummer,
+
+förfallomånad för nästa återkommande kontroll (månad, år),
+
+kontrollorganets märke,
+
+högsta respektive lägsta tryck och temperatur, som anordningen får trycksättas vid, och
+
+en markering att anordningen är kontrollerad och har bedömts uppfylla kraven i dessa föreskrifter.
+
+### 24 §
+
+Arbetsgivaren ska se till, att den senast utfärdade skylten fästs på en väl synlig plats på behållaren.
+
+Skylten får även placeras på en samlad plats för flera behållare, där det är möjligt att avgöra vilken behållare som hör till respektive skylt.
+
+### 25 § – Intyg efter kontroll och bedömning av riskanpassat program
+
+Efter en kontroll eller en bedömning enligt [19 §](#19) första stycket, ska kontrollorganet utfärda ett intyg om att kontrollen har gjorts. Intyget ska innehålla datum för kontrollen, resultatet av kontrollen och förfallomånad enligt [22 §](#22-åtgärder-efter-kontroll).
+
+Om kontrollorganet har bedömt, att en trycksatt anordning inte uppfyller kraven i [22 §](#22-åtgärder-efter-kontroll) första stycket, ska det snarast sända intyget till arbetsgivaren och Arbetsmiljöverket. Arbetsgivaren ska då i sin tur informera andra yrkesmässiga verksamhetsutövare, som använder den trycksatta anordningen.
+
+### 26 § – Tidsperioden när återkommande kontroll ska utföras
+
+Återkommande kontroller ska utföras inom en bestämd tidsperiod. Kontrollen får utföras tidigast sex månader före eller fem månader efter förfallomånaden, enligt [22 §](#22-åtgärder-efter-kontroll) andra stycket.
+
+Om intervallet fram till nästa återkommande kontroll är sex månader, ska kontrollen dock utföras innan förfallomånaden har löpt ut.
+
+Arbetsgivaren kan begära att förfallomånaden ska infalla tidigare, vilket då blir den nya förfallomånaden.
+
+De år när såväl in- och utvändig undersökning som driftprov ska utföras, ska förfallomånaden för nästa kontroll markeras på skylten först när båda kontrollerna är utförda.
+
+#### Övervakning av pannor
+
+### 27 § – Villkor för driftsättning av pannor i klass A eller B
+
+Arbetsgivaren får bara låta en panna i klass A eller B vara driftsatt, om ett kontrollorgan vid en kontroll har bedömt att pannan har förutsättningar att användas säkert, med den övervakning som arbetsgivaren avser att tillämpa.
+
+En panna får bara vara driftsatt under den period, som kontrollorganet har bedömt att pannan kan användas säkert, enligt information på intyget enligt [25 §](#25-intyg-efter-kontroll-och-bedömning-av-riskanpassat-program). Bedömningen ska utföras av samma kontrollorgan som utför driftprovet enligt [10 §](#10-återkommande-kontroll), och ska utföras samtidigt som driftprovet. Kontrollorganet ska då bedöma, vilken typ av övervakning som ska tillämpas och villkoren för övervakningen.
+
+Pannan får inte övervakas på ett annat sätt eller under andra villkor, än det som har fastställts av ett kontrollorgan och dokumenterats enligt [41 §](#41-intyg).
+
+Bestämmelserna i första stycket gäller inte sådan provdrift, intrimning eller liknande, som kontrollorganet har bedömt är nödvändig, för att kunna utföra sin bedömning.
+
+### 28 §
+
+En panna i klass A eller B ska ständigt övervakas, när den startas. Om pannan har stoppats av en annan orsak än ett säkerhetsrelaterat larm, får den dock återstartas med periodisk övervakning om
+
+pannvattnets temperatur överstiger 50 °C, och
+
+det inte finns risk för att värme är ackumulerad i farlig mängd.
+
+Arbetsgivaren, som med ständig övervakning har använt en panna, där värme kan ackumuleras i farlig mängd, ska fortsätta övervaka pannan, till dess restvärmen inte längre är en fara.
+
+### 29 §
+
+Den arbetsgivare, som använder eller låter använda en panna i strid med [27](#27-villkor-för-driftsättning-av-pannor-i-klass-a-eller-b) eller [28 §§](#28), ska betala en sanktionsavgift.
+
+Om arbetsgivaren redan har betalat sanktionsavgift för överträdelsen enligt [8 §](#8) [detta kapitel](/lagstiftning/afs-2023-11/kap-10) eller [9 kap. 38 §](/lagstiftning/afs-2023-11/kap-9#38-rutiner-för-fortlöpande-tillsyn-av-trycksatta-anordningar-i-klass-a-eller-b) ska arbetsgivaren inte betala någon sanktionsavgift enligt [denna paragraf](/lagstiftning/afs-2023-11).
+
+Lägsta avgiften är 15 000 kronor och högsta avgiften är 300 000 kronor. Avgiften ska bestämmas enligt tabellen nedan. En arbetsgivare som använder flera pannor i strid med [27](#27-villkor-för-driftsättning-av-pannor-i-klass-a-eller-b) eller [28 §§](#28), ska maximalt betala 600 000 kronor.
+
+<table><caption>Tabell 8. Sanktionsavgift – märkeffekt </caption><tbody><tr><th><div><div>Pannans märkeffekt</div></div></th><th><div><div>Avgift i kronor</div></div></th></tr><tr><td><div><div>Högst 100&nbsp;kW </div></div></td><td><div><div>15&nbsp;000</div></div></td></tr><tr><td><div><div>Över 100&nbsp;kW men högst 2&nbsp;000&nbsp;kW</div></div></td><td><div><div>30&nbsp;000</div></div></td></tr><tr><td><div><div>Över 2&nbsp;000&nbsp;kW men högst 5&nbsp;000&nbsp;kW</div></div></td><td><div><div>75&nbsp;000</div></div></td></tr><tr><td><div><div>Över 5&nbsp;000&nbsp;kW men högst 120&nbsp;000&nbsp;kW</div></div></td><td><div><div>150&nbsp;000</div></div></td></tr><tr><td><div><div>Över 120&nbsp;000&nbsp;kW</div></div></td><td><div><div>300&nbsp;000</div></div></td></tr></tbody></table>
+
+### 30 §
+
+Arbetsgivaren ska se till att pannoperatörer som övervakar en panna i klass A eller B i enlighet med [27](#27-villkor-för-driftsättning-av-pannor-i-klass-a-eller-b) och [28 §§](#28) har kunskaper enligt bilaga 8.
+
+Arbetsgivaren ska dessutom se till att pannoperatörerna får de kompletterande kunskaper och färdigheter som driften av den specifika pannan kräver.
+
+Arbetsgivaren ansvarar för att kunskaperna är dokumenterade. (AFS 2024:4)
+
+> _Allmänna råd_
+>
+> Kunskaperna kan vara dokumenterade på flera sätt, till exempel genom:
+>
+> kursintyg för relevanta kurser, eller
+>
+> intyg från arbetsgivaren som visar antingen att pannoperatören har erfarenhet av drift och övervakning av den specifika pannan, samt längden av denna erfarenhet, eller
+>
+> intyg från arbetsgivaren som visar att pannoperatören har fått praktisk och teoretisk utbildning på den specifika pannan som övervakas, samt hur denna kunskap förvärvats. (AFS 2024:4)
+
+### 31 §
+
+En arbetsgivare som låter en pannoperatör övervaka en panna i klass A eller B, ska dokumentera uppdraget.
+
+Av dokumentationen ska det framgå uppgifter som
+
+identifierar den pannoperatör som har uppdraget,
+
+upplyser om vilka uppgifter som ingår i uppdraget, och
+
+anger hur arbetsgivaren har säkerställt att [30 §](#30) är uppfylld.
+
+På ett gemensamt arbetsställe ska den samordningsansvariga arbetsgivaren ha rutiner för att säkerställa att den som övervakar en panna har dokumentation enligt första stycket från sina respektive arbetsgivare. (AFS 2024:4)
+
+> _Allmänna råd_
+>
+> Exempel på uppgifter som dokumentationen enligt punkt 2 kan upplysa om, är följande:
+>
+> Typer av pannor och bränsleslag som operatörerna ska övervaka.
+>
+> På vilket sätt pannoperatörerna ska samarbeta inom ramen för uppdraget, till exempel vid jour.
+>
+> Uppdragets tidsbegränsning.
+
+### 32 § – Ständig övervakning
+
+Arbetsgivaren ska se till att pannoperatörer, vars uppdrag omfattar övervakning enligt [9 kap. 37 §](/lagstiftning/afs-2023-11/kap-9#37-övervakning-av-behållare-i-klass-a-eller-b) första stycket, har den ständiga övervakningen som huvuduppgift.
+
+Den arbetsgivare som använder en panna med ständig övervakning, ska säkerställa att tillräckligt många pannoperatörer är i tjänst, för att utesluta att pannan lämnas utan övervakning när den är i drift.
+
+### 33 § – Periodisk övervakning
+
+En panna får bara övervakas periodiskt, om den har utrustning som hindrar att förutbestämda värden för tryck, temperatur, flöde eller fluidnivå över- eller underskrids.
+
+För att medge periodisk övervakning, ska kontrollorganet bedöma om
+
+pannan har nödvändig utrustning enligt första stycket, och
+
+pannans inkoppling och de anordningar som är sammanfogade till pannan ger den säkerhet som krävs, för att övervaka pannan periodiskt.
+
+Kontrollorganet ska inte göra någon egen bedömning, om en bedömning enligt andra stycket har utförts, som ett led i tillverkningen enligt de väsentliga säkerhetskraven i ett av Europeiska unionens produktdirektiv. I stället ska kontrollorganet lägga tillverkarens bedömning till grund för de övriga bedömningar de gör, med stöd av [detta kapitel](/lagstiftning/afs-2023-11/kap-10).
+
+> _Allmänna råd_
+>
+> Exempel på en sådan inkoppling som avses, är tillgången på vatten till nödkylning och trycket hos kylvattnet.
+
+### 34 § – Bedömning av övervakningsintervall vid periodisk övervakning
+
+Kontrollorganet ska bedöma hur ofta pannan ska övervakas på plats, enligt [35](#35)–[37 §§](#37-bedömning-av-inställelsetid-vid-periodisk-övervakning).
+
+### 35 §
+
+Följande pannor ska övervakas på plats, så ofta som följer av tabellen nedan:
+
+Pannor i klass A eller B där värme kan ackumuleras i farlig mängd.
+
+Pannor där mer än 5 procent av panneffekten tas ut i form av vattenånga.
+
+<table><caption>Tabell 9. Övervakning – intervall </caption><tbody><tr><th><div><div>Märkeffekt i<br>kW</div></div></th><th><div><div>Grundintervall </div></div></th><th><div><div>Tid mellan övervaknings-<br>tillfällen</div></div></th></tr><tr><td><div><div>500–1500</div></div></td><td><div><div>1 gång/dygn</div></div></td><td><div><div>Inte specificerat</div></div></td></tr><tr><td><div><div>Större än 1500</div></div></td><td><div><div>2 gånger/dygn</div></div></td><td><div><div>Max 16 timmar</div></div></td></tr></tbody></table>
+
+Kontrollorganet kan medge ett längre intervall, beroende på den säkerhetsutrustning som pannan är utrustad med. De intervall som kan medges är 24 eller 72 timmar, förutom grundintervallen.
+
+> _Allmänna råd_
+>
+> En panna kan ha en farlig mängd restvärme, om så mycket bränsle eller värme finns ackumulerad att temperaturen i eldstaden eller murningen är farligt hög, länge efter att pannan stängts av. Exempel på sådana pannor är sodapannor och rosterpannor, som eldas med fasta bränslen.
+
+### 36 §
+
+Pannor i klass A som inte omfattas av [35 §](#35) ska övervakas på plats minst en gång per dygn.
+
+Kontrollorganet kan medge ett längre intervall, beroende på den säkerhetsutrustning som pannan är utrustad med. Det längsta intervall som får medges är 72 timmar.
+
+### 37 § – Bedömning av inställelsetid vid periodisk övervakning
+
+Som villkor för periodisk övervakning, ska kontrollorganet fastställa den längsta tillåtna inställelsetiden vid säkerhetsrelaterade larm från pannor i klass A eller B. Vid säkerhetsrelaterade larm från en panna, där värme kan ackumuleras i farlig mängd, får inställelsetiden fastställas till högst 30 minuter, såvida inte pannan
+
+har ett nödkylningssystem, som har kontrollerats i full omfattning och resultatet av kontrollen visar att en annan inställelsetid kan godtas ur säkerhetssynpunkt, eller
+
+är konstruerad så att ett nödkylningssystem inte behövs ur säkerhetssynpunkt, eller om temperaturen i pannan inte kan uppnå ett farligt värde vid bortfall av hjälpenergi eller någon annan driftstörning.
+
+För sådana pannor som uppfyller bestämmelserna i första stycket 1 eller 2, kan kontrollorganet fastställa en inställelsetid som maximalt får vara 90 minuter.
+
+Förutsättningarna för periodisk övervakning är inte uppfyllda, om pannoperatörerna befinner sig på så stort avstånd från pannan, att de riskerar att inte hinna inställa sig vid pannan inom den tid, som kontrollorganet har fastställt.
+
+### 38 § – Rutiner för övervakning
+
+Arbetsgivaren ska ha dokumenterade rutiner, som säkerställer att bestämmelserna i [28](#28) och [30](#30)–[37 §§](#37-bedömning-av-inställelsetid-vid-periodisk-övervakning) uppfylls. Rutinerna ska finnas tillgängliga på arbetsplatsen.
+
+### 39 §
+
+Kontrollorganet ska kontrollera att arbetsgivarens rutiner inte strider mot kraven i [38 §](#38-rutiner-för-övervakning).
+
+### 40 § – Åtgärder efter bedömning
+
+Efter en kontroll, ska kontrollorganet bedöma om och hur pannan får övervakas.
+
+### 41 § – Intyg
+
+Efter bedömningen enligt [34 §](#34-bedömning-av-övervakningsintervall-vid-periodisk-övervakning), ska ett kontrollorgan dokumentera sin bedömning på samma intyg, som utfärdas enligt [25 §](#25-intyg-efter-kontroll-och-bedömning-av-riskanpassat-program) och överlämna det till arbetsgivaren.
+
+Om kontrollorganet har bedömt att pannan kan övervakas periodiskt, ska det av intyget framgå vilket övervakningsintervall och vilken inställelsetid, som är förutsättningen för övervakningen.
+
+Om kontrollorganet har bedömt att pannan inte kan övervakas periodiskt, men att den kan användas säkert med ständig övervakning, ska den bedömningen framgå av intyget. Om kontrollorganet bedömer att det inte ens finns förutsättningar för säker användning vid ständig övervakning, ska det av intyget framgå att pannan inte får vara i drift. Om intyget innebär att pannan inte får vara i drift, ska kontrollorganet snarast sända en kopia till Arbetsmiljöverket.
+
+### 42 § – Bedömningens giltighet
+
+Kontrollorganets bedömning enligt [34 §](#34-bedömning-av-övervakningsintervall-vid-periodisk-övervakning) är giltig fram till dess att nästa driftprov av pannan ska vara utfört enligt [10 §](#10-återkommande-kontroll).
+
+### 43 § – Kontrollorgan
+
+Kontroll enligt [9 kap. 20](/lagstiftning/afs-2023-11/kap-9#20-återkommande-kontroll) och [21 §§](/lagstiftning/afs-2023-11/kap-9#21) och [10 kap. 34 §](#34-bedömning-av-övervakningsintervall-vid-periodisk-övervakning) ska utföras av organ, som ackrediterats för en sådan kontroll enligt [Europaparlamentets och rådets förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) av den 9 juli 2008 om krav för ackreditering och upphävande av förordning (EEG) nr 339/93, eller den som uppfyller motsvarande krav enligt bestämmelser i ett annat land i Europeiska unionen, Europeiska ekonomiska samarbetsområdet eller Turkiet. (AFS 2024:4)
+
+### 44 §
+
+För att få utföra återkommande kontroller av bärbara brandsläckare och flaskor för andningsapparat, ska kontrollorganet vara ett kontrollorgan av typ A eller B.
+
+För att få utföra återkommande kontroller i form av in- och utvändig undersökning av rörledningar eller funktionskontroll av säkerhetsutrustning, ska kontrollorganet vara ett kontrollorgan av typ A eller B.
+
+För övriga kontroller ska kontrollorganet vara ett kontrollorgan av typ A.
+
+Med kontrollorgan typ A och B, avses kontrollorgan som uppfyller kraven enligt SS-EN ISO/IEC 17020:2012 utgåva 2, Bedömning av överensstämmelse – Krav på verksamhet inom olika typer av kontrollorgan.
+
+### 45 §
+
+För att få utföra kontroller enligt [44 §](#44) tredje stycket, ska kontrollorganet minst uppfylla kraven för att få utföra kontroller enligt bestämmelserna om första kontroll enligt [9 §](#9-första-kontroll), återkommande kontroll enligt [10 §](#10-återkommande-kontroll) och revisionskontroll enligt [20](#20-revisionskontroll) och [21 §§](#21).
+
+För att få utföra bedömningar för program för riskanpassad kontroll av trycksatta anordningars skick enligt [11](#11-program-för-riskanpassad-kontroll-av-trycksatta-anordningars-skick)–[19 §§](#19) och för bedömning av ständig och periodisk övervakning av pannor enligt [28](#28) och [30](#30)–[42 §§](#42-bedömningens-giltighet), krävs att kontrollorganet får utföra de kontroller som nämns i första stycket.
+
+### 46 § – Bevarande av dokument
+
+Kontrollorganet ska bevara dokumentation från en återkommande kontroll tills dess ett år har gått sedan nästa återkommande kontroll. Dokumentation från den första kontrollen och revisionskontroller ska bevaras i tio år.
+
+### 47 § – Samarbete med föreskrivande myndighet
+
+Ett kontrollorgan som inte är ackrediterat av Swedac och som avser att utföra kontroller enligt föreskrifterna, ska anmäla detta till Arbetsmiljöverket. Ackrediteringsbeviset eller motsvarande bevis som styrker kontrollorganets behörighet, ska bifogas till anmälan.
+
+Efter det att Arbetsmiljöverket har bekräftat att anmälan gjorts enligt första stycket, får kontrollorganet utföra kontroller.
+
+Kontrollorgan ska medverka vid samråd som Arbetsmiljöverket kallar till, och vid dessa möten rapportera utfall av kontroller. (AFS 2024:4)
+
+### 48 §
+
+Om en arbetsgivare har nekat ett kontrollorgan att slutföra ett påbörjat uppdrag eller att kontrollera en trycksatt anordning, ska kontrollorganet meddela detta till Arbetsmiljöverket.
 <!-- scan-laws:end -->
 
 ## Tolkning

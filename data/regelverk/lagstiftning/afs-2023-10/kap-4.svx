@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,133 +21,131 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
+#### Avdelning IV: Hälsofarliga eller onödigt tröttande fysiska belastningar
+
+### 6 – kap. Belastningsergonomi
+
+Stöd och verktyg: Belastningsergonomi
+
 ### 1 § – Då gäller föreskrifterna
 
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-4) reglerar all verksamhet där arbetstagare kan utsättas för fallrisker.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-4) reglerar all verksamhet där arbetstagare kan utsättas för belastningar eller andra förhållanden som, direkt eller indirekt, kan påverka rörelseorganen eller stämbanden negativt.
 
 ### 2 § – Vem föreskrifterna riktar sig till
 
 Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-4) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-4). Den som driver sådan verksamhet behöver dock inte följa de delar av bestämmelserna i [18 §](#18) som reglerar medgivande från arbetsgivaren och om underrättelse till arbetsgivaren, förutom när arbetet utförs på gemensamt arbetsställe.
-
-Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-4) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-4) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
 ### 3 § – Definitioner
 
-I [detta kapitel](/lagstiftning/afs-2023-10/kap-4) har följande begrepp denna betydelse.
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-4) har följande begrepp dessa betydelser.
 
-Begrepp
-
-Betydelse
-
-Fall
-
-Fall från samma nivå, såsom att arbetstagare faller omkull, halkar, snavar, trampar snett, trampar genom något underlag eller liknande, och fall till en lägre nivå.
-
-Visa hela tabellen
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Belastningsbesvär</div></div></td><td><div><div>Besvär i rörelseorganen. Alla former av ohälsa i rörelseorganen som kan ha samband med förhållanden i arbetet. Besvären kan ha orsakats av arbetet eller något annat, men förvärras av arbetet. I begreppet ingår allt ifrån lätta, övergående besvär till livslånga skador.</div></div></td></tr><tr><td><div><div>Belastningsergonomi</div></div></td><td><div><div>Del inom området ergonomi som behandlar hur belastningar i arbetet påverkar rörelseorganen.</div></div></td></tr><tr><td><div><div>Handintensivt arbete</div></div></td><td><div><div>Ihållande snabba handledsrörelser i kombination med kraft.</div></div></td></tr><tr><td><div><div>Last</div></div></td><td><div><div>Person, djur eller objekt.</div></div></td></tr><tr><td><div><div>Manuell hantering</div></div></td><td><div><div>Alla slags transporter eller förflyttningar av laster där en eller flera arbetstagare lyfter, sätter ned, skjuter på, drar, bär eller flyttar en last.</div></div></td></tr><tr><td><div><div>Repetitivt arbete</div></div></td><td><div><div>Arbete som innebär att man upprepar liknande arbetsrörelser om och om igen. </div></div></td></tr><tr><td><div><div>Rörelseorganen</div></div></td><td><div><div>De kroppsdelar och de strukturer (muskler, senor, skelett, brosk, ledband och nerver) som gör att människan kan inta olika kroppsställningar och röra på sig.</div></div></td></tr></tbody></table>
 
 ### 4 § – Undersökning och riskbedömning
 
-Vid undersökning och riskbedömning ska arbetsgivaren särskilt ta hänsyn till risken för skada genom fall.
+När arbetstagare utför arbetsmoment som kan vara hälsofarliga eller onödigt tröttande, ska arbetsgivaren i sin undersökning av arbetsförhållandena, särskilt ta hänsyn till
 
-Arbetsgivaren ska särskilt ta hänsyn till om det finns hål, öppningar eller liknande och stup eller annan större nivåskillnad, där arbetstagarna uppehåller sig eller förflyttar sig under arbetet.
+arbetsställningar,
 
-Om det behövs, ska arbetsgivaren se till att det finns lämpliga skyddsanordningar mot fall, inklusive stabila infästningar.
+arbetsrörelser,
+
+manuell hantering,
+
+repetitivt arbete,
+
+handintensivt arbete, och
+
+synförhållanden som kan påverka arbetsställningarna och arbetsrörelserna negativt.
+
+Utifrån undersökningen ska arbetsgivaren bedöma om belastningarna, enskilt eller i kombination, kan innebära en risk för skador i rörelseorganen eller på stämbanden. Vid riskbedömningen ska arbetsgivaren utgå från belastningarnas
+
+duration – hur länge,
+
+frekvens – hur ofta, och
+
+intensitet – hur mycket.
+
+I riskbedömningen ska man också beakta fysiska, organisatoriska och sociala förhållanden i arbetsmiljön som kan påverka riskerna.
 
 > _Allmänna råd_
+>
+> Vid riskbedömning av hälsofarliga eller onödigt tröttande belastningar bör man välja en evidensbaserad metod som är lämplig för den belastning som bedöms.
 
-> Skyddsräcken eller skyddstäckning kan vara lämpliga skyddsanordningar.
+### 5 § – Åtgärder
 
-### 5 §
+Arbetsgivaren ska, så långt det är praktiskt möjligt, ordna och utforma arbetsuppgifter och arbetsplatser, så att arbetstagarna kan använda arbetsställningar och arbetsrörelser som är gynnsamma för kroppen. Arbetsgivaren ska se till att arbetstagarna undviker att
 
-Arbetsgivaren ska särskilt beakta behovet av skyddsåtgärder om underlaget är lutande.
+arbeta långvarigt eller ofta återkommande med bålen böjd eller vriden,
+
+arbeta långvarigt eller ofta återkommande med händerna över axelhöjd, eller under knähöjd, eller
+
+utöva kraft i ogynnsamma arbetsställningar.
+
+Arbetsgivaren ska tillhandahålla särskilda glasögon eller andra synhjälpmedel om det behövs, så att arbetstagarna kan använda gynnsamma arbetsställningar och arbetsrörelser.
+
+Manuell hantering och annan kraftutövning
 
 ### 6 §
 
-Arbetsgivaren ska undersöka behovet av belysning för att förebygga fall. Om undersökningen visar att det behövs, ska arbetsgivaren se till att belysningen är tillräcklig för att synliggöra förhållanden som kan orsaka fall.
+Arbetsgivaren ska ordna arbetsplatsen så att man undviker eller minskar risken för belastningsbesvär, särskilt i ryggen, för arbetstagarna som utför manuell hantering eller andra arbetsuppgifter som kräver kraftutövning.
 
-### 7 § – Åtgärder
+Arbetsgivaren ska vidta lämpliga åtgärder, framför allt när det gäller arbetsmiljöns utformning och de krav som arbetsuppgiften ställer. Det innebär både organisatoriska åtgärder, och att använda sig av arbetsutrustning, framför allt teknisk utrustning, för att undvika manuell hantering.
 
-Arbetsgivaren ska se till att underlag som är avsedda att beträdas har betryggande bärighet. Underlag som inte har betryggande bärighet får beträdas först sedan särskilda skyddsåtgärder har vidtagits.
+Om det inte går att undvika manuell hantering, ska arbetsgivaren vidta åtgärder med hänsyn till de påverkande faktorerna i bilaga 5.
 
 > _Allmänna råd_
+>
+> Arbetsgivaren bör minska riskerna för belastningsbesvär vid manuell hantering i följande prioritetsordning:
+>
+> Helt undvika hälsofarlig och onödigt tröttande manuell hantering.
+>
+> Vidta åtgärder för att minska hälsofarlig och onödigt tröttande manuell hantering till en acceptabel nivå, om det inte går att undvika den helt, utifrån bedömningen av risken för belastningsbesvär. Åtgärder kan vara att
+>
+> anpassa utformningen av laster och ha tillgång till lämplig arbetsutrustning, eller
+>
+> se över arbetsorganisationen samt arbetsmiljön i övrigt.
+>
+> Utbilda och informera arbetstagarna, så att de kan bidra till att riskerna minimeras totalt sett.
 
-> Underlag som inte alltid har betryggande bärighet kan vara is, gamla tak och tak med glaspartier.
+### 7 §
 
-> Särskilda åtgärder kan vara att fördela belastningen över underlaget.
+Arbetsgivaren ska se till att det normalt inte förekommer arbete som är repetitivt, starkt styrt eller bundet. Om en arbetstagare ändå måste utföra sådant, på grund av särskilda omständigheter, ska arbetsgivaren förebygga riskerna för ohälsa eller olycksfall till följd av hälsofarliga eller onödigt tröttande belastningar. Det förebyggande arbetet ska leda till ökad variation i belastningen, till exempel genom arbetsväxling, arbetsutvidgning eller pauser.
+
+> _Allmänna råd_
+>
+> Variation i belastningen innebär att den fysiska belastningen förändras över tid. Det är viktigt att ta hänsyn till hur ofta belastningen varierar. Variationen påverkas även av belastningarnas storlek och vilken sorts belastning det är.
 
 ### 8 §
 
-Vid anordnande av underlag som är avsett att beträdas ska arbetsgivaren eftersträva att underlaget har lämplig ytsträvhet och är fritt från hinder och ojämnheter som innebär risk för fall.
+Arbetsgivaren ska se till att arbetstagarna har möjligheter att påverka hur det egna arbetet planeras och genomförs, så att de får tillräcklig rörelsevariation och återhämtning.
+
+### 9 § – Kunskaper
+
+Arbetsgivaren ska se till att arbetstagarna har tillräckliga kunskaper om
+
+lämpliga arbetsställningar och arbetsrörelser,
+
+hur arbetsutrustningen ska användas,
+
+riskerna med olämpliga arbetsställningar och arbetsrörelser,
+
+riskerna med olämplig manuell hantering, och
+
+tidiga tecken på överbelastning av leder och muskler.
+
+Arbetsgivaren ska se till att arbetstagarna får information om vikten på de laster som hanteras. Där det är möjligt ska arbetstagarna få exakta upplysningar om lastens vikt och var lastens tyngdpunkt eller tyngsta sida finns, när innehållet i den är ojämnt fördelat.
+
+Arbetsgivaren ska se till att arbetstagarna får instruktioner och möjlighet att träna in lämplig arbetsteknik för den aktuella arbetsuppgiften. Arbetsgivaren ska också försäkra sig om att arbetstagarna följer instruktionerna.
 
 > _Allmänna råd_
+>
+> För att arbetstagarna ska kunna anpassa sin kraftinsats är det viktigt att veta hur mycket en last väger eller vilken förmåga en person har att bidra till sin egen förflyttning. Om tyngdpunkten i en last ändras, kan belastningen bli många gånger större än normalt. Det är därför viktigt att kunna planera hur ett lyft eller en förflyttning ska utföras på bästa sätt.
 
-> Genom att underlaget är fast och stadigt, jämnt och dränerat kan risk för fall motverkas.
+### 10 § – Medicinska kontroller
 
-### 9 §
-
-Arbetsgivaren ska se till att man vidtar nödvändiga skyddsåtgärder och iakttar särskild försiktighet vid arbete och förflyttning på underlag som rör sig eller kan komma i rörelse.
-
-### 10 §
-
-Arbetsgivaren ska se till att arbetsplatser och transportvägar inom arbetsstället har tillräckligt utrymme för att arbete och förflyttning kan ske utan risk för fall.
-
-### 11 §
-
-Arbetsgivaren ska se till att arbetsplatser och transportvägar inom arbetsstället är fria från spill, avfall och onödiga föremål.
-
-### 12 §
-
-Arbetsgivaren ska se till att anordningar som är avsedda att stå eller gå på utformas, anordnas och underhålls så att risken för fall motverkas.
-
-> _Allmänna råd_
-
-> Anordningar som avses kan vara trappor, stegar, arbetsbockar, ramper, ställningar, plattformar eller arbetsflottar. En anordning kan också vara fotsteg på maskin, fordon och annan teknisk anordning.
-
-### 13 §
-
-Arbetsgivaren ska se till att en skyddsanordning mot fall, och skyddsanordningars infästningar, är dimensionerade för den belastning som kan uppstå.
-
-Arbetsgivaren ska se till att skyddsanordningar och infästningar kontrolleras regelbundet och underhålls väl. Bland annat ska det kontrolleras att materialet inte har skadats.
-
-### 14 §
-
-Arbetsgivaren ska se till att skyddstäckningen över hål, öppningar och motsvarande är säkrad så att den inte kan avlägsnas oavsiktligt. En skyddstäckning ska vara tydligt och varaktigt märkt, så att det framgår att den är en skyddsanordning mot fall.
-
-### 15 §
-
-Om en lämplig skyddsanordning mot fall inte kan ordnas, ska arbetsgivaren se till att annan lämplig skyddsåtgärd, som inte är ett personligt fallskydd, används.
-
-Bara i de fall en sådan skyddsanordning eller skyddsåtgärd som avses i första stycket inte är rimlig eller lämplig, ska personligt fallskydd användas.
-
-> _Allmänna råd_
-
-> En annan lämplig skyddsåtgärd kan vara att använda skyddsnät.
-
-### 16 § – Särskild risk för fall
-
-Arbetsgivaren ska se till att anordningar för räddning finns lätt tillgängliga, om ett fall på arbetsplatsen eller på transportvägar inom arbetsstället kan medföra risk för drunkning. Anordningen ska vara klar att omedelbart användas, och lätt att se även under dåliga siktförhållanden, genom färgsättning eller annan åtgärd.
-
-Förvaringsplatser för transportabla anordningar ska vara tydligt markerade och väl synliga.
-
-Där det behövs ska arbetsgivaren se till att det finns fasta stegar eller andra möjligheter för en nödställd att ta sig upp. Stegar och motsvarande anordningar ska finnas med lämpliga mellanrum, och nå så långt ner under ytan att en nödställd lätt kan ta sig upp.
-
-### 17 §
-
-Arbetsgivaren ska se till att arbetet förändras eller avbryts i tillräcklig omfattning när någon under arbetet uppmärksammar en särskild risk för fall.
-
-Arbetsgivaren ska, där det behövs, spärra av riskområdet tills risken har undanröjts.
-
-Om ett arbete måste utföras inom riskområdet ska arbetsgivaren se till att särskilda skyddsåtgärder vidtas.
-
-### 18 §
-
-Om en skyddsanordning tillfälligt måste tas bort för att arbete ska kunna utföras, får detta göras bara efter medgivande från arbetsgivaren. Arbetsgivaren ska se till att särskilda försiktighetsåtgärder vidtas och att skyddsanordningen sätts tillbaka så snart som möjligt.
-
-Arbetsgivaren ska underrättas om skyddsanordningen inte kan återställas. Ytterligare skyddsåtgärder ska också vidtas, om det behövs. Det gäller även om arbetsplatsen tillfälligt måste lämnas.
-
-Av [8 kap. 2 §](/lagstiftning/afs-2023-10/kap-8#2-vem-föreskrifterna-riktar-sig-till) första stycket 4 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att det är straffbart att utan giltigt skäl ta bort en skyddsanordning eller sätta den ur bruk.
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller för de arbetstagare som sysselsätts i handintensivt arbete, där riskbedömningen enligt [4 §](#4-undersökning-och-riskbedömning) visat att exponeringen ger en ökad risk för belastningsbesvär i nacke, skuldra, arm eller hand, trots vidtagna åtgärder.
 <!-- scan-laws:end -->
 
 ## Tolkning

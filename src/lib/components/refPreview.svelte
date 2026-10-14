@@ -163,12 +163,12 @@
 	>
 		<div class="flex items-center gap-1.5">
 			{#if card.external}
-				<RiExternalLinkLine class="size-3.5 shrink-0 text-primary/50" aria-hidden="true" />
+				<RiExternalLinkLine class="size-3.5 shrink-0 text-primary/60" aria-hidden="true" />
 			{/if}
 			<span class="min-w-0 truncate text-xs font-medium text-primary">{card.title}</span>
 		</div>
 		{#if card.loading}
-			<p class="mt-1 text-[11px] text-primary/40">…</p>
+			<p class="mt-1 text-[11px] text-primary/60">…</p>
 		{:else if card.text}
 			<p class="mt-1.5 line-clamp-4 text-xs leading-relaxed text-primary/60">{card.text}</p>
 		{/if}

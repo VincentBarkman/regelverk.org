@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20232/'
@@ -21,9 +21,29 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Undersökning och riskbedömning
+### Inledning
 
-### 4 §
+Stöd och verktyg: Graviditet och amning
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-2/kap-7) reglerar all verksamhet där arbete utförs av en arbetstagare som är gravid, ammar eller har fött barn högst 14 veckor innan arbetet ska utföras, och som har meddelat det till arbetsgivaren.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-2/kap-7) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, ska omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-2/kap-7). Den som driver sådan verksamhet omfattas dock inte av bestämmelserna i [4](#4-undersökning-och-riskbedömning), [6](#6-information-till-arbetstagaren), [11](#11-nattarbete) och [14 §§](#14-vilutrymme). Den som driver sådan verksamhet omfattas inte heller av bilaga 1 del A, punkterna 2, 5 och 6.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-2/kap-7) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-2/kap-7) har följande begrepp denna betydelse.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
 
 Arbetsgivaren ska samverka med arbetstagaren som är gravid, ammar eller har fött barn högst 14 veckor innan arbetet ska utföras, och som har meddelat det till arbetsgivaren, i de undersökningar och riskbedömningar som görs för att uppfylla kraven i [detta kapitel](/lagstiftning/afs-2023-2/kap-7).
 
@@ -35,37 +55,21 @@ undersöka om arbetstagaren i sitt arbete exponeras för några faktorer eller f
 
 bedöma risken för att en exponering har en skadlig inverkan på graviditet eller amning eller leder till annan ohälsa, och då ta hänsyn till exponeringens art, grad och varaktighet.
 
-### 4 §
-
-Om arbetsuppgifter eller skoluppgifter kan komma att utföras av minderåriga som ännu inte är fysiskt eller psykiskt mogna, ska arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare genomföra en undersökning och riskbedömning av arbetsmiljön med särskild hänsyn till detta.
-
-Undersökningen och riskbedömningen ska ta särskild hänsyn till den minderårigas fysiska och psykiska mognad, ålder och övriga förutsättningar för att utföra arbetet.
-
-I undersökningen och riskbedömningen för yngre och äldre barn ska dessutom bedömas om arbetet kräver stort ansvarstagande, är fysiskt tungt eller är psykiskt påfrestande.
-
-Om verksamheten ändras så att riskerna för minderåriga påverkas ska en ny undersökning och riskbedömning göras.
-
-Skyddsombud eller studerandeskyddsombud och elevskyddsombud ska få möjlighet att delta i undersökningar och riskbedömningar och lämna synpunkter på vilka arbetsuppgifter som minderåriga ska utföra.
-
-> _Allmänna råd_
-
-> Eftersom bestämmelserna preciserar de krav på riskbedömning som finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar omfattas riskbedömningen i bestämmelsen av skriftlighetskravet i de föreskrifterna.
-
-> Bestämmelsen gäller bara undersökning och bedömning av risker som är typiska för minderåriga i olika åldersgrupper och ställer alltså inte krav på att undersöka och bedöma risker på individnivå. Däremot kan riskbedömningen visa att det finns ett behov av att fastställa rutiner över hur man ska agera för att i olika fall anpassa verksamheten till en enskild minderårigs egenskaper.
-
-> När det gäller minderåriga i utbildning bör man alltid riskbedöma bland annat arbets- och skoluppgifter med särskilda risker både på yrkesprogram och högskoleförberedande program. Områden där sådana risker kan finnas är kemiska ämnen, ergonomi, teknisk utrustning, ljud- och ljusförhållanden. Dessa risker kan finnas i till exempel slöjd, idrott och hälsa, hem- och konsumentkunskap samt laborationer inom kemi och biologi.
-
-> Eftersom utbildningsväsendet hela tiden förändras finns det liknande arbetsuppgifter, som inte är av lika traditionellt slag, som också måste riskbedömas. Exempel på arbeten där stort ansvarstagande krävs är arbete som innebär makt- eller myndighetsutövning i form av exempelvis kontroll och godkännande av en person. Fysiskt tunga uppgifter kan vara till exempel tunga lyft, buller och arbete med kemiska ämnen. Psykiskt tunga uppgifter kan vara till exempel att arbeta ensam, ta hand om personer i kris eller hantera pengar.
-
-#### Information till arbetstagaren
-
-### 6 §
+### 6 § – Information till arbetstagaren
 
 Arbetsgivaren ska snarast möjligt informera arbetstagaren om
 
 resultatet av riskbedömningen enligt [5 §](#5), och
 
 de eventuella åtgärder som ska vidtas.
+
+### 7 § – Åtgärder
+
+Om riskbedömningen enligt [5 §](#5) visar att det finns risker för skadlig inverkan på graviditet eller amning, eller att exponeringen leder till annan ohälsa eller olycksfall, ska arbetsgivaren snarast vidta de åtgärder som behövs för att undanröja riskerna.
+
+Arbetstagaren får inte sysselsättas i arbetet så länge riskerna finns kvar, och arbetsgivaren ska vidta alla åtgärder som är praktiskt möjliga och rimliga för att ge arbetstagaren andra arbetsuppgifter.
+
+Första och andra stycket gäller även för arbetstagare som sysselsätts i arbete som är förbjudet för gravida, nyförlösta eller ammande, enligt [8](#8-gruvarbete-under-jord)–[13 §§](#13-dykeriarbete-och-arbete-under-förhöjt-tryck).
 
 #### Förbud mot att arbeta vid särskilda förhållanden
 
@@ -128,6 +132,10 @@ Den lägsta avgiften är 100 000 kronor. Den högsta avgiften är 1 000 000 kron
 Avgift = 100 000 kronor + (antalet sysselsatta – 1) × 1 804 kronor.
 
 Summan ska avrundas nedåt till närmaste hundratal.
+
+### 14 § – Vilutrymme
+
+En arbetsgivare ska ordna så att det finns möjlighet för en arbetstagare som är gravid eller ammar, att under lämpliga förhållanden tillfälligt kunna vila liggande på arbetsstället.
 <!-- scan-laws:end -->
 
 ## Tolkning

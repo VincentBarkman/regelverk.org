@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,29 +21,215 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Märkning
+### Inledning
 
-### 28 §
+Stöd och verktyg: Användning av trycksatta anordningar
 
-Arbetsgivaren ska se till att märka följande med en varningstext som innehåller ordet ”asbest”:
+### 1 § – Då gäller föreskrifterna
 
-Asbesthaltigt avfall.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-12) reglerar all verksamhet som gäller personsäkerhet vid provning med över- eller undertryck.
 
-Asbestförorenade material.
+Bestämmelserna gäller inte vid läcksökning eller täthetsprovning av en anordning som tidigare genomgått föreskriven tryckkontroll under förutsättning att
 
-Asbestförorenad personlig skyddsutrustning.
+någon reparation, modifiering eller utbyte av någon del av den tryckbärande anordningen inte gjorts efter den tidigare tryckkontrollen,
 
-Den arbetsgivare som inte har märkt en eller flera förpackningar eller behållare enligt kraven i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkningen av avgiften.
+det tryck anordningen dimensionerats för inte överskrids, och
 
-Lägsta avgiften är 15 000 kronor och högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+det högsta tryck vid vilket anordningen får användas inte överskrids.
 
-Avgift = 15 000 kronor + (antalet sysselsatta – 1) × 271 kronor.
+Bestämmelserna gäller inte heller vid pumpning av hjul och däck.
 
-Summan ska avrundas nedåt till närmaste hela hundratal.
+> _Allmänna råd_
+>
+> De anordningar det är frågan om är inte bara tryckkärl och rörledningar, utan även anordningar som avloppsbrunnar, slangar, kylaggregat, ventilationsanläggningar och vindtunnlar.
 
-### 29 §
+### 2 § – Vem föreskrifterna riktar sig till
 
-Arbetsgivaren ska se till att asbesthaltigt material som kapslas in för att förebygga spridning av asbesthaltigt damm är märkt med följande text: ”Inkapslad asbest”.
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-12) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-13/kap-12).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-12) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-12) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Kontrolltryck</div></div></td><td><div><div>Vid provning med övertryck: det högsta tryck som används vid provning.</div></div><div><div>Vid provning med undertryck: det lägsta tryck som används vid provning.</div></div><div><div>Kontrolltryck benämns även provtryck.</div></div></td></tr><tr><td><div><div>Läcksökning</div></div></td><td><div><div>Undersökning för att upptäcka eller lokalisera läckage.</div></div></td></tr><tr><td><div><div>Provning</div></div></td><td><div><div>Läcksökning, täthetsprovning, tryckprovning och sprängprovning.</div></div></td></tr><tr><td><div><div>Provningstryck </div></div></td><td><div><div>Övertryck eller undertryck i bar.</div></div></td></tr><tr><td><div><div>Sprängprovning </div></div></td><td><div><div>Provning med övertryck för att bestämma vid vilket tryck en anordning sprängs.</div></div></td></tr><tr><td><div><div>Tryckkontroll</div></div></td><td><div><div>Fastställande av om en anordning som genomgått tryckprovning uppfyller ställda krav på hållfasthet.</div></div></td></tr><tr><td><div><div>Tryckprovning</div></div></td><td><div><div>Process (teknisk undersökning) som utförs vid över- eller undertryck och som föregår en tryckkontroll.</div></div></td></tr><tr><td><div><div>Täthetskontroll</div></div></td><td><div><div>Fastställande av om en anordning som genomgått täthetsprovning uppfyller ställda krav.</div></div></td></tr><tr><td><div><div>Täthetsprovning</div></div></td><td><div><div>Process (teknisk undersökning) som utförs vid över- eller undertryck och som föregår en täthetskontroll.</div></div></td></tr><tr><td><div><div>Undertryck</div></div></td><td><div><div>Tryck lägre än atmosfärtrycket.</div></div></td></tr><tr><td><div><div>Övertryck</div></div></td><td><div><div>Tryck högre än atmosfärtrycket.</div></div></td></tr></tbody></table>
+
+#### Gemensamma bestämmelser för all provning
+
+### 4 § – Undersökning och riskbedömning
+
+Före provning med över- eller undertryck ska en undersökning och riskbedömning göras som omfattar de riskkällor respektive risker som är förenade med provningen. Med utgångspunkt i riskbedömningen ska alla nödvändiga åtgärder vidtas för att förebygga ohälsa eller olycksfall.
+
+Riskbedömningen ska dokumenteras skriftligt. I riskbedömningen ska anges vilka risker som finns och om de är allvarliga eller inte.
+
+De risker som är förenade med provning av anordningar tillverkade av spröda material ska särskilt uppmärksammas.
+
+> _Allmänna råd_
+>
+> Exempel på en betydande risk vid provning är möjligheten att anordningen eller provningsutrustningen havererar. Provning utförs ofta under fältmässiga förhållanden och ibland med specialtillverkad provningsutrustning. Sådana omständigheter innebär ofta en risk i sig. Det är då viktigt att klarlägga riskerna innan man börjar provningsarbetet. En viktig del av underlaget för en riskbedömning är att ta tillvara erfarenheter från olycksfall och tillbud från liknande verksamheter.
+>
+> Det finns anordningar som är tillverkade av material som inom ett visst temperaturområde övergår från segt till sprött tillstånd. Det finns också anordningar som är tillverkade av permanent sprött material. All provning av anordningar med material i sprött tillstånd innebär särskilda risker, till exempel risk för splitter och en kraftig tryckvåg. Anordningar tillverkade av material som inom ett visst temperaturområde övergår från segt till sprött tillstånd bör helst provas vid en temperatur där materialet är segt.
+
+### 5 § – Riskområde
+
+Arbetsgivaren ska se till att ett område avgränsas runt den anordning som ska provas. Det ska tydligt markeras att området är ett riskområde. Området ska vara så stort eller omges med sådana skydd att det inte finns någon risk för personskador för den som uppehåller sig utanför området under provningen.
+
+Inom riskområdet får bara provningspersonal uppehålla sig.
+
+> _Allmänna råd_
+>
+> En anordning som provas kan vara så stor att den sträcker sig genom flera våningsplan eller till och med genom en hel fabrik, till exempel en hög panna eller en rörledning. Riskområdet omfattar i sådana fall varje utrymme kring anordningen där det finns risk för personskador.
+>
+> När anordningar med stor volym provas, eller när provning utförs med särskilt högt tryck, kan riskområdet behöva vara så stort att till exempel vägar måste spärras av.
+
+### 6 § – Allmänna förberedelser
+
+Arbetsgivaren ska se till att en anordning provas först efter att en bedömning har visat att den tål det kontrolltryck som är avsett att användas vid provningen.
+
+Första stycket gäller inte vid sprängprovning.
+
+> _Allmänna råd_
+>
+> Till exempel tillverkningshandlingar, kontrollrapport från första kontroll eller handlingar från återkommande kontroll kan ge besked om vilket tryck man kan tillåta att en anordning utsätts för.
+
+### 7 §
+
+Arbetsgivaren ska se till att den anordning som ska provas är uppställd eller monterad så att rörelser som orsakas av trycksättning inte gör att den blir instabil eller faller omkull.
+
+### 8 §
+
+Arbetsgivaren ska se till att anslutningar för tryckhöjning eller trycksänkning är säkert monterade före provning av en anordning. Eventuella öppningar i anordningen ska vara säkert tillslutna.
+
+Tillslutningsanordningar, fastsättningsdetaljer, ledningar för tryckhöjning eller trycksänkning och kopplingar som används vid provning ska vara dimensionerade så att de tål det kontrolltryck som används vid provningen.
+
+### 9 § – Provningsutrustning
+
+Arbetsgivaren ska se till att den utrustning som används vid provning är tillförlitlig och anpassad för den provning som ska utföras.
+
+### 10 § – Kontroll av provningsutrustning
+
+Arbetsgivaren ska se till att provningsutrustningen kontrolleras regelbundet och att kontrollen dokumenteras.
+
+### 11 §
+
+Arbetsgivaren ska se till att provningsutrustningen före varje provning, utöver kontrollen enligt [10 §](#10-kontroll-av-provningsutrustning), avsynas okulärt med avseende på skador och slitage och kontrolleras med avseende på funktionen.
+
+Kontrollerna ska dokumenteras.
+
+För stationärt uppställd provningsutrustning gäller krav på avsyning och funktionskontroll så ofta som behövs för att upprätthålla säkerheten förutsatt att
+
+samma kontrolltryck används vid de provningar som utförs, och
+
+en dokumenterad bedömning gjorts att utrustningen inte påverkas av omgivningen på ett sådant sätt att kontroll före varje provning är nödvändig.
+
+### 12 § – Arbetsmoment som inte är tillåtna när en anordning är trycksatt
+
+Arbetsgivaren får inte tillåta något arbetsmoment som riskerar att orsaka sådana skador på en trycksatt anordning att den havererar när anordningen är trycksatt.
+
+### 13 § – Defekter och avvikelser
+
+Arbetsgivaren ska se till att provningen omedelbart avbryts och anordningen görs trycklös om defekter upptäcks i en anordning som provas, eller om avvikelser från ett normalt provningsförlopp konstateras.
+
+#### Särskilda bestämmelser för provning med övertryck
+
+### 14 § – Tryckmedium
+
+Arbetsgivaren ska se till att lämplig vätska i första hand används som tryckmedium vid provning.
+
+Om det av tekniska skäl inte är möjligt att använda vätska får i stället luft eller en inert gas användas. En inert gas är en gas som inte reagerar med andra ämnen annat än under extrema förhållanden.
+
+> _Allmänna råd_
+>
+> Anledningen till att man i första hand ska välja vätska som tryckmedium är att riskerna vid provning med gas är avsevärt större än vid provning med vätska.
+>
+> Lämplig vätska är normalt vatten.
+>
+> Om man kan befara isbildning i avluftningsledningarna, när vatten används som tryckmedium, kan man tillsätta frostskyddsmedel för att förebygga isproppar.
+>
+> Det är viktigt att observera att trycksatt vatten med hög temperatur (över 100 °C) förångas om trycket faller fort. En expansiv kraft uppstår då på grund av att vattnets volym tusenfaldigas när det förångas. Vidare ger även temperaturer över 50 °C risker för brännskador.
+>
+> Det är viktigt att anordningens temperatur klart överstiger vätskans fryspunkt så att läckage kan upptäckas.
+>
+> Om man använder annan vätska än vatten som tryckmedium är det viktigt att ta hänsyn till eventuella hälsorisker.
+>
+> Brandfarlig vätska bör undvikas som tryckmedium. Om man ändå använder sådan vätska, är det viktigt att man från provningsområdet avlägsnar sådant som kan antända vätskan och orsaka brand.
+>
+> Det bör även observeras att om luft används som tryckmedium och olja förekommer i provningsobjektet kan explosionsrisk uppstå.
+>
+> Exempel på en inert gas som används som tryckmedium är kvävgas (N2). Observera dock att hälsorisker, till exempel risk för kvävning, kan uppstå när man använder inert gas.
+
+### 15 § – Skyddad plats
+
+Arbetsgivaren ska se till att det finns en skyddad plats för provningspersonal som under provningen uppehåller sig inom det riskområde som anges i [5 §](#5-riskområde). Arbetsgivaren ska se till att provningspersonalen befinner sig på den skyddade platsen hela tiden från det att trycksättningen börjar tills kontrolltrycket uppnåtts och åter sänkts till en trycknivå som inte överstiger det högsta tryck som anordningen är avsedd att användas vid.
+
+> _Allmänna råd_
+>
+> Om möjligt bör provningspersonalen under provning befinna sig utanför riskområdet. Som framgår av paragrafen måste i annat fall både tryckstegring och tryckreducering kunna utföras från den skyddade platsen.
+
+### 16 § – Trycksättning
+
+Arbetsgivaren ska se till att trycket höjs etappvis vid provning med övertryck.
+
+### 17 § – Provning med vätska
+
+Före trycksättning med vätska ska arbetsgivaren se till att anordningen och dess fundament eller upphängning tål den ökade belastningen av vätskans tyngd.
+
+### 18 §
+
+Arbetsgivaren ska se till att anordningen är helt fylld med vätska före trycksättningen. Om det inte går att fylla anordningen helt, eller om det är osäkert om den är helt fylld, gäller i stället bestämmelserna i [19](#19-provning-med-gas) och [20 §§](#20) om provning med gas.
+
+> _Allmänna råd_
+>
+> För att avluftningen ska bli fullständig bör vätska fyllas på från anordningens lägsta punkt och avluftning göras från dess högsta punkt.
+>
+> Om anordningen inte avluftas fullständigt är det risk för kvarstående luftkudde, vilket innebär att energiinnehållet ökar.
+>
+> När gas används som tryckmedium i stället för vätska ökar energiinnehållet med mer än 200 gånger vid i övrigt lika tryck och volym.
+
+### 19 § – Provning med gas
+
+Trycksättning med gas ska utföras av ett kontrollorgan som är ackrediterat för uppgiften enligt Europarlamentets och [rådets förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) av den 9 juli 2008 om krav för ackreditering och upphävande av förordning nr 339/93, eller en organisation från annat land inom EES som på annat sätt erbjuder motsvarande garantier i fråga om teknisk och yrkesmässig kompetens.
+
+Den arbetsgivare som bryter mot något eller några av kraven i första stycket ska betala en sanktionsavgift.
+
+Avgiften ska vara 10 000 kronor varje gång som någon utför trycksättning utan behörighet.
+
+### 20 §
+
+Bestämmelserna i [19 §](#19-provning-med-gas) gäller inte trycksättning med gas
+
+när kontrolltrycket är 0,03 bar eller lägre,
+
+när kontrolltrycket är högst 3 bar och produkten av kontrolltrycket i bar multiplicerat med anordningens volym i liter (bar x liter) är högst 30,
+
+när säkerhetsanordningars avsäkringstryck (öppningstryck) ställs in, under förutsättning att de tidigare genomgått tryckkontroll vid tillverkning eller, i förekommande fall, efter reparation, eller
+
+när provningen utförs i en för provning särskilt konstruerad skyddsanordning som ger betryggande personsäkerhet.
+
+> _Allmänna råd_
+>
+> För att uppnå betryggande personsäkerhet behöver skyddsanordningen vid ett haveri kunna stå emot bland annat tryckvågen och eventuella splitter. En skyddsanordning kan till exempel vara en bur eller ett slutet tryckavlastat rum.
+
+#### Särskilda bestämmelser för provning med undertryck
+
+### 21 § – Skyddad plats
+
+Arbetsgivaren ska se till att det finns en skyddad plats för provningspersonal som under provningen uppehåller sig inom det riskområde som anges i [5 §](#5-riskområde). Arbetsgivaren ska se till att provningspersonalen befinner sig på den skyddade platsen hela tiden från det att trycksänkningen börjar tills kontrolltrycket uppnåtts.
+
+### 22 § – Trycksänkning
+
+Vid provning med undertryck ska arbetsgivaren se till att trycket sänks i sådan takt att eventuella defekter i anordningen eller avvikelser i provningsförloppet hinner upptäckas.
+
+> _Allmänna råd_
+>
+> I vilken takt trycksänkning kan genomföras utan att säkerheten eftersätts får bedömas från fall till fall.
+>
+> En för hög tryckförändringshastighet kan leda till att eventuella defekter i anordningen inte upptäcks i tid och att anordningen därför havererar (imploderar).
+>
+> Vid provning med undertryck kan instabilitet momentant ge stora effekter.
 <!-- scan-laws:end -->
 
 ## Tolkning

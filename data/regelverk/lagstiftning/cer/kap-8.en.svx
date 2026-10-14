@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_VIII'
+'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03#cpt_VIII'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -23,13 +23,13 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 25 – Reporting and review
+### Article 25 – Reporting and review
 
 By 17 July 2027, the Commission shall submit to the European Parliament and to the Council a report assessing the extent to which each Member State has taken the necessary measures to comply with [this Directive](/lagstiftning/cer).
 
-The Commission shall periodically review the functioning of [this Directive](/lagstiftning/cer) and report to the European Parliament and to the Council. That report shall, in particular, assess the added value of [this Directive](/lagstiftning/cer), its impact on ensuring the resilience of critical entities and whether the Annex to [this Directive](/lagstiftning/cer) should be modified. The Commission shall submit the first such report by 17 June 2029. For the purpose of reporting under [this Article](#artikel-25-reporting-and-review), the Commission shall take into account relevant documents of the Critical Entities Resilience Group.
+The Commission shall periodically review the functioning of [this Directive](/lagstiftning/cer) and report to the European Parliament and to the Council. That report shall, in particular, assess the added value of [this Directive](/lagstiftning/cer), its impact on ensuring the resilience of critical entities and whether the Annex to [this Directive](/lagstiftning/cer) should be modified. The Commission shall submit the first such report by 17 June 2029. For the purpose of reporting under [this Article](#article-25-reporting-and-review), the Commission shall take into account relevant documents of the Critical Entities Resilience Group.
 
-### Artikel 26 – Transposition
+### Article 26 – Transposition
 
 1\. By 17 October 2024, Member States shall adopt and publish the measures necessary to comply with [this Directive](/lagstiftning/cer). They shall immediately inform the Commission thereof.
 
@@ -37,17 +37,17 @@ They shall apply those measures from 18 October 2024.
 
 2\. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to [this Directive](/lagstiftning/cer) or be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
 
-### Artikel 27 – Repeal of Directive 2008/114/EC
+### Article 27 – Repeal of Directive 2008/114/EC
 
 [Directive 2008/114/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0114) is repealed with effect from 18 October 2024.
 
 References to the repealed Directive shall be construed as references to [this Directive](/lagstiftning/cer).
 
-### Artikel 28 – Entry into force
+### Article 28 – Entry into force
 
 [This Directive](/lagstiftning/cer) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-### Artikel 29 – Addressees
+### Article 29 – Addressees
 
 [This Directive](/lagstiftning/cer) is addressed to the Member States.
 
@@ -77,7 +77,7 @@ M. BEK
 
 (4) Council [Directive 2008/114/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0114) of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection (OJ L 345, 23.12.2008, p. 75).
 
-(5) [Directive (EU) 2022/2555](/lagstiftning/nis2) of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending [Regulation (EU) No 910/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), and repealing [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) (NIS 2 Directive) (see page 80 of this Official Journal).
+(5) [Directive (EU) 2022/2555](/lagstiftning/nis2) of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending [Regulation (EU) No 910/2014](/lagstiftning/eidas) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), and repealing [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) (NIS 2 Directive) (see page 80 of this Official Journal).
 
 (6) [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
 
@@ -93,7 +93,7 @@ M. BEK
 
 (12) [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Directive 2002/92/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0092) and [Directive 2011/61/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0061) (OJ L 173, 12.6.2014, p. 349).
 
-(13) [Regulation (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (see page 1 of this Official Journal).
+(13) [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (see page 1 of this Official Journal).
 
 (14) [Regulation (EC) No 725/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0725) of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security (OJ L 129, 29.4.2004, p. 6).
 
@@ -157,21 +157,21 @@ Categories of entities
 
 (a) Electricity
 
-— Electricity undertakings as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (57), of [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944) of the European Parliament and of the Council (1), which carry out the function of ‘supply’ as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (12), of that Directive
+— Electricity undertakings as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (57), of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) of the European Parliament and of the Council (1), which carry out the function of ‘supply’ as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (12), of that Directive
 
-— Distribution system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (29), of [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944)
+— Distribution system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (29), of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Transmission system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (35), of [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944)
+— Transmission system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (35), of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Producers as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (38), of [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944)
+— Producers as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (38), of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Nominated electricity market operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (8), of [Regulation (EU) 2019/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0943) of the European Parliament and of the Council (2)
+— Nominated electricity market operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (8), of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen) of the European Parliament and of the Council (2)
 
-— Market participants as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (25), of [Regulation (EU) 2019/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0943) providing aggregation, demand response or energy storage services as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), points (18), (20) and (59), of [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944)
+— Market participants as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (25), of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen) providing aggregation, demand response or energy storage services as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), points (18), (20) and (59), of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
 (b) District heating and cooling
 
-— Operators of district heating or district cooling as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (19), of [Directive (EU) 2018/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2001) of the European Parliament and of the Council (3)
+— Operators of district heating or district cooling as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (19), of [Directive (EU) 2018/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2001) of the European Parliament and of the Council (3)
 
 (c) Oil
 
@@ -179,21 +179,21 @@ Categories of entities
 
 — Operators of oil production, refining and treatment facilities, storage and transmission
 
-— Central stockholding entities as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (f), of Council [Directive 2009/119/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0119) (4)
+— Central stockholding entities as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (f), of Council [Directive 2009/119/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0119) (4)
 
 (d) Gas
 
-— Supply undertakings as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (8), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073) of the European Parliament and of the Council (5)
+— Supply undertakings as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (8), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073) of the European Parliament and of the Council (5)
 
-— Distribution system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (6), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
+— Distribution system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (6), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
 
-— Transmission system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (4), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
+— Transmission system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (4), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
 
-— Storage system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (10), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
+— Storage system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (10), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
 
-— LNG system operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (12), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
+— LNG system operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (12), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
 
-— Natural gas undertakings as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (1), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
+— Natural gas undertakings as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (1), of [Directive 2009/73/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0073)
 
 — Operators of natural gas refining and treatment facilities
 
@@ -205,53 +205,53 @@ Categories of entities
 
 (a) Air
 
-— Air carriers as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (4), of [Regulation (EC) No 300/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0300) used for commercial purposes
+— Air carriers as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (4), of [Regulation (EC) No 300/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0300) used for commercial purposes
 
-— Airport managing bodies as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (2), of [Directive 2009/12/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0012) of the European Parliament and of the Council (6), airports as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (1), of that Directive, including the core airports listed in Section 2 of Annex II to [Regulation (EU) No 1315/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1315) of the European Parliament and of the Council (7), and entities operating ancillary installations contained within airports
+— Airport managing bodies as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (2), of [Directive 2009/12/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0012) of the European Parliament and of the Council (6), airports as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (1), of that Directive, including the core airports listed in Section 2 of Annex II to [Regulation (EU) No 1315/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1315) of the European Parliament and of the Council (7), and entities operating ancillary installations contained within airports
 
-— Traffic management control operators providing air traffic control (ATC) services as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (1), of [Regulation (EC) No 549/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0549) of the European Parliament and of the Council (8)
+— Traffic management control operators providing air traffic control (ATC) services as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (1), of [Regulation (EC) No 549/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0549) of the European Parliament and of the Council (8)
 
 (b) Rail
 
-— Infrastructure managers as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (2), of [Directive 2012/34/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0034) of the European Parliament and of the Council (9)
+— Infrastructure managers as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (2), of [Directive 2012/34/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0034) of the European Parliament and of the Council (9)
 
-— Railway undertakings as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (1), of [Directive 2012/34/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0034) and operators of service facilities as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (12), of that Directive
+— Railway undertakings as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (1), of [Directive 2012/34/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0034) and operators of service facilities as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (12), of that Directive
 
 (c) Water
 
 — Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to [Regulation (EC) No 725/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0725), not including the individual vessels operated by those companies
 
-— Managing bodies of ports as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (1), of [Directive 2005/65/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0065), including their port facilities as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (11), of [Regulation (EC) No 725/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0725), and entities operating works and equipment contained within ports
+— Managing bodies of ports as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (1), of [Directive 2005/65/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0065), including their port facilities as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (11), of [Regulation (EC) No 725/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0725), and entities operating works and equipment contained within ports
 
-— Operators of vessel traffic services (VTS) as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (o), of [Directive 2002/59/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0059) of the European Parliament and of the Council (10)
+— Operators of vessel traffic services (VTS) as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (o), of [Directive 2002/59/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0059) of the European Parliament and of the Council (10)
 
 (d) Road
 
-— Road authorities as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (12), of Commission Delegated [Regulation (EU) 2015/962](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0962) (11) responsible for traffic management control, excluding public entities for whom traffic-management or the operation of intelligent transport systems is a non-essential part of their general activity
+— Road authorities as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (12), of Commission Delegated [Regulation (EU) 2015/962](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0962) (11) responsible for traffic management control, excluding public entities for whom traffic-management or the operation of intelligent transport systems is a non-essential part of their general activity
 
-— Operators of Intelligent Transport Systems as defined in Article [4](/lagstiftning/cer/kap-2#artikel-4-strategy-on-the-resilience-of-critical-entities), point (1), of [Directive 2010/40/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0040) of the European Parliament and of the Council (12)
+— Operators of Intelligent Transport Systems as defined in Article [4](/lagstiftning/cer/kap-2#article-4-strategy-on-the-resilience-of-critical-entities), point (1), of [Directive 2010/40/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0040) of the European Parliament and of the Council (12)
 
 (e) public transport
 
-— Public service operators as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (d), of [Regulation (EC) No 1370/2007](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R1370) of the European Parliament and of the Council (13)
+— Public service operators as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (d), of [Regulation (EC) No 1370/2007](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R1370) of the European Parliament and of the Council (13)
 
 3\. Banking
 
-— Credit institutions as defined in Article [4](/lagstiftning/cer/kap-2#artikel-4-strategy-on-the-resilience-of-critical-entities), point (1), of [Regulation (EU) No 575/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575)
+— Credit institutions as defined in Article [4](/lagstiftning/cer/kap-2#article-4-strategy-on-the-resilience-of-critical-entities), point (1), of [Regulation (EU) No 575/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575)
 
 4\. Financial market infrastructure
 
-— Operators of trading venues as defined in Article [4](/lagstiftning/cer/kap-2#artikel-4-strategy-on-the-resilience-of-critical-entities), point (24), of [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065)
+— Operators of trading venues as defined in Article [4](/lagstiftning/cer/kap-2#article-4-strategy-on-the-resilience-of-critical-entities), point (24), of [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065)
 
-— Central counterparties (CCPs) as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (1), of [Regulation (EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648)
+— Central counterparties (CCPs) as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (1), of [Regulation (EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648)
 
 5\. Health
 
-— Healthcare providers as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (g), of [Directive 2011/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0024) of the European Parliament and of the Council (14)
+— Healthcare providers as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (g), of [Directive 2011/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0024) of the European Parliament and of the Council (14)
 
 — EU reference laboratories as referred to in Article [15](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2371) of [Regulation (EU) 2022/2371](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2371) of the European Parliament and of the Council (15)
 
-— Entities carrying out research and development activities of medicinal products as defined in Article [1](/lagstiftning/cer/kap-1#artikel-1-subject-matter-and-scope), point (2), of [Directive 2001/83/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0083) of the European Parliament and of the Council (16)
+— Entities carrying out research and development activities of medicinal products as defined in Article [1](/lagstiftning/cer/kap-1#article-1-subject-matter-and-scope), point (2), of [Directive 2001/83/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0083) of the European Parliament and of the Council (16)
 
 — Entities manufacturing basic pharmaceutical products and pharmaceutical preparations as referred to in Section C division 21 of NACE Rev. 2
 
@@ -261,31 +261,31 @@ Categories of entities
 
 6\. Drinking water
 
-— Suppliers and distributors of water intended for human consumption as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (1)(a), of [Directive (EU) 2020/2184](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L2184) of the European Parliament and of the Council (18), excluding distributors for which distribution of water for human consumption is a non-essential part of their general activity of distributing other commodities and goods
+— Suppliers and distributors of water intended for human consumption as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (1)(a), of [Directive (EU) 2020/2184](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L2184) of the European Parliament and of the Council (18), excluding distributors for which distribution of water for human consumption is a non-essential part of their general activity of distributing other commodities and goods
 
 7\. Waste water
 
-— Undertakings collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), points (1), (2) and (3), of Council Directive 91/271/EEC (19), excluding undertakings for which collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water is a non-essential part of their general activity
+— Undertakings collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), points (1), (2) and (3), of Council Directive 91/271/EEC (19), excluding undertakings for which collecting, disposing of or treating urban waste water, domestic waste water or industrial waste water is a non-essential part of their general activity
 
 8\. Digital infrastructure
 
-— Providers of internet exchange points as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (18), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
+— Providers of internet exchange points as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (18), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
 
-— DNS service providers as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (20), of [Directive (EU) 2022/2555](/lagstiftning/nis2), excluding operators of root name servers
+— DNS service providers as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (20), of [Directive (EU) 2022/2555](/lagstiftning/nis2), excluding operators of root name servers
 
-— top-level-domain name registries as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (21), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
+— top-level-domain name registries as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (21), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
 
-— Providers of cloud computing services as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (30), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
+— Providers of cloud computing services as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (30), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
 
-— Providers of data centre services as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (31), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
+— Providers of data centre services as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (31), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
 
-— Providers of content delivery networks as defined in Article [6](/lagstiftning/cer/kap-2#artikel-6-identification-of-critical-entities), point (32), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
+— Providers of content delivery networks as defined in Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities), point (32), of [Directive (EU) 2022/2555](/lagstiftning/nis2)
 
-— Trust service providers as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (19), of [Regulation (EU) No 910/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910) of the European Parliament and of the Council (20)
+— Trust service providers as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (19), of [Regulation (EU) No 910/2014](/lagstiftning/eidas) of the European Parliament and of the Council (20)
 
-— Providers of public electronic communications networks as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (8), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) of the European Parliament and of the Council (21)
+— Providers of public electronic communications networks as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (8), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) of the European Parliament and of the Council (21)
 
-— Providers of electronic communications services as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (4), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) insofar as their services are publicly available
+— Providers of electronic communications services as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (4), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) insofar as their services are publicly available
 
 9\. Public administration
 
@@ -293,15 +293,15 @@ Categories of entities
 
 10\. Space
 
-— Operators of ground-based infrastructure, owned, managed and operated by Member States or by private parties, that support the provision of space-based services, excluding providers of public electronic communications networks as defined in Article [2](/lagstiftning/cer/kap-1#artikel-2-definitions), point (8), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972)
+— Operators of ground-based infrastructure, owned, managed and operated by Member States or by private parties, that support the provision of space-based services, excluding providers of public electronic communications networks as defined in Article [2](/lagstiftning/cer/kap-1#article-2-definitions), point (8), of [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972)
 
 11\. Production, processing and distribution of food
 
-— Food businesses as defined in Article [3](/lagstiftning/cer/kap-1#artikel-3-minimum-harmonisation), point (2), of [Regulation (EC) No 178/2002](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0178) of the European Parliament and of the Council (22) which are engaged exclusively in logistics and wholesale distribution and large scale industrial production and processing
+— Food businesses as defined in Article [3](/lagstiftning/cer/kap-1#article-3-minimum-harmonisation), point (2), of [Regulation (EC) No 178/2002](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0178) of the European Parliament and of the Council (22) which are engaged exclusively in logistics and wholesale distribution and large scale industrial production and processing
 
-(1) [Directive (EU) 2019/944](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944) of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) (OJ L 158, 14.6.2019, p. 125).
+(1) [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) (OJ L 158, 14.6.2019, p. 125).
 
-(2) [Regulation (EU) 2019/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0943) of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (OJ L 158, 14.6.2019, p. 54).
+(2) [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen) of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (OJ L 158, 14.6.2019, p. 54).
 
 (3) [Directive (EU) 2018/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2001) of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
 
@@ -337,7 +337,7 @@ Categories of entities
 
 (19) Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment (OJ L 135, 30.5.1991, p. 40).
 
-(20) [Regulation (EU) No 910/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910) of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) (OJ L 257, 28.8.2014, p. 73).
+(20) [Regulation (EU) No 910/2014](/lagstiftning/eidas) of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) (OJ L 257, 28.8.2014, p. 73).
 
 (21) [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972) of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communication Code (OJ L 321, 17.12.2018, p. 36).
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,23 +21,147 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Krav på den arbetsutrustning som används
+### Inledning
 
-### 4 §
+Stöd och verktyg: Jordbruk och skogsbruk
 
-Undersökning och riskbedömning ska göras för att bedöma om den arbetsutrustning som väljs och används är lämplig för det arbete som ska utföras, eller om den har anpassats till det på lämpligt sätt så att den kan användas med betryggande säkerhet. De riskmoment som föreligger på grund av användningen av arbetsutrustningen ska undersökas och riskbedömas.
+### 1 § – Då gäller föreskrifterna
 
-### 5 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-5) gäller användning av motorkedjesågar och röjsågar. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i [2 kap.](/lagstiftning/afs-2023-11/kap-2)
 
-Om en arbetsutrustning omfattades av svenska föreskrifter, som överför Europeiska unionens produktdirektiv till svensk rätt eller produktförordningar när den släpptes ut på marknaden eller togs i drift inom EES, gäller följande. Utrustningen får användas bara om den uppfyller kraven på utformning och information om användningen, som finns i de föreskrifterna eller de produktförordningar som gällde för den när den släpptes ut på marknaden eller togs i drift.
+Föreskrifterna gäller inte användning av motorkedjesågar på skaft eller med riggrör, eller sådana tekniska anordningar, där en motorkedjesåg ingår som en del av anordningen.
 
-Detsamma gäller en arbetsutrustning, som omfattades av motsvarande föreskrifter i något annat land inom EES. Vad beträffar märkning, interaktiv programvara och bruksanvisning, gäller vid användningen dock alltid de krav på språk, som följer av de svenska föreskrifterna.
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-5) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-5). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-5) om arbetsgivare och om arbetstagare. Den som driver sådan verksamhet behöver dock inte följa bestämmelserna i [4](#4-undersökning-och-riskbedömning)–[6 §§](#6), bilaga 5 punkt 2 om ensamarbete, punkt 3.1 och 4.5 första meningen om instruktioner för arbete, och punkt 4.5 andra meningen om kommunikation mellan arbetstagare, samt [15](#15)–[17 §§](#17).
+
+Undantagen i andra stycket gäller dock inte för den som använder en motorkedjesåg eller en röjsåg på ett gemensamt arbetsställe eller inom byggnads- och anläggningsarbete.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer, att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-5) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-5) gäller då även dem.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-11/kap-5) har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Motorkedjesåg</div></div></td><td><div><div>Motordriven maskin som bärs av användaren. Maskinen har ett skärande verktyg, som består av en ändlös sågkedja som löper och styrs i ett för sågkedjan avsett spår i ett blad (också kallat svärd). En sådan maskin kan vara förbränningsmotordriven, eldriven eller drivas med någon form av tryckmedium.</div></div></td></tr><tr><td><div><div>Röjsåg</div></div></td><td><div><div>Motordriven maskin som bärs av användaren. Maskinen har ett riggrör, som innesluter en drivaxel och kan med en klinga eller ett liknande skärverktyg användas för att bland annat röja gräs, ogräs, buskar, små träd och liknande vegetation. Maskinen har förutom drivaxeln och skärverktyget även en drivenhet.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
+
+Arbetsgivaren ska, i sin undersökning av arbetsförhållandena och i sin riskbedömning av verksamheter, där en motorkedjesåg eller en röjsåg ska användas, särskilt uppmärksamma
+
+arbetstagarnas praktiska och teoretiska kunskaper,
+
+risker i samband med in- och uthyrning av arbetskraft,
+
+underhållet av motorsågar och röjsågar,
+
+skyddsutrustningen,
+
+instruktionerna från tillverkaren,
+
+särskilt riskfyllda arbeten, och
+
+risker vid ensamarbete.
+
+### 5 § – Åtgärder
+
+Bestämmelserna i [6](#6)–[18 §§](/lagstiftning/afs-2023-11/kap-2#18) ska alltid vara uppfyllda, oavsett riskbedömningens utfall.
 
 ### 6 §
 
-När en arbetsutrustning inte omfattas av [5 §](#5), ska arbetsgivaren se till att den uppfyller kraven i bilaga 1, när den används. En arbetsutrustning som bara i vissa avseenden omfattas av krav enligt [5 §](#5), ska i övrigt uppfylla kraven i bilaga 1, när den används.
+Arbetsgivaren ska följa upp riskbedömningen och de vidtagna åtgärderna och vid behov regelbundet uppdatera dem, för att säkerställa att riskbedömningen är riktig och att åtgärderna gett förväntat resultat.
+
+### 7 § – Krav på produkter
+
+Arbetsgivaren ska se till att kraven i [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5) är uppfyllda när en motorkedjesåg eller röjsåg används.
+
+### 8 §
+
+Arbetsgivaren ska se till att en motorkedjesåg eller en röjsåg som inte omfattas av [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5), uppfyller kraven i bilaga 4, när den används. En motorkedjesåg eller en röjsåg som bara i vissa avseenden omfattas av [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5), ska i övrigt uppfylla kraven i bilaga 4, när den används.
 
 Varor som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i Turkiet, eller som har sitt ursprung i och som lagligen saluförs i en Eftastat som är part i EES-avtalet förutsätts vara förenliga med dessa föreskrifter. Tillämpningen av dessa föreskrifter omfattas av [Europaparlamentets och rådets förordning (EU) 2019/515](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0515) av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av [förordning (EG) nr 764/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0764).
+
+### 9 § – Regler vid arbete
+
+Arbetsgivaren ska se till att kraven i bilaga 5 är uppfyllda, vid arbete med en motorkedjesåg eller en röjsåg.
+
+### 10 §
+
+Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg eller en röjsåg, skyddas mot skador från fallande eller flygande föremål, olja, avgaser, buller, vibrationer, sågkedjan, klingan och tillbehör som monteras på motorkedjesågen eller röjsågen.
+
+### 11 §
+
+Arbetsgivaren ska se till att motorkedjesågar och röjsågar kontrolleras regelbundet. Kontrollen ska utföras av en person med god kännedom om sågens säkerhetsanordningar, användning, och skötsel.
+
+Arbetsgivaren ska se till att sågkedjor, klingor och tillbehör kontrolleras och underhålls fortlöpande under arbetet. Kontroller ska utföras dagligen på de motorkedjesågar eller röjsågar som används.
+
+Arbetsgivaren ska se till att kassera en sliten eller skadad sågkedja, klingor med synliga sprickor eller andra skador och ett klingskydd som är skadat på ett sådant sätt att det inte uppfyller sin funktion på fullgott sätt.
+
+Om det vid en kontroll eller under arbetet med en motorkedjesåg eller en röjsåg upptäcks någon skada eller brist, som kan äventyra säkerheten, får motorkedjesågen eller röjsågen inte användas vidare, förrän skadan reparerats eller bristen åtgärdats.
+
+### 12 §
+
+Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg använder hörselskydd, skyddshjälm, ögonskydd eller ansiktsskydd mot skador genom mekanisk påverkan, skyddskängor eller skyddsstövlar med sågskydd mot skador från motorsågskedjan, skyddsbyxa eller byxholkar med sågskydd mot skador från motorsågskedjan, arbetshandskar och varselkläder på överkroppen.
+
+Bestämmelserna i första stycket gäller inte, när en motorkedjesåg används till andra arbeten än fällning eller upparbetning av träd, om riskbedömningen visar att en viss typ av skyddsutrustning inte behövs.
+
+Bestämmelsen i första stycket om varselkläder på överkroppen gäller inte vid krigsliknande övningar som Försvarsmakten utför.
+
+### 13 §
+
+Arbetsgivaren ska se till att den som arbetar med en röjsåg använder hörselskydd, ögonskydd, skyddshjälm om röjningsstammarna är högre än två meter, arbetshandskar, skyddskängor eller skyddsstövlar med sågskydd och varselkläder på överkroppen.
+
+### 14 §
+
+Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg eller en röjsåg har med sig första förband.
+
+### 15 §
+
+Arbetsgivaren ska se till att det, nära en arbetsplats där en förbränningsmotordriven kedjesåg eller en röjsåg används, vid behov finns ett rum (motorsågsrum) för kontroll, vård och förvaring av sågar. Där ska också finnas möjlighet till förvaring av mindre mängder smörj- och drivmedel. I rummet ska det finnas anordningar för uppvärmning och belysning. Anordningarna ska vara utförda och placerade så att risken för brand minimeras. Rummet ska vara skilt från personalutrymmen med en tät vägg utan dörr eller lucka.
+
+### 16 § – Kunskaper
+
+Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg har avlagt ett teoretiskt och praktiskt prov med godkänt resultat, som visar att personen har kunskaper, som motsvarar de arbetsuppgifter som ska utföras.
+
+Det ska finnas dokumentation, som styrker att den som arbetar med en motorkedjesåg har avlagt ett teoretiskt och praktiskt prov för motorsågsanvändning med godkänt resultat.
+
+Den som låter någon använda en motorkedjesåg i strid med kraven i andra stycket, ska betala en sanktionsavgift om 10 000 kronor per användare.
+
+> _Allmänna råd_
+>
+> Exempel på vad som i regel bör ingå i utbildningen för arbete med en motorkedjesåg, är kunskaper om
+>
+> underhåll och kontroll av sågar,
+>
+> arbetsutrustningens egenskaper,
+>
+> lämplig personlig skyddsutrustning,
+>
+> hur utrustningen ska användas,
+>
+> olika typer av redskap för trädfällning och nedtagning av fastfällda träd,
+>
+> moment som ingår vid trädfällning och upparbetning av träd,
+>
+> teknik och metoder vid fällning av svårfällda träd,
+>
+> metoder för nedtagning av hängande och fastfällda träd,
+>
+> arbete i stormfälld skog, och
+>
+> riskbedömningar vid olika arbetssituationer.
+>
+> Det är viktigt att utbildningen också omfattar instruktioner och träningsmoment, som är anpassade till de speciella arbetsuppgifterna, så att riskerna vid användning av motorkedjesåg blir kända och olycksfall därigenom kan undvikas.
+>
+> Det är lämpligt att proven görs om vart femte år.
+>
+> Dokumentationen, som visar på att den arbetstagare som använder motorkedjesåg har genomgått proven med godkänt resultat behöver inte finnas tillgänglig hos arbetstagaren. Dokumentationen ska på begäran från Arbetsmiljöverket kunna visas upp. Exempel på dokumentation som avses i [16 §](#16-kunskaper) andra stycket kan vara ett så kallat motorsågskörkort eller något annat utbildningsbevis.
+
+### 17 §
+
+Arbetsgivaren ska se till att den som arbetar med en röjsåg, har genomgått en utbildning för den typ av arbete som ska utföras och har kunskaper för det arbetet. Utbildningen ska ta upp de olycksrisker, som förekommer i arbetet.
 <!-- scan-laws:end -->
 
 ## Tolkning

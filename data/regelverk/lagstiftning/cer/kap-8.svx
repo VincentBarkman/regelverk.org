@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32022L2557#cpt_VIII'
+'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0024.03#cpt_VIII'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -75,7 +75,7 @@ Ordförande
 
 (4) Rådets [direktiv 2008/114/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008L0114) av den 8 december 2008 om identifiering av, och klassificering som, europeisk kritisk infrastruktur och bedömning av behovet att stärka skyddet av denna (EUT L 345, 23.12.2008, s. 75).
 
-(5) [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972), och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet) (se sidan 80 i detta nummer av EUT).
+(5) [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](/lagstiftning/eidas) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972), och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet) (se sidan 80 i detta nummer av EUT).
 
 (6) [Europaparlamentets och rådets direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) av den 6 juli 2016 om åtgärder för en hög gemensam nivå på säkerhet i nätverks- och informationssystem i hela unionen (EUT L 194, 19.7.2016, s. 1).
 
@@ -91,7 +91,7 @@ Ordförande
 
 (12) Europaparlamentets och rådets [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) av den 15 maj 2014 om marknader för finansiella instrument och om ändring av [direktiv 2002/92/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0092) och av [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) (EUT L 173, 12.6.2014, s. 349).
 
-(13) [Europaparlamentets och rådets förordning (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (se sidan 1 i detta nummer av EUT).
+(13) [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (se sidan 1 i detta nummer av EUT).
 
 (14) [Europaparlamentets och rådets förordning (EG) nr 725/2004](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004R0725) av den 31 mars 2004 om förbättrat sjöfartsskydd på fartyg och i hamnanläggningar (EUT L 129, 29.4.2004, s. 6).
 
@@ -155,17 +155,17 @@ Kategorier av entiteter
 
 a) Elektricitet
 
-— Elföretag enligt definitionen i artikel [2.57](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i [Europaparlamentets och rådets direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) (1) som bedriver leverans enligt definitionen i artikel [2.12](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i det direktivet
+— Elföretag enligt definitionen i artikel [2.57](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [Europaparlamentets och rådets direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) (1) som bedriver leverans enligt definitionen i artikel [2.12](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i det direktivet
 
-— Systemansvariga för distributionssystem enligt definitionen i artikel [2.29](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i [direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944)
+— Systemansvariga för distributionssystem enligt definitionen i artikel [2.29](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Systemansvariga för överföringssystem enligt definitionen i artikel [2.35](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i [direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944)
+— Systemansvariga för överföringssystem enligt definitionen i artikel [2.35](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Producenter enligt definitionen i artikel [2.38](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i [direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944)
+— Producenter enligt definitionen i artikel [2.38](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
-— Nominerade elmarknadsoperatörer enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0943) i [Europaparlamentets och rådets förordning (EU) 2019/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0943) (2)
+— Nominerade elmarknadsoperatörer enligt definitionen i artikel [2.8](/lagstiftning/elmarknadsforordningen/kap-1#artikel-2-definitioner) i [Europaparlamentets och rådets förordning (EU) 2019/943](/lagstiftning/elmarknadsforordningen) (2)
 
-— Marknadsaktörer enligt definitionen i artikel [2.25](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0943) i [förordning (EU) 2019/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0943) som tillhandahåller aggregering, efterfrågeflexibilitet eller energilagringstjänster enligt definitionerna i artikel [2.18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944), [2.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) och [2.59](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) i [direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944)
+— Marknadsaktörer enligt definitionen i artikel [2.25](/lagstiftning/elmarknadsforordningen/kap-1#artikel-2-definitioner) i [förordning (EU) 2019/943](/lagstiftning/elmarknadsforordningen) som tillhandahåller aggregering, efterfrågeflexibilitet eller energilagringstjänster enligt definitionerna i artikel [2.18](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner), [2.20](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) och [2.59](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet)
 
 b) Fjärrvärme eller fjärrkyla
 
@@ -279,7 +279,7 @@ e) Kollektivtrafik
 
 — Tillhandahållare av nätverk för innehållsleverans enligt definitionen i artikel [6.32](/lagstiftning/nis2/kap-1#artikel-6-definitioner) i [direktiv (EU) 2022/2555](/lagstiftning/nis2)
 
-— Tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.19](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) (20).
+— Tillhandahållare av betrodda tjänster enligt definitionen i artikel [3.19](/lagstiftning/eidas/kap-1#artikel-3-definitioner) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](/lagstiftning/eidas) (20).
 
 — Tillhandahållare av allmänna elektroniska kommunikationsnät enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) i [Europaparlamentets och rådets direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) (21)
 
@@ -297,9 +297,9 @@ e) Kollektivtrafik
 
 — Livsmedelsföretag enligt definitionen i artikel [3.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002R0178) i [Europaparlamentets och rådets förordning (EG) nr 178/2002](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002R0178) (22) som uteslutande bedriver logistikverksamhet och grossisthandel samt storskalig industriell produktion och bearbetning
 
-(1) [Europaparlamentets och rådets direktiv (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0944) av den 5 juni 2019 om gemensamma regler för den inre marknaden för el och om ändring av [direktiv 2012/27/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012L0027) (EUT L 158, 14.6.2019, s. 125).
+(1) [Europaparlamentets och rådets direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) av den 5 juni 2019 om gemensamma regler för den inre marknaden för el och om ändring av [direktiv 2012/27/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012L0027) (EUT L 158, 14.6.2019, s. 125).
 
-(2) [Europaparlamentets och rådets förordning (EU) 2019/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0943) av den 5 juni 2019 om den inre marknaden för el (EUT L 158, 14.6.2019, s. 54).
+(2) [Europaparlamentets och rådets förordning (EU) 2019/943](/lagstiftning/elmarknadsforordningen) av den 5 juni 2019 om den inre marknaden för el (EUT L 158, 14.6.2019, s. 54).
 
 (3) [Europaparlamentets och rådets direktiv (EU) 2018/2001](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L2001) av den 11 december 2018 om främjande av användningen av energi från förnybara energikällor (EUT L 328, 21.12.2018, s. 82).
 
@@ -335,7 +335,7 @@ e) Kollektivtrafik
 
 (19) Rådets direktiv 91/271/EEG av den 21 maj 1991 om rening av avloppsvatten från tätbebyggelse (EGT L 135, 30.5.1991, s. 40).
 
-(20) [Europaparlamentets och rådets förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av [direktiv 1999/93/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) (EUT L 257, 28.8.2014, s. 73).
+(20) [Europaparlamentets och rådets förordning (EU) nr 910/2014](/lagstiftning/eidas) av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av [direktiv 1999/93/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0093) (EUT L 257, 28.8.2014, s. 73).
 
 (21) [Europaparlamentets och rådets direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972) av den 11 december 2018 om inrättande av en europeisk kodex för elektronisk kommunikation (EUT L 321, 17.12.2018, s. 36).
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,187 +21,267 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
+#### Avdelning III: Fall och ras
+
+### 4 – kap. Skydd mot skada genom fall
+
+Stöd och verktyg: Skydd mot skada genom fall
+
 ### 1 § – Då gäller föreskrifterna
 
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) reglerar all verksamhet där arbetstagare kan utsättas för vibrationer.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) reglerar all verksamhet där arbetstagare kan utsättas för fallrisker.
 
 ### 2 § – Vem föreskrifterna riktar sig till
 
 Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-3).
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-3). Den som driver sådan verksamhet behöver dock inte följa de delar av bestämmelserna i [18 §](#18) som reglerar medgivande från arbetsgivaren och om underrättelse till arbetsgivaren, förutom när arbetet utförs på gemensamt arbetsställe.
 
 Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
 ### 3 § – Definitioner
 
-I [detta kapitel](/lagstiftning/afs-2023-10/kap-3) har följande begrepp dessa betydelser.
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-3) har följande begrepp denna betydelse.
 
-Begrepp
-
-Betydelse
-
-Gränsvärde
-
-Värde som inte får överskridas.
-
-Hand- och armvibrationer
-
-Vibrationer som överförs från utrustning som hålls, styrs eller stöds av hand eller arm och medför risker för ohälsa eller olycksfall.
-
-Helkroppsvibrationer
-
-Vibrationer som överförs till hela kroppen genom en stödjande yta, exempelvis en stående persons fötter eller en sittande persons säte, och som medför risker för ohälsa eller olycksfall.
-
-Insatsvärde för vibrationer
-
-Värde som innebär krav på åtgärder om det överskrids.
-
-Vibration
-
-Mekanisk svängningsrörelse hos fasta föremål, som kan vara kontinuerlig, intermittent (ojämn, ryckvist återkommande) eller innehålla upprepade stötar.
-
-Vibrationsexponering
-
-Att utsättas för vibrationer under en viss tid.
-
-Visa hela tabellen
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Fall</div></div></td><td><div><div>Fall från samma nivå, såsom att arbetstagare faller omkull, halkar, snavar, trampar snett, trampar genom något underlag eller liknande, och fall till en lägre nivå.</div></div></td></tr></tbody></table>
 
 ### 4 § – Undersökning och riskbedömning
 
-Arbetsgivaren ska planera så att riskerna till följd av exponering för vibrationer elimineras eller sänks till lägsta möjliga nivå. Hänsyn ska tas till den tekniska utvecklingen och möjligheten att begränsa vibrationer.
+Vid undersökning och riskbedömning ska arbetsgivaren särskilt ta hänsyn till risken för skada genom fall.
+
+Arbetsgivaren ska särskilt ta hänsyn till om det finns hål, öppningar eller liknande och stup eller annan större nivåskillnad, där arbetstagarna uppehåller sig eller förflyttar sig under arbetet.
+
+Om det behövs, ska arbetsgivaren se till att det finns lämpliga skyddsanordningar mot fall, inklusive stabila infästningar.
+
+> _Allmänna råd_
+>
+> Skyddsräcken eller skyddstäckning kan vara lämpliga skyddsanordningar.
 
 ### 5 §
 
-Vid undersökning och riskbedömning av vibrationer ska arbetsgivaren uppskatta hur stor arbetstagarnas vibrationsexponering är. Detta ska göras antingen genom att klarlägga exponeringen via mätningar under utfört arbetsmoment eller genom att observera förekommande arbetsmoment och hänvisa till relevant information från tillverkaren om arbetsutrustningens sannolika vibrationsvärde under dessa användningsförhållanden.
-
-Uppskattning av vibrationsexponeringen ska göras enligt bilaga 2 eller bilaga 3.
-
-> _Allmänna råd_
-
-> Vid uppskattning av vibrationsexponeringen enligt bilaga 2 och 3 kan följande svenska standarder användas:
-
-> SS-EN ISO 5349-1:2001. Vibration och stöt – Mätning och bedömning av vibrationer som överförs till handen – Del 1: Allmänna riktlinjer. Utgåva 1.
-
-> SS-ISO 2631-1:1998 Vibration och stöt – Vägledning för bedömning av helkroppsvibrationers inverkan på människan – Del 1: Allmänna krav med de ändringar som framgår i SS-ISO 2631-1:1998/Amd 1:2010.
+Arbetsgivaren ska särskilt beakta behovet av skyddsåtgärder om underlaget är lutande.
 
 ### 6 §
 
-Vid undersökning och riskbedömning av vibrationer ska arbetsgivaren särskilt uppmärksamma
-
-insatsvärden och gränsvärden för vibrationsexponering som anges i bilaga 4 tabell 4,
-
-nivå, typ och varaktighet för vibrationsexponeringen, och om exponeringen innehåller intermittenta (ojämna, ryckvist återkommande) vibrationer eller upprepade stötar,
-
-information från arbetsutrustningens tillverkare,
-
-särskilda arbetsförhållanden,
-
-förhöjd risk för ohälsa eller olycksfall hos arbetstagarna som kan vara särskilt känsliga för vibrationer,
-
-risken för olycksfall till följd av växelverkan mellan vibrationer och arbetsplatsen eller annan utrustning,
-
-om arbetstagarna, inom ramen för verksamheten, exponeras för vibrationer även utanför arbetstid, och
-
-om det finns ersättningsutrustning som är avsedd att minska vibrationsexponeringen.
-
-> _Allmänna råd_
-
-> Till punkt 4. Särskilda arbetsförhållanden kan vara ergonomisk belastning, temperatur- och klimatförhållanden och arbetsbelastning.
-
-> Till punkt 5. Särskilt känsliga för helkroppsvibrationer kan vara gravida. Särskilt känsliga för hand- och armvibrationer kan vara arbetstagare med dokumenterad grav vibrationsskada eller annan dokumenterad sjukdom i händerna, såsom kärl- och nervskador, och arbetstagare som använder kärlsammandragande medicin.
-
-> Till punkt 7. Situationer när arbetstagarna är exponerade för vibrationer på arbetsplatsen utanför arbetstid kan vara raster, vila och andra tillfällen när arbetstagarna inte kan lämna arbetsplatsen.
-
-> Till punkt 8. Vid val av ersättningsutrustning, för att minska vibrationsexponeringen, behöver arbetsgivaren både ta hänsyn till vibrationsvärdet och effektiviteten hos arbetsutrustningen. Om en ersättningsutrustning med lägre vibrationsvärde är mindre effektiv kan det ta längre tid att utföra ett arbetsmoment. Detta kan i sin tur ge längre exponeringstider och kan på så sätt ge en högre vibrationsexponering.
-
-> Vibrationsskador kan uppkomma även när vibrationsexponeringen ligger under de exponeringsvärden som omnämns i föreskrifterna. Det beror på individuella skillnader i känslighet för vibrationer.
+Arbetsgivaren ska undersöka behovet av belysning för att förebygga fall. Om undersökningen visar att det behövs, ska arbetsgivaren se till att belysningen är tillräcklig för att synliggöra förhållanden som kan orsaka fall.
 
 ### 7 § – Åtgärder
 
-Arbetsgivaren ska vidta åtgärder för att minska riskerna på grund av vibrationsexponering om vibrationsexponeringen överstiger något av insatsvärdena i bilaga 4 tabell 4, eller om riskbedömningen motiverar det.
+Arbetsgivaren ska se till att underlag som är avsedda att beträdas har betryggande bärighet. Underlag som inte har betryggande bärighet får beträdas först sedan särskilda skyddsåtgärder har vidtagits.
 
-Vid val av åtgärder ska arbetsgivaren särskilt beakta möjligheten att
-
-använda alternativa arbetsmetoder, så att arbetstagarnas exponering för vibrationer minskas,
-
-välja arbetsutrustning med lämplig ergonomisk utformning som ger så liten vibrationsexponering som möjligt, med tanke på det arbete som ska utföras,
-
-använda teknisk arbetsutrustning som minskar risken för vibrationsskador, till exempel säten som effektivt dämpar helkroppsvibrationer eller handtag som dämpar vibrationer som överförs till händer och armar,
-
-ha lämpliga underhållsprogram för arbetsutrustningar, arbetsplatser och kringutrustningar,
-
-utforma och planera arbetsplatser,
-
-informera och utbilda arbetstagarna så att arbetsutrustningen används på ett riktigt och säkert sätt, för att minimera exponeringen för vibrationer,
-
-organisera arbetet på annat sätt, genom att
-
-begränsa tiden och intensiteten för arbetstagarens vibrationsexponering, och
-
-anpassa arbetstiderna så att viloperioderna blir tillräckliga, samt
-
-tillhandahålla arbetskläder som skyddar exponerade mot fukt och kyla.
+> _Allmänna råd_
+>
+> Underlag som inte alltid har betryggande bärighet kan vara is, gamla tak och tak med glaspartier.
+>
+> Särskilda åtgärder kan vara att fördela belastningen över underlaget.
 
 ### 8 §
 
-Vibrationsexponeringen får inte överskrida något av gränsvärdena i bilaga 4 tabell 4. Om detta sker ska arbetsgivaren
+Vid anordnande av underlag som är avsett att beträdas ska arbetsgivaren eftersträva att underlaget har lämplig ytsträvhet och är fritt från hinder och ojämnheter som innebär risk för fall.
 
-vidta omedelbara åtgärder för att minska vibrationsexponeringen så att den ligger under gränsvärdet,
-
-utreda orsakerna till att gränsvärdet överskridits, och
-
-vidta åtgärder så att gränsvärdet inte överskrids i fortsättningen.
-
-Om det, med hänsyn till den aktuella tekniska utvecklingen och arbetsplatsens särskilda karaktär, inte är möjligt att iaktta något av gränsvärdena i bilaga 4 tabell 4 gäller inte kraven i första stycket vid arbete inom luftfart för helkroppsvibrationer och Försvarsmakten för både helkroppsvibrationer och hand- och armvibrationer.
+> _Allmänna råd_
+>
+> Genom att underlaget är fast och stadigt, jämnt och dränerat kan risk för fall motverkas.
 
 ### 9 §
 
-Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder) och [8 §§](#8) till arbetstagare som kan vara särskilt känsliga för vibrationer.
+Arbetsgivaren ska se till att man vidtar nödvändiga skyddsåtgärder och iakttar särskild försiktighet vid arbete och förflyttning på underlag som rör sig eller kan komma i rörelse.
 
-> _Allmänna råd_
+### 10 §
 
-> Särskilt känsliga för helkroppsvibrationer kan vara gravida. Särskilt känsliga för hand- och armvibrationer kan vara arbetstagare med dokumenterad grav vibrationsskada eller annan dokumenterad sjukdom i händerna, såsom kärl- och nervskador, och arbetstagare som använder kärlsammandragande medicin.
+Arbetsgivaren ska se till att arbetsplatser och transportvägar inom arbetsstället har tillräckligt utrymme för att arbete och förflyttning kan ske utan risk för fall.
 
-### 10 § – Kunskaper
+### 11 §
 
-Arbetsgivaren ska se till att arbetstagarna som utsätts för vibrationer i arbetet får information och utbildning om riskerna.
-
-Vid information och utbildning ska arbetsgivaren särskilt uppmärksamma
-
-resultaten av genomförda riskbedömningar,
-
-de gränsvärden och insatsvärden som anges i bilaga 4 tabell 4,
-
-de åtgärder som vidtagits eller kommer att vidtas enligt [detta kapitel](/lagstiftning/afs-2023-10/kap-3) för att eliminera eller minimera riskerna från vibrationer,
-
-arbetsrutiner för att minimera vibrationsexponeringen,
-
-innebörden av de hälsorisker som kan uppstå vid vibrationsexponering,
-
-varför och hur arbetstagarna ska rapportera tecken på skada, och hur de kan upptäcka tecknen, och
-
-när arbetstagarna har rätt till medicinska kontroller, och syftet med kontrollerna.
-
-### 11 § – Medicinska kontroller
-
-I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller för de arbetstagare som kommer att sysselsättas eller sysselsätts i arbete som innebär exponering för vibrationer, om exponeringen
-
-överstiger insatsvärdet för hand- och armvibrationer enligt bilaga 4 tabell 4,
-
-sker på sådant sätt att misstanke finns om att exponeringen kan orsaka ohälsa, eller
-
-orsakat vibrationsskador, eller gett misstanke om vibrationsskador, hos en annan arbetstagare som har exponerats på ett liknande sätt.
-
-> _Allmänna råd_
-
-> Exponeringen för vibrationer kan orsaka ohälsa hos tandvårdspersonal, bilmekaniker, nitare, fotvårdspersonal och andra som arbetar mycket med vibrerande handhållna maskiner eller verktyg, trots att deras vibrationsexponering ofta ligger under insatsvärdena. Dessa yrkeskategorier använder ofta vibrerande handhållna maskiner eller verktyg (maskiner med slagmekanism eller med mycket höga varvtal) där risken för ohälsa lätt underskattas med dagens mätmetoder. Det är därför lämpligt att låta dessa yrkeskategorier regelbundet genomgå medicinska kontroller.
+Arbetsgivaren ska se till att arbetsplatser och transportvägar inom arbetsstället är fria från spill, avfall och onödiga föremål.
 
 ### 12 §
 
-Om det framkommer tecken på vibrationsskada hos en arbetstagare som har genomgått hälsoundersökning, eller om arbetsgivaren har bedömt att arbetsförhållandena kan innebära risk för belastningsbesvär, ska arbetsgivaren göra en ny undersökning och riskbedömning enligt [6 §](#6).
+Arbetsgivaren ska se till att anordningar som är avsedda att stå eller gå på utformas, anordnas och underhålls så att risken för fall motverkas.
 
-Avdelning III: Fall och ras
+> _Allmänna råd_
+>
+> Anordningar som avses kan vara trappor, stegar, arbetsbockar, ramper, ställningar, plattformar eller arbetsflottar. En anordning kan också vara fotsteg på maskin, fordon och annan teknisk anordning.
+
+### 13 §
+
+Arbetsgivaren ska se till att en skyddsanordning mot fall, och skyddsanordningars infästningar, är dimensionerade för den belastning som kan uppstå.
+
+Arbetsgivaren ska se till att skyddsanordningar och infästningar kontrolleras regelbundet och underhålls väl. Bland annat ska det kontrolleras att materialet inte har skadats.
+
+### 14 §
+
+Arbetsgivaren ska se till att skyddstäckningen över hål, öppningar och motsvarande är säkrad så att den inte kan avlägsnas oavsiktligt. En skyddstäckning ska vara tydligt och varaktigt märkt, så att det framgår att den är en skyddsanordning mot fall.
+
+### 15 §
+
+Om en lämplig skyddsanordning mot fall inte kan ordnas, ska arbetsgivaren se till att annan lämplig skyddsåtgärd, som inte är ett personligt fallskydd, används.
+
+Bara i de fall en sådan skyddsanordning eller skyddsåtgärd som avses i första stycket inte är rimlig eller lämplig, ska personligt fallskydd användas.
+
+> _Allmänna råd_
+>
+> En annan lämplig skyddsåtgärd kan vara att använda skyddsnät.
+
+### 16 § – Särskild risk för fall
+
+Arbetsgivaren ska se till att anordningar för räddning finns lätt tillgängliga, om ett fall på arbetsplatsen eller på transportvägar inom arbetsstället kan medföra risk för drunkning. Anordningen ska vara klar att omedelbart användas, och lätt att se även under dåliga siktförhållanden, genom färgsättning eller annan åtgärd.
+
+Förvaringsplatser för transportabla anordningar ska vara tydligt markerade och väl synliga.
+
+Där det behövs ska arbetsgivaren se till att det finns fasta stegar eller andra möjligheter för en nödställd att ta sig upp. Stegar och motsvarande anordningar ska finnas med lämpliga mellanrum, och nå så långt ner under ytan att en nödställd lätt kan ta sig upp.
+
+### 17 §
+
+Arbetsgivaren ska se till att arbetet förändras eller avbryts i tillräcklig omfattning när någon under arbetet uppmärksammar en särskild risk för fall.
+
+Arbetsgivaren ska, där det behövs, spärra av riskområdet tills risken har undanröjts.
+
+Om ett arbete måste utföras inom riskområdet ska arbetsgivaren se till att särskilda skyddsåtgärder vidtas.
+
+### 18 §
+
+Om en skyddsanordning tillfälligt måste tas bort för att arbete ska kunna utföras, får detta göras bara efter medgivande från arbetsgivaren. Arbetsgivaren ska se till att särskilda försiktighetsåtgärder vidtas och att skyddsanordningen sätts tillbaka så snart som möjligt.
+
+Arbetsgivaren ska underrättas om skyddsanordningen inte kan återställas. Ytterligare skyddsåtgärder ska också vidtas, om det behövs. Det gäller även om arbetsplatsen tillfälligt måste lämnas.
+
+Av 8 kap. 2 § första stycket 4 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att det är straffbart att utan giltigt skäl ta bort en skyddsanordning eller sätta den ur bruk.
+
+### 5 – kap. Skydd mot skada genom ras
+
+Stöd och verktyg: Skydd mot skada genom ras
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) reglerar all verksamhet där arbetstagare kan utsättas för rasrisker.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-3). Den som driver sådan verksamhet behöver dock inte följa de delar av bestämmelserna i [18 §](#18) som reglerar medgivande från arbetsgivaren och om underrättelse till arbetsgivaren, förutom när arbetet utförs på gemensamt arbetsställe.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-3) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-3) har följande begrepp denna betydelse.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Ras</div></div></td><td><div><div>Ras av gods, sten, massor, löst material och liknande samt vältande eller fallande föremål, anordningar och liknande.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
+
+Vid undersökning och riskbedömning ska arbetsgivaren ta hänsyn till risken för skada genom ras.
+
+Arbetsgivaren ska se till att underlag och konstruktioner som belastas har betryggande bärighet och ska beakta förändringar i bärighet på grund av
+
+belastning,
+
+vibrationer,
+
+fuktighetsändringar,
+
+väderlek, och
+
+reparations- eller ändringsarbeten.
+
+### 5 §
+
+Arbetsgivaren ska se till att arbetet utförs från en skyddad plats om det behövs. Arbetsgivaren ska särskilt beakta detta vid rivningsarbete eller annat arbete där ras framkallas avsiktligt.
+
+### 6 § – Åtgärder
+
+Arbetsgivaren ska se till att arbetsplatser och transportvägar inom arbetsstället ordnas så att risk för ras inte orsakas av otillräckligt utrymme för hantering av material eller annat gods eller för manövrering av fordon.
+
+Belysningen ska vara tillräcklig för att synliggöra förhållanden som kan orsaka ras.
+
+### 7 §
+
+Arbetsgivaren ska se till att maskiner, ställningar och andra fasta eller rörliga anordningar placeras, monteras och förankras så att risk för ras motverkas.
+
+### 8 §
+
+Arbetsgivaren ska se till att det normalt finns skyddsanordningar som så långt möjligt minskar risken för att fordon, föremål, eller liknande kan störta ner vid kant, stup eller annan nivåskillnad.
+
+> _Allmänna råd_
+>
+> Skyddsanordning vid stup eller andra avsatser kan vara avkörningsskydd.
+
+### 9 §
+
+Arbetsgivaren ska se till att skyddsanordningar mot ras, och skyddsanordningars infästningar, är dimensionerade för den belastning som kan uppstå.
+
+Arbetsgivaren ska också se till att skyddsanordningar och infästningar kontrolleras regelbundet och underhålls väl. Bland annat ska det kontrolleras att materialet inte har skadats.
+
+### 10 §
+
+Arbetsgivaren ska se till att gods och andra föremål ställs, läggs, hängs, staplas, förflyttas eller på annat sätt hanteras och placeras så att risk för ras motverkas. En stapel ska utföras så att den blir stabil. Hänsyn ska tas till eventuell fortsatt hantering.
+
+Arbetsgivaren ska se till att uttag ur massgods, stapel eller motsvarande görs, så att ras undviks.
+
+### 11 §
+
+Arbetsgivaren ska vidta åtgärder så att inte föremål som finns ovanför en arbetsplats rasar ner på denna. Om det behövs ska gods och andra föremål hållas på plats med lämpliga skyddsanordningar mot ras.
+
+Arbetsgivaren ska se till att man så långt som möjligt undviker att förflytta hängande last över platser där personer befinner sig. Där det finns hängande last ska arbetsgivaren se till att det finns tydliga anslag som varnar för detta.
+
+> _Allmänna råd_
+>
+> Lämplig skyddsanordning som håller gods och andra föremål på plats kan vara förankring eller stötta.
+
+### 12 § – Särskild risk för ras
+
+Vid grävning, schaktning eller annat motsvarande arbete ska arbetsgivaren se till att slänter och väggar utförs eller stöttas så att risk för ras motverkas.
+
+> _Allmänna råd_
+>
+> Slänt eller vägg kan utföras med lutning eller i avsatser, med stöttning, spontning eller annan lämplig förstärkning. Överhäng som inte kan tas bort kan behöva stöttas.
+>
+> Vid val av släntlutning eller stödkonstruktion kan man behöva beakta materialets beskaffenhet, schaktdjup, grundvattennivå, väderleksförhållanden, vibrationer, belastning från byggnader, massor, maskiner och liknande.
+
+### 13 §
+
+Arbetsgivaren ska se till att arbetsplatser med särskild risk för ras spärras av. Arbetsgivaren ska vidta lämpliga skyddsåtgärder innan någon arbetstagare beträder eller trafikerar en sådan plats. Lavinfara samt risk för jordskred och motsvarande ska beaktas.
+
+> _Allmänna råd_
+>
+> Plats där det finns särskild risk för ras kan vara tillträdes- och transportled vid arbete på till exempel fasad, tak, i bergrum, tunnel, tunnelöppning eller plats där det finns risk för snöras eller fallande isklumpar. Det kan också vara plats vid ställning, stapel, höglager och liknande som av någon anledning är eller förväntas bli osäker.
+>
+> Lämpliga skyddsåtgärder kan vara skyddstak eller skydd för arbetstagare i fordon. Bergvägg och bergtak kan behöva säkras mot stenfall och ras.
+
+### 14 §
+
+Arbetsgivaren ska se till att arbetet förändras eller avbryts i tillräcklig omfattning när någon under arbetet uppmärksammar en särskild risk för ras.
+
+Arbetsgivaren ska, där det behövs, spärra av riskområdet till dess att risken har undanröjts.
+
+Om ett arbete måste utföras inom riskområdet ska arbetsgivaren se till att särskilda skyddsåtgärder vidtas.
+
+> _Allmänna råd_
+>
+> Om föremål kan fångas av vinden kan även måttlig vindstyrka innebära särskild risk för ras.
+
+### 15 §
+
+Arbetsgivaren ska se till att avspärrningar vid rasrisk är tydligt och varaktigt märkta så att det framgår att det finns en rasrisk.
+
+### 16 §
+
+Arbetsgivaren ska se till att ingen vistas inom områden med rasrisk eller på platser dit rasmassor, fallande eller vältande föremål och liknande kan komma, annat än för speciella skyddsuppgifter.
+
+Arbetsgivaren ska se till att särskilda skyddsåtgärder vidtas om ett arbete måste utföras inom riskområdet.
+
+### 17 §
+
+Arbetsgivaren ska se till att arbetstagare använder skyddshjälm där det finns risk för fallande föremål.
+
+### 18 §
+
+Om en skyddsanordning tillfälligt måste tas bort för att arbete ska kunna utföras, får detta göras bara efter medgivande från arbetsgivaren. Arbetsgivaren ska se till att särskilda försiktighetsåtgärder vidtas och att skyddsanordningen sätts tillbaka så snart som möjligt.
+
+Arbetsgivaren ska underrättas om skyddsanordningen inte kan återställas. Ytterligare skyddsåtgärder ska också vidtas, om det behövs. Det gäller även om arbetsplatsen tillfälligt måste lämnas.
+
+Av 8 kap. 2 § första stycket 4 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att det är straffbart att utan giltigt skäl ta bort en skyddsanordning eller sätta den ur bruk.
 <!-- scan-laws:end -->
 
 ## Tolkning

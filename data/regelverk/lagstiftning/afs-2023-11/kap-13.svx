@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,71 +21,269 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Krav på en traktor
+### Inledning
 
-### 4 §
+Stöd och verktyg: Lyftanordningar och lyftredskap
 
-En hjulburen traktor med en tjänstevikt av 600 kg eller mer ska ha ett överrullningsskydd. Överrullningsskyddet ska vara så konstruerat, att föraren och andra personer som är på traktorn, har tillräckligt skyddsutrymme, om traktorn välter eller överstegrar. Andra personer får vara på traktorn bara om traktorn är utrustad för detta.
+### 1 § – Då gäller föreskrifterna
 
-### 5 §
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-13) gäller för de lyftanordningar och andra tekniska anordningar som omfattas av [11 kap.](/lagstiftning/afs-2023-11/kap-11) och som anges i bilaga 12. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2.
 
-Arbetsgivaren ska se till att ett överrullningsskydd på en traktor undersöks regelbundet, med avseende på sprickbildning eller andra skador.
+Föreskrifterna gäller inte vid personlyft med sådana kranar eller truckar, som i första hand inte är avsedda för personlyft. De gäller inte heller sådana anordningar som avses i [2 kap. 13 § ordningslagen (1993:1617)](https://rkrattsbaser.gov.se/sfst?bet=1993%3A1617).
 
-Är överrullningsskyddet så skadat att hållfastheten påverkas, får traktorn inte användas, förrän detta bytts ut eller reparerats. Ett överrullningsskydd som har blivit väsentligt deformerat, ska kasseras.
+### 2 § – Vem föreskrifterna riktar sig till
 
-Ett överrullningsskydd ska efter reparation ha minst samma hållfasthet som före skadan.
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-13) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-### 6 §
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-13). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-13) om arbetsgivare och om arbetstagare.
 
-Vid förarplatsen får inte finnas oskyddade trycksatta hydraulslangar från maskiner eller redskap som är kopplade till traktorn.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-13) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-13) gäller då även dem.
 
-### 7 §
+Kontrollorganet ansvarar för att bestämmelserna i [9 §](#9-kontrollorgan) tredje och fjärde styckena och [12](#12-åtgärder-efter-besiktning)–[15 §§](#15-besiktningsskylt) följs.
 
-En förarhytt ska in- och utvändigt vara utförd så att utstående delar, hörn och kanter inte medför skaderisker. Förarhyttens dörrar får heller inte oavsiktligt kunna gå upp eller slå igen.
+### 3 § – Definitioner
 
-### 8 §
+I dessa föreskrifter har följande begrepp dessa betydelser.
 
-Förarsitsen ska vara utformad så att föraren inte utsätts för skadlig belastning. Sitsen ska vara väl förankrad och placerad på ett sådant avstånd från väggar, tak och liknande ytor, att föraren kan arbeta obehindrat och utan risk för att skada sig. Sitsen ska gå att reglera och vara vibrationsdämpande.
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>EES</div></div></td><td><div><div>Europeiska ekonomiska samarbetsområdet.</div></div></td></tr><tr><td><div><div>Egenkontroll</div></div></td><td><div><div>Kontroll som utförs i egen verksamhet (även av utomstående) på eget ansvar.</div></div></td></tr><tr><td><div><div>Fly-jib</div></div></td><td><div><div>Extra arm avsedd att monteras i spetsen på kranarm, för att förlänga den.</div></div></td></tr><tr><td><div><div>Fordon</div></div></td><td><div><div>Anordning på hjul, band, medar eller dylikt avsedd för transport på marken. </div></div></td></tr><tr><td><div><div>Fordonskran</div></div></td><td><div><div>Armkran eller svängkran som är monterad på fordon.</div></div></td></tr><tr><td><div><div>Första besiktning</div></div></td><td><div><div>Besiktning som utförs innan en anordning första gången tas i bruk. </div></div></td></tr><tr><td><div><div>Hiss</div></div></td><td><div><div>Lyftanordning med ett styrt lastbärande organ, som betjänar fasta stannplan.</div></div></td></tr><tr><td><div><div>Kran</div></div></td><td><div><div>Lyftanordning där lasten med hjälp av ett icke styrt lastbärande organ kan lyftas och sänkas vertikalt och dessutom förflyttas horisontellt.</div></div></td></tr><tr><td><div><div>Lingång</div></div></td><td><div><div>Lyftanordning som används för lyftning och uppbärande av dekorationer, belysningsanordningar eller dylikt vid teatrar, studior, samlingslokaler och liknande, bestående av rå, bärlinor och linskivor samt draglina alternativt linspel (lingång), eller med hjälp av en eller flera bärlinor, kedjor eller dylikt (punktlyft).</div></div></td></tr><tr><td><div><div>Lyftanordning</div></div></td><td><div><div>Anordning för att lyfta eller sänka last.</div></div></td></tr><tr><td><div><div>Maxlast</div></div></td><td><div><div>Högsta lasten som en lyftanordning eller ett lyftredskap är avsedd för.</div></div></td></tr><tr><td><div><div>Montagebesiktning</div></div></td><td><div><div>Besiktning som utförs</div><ol><li><div><div>innan en anordning tas i bruk eller åter tas i bruk efter att den isärtagen har flyttats till en ny uppställningsplats eller ett nytt fordon, eller</div></div></li><li><div><div>innan en anordning åter tas i bruk efter att på uppställningsplatsen ha höjts, stagats eller kompletterats med tillkommande eller flyttade stannplan.</div></div></li></ol></div></td></tr><tr><td><div><div>Montageplan</div></div></td><td><div><div>Skriftligt dokument med uppgifter om hur en anordning ska monteras och övriga uppgifter som behövs, för att bedöma att montaget i alla delar ger betryggande säkerhet.</div></div></td></tr><tr><td><div><div>Plocktruck</div></div></td><td><div><div>Förarlyftande truck speciellt inrättad för att underlätta plockning av gods i hyllfack.</div></div></td></tr><tr><td><div><div>Punktlyft</div></div></td><td><div><div>Se lingång.</div></div></td></tr><tr><td><div><div>Revisionsbesiktning</div></div></td><td><div><div>Besiktning som utförs på en anordning som har genomgått reparation, ändring, om- eller tillbyggnad eller som befaras ha skadats, på ett sätt som har väsentlig betydelse för säkerheten. </div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3 kap. 12 § andra stycket arbetsmiljölagen.</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3 kap. 5 § arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten.</div></div></td></tr><tr><td><div><div>Återkommande besiktning</div></div></td><td><div><div>Besiktning som utförs regelbundet efter att en anordning har tagits i drift.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (19 rader)</label></div>
 
-### 9 §
+### 4 § – Villkor för användning
 
-Arbetsgivaren ska se till att en traktor bara används om
+Arbetsgivaren ska se till att en anordning, som finns upptagen i bilaga 12, bara används om bestämmelserna i [5](#5-första-besiktning)–[8](#8-återkommande-besiktning) och [12 §§](#12-åtgärder-efter-besiktning), är uppfyllda. Detta gäller dock inte vid provdrift, intrimning eller liknande åtgärd, som är nödvändig för att en besiktning ska kunna genomföras.
 
-motorn kan startas via startmotor, bara om kraftöverföringen till drivhjulen är frånkopplad,
+Om kontrollorganet har angivit att dess bedömning enligt [12 §](#12-åtgärder-efter-besiktning) bara gäller om vissa angivna brister åtgärdas, ska dessutom dessa brister ha rättats till.
 
-differentialspärren har en indikator, som tydligt anger när spärren är inkopplad, om traktorn har en differentialspärr.
+Arbetsmiljöverket kan medge att en anordning får användas, även om kraven i [12 §](#12-åtgärder-efter-besiktning) inte har uppfyllts.
 
-separata bromsfunktioner för höger och vänster hjul kan kopplas ihop, och
+Lyftanordningar monterade på fordon, som omfattas av [militärtrafikförordningen (2009:212)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A212), får användas under 45 dagar utan att ha genomgått återkommande besiktning enligt [8 §](#8-återkommande-besiktning), om fordonet har hämtats från ett mobiliseringsförråd och återkommande besiktning har utförts i samband med att fordonet ställdes i förrådet.
 
-ett manöverorgan utanför förarhytten för lägesreglering av trepunktskoppling är utfört och placerat så att ingen kan skadas, när redskap kopplas till och från traktorn, samt att manöverorganet är utfört som ett hålldon.
+Den som använder en eller flera anordningar i strid med kraven i [denna paragraf](/lagstiftning/afs-2023-11), ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
 
-### 10 §
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta, ska sanktionsavgiften beräknas enligt följande:
 
-Bestämmelserna om överrullningsskydd i [4 §](#4) gäller inte för en traktor
+Avgift = 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
 
-som man kör inomhus och när rumshöjden är så låg att överrullningsskyddet inte får plats,
+Summan ska avrundas nedåt till närmaste hela hundratal.
 
-som man använder utan att hjulen rullar,
+#### Besiktning
 
-som man använder i fruktodling, eller
+### 5 § – Första besiktning
 
-som man kör kortare sträckor i direkt anslutning till någon av de användningar som anges i 1–3.
+Arbetsgivaren ska se till att en anordning som finns upptagen i bilaga 12, har genomgått en första besiktning, som ska omfatta
+
+kontroll av anordningens lämplighet för det avsedda ändamålet,
+
+granskning av ritningar, kopplingsscheman, uppgifter om laster, material och ytbehandling,
+
+kontroll av att underhåll och fortlöpande tillsyn kan utföras på ett säkert sätt,
+
+kontroll av de beräkningar som behövs för att kunna bedöma hållfastheten, stabiliteten och säkerheten i övrigt,
+
+kontroll av instruktioner för användning, drift, räddning, fortlöpande tillsyn och underhåll,
+
+kontroll av att anordningen överensstämmer med den granskade dokumentationen,
+
+kontroll av att anordningen och tillhörande skydd och skyddsanordningar har monterats på det sätt som är avsett,
+
+funktionskontroll av skyddsanordningar, och
+
+funktionsprov med provlast.
+
+Detta gäller dock inte sådana anordningar som omfattas av
+
+Arbetarskyddsstyrelsens kungörelse (AFS 1993:10) med föreskrifter om maskiner och vissa andra tekniska anordningar, eller motsvarande bestämmelser i något annat land inom EES, när de släpptes ut på marknaden inom EES,
+
+Arbetsmiljöverkets föreskrifter (AFS 2008:3) om maskiner, eller motsvarande bestämmelser i något annat land inom EES, när de släpptes ut på marknaden inom EES, eller
+
+Arbetsmiljöverkets föreskrifter (AFS 2023:4) om produkter – maskiner, eller motsvarande bestämmelser i något annat land inom EES, när de släpptes ut på marknaden, eller inte omfattades av kravet på en första besiktning när de togs i drift inom EES.
+
+### 6 § – Montagebesiktning
+
+Arbetsgivaren ska se till att en anordning som kräver montagebesiktning enligt bilaga 12, har genomgått en sådan besiktning, varje gång den har installerats eller monterats på en uppställningsplats eller på ett fordon.
+
+Detta gäller dock inte vid den första uppställningen eller det första montaget om
+
+anordningen ska genomgå en första besiktning enligt [5 §](#5-första-besiktning),
+
+motsvarande kontroller har genomförts på tillverkarens ansvar, för att uppfylla kraven i Arbetarskyddsstyrelsens kungörelse (AFS 1993:10) med föreskrifter om maskiner och vissa andra tekniska anordningar, eller motsvarande bestämmelser i något annat land inom EES,
+
+motsvarande kontroller har genomförts på tillverkarens ansvar, för att uppfylla kraven i Arbetsmiljöverkets föreskrifter (AFS 2008:3) om maskiner, eller motsvarande bestämmelser i något annat land inom EES, eller
+
+motsvarande kontroller har genomförts på tillverkarens ansvar, för att uppfylla kraven i Arbetsmiljöverkets föreskrifter (AFS 2023:4) om produkter – maskiner, eller motsvarande bestämmelser i något annat land inom EES.
+
+Montagebesiktningen ska omfatta
+
+en kontroll av att anordningen och tillhörande skydd och skyddsanordningar har ställts upp och monterats på det sätt som är avsett, och
+
+ett funktionsprov med den last som behövs.
+
+Om en anordning på en uppställningsplats har höjts, stagats eller kompletterats med tillkommande eller flyttade stannplan, behöver den inte montagebesiktigas, om alla följande villkor är uppfyllda:
+
+Anordningen har vid montagebesiktningen i samband med uppställningen bedömts erbjuda betryggande säkerhet.
+
+Kontrollorganet har i samband med montagebesiktningen bedömt att montage enligt en redovisad montageplan erbjuder betryggande säkerhet.
+
+Montaget har utförts enligt denna montageplan.
+
+Egenkontroll av montaget har utförts och dokumenterats.
+
+Omfattningen av egenkontrollen ska vara densamma, som anges för montagebesiktning. Den som har utfört egenkontrollen, ska ha den kompetens och kunskap om anordningen, som krävs för att kunna bedöma, om montaget erbjuder betryggande säkerhet.
+
+### 7 § – Revisionsbesiktning
+
+Arbetsgivaren ska se till att en anordning som finns upptagen i bilaga 12 och som har reparerats, ändrats, byggts om eller till, eller kan ha skadats på ett sätt som har väsentlig betydelse för säkerheten, revisionsbesiktigas innan den åter tas i drift.
+
+Detta gäller dock inte om anordningen har genomgått motsvarande kontroll i något annat land inom EES och då har visats ge betryggande säkerhet.
+
+En revisionsbesiktning ska i tillämpliga delar omfatta
+
+granskning av tillverkningshandlingar,
+
+bedömning av reparationsmetoder,
+
+bedömning av utförda reparationer,
+
+kontroll av att anordningen överensstämmer med den granskade dokumentationen, och
+
+funktionsprov med den last som behövs.
+
+### 8 § – Återkommande besiktning
+
+Arbetsgivaren ska se till att en anordning som finns upptagen i bilaga 12 har genomgått återkommande besiktning vid de tidpunkter som följer av [10 §](#10-ordinarie-besiktningsmånad).
+
+Den återkommande besiktningen ska omfatta
+
+kontroll av de delar av anordningen som påverkar säkerheten och arbetsmiljön genom slitage, sprickor, skador, korrosion etcetera,
+
+funktionsprov med den last som behövs,
+
+kontroll av skydd och skyddsanordningar, och
+
+kontroll av att väsentliga instruktioner för användning, drift och skötsel finns tillgängliga.
+
+### 9 § – Kontrollorgan
+
+Arbetsgivaren ska se till att en besiktning har utförts av ett kontrollorgan, som kan uppvisa oberoende, rutiner och kompetens, som motsvarar kraven för kontrollorgan typ A enligt SS-EN ISO/IEC 17020:2012 utgåva 2, Bedömning av överensstämmelse – Krav på verksamhet inom olika typer av kontrollorgan.
+
+För lyftanordningar monterade på fordon som omfattas av [militärtrafikförordningen (2009:212)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A212), får dock besiktningen vara utförd av ett kontrollorgan motsvarande typ B.
+
+Kontrollorganet ska vara ackrediterat för uppgiften, enligt [Europaparlamentets och rådets förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) av den 9 juli 2008 om krav för ackreditering och upphävande av [förordning (EG) nr 339/93](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31993R0339), och [lagen (2011:791)](https://rkrattsbaser.gov.se/sfst?bet=2011%3A791) om ackreditering och teknisk kontroll, eller enligt motsvarande bestämmelser i något annat land inom EES.
+
+Kontrollorganet kan ackrediteras för någon eller flera av de rader (uppgifter) som anges i bilaga 12.
+
+### 10 § – Ordinarie besiktningsmånad
+
+Arbetsgivaren ska se till att återkommande besiktning utförs under anordningens ordinarie besiktningsmånad, eller senast inom 2 månader efter ordinarie månad. Besiktningen får också ha utförts före den ordinarie besiktningsmånaden. Ordinarie besiktningsmånad är den månad, när det gällande besiktningsintervallet enligt bilaga 12 löper ut.
+
+Om en sådan besiktning utförs tidigare än 2 månader före den ordinarie besiktningsmånaden, ska dock en ny ordinarie besiktningsmånad beräknas, utifrån den dag när besiktningen faktiskt utfördes.
+
+Om en anordning har varit nedmonterad och därefter genomgår en montagebesiktning och återkommande besiktning vid samma tillfälle, ska den ordinarie besiktningsmånaden beräknas utifrån detta tillfälle.
+
+Den ordinarie besiktningsmånaden för en anordning som tidigare inte genomgått återkommande besiktning, beräknas utifrån tidpunkterna i tabell 10.
+
+<table><caption>Tabell 10. Anordning – besiktningstillfälle </caption><tbody><tr><th><div><div><br>Anordningar</div></div></th><th><div><div>Utgångspunkt för att beräkna ordinarie besiktningsmånad</div></div></th></tr><tr><td><div><div>Anordningar som inte omfattas av krav på en första besiktning eller en montagebesiktning.</div></div></td><td><div><div>Den dag när anordningen togs i drift.</div></div></td></tr><tr><td><div><div>Anordningar som har genomgått en första besiktning.</div></div></td><td><div><div>Den dag när den första besiktningen utfördes.</div></div></td></tr><tr><td><div><div>Anordningar som har genomgått en första montagebesiktning.</div></div></td><td><div><div>Den dag när den första montagebesiktningen utfördes.</div></div></td></tr></tbody></table>
 
 ### 11 §
 
-Arbetsgivaren ska se till att en traktor, som man använder vid ett skogsarbete, har skydd, som hindrar att föremål kan tränga in till förarplatsen.
+Arbetsmiljöverket får förlänga besiktningsintervallet enligt bilaga 12 med högst 24 månader om anordningen används på ett sådant sätt att den i särskilt liten grad är utsatt för förslitning eller annan inverkan som påverkar anordningens säkerhet.
 
-### 12 §
+### 12 § – Åtgärder efter besiktning
 
-Arbetsgivaren ska se till att förarplatsen går att värma upp, om traktorn används under den kalla årstiden. Detta krav gäller inte för kortare arbetspass.
+Efter avslutad besiktning, ska kontrollorganet göra följande bedömningar:
+
+För anordningar som har besiktigats enligt [5](#5-första-besiktning)–[8 §§](#8-återkommande-besiktning), ska kontrollorganet bedöma om anordningarna uppfyller kraven i de avseenden, som framgår av respektive bestämmelse.
+
+För samtliga anordningar, ska kontrollorganet bedöma om de även i övrigt erbjuder betryggande säkerhet för användning.
+
+Kontrollorganet ska utfärda ett intyg enligt [14 §](#14-besiktningsintyg) över resultatet av besiktningen (ett besiktningsintyg). Om kontrollorganet bedömer att anordningen erbjuder betryggande säkerhet, ska de också på en väl synlig plats förse den med en varaktig besiktningsskylt enligt [15 §](#15-besiktningsskylt).
+
+Intyget och skylten ska vara på svenska.
 
 ### 13 §
 
-Arbetsgivaren ska se till att förarhytten har en taklucka, om man kör en traktor med förarhytt på isbelagt vatten eller på en fryst mosse.
+Om kontrollorganet bedömer att anordningen inte erbjuder betryggande säkerhet, ska de snarast meddela detta till Arbetsmiljöverket.
 
-### 14 §
+> _Allmänna råd_
+>
+> Konstruktionsbrister, eller att besiktningsresultatet visar att anordningen används utöver sin konstruktiva livslängd, är exempel på brister som kan resultera i att kontrollorganet bedömer, att anordningen inte erbjuder betryggande säkerhet.
 
-Arbetsgivaren ska se till att det går att hålla en lämplig temperatur i förarhytten vid varm väderlek.
+### 14 § – Besiktningsintyg
+
+Kontrollorganet ska se till att besiktningsintyget innehåller
+
+anordningens identifikationsuppgifter,
+
+maxlast och i förekommande fall max antal personer,
+
+besiktningsorganets namn,
+
+ackrediteringsnummer,
+
+ackrediteringsmärke,
+
+besiktningsdatum,
+
+namnet på den som utfört besiktningen,
+
+uppgift om att anordningen har besiktigats enligt dessa föreskrifter,
+
+resultatet av bedömningen enligt [12 §](#12-åtgärder-efter-besiktning),
+
+eventuella villkor om åtgärder för att anordningen ska erbjuda betryggande säkerhet, och
+
+ordinarie besiktningsmånad (år, månad) för nästa återkommande besiktning.
+
+För anordningar som har besiktigats enligt [5](#5-första-besiktning)–[8 §§](#8-återkommande-besiktning) och har en montageplan enligt [6 §](#6-montagebesiktning), ska besiktningsintyget dessutom innehålla en identifierbar referens till montageplanen.
+
+### 15 § – Besiktningsskylt
+
+Kontrollorganet ska se till att det av besiktningsskylten framgår
+
+identifikationsuppgift,
+
+kontrollorganets namn och ackrediteringsmärke,
+
+ackrediteringsnummer,
+
+markering som visar ordinarie besiktningsmånad för nästa återkommande besiktning (år, månad), och
+
+markering som visar att anordningen är besiktigad och har bedömts erbjuda betryggande säkerhet.
+
+### 16 § – Dokumentation med mera
+
+En arbetsgivare som använder en besiktningspliktig anordning ska förvara följande dokumentation eller en kopia av den:
+
+senaste besiktningsintyg,
+
+besiktningsintyg från den första besiktningen, om anordningen har genomgått en sådan,
+
+uppgift om vem som har utfärdat försäkran om överensstämmelse, när en sådan krävs enligt Arbetsmiljöverkets föreskrifter (AFS 2023:4) om produkter – maskiner, eller motsvarande bestämmelser från något annat land inom EES,
+
+uppgift om tidpunkt när anordningen första gången togs i drift,
+
+väsentliga instruktioner för användning, drift och skötsel, och
+
+i tillämpliga fall en montageplan som av kontrollorganet har bedömts erbjuda betryggande säkerhet.
+
+Bestämmelserna i första stycket ska också gälla den, som hyr ut eller på annat sätt upplåter en besiktningspliktig anordning.
+
+Den som använder en eller flera besiktningspliktiga anordningar, utan att kunna visa upp det senaste besiktningsintyget, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
+
+Har en sanktionsavgift betalats enligt [4 §](#4-villkor-för-användning) ska inte sanktionsavgift enligt denna bestämmelse betalas.
+
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta, är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta, ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 40 000 kronor + (antalet sysselsatta – 1) × 721 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+### 17 §
+
+Arbetsgivaren ska se till att dokumentationen enligt [16 §](#16-dokumentation-med-mera), eller en kopia av den, finns tillgänglig för kontroll i eller i närheten av anordningen.
+
+### 18 §
+
+Om anordningen överlåts, ska arbetsgivaren se till att dokumentationen enligt [16 §](#16-dokumentation-med-mera) överlämnas till den nya innehavaren.
 <!-- scan-laws:end -->
 
 ## Tolkning

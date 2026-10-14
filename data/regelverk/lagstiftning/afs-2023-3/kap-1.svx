@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20233/'
@@ -20,6 +20,12 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
+
+#### Avdelning I: Allmänna bestämmelser
+
+### Avdelning I: Allmänna bestämmelser
+
+Stöd och verktyg: Byggnads- och anläggningsarbete
 
 ### 1 § – Varför föreskrifterna finns
 
@@ -66,15 +72,15 @@ sanering.
 Bergsprängning i stenbrott eller under brytning i gruva räknas inte som byggnads- eller anläggningsarbete. Det gör inte heller montering, underhåll eller nedmontering av en fabriks processutrustning eller arbetsutrustning, eller installationer som hör till utrustningen.
 
 > _Allmänna råd_
-
+>
 > Byggnads- och anläggningsarbeten kan vara alla arbeten som behövs för att uppföra, underhålla, ändra eller riva en byggnad eller en annan anläggning. Även arbeten som behövs för att byggnads- och anläggningsarbetena ska fungera omfattas av föreskrifterna, till exempel etableringsarbeten, uppförande av ställningar och montering av lyftanordningar.
-
+>
 > Som schaktning räknas exempelvis grävning och bergsprängning för husgrunder eller anläggningar. Till markarbete hör grundförstärkning, bärlager och ytskikt, rörläggning i mark med mera. Anläggningsarbete är bland annat arbete med vägar, spår, ledningar, kraftverk eller parker. Byggnadsarbete kan vara exempelvis trä-, betong- eller murningsarbeten.
-
+>
 > Till installation av utrustning räknas arbete med utrustning som hör till en byggnad eller en annan anläggning och som behövs för att den ska fungera. Exempel på sådan utrustning är installationer för värme och ventilation, belysning, el samt vatten och sanitet till personalutrymmen.
-
+>
 > Trots att arbete med en fabriks processutrustning inte räknas som byggnads- eller anläggningsarbete omfattas ändå de mer typiska byggnads- och anläggningsarbetena av föreskrifterna. Exempel på sådana arbeten är schaktning, betongarbeten för fundament, arbeten med rörbryggor och stöd för kabelstegar.
-
+>
 > Vid reparationer och vid löpande eller periodiskt underhåll görs ofta något slags ingrepp i byggnaden eller anläggningen. Ommålning och rengöring inför ommålning, skrapning av grusvägar och reparation av asfaltbeläggning är också exempel på underhåll. Driften av en byggnad eller anläggning räknas däremot inte som byggnads- eller anläggningsarbete, förutom när sådana arbeten ingår som en del av ett byggprojekt. Exempel på drift är städning, fönsterputsning, sotning, rengöring av ventilationssystem och byte av filter, gräsklippning, röjning av träd och grenar i ledningsgator samt renhållning av vägar och gator.
 
 ### 3 § – Vem föreskrifterna riktar sig till
@@ -96,132 +102,18 @@ den som tillverkar monteringsfärdiga byggnader eller anläggningar.
 Aktörernas ansvar enligt dessa föreskrifter inskränker inte det arbetsmiljöansvar som varje arbetsgivare har för sin egen personal enligt andra bestämmelser.
 
 > _Allmänna råd_
-
-> De bestämmelser som gäller för en specifik aktör finns i deras respektive kapitel, se [2](/lagstiftning/afs-2023-3/kap-2)–[7 kap.](/lagstiftning/afs-2023-3/kap-7) I kapitel 8–11 riktar sig bestämmelserna till flera olika aktörer. Vilka som omfattas av respektive bestämmelse i de kapitlen avgörs av hur de faktiskt har möjlighet att påverka arbetsmiljön och vidta åtgärder. Det kan variera utifrån det skede som byggprojektet befinner sig i. Alla måste ta ställning till i vilken omfattning de berörs av varje bestämmelse.
-
+>
+> De bestämmelser som gäller för en specifik aktör finns i deras respektive kapitel, se [2](/lagstiftning/afs-2023-3/kap-2)–7 kap. I kapitel 8–11 riktar sig bestämmelserna till flera olika aktörer. Vilka som omfattas av respektive bestämmelse i de kapitlen avgörs av hur de faktiskt har möjlighet att påverka arbetsmiljön och vidta åtgärder. Det kan variera utifrån det skede som byggprojektet befinner sig i. Alla måste ta ställning till i vilken omfattning de berörs av varje bestämmelse.
+>
 > Arbetsgivares arbetsmiljöansvar för sin egen personal innebär att exempelvis entreprenörer och projektörer ska följa bland annat Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete – grundläggande skyldigheter för dig med arbetsgivaransvar.
-
+>
 > Det finns ytterligare bestämmelser som riktar sig till byggherren, projektörer och byggarbetsmiljösamordnare samt entreprenörer, bland annat i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete.
 
 ### 4 § – Definitioner
 
 I dessa föreskrifter har följande begrepp dessa betydelser.
 
-Begrepp
-
-Betydelse
-
-Aktör
-
-Juridisk eller fysisk person involverad i byggprojekt, exempelvis byggherre, projektör, entreprenör, Bas-P, Bas-U eller den som tillverkar monteringsfärdiga byggnader eller anläggningar.
-
-Omfattar inte bara de som byggherren har avtal med utan även exempelvis underentreprenörer och projektörer i flera led.
-
-Arbetsberedning
-
-Detaljerad planering av hur ett enskilt arbetsmoment ska genomföras, där även hantering av arbetsmiljörisker ingår.
-
-Bas-P
-
-Byggarbetsmiljösamordnare för planering och projektering av ett byggnads- eller anläggningsarbete, som utsetts enligt [3 kap. 6 §](/lagstiftning/afs-2023-3/kap-3#6-samordna-arbetsmiljöarbetet-vid-planeringen-och-projekteringen) första stycket 2 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) att utföra uppgifterna i enlighet med [3 kap. 7 a §](/lagstiftning/arbetsmiljolagen/kap-3#7) arbetsmiljölagen.
-
-Bas-U
-
-Byggarbetsmiljösamordnare för utförande av ett byggnads- eller anläggningsarbete, som utsetts enligt [3 kap. 6 §](/lagstiftning/afs-2023-3/kap-3#6-samordna-arbetsmiljöarbetet-vid-planeringen-och-projekteringen) första stycket 3 arbetsmiljölagen att utföra uppgifterna i enlighet med [3 kap. 7 b §](/lagstiftning/arbetsmiljolagen/kap-3#7) arbetsmiljölagen.
-
-Bruksskedet
-
-Den tidsperiod som en färdigställd byggnad eller annan anläggning används.
-
-Byggarbetsplats
-
-Plats eller område där det utförs byggnadsarbete eller anläggningsarbete, oavsett storlek, komplexitet och risknivå.
-
-Byggherre
-
-Den som låter utföra ett byggnads- eller anläggningsarbete enligt [3 kap. 6 §](/lagstiftning/arbetsmiljolagen/kap-3#6) arbetsmiljölagen, det vill säga varje fysisk eller juridisk person för vars räkning ett byggprojekt utförs.
-
-Även privatpersoner kan bli byggherrar när de anlitar andra för att utföra byggnads- eller anläggningsarbete. En privatperson som själv utför arbetet för egen räkning, utan att anlita entreprenör eller att gå in i ett arbetsgivar–arbetstagarförhållande, omfattas inte av arbetsmiljölagstiftningen.
-
-Byggherrens ställföreträdare
-
-I förekommande fall, en uppdragstagare som självständigt ansvarar för planering och projektering och/eller arbetets utförande för en byggherres räkning och som byggherren har överlåtit sitt arbetsmiljöansvar till enligt [3 kap. 7 c §](/lagstiftning/arbetsmiljolagen/kap-3#7) arbetsmiljölagen.
-
-Byggprojekt
-
-Planering, projektering och utförande av samtliga byggnads- och anläggningsarbeten som tillsammans bidrar till att ett objekt färdigställs, oavsett arbetenas storlek, komplexitet och risknivå.
-
-Byggskedet
-
-Den tidsperiod i byggprojektet när byggnads- eller anläggningsarbetet utförs på byggarbetsplatsen. Motsvarar utförandeskedet.
-
-Den som tillverkar monteringsfärdiga byggnader eller anläggningar
-
-Den som ska se till att arbetsmiljösynpunkter beaktas vid projekteringen av en monteringsfärdig byggnad eller anläggning när det gäller både bygg- och bruksskedet, och se till att olika delar av projekteringen samordnas, enligt [3 kap. 7 h §](/lagstiftning/arbetsmiljolagen/kap-3#7) arbetsmiljölagen.
-
-Den som tillverkar kan själv projektera och tillverka byggnaden eller anläggningen eller låta andra göra det, eller delar av det.
-
-Det första byggnads- eller anläggningsarbetet
-
-Det första arbetsmomentet i byggnads- eller anläggningsarbetet som utförs på byggarbetsplatsen, exempelvis etableringsarbeten, avtäckning inför sprängning, anläggning av ledningar i mark, grundläggning eller sanering inför rivning.
-
-Entreprenörer
-
-De som bedriver byggnads- eller anläggningsarbete på byggarbetsplatsen, vilket omfattar
-
-den som är arbetsgivare,
-
-den som hyr in arbetskraft,
-
-den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, och
-
-två eller flera som för gemensam räkning yrkesmässigt driver verksamhet utan att ha arbetstagare anställda.
-
-Alla entreprenörer i byggprojektet omfattas, inte bara de som byggherren har avtal med.
-
-Förbindelseled
-
-Väg, utrymme eller annat som förbinder två platser, inomhus eller utomhus, till exempel en passage, transportväg eller tillträdesled. Den kan vara avsedd för personer eller fordon.
-
-Handläggare (för Bas-P eller Bas-U)
-
-Person som byggarbetsmiljösamordnaren förfogar över och som är tilldelad samordningsuppgifterna för att handlägga dem.
-
-Handläggaren utför normalt själv uppgifterna men kan också se till att andra som byggarbetsmiljösamordnaren förfogar över utför vissa uppgifter.
-
-Persondagar
-
-Summan av alla de dagar som varje enskild person arbetar på byggarbetsplatsen. Alla som vid något tillfälle bidrar till att byggnads- eller anläggningsarbetet blir genomfört ska räknas med.
-
-Planering och projektering
-
-Planering avser den tidiga, övergripande planeringen av ett byggprojekt. Den utförs innan projekteringen påbörjas och fortsätter sedan parallellt med den, men omfattar inte produktionsplaneringen.
-
-Projektering avser det skede av byggprojektet som innebär att man bestämmer hur en byggnad eller anläggning ska utformas och som resulterar i ritningar, beräkningar, beskrivningar eller motsvarande. Även projektering som utförs under byggskedet omfattas.
-
-Produktionsplanering
-
-Detaljerad planering av arbeten som görs inför byggstart och löpande under produktionen. Genom produktionsplaneringen bestämmer man hur och när varje enskilt arbete ska utföras.
-
-Projektörer
-
-Arkitekter, konstruktörer och andra som medverkar i planeringen eller projekteringen av ett byggnads- eller anläggningsarbete enligt [3 kap. 7 §](/lagstiftning/arbetsmiljolagen/kap-3#7) arbetsmiljölagen. Det omfattar till exempel konsulter inom el, ventilation samt vatten och avlopp, specialister inom mekaniska tjänster, inredning och tillfälliga stödkonstruktioner. Även byggherrar och entreprenörer kan omfattas när de planerar och projekterar.
-
-Alla projektörer i byggprojektet omfattas, inte bara de som byggherren har avtal med.
-
-Samverkande konstruktioner
-
-Konstruktioner där olika delar projekteras av olika aktörer och monteras ihop till en samverkande helhet på byggarbetsplatsen, exempelvis broar i stål och betong eller stommar i stål och trä.
-
-Tillfälliga konstruktioner
-
-Tillfälliga bärande eller stöttande konstruktioner som monteras ned efter byggskedet, exempelvis formställningar, stämp, balksystem, gjutformar för betong, stödsystem för jordschakter och vattentryck, bärande system för kranar och körplåtar för trafik över schakt.
-
-Ställningar räknas inte som tillfälliga konstruktioner om de enbart används som arbetsplatser eller tillträdesleder i enlighet med Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning, kapitlet om ställningar.
-
-Visa hela tabellen
-
-Avdelning II: Aktörernas ansvar och uppgifter i byggprojektet
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Aktör</div></div></td><td><div><div>Juridisk eller fysisk person involverad i byggprojekt, exempelvis byggherre, projektör, entreprenör, Bas-P, Bas-U eller den som tillverkar monteringsfärdiga byggnader eller anläggningar.</div></div><div><div>Omfattar inte bara de som byggherren har avtal med utan även exempelvis underentreprenörer och projektörer i flera led.</div></div></td></tr><tr><td><div><div>Arbetsberedning</div></div></td><td><div><div>Detaljerad planering av hur ett enskilt arbetsmoment ska genomföras, där även hantering av arbetsmiljörisker ingår.</div></div></td></tr><tr><td><div><div>Bas-P </div></div></td><td><div><div>Byggarbetsmiljösamordnare för planering och projektering av ett byggnads- eller anläggningsarbete, som utsetts enligt 3&nbsp;kap.&nbsp;6&nbsp;§&nbsp;första stycket 2 arbetsmiljölagen (1977:1160) att utföra uppgifterna i enlighet med 3&nbsp;kap.&nbsp;7&nbsp;a&nbsp;§ arbetsmiljölagen.</div></div></td></tr><tr><td><div><div>Bas-U</div></div></td><td><div><div>Byggarbetsmiljösamordnare för utförande av ett byggnads- eller anläggningsarbete, som utsetts enligt 3&nbsp;kap.&nbsp;6&nbsp;§&nbsp;första stycket 3&nbsp;arbetsmiljölagen att utföra uppgifterna i enlighet med 3&nbsp;kap.&nbsp;7&nbsp;b&nbsp;§ arbetsmiljölagen.</div></div></td></tr><tr><td><div><div>Bruksskedet</div></div></td><td><div><div>Den tidsperiod som en färdigställd byggnad eller annan anläggning används.</div></div></td></tr><tr><td><div><div>Byggarbetsplats</div></div></td><td><div><div>Plats eller område där det utförs byggnadsarbete eller anläggningsarbete, oavsett storlek, komplexitet och risknivå.</div></div></td></tr><tr><td><div><div>Byggherre</div></div></td><td><div><div>Den som låter utföra ett byggnads- eller anläggningsarbete enligt 3&nbsp;kap.&nbsp;6&nbsp;§ arbetsmiljölagen, det vill säga varje fysisk eller juridisk person för vars räkning ett byggprojekt utförs.</div></div><div><div>Även privatpersoner kan bli byggherrar när de anlitar andra för att utföra byggnads- eller anläggningsarbete. En privatperson som själv utför arbetet för egen räkning, utan att anlita entreprenör eller att gå in i ett arbetsgivar–arbetstagarförhållande, omfattas inte av arbetsmiljölagstiftningen.</div></div></td></tr><tr><td><div><div>Byggherrens ställföreträdare</div></div></td><td><div><div>I förekommande fall, en uppdragstagare som självständigt ansvarar för planering och projektering och/eller arbetets utförande för en byggherres räkning och som byggherren har överlåtit sitt arbetsmiljöansvar till enligt 3&nbsp;kap.&nbsp;7&nbsp;c&nbsp;§ arbetsmiljölagen.</div></div></td></tr><tr><td><div><div>Byggprojekt</div></div></td><td><div><div>Planering, projektering och utförande av samtliga byggnads- och anläggningsarbeten som tillsammans bidrar till att ett objekt färdigställs, oavsett arbetenas storlek, komplexitet och risknivå.</div></div></td></tr><tr><td><div><div>Byggskedet</div></div></td><td><div><div>Den tidsperiod i byggprojektet när byggnads- eller anläggningsarbetet utförs på byggarbetsplatsen. Motsvarar utförandeskedet.</div></div></td></tr><tr><td><div><div>Den som tillverkar monteringsfärdiga byggnader eller anläggningar</div></div></td><td><div><div>Den som ska se till att arbetsmiljösynpunkter beaktas vid projekteringen av en monteringsfärdig byggnad eller anläggning när det gäller både bygg- och bruksskedet, och se till att olika delar av projekteringen samordnas, enligt 3&nbsp;kap.&nbsp;7&nbsp;h&nbsp;§ arbetsmiljölagen.</div><div>Den som tillverkar kan själv projektera och tillverka byggnaden eller anläggningen eller låta andra göra det, eller delar av det.</div></div></td></tr><tr><td><div><div>Det första byggnads- eller anläggningsarbetet</div></div></td><td><div><div>Det första arbetsmomentet i byggnads- eller anläggningsarbetet som utförs på byggarbetsplatsen, exempelvis etableringsarbeten, avtäckning inför sprängning, anläggning av ledningar i mark, grundläggning eller sanering inför rivning.</div></div></td></tr><tr><td><div><div>Entreprenörer</div></div></td><td><div><div>De som bedriver byggnads- eller anläggningsarbete på byggarbetsplatsen, vilket omfattar</div><ol><li><div><div>den som är arbetsgivare,</div></div></li><li><div><div>den som hyr in arbetskraft,</div></div></li><li><div><div>den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, och</div></div></li><li><div><div>två eller flera som för gemensam räkning yrkesmässigt driver verksamhet utan att ha arbetstagare anställda.</div></div></li></ol><div>Alla entreprenörer i byggprojektet omfattas, inte bara de som byggherren har avtal med.</div></div></td></tr><tr><td><div><div>Förbindelseled</div></div></td><td><div><div>Väg, utrymme eller annat som förbinder två platser, inomhus eller utomhus, till exempel en passage, transportväg eller tillträdesled. Den kan vara avsedd för personer eller fordon.</div></div></td></tr><tr><td><div><div>Handläggare (för Bas-P eller Bas-U)</div></div></td><td><div><div>Person som byggarbetsmiljösamordnaren förfogar över och som är tilldelad samordningsuppgifterna för att handlägga dem. </div></div><div><div>Handläggaren utför normalt själv uppgifterna men kan också se till att andra som byggarbetsmiljösamordnaren förfogar över utför vissa uppgifter.</div></div></td></tr><tr><td><div><div>Persondagar</div></div></td><td><div><div>Summan av alla de dagar som varje enskild person arbetar på byggarbetsplatsen. Alla som vid något tillfälle bidrar till att byggnads- eller anläggningsarbetet blir genomfört ska räknas med. </div></div></td></tr><tr><td><div><div>Planering och projektering</div></div></td><td><div><div>Planering avser den tidiga, övergripande planeringen av ett byggprojekt. Den utförs innan projekteringen påbörjas och fortsätter sedan parallellt med den, men omfattar inte produktionsplaneringen.</div></div><div><div>Projektering avser det skede av byggprojektet som innebär att man bestämmer hur en byggnad eller anläggning ska utformas och som resulterar i ritningar, beräkningar, beskrivningar eller motsvarande. Även projektering som utförs under byggskedet omfattas.</div></div></td></tr><tr><td><div><div>Produktionsplanering</div></div></td><td><div><div>Detaljerad planering av arbeten som görs inför byggstart och löpande under produktionen. Genom produktionsplaneringen bestämmer man hur och när varje enskilt arbete ska utföras.</div></div></td></tr><tr><td><div><div>Projektörer</div></div></td><td><div><div>Arkitekter, konstruktörer och andra som medverkar i planeringen eller projekteringen av ett byggnads- eller anläggningsarbete enligt 3&nbsp;kap.&nbsp;7&nbsp;§ arbetsmiljölagen. Det omfattar till exempel konsulter inom el, ventilation samt vatten och avlopp, specialister inom mekaniska tjänster, inredning och tillfälliga stödkonstruktioner. Även byggherrar och entreprenörer kan omfattas när de planerar och projekterar.</div></div><div><div>Alla projektörer i byggprojektet omfattas, inte bara de som byggherren har avtal med.</div></div></td></tr><tr><td><div><div>Samverkande konstruktioner</div></div></td><td><div><div>Konstruktioner där olika delar projekteras av olika aktörer och monteras ihop till en samverkande helhet på byggarbetsplatsen, exempelvis broar i stål och betong eller stommar i stål och trä.</div></div></td></tr><tr><td><div><div>Tillfälliga konstruktioner</div></div></td><td><div><div>Tillfälliga bärande eller stöttande konstruktioner som monteras ned efter byggskedet, exempelvis formställningar, stämp, balksystem, gjutformar för betong, stödsystem för jordschakter och vattentryck, bärande system för kranar och körplåtar för trafik över schakt.</div></div><div><div>Ställningar räknas inte som tillfälliga konstruktioner om de enbart används som arbetsplatser eller tillträdesleder i enlighet med Arbetsmiljöverkets föreskrifter och allmänna råd (AFS&nbsp;2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning, kapitlet om ställningar.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (22 rader)</label></div>
 <!-- scan-laws:end -->
 
 ## Tolkning

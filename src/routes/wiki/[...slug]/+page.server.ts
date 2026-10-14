@@ -4,7 +4,8 @@ import { listPages, listRecords, navGroups } from '#lib/data.js';
 import { getRecord } from '#lib/data.server.js';
 import { articleHtmlFor } from '#lib/articles.server.js';
 import { isEntity } from '#lib/entities.js';
-import { isSiteScope } from '#lib/sites.js';
+import { isSiteScope, siteHost } from '#lib/sites.js';
+import { getLocale } from '#lib/paraglide/runtime.js';
 import { ENTITIES, type Entity } from '#lib/entities.js';
 import { SITE_SCOPES } from '#lib/sites.js';
 import type { EntryGenerator, PageServerLoad } from './$types';
@@ -28,10 +29,31 @@ export const load: PageServerLoad = async ({ params }) => {
 
 	const record = ref ? getRecord(ref.scope, ref.entity, ref.id) : null;
 
+	const scope = ref?.scope ?? 'regelverk';
+	const host = siteHost(scope);
+	const title = record?.title ?? ref?.id ?? params.slug;
+	const description =
+		typeof record?.meta?.description === 'string' ? record.meta.description : undefined;
+	const canonical = ref
+		? ref.entity === 'pages'
+			? `https://${host}/wiki/${ref.scope}/pages/${ref.id.split('/').map(encodeURIComponent).join('/')}`
+			: `https://${host}/${ref.entity}/${ref.id.split('/').map(encodeURIComponent).join('/')}`
+		: `https://${host}`;
+	const ldJson = JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'Article',
+		headline: title,
+		url: canonical,
+		inLanguage: getLocale() === 'en' ? 'en' : 'sv',
+		...(description ? { description } : {}),
+		isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
+	});
+
 	return {
 		slug: params.slug,
 		ref,
 		record,
+		ldJson,
 		articleHtml: ref ? articleHtmlFor(ref.entity, ref.id) : undefined,
 		external: fetchExternalInfo(externalUrls(record?.meta ?? null)),
 		pages: ref ? listPages(ref.scope) : [],

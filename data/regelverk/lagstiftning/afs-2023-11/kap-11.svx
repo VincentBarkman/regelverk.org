@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202311/'
@@ -21,63 +21,251 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Åtgärder
+### Inledning
 
-### 5 §
+Stöd och verktyg: Lyftanordningar och lyftredskap
 
-Bestämmelserna i [6](#6)–[18 §§](/lagstiftning/afs-2023-11/kap-6#18) ska alltid vara uppfyllda, oavsett riskbedömningens utfall.
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-11) gäller för användning av lyftanordningar och lyftredskap. De preciserar och kompletterar föreskrifterna om användning av arbetsutrustning i kapitel 2. Föreskrifterna gäller inte utrustning som omfattas av [4 kap.](/lagstiftning/afs-2023-11/kap-4) om användning av truckar.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-11) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, ska följa bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-11/kap-11). Detta följer av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Det innebär att den som driver sådan verksamhet ska följa det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-11) om arbetsgivare och om arbetstagare.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-11/kap-11) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren. Det som sägs i [detta kapitel](/lagstiftning/afs-2023-11/kap-11) gäller då även dem.
+
+### 3 § – Definitioner
+
+I dessa föreskrifter har följande begrepp dessa betydelser.
+
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Fortlöpande tillsyn</div></div></td><td><div><div>Regelbunden kontroll som omfattar okulär granskning samt funktionsprov.</div></div></td></tr><tr><td><div><div>Hiss</div></div></td><td><div><div>Lyftanordning med ett styrt lastbärande organ, som kan röra sig mellan fasta stannplan.</div></div></td></tr><tr><td><div><div>Kran</div></div></td><td><div><div>Lyftanordning som enbart är avsedd att med hjälp av ett icke styrt lastbärande organ lyfta och sänka lasten vertikalt och dessutom förflytta den horisontellt i en eller flera riktningar.</div></div></td></tr><tr><td><div><div>Lastbärande organ</div></div></td><td><div><div>Delar av en lyftanordning som direkt bär upp lasten.</div></div></td></tr><tr><td><div><div>Lyftanordning</div></div></td><td><div><div>Anordning för att lyfta eller sänka last.</div></div></td></tr><tr><td><div><div>Lyftredskap</div></div></td><td><div><div>Komponenter eller utrustning som inte är monterade på lyftanordningen och som är placerade antingen mellan lyftanordningen och lasten eller på lasten för att ansluta den.</div></div></td></tr><tr><td><div><div>Maxlast</div></div></td><td><div><div>Den högsta last som en lyftanordning eller ett lyftredskap är avsedd för.</div></div></td></tr><tr><td><div><div>Stripperkran</div></div></td><td><div><div>Lyftanordning med ett styrt lastbärande organ försedd med en strippertång eller ett stripperaggregat för att frigöra göt från kokiller eller en gjutmaskin.</div></div></td></tr><tr><td><div><div>Tångkran</div></div></td><td><div><div>Lyftanordning med ett styrt lastbärande organ försedd med en tång för att transportera stålgöt, kokiller och stigplan.</div></div></td></tr><tr><td><div><div>Överlastdon</div></div></td><td><div><div>Gemensam benämning för en anordning som vid överbelastning varnar för eller förhindrar farliga rörelser hos lyftanordningen eller lasten.</div></div></td></tr></tbody></table>
+
+### 4 § – Undersökning och riskbedömning
+
+Vid en undersökning och riskbedömning innan lyftanordningar och lyftredskap används, ska arbetsgivaren särskilt uppmärksamma
+
+lyftanordningarnas stabilitet under olika mark- och väderförhållanden,
+
+tillträde till riskområden,
+
+arbetstagarnas praktiska och teoretiska kunskaper,
+
+arbete under upplyft last samt lyft av personer,
+
+service- och monteringsarbeten,
+
+användning och val av lyftredskap,
+
+säkring av last, lastkoppling och manuell styrning av last,
+
+sammanfallande arbetsområden och användning av flera lyftanordningar för lyft av gemensam last (så kallad samlyft), och
+
+livslängd och underhåll av lyftanordningar och lyftredskap.
+
+### 5 § – Krav på produkter
+
+Arbetsgivaren ska se till att kraven i [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5) är uppfyllda när en lyftanordning eller lyftredskap används.
 
 ### 6 §
 
-Arbetsgivaren ska följa upp riskbedömningen och de vidtagna åtgärderna och vid behov regelbundet uppdatera dem, för att säkerställa att riskbedömningen är riktig och att åtgärderna gett förväntat resultat.
-
-### 7 § – Krav på produkter
-
-Arbetsgivaren ska se till att kraven i 2 kap. 5 § är uppfyllda när en motorkedjesåg eller röjsåg används.
-
-### 8 §
-
-Arbetsgivaren ska se till att en motorkedjesåg eller en röjsåg som inte omfattas av 2 kap. 5 §, uppfyller kraven i bilaga 4, när den används. En motorkedjesåg eller en röjsåg som bara i vissa avseenden omfattas av 2 kap. 5 §, ska i övrigt uppfylla kraven i bilaga 4, när den används.
+Arbetsgivaren ska se till att en lyftanordning eller lyftredskap som inte omfattas av [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5) uppfyller kraven i bilaga 9 när den används. Lyftanordningar eller lyftredskap som bara i vissa avseenden omfattas av [2 kap. 5 §](/lagstiftning/afs-2023-11/kap-2#5), ska i övrigt uppfylla kraven i bilaga 9 när den används.
 
 Varor som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i Turkiet, eller som har sitt ursprung i och som lagligen saluförs i en Eftastat som är part i EES-avtalet förutsätts vara förenliga med dessa föreskrifter. Tillämpningen av dessa föreskrifter omfattas av [Europaparlamentets och rådets förordning (EU) 2019/515](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0515) av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av [förordning (EG) nr 764/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0764).
 
-### 9 § – Regler vid arbete
+### 7 § – Planering och organisation
 
-Arbetsgivaren ska se till att kraven i bilaga 5 är uppfyllda, vid arbete med en motorkedjesåg eller en röjsåg.
+Arbetsgivaren ska se till att arbete med lyftanordningar och lyftredskap planeras, organiseras och genomförs, så att farliga situationer förhindras.
 
-### 10 §
+Vid arbeten med lyft där representanter från flera verksamheter är involverade, ska en person utses som ansvarig för planering och genomförande av sådant arbete.
 
-Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg eller en röjsåg, skyddas mot skador från fallande eller flygande föremål, olja, avgaser, buller, vibrationer, sågkedjan, klingan och tillbehör som monteras på motorkedjesågen eller röjsågen.
+### 8 § – Stabilitet och markförhållanden
 
-### 11 §
+Arbetsgivaren ansvarar för att, vid användning av en lyftanordning som är mobil eller som kan demonteras och flyttas mellan olika uppställningsplatser
 
-Arbetsgivaren ska se till att motorkedjesågar och röjsågar kontrolleras regelbundet. Kontrollen ska utföras av en person med god kännedom om sågens säkerhetsanordningar, användning, och skötsel.
+vidta åtgärder som hindrar anordningen från att välta, glida eller på annat sätt förflyttas oavsiktligt,
 
-Arbetsgivaren ska se till att sågkedjor, klingor och tillbehör kontrolleras och underhålls fortlöpande under arbetet. Kontroller ska utföras dagligen på de motorkedjesågar eller röjsågar som används.
+vidta dessa åtgärder med särskild hänsyn till markförhållandena, och
 
-Arbetsgivaren ska se till att kassera en sliten eller skadad sågkedja, klingor med synliga sprickor eller andra skador och ett klingskydd som är skadat på ett sådant sätt att det inte uppfyller sin funktion på fullgott sätt.
+kontrollera före ett lyft, att dessa åtgärder är korrekt utförda.
 
-Om det vid en kontroll eller under arbetet med en motorkedjesåg eller en röjsåg upptäcks någon skada eller brist, som kan äventyra säkerheten, får motorkedjesågen eller röjsågen inte användas vidare, förrän skadan reparerats eller bristen åtgärdats.
+### 9 § – Upplyft last
 
-### 12 §
+Arbetsgivaren ska vidta åtgärder för att säkerställa att ingen uppehåller sig under en upplyft last. Detta gäller inte om
 
-Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg använder hörselskydd, skyddshjälm, ögonskydd eller ansiktsskydd mot skador genom mekanisk påverkan, skyddskängor eller skyddsstövlar med sågskydd mot skador från motorsågskedjan, skyddsbyxa eller byxholkar med sågskydd mot skador från motorsågskedjan, arbetshandskar och varselkläder på överkroppen.
+arbetet ska utföras under en upplyft last och lyftanordningen är särskilt konstruerad för det, och
 
-Bestämmelserna i första stycket gäller inte, när en motorkedjesåg används till andra arbeten än fällning eller upparbetning av träd, om riskbedömningen visar att en viss typ av skyddsutrustning inte behövs.
+det krävs, för att effektivt utföra arbetsuppgifterna.
 
-Bestämmelsen i första stycket om varselkläder på överkroppen gäller inte vid krigsliknande övningar som Försvarsmakten utför.
+En last får normalt inte transporteras ovanför oskyddade arbetsplatser, där personer uppehåller sig. När man ändå gör det, om arbetsuppgifterna inte kan utföras effektivt på något annat sätt, ska arbetsgivaren fastställa lämpliga arbetsmetoder och se till att de tillämpas.
 
-### 13 §
+> _Allmänna råd_
+>
+> Olika former av arbete på scener som ofta utförs under scendekorer, lingångar eller annan scenutrustning är exempel på arbetsuppgifter som, för att kunna utföras effektivt, kräver att någon uppehåller sig under en upplyft last. Hit hör även arbete med fordon upplyfta på fordonslyftar.
+>
+> Lämpliga arbetsmetoder enligt andra stycket kan vara att utföra lyftarbeten i markerade transportleder i kombination med en varningssignal, så att personer som befinner sig i riskområdet kan förflytta sig ut ur detta.
 
-Arbetsgivaren ska se till att den som arbetar med en röjsåg använder hörselskydd, ögonskydd, skyddshjälm om röjningsstammarna är högre än två meter, arbetshandskar, skyddskängor eller skyddsstövlar med sågskydd och varselkläder på överkroppen.
+### 10 § – Lastsäkring
 
-### 14 §
+Arbetsgivaren ska se till att en last är säkrad, så att den vid ett lyft eller en förflyttning inte kan röra sig oavsiktligt.
 
-Arbetsgivaren ska se till att den som arbetar med en motorkedjesåg eller en röjsåg har med sig första förband.
+### 11 § – Användning utomhus
 
-### 15 §
+Arbetsgivaren ska se till att en lyftanordning inte används utomhus, när väderförhållandena är sådana att säker användning äventyras och personer därigenom utsätts för risker. Dessutom ska arbetsgivaren vidta lämpliga åtgärder, så att ingen utsätts för risker, när utrustningen används utomhus. Det gäller särskilt åtgärder som hindrar utrustningen från att välta.
 
-Arbetsgivaren ska se till att det, nära en arbetsplats där en förbränningsmotordriven kedjesåg eller en röjsåg används, vid behov finns ett rum (motorsågsrum) för kontroll, vård och förvaring av sågar. Där ska också finnas möjlighet till förvaring av mindre mängder smörj- och drivmedel. I rummet ska det finnas anordningar för uppvärmning och belysning. Anordningarna ska vara utförda och placerade så att risken för brand minimeras. Rummet ska vara skilt från personalutrymmen med en tät vägg utan dörr eller lucka.
+### 12 § – Överlastdon och gränsbrytare
+
+Arbetsgivaren ska se till att överlastdon och gränsbrytare är inställda så att skyddsfunktionen aktiveras, innan en fara uppstår.
+
+### 13 § – Personlig fallskyddsutrustning
+
+Arbetsgivaren ska se till att en personlig fallskyddsutrustning används om det behövs för att få säkert tillträde till lyftanordningens olika delar eller det finns risk för att lyftanordningen blir påkörd av en annan anordning eller ett fordon.
+
+Fallskyddsutrustningen ska förvaras lättåtkomligt på eller nära anordningen.
+
+### 14 § – Tillträde till manöverplats
+
+Arbetsgivaren ska se till att det finns en maskindriven hiss för tillträde till en hytt som är belägen mer än 25 meter över markytan eller över något annat tillträdesplan.
+
+Hiss behövs inte om hytten är höj- och sänkbar eller lyftanordningen normalt manövreras från markplanet och bara undantagsvis från hytten.
+
+### 15 § – Personlyft
+
+Arbetsgivaren ska se till att personer bara får lyftas med en anordning som är konstruerad och tillverkad för detta.
+
+Undantag från första stycket får göras i nödsituationer, vid räddningsarbete inom räddningstjänst, polis och militär, eller om föreskrifterna i kapitel 12 är uppfyllda.
+
+### 16 § – Kollisionsrisk
+
+Arbetsgivaren ska vidta åtgärder för att undvika kollisioner mellan laster eller anordningar, när två eller flera anordningar för att lyfta last har installerats eller monterats på en arbetsplats så att deras arbetsområden delvis sammanfaller.
+
+Arbetsgivaren ska också vidta åtgärder för att förhindra att en lyftanordning för last eller personer blir påkörd av ett annat fordon, när anordningen används på en plats där det finns risk för det.
+
+### 17 § – Samlyft
+
+Om två eller flera lyftanordningar måste användas samtidigt för att lyfta en last, ska arbetsgivaren fastställa ett förfarande som säkerställer god samordning mellan operatörerna, och se till att det tillämpas.
+
+### 18 § – Val av lyftredskap
+
+Arbetsgivaren ska se till att ett lyftredskap väljs med hänsyn till
+
+den last som ska hanteras,
+
+de grippunkter eller lyftöglor som ska användas,
+
+rådande väderleksförhållanden, och
+
+hur stroppningen eller slingningen utförs.
+
+Om man inte demonterar ett lyftredskap efter användningen, ska man tydligt märka det, så att det framgår hur det ska användas.
+
+> _Allmänna råd_
+>
+> Lyftredskap enligt andra stycket kan vara ett tillfälligt sammansatt lyftredskap för ett speciellt ändamål. Särskilt konstruerade nya lyftredskap omfattas av kraven i Arbetsmiljöverkets föreskrifter om produkter - maskiner.
+
+### 19 § – Förvaring av lyftredskap
+
+Arbetsgivaren ska se till att ett lyftredskap förvaras så att det inte riskerar att skadas eller förstöras.
+
+### 20 § – Hissar
+
+Arbetsgivaren ska se till att service- och monteringsarbeten på hissar utförs så att risker inte uppstår.
+
+Vid service- och monteringsarbete ska hissen manövreras med ett hålldon.
+
+Om ett monteringsarbete utförs samtidigt som en person befinner sig på eller i det lastbärande organet, ska fånganordning och hastighetsbegränsare vara inkopplade.
+
+> _Allmänna råd_
+>
+> Om hissen har ett stannplan vid en ställning som är en arbetsplats, bör stannplanets grindar vara utformade så att det inte blir ett avbrott i skyddsräcket runt arbetsplatsen.
+
+### 21 §
+
+Arbetsgivaren ska se till att skrymmande gods bara får transporteras i hissar
+
+som är speciellt konstruerade för detta,
+
+som är försedda med korgdörr, eller
+
+vars korgöppning är försedd med en skyddsanordning, som stoppar hissen, om godset kommer i kontakt med schaktväggen.
+
+### 22 § – Lyftanordningar för att lyfta fritt hängande last
+
+Arbetsgivaren ska se till att om en operatör av en anordning för att lyfta fritt hängande last inte har fullgod sikt över hela lyftområdet, antingen direkt eller med hjälputrustning, ska en person med kompetens för uppgiften stå i direktkontakt med och vägleda operatören. Arbetet ska organiseras så att lasten inte kan röra sig på ett farligt sätt.
+
+### 23 §
+
+Arbetsgivaren ska se till att den som gör fast eller lossar en last för hand, kan göra det på ett säkert sätt, antingen genom att ha kontroll över lyftanordningen, eller stå i direkt kontakt med den som manövrerar anordningen.
+
+### 24 §
+
+Arbetsgivaren ska se till att vid det arbete som kräver manuell inpassning av en last, används en lyftanordning som kan regleras så att man har god kontroll över lyftet.
+
+### 25 §
+
+Arbetsgivaren ska vidta lämpliga åtgärder så att ingen utsätts för risker, om en anordning för att lyfta fritt hängande last inte kan hålla lasten, om energitillförseln bryts helt eller delvis.
+
+### 26 §
+
+Arbetsgivaren ska se till att en fritt hängande last normalt inte lämnas utan övervakning.
+
+### 27 § – Kunskaper
+
+Arbetsgivaren ska se till att en lyftanordning eller ett lyftredskap bara används av den, som är väl förtrogen med arbetet och har teoretiska och praktiska kunskaper för säker användning.
+
+Kunskaperna ska omfatta aktuella arbetsmiljöregler och i relevanta delar lyftanordningens eller lyftredskapets uppbyggnad, drift, manövrering, egenskaper, användningsområde, begränsningar, underhåll och kontroll.
+
+### 28 §
+
+Arbetsgivare, som låter en arbetstagare eller inhyrd personal använda lyftanordningar eller lyftredskap, ska ha dokumentation över personens praktiska och teoretiska kunskaper om säker användning av utrustningen. Den arbetsgivare som ansvarar för användning av lyftanordningar eller lyftredskap på ett gemensamt arbetsställe, ska ha motsvarande dokumentation tillgänglig där.
+
+Arbetsgivare får bara låta arbetstagare med skriftligt tillstånd använda en maskindriven lyftanordning. Tillståndet ska vara utfärdat av arbetsgivaren. För inhyrd arbetstagare ska tillståndet vara utfärdat av den arbetsgivare som hyr in arbetstagaren. Tillståndet ska upplysa om de typer av lyftanordningar, lyftredskap och arbetsuppgifter som omfattas.
+
+Kraven på dokumentation och tillstånd gäller inte vid användning av hissar. (AFS 2024:4)
+
+### 29 § – Underhåll och kontroll
+
+Arbetsgivaren ska se till att lyftanordningar och lyftredskap underhålls och genomgår dagliga kontroller samt fortlöpande tillsyn med lämpliga intervall.
+
+> _Allmänna råd_
+>
+> Tillverkaren lämnar information om underhåll och kontroll samt lämpliga intervall för detta i bruksanvisningen. Det är viktigt att även delar som har betydelse för säkerheten, men som inte direkt ingår i anordningen, underhålls och kontrolleras. Det gäller till exempel kranbanor.
+
+### 30 §
+
+Arbetsgivaren ska se till att en lyftanordning kontrolleras och genomgår funktionsprov, varje gång den tas i bruk efter att ha varit nedmonterad.
+
+### 31 §
+
+Arbetsgivaren ska se till att underhåll, reparation och ombyggnad utförs på ett sådant sätt att en lyftanordnings eller ett lyftredskaps funktion, hållfasthet och stabilitet inte äventyras.
+
+### 32 §
+
+Arbetsgivaren ska föra journal över
+
+underhåll och fortlöpande tillsyn enligt [29 §](#29-underhåll-och-kontroll),
+
+kontroller enligt [30 §](#30),
+
+drift av maskindrivna kranar med maxlast över 1 000 kg, och
+
+övrigt som är specificerat av tillverkaren.
+
+> _Allmänna råd_
+>
+> Det är viktigt att journaler för underhåll, fortlöpande tillsyn och kontroller innehåller uppgifter om vad som har kontrollerats, när kontrollen utförts och vilka åtgärder som eventuellt vidtagits.
+
+### 33 §
+
+Om brister eller skador på en lyftanordning eller ett lyftredskap som kan äventyra säkerheten har upptäckts vid en kontroll, ska arbetsgivaren avhjälpa eller reparera dem före fortsatt användning.
+
+En konditionsanalys ska göras för lyftanordningen, när driftjournalen eller en kontroll visar att den närmar sig sin konstruktiva livslängd.
+
+> _Allmänna råd_
+>
+> Lyftanordningar är ofta konstruerade för en begränsad livslängd, som är beroende av användningstid och användningssätt. Det är lämpligt att dokumentera driften i journaler, så att det går att avgöra när det är dags att ta anordningen ur drift eller bestämma vilka åtgärder som behöver vidtas, så att den kan användas säkert ytterligare en tid, så kallad konditionsanalys. Europeisk standard ger råd om hur konditionsanalyser av lyftanordningar kan utföras. Ett alternativ till manuella driftjournaler är automatisk lagring av användningen, så kallad dataloggning.
 <!-- scan-laws:end -->
 
 ## Tolkning

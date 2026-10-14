@@ -20,6 +20,10 @@
 		moreHref?: string;
 		moreLabel: string;
 	} = $props();
+
+	const SUBS_LIMIT = 8;
+	let subsOpen = $state(false);
+	const subsShown = $derived(subsOpen ? subs : subs.slice(0, SUBS_LIMIT));
 </script>
 
 {#if related.length || scopes.length || subs.length || more.length}
@@ -36,7 +40,7 @@
 							<RecordLink
 								href={l.href}
 								card={l}
-								class="flex items-center gap-1.5 text-primary/60 hover:text-primary"
+								class="flex min-h-6 items-center gap-1.5 py-1 text-primary/60 hover:text-primary"
 							>
 								{#if l.logo}<img
 										src={l.logo}
@@ -54,17 +58,30 @@
 			<div>
 				<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_subpages()}</p>
 				<ul class="flex flex-col gap-1.5 text-xs">
-					{#each subs as l (l.href)}
+					{#each subsShown as l (l.href)}
 						<li>
 							<RecordLink
 								href={l.href}
 								card={l}
-								class="block truncate text-primary/60 hover:text-primary"
+								class="block min-h-6 truncate py-1 text-primary/60 hover:text-primary"
 							>
 								{l.title}
 							</RecordLink>
 						</li>
 					{/each}
+					{#if subs.length > SUBS_LIMIT}
+						<li>
+							<button
+								type="button"
+								onclick={() => (subsOpen = !subsOpen)}
+								aria-expanded={subsOpen}
+								class="flex min-h-6 items-center py-1 font-medium text-primary/80 hover:text-primary"
+								>{subsOpen
+									? m.ui_show_less() + ' ↑'
+									: m.ui_show_all_count({ count: subs.length }) + ' ↓'}</button
+							>
+						</li>
+					{/if}
 				</ul>
 			</div>
 		{/if}
@@ -77,7 +94,7 @@
 							<a
 								href={l.href}
 								title={l.title}
-								class="block truncate text-primary/60 hover:text-primary">{l.title}</a
+								class="block min-h-6 truncate py-1 text-primary/60 hover:text-primary">{l.title}</a
 							>
 						</li>
 					{/each}
@@ -93,7 +110,7 @@
 							<RecordLink
 								href={l.href}
 								card={l}
-								class="block truncate text-primary/60 hover:text-primary"
+								class="block min-h-6 truncate py-1 text-primary/60 hover:text-primary"
 							>
 								{l.title}
 							</RecordLink>

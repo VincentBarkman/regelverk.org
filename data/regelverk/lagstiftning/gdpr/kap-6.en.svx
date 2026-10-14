@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#cpt_VI'
+'url': 'http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03#cpt_VI'
 'sites':
   - 'it'
   - 'ot'
@@ -22,17 +22,17 @@
 <!-- scan-laws:start -->
 ## Legal text
 
-### Artikel 51 – Supervisory authority
+### Article 51 – Supervisory authority
 
 1\. Each Member State shall provide for one or more independent public authorities to be responsible for monitoring the application of [this Regulation](/lagstiftning/gdpr), in order to protect the fundamental rights and freedoms of natural persons in relation to processing and to facilitate the free flow of personal data within the Union (‘supervisory authority’).
 
 2\. Each supervisory authority shall contribute to the consistent application of [this Regulation](/lagstiftning/gdpr) throughout the Union. For that purpose, the supervisory authorities shall cooperate with each other and the Commission in accordance with [Chapter VII](/lagstiftning/gdpr/kap-7).
 
-3\. Where more than one supervisory authority is established in a Member State, that Member State shall designate the supervisory authority which is to represent those authorities in the Board and shall set out the mechanism to ensure compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article [63](/lagstiftning/gdpr/kap-7#artikel-63-consistency-mechanism).
+3\. Where more than one supervisory authority is established in a Member State, that Member State shall designate the supervisory authority which is to represent those authorities in the Board and shall set out the mechanism to ensure compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article [63](/lagstiftning/gdpr/kap-7#article-63-consistency-mechanism).
 
 4\. Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to [this Chapter](/lagstiftning/gdpr/kap-6), by 25 May 2018 and, without delay, any subsequent amendment affecting them.
 
-### Artikel 52 – Independence
+### Article 52 – Independence
 
 1\. Each supervisory authority shall act with complete independence in performing its tasks and exercising its powers in accordance with [this Regulation](/lagstiftning/gdpr).
 
@@ -46,7 +46,7 @@
 
 6\. Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.
 
-### Artikel 53 – General conditions for the members of the supervisory authority
+### Article 53 – General conditions for the members of the supervisory authority
 
 1\. Member States shall provide for each member of their supervisory authorities to be appointed by means of a transparent procedure by:
 
@@ -64,7 +64,7 @@
 
 4\. A member shall be dismissed only in cases of serious misconduct or if the member no longer fulfils the conditions required for the performance of the duties.
 
-### Artikel 54 – Rules on the establishment of the supervisory authority
+### Article 54 – Rules on the establishment of the supervisory authority
 
 1\. Each Member State shall provide by law for all of the following:
 
@@ -82,29 +82,29 @@
 
 2\. The member or members and the staff of each supervisory authority shall, in accordance with Union or Member State law, be subject to a duty of professional secrecy both during and after their term of office, with regard to any confidential information which has come to their knowledge in the course of the performance of their tasks or exercise of their powers. During their term of office, that duty of professional secrecy shall in particular apply to reporting by natural persons of infringements of [this Regulation](/lagstiftning/gdpr).
 
-### Artikel 55 – Competence
+### Article 55 – Competence
 
 1\. Each supervisory authority shall be competent for the performance of the tasks assigned to and the exercise of the powers conferred on it in accordance with [this Regulation](/lagstiftning/gdpr) on the territory of its own Member State.
 
-2\. Where processing is carried out by public authorities or private bodies acting on the basis of point (c) or (e) of Article [6](/lagstiftning/gdpr/kap-2#artikel-6-lawfulness-of-processing)(1), the supervisory authority of the Member State concerned shall be competent. In such cases Article [56](#artikel-56-competence-of-the-lead-supervisory-authority) does not apply.
+2\. Where processing is carried out by public authorities or private bodies acting on the basis of point (c) or (e) of Article [6](/lagstiftning/gdpr/kap-2#article-6-lawfulness-of-processing)(1), the supervisory authority of the Member State concerned shall be competent. In such cases Article [56](#article-56-competence-of-the-lead-supervisory-authority) does not apply.
 
 3\. Supervisory authorities shall not be competent to supervise processing operations of courts acting in their judicial capacity.
 
-### Artikel 56 – Competence of the lead supervisory authority
+### Article 56 – Competence of the lead supervisory authority
 
-1\. Without prejudice to Article [55](#artikel-55-competence), the supervisory authority of the main establishment or of the single establishment of the controller or processor shall be competent to act as lead supervisory authority for the cross-border processing carried out by that controller or processor in accordance with the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#artikel-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned).
+1\. Without prejudice to Article [55](#article-55-competence), the supervisory authority of the main establishment or of the single establishment of the controller or processor shall be competent to act as lead supervisory authority for the cross-border processing carried out by that controller or processor in accordance with the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned).
 
 2\. By derogation from paragraph 1, each supervisory authority shall be competent to handle a complaint lodged with it or a possible infringement of [this Regulation](/lagstiftning/gdpr), if the subject matter relates only to an establishment in its Member State or substantially affects data subjects only in its Member State.
 
-3\. In the cases referred to in paragraph 2 of [this Article](#artikel-56-competence-of-the-lead-supervisory-authority), the supervisory authority shall inform the lead supervisory authority without delay on that matter. Within a period of three weeks after being informed the lead supervisory authority shall decide whether or not it will handle the case in accordance with the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#artikel-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned), taking into account whether or not there is an establishment of the controller or processor in the Member State of which the supervisory authority informed it.
+3\. In the cases referred to in paragraph 2 of [this Article](#article-56-competence-of-the-lead-supervisory-authority), the supervisory authority shall inform the lead supervisory authority without delay on that matter. Within a period of three weeks after being informed the lead supervisory authority shall decide whether or not it will handle the case in accordance with the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned), taking into account whether or not there is an establishment of the controller or processor in the Member State of which the supervisory authority informed it.
 
-4\. Where the lead supervisory authority decides to handle the case, the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#artikel-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned) shall apply. The supervisory authority which informed the lead supervisory authority may submit to the lead supervisory authority a draft for a decision. The lead supervisory authority shall take utmost account of that draft when preparing the draft decision referred to in Article [60](/lagstiftning/gdpr/kap-7#artikel-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned)(3).
+4\. Where the lead supervisory authority decides to handle the case, the procedure provided in Article [60](/lagstiftning/gdpr/kap-7#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned) shall apply. The supervisory authority which informed the lead supervisory authority may submit to the lead supervisory authority a draft for a decision. The lead supervisory authority shall take utmost account of that draft when preparing the draft decision referred to in Article [60](/lagstiftning/gdpr/kap-7#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned)(3).
 
-5\. Where the lead supervisory authority decides not to handle the case, the supervisory authority which informed the lead supervisory authority shall handle it according to Articles [61](/lagstiftning/gdpr/kap-7#artikel-61-mutual-assistance) and [62](/lagstiftning/gdpr/kap-7#artikel-62-joint-operations-of-supervisory-authorities).
+5\. Where the lead supervisory authority decides not to handle the case, the supervisory authority which informed the lead supervisory authority shall handle it according to Articles [61](/lagstiftning/gdpr/kap-7#article-61-mutual-assistance) and [62](/lagstiftning/gdpr/kap-7#article-62-joint-operations-of-supervisory-authorities).
 
 6\. The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-border processing carried out by that controller or processor.
 
-### Artikel 57 – Tasks
+### Article 57 – Tasks
 
 1\. Without prejudice to other tasks set out under [this Regulation](/lagstiftning/gdpr), each supervisory authority shall on its territory:
 
@@ -118,7 +118,7 @@
 
 (e) upon request, provide information to any data subject concerning the exercise of their rights under [this Regulation](/lagstiftning/gdpr) and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;
 
-(f) handle complaints lodged by a data subject, or by a body, organisation or association in accordance with Article [80](/lagstiftning/gdpr/kap-8#artikel-80-representation-of-data-subjects), and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another supervisory authority is necessary;
+(f) handle complaints lodged by a data subject, or by a body, organisation or association in accordance with Article [80](/lagstiftning/gdpr/kap-8#article-80-representation-of-data-subjects), and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another supervisory authority is necessary;
 
 (g) cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with a view to ensuring the consistency of application and enforcement of [this Regulation](/lagstiftning/gdpr);
 
@@ -126,29 +126,29 @@
 
 (i) monitor relevant developments, insofar as they have an impact on the protection of personal data, in particular the development of information and communication technologies and commercial practices;
 
-(j) adopt standard contractual clauses referred to in Article [28](/lagstiftning/gdpr/kap-4#artikel-28-processor)(8) and in point (d) of Article [46](/lagstiftning/gdpr/kap-5#artikel-46-transfers-subject-to-appropriate-safeguards)(2);
+(j) adopt standard contractual clauses referred to in Article [28](/lagstiftning/gdpr/kap-4#article-28-processor)(8) and in point (d) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(2);
 
-(k) establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to Article [35](/lagstiftning/gdpr/kap-4#artikel-35-data-protection-impact-assessment)(4);
+(k) establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to Article [35](/lagstiftning/gdpr/kap-4#article-35-data-protection-impact-assessment)(4);
 
-(l) give advice on the processing operations referred to in Article [36](/lagstiftning/gdpr/kap-4#artikel-36-prior-consultation)(2);
+(l) give advice on the processing operations referred to in Article [36](/lagstiftning/gdpr/kap-4#article-36-prior-consultation)(2);
 
-(m) encourage the drawing up of codes of conduct pursuant to Article [40](/lagstiftning/gdpr/kap-4#artikel-40-codes-of-conduct)(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article [40](/lagstiftning/gdpr/kap-4#artikel-40-codes-of-conduct)(5);
+(m) encourage the drawing up of codes of conduct pursuant to Article [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(5);
 
-(n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article [42](/lagstiftning/gdpr/kap-4#artikel-42-certification)(1), and approve the criteria of certification pursuant to Article [42](/lagstiftning/gdpr/kap-4#artikel-42-certification)(5);
+(n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(1), and approve the criteria of certification pursuant to Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(5);
 
-(o) where applicable, carry out a periodic review of certifications issued in accordance with Article [42](/lagstiftning/gdpr/kap-4#artikel-42-certification)(7);
+(o) where applicable, carry out a periodic review of certifications issued in accordance with Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(7);
 
-(p) draft and publish the criteria for accreditation of a body for monitoring codes of conduct pursuant to Article [41](/lagstiftning/gdpr/kap-4#artikel-41-monitoring-of-approved-codes-of-conduct) and of a certification body pursuant to Article [43](/lagstiftning/gdpr/kap-4#artikel-43-certification-bodies);
+(p) draft and publish the criteria for accreditation of a body for monitoring codes of conduct pursuant to Article [41](/lagstiftning/gdpr/kap-4#article-41-monitoring-of-approved-codes-of-conduct) and of a certification body pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies);
 
-(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article [41](/lagstiftning/gdpr/kap-4#artikel-41-monitoring-of-approved-codes-of-conduct) and of a certification body pursuant to Article [43](/lagstiftning/gdpr/kap-4#artikel-43-certification-bodies);
+(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article [41](/lagstiftning/gdpr/kap-4#article-41-monitoring-of-approved-codes-of-conduct) and of a certification body pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies);
 
-(r) authorise contractual clauses and provisions referred to in Article [46](/lagstiftning/gdpr/kap-5#artikel-46-transfers-subject-to-appropriate-safeguards)(3);
+(r) authorise contractual clauses and provisions referred to in Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(3);
 
-(s) approve binding corporate rules pursuant to Article [47](/lagstiftning/gdpr/kap-5#artikel-47-binding-corporate-rules);
+(s) approve binding corporate rules pursuant to Article [47](/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules);
 
 (t) contribute to the activities of the Board;
 
-(u) keep internal records of infringements of [this Regulation](/lagstiftning/gdpr) and of measures taken in accordance with Article [58](#artikel-58-powers)(2); and
+(u) keep internal records of infringements of [this Regulation](/lagstiftning/gdpr) and of measures taken in accordance with Article [58](#article-58-powers)(2); and
 
 (v) fulfil any other tasks related to the protection of personal data.
 
@@ -158,7 +158,7 @@
 
 4\. Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
 
-### Artikel 58 – Powers
+### Article 58 – Powers
 
 1\. Each supervisory authority shall have all of the following investigative powers:
 
@@ -166,7 +166,7 @@
 
 (b) to carry out investigations in the form of data protection audits;
 
-(c) to carry out a review on certifications issued pursuant to Article [42](/lagstiftning/gdpr/kap-4#artikel-42-certification)(7);
+(c) to carry out a review on certifications issued pursuant to Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(7);
 
 (d) to notify the controller or the processor of an alleged infringement of [this Regulation](/lagstiftning/gdpr);
 
@@ -188,45 +188,45 @@
 
 (f) to impose a temporary or definitive limitation including a ban on processing;
 
-(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles [16](/lagstiftning/gdpr/kap-3#artikel-16-right-to-rectification), [17](/lagstiftning/gdpr/kap-3#artikel-17-right-to-erasure-right-to-be-forgotten) and [18](/lagstiftning/gdpr/kap-3#artikel-18-right-to-restriction-of-processing) and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to Article [17](/lagstiftning/gdpr/kap-3#artikel-17-right-to-erasure-right-to-be-forgotten)(2) and Article [19](/lagstiftning/gdpr/kap-3#artikel-19-notification-obligation-regarding-rectification-or-erasure-of-personal-data-or-restriction-of-processing);
+(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles [16](/lagstiftning/gdpr/kap-3#article-16-right-to-rectification), [17](/lagstiftning/gdpr/kap-3#article-17-right-to-erasure-right-to-be-forgotten) and [18](/lagstiftning/gdpr/kap-3#article-18-right-to-restriction-of-processing) and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to Article [17](/lagstiftning/gdpr/kap-3#article-17-right-to-erasure-right-to-be-forgotten)(2) and Article [19](/lagstiftning/gdpr/kap-3#article-19-notification-obligation-regarding-rectification-or-erasure-of-personal-data-or-restriction-of-processing);
 
-(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles [42](/lagstiftning/gdpr/kap-4#artikel-42-certification) and [43](/lagstiftning/gdpr/kap-4#artikel-43-certification-bodies), or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
+(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles [42](/lagstiftning/gdpr/kap-4#article-42-certification) and [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies), or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
 
-(i) to impose an administrative fine pursuant to Article [83](/lagstiftning/gdpr/kap-8#artikel-83-general-conditions-for-imposing-administrative-fines), in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;
+(i) to impose an administrative fine pursuant to Article [83](/lagstiftning/gdpr/kap-8#article-83-general-conditions-for-imposing-administrative-fines), in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;
 
 (j) to order the suspension of data flows to a recipient in a third country or to an international organisation.
 
 3\. Each supervisory authority shall have all of the following authorisation and advisory powers:
 
-(a) to advise the controller in accordance with the prior consultation procedure referred to in Article [36](/lagstiftning/gdpr/kap-4#artikel-36-prior-consultation);
+(a) to advise the controller in accordance with the prior consultation procedure referred to in Article [36](/lagstiftning/gdpr/kap-4#article-36-prior-consultation);
 
 (b) to issue, on its own initiative or on request, opinions to the national parliament, the Member State government or, in accordance with Member State law, to other institutions and bodies as well as to the public on any issue related to the protection of personal data;
 
-(c) to authorise processing referred to in Article [36](/lagstiftning/gdpr/kap-4#artikel-36-prior-consultation)(5), if the law of the Member State requires such prior authorisation;
+(c) to authorise processing referred to in Article [36](/lagstiftning/gdpr/kap-4#article-36-prior-consultation)(5), if the law of the Member State requires such prior authorisation;
 
-(d) to issue an opinion and approve draft codes of conduct pursuant to Article [40](/lagstiftning/gdpr/kap-4#artikel-40-codes-of-conduct)(5);
+(d) to issue an opinion and approve draft codes of conduct pursuant to Article [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(5);
 
-(e) to accredit certification bodies pursuant to Article [43](/lagstiftning/gdpr/kap-4#artikel-43-certification-bodies);
+(e) to accredit certification bodies pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies);
 
-(f) to issue certifications and approve criteria of certification in accordance with Article [42](/lagstiftning/gdpr/kap-4#artikel-42-certification)(5);
+(f) to issue certifications and approve criteria of certification in accordance with Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(5);
 
-(g) to adopt standard data protection clauses referred to in Article [28](/lagstiftning/gdpr/kap-4#artikel-28-processor)(8) and in point (d) of Article [46](/lagstiftning/gdpr/kap-5#artikel-46-transfers-subject-to-appropriate-safeguards)(2);
+(g) to adopt standard data protection clauses referred to in Article [28](/lagstiftning/gdpr/kap-4#article-28-processor)(8) and in point (d) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(2);
 
-(h) to authorise contractual clauses referred to in point (a) of Article [46](/lagstiftning/gdpr/kap-5#artikel-46-transfers-subject-to-appropriate-safeguards)(3);
+(h) to authorise contractual clauses referred to in point (a) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(3);
 
-(i) to authorise administrative arrangements referred to in point (b) of Article [46](/lagstiftning/gdpr/kap-5#artikel-46-transfers-subject-to-appropriate-safeguards)(3);
+(i) to authorise administrative arrangements referred to in point (b) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(3);
 
-(j) to approve binding corporate rules pursuant to Article [47](/lagstiftning/gdpr/kap-5#artikel-47-binding-corporate-rules).
+(j) to approve binding corporate rules pursuant to Article [47](/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules).
 
-4\. The exercise of the powers conferred on the supervisory authority pursuant to [this Article](#artikel-58-powers) shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
+4\. The exercise of the powers conferred on the supervisory authority pursuant to [this Article](#article-58-powers) shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
 
 5\. Each Member State shall provide by law that its supervisory authority shall have the power to bring infringements of [this Regulation](/lagstiftning/gdpr) to the attention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of [this Regulation](/lagstiftning/gdpr).
 
 6\. Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not impair the effective operation of [Chapter VII](/lagstiftning/gdpr/kap-7).
 
-### Artikel 59 – Activity reports
+### Article 59 – Activity reports
 
-Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and types of measures taken in accordance with Article [58](#artikel-58-powers)(2). Those reports shall be transmitted to the national parliament, the government and other authorities as designated by Member State law. They shall be made available to the public, to the Commission and to the Board.
+Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and types of measures taken in accordance with Article [58](#article-58-powers)(2). Those reports shall be transmitted to the national parliament, the government and other authorities as designated by Member State law. They shall be made available to the public, to the Commission and to the Board.
 <!-- scan-laws:end -->
 
 ## Interpretation

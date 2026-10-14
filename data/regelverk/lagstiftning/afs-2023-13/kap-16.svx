@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-13'
+'sourceChecked': '2026-10-14'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202313/'
@@ -21,39 +21,295 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Transportvägar och tippställen
+### Inledning
+
+Stöd och verktyg: Sprängarbete
+
+### 1 § – Då gäller föreskrifterna
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-16) reglerar all verksamhet där explosiva varor används för att utföra ett sprängarbete.
+
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-13/kap-16) gäller inte verksamhet inom Försvarsmakten.
+
+### 2 § – Vem föreskrifterna riktar sig till
+
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-16) följs. Med arbetsgivare likställs den som hyr in arbetskraft. Den som är samordningsansvarig omfattas av [6 §](#6).
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-13/kap-16).
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-13/kap-16) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+
+### 3 § – Definitioner
+
+I [detta kapitel](/lagstiftning/afs-2023-13/kap-16) har följande begrepp dessa betydelser.
+
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Berg</div></div></td><td><div><div>Material av en eller flera bergarter.</div></div></td></tr><tr><td><div><div>Deflagration</div></div></td><td><div><div>Förbränning där den kemiska omsättningen sker i en hastighet som underskrider ljudhastigheten i mediet. I allmänhet sker denna förbränning på ytan av kroppar eller partiklar.</div></div></td></tr><tr><td><div><div>Detonation</div></div></td><td><div><div>Förbränning där den kemiska omsättningen sker i en hastighet som överskrider ljudhastigheten i mediet. Vanligen sker denna förbränning inuti massan efter initiering av en stötvåg.</div></div></td></tr><tr><td><div><div>Dola (dolor)</div></div></td><td><div><div>Dold laddning av en odetonerad eller odeflagrerad explosiv vara som återfinns i sprängmassor eller fast berg, efter det att sprängning har genomförts. Dolor kan uppträda även i betong, jord, mark, metall och dylikt där sprängning tidigare förekommit.</div></div></td></tr><tr><td><div><div>Förladdning</div></div></td><td><div><div>Övre eller yttre delen av ett borrhål som fylls med grus, grovkornigt borrkax eller liknande.</div></div></td></tr><tr><td><div><div>Försättning</div></div></td><td><div><div>Det vinkelräta avståndet mellan ett borrhål och den fria yta mot vilken sprängning ska ske.</div></div></td></tr><tr><td><div><div>Laddningsarbete</div></div></td><td><div><div>Del i sprängarbete där man preparerar explosiva varor inför ett sprängarbete.</div></div></td></tr><tr><td><div><div>Skut</div></div></td><td><div><div>Stenblock som är för stort att hantera med befintlig maskinutrustning.</div></div></td></tr><tr><td><div><div>Sprängarbas</div></div></td><td><div><div>Person som ska se till att sprängarbetet utförs säkert, yrkesmässigt och enligt givna instruktioner. När arbete utförs i lag leder sprängarbasen sprängarbetet och instruerar övriga arbetstagare hur sprängarbetet ska utföras.</div></div></td></tr><tr><td><div><div>Sprängarbete</div></div></td><td><div><div>Arbete för att genom kontrollerad detonation eller deflagration av explosiva varor sönderdela material eller skapa stötvåg eller tryck för annat syfte.</div></div></td></tr><tr><td><div><div>Sprängkapsel</div></div></td><td><div><div>Anordning som används för att få en laddning av explosiv vara att detonera eller deflagrera.</div></div></td></tr><tr><td><div><div>Sten</div></div></td><td><div><div>Frilagda delar eller stycken av en eller flera bergarter.</div></div></td></tr><tr><td><div><div>Tändapparat</div></div></td><td><div><div>Teknisk anordning som används för att initiera sprängkapslar</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (14 rader)</label></div>
+
+### 4 § – Undersökning och riskbedömning
+
+Arbetsgivaren ska se till att en undersökning av förhållandena och bedömningen av risker för ohälsa eller olycksfall alltid genomförs innan ett sprängarbete påbörjas. En plan över hur sprängarbetet ska utföras (sprängplan) ska upprättas för varje sprängobjekt innan sprängarbetet utförs.
+
+> _Allmänna råd_
+>
+> Riskbedömningen bör omfatta bland annat
+>
+> risker som kan uppkomma om den planerade tiden för sprängning inte kan hållas,
+>
+> risk för hudkontakt med nitroglycerin eller nitroglykolhaltiga sprängämnen eller inandning av dessa sprängämnens ångor,
+>
+> risker av ergonomiskt slag under laddarbetet,
+>
+> risk för skador på tändsystemet då salvan täcks,
+>
+> risk för oavsiktligt stenkast,
+>
+> risk för luftstötvåg,
+>
+> risk för uppkomst av dolor,
+>
+> risk för kvarblivna spränggaser i slutna utrymmen, och
+>
+> risk för markvibrationer.
+>
+> Det förutsätts att sprängarbasen medverkar i planeringen av sprängarbetet. En viktig del av denna planering är att upprätta en sprängplan.
+>
+> Sprängplanen kan bland annat innehålla
+>
+> förteckning över valda sprängmedel,
+>
+> tidplan,
+>
+> borrplan,
+>
+> laddplan,
+>
+> tändplan,
+>
+> täckningsplan,
+>
+> bevakningsplan,
+>
+> de ritningar som behövs och karta över farligt område, samt
+>
+> ventilationsplan, vid underjordsarbete.
+>
+> Sprängplanen kan behöva ändras om det under arbetets gång visar sig att objektets sprängbarhet felbedömts eller förändrats, eller om valt sprängämne ersatts av annat. Eventuell ändring av sprängplanen bör göras av den eller de som upprättat planen.
+
+### 5 § – Personal
+
+Vid allt sprängarbete ska arbetsgivaren utse en sprängarbas. Arbetsgivaren ska se till att sprängarbasen säkerställer att arbetet utförs yrkesmässigt och enligt givna instruktioner. När arbetet utförs i lag ska arbetsgivaren se till att sprängarbasen med ledning av sina kunskaper instruerar övriga arbetstagare om hur arbetet ska utföras.
+
+Arbetsgivaren ska se till att sprängarbasen säkerställer att explosiva varor och annan sprängutrustning förvaras och används på avsett sätt.
+
+> _Allmänna råd_
+>
+> Arbetsgivaren kan själv vara sprängarbas.
+
+### 6 §
+
+Arbetsgivaren och den som är samordningsansvarig ska se till att sprängarbasen får den information om sprängobjektet som kan vara av betydelse för sprängarbetet.
+
+### 7 §
+
+Arbetsgivaren får bara anlita en sprängarbas som har dokumenterad teoretisk kunskap om sprängning och minst ett års praktik från sprängarbete.
+
+En sprängarbas som endast utför sprängning av mindre komplicerat slag behöver dock endast ha dokumenterad teoretisk kunskap om sådan sprängning och minst två års yrkeserfarenhet i arbete där sprängning ingått.
+
+> _Allmänna råd_
+>
+> Kravet på att den teoretiska kunskapen ska finnas dokumenterad kan uppfyllas genom intyg från den som utbildar. Ett sätt att ha kunskapen dokumenterad är genom så kallade sprängkort.
+>
+> Praktik som ligger mer än fem år tillbaka är av mindre värde och bör som regel inte beaktas vid bedömning av kompetensen. Med praktik avses i denna föreskrift utförande av sprängarbete under handledning. Med yrkeserfarenhet avses i denna föreskrift erfarenhet från arbete som laddare, bergborrare eller andra yrken tätt knutna till sprängarbete.
+>
+> Med sprängning av mindre komplicerat slag avses i denna föreskrift främst sprängarbete som utförs utanför detaljplanelagt område. Sådan sprängning kan vara till exempel sönderdelning av skut, sprängning av stubbar och sten i jord- och skogsbruk, seismisk undersökning genom sprängning, sprängning i tjälad jord, sprängning av tjälat material, klenhålssprängning eller sprängning med hjälp av deflagrerande explosiva varor.
+
+### 8 §
+
+Arbetsgivaren ska se till att sprängarbasen har och vidmakthåller den kunskap och erfarenhet som behövs för att utföra arbetet på ett säkert sätt.
+
+#### Hantering av explosiva varor och laddningsarbete
+
+### 9 § – Hantering av explosiva varor
+
+När explosiva varor flyttas eller transporteras i fordon eller hiss inom arbetsstället ska arbetsgivaren se till att bara de personer som behövs för transporten följer med.
+
+Explosiva varor som flyttas inom arbetsstället ska skyddas mot mekanisk åverkan, värme och annat som kan orsaka oavsiktlig explosion eller brand. De får inte samlastas med annat farligt gods.
+
+### 10 § – Laddningsarbete
+
+Arbetsgivaren ska se till att sprängarbetsplatsen har tillräcklig och lämpligt ordnad belysning när arbetet så kräver.
+
+### 11 §
+
+Arbetsgivaren ska se till att laddningsarbetet utförs så att risken för oavsiktlig initiering minimeras.
+
+Har laddning av borrhålet påbörjats och avbrutits utan att sprängkapsel införts i borrhålet ska hålet märkas med gul färg.
+
+Laddade hål får inte rensas med borraggregat.
+
+### 12 §
+
+Arbetsgivaren ska se till att laddningsarbete i närheten av pågående borrning undviks.
+
+Avståndet mellan pågående laddningsarbete och borrning ska vara betryggande.
+
+### 13 §
+
+Arbetsgivaren ska se till att laddningsarbete med elektriska sprängkapslar under eller i närheten av kraftledning eller elektrifierad järnväg, spårväg och liknande föregås av samråd med ägaren till den elektriska anläggningen.
+
+### 14 §
+
+Arbetsgivaren ska se till att oavsiktlig initiering av elsprängkapsel genom överledning, induktion eller högfrekvent icke-joniserande strålning förebyggs.
+
+Sprängkapseltrådar, skarvtrådar och tändkablar ska placeras på betryggande avstånd från kraftledningar, transformatorcentraler, strömförande kablar, gruppcentraler, svetsarbetsplatser och liknande.
+
+Laddningsarbete med elektriska tändmedel ska avbrytas och farligt område utrymmas om det finns risk för påverkan från åskväder. Om det behövs ska det finnas åskvarning.
+
+### 15 §
+
+Arbetsgivaren ska se till att käppar, slangar, lod och andra verktyg för laddningsarbete är utförda så att de inte orsakar initiering eller skadar sprängkapslar eller tändledningar.
+
+När krut eller deflagrerande kompositioner av explosiva varor laddas ska laddkäppen som används vara tillverkad av trä och vara utan beslag.
+
+### 16 §
+
+Arbetsgivaren ska se till att slangen för laddning är utförd så att initiering på grund av elektrostatisk uppladdning inte uppstår under laddningsarbetet. Vid laddning med pulverformig explosiv vara ska slangen för laddning ha en resistans av 1–30 kΩ/meter (kiloohm per meter). Slangen ska ha tydlig märkning som anger slangtyp och dimensioner samt vilken typ av explosiv vara den är avsedd för.
+
+### 17 §
+
+Arbetsgivaren ska se till att blåsrör och andra rensverktyg som används i borrhål som innehåller explosiva varor är utförda så att oavsiktlig tändning genom gnistbildning inte uppstår.
+
+### 18 §
+
+Arbetsgivaren ska se till att förladdning och avskiljande propp mellan laddningar i borrhål består av sådant material och är utförd så att de explosiva varorna vid behov kan bli åtkomliga.
+
+Vid förladdning av borrhål laddade med krut eller deflagrerande kompositioner av explosiva varor ska det säkerställas att dessa explosiva varor inte antänds oavsiktligt. Krutets och de deflagrerande kompositionernas rivkänslighet ska särskilt beaktas.
+
+### 19 §
+
+Arbetsgivaren ska se till att laddningsarbete utförs på ett sådant sätt att risken för dolor minimeras. Om så behövs ska två eller flera sprängkapslar apteras i samma borrhål.
+
+### 20 §
+
+Arbetsgivaren ska se till att enbart operatörer som utbildats av tillverkaren, eller av tillverkarens representant, hanterar laddningsutrustningar avsedda för pumpbara explosiva varor.
+
+#### Initiering av sprängsalvor
+
+### 21 § – Initiering
+
+Vid initiering ska arbetsgivaren se till att en sådan metod används så att laddningen detonerar omedelbart eller snarast efter initiering. Andra tändmetoder får dock användas om man kan säkerställa att ingen kommer in i det farliga området i tidsintervallet mellan initiering och detonation.
 
 ### 22 §
 
-Arbetsgivaren ska se till att det på arbetsställen som omfattas av dessa föreskrifter och där fordonstrafik förekommer finns trafikregler för att främja trafiksäkerheten.
+För att undvika ledningsbrott, kortslutning eller oavsiktlig beröring med elektriskt ledande föremål eller jordkontakt ska arbetsgivaren ska se till att skarvning av tändledning och isolering av skarvar utförs omsorgsfullt.
+
+Skarvtråd får bara användas en gång.
+
+När det finns risk för jordfel ska elsprängkapslar med förstärkt isolering användas.
 
 ### 23 §
 
-Arbetsgivaren ska se till att utrymmen under jord som är trafikerade av fordon och maskiner är tillräckligt stora för den trafik som förekommer och utformade så att riskerna för kollision, påkörning, vältning eller nedstörtning minimeras.
-
-Där gångtrafik regelbundet förekommer ska det normalt finnas ett särskilt utrymme för de gående. Utrymmet ska minst vara 1,0 meter brett och 2,1 meter högt. Om detta inte går att ordna, ska särskilda åtgärder vidtas för att skydda de gående.
+Vid elektrisk tändning i närheten av strömförande starkströmsledningar ska arbetsgivaren se till att åtgärder vidtas så att tändkabel och skarvtråd inte kastas upp på ledningarna vid sprängningen.
 
 ### 24 §
 
-Arbetsgivaren ska se till att vägbanor under och ovan jord håller god standard. Där det finns risk för att fordon eller maskiner störtar ned eller välter ska effektiva förebyggande skyddsåtgärder vidtas.
+Vid användning av krutstubin ska arbetsgivaren se till att sprängkapseln apteras på krutstubinen så att kapseln initieras säkert.
+
+Krutstubinen ska ha tillräcklig brinntid så att det finns tid för att tända och uppsöka skyddad plats. Arbetsgivaren ska se till att sprängarbasen före användning av krutstubin undersöker stubinens brinnhastighet för att säkerställa att tillräckliga längder av stubin används.
+
+Det ska säkerställas att stubinen brinner minst 2 minuter och når minst 0,1 meter utanför borrhålets mynning. Vid laddning med krut eller andra deflagrerande explosiva varor ska stubinänden nå minst 0,5 meter utanför borrhålsmynningen.
+
+Om täckning används ska stubinen nå utanför denna.
 
 ### 25 §
 
-Arbetsgivaren ska se till att tillfälliga tillträdesvägar till arbetsställen ovan jord där berg- eller gruvarbete förekommer är så utförda och beskaffade att de kan användas för trafik med borraggregat, andra maskiner och fordon utan risk för föraren.
+Om elektroniska sprängkapslar används för initiering ska arbetsgivaren se till att olika elektroniska system och olika fabrikat inte blandas i samma salva.
 
-### 26 §
+### 26 § – Utrustning för initiering av sprängsalvor
 
-Arbetsgivaren ska se till att det finns en barriär vid tippställen som förhindrar att fordon eller maskiner kör utför slänten vid tippstället.
-
-> _Allmänna råd_
-
-> Med tippställen avses upplagstippar, störtschakt och liknande. På tippställen med höga slänter är det lämpligt att anordna ett stopp vars höjd motsvarar minst halva hjuldiametern hos fordonet som tippar. Kan inte detta genomföras är det lämpligt att tippa en bit från slänten varefter en maskin med schaktblad knuffar tippmassorna nedför slänten.
-
-#### Prospektering och geotekniska arbeten
+Arbetsgivaren ska se till att tändapparater för initiering av elsprängkapslar liksom apparater för initiering av icke-elektriska signalledare, instrument för provning av elsprängkapslar, kablar och åskvarnare bara repareras av personer med kunskap om de elektriska, mekaniska och säkerhetsmässiga krav som gäller för apparaten eller instrumentet.
 
 ### 27 §
 
-Vid prospekteringsarbeten, ovan och under jord, samt vid geotekniska arbeten som kan innebära risker för personskador, ska arbetsgivaren se till att det finns kommunikationsmedel tillgängliga som medger tillförlitlig kontakt med de arbetstagare som är sysselsatta med sådant arbete.
+Arbetsgivaren ska se till att tändapparatens kapacitet är anpassad till sprängsalvans tändströms- och energibehov. Elsprängkapslar i samma sprängsalva ska ha samma elektriska tändkänslighet, det vill säga samma värde på tändpuls, tändström och serietändström.
+
+Ett elektriskt tändsystem (sprängsalva) som är färdigkopplat ska resistansmätas innan initiering.
+
+### 28 §
+
+Arbetsgivaren ska se till att tändanordning för signalledare av lågenergityp (stötvågsledare) är utförd så att oavsiktlig initiering inte kan inträffa.
+
+### 29 § – Detonerande stubin
+
+Om en detonerande stubin används för initiering ska arbetsgivaren se till att tändsystemet så långt som möjligt anordnas som en ringledning med grenledningar. Grenledningen ska kopplas vinkelrätt mot ringledningen och avståndet mellan grenledningar ska vara sådant att övertändning inte kan inträffa.
+
+### 30 §
+
+Arbetsgivaren ska se till att detonerande stubin vid ort- eller tunnelsprängning inte har större laddningsvikt än 20 gram explosiv vara per meter stubin.
+
+### 31 § – Täckning
+
+Om stenar, splitter eller andra föremål som kastas ut vid sprängning kan medföra skada, ska arbetsgivaren se till att sprängobjektet täcks (fördäms). Täckningen ska ha tillräcklig utbredning och vikt. Den ska placeras med hänsyn till bergets kontur och sprickighet och salvans planerade utslagsriktning.
+
+> _Allmänna råd_
+>
+> Det finns två huvudtyper av täckning: tyngdtäckning och splitterskyddande täckning.
+>
+> Tyngdtäckningen förhindrar kastning av större stenar och även i viss mån att berget flyttas alltför mycket framåt. Tyngdtäckning blir effektiv om den har betryggande tyngd, följer bergkonturen samt har god hållfasthet och lämplig täthet.
+>
+> Den splitterskyddande täckningen är främst avsedd att fånga mindre stenar som lyckats passera tyngdtäckningen. Den består lämpligen av något gasgenomsläppligt material, till exempel vävd nylonduk, filt eller ståltrådsnät. Den bör placeras ovanpå tyngdtäckningen.
+>
+> Täckningen bör utföras på ett sådant sätt att den hålls samman under hela detonationsförloppet. Om berget sluttar kan mattorna behöva förankras i berget bakom salvan.
+>
+> Täckmaterialet bör läggas ut varsamt så att tändsystemet inte skadas. Särskilt viktigt är detta när icke-elektriska signalledare används eftersom dessa saknar kontrollmöjlighet. Om elektriska sprängkapslar används kan skador på ledarnas trådisolering medföra överledning eller jordfel med risk för dola som följd. Det bör uppmärksammas att om avbrott i tändsystemet inträffar när tändmedel av stötvågstyp används kan felet inte kontrolleras efter det att täckning slutförts.
+>
+> Vid sprängning av en enstaka laddning, till exempel vid sönderdelning av fältstenar, skut och liknande, där stenkastning medför fara, bör sprängobjektet förses med en omslutande täckning. Skälet för detta är att det är svårt att avgöra i vilken riktning det söndersprängda materialet sprids.
+
+### 32 § – Utrymning, bevakning och initiering
+
+På en sprängplats ska arbetsgivaren se till att det finns regler för utrymning, bevakning och initiering av sprängsalvan.
+
+Varning om förestående sprängning ska ges till alla som kan komma att beröras av sprängningen.
+
+Sprängsalvan får initieras endast om åtgärder vidtagits så att ingen som vistas inom farligt område riskerar att skadas.
+
+> _Allmänna råd_
+>
+> Sprängning ovan jord bör planeras så att skottlossning sker vid dagsljus och att siktförhållandena medger betryggande kontroll av farligt område.
+>
+> Ett vanligt sätt att kontrollera farligt område är att ha bevakare runt området. Bevakare, försedda med röd flagga, har till uppgift att
+>
+> varna den som närmar sig området för att gå in i detta,
+>
+> hindra att laddning tänds när någon kommit in på området efter att varningssignal avgivits, och
+>
+> upprepa av sprängarbasen avgivna varningsrop.
+>
+> Är det svårt att helt utrymma ett farligt område kan särskilda skyddsanordningar installeras, till exempel tillräckligt antal skyddskojor med betryggande hållfasthet.
+>
+> Om ett farligt område är tillfredsställande avspärrat med stängsel och markerat med varningsskyltar, kan bevakningen ibland begränsas till att avse enbart tillträdesvägarna.
+>
+> På avskild plats, där sprängningen inte berör andra arbeten eller transportvägar, kan bevakningen vara begränsad, till exempel till att bara avse de vägar som leder till det farliga området. Det förutsätter dock att tillfartsvägar spärras och att tydliga varningsskyltar sätts upp.
+>
+> När sprängning utförs på skilda, närliggande arbetsplatser, är det viktigt att träffa överenskommelser om på vilka tider sprängsalvor ska tändas.
+>
+> Varning kan meddelas muntligt, i form av informationstavlor, skriftligt meddelande eller dylikt. Vid vissa arbeten är det lämpligt att ha ett större informationsmöte med alla berörda.
+>
+> Omedelbart före sprängningen kan varning ges med korta signaler från siren eller med ropet ”Här ska tändas”. Sirensignalen bör till sin karaktär avvika från signaler som avges för andra ändamål.
+
+### 33 §
+
+Vid risk för dammexplosioner ska arbetsgivaren se till att åtgärder vidtas som förebygger sådana explosioner och begränsar verkningarna av dem.
+
+### 34 § – Återvändande till sprängplats
+
+Arbetsgivaren ska se till att sprängplatsen inte beträds sedan sprängsalvan initierats så länge det finns risk för personskador genom försenad detonation, farliga gaser eller stenfall. Arbetsgivaren ska se till att resultatet av sprängningen undersöks av sprängarbasen och att behövliga åtgärder vidtas innan meddelande ges om att området åter får beträdas. Eventuella kvarvarande rester av explosiva varor (dolor) ska snarast oskadliggöras.
+
+Arbetsgivaren ska se till att sprängarbasen innan sprängplatsen lämnas informerar den eller de som inom arbetsstället hanterar det sprängda berget så att dessa får kunskap om hur
+
+påträffade icke detonerade eller deflagrerade explosiva varor ska omhändertas, och
+
+sprängarbasen vid behov kan nås för konsultation om lämpliga åtgärder.
 <!-- scan-laws:end -->
 
 ## Tolkning

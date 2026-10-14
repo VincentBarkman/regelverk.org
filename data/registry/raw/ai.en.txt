@@ -3,7 +3,7 @@
 
 # kap-1 | Chapter I | GENERAL PROVISIONS | cpt_I
 
-## Artikel 1 | Subject matter` | art_1
+## Article 1 | Subject matter` | art_1
 1. The purpose of this Regulation is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.
 
 2. This Regulation lays down:
@@ -36,7 +36,7 @@ rules on market monitoring, market surveillance, governance and enforcement;
 
 measures to support innovation, with a particular focus on SMEs, including start-ups.
 
-## Artikel 2 | Scope | art_2
+## Article 2 | Scope | art_2
 1. This Regulation applies to:
 
 (a)
@@ -93,7 +93,7 @@ This Regulation does not apply to AI systems which are not placed on the market 
 
 12. This Regulation does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article 5 or 50.
 
-## Artikel 3 | Definitions | art_3
+## Article 3 | Definitions | art_3
 For the purposes of this Regulation, the following definitions apply:
 
 (1)
@@ -412,12 +412,12 @@ has caused, causes or is likely to cause harm to the collective interests of ind
 
 ‘downstream provider’ means a provider of an AI system, including a general-purpose AI system, which integrates an AI model, regardless of whether the AI model is provided by themselves and vertically integrated or provided by another entity based on contractual relations.
 
-## Artikel 4 | AI literacy | art_4
+## Article 4 | AI literacy | art_4
 Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used.
 
 # kap-2 | Chapter II | PROHIBITED AI PRACTICES | cpt_II
 
-## Artikel 5 | Prohibited AI practices | art_5
+## Article 5 | Prohibited AI practices | art_5
 1. The following AI practices shall be prohibited:
 
 (a)
@@ -502,7 +502,7 @@ The competent judicial authority or an independent administrative authority whos
 
 # kap-3 | Chapter III | HIGH-RISK AI SYSTEMS | cpt_III
 
-## Artikel 6 | Classification rules for high-risk AI systems | art_6
+## Article 6 | Classification rules for high-risk AI systems | art_6
 1. Irrespective of whether an AI system is placed on the market or put into service independently of the products referred to in points (a) and (b), that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:
 
 (a)
@@ -547,7 +547,7 @@ Notwithstanding the first subparagraph, an AI system referred to in Annex III sh
 
 8. Any amendment to the conditions laid down in paragraph 3, second subparagraph, adopted in accordance with paragraphs 6 and 7 of this Article shall not decrease the overall level of protection of health, safety and fundamental rights provided for by this Regulation and shall ensure consistency with the delegated acts adopted pursuant to Article 7(1), and take account of market and technological developments.
 
-## Artikel 7 | Amendments to Annex III | art_7
+## Article 7 | Amendments to Annex III | art_7
 1. The Commission is empowered to adopt delegated acts in accordance with Article 97 to amend Annex III by adding or modifying use-cases of high-risk AI systems where both of the following conditions are fulfilled:
 
 (a)
@@ -622,12 +622,12 @@ the high-risk AI system concerned no longer poses any significant risks to funda
 
 the deletion does not decrease the overall level of protection of health, safety and fundamental rights under Union law.
 
-## Artikel 8 | Compliance with the requirements | art_8
+## Article 8 | Compliance with the requirements | art_8
 1. High-risk AI systems shall comply with the requirements laid down in this Section, taking into account their intended purpose as well as the generally acknowledged state of the art on AI and AI-related technologies. The risk management system referred to in Article 9 shall be taken into account when ensuring compliance with those requirements.
 
 2. Where a product contains an AI system, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex I apply, providers shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-risk AI systems referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex I.
 
-## Artikel 9 | Risk management system | art_9
+## Article 9 | Risk management system | art_9
 1. A risk management system shall be established, implemented, documented and maintained in relation to high-risk AI systems.
 
 2. The risk management system shall be understood as a continuous iterative process planned and run throughout the entire lifecycle of a high-risk AI system, requiring regular systematic review and updating. It shall comprise the following steps:
@@ -680,7 +680,7 @@ With a view to eliminating or reducing risks related to the use of the high-risk
 
 10. For providers of high-risk AI systems that are subject to requirements regarding internal risk management processes under other relevant provisions of Union law, the aspects provided in paragraphs 1 to 9 may be part of, or combined with, the risk management procedures established pursuant to that law.
 
-## Artikel 10 | Data and data governance | art_10
+## Article 10 | Data and data governance | art_10
 1. High-risk AI systems which make use of techniques involving the training of AI models with data shall be developed on the basis of training, validation and testing data sets that meet the quality criteria referred to in paragraphs 2 to 5 whenever such data sets are used.
 
 2. Training, validation and testing data sets shall be subject to data governance and management practices appropriate for the intended purpose of the high-risk AI system. Those practices shall concern in particular:
@@ -749,7 +749,7 @@ the records of processing activities pursuant to Regulations (EU) 2016/679 and (
 
 6. For the development of high-risk AI systems not using techniques involving the training of AI models, paragraphs 2 to 5 apply only to the testing data sets.
 
-## Artikel 11 | Technical documentation | art_11
+## Article 11 | Technical documentation | art_11
 1. The technical documentation of a high-risk AI system shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date.
 
 The technical documentation shall be drawn up in such a way as to demonstrate that the high-risk AI system complies with the requirements set out in this Section and to provide national competent authorities and notified bodies with the necessary information in a clear and comprehensive form to assess the compliance of the AI system with those requirements. It shall contain, at a minimum, the elements set out in Annex IV. SMEs, including start-ups, may provide the elements of the technical documentation specified in Annex IV in a simplified manner. To that end, the Commission shall establish a simplified technical documentation form targeted at the needs of small and microenterprises. Where an SME, including a start-up, opts to provide the information required in Annex IV in a simplified manner, it shall use the form referred to in this paragraph. Notified bodies shall accept the form for the purposes of the conformity assessment.
@@ -758,7 +758,7 @@ The technical documentation shall be drawn up in such a way as to demonstrate th
 
 3. The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex IV, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
 
-## Artikel 12 | Record-keeping | art_12
+## Article 12 | Record-keeping | art_12
 1. High-risk AI systems shall technically allow for the automatic recording of events (logs) over the lifetime of the system.
 
 2. In order to ensure a level of traceability of the functioning of a high-risk AI system that is appropriate to the intended purpose of the system, logging capabilities shall enable the recording of events relevant for:
@@ -793,7 +793,7 @@ the input data for which the search has led to a match;
 
 the identification of the natural persons involved in the verification of the results, as referred to in Article 14(5).
 
-## Artikel 13 | Transparency and provision of information to deployers | art_13
+## Article 13 | Transparency and provision of information to deployers | art_13
 1. High-risk AI systems shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable deployers to interpret a system’s output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the provider and deployer set out in Section 3.
 
 2. High-risk AI systems shall be accompanied by instructions for use in an appropriate digital format or otherwise that include concise, complete, correct and clear information that is relevant, accessible and comprehensible to deployers.
@@ -852,7 +852,7 @@ the computational and hardware resources needed, the expected lifetime of the hi
 
 where relevant, a description of the mechanisms included within the high-risk AI system that allows deployers to properly collect, store and interpret the logs in accordance with Article 12.
 
-## Artikel 14 | Human oversight | art_14
+## Article 14 | Human oversight | art_14
 1. High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use.
 
 2. Human oversight shall aim to prevent or minimise the risks to health, safety or fundamental rights that may emerge when a high-risk AI system is used in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, in particular where such risks persist despite the application of other requirements set out in this Section.
@@ -893,7 +893,7 @@ to intervene in the operation of the high-risk AI system or interrupt the system
 
 The requirement for a separate verification by at least two natural persons shall not apply to high-risk AI systems used for the purposes of law enforcement, migration, border control or asylum, where Union or national law considers the application of this requirement to be disproportionate.
 
-## Artikel 15 | Accuracy, robustness and cybersecurity | art_15
+## Article 15 | Accuracy, robustness and cybersecurity | art_15
 1. High-risk AI systems shall be designed and developed in such a way that they achieve an appropriate level of accuracy, robustness, and cybersecurity, and that they perform consistently in those respects throughout their lifecycle.
 
 2. To address the technical aspects of how to measure the appropriate levels of accuracy and robustness set out in paragraph 1 and any other relevant performance metrics, the Commission shall, in cooperation with relevant stakeholders and organisations such as metrology and benchmarking authorities, encourage, as appropriate, the development of benchmarks and measurement methodologies.
@@ -912,7 +912,7 @@ The technical solutions aiming to ensure the cybersecurity of high-risk AI syste
 
 The technical solutions to address AI specific vulnerabilities shall include, where appropriate, measures to prevent, detect, respond to, resolve and control for attacks trying to manipulate the training data set (data poisoning), or pre-trained components used in training (model poisoning), inputs designed to cause the AI model to make a mistake (adversarial examples or model evasion), confidentiality attacks or model flaws.
 
-## Artikel 16 | Obligations of providers of high-risk AI systems | art_16
+## Article 16 | Obligations of providers of high-risk AI systems | art_16
 Providers of high-risk AI systems shall:
 
 (a)
@@ -963,7 +963,7 @@ upon a reasoned request of a national competent authority, demonstrate the confo
 
 ensure that the high-risk AI system complies with accessibility requirements in accordance with Directives (EU) 2016/2102 and (EU) 2019/882.
 
-## Artikel 17 | Quality management system | art_17
+## Article 17 | Quality management system | art_17
 1. Providers of high-risk AI systems shall put a quality management system in place that ensures compliance with this Regulation. That system shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions, and shall include at least the following aspects:
 
 (a)
@@ -1024,7 +1024,7 @@ an accountability framework setting out the responsibilities of the management a
 
 4. For providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law, the obligation to put in place a quality management system, with the exception of paragraph 1, points (g), (h) and (i) of this Article, shall be deemed to be fulfilled by complying with the rules on internal governance arrangements or processes pursuant to the relevant Union financial services law. To that end, any harmonised standards referred to in Article 40 shall be taken into account.
 
-## Artikel 18 | Documentation keeping | art_18
+## Article 18 | Documentation keeping | art_18
 1. The provider shall, for a period ending 10 years after the high-risk AI system has been placed on the market or put into service, keep at the disposal of the national competent authorities:
 
 (a)
@@ -1051,24 +1051,24 @@ the EU declaration of conformity referred to in Article 47.
 
 3. Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law shall maintain the technical documentation as part of the documentation kept under the relevant Union financial services law.
 
-## Artikel 19 | Automatically generated logs | art_19
+## Article 19 | Automatically generated logs | art_19
 1. Providers of high-risk AI systems shall keep the logs referred to in Article 12(1), automatically generated by their high-risk AI systems, to the extent such logs are under their control. Without prejudice to applicable Union or national law, the logs shall be kept for a period appropriate to the intended purpose of the high-risk AI system, of at least six months, unless provided otherwise in the applicable Union or national law, in particular in Union law on the protection of personal data.
 
 2. Providers that are financial institutions subject to requirements regarding their internal governance, arrangements or processes under Union financial services law shall maintain the logs automatically generated by their high-risk AI systems as part of the documentation kept under the relevant financial services law.
 
-## Artikel 20 | Corrective actions and duty of information | art_20
+## Article 20 | Corrective actions and duty of information | art_20
 1. Providers of high-risk AI systems which consider or have reason to consider that a high-risk AI system that they have placed on the market or put into service is not in conformity with this Regulation shall immediately take the necessary corrective actions to bring that system into conformity, to withdraw it, to disable it, or to recall it, as appropriate. They shall inform the distributors of the high-risk AI system concerned and, where applicable, the deployers, the authorised representative and importers accordingly.
 
 2. Where the high-risk AI system presents a risk within the meaning of Article 79(1) and the provider becomes aware of that risk, it shall immediately investigate the causes, in collaboration with the reporting deployer, where applicable, and inform the market surveillance authorities competent for the high-risk AI system concerned and, where applicable, the notified body that issued a certificate for that high-risk AI system in accordance with Article 44, in particular, of the nature of the non-compliance and of any relevant corrective action taken.
 
-## Artikel 21 | Cooperation with competent authorities | art_21
+## Article 21 | Cooperation with competent authorities | art_21
 1. Providers of high-risk AI systems shall, upon a reasoned request by a competent authority, provide that authority all the information and documentation necessary to demonstrate the conformity of the high-risk AI system with the requirements set out in Section 2, in a language which can be easily understood by the authority in one of the official languages of the institutions of the Union as indicated by the Member State concerned.
 
 2. Upon a reasoned request by a competent authority, providers shall also give the requesting competent authority, as applicable, access to the automatically generated logs of the high-risk AI system referred to in Article 12(1), to the extent such logs are under their control.
 
 3. Any information obtained by a competent authority pursuant to this Article shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-## Artikel 22 | Authorised representatives of providers of high-risk AI systems | art_22
+## Article 22 | Authorised representatives of providers of high-risk AI systems | art_22
 1. Prior to making their high-risk AI systems available on the Union market, providers established in third countries shall, by written mandate, appoint an authorised representative which is established in the Union.
 
 2. The provider shall enable its authorised representative to perform the tasks specified in the mandate received from the provider.
@@ -1099,7 +1099,7 @@ The mandate shall empower the authorised representative to be addressed, in addi
 
 4. The authorised representative shall terminate the mandate if it considers or has reason to consider the provider to be acting contrary to its obligations pursuant to this Regulation. In such a case, it shall immediately inform the relevant market surveillance authority, as well as, where applicable, the relevant notified body, about the termination of the mandate and the reasons therefor.
 
-## Artikel 23 | Obligations of importers | art_23
+## Article 23 | Obligations of importers | art_23
 1. Before placing a high-risk AI system on the market, importers shall ensure that the system is in conformity with this Regulation by verifying that:
 
 (a)
@@ -1130,7 +1130,7 @@ the provider has appointed an authorised representative in accordance with Artic
 
 7. Importers shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system placed on the market by the importers, in particular to reduce and mitigate the risks posed by it.
 
-## Artikel 24 | Obligations of distributors | art_24
+## Article 24 | Obligations of distributors | art_24
 1. Before making a high-risk AI system available on the market, distributors shall verify that it bears the required CE marking, that it is accompanied by a copy of the EU declaration of conformity referred to in Article 47 and instructions for use, and that the provider and the importer of that system, as applicable, have complied with their respective obligations as laid down in Article 16, points (b) and (c) and Article 23(3).
 
 2. Where a distributor considers or has reason to consider, on the basis of the information in its possession, that a high-risk AI system is not in conformity with the requirements set out in Section 2, it shall not make the high-risk AI system available on the market until the system has been brought into conformity with those requirements. Furthermore, where the high-risk AI system presents a risk within the meaning of Article 79(1), the distributor shall inform the provider or the importer of the system, as applicable, to that effect.
@@ -1143,7 +1143,7 @@ the provider has appointed an authorised representative in accordance with Artic
 
 6. Distributors shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system made available on the market by the distributors, in particular to reduce or mitigate the risk posed by it.
 
-## Artikel 25 | Responsibilities along the AI value chain | art_25
+## Article 25 | Responsibilities along the AI value chain | art_25
 1. Any distributor, importer, deployer or other third-party shall be considered to be a provider of a high-risk AI system for the purposes of this Regulation and shall be subject to the obligations of the provider under Article 16, in any of the following circumstances:
 
 (a)
@@ -1176,7 +1176,7 @@ The AI Office may develop and recommend voluntary model terms for contracts betw
 
 5. Paragraphs 2 and 3 are without prejudice to the need to observe and protect intellectual property rights, confidential business information and trade secrets in accordance with Union and national law.
 
-## Artikel 26 | Obligations of deployers of high-risk AI systems | art_26
+## Article 26 | Obligations of deployers of high-risk AI systems | art_26
 1. Deployers of high-risk AI systems shall take appropriate technical and organisational measures to ensure they use such systems in accordance with the instructions for use accompanying the systems, pursuant to paragraphs 3 and 6.
 
 2. Deployers shall assign human oversight to natural persons who have the necessary competence, training and authority, as well as the necessary support.
@@ -1217,7 +1217,7 @@ Member States may introduce, in accordance with Union law, more restrictive laws
 
 12. Deployers shall cooperate with the relevant competent authorities in any action those authorities take in relation to the high-risk AI system in order to implement this Regulation.
 
-## Artikel 27 | Fundamental rights impact assessment for high-risk AI systems | art_27
+## Article 27 | Fundamental rights impact assessment for high-risk AI systems | art_27
 1. Prior to deploying a high-risk AI system referred to in Article 6(2), with the exception of high-risk AI systems intended to be used in the area listed in point 2 of Annex III, deployers that are bodies governed by public law, or are private entities providing public services, and deployers of high-risk AI systems referred to in points 5 (b) and (c) of Annex III, shall perform an assessment of the impact on fundamental rights that the use of such system may produce. For that purpose, deployers shall perform an assessment consisting of:
 
 (a)
@@ -1252,7 +1252,7 @@ the measures to be taken in the case of the materialisation of those risks, incl
 
 5. The AI Office shall develop a template for a questionnaire, including through an automated tool, to facilitate deployers in complying with their obligations under this Article in a simplified manner.
 
-## Artikel 28 | Notifying authorities | art_28
+## Article 28 | Notifying authorities | art_28
 1. Each Member State shall designate or establish at least one notifying authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and for their monitoring. Those procedures shall be developed in cooperation between the notifying authorities of all Member States.
 
 2. Member States may decide that the assessment and monitoring referred to in paragraph 1 is to be carried out by a national accreditation body within the meaning of, and in accordance with, Regulation (EC) No 765/2008.
@@ -1267,7 +1267,7 @@ the measures to be taken in the case of the materialisation of those risks, incl
 
 7. Notifying authorities shall have an adequate number of competent personnel at their disposal for the proper performance of their tasks. Competent personnel shall have the necessary expertise, where applicable, for their function, in fields such as information technologies, AI and law, including the supervision of fundamental rights.
 
-## Artikel 29 | Application of a conformity assessment body for notification | art_29
+## Article 29 | Application of a conformity assessment body for notification | art_29
 1. Conformity assessment bodies shall submit an application for notification to the notifying authority of the Member State in which they are established.
 
 2. The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules and the types of AI systems for which the conformity assessment body claims to be competent, as well as by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 31.
@@ -1278,7 +1278,7 @@ Any valid document related to existing designations of the applicant notified bo
 
 4. For notified bodies which are designated under any other Union harmonisation legislation, all documents and certificates linked to those designations may be used to support their designation procedure under this Regulation, as appropriate. The notified body shall update the documentation referred to in paragraphs 2 and 3 of this Article whenever relevant changes occur, in order to enable the authority responsible for notified bodies to monitor and verify continuous compliance with all the requirements laid down in Article 31.
 
-## Artikel 30 | Notification procedure | art_30
+## Article 30 | Notification procedure | art_30
 1. Notifying authorities may notify only conformity assessment bodies which have satisfied the requirements laid down in Article 31.
 
 2. Notifying authorities shall notify the Commission and the other Member States, using the electronic notification tool developed and managed by the Commission, of each conformity assessment body referred to in paragraph 1.
@@ -1289,7 +1289,7 @@ Any valid document related to existing designations of the applicant notified bo
 
 5. Where objections are raised, the Commission shall, without delay, enter into consultations with the relevant Member States and the conformity assessment body. In view thereof, the Commission shall decide whether the authorisation is justified. The Commission shall address its decision to the Member State concerned and to the relevant conformity assessment body.
 
-## Artikel 31 | Requirements relating to notified bodies | art_31
+## Article 31 | Requirements relating to notified bodies | art_31
 1. A notified body shall be established under the national law of a Member State and shall have legal personality.
 
 2. Notified bodies shall satisfy the organisational, quality management, resources and process requirements that are necessary to fulfil their tasks, as well as suitable cybersecurity requirements.
@@ -1314,10 +1314,10 @@ Any valid document related to existing designations of the applicant notified bo
 
 12. Notified bodies shall participate in coordination activities as referred to in Article 38. They shall also take part directly, or be represented in, European standardisation organisations, or ensure that they are aware and up to date in respect of relevant standards.
 
-## Artikel 32 | Presumption of conformity with requirements relating to notified bodies | art_32
+## Article 32 | Presumption of conformity with requirements relating to notified bodies | art_32
 Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, it shall be presumed to comply with the requirements set out in Article 31 in so far as the applicable harmonised standards cover those requirements.
 
-## Artikel 33 | Subsidiaries of notified bodies and subcontracting | art_33
+## Article 33 | Subsidiaries of notified bodies and subcontracting | art_33
 1. Where a notified body subcontracts specific tasks connected with the conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements laid down in Article 31, and shall inform the notifying authority accordingly.
 
 2. Notified bodies shall take full responsibility for the tasks performed by any subcontractors or subsidiaries.
@@ -1326,19 +1326,19 @@ Where a conformity assessment body demonstrates its conformity with the criteria
 
 4. The relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation shall be kept at the disposal of the notifying authority for a period of five years from the termination date of the subcontracting.
 
-## Artikel 34 | Operational obligations of notified bodies | art_34
+## Article 34 | Operational obligations of notified bodies | art_34
 1. Notified bodies shall verify the conformity of high-risk AI systems in accordance with the conformity assessment procedures set out in Article 43.
 
 2. Notified bodies shall avoid unnecessary burdens for providers when performing their activities, and take due account of the size of the provider, the sector in which it operates, its structure and the degree of complexity of the high-risk AI system concerned, in particular in view of minimising administrative burdens and compliance costs for micro- and small enterprises within the meaning of Recommendation 2003/361/EC. The notified body shall, nevertheless, respect the degree of rigour and the level of protection required for the compliance of the high-risk AI system with the requirements of this Regulation.
 
 3. Notified bodies shall make available and submit upon request all relevant documentation, including the providers’ documentation, to the notifying authority referred to in Article 28 to allow that authority to conduct its assessment, designation, notification and monitoring activities, and to facilitate the assessment outlined in this Section.
 
-## Artikel 35 | Identification numbers and lists of notified bodies | art_35
+## Article 35 | Identification numbers and lists of notified bodies | art_35
 1. The Commission shall assign a single identification number to each notified body, even where a body is notified under more than one Union act.
 
 2. The Commission shall make publicly available the list of the bodies notified under this Regulation, including their identification numbers and the activities for which they have been notified. The Commission shall ensure that the list is kept up to date.
 
-## Artikel 36 | Changes to notifications | art_36
+## Article 36 | Changes to notifications | art_36
 1. The notifying authority shall notify the Commission and the other Member States of any relevant changes to the notification of a notified body via the electronic notification tool referred to in Article 30(2).
 
 2. The procedures laid down in Articles 29 and 30 shall apply to extensions of the scope of the notification.
@@ -1399,7 +1399,7 @@ In the circumstances referred to in the first subparagraph, the national compete
 
 The national competent authority or the notified body assuming the functions of the notified body affected by the change of designation shall immediately inform the Commission, the other Member States and the other notified bodies thereof.
 
-## Artikel 37 | Challenge to the competence of notified bodies | art_37
+## Article 37 | Challenge to the competence of notified bodies | art_37
 1. The Commission shall, where necessary, investigate all cases where there are reasons to doubt the competence of a notified body or the continued fulfilment by a notified body of the requirements laid down in Article 31 and of its applicable responsibilities.
 
 2. The notifying authority shall provide the Commission, on request, with all relevant information relating to the notification or the maintenance of the competence of the notified body concerned.
@@ -1408,17 +1408,17 @@ The national competent authority or the notified body assuming the functions of 
 
 4. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including the suspension or withdrawal of the notification if necessary. Where the Member State fails to take the necessary corrective measures, the Commission may, by means of an implementing act, suspend, restrict or withdraw the designation. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
 
-## Artikel 38 | Coordination of notified bodies | art_38
+## Article 38 | Coordination of notified bodies | art_38
 1. The Commission shall ensure that, with regard to high-risk AI systems, appropriate coordination and cooperation between notified bodies active in the conformity assessment procedures pursuant to this Regulation are put in place and properly operated in the form of a sectoral group of notified bodies.
 
 2. Each notifying authority shall ensure that the bodies notified by it participate in the work of a group referred to in paragraph 1, directly or through designated representatives.
 
 3. The Commission shall provide for the exchange of knowledge and best practices between notifying authorities.
 
-## Artikel 39 | Conformity assessment bodies of third countries | art_39
+## Article 39 | Conformity assessment bodies of third countries | art_39
 Conformity assessment bodies established under the law of a third country with which the Union has concluded an agreement may be authorised to carry out the activities of notified bodies under this Regulation, provided that they meet the requirements laid down in Article 31 or they ensure an equivalent level of compliance.
 
-## Artikel 40 | Harmonised standards and standardisation deliverables | art_40
+## Article 40 | Harmonised standards and standardisation deliverables | art_40
 1. High-risk AI systems or general-purpose AI models which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section 2 of this Chapter or, as applicable, with the obligations set out in of Chapter V, Sections 2 and 3, of this Regulation, to the extent that those standards cover those requirements or obligations.
 
 2. In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests covering all requirements set out in Section 2 of this Chapter and, as applicable, standardisation requests covering obligations set out in Chapter V, Sections 2 and 3, of this Regulation. The standardisation request shall also ask for deliverables on reporting and documentation processes to improve AI systems’ resource performance, such as reducing the high-risk AI system’s consumption of energy and of other resources during its lifecycle, and on the energy-efficient development of general-purpose AI models. When preparing a standardisation request, the Commission shall consult the Board and relevant stakeholders, including the advisory forum.
@@ -1429,7 +1429,7 @@ The Commission shall request the European standardisation organisations to provi
 
 3. The participants in the standardisation process shall seek to promote investment and innovation in AI, including through increasing legal certainty, as well as the competitiveness and growth of the Union market, to contribute to strengthening global cooperation on standardisation and taking into account existing international standards in the field of AI that are consistent with Union values, fundamental rights and interests, and to enhance multi-stakeholder governance ensuring a balanced representation of interests and the effective participation of all relevant stakeholders in accordance with Articles 5, 6, and 7 of Regulation (EU) No 1025/2012.
 
-## Artikel 41 | Common specifications | art_41
+## Article 41 | Common specifications | art_41
 1. The Commission may adopt, implementing acts establishing common specifications for the requirements set out in Section 2 of this Chapter or, as applicable, for the obligations set out in Sections 2 and 3 of Chapter V where the following conditions have been fulfilled:
 
 (a)
@@ -1470,12 +1470,12 @@ The implementing acts referred to in the first subparagraph of this paragraph sh
 
 6. Where a Member State considers that a common specification does not entirely meet the requirements set out in Section 2 or, as applicable, comply with obligations set out in Sections 2 and 3 of Chapter V, it shall inform the Commission thereof with a detailed explanation. The Commission shall assess that information and, if appropriate, amend the implementing act establishing the common specification concerned.
 
-## Artikel 42 | Presumption of conformity with certain requirements | art_42
+## Article 42 | Presumption of conformity with certain requirements | art_42
 1. High-risk AI systems that have been trained and tested on data reflecting the specific geographical, behavioural, contextual or functional setting within which they are intended to be used shall be presumed to comply with the relevant requirements laid down in Article 10(4).
 
 2. High-risk AI systems that have been certified or for which a statement of conformity has been issued under a cybersecurity scheme pursuant to Regulation (EU) 2019/881 and the references of which have been published in the Official Journal of the European Union shall be presumed to comply with the cybersecurity requirements set out in Article 15 of this Regulation in so far as the cybersecurity certificate or statement of conformity or parts thereof cover those requirements.
 
-## Artikel 43 | Conformity assessment | art_43
+## Article 43 | Conformity assessment | art_43
 1. For high-risk AI systems listed in point 1 of Annex III, where, in demonstrating the compliance of a high-risk AI system with the requirements set out in Section 2, the provider has applied harmonised standards referred to in Article 40, or, where applicable, common specifications referred to in Article 41, the provider shall opt for one of the following conformity assessment procedures based on:
 
 (a)
@@ -1522,7 +1522,7 @@ For high-risk AI systems that continue to learn after being placed on the market
 
 6. The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend paragraphs 1 and 2 of this Article in order to subject high-risk AI systems referred to in points 2 to 8 of Annex III to the conformity assessment procedure referred to in Annex VII or parts thereof. The Commission shall adopt such delegated acts taking into account the effectiveness of the conformity assessment procedure based on internal control referred to in Annex VI in preventing or minimising the risks to health and safety and protection of fundamental rights posed by such systems, as well as the availability of adequate capacities and resources among notified bodies.
 
-## Artikel 44 | Certificates | art_44
+## Article 44 | Certificates | art_44
 1. Certificates issued by notified bodies in accordance with Annex VII shall be drawn-up in a language which can be easily understood by the relevant authorities in the Member State in which the notified body is established.
 
 2. Certificates shall be valid for the period they indicate, which shall not exceed five years for AI systems covered by Annex I, and four years for AI systems covered by Annex III. At the request of the provider, the validity of a certificate may be extended for further periods, each not exceeding five years for AI systems covered by Annex I, and four years for AI systems covered by Annex III, based on a re-assessment in accordance with the applicable conformity assessment procedures. Any supplement to a certificate shall remain valid, provided that the certificate which it supplements is valid.
@@ -1531,7 +1531,7 @@ For high-risk AI systems that continue to learn after being placed on the market
 
 An appeal procedure against decisions of the notified bodies, including on conformity certificates issued, shall be available.
 
-## Artikel 45 | Information obligations of notified bodies | art_45
+## Article 45 | Information obligations of notified bodies | art_45
 1. Notified bodies shall inform the notifying authority of the following:
 
 (a)
@@ -1568,7 +1568,7 @@ Union technical documentation assessment certificates or any supplements thereto
 
 4. Notified bodies shall safeguard the confidentiality of the information that they obtain, in accordance with Article 78.
 
-## Artikel 46 | Derogation from conformity assessment procedure | art_46
+## Article 46 | Derogation from conformity assessment procedure | art_46
 1. By way of derogation from Article 43 and upon a duly justified request, any market surveillance authority may authorise the placing on the market or the putting into service of specific high-risk AI systems within the territory of the Member State concerned, for exceptional reasons of public security or the protection of life and health of persons, environmental protection or the protection of key industrial and infrastructural assets. That authorisation shall be for a limited period while the necessary conformity assessment procedures are being carried out, taking into account the exceptional reasons justifying the derogation. The completion of those procedures shall be undertaken without undue delay.
 
 2. In a duly justified situation of urgency for exceptional reasons of public security or in the case of specific, substantial and imminent threat to the life or physical safety of natural persons, law-enforcement authorities or civil protection authorities may put a specific high-risk AI system into service without the authorisation referred to in paragraph 1, provided that such authorisation is requested during or after the use without undue delay. If the authorisation referred to in paragraph 1 is refused, the use of the high-risk AI system shall be stopped with immediate effect and all the results and outputs of such use shall be immediately discarded.
@@ -1583,7 +1583,7 @@ Union technical documentation assessment certificates or any supplements thereto
 
 7. For high-risk AI systems related to products covered by Union harmonisation legislation listed in Section A of Annex I, only the derogations from the conformity assessment established in that Union harmonisation legislation shall apply.
 
-## Artikel 47 | EU declaration of conformity | art_47
+## Article 47 | EU declaration of conformity | art_47
 1. The provider shall draw up a written machine readable, physical or electronically signed EU declaration of conformity for each high-risk AI system, and keep it at the disposal of the national competent authorities for 10 years after the high-risk AI system has been placed on the market or put into service. The EU declaration of conformity shall identify the high-risk AI system for which it has been drawn up. A copy of the EU declaration of conformity shall be submitted to the relevant national competent authorities upon request.
 
 2. The EU declaration of conformity shall state that the high-risk AI system concerned meets the requirements set out in Section 2. The EU declaration of conformity shall contain the information set out in Annex V, and shall be translated into a language that can be easily understood by the national competent authorities of the Member States in which the high-risk AI system is placed on the market or made available.
@@ -1594,7 +1594,7 @@ Union technical documentation assessment certificates or any supplements thereto
 
 5. The Commission is empowered to adopt delegated acts in accordance with Article 97 in order to amend Annex V by updating the content of the EU declaration of conformity set out in that Annex, in order to introduce elements that become necessary in light of technical progress.
 
-## Artikel 48 | CE marking | art_48
+## Article 48 | CE marking | art_48
 1. The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
 
 2. For high-risk AI systems provided digitally, a digital CE marking shall be used, only if it can easily be accessed via the interface from which that system is accessed or via an easily accessible machine-readable code or other electronic means.
@@ -1605,7 +1605,7 @@ Union technical documentation assessment certificates or any supplements thereto
 
 5. Where high-risk AI systems are subject to other Union law which also provides for the affixing of the CE marking, the CE marking shall indicate that the high-risk AI system also fulfil the requirements of that other law.
 
-## Artikel 49 | Registration | art_49
+## Article 49 | Registration | art_49
 1. Before placing on the market or putting into service a high-risk AI system listed in Annex III, with the exception of high-risk AI systems referred to in point 2 of Annex III, the provider or, where applicable, the authorised representative shall register themselves and their system in the EU database referred to in Article 71.
 
 2. Before placing on the market or putting into service an AI system for which the provider has concluded that it is not high-risk according to Article 6(3), that provider or, where applicable, the authorised representative shall register themselves and that system in the EU database referred to in Article 71.
@@ -1636,7 +1636,7 @@ Only the Commission and national authorities referred to in Article 74(8) shall 
 
 # kap-4 | Chapter IV | TRANSPARENCY OBLIGATIONS FOR PROVIDERS AND DEPLOYERS OF CERTAIN AI SYSTEMS | cpt_IV
 
-## Artikel 50 | Transparency obligations for providers and deployers of certain AI systems | art_50
+## Article 50 | Transparency obligations for providers and deployers of certain AI systems | art_50
 1. Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use. This obligation shall not apply to AI systems authorised by law to detect, prevent, investigate or prosecute criminal offences, subject to appropriate safeguards for the rights and freedoms of third parties, unless those systems are available for the public to report a criminal offence.
 
 2. Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, shall ensure that the outputs of the AI system are marked in a machine-readable format and detectable as artificially generated or manipulated. Providers shall ensure their technical solutions are effective, interoperable, robust and reliable as far as this is technically feasible, taking into account the specificities and limitations of various types of content, the costs of implementation and the generally acknowledged state of the art, as may be reflected in relevant technical standards. This obligation shall not apply to the extent the AI systems perform an assistive function for standard editing or do not substantially alter the input data provided by the deployer or the semantics thereof, or where authorised by law to detect, prevent, investigate or prosecute criminal offences.
@@ -1655,7 +1655,7 @@ Deployers of an AI system that generates or manipulates text which is published 
 
 # kap-5 | Chapter V | GENERAL-PURPOSE AI MODELS | cpt_V
 
-## Artikel 51 | Classification of general-purpose AI models as general-purpose AI models with systemic risk | art_51
+## Article 51 | Classification of general-purpose AI models as general-purpose AI models with systemic risk | art_51
 1. A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following conditions:
 
 (a)
@@ -1670,7 +1670,7 @@ based on a decision of the Commission, ex officio or following a qualified alert
 
 3. The Commission shall adopt delegated acts in accordance with Article 97 to amend the thresholds listed in paragraphs 1 and 2 of this Article, as well as to supplement benchmarks and indicators in light of evolving technological developments, such as algorithmic improvements or increased hardware efficiency, when necessary, for these thresholds to reflect the state of the art.
 
-## Artikel 52 | Procedure | art_52
+## Article 52 | Procedure | art_52
 1. Where a general-purpose AI model meets the condition referred to in Article 51(1), point (a), the relevant provider shall notify the Commission without delay and in any event within two weeks after that requirement is met or it becomes known that it will be met. That notification shall include the information necessary to demonstrate that the relevant requirement has been met. If the Commission becomes aware of a general-purpose AI model presenting systemic risks of which it has not been notified, it may decide to designate it as a model with systemic risk.
 
 2. The provider of a general-purpose AI model that meets the condition referred to in Article 51(1), point (a), may present, with its notification, sufficiently substantiated arguments to demonstrate that, exceptionally, although it meets that requirement, the general-purpose AI model does not present, due to its specific characteristics, systemic risks and therefore should not be classified as a general-purpose AI model with systemic risk.
@@ -1685,7 +1685,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 9
 
 6. The Commission shall ensure that a list of general-purpose AI models with systemic risk is published and shall keep that list up to date, without prejudice to the need to observe and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law.
 
-## Artikel 53 | Obligations for providers of general-purpose AI models | art_53
+## Article 53 | Obligations for providers of general-purpose AI models | art_53
 1. Providers of general-purpose AI models shall:
 
 (a)
@@ -1724,7 +1724,7 @@ draw up and make publicly available a sufficiently detailed summary about the co
 
 7. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-## Artikel 54 | Authorised representatives of providers of general-purpose AI models | art_54
+## Article 54 | Authorised representatives of providers of general-purpose AI models | art_54
 1. Prior to placing a general-purpose AI model on the Union market, providers established in third countries shall, by written mandate, appoint an authorised representative which is established in the Union.
 
 2. The provider shall enable its authorised representative to perform the tasks specified in the mandate received from the provider.
@@ -1753,7 +1753,7 @@ cooperate with the AI Office and competent authorities, upon a reasoned request,
 
 6. The obligation set out in this Article shall not apply to providers of general-purpose AI models that are released under a free and open-source licence that allows for the access, usage, modification, and distribution of the model, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available, unless the general-purpose AI models present systemic risks.
 
-## Artikel 55 | Obligations of providers of general-purpose AI models with systemic risk | art_55
+## Article 55 | Obligations of providers of general-purpose AI models with systemic risk | art_55
 1. In addition to the obligations listed in Articles 53 and 54, providers of general-purpose AI models with systemic risk shall:
 
 (a)
@@ -1776,7 +1776,7 @@ ensure an adequate level of cybersecurity protection for the general-purpose AI 
 
 3. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-## Artikel 56 | Codes of practice | art_56
+## Article 56 | Codes of practice | art_56
 1. The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level in order to contribute to the proper application of this Regulation, taking into account international approaches.
 
 2. The AI Office and the Board shall aim to ensure that the codes of practice cover at least the obligations provided for in Articles 53 and 55, including the following issues:
@@ -1817,7 +1817,7 @@ If, by 2 August 2025, a code of practice cannot be finalised, or if the AI Offic
 
 # kap-6 | Chapter VI | MEASURES IN SUPPORT OF INNOVATION | cpt_VI
 
-## Artikel 57 | AI regulatory sandboxes | art_57
+## Article 57 | AI regulatory sandboxes | art_57
 1. Member States shall ensure that their competent authorities establish at least one AI regulatory sandbox at national level, which shall be operational by 2 August 2026. That sandbox may also be established jointly with the competent authorities of other Member States. The Commission may provide technical support, advice and tools for the establishment and operation of AI regulatory sandboxes.
 
 The obligation under the first subparagraph may also be fulfilled by participating in an existing sandbox in so far as that participation provides an equivalent level of national coverage for the participating Member States.
@@ -1876,7 +1876,7 @@ facilitating and accelerating access to the Union market for AI systems, in part
 
 17. The Commission shall develop a single and dedicated interface containing all relevant information related to AI regulatory sandboxes to allow stakeholders to interact with AI regulatory sandboxes and to raise enquiries with competent authorities, and to seek non-binding guidance on the conformity of innovative products, services, business models embedding AI technologies, in accordance with Article 62(1), point (c). The Commission shall proactively coordinate with national competent authorities, where relevant.
 
-## Artikel 58 | Detailed arrangements for, and functioning of, AI regulatory sandboxes | art_58
+## Article 58 | Detailed arrangements for, and functioning of, AI regulatory sandboxes | art_58
 1. In order to avoid fragmentation across the Union, the Commission shall adopt implementing acts specifying the detailed arrangements for the establishment, development, implementation, operation and supervision of the AI regulatory sandboxes. The implementing acts shall include common principles on the following issues:
 
 (a)
@@ -1935,7 +1935,7 @@ that AI regulatory sandboxes facilitate the development of tools and infrastruct
 
 4. Where national competent authorities consider authorising testing in real world conditions supervised within the framework of an AI regulatory sandbox to be established under this Article, they shall specifically agree the terms and conditions of such testing and, in particular, the appropriate safeguards with the participants, with a view to protecting fundamental rights, health and safety. Where appropriate, they shall cooperate with other national competent authorities with a view to ensuring consistent practices across the Union.
 
-## Artikel 59 | Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox | art_59
+## Article 59 | Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox | art_59
 1. In the AI regulatory sandbox, personal data lawfully collected for other purposes may be processed solely for the purpose of developing, training and testing certain AI systems in the sandbox when all of the following conditions are met:
 
 (a)
@@ -2002,7 +2002,7 @@ a short summary of the AI project developed in the sandbox, its objectives and e
 
 3. Paragraph 1 is without prejudice to Union or national law which excludes processing of personal data for other purposes than those explicitly mentioned in that law, as well as to Union or national law laying down the basis for the processing of personal data which is necessary for the purpose of developing, testing or training of innovative AI systems or any other legal basis, in compliance with Union law on the protection of personal data.
 
-## Artikel 60 | Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes | art_60
+## Article 60 | Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes | art_60
 1. Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes may be conducted by providers or prospective providers of high-risk AI systems listed in Annex III, in accordance with this Article and the real-world testing plan referred to in this Article, without prejudice to the prohibitions under Article 5.
 
 The Commission shall, by means of implementing acts, specify the detailed elements of the real-world testing plan. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).
@@ -2069,7 +2069,7 @@ the predictions, recommendations or decisions of the AI system can be effectivel
 
 9. The provider or prospective provider shall be liable under applicable Union and national liability law for any damage caused in the course of their testing in real world conditions.
 
-## Artikel 61 | Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes | art_61
+## Article 61 | Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes | art_61
 1. For the purpose of testing in real world conditions under Article 60, freely-given informed consent shall be obtained from the subjects of testing prior to their participation in such testing and after their having been duly informed with concise, clear, relevant, and understandable information regarding:
 
 (a)
@@ -2094,7 +2094,7 @@ the Union-wide unique single identification number of the testing in real world 
 
 2. The informed consent shall be dated and documented and a copy shall be given to the subjects of testing or their legal representative.
 
-## Artikel 62 | Measures for providers and deployers, in particular SMEs, including start-ups | art_62
+## Article 62 | Measures for providers and deployers, in particular SMEs, including start-ups | art_62
 1. Member States shall undertake the following actions:
 
 (a)
@@ -2133,19 +2133,19 @@ organise appropriate communication campaigns to raise awareness about the obliga
 
 evaluate and promote the convergence of best practices in public procurement procedures in relation to AI systems.
 
-## Artikel 63 | Derogations for specific operators | art_63
+## Article 63 | Derogations for specific operators | art_63
 1. Microenterprises within the meaning of Recommendation 2003/361/EC may comply with certain elements of the quality management system required by Article 17 of this Regulation in a simplified manner, provided that they do not have partner enterprises or linked enterprises within the meaning of that Recommendation. For that purpose, the Commission shall develop guidelines on the elements of the quality management system which may be complied with in a simplified manner considering the needs of microenterprises, without affecting the level of protection or the need for compliance with the requirements in respect of high-risk AI systems.
 
 2. Paragraph 1 of this Article shall not be interpreted as exempting those operators from fulfilling any other requirements or obligations laid down in this Regulation, including those established in Articles 9, 10, 11, 12, 13, 14, 15, 72 and 73.
 
 # kap-7 | Chapter VII | GOVERNANCE | cpt_VII
 
-## Artikel 64 | AI Office | art_64
+## Article 64 | AI Office | art_64
 1. The Commission shall develop Union expertise and capabilities in the field of AI through the AI Office.
 
 2. Member States shall facilitate the tasks entrusted to the AI Office, as reflected in this Regulation.
 
-## Artikel 65 | Establishment and structure of the European Artificial Intelligence Board | art_65
+## Article 65 | Establishment and structure of the European Artificial Intelligence Board | art_65
 1. A European Artificial Intelligence Board (the ‘Board’) is hereby established.
 
 2. The Board shall be composed of one representative per Member State. The European Data Protection Supervisor shall participate as observer. The AI Office shall also attend the Board’s meetings, without taking part in the votes. Other national and Union authorities, bodies or experts may be invited to the meetings by the Board on a case by case basis, where the issues discussed are of relevance for them.
@@ -2178,7 +2178,7 @@ The Board may establish other standing or temporary sub-groups as appropriate fo
 
 8. The Board shall be chaired by one of the representatives of the Member States. The AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to this Regulation and its rules of procedure.
 
-## Artikel 66 | Tasks of the Board | art_66
+## Article 66 | Tasks of the Board | art_66
 The Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of this Regulation. To that end, the Board may in particular:
 
 (a)
@@ -2269,7 +2269,7 @@ provide opinions to the Commission on the qualified alerts regarding general-pur
 
 receive opinions by the Member States on qualified alerts regarding general-purpose AI models, and on national experiences and practices on the monitoring and enforcement of AI systems, in particular systems integrating the general-purpose AI models.
 
-## Artikel 67 | Advisory forum | art_67
+## Article 67 | Advisory forum | art_67
 1. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under this Regulation.
 
 2. The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia. The membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.
@@ -2290,7 +2290,7 @@ receive opinions by the Member States on qualified alerts regarding general-purp
 
 10. The advisory forum shall prepare an annual report on its activities. That report shall be made publicly available.
 
-## Artikel 68 | Scientific panel of independent experts | art_68
+## Article 68 | Scientific panel of independent experts | art_68
 1. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under this Regulation. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).
 
 2. The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:
@@ -2351,14 +2351,14 @@ supporting the AI Office in carrying out its duties in the context of the Union 
 
 5. The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of the tasks of the scientific panel.
 
-## Artikel 69 | Access to the pool of experts by the Member States | art_69
+## Article 69 | Access to the pool of experts by the Member States | art_69
 1. Member States may call upon experts of the scientific panel to support their enforcement activities under this Regulation.
 
 2. The Member States may be required to pay fees for the advice and support provided by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 68(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.
 
 3. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article 84 and experts pursuant to this Article is efficiently organised and provides the best possible added value.
 
-## Artikel 70 | Designation of national competent authorities and single points of contact | art_70
+## Article 70 | Designation of national competent authorities and single points of contact | art_70
 1. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of this Regulation. Those national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of this Regulation. The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.
 
 2. Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto. Member States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025. Member States shall designate a market surveillance authority to act as the single point of contact for this Regulation, and shall notify the Commission of the identity of the single point of contact. The Commission shall make a list of the single points of contact publicly available.
@@ -2379,7 +2379,7 @@ supporting the AI Office in carrying out its duties in the context of the Union 
 
 # kap-8 | Chapter VIII | EU DATABASE FOR HIGH-RISK AI SYSTEMS | cpt_VIII
 
-## Artikel 71 | EU database for high-risk AI systems listed in Annex III | art_71
+## Article 71 | EU database for high-risk AI systems listed in Annex III | art_71
 1. The Commission shall, in collaboration with the Member States, set up and maintain an EU database containing information referred to in paragraphs 2 and 3 of this Article concerning high-risk AI systems referred to in Article 6(2) which are registered in accordance with Articles 49 and 60 and AI systems that are not considered as high-risk pursuant to Article 6(3) and which are registered in accordance with Article 6(4) and Article 49. When setting the functional specifications of such database, the Commission shall consult the relevant experts, and when updating the functional specifications of such database, the Commission shall consult the Board.
 
 2. The data listed in Sections A and B of Annex VIII shall be entered into the EU database by the provider or, where applicable, by the authorised representative.
@@ -2394,7 +2394,7 @@ supporting the AI Office in carrying out its duties in the context of the Union 
 
 # kap-9 | Chapter IX | POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE | cpt_IX
 
-## Artikel 72 | Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems | art_72
+## Article 72 | Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems | art_72
 1. Providers shall establish and document a post-market monitoring system in a manner that is proportionate to the nature of the AI technologies and the risks of the high-risk AI system.
 
 2. The post-market monitoring system shall actively and systematically collect, document and analyse relevant data which may be provided by deployers or which may be collected through other sources on the performance of high-risk AI systems throughout their lifetime, and which allow the provider to evaluate the continuous compliance of AI systems with the requirements set out in Chapter III, Section 2. Where relevant, post-market monitoring shall include an analysis of the interaction with other AI systems. This obligation shall not cover sensitive operational data of deployers which are law-enforcement authorities.
@@ -2405,7 +2405,7 @@ supporting the AI Office in carrying out its duties in the context of the Union 
 
 The first subparagraph of this paragraph shall also apply to high-risk AI systems referred to in point 5 of Annex III placed on the market or put into service by financial institutions that are subject to requirements under Union financial services law regarding their internal governance, arrangements or processes.
 
-## Artikel 73 | Reporting of serious incidents | art_73
+## Article 73 | Reporting of serious incidents | art_73
 1. Providers of high-risk AI systems placed on the Union market shall report any serious incident to the market surveillance authorities of the Member States where that incident occurred.
 
 2. The report referred to in paragraph 1 shall be made immediately after the provider has established a causal link between the AI system and the serious incident or the reasonable likelihood of such a link, and, in any event, not later than 15 days after the provider or, where applicable, the deployer, becomes aware of the serious incident.
@@ -2432,7 +2432,7 @@ The provider shall cooperate with the competent authorities, and where relevant 
 
 11. National competent authorities shall immediately notify the Commission of any serious incident, whether or not they have taken action on it, in accordance with Article 20 of Regulation (EU) 2019/1020.
 
-## Artikel 74 | Market surveillance and control of AI systems in the Union market | art_74
+## Article 74 | Market surveillance and control of AI systems in the Union market | art_74
 1. Regulation (EU) 2019/1020 shall apply to AI systems covered by this Regulation. For the purposes of the effective enforcement of this Regulation:
 
 (a)
@@ -2481,14 +2481,14 @@ testing or auditing procedures and verifications based on the data and documenta
 
 14. Any information or documentation obtained by market surveillance authorities shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-## Artikel 75 | Mutual assistance, market surveillance and control of general-purpose AI systems | art_75
+## Article 75 | Mutual assistance, market surveillance and control of general-purpose AI systems | art_75
 1. Where an AI system is based on a general-purpose AI model, and the model and the system are developed by the same provider, the AI Office shall have powers to monitor and supervise compliance of that AI system with obligations under this Regulation. To carry out its monitoring and supervision tasks, the AI Office shall have all the powers of a market surveillance authority provided for in this Section and Regulation (EU) 2019/1020.
 
 2. Where the relevant market surveillance authorities have sufficient reason to consider general-purpose AI systems that can be used directly by deployers for at least one purpose that is classified as high-risk pursuant to this Regulation to be non-compliant with the requirements laid down in this Regulation, they shall cooperate with the AI Office to carry out compliance evaluations, and shall inform the Board and other market surveillance authorities accordingly.
 
 3. Where a market surveillance authority is unable to conclude its investigation of the high-risk AI system because of its inability to access certain information related to the general-purpose AI model despite having made all appropriate efforts to obtain that information, it may submit a reasoned request to the AI Office, by which access to that information shall be enforced. In that case, the AI Office shall supply to the applicant authority without delay, and in any event within 30 days, any information that the AI Office considers to be relevant in order to establish whether a high-risk AI system is non-compliant. Market surveillance authorities shall safeguard the confidentiality of the information that they obtain in accordance with Article 78 of this Regulation. The procedure provided for in Chapter VI of Regulation (EU) 2019/1020 shall apply mutatis mutandis.
 
-## Artikel 76 | Supervision of testing in real world conditions by market surveillance authorities | art_76
+## Article 76 | Supervision of testing in real world conditions by market surveillance authorities | art_76
 1. Market surveillance authorities shall have competences and powers to ensure that testing in real world conditions is in accordance with this Regulation.
 
 2. Where testing in real world conditions is conducted for AI systems that are supervised within an AI regulatory sandbox under Article 58, the market surveillance authorities shall verify the compliance with Article 60 as part of their supervisory role for the AI regulatory sandbox. Those authorities may, as appropriate, allow the testing in real world conditions to be conducted by the provider or prospective provider, in derogation from the conditions set out in Article 60(4), points (f) and (g).
@@ -2507,7 +2507,7 @@ to require the provider or prospective provider and the deployer or prospective 
 
 5. Where applicable, where a market surveillance authority has taken a decision referred to in paragraph 3, it shall communicate the grounds therefor to the market surveillance authorities of other Member States in which the AI system has been tested in accordance with the testing plan.
 
-## Artikel 77 | Powers of authorities protecting fundamental rights | art_77
+## Article 77 | Powers of authorities protecting fundamental rights | art_77
 1. National public authorities or bodies which supervise or enforce the respect of obligations under Union law protecting fundamental rights, including the right to non-discrimination, in relation to the use of high-risk AI systems referred to in Annex III shall have the power to request and access any documentation created or maintained under this Regulation in accessible language and format when access to that documentation is necessary for effectively fulfilling their mandates within the limits of their jurisdiction. The relevant public authority or body shall inform the market surveillance authority of the Member State concerned of any such request.
 
 2. By 2 November 2024, each Member State shall identify the public authorities or bodies referred to in paragraph 1 and make a list of them publicly available. Member States shall notify the list to the Commission and to the other Member States, and shall keep the list up to date.
@@ -2516,7 +2516,7 @@ to require the provider or prospective provider and the deployer or prospective 
 
 4. Any information or documentation obtained by the national public authorities or bodies referred to in paragraph 1 of this Article pursuant to this Article shall be treated in accordance with the confidentiality obligations set out in Article 78.
 
-## Artikel 78 | Confidentiality | art_78
+## Article 78 | Confidentiality | art_78
 1. The Commission, market surveillance authorities and notified bodies and any other natural or legal person involved in the application of this Regulation shall, in accordance with Union or national law, respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
 
 (a)
@@ -2549,7 +2549,7 @@ When the law enforcement, immigration or asylum authorities are providers of hig
 
 5. The Commission and Member States may exchange, where necessary and in accordance with relevant provisions of international and trade agreements, confidential information with regulatory authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of confidentiality.
 
-## Artikel 79 | Procedure at national level for dealing with AI systems presenting a risk | art_79
+## Article 79 | Procedure at national level for dealing with AI systems presenting a risk | art_79
 1. AI systems presenting a risk shall be understood as a ‘product presenting a risk’ as defined in Article 3, point 19 of Regulation (EU) 2019/1020, in so far as they present risks to the health or safety, or to fundamental rights, of persons.
 
 2. Where the market surveillance authority of a Member State has sufficient reason to consider an AI system to present a risk as referred to in paragraph 1 of this Article, it shall carry out an evaluation of the AI system concerned in respect of its compliance with all the requirements and obligations laid down in this Regulation. Particular attention shall be given to AI systems presenting a risk to vulnerable groups. Where risks to fundamental rights are identified, the market surveillance authority shall also inform and fully cooperate with the relevant national public authorities or bodies referred to in Article 77(1). The relevant operators shall cooperate as necessary with the market surveillance authority and with the other national public authorities or bodies referred to in Article 77(1).
@@ -2588,7 +2588,7 @@ non-compliance with Article 50.
 
 9. The market surveillance authorities shall ensure that appropriate restrictive measures are taken in respect of the product or the AI system concerned, such as withdrawal of the product or the AI system from their market, without undue delay.
 
-## Artikel 80 | Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III | art_80
+## Article 80 | Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III | art_80
 1. Where a market surveillance authority has sufficient reason to consider that an AI system classified by the provider as non-high-risk pursuant to Article 6(3) is indeed high-risk, the market surveillance authority shall carry out an evaluation of the AI system concerned in respect of its classification as a high-risk AI system based on the conditions set out in Article 6(3) and the Commission guidelines.
 
 2. Where, in the course of that evaluation, the market surveillance authority finds that the AI system concerned is high-risk, it shall without undue delay require the relevant provider to take all necessary actions to bring the AI system into compliance with the requirements and obligations laid down in this Regulation, as well as take appropriate corrective action within a period the market surveillance authority may prescribe.
@@ -2605,14 +2605,14 @@ non-compliance with Article 50.
 
 8. In exercising their power to monitor the application of this Article, and in accordance with Article 11 of Regulation (EU) 2019/1020, market surveillance authorities may perform appropriate checks, taking into account in particular information stored in the EU database referred to in Article 71 of this Regulation.
 
-## Artikel 81 | Union safeguard procedure | art_81
+## Article 81 | Union safeguard procedure | art_81
 1. Where, within three months of receipt of the notification referred to in Article 79(5), or within 30 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, objections are raised by the market surveillance authority of a Member State to a measure taken by another market surveillance authority, or where the Commission considers the measure to be contrary to Union law, the Commission shall without undue delay enter into consultation with the market surveillance authority of the relevant Member State and the operator or operators, and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall, within six months, or within 60 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, starting from the notification referred to in Article 79(5), decide whether the national measure is justified and shall notify its decision to the market surveillance authority of the Member State concerned. The Commission shall also inform all other market surveillance authorities of its decision.
 
 2. Where the Commission considers the measure taken by the relevant Member State to be justified, all Member States shall ensure that they take appropriate restrictive measures in respect of the AI system concerned, such as requiring the withdrawal of the AI system from their market without undue delay, and shall inform the Commission accordingly. Where the Commission considers the national measure to be unjustified, the Member State concerned shall withdraw the measure and shall inform the Commission accordingly.
 
 3. Where the national measure is considered justified and the non-compliance of the AI system is attributed to shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
 
-## Artikel 82 | Compliant AI systems which present a risk | art_82
+## Article 82 | Compliant AI systems which present a risk | art_82
 1. Where, having performed an evaluation under Article 79, after consulting the relevant national public authority referred to in Article 77(1), the market surveillance authority of a Member State finds that although a high-risk AI system complies with this Regulation, it nevertheless presents a risk to the health or safety of persons, to fundamental rights, or to other aspects of public interest protection, it shall require the relevant operator to take all appropriate measures to ensure that the AI system concerned, when placed on the market or put into service, no longer presents that risk without undue delay, within a period it may prescribe.
 
 2. The provider or other relevant operator shall ensure that corrective action is taken in respect of all the AI systems concerned that it has made available on the Union market within the timeline prescribed by the market surveillance authority of the Member State referred to in paragraph 1.
@@ -2623,7 +2623,7 @@ non-compliance with Article 50.
 
 5. The Commission shall immediately communicate its decision to the Member States concerned and to the relevant operators. It shall also inform the other Member States.
 
-## Artikel 83 | Formal non-compliance | art_83
+## Article 83 | Formal non-compliance | art_83
 1. Where the market surveillance authority of a Member State makes one of the following findings, it shall require the relevant provider to put an end to the non-compliance concerned, within a period it may prescribe:
 
 (a)
@@ -2656,32 +2656,32 @@ technical documentation is not available.
 
 2. Where the non-compliance referred to in paragraph 1 persists, the market surveillance authority of the Member State concerned shall take appropriate and proportionate measures to restrict or prohibit the high-risk AI system being made available on the market or to ensure that it is recalled or withdrawn from the market without delay.
 
-## Artikel 84 | Union AI testing support structures | art_84
+## Article 84 | Union AI testing support structures | art_84
 1. The Commission shall designate one or more Union AI testing support structures to perform the tasks listed under Article 21(6) of Regulation (EU) 2019/1020 in the area of AI.
 
 2. Without prejudice to the tasks referred to in paragraph 1, Union AI testing support structures shall also provide independent technical or scientific advice at the request of the Board, the Commission, or of market surveillance authorities.
 
-## Artikel 85 | Right to lodge a complaint with a market surveillance authority | art_85
+## Article 85 | Right to lodge a complaint with a market surveillance authority | art_85
 Without prejudice to other administrative or judicial remedies, any natural or legal person having grounds to consider that there has been an infringement of the provisions of this Regulation may submit complaints to the relevant market surveillance authority.
 
 In accordance with Regulation (EU) 2019/1020, such complaints shall be taken into account for the purpose of conducting market surveillance activities, and shall be handled in line with the dedicated procedures established therefor by the market surveillance authorities.
 
-## Artikel 86 | Right to explanation of individual decision-making | art_86
+## Article 86 | Right to explanation of individual decision-making | art_86
 1. Any affected person subject to a decision which is taken by the deployer on the basis of the output from a high-risk AI system listed in Annex III, with the exception of systems listed under point 2 thereof, and which produces legal effects or similarly significantly affects that person in a way that they consider to have an adverse impact on their health, safety or fundamental rights shall have the right to obtain from the deployer clear and meaningful explanations of the role of the AI system in the decision-making procedure and the main elements of the decision taken.
 
 2. Paragraph 1 shall not apply to the use of AI systems for which exceptions from, or restrictions to, the obligation under that paragraph follow from Union or national law in compliance with Union law.
 
 3. This Article shall apply only to the extent that the right referred to in paragraph 1 is not otherwise provided for under Union law.
 
-## Artikel 87 | Reporting of infringements and protection of reporting persons | art_87
+## Article 87 | Reporting of infringements and protection of reporting persons | art_87
 Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
 
-## Artikel 88 | Enforcement of the obligations of providers of general-purpose AI models | art_88
+## Article 88 | Enforcement of the obligations of providers of general-purpose AI models | art_88
 1. The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
 
 2. Without prejudice to Article 75(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation.
 
-## Artikel 89 | Monitoring actions | art_89
+## Article 89 | Monitoring actions | art_89
 1. For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models, including their adherence to approved codes of practice.
 
 2. Downstream providers shall have the right to lodge a complaint alleging an infringement of this Regulation. A complaint shall be duly reasoned and indicate at least:
@@ -2698,7 +2698,7 @@ a description of the relevant facts, the provisions of this Regulation concerned
 
 any other information that the downstream provider that sent the request considers relevant, including, where appropriate, information gathered on its own initiative.
 
-## Artikel 90 | Alerts of systemic risks by the scientific panel | art_90
+## Article 90 | Alerts of systemic risks by the scientific panel | art_90
 1. The scientific panel may provide a qualified alert to the AI Office where it has reason to suspect that:
 
 (a)
@@ -2725,7 +2725,7 @@ a description of the relevant facts and the reasons for the alert by the scienti
 
 any other information that the scientific panel considers to be relevant, including, where appropriate, information gathered on its own initiative.
 
-## Artikel 91 | Power to request documentation and information | art_91
+## Article 91 | Power to request documentation and information | art_91
 1. The Commission may request the provider of the general-purpose AI model concerned to provide the documentation drawn up by the provider in accordance with Articles 53 and 55, or any additional information that is necessary for the purpose of assessing compliance of the provider with this Regulation.
 
 2. Before sending the request for information, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
@@ -2736,7 +2736,7 @@ any other information that the scientific panel considers to be relevant, includ
 
 5. The provider of the general-purpose AI model concerned, or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall supply the information requested on behalf of the provider of the general-purpose AI model concerned. Lawyers duly authorised to act may supply information on behalf of their clients. The clients shall nevertheless remain fully responsible if the information supplied is incomplete, incorrect or misleading.
 
-## Artikel 92 | Power to conduct evaluations | art_92
+## Article 92 | Power to conduct evaluations | art_92
 1. The AI Office, after consulting the Board, may conduct evaluations of the general-purpose AI model concerned:
 
 (a)
@@ -2759,7 +2759,7 @@ to investigate systemic risks at Union level of general-purpose AI models with s
 
 7. Prior to requesting access to the general-purpose AI model concerned, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model to gather more information on the internal testing of the model, internal safeguards for preventing systemic risks, and other internal procedures and measures the provider has taken to mitigate such risks.
 
-## Artikel 93 | Power to request measures | art_93
+## Article 93 | Power to request measures | art_93
 1. Where necessary and appropriate, the Commission may request providers to:
 
 (a)
@@ -2778,12 +2778,12 @@ restrict the making available on the market, withdraw or recall the model.
 
 3. If, during the structured dialogue referred to in paragraph 2, the provider of the general-purpose AI model with systemic risk offers commitments to implement mitigation measures to address a systemic risk at Union level, the Commission may, by decision, make those commitments binding and declare that there are no further grounds for action.
 
-## Artikel 94 | Procedural rights of economic operators of the general-purpose AI model | art_94
+## Article 94 | Procedural rights of economic operators of the general-purpose AI model | art_94
 Article 18 of Regulation (EU) 2019/1020 shall apply mutatis mutandis to the providers of the general-purpose AI model, without prejudice to more specific procedural rights provided for in this Regulation.
 
 # kap-10 | Chapter X | CODES OF CONDUCT AND GUIDELINES | cpt_X
 
-## Artikel 95 | Codes of conduct for voluntary application of specific requirements | art_95
+## Article 95 | Codes of conduct for voluntary application of specific requirements | art_95
 1. The AI Office and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems, other than high-risk AI systems, of some or all of the requirements set out in Chapter III, Section 2 taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
 
 2. The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
@@ -2812,7 +2812,7 @@ assessing and preventing the negative impact of AI systems on vulnerable persons
 
 4. The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct.
 
-## Artikel 96 | Guidelines from the Commission on the implementation of this Regulation | art_96
+## Article 96 | Guidelines from the Commission on the implementation of this Regulation | art_96
 1. The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:
 
 (a)
@@ -2847,7 +2847,7 @@ The guidelines referred to in the first subparagraph of this paragraph shall tak
 
 # kap-11 | Chapter XI | DELEGATION OF POWER AND COMMITTEE PROCEDURE | cpt_XI
 
-## Artikel 97 | Exercise of the delegation | art_97
+## Article 97 | Exercise of the delegation | art_97
 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
 2. The power to adopt delegated acts referred to in Article 6(6) and (7), Article 7(1) and (3), Article 11(3), Article 43(5) and (6), Article 47(5), Article 51(3), Article 52(4) and Article 53(5) and (6) shall be conferred on the Commission for a period of five years from 1 August 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
@@ -2860,14 +2860,14 @@ The guidelines referred to in the first subparagraph of this paragraph shall tak
 
 6. Any delegated act adopted pursuant to Article 6(6) or (7), Article 7(1) or (3), Article 11(3), Article 43(5) or (6), Article 47(5), Article 51(3), Article 52(4) or Article 53(5) or (6) shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
 
-## Artikel 98 | Committee procedure | art_98
+## Article 98 | Committee procedure | art_98
 1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 
 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
 # kap-12 | Chapter XII | PENALTIES | cpt_XII
 
-## Artikel 99 | Penalties | art_99
+## Article 99 | Penalties | art_99
 1. In accordance with the terms and conditions laid down in this Regulation, Member States shall lay down the rules on penalties and other enforcement measures, which may also include warnings and non-monetary measures, applicable to infringements of this Regulation by operators, and shall take all measures necessary to ensure that they are properly and effectively implemented, thereby taking into account the guidelines issued by the Commission pursuant to Article 96. The penalties provided for shall be effective, proportionate and dissuasive. They shall take into account the interests of SMEs, including start-ups, and their economic viability.
 
 2. The Member States shall, without delay and at the latest by the date of entry into application, notify the Commission of the rules on penalties and of other enforcement measures referred to in paragraph 1, and shall notify it, without delay, of any subsequent amendment to them.
@@ -2958,7 +2958,7 @@ any action taken by the operator to mitigate the harm suffered by the affected p
 
 11. Member States shall, on an annual basis, report to the Commission about the administrative fines they have issued during that year, in accordance with this Article, and about any related litigation or judicial proceedings.
 
-## Artikel 100 | Administrative fines on Union institutions, bodies, offices and agencies | art_100
+## Article 100 | Administrative fines on Union institutions, bodies, offices and agencies | art_100
 1. The European Data Protection Supervisor may impose administrative fines on Union institutions, bodies, offices and agencies falling within the scope of this Regulation. When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and due regard shall be given to the following:
 
 (a)
@@ -3001,7 +3001,7 @@ the annual budget of the Union institution, body, office or agency.
 
 7. The European Data Protection Supervisor shall, on an annual basis, notify the Commission of the administrative fines it has imposed pursuant to this Article and of any litigation or judicial proceedings it has initiated.
 
-## Artikel 101 | Fines for providers of general-purpose AI models | art_101
+## Article 101 | Fines for providers of general-purpose AI models | art_101
 1. The Commission may impose on providers of general-purpose AI models fines not exceeding 3 % of their annual total worldwide turnover in the preceding financial year or EUR 15 000 000, whichever is higher., when the Commission finds that the provider intentionally or negligently:
 
 (a)
@@ -3034,37 +3034,37 @@ In fixing the amount of the fine or periodic penalty payment, regard shall be ha
 
 # kap-13 | Chapter XIII | FINAL PROVISIONS | cpt_XIII
 
-## Artikel 102 | Amendment to Regulation (EC) No 300/2008 | art_102
+## Article 102 | Amendment to Regulation (EC) No 300/2008 | art_102
 In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
 
 ‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 103 | Amendment to Regulation (EU) No 167/2013 | art_103
+## Article 103 | Amendment to Regulation (EU) No 167/2013 | art_103
 In Article 17(5) of Regulation (EU) No 167/2013, the following subparagraph is added:
 
 ‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 104 | Amendment to Regulation (EU) No 168/2013 | art_104
+## Article 104 | Amendment to Regulation (EU) No 168/2013 | art_104
 In Article 22(5) of Regulation (EU) No 168/2013, the following subparagraph is added:
 
 ‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 105 | Amendment to Directive 2014/90/EU | art_105
+## Article 105 | Amendment to Directive 2014/90/EU | art_105
 In Article 8 of Directive 2014/90/EU, the following paragraph is added:
 
 ‘5. For Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in Chapter III, Section 2, of that Regulation.
 
-## Artikel 106 | Amendment to Directive (EU) 2016/797 | art_106
+## Article 106 | Amendment to Directive (EU) 2016/797 | art_106
 In Article 5 of Directive (EU) 2016/797, the following paragraph is added:
 
 ‘12. When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 107 | Amendment to Regulation (EU) 2018/858 | art_107
+## Article 107 | Amendment to Regulation (EU) 2018/858 | art_107
 In Article 5 of Regulation (EU) 2018/858 the following paragraph is added:
 
 ‘4. When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 108 | Amendments to Regulation (EU) 2018/1139 | art_108
+## Article 108 | Amendments to Regulation (EU) 2018/1139 | art_108
 Regulation (EU) 2018/1139 is amended as follows:
 
 (1)
@@ -3113,19 +3113,19 @@ in Article 58, the following paragraph is added:
 
 ‘3. When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’.
 
-## Artikel 109 | Amendment to Regulation (EU) 2019/2144 | art_109
+## Article 109 | Amendment to Regulation (EU) 2019/2144 | art_109
 In Article 11 of Regulation (EU) 2019/2144, the following paragraph is added:
 
 ‘3. When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are safety components within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
-## Artikel 110 | Amendment to Directive (EU) 2020/1828 | art_110
+## Article 110 | Amendment to Directive (EU) 2020/1828 | art_110
 In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council (58), the following point is added:
 
 ‘(68)
 
 Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’.
 
-## Artikel 111 | AI systems already placed on the market or put into service and general-purpose AI models already placed on the marked | art_111
+## Article 111 | AI systems already placed on the market or put into service and general-purpose AI models already placed on the marked | art_111
 1. Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market or put into service before 2 August 2027 shall be brought into compliance with this Regulation by 31 December 2030.
 
 The requirements laid down in this Regulation shall be taken into account in the evaluation of each large-scale IT system established by the legal acts listed in Annex X to be undertaken as provided for in those legal acts and where those legal acts are replaced or amended.
@@ -3134,7 +3134,7 @@ The requirements laid down in this Regulation shall be taken into account in the
 
 3. Providers of general-purpose AI models that have been placed on the market before 2 August 2025 shall take the necessary steps in order to comply with the obligations laid down in this Regulation by 2 August 2027.
 
-## Artikel 112 | Evaluation and review | art_112
+## Article 112 | Evaluation and review | art_112
 1. The Commission shall assess the need for amendment of the list set out in Annex III and of the list of prohibited AI practices laid down in Article 5, once a year following the entry into force of this Regulation, and until the end of the period of the delegation of power laid down in Article 97. The Commission shall submit the findings of that assessment to the European Parliament and the Council.
 
 2. By 2 August 2028 and every four years thereafter, the Commission shall evaluate and report to the European Parliament and to the Council on the following:
@@ -3201,7 +3201,7 @@ the list of AI systems requiring additional transparency measures pursuant to Ar
 
 13. By 2 August 2031, the Commission shall carry out an assessment of the enforcement of this Regulation and shall report on it to the European Parliament, the Council and the European Economic and Social Committee, taking into account the first years of application of this Regulation. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation with regard to the structure of enforcement and the need for a Union agency to resolve any identified shortcomings.
 
-## Artikel 113 | Entry into force and application | art_113
+## Article 113 | Entry into force and application | art_113
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 It shall apply from 2 August 2026.
