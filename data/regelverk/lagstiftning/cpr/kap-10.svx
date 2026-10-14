@@ -1,0 +1,163 @@
+---
+'source': 'cpr'
+'ref': 'Kapitel X'
+'title': 'Kapitel X – DIGITALA PRODUKTPASS'
+'kind': 'chapter'
+'description': 'Byggproduktförordningen (CPR), Kapitel X.'
+'designation': 'CPR Kapitel X'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1.0024.03#cpt_X'
+'sites':
+  - 'brandskydd'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 75 – System för digitala produktpass för byggprodukter
+
+1\. Kommissionen ska anta delegerade akter i enlighet med artikel [89](/lagstiftning/cpr/kap-15#artikel-89-delegerade-akter) för att komplettera [denna förordning](/lagstiftning/cpr) genom att inrätta ett system för digitala produktpass för byggprodukter i enlighet med de villkor som anges i [detta kapitel](/lagstiftning/cpr/kap-10).
+
+2\. Det digitala produktpasset för byggprodukter ska
+
+a) vara kompatibelt och interoperabelt med och baserat på det digitala produktpass som inrättats genom [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781), utan att äventyra interoperabiliteten med byggnadsinformationsmodellering (BIM) och med beaktande av byggprodukters särskilda egenskaper och krav,
+
+b) ha de funktioner som krävs för att genomföra och hantera de digitala produktpass som avses i artikel [76](#artikel-76-digitalt-produktpass),
+
+c) fastställa vilka aktörer, inbegripet ekonomiska aktörer, kunder, montörer, användare och behöriga nationella myndigheter, som ska ha tillgång till information i det digitala produktpasset och till vilken annan information som de ska ha tillgång till, med beaktande av behovet av att skydda immateriella rättigheter och känslig kommersiell information samt att säkerställa säkerheten för byggnadsverk,
+
+d) fastställa vilka aktörer, inbegripet tillverkare, tillverkarnas representanter, importörer, distributörer och leverantörer av tjänster avseende digitala produktpass, som får föra in eller uppdatera informationen i det digitala produktpasset, vid behov inbegripet skapandet av ett nytt digitalt produktpass, och vilken information de får införa eller uppdatera,
+
+e) fastställa närmare arrangemang för uppdatering av informationen i det digitala produktpasset för en befintlig produkt,
+
+f) fastställa förfaranden för att säkerställa tillgången till digitala produktpass efter insolvens, likvidation eller upphörande av verksamhet i unionen för den ekonomiska aktör som skapade det digitala produktpasset eller, vid behov, efter det att tillverkarnas skyldigheter att säkerställa dess tillgänglighet har löpt ut, inbegripet inrättandet av ett reservsystem av leverantörer av tjänster avseende digitala produktpass,
+
+g) fastställa krav för leverantörer av tjänster avseende digitala produktpass, inbegripet, om så krävs, ett certifieringssystem för att verifiera sådana krav, som ska baseras på utvecklingen enligt [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) för samma ändamål, så långt det är möjligt,
+
+h) om så krävs fastställa mer detaljerade eller alternativa regler och förfaranden med anknytning till livscykeln för identifierare, databärare, digitala behörighetsuppgifter och registret för digitala produktpass än de som inrättats genom [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) för samma ändamål,
+
+i) säkerställa att systemet är tillgängligt i 25 år efter det att den sista produkt som motsvarar dess produkttyp har släppts ut på marknaden och att den ekonomiska aktören tillhandahåller det digitala produktpasset i minst tio år, utan att, vid en längre period, skapa en oproportionerlig kostnad och börda för de ekonomiska aktörerna,
+
+j) ta hänsyn till behovet av att säkerställa tillgången till information för återanvändning och återtillverkning av produkter.
+
+### Artikel 76 – Digitalt produktpass
+
+1\. Informationen i det digitala produktpasset ska vara korrekt, fullständig och uppdaterad.
+
+2\. Ett digitalt produktpass för en produkt enligt [denna förordning](/lagstiftning/cpr) ska
+
+a) inbegripa
+
+i) den prestanda- och överensstämmelsedeklaration som avses i artikel [15](/lagstiftning/cpr/kap-2#artikel-15-prestanda-och-överensstämmelsedeklarationens-innehåll), inbegripet den information som avses i artikel [15.6](/lagstiftning/cpr/kap-2#artikel-15-prestanda-och-överensstämmelsedeklarationens-innehåll), som får inkluderas genom en koppling till andra unionsdatabaser, om en sådan finns, och den dokumentation som tillhandahålls tillsammans i enlighet med bilaga V,
+
+ii) den allmänna produktinformation, de bruksanvisningar och den säkerhetsinformation som avses i artikel [22.6](/lagstiftning/cpr/kap-3#artikel-22-tillverkarnas-skyldigheter),
+
+iii) den tekniska dokumentation som avses i artikel [22.3](/lagstiftning/cpr/kap-3#artikel-22-tillverkarnas-skyldigheter), inbegripet de särskilda avsnitt som krävs enligt artiklarna [59](/lagstiftning/cpr/kap-7#artikel-59-ersättning-av-typprovning-och-typberäkning)–[61](/lagstiftning/cpr/kap-7#artikel-61-specialtillverkade-produkter-som-inte-är-serietillverkade),
+
+iv) märkningen i enlighet med artikel [22.9](/lagstiftning/cpr/kap-3#artikel-22-tillverkarnas-skyldigheter),
+
+v) unika identifieringskoder i enlighet med artikel [79.1](#artikel-79-unik-identifikationskod-och-register-över-digitala-produktpass),
+
+vi) dokumentation som krävs enligt annan unionsrätt som är tillämplig på produkten,
+
+vii) databärare för nyckelkomponenter för vilka det finns ett digitalt produktpass;
+
+b) vara anslutet till en eller flera databärare,
+
+c) vara tillgängligt på elektronisk väg via den databärare som visas i enlighet med artikel [18.2 g](/lagstiftning/cpr/kap-2#artikel-18-regler-och-villkor-för-anbringande-av-ce-märkning),
+
+d) motsvara produkttypen och dess unika identifikationskod som avses i artikel [22.5](/lagstiftning/cpr/kap-3#artikel-22-tillverkarnas-skyldigheter),
+
+e) ska kostnadsfritt vara tillgänglig för alla ekonomiska aktörer, kunder, användare och myndigheter via databäraren,
+
+f) ge olika nivåer av tillgång till systemet för digitala produktpass för byggprodukter,
+
+g) göra det möjligt för de aktörer som anges i systemet för digitala produktpass för byggprodukter att införa eller uppdatera information i det digitala produktpasset,
+
+h) vara tillgängligt under en fastställd period efter det att den sista produkt som motsvarar dess produkttyp har släppts ut på marknaden.
+
+3\. De krav som avses i punkt 2 ska
+
+a) säkerställa att aktörer längs värdekedjan lätt kan få åtkomst till och förstå den produktinformation som är relevant för dem,
+
+b) underlätta de behöriga nationella myndigheternas verifiering av produktöverensstämmelse, och
+
+c) förbättra produkternas spårbarhet längs värdekedjan.
+
+4\. Produkter för vilka undantaget i artikel [14](/lagstiftning/cpr/kap-2#artikel-14-undantag-från-upprättande-av-en-prestanda-och-överensstämmelsedeklaration) tillämpas är också undantagna från skyldigheten att tillhandahålla ett digitalt produktpass.
+
+### Artikel 77 – Allmänna krav på det digitala produktpasset
+
+1\. Ett digitalt produktpass ska uppfylla följande villkor:
+
+a) Det ska via en eller flera databärare kopplas till en varaktig unik identifikationskod för produkttypen.
+
+b) Databäraren ska vara anbringad i enlighet med artikel [18.2 g](/lagstiftning/cpr/kap-2#artikel-18-regler-och-villkor-för-anbringande-av-ce-märkning).
+
+c) Databäraren ska stå i överensstämmelse med artikel [79.1](#artikel-79-unik-identifikationskod-och-register-över-digitala-produktpass).
+
+d) All information i det digitala produktpasset ska baseras på öppna standarder som har tagits fram med ett interoperabelt format och ska, om så är lämpligt, vara maskinläsbar, strukturerad och sökbar samt ska kunna överföras genom ett öppet interoperabelt nätverk för datautbyte, utan inlåsningseffekter (vendor lock-in), i enlighet med de grundläggande krav som anges i artikel [78](#artikel-78-teknisk-utformning-och-användning-av-det-digitala-produktpasset); handlingar som tillhandahålls tillsammans med den prestanda- och överensstämmelsedeklaration som avses i artikel [76.2 a](#artikel-76-digitalt-produktpass) i och den tekniska dokumentation som avses i artikel [76.2 a](#artikel-76-digitalt-produktpass) iii ska undantas från denna skyldighet om det är motiverat av tekniska skäl.
+
+e) Personuppgifter som rör slutanvändaren för en produkt får inte lagras i det digitala produktpasset utan slutanvändarens uttryckliga samtycke i enlighet med artikel [6](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) i [Europaparlamentets och rådets förordning (EU) 2016/679](/lagstiftning/gdpr) (30).
+
+f) Informationen i det digitala produktpasset ska inbegripa en hänvisning till den produkttyp som avses i artikel [76.2 d](#artikel-76-digitalt-produktpass).
+
+g) Åtkomsten till den information som ingår i det digitala produktpasset ska regleras i enlighet med de grundläggande krav som anges i artikel [78](#artikel-78-teknisk-utformning-och-användning-av-det-digitala-produktpasset), och de särskilda åtkomsträttigheterna ska fastställas i enlighet med åtkomstnivåerna för systemet för digitala produktpass för byggprodukter.
+
+h) Den prestanda- och överensstämmelsedeklaration som avses i artikel [76.2 a](#artikel-76-digitalt-produktpass) i ska följa de riktlinjer som utfärdats i enlighet med artikel [16.3](/lagstiftning/cpr/kap-2#artikel-16-tillhandahållande-av-prestanda-och-överensstämmelsedeklarationen).
+
+2\. Om annan unionslagstiftning kräver eller tillåter att specifik information inkluderas i det digitala produktpasset får denna information ingå i det digitala produktpasset i enlighet med den delegerade akt som avses i artikel [75.1](#artikel-75-system-för-digitala-produktpass-för-byggprodukter).
+
+3\. Den tillverkare som släpper ut produkten på marknaden ska förse de aktörer som tillhandahåller produkten på marknaden online eller genom andra metoder för distansförsäljning med en digital kopia av databäraren eller den unika produktbeteckningen, så att de kan göra den tillgänglig för kunder som inte fysiskt kan få tillgång till produkten. Den ekonomiska aktören ska tillhandahålla den digitala kopian eller en länk till en webbplats kostnadsfritt och inom fem arbetsdagar efter det att denne har tagit emot begäran.
+
+### Artikel 78 – Teknisk utformning och användning av det digitala produktpasset
+
+Den tekniska utformningen och användningen av det digitala produktpasset ska uppfylla följande väsentliga krav:
+
+a) Digitala produktpass ska vara fullt kompatibla med andra digitala produktpass när det gäller de tekniska, semantiska och organisatoriska aspekterna av end-to-end-kommunikation och dataöverföring.
+
+b) En mottagare av det digitala produktpasset ska ha enkel, kostnadsfri åtkomst till det på grundval av mottagarens respektive åtkomsträtt till systemet för digitala produktpass för byggprodukter.
+
+c) Uppgifterna i det digitala produktpasset ska lagras i enlighet med det system för digitala produktpass för byggprodukter som avses i artikel [75](#artikel-75-system-för-digitala-produktpass-för-byggprodukter).
+
+d) Om de uppgifter som ingår i det digitala produktpasset lagras eller på annat sätt behandlas av bemyndigade aktörer eller leverantörer av tjänster avseende digitala produktpass ska dessa inte ha rätt att sälja, återanvända eller behandla sådana uppgifter, helt eller delvis, utöver vad som är nödvändigt för tillhandahållandet av de relevanta lagrings- eller behandlingstjänsterna, såvida det inte specifikt har avtalats med den ekonomiska aktör som släpper ut produkten på marknaden.
+
+e) Det digitala produktpasset ska förbli tillgängligt under den period som anges i artikel [76.2 h](#artikel-76-digitalt-produktpass), inbegripet efter insolvens, likvidation eller upphörande av verksamhet i unionen för den ekonomiska aktör som skapade det digitala produktpasset, och ska uppfylla de villkor som fastställts i enlighet med artikel [75.2 f](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) när det gäller skyldigheten att inrätta ett reservsystem.
+
+f) Rättigheterna när det gäller att få åtkomst till och att föra in, ändra eller uppdatera information i det digitala produktpasset ska begränsas till de åtkomsträttigheter som anges i systemet för digitala produktpass för byggprodukter.
+
+g) Skydd av information som utgör företagshemligheter i den mening som avses i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) i [Europaparlamentets och rådets direktiv (EU) 2016/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) (31) eller immateriella rättigheter ska säkerställas.
+
+h) Dataautentisering, datatillförlitlighet och dataintegritet ska säkerställas.
+
+i) Digitala produktpass ska utformas och fungera på så sätt att en hög säkerhets- och integritetsnivå säkerställs och bedrägerier undviks.
+
+### Artikel 79 – Unik identifikationskod och register över digitala produktpass
+
+1\. Artikel [12](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) i [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) ska tillämpas vid genomförandet av [den här förordningen](/lagstiftning/cpr) när det gäller unika identifieringskoder och databärare, såvida inte den delegerade akt som avses i artikel [75.1](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) i [den här förordningen](/lagstiftning/cpr) fastställer mer detaljerade eller alternativa regler för dessa unika identifieringskoder och databärare, såsom avses i artikel [75.2 h](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) i [den här förordningen](/lagstiftning/cpr).
+
+2\. Artikel [13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) i [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) ska tillämpas vid genomförandet av [den här förordningen](/lagstiftning/cpr) när det gäller registret över digitala produktpass, såvida inte den delegerade akt som avses i artikel [75.1](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) i [den här förordningen](/lagstiftning/cpr) fastställer mer detaljerade eller alternativa regler för det registret, såsom avses i artikel [75.2 h](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) i [den här förordningen](/lagstiftning/cpr).
+
+3\. Artikel [14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) i [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781) ska tillämpas vid genomförandet av [den här förordningen](/lagstiftning/cpr) när det gäller webbportalen för information i det digitala produktpasset.
+
+### Artikel 80 – Obligatorisk användning och teknisk anpassning
+
+> _1\. Sex månader efter ikraftträdandet av den delegerade akt som avses i artikel [75.1](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) ska systemet vara fullt funktionsdugligt och uppfylla sina avsedda mål, inbegripet de funktioner som föreskrivs i artikel [76](#artikel-76-digitalt-produktpass). Arton månader efter ikraftträdandet av den delegerade akt som avses i artikel [75.1](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) ska de skyldigheter som fastställs enligt artikel [22.7](/lagstiftning/cpr/kap-3#artikel-22-tillverkarnas-skyldigheter) tillämpas. Systemet får frivilligt användas av tillverkarna under övergångsperioden._
+
+2\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [89](/lagstiftning/cpr/kap-15#artikel-89-delegerade-akter) för att ändra [denna förordning](/lagstiftning/cpr) med avseende på att
+
+a) ytterligare specificera, lägga till och ta bort de funktioner som avses i artikel [75.2](#artikel-75-system-för-digitala-produktpass-för-byggprodukter) för att anpassa den till den tekniska utvecklingen eller anpassa den till engångsprincipen när det gäller informationskrav i annan unionsrätt,
+
+b) se över artiklarna [77.1](#artikel-77-allmänna-krav-på-det-digitala-produktpasset) och [78](#artikel-78-teknisk-utformning-och-användning-av-det-digitala-produktpasset) i [denna förordning](/lagstiftning/cpr) för att säkerställa kompatibilitet och interoperabilitet med [förordning (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32024R1781).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

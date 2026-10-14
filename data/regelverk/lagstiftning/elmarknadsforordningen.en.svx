@@ -1,0 +1,36 @@
+---
+'name': 'Electricity Market Regulation'
+'title': 'Regulation (EU) 2019/943 of the European Parliament and of the Council'
+'type': 'eu-regulation'
+'description': 'EU regulation on the internal market for electricity.'
+'designation': 'EU 2019/943'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2019-06-05'
+'applies-from': '2020-01-01'
+'related':
+  - 'ellagen'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – SUBJECT MATTER, SCOPE AND DEFINITIONS](/lagstiftning/elmarknadsforordningen/kap-1) · Articles 1–2
+- [Chapter II – GENERAL RULES FOR THE ELECTRICITY MARKET](/lagstiftning/elmarknadsforordningen/kap-2) · Articles 3–13
+- [Chapter III – NETWORK ACCESS AND CONGESTION MANAGEMENT](/lagstiftning/elmarknadsforordningen/kap-3) · Articles 14–19
+- [Chapter IV – RESOURCE ADEQUACY](/lagstiftning/elmarknadsforordningen/kap-4) · Articles 20–27
+- [Chapter V – TRANSMISSION SYSTEM OPERATION](/lagstiftning/elmarknadsforordningen/kap-5) · Articles 28–51
+- [Chapter VI – DISTRIBUTION SYSTEM OPERATION](/lagstiftning/elmarknadsforordningen/kap-6) · Articles 52–57
+- [Chapter VII – NETWORK CODES AND GUIDELINES](/lagstiftning/elmarknadsforordningen/kap-7) · Articles 58–62
+- [Chapter VIII – FINAL PROVISIONS](/lagstiftning/elmarknadsforordningen/kap-8) · Articles 63–71
+<!-- scan-laws:end -->

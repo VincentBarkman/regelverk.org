@@ -1,0 +1,70 @@
+---
+'source': 'ai'
+'ref': 'Chapter X'
+'title': 'Chapter X – CODES OF CONDUCT AND GUIDELINES'
+'kind': 'chapter'
+'description': 'Artificial Intelligence Act (AI Act), Chapter X.'
+'designation': 'AI Act Chapter X'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.03#cpt_X'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 95 – Codes of conduct for voluntary application of specific requirements
+
+1\. The AI Office and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems, other than high-risk AI systems, of some or all of the requirements set out in [Chapter III](/lagstiftning/ai/kap-3), Section 2 taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
+
+2\. The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
+
+(a) applicable elements provided for in Union ethical guidelines for trustworthy AI;
+
+(b) assessing and minimising the impact of AI systems on environmental sustainability, including as regards energy-efficient programming and techniques for the efficient design, training and use of AI;
+
+(c) promoting AI literacy, in particular that of persons dealing with the development, operation and use of AI;
+
+(d) facilitating an inclusive and diverse design of AI systems, including through the establishment of inclusive and diverse development teams and the promotion of stakeholders’ participation in that process;
+
+(e) assessing and preventing the negative impact of AI systems on vulnerable persons or groups of vulnerable persons, including as regards accessibility for persons with a disability, as well as on gender equality.
+
+3\. Codes of conduct may be drawn up by individual providers or deployers of AI systems or by organisations representing them or by both, including with the involvement of any interested stakeholders and their representative organisations, including civil society organisations and academia. Codes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.
+
+4\. The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct.
+
+### Article 96 – Guidelines from the Commission on the implementation of this Regulation
+
+1\. The Commission shall develop guidelines on the practical implementation of [this Regulation](/lagstiftning/ai), and in particular on:
+
+(a) the application of the requirements and obligations referred to in Articles [8](/lagstiftning/ai/kap-3#article-8-compliance-with-the-requirements) to 15 and in Article [25](/lagstiftning/ai/kap-3#article-25-responsibilities-along-the-ai-value-chain);
+
+(b) the prohibited practices referred to in Article [5](/lagstiftning/ai/kap-2#article-5-prohibited-ai-practices);
+
+(c) the practical implementation of the provisions related to substantial modification;
+
+(d) the practical implementation of transparency obligations laid down in Article [50](/lagstiftning/ai/kap-4#article-50-transparency-obligations-for-providers-and-deployers-of-certain-ai-systems);
+
+(e) detailed information on the relationship of [this Regulation](/lagstiftning/ai) with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;
+
+(f) the application of the definition of an AI system as set out in Article [3](/lagstiftning/ai/kap-1#article-3-definitions), point (1).
+
+When issuing such guidelines, the Commission shall pay particular attention to the needs of SMEs including start-ups, of local public authorities and of the sectors most likely to be affected by [this Regulation](/lagstiftning/ai).
+
+The guidelines referred to in the first subparagraph of this paragraph shall take due account of the generally acknowledged state of the art on AI, as well as of relevant harmonised standards and common specifications that are referred to in Articles [40](/lagstiftning/ai/kap-3#article-40-harmonised-standards-and-standardisation-deliverables) and [41](/lagstiftning/ai/kap-3#article-41-common-specifications), or of those harmonised standards or technical specifications that are set out pursuant to Union harmonisation law.
+
+2\. At the request of the Member States or the AI Office, or on its own initiative, the Commission shall update guidelines previously adopted when deemed necessary.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

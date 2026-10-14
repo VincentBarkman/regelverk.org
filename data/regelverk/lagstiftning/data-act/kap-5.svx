@@ -1,0 +1,191 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – GÖRA DATA TILLGÄNGLIGA FÖR OFFENTLIGA ORGAN, KOMMISSIONEN,
+  EUROPEISKA CENTRALBANKEN OCH UNIONSORGAN PÅ GRUNDVAL AV ETT EXCEPTIONELLT
+  BEHOV'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel V.'
+'designation': 'Dataförordningen Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_V'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 14 – Skyldighet att göra data tillgängliga på grundval av ett exceptionellt behov
+
+Om ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan visar att det föreligger ett exceptionellt behov, enligt artikel [15](#artikel-15-exceptionellt-behov-av-att-använda-data), av att använda vissa data, inbegripet de relevanta metadata som är nödvändiga för tolkningen och användningen av dessa data, för att fullgöra sina lagstadgade skyldigheter av allmänt intresse, ska datahållare som är andra juridiska personer än offentliga organ och som innehar dessa data göra dem tillgängliga på vederbörligen motiverad begäran.
+
+### Artikel 15 – Exceptionellt behov av att använda data
+
+1\. Ett exceptionellt behov av att använda vissa data i den mening som avses i [detta kapitel](/lagstiftning/data-act/kap-5) ska vara begränsat i tid och omfattning och ska anses föreligga endast under någon av följande omständigheter:
+
+a) Om de begärda data är nödvändiga för att hantera ett allmänt nödläge och det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet inte i tid, på ett ändamålsenligt sätt och på likvärdiga villkor kan erhålla sådana data på alternativa sätt.
+
+b) Under omständigheter som inte omfattas av led a och endast när det gäller icke-personuppgifter, om
+
+i) ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan agerar på grundval av unionsrätten eller nationell rätt och har identifierat specifika data, vars avsaknad hindrar den eller det från att utföra en specifik uppgift av allmänt intresse som uttryckligen föreskrivs i lag, såsom framställning av officiell statistik eller begränsning av eller återhämtning från ett allmänt nödläge, och
+
+ii) det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet har uttömt alla andra till buds stående medel för att erhålla sådana data, inbegripet inköp av data på marknaden genom att erbjuda marknadspris, eller genom att förlita sig på befintliga skyldigheter för att göra data tillgängliga eller antagande av nya lagstiftningsåtgärder som skulle kunna säkerställa att data finns tillgängliga i tid.
+
+2\. Punkt 1 b ska inte tillämpas på mikroföretag och små företag.
+
+3\. Skyldigheten att visa att det offentliga organet inte har kunnat erhålla icke-personuppgifter genom att köpa in dem på marknaden ska inte gälla om den specifika uppgiften av allmänt intresse är framställning av officiell statistik och om inköp av sådana data inte är tillåtet enligt nationell rätt.
+
+### Artikel 16 – Förhållande till andra skyldigheter att göra data tillgängliga för offentliga organ, kommissionen, Europeiska centralbanken och unionsorgan
+
+1\. [Detta kapitel](/lagstiftning/data-act/kap-5) ska inte påverka de skyldigheter som fastställs i unionsrätten eller nationell rätt vad gäller rapportering eller att tillmötesgå begäranden om åtkomst till information eller visa eller kontrollera efterlevnaden av rättsliga skyldigheter.
+
+2\. [Detta kapitel](/lagstiftning/data-act/kap-5) ska inte tillämpas på offentliga organ, kommissionen, Europeiska centralbanken eller unionsorgan som bedriver verksamhet som syftar till att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller administrativa överträdelser eller verkställa straffrättsliga påföljder, eller på tull- eller skatteförvaltning. [Detta kapitel](/lagstiftning/data-act/kap-5) påverkar inte tillämplig unionsrätt eller nationell rätt om förebyggande, förhindrande, utredning, upptäckt eller lagföring av brott eller administrativa överträdelser eller verkställighet av straffrättsliga påföljder eller administrativa sanktioner, eller för tull- eller skatteförvaltning.
+
+### Artikel 17 – Begäran om att data ska göras tillgängliga
+
+1\. Ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan som begär data enligt artikel [14](#artikel-14-skyldighet-att-göra-data-tillgängliga-på-grundval-av-ett-exceptionellt-behov) ska
+
+a) specificera vilka data som krävs, inbegripet de relevanta metadata som är nödvändiga för att tolka och använda dessa data,
+
+b) visa att de nödvändiga villkor för att det föreligger ett exceptionellt behov enligt artikel [15](#artikel-15-exceptionellt-behov-av-att-använda-data) för det ändamål för vilket data begärs är uppfyllda,
+
+c) förklara syftet med begäran, den avsedda användningen av begärda data, i tillämpliga fall även av en tredje part i enlighet med punkt 4 i [denna artikel](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga), användningens varaktighet, och när så är lämpligt hur behandlingen av personuppgifter ska tillgodose det exceptionella behovet,
+
+d) om möjligt specificera när data förväntas raderas av alla parter som har åtkomst till dem,
+
+e) motivera valet av datahållare till vilken begäran riktas,
+
+f) specificera eventuella andra offentliga organ eller kommissionen, Europeiska centralbanken eller unionsorgan och de tredje parter med vilka begärda data förväntas delas,
+
+g) om personuppgifter begärs, specificera vilka tekniska och organisatoriska åtgärder som är nödvändiga och proportionella för att genomföra dataskyddsprinciperna och de nödvändiga skyddsåtgärderna, såsom pseudonymisering, och huruvida datahållaren kan tillämpa anonymisering innan data görs tillgängliga,
+
+h) ange den rättsliga bestämmelse som tilldelar det begärande offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet den specifika uppgift av allmänt intresse som är relevant för begäran om data,
+
+i) ange den tidsfrist inom vilken data ska tillgängliggöras och den tidsfrist som avses i artikel [18.2](#artikel-18-tillmötesgående-av-begäran-om-data) inom vilken datahållaren får neka eller begära ändring av begäran,
+
+j) göra sitt yttersta för att undvika att ett tillmötesgående av begäran om data leder till att datahållare blir ansvariga för överträdelser av unionsrätten eller nationell rätt.
+
+2\. En begäran om data enligt punkt 1 i [denna artikel](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga) ska
+
+a) göras skriftligen och uttryckas på ett klart, koncist och tydligt språk som kan förstås av datahållaren,
+
+b) vara specifik avseende den typ av data som begärs och avse data som datahållaren har kontroll över vid tidpunkten för begäran,
+
+c) stå i proportion till det exceptionella behovet och vara motiverad, i fråga om detaljnivå och omfattning av begärda data och hur ofta dessa begärda data kommer att tillgås,
+
+d) respektera datahållarens legitima mål och innehålla ett åtagande om att säkerställa skyddet av företagshemligheter i enlighet med artikel [19.3](#artikel-19-skyldigheter-för-offentliga-organ-kommissionen-europeiska-centralbanken-och-unionsorgan) och beakta de kostnader och ansträngningar som krävs för att göra data tillgängliga,
+
+e) gälla icke-personuppgifter och, endast om detta har visats vara otillräckligt för att tillgodose det exceptionella behovet av att använda data i enlighet med artikel [15.1 a](#artikel-15-exceptionellt-behov-av-att-använda-data), begära personuppgifter i pseudonymiserad form och fastställa de tekniska och organisatoriska åtgärder som ska vidtas för att skydda dessa data,
+
+f) informera datahållaren om de sanktioner som den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) ska ålägga enligt artikel [40](/lagstiftning/data-act/kap-9#artikel-40-sanktioner) om begäran inte tillmötesgås,
+
+g) om begäran görs av ett offentligt organ, överföras till den datasamordnare som avses i artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstat där det begärande offentliga organet är etablerat, som utan oskäligt dröjsmål ska offentliggöra begäran på nätet såvida datasamordnaren inte anser att sådant offentliggörande skulle utgöra en risk för den allmänna säkerheten,
+
+h) om begäran görs av kommissionen, Europeiska centralbanken eller ett unionsorgan, utan oskäligt dröjsmål göras tillgänglig på nätet,
+
+i) om personuppgifter begärs, utan oskäligt dröjsmål anmälas till den tillsynsmyndighet som ansvarar för att övervaka tillämpningen av [förordning (EU) 2016/679](/lagstiftning/gdpr) i den medlemsstat där det offentliga organet är etablerat.
+
+Europeiska centralbanken och unionsorgan ska underrätta kommissionen om sina begäranden.
+
+3\. Ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan får inte göra data som erhållits enligt [detta kapitel](/lagstiftning/data-act/kap-5) tillgängliga för vidareutnyttjande enligt definitionen i artikel [2.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) i [förordning (EU) 2022/868](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) eller artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L1024) i [direktiv (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L1024). [Förordning (EU) 2022/868](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) och [direktiv (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L1024) ska inte tillämpas på data som innehas av offentliga organ och som erhållits enligt [detta kapitel](/lagstiftning/data-act/kap-5).
+
+4\. Punkt 3 i [denna artikel](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga) hindrar inte ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan från att utbyta data som erhållits enligt [detta kapitel](/lagstiftning/data-act/kap-5) med andra offentliga organ eller kommissionen, Europeiska centralbanken eller unionsorgan, i syfte att fullgöra de uppgifter som avses i artikel [15](#artikel-15-exceptionellt-behov-av-att-använda-data), enligt vad som anges i begäran i enlighet med punkt 1 f i [den här artikeln](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga), eller att göra dessa data tillgängliga för en tredje part om det eller den genom ett offentligt tillgängligt avtal har delegerat tekniska inspektioner eller andra funktioner till denna tredje part. Skyldigheterna för offentliga organ enligt artikel [19](#artikel-19-skyldigheter-för-offentliga-organ-kommissionen-europeiska-centralbanken-och-unionsorgan), särskilt skyddsåtgärder för att bevara konfidentialiteten för företagshemligheter, ska även tillämpas på sådana tredje parter. Om ett offentligt organ eller kommissionen, Europeiska centralbanken eller ett unionsorgan överför eller tillgängliggör data enligt den här punkten ska det eller den utan oskäligt dröjsmål underrätta den datahållare från vilken dessa data mottogs.
+
+5\. Om datahållaren anser att dess rättigheter enligt [detta kapitel](/lagstiftning/data-act/kap-5) har kränkts genom överföringen eller tillgängliggörandet av data, får denne lämna in ett klagomål till den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstat där datahållaren är etablerad.
+
+6\. Kommissionen ska utarbeta en mall för begäranden enligt [denna artikel](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga).
+
+### Artikel 18 – Tillmötesgående av begäran om data
+
+1\. En datahållare som mottar en begäran om att göra data tillgängliga enligt [detta kapitel](/lagstiftning/data-act/kap-5) ska utan oskäligt dröjsmål göra dessa data tillgängliga för det begärande offentliga organet, kommissionen, Europeiska centralbanken eller ett unionsorgan, med beaktande av nödvändiga tekniska, organisatoriska och rättsliga åtgärder.
+
+2\. Utan att det påverkar de särskilda behov vad gäller tillgänglighet av data som fastställs i unionsrätten eller nationell rätt får en datahållare avslå eller ansöka om ändring av en begäran om att göra data tillgängliga enligt [detta kapitel](/lagstiftning/data-act/kap-5) utan oskäligt dröjsmål och under alla omständigheter senast fem arbetsdagar efter mottagandet av en begäran om data som är nödvändiga för att hantera ett allmänt nödläge och utan oskäligt dröjsmål och, under alla omständigheter, senast 30 arbetsdagar efter mottagandet av en sådan begäran i andra fall av exceptionellt behov, av något av följande skäl:
+
+a) Datahållaren har inte kontroll över de data som begärs.
+
+b) En liknande begäran för samma ändamål har tidigare lämnats in av ett annat offentligt organ eller kommissionen, Europeiska centralbanken eller ett unionsorgan, och datahållaren har inte underrättats om att dessa data har raderats enligt artikel [19.1 c](#artikel-19-skyldigheter-för-offentliga-organ-kommissionen-europeiska-centralbanken-och-unionsorgan).
+
+c) Begäran uppfyller inte villkoren i artikel [17.1](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga) och [17.2](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga).
+
+3\. Om datahållaren beslutar sig för att avslå begäran eller ansöka om ändring av den i enlighet med punkt 2 b, ska denne ange identiteten på det offentliga organ eller kommissionen, Europeiska centralbanken eller det unionsorgan som tidigare lämnat in en begäran för samma ändamål.
+
+4\. Om de data som begärs innehåller personuppgifter ska datahållaren anonymisera personuppgifterna på korrekt sätt, såvida det inte för att tillmötesgå begäran om att göra data tillgängliga för ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan krävs att personuppgifterna lämnas ut. I sådana fall ska datahållaren pseudonymisera personuppgifterna.
+
+5\. Om det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet vill överklaga en datahållares vägran att tillhandahålla begärda data eller om datahållaren vill bestrida begäran och ärendet inte kan lösas genom en lämplig ändring av begäran, ska ärendet hänskjutas till den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstat där datahållaren är etablerad.
+
+### Artikel 19 – Skyldigheter för offentliga organ, kommissionen, Europeiska centralbanken och unionsorgan
+
+1\. Ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan som tar emot data till följd av en begäran enligt artikel [14](#artikel-14-skyldighet-att-göra-data-tillgängliga-på-grundval-av-ett-exceptionellt-behov)
+
+a) får inte använda dessa data på ett sätt som är oförenligt med det ändamål för vilket de begärdes,
+
+b) ska ha genomfört tekniska och organisatoriska åtgärder som bevarar konfidentialiteten och integriteten avseende de data som begärs och säkerheten vid överföring av data, särskilt personuppgifter, och som skyddar de registrerades rättigheter och friheter,
+
+c) ska radera dessa data så snart de inte längre är nödvändiga för det angivna ändamålet och utan oskäligt dröjsmål informera datahållaren och enskilda personer eller organisationer som har tagit emot data enligt artikel [21.1](#artikel-21-delning-av-data-som-erhållits-i-samband-med-ett-exceptionellt-behov-med-forskningsorganisationer-eller-statistikorgan) om att de har raderats, såvida det inte krävs att dessa data arkiveras i enlighet med unionsrätt eller nationell rätt om allmänhetens tillgång till handlingar i samband med insynsskyldigheter.
+
+2\. Ett offentligt organ, kommissionen, Europeiska centralbanken, ett unionsorgan eller en tredje part som tar emot data enligt [detta kapitel](/lagstiftning/data-act/kap-5) får inte
+
+a) använda data eller insikter om datahållarens ekonomiska situation, tillgångar och produktions- eller driftsmetoder för att utveckla eller förbättra en uppkopplad produkt eller tillhörande tjänst som konkurrerar med datahållarens uppkopplade produkt eller tillhörande tjänst,
+
+b) dela dessa data med en annan tredje part för något av de ändamål som avses i led a.
+
+3\. Röjande av företagshemligheter till ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan ska endast krävas i den mån det är absolut nödvändigt för att uppnå syftet med en begäran enligt artikel [15](#artikel-15-exceptionellt-behov-av-att-använda-data). I sådana fall ska datahållaren eller, om det inte rör sig om samma person, innehavaren av en företagshemlighet identifiera de data som skyddas som företagshemligheter, inbegripet relevanta metadata. Det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet ska före röjandet av företagshemligheter vidta alla nödvändiga och lämpliga tekniska och organisatoriska åtgärder för att bevara konfidentialiteten för företagshemligheterna, när så är lämpligt även användning av standardavtalsvillkor och tekniska standarder samt tillämpning av uppförandekoder.
+
+4\. Ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan ska ansvara för säkerheten för de data som de tar emot.
+
+### Artikel 20 – Ersättning vid situationer då det föreligger ett exceptionellt behov
+
+1\. Andra datahållare än mikroföretag och små företag ska kostnadsfritt tillgängliggöra de data som är nödvändiga för att hantera ett allmänt nödläge enligt artikel [15.1 a](#artikel-15-exceptionellt-behov-av-att-använda-data). Det offentliga organ, kommissionen, Europeiska centralbanken eller det unionsorgan som har tagit emot dessa data ska ge datahållaren offentligt erkännande på begäran av datahållaren.
+
+2\. Datahållaren ska ha rätt till skälig ersättning för att göra data tillgängliga i enlighet med en begäran som gjorts enligt artikel [15.1 b](#artikel-15-exceptionellt-behov-av-att-använda-data). Sådan ersättning ska täcka de tekniska och organisatoriska kostnader som uppstår till följd av tillmötesgåendet av begäran, inbegripet, vid behov, kostnaderna för anonymisering, pseudonymisering, aggregering och teknisk anpassning, och en rimlig marginal. På begäran av det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet ska datahållaren tillhandahålla information om underlaget till kostnadsberäkningen och den rimliga marginalen.
+
+3\. Punkt 2 ska också vara tillämplig om mikroföretag och små företag begär ersättning för att göra data tillgängliga.
+
+4\. Datahållare ska inte ha rätt till ersättning för att göra data tillgängliga i enlighet med en begäran som gjorts enligt artikel [15.1 b](#artikel-15-exceptionellt-behov-av-att-använda-data), om den specifika uppgiften av allmänt intresse är framställning av officiell statistik och om inköp av data inte är tillåten enligt nationell rätt. Medlemsstaterna ska underrätta kommissionen om inköp av data för framställning av officiell statistik inte är tillåtet enligt nationell rätt.
+
+5\. Om det offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet inte godtar den ersättningsnivå som datahållaren begär, får det eller den lämna in ett klagomål till den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstat där datahållaren är etablerad.
+
+### Artikel 21 – Delning av data som erhållits i samband med ett exceptionellt behov med forskningsorganisationer eller statistikorgan
+
+1\. Ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan ska ha rätt att dela data som mottagits enligt [detta kapitel](/lagstiftning/data-act/kap-5)
+
+a) med enskilda personer eller organisationer i syfte att bedriva vetenskaplig forskning eller analys som är förenlig med det ändamål för vilket data begärdes, eller
+
+b) med nationella statistikbyråer och Eurostat för framställning av officiell statistik.
+
+2\. Enskilda personer eller organisationer som tar emot data enligt punkt 1 ska agera utan vinstsyfte eller inom ramen för ett uppdrag av allmänt intresse som erkänns i unionsrätten eller nationell rätt. Detta omfattar inte organisationer på vilka kommersiella företag har ett betydande inflytande som sannolikt skulle kunna leda till förmånstillträde till forskningsresultaten.
+
+3\. Enskilda personer eller organisationer som tar emot data enligt punkt 1 i [denna artikel](#artikel-21-delning-av-data-som-erhållits-i-samband-med-ett-exceptionellt-behov-med-forskningsorganisationer-eller-statistikorgan) ska fullgöra samma skyldigheter som dem som är tillämpliga på offentliga organ, kommissionen, Europeiska centralbanken eller unionsorgan enligt artiklarna [17.3](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga) och [19](#artikel-19-skyldigheter-för-offentliga-organ-kommissionen-europeiska-centralbanken-och-unionsorgan).
+
+4\. Trots vad som anges i artikel [19.1 c](#artikel-19-skyldigheter-för-offentliga-organ-kommissionen-europeiska-centralbanken-och-unionsorgan) får enskilda personer eller organisationer som tar emot data enligt punkt 1 i [den här artikeln](#artikel-21-delning-av-data-som-erhållits-i-samband-med-ett-exceptionellt-behov-med-forskningsorganisationer-eller-statistikorgan) behålla de data som mottagits för det ändamål för vilket data begärdes i upp till sex månader efter det att dessa data har raderats av de offentliga organen, kommissionen, Europeiska centralbanken och unionsorgan.
+
+5\. Om ett offentligt organ, kommissionen, Europeiska centralbanken eller ett unionsorgan har för avsikt att överföra eller tillgängliggöra data enligt punkt 1 i [denna artikel](#artikel-21-delning-av-data-som-erhållits-i-samband-med-ett-exceptionellt-behov-med-forskningsorganisationer-eller-statistikorgan) ska det eller den utan oskäligt dröjsmål underrätta den datahållare från vilken dessa data mottogs samt uppge identitet och kontaktuppgifter för den organisation eller enskilda person som tar emot data, ändamålet med överföringen eller tillgängliggörandet av data, den period under vilken data ska användas och de tekniska skyddsåtgärder och organisatoriska åtgärder som har vidtagits för att skydda dessa data, även om det rör sig om personuppgifter eller företagshemligheter. Om datahållaren inte godtar överföringen eller tillgängliggörandet av data, får denne lämna in ett klagomål till den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstat där datahållaren är etablerad.
+
+### Artikel 22 – Ömsesidigt bistånd och gränsöverskridande samarbete
+
+1\. Offentliga organ, kommissionen, Europeiska centralbanken och unionsorgan ska samarbeta och bistå varandra för att genomföra [detta kapitel](/lagstiftning/data-act/kap-5) på ett konsekvent sätt.
+
+2\. Data som utbyts i samband med begärt bistånd och som tillhandahållits enligt punkt 1 får inte användas på ett sätt som är oförenligt med det ändamål för vilket de begärdes.
+
+3\. Om ett offentligt organ avser att begära data från en datahållare som är etablerad i en annan medlemsstat, ska den först underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) i den medlemsstaten om den avsikten. Detta krav ska även gälla för begäranden från kommissionen, Europeiska centralbanken och unionsorgan. Begäran ska granskas av den behöriga myndigheten i den medlemsstat där datahållaren är etablerad.
+
+4\. Efter att ha granskat begäran mot bakgrund av kraven enligt artikel [17](#artikel-17-begäran-om-att-data-ska-göras-tillgängliga), ska den relevanta behöriga myndigheten utan oskäligt dröjsmål vidta en av följande åtgärder:
+
+a) Överföra begäran till datahållaren och i tillämpliga fall ge det begärande offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet råd om det eventuella behovet av att samarbeta med offentliga organ i den medlemsstat där datahållaren är etablerad, i syfte att minska den administrativa bördan för datahållaren när det gäller att tillmötesgå begäran.
+
+b) Avslå begäran av vederbörligen motiverade skäl i enlighet med [detta kapitel](/lagstiftning/data-act/kap-5).
+
+Det begärande offentliga organet, kommissionen, Europeiska centralbanken eller unionsorganet ska beakta råden från och de skäl som anges av den relevanta behöriga myndigheten enligt första stycket innan ytterligare åtgärder vidtas, såsom en inlämning på nytt av begäran, i tillämpliga fall.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

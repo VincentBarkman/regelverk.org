@@ -1,0 +1,47 @@
+name: Bug report
+description: Something on the site is broken or behaves incorrectly
+title: '[Bug]: '
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting a bug!
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: The URL where the problem happens
+      placeholder: https://it.regelverk.org/lagstiftning/nis2
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you saw, and what you expected instead
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Click ...
+        3. See error
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Edge
+        - Other
+  - type: textarea
+    id: console
+    attributes:
+      label: Console errors
+      description: Paste any errors from the browser console (F12 → Console)
+      render: shell

@@ -1,0 +1,30 @@
+---
+'name': 'OSH Framework Directive'
+'title': 'Council Directive 89/391/EEC'
+'type': 'eu-directive'
+'description': 'EU framework directive on measures to encourage improvements in
+  the safety and health of workers at work.'
+'designation': 'EEG 89/391'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '1989-06-29'
+'related':
+  - 'arbetsmiljolagen'
+'sites':
+  - 'arbetsmiljo'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31989L0391'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [SECTION I](/lagstiftning/arbetsmiljodirektivet/kap-1) · Articles 1–13
+- [SECTION IV](/lagstiftning/arbetsmiljodirektivet/kap-4) · Articles 14–19
+<!-- scan-laws:end -->

@@ -1,0 +1,42 @@
+---
+'source': 'ai'
+'ref': 'Kapitel VIII'
+'title': 'Kapitel VIII – EU-DATABAS FÖR AI-SYSTEM MED HÖG RISK'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel VIII.'
+'designation': 'AI-förordningen Kapitel VIII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_VIII'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 71 – EU-databas för AI-system med hög risk som förtecknas i Bilaga III
+
+1\. Kommissionen ska i samarbete med medlemsstaterna inrätta och upprätthålla en EU-databas som innehåller den information som avses i punkterna 2 och 3 i [denna artikel](#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) om AI-system med hög risk som avses i artikel [6.2](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) och som är registrerade i enlighet med artiklarna [49](/lagstiftning/ai/kap-3#artikel-49-registrering) och [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) och AI-system som inte betraktas som AI-system med hög risk enligt artikel [6.3](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) och som är registrerade i enlighet med artiklarna [6.4](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) och [49](/lagstiftning/ai/kap-3#artikel-49-registrering). När kommissionen fastställer de funktionella specifikationerna för en sådan databas ska den samråda med relevanta experter och när den uppdaterar de funktionella specifikationerna för en sådan databas ska den samråda med styrelsen.
+
+2\. De uppgifter som förtecknas i bilaga VIII avsnitten A och B ska föras in i EU-databasen av leverantören eller, i tillämpliga fall, av ombudet.
+
+3\. De uppgifter som förtecknas i avsnitt C i bilaga VIII ska föras in i EU-databasen av den tillhandahållare som är, eller agerar på uppdrag av, en offentlig myndighet eller byrå eller ett offentligt organ, i enlighet med artikel [49.3](/lagstiftning/ai/kap-3#artikel-49-registrering) och [49.4](/lagstiftning/ai/kap-3#artikel-49-registrering).
+
+4\. Med undantag för det avsnitt som avses i artiklarna [49.4](/lagstiftning/ai/kap-3#artikel-49-registrering) och [60.4 c](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) ska informationen i den EU-databas som registrerats i enlighet med artikel [49](/lagstiftning/ai/kap-3#artikel-49-registrering) vara åtkomlig och allmänt tillgänglig på ett användarvänligt sätt. Det ska vara lätt att navigera i informationen, som ska vara maskinläsbar. Den information som registreras i enlighet med artikel [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) ska vara tillgänglig endast för marknadskontrollmyndigheter och kommissionen, såvida inte den potentiella leverantören eller leverantören har gett sitt samtycke till att denna information också görs tillgänglig för allmänheten.
+
+5\. EU-databasen ska innehålla personuppgifter endast i den mån det är nödvändigt för insamling och behandling av information i enlighet med [denna förordning](/lagstiftning/ai). Denna information ska omfatta namnen på och kontaktuppgifter för fysiska personer som ansvarar för att registrera systemet och som har rättslig behörighet att företräda leverantören eller tillhandahållaren, beroende på vad som är tillämpligt.
+
+6\. Kommissionen ska vara personuppgiftsansvarig för EU-databasen. Den ska göra tillräckligt tekniskt och administrativt stöd tillgängligt för leverantörer, potentiella leverantörer och tillhandahållare. EU-databasen ska uppfylla de tillämpliga tillgänglighetskraven.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

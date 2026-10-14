@@ -1,0 +1,154 @@
+---
+'source': 'ai'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – AI-MODELLER FÖR ALLMÄNNA ÄNDAMÅL'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel V.'
+'designation': 'AI-förordningen Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_V'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 51 – Klassificering av AI-modeller för allmänna ändamål som AI-modeller för allmänna ändamål med systemrisk
+
+1\. En AI-modell för allmänna ändamål ska klassificeras som en AI-modell för allmänna ändamål med systemrisk om den uppfyller något av följande villkor:
+
+a) Den har kapacitet med hög påverkansgrad som utvärderats på grundval av lämpliga tekniska verktyg och metoder, inbegripet indikatorer och riktmärken.
+
+b) Den har, baserat på ett beslut av kommissionen, på eget initiativ eller efter en kvalificerad varning från den vetenskapliga panelen, kapacitet eller inverkan som motsvarar den som avses i led a med beaktande av kriterierna i bilaga XIII.
+
+2\. En AI-modell för allmänna ändamål ska förutsättas ha kapacitet med hög påverkansgrad enligt punkt 1 a om den sammanlagda beräkningsmängd som används för dess träning mätt i flyttalsberäkningar är större än 1025.
+
+3\. Kommissionen ska anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra de tröskelvärden som anges i punkterna 1 och 2 i [den här artikeln](#artikel-51-klassificering-av-ai-modeller-för-allmänna-ändamål-som-ai-modeller-för-allmänna-ändamål-med-systemrisk) samt för att komplettera riktmärken och indikatorer mot bakgrund av teknisk utveckling, såsom algoritmiska förbättringar eller ökad hårdvarueffektivitet, när så krävs för att dessa tröskelvärden ska återspegla den senaste utvecklingen.
+
+### Artikel 52 – Förfarande
+
+1\. Om en AI-modell för allmänna ändamål uppfyller det villkor som avses i artikel [51.1 a](#artikel-51-klassificering-av-ai-modeller-för-allmänna-ändamål-som-ai-modeller-för-allmänna-ändamål-med-systemrisk) ska den berörda leverantören underrätta kommissionen utan dröjsmål och under alla omständigheter inom två veckor efter att kravet är uppfyllt eller det blir känt att det kommer att uppfyllas. Anmälan ska innehålla den information som krävs för att visa att det relevanta kravet har uppfyllts. Om kommissionen får kännedom om en AI-modell för allmänna ändamål som medför systemrisker och som den inte har underrättats om får den besluta att klassificera den som en modell med systemrisk.
+
+2\. Leverantören av en AI-modell för allmänna ändamål som uppfyller de villkor som avses i artikel [51.1 a](#artikel-51-klassificering-av-ai-modeller-för-allmänna-ändamål-som-ai-modeller-för-allmänna-ändamål-med-systemrisk) får tillsammans med sin anmälan lägga fram tillräckligt underbyggda argument för att visa att AI-modellen för allmänna ändamål, även om den uppfyller det kravet, i detta undantagsfall inte medför systemrisker på grund av sina särskilda egenskaper och därför inte bör klassificeras som en AI-modell för allmänna ändamål med systemrisk.
+
+3\. Om kommissionen konstaterar att de argument som lagts fram enligt punkt 2 inte är tillräckligt underbyggda och att den berörda leverantören inte har kunnat visa att AI-modellen för allmänna ändamål, på grund av sina särskilda egenskaper, inte medför systemrisker ska den avvisa dessa argument, och AI-modellen för allmänna ändamål ska anses vara en AI-modell för allmänna ändamål med systemrisk.
+
+4\. Kommissionen får, på eget initiativ eller efter en kvalificerad varning från den vetenskapliga panelen enligt artikel [90.1 a](/lagstiftning/ai/kap-9#artikel-90-varningar-från-den-vetenskapliga-panelen-om-systemrisker), klassificera en AI-modell för allmänna ändamål som en AI-modell för allmänna ändamål med systemrisk, på grundval av kriterierna i bilaga XIII.
+
+Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra bilaga XIII genom att specificera och uppdatera kriterierna i den bilagan.
+
+5\. På motiverad begäran av en leverantör vars modell har klassificerats som en AI-modell för allmänna ändamål med systemrisk enligt punkt 4 ska kommissionen beakta begäran och kan besluta att ompröva huruvida AI-modellen för allmänna ändamål fortfarande kan anses medföra systemrisker på grundval av kriterierna i bilaga XIII. En sådan begäran ska innehålla objektiva, detaljerade och nya skäl som har tillkommit sedan klassificeringsbeslutet fattades. Leverantörer får begära en ny bedömning tidigast sex månader efter klassificeringsbeslutet. Om kommissionen efter sin nya bedömning beslutar att behålla klassificeringen som en AI-modell för allmänna ändamål med systemrisk får leverantörerna begära en ny bedömning tidigast sex månader efter det beslutet.
+
+6\. Kommissionen ska säkerställa att en förteckning över AI-modeller för allmänna ändamål med systemrisk offentliggörs och ska hålla denna förteckning uppdaterad, utan att det påverkar behovet av att respektera och skydda immateriella rättigheter och konfidentiell affärsinformation eller företagshemligheter i enlighet med unionsrätten och nationell rätt.
+
+### Artikel 53 – Skyldigheter för leverantörer av AI-modeller för allmänna ändamål
+
+1\. Leverantörer av AI-modeller för allmänna ändamål ska
+
+a) utarbeta och uppdatera den tekniska dokumentationen för modellen, inbegripet tränings- och testningsförfarandet samt resultaten av utvärderingen, som åtminstone ska innehålla de uppgifter som anges i bilaga XI, i syfte att på begäran lägga fram den för AI-byrån och de nationella behöriga myndigheterna,
+
+b) utarbeta, uppdatera och göra information och dokumentation tillgänglig för leverantörer av AI-system som avser att integrera AI-modellen för allmänna ändamål i sina AI-system; utan att det påverkar behovet av att respektera och skydda immateriella rättigheter och konfidentiell affärsinformation eller företagshemligheter i enlighet med unionsrätten och nationell rätt ska informationen och dokumentationen
+
+i) göra det möjligt för leverantörer av AI-system att ha en god förståelse av kapaciteten och begränsningarna hos AI-modellen för allmänna ändamål och att fullgöra sina skyldigheter enligt [denna förordning](/lagstiftning/ai), och
+
+ii) minst innehålla de uppgifter som anges i bilaga XII,
+
+c) införa en policy för att följa unionsrätten om upphovsrätt och närstående rättigheter, och i synnerhet för att identifiera och efterleva, inbegripet med hjälp av den senaste tekniken, ett förbehåll för rättigheter som uttryckts enligt artikel [4.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0790) i [direktiv (EU) 2019/790](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0790),
+
+d) utarbeta och göra en tillräckligt detaljerad sammanfattning av det innehåll som använts för träning av AI-modellen för allmänna ändamål allmänt tillgänglig, i enlighet med en mall som tillhandahålls av AI-byrån.
+
+2\. De skyldigheter som anges i punkt 1 a och b är inte tillämpliga på leverantörer av AI-modeller som släpps ut med en kostnadsfri licens med öppen källkod som möjliggör åtkomst, användning, ändring och distribution av modellen, och vars parametrar, inbegripet vikter, information om modellarkitekturen och information om modellanvändning, görs allmänt tillgängliga. Detta undantag är inte tillämpligt på AI-modeller för allmänna ändamål med systemrisker.
+
+3\. Leverantörer av AI-modeller för allmänna ändamål ska vid behov samarbeta med kommissionen och de nationella behöriga myndigheterna vid utövandet av sin behörighet och sina befogenheter enligt [denna förordning](/lagstiftning/ai).
+
+4\. Leverantörer av AI-modeller för allmänna ändamål får förlita sig på förfarandekoder i den mening som avses i artikel [56](#artikel-56-förfarandekoder) för att visa att de fullgjort de skyldigheter som anges i punkt 1 i [den här artikeln](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål), till dess att en harmoniserad standard har offentliggjorts. Efterlevnad av europeiska harmoniserade standarder ger leverantörer presumtion om överensstämmelse i den utsträckning som de standarderna omfattar dessa skyldigheter. Leverantörer av AI-modeller för allmänna ändamål som inte följer en godkänd förfarandekod eller en europeisk harmoniserad standard ska uppvisa alternativa lämpliga sätt att uppfylla skyldigheterna, vilka ska bedömas av kommissionen.
+
+5\. I syfte att underlätta efterlevnaden av bilaga XI, särskilt punkt 2 d och e i den bilagan, ges kommissionen befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att närmare specificera mät- och beräkningsmetoder i syfte att möjliggöra jämförbar och verifierbar dokumentation.
+
+6\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97.2](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra bilagorna XI och XII mot bakgrund av pågående teknisk utveckling.
+
+7\. All information eller dokumentation som har erhållits enligt [denna artikel](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål), inbegripet företagshemligheter, ska behandlas i enlighet med de konfidentialitetskrav som anges i artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+### Artikel 54 – Ombud för leverantörer av AI-modeller för allmänna ändamål
+
+1\. Innan leverantörer som är etablerade i tredjeländer släpper ut en AI-modell för allmänna ändamål på unionsmarknaden ska de genom skriftlig fullmakt utse ett ombud som är etablerat i unionen.
+
+2\. Leverantören ska göra det möjligt för sitt ombud att utföra de uppgifter som anges i fullmakten från leverantören.
+
+3\. Ombudet ska utföra de uppgifter som anges i fullmakten från leverantören. Ombudet ska på begäran lämna en kopia av fullmakten till AI-byrån på ett av unionsinstitutionernas officiella språk. Vid tillämpningen av [denna förordning](/lagstiftning/ai) ska fullmakten ge ombudet befogenhet att utföra följande uppgifter:
+
+a) Kontrollera att den tekniska dokumentation som anges i bilaga XI har upprättats och att alla skyldigheter som avses i artiklarna [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och, i tillämpliga fall, 55 har fullgjorts av leverantören.
+
+b) Kunna uppvisa en kopia av den tekniska dokumentation som anges i bilaga XI för AI-byrån och de nationella behöriga myndigheterna under en period på 10 år efter det att AI-modellen för allmänna ändamål har släppts ut på marknaden, och kontaktuppgifter för den leverantör som utsett ombudet.
+
+c) På motiverad begäran förse AI-byrån med all information och dokumentation, inbegripet den som avses i led b, som krävs för att visa att den fullgör skyldigheterna i [detta kapitel](/lagstiftning/ai/kap-5).
+
+d) Samarbeta med AI-byrån och behöriga myndigheter, på motiverad begäran, när det gäller alla åtgärder som de vidtar med avseende på AI-modellen för allmänna ändamål, inbegripet när modellen är integrerad i AI-system som släpps ut på marknaden eller tas i bruk i unionen.
+
+4\. Fullmakten ska ge ombudet befogenhet att utöver eller i stället för leverantören stå till förfogande inför AI-byrån eller de behöriga myndigheterna, i alla frågor som rör efterlevnaden av [denna förordning](/lagstiftning/ai).
+
+5\. Ombudet ska säga upp fullmakten om denne anser eller har skäl att tro att leverantören agerar i strid med sina skyldigheter enligt [denna förordning](/lagstiftning/ai). I sådana fall ska det också omedelbart informera AI-byrån om uppsägningen av fullmakten och skälen till detta.
+
+6\. Den skyldighet som anges i [denna artikel](#artikel-54-ombud-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) är inte tillämpligt på leverantörer av AI-modeller för allmänna ändamål som släpps ut med en kostnadsfri licens med öppen källkod som möjliggör åtkomst, användning, ändring och distribution av modellen, och vars parametrar, inbegripet vikter, information om modellarkitekturen och information om modellanvändning, görs allmänt tillgängliga, såvida inte AI-modellen för allmänna ändamål medför systemrisker.
+
+### Artikel 55 – Skyldigheter för leverantörer av AI-modeller för allmänna ändamål med systemrisk
+
+1\. Utöver de skyldigheter som förtecknas i artiklarna [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [54](#artikel-54-ombud-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) ska leverantörer av AI-modeller för allmänna ändamål med systemrisk
+
+a) genomföra utvärderingar av modeller i enlighet med standardiserade protokoll och verktyg som återspeglar den aktuella tekniska nivån, inbegripet genomförande och dokumentation av antagonistisk testning av modellen i syfte att identifiera och minska systemrisker,
+
+b) bedöma och minska eventuella systemrisker på unionsnivå, inbegripet källorna till dem, som kan härröra från utveckling, utsläppande på marknaden eller användning av AI-modeller för allmänna ändamål med systemrisk,
+
+c) bevaka, dokumentera och utan oskäligt dröjsmål rapportera till AI-byrån och, i förekommande fall, till nationella behöriga myndigheter, relevant information om allvarliga incidenter och möjliga korrigerande åtgärder för att hantera dem,
+
+d) säkerställa en lämplig nivå av cybersäkerhetsskydd för AI-modellen för allmänna ändamål med systemrisk och modellens fysiska infrastruktur.
+
+2\. Leverantörer av AI-modeller för allmänna ändamål med systemrisk får förlita sig på förfarandekoder i den mening som avses i artikel [56](#artikel-56-förfarandekoder) för att visa att de fullgjort de skyldigheter som anges i punkt 1 i [den här artikeln](#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), till dess att en harmoniserad standard har offentliggjorts. Efterlevnad av europeiska harmoniserade standarder ger leverantörer presumtion om överensstämmelse i den utsträckning som de standarderna omfattar dessa skyldigheter. Leverantörer av AI-modeller för allmänna ändamål med systemrisker som inte följer en godkänd förfarandekod eller en europeisk harmoniserad standard ska uppvisa alternativa lämpliga sätt att uppfylla skyldigheterna, vilka ska bedömas av kommissionen.
+
+3\. All information eller dokumentation som har erhållits enligt [denna artikel](#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), inbegripet företagshemligheter, ska behandlas i enlighet med de konfidentialitetskrav som anges i artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+### Artikel 56 – Förfarandekoder
+
+1\. AI-byrån ska uppmuntra och underlätta utarbetandet av förfarandekoder på unionsnivå för att bidra till en korrekt tillämpning av [denna förordning](/lagstiftning/ai), med beaktande av internationella strategier.
+
+2\. AI-byrån och styrelsen ska sträva efter att säkerställa att förfarandekoderna åtminstone omfattar de skyldigheter som fastställs i artiklarna [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [55](#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), inbegripet följande aspekter:
+
+a) Metoder för att säkerställa att den information som avses i artikel [53.1 a](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och b hålls uppdaterad mot bakgrund av marknadsutveckling och tekniska utveckling.
+
+b) Lämplig detaljnivå för sammanfattningen av det innehåll som använts för träning.
+
+c) Identifiering av systemriskernas typ och art på unionsnivå, inbegripet källorna till dem, när så är lämpligt.
+
+d) Åtgärderna, förfarandena och formerna för bedömning och hantering av systemriskerna på unionsnivå, inbegripet dokumentationen av dessa, som ska stå i proportion till riskerna samt ta hänsyn till deras allvar och sannolikhet och till de särskilda utmaningarna med att hantera dessa risker mot bakgrund av de möjliga sätt på vilka sådana risker kan uppstå och bli verklighet längs AI-värdekedjan.
+
+3\. AI-byrån får uppmana alla leverantörer av AI-modeller för allmänna ändamål, samt relevanta nationella behöriga myndigheter, att delta i utarbetandet av förfarandekoder. Det civila samhällets organisationer, industrin, den akademiska världen och andra berörda parter, såsom leverantörer i efterföljande led och oberoende experter, får stödja processen.
+
+4\. AI-byrån och styrelsen ska sträva efter att säkerställa att förfarandekoderna innehåller tydligt angivna specifika mål samt åtaganden eller åtgärder, inbegripet centrala resultatindikatorer när så är lämpligt, för att säkerställa att dessa mål uppnås, och att de tar vederbörlig hänsyn till alla intressenters, inbegripet berörda personers, behov och intressen på unionsnivå.
+
+5\. AI-byrån ska sträva efter att säkerställa att deltagarna i förfarandekoderna regelbundet rapporterar till AI-byrån om genomförandet av åtagandena samt de åtgärder som vidtagits och deras resultat, även i förhållande till de centrala resultatindikatorerna när så är lämpligt. Centrala resultatindikatorer och rapporteringsåtaganden ska återspegla skillnader i storlek och kapacitet mellan olika deltagare.
+
+6\. AI-byrån och styrelsen ska regelbundet övervaka och utvärdera hur deltagarna uppnår förfarandekodernas mål och hur de bidrar till en korrekt tillämpning av [denna förordning](/lagstiftning/ai). AI-byrån och styrelsen ska bedöma huruvida förfarandekoderna omfattar de skyldigheter som fastställs i artiklarna [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [55](#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), och ska regelbundet övervaka och utvärdera om målen i dem uppnås. De ska offentliggöra sin bedömning av förfarandekodernas lämplighet.
+
+Kommissionen får genom en genomförandeakt godkänna en förfarandekod och ge den allmän giltighet inom unionen. Genomförandeakten ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+7\. AI-byrån får uppmana alla leverantörer av AI-modeller för allmänna ändamål att följa förfarandekoderna. För leverantörer av AI-modeller för allmänna ändamål som inte medför systemrisker får denna efterlevnad begränsas till de skyldigheter som föreskrivs i artikel [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål), såvida de inte uttryckligen förklarar att de vill ansluta sig till den fullständiga koden.
+
+8\. AI-byrån ska, när så är lämpligt, också uppmuntra och underlätta översynen och anpassningen av förfarandekoderna, särskilt mot bakgrund av nya standarder. AI-byrån ska bistå vid bedömningen av tillgängliga standarder.
+
+9\. Förfarandekoder ska vara utarbetade senast den 2 maj 2025. AI-byrån ska vidta nödvändiga åtgärder, bland annat genom att uppmana leverantörer enligt punkt 7.
+
+Om en förfarandekod inte kan färdigställas senast den 2 augusti 2025, eller om AI-byrån efter sin bedömning enligt punkt 6 i [denna artikel](#artikel-56-förfarandekoder) anser att den inte är lämplig, får kommissionen genom genomförandeakter fastställa gemensamma regler för genomförandet av de skyldigheter som föreskrivs i artiklarna [53](#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [55](#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), inbegripet de aspekter som anges i punkt 2 i [den här artikeln](#artikel-56-förfarandekoder). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

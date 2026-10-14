@@ -1,9 +1,9 @@
 <script lang="ts">
 	import RiSideBarLine from 'remixicon-svelte/icons/side-bar-line';
-	import { Button } from "#lib/components/ui/button/index.js";
-	import { cn } from "#lib/utils.js";
-	import { useSidebar } from "./context.svelte.js";
-	import type { ComponentProps } from "svelte";
+	import { Button } from '#lib/components/ui/button/index.js';
+	import { cn } from '#lib/utils.js';
+	import { useSidebar } from './context.svelte.js';
+	import type { ComponentProps } from 'svelte';
 
 	let {
 		ref = $bindable(null),

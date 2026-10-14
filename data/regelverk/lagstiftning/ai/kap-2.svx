@@ -1,0 +1,82 @@
+---
+'source': 'ai'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – FÖRBJUDNA AI-ANVÄNDNINGSOMRÅDEN'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel II.'
+'designation': 'AI-förordningen Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_II'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 5 – Förbjudna AI-användningsområden
+
+1\. Följande AI-användningsområden ska vara förbjudna:
+
+a) Utsläppande på marknaden, ibruktagande eller användning av ett AI-system som utnyttjar subliminala tekniker som människor inte är medvetna om eller avsiktligt manipulerande eller vilseledande tekniker som syftar eller leder till en väsentlig påverkan på en persons eller en grupp av personers beteende genom att avsevärt försämra deras förmåga att fatta ett välgrundat beslut, vilket får dem att fatta ett beslut som de annars inte skulle ha fattat, på ett sätt som orsakar eller med rimlig sannolikhet kommer att orsaka betydande skada för den personen, en annan person eller en grupp av personer.
+
+b) Utsläppande på marknaden, ibruktagande eller användning av ett AI-system som utnyttjar en sårbarhet hos en fysisk person eller en specifik grupp av personer som härrör från ålder, funktionsnedsättning eller en specifik social eller ekonomisk situation, med målet eller verkan att väsentligt påverka beteendet hos den personen eller en person som tillhör den gruppen på ett sätt som orsakar eller med rimlig sannolikhet kommer att orsaka betydande skada för den personen eller en annan person.
+
+c) Utsläppande på marknaden, ibruktagande eller användning av AI-system för utvärdering eller klassificering av fysiska personer eller grupper av personer under en viss tidsperiod på grundval av deras sociala beteende eller kända, uttydda eller förutsedda personliga eller personlighetsrelaterade egenskaper, med en social poängsättning som leder till det ena eller båda av följande:
+
+i) Skadlig eller ogynnsam behandling av vissa fysiska personer eller grupper av personer i sociala sammanhang som saknar koppling till de sammanhang i vilka berörda data ursprungligen genererades eller samlades in.
+
+ii) Skadlig eller ogynnsam behandling av vissa fysiska personer eller grupper av personer som är omotiverad eller oproportionerlig i förhållande till personernas sociala beteende eller till hur allvarligt beteendet är.
+
+d) Utsläppande på marknaden, ibruktagande för detta specifika ändamål eller användning av ett AI-system för riskbedömningar av fysiska personer i syfte att bedöma eller förutse risken för att en fysisk person begår ett brott, uteslutande grundat på profileringen av en fysisk person eller på en bedömning av deras personlighetsdrag och egenskaper. Detta förbud är inte tillämpligt på AI-system som används för att stödja mänsklig bedömning av en persons inblandning i brottslig verksamhet, som redan grundas på objektiva och verifierbara fakta med direkt anknytning till brottslig verksamhet.
+
+e) Utsläppande på marknaden, ibruktagande för detta specifika ändamål eller användning av AI-system som skapar eller utvidgar databaser för ansiktsigenkänning genom oriktad skrapning av ansiktsbilder från internet eller övervakningskameror.
+
+f) Utsläppande på marknaden, ibruktagande för detta specifika ändamål eller användning av AI-system för att uttyda en fysisk persons känslor på arbetsplatsen eller vid utbildningsinstitutioner, såvida inte AI-systemets användning är avsett att införas eller släppas ut på marknaden av medicinska skäl eller säkerhetsskäl.
+
+g) Utsläppande på marknaden, ibruktagande för detta specifika ändamål eller användning av system för biometrisk kategorisering som kategoriserar fysiska personer individuellt på grundval av deras biometriska uppgifter för att härleda eller dra slutsatser om en persons ras, politiska åsikter, medlemskap i fackförening, religiösa eller filosofiska övertygelse, sexualliv eller sexuella läggning. Detta förbud omfattar inte märkning eller filtrering av lagligen förvärvade biometriska dataset, såsom bilder, grundat på biometriska uppgifter eller kategorisering av biometriska uppgifter på området för brottsbekämpning.
+
+h) Användning av system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål, om inte och endast i den mån sådan användning är absolut nödvändig för något av följande syften:
+
+i) Målinriktad sökning efter specifika offer för människorov, människohandel eller sexuellt utnyttjande av människor, samt sökning efter försvunna personer.
+
+ii) Förhindrande av ett specifikt, betydande och överhängande hot mot fysiska personers liv eller fysiska säkerhet eller ett verkligt och aktuellt eller verkligt och förutsebart hot om en terroristattack.
+
+iii) Lokalisering eller identifiering av en person som misstänks ha begått ett brott, i syfte att genomföra en brottsutredning eller lagföring för brott eller verkställande av en straffrättslig påföljd för brott som avses i bilaga II och som i den berörda medlemsstaten kan leda till fängelse eller annan frihetsberövande åtgärd under en längsta tidsperiod på minst fyra år.
+
+Första stycket h påverkar inte artikel [9](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr) vad gäller behandling av biometriska uppgifter för andra ändamål än brottsbekämpning.
+
+2\. Användningen av system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål för något av de syften som avses i punkt 1 första stycket h ska införas för de ändamål som anges i det ledet endast för att bekräfta identiteten på den individ som särskilt avses och ska ta hänsyn till följande faktorer:
+
+a) Arten av den situation som ger upphov till den eventuella användningen, särskilt hur allvarlig, sannolik och omfattande skadan skulle bli om systemet inte användes.
+
+b) Konsekvenserna av användningen av systemet för alla berörda personers rättigheter och friheter, särskilt vad gäller hur allvarliga, sannolika och omfattande dessa konsekvenser är.
+
+Dessutom ska användningen av system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål för något av de syften som avses i punkt 1 första stycket h i [denna artikel](#artikel-5-förbjudna-ai-användningsområden) vara förenlig med nödvändiga och proportionella skyddsåtgärder och villkor avseende användningen i enlighet med nationell rätt som tillåter användning av dessa, särskilt vad gäller tidsmässiga och geografiska begränsningar samt personbegränsningar. Användningen av systemet för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser ska tillåtas endast om den brottsbekämpande myndigheten har slutfört en konsekvensbedömning avseende grundläggande rättigheter såsom föreskrivs i artikel [27](/lagstiftning/ai/kap-3#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk) och har registrerat systemet i EU-databasen enligt artikel [49](/lagstiftning/ai/kap-3#artikel-49-registrering). I vederbörligen motiverade brådskande fall får dock användningen av sådana system påbörjas utan registrering i EU-databasen, förutsatt att denna registrering slutförs utan oskäligt dröjsmål.
+
+3\. Vid tillämpning av punkt 1 första stycket h och punkt 2 ska det för varje användning för brottsbekämpande ändamål av ett system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser krävas ett förhandstillstånd från en rättslig myndighet eller en oberoende administrativ myndighet vars beslut är bindande i den medlemsstat där användningen ska äga rum, utfärdat på motiverad begäran och i enlighet med de närmare bestämmelser i nationell rätt som avses i punkt 5. I vederbörligen motiverade brådskande situationer får dock användningen av ett sådant system påbörjas utan tillstånd, förutsatt att ett sådant tillstånd begärs utan oskäligt dröjsmål och senast inom 24 timmar. Om ett sådant tillstånd nekas ska användningen stoppas med omedelbar verkan och alla uppgifter samt resultat och utdata som rör denna användning förstöras och raderas.
+
+Den behöriga rättsliga myndigheten eller en oberoende administrativ myndighet vars beslut är bindande ska bevilja tillståndet endast om den, på grundval av objektiva bevis eller tydliga indikationer som lagts fram för den, har förvissat sig om att användningen av det berörda systemet för biometrisk fjärridentifiering i realtid är nödvändig och proportionell för att uppnå ett av de syften som anges i punkt 1 första stycket h, i enlighet med vad som anges i begäran och, i synnerhet, förblir begränsad till vad som är strikt nödvändigt när det gäller tidsperioden samt det geografiska tillämpningsområdet och de personer som omfattas. Vid beslut om begäran ska den myndigheten beakta de faktorer som avses i punkt 2. Inget beslut som har negativa rättsliga följder för en person får fattas enbart på grundval av utdata från systemet för biometrisk fjärridentifiering i realtid.
+
+4\. Utan att det påverkar punkt 3 ska varje användning av ett system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål anmälas till den berörda marknadskontrollmyndigheten och den nationella dataskyddsmyndigheten i enlighet med de nationella regler som avses i punkt 5. Anmälan ska åtminstone innehålla den information som specificeras enligt punkt 6 och får inte inbegripa känsliga operativa uppgifter.
+
+5\. En medlemsstat får besluta att föreskriva en möjlighet att helt eller delvis tillåta användning av system för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål inom de gränser och på de villkor som anges i punkt 1 första stycket h samt punkterna 2 och 3. De berörda medlemsstaterna ska i sin nationella rätt fastställa de nödvändiga närmare reglerna för begäran om, utfärdande av och utövande av samt tillsyn över och rapportering om de tillstånd som avses i punkt 3. I dessa regler ska det också anges för vilka av de syften som förtecknas i punkt 1 första stycket h, inbegripet för vilka av de brott som avses i led h iii i den punkten, de behöriga myndigheterna kan få tillstånd att använda dessa system för brottsbekämpande ändamål. Medlemsstaterna ska till kommissionen anmäla dessa regler senast 30 dagar efter deras antagande. Medlemsstaterna får införa mer restriktiva lagar om användningen av system för biometrisk fjärridentifiering i enlighet med unionsrätten.
+
+6\. Medlemsstaternas nationella marknadskontrollmyndigheter och nationella dataskyddsmyndigheter som har underrättats om användningen av system för biometrisk fjärridentifiering i realtid på allmänt tillgänglig plats för brottsbekämpande ändamål enligt punkt 4 ska lämna in årliga rapporter till kommissionen om sådan användning. För detta ändamål ska kommissionen förse medlemsstaterna och de nationella marknadskontrollmyndigheterna och dataskyddsmyndigheterna med en mall som inkluderar information om antalet beslut som fattats av behöriga rättsliga myndigheter eller en oberoende administrativ myndighet vars beslut är bindande gällande ansökningar om tillstånd i enlighet med punkt 3 och resultatet av dessa.
+
+7\. Kommissionen ska offentliggöra årliga rapporter om användningen av system för biometrisk fjärridentifiering i realtid på allmänt tillgänglig plats för brottsbekämpande ändamål på grundval av aggregerade data från medlemsstaterna baserat på de årliga rapporter som avses i punkt 6. Dessa årliga rapporter får inte omfatta känsliga operativa uppgifter som rör relaterad brottsbekämpande verksamhet.
+
+8\. [Denna artikel](#artikel-5-förbjudna-ai-användningsområden) påverkar inte de förbud som är tillämpliga när ett AI-användningsområde strider mot annan unionsrätt.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

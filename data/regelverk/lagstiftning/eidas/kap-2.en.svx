@@ -1,0 +1,207 @@
+---
+'source': 'eidas'
+'ref': 'Chapter II'
+'title': 'Chapter II – ELECTRONIC IDENTIFICATION'
+'kind': 'chapter'
+'description': 'eIDAS Regulation, Chapter II.'
+'designation': 'eIDAS Regulation Chapter II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_II'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 6 – Mutual recognition
+
+1\. When an electronic identification using an electronic identification means and authentication is required under national law or by administrative practice to access a service provided by a public sector body online in one Member State, the electronic identification means issued in another Member State shall be recognised in the first Member State for the purposes of cross-border authentication for that service online, provided that the following conditions are met:
+
+(a) the electronic identification means is issued under an electronic identification scheme that is included in the list published by the Commission pursuant to Article [9](#article-9-notification);
+
+(b) the assurance level of the electronic identification means corresponds to an assurance level equal to or higher than the assurance level required by the relevant public sector body to access that service online in the first Member State, provided that the assurance level of that electronic identification means corresponds to the assurance level substantial or high;
+
+(c) the relevant public sector body uses the assurance level substantial or high in relation to accessing that service online.
+
+Such recognition shall take place no later than 12 months after the Commission publishes the list referred to in point (a) of the first subparagraph.
+
+2\. An electronic identification means which is issued under an electronic identification scheme included in the list published by the Commission pursuant to Article [9](#article-9-notification) and which corresponds to the assurance level low may be recognised by public sector bodies for the purposes of cross-border authentication for the service provided online by those bodies.
+
+### Article 7 – Eligibility for notification of electronic identification schemes
+
+An electronic identification scheme shall be eligible for notification pursuant to Article [9](#article-9-notification)(1) provided that all of the following conditions are met:
+
+(a) the electronic identification means under the electronic identification scheme are issued:
+
+(i) by the notifying Member State;
+
+(ii) under a mandate from the notifying Member State; or
+
+(iii) independently of the notifying Member State and are recognised by that Member State;
+
+(b) the electronic identification means under the electronic identification scheme can be used to access at least one service which is provided by a public sector body and which requires electronic identification in the notifying Member State;
+
+(c) the electronic identification scheme and the electronic identification means issued thereunder meet the requirements of at least one of the assurance levels set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3);
+
+(d) the notifying Member State ensures that the person identification data uniquely representing the person in question is attributed, in accordance with the technical specifications, standards and procedures for the relevant assurance level set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3), to the natural or legal person referred to in point 1 of Article [3](/lagstiftning/eidas/kap-1#article-3-definitions) at the time the electronic identification means under that scheme is issued;
+
+(e) the party issuing the electronic identification means under that scheme ensures that the electronic identification means is attributed to the person referred to in point (d) of [this Article](#article-7-eligibility-for-notification-of-electronic-identification-schemes) in accordance with the technical specifications, standards and procedures for the relevant assurance level set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3);
+
+(f) the notifying Member State ensures the availability of authentication online, so that any relying party established in the territory of another Member State is able to confirm the person identification data received in electronic form.
+
+For relying parties other than public sector bodies the notifying Member State may define terms of access to that authentication. The cross-border authentication shall be provided free of charge when it is carried out in relation to a service online provided by a public sector body.
+
+Member States shall not impose any specific disproportionate technical requirements on relying parties intending to carry out such authentication, where such requirements prevent or significantly impede the interoperability of the notified electronic identification schemes;
+
+(g) at least six months prior to the notification pursuant to Article [9](#article-9-notification)(1), the notifying Member State provides the other Member States for the purposes of the obligation under Article [12](#article-12-cooperation-and-interoperability)(5) a description of that scheme in accordance with the procedural arrangements established by the implementing acts referred to in Article [12](#article-12-cooperation-and-interoperability)(7);
+
+(h) the electronic identification scheme meets the requirements set out in the implementing act referred to in Article [12](#article-12-cooperation-and-interoperability)(8).
+
+### Article 8 – Assurance levels of electronic identification schemes
+
+1\. An electronic identification scheme notified pursuant to Article [9](#article-9-notification)(1) shall specify assurance levels low, substantial and/or high for electronic identification means issued under that scheme.
+
+2\. The assurance levels low, substantial and high shall meet respectively the following criteria:
+
+(a) assurance level low shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a limited degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease the risk of misuse or alteration of the identity;
+
+(b) assurance level substantial shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a substantial degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease substantially the risk of misuse or alteration of the identity;
+
+(c) assurance level high shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a higher degree of confidence in the claimed or asserted identity of a person than electronic identification means with the assurance level substantial, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to prevent misuse or alteration of the identity.
+
+3\. By 18 September 2015, taking into account relevant international standards and subject to paragraph 2, the Commission shall, by means of implementing acts, set out minimum technical specifications, standards and procedures with reference to which assurance levels low, substantial and high are specified for electronic identification means for the purposes of paragraph 1.
+
+Those minimum technical specifications, standards and procedures shall be set out by reference to the reliability and quality of the following elements:
+
+(a) the procedure to prove and verify the identity of natural or legal persons applying for the issuance of electronic identification means;
+
+(b) the procedure for the issuance of the requested electronic identification means;
+
+(c) the authentication mechanism, through which the natural or legal person uses the electronic identification means to confirm its identity to a relying party;
+
+(d) the entity issuing the electronic identification means;
+
+(e) any other body involved in the application for the issuance of the electronic identification means; and
+
+(f) the technical and security specifications of the issued electronic identification means.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+
+### Article 9 – Notification
+
+1\. The notifying Member State shall notify to the Commission the following information and, without undue delay, any subsequent changes thereto:
+
+(a) a description of the electronic identification scheme, including its assurance levels and the issuer or issuers of electronic identification means under the scheme;
+
+(b) the applicable supervisory regime and information on the liability regime with respect to the following:
+
+(i) the party issuing the electronic identification means; and
+
+(ii) the party operating the authentication procedure;
+
+(c) the authority or authorities responsible for the electronic identification scheme;
+
+(d) information on the entity or entities which manage the registration of the unique person identification data;
+
+(e) a description of how the requirements set out in the implementing acts referred to in Article [12](#article-12-cooperation-and-interoperability)(8) are met;
+
+(f) a description of the authentication referred to in point (f) of Article [7](#article-7-eligibility-for-notification-of-electronic-identification-schemes);
+
+(g) arrangements for suspension or revocation of either the notified electronic identification scheme or authentication or the compromised parts concerned.
+
+2\. One year from the date of application of the implementing acts referred to in Articles [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8), the Commission shall publish in the Official Journal of the European Union a list of the electronic identification schemes which were notified pursuant to paragraph 1 of [this Article](#article-9-notification) and the basic information thereon.
+
+3\. If the Commission receives a notification after the expiry of the period referred to in paragraph 2, it shall publish in the Official Journal of the European Union the amendments to the list referred to in paragraph 2 within two months from the date of receipt of that notification.
+
+4\. A Member State may submit to the Commission a request to remove an electronic identification scheme notified by that Member State from the list referred to in paragraph 2. The Commission shall publish in the Official Journal of the European Union the corresponding amendments to the list within one month from the date of receipt of the Member State’s request.
+
+5\. The Commission may, by means of implementing acts, define the circumstances, formats and procedures of notifications under paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+
+### Article 10 – Security breach
+
+1\. Where either the electronic identification scheme notified pursuant to Article [9](#article-9-notification)(1) or the authentication referred to in point (f) of Article [7](#article-7-eligibility-for-notification-of-electronic-identification-schemes) is breached or partly compromised in a manner that affects the reliability of the cross-border authentication of that scheme, the notifying Member State shall, without delay, suspend or revoke that cross-border authentication or the compromised parts concerned, and shall inform other Member States and the Commission.
+
+2\. When the breach or compromise referred to in paragraph 1 is remedied, the notifying Member State shall re-establish the cross-border authentication and shall inform other Member States and the Commission without undue delay.
+
+3\. If the breach or compromise referred to in paragraph 1 is not remedied within three months of the suspension or revocation, the notifying Member State shall notify other Member States and the Commission of the withdrawal of the electronic identification scheme.
+
+The Commission shall publish in the Official Journal of the European Union the corresponding amendments to the list referred to in Article [9](#article-9-notification)(2) without undue delay.
+
+### Article 11 – Liability
+
+1\. The notifying Member State shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to comply with its obligations under points (d) and (f) of Article [7](#article-7-eligibility-for-notification-of-electronic-identification-schemes) in a cross-border transaction.
+
+2\. The party issuing the electronic identification means shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to comply with the obligation referred to in point (e) of Article [7](#article-7-eligibility-for-notification-of-electronic-identification-schemes) in a cross-border transaction.
+
+3\. The party operating the authentication procedure shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to ensure the correct operation of the authentication referred to in point (f) of Article [7](#article-7-eligibility-for-notification-of-electronic-identification-schemes) in a cross-border transaction.
+
+4\. Paragraphs 1, 2 and 3 shall be applied in accordance with national rules on liability.
+
+5\. Paragraphs 1, 2 and 3 are without prejudice to the liability under national law of parties to a transaction in which electronic identification means falling under the electronic identification scheme notified pursuant to Article [9](#article-9-notification)(1) are used.
+
+### Article 12 – Cooperation and interoperability
+
+1\. The national electronic identification schemes notified pursuant to Article [9](#article-9-notification)(1) shall be interoperable.
+
+2\. For the purposes of paragraph 1, an interoperability framework shall be established.
+
+3\. The interoperability framework shall meet the following criteria:
+
+(a) it aims to be technology neutral and does not discriminate between any specific national technical solutions for electronic identification within a Member State;
+
+(b) it follows European and international standards, where possible;
+
+(c) it facilitates the implementation of the principle of privacy by design; and
+
+(d) it ensures that personal data is processed in accordance with [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046).
+
+4\. The interoperability framework shall consist of:
+
+(a) a reference to minimum technical requirements related to the assurance levels under Article [8](#article-8-assurance-levels-of-electronic-identification-schemes);
+
+(b) a mapping of national assurance levels of notified electronic identification schemes to the assurance levels under Article [8](#article-8-assurance-levels-of-electronic-identification-schemes);
+
+(c) a reference to minimum technical requirements for interoperability;
+
+(d) a reference to a minimum set of person identification data uniquely representing a natural or legal person, which is available from electronic identification schemes;
+
+(e) rules of procedure;
+
+(f) arrangements for dispute resolution; and
+
+(g) common operational security standards.
+
+5\. Member States shall cooperate with regard to the following:
+
+(a) the interoperability of the electronic identification schemes notified pursuant to Article [9](#article-9-notification)(1) and the electronic identification schemes which Member States intend to notify; and
+
+(b) the security of the electronic identification schemes.
+
+6\. The cooperation between Member States shall consist of:
+
+(a) the exchange of information, experience and good practice as regards electronic identification schemes and in particular technical requirements related to interoperability and assurance levels;
+
+(b) the exchange of information, experience and good practice as regards working with assurance levels of electronic identification schemes under Article [8](#article-8-assurance-levels-of-electronic-identification-schemes);
+
+(c) peer review of electronic identification schemes falling under [this Regulation](/lagstiftning/eidas); and
+
+(d) examination of relevant developments in the electronic identification sector.
+
+7\. By 18 March 2015, the Commission shall, by means of implementing acts, establish the necessary procedural arrangements to facilitate the cooperation between the Member States referred to in paragraphs 5 and 6 with a view to fostering a high level of trust and security appropriate to the degree of risk.
+
+8\. By 18 September 2015, for the purpose of setting uniform conditions for the implementation of the requirement under paragraph 1, the Commission shall, subject to the criteria set out in paragraph 3 and taking into account the results of the cooperation between Member States, adopt implementing acts on the interoperability framework as set out in paragraph 4.
+
+9\. The implementing acts referred to in paragraphs 7 and 8 of [this Article](#article-12-cooperation-and-interoperability) shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

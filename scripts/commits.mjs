@@ -1,7 +1,7 @@
 import { execSync } from 'node:child_process';
 import { mkdirSync, writeFileSync } from 'node:fs';
 
-let commits = [];
+let commits;
 try {
 	const out = execSync('git log --no-decorate --format=%h%x1f%ad%x1f%s --date=short -n 50', {
 		encoding: 'utf-8'
@@ -14,7 +14,9 @@ try {
 			const [hash, date, ...rest] = line.split('\x1f');
 			return { hash, date, message: rest.join('\x1f') };
 		});
-} catch {}
+} catch {
+	commits = [];
+}
 
 mkdirSync('src/lib/generated', { recursive: true });
 writeFileSync(

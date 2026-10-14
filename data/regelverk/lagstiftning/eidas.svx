@@ -1,0 +1,32 @@
+---
+'name': 'eIDAS-förordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2024/1183'
+'type': 'eu-regulation'
+'description': 'EU-förordning om europeisk digital identitet och förtroendetjänster.'
+'designation': 'EU 910/2014'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2014-08-28'
+'applies-from': '2014-09-17'
+'sites':
+  - 'it'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/eidas/kap-1) · Artiklarna 1–5
+- [Kapitel II – ELEKTRONISK IDENTIFIERING](/lagstiftning/eidas/kap-2) · Artiklarna 6–12
+- [Kapitel III – BETRODDA TJÄNSTER](/lagstiftning/eidas/kap-3) · Artiklarna 13–45
+- [Kapitel IV – ELEKTRONISKA DOKUMENT](/lagstiftning/eidas/kap-4)
+- [Kapitel V – DELEGERING AV BEFOGENHETER OCH GENOMFÖRANDEBESTÄMMELSER](/lagstiftning/eidas/kap-5) · Artiklarna 47–48
+- [Kapitel VI – SLUTBESTÄMMELSER](/lagstiftning/eidas/kap-6) · Artiklarna 49–52
+<!-- scan-laws:end -->

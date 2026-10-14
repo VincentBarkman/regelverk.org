@@ -4,8 +4,7 @@
 	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
-	import { articleFor, flatRecords } from '#lib/data.js';
-	import { extractHeadings } from '#lib/headings.js';
+	import { flatRecords } from '#lib/data.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
 	import RecordMeta from '#lib/components/recordMeta.svelte';
@@ -15,6 +14,8 @@
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
+	import LdJson from '#lib/components/ldJson.svelte';
+	import { getLocale } from '#lib/paraglide/runtime.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import RefPreview from '#lib/components/refPreview.svelte';
 	import type { PageProps } from './$types';
@@ -28,8 +29,8 @@
 	const description = $derived(
 		typeof data.record?.meta?.description === 'string' ? data.record.meta.description : undefined
 	);
-	const Article = $derived(articleFor(entity, data.record?.id ?? data.id));
-	const tocItems = $derived(extractHeadings(data.record?.body ?? ''));
+
+	const tocItems = $derived(data.toc ?? []);
 
 	const listHref = (ent: Entity, id: string) =>
 		dev
@@ -159,6 +160,83 @@
 
 	const subs = $derived((currentItem?.children ?? []).map(toRefLink));
 
+	const idPath = $derived(data.id.split('/').map(encodeURIComponent).join('/'));
+	const canonicalUrl = $derived(`https://${host}/${entity}/${idPath}`);
+	const lang = $derived(getLocale() === 'en' ? 'en' : 'sv');
+
+	const crumbs = $derived([
+		{ label: m.nav_home(), href: homeHref, url: `https://${host}/` },
+		{ label: ENTITY_LABEL[entity](), href: entityHref, url: `https://${host}/${entity}` },
+		...(parentRef
+			? [
+					{
+						label: parentRef.title ?? parentRef.id,
+						href: listHref(entity, parentRef.id),
+						url: `https://${host}/${entity}/${parentRef.id.split('/').map(encodeURIComponent).join('/')}`
+					}
+				]
+			: []),
+		{ label: title, href: canonicalUrl, url: canonicalUrl }
+	]);
+
+	const jsonLd = $derived.by(() => {
+		const meta = recordMeta;
+		const main =
+			entity === 'lagstiftning'
+				? {
+						'@type': 'Legislation',
+						name: title,
+						url: canonicalUrl,
+						inLanguage: lang,
+						...(typeof meta.legislationType === 'string' || typeof meta.type === 'string'
+							? {
+									legislationType: String(meta.legislationType ?? meta.type)
+								}
+							: {}),
+						...(typeof meta.jurisdiction === 'string'
+							? { legislationJurisdiction: meta.jurisdiction }
+							: {}),
+						...(meta.designation || meta.sfs || meta.celex
+							? {
+									legislationIdentifier: String(meta.designation ?? meta.sfs ?? meta.celex)
+								}
+							: {}),
+						...(parentRef
+							? {
+									isPartOf: {
+										'@type': 'Legislation',
+										name: parentRef.title ?? parentRef.id,
+										url: `https://${host}/${entity}/${parentRef.id.split('/').map(encodeURIComponent).join('/')}`
+									}
+								}
+							: {}),
+						...(description ? { description } : {})
+					}
+				: {
+						'@type': 'Article',
+						headline: title,
+						url: canonicalUrl,
+						inLanguage: lang,
+						...(description ? { description } : {}),
+						isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
+					};
+		return {
+			'@context': 'https://schema.org',
+			'@graph': [
+				main,
+				{
+					'@type': 'BreadcrumbList',
+					itemListElement: crumbs.map((c, i) => ({
+						'@type': 'ListItem',
+						position: i + 1,
+						name: c.label,
+						item: c.url
+					}))
+				}
+			]
+		};
+	});
+
 	const more = $derived(
 		(parentRef ? (parentRef.children ?? []) : group)
 			.filter((i) => i.id !== data.id)
@@ -167,6 +245,16 @@
 	);
 
 	let articleEl = $state<HTMLElement>();
+
+	let external = $state<Record<string, { title?: string; description?: string }>>({});
+	$effect(() => {
+		external = {};
+		void Promise.resolve(data.external)
+			.then((e) => {
+				external = e ?? {};
+			})
+			.catch(() => {});
+	});
 </script>
 
 <svelte:head>
@@ -175,16 +263,25 @@
 		<meta name="description" content={description} />
 	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
-	<link
-		rel="canonical"
-		href="https://{host}/{entity}/{data.id.split('/').map(encodeURIComponent).join('/')}"
-	/>
+	<link rel="canonical" href={canonicalUrl} />
+	<link rel="alternate" hreflang={lang} href={canonicalUrl} />
+	{#each (data.locales ?? []).filter((l) => l !== lang) as l (l)}
+		<link
+			rel="alternate"
+			hreflang={l}
+			href="https://{host}{l === 'en' ? '/en' : ''}/{entity}/{idPath}"
+		/>
+	{/each}
+	{#if data.locales?.includes('en')}
+		<link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+	{/if}
 	<OgMeta
 		type="article"
 		title="{title} · {ENTITY_LABEL[entity]()} · {host}"
 		description={description ?? SITE_BLURB[scope]()}
-		url="https://{host}/{entity}/{data.id.split('/').map(encodeURIComponent).join('/')}"
+		url={canonicalUrl}
 	/>
+	<LdJson data={jsonLd} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
@@ -196,21 +293,7 @@
 		{#if data.record}
 			<RefPreview />
 			<article bind:this={articleEl} class={ARTICLE_PROSE}>
-				<BreadCrumbs
-					items={[
-						{ label: m.nav_home(), href: homeHref },
-						{ label: ENTITY_LABEL[entity](), href: entityHref },
-						...(parentRef
-							? [
-									{
-										label: parentRef.title ?? parentRef.id,
-										href: listHref(entity, parentRef.id)
-									}
-								]
-							: []),
-						{ label: title }
-					]}
-				/>
+				<BreadCrumbs items={crumbs} />
 				<h1>{title}</h1>
 				{#if description}
 					<p class="not-prose -mt-3 mb-6 text-[15px] leading-relaxed text-primary/60">
@@ -218,16 +301,11 @@
 					</p>
 				{/if}
 				<ArticleToc rail={false} items={tocItems} />
-				{#if Article}
-					<Article />
+				{#if data.articleHtml}
+					<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+					{@html data.articleHtml}
 				{/if}
-				<RecordMeta
-					meta={data.record.meta}
-					{links}
-					{logos}
-					previews={refs}
-					siteInfo={data.external ?? {}}
-				/>
+				<RecordMeta meta={data.record.meta} {links} {logos} previews={refs} siteInfo={external} />
 				<RecordBottom
 					{related}
 					{scopes}
@@ -239,7 +317,7 @@
 			</article>
 		{/if}
 
-		<ArticleToc article={articleEl} content={Article} items={tocItems} />
+		<ArticleToc article={articleEl} content={data.articleHtml} items={tocItems} />
 	</main>
 
 	<SiteFooter {scope} wide />

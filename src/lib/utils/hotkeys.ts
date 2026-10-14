@@ -20,9 +20,7 @@ export function formatShortcutLabel(shortcut: string): string {
 	const parts = shortcut.toLowerCase().split('+');
 	const key = parts[parts.length - 1];
 
-	const mods = parts
-		.slice(0, -1)
-		.map((part) => MOD_LABELS[part]?.[mac ? 'mac' : 'other'] ?? part);
+	const mods = parts.slice(0, -1).map((part) => MOD_LABELS[part]?.[mac ? 'mac' : 'other'] ?? part);
 
 	const label = key.length === 1 ? key.toUpperCase() : key[0].toUpperCase() + key.slice(1);
 

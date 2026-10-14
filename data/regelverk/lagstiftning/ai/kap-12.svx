@@ -1,0 +1,140 @@
+---
+'source': 'ai'
+'ref': 'Kapitel XII'
+'title': 'Kapitel XII – SANKTIONER'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel XII.'
+'designation': 'AI-förordningen Kapitel XII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_XII'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 99 – Sanktioner
+
+1\. Medlemsstaterna ska i enlighet med de villkor som fastställs i [denna förordning](/lagstiftning/ai) fastställa bestämmelser om sanktioner och andra efterlevnadsåtgärder som också kan innefatta varningar och icke-monetära åtgärder som ska tillämpas vid operatörers överträdelser av bestämmelserna i [denna förordning](/lagstiftning/ai) och vidta alla nödvändiga åtgärder för att se till att de tillämpas korrekt och effektivt, varvid hänsyn ska tas till de riktlinjer som kommissionen utfärdat enligt artikel [96](/lagstiftning/ai/kap-10#artikel-96-riktlinjer-från-kommissionen-om-genomförandet-av-denna-förordning). Sanktionerna ska vara effektiva, proportionella och avskräckande. De ska ta hänsyn till små och medelstora företags, inbegripet uppstartsföretags, intressen och deras ekonomiska bärkraft.
+
+2\. Medlemsstaterna ska utan dröjsmål och senast den dag då [denna förordning](/lagstiftning/ai) börjar tillämpas underrätta kommissionen om de regler om sanktioner och andra efterlevnadsåtgärder som avses i punkt 1 och utan dröjsmål underrätta den om eventuella senare ändringar av dem.
+
+3\. Bristande efterlevnad av förbudet mot de AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) ska vara föremål för administrativa sanktionsavgifter på upp till 35 000 000 EUR eller, om överträdelsen begås av ett företag, upp till 7 % av dess totala globala årsomsättning för det föregående räkenskapsåret, beroende på vilket som är högst.
+
+4\. Bristande efterlevnad av någon av följande bestämmelser som hör samman med operatörer eller anmälda organ utöver de bestämmelser som fastställs i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) ska medföra administrativa sanktionsavgifter på upp till 15 000 000 EUR eller, om överträdelsen begås av ett företag, upp till 3 % av dess totala globala årsomsättning under det föregående räkenskapsåret, beroende på vilket som är högst:
+
+a) Leverantörers skyldigheter enligt artikel [16](/lagstiftning/ai/kap-3#artikel-16-skyldigheter-för-leverantörer-av-ai-system-med-hög-risk).
+
+b) Ombuds skyldigheter enligt artikel [22](/lagstiftning/ai/kap-3#artikel-22-ombud-för-leverantörer-av-ai-system-med-hög-risk).
+
+c) Importörers skyldigheter enligt artikel [23](/lagstiftning/ai/kap-3#artikel-23-importörers-skyldigheter).
+
+d) Distributörers skyldigheter enligt artikel [24](/lagstiftning/ai/kap-3#artikel-24-distributörers-skyldigheter).
+
+e) Tillhandahållares skyldigheter enligt artikel [26](/lagstiftning/ai/kap-3#artikel-26-skyldigheter-för-tillhandahållare-av-ai-system-med-hög-risk).
+
+f) Kraven och skyldigheterna för anmälda organ enligt artikel [31](/lagstiftning/ai/kap-3#artikel-31-krav-avseende-anmälda-organ), [33.1](/lagstiftning/ai/kap-3#artikel-33-dotterbolag-till-anmälda-organ-och-underentreprenad), [33.3](/lagstiftning/ai/kap-3#artikel-33-dotterbolag-till-anmälda-organ-och-underentreprenad), [33.4](/lagstiftning/ai/kap-3#artikel-33-dotterbolag-till-anmälda-organ-och-underentreprenad) eller [34](/lagstiftning/ai/kap-3#artikel-34-anmälda-organs-operativa-skyldigheter).
+
+g) Transparensskyldigheterna för leverantörer och tillhandahållare enligt artikel [50](/lagstiftning/ai/kap-4#artikel-50-transparensskyldigheter-för-leverantörer-och-tillhandahållare-av-vissa-ai-system).
+
+5\. Tillhandahållande av oriktig, ofullständig eller vilseledande information till anmälda organ eller nationella behöriga myndigheter som svar på en begäran ska medföra administrativa sanktionsavgifter på upp till 7 500 000 EUR eller, om överträdelsen begås av ett företag, upp till 1 % av dess totala globala årsomsättning för det föregående räkenskapsåret, beroende på vilket som är högst.
+
+6\. När det gäller små och medelstora företag, inbegripet uppstartsföretag, ska varje sanktionsavgift som avses i [denna artikel](#artikel-99-sanktioner) uppgå till högst de procentsatser eller belopp som avses i punkterna 3, 4 och 5, beroende på vilket belopp som är lägre.
+
+7\. Vid beslut om huruvida administrativa sanktionsavgifter ska åläggas och beslut om storleken på den administrativa sanktionsavgiften i varje enskilt fall ska alla relevanta omständigheter i den specifika situationen beaktas och vederbörlig hänsyn, i förekommande fall, tas till
+
+a) överträdelsens art, svårighetsgrad och varaktighet samt dess konsekvenser med beaktande av det berörda AI-systemets syfte samt, när så är lämpligt, antalet berörda personer och omfattningen av den skada som de har lidit,
+
+b) huruvida administrativa sanktionsavgifter redan har tillämpats av andra marknadskontrollmyndigheter på samma operatör för samma överträdelse,
+
+c) huruvida administrativa sanktionsavgifter redan har tillämpats av andra myndigheter på samma operatör för överträdelser av annan unionsrätt eller nationell rätt, när sådana överträdelser beror på samma verksamhet eller underlåtenhet som utgör en relevant överträdelse av [denna förordning](/lagstiftning/ai),
+
+d) storleken på, årsomsättningen och marknadsandelen för den operatör som begått överträdelsen,
+
+e) eventuell annan försvårande eller förmildrande faktor som är tillämplig på omständigheterna i fallet, såsom ekonomisk vinst som görs eller förlust som undviks, direkt eller indirekt, genom överträdelsen,
+
+f) graden av samarbete med nationella behöriga myndigheter för att komma till rätta med överträdelsen och minska dess potentiella negativa effekter,
+
+g) operatörens grad av ansvar med beaktande av de tekniska och organisatoriska åtgärder som genomförts av denne,
+
+h) det sätt på vilket överträdelsen kom till den nationella behöriga myndighetens kännedom, särskilt huruvida, och i sådana fall i vilken mån, operatören anmälde överträdelsen,
+
+i) om överträdelsen skett med uppsåt eller genom oaktsamhet,
+
+j) alla åtgärder som vidtagits av operatören för att minska den skada som de berörda personerna lidit.
+
+8\. Varje medlemsstat ska fastställa regler om i vilken utsträckning administrativa sanktionsavgifter får påföras offentliga myndigheter och organ som är inrättade i medlemsstaten.
+
+9\. Beroende på medlemsstatens rättssystem får reglerna om administrativa sanktionsavgifter tillämpas på ett sådant sätt att sanktionsavgifterna utdöms av behöriga nationella domstolar eller andra organ, beroende på vad som är tillämpligt i dessa medlemsstater. Tillämpningen av sådana regler i dessa medlemsstater ska ha motsvarande verkan.
+
+10\. Utövandet av befogenheter enligt [denna artikel](#artikel-99-sanktioner) ska omfattas av lämpliga rättssäkerhetsgarantier i enlighet med unionsrätten och nationell rätt, inbegripet effektiva rättsmedel och rättssäkerhet.
+
+11\. Medlemsstaterna ska årligen underrätta kommissionen om de administrativa sanktionsavgifter som de har utfärdat under det året, i enlighet med [denna artikel](#artikel-99-sanktioner), och om eventuella relaterade rättstvister eller rättsliga förfaranden.
+
+### Artikel 100 – Administrativa sanktionsavgifter för unionens institutioner, organ och byråer
+
+1\. Europeiska datatillsynsmannen får ålägga administrativa sanktionsavgifter för de av unionens institutioner, organ och byråer som omfattas av [denna förordning](/lagstiftning/ai). Vid beslut om huruvida administrativa sanktionsavgifter ska åläggas och beslut om storleken på den administrativa sanktionsavgiften i varje enskilt fall ska alla relevanta omständigheter i den specifika situationen beaktas och vederbörlig hänsyn ska tas till följande:
+
+a) Överträdelsens art, svårighetsgrad och varaktighet samt dess konsekvenser, med beaktande av det berörda AI-systemets syfte samt, när så är lämpligt, antalet berörda personer och omfattningen av den skada som de har lidit.
+
+b) Graden av unionsinstitutionens, unionsorganets eller unionsbyråns ansvar, med beaktande av de tekniska och organisatoriska åtgärder som de har genomfört.
+
+c) Alla åtgärder som unionsinstitutionen, unionsorganet eller unionsbyrån vidtar för att mildra den skada som de berörda personerna lidit.
+
+d) Graden av samarbete med Europeiska datatillsynsmannen för att åtgärda överträdelsen och minska dess potentiella negativa effekter, inbegripet efterlevnad av någon av de åtgärder som tidigare förordnats av Europeiska datatillsynsmannen mot unionens berörda institution, organ eller byrå med avseende på samma fråga.
+
+e) Eventuella liknande tidigare överträdelser som begåtts av unionens institution, organ eller byrå.
+
+f) Det sätt på vilket överträdelsen kom till Europeiska datatillsynsmannens kännedom, särskilt huruvida och i så fall i vilken omfattning unionsinstitutionen, unionsorganet eller unionsbyrån anmälde överträdelsen.
+
+g) Den årliga budgeten för unionsinstitutionen, unionsbyrån eller unionsorganet.
+
+2\. Bristande efterlevnad av det förbud mot AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) ska medföra administrativa sanktionsavgifter på upp till 1 500 000 EUR.
+
+3\. AI-systemets bristande efterlevnad av andra krav eller skyldigheter enligt [denna förordning](/lagstiftning/ai) än de som fastställs i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) ska medföra administrativa sanktionsavgifter på upp till 750 000 EUR.
+
+4\. Innan ett beslut fattas enligt [denna artikel](#artikel-100-administrativa-sanktionsavgifter-för-unionens-institutioner-organ-och-byråer) ska Europeiska datatillsynsmannen ge den eller det av unionens institutioner, organ eller byråer som är föremål för förfarandet som genomförs av Europeiska datatillsynsmannen möjlighet att höras om den möjliga överträdelsen. Europeiska datatillsynsmannen ska grunda sina beslut endast på inslag och omständigheter som de berörda parterna har getts möjlighet att yttra sig om. Eventuella klagande ska vara nära knutna till förfarandet.
+
+5\. De berörda parternas rätt till försvar ska iakttas fullständigt i förfarandena. De ska ha rätt att få tillgång till Europeiska datatillsynsmannens akt, med förbehåll för enskildas eller företags berättigade intresse av skydd av sina personuppgifter eller affärshemligheter.
+
+6\. De medel som samlats in genom åläggande av sanktionsavgifter i [denna artikel](#artikel-100-administrativa-sanktionsavgifter-för-unionens-institutioner-organ-och-byråer) ska bidra till unionens allmänna budget. Sanktionsavgifterna får inte påverka den ändamålsenliga funktionen för den unionsinstitution, det unionsorgan eller unionsbyrå som ålagts sanktionsavgiften.
+
+7\. Europeiska datatillsynsmannen ska årligen underrätta kommissionen om de administrativa sanktionsavgifter som den ålagt enligt [denna artikel](#artikel-100-administrativa-sanktionsavgifter-för-unionens-institutioner-organ-och-byråer) och om eventuella rättstvister eller rättsliga förfaranden den inlett.
+
+### Artikel 101 – Sanktionsavgifter för leverantörer av AI-modeller för allmänna ändamål
+
+1\. Kommissionen får ålägga leverantörer av AI-modeller för allmänna ändamål sanktionsavgifter på upp till 3 % av deras totala globala årsomsättning under det föregående räkenskapsåret eller 15 000 000 EUR, beroende på vilket som är högst, om kommissionen konstaterar att leverantören uppsåtligen eller av oaktsamhet har
+
+a) överträtt de relevanta bestämmelserna i [denna förordning](/lagstiftning/ai),
+
+b) underlåtit att tillmötesgå en begäran om en handling eller om information enligt artikel [91](/lagstiftning/ai/kap-9#artikel-91-befogenhet-att-begära-dokumentation-och-information), eller lämnat oriktiga, ofullständiga eller vilseledande uppgifter,
+
+c) underlåtit att följa en åtgärd som begärts enligt artikel [93](/lagstiftning/ai/kap-9#artikel-93-befogenhet-att-begära-åtgärder),
+
+d) underlåtit att ge kommissionen tillgång till AI-modellen för allmänna ändamål eller AI-modellen för allmänna ändamål med systemrisk i syfte att genomföra en utvärdering enligt artikel [92](/lagstiftning/ai/kap-9#artikel-92-befogenhet-att-genomföra-utvärderingar).
+
+Vid fastställandet av sanktionsavgiften eller det löpande vitesbeloppet ska hänsyn tas till överträdelsens art, allvarlighet och varaktighet, varvid vederbörlig hänsyn ska tas till principerna om proportionalitet och lämplighet. Kommissionen ska också beakta åtaganden som gjorts i enlighet med artikel [93.3](/lagstiftning/ai/kap-9#artikel-93-befogenhet-att-begära-åtgärder) eller som gjorts i relevanta uppförandekoder i enlighet med artikel [56](/lagstiftning/ai/kap-5#artikel-56-förfarandekoder).
+
+2\. Innan kommissionen antar beslutet enligt punkt 1 ska den meddela sina preliminära iakttagelser till leverantören av AI-modellen för allmänna ändamål och ge denne möjlighet att höras.
+
+3\. Sanktionsavgifter som åläggs i enlighet med [denna artikel](#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) ska vara effektiva, proportionella och avskräckande.
+
+4\. Information om sanktionsavgifter som ålagts enligt [denna artikel](#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) ska också lämnas till styrelsen när så är lämpligt.
+
+5\. Europeiska unionens domstol ska ha obegränsad behörighet att pröva kommissionens beslut om fastställande av sanktionsavgifter enligt [denna artikel](#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål). Den får upphäva, sänka eller höja ålagda sanktionsavgifter.
+
+6\. Kommissionen ska anta genomförandeakter med närmare bestämmelser och rättssäkerhetsgarantier för förfaranden inför ett eventuellt antagande av beslut enligt punkt 1 i [denna artikel](#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,0 +1,207 @@
+---
+'source': 'eidas'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – ELEKTRONISK IDENTIFIERING'
+'kind': 'chapter'
+'description': 'eIDAS-förordningen, Kapitel II.'
+'designation': 'eIDAS-förordningen Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0024.03#cpt_II'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 6 – Ömsesidigt erkännande
+
+1\. När det enligt nationell rätt eller enligt nationella administrativa förfaranden krävs en elektronisk identifiering där medel för elektronisk identifiering och autentisering används för att få åtkomst till en nättjänst som tillhandahålls av ett offentligt organ i en medlemsstat, ska de medel för elektronisk identifiering som utfärdats i en annan medlemsstat erkännas i den första medlemsstaten för gränsöverskridande autentisering för den tjänsten via internet, förutsatt att
+
+a) medlet för elektronisk identifiering är utfärdat inom ramen för ett system för elektronisk identifiering som ingår i den förteckning som offentliggjorts av kommissionen enligt artikel [9](#artikel-9-anmälan),
+
+b) tillitsnivån för medlet för elektronisk identifiering motsvarar en tillitsnivå som är lika hög som eller högre än den tillitsnivå som det berörda offentliga organet kräver för åtkomst till denna nättjänst i den första medlemsstaten, förutsatt att tillitsnivån för detta medel för elektronisk identifiering motsvarar tillitsnivån väsentlig eller hög,
+
+c) det offentliga organet i fråga använder tillitsnivån väsentlig eller hög i samband med åtkomst till nättjänsten.
+
+Ett sådant erkännande ska ske senast tolv månader efter det att kommissionen offentliggör den förteckning som avses i led a i första stycket.
+
+2\. Ett medel för elektronisk identifiering som utfärdats inom ramen för ett system för elektronisk identifiering som ingår i den förteckning som kommissionen offentliggjort enligt artikel [9](#artikel-9-anmälan) och som motsvarar tillitsnivån låg får erkännas av offentliga organ för gränsöverskridande autentisering för den tjänst som tillhandahålls via internet av dessa organ.
+
+### Artikel 7 – Berättigande till anmälan av system för elektronisk identifiering
+
+Ett system för elektronisk identifiering ska vara berättigat till anmälan enligt artikel [9.1](#artikel-9-anmälan) om samtliga följande villkor är uppfyllda:
+
+a) Medlet för elektronisk identifiering inom ramen för systemet för elektronisk identifiering ska vara utfärdat
+
+i) av den anmälande medlemsstaten,
+
+ii) på uppdrag av den anmälande medlemsstaten, eller
+
+iii) oberoende av den anmälande medlemsstaten och erkännas av den medlemsstaten.
+
+b) Medlet för elektronisk identifiering inom systemet för elektronisk identifiering ska kunna användas för att få åtkomst till åtminstone en tjänst som tillhandahålls av ett offentligt organ och som kräver elektronisk identifiering i den anmälande medlemsstaten.
+
+c) Systemet för elektronisk identifiering och det medel för elektronisk identifiering som utfärdats inom ramen för det ska uppfylla kraven för åtminstone en av de tillitsnivåer som anges i den genomförandeakt som avses i artikel [8.3](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering).
+
+d) Den anmälande medlemsstaten ska se till att de personidentifieringsuppgifter som unikt representerar personen i fråga, i enlighet med de tekniska specifikationer, standarder och förfaranden för den relevanta tillitsnivå som anges i den genomförandeakt som avses i artikel [8.3](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering), tillskrivs den fysiska eller juridiska person som avses i artikel [3.1](/lagstiftning/eidas/kap-1#artikel-3-definitioner) vid tidpunkten för utfärdandet av medlet för elektronisk identifiering inom detta system.
+
+e) Den part som utfärdar medlet för elektronisk identifiering inom detta system ska se till att medlet för elektronisk identifiering tilldelas den person som avses i led d i [denna artikel](#artikel-7-berättigande-till-anmälan-av-system-för-elektronisk-identifiering) i enlighet med de tekniska specifikationer, standarder och förfaranden för den relevanta tillitsnivå som anges i den genomförandeakt som avses i artikel [8.3](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering).
+
+f) Den anmälande medlemsstaten ska se till att autentisering är tillgänglig via internet så att alla förlitande parter som är etablerade på någon annan medlemsstats territorium kan bekräfta de personidentifieringsuppgifter som tas emot i elektronisk form.
+
+För andra förlitande parter än offentliga organ får den anmälande medlemsstaten fastställa tillträdesvillkoren för autentiseringen. Sådan gränsöverskridande autentisering ska tillhandahållas kostnadsfritt när den utförs i samband med en nättjänst som tillhandahålls av ett offentligt organ.
+
+Medlemsstaterna får inte ålägga förlitande parter som har för avsikt att utföra en sådan autentisering oproportionella tekniska krav om sådana krav skulle hindra eller avsevärt försvåra kompatibiliteten mellan anmälda system för elektronisk identifiering.
+
+g) Minst sex månader före anmälan enligt artikel [9.1](#artikel-9-anmälan) ska den anmälande medlemsstaten när det gäller den skyldighet som anges i artikel [12.5](#artikel-12-samarbete-och-interoperabilitet) förse andra medlemsstater med en beskrivning av detta system i enlighet med de förfaranden som fastställts genom de genomförandeakter som avses i artikel [12.7](#artikel-12-samarbete-och-interoperabilitet).
+
+h) System för elektronisk identifiering ska uppfylla kraven i den genomförandeakt som avses i artikel [12.8](#artikel-12-samarbete-och-interoperabilitet).
+
+### Artikel 8 – Tillitsnivåer för system för elektronisk identifiering
+
+1\. I ett system för elektronisk identifiering som anmälts i enlighet med artikel [9.1](#artikel-9-anmälan) ska tillitsnivåerna låg, väsentlig och/eller hög specificeras för medel för elektronisk identifiering som har utfärdats inom det systemet.
+
+2\. Tillitsnivåerna låg, väsentlig och hög ska uppfylla följande kriterier för respektive nivå:
+
+a) Tillitsnivå låg ska inom ramen för ett system för elektronisk identifiering avse ett medel för elektronisk identifiering som ger en begränsad grad av tillförlitlighet avseende en persons påstådda eller styrkta identitet, och definieras med hänvisning till tekniska specifikationer, standarder och förfaranden som avser detta, inbegripet tekniska kontroller, vilkas syfte är att väsentligt minska risken för missbruk eller ändring av identiteten.
+
+b) Tillitsnivå väsentlig ska inom ramen för ett system för elektronisk identifiering avse ett medel för elektronisk identifiering som ger en väsentlig grad av tillförlitlighet avseende en persons påstådda eller styrkta identitet, och definieras med hänvisning till tekniska specifikationer, standarder och förfaranden som avser detta, inbegripet tekniska kontroller, vilkas syfte är att väsentligt minska risken för missbruk eller ändring av identiteten.
+
+c) Tillitsnivå hög ska inom ramen för ett system för elektronisk identifiering avse ett medel för elektronisk identifiering som ger en högre grad av tillförlitlighet avseende en persons påstådda eller styrkta identitet än tillitsnivån väsentlig, och definieras med hänvisning till tekniska specifikationer, standarder och förfaranden som avser detta, inbegripet tekniska kontroller, vilkas syfte är att förhindra risken för missbruk eller ändring av identiteten.
+
+3\. Senast den 18 september 2015, med beaktande av relevanta internationella standarder, och om inte annat följer av punkt 2, ska kommissionen genom genomförandeakter fastställa tekniska minimispecifikationer, standarder och förfaranden genom vilka tillitsnivåerna låg, väsentlig och hög specificeras för medel för elektronisk identifiering för tillämpningen av punkt 1.
+
+Dessa tekniska minimispecifikationer, standarder och förfaranden ska fastställas med hänvisning till tillförlitligheten och kvaliteten i följande delar:
+
+a) Förfarandet för att styrka och kontrollera identiteten på fysiska eller juridiska personer som ansöker om utfärdande av medel för elektronisk identifiering.
+
+b) Förfarandet för att utfärda det begärda medlet för elektronisk identifiering.
+
+c) Den autentiseringsmekanism genom vilken den fysiska eller juridiska personen använder medlet för elektronisk identifiering för att bekräfta sin identitet för en förlitande part.
+
+d) Den enhet som utfärdar medlen för elektronisk identifiering.
+
+e) Varje annat organ som deltar i ansökningen om utfärdande av medel för elektronisk identifiering.
+
+f) De tekniska och säkerhetsrelaterade specifikationerna för de utfärdade medlen för elektronisk identifiering.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 9 – Anmälan
+
+1\. Den anmälande medlemsstaten ska till kommissionen anmäla följande uppgifter samt utan onödigt dröjsmål anmäla eventuella senare ändringar av dessa:
+
+a) En beskrivning av systemet för elektronisk identifiering, inbegripet dess tillitsnivåer och av utfärdaren eller utfärdarna av medel för elektronisk identifiering inom systemet.
+
+b) Det tillämpliga systemet för tillsyn och information om systemet för skadeståndsansvar med avseende på följande:
+
+i) Den part som utfärdar medlet för elektronisk identifiering.
+
+ii) Den part som handhar autentiseringsförfarandet.
+
+c) Den myndighet eller de myndigheter som ansvarar för systemet för elektronisk identifiering.
+
+d) Information om den enhet eller de enheter som hanterar registreringen av de unika personidentifieringsuppgifterna.
+
+e) En beskrivning av hur kraven i den genomförandeakt som avses i artikel [12.8](#artikel-12-samarbete-och-interoperabilitet) har uppfyllts.
+
+f) En beskrivning av den autentisering som avses i artikel 7 f.
+
+g) System för tillfälligt upphävande eller återkallelse av det anmälda systemet för elektronisk identifiering eller autentisering eller av de berörda utsatta delarna.
+
+2\. Kommissionen ska ett år från dagen för tillämpning av de genomförandeakter som avses i artiklarna [8.3](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering) och [12.8](#artikel-12-samarbete-och-interoperabilitet) offentliggöra en förteckning över de system för elektronisk identifiering som anmälts enligt punkt 1 i [den här artikeln](#artikel-9-anmälan) och de grundläggande uppgifterna om dessa i Europeiska unionens officiella tidning.
+
+3\. Om kommissionen tar emot en anmälan efter utgången av den period som avses i punkt 2 ska den i Europeiska unionens officiella tidning offentliggöra ändringarna i den förteckning som avses i punkt 2 inom två månader från den dag då anmälan mottogs.
+
+4\. En medlemsstat får lämna in en begäran till kommissionen om att ta bort ett system för elektronisk identifiering som anmälts av medlemsstaten från den förteckning som avses i punkt 2. Kommissionen ska offentliggöra motsvarande ändringar i förteckningen i Europeiska unionens officiella tidning inom en månad från den dag då medlemsstatens begäran mottogs.
+
+5\. Kommissionen får genom genomförandeakter fastställa förutsättningar, format och förfaranden för de anmälningar som avses i punkt 1. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 10 – Säkerhetsincidenter
+
+1\. Om antingen det system för elektronisk identifiering som anmälts i enlighet med artikel [9.1](#artikel-9-anmälan) eller den autentisering som avses i artikel [7](#artikel-7-berättigande-till-anmälan-av-system-för-elektronisk-identifiering) f utsätts för intrång eller delvis äventyras på ett sätt som påverkar tillförlitligheten i systemets gränsöverskridande autentisering ska den anmälande medlemsstaten utan dröjsmål tillfälligt upphäva eller återkalla denna gränsöverskridande autentisering eller de berörda utsatta delarna och informera andra medlemsstater och kommissionen.
+
+2\. När en incident eller ett äventyrande som avses i punkt 1 har åtgärdats ska den anmälande medlemsstaten återinföra den gränsöverskridande autentiseringen och utan onödigt dröjsmål informera andra medlemsstater och kommissionen om detta.
+
+3\. Om en incident eller ett äventyrande som avses i punkt 1 inte åtgärdas inom tre månader från det tillfälliga upphävandet eller återkallelsen, ska den anmälande medlemsstaten till övriga medlemsstater och kommissionen anmäla att systemet för elektronisk identifiering har dragits tillbaka.
+
+Kommissionen ska utan onödigt dröjsmål offentliggöra motsvarande ändringar i den förteckning som avses i artikel [9.2](#artikel-9-anmälan) i Europeiska unionens officiella tidning.
+
+### Artikel 11 – Skadeståndsansvar
+
+1\. Den anmälande medlemsstaten ska ha skadeståndsansvar för skada som åsamkats en fysisk eller juridisk person avsiktligt eller på grund av oaktsamhet genom dess underlåtenhet att uppfylla sina skyldigheter enligt artikel [7](#artikel-7-berättigande-till-anmälan-av-system-för-elektronisk-identifiering) d och f vid en gränsöverskridande transaktion.
+
+2\. Den part som utfärdat medlet för elektronisk identifiering ska ha skadeståndsansvar för skada som åsamkats en fysisk eller juridisk person avsiktligt eller på grund av oaktsamhet genom underlåtenhet att uppfylla den skyldighet som avses i artikel [7](#artikel-7-berättigande-till-anmälan-av-system-för-elektronisk-identifiering) e vid en gränsöverskridande transaktion.
+
+3\. Den part som handhar autentiseringsförfarandet ska ha skadeståndsansvar för skada som åsamkats en fysisk eller juridisk person avsiktligt eller på grund av oaktsamhet genom underlåtenhet att säkerställa korrekt handhavande av den autentisering som avses i artikel [7](#artikel-7-berättigande-till-anmälan-av-system-för-elektronisk-identifiering) f vid en gränsöverskridande transaktion.
+
+4\. Punkterna 1, 2 och 3 ska tillämpas i enlighet med nationella bestämmelser om skadeståndsansvar.
+
+5\. Punkterna 1, 2 och 3 påverkar inte det skadeståndsansvar enligt nationell rätt som gäller för parter i en transaktion där de använda medlen för elektronisk identifiering omfattas av det system för elektronisk identifiering som anmälts i enlighet med artikel [9.1](#artikel-9-anmälan).
+
+### Artikel 12 – Samarbete och interoperabilitet
+
+1\. De nationella system för elektronisk identifiering som anmälts i enlighet med artikel [9.1](#artikel-9-anmälan) ska vara interoperabla.
+
+2\. Med avseende på tillämpningen av punkt 1 ska ett interoperabilitetsramverk fastställas.
+
+3\. Interoperabilitetsramverket ska uppfylla följande kriterier:
+
+a) Det ska ha som mål att vara teknikneutralt och ska inte diskriminera mellan särskilda nationella tekniska lösningar för elektronisk identifiering i en medlemsstat.
+
+b) Det ska, när det är möjligt, följa europeiska och internationella standarder.
+
+c) Det ska främja tillämpningen av principen om ett inbyggt integritetsskydd.
+
+d) Det ska säkerställa att personuppgifter behandlas i enlighet med [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046).
+
+4\. Interoperabilitetsramverket ska bestå av följande:
+
+a) Hänvisning till tekniska minimikrav avseende tillitsnivåerna i artikel [8](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering).
+
+b) Sammankoppling av nationella tillitsnivåer för anmälda system för elektronisk identifiering med tillitsnivåerna enligt artikel [8](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering).
+
+c) Hänvisning till tekniska minimikrav för interoperabilitet.
+
+d) Hänvisning till en minimuppsättning personidentifieringsuppgifter som är unika för en fysisk eller juridisk person och som är tillgänglig via system för elektronisk identifiering.
+
+e) Förfaranderegler.
+
+f) Arrangemang för tvistlösning.
+
+g) Gemensamma standarder för driftsäkerhet.
+
+5\. Medlemsstaterna ska samarbeta med avseende på följande:
+
+a) Interoperabiliteten i de system för elektronisk identifiering som anmälts enligt artikel [9.1](#artikel-9-anmälan) och de system för elektronisk identifiering som medlemsstaterna avser att anmäla.
+
+b) Säkerheten i systemen för elektronisk identifiering.
+
+6\. Samarbetet mellan medlemsstaterna ska bestå av följande:
+
+a) Utbyte av information, erfarenhet och god praxis när det gäller system för elektronisk identifiering och särskilt i fråga om tekniska krav avseende interoperabilitet och tillitsnivåer.
+
+b) Utbyte av information, erfarenheter och god praxis när det gäller arbete med tillitsnivåer för system för elektronisk identifiering enligt artikel [8](#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering).
+
+c) Sakkunnigbedömning av system för elektronisk identifiering som omfattas av [denna förordning](/lagstiftning/eidas).
+
+d) Bedömning av relevant utveckling inom sektorn för elektronisk identifiering.
+
+7\. Senast den 18 mars 2015 ska kommissionen genom genomförandeakter fastställa nödvändiga förfaranden för att underlätta det samarbete mellan medlemsstaterna som avses i punkterna 5 och 6 i syfte att främja en hög nivå av förtroende och säkerhet som står i proportion till risknivån.
+
+8\. Senast den 18 september 2015 ska kommissionen, i enlighet med de kriterier som fastställs i punkt 3 och med beaktande av resultaten av samarbetet mellan medlemsstaterna, för att fastställa enhetliga villkor för tillämpningen av kraven i punkt 1 anta genomförandeakter om det interoperabilitetsramverk som anges i punkt 4.
+
+9\. De genomförandeakter som avses i punkterna 7 och 8 i [denna artikel](#artikel-12-samarbete-och-interoperabilitet) ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

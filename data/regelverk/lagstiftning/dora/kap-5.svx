@@ -1,0 +1,615 @@
+---
+'source': 'dora'
+'ref': 'Kapitel V'
+'title': 'Kapitel V – Hantering av IKT-tredjepartsrisker'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel V.'
+'designation': 'DORA-förordningen Kapitel V'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_V'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 28 – Allmänna principer
+
+1\. Finansiella entiteter ska hantera IKT-tredjepartsrisker som en integrerad del av IKT-risken inom sin IKT-riskhanteringsram som avses i artikel [6.1](/lagstiftning/dora/kap-2#artikel-6-ikt-riskhanteringsram), och i enlighet med följande principer:
+
+a) De finansiella entiteter som har ingått ett kontraktsmässigt arrangemang om användningen av IKT-tjänster för att bedriva sin affärsverksamhet ska alltid ha det fulla ansvaret för uppfyllandet och fullgörandet av alla skyldigheter enligt [denna förordning](/lagstiftning/dora) och tillämplig rätt avseende finansiella tjänster.
+
+b) Finansiella entiteters hantering av IKT-tredjepartsrisker ska genomföras med hänsyn till proportionalitetsprincipen, med beaktande av
+
+i) IKT-relaterade beroendens karaktär, omfattning, komplexitet och betydelse,
+
+ii) de risker som uppstår till följd av kontraktsmässiga arrangemang om användningen av IKT-tjänster som har ingåtts med tredjepartsleverantörer av IKT-tjänster, med hänsyn till den kritikaliteten eller betydelsen av respektive tjänst, process eller funktion, och den potentiella inverkan på kontinuiteten och tillgängligheten hos finansiella tjänster och verksamheter, på individuell nivå och på koncernnivå.
+
+2\. Som en del av sin IKT-riskhanteringsram ska andra finansiella entiteter än de enheter som avses i artikel [16.1](/lagstiftning/dora/kap-2#artikel-16-förenklad-ikt-riskhanteringsram) första stycket och mikroföretag anta och regelbundet se över en strategi för IKT-tredjepartsrisk, med beaktande av den strategi för flera olika leverantörer som avses i artikel [6.9](/lagstiftning/dora/kap-2#artikel-6-ikt-riskhanteringsram) i tillämpliga fall. Strategin för IKT-tredjepartsrisk ska omfatta riktlinjer för användningen av IKT-tjänster som stöder kritiska eller viktiga funktioner och som tillhandahålls av tredjepartsleverantörer av IKT-tjänster och ska tillämpas individuellt och, i förekommande fall, på undergrupps- och gruppnivå. Ledningsorganet ska, baserat på en bedömning av den finansiella entitetens allmänna riskprofil samt omfattningen av och komplexiteten i entitetens affärstjänster, regelbundet se över de risker som har identifierats vad gäller kontraktsmässiga arrangemang för användningen av IKT-tjänster som stöder kritiska eller viktiga funktioner.
+
+3\. Som en del av sin IKT-riskhanteringsram ska finansiella entiteter upprätthålla och uppdatera ett register med information på entitetsnivå, undergrupps- och gruppnivå om alla kontraktsmässiga arrangemang som rör användningen av IKT-tjänster som tillhandahålls av tredjepartsleverantörer av IKT-tjänster.
+
+De kontraktsmässiga arrangemang som avses i första stycket ska dokumenteras på lämpligt sätt, varvid åtskillnad ska göras mellan de kontraktsmässiga arrangemang som omfattar kritiska eller viktiga funktioner och de som inte gör det.
+
+Finansiella entiteter ska minst en gång per år rapportera till de behöriga myndigheterna om antalet nya arrangemang för användningen av IKT-tjänster, kategorierna av tredjepartsleverantörer av IKT-tjänster, typen av kontraktsmässigt arrangemang och de IKT-tjänster och funktioner som tillhandahålls.
+
+Finansiella entiteter ska på begäran ge den behöriga myndigheten tillgång till det fullständiga registret eller angivna avsnitt av registret, tillsammans med all information som anses nödvändig för att möjliggöra en effektiv tillsyn av den finansiella entiteten.
+
+Finansiella entiteter ska i god tid informera den behöriga myndigheten om eventuella planerade kontraktsmässiga arrangemang för användningen av IKT-tjänster som stöder kritiska eller viktiga funktioner samt när en funktion har blivit kritisk eller viktig.
+
+4\. Innan finansiella entiteter ingår ett kontraktsmässigt arrangemang om användning av IKT-tjänster ska de
+
+a) bedöma om det kontraktsmässiga arrangemanget omfattar användningen av IKT-tjänster som stöder en kritisk eller viktig funktion,
+
+b) bedöma om tillsynsvillkoren för utkontraktering är uppfyllda,
+
+c) identifiera och bedöma alla relevanta risker i samband med det kontraktsmässiga arrangemanget, inbegripet möjligheten att sådana kontraktsmässiga arrangemang kan bidra till att förstärka IKT-koncentrationsrisken enligt artikel [29](#artikel-29-preliminär-bedömning-av-ikt-koncentrationsrisker-på-entitetsnivå),
+
+d) genomföra all due diligence-granskning av potentiella tredjepartsleverantörer av IKT-tjänster och under urvals- och bedömningsprocesserna se till att tredjepartsleverantören av IKT-tjänster är lämplig,
+
+e) identifiera och bedöma intressekonflikter som det kontraktsmässiga arrangemanget kan orsaka.
+
+5\. Finansiella entiteter får endast ingå kontraktsmässiga arrangemang med tredjepartsleverantörer av IKT-tjänster som uppfyller lämpliga standarder för informationssäkerhet. När dessa kontraktsmässiga arrangemang gäller kritiska eller viktiga funktioner ska finansiella entiteter, innan de ingår arrangemangen, vederbörligen beakta huruvida tredjepartsleverantörerna av IKT-tjänster använder de senaste och mest högkvalitativa standarderna för informationssäkerhet.
+
+6\. När finansiella entiteter utövar åtkomst-, inspektions- och revisionsrättigheter gentemot tredjepartsleverantören av IKT-tjänster ska de baserat på en riskbaserad metod på förhand fastställa frekvensen för revisioner och inspektioner samt de områden som ska granskas genom att följa allmänt accepterade revisionsstandarder i enlighet med eventuella tillsynsinstruktioner om användning och införlivande av sådana revisionsstandarder.
+
+Om kontraktsmässiga arrangemang som ingås med tredjepartsleverantörer av IKT-tjänster om användningen av IKT-tjänster medför hög teknisk komplexitet ska den finansiella entiteten kontrollera att revisorer, oavsett om de är interna eller externa eller ingår i en pool av revisorer, har lämpliga färdigheter och kunskaper för att effektivt kunna utföra de relevanta revisionerna och bedömningarna.
+
+7\. Finansiella entiteter ska se till att kontraktsmässiga arrangemang om användning av IKT-tjänster kan avslutas under någon av följande omständigheter:
+
+a) Tredjepartsleverantören av IKT-tjänster bryter på ett betydande sätt mot tillämpliga lagar, förordningar eller avtalsvillkor.
+
+b) Omständigheter har identifierats under övervakningen av IKT-tredjepartsrisker som bedöms kunna ändra prestandan hos de funktioner som tillhandahålls genom det kontraktsmässiga arrangemanget, inbegripet väsentliga förändringar som påverkar arrangemanget eller situationen för tredjepartsleverantören av IKT-tjänster.
+
+c) IKT-tredjepartsleverantören har påvisade svagheter vad gäller sin övergripande IKT-riskhantering och i synnerhet det sätt på vilket den säkerställer tillgänglighet, äkthet, integritet och konfidentialitet för data, oavsett om det är personuppgifter eller på annat sätt känsliga uppgifter eller icke-personuppgifter.
+
+d) Om den behöriga myndigheten inte längre effektivt kan utöva tillsyn över den finansiella entiteten till följd av villkoren i eller omständigheter relaterade till respektive kontraktsmässiga arrangemang.
+
+8\. När det gäller IKT-tjänster som stöder kritiska eller viktiga funktioner ska finansiella entiteter införa exitstrategier. Exitstrategierna ska ta hänsyn till risker som kan uppstå hos tredjepartsleverantörerna av IKT-tjänster, i synnerhet eventuella fel hos dessa, försämring av kvaliteten på de IKT-tjänster som tillhandahålls, eventuella avbrott i verksamheten på grund av olämpligt eller misslyckat tillhandahållande av IKT-tjänster eller eventuella väsentliga risker som uppstår i samband med en lämplig och kontinuerlig användning av respektive IKT-tjänst, eller uppsägning av kontraktsmässiga arrangemang med tredjepartsleverantörer av IKT-tjänster under någon av de omständigheter som anges i punkt 7.
+
+Finansiella entiteter ska säkerställa att de kan säga upp kontraktsmässiga arrangemang utan
+
+a) avbrott i sin affärsverksamhet,
+
+b) begränsning av efterlevnaden av lagstadgade krav,
+
+c) skada på kontinuiteten och kvaliteten hos de tjänster som tillhandahålls kunder.
+
+Exitplanerna ska vara heltäckande och dokumenterade och de ska, i enlighet med kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen), vara tillräckligt testade och ska regelbundet ses över.
+
+Finansiella entiteter ska identifiera alternativa lösningar och utarbeta övergångsplaner som gör det möjligt för dem att avlägsna de kontrakterade IKT-tjänsterna och relevanta data från tredjepartsleverantören av IKT-tjänster och på ett säkert och fullständigt sätt överföra dem till alternativa leverantörer eller återintegrera dem internt.
+
+Finansiella entiteter ska ha lämpliga beredskapsåtgärder på plats för att upprätthålla kontinuiteten i verksamheten vid uppkomst av de omständigheter som avses i första stycket.
+
+9\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för genomförande för att fastställa standardmallar för det register över uppgifter som avses i punkt 3, inbegripet uppgifter som är gemensamma för alla kontraktsmässiga arrangemang om användning av IKT-tjänster. De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för genomförande till kommissionen senast den 17 januari 2024.
+
+Kommissionen ges befogenhet att anta de tekniska standarder för genomförande som avses i första stycket i enlighet med artikel [15](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+10\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn för att närmare specificera det detaljerade innehållet i de riktlinjer som avses i punkt 2 i fråga om de kontraktsmässiga arrangemangen för användningen av IKT-tjänster som stöder kritiska eller viktiga funktioner och som tillhandahålls av tredjepartsleverantörer av IKT-tjänster.
+
+När de europeiska tillsynsmyndigheterna utarbetar dessa förslag till tekniska standarder för tillsyn ska de ta hänsyn till den finansiella entitetens storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i dess tjänster, verksamhet och insatser. De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 januari 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 29 – Preliminär bedömning av IKT-koncentrationsrisker på entitetsnivå
+
+1\. När finansiella entiteter utför den identifiering och bedömning av risk som avses i artikel [28.4 c](#artikel-28-allmänna-principer) ska de även ta hänsyn till om det planerade ingåendet av ett kontraktsmässigt arrangemang avseende IKT-tjänster som stöder kritiska eller viktiga funktioner skulle leda till något av följande:
+
+a) Avtal med en tredjepartsleverantör av IKT-tjänster som inte är lätt utbytbar.
+
+b) Flera kontraktsmässiga arrangemang gällande tillhandahållande av IKT-tjänster som stöder kritiska eller viktiga funktioner med samma tredjepartsleverantör av IKT-tjänster eller med nära anknutna tredjepartsleverantörer av IKT-tjänster.
+
+Finansiella entiteter ska väga fördelarna och kostnaderna med alternativa lösningar, t.ex. användning av olika tredjepartsleverantörer av IKT-tjänster, med hänsyn till om och hur planerade lösningar motsvarar de affärsbehov och mål som anges i deras strategi för digital motståndskraft.
+
+2\. Om de kontraktsmässiga arrangemangen om användning av IKT-tjänster som stöder kritiska eller viktiga funktioner inbegriper möjligheten att en tredjepartsleverantör av IKT-tjänster lägger ut IKT-tjänster som stöder kritisk eller viktig funktion på underentreprenad till andra tredjepartsleverantörer av IKT-tjänster, ska finansiella entiteter väga de fördelar och risker som kan uppstå i samband med en sådan underentreprenad, särskilt när det gäller en IKT-underleverantör som är etablerad i ett tredjeland.
+
+Om de kontraktsmässiga arrangemangen gäller IKT-tjänster som stöder kritiska eller viktiga funktioner ska finansiella entiteter vederbörligen ta hänsyn till de insolvensrättsliga bestämmelser som skulle vara tillämpliga om IKT-tjänsteleverantören går i konkurs samt eventuella begränsningar som kan uppstå när det gäller skyndsam återställning av den finansiella entitetens data.
+
+Om kontraktsmässiga arrangemang om användning av IKT-tjänster som stöder kritiska eller viktiga funktioner ingås med en tredjepartsleverantör av IKT-tjänster som är etablerad i ett tredjeland ska finansiella entiteter utöver de hänsynstaganden som avses i andra stycket även beakta överensstämmelsen med unionens dataskyddsregler och den faktiska efterlevnaden av rätten i det tredjelandet.
+
+Om de kontraktsmässiga arrangemangen om användning av IKT-tjänster som stöder kritiska eller viktiga funktioner medger underentreprenad, ska finansiella entiteter bedöma om och hur potentiellt långa eller komplexa underentreprenadskedjor kan påverka deras förmåga att till fullo övervaka de avtalade funktionerna och den behöriga myndighetens förmåga att effektivt övervaka den finansiella entiteten i detta avseende.
+
+### Artikel 30 – Viktiga avtalsbestämmelser
+
+1\. Rättigheterna och skyldigheterna för den finansiella entiteten och tredjepartsleverantören av IKT-tjänster ska vara tydligt fördelade och skriftligen angivna. Det fullständiga avtalet ska omfatta servicenivåavtalen och dokumenteras i ett skriftligt dokument som parterna ska ha tillgång till på papper eller i ett dokument med ett annat nedladdningsbart, varaktigt och tillgängligt format.
+
+2\. De kontraktsmässiga arrangemangen för användning av IKT-tjänster ska innehålla åtminstone följande delar:
+
+a) En tydlig och fullständig beskrivning av alla funktioner och IKT-tjänster som ska tillhandahållas av tredjepartsleverantören av IKT-tjänster, med uppgift om huruvida underentreprenad av en IKT-tjänst som stöder en kritisk eller viktig funktion eller väsentliga delar därav, är tillåten och, när så är fallet, de villkor som gäller för sådan underentreprenad.
+
+b) De platser, nämligen regioner eller länder, där de funktioner och IKT-tjänster som har utkontrakterats eller lagts ut på underentreprenad ska tillhandahållas och var uppgifterna ska behandlas, inklusive lagringsplatsen, och ett krav på att tredjepartsleverantören av IKT-tjänster på förhand ska underrätta den finansiella entiteten om den planerar att ändra sådana platser.
+
+c) Bestämmelser om tillgänglighet, äkthet, integritet och konfidentialitet vad gäller skydd av data, inbegripet personuppgifter.
+
+d) Bestämmelser om säkerställande av åtkomst, återställande och återlämnande i ett lättillgängligt format av personuppgifter och andra uppgifter än personuppgifter som behandlas av den finansiella entiteten i händelse av insolvens, resolution eller nedläggning av verksamheten vad avser tredjepartsleverantören av IKT-tjänster, eller i händelse av uppsägning av de kontraktsmässiga arrangemangen.
+
+e) Beskrivningar av servicenivå, inbegripet uppdateringar och revideringar av dessa.
+
+f) Skyldigheten för tredjepartsleverantören av IKT-tjänster att tillhandahålla assistans till den finansiella entiteten utan extra kostnad, eller till en kostnad som fastställs på förhand, när en IKT-incident med anknytning till den IKT-tjänst som tillhandahålls den finansiella entiteten inträffar.
+
+g) Skyldigheten för tredjepartsleverantören av IKT-tjänster att samarbeta fullt ut med de behöriga myndigheterna och resolutionsmyndigheterna för den finansiella entiteten, inbegripet personer som har utsetts av dem.
+
+h) Uppsägningsrätt och tillhörande minsta uppsägningstid för uppsägning av det kontraktsmässiga arrangemanget, i enlighet med de behöriga myndigheternas och resolutionsmyndigheternas förväntningar.
+
+i) Villkoren för deltagande av tredjepartsleverantörer av IKT-tjänster i finansiella entiteters program för medvetenhet om IKT-säkerhet och utbildning om digital operativ motståndskraft i enlighet med artikel [13.6](/lagstiftning/dora/kap-2#artikel-13-lärande-och-utveckling).
+
+3\. De kontraktsmässiga arrangemangen om användning av IKT-tjänster som stöder kritiska eller viktiga funktioner ska, utöver de delar som avses i punkt 2, innehålla åtminstone följande:
+
+a) Beskrivningar av fullständig servicenivå, inklusive uppdateringar och revideringar av dessa, med exakta kvantitativa och kvalitativa prestationsmål inom de överenskomna servicenivåerna för att göra det möjligt för den finansiella entiteten att effektivt övervaka IKT-tjänster och göra det möjligt att utan onödigt dröjsmål vidta lämpliga korrigerande åtgärder när överenskomna servicenivåer inte uppnås.
+
+b) Anmälningsperioder och rapporteringsskyldigheter för tredjepartsleverantören av IKT-tjänster till den finansiella entiteten, inbegripet underrättelse om varje händelse som kan ha en väsentlig inverkan på IKT-tredjepartsleverantörens förmåga att effektivt tillhandahålla IKT-tjänster som stöder kritiska eller viktiga funktioner i linje med överenskomna servicenivåer.
+
+c) Krav på att tredjepartsleverantören av IKT-tjänster ska genomföra och testa beredskapsplaner för verksamheten och ha infört IKT-säkerhetsåtgärder, IKT-verktyg och IKT-strategier som ger en lämplig säkerhetsnivå vid tillhandahållande av tjänster från den finansiella entitetens sida i enlighet med dess regelverk.
+
+d) Skyldigheten för tredjepartsleverantören av IKT-tjänster att delta och fullt ut samarbeta i den finansiella entitetens hotbildsstyrda penetrationstestning enligt artiklarna [26](/lagstiftning/dora/kap-4#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) och [27](/lagstiftning/dora/kap-4#artikel-27-krav-för-testare-vid-utförandet-av-hotbildsstyrd-penetrationstestning).
+
+e) Rätten att fortlöpande övervaka prestandan hos tredjepartsleverantören av IKT-tjänster, vilket omfattar följande:
+
+i) Obegränsad rätt till tillgång till, inspektion och revision för den finansiella entiteten eller en utsedd tredjepart, och för den behöriga myndigheten, och rätt att ta kopior av relevant dokumentation på plats om de är kritiska för verksamheten hos tredjepartsleverantören av IKT-tjänster, vars faktiska utövande inte hindras eller begränsas av andra kontraktsmässiga arrangemang eller strategier för genomförande.
+
+ii) Rätten att komma överens om alternativa garantinivåer om andra kunders rättigheter påverkas.
+
+iii) Skyldigheten för tredjepartsleverantören av IKT-tjänster att samarbeta fullt ut under de inspektioner och revisioner på plats som utförs av de behöriga myndigheterna, den ledande tillsynsmyndigheten, den finansiella entiteten eller en utsedd tredjepart.
+
+iv) Skyldigheten att tillhandahålla närmare uppgifter om omfattningen, de förfaranden som ska följas och frekvensen för sådana inspektioner och revisioner.
+
+f) Exitstrategier, särskilt inrättande av en obligatorisk lämplig övergångsperiod
+
+i) under vilken tredjepartsleverantören av IKT-tjänster kommer att fortsätta att tillhandahålla respektive funktioner eller IKT-tjänster i syfte att minska risken för avbrott hos den finansiella entiteten, eller säkerställa en effektiv resolution och omstrukturering av denna,
+
+ii) som gör det möjligt för den finansiella entiteten att migrera till en annan tredjepartsleverantör av IKT-tjänster eller byta till interna lösningar som är förenliga med komplexiteten hos den tillhandahållna tjänsten.
+
+Genom undantag från led e får tredjepartsleverantören av IKT-tjänster och en finansiell entitet som är ett mikroföretag komma överens om att den finansiella entitetens rätt till tillgång, inspektion och revision kan delegeras till en oberoende tredjepart som utsetts av tredjepartsleverantören av IKT-tjänster, och att den finansiella entiteten när som helst kan begära information och försäkran om IKT-tredjepartsleverantörens prestanda från den tredje parten.
+
+4\. När finansiella entiteter och tredjepartsleverantörer av IKT-tjänster förhandlar om kontraktsmässiga arrangemang ska de överväga att använda standardavtalsklausuler som har utarbetats av offentliga myndigheter för specifika tjänster.
+
+5\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn för att närmare specificera de delar som avses i punkt 2 a och som en finansiell entitet måste fastställa och bedöma när den lägger ut IKT-tjänster som stöder kritiska eller viktiga funktioner på underentreprenad.
+
+När de europeiska tillsynsmyndigheterna utarbetar dessa förslag till tekniska standarder för tillsyn ska de ta hänsyn till den finansiella entitetens storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i dess tjänster, verksamhet och insatser.
+
+De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 juli 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 31 – Klassificering av tredjepartsleverantörer av IKT-tjänster som kritiska
+
+1\. De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och på rekommendation av det tillsynsforum som har inrättats enligt artikel [32.1](#artikel-32-tillsynsramens-struktur),
+
+a) klassificera tredjepartsleverantörer av IKT-tjänster som kritiska för finansiella entiteter, efter en bedömning som tar hänsyn till de kriterier som anges i punkt 2,
+
+b) utse till ledande tillsynsmyndighet för varje kritisk tredjepartsleverantör av IKT-tjänster den europeiska tillsynsmyndighet som är ansvarig enligt [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) eller [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) för de finansiella entiteter som tillsammans har den största andelen av de totala tillgångarna av värdet av de totala tillgångarna hos alla finansiella entiteter som utnyttjar tjänster från den relevanta kritiska tredjepartsleverantören av IKT-tjänster, i enlighet med vad som framgår av summan av dessa finansiella entiteters enskilda balansräkningar.
+
+2\. Den klassificering som avses i punkt 1 a ska baseras på samtliga följande kriterier när det gäller IKT-tjänster som tillhandahålls av tredjepartsleverantören av IKT-tjänster:
+
+a) Systempåverkan på stabiliteten, kontinuiteten eller kvaliteten på tillhandahållandet av finansiella tjänster om den berörda tredjepartsleverantören av IKT-tjänster skulle drabbas av ett omfattande driftsavbrott i tillhandahållandet av tjänster, med tanke på antalet finansiella entiteter och det totala värdet av tillgångarna hos de finansiella entiteter som den berörda tredjepartsleverantören av IKT-tjänster tillhandahåller tjänster till.
+
+b) Påverkan på eller betydelsen för systemet av de finansiella entiteter som är beroende av den berörda tredjepartsleverantören av IKT-tjänster, bedömt enligt följande parametrar:
+
+i) Antalet globala systemviktiga institut eller andra systemviktiga institut som är beroende av respektive tredjepartsleverantör av IKT-tjänster.
+
+ii) Det ömsesidiga beroendet mellan de globala systemviktiga institut eller andra systemviktiga institut som avses i led i och andra finansiella entiteter, inbegripet situationer där de globala systemviktiga instituten eller andra systemviktiga instituten tillhandahåller finansiella infrastrukturtjänster till andra finansiella entiteter.
+
+c) Finansiella entiteters beroende av de tjänster som tillhandahålls av den berörda tredjepartsleverantören av IKT-tjänster i förhållande till kritiska eller viktiga funktioner hos de finansiella entiteter som i sista hand involverar samma tredjepartsleverantör av IKT-tjänster, oavsett om finansiella entiteter direkt eller indirekt är beroende av dessa tjänster, med hjälp av eller genom underleverantörsavtal.
+
+d) Graden av utbytbarhet hos tredjepartsleverantören av IKT-tjänster, med beaktande av följande parametrar:
+
+i) Avsaknad av verkliga alternativ, även delvis, på grund av det begränsade antalet tredjepartsleverantörer av IKT-tjänster som är verksamma på en viss marknad, eller marknadsandelen för den berörda tredjepartsleverantören av IKT-tjänster, eller den tekniska komplexiteten eller avancerade karaktären, inbegripet i förhållande till eventuell proprietär teknik, eller särdragen hos IKT-tredjepartsleverantörens organisation eller verksamhet.
+
+ii) Svårigheter när det gäller att helt eller delvis migrera relevanta data och arbetsbelastningar från den berörda tredjepartsleverantören av IKT-tjänster till en annan tredjepartsleverantör av IKT-tjänster, på grund av betydande finansiella kostnader, tidsåtgång eller andra resurser som migrationsprocessen kan medföra, eller på grund av ökad IKT-risk eller andra operativa risker som den finansiella entiteten kan utsättas för genom sådan migration.
+
+3\. Om tredjepartsleverantören av IKT-tjänster ingår i en koncern ska de kriterier som avses i punkt 2 beaktas vad avser de IKT-tjänster som koncernen som helhet tillhandahåller.
+
+4\. Kritiska tredjepartsleverantörer av IKT-tjänster som ingår i en koncern ska utse en juridisk person till samordningspunkt för att säkerställa lämplig representation och kommunikation med den ledande tillsynsmyndigheten.
+
+5\. Den ledande tillsynsmyndigheten ska underrätta tredjepartsleverantören av IKT-tjänster om resultatet av den bedömning som leder till den klassificering som avses i punkt 1 a. Inom sex veckor från dagen för anmälan får tredjepartsleverantören av IKT-tjänster lämna in ett motiverat uttalande till den ledande tillsynsmyndigheten med all relevant information för bedömningen. Den ledande tillsynsmyndigheten ska beakta det motiverade uttalandet och får begära att ytterligare information lämnas inom 30 kalenderdagar efter mottagandet av ett sådant uttalande.
+
+Efter att ha klassificerat en tredjepartsleverantör av IKT-tjänster som kritisk ska de europeiska tillsynsmyndigheterna, genom den gemensamma kommittén, underrätta tredjepartsleverantören av IKT-tjänster om klassificeringen och från och med vilket datum tredjepartsleverantören faktiskt kommer att omfattas av tillsynsverksamhet. Detta startdatum ska inträffa senast en månad efter anmälan. Tredjepartsleverantören av IKT-tjänster ska underrätta de finansiella entiteter som den tillhandahåller tjänster om att den klassificeras som kritisk.
+
+6\. Kommissionen ges befogenhet att anta en delegerad akt i enlighet med artikel [57](/lagstiftning/dora/kap-8#artikel-57-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/dora) genom att närmare specificera kriterierna i punkt 2 i [den här artikeln](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) senast den 17 juli 2024.
+
+7\. Den klassificering som avses i punkt 1 a får inte användas förrän kommissionen har antagit en delegerad akt i enlighet med punkt 6.
+
+8\. Den klassificering som avses i punkt 1 a får inte tillämpas på följande:
+
+i) Finansiella entiteter som tillhandahåller IKT-tjänster till andra finansiella entiteter.
+
+ii) Tredjepartsleverantörer av IKT-tjänster som omfattas av tillsynsramar som har inrättats till stöd för de uppgifter som avses i artikel [127.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) i fördraget om Europeiska unionens funktionssätt.
+
+iii) Koncerninterna IKT-tjänsteleverantörer.
+
+iv) Tredjepartsleverantörer av IKT-tjänster som endast tillhandahåller IKT-tjänster i en medlemsstat till finansiella entiteter som endast är verksamma i den medlemsstaten.
+
+9\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén upprätta, offentliggöra och årligen uppdatera förteckningen över kritiska tredjepartsleverantörer av IKT-tjänster på unionsnivå.
+
+10\. Vid tillämpning av punkt 1 a ska de behöriga myndigheterna årligen och i aggregerad form översända de rapporter som avses i artikel [28.3](#artikel-28-allmänna-principer) tredje stycket till det tillsynsforum som har inrättats enligt artikel [32](#artikel-32-tillsynsramens-struktur). Tillsynsforumet ska bedöma finansiella entiteters IKT-beroende gentemot tredjepart baserat på den information som har mottagits från de behöriga myndigheterna.
+
+11\. De tredjepartsleverantörer av IKT-tjänster som inte ingår i den förteckning som avses i punkt 9 får begära att bli klassificerade som kritiska i enlighet med punkt 1 a.
+
+Vid tillämpning av första stycket ska tredjepartsleverantören av IKT-tjänster lämna in en motiverad ansökan till EBA, Esma eller Eiopa, som genom den gemensamma kommittén ska besluta huruvida den tredjepartsleverantören av IKT-tjänster ska klassificeras som kritisk i enlighet med punkt 1 a.
+
+Det beslut som avses i andra stycket ska antas och meddelas tredjepartsleverantören av IKT-tjänster inom sex månader från mottagandet av ansökan.
+
+12\. Finansiella entiteter ska endast använda sig av de tjänster som en tredjepartsleverantör av IKT-tjänster som är etablerad i ett tredjeland och som har klassificerats som kritisk i enlighet med punkt 1 a erbjuder om den har etablerat ett dotterföretag i unionen inom tolv månader efter klassificeringen.
+
+13\. Den kritiska tredjepartsleverantör av IKT-tjänster som avses i punkt 12 ska underrätta den ledande tillsynsmyndigheten om eventuella ändringar av ledningsstrukturen för det dotterföretag som är etablerat i unionen.
+
+### Artikel 32 – Tillsynsramens struktur
+
+1\. Den gemensamma kommittén ska i enlighet med artikel [57.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095), inrätta tillsynsforumet som en underkommitté för att stödja arbetet i den gemensamma kommittén och i den ledande tillsynsmyndighet som avses i artikel [31.1 b](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) inom området för IKT-tredjepartsrisker i alla finansiella sektorer. Tillsynsforumet ska utarbeta utkast till gemensamma ståndpunkter och utkast till gemensamma akter från den gemensamma kommittén på detta område.
+
+Tillsynsforumet ska regelbundet diskutera relevant utveckling när det gäller IKT-risk och IKT-sårbarheter och främja en konsekvent strategi för övervakning av IKT-tredjepartsrisk på unionsnivå.
+
+2\. Tillsynsforumet ska årligen göra en gemensam bedömning av resultaten och slutsatserna av den tillsynsverksamhet som genomförts för alla kritiska tredjepartsleverantörer av IKT-tjänster och främja samordningsåtgärder för att öka finansiella entiteters digitala operativa motståndskraft, främja bästa praxis för hantering av IKT-koncentrationsrisker och undersöka riskreducerande åtgärder för sektorsövergripande risköverföring.
+
+3\. Tillsynsforumet ska lägga fram heltäckande referensvärden för kritiska tredjepartsleverantörer av IKT-tjänster som ska antas av den gemensamma kommittén i form av gemensamma ståndpunkter från de europeiska tillsynsmyndigheterna i enlighet med artikel [56.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+4\. Tillsynsforumet ska bestå av följande:
+
+a) Ordförandena för de europeiska tillsynsmyndigheterna.
+
+b) En företrädare på hög nivå för den tjänstgörande personalen på den relevanta behöriga myndighet som avses i artikel [46](/lagstiftning/dora/kap-7#artikel-46-behöriga-myndigheter) i varje medlemsstat.
+
+c) De verkställande direktörerna för varje europeisk tillsynsmyndighet och en företrädare för kommissionen, ESRB, ECB och Enisa som observatörer.
+
+d) När så är lämpligt, ytterligare en företrädare från en behörig myndighet som avses i artikel [46](/lagstiftning/dora/kap-7#artikel-46-behöriga-myndigheter) i varje medlemsstat som observatör.
+
+e) I tillämpliga fall, en företrädare från de behöriga myndigheter som i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2) har utsetts eller inrättats till ansvariga för tillsynen av en väsentlig eller viktig entitet om inte annat följer av det direktivet som har klassificerats som kritisk tredjepartsleverantör av IKT-tjänster som observatör.
+
+Tillsynsforumet får, när så är lämpligt, rådfråga oberoende experter som utsetts i enlighet med punkt 6.
+
+5\. Varje medlemsstat ska utse den relevanta behöriga myndighet vars anställde ska vara den företrädare på hög nivå som avses i punkt 4 första stycket b, och ska informera den ledande tillsynsmyndigheten om detta.
+
+De europeiska tillsynsmyndigheterna ska på sin webbplats offentliggöra förteckningen över de företrädare på hög nivå från den befintliga personalen vid den relevanta behöriga myndigheten som utsetts av medlemsstaterna.
+
+6\. De oberoende experter som avses i punkt 4 andra stycket ska utses av tillsynsforumet bland en pool av experter som väljs ut efter ett offentligt och transparent ansökningsförfarande.
+
+De oberoende experterna ska utses baserat på sin sakkunskap om finansiell stabilitet, digital operativ motståndskraft och IKT-säkerhet. De ska handla oberoende och objektivt och uteslutande i hela unionens intresse och varken begära eller ta emot instruktioner från unionens institutioner eller organ, regeringen i någon medlemsstat eller något annat offentligt eller privat organ.
+
+7\. I enlighet med artikel [16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) ska de europeiska tillsynsmyndigheterna senast den 17 juli 2024 vid tillämpningen av [detta avsnitt](/lagstiftning/dora/kap-5) utfärda riktlinjer för samarbetet mellan de europeiska tillsynsmyndigheterna och de behöriga myndigheterna som omfattar detaljerade förfaranden och villkor för fördelningen och utförandet av uppgifter mellan behöriga myndigheter och de europeiska tillsynsmyndigheterna och närmare uppgifter om det informationsutbyte som är nödvändiga för att de behöriga myndigheterna ska kunna säkerställa uppföljningen av de rekommendationer som riktas till kritiska tredjepartsleverantörer av IKT-tjänster enligt artikel [35.1 d](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter).
+
+8\. De krav som fastställs i [detta avsnitt](/lagstiftning/dora/kap-5) ska inte påverka tillämpningen av [direktiv (EU) 2022/2555](/lagstiftning/nis2) och andra unionsregler om tillsyn som är tillämpliga på leverantörer av molntjänster.
+
+9\. De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och på grundval av det förberedande arbete som utförs av tillsynsforumet, varje år lägga fram en rapport om tillämpningen av [detta avsnitt](/lagstiftning/dora/kap-5) för Europaparlamentet, rådet och kommissionen.
+
+### Artikel 33 – Den ledande tillsynsmyndighetens uppgifter
+
+1\. Den ledande tillsynsmyndigheten, som utsetts i enlighet med artikel [31.1 b](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska), ska utöva tillsyn över de kritiska tredjepartsleverantörer av IKT-tjänster som den tilldelats och ska, när det gäller alla frågor som rör tillsynen, vara den huvudsakliga kontaktpunkten för dessa kritiska tredjepartsleverantörer av IKT-tjänster.
+
+2\. Vid tillämpning av punkt 1 ska den ledande tillsynsmyndigheten bedöma huruvida varje kritisk tredjepartsleverantör av IKT-tjänster har infört heltäckande, sunda och effektiva regler, förfaranden, mekanismer och arrangemang för att hantera den IKT-risk som den kan medföra för finansiella entiteter.
+
+Den bedömning som avses i första stycket ska huvudsakligen inriktas på IKT-tjänster som tillhandahålls av den kritiska tredjepartsleverantör av IKT-tjänster som stöder finansiella entiteters kritiska eller viktiga funktioner. Om det är nödvändigt för att hantera alla relevanta risker ska den bedömningen även omfatta IKT-tjänster som stöder andra funktioner än de som är kritiska eller viktiga.
+
+3\. Den bedömning som avses i punkt 2 ska omfatta:
+
+a) IKT-krav för att i synnerhet säkerställa säkerhet, tillgänglighet, kontinuitet, skalbarhet och kvalitet hos de tjänster som den kritiska tredjepartsleverantören av IKT-tjänster tillhandahåller finansiella entiteter, samt förmåga att alltid upprätthålla höga standarder för tillgänglighet, äkthet, integritet eller konfidentialitet.
+
+b) Den fysiska säkerhet som bidrar till att säkerställa IKT-säkerheten, inbegripet säkerheten i lokaler, anläggningar och datacenter.
+
+c) Riskhanteringsprocesser, inbegripet IKT-riskhanteringsstrategier, IKT-kontinuitetspolicy och åtgärds- och återställningsplaner avseende IKT.
+
+d) Styrformer, inbegripet en organisationsstruktur med tydliga, transparenta och konsekventa regler för ansvar och ansvarsskyldighet som möjliggör en effektiv IKT-riskhantering.
+
+e) Identifiering, övervakning och snabb rapportering av väsentliga IKT-relaterade incidenter till finansiella entiteter, hantering och avhjälpande av dessa incidenter, särskilt cyberangrepp.
+
+f) Mekanismer för dataportabilitet, tillämpningsportabilitet och interoperabilitet, som säkerställer att finansiella entiteter effektivt kan utöva sin uppsägningsrätt.
+
+g) Testning av IKT-system, IKT-infrastruktur och IKT-kontroller.
+
+h) IKT-revisioner.
+
+i) Användning av relevanta nationella och internationella standarder som är tillämpliga på tillhandahållandet av leverantörens IKT-tjänster till finansiella entiteter.
+
+4\. Baserat på den bedömning som avses i punkt 2, och i samordning med det gemensamma tillsynsnätverk som avses i artikel [34.1](#artikel-34-operativ-samordning-mellan-ledande-tillsynsmyndigheter), ska den ledande tillsynsmyndigheten anta en tydlig, detaljerad och motiverad individuell tillsynsplan med en beskrivning av de årliga tillsynsmålen och de huvudsakliga tillsynsinsatser som planeras för varje kritisk tredjepartsleverantör av IKT-tjänster. Planen ska varje år meddelas den kritiska tredjepartsleverantören av IKT-tjänster.
+
+Innan tillsynsplanen antas ska den ledande tillsynsmyndigheten överlämna utkastet till tillsynsplan till den kritiska tredjepartsleverantören av IKT-tjänster.
+
+Vid mottagandet av utkastet till tillsynsplan får den kritiska tredjepartsleverantören av IKT-tjänster lämna in ett motiverat uttalande inom 15 kalenderdagar som dels styrker den förväntade inverkan på de kunder som är entiteter som faller utanför [denna förordnings](/lagstiftning/dora) tillämpningsområde och dels, i förekommande fall, formulerar lösningar för att minska riskerna.
+
+5\. När de årliga tillsynsplaner som avses i punkt 4 har antagits och anmälts till de kritiska tredjepartsleverantörerna av IKT-tjänster får de behöriga myndigheterna vidta åtgärder avseende sådana kritiska tredjepartsleverantörer av IKT-tjänster endast i samförstånd med den ledande tillsynsmyndigheten.
+
+### Artikel 34 – Operativ samordning mellan ledande tillsynsmyndigheter
+
+1\. För att säkerställa ett konsekvent tillvägagångssätt för tillsynsverksamheten och i syfte att möjliggöra samordnade allmänna tillsynsstrategier och sammanhängande operativa tillvägagångssätt och arbetsmetoder, ska de tre ledande tillsynsmyndigheter som utsetts i enlighet med artikel [31.1 b](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) inrätta ett gemensamt tillsynsnätverk för att sinsemellan samordna de förberedande faserna och samordna genomförandet av tillsynsverksamheten för de respektive kritiska tredjepartsleverantörer av IKT-tjänster som de granskar, samt inom ramen för eventuella åtgärder som kan behövas enligt artikel [42](#artikel-42-behöriga-myndigheters-uppföljning).
+
+2\. Vid tillämpning av punkt 1 ska de ledande tillsynsmyndigheterna utarbeta ett gemensamt tillsynsprotokoll som anger de detaljerade förfaranden som ska följas för den dagliga samordningen och för att säkerställa snabba utbyten och reaktioner. Protokollet ska regelbundet ses över för att återspegla de operativa behoven, särskilt utvecklingen av arrangemangen för den praktiska tillsynen.
+
+3\. De ledande tillsynsmyndigheterna får från fall till fall uppmana ECB och Enisa att tillhandahålla teknisk rådgivning, dela med sig av praktiska erfarenheter eller delta i specifika samordningsmöten för det gemensamma tillsynsnätverket.
+
+### Artikel 35 – Den ledande tillsynsmyndighetens befogenheter
+
+1\. För att fullgöra de uppgifter som anges i [detta avsnitt](/lagstiftning/dora/kap-5) ska den ledande tillsynsmyndigheten vad gäller de kritiska tredjepartsleverantörerna av IKT-tjänster ha befogenhet att
+
+a) begära all relevant information och dokumentation i enlighet med artikel [37](#artikel-37-begäran-om-information),
+
+b) genomföra allmänna utredningar och inspektioner i enlighet med artiklarna [38](#artikel-38-allmänna-utredningar) respektive 39,
+
+c) efter det att tillsynsverksamheten har slutförts begära rapporter med angivande av de åtgärder som har vidtagits eller de avhjälpande åtgärder som har vidtagits av de kritiska tredjepartsleverantörerna av IKT-tjänster i samband med de rekommendationer som avses i led d i denna punkt,
+
+d) utfärda rekommendationer på de områden som avses i artikel [33.3](#artikel-33-den-ledande-tillsynsmyndighetens-uppgifter), särskilt
+
+i) om tillämpning av specifika IKT-säkerhets- och kvalitetskrav eller IKT-processer, särskilt i samband med införandet av programfixar, uppdateringar, kryptering och andra säkerhetsåtgärder som den ledande tillsynsmyndigheten anser vara relevanta för att säkerställa IKT-säkerheten för tjänster som tillhandahålls till finansiella entiteter,
+
+ii) om användning av villkor, inbegripet deras tekniska genomförande, enligt vilka kritiska tredjepartsleverantörer av IKT-tjänster tillhandahåller IKT-tjänster till finansiella entiteter, som den ledande tillsynsmyndighetens bedömer är relevanta för att förhindra uppkomsten av felkritiska systemdelar (single points of failure) eller en förstärkning av dessa eller för att minimera de eventuella systemeffekterna inom unionens finansiella sektor i händelse av IKT-koncentrationsrisk,
+
+iii) om eventuell planerad underentreprenad, när den ledande tillsynsmyndigheten bedömer att ytterligare underentreprenad, inbegripet underentreprenadsavtal som de kritiska tredjepartsleverantörerna av IKT-tjänster planerar att ingå med tredjepartsleverantörer av IKT-tjänster eller med IKT-underleverantörer som är etablerade i ett tredjeland, kan utlösa risker för den finansiella entitetens tillhandahållande av tjänster eller risker för den finansiella stabiliteten, på grundval av granskningen av den information som samlas in i enlighet med artiklarna [37](#artikel-37-begäran-om-information) och [38](#artikel-38-allmänna-utredningar),
+
+iv) om att avstå från att ingå ytterligare underleverantörsavtal, om följande kumulativa villkor är uppfyllda, nämligen
+
+— den planerade underleverantören är en tredjepartsleverantör av IKT-tjänster eller en IKT-underleverantör som är etablerad i ett tredjeland,
+
+— underentreprenaden avser kritiska eller viktiga funktioner hos den finansiella entiteten, och
+
+— den ledande tillsynsmyndigheten anser att användningen av sådan underentreprenad utgör en klar och allvarlig risk för unionens finansiella stabilitet eller för finansiella entiteter, inbegripet finansiella entiteters förmåga att uppfylla tillsynskraven.
+
+Vid tillämpning av led iv i detta led ska tredjepartsleverantörer av IKT-tjänster, med hjälp av den mall som avses i artikel [41.1 b](#artikel-41-harmonisering-av-villkor-som-möjliggör-genomförandet-för-tillsynsverksamheten), överföra informationen om underentreprenad till den ledande tillsynsmyndigheten.
+
+2\. Vid utövandet av de befogenheter som avses i [denna artikel](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) ska den ledande tillsynsmyndigheten
+
+a) säkerställa regelbunden samordning inom det gemensamma tillsynsnätverket, och i synnerhet eftersträva konsekventa tillvägagångssätt, när så är lämpligt, vad gäller tillsynen av kritiska tredjepartsleverantörer av IKT-tjänster,
+
+b) ta vederbörlig hänsyn till den ram som fastställs i [direktiv (EU) 2022/2555](/lagstiftning/nis2) och vid behov samråda med de relevanta behöriga myndigheter som utsetts eller inrättats i enlighet med det direktivet, för att undvika överlappning av tekniska och organisatoriska åtgärder som skulle kunna tillämpas på kritiska tredjepartsleverantörer av IKT-tjänster enligt det direktivet,
+
+c) sträva efter att i möjligaste mån minimera risken för avbrott i tjänster som kritiska tredjepartsleverantörer av IKT-tjänster tillhandahåller kunder som är entiteter som faller utanför [denna förordnings](/lagstiftning/dora) tillämpningsområde.
+
+3\. Den ledande tillsynsmyndigheten ska samråda med tillsynsforumet innan den utövar de befogenheter som avses i punkt 1.
+
+Innan den ledande tillsynsmyndigheten utfärdar rekommendationer i enlighet med punkt 1 d ska den ge tredjepartsleverantören av IKT-tjänster möjlighet att inom 30 kalenderdagar tillhandahålla relevant information som dels styrker den förväntade inverkan på de kunder som är entiteter som faller utanför [denna förordnings](/lagstiftning/dora) tillämpningsområde och dels, i förekommande fall, formulerar lösningar för att minska riskerna.
+
+4\. Den ledande tillsynsmyndigheten ska informera det gemensamma tillsynsnätverket om resultatet av utövandet av de befogenheter som avses i punkt 1 a och b. Den ledande tillsynsmyndigheten ska utan onödigt dröjsmål översända de rapporter som avses i punkt 1 c till det gemensamma tillsynsnätverket och till de behöriga myndigheterna för de finansiella entiteter som använder de IKT-tjänster som tillhandahålls av den kritiska tredjepartsleverantören av IKT-tjänster.
+
+5\. Kritiska tredjepartsleverantörer av IKT-tjänster ska samarbeta lojalt med den ledande tillsynsmyndigheten och bistå den vid fullgörandet av dess uppgifter.
+
+6\. Den ledande tillsynsmyndigheten ska, vid helt eller delvis bristande efterlevnad av de åtgärder som ska vidtas enligt utövandet av befogenheterna i punkt 1 a, b och c och efter utgången av en period på minst 30 kalenderdagar från den dag då den kritiska tredjepartsleverantören av IKT-tjänster mottog anmälan om åtgärderna, anta ett beslut om föreläggande av vite för att tvinga den kritiska tredjepartsleverantören av IKT-tjänster att efterleva dessa åtgärder.
+
+7\. Det vite som avses i punkt 6 ska åläggas dagligen till dess att efterlevnad har uppnåtts och i högst sex månader efter det att beslutet om vite har anmälts till den kritiska tredjepartsleverantören av IKT-tjänster.
+
+8\. Vitesbeloppet, beräknat från det datum som anges i beslutet om föreläggande av vitet, ska vara upp till 1 % av den genomsnittliga globala omsättningen per dag för den kritiska tredjepartsleverantören av IKT-tjänster under det föregående räkenskapsåret. Den ledande tillsynsmyndigheten ska när den fastställer vitesbeloppet beakta följande kriterier för bristande efterlevnad av de åtgärder som avses i punkt 6:
+
+a) Den bristande efterlevnadens allvarlighetsgrad och varaktighet.
+
+b) Huruvida den bristande efterlevnaden är uppsåtlig eller beror på oaktsamhet.
+
+c) Viljan hos tredjepartsleverantören av IKT-tjänster att samarbeta med den ledande tillsynsmyndigheten.
+
+Vid tillämpning av första stycket ska den ledande tillsynsmyndigheten samråda inom det gemensamma tillsynsnätverket för att säkerställa en konsekvent strategi.
+
+9\. Vitet ska vara av administrativ karaktär och ska vara verkställbart. Verkställigheten ska följa de civilprocessrättsliga regler som gäller i den medlemsstat inom vars territorium inspektionerna och åtkomsten ska genomföras. Domstolarna i den berörda medlemsstaten ska vara behöriga att pröva klagomål som rör oegentligheter i verkställigheten. De belopp som åläggs i form av viten ska tillfalla Europeiska unionens allmänna budget.
+
+10\. Den ledande tillsynsmyndigheten ska offentliggöra alla viten som har förelagts utom i de fall då offentliggörandet skulle skapa allvarlig oro på de finansiella marknaderna eller orsaka de berörda parterna oproportionellt stor skada.
+
+11\. Innan ett vite åläggs enligt punkt 6 ska den ledande tillsynsmyndigheten ge företrädarna för den kritiska tredjepartsleverantör av IKT-tjänster som är föremål för förfarandet möjlighet att höras om de omständigheter som tillsynsmyndigheterna har påtalat, och den ska grunda sina beslut endast på omständigheter som den kritiska tredjepartsleverantören av IKT-tjänster som är föremål för förfarandet har haft möjlighet att yttra sig över.
+
+Rätten till försvar för personer som är föremål för förfarandet ska iakttas fullt ut under förfarandet. Den kritiska tredjepartsleverantör av IKT-tjänster som är föremål för förfarandet ska ha rätt att få tillgång till ärendehandlingarna, med förbehåll för andra personers berättigade intresse av att deras affärshemligheter skyddas. Tillgången till ärendehandlingarna ska inte omfatta konfidentiella uppgifter eller ledande tillsynsmyndighetens interna förberedande handlingar.
+
+### Artikel 36 – Den ledande tillsynsmyndighetens utövande av befogenheter utanför unionen
+
+1\. Om tillsynsmålen inte kan uppnås genom samverkan med det dotterföretag som har etablerats i enlighet med artikel [31.12](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) eller genom utövande av tillsynsverksamhet i lokaler som är belägna i unionen, får den ledande tillsynsmyndigheten utöva de befogenheter som anges i följande bestämmelser i alla lokaler som är belägna i ett tredjeland och som ägs eller på något sätt används av en kritisk tredjepartsleverantör av IKT-tjänster i syfte att tillhandahålla tjänster till finansiella entiteter i unionen i samband med dess affärsverksamhet, funktioner eller tjänster, inbegripet alla administrativa kontor, företagslokaler eller driftställen, anläggningar, mark, byggnader eller annan egendom:
+
+a) I artikel [35.1 a](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter).
+
+b) I artikel [35.1 b](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter), i enlighet med artikel [38.2 a](#artikel-38-allmänna-utredningar), b och d, artikel [39.1](#artikel-39-inspektioner) och [39.2 a](#artikel-39-inspektioner).
+
+De befogenheter som avses i första stycket får utövas om samtliga följande villkor är uppfyllda:
+
+i) Den ledande tillsynsmyndigheten anser att en inspektion i ett tredjeland är nödvändig för att den fullt ut och på ett ändamålsenligt sätt ska kunna utföra sina uppgifter enligt [denna förordning](/lagstiftning/dora).
+
+ii) Inspektionen i ett tredjeland har ett direkt samband med tillhandahållandet av IKT-tjänster till finansiella entiteter i unionen.
+
+iii) Den berörda kritiska tredjepartsleverantören av IKT-tjänster samtycker till att en inspektion genomförs i ett tredjeland.
+
+iv) Den relevanta myndigheten i det berörda tredjelandet har underrättats officiellt av den ledande tillsynsmyndigheten och har inte gjort några invändningar mot detta.
+
+2\. Utan att det påverkar unionsinstitutionernas och medlemsstaternas befogenheter ska EBA, Esma eller Eiopa vid tillämpningen av punkt 1 ingå arrangemang för administrativt samarbete med den relevanta myndigheten i det tredjelandet för att göra det möjligt för den ledande tillsynsmyndigheten och den grupp som den har utsett för uppdraget i det berörda tredjelandet att på ett smidigt sätt genomföra inspektioner i det tredjelandet. Dessa samarbetsarrangemang får inte medföra några rättsliga skyldigheter för unionen och dess medlemsstater eller hindra medlemsstaterna och deras behöriga myndigheter från att ingå bilaterala eller multilaterala arrangemang med dessa tredjeländer och deras relevanta myndigheter.
+
+I dessa samarbetsarrangemang ska åtminstone följande anges:
+
+a) Förfarandena för samordning av den tillsynsverksamhet som genomförs enligt [denna förordning](/lagstiftning/dora) och all motsvarande övervakning av IKT-tredjepartsrisker i den finansiella sektorn som utövas av den relevanta myndigheten i det berörda tredjelandet, inbegripet uppgifter för översändande av den sistnämndas samtycke så att den ledande tillsynsmyndigheten och dess utsedda grupp kan genomföra allmänna utredningar och inspektioner på plats enligt punkt 1 första stycket på det territorium som omfattas av dess jurisdiktion.
+
+b) Mekanismen för översändande av relevant information mellan EBA, Esma eller Eiopa och den relevanta myndigheten i det berörda tredjelandet, särskilt i samband med information som den ledande tillsynsmyndigheten kan begära enligt artikel [37](#artikel-37-begäran-om-information).
+
+c) Mekanismerna för omedelbar anmälan till EBA, Esma eller Eiopa från den relevanta myndigheten i det berörda tredjelandet av fall där en tredjepartsleverantör av IKT-tjänster som är etablerad i ett tredjeland och har klassificerats som kritisk i enlighet med artikel [31.1 a](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) anses ha åsidosatt de krav som den enligt det berörda tredjelandets tillämpliga rätt är skyldig att följa när den tillhandahåller tjänster till finansiella institut i det tredjelandet samt de avhjälpande åtgärder och sanktioner som tillämpas.
+
+d) Regelbundet översändande av uppdateringar om utvecklingen på reglerings- eller tillsynsområdet när det gäller övervakningen av IKT-tredjepartsrisker för finansiella institut i det berörda tredjelandet.
+
+e) Uppgifter som vid behov gör det möjligt för en företrädare för den relevanta myndigheten i det berörda tredjelandet att delta i de inspektioner som den ledande tillsynsmyndigheten och den utsedda gruppen genomför.
+
+3\. När den ledande tillsynsmyndigheten inte kan genomföra sådan tillsynsverksamhet utanför unionen som avses i punkterna 1 och 2, ska den ledande tillsynsmyndigheten
+
+a) utöva sina befogenheter enligt artikel [35](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) på grundval av alla sakförhållanden som den känner till och dokument som den har tillgång till,
+
+b) dokumentera och förklara eventuella konsekvenser av att den inte är i stånd att genomföra den planerade tillsynsverksamhet som avses i [denna artikel](#artikel-36-den-ledande-tillsynsmyndighetens-utövande-av-befogenheter-utanför-unionen).
+
+De potentiella konsekvenser som avses i led b i denna punkt ska beaktas i den ledande tillsynsmyndighetens rekommendationer, som utfärdas enligt artikel [35.1 d](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter).
+
+### Artikel 37 – Begäran om information
+
+1\. Den ledande tillsynsmyndigheten får genom en enkel begäran eller genom ett beslut kräva att de kritiska tredjepartsleverantörerna av IKT-tjänster tillhandahåller all information som är nödvändig för att den ledande tillsynsmyndigheten ska kunna utföra sina uppgifter enligt [denna förordning](/lagstiftning/dora), inbegripet alla relevanta affärshandlingar och operativa dokument, avtal, strategier, dokumentation, rapporter från IKT-säkerhetsgranskningar, IKT-relaterade incidentrapporter samt all information som rör parter till vilka den kritiska tredjepartsleverantören av IKT-tjänster har utkontrakterat operativa funktioner eller verksamheter.
+
+2\. När den ledande tillsynsmyndigheten skickar en enkel begäran om information enligt punkt 1 ska den
+
+a) hänvisa till [denna artikel](#artikel-37-begäran-om-information) som rättslig grund för begäran,
+
+b) ange syftet med begäran,
+
+c) specificera vilka uppgifter som begärs,
+
+d) ange en tidsfrist inom vilken uppgifterna ska lämnas,
+
+e) underrätta företrädaren för den kritiska tredjepartsleverantör av IKT-tjänster av vilken uppgifterna begärs om att den inte är skyldig att lämna informationen, men att den information som lämnas vid ett frivilligt svar på begäran inte får vara oriktig eller vilseledande.
+
+3\. När den ledande tillsynsmyndigheten begär uppgifter genom ett beslut enligt punkt 1 ska den
+
+a) hänvisa till [denna artikel](#artikel-37-begäran-om-information) som rättslig grund för begäran,
+
+b) ange syftet med begäran,
+
+c) specificera vilka uppgifter som begärs,
+
+d) ange en tidsfrist inom vilken uppgifterna ska lämnas,
+
+e) ange de viten som föreskrivs i artikel [35.6](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) om den begärda informationen är ofullständig eller om informationen inte tillhandahålls inom den tidsfrist som anges i led d i den här punkten,
+
+f) informera om rätten att överklaga beslutet till de europeiska tillsynsmyndigheternas överklagandenämnd och att få beslutet prövat av Europeiska unionens domstol (domstolen) i enlighet med artiklarna [60](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) och [61](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordning (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+4\. Företrädarna för de kritiska tredjepartsleverantörerna av IKT-tjänster ska tillhandahålla den begärda informationen. I behörig ordning befullmäktigade advokater får lämna de begärda uppgifterna på sina huvudmäns vägnar. Den kritiska tredjepartsleverantören av IKT-tjänster förblir ansvarig fullt ut om de lämnade uppgifterna är ofullständiga, oriktiga eller vilseledande.
+
+5\. Den ledande tillsynsmyndigheten ska utan dröjsmål översända en kopia av beslutet om tillhandahållande av information till de behöriga myndigheterna för de finansiella entiteter som använder berörd kritisk tredjepartsleverantörs IKT-tjänster och till det gemensamma tillsynsnätverket.
+
+### Artikel 38 – Allmänna utredningar
+
+1\. För att fullgöra sina uppgifter enligt [denna förordning](/lagstiftning/dora) får den ledande tillsynsmyndigheten, med bistånd av den gemensamma undersökningsgrupp som avses i artikel [40.1](#artikel-40-fortlöpande-tillsyn), vid behov genomföra utredningar av kritiska tredjepartsleverantörer av IKT-tjänster.
+
+2\. Den ledande tillsynsmyndigheten ska ha befogenhet att
+
+a) granska handlingar, uppgifter, rutiner och allt annat material av relevans för utförandet av dess uppgifter oberoende av i vilken form de föreligger,
+
+b) ta eller erhålla bestyrkta kopior av, eller utdrag ur, sådana handlingar, uppgifter, dokumenterade förfaranden och allt annat material,
+
+c) kalla till sig företrädare för den kritiska tredjepartsleverantören av IKT-tjänster och be dem om muntliga eller skriftliga förklaringar angående sakförhållanden eller dokument som rör föremålet för och syftet med utredningen samt nedteckna svaren,
+
+d) höra varje annan fysisk eller juridisk person som går med på att höras i syfte att samla in information om föremålet för utredningen,
+
+e) begära in uppgifter om tele- och datatrafik.
+
+3\. De tjänstemän och andra personer som av den ledande tillsynsmyndigheten har bemyndigats att genomföra sådana utredningar som avses i punkt 1 ska utöva sina befogenheter mot uppvisande av ett skriftligt tillstånd där utredningens föremål och syfte anges.
+
+I tillståndet ska även anges de viten som föreskrivs i artikel [35.6](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) om den dokumentation, de uppgifter, de dokumenterade förfaranden eller annat material som krävs eller svaren på frågor till företrädare för tredjepartsleverantören av IKT-tjänster inte tillhandahålls eller är ofullständiga.
+
+4\. Företrädarna för kritiska tredjepartsleverantörer av IKT-tjänster är skyldiga att underkasta sig utredningarna på grundval av ett beslut av den ledande tillsynsmyndigheten. Beslutet ska ange föremålet för och syftet med utredningen, de viten som föreskrivs i artikel [35.6](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter), de rättsmedel som finns tillgängliga enligt [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) samt rätten att få beslutet prövat av domstolen.
+
+5\. Den ledande tillsynsmyndigheten ska i god tid innan utredningen inleds underrätta de behöriga myndigheterna för de finansiella entiteter som använder de IKT-tjänster som tillhandahålls av den kritiska tredjepartsleverantören av IKT-tjänster om den planerade utredningen och namnge de bemyndigade personerna.
+
+Den ledande tillsynsmyndigheten ska underrätta det gemensamma tillsynsnätverket om all information som översänds enligt första stycket.
+
+### Artikel 39 – Inspektioner
+
+1\. För att utföra sina uppgifter enligt [denna förordning](/lagstiftning/dora) får den ledande tillsynsmyndigheten, med bistånd av de gemensamma undersökningsgrupper som avses i artikel [40.1](#artikel-40-fortlöpande-tillsyn), inleda och genomföra alla nödvändiga inspektioner på plats i företagslokaler, på mark eller egendom som tillhör tredjepartsleverantörerna av IKT-tjänster, såsom huvudkontor, driftscentrum och sekundära lokaler, samt genomföra skrivbordsinspektioner.
+
+Vid utövandet av de befogenheter som avses i första stycket ska den ledande tillsynsmyndigheten samråda med det gemensamma tillsynsnätverket.
+
+2\. Tjänstemän och andra personer som av den ledande tillsynsmyndigheten har bemyndigats att genomföra en inspektion på plats ska ha befogenhet att
+
+a) bereda sig tillträde till företagslokaler, mark eller egendom och att
+
+b) försegla sådana företagslokaler, räkenskaper eller affärshandlingar under den tid och i den utsträckning som krävs för inspektionen.
+
+Tjänstemän och andra personer som har bemyndigats av den ledande tillsynsmyndigheten ska utöva sina befogenheter mot uppvisande av ett skriftligt tillstånd som anger inspektionens föremål och syften liksom de viten som föreskrivs i artikel [35.6](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) om företrädarna för de berörda kritiska tredjepartsleverantörerna av IKT-tjänster inte underkastar sig inspektionen.
+
+3\. Den ledande tillsynsmyndigheten ska i god tid innan inspektionen inleds informera de behöriga myndigheterna för de finansiella entiteter som använder denna tredjepartsleverantör av IKT-tjänster.
+
+4\. Inspektionerna ska omfatta alla relevanta IKT-system, nätverk, anordningar, information och data som används för eller bidrar till tillhandahållandet av IKT-tjänster till finansiella entiteter.
+
+5\. Före en planerad inspektion på plats ska den ledande tillsynsmyndigheten i rimlig tid underrätta de kritiska tredjepartsleverantörerna av IKT-tjänster, såvida detta inte är omöjligt på grund av en nöd- eller krissituation, eller om det skulle leda till en situation där inspektionen eller revisionen inte längre skulle vara effektiv.
+
+6\. Den kritiska tredjepartsleverantören av IKT-tjänster ska underkasta sig inspektioner på plats som har beordrats genom beslut av den ledande tillsynsmyndigheten. Beslutet ska ange föremålet för och syftet med inspektionen, fastställa den dag då inspektionen ska inledas och ange de viten som föreskrivs i artikel [35.6](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter), de rättsmedel som finns tillgängliga enligt [förordning (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) samt rätten att få beslutet prövat av domstolen.
+
+7\. Om de tjänstemän och andra personer som har bemyndigats av den ledande tillsynsmyndigheten finner att en kritisk tredjepartsleverantör av IKT-tjänster motsätter sig en inspektion som har beordrats enligt [denna artikel](#artikel-39-inspektioner), ska den ledande tillsynsmyndigheten informera den kritiska tredjepartsleverantören av IKT-tjänster om konsekvenserna av att den motsätter sig kontrollen, inbegripet möjligheten för de berörda finansiella entiteternas behöriga myndigheter att kräva att de finansiella entiteterna säger upp de kontraktsmässiga arrangemang som har ingåtts med den kritiska tredjepartsleverantören av IKT-tjänster.
+
+### Artikel 40 – Fortlöpande tillsyn
+
+1\. Vid tillsynsverksamhet, särskilt allmänna utredningar eller inspektioner ska den ledande tillsynsmyndigheten bistås av en gemensam undersökningsgrupp som har inrättats för varje kritisk tredjepartsleverantör av IKT-tjänster.
+
+2\. Den gemensamma undersökningsgrupp som avses i punkt 1 ska bestå av personal från
+
+a) de europeiska tillsynsmyndigheterna,
+
+b) de relevanta behöriga myndigheter som utövar tillsyn över de finansiella entiteter till vilka den kritiska tredjepartsleverantören av IKT-tjänster tillhandahåller IKT-tjänster,
+
+c) den nationella behöriga myndighet som avses i artikel [32.4 e](#artikel-32-tillsynsramens-struktur), på frivillig basis,
+
+d) en nationell behörig myndighet från den medlemsstat där den kritiska tredjepartsleverantören av IKT-tjänster är etablerad, på frivillig basis.
+
+Medlemmar i den gemensamma undersökningsgruppen ska ha sakkunskap om IKT-frågor och om operativa risker. Den gemensamma undersökningsgruppen ska samordnas av en utsedd anställd vid den ledande tillsynsmyndigheten (den ledande tillsynsmyndighetens samordnare).
+
+3\. Inom tre månader efter slutförandet av en utredning eller inspektion ska den ledande tillsynsmyndigheten, efter samråd med tillsynsforumet, anta rekommendationer som ska riktas till den kritiska tredjepartsleverantören av IKT-tjänster enligt de befogenheter som avses i artikel [35](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter).
+
+4\. De rekommendationer som avses i punkt 3 ska omedelbart meddelas den kritiska tredjepartsleverantören av IKT-tjänster och de behöriga myndigheterna för de finansiella entiteter till vilka den tillhandahåller IKT-tjänster.
+
+För att genomföra tillsynsverksamheten får den ledande tillsynsmyndigheten ta hänsyn till relevanta tredjepartscertifieringar och interna eller externa IKT-revisionsrapporter som den kritiska tredjepartsleverantören av IKT-tjänster har gjort tillgängliga.
+
+### Artikel 41 – Harmonisering av villkor som möjliggör genomförandet för tillsynsverksamheten
+
+1\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn för att specificera
+
+a) den information som ska tillhandahållas av en tredjepartsleverantör av IKT-tjänster i ansökan om frivillig begäran om att bli klassificerad som kritisk enligt artikel [31.11](#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska),
+
+b) innehållet, strukturen och formatet avseende den information som tredjepartsleverantörerna av IKT-tjänster ska lämna in, offentliggöra eller rapportera enligt artikel [35.1](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter), inbegripet mallen för tillhandahållande av information om underleverantörsavtal,
+
+c) kriterierna för fastställande av den gemensamma undersökningsgruppens sammansättning, vilka säkerställer ett balanserat deltagande av personal från de europeiska tillsynsmyndigheterna och från de relevanta behöriga myndigheterna samt deras utseende, uppgifter och arbetsmetoder,
+
+d) närmare uppgifter om de behöriga myndigheternas bedömning av de åtgärder som har vidtagits av kritiska tredjepartsleverantörer av IKT-tjänster på grundval av rekommendationerna från den ledande tillsynsmyndigheten enligt artikel [42.3](#artikel-42-behöriga-myndigheters-uppföljning).
+
+2\. De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 juli 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i punkt 1 i enlighet med det förfarande som fastställs i artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 42 – Behöriga myndigheters uppföljning
+
+1\. Inom 60 kalenderdagar från mottagandet av de rekommendationer som har utfärdats av den ledande tillsynsmyndigheten enligt artikel [35.1 d](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) ska kritiska tredjepartsleverantörer av IKT-tjänster antingen underrätta den ledande tillsynsmyndigheten om sin avsikt att följa rekommendationerna eller lämna en motiverad förklaring till varför de inte följer sådana rekommendationer. Den ledande tillsynsmyndigheten ska omedelbart vidarebefordra denna information till de berörda finansiella entiteternas behöriga myndigheter.
+
+2\. Den ledande tillsynsmyndigheten ska offentliggöra fall där en kritisk tredjepartsleverantör av IKT-tjänster underlåter att underrätta den ledande tillsynsmyndigheten i enlighet med punkt 1 eller där den förklaring som lämnats av den kritiska tredjepartsleverantören av IKT-tjänster inte bedöms vara tillräcklig. Den offentliggjorda informationen ska avslöja identiteten på den kritiska tredjepartsleverantören av IKT-tjänster samt information om typen och arten av den bristande efterlevnaden. Sådan information ska begränsas till vad som är relevant och proportionellt för att säkerställa allmänhetens medvetenhet, såvida inte ett sådant offentliggörande skulle kunna orsaka de berörda parterna oproportionellt stor skada eller allvarligt skulle kunna äventyra finansmarknadernas korrekta funktion och integritet eller stabiliteten i hela eller delar av unionens finansiella system.
+
+Den ledande tillsynsmyndigheten ska underrätta tredjepartsleverantören av IKT-tjänster om detta offentliggörande.
+
+3\. De behöriga myndigheterna ska informera de berörda finansiella entiteterna om de risker som har identifierats i rekommendationerna till kritiska tredjepartsleverantörer av IKT-tjänster i enlighet med artikel [35.1 d](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter).
+
+Finansiella entiteter ska när de hanterar IKT-tredjepartsrisker ta hänsyn till de risker som avses i första stycket.
+
+4\. Om en behörig myndighet bedömer att en finansiell entitet i sin hantering av IKT-tredjepartsrisker inte tar hänsyn till eller i tillräcklig utsträckning hanterar de specifika risker som identifierats i rekommendationerna, ska den underrätta den finansiella entiteten om att det inom 60 kalenderdagar efter mottagandet av en sådan underrättelse kan fattas ett beslut enligt punkt 6 i avsaknad av lämpliga kontraktsmässiga arrangemang för hantering av sådana risker.
+
+5\. De behöriga myndigheterna får efter att ha mottagit de rapporter som avses i artikel [35.1 c](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter), och innan de fattar ett beslut som avses i punkt 6 i [den här artikeln](#artikel-42-behöriga-myndigheters-uppföljning), på frivillig basis samråda med de behöriga myndigheter som i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2) har utsetts eller inrättats till ansvariga för tillsynen av en väsentlig eller viktig entitet om inte annat följer av det direktivet, som har klassificerats som kritisk tredjepartsleverantör av IKT-tjänster.
+
+6\. De behöriga myndigheterna får, som en sista utväg efter underrättelsen och i förekommande fall samrådet enligt punkterna 4 och 5 i [denna artikel](#artikel-42-behöriga-myndigheters-uppföljning), i enlighet med artikel [50](/lagstiftning/dora/kap-7#artikel-50-administrativa-sanktioner-och-avhjälpande-åtgärder) fatta ett beslut om att finansiella entiteter tillfälligt, helt eller delvis, ska avbryta användningen eller införandet av en tjänst som tillhandahålls av den kritiska tredjepartsleverantörer av IKT-tjänster till dess att de risker som identifieras i rekommendationerna till kritiska tredjepartsleverantörer av IKT-tjänster har åtgärdats. Vid behov får de kräva att finansiella entiteter helt eller delvis ska avsluta de relevanta kontraktsmässiga arrangemang som har ingåtts med de kritiska tredjepartsleverantörerna av IKT-tjänster.
+
+7\. Om en kritisk tredjepartsleverantör av IKT-tjänster vägrar att godta rekommendationer baserat på en annan strategi än den som den ledande tillsynsmyndigheten rekommenderar och en sådan annan strategi kan inverka negativt på ett stort antal finansiella entiteter eller en betydande del av den finansiella sektorn, och enskilda varningar från de behöriga myndigheterna inte har lett till konsekventa strategier som minskar den potentiella risken för den finansiella stabiliteten, får den ledande tillsynsmyndigheten efter samråd med tillsynsforumet när så är lämpligt utfärda icke-bindande och icke-offentliga yttranden till behöriga myndigheter för att främja konsekventa och samstämmiga uppföljningsåtgärder avseende tillsyn.
+
+8\. Efter att ha mottagit de rapporter som avses i artikel [35.1 c](#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) ska de behöriga myndigheterna när de fattar ett beslut som avses i punkt 6 i [den här artikeln](#artikel-42-behöriga-myndigheters-uppföljning) ta hänsyn till typen och omfattningen av den risk som inte hanteras av den kritiska tredjepartsleverantören av IKT-tjänster, samt hur allvarlig den bristande efterlevnaden är, med beaktande av följande kriterier:
+
+a) Den bristande efterlevnadens allvarlighetsgrad och varaktighet.
+
+b) Huruvida den bristande efterlevnaden har påvisat allvarliga brister i den kritiska tredjepartsleverantörens förfaranden, ledningssystem, riskhantering eller interna kontroller.
+
+c) Huruvida ekonomisk brottslighet har underlättats eller orsakats av eller på annat sätt tillskrivs den bristande efterlevnaden.
+
+d) Huruvida den bristande efterlevnaden är uppsåtlig eller beror på oaktsamhet.
+
+e) Huruvida det tillfälliga upphävandet eller uppsägningen av de kontraktsmässiga arrangemangen hotar kontinuiteten i den finansiella entitetens affärsverksamhet trots den finansiella entitetens ansträngningar att undvika avbrott i tillhandahållandet av tjänster.
+
+f) I tillämpliga fall, det yttrande som på frivillig basis har inhämtats i enlighet med punkt 5 i [denna artikel](#artikel-42-behöriga-myndigheters-uppföljning) från de behöriga myndigheter som i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2) har utsetts eller inrättats till ansvariga för tillsynen av en väsentlig eller viktig entitet om inte annat följer av det direktivet, som har klassificerats som kritisk tredjepartsleverantör av IKT-tjänster.
+
+De behöriga myndigheterna ska ge finansiella entiteter den tid som krävs för att de ska kunna anpassa sina kontraktsmässiga arrangemang med kritiska tredjepartsleverantörer av IKT-tjänster i syfte att undvika negativa effekter på den digitala operativa motståndskraften och för att de ska kunna införa sådana exitstrategier och övergångsplaner som avses i artikel [28](#artikel-28-allmänna-principer).
+
+9\. Det beslut som avses i punkt 6 i [denna artikel](#artikel-42-behöriga-myndigheters-uppföljning) ska meddelas medlemmarna i det tillsynsforum som avses i artikel [32.4 a](#artikel-32-tillsynsramens-struktur), b och c och det gemensamma tillsynsnätverket.
+
+De kritiska tredjepartsleverantörer av IKT-tjänster som påverkas av de beslut som avses i punkt 6 ska samarbeta fullt ut med de berörda finansiella entiteterna, särskilt i samband med tillfälligt upphävande eller uppsägning av deras kontraktsmässiga arrangemang.
+
+10\. De behöriga myndigheterna ska regelbundet informera den ledande tillsynsmyndigheten om de metoder och åtgärder som de har vidtagit i sina tillsynsuppgifter när det gäller finansiella entiteter samt om de kontraktsmässiga arrangemang som finansiella entiteter har ingått om kritiska tredjepartsleverantörer av IKT-tjänster helt eller delvis inte har godtagit rekommendationerna till dem från den ledande tillsynsmyndigheten.
+
+11\. Den ledande tillsynsmyndigheten får på begäran lämna ytterligare klargöranden om de utfärdade rekommendationerna för att ge de behöriga myndigheterna vägledning i uppföljningsåtgärderna.
+
+### Artikel 43 – Tillsynsavgifter
+
+1\. Den ledande tillsynsmyndigheten ska i enlighet med den delegerade akt som avses i punkt 2 i [denna artikel](#artikel-43-tillsynsavgifter) från de kritiska tredjepartsleverantörerna av IKT-tjänster ta ut avgifter som till fullo täcker den ledande tillsynsmyndighetens nödvändiga utgifter i samband med fullgörandet av tillsynsuppgifter enligt [denna förordning](/lagstiftning/dora), inbegripet ersättning för eventuella kostnader som kan uppstå till följd av arbete som utförs av den gemensamma undersökningsgrupp som avses i artikel [40](#artikel-40-fortlöpande-tillsyn) samt kostnaderna för den rådgivning som tillhandahålls av de oberoende experter som avses i artikel [32.4](#artikel-32-tillsynsramens-struktur) andra stycket i frågor som omfattas av direkt tillsynsverksamhet.
+
+Det avgiftsbelopp som tas ut av en kritisk tredjepartsleverantör av IKT-tjänster ska täcka alla kostnader för fullgörandet av de uppgifter som anges i [detta avsnitt](/lagstiftning/dora/kap-5) och stå i proportion till leverantörens omsättning.
+
+2\. Kommissionen ges befogenhet att anta en delegerad akt i enlighet med artikel [57](/lagstiftning/dora/kap-8#artikel-57-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/dora) genom att senast den 17 juli 2024 fastställa avgiftsbeloppen och hur de ska betalas.
+
+### Artikel 44 – Internationellt samarbete
+
+1\. Utan att det påverkar tillämpningen av artikel [36](#artikel-36-den-ledande-tillsynsmyndighetens-utövande-av-befogenheter-utanför-unionen) får EBA, Esma och Eiopa, i enlighet med artikel [33](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) och [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094), ingå administrativa arrangemang med tredjeländers reglerings- och tillsynsmyndigheter för att främja internationellt samarbete om IKT-tredjepartsrisker inom olika finansiella sektorer, särskilt genom att utveckla bästa praxis för översyn av IKT-riskhanteringsmetoder och IKT-kontroller, begränsningsåtgärder och incidenthantering.
+
+2\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén vart femte år lämna en gemensam konfidentiell rapport till Europaparlamentet, rådet och kommissionen med en sammanfattning av resultaten av de relevanta diskussioner som har förts med de myndigheter i tredjeländer som avses i punkt 1, med fokus på utvecklingen av IKT-tredjepartsrisker och konsekvenserna för den finansiella stabiliteten, marknadsintegriteten, investerarskyddet och den inre marknadens funktion.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

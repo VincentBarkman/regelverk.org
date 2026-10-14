@@ -1,0 +1,143 @@
+---
+'source': 'dsa'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – ANSVAR FÖR LEVERANTÖRER AV FÖRMEDLINGSTJÄNSTER'
+'kind': 'chapter'
+'description': 'Förordningen om digitala tjänster (DSA), Kapitel II.'
+'designation': 'DSA Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/3ff67256-55c4-11ed-92ed-01aa75ed71a1.0024.03#cpt_II'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 4 – Enbart vidarefordran (mere conduit)
+
+1\. Om en av informationssamhällets tjänster tillhandahålls och den utgörs av överföring i ett kommunikationsnät av information som tillhandahållits av en tjänstemottagare, eller tillgång till ett kommunikationsnät tillhandahålls, ska tjänsteleverantören inte vara ansvarig för den överförda eller tillgängliggjorda informationen under förutsättning att tjänsteleverantören
+
+a) inte initierat överföringen,
+
+b) inte valt ut mottagaren av den överförda informationen, och
+
+c) inte valt ut eller ändrat den information som överförts.
+
+2\. Överföringen och tillhandahållandet av sådan tillgång som avses i punkt 1 omfattar automatisk, mellanliggande och tillfällig lagring av den överförda informationen, i den mån lagringen enbart görs för att genomföra överföringen i kommunikationsnätet och under förutsättning att informationen inte lagras längre än vad som rimligtvis krävs för överföringen.
+
+3\. [Denna artikel](#artikel-4-enbart-vidarefordran-mere-conduit) ska inte påverka möjligheterna för en rättslig eller administrativ myndighet att i enlighet med medlemsstaternas rättssystem kräva att tjänsteleverantören upphör med eller förhindrar en överträdelse.
+
+### Artikel 5 – Cachning
+
+1\. Vid tillhandahållandet av en informationssamhällestjänst som utgörs av överföring inom ett kommunikationsnät av information som tillhandahållits av en tjänstemottagare ska tjänsteleverantören inte vara ansvarig för den automatiska, mellanliggande och tillfälliga lagring av informationen som utförs enbart för att effektivisera eller göra vidare överföring av informationen till andra tjänstemottagare på deras begäran mer säker, under förutsättning att tjänsteleverantören
+
+a) inte ändrar informationen,
+
+b) uppfyller villkoren för tillgång till informationen,
+
+c) följer regler för uppdatering av informationen, vilka fastställts på ett sätt som är allmänt vedertaget och använt inom branschen,
+
+d) inte ingriper i den lagliga användningen av den teknik som är allmänt vedertagen och som används inom branschen för att få fram uppgifter om hur informationen används, och
+
+e) handlar utan dröjsmål för att avlägsna den information som tjänsteleverantören har lagrat eller göra den oåtkomlig så snart denne fått kännedom om att den information som ursprungligen överfördes har avlägsnats från nätet eller gjorts oåtkomlig, eller att en rättslig eller administrativ myndighet har bestämt att den ska avlägsnas eller göras oåtkomlig.
+
+2\. [Denna artikel](#artikel-5-cachning) ska inte påverka möjligheterna för en rättslig eller administrativ myndighet att i enlighet med en medlemsstats rättssystem kräva att tjänsteleverantören upphör med eller förhindrar en överträdelse.
+
+### Artikel 6 – Värdtjänster
+
+1\. Vid tillhandahållandet av en informationssamhällestjänst som utgörs av lagring av information som tillhandahållits av en tjänstemottagare ska tjänsteleverantören inte vara ansvarig för information som lagrats på tjänstemottagarens begäran, under förutsättning att tjänsteleverantören
+
+a) inte hade kännedom om förekomsten av olaglig verksamhet eller olagligt innehåll och, beträffande skadeståndsanspråk, inte var medveten om fakta eller omständigheter som gjort förekomsten av den olagliga verksamheten eller det olagliga innehållet uppenbar, eller
+
+b) så snart den fått sådan kännedom eller blivit medveten om detta handlat utan dröjsmål för att avlägsna det olagliga innehållet eller göra det oåtkomligt.
+
+2\. Punkt 1 är inte tillämplig om tjänstemottagaren handlar under tjänsteleverantörens ledning eller överinseende.
+
+3\. Punkt 1 ska inte tillämpas med avseende på ansvar inom ramen för konsumentskyddslagstiftningen för onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare, när en sådan onlineplattform visar den specifika informationen, eller på annat sätt möjliggör den specifika transaktionen i fråga, på ett sådant sätt att en genomsnittlig konsument fås att tro att denna information, eller den produkt eller tjänst som är föremål för transaktionen, tillhandahålls antingen av själva onlineplattformen eller av en tjänstemottagare som handlar under dess överinseende eller kontroll.
+
+4\. [Denna artikel](#artikel-6-värdtjänster) ska inte påverka möjligheterna för en rättslig eller administrativ myndighet att i enlighet med en medlemsstats rättssystem kräva att tjänsteleverantören upphör med eller förhindrar en överträdelse.
+
+### Artikel 7 – Frivilliga undersökningar på eget initiativ och regelefterlevnad
+
+Enbart det faktum att leverantörer av förmedlingstjänster i god tro och aktsamt utför frivilliga undersökningar på eget initiativ eller vidtar andra åtgärder som syftar till att upptäcka, identifiera och avlägsna olagligt innehåll, eller göra det oåtkomligt, eller vidtar åtgärder som är nödvändiga för att uppfylla kraven i unionsrätten och nationell rätt, i överensstämmelse med unionsrätten, däribland de krav som fastställs i [denna förordning](/lagstiftning/dsa), innebär inte att de inte ska vara berättigade att omfattas av de undantag från ansvar som avses i artiklarna [4](#artikel-4-enbart-vidarefordran-mere-conduit), [5](#artikel-5-cachning) och [6](#artikel-6-värdtjänster).
+
+### Artikel 8 – Inga allmänna skyldigheter avseende övervakning eller aktivt faktasökande
+
+Leverantörer av förmedlingstjänster ska inte åläggas någon allmän skyldighet att övervaka den information som de överför eller lagrar, eller att undersöka fakta eller omständigheter som tyder på olaglig verksamhet.
+
+### Artikel 9 – Förelägganden om att agera mot olagligt innehåll
+
+1\. Vid mottagandet av ett föreläggande att agera mot en eller flera specifika delar av olagligt innehåll vilket utfärdats av de berörda nationella rättsliga eller administrativa myndigheterna, på grundval av tillämplig unionsrätt eller nationell rätt i överensstämmelse med unionsrätten, ska leverantörer av förmedlingstjänster utan onödigt dröjsmål informera den myndighet som utfärdade föreläggandet eller annan eventuell myndighet som anges i föreläggandet om varje eventuell verkan det givits, med angivande av om och när föreläggandet getts verkan.
+
+2\. Medlemsstaterna ska säkerställa att ett föreläggande som avses i punkt 1 när det översänds till leverantören, uppfyller åtminstone följande villkor:
+
+a) Föreläggandet innehåller följande:
+
+i) En hänvisning till den rättsliga grunden för föreläggandet, i unionsrätt eller nationell rätt.
+
+ii) En motivering som förklarar varför informationen utgör olagligt innehåll, med hänvisning till en eller flera specifika bestämmelser i unionsrätt eller nationell rätt i överensstämmelse med unionsrätten.
+
+iii) Information som identifierar den utfärdande myndigheten.
+
+iv) Tydlig information som gör det möjligt för leverantören av förmedlingstjänster att identifiera och lokalisera det berörda olagliga innehållet, såsom en eller flera URL och, när så är nödvändigt, ytterligare information.
+
+v) Information om de prövningsmekanismer som finns tillgängliga för leverantören av förmedlingstjänster och för den tjänstemottagare som tillhandahållit innehållet.
+
+vi) I tillämpliga fall, upplysningar om vilken myndighet som ska få informationen om den verkan som ges åt föreläggandena.
+
+b) Föreläggandets territoriella tillämpningsområde, på grundval av de tillämpliga reglerna i unionsrätt och nationell rätt, inbegripet stadgan, och, i förekommande fall, allmänna principer i internationell rätt, är begränsat till vad som är strikt nödvändigt för att uppnå dess mål.
+
+c) Föreläggandet översänds på ett av de språk som angetts av leverantören av förmedlingstjänster enligt artikel [11.3](/lagstiftning/dsa/kap-3#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden) eller på något annat av medlemsstaternas officiella språk, som den myndighet som utfärdar föreläggandet och den leverantören kommit överens om, och sänds till den elektroniska kontaktpunkt som utsetts av den leverantören i enlighet med artikel [11](/lagstiftning/dsa/kap-3#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden); om föreläggandet inte är avfattat på det språk som angetts av leverantören av förmedlingstjänster eller på något annat språk som överenskommits bilateralt, får det översändas på det språk den utfärdande myndigheten använder, förutsatt att det åtföljs av en översättning till ett sådant språk som angetts eller som har överenskommits bilateralt av åtminstone de uppgifter som anges i leden a och b i denna punkt.
+
+3\. Den myndighet som utfärdar föreläggandet eller, i tillämpliga fall, den myndighet som anges i föreläggandet, ska översända föreläggandet och den information som mottagits från leverantören av förmedlingstjänster om den verkan föreläggandet givits till samordnaren för digitala tjänster från den utfärdande myndighetens medlemsstat.
+
+4\. Efter att ha tagit emot föreläggandet från den rättsliga eller administrativa myndigheten ska samordnaren för digitala tjänster i den berörda medlemsstaten utan onödigt dröjsmål sända en kopia av de förelägganden som avses i punkt 1 i [denna artikel](#artikel-9-förelägganden-om-att-agera-mot-olagligt-innehåll) till alla andra samordnare för digitala tjänster via det system som upprättas i enlighet med artikel [85](/lagstiftning/dsa/kap-4#artikel-85-system-för-informationsutbyte).
+
+5\. Senast vid den tidpunkt då föreläggandet ges verkan eller, i förekommande fall, vid den tidpunkt som den utfärdande myndigheten anger i sitt föreläggande, ska leverantörer av förmedlingstjänster informera den berörda tjänstemottagaren om det mottagna föreläggandet och den verkan det givits. Sådan information som tillhandahålls tjänstemottagaren ska innehålla en motivering, ange de möjligheter till prövning som finns och en beskrivning av det territoriella tillämpningsområdet för föreläggandet, i enlighet med punkt 2.
+
+6\. De villkor och krav som fastställs i [denna artikel](#artikel-9-förelägganden-om-att-agera-mot-olagligt-innehåll) ska inte påverka nationell civilprocessrätt och straffprocessrätt.
+
+### Artikel 10 – Förelägganden om att tillhandahålla information
+
+1\. Vid mottagandet av ett föreläggande om att tillhandahålla specifik information om en eller flera specifika individuella tjänstemottagare vilket utfärdats av de berörda nationella rättsliga eller administrativa myndigheterna på grundval av tillämplig unionsrätt eller nationell rätt i överensstämmelse med unionsrätten, ska leverantörer av förmedlingstjänster utan onödigt dröjsmål underrätta den myndighet som utfärdat föreläggandet eller annan myndighet som anges i föreläggandet om att föreläggandet tagits emot och den verkan som det givits, med angivande av om föreläggandet getts verkan och när detta i så fall skett.
+
+2\. Medlemsstaterna ska säkerställa att ett föreläggande som avses i punkt 1 när det överlämnas till leverantören åtminstone uppfyller följande villkor:
+
+a) Föreläggandet innehåller följande:
+
+i) En hänvisning till den rättsliga grunden för föreläggandet, i unionsrätt eller nationell rätt.
+
+ii) Information som identifierar den utfärdande myndigheten.
+
+iii) Tydlig information som gör det möjligt för leverantören av förmedlingstjänster att identifiera den eller de specifika mottagare om vilka information begärs, såsom ett eller flera kontonamn eller unika identifierare.
+
+iv) En motivering som förklarar för vilket ändamål som informationen behövs och varför kravet på tillhandahållande av information är nödvändigt och proportionellt för att avgöra om mottagarna av förmedlingstjänsterna följer tillämplig unionsrätt eller nationell rätt i överensstämmelse med unionsrätten, om det inte är omöjligt att tillhandahålla en sådan motivering av skäl förbundna med förebyggande, förhindrande, utredning, avslöjande eller lagföring av brott.
+
+v) Information om de prövningsmekanismer som finns tillgängliga för leverantören och för de berörda tjänstemottagarna.
+
+vi) I tillämpliga fall, information om till vilken myndighet informationen om den verkan som givits föreläggandena ska sändas.
+
+b) Föreläggandet ålägger endast leverantören att tillhandahålla information som redan samlats in för syftet att tillhandahålla tjänsten och som är inom leverantörens kontroll.
+
+c) Föreläggandet översänds på ett av de språk som angetts av leverantören av förmedlingstjänster enligt artikel [11.3](/lagstiftning/dsa/kap-3#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden) eller på något annat av medlemsstaternas officiella språk, som den myndighet som utfärdar föreläggandet och leverantören kommit överens om, och sänds till den elektroniska kontaktpunkt som utsetts av leverantören i enlighet med artikel [11](/lagstiftning/dsa/kap-3#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden); om föreläggandet inte är avfattat på det språk som angetts av leverantören av förmedlingstjänster eller på något annat språk som överenskommits bilateralt, får det översändas på det språk den utfärdande myndigheten använder, förutsatt att det åtföljs av en översättning till ett sådant språk som angetts eller som har överenskommits bilateralt av åtminstone de uppgifter som anges i leden a och b i denna punkt.
+
+3\. Den myndighet som utfärdar föreläggandet eller, i tillämpliga fall, den myndighet som anges i föreläggandet, ska översända det och eventuell information som mottagits från leverantören av förmedlingstjänster om den verkan föreläggandet givits till samordnaren för digitala tjänster från den utfärdande myndighetens medlemsstat.
+
+4\. Efter att ha tagit emot föreläggandet från den rättsliga eller administrativa myndigheten ska samordnaren för digitala tjänster i den berörda medlemsstaten utan onödigt dröjsmål sända en kopia av det föreläggande som avses i punkt 1 i [denna artikel](#artikel-10-förelägganden-om-att-tillhandahålla-information) till alla samordnare för digitala tjänster via det system som upprättas i enlighet med artikel [85](/lagstiftning/dsa/kap-4#artikel-85-system-för-informationsutbyte).
+
+5\. Senast då föreläggandet ges verkan, eller i förekommande fall vid den tidpunkt som den utfärdande myndigheten angav i sitt föreläggande, ska leverantörer av förmedlingstjänster informera den berörda tjänstemottagaren om det mottagna föreläggandet och den verkan det givits. Sådan information som tillhandahålls tjänstemottagaren ska innehålla en motivering och ange de möjligheter till prövning som finns, i enlighet med punkt 2.
+
+6\. De villkor och krav som fastställs i [denna artikel](#artikel-10-förelägganden-om-att-tillhandahålla-information) ska inte påverka nationell civilprocessrätt och straffprocessrätt.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

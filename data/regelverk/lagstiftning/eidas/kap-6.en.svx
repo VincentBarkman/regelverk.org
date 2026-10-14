@@ -1,0 +1,233 @@
+---
+'source': 'eidas'
+'ref': 'Chapter VI'
+'title': 'Chapter VI – FINAL PROVISIONS'
+'kind': 'chapter'
+'description': 'eIDAS Regulation, Chapter VI.'
+'designation': 'eIDAS Regulation Chapter VI'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_VI'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 49 – Review
+
+The Commission shall review the application of [this Regulation](/lagstiftning/eidas) and shall report to the European Parliament and to the Council no later than 1 July 2020. The Commission shall evaluate in particular whether it is appropriate to modify the scope of [this Regulation](/lagstiftning/eidas) or its specific provisions, including Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition), point (f) of Article [7](/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes) and Articles [34](/lagstiftning/eidas/kap-3#article-34-qualified-preservation-service-for-qualified-electronic-signatures), [43](/lagstiftning/eidas/kap-3#article-43-legal-effect-of-an-electronic-registered-delivery-service), [44](/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services) and [45](/lagstiftning/eidas/kap-3#article-45-requirements-for-qualified-certificates-for-website-authentication), taking into account the experience gained in the application of [this Regulation](/lagstiftning/eidas), as well as technological, market and legal developments.
+
+The report referred to in the first paragraph shall be accompanied, where appropriate, by legislative proposals.
+
+In addition, the Commission shall submit a report to the European Parliament and the Council every four years after the report referred to in the first paragraph on the progress towards achieving the objectives of [this Regulation](/lagstiftning/eidas).
+
+### Article 50 – Repeal
+
+1\. [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) is repealed with effect from 1 July 2016.
+
+2\. References to the repealed Directive shall be construed as references to [this Regulation](/lagstiftning/eidas).
+
+### Article 51 – Transitional measures
+
+1\. Secure signature creation devices of which the conformity has been determined in accordance with Article [3](/lagstiftning/eidas/kap-1#article-3-definitions)(4) of [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified electronic signature creation devices under [this Regulation](/lagstiftning/eidas).
+
+2\. Qualified certificates issued to natural persons under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified certificates for electronic signatures under [this Regulation](/lagstiftning/eidas) until they expire.
+
+3\. A certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall submit a conformity assessment report to the supervisory body as soon as possible but not later than 1 July 2017. Until the submission of such a conformity assessment report and the completion of its assessment by the supervisory body, that certification-service-provider shall be considered as qualified trust service provider under [this Regulation](/lagstiftning/eidas).
+
+4\. If a certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) does not submit a conformity assessment report to the supervisory body within the time limit referred to in paragraph 3, that certification-service-provider shall not be considered as qualified trust service provider under [this Regulation](/lagstiftning/eidas) from 2 July 2017.
+
+### Article 52 – Entry into force
+
+1\. [This Regulation](/lagstiftning/eidas) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. [This Regulation](/lagstiftning/eidas) shall apply from 1 July 2016, except for the following:
+
+(a) Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3), 9(5), 12(2) to (9), 17(8), 19(4), 20(4), 21(4), 22(5), 23(3), 24(5), 27(4) and (5), 28(6), 29(2), 30(3) and (4), 31(3), 32(3), 33(2), 34(2), 37(4) and (5), 38(6), 42(2), 44(2), 45(2), and Articles [47](/lagstiftning/eidas/kap-5#article-47-exercise-of-the-delegation) and [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure) shall apply from 17 September 2014;
+
+(b) Article [7](/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes), Article [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(1) and (2), Articles [9](/lagstiftning/eidas/kap-2#article-9-notification), [10](/lagstiftning/eidas/kap-2#article-10-security-breach), [11](/lagstiftning/eidas/kap-2#article-11-liability) and Article [12](/lagstiftning/eidas/kap-2#article-12-cooperation-and-interoperability)(1) shall apply from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8);
+
+(c) Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall apply from three years as from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8).
+
+3\. Where the notified electronic identification scheme is included in the list published by the Commission pursuant to Article [9](/lagstiftning/eidas/kap-2#article-9-notification) before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), the recognition of the electronic identification means under that scheme pursuant to Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall take place no later than 12 months after the publication of that scheme but not before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force).
+
+4\. Notwithstanding point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), a Member State may decide that electronic identification means under electronic identification scheme notified pursuant to Article [9](/lagstiftning/eidas/kap-2#article-9-notification)(1) by another Member State are recognised in the first Member State as from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8). Member States concerned shall inform the Commission. The Commission shall make this information public.
+
+[This Regulation](/lagstiftning/eidas) shall be binding in its entirety and directly applicable in all Member States.
+
+#### Signature
+
+Done at Brussels, 23 July 2014.
+
+For the Parliament
+
+The President
+
+M. SCHULZ
+
+For the Council
+
+The President
+
+S. GOZI
+
+#### Footnotes
+
+(1) OJ C 351, 15.11.2012, p. 73.
+
+(2) Position of the European Parliament of 3 April 2014 (not yet published in the Official Journal) and decision of the Council of 23 July 2014.
+
+(3) [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures (OJ L 13, 19.1.2000, p. 12).
+
+(4) OJ C 50 E, 21.2.2012, p. 1.
+
+(5) [Directive 2006/123/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0123) of the European Parliament and of the Council of 12 December 2006 on services in the internal market (OJ L 376, 27.12.2006, p. 36).
+
+(6) [Directive 2011/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0024) of the European Parliament and of the Council of 9 March 2011 on the application of patients’ rights in cross-border healthcare (OJ L 88, 4.4.2011, p. 45).
+
+(7) [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046) of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+(8) Council [Decision 2010/48/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010D0048) of 26 November 2009 concerning the conclusion, by the European Community, of the United Nations Convention on the Rights of Persons with Disabilities (OJ L 23, 27.1.2010, p. 35).
+
+(9) [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+
+(10) Commission [Decision 2009/767/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0767) of 16 October 2009 setting out measures facilitating the use of procedures by electronic means through the ‘points of single contact’ under [Directive 2006/123/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0123) of the European Parliament and of the Council on services in the internal market (OJ L 274, 20.10.2009, p. 36).
+
+(11) Commission [Decision 2011/130/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0130) of 25 February 2011 establishing minimum requirements for the cross-border processing of documents signed electronically by competent authorities under [Directive 2006/123/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0123) of the European Parliament and of the Council on services in the internal market (OJ L 53, 26.2.2011, p. 66).
+
+(12) [Regulation (EU) No 182/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182) of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+(13) [Regulation (EC) No 45/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0045) of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+(14) OJ C 28, 30.1.2013, p. 6.
+
+(15) [Directive 2014/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0024) of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing [Directive 2004/18/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0018) (OJ L 94, 28.3.2014, p. 65).
+
+ANNEX I
+
+REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR ELECTRONIC SIGNATURES
+
+Qualified certificates for electronic signatures shall contain:
+
+(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for electronic signature;
+
+(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least, the Member State in which that provider is established and:
+
+— for a legal person: the name and, where applicable, registration number as stated in the official records,
+
+— for a natural person: the person’s name;
+
+(c) at least the name of the signatory, or a pseudonym; if a pseudonym is used, it shall be clearly indicated;
+
+(d) electronic signature validation data that corresponds to the electronic signature creation data;
+
+(e) details of the beginning and end of the certificate’s period of validity;
+
+(f) the certificate identity code, which must be unique for the qualified trust service provider;
+
+(g) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
+
+(h) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (g) is available free of charge;
+
+(i) the location of the services that can be used to enquire about the validity status of the qualified certificate;
+
+(j) where the electronic signature creation data related to the electronic signature validation data is located in a qualified electronic signature creation device, an appropriate indication of this, at least in a form suitable for automated processing.
+
+ANNEX II
+
+REQUIREMENTS FOR QUALIFIED ELECTRONIC SIGNATURE CREATION DEVICES
+
+1\. Qualified electronic signature creation devices shall ensure, by appropriate technical and procedural means, that at least:
+
+(a) the confidentiality of the electronic signature creation data used for electronic signature creation is reasonably assured;
+
+(b) the electronic signature creation data used for electronic signature creation can practically occur only once;
+
+(c) the electronic signature creation data used for electronic signature creation cannot, with reasonable assurance, be derived and the electronic signature is reliably protected against forgery using currently available technology;
+
+(d) the electronic signature creation data used for electronic signature creation can be reliably protected by the legitimate signatory against use by others.
+
+2\. Qualified electronic signature creation devices shall not alter the data to be signed or prevent such data from being presented to the signatory prior to signing.
+
+3\. Generating or managing electronic signature creation data on behalf of the signatory may only be done by a qualified trust service provider.
+
+4\. Without prejudice to point (d) of point 1, qualified trust service providers managing electronic signature creation data on behalf of the signatory may duplicate the electronic signature creation data only for back-up purposes provided the following requirements are met:
+
+(a) the security of the duplicated datasets must be at the same level as for the original datasets;
+
+(b) the number of duplicated datasets shall not exceed the minimum needed to ensure continuity of the service.
+
+ANNEX III
+
+REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR ELECTRONIC SEALS
+
+Qualified certificates for electronic seals shall contain:
+
+(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for electronic seal;
+
+(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least the Member State in which that provider is established and:
+
+— for a legal person: the name and, where applicable, registration number as stated in the official records,
+
+— for a natural person: the person’s name;
+
+(c) at least the name of the creator of the seal and, where applicable, registration number as stated in the official records;
+
+(d) electronic seal validation data, which corresponds to the electronic seal creation data;
+
+(e) details of the beginning and end of the certificate’s period of validity;
+
+(f) the certificate identity code, which must be unique for the qualified trust service provider;
+
+(g) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
+
+(h) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (g) is available free of charge;
+
+(i) the location of the services that can be used to enquire as to the validity status of the qualified certificate;
+
+(j) where the electronic seal creation data related to the electronic seal validation data is located in a qualified electronic seal creation device, an appropriate indication of this, at least in a form suitable for automated processing.
+
+ANNEX IV
+
+REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR WEBSITE AUTHENTICATION
+
+Qualified certificates for website authentication shall contain:
+
+(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for website authentication;
+
+(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least the Member State in which that provider is established and:
+
+— for a legal person: the name and, where applicable, registration number as stated in the official records,
+
+— for a natural person: the person’s name;
+
+(c) for natural persons: at least the name of the person to whom the certificate has been issued, or a pseudonym. If a pseudonym is used, it shall be clearly indicated;
+
+for legal persons: at least the name of the legal person to whom the certificate is issued and, where applicable, registration number as stated in the official records;
+
+(d) elements of the address, including at least city and State, of the natural or legal person to whom the certificate is issued and, where applicable, as stated in the official records;
+
+(e) the domain name(s) operated by the natural or legal person to whom the certificate is issued;
+
+(f) details of the beginning and end of the certificate’s period of validity;
+
+(g) the certificate identity code, which must be unique for the qualified trust service provider;
+
+(h) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
+
+(i) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (h) is available free of charge;
+
+(j) the location of the certificate validity status services that can be used to enquire as to the validity status of the qualified certificate.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

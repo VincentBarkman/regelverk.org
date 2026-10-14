@@ -1,0 +1,32 @@
+---
+'name': 'EMC-direktivet'
+'title': 'Europaparlamentets och rådets direktiv 2014/30/EU'
+'type': 'eu-directive'
+'description': 'EU-direktiv om elektromagnetisk kompatibilitet.'
+'designation': 'EU 2014/30'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2014-03-29'
+'applies-from': '2016-04-20'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0023.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel 1 – ALLMÄNNA BESTÄMMELSER](/lagstiftning/emc/kap-1) · Artiklarna 1–6
+- [Kapitel 2 – DE EKONOMISKA AKTÖRERNAS SKYLDIGHETER](/lagstiftning/emc/kap-2) · Artiklarna 7–12
+- [Kapitel 3 – UTRUSTNINGENS ÖVERENSSTÄMMELSE MED KRAVEN](/lagstiftning/emc/kap-3) · Artiklarna 13–19
+- [Kapitel 4 – ANMÄLAN AV ORGAN FÖR BEDÖMNING AV ÖVERENSSTÄMMELSE](/lagstiftning/emc/kap-4) · Artiklarna 20–36
+- [Kapitel 5 – MARKNADSKONTROLL I UNIONEN, KONTROLL AV APPARATER SOM FÖRS IN PÅ UNIONSMARKNADEN OCH UNIONENS FÖRFARANDE I FRÅGA OM SKYDDSÅTGÄRDER](/lagstiftning/emc/kap-5) · Artiklarna 37–40
+- [Kapitel 6 – KOMMITTÉFÖRFARANDE, ÖVERGÅNGSBESTÄMMELSER OCH SLUTBESTÄMMELSER](/lagstiftning/emc/kap-6) · Artiklarna 41–47
+<!-- scan-laws:end -->

@@ -1,0 +1,67 @@
+---
+'source': 'lvd'
+'ref': 'Kapitel 3'
+'title': 'Kapitel 3 – DEN ELEKTRISKA UTRUSTNINGENS ÖVERENSSTÄMMELSE MED KRAVEN'
+'kind': 'chapter'
+'description': 'Lågspänningsdirektivet, Kapitel 3.'
+'designation': 'Lågspänningsdirektivet Kapitel 3'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/13ab8bf5-b721-11e3-86f9-01aa75ed71a1.0023.03#cpt_3'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 12 – Presumtion om överensstämmelse på grundval av harmoniserade standarder
+
+Elektrisk utrustning som överensstämmer med harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de säkerhetskrav som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) och som anges i bilaga I som omfattas av dessa standarder eller delar av dem.
+
+### Artikel 13 – Presumtion om överensstämmelse på grundval av internationella standarder
+
+1\. När sådana harmoniserade standarder som avses i artikel [12](#artikel-12-presumtion-om-överensstämmelse-på-grundval-av-harmoniserade-standarder) inte har upprättats och offentliggjorts, ska medlemsstaterna vidta alla lämpliga åtgärder för att säkerställa att deras behöriga myndigheter, för det tillhandahållande på marknaden eller för den fria rörlighet som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) respektive 4, också ska anse elektrisk utrustning vara i överensstämmelse med de säkerhetskrav som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) och som anges i bilaga I om den överensstämmer med de säkerhetsbestämmelser som fastställs genom internationella standarder från Internationella elektrotekniska kommissionen (IEC) vilka har offentliggjorts i enlighet med punkterna 2 och 3 i [denna artikel](#artikel-13-presumtion-om-överensstämmelse-på-grundval-av-internationella-standarder).
+
+2\. Kommissionen ska meddela medlemsstaterna de säkerhetsbestämmelser som avses i punkt 1. Kommissionen ska, efter samråd med medlemsstaterna, ange de säkerhetsbestämmelser och särskilt de varianter av dessa som den rekommenderar ska offentliggöras.
+
+3\. Medlemsstaterna ska inom tre månader underrätta kommissionen om sådana invändningar som de kan ha mot de säkerhetsbestämmelser som har meddelats i enlighet med punkt 2, med angivande av de säkerhetsskäl enligt vilka bestämmelserna inte bör godtas.
+
+I informationssyfte ska hänvisningarna till de säkerhetsbestämmelser mot vilka ingen invändning gjorts offentliggöras i Europeiska unionens officiella tidning.
+
+### Artikel 14 – Presumtion om överensstämmelse på grundval av nationella standarder
+
+När sådana harmoniserade standarder som avses i artikel [12](#artikel-12-presumtion-om-överensstämmelse-på-grundval-av-harmoniserade-standarder) ännu inte har upprättats och offentliggjorts och sådana internationella standarder som avses i artikel [13](#artikel-13-presumtion-om-överensstämmelse-på-grundval-av-internationella-standarder) ännu inte har offentliggjorts, ska medlemsstaterna vidta alla lämpliga åtgärder för att säkerställa att deras behöriga myndigheter, för det tillhandahållande på marknaden eller för den fria rörlighet som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) respektive 4, också ska anse elektrisk utrustning vara i överensstämmelse med de säkerhetskrav som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) och som anges i bilaga I om den är tillverkad i överensstämmelse med säkerhetsbestämmelserna i gällande standarder i tillverkarens medlemsstat och om den uppfyller en säkerhetsnivå som motsvarar den som krävs på deras eget territorium.
+
+### Artikel 15 – EU-försäkran om överensstämmelse
+
+1\. I EU-försäkran om överensstämmelse ska det anges att de säkerhetskrav som avses i artikel [3](/lagstiftning/lvd/kap-1#artikel-3-tillhandahållande-på-marknaden-och-säkerhetskrav) och som anges i bilaga I har visats vara uppfyllda.
+
+2\. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga IV, innehålla de uppgifter som anges i modul A i bilaga III och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där den elektriska utrustningen släpps ut eller tillhandahålls på marknaden.
+
+3\. Om elektrisk utrustning omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4\. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att den elektriska utrustningen överensstämmer med kraven i [detta direktiv](/lagstiftning/lvd).
+
+### Artikel 16 – Allmänna principer för CE-märkning
+
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+### Artikel 17 – Regler och villkor för CE-märkning
+
+1\. CE-märkningen ska anbringas på den elektriska utrustningen eller dess märkskylt så att den är synlig, lätt läsbar och varaktig. Om detta inte är möjligt eller lämpligt på grund av den elektriska utrustningens art ska märkningen anbringas på förpackningen och i det medföljande dokumentet.
+
+2\. CE-märkningen ska anbringas innan den elektriska utrustningen släpps ut på marknaden.
+
+3\. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

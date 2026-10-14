@@ -1,0 +1,34 @@
+---
+'name': 'ATEX Directive'
+'title': 'Directive 2014/34/EU of the European Parliament and of the Council'
+'type': 'eu-directive'
+'description': 'EU directive on equipment and protective systems intended for
+  use in potentially explosive atmospheres.'
+'designation': 'EU 2014/34'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2014-03-29'
+'applies-from': '2016-04-20'
+'sites':
+  - 'brandskydd'
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter 1 – GENERAL PROVISIONS](/lagstiftning/atex/kap-1) · Articles 1–5
+- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/atex/kap-2) · Articles 6–11
+- [Chapter 3 – CONFORMITY OF THE PRODUCT](/lagstiftning/atex/kap-3) · Articles 12–16
+- [Chapter 4 – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/atex/kap-4) · Articles 17–33
+- [Chapter 5 – UNION MARKET SURVEILLANCE, CONTROL OF PRODUCTS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/atex/kap-5) · Articles 34–38
+- [Chapter 6 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/atex/kap-6) · Articles 39–45
+<!-- scan-laws:end -->

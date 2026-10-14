@@ -1,0 +1,34 @@
+---
+'name': 'Low Voltage Directive (LVD)'
+'title': 'Directive 2014/35/EU of the European Parliament and of the Council'
+'type': 'eu-directive'
+'description': 'EU directive on making electrical equipment designed for certain
+  voltage limits available on the market.'
+'designation': 'EU 2014/35'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2014-03-29'
+'applies-from': '2016-04-20'
+'related':
+  - 'elsakerhetslagen'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/13ab8bf5-b721-11e3-86f9-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter 1 – GENERAL PROVISIONS](/lagstiftning/lvd/kap-1) · Articles 1–5
+- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/lvd/kap-2) · Articles 6–11
+- [Chapter 3 – CONFORMITY OF THE ELECTRICAL EQUIPMENT](/lagstiftning/lvd/kap-3) · Articles 12–17
+- [Chapter 4 – UNION MARKET SURVEILLANCE, CONTROL OF ELECTRICAL EQUIPMENT ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/lvd/kap-4) · Articles 18–22
+- [Chapter 5 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/lvd/kap-5) · Articles 23–29
+<!-- scan-laws:end -->

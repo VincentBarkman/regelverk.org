@@ -1,0 +1,137 @@
+---
+'source': 'dora'
+'ref': 'Kapitel IV'
+'title': 'Kapitel IV – Testning av digital operativ motståndskraft'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel IV.'
+'designation': 'DORA-förordningen Kapitel IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_IV'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 24 – Allmänna krav för testning av digital operativ motståndskraft
+
+1\. För att bedöma beredskapen för hantering av IKT-relaterade incidenter, identifiera svagheter, brister och luckor i den digitala operativa motståndskraften och snabbt genomföra korrigerande åtgärder ska andra finansiella entiteter än mikroföretag, med hänsyn till de kriterier som fastställs i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen), inrätta, upprätthålla och se över ett sunt och heltäckande program för testning av digital operativ motståndskraft som en integrerad del av den IKT-riskhanteringsram som avses i artikel [6](/lagstiftning/dora/kap-2#artikel-6-ikt-riskhanteringsram).
+
+2\. Programmet för testning av digital operativ motståndskraft ska omfatta en rad bedömningar, tester, metoder, praxis och verktyg som ska tillämpas i enlighet med artiklarna [25](#artikel-25-testning-av-ikt-verktyg-och-ikt-system) och [26](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning).
+
+3\. När andra finansiella entiteter än mikroföretag genomför det testprogram för digital operativ motståndskraft som avses i punkt 1 i [denna artikel](#artikel-24-allmänna-krav-för-testning-av-digital-operativ-motståndskraft) ska de följa en riskbaserad metod med hänsyn tagen till kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen) med vederbörligt beaktande av IKT-riskens utveckling, eventuella specifika risker som den berörda finansiella entiteten är eller kan bli exponerad för, kritikaliteten hos informationstillgångar och tillhandahållna tjänster samt varje annan faktor som den finansiella entiteten anser lämplig.
+
+4\. Andra finansiella entiteter än mikroföretag ska se till att testerna utförs av oberoende parter, oavsett om de är interna eller externa. När tester utförs av en intern testare ska finansiella entiteter avsätta tillräckliga resurser och säkerställa att intressekonflikter kan undvikas under testets utformning och genomförande.
+
+5\. Andra finansiella entiteter än mikroföretag ska fastställa förfaranden och strategier för prioritering, klassificering och åtgärdande av alla problem som visar sig under genomförandet av testerna och ska införa interna valideringsmetoder för att säkerställa att alla identifierade svagheter, brister eller luckor åtgärdas fullt ut.
+
+6\. Andra finansiella entiteter än mikroföretag ska säkerställa, åtminstone årligen, att lämpliga tester utförs på alla IKT-system och IKT-tillämpningar som stöder kritiska eller viktiga funktioner.
+
+### Artikel 25 – Testning av IKT-verktyg och IKT-system
+
+1\. Det program för testning av digital operativ motståndskraft som avses i artikel [24](#artikel-24-allmänna-krav-för-testning-av-digital-operativ-motståndskraft) ska, i enlighet med kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen), innehålla bestämmelser om utförande av lämpliga tester, såsom sårbarhetsanalyser och skanningar, analyser av öppen källkod, nätverkssäkerhetsbedömningar, gapanalyser, fysiska säkerhetsgranskningar, frågeformulär och programvarulösningar för skanning, källkodsgranskningar när så är möjligt, scenariobaserade tester, kompatibilitetstester, prestandatester, tester ändpunkt till ändpunkt (end-to-end) och penetrationstester.
+
+2\. Värdepapperscentraler och centrala motparter ska utföra sårbarhetsbedömningar före eventuellt införande eller återinförande av nya eller befintliga tillämpningar och infrastrukturkomponenter, och IKT-tjänster som stöder den finansiella entitetens kritiska eller viktiga funktioner,.
+
+3\. Mikroföretag ska utföra de tester som avses i punkt 1 genom att kombinera en riskbaserad metod med strategisk planering av IKT-testning, genom att vederbörligen beakta behovet av att upprätthålla en balans mellan å ena sidan omfattningen av de resurser och den tid som ska avsättas för IKT-testning som föreskrivs i [denna artikel](#artikel-25-testning-av-ikt-verktyg-och-ikt-system) och å andra sidan skyndsamheten, typen av risk, kritikaliteten hos informationstillgångarna och de tillhandahållna tjänsterna samt alla andra relevanta faktorer, inbegripet den finansiella entitetens förmåga att ta beräknade risker.
+
+### Artikel 26 – Avancerad testning av IKT-verktyg, IKT-system och IKT-processer baserad på hotbildsstyrd penetrationstestning
+
+1\. Andra finansiella entiteter än de entiteter som avses i artikel [16.1](/lagstiftning/dora/kap-2#artikel-16-förenklad-ikt-riskhanteringsram) första stycket och mikroföretag, vilka har identifierats i enlighet med punkt 8 tredje stycket i [den här artikeln](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) ska minst vart tredje år genomföra avancerade tester med hjälp av hotbildsstyrd penetrationstestning. Baserat på den finansiella entitetens riskprofil och med beaktande av de operativa omständigheterna får den behöriga myndigheten vid behov begära att den finansiella entiteten minskar eller ökar denna frekvens.
+
+2\. Varje hotbildsstyrt penetrationstest ska omfatta flera eller alla av en finansiell entitets kritiska eller viktiga funktioner och ska utföras på produktionssystem i drift som stöder sådana funktioner.
+
+Finansiella entiteter ska identifiera alla relevanta underliggande IKT-system, IKT-processer och IKT-tekniker som stöder kritiska eller viktiga funktioner och IKT-tjänster, inbegripet de som stöder de kritiska eller viktiga funktioner som har utkontrakterats eller kontrakterats till tredjepartsleverantörer av IKT-tjänster.
+
+Finansiella entiteter ska bedöma vilka kritiska eller viktiga funktioner som behöver omfattas av den hotbildsstyrda penetrationstestningen. Resultatet av denna bedömning ska fastställa den exakta omfattningen av den hotbildsstyrda penetrationstestningen och ska valideras av de behöriga myndigheterna.
+
+3\. Om tredjepartsleverantörer av IKT-tjänster omfattas av den hotbildsstyrda penetrationstestningen ska den finansiella entiteten vidta nödvändiga åtgärder och skyddsåtgärder för att säkerställa att sådana tredjepartsleverantörer av IKT-tjänster deltar i den hotbildsstyrda penetrationstestningen och ska alltid ha fullt ansvar för att säkerställa att [denna förordning](/lagstiftning/dora) efterlevs.
+
+4\. Utan att det påverkar tillämpningen av punkt 2 första och andra styckena får den finansiella entiteten och en tredjepartsleverantör av IKT-tjänster, om tredjepartsleverantörens deltagande i den hotbildsstyrda penetrationstestningen som avses i punkt 3 kan förväntas få negativ inverkan på kvaliteten eller säkerheten för de tjänster som tredjepartsleverantören av IKT-tjänster tillhandahåller till kunder som är entiteter som inte omfattas av [denna förordning](/lagstiftning/dora), eller för konfidentialiteten för data som är relaterade till sådana tjänster, skriftligen enas om att tredjepartsleverantören av IKT-tjänster ingår avtal med en extern testare i syfte att, under ledning av en utsedd finansiell entitet, genomföra en gemensam hotbildsstyrd penetrationstestning med flera finansiella entiteter (gemensam testning) till vilka tredjepartsleverantören av IKT-tjänster tillhandahåller IKT-tjänster.
+
+Den gemensamma testningen ska omfatta det relevanta spektrum av IKT-tjänster som stöder kritiska eller viktiga funktioner som de finansiella entiteterna har ingått avtal om med respektive tredjepartsleverantör av IKT-tjänster. Den gemensamma testningen ska betraktas som hotbildsstyrd penetrationstestning utförd av de finansiella entiteter som deltar i den gemensamma testningen.
+
+Antalet finansiella entiteter som deltar i den gemensamma testningen ska vederbörligen kalibreras med beaktande av de berörda tjänsternas komplexitet och typ.
+
+5\. De finansiella entiteterna ska, i samarbete med tredjepartsleverantörer av IKT-tjänster och andra berörda parter, inbegripet testarna men exklusive de behöriga myndigheterna, tillämpa effektiva riskhanteringskontroller för att minska riskerna för möjliga effekter på data, skador på tillgångar och avbrott i kritiska eller viktiga funktioner, tjänster eller transaktioner hos den finansiella entiteten själv, dess motpart eller den finansiella sektorn.
+
+6\. När testet har avslutats och efter det att rapporter och åtgärdsplaner har godkänts ska den finansiella entiteten och, i tillämpliga fall, de externa testarna förse den myndighet som utsetts i enlighet med punkt 9 eller 10 med en sammanfattning av de relevanta resultaten, åtgärdsplanerna och dokumentation som visar att den hotbildsstyrda penetrationstestningen har utförts i enlighet med kraven.
+
+7\. Myndigheter ska förse finansiella entiteter med ett intyg som bekräftar att testet genomfördes i enlighet med kraven, vilket ska framgå av dokumentationen, i syfte att möjliggöra ömsesidigt erkännande av hotbildsstyrd penetrationstestning mellan behöriga myndigheter. Den finansiella entiteten ska underrätta den relevanta behöriga myndigheten om intyget, sammanfattningen av de relevanta resultaten och åtgärdsplanerna.
+
+Utan att det påverkar tillämpligheten av ett sådant intyg ska de finansiella entiteterna alltid ha det fulla ansvaret för effekterna av de tester som avses i punkt 4.
+
+8\. Finansiella entiteter ska anlita testare i syfte att genomföra hotbildsstyrd penetrationstestning i enlighet med artikel [27](#artikel-27-krav-för-testare-vid-utförandet-av-hotbildsstyrd-penetrationstestning). Om finansiella entiteter använder interna testare för att genomföra hotbildsstyrd penetrationstestning ska de anlita externa testare vid vart tredje test.
+
+De kreditinstitut som klassificeras som betydande i enlighet med artikel [6.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) i [förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) ska endast använda externa testare i enlighet med artikel [27.1 a](#artikel-27-krav-för-testare-vid-utförandet-av-hotbildsstyrd-penetrationstestning)–e.
+
+De behöriga myndigheterna ska identifiera de finansiella entiteter som är skyldiga att genomföra hotbildsstyrd penetrationstestning med beaktande av kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen), baserat på en bedömning av följande:
+
+a) Påverkansfaktorer, särskilt i vilken utsträckning de tjänster som tillhandahålls och den verksamhet som bedrivs av den finansiella entiteten påverkar den finansiella sektorn.
+
+b) Eventuella farhågor om den finansiella stabiliteten, inbegripet den finansiella entitetens betydelse för systemet som helhet på unionsnivå eller nationell nivå, beroende på vad som är tillämpligt.
+
+c) Den berörda finansiella entitetens specifika IKT-riskprofil, IKT-mognadsgrad och tekniska funktioner.
+
+9\. Medlemsstaterna får utse en enda offentlig myndighet inom finanssektorn som ska ansvara för frågor som rör hotbildsstyrd penetrationstestning inom den finansiella sektorn på nationell nivå och ska ge myndigheten alla befogenheter och uppgifter i detta syfte.
+
+10\. Om det inte har utsetts någon myndighet i enlighet med punkt 9 i [denna artikel](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning), och utan att det påverkar befogenheten att välja ut vilka finansiella entiteter som är skyldiga att utföra hotbildsstyrd penetrationstestning, får en behörig myndighet delegera vissa eller alla av de uppgifter som avses i [denna artikel](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) och artikel [27](#artikel-27-krav-för-testare-vid-utförandet-av-hotbildsstyrd-penetrationstestning) till en annan nationell myndighet inom den finansiella sektorn.
+
+11\. De europeiska tillsynsmyndigheterna ska, i samförstånd med ECB, utarbeta gemensamma förslag till tekniska standarder för tillsyn i enlighet med TIBER-EU-ramen i syfte att närmare specificera
+
+a) de kriterier som används för tillämpningen av punkt 8 andra stycket,
+
+b) kraven och standarderna för användning av interna testare
+
+c) kraven i fråga om
+
+i) omfattningen av den hotbildsstyrda penetrationstestning som avses i punkt 2,
+
+ii) den testmetod och det tillvägagångssätt som ska följas för varje specifik fas i testprocessen,
+
+iii) testningens resultat och avslutnings- och åtgärdsfaser,
+
+d) den typ av tillsynssamarbete och annat relevant samarbete som krävs för genomförandet av hotbildsstyrd penetrationstestning och för underlättande av det ömsesidiga erkännandet av sådan testning när det gäller finansiella entiteter som är verksamma i mer än en medlemsstat, för att det ska gå att införa lämplig nivå av tillsynsengagemang och ett flexibelt genomförande i syfte att ta hänsyn till särdragen hos finansiella delsektorer eller lokala finansmarknader.
+
+När de europeiska tillsynsmyndigheterna utvecklar dessa förslag till tekniska standarder för tillsyn ska de ta vederbörlig hänsyn till eventuella särdrag som härrör från den särskilda karaktären på verksamheten i olika sektorer för finansiella tjänster.
+
+De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 juli 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 27 – Krav för testare vid utförandet av hotbildsstyrd penetrationstestning
+
+1\. Finansiella entiteter ska endast utföra sådana testare för att utföra hotbildsstyrd penetrationstestning som
+
+a) är allra bäst lämpade och har högst anseende,
+
+b) har teknisk och organisatorisk kapacitet och uppvisar särskild sakkunskap om underrättelser om hot, penetrationstestning och red-team-testning,
+
+c) har certifierats av ett ackrediteringsorgan i en medlemsstat eller ansluter sig till formella uppförandekoder eller etiska ramar,
+
+d) lämnar en oberoende försäkran eller en revisionsberättelse om sund riskhantering i samband med utförandet av hotbildsstyrd penetrationstestning, inbegripet relevant skydd av den finansiella entitetens konfidentiella information och ersättning för den finansiella entitetens affärsrisker,
+
+e) har en relevant och heltäckande ansvarsförsäkring som omfattar risker för fel och försummelser i yrkesutövningen.
+
+2\. Vid användandet av interna testare ska finansiella entiteter säkerställa att, utöver villkoren i punkt 1, följande villkor är uppfyllda:
+
+a) Sådan användning av dem har godkänts av den relevanta behöriga myndigheten eller av den enda offentliga myndighet som utsetts i enlighet med artikel [26.9](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) och [26.10](#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning).
+
+b) Den relevanta behöriga myndigheten har verifierat att den finansiella entiteten har avsatt tillräckliga resurser och säkerställt att intressekonflikter kan undvikas under testets utformning och genomförande.
+
+c) Leverantören av underrättelser om hot är extern i förhållande till den finansiella entiteten.
+
+3\. Finansiella entiteter ska se till att avtal som ingås med externa testare innehåller krav på en sund förvaltning av resultaten av den hotbildsstyrda penetrationstestningen och att all databehandling av dem, inbegripet generering, lagring, aggregering, utkast, rapportering, kommunikation eller förstörelse, inte skapar risker för den finansiella entiteten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

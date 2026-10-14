@@ -1,0 +1,87 @@
+---
+'source': 'emc'
+'ref': 'Kapitel 3'
+'title': 'Kapitel 3 – UTRUSTNINGENS ÖVERENSSTÄMMELSE MED KRAVEN'
+'kind': 'chapter'
+'description': 'EMC-direktivet, Kapitel 3.'
+'designation': 'EMC-direktivet Kapitel 3'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0023.03#cpt_3'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 13 – Presumtion om överensstämmelse för utrustningen
+
+Utrustning som överensstämmer med harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de väsentliga krav i bilaga I som omfattas av dessa standarder eller delar av dem.
+
+### Artikel 14 – Förfarande vid bedömning av överensstämmelse för apparater
+
+När det gäller bedömning av apparaternas överensstämmelse med de väsentliga krav som anges i bilaga I ska något av följande förfaranden för bedömning av överensstämmelse följas:
+
+a) Intern tillverkningskontroll enligt bilaga II.
+
+b) EU-typkontroll följt av överensstämmelse med typ som grundar sig på intern tillverkningskontroll enligt bilaga III.
+
+Tillverkaren får välja att tillämpa det förfarande som avses i första stycket led b endast i fråga om vissa aspekter av de väsentliga kraven, under förutsättning att det förfarande som avses i första stycket led a tillämpas i fråga om de övriga aspekterna av de väsentliga kraven.
+
+### Artikel 15 – EU-försäkran om överensstämmelse
+
+1\. I EU-försäkran om överensstämmelse ska det anges att de väsentliga säkerhetskraven i bilaga I har visats vara uppfyllda.
+
+2\. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga IV, innehålla de uppgifter som anges i de relevanta modulerna i bilagorna II och III och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där apparaten släpps ut eller tillhandahålls på marknaden.
+
+3\. Om en apparat omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4\. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att apparaten överensstämmer med kraven i [detta direktiv](/lagstiftning/emc).
+
+### Artikel 16 – Allmänna principer för CE-märkning
+
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+### Artikel 17 – Regler och villkor för CE-märkning
+
+1\. CE-märkningen ska anbringas på apparaten eller dess märkskylt så att den är synlig, lätt läsbar och varaktig. Om detta inte är möjligt eller lämpligt på grund av apparatens art ska märkningen anbringas på förpackningen och i de medföljande dokumenten.
+
+2\. CE-märkningen ska anbringas innan apparaten släpps ut på marknaden.
+
+3\. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+
+### Artikel 18 – Information om användningen av apparaten
+
+1\. Apparaten ska åtföljas av information om eventuella särskilda försiktighetsåtgärder som ska vidtas i samband med montering, installation, underhåll eller användning av apparaten för att apparaten ska överensstämma med de väsentliga kraven i punkt 1 i bilaga I när den tas i bruk.
+
+2\. Apparater vars överensstämmelse med de väsentliga kraven i punkt 1 i bilaga I inte är säkerställd i bostadsområden ska åtföljas av en tydlig uppgift om denna begränsade användning, i förekommande fall även på förpackningen.
+
+3\. De anvisningar som åtföljer apparaten ska innehålla den information som är nödvändig för att möjliggöra användning av apparaten i överensstämmelse med det ändamål som apparaten är avsedd för.
+
+### Artikel 19 – Fasta installationer
+
+1\. Apparater som har tillhandahållits på marknaden och som kan byggas in i en fast installation ska omfattas av alla tillämpliga bestämmelser för apparater i [detta direktiv](/lagstiftning/emc).
+
+Kraven i artiklarna [6](/lagstiftning/emc/kap-1#artikel-6-väsentliga-krav)–[12](/lagstiftning/emc/kap-2#artikel-12-identifiering-av-de-ekonomiska-aktörerna) och [14](#artikel-14-förfarande-vid-bedömning-av-överensstämmelse-för-apparater)–[18](#artikel-18-information-om-användningen-av-apparaten) ska dock inte vara obligatoriska för apparater som är avsedda att byggas in i en bestämd fast installation och inte på annat sätt tillhandahålls på marknaden.
+
+I sådana fall ska den fasta installationens identitet och dess egenskaper avseende elektromagnetisk kompatibilitet framgå av den medföljande dokumentationen tillsammans med de försiktighetsåtgärder som ska vidtas när apparaten byggs in i den fasta installationen för att installationens överensstämmelse inte ska äventyras. Den information som avses i artiklarna [7.5](/lagstiftning/emc/kap-2#artikel-7-tillverkarnas-skyldigheter), [7.6](/lagstiftning/emc/kap-2#artikel-7-tillverkarnas-skyldigheter) och [9.3](/lagstiftning/emc/kap-2#artikel-9-importörernas-skyldigheter) ska också finnas i denna dokumentation.
+
+Sådan god branschpraxis som avses i punkt 2 i bilaga I ska dokumenteras, och den eller de ansvariga personerna ska hålla dokumentationen tillgänglig för kontroll för berörda nationella myndigheter så länge som den fasta installationen är i drift.
+
+2\. Om det finns tecken på att den fasta installationen brister i överensstämmelse, särskilt om klagomål framförs om att störningar alstras av installationen, får den berörda medlemsstatens behöriga myndigheter begära bevis på den fasta installationens överensstämmelse och, när det är relevant, inleda en bedömning.
+
+Om bristande överensstämmelse konstateras ska de behöriga myndigheterna kräva att lämpliga åtgärder vidtas så att installationen överensstämmer med de väsentliga kraven i bilaga I.
+
+3\. Medlemsstaterna ska införa de bestämmelser som krävs för att den eller de personer ska kunna identifieras som ansvarar för att fastställa att en fast installation överensstämmer med de tillämpliga väsentliga kraven.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

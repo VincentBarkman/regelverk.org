@@ -3,17 +3,20 @@
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
+	"packageManager": "pnpm@10.32.1",
 	"scripts": {
-		"dev": "node scripts/commits.mjs && vite dev",
-		"build": "node scripts/commits.mjs && vite build",
+		"dev": "node scripts/commits.mjs && node scripts/manifest.mjs && vite dev",
+		"build": "node scripts/commits.mjs && node scripts/manifest.mjs && vite build",
 		"preview": "wrangler dev --port 4173",
-		"prepare": "node scripts/commits.mjs; svelte-kit sync || echo ''",
+		"prepare": "node scripts/commits.mjs; node scripts/manifest.mjs; svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",
 		"test:e2e": "playwright install && playwright test",
 		"test": "npm run test:unit -- --run && npm run test:e2e",
+		"verify": "pnpm check && pnpm lint && pnpm exec playwright install chromium && pnpm test:unit -- --run && pnpm build",
+		"verify:full": "pnpm verify && pnpm test:e2e",
 		"gen": "wrangler types",
 		"scan:laws": "node scripts/scan-laws.mjs",
 		"scan:standards": "node scripts/scan-standards.mjs",
@@ -82,6 +85,9 @@
 			"sharp",
 			"workerd",
 			"esbuild"
-		]
+		],
+		"overrides": {
+			"postcss-selector-parser@<7.1.6": ">=7.1.6"
+		}
 	}
 }

@@ -1,0 +1,31 @@
+---
+'source': 'eidas'
+'ref': 'Kapitel IV'
+'title': 'Kapitel IV – ELEKTRONISKA DOKUMENT'
+'kind': 'chapter'
+'description': 'eIDAS-förordningen, Kapitel IV.'
+'designation': 'eIDAS-förordningen Kapitel IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0024.03#cpt_IV'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 46 – Rättslig verkan av elektroniska dokument
+
+Ett elektroniskt dokument får inte förvägras rättslig verkan eller giltighet som bevis vid rättsliga förfaranden enbart på grund av att det har elektronisk form.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,0 +1,289 @@
+---
+'source': 'elmarknadsforordningen'
+'ref': 'Chapter II'
+'title': 'Chapter II – GENERAL RULES FOR THE ELECTRICITY MARKET'
+'kind': 'chapter'
+'description': 'Electricity Market Regulation, Chapter II.'
+'designation': 'Electricity Market Regulation Chapter II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_II'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 3 – Principles regarding the operation of electricity markets
+
+Member States, regulatory authorities, transmission system operators, distribution system operators, market operators and delegated operators shall ensure that electricity markets are operated in accordance with the following principles:
+
+(a) prices shall be formed on the basis of demand and supply;
+
+(b) market rules shall encourage free price formation and shall avoid actions which prevent price formation on the basis of demand and supply;
+
+(c) market rules shall facilitate the development of more flexible generation, sustainable low carbon generation, and more flexible demand;
+
+(d) customers shall be enabled to benefit from market opportunities and increased competition on retail markets and shall be empowered to act as market participants in the energy market and the energy transition;
+
+(e) market participation of final customers and small enterprises shall be enabled by aggregation of generation from multiple power-generating facilities or load from multiple demand response facilities to provide joint offers on the electricity market and be jointly operated in the electricity system, in accordance with Union competition law;
+
+(f) market rules shall enable the decarbonisation of the electricity system and thus the economy, including by enabling the integration of electricity from renewable energy sources and by providing incentives for energy efficiency;
+
+(g) market rules shall deliver appropriate investment incentives for generation, in particular for long-term investments in a decarbonised and sustainable electricity system, energy storage, energy efficiency and demand response to meet market needs, and shall facilitate fair competition thus ensuring security of supply;
+
+(h) barriers to cross-border electricity flows between bidding zones or Member States and cross-border transactions on electricity markets and related services markets shall be progressively removed;
+
+(i) market rules shall provide for regional cooperation where effective;
+
+(j) safe and sustainable generation, energy storage and demand response shall participate on equal footing in the market, under the requirements provided for in the Union law;
+
+(k) all producers shall be directly or indirectly responsible for selling the electricity they generate;
+
+(l) market rules shall allow for the development of demonstration projects into sustainable, secure and low-carbon energy sources, technologies or systems which are to be realised and used to the benefit of society;
+
+(m) market rules shall enable the efficient dispatch of generation assets, energy storage and demand response;
+
+(n) market rules shall allow for entry and exit of electricity generation, energy storage and electricity supply undertakings based on those undertakings' assessment of the economic and financial viability of their operations;
+
+(o) in order to allow market participants to be protected against price volatility risks on a market basis, and mitigate uncertainty on future returns on investment, long-term hedging products shall be tradable on exchanges in a transparent manner and long-term electricity supply contracts shall be negotiable over the counter, subject to compliance with Union competition law;
+
+(p) market rules shall facilitate trade of products across the Union and. regulatory changes shall take into account effects on both short-term and long-term forward and futures markets and products;
+
+(q) market participants shall have a right to obtain access to the transmission networks and distribution networks on objective, transparent and non-discriminatory terms.
+
+### Article 4 – Just transition
+
+The Commission shall support Member States that put in place a national strategy for the progressive reduction of existing coal and other solid fossil fuel generation and mining capacity through all available means to enable a just transition in regions affected by structural change. The Commission shall assist Member States in addressing the social and economic impacts of the clean energy transition.
+
+The Commission shall work in close partnership with the stakeholders in coal and carbon-intensive regions, shall facilitate the access to and use of available funds and programmes, and shall encourage the exchange of good practices, including discussions on industrial roadmaps and reskilling needs.
+
+### Article 5 – Balance responsibility
+
+1\. All market participants shall be responsible for the imbalances they cause in the system (‘balance responsibility’). To that end, market participants shall either be balance responsible parties or shall contractually delegate their responsibility to a balance responsible party of their choice. Each balance responsible party shall be financially responsible for its imbalances and shall strive to be balanced or shall help the electricity system to be balanced.
+
+2\. Member States may provide derogations from balance responsibility only for:
+
+(a) demonstration projects for innovative technologies, subject to approval by the regulatory authority, provided that those derogations are limited to the time and extent necessary for achieving the demonstration purposes;
+
+(b) power-generating facilities using renewable energy sources with an installed electricity capacity of less than 400 kW;
+
+(c) installations benefitting from support approved by the Commission under Union State aid rules pursuant to Articles 107, 108 and 109 TFEU, and commissioned before 4 July 2019.
+
+Member States may, without prejudice to Articles 107 and 108 TFEU, provide incentives to market participants which are fully or partly exempted from balancing responsibility to accept full balancing responsibility.
+
+3\. When a Member State provides a derogation in accordance with paragraph 2, it shall ensure that the financial responsibility for imbalances is fulfilled by another market participant.
+
+4\. For power-generating facilities commissioned from 1 January 2026, point (b) of paragraph 2 shall apply only to generating installations using renewable energy sources with an installed electricity capacity of less than 200 kW.
+
+### Article 6 – Balancing market
+
+1\. Balancing markets, including prequalification processes, shall be organised in such a way as to:
+
+(a) ensure effective non-discrimination between market participants taking account of the different technical needs of the electricity system and the different technical capabilities of generation sources, energy storage and demand response;
+
+(b) ensure that services are defined in a transparent and technologically neutral manner and are procured in a transparent, market-based manner;
+
+(c) ensure non-discriminatory access to all market participants, individually or through aggregation, including for electricity generated from variable renewable energy sources, demand response and energy storage;
+
+(d) respect the need to accommodate the increasing share of variable generation, increased demand responsiveness and the advent of new technologies.
+
+2\. The price of balancing energy shall not be pre-determined in contracts for balancing capacity. Procurement processes shall be transparent in accordance with Article [40](/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet), while protecting the confidentiality of commercially sensitive information.
+
+3\. Balancing markets shall ensure operational security whilst allowing for maximum use and efficient allocation of cross-zonal capacity across timeframes in accordance with Article [17](/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes).
+
+4\. The settlement of balancing energy for standard balancing products and specific balancing products shall be based on marginal pricing (pay-as-cleared) unless all regulatory authorities approve an alternative pricing method on the basis of a joint proposal by all transmission system operators following an analysis demonstrating that that alternative pricing method is more efficient.
+
+Market participants shall be allowed to bid as close to real time as possible, and balancing energy gate closure times shall not be before the intraday cross-zonal gate closure time.
+
+Transmission system operators applying a central dispatching model may establish additional rules in accordance with the guideline on electricity balancing adopted on the basis of Article [6](#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+
+5\. The imbalances shall be settled at a price that reflects the real-time value of energy.
+
+6\. Each imbalance price area shall be equal to a bidding zone, except in the case of a central dispatching model where an imbalance price area may constitute a part of a bidding zone.
+
+7\. The dimensioning of reserve capacity shall be performed by the transmission system operators and shall be facilitated at regional level.
+
+8\. The procurement of balancing capacity shall be performed by the transmission system operator and may be facilitated at a regional level. Reservation of cross-border capacity to that end may be limited. The procurement of balancing capacity shall be market-based and organised in such a way as to be non-discriminatory between market participants in the prequalification process in accordance with Article [40](/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) whether market participants participate individually or through aggregation.
+
+Procurement of balancing capacity shall be based on a primary market unless and to the extent that the regulatory authority has provided for a derogation to allow the use of other forms of market-based procurement on the grounds of a lack of competition in the market for balancing services. Derogations from the obligation to base the procurement of balancing capacity on use of primary markets shall be reviewed every three years.
+
+9\. The procurement of upward balancing capacity and downward balancing capacity shall be carried out separately, unless the regulatory authority approves a derogation from this principle on the basis that this would result in higher economic efficiency as demonstrated by an evaluation performed by the transmission system operator. Contracts for balancing capacity shall not be concluded more than one day before the provision of the balancing capacity and the contracting period shall be no longer than one day, unless and to the extent that the regulatory authority has approved the earlier contracting or longer contracting periods to ensure the security of supply or to improve economic efficiency.
+
+Where a derogation is granted, for at least 40 % of the standard balancing products and a minimum of 30 % of all products used for balancing capacity, contracts for the balancing capacity shall be concluded for no more than one day before the provision of the balancing capacity and the contracting period shall be no longer than one day. The contracting of the remaining part of the balancing capacity shall be performed for a maximum of one month in advance of the provision of balancing capacity and shall have a maximum contractual period of one month.
+
+10\. At the request of the transmission system operator, the regulatory authority may decide to extend the contractual period of the remaining part of balancing capacity referred to in paragraph 9 to a maximum period of twelve months provided that such a decision is limited in time, and the positive effects in terms of lowering of costs for final customers exceed the negative impacts on the market. The request shall include:
+
+(a) the specific period during which the exemption would apply;
+
+(b) the specific volume of balancing capacity to which the exemption would apply;
+
+(c) an analysis of the impact of the exemption on the participation of balancing resources; and
+
+(d) a justification for the exemption demonstrating that such an exemption would lead to lower costs to final customers.
+
+11\. Notwithstanding paragraph 10, from 1 January 2026 contract periods shall not be longer than six months.
+
+12\. By 1 January 2028, regulatory authorities shall report to the Commission and ACER on the share of the total capacity covered by contracts with a duration or a procurement period of longer than one day.
+
+13\. Transmission system operators or their delegated operators shall publish, as close to real time as possible but with a delay after delivery of no more than 30 minutes, the current system balance of their scheduling areas, the estimated imbalance prices and the estimated balancing energy prices.
+
+14\. Transmission system operators may, where standard balancing products are not sufficient to ensure operational security or where some balancing resources cannot participate in the balancing market through standard balancing products, propose, and the regulatory authorities may approve, derogations from paragraphs 2 and 4 for specific balancing products which are activated locally without exchanging them with other transmission system operators.
+
+Proposals for derogations shall include a description of measures proposed to minimise the use of specific products, subject to economic efficiency, a demonstration that the specific products do not create significant inefficiencies and distortions in the balancing market either inside or outside the scheduling area, as well as, where applicable, the rules and information for the process for converting the balancing energy bids from specific balancing products into balancing energy bids from standard balancing products.
+
+### Article 7 – Day-ahead and intraday markets
+
+1\. Transmission system operators and NEMOs shall jointly organise the management of the integrated day-ahead and intraday markets in accordance with [Regulation (EU) 2015/1222](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1222). Transmission system operators and NEMOs shall cooperate at Union level or, where more appropriate, at a regional level in order to maximise the efficiency and effectiveness of Union electricity day-ahead and intraday trading. The obligation to cooperate shall be without prejudice to the application of Union competition law. In their functions relating to electricity trading, transmission system operators and NEMOs shall be subject to regulatory oversight by the regulatory authorities pursuant to Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#artikel-59-tillsynsmyndigheternas-uppgifter-och-befogenheter) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) and ACER pursuant to Articles [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) and [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) of [Regulation (EU) 2019/942](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942).
+
+2\. Day-ahead and intraday markets shall:
+
+(a) be organised in such a way as to be non-discriminatory;
+
+(b) maximise the ability of all market participants to manage imbalances;
+
+(c) maximise the opportunities for all market participants to participate in cross-zonal trade in as close as possible to real time across all bidding zones;
+
+(d) provide prices that reflect market fundamentals, including the real time value of energy, on which market participants are able to rely when agreeing on longer-term hedging products;
+
+(e) ensure operational security while allowing for maximum use of transmission capacity;
+
+(f) be transparent while at the same time protecting the confidentiality of commercially sensitive information and ensuring trading occurs in an anonymous manner;
+
+(g) make no distinction between trades made within a bidding zone and across bidding zones; and
+
+(h) be organised in such a way as to ensure that all markets participants are able to access the market individually or through aggregation.
+
+### Article 8 – Trade on day-ahead and intraday markets
+
+1\. NEMOs shall allow market participants to trade energy as close to real time as possible and at least up to the intraday cross-zonal gate closure time.
+
+2\. NEMOs shall provide market participants with the opportunity to trade in energy in time intervals which are at least as short as the imbalance settlement period for both day-ahead and intraday markets.
+
+3\. NEMOs shall provide products for trading in day-ahead and intraday markets which are sufficiently small in size, with minimum bid sizes of 500 kW or less, to allow for the effective participation of demand-side response, energy storage and small-scale renewables including direct participation by customers.
+
+4\. By 1 January 2021, the imbalance settlement period shall be 15 minutes in all scheduling areas, unless regulatory authorities have granted a derogation or an exemption. Derogations may be granted only until 31 December 2024.
+
+From 1 January 2025, the imbalance settlement period shall not exceed 30 minutes where an exemption has been granted by all the regulatory authorities within a synchronous area.
+
+### Article 9 – Forward markets
+
+1\. In accordance with [Regulation (EU) 2016/1719](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1719), transmission system operators shall issue long-term transmission rights or have equivalent measures in place to allow for market participants, including owners of power-generating facilities using renewable energy sources, to hedge price risks across bidding zone borders, unless an assessment of the forward market on the bidding zone borders performed by the competent regulatory authorities shows that there are sufficient hedging opportunities in the concerned bidding zones.
+
+2\. Long-term transmission rights shall be allocated in a transparent, market based and non-discriminatory manner through a single allocation platform.
+
+3\. Subject to compliance with Union competition law, market operators shall be free to develop forward hedging products, including long-term forward hedging products, to provide market participants, including owners of power-generating facilities using renewable energy sources, with appropriate possibilities for hedging financial risks against price fluctuations. Member States shall not require that such hedging activity be limited to trades within a Member State or bidding zone.
+
+### Article 10 – Technical bidding limits
+
+1\. There shall be neither a maximum nor a minimum limit to the wholesale electricity price. This provision shall apply, inter alia, to bidding and clearing in all timeframes and shall include balancing energy and imbalance prices, without prejudice to the technical price limits which may be applied in the balancing timeframe and in the day-ahead and intraday timeframes in accordance with paragraph 2.
+
+2\. NEMOs may apply harmonised limits on maximum and minimum clearing prices for day-ahead and intraday timeframes. Those limits shall be sufficiently high so as not to unnecessarily restrict trade, shall be harmonised for the internal market and shall take into account the maximum value of lost load. NEMOs shall implement a transparent mechanism to adjust automatically the technical bidding limits in due time in the event that the set limits are expected to be reached. The adjusted higher limits shall remain applicable until further increases under that mechanism are required.
+
+3\. Transmission system operators shall not take any measures for the purpose of changing wholesale prices.
+
+4\. Regulatory authorities or, where a Member State has designated another competent authority for that purpose, such designated competent authorities, shall identify policies and measures applied within their territory that could contribute to indirectly restricting wholesale price formation, including limiting bids relating to the activation of balancing energy, capacity mechanisms, measures by the transmission system operators, measures intended to challenge market outcomes, or to prevent the abuse of dominant positions or inefficiently defined bidding zones.
+
+5\. Where a regulatory authority or designated competent authority has identified a policy or measure which could serve to restrict wholesale price formation it shall take all appropriate actions to eliminate or, if not possible, to mitigate the impact of that policy or measure on bidding behaviour. Member States shall provide a report to the Commission by 5 January 2020 detailing the measures and actions they have taken or intend to take.
+
+### Article 11 – Value of lost load
+
+1\. By 5 July 2020 where required for the purpose of setting a reliability standard in accordance with Article [25](/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard) regulatory authorities or, where a Member State has designated another competent authority for that purpose, such designated competent authorities shall determine a single estimate of the value of lost load for their territory. That estimate shall be made publically available. Regulatory authorities or other designated competent authorities may determine different estimates per bidding zone if they have more than one bidding zone in their territory. Where a bidding zone consists of territories of more than one Member State, the concerned regulatory authorities or other designated competent authorities shall determine a single estimate of the value of lost load for that bidding zone. In determining the single estimate of the value of lost load, regulatory authorities or other designated competent authorities shall apply the methodology referred to in Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(6).
+
+2\. Regulatory authorities and designated competent authorities shall update their estimate of the value of lost load at least every five years, or earlier where they observe a significant change.
+
+### Article 12 – Dispatching of generation and demand response
+
+1\. The dispatching of power-generating facilities and demand response shall be non-discriminatory, transparent and, unless otherwise provided under paragraphs 2 to 6, market based.
+
+2\. Without prejudice to Articles 107, 108 and 109 TFEU, Member States shall ensure that when dispatching electricity generating installations, system operators shall give priority to generating installations using renewable energy sources to the extent permitted by the secure operation of the national electricity system, based on transparent and non-discriminatory criteria and where such power-generating facilities are either:
+
+(a) power-generating facilities that use renewable energy sources and have an installed electricity capacity of less than 400 kW; or
+
+(b) demonstration projects for innovative technologies, subject to approval by the regulatory authority, provided that such priority is limited to the time and extent necessary for achieving the demonstration purposes.
+
+3\. A Member State may decide not to apply priority dispatch to power-generating facilities as referred to in point (a) of paragraph 2 with a start of operation at least six months after that decision, or to apply a lower minimum capacity than that set out under point (a) of paragraph 2, provided that:
+
+(a) it has well-functioning intraday and other wholesale and balancing markets and that those markets are fully accessible to all market participants in accordance with [this Regulation](/lagstiftning/elmarknadsforordningen);
+
+(b) redispatching rules and congestion management are transparent to all market participants;
+
+(c) the national contribution of the Member State towards the Union's binding overall target for share of energy from renewable sources under Article [3](#article-3-principles-regarding-the-operation-of-electricity-markets)(2) of [Directive (EU) 2018/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L2001) of the European Parliament and of the Council (18) and point (a)(2) of Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) of the European Parliament and of the Council (19) is at least equal to the corresponding result of the formula set out in Annex II to [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) and the Member State's share of energy from renewable sources is not below its reference points under point (a)(2) of Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), or alternatively, the Member State's share of energy from renewable sources in gross final electricity consumption is at least 50 %;
+
+(d) the Member State has notified the planned derogation to the Commission setting out in detail how the conditions set out under points (a), (b) and (c) are fulfilled; and
+
+(e) the Member State has published the planned derogation, including the detailed reasoning for the granting of that derogation, taking due account of the protection of commercially sensitive information where required.
+
+Any derogation shall avoid retroactive changes that affect generating installations already benefiting from priority dispatch, notwithstanding any agreement between a Member State and the operator of a generating installation on a voluntary basis.
+
+Without prejudice to Articles [107](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), [108](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) and [109](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) TFEU, Member States may provide incentives to installations eligible for priority dispatch to voluntarily give up priority dispatch.
+
+4\. Without prejudice to Articles [107](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), [108](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) and [109](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) TFEU, Member States may provide for priority dispatch for electricity generated in power-generating facilities using high-efficiency cogeneration with an installed electricity capacity of less than 400 kW.
+
+5\. For power-generating facilities commissioned as from 1 January 2026, point (a) of paragraph 2 shall apply only to power-generating facilities that use renewable energy sources and have an installed electricity capacity of less than 200 kW.
+
+6\. Without prejudice to contracts concluded before 4 July 2019, power-generating facilities that use renewable energy sources or high-efficiency cogeneration and were commissioned before 4 July 2019 and, when commissioned, were subject to priority dispatch under Article [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)(5) of [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) or Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(2) of [Directive 2009/28/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0028) of the European Parliament and of the Council (20) shall continue to benefit from priority dispatch. Priority dispatch shall no longer apply to such power-generating facilities from the date on which the power-generating facility becomes subject to significant modifications, which shall be deemed to be the case at least where a new connection agreement is required or where the generation capacity of the power-generating facility is increased.
+
+7\. Priority dispatch shall not endanger the secure operation of the electricity system, shall not be used as a justification for curtailment of cross-zonal capacities beyond what is provided for in Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management) and shall be based on transparent and non-discriminatory criteria.
+
+### Article 13 – Redispatching
+
+1\. The redispatching of generation and redispatching of demand response shall be based on objective, transparent and non-discriminatory criteria. It shall be open to all generation technologies, all energy storage and all demand response, including those located in other Member States unless technically not feasible.
+
+2\. The resources that are redispatched shall be selected from among generating facilities, energy storage or demand response using market-based mechanisms and shall be financially compensated. Balancing energy bids used for redispatching shall not set the balancing energy price.
+
+3\. Non-market-based redispatching of generation, energy storage and demand response may only be used where:
+
+(a) no market-based alternative is available;
+
+(b) all available market-based resources have been used;
+
+(c) the number of available power generating, energy storage or demand response facilities is too low to ensure effective competition in the area where suitable facilities for the provision of the service are located; or
+
+(d) the current grid situation leads to congestion in such a regular and predictable way that market-based redispatching would lead to regular strategic bidding which would increase the level of internal congestion and the Member State concerned either has adopted an action plan to address this congestion or ensures that minimum available capacity for cross-zonal trade is in accordance with Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(8).
+
+4\. The transmission system operators and distribution system operators shall report at least annually to the competent regulatory authority, on:
+
+(a) the level of development and effectiveness of market-based redispatching mechanisms for power generating, energy storage and demand response facilities;
+
+(b) the reasons, volumes in MWh and type of generation source subject to redispatching;
+
+(c) the measures taken to reduce the need for the downward redispatching of generating installations using renewable energy sources or high-efficiency cogeneration in the future including investments in digitalisation of the grid infrastructure and in services that increase flexibility.
+
+The regulatory authority shall submit the report to ACER and shall publish a summary of the data referred to in points (a), (b) and (c) of the first subparagraph together with recommendations for improvement where necessary.
+
+5\. Subject to requirements relating to the maintenance of the reliability and safety of the grid, based on transparent and non-discriminatory criteria established by the regulatory authorities, transmission system operators and distribution system operators shall:
+
+(a) guarantee the capability of transmission networks and distribution networks to transmit electricity produced from renewable energy sources or high-efficiency cogeneration with minimum possible redispatching, which shall not prevent network planning from taking into account limited redispatching where the transmission system operator or distribution system operator is able to demonstrate in a transparent way that doing so is more economically efficient and does not exceed 5 % of the annual generated electricity in installations which use renewable energy sources and which are directly connected to their respective grid, unless otherwise provided by a Member State in which electricity from power-generating facilities using renewable energy sources or high-efficiency cogeneration represents more than 50 % of the annual gross final consumption of electricity;
+
+(b) take appropriate grid-related and market-related operational measures in order to minimise the downward redispatching of electricity produced from renewable energy sources or from high-efficiency cogeneration;
+
+(c) ensure that their networks are sufficiently flexible so that they are able to manage them.
+
+6\. Where non-market-based downward redispatching is used, the following principles shall apply:
+
+(a) power-generating facilities using renewable energy sources shall only be subject to downward redispatching if no other alternative exists or if other solutions would result in significantly disproportionate costs or severe risks to network security;
+
+(b) electricity generated in a high-efficiency cogeneration process shall only be subject to downward redispatching if, other than downward redispatching of power-generating facilities using renewable energy sources, no other alternative exists or if other solutions would result in disproportionate costs or severe risks to network security;
+
+(c) self-generated electricity from generating installations using renewable energy sources or high-efficiency cogeneration which is not fed into the transmission or distribution network shall not be subject to downward redispatching unless no other solution would resolve network security issues;
+
+(d) downward redispatching under points (a), (b) and (c)shall be duly and transparently justified. The justification shall be included in the report under paragraph 3.
+
+7\. Where non-market based redispatching is used, it shall be subject to financial compensation by the system operator requesting the redispatching to the operator of the redispatched generation, energy storage or demand response facility except in the case of producers that have accepted a connection agreement under which there is no guarantee of firm delivery of energy. Such financial compensation shall be at least equal to the higher of the following elements or a combination of both if applying only the higher would lead to an unjustifiably low or an unjustifiably high compensation:
+
+(a) additional operating cost caused by the redispatching, such as additional fuel costs in the case of upward redispatching, or backup heat provision in the case of downward redispatching of power-generating facilities using high-efficiency cogeneration;
+
+(b) net revenues from the sale of electricity on the day-ahead market that the power-generating, energy storage or demand response facility would have generated without the redispatching request; where financial support is granted to power-generating, energy storage or demand response facilities based on the electricity volume generated or consumed, financial support that would have been received without the redispatching request shall be deemed to be part of the net revenues.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

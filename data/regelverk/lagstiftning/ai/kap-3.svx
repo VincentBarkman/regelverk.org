@@ -1,0 +1,898 @@
+---
+'source': 'ai'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – AI-SYSTEM MED HÖG RISK'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel III.'
+'designation': 'AI-förordningen Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_III'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 6 – Klassificeringsregler för AI-system med hög risk
+
+1\. Oavsett om ett AI-system släpps ut på marknaden eller tas i bruk oberoende av de produkter som avses i leden a och b ska detta AI-system betraktas som ett AI-system med hög risk om båda följande villkor är uppfyllda:
+
+a) AI-systemet är avsett att användas som en säkerhetskomponent i en produkt, eller AI-systemet är i sig en produkt, som omfattas av unionens harmoniseringslagstiftning som förtecknas i bilaga I.
+
+b) Den produkt vars säkerhetskomponent enligt led a är AI-systemet, eller själva AI-systemet som en produkt, omfattas av krav på att genomgå en tredjepartsbedömning av överensstämmelse för att den produkten ska kunna släppas ut på marknaden eller tas i bruk enligt unionens harmoniseringslagstiftning som förtecknas i bilaga I.
+
+2\. Utöver de AI-system med hög risk som avses i punkt 1 ska AI-system som avses i bilaga III också betraktas som AI-system med hög risk.
+
+3\. Genom undantag från punkt 2 ska ett AI-system som avses i bilaga III inte betraktas som ett AI-system med hög risk om det inte utgör en betydande risk för skada på fysiska personers hälsa, säkerhet eller grundläggande rättigheter, inbegripet genom att det inte materiellt påverkar resultatet av beslutsfattande.
+
+Första stycket ska vara tillämpligt om något av följande villkor är uppfyllt:
+
+a) AI-systemet är avsett att utföra en snäv processuell uppgift,
+
+b) AI-systemet är avsett att förbättra resultatet av tidigare slutförd mänsklig verksamhet,
+
+c) AI-systemet är avsett att upptäcka beslutsmönster eller avvikelser från tidigare beslutsmönster och är inte avsett att ersätta eller påverka tidigare slutförd mänsklig bedömning, utan ordentlig mänsklig granskning, eller
+
+d) AI-systemet är avsett att utföra en förberedande uppgift för en bedömning som är relevant för de användningsfall som förtecknas i bilaga III.
+
+Utan hinder av första stycket ska ett AI-system som avses i bilaga III alltid anses vara ett AI-system med hög risk om det utför profilering av fysiska personer.
+
+4\. En leverantör som anser att ett AI-system som avses i bilaga III inte är ett AI-system med hög risk ska upprätta dokumentation för sin bedömning innan systemet släpps ut på marknaden eller tas i bruk. Sådana leverantörer ska omfattas av de registreringsskyldigheter som föreskrivs i artikel [49.2](#artikel-49-registrering). På begäran av nationella behöriga myndigheter ska leverantören tillhandahålla den dokumentation som legat till grund för bedömningen.
+
+5\. Efter samråd med den europeiska styrelsen för artificiell intelligens (styrelsen) ska kommissionen senast den 2 februari 2026 tillhandahålla riktlinjer som specificerar det praktiska genomförandet av [denna artikel](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) i överensstämmelse med artikel [96](/lagstiftning/ai/kap-10#artikel-96-riktlinjer-från-kommissionen-om-genomförandet-av-denna-förordning), och som innefattar en omfattande förteckning över praktiska exempel på användningsfall av AI-system som innebär hög risk och användningsfall som inte innebär hög risk.
+
+6\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra punkt 3 andra stycket i [den här artikeln](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) genom att lägga till nya villkor utöver dem som föreskrivs i det stycket eller genom att ändra dem, om det finns konkreta och tillförlitliga bevis på förekomst av AI-system som omfattas av tillämpningsområdet för bilaga III men som inte utgör en betydande risk för skada på fysiska personers hälsa, säkerhet eller grundläggande rättigheter.
+
+7\. Kommissionen ska anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra punkt 3 andra stycket i [den här artikeln](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) genom att stryka något av de villkor som föreskrivs i det stycket, om det finns konkreta och tillförlitliga bevis för att detta är nödvändigt för att upprätthålla den skyddsnivå för hälsa, säkerhet och grundläggande rättigheter som föreskrivs i [denna förordning](/lagstiftning/ai).
+
+8\. Eventuella ändringar av villkoren i punkt 3 andra stycket som antas i enlighet med punkterna 6 och 7 i [denna artikel](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) får inte sänka den allmänna skyddsnivå för hälsa, säkerhet och grundläggande rättigheter som föreskrivs i [denna förordning](/lagstiftning/ai) och ska säkerställa samstämmighet med de delegerade akter som antagits enligt artikel [7.1](#artikel-7-ändringar-av-bilaga-iii) samt ta hänsyn till marknadsutveckling och tekniska utveckling.
+
+### Artikel 7 – Ändringar av Bilaga III
+
+1\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) med avseende på att ändra bilaga III genom att lägga till eller ändra användningsfall för AI-system med hög risk om båda följande villkor är uppfyllda:
+
+a) AI-systemen är avsedda att användas inom något av de områden som förtecknas i bilaga III.
+
+b) AI-systemen utgör en risk för skada på hälsa och säkerhet, eller för negativ inverkan på grundläggande rättigheter, och denna risk är likvärdig med eller större än den risk för skada eller negativ inverkan som förorsakas av de AI-system med hög risk som redan anges i bilaga III.
+
+2\. Vid bedömningen av villkoret i punkt 1 b ska kommissionen beakta följande kriterier:
+
+a) Det avsedda ändamålet med AI-systemet.
+
+b) I vilken utsträckning ett AI-system har använts eller sannolikt kommer att användas.
+
+c) Typen och mängden data som behandlas och används av AI-systemet, i synnerhet huruvida särskilda kategorier av personuppgifter behandlas.
+
+d) I vilken utsträckning AI-systemet agerar självständigt och om det är möjligt för en människa att åsidosätta ett beslut eller rekommendationer som kan leda till potentiell skada.
+
+e) I vilken utsträckning användningen av ett AI-system redan har orsakat skada på hälsa och säkerhet, har haft negativ inverkan på grundläggande rättigheter eller har gett upphov till betydande farhågor när det gäller sannolikheten för sådan skada eller negativ inverkan, vilket till exempel framgår av rapporter eller dokumenterade anklagelser som lämnats till nationella behöriga myndigheter, eller, i förekommande fall, av andra rapporter.
+
+f) Den potentiella omfattningen av sådan skada eller sådan negativ inverkan, särskilt i fråga om intensitet och förmåga att påverka en stor mängd personer eller att i oproportionerlig utsträckning påverka en viss grupp av personer.
+
+g) I vilken utsträckning potentiellt skadade eller negativt påverkade personer är beroende av det resultat som producerats med ett AI-system, särskilt till följd av att det av praktiska eller juridiska skäl inte rimligen är möjligt att undantas från detta resultat.
+
+h) I vilken utsträckning det föreligger en obalans i fråga om makt, eller potentiellt skadade eller negativt påverkade personer befinner sig i ett utsatt läge i förhållande till tillhandahållaren av ett AI-system, särskilt på grund av status, auktoritet, kunskap, ekonomiska eller sociala omständigheter eller ålder.
+
+i) I vilken utsträckning det resultat som produceras med medverkan av ett AI-system är lätt att korrigera eller upphäva, med beaktande av tillgängliga tekniska lösningar som möjliggör dess korrigering eller upphävande, varvid resultat med en negativ påverkan på hälsa, säkerhet eller grundläggande rättigheter inte ska anses vara lätta att korrigera eller upphäva.
+
+j) Omfattningen av och sannolikheten för nyttan med införandet av AI-systemet för enskilda personer, grupper eller samhället i stort, inbegripet eventuella förbättringar av produktsäkerheten.
+
+k) I vilken utsträckning befintlig unionsrätt föreskriver
+
+i) effektiva åtgärder för rättslig prövning med hänsyn till de risker som ett AI-system medför, med undantag för skadeståndsanspråk,
+
+ii) effektiva åtgärder för att förebygga eller avsevärt minimera dessa risker.
+
+3\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) med avseende på att ändra förteckningen i bilaga III genom att låta AI-system med hög risk utgå om båda följande villkor är uppfyllda:
+
+a) Det berörda AI-systemet medför inte längre någon betydande risk för grundläggande rättigheter, hälsa eller säkerhet, med beaktande av kriterierna i punkt 2.
+
+b) Strykningen sänker inte den övergripande nivån på skyddet för hälsa, säkerhet och grundläggande rättigheter enligt unionsrätten.
+
+### Artikel 8 – Förenlighet med kraven
+
+1\. AI-system med hög risk ska uppfylla kraven i [detta avsnitt](/lagstiftning/ai/kap-3), med beaktande av deras avsedda ändamål samt den allmänt erkända senaste utvecklingen inom AI och AI-relaterad teknik. Det riskhanteringssystem som avses i artikel [9](#artikel-9-riskhanteringssystem) ska beaktas när förenligheten med dessa krav säkerställs.
+
+2\. Om en produkt innehåller ett AI-system som omfattas av kraven i [denna förordning](/lagstiftning/ai) och kraven i unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I, ska leverantörer ansvara för att säkerställa att deras produkt uppfyller alla tillämpliga krav i tillämplig unionsharmoniseringslagstiftning. Vid säkerställandet av att AI-system med hög risk som avses i punkt 1 överensstämmer med kraven i [detta avsnitt](/lagstiftning/ai/kap-3), och för att säkerställa samstämmighet, motverka dubbelarbete och minimera ytterligare bördor, ska leverantörer kunna välja att, beroende på vad som är lämpligt, integrera de nödvändiga test- och rapporteringsprocesserna, den information och den dokumentation som de tillhandahåller med avseende på sin produkt i dokumentation och förfaranden som redan finns och som krävs enligt unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I.
+
+### Artikel 9 – Riskhanteringssystem
+
+1\. Ett riskhanteringssystem ska inrättas, genomföras, dokumenteras och underhållas för AI-system med hög risk.
+
+2\. Riskhanteringssystemet ska förstås som en kontinuerlig iterativ process som planeras och löper under hela livscykeln för ett AI-system med hög risk, med krav på regelbunden och systematisk översyn och uppdatering. Det ska innehålla följande steg:
+
+a) Identifiering och analys av de kända och rimligen förutsebara risker som AI-systemet med hög risk kan medföra för hälsa, säkerhet och grundläggande rättigheter när AI-systemet med hög risk används i enlighet med sitt avsedda ändamål.
+
+b) Uppskattning och utvärdering av de risker som kan uppstå när AI-systemet med hög risk används i enlighet med sitt avsedda ändamål och under förhållanden där det kan förekomma rimligen förutsebar felaktig användning.
+
+c) Utvärdering av andra risker som eventuellt kan uppstå på grundval av en analys av data som samlats in från det system för övervakning efter utsläppande på marknaden som avses i artikel [72](/lagstiftning/ai/kap-9#artikel-72-leverantörers-övervakning-efter-utsläppande-på-marknaden-och-planen-för-övervakning-efter-utsläppande-på-marknaden-när-det-gäller-ai-system-med-hög-risk).
+
+d) Antagande av lämpliga och riktade riskhanteringsåtgärder utformade för att hantera de risker som identifierats enligt led a.
+
+3\. De risker som avses i [denna artikel](#artikel-9-riskhanteringssystem) ska endast avse de risker som rimligen kan begränsas eller elimineras genom utveckling eller utformning av AI-systemet med hög risk eller tillhandahållande av adekvat teknisk information.
+
+4\. I de riskhanteringsåtgärder som avses i punkt 2 d ska vederbörlig hänsyn tas till de effekter och den möjliga interaktion som följer av den kombinerade tillämpningen av kraven i [detta avsnitt](/lagstiftning/ai/kap-3), i syfte att minimera riskerna mer effektivt och samtidigt uppnå en lämplig balans i genomförandet av åtgärderna för att uppfylla dessa krav.
+
+5\. De riskhanteringsåtgärder som avses i punkt 2 d ska vara sådana att relevanta kvarvarande risker förknippade med varje fara samt den totala kvarvarande risken i AI-systemen med hög risk bedöms vara acceptabla.
+
+Vid fastställandet av de lämpligaste riskhanteringsåtgärderna ska följande säkerställas:
+
+a) Eliminering eller minskning av risker som identifierats och utvärderats enligt punkt 2 så långt som tekniskt möjligt genom lämplig konstruktion och utveckling av AI-systemet med hög risk.
+
+b) När det är lämpligt, genomförande av lämpliga begränsnings- och kontrollåtgärder för att hantera risker som inte kan elimineras.
+
+c) Tillhandahållande av den information som krävs enligt artikel [13](#artikel-13-transparens-och-tillhandahållande-av-information-till-tillhandahållare) och, i förekommande fall, utbildning för tillhandahållare.
+
+För att eliminera eller minska risker i samband med användningen av AI-systemet med hög risk ska vederbörlig hänsyn tas till den tekniska kunskap, erfarenhet och utbildning som tillhandahållaren förväntas ha och det förmodade sammanhang i vilket systemet är avsett att användas.
+
+6\. AI-system med hög risk ska testas i syfte att identifiera de lämpligaste och bäst riktade riskhanteringsåtgärderna. Testerna ska säkerställa att AI-system med hög risk fungerar konsekvent för sitt avsedda ändamål och att de uppfyller kraven i [detta avsnitt](/lagstiftning/ai/kap-3).
+
+7\. Testningsförfarandena får omfatta testning under verkliga förhållanden i enlighet med artikel [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai).
+
+8\. Testning av AI-systemen med hög risk ska utföras, beroende på vad som är lämpligt, när som helst under hela utvecklingsprocessen och i alla händelser innan de släpps ut på marknaden eller tas i bruk. Testning ska utföras på grundval av i förväg definierade mått och sannolikhetsgränser som är lämpliga för det avsedda ändamålet med AI-systemet med hög risk.
+
+9\. Vid genomförandet av det riskhanteringssystem som föreskrivs i punkterna 1–7 ska leverantörer ta hänsyn till huruvida AI-systemet med hög risk, med tanke på dess avsedda ändamål, sannolikt kommer att ha en negativ påverkan på personer som är yngre än 18 år och, i förekommande fall, andra sårbara grupper.
+
+10\. För leverantörer av AI-system med hög risk som omfattas av krav avseende interna riskhanteringsprocesser enligt andra relevanta bestämmelser i unionsrätten får de aspekter som regleras i punkterna 1–9 ingå i, eller kombineras med, de riskhanteringsförfaranden som fastställs enligt den unionsrätten.
+
+### Artikel 10 – Data och dataförvaltning
+
+1\. AI-system med hög risk som använder teknik som inbegriper träning av AI-modeller med data ska utvecklas på grundval av tränings-, validerings- och testdataset som uppfyller de kvalitetskriterier som avses i punkterna 2–5 när sådana dataset används.
+
+2\. Tränings-, validerings- och testdataset ska omfattas av metoder för dataförvaltning och datahantering som är lämpliga för det avsedda ändamålet med AI-systemet med hög risk. Dessa metoder ska särskilt avse
+
+a) relevanta utformningsval,
+
+b) datainsamlingsprocesser och uppgifternas ursprung samt, när det gäller personuppgifter, datainsamlingens ursprungliga ändamål,
+
+c) relevanta åtgärder för datapreparering, såsom annotation, märkning, rensning, uppdatering, förädling och aggregering,
+
+d) formulering av antaganden, särskilt när det gäller den information som berörda data förväntas beskriva och representera,
+
+e) en bedömning av tillgängligheten, mängden och lämpligheten avseende de dataset som behövs,
+
+f) undersökning med avseende på eventuella biaser som sannolikt kommer att påverka människors hälsa och säkerhet, inverka negativt på grundläggande rättigheter eller leda till diskriminering som är förbjuden enligt unionsrätten, särskilt när utdata påverkar indata för framtida drift,
+
+g) lämpliga åtgärder för att upptäcka, förebygga och begränsa eventuella biaser som identifierats enligt led f,
+
+h) identifiering av relevanta dataluckor eller brister som hindrar efterlevnad av [denna förordning](/lagstiftning/ai), och hur dessa luckor och brister kan åtgärdas.
+
+3\. Tränings-, validerings- och testdataset ska vara relevanta, tillräckligt representativa, och så långt som möjligt fria från fel och fullständiga i förhållande till det avsedda ändamålet. De ska ha lämpliga statistiska egenskaper, inbegripet, i förekommande fall, vad gäller de personer eller grupper av personer med avseende på vilka AI-systemet med hög risk är avsett att användas. Egenskaperna hos dessa dataset kan uppfyllas på nivån för enskilda dataset eller på nivån av en kombination av dessa.
+
+4\. Dataseten ska, i den mån som krävs med hänsyn till det avsedda ändamålet, beakta de egenskaper eller element som är utmärkande för just den specifika geografiska, kontextuella, beteendemässiga eller funktionsmässiga situation där AI-systemet med hög risk är avsett att användas.
+
+5\. I den utsträckning det är absolut nödvändigt för att säkerställa upptäckt och korrigering av bias i samband med AI-systemen med hög risk i enlighet med punkt 2 f och g i [denna artikel](#artikel-10-data-och-dataförvaltning) får leverantörer av sådana system undantagsvis behandla särskilda kategorier av personuppgifter, med förbehåll för lämpliga skyddsåtgärder för fysiska personers grundläggande rättigheter och friheter. Utöver bestämmelserna i [förordningarna (EU) 2016/679](/lagstiftning/gdpr) och [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) och [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) måste samtliga följande villkor vara uppfyllda för att sådan behandling ska kunna äga rum:
+
+a) Upptäckt och korrigering av bias kan inte uppnås på ett effektivt sätt genom behandling av andra data, inbegripet syntetiska eller anonymiserade data.
+
+b) De särskilda kategorierna av personuppgifter omfattas av tekniska begränsningar för vidareutnyttjande av personuppgifter samt säkerhetsåtgärder och integritetsbevarande åtgärder på en nivå som motsvarar den senaste utvecklingen, inbegripet pseudonymisering.
+
+c) De särskilda kategorierna av personuppgifter omfattas av åtgärder för att säkerställa att de personuppgifter som behandlas är säkra, skyddade, omfattas av lämpliga skyddsåtgärder, inbegripet strikta kontroller och dokumentation av åtkomsten, för att undvika missbruk och säkerställa att endast personer som är behöriga har tillgång till dessa personuppgifter med lämpliga konfidentialitetsskyldigheter.
+
+d) De särskilda kategorierna av personuppgifter får inte översändas, överföras eller på annat sätt göras tillgängliga för andra parter.
+
+e) De särskilda kategorierna av personuppgifter raderas när biasen har korrigerats eller personuppgifternas lagringstid har löpt ut, beroende på vilket som inträffar först.
+
+f) Registren över behandling enligt [förordningarna (EU) 2016/679](/lagstiftning/gdpr) och [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) och [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) innehåller skälen till varför behandlingen av särskilda kategorier av personuppgifter var absolut nödvändig för att upptäcka och korrigera biaser och varför detta mål inte kunde uppnås genom behandling av andra data.
+
+6\. För utvecklingen av AI-system med hög risk som inte använder teknik som inbegriper träning av AI-modeller är punkterna 2–5 endast tillämpliga på testdataset.
+
+### Artikel 11 – Teknisk dokumentation
+
+1\. Den tekniska dokumentationen för ett AI-system med hög risk ska upprättas innan systemet släpps ut på marknaden eller tas i bruk och ska hållas uppdaterad.
+
+Den tekniska dokumentationen ska upprättas på ett sådant sätt att det visas att AI-systemet med hög risk är förenligt med kraven i [detta avsnitt](/lagstiftning/ai/kap-3), och så att nationella behöriga myndigheter och anmälda organ får den information som krävs i klar och begriplig form för att bedöma om AI-systemet uppfyller dessa krav. Den ska minst innehålla de delar som anges i bilaga IV. Små och medelstora företag, inbegripet uppstartsföretag, får tillhandahålla de delar av den tekniska dokumentation som anges i bilaga IV på ett förenklat sätt. För detta ändamål ska kommissionen upprätta ett förenklat formulär för teknisk dokumentation som är inriktat på små företags och mikroföretags behov. Om ett litet eller medelstort företag, inbegripet ett uppstartsföretag, väljer att tillhandahålla den information som krävs enligt bilaga IV på ett förenklat sätt ska det använda det formulär som avses i denna punkt. Anmälda organ ska godta formuläret för bedömning av överensstämmelse.
+
+2\. Om ett AI-system med hög risk som är kopplat till en produkt, som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I, släpps ut på marknaden eller tas i bruk ska en enda teknisk uppsättning dokumentation upprättas som innehåller all den information som anges i punkt 1 samt den information som krävs enligt dessa rättsakter.
+
+3\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra bilaga IV när så krävs för att säkerställa att den tekniska dokumentationen, mot bakgrund av teknisk utveckling, innehåller all information som krävs för att bedöma systemets förenlighet med kraven i [detta avsnitt](/lagstiftning/ai/kap-3).
+
+### Artikel 12 – Loggning
+
+1\. AI-system med hög risk ska tekniskt möjliggöra automatisk registrering av händelser (loggar) under hela systemets livstid.
+
+2\. För att säkerställa en spårbarhetsnivå för funktionen hos ett AI-system med hög risk som är lämplig för systemets avsedda ändamål ska loggningskapaciteten möjliggöra registrering av händelser som är relevanta för
+
+a) identifiering av situationer som kan resultera i att AI-systemet med hög risk utgör en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) eller i en väsentlig ändring,
+
+b) underlättande av den övervakning efter utsläppande på marknaden som avses i artikel [72](/lagstiftning/ai/kap-9#artikel-72-leverantörers-övervakning-efter-utsläppande-på-marknaden-och-planen-för-övervakning-efter-utsläppande-på-marknaden-när-det-gäller-ai-system-med-hög-risk), och
+
+c) övervakning av driften av AI-system med hög risk som avses i artikel [26.5](#artikel-26-skyldigheter-för-tillhandahållare-av-ai-system-med-hög-risk).
+
+3\. För AI-system med hög risk som avses i punkt 1 a i bilaga III ska loggningsfunktionerna åtminstone tillhandahålla följande:
+
+a) Registrering av perioden för varje användning av systemet (startdatum och starttidpunkt samt slutdatum och sluttidpunkt för varje användning).
+
+b) Den referensdatabas mot vilken indata har kontrollerats av systemet.
+
+c) Indata för vilka sökningen har lett till en träff.
+
+d) Identifiering av de fysiska personer som deltar i kontrollen av resultaten enligt artikel [14.5](#artikel-14-mänsklig-kontroll).
+
+### Artikel 13 – Transparens och tillhandahållande av information till tillhandahållare
+
+1\. AI-system med hög risk ska utformas och utvecklas på ett sådant sätt att driften av dem är tillräckligt transparent för att tillhandahållare ska kunna tolka systemets utdata och använda dem på lämpligt sätt. En lämplig typ och grad av transparens ska säkerställas, i syfte att uppnå uppfyllelse av leverantörens och tillhandahållarens relevanta skyldigheter enligt avsnitt 3.
+
+2\. AI-system med hög risk ska åtföljas av en bruksanvisning i ett lämpligt digitalt eller annat format som inbegriper kortfattad, fullständig, korrekt och tydlig information som är relevant, tillgänglig och begriplig för tillhandahållare.
+
+3\. Bruksanvisningen ska minst innehålla följande information:
+
+a) Identitet och kontaktuppgifter för leverantören och i tillämpliga fall för dennes ombud.
+
+b) Egenskaperna, kapaciteten och prestandabegränsningarna hos AI-systemet med hög risk, inbegripet
+
+i) dess avsedda ändamål,
+
+ii) den nivå avseende riktighet, inbegripet mätningarna av denna, robusthet och cybersäkerhet som avses i artikel [15](#artikel-15-riktighet-robusthet-och-cybersäkerhet) mot vilken AI-systemet med hög risk har testats och validerats och som kan förväntas, samt alla kända och förutsebara omständigheter som kan påverka den förväntade riktighets-, robusthets- och cybersäkerhetsnivån,
+
+iii) varje känd eller förutsebar omständighet, som har samband med användningen av AI-systemet med hög risk i enlighet med dess avsedda ändamål eller under förhållanden där det kan förekomma rimligen förutsebar felaktig användning, som kan leda till risker för hälsa och säkerhet eller grundläggande rättigheter som avses i artikel [9.2](#artikel-9-riskhanteringssystem),
+
+iv) i tillämpliga fall, den tekniska kapaciteten och de tekniska egenskaperna hos AI-systemet med hög risk med avseende på att tillhandahålla information som är relevant för att förklara dess utdata,
+
+v) när så är lämpligt, dess prestanda vad gäller specifika personer eller grupper av personer som omfattas av den avsedda användningen av systemet,
+
+vi) i tillämpliga fall, specifikationer för indata, eller annan relevant information i fråga om de tränings-, validerings- och testdataset som används, med beaktande av det avsedda ändamålet för AI-systemet med hög risk.
+
+vii) i tillämpliga fall, information som gör det möjligt för tillhandahållare att tolka utdata från AI-systemet med hög risk och använda dem på lämpligt sätt.
+
+c) Eventuella ändringar av AI-systemet med hög risk och dess prestanda som leverantören på förhand har fastställt vid tidpunkten för den inledande bedömningen av överensstämmelse.
+
+d) De åtgärder för mänsklig kontroll som avses i artikel [14](#artikel-14-mänsklig-kontroll), inbegripet de tekniska åtgärder som införts för att underlätta tillhandahållarnas tolkning av utdata från AI-systemet med hög risk.
+
+e) De data- och maskinvaruresurser som krävs, den förväntade livstiden för AI-systemet med hög risk och alla nödvändiga underhålls- och omsorgsåtgärder, inbegripet deras frekvens, för att säkerställa att AI-systemet fungerar korrekt, även när det gäller programvaruuppdateringar.
+
+f) I förekommande fall, en beskrivning av de mekanismer som ingår i AI-systemet med hög risk vilka gör det möjligt för tillhandahållarna att korrekt samla in, lagra och tolka loggarna i enlighet med artikel [12](#artikel-12-loggning).
+
+### Artikel 14 – Mänsklig kontroll
+
+1\. AI-system med hög risk ska utformas och utvecklas på ett sådant sätt, inbegripet med lämpliga verktyg för människa–maskin-gränssnitt, att fysiska personer på ett effektivt sätt kan utöva kontroll över dem när de används.
+
+2\. Mänsklig kontroll ska syfta till att förebygga eller minimera de risker för hälsa, säkerhet eller grundläggande rättigheter som kan uppstå när ett AI-system med hög risk används i enlighet med sitt avsedda ändamål eller under förhållanden där det kan förekomma rimligen förutsebar felaktig användning, särskilt när sådana risker kvarstår trots tillämpningen av andra krav i [detta avsnitt](/lagstiftning/ai/kap-3).
+
+3\. Tillsynsåtgärderna ska stå i proportion till riskerna, graden av autonomi och användningssammanhang för AI-systemet med hög risk, och ska säkerställas genom en eller båda av följande typer av åtgärder:
+
+a) Åtgärder som leverantören har fastställt och, när det är tekniskt möjligt, byggt in i AI-systemet med hög risk innan det släpps ut på marknaden eller tas i bruk.
+
+b) Åtgärder som leverantörer har fastställt innan AI-systemet med hög risk släpps ut på marknaden eller tas i bruk och som är lämpliga att genomföras av tillhandahållaren.
+
+4\. Vid genomförandet av punkterna 1, 2 och 3 ska AI-systemet med hög risk tillhandahållas tillhandahållaren på ett sådant sätt att fysiska personer som fått i uppdrag att utöva mänsklig kontroll ges möjlighet, enligt vad som är lämpligt och proportionellt, att
+
+a) korrekt förstå den relevanta kapaciteten och begränsningarna hos AI-systemet med hög risk och på vederbörligt sätt kunna övervaka dess drift, bland annat i syfte att upptäcka och ta itu med avvikelser, funktionsstörningar och oväntad prestanda,
+
+b) förbli medvetna om den möjliga tendensen att automatiskt eller i alltför hög grad lita på de utdata som produceras av ett AI-system med hög risk (automation bias), särskilt när det gäller AI-system med hög risk som används för att tillhandahålla information eller rekommendationer för beslut som ska fattas av fysiska personer,
+
+c) korrekt kunna tolka utdata från AI-systemet med hög risk, med beaktande av till exempel tillgängliga tolkningsverktyg och tolkningsmetoder,
+
+d) i vissa situationer besluta att inte använda AI-systemet med hög risk eller på annat sätt bortse från, åsidosätta eller reversera de resultat som AI-systemet med hög risk genererar,
+
+e) ingripa i driften av AI-systemet med hög risk eller stoppa systemet med en stoppknapp eller ett liknande förfarande som gör det möjligt för systemet att stoppas i ett säkert läge.
+
+5\. För AI-system med hög risk som avses i punkt 1 a i bilaga III ska de åtgärder som avses i punkt 3 i [denna artikel](#artikel-14-mänsklig-kontroll) dessutom vara sådana att de säkerställer att ingen åtgärd och inget beslut vidtas respektive fattas av tillhandahållaren på grundval av den identifiering som systemet resulterar i, såvida inte denna identifiering har kontrollerats och bekräftats separat av minst två fysiska personer med nödvändig kompetens, utbildning och auktoritet.
+
+Kravet på en separat kontroll av minst två fysiska personer är inte tillämpligt på AI-system med hög risk som används inom områdena brottsbekämpning, migration, gränskontroll eller asyl, om en tillämpning av detta krav enligt unionsrätten eller nationell rätt skulle betraktas som oproportionell.
+
+### Artikel 15 – Riktighet, robusthet och cybersäkerhet
+
+1\. AI-system med hög risk ska utformas och utvecklas på ett sådant sätt att de uppnår en lämplig nivå avseende riktighet, robusthet och cybersäkerhet och presterar väl i dessa avseenden under hela sin livscykel.
+
+2\. För att hantera de tekniska aspekterna av hur de lämpliga nivåer av riktighet och robusthet som anges i punkt 1 och andra relevanta prestandamått mäts ska kommissionen i samarbete med relevanta berörda parter och organisationer, såsom metrologi- och riktmärkningsmyndigheter, vid behov, uppmuntra utvecklingen av riktmärken och mätmetoder.
+
+3\. Riktighetsnivåerna och relevanta riktighetsmått för AI-system med hög risk ska anges i de medföljande bruksanvisningarna.
+
+4\. AI-system med hög risk ska vara så resilienta som möjligt mot felaktigheter, funktionsfel eller inkonsekvenser som kan uppstå inom det system eller den miljö där systemet är i drift, särskilt på grund av deras interaktion med fysiska personer eller andra system. Tekniska och organisatoriska åtgärder ska vidtas i detta avseende.
+
+Robustheten hos AI-system med hög risk kan uppnås genom lösningar med teknisk redundans, som kan omfatta backup eller felsäkra planer.
+
+AI-system med hög risk som fortsätter att lära sig efter det att de har släppts ut på marknaden eller tagits i bruk ska utvecklas på ett sådant sätt att risken för att eventuella biaser i utdata påverkar indata för framtida drift (återföring) elimineras eller minskas så mycket som möjligt och så att det säkerställs att sådan återföring hanteras på vederbörligt sätt med lämpliga kompenserande åtgärder.
+
+5\. AI-system med hög risk ska vara resilienta mot försök av obehöriga tredje parter att ändra deras användning, utdata eller prestanda genom att utnyttja systemets sårbarheter.
+
+De tekniska lösningar som syftar till att säkerställa cybersäkerhet i AI-system med hög risk ska vara anpassade till de relevanta omständigheterna och riskerna.
+
+De tekniska lösningarna för att hantera AI-specifika sårbarheter ska, när det är lämpligt, inbegripa åtgärder för att förebygga, upptäcka, reagera på, komma till rätta med och bekämpa attacker som försöker manipulera träningsdatasetet (dataförgiftning) eller förtränade komponenter som används i träningen (modellförgiftning), indata som är utformade för att få AI-modellen att göra ett misstag (antagonistiska exempel eller modellkringgående), sekretessangrepp eller modellfel.
+
+### Artikel 16 – Skyldigheter för leverantörer av AI-system med hög risk
+
+Leverantörer av AI-system med hög risk ska
+
+a) säkerställa att deras AI-system med hög risk uppfyller kraven i avsnitt 2,
+
+b) på AI-systemet med hög risk eller, om detta inte är möjligt, på dess förpackning eller i dess åtföljande dokumentation, beroende på vad som är tillämpligt, ange sitt namn, registrerade firmanamn eller registrerade varumärke, den adress där de kan kontaktas,
+
+c) ha ett kvalitetsstyrningssystem som uppfyller kraven i artikel [17](#artikel-17-kvalitetsstyrningssystem),
+
+d) förvara den dokumentation som avses i artikel [18](#artikel-18-bevarande-av-dokumentation),
+
+e) spara de loggar som genereras automatiskt av deras AI-system med hög risk enligt artikel [19](#artikel-19-automatiskt-genererade-loggar), när loggarna står under deras kontroll,
+
+f) säkerställa att AI-systemet med hög risk genomgår det relevanta förfarande för bedömning av överensstämmelse som avses i artikel [43](#artikel-43-bedömning-av-överensstämmelse) innan det släpps ut på marknaden eller tas i bruk,
+
+g) utarbeta en EU-försäkran om överensstämmelse i enlighet med artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse),
+
+h) anbringa CE-märkningen på AI-systemet med hög risk eller, om detta inte är möjligt, på dess förpackning eller i dess åtföljande dokumentation, för att påvisa överensstämmelse med [denna förordning](/lagstiftning/ai) i enlighet med artikel [48](#artikel-48-ce-märkning),
+
+i) fullgöra de registreringsskyldigheter som avses i artikel [49.1](#artikel-49-registrering),
+
+j) vidta nödvändiga korrigerande åtgärder och tillhandahålla den information som krävs enligt artikel [20](#artikel-20-korrigerande-åtgärder-och-informationsplikt),
+
+k) på motiverad begäran av en nationell behörig myndighet visa att AI-systemet med hög risk uppfyller kraven i avsnitt 2,
+
+l) säkerställa att AI-systemet med hög risk uppfyller tillgänglighetskraven i enlighet med [direktiven (EU) 2016/2102](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2102) och [(EU) 2019/882](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0882).
+
+### Artikel 17 – Kvalitetsstyrningssystem
+
+1\. Leverantörer av AI-system med hög risk ska inrätta ett kvalitetsstyrningssystem som säkerställer efterlevnad av [denna förordning](/lagstiftning/ai). Systemet ska dokumenteras på ett systematiskt och ordnat sätt i form av skriftliga riktlinjer, förfaranden och instruktioner och ska omfatta åtminstone följande aspekter:
+
+a) En strategi för efterlevnad av regelverket, inklusive efterlevnad av förfaranden för bedömning av överensstämmelse och för hantering av ändringar av AI-systemet med hög risk.
+
+b) Tekniker, förfaranden och systematiska åtgärder som ska användas för utformning av AI-systemet med hög risk samt för kontroll och verifikation av utformningen.
+
+c) Tekniker, förfaranden och systematiska åtgärder som ska användas för utveckling, kvalitetskontroll och kvalitetssäkring av AI-systemet med hög risk.
+
+d) Undersöknings-, test- och valideringsförfaranden som ska utföras före, under och efter utvecklingen av AI-systemet med hög risk och hur ofta de ska utföras.
+
+e) Tekniska specifikationer, inbegripet standarder, som ska tillämpas och, om de relevanta harmoniserade standarderna inte tillämpas fullt ut, eller inte omfattar alla relevanta krav i avsnitt 2, de medel som ska användas för att säkerställa att AI-systemet med hög risk uppfyller dessa krav.
+
+f) System och förfaranden för datahantering, inbegripet datafångst, datainsamling, dataanalys, datamärkning, datalagring, datafiltrering, datautvinning, dataaggregering, lagring av uppgifter och varje annan åtgärd som avser data och som utförs före och med avseende på utsläppandet på marknaden eller ibruktagandet av AI-system med hög risk.
+
+g) Det riskhanteringssystem som avses i artikel [9](#artikel-9-riskhanteringssystem).
+
+h) Upprättande, genomförande och underhåll av ett system för övervakning efter utsläppande på marknaden i enlighet med artikel [72](/lagstiftning/ai/kap-9#artikel-72-leverantörers-övervakning-efter-utsläppande-på-marknaden-och-planen-för-övervakning-efter-utsläppande-på-marknaden-när-det-gäller-ai-system-med-hög-risk).
+
+i) Förfaranden som berör rapportering av en allvarlig incident i enlighet med artikel [73](/lagstiftning/ai/kap-9#artikel-73-rapportering-av-allvarliga-incidenter).
+
+j) Hantering av kommunikation med nationella behöriga myndigheter, andra relevanta myndigheter, inbegripet de som tillhandahåller eller stöder tillgången till uppgifter, anmälda organ, andra operatörer, kunder eller andra berörda parter.
+
+k) System och förfaranden för arkivering av all relevant dokumentation och information.
+
+l) Resurshantering, inbegripet åtgärder som berör försörjningstrygghet.
+
+m) En ram för ansvarsutkrävande som fastställer ledningens och övrig personals ansvar vad gäller samtliga aspekter som anges i denna punkt.
+
+2\. Genomförandet av de aspekter som avses i punkt 1 ska stå i proportion till storleken på leverantörens organisation. Leverantörer ska i alla händelser iaktta den grad av noggrannhet och den skyddsnivå som krävs för att säkerställa att deras AI-system med hög risk står i överensstämmelse med [denna förordning](/lagstiftning/ai).
+
+3\. Leverantörer av AI-system med hög risk som omfattas av skyldigheter avseende kvalitetsstyrningssystem eller en likvärdig funktion enligt relevant sektorsspecifik unionsrätt får inkludera de aspekter som anges i punkt 1 i de kvalitetsstyrningssystem som fastställs enligt den unionsrätten.
+
+4\. För leverantörer som är finansinstitut som omfattas av krav avseende interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster ska skyldigheten att införa ett kvalitetsstyrningssystem, med undantag för punkt 1 g, h och i) i [denna artikel](#artikel-17-kvalitetsstyrningssystem), anses vara uppfylld genom att reglerna om interna styrelseformer, arrangemang eller processer efterlevs enligt relevant unionsrätt om finansiella tjänster. I detta syfte ska alla harmoniserade standarder som avses i artikel [40](#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) beaktas.
+
+### Artikel 18 – Bevarande av dokumentation
+
+1\. Leverantören ska under en period på 10 år efter det att AI-systemet med hög risk har släppts ut på marknaden eller tagits i bruk, för de nationella behöriga myndigheternas räkning hålla tillgängligt
+
+a) den tekniska dokumentation som avses i punkt 11,
+
+b) den dokumentation avseende kvalitetsstyrningssystemet som det hänvisas till i artikel [17](#artikel-17-kvalitetsstyrningssystem),
+
+c) i tillämpliga fall, dokumentation om de ändringar som godkänts av anmälda organ,
+
+d) i tillämpliga fall, de beslut och andra handlingar som utfärdats av de anmälda organen,
+
+e) EU-försäkran om överensstämmelse enligt artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse).
+
+2\. Varje medlemsstat ska fastställa på vilka villkor den dokumentation som avses i punkt 1 ska hållas tillgänglig för de nationella behöriga myndigheterna under den period som anges i den punkten i de fall då en leverantör eller dennes ombud som är etablerad på dess territorium går i konkurs eller upphör med sin verksamhet före utgången av denna period.
+
+3\. Leverantörer som är finansinstitut som omfattas av krav avseende sina interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster ska bevara den tekniska dokumentationen som en del av den dokumentation som ska bevaras enligt relevant unionsrätt om finansiella tjänster.
+
+### Artikel 19 – Automatiskt genererade loggar
+
+1\. Leverantörer av AI-system med hög risk ska spara de loggar enligt artikel [12.1](#artikel-12-loggning) som genereras automatiskt av deras AI-system med hög risk, i den mån sådana loggar står under deras kontroll. Utan att det påverkar tillämplig unionsrätt eller nationell rätt ska loggarna sparas under en period som är lämplig för det avsedda ändamålet med AI-systemet med hög risk, dock i minst sex månader, om inte annat föreskrivs i tillämplig unionsrätt eller nationell rätt, i synnerhet unionsrätten om skydd av personuppgifter.
+
+2\. Leverantörer som är finansinstitut som omfattas av krav avseende sina interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster ska bevara de loggar som genereras automatiskt av deras AI-system med hög risk som en del av den dokumentation som ska bevaras enligt relevant rätt om finansiella tjänster.
+
+### Artikel 20 – Korrigerande åtgärder och informationsplikt
+
+1\. Leverantörer av AI-system med hög risk som anser eller har skäl att tro att ett AI-system med hög risk som de har släppt ut på marknaden eller tagit i bruk inte överensstämmer med [denna förordning](/lagstiftning/ai) ska omedelbart vidta de korrigerande åtgärder som krävs för att, beroende på vad som är lämpligt, få systemet att överensstämma med kraven, dra tillbaka det, inaktivera det eller återkalla det. De ska underrätta distributörerna av det berörda AI-systemet med hög risk och, i förekommande fall, tillhandahållarna, ombudet och importörerna om detta.
+
+2\. Om AI-systemet med hög risk utgör en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) och leverantören blir medveten om denna risk, ska den omedelbart utreda orsakerna, i samarbete med den rapporterande tillhandahållaren, i tillämpliga fall, och informera de marknadskontrollmyndigheter som är behöriga för det berörda AI-systemet med hög risk och, i tillämpliga fall, det anmälda organ som utfärdat ett intyg för detta AI-system med hög risk i enlighet med artikel [44](#artikel-44-intyg), särskilt om typen av bristande överensstämmelse och om eventuella relevanta korrigerande åtgärder som vidtagits.
+
+### Artikel 21 – Samarbete med behöriga myndigheter
+
+1\. Leverantörer av AI-system med hög risk ska på motiverad begäran av en behörig myndighet förse den myndigheten med all information och dokumentation som krävs för att visa att AI-systemet med hög risk överensstämmer med kraven i avsnitt 2, på ett språk som är lätt att förstå för myndigheten och som är ett av unionsinstitutionernas officiella språk som anges av den berörda medlemsstaten.
+
+2\. På motiverad begäran av en behörig myndighet ska leverantörer också ge den begärande behöriga myndigheten, i tillämpliga fall, tillgång till de automatiskt genererade loggar för AI-systemet med hög risk som avses i artikel [12.1](#artikel-12-loggning), i den mån sådana loggar står under deras kontroll.
+
+3\. All information som en behörig myndighet har erhållit enligt [denna artikel](#artikel-21-samarbete-med-behöriga-myndigheter) ska behandlas i enlighet med de konfidentialitetskrav som anges i artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+### Artikel 22 – Ombud för leverantörer av AI-system med hög risk
+
+1\. Innan leverantörer etablerade i tredjeländer tillhandahåller sina AI-system med hög risk på unionsmarknaden ska de genom skriftlig fullmakt utse ett ombud som är etablerat i unionen.
+
+2\. Leverantören ska göra det möjligt för sitt ombud att utföra de uppgifter som anges i fullmakten från leverantören.
+
+3\. Ombudet ska utföra de uppgifter som anges i fullmakten från leverantören. Ombudet ska på begäran lämna en kopia av fullmakten till marknadskontrollmyndigheterna på ett av unionsinstitutionernas officiella språk som anges av den behöriga myndigheten. Vid tillämpning av [denna förordning](/lagstiftning/ai) ska fullmakten ge ombudet befogenhet att utföra följande uppgifter:
+
+a) Kontrollera att den EU-försäkran om överensstämmelse som avses i artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse) och den tekniska dokumentation som avses i artikel [11](#artikel-11-teknisk-dokumentation) har upprättats och att leverantören har utfört ett lämpligt förfarande för bedömning av överensstämmelse.
+
+b) Under en period på tio år efter det att AI-systemet med hög risk har släppts ut på marknaden eller tagits i bruk hålla kontaktuppgifterna till den leverantör som utsåg ombudet, en kopia av den EU-försäkran om överensstämmelse som avses i artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse), den tekniska dokumentationen och, i tillämpliga fall, det intyg som utfärdats av det anmälda organet tillgängliga för de behöriga myndigheter och nationella myndigheter eller organ som avses i artikel [74.10](/lagstiftning/ai/kap-9#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden).
+
+c) På motiverad begäran ge en behörig myndighet all information och dokumentation, inbegripet den som avses i led b i detta stycke, som är nödvändig för att visa att ett AI-system med hög risk överensstämmer med kraven i avsnitt 2, inbegripet tillgång till de loggar enligt artikel [12.1](#artikel-12-loggning) som automatiskt genereras av AI-systemet med hög risk, i den mån sådana loggar står under leverantörens kontroll.
+
+d) På motiverad begäran samarbeta med behöriga myndigheter i eventuella åtgärder som dessa vidtar med avseende på AI-systemet med hög risk, i synnerhet för att minska och begränsa de risker som AI-systemet med hög risk utgör.
+
+e) I tillämpliga fall, fullgöra de registreringsskyldigheter som avses i artikel [49.1](#artikel-49-registrering) eller, om registreringen utförs av leverantören själv, säkerställa att den information som avses i avsnitt A punkt 3 i bilaga VIII är korrekt.
+
+Fullmakten ska ge ombudet befogenhet att utöver eller i stället för leverantören stå till förfogande inför de behöriga myndigheterna, i alla frågor som rör efterlevnaden av [denna förordning](/lagstiftning/ai).
+
+4\. Ombudet ska säga upp fullmakten om denne anser eller har skäl att tro att leverantören agerar i strid med sina skyldigheter enligt [denna förordning](/lagstiftning/ai). I sådana fall ska det omedelbart underrätta den berörda marknadskontrollmyndigheten samt, i tillämpliga fall, det berörda anmälda organet om uppsägningen av fullmakten och skälen till detta.
+
+### Artikel 23 – Importörers skyldigheter
+
+1\. Innan importörer släpper ut ett AI-system med hög risk på marknaden ska de säkerställa att systemet överensstämmer med [denna förordning](/lagstiftning/ai) genom att kontrollera att
+
+a) det tillämpliga förfarandet för bedömning av överensstämmelse enligt artikel [43](#artikel-43-bedömning-av-överensstämmelse) har utförts av leverantören av AI-systemet med hög risk,
+
+b) leverantören har upprättat den tekniska dokumentationen i enlighet med artikel [11](#artikel-11-teknisk-dokumentation) och bilaga IV,
+
+c) systemet är försett med erforderlig CE-märkning och åtföljs av den EU-försäkran om överensstämmelse som avses i artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse) och bruksanvisning,
+
+d) leverantören har utsett ett ombud i enlighet med artikel [22.1](#artikel-22-ombud-för-leverantörer-av-ai-system-med-hög-risk).
+
+2\. Om en importör har tillräckliga skäl att tro att ett AI-system med hög risk inte överensstämmer med [denna förordning](/lagstiftning/ai), är förfalskat eller åtföljs av förfalskad dokumentation får den inte släppa ut systemet på marknaden förrän det har bringats i överensstämmelse med kraven. Om AI-systemet med hög risk utgör en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) ska importören informera leverantören av systemet, ombudet och marknadskontrollmyndigheterna om detta.
+
+3\. Importörer ska ange sitt namn, sitt registrerade firmanamn eller sitt registrerade varumärke och en kontaktadress på AI-systemet med hög risk och på dess förpackning eller i dess åtföljande dokumentation, i tillämpliga fall.
+
+4\. Importörer ska så länge de har ansvar för ett AI-system med hög risk säkerställa att lagrings- eller transportförhållanden, i förekommande fall, inte äventyrar dess överensstämmelse med kraven i avsnitt 2.
+
+5\. Importörer ska under en period på tio år efter det att AI-systemet med hög risk har släppts ut på marknaden eller tagits i bruk bevara en kopia av det intyg som utfärdats av det anmälda organet, i tillämpliga fall, av bruksanvisningen och av den EU-försäkran om överensstämmelse som avses i artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse).
+
+6\. Importörer ska på motiverad begäran ge berörda behöriga myndigheter all information och dokumentation som är nödvändig, inbegripet den som avses i punkt 5, för att visa att ett AI-system med hög risk överensstämmer med kraven i avsnitt 2 på ett språk som lätt kan förstås av dem. I detta syfte ska de också säkerställa att den tekniska dokumentationen kan göras tillgänglig för dessa myndigheter.
+
+7\. Importörer ska samarbeta med de berörda behöriga myndigheterna i alla åtgärder som dessa myndigheter vidtar med avseende på ett AI-system med hög risk som importörerna har släppt ut på marknaden, i synnerhet för att minska och begränsa de risker som det utgör.
+
+### Artikel 24 – Distributörers skyldigheter
+
+1\. Innan distributörer tillhandahåller ett AI-system med hög risk på marknaden ska de kontrollera att det är försett med erforderlig CE-märkning, att det åtföljs av en kopia av den EU-försäkran om överensstämmelse som avses i artikel [47](#artikel-47-eu-försäkran-om-överensstämmelse) och bruksanvisningen och att leverantören och importören av det systemet, beroende på vad som är tillämpligt, har uppfyllt sina respektive skyldigheter enligt artiklarna [16](#artikel-16-skyldigheter-för-leverantörer-av-ai-system-med-hög-risk) b och c samt 23.3.
+
+2\. Om en distributör – på grundval av den information som denne har kännedom om – anser eller har skäl att tro att ett AI-system med hög risk inte överensstämmer med kraven i avsnitt 2, får distributören inte tillhandahålla AI-systemet med hög risk på marknaden förrän systemet har bringats i överensstämmelse med dessa krav. Om AI-systemet med hög risk utgör en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) ska distributören dessutom informera leverantören eller importören av systemet, beroende på vad som är tillämpligt, om detta.
+
+3\. Distributörer ska så länge de har ansvar för ett AI-system med hög risk säkerställa att lagrings- eller transportförhållanden, i förekommande fall, inte äventyrar systemets överensstämmelse med kraven i avsnitt 2.
+
+4\. En distributör som – på grundval av den information som denne har kännedom om – anser eller har skäl att tro att ett AI-system med hög risk som denne har tillhandahållit på marknaden inte överensstämmer med kraven i avsnitt 2 ska vidta de korrigerande åtgärder som krävs för att bringa systemet i överensstämmelse med dessa krav, dra tillbaka det eller återkalla det, eller ska säkerställa att leverantören, importören eller någon berörd operatör, beroende på vad som är lämpligt, vidtar dessa korrigerande åtgärder. Om AI-systemet med hög risk utgör en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) ska distributören omedelbart informera leverantören eller importören av systemet och de myndigheter som är behöriga för det berörda AI-systemet med hög risk om detta och lämna uppgifter särskilt om den bristande överensstämmelsen och om eventuella korrigerande åtgärder som vidtagits.
+
+5\. På motiverad begäran av en berörd behörig myndighet ska distributörer av ett AI-system med hög risk förse den myndigheten med all information och dokumentation om deras åtgärder enligt punkterna 1–4 som är nödvändig för att visa att det systemet uppfyller kraven i avsnitt 2.
+
+6\. Distributörer ska samarbeta med de berörda behöriga myndigheterna i alla åtgärder som dessa myndigheter vidtar med avseende på ett AI-system med hög risk som distributörerna har gjort tillgängligt på marknaden, i synnerhet för att minska eller begränsa den risk som det utgör.
+
+### Artikel 25 – Ansvar längs AI-värdekedjan
+
+1\. Varje distributör, importör, tillhandahållare eller annan tredje part ska vid tillämpningen av [denna förordning](/lagstiftning/ai) anses vara en leverantör av ett AI-system med hög risk och ha de skyldigheter som leverantören har enligt artikel [16](#artikel-16-skyldigheter-för-leverantörer-av-ai-system-med-hög-risk), under någon av följande omständigheter:
+
+a) De sätter sitt namn eller varumärke på ett AI-system med hög risk som redan släppts ut på marknaden eller tagits i bruk, utan att det påverkar avtalsarrangemang som föreskriver att skyldigheterna ska fördelas på annat sätt.
+
+b) De gör en väsentlig ändring av ett AI-system med hög risk som redan har släppts ut på marknaden eller redan har tagits i bruk på ett sådant sätt att det fortfarande är ett AI-system med hög risk enligt artikel [6](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk).
+
+c) De ändrar det avsedda ändamålet för ett AI-system, inklusive ett AI-system för allmänna ändamål, som inte har klassificerats som ett AI-system med hög risk och som redan har släppts ut på marknaden eller tagits i bruk på ett sådant sätt att det berörda AI-systemet blir ett AI-system med hög risk i enlighet med artikel [6](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk).
+
+2\. Om de omständigheter som avses i punkt 1 uppstår, ska den leverantör som ursprungligen släppte ut AI-systemet på marknaden eller tog det i bruk inte längre anses vara en leverantör av det specifika AI-systemet vid tillämpningen av [denna förordning](/lagstiftning/ai). Den ursprungliga leverantören ska nära samarbeta med nya leverantörer och tillgängliggöra den nödvändiga informationen och tillhandahålla den rimligen förväntade tekniska åtkomsten och annat stöd som krävs för att fullgöra de skyldigheter som fastställs i [denna förordning](/lagstiftning/ai), särskilt när det gäller efterlevnaden av bedömningen av överensstämmelse för AI-system med hög risk. Denna punkt är inte tillämplig i fall där den ursprungliga leverantören tydligt har angett att dess AI-system inte får omvandlas till ett AI-system med hög risk och därför inte omfattas av skyldigheten att överlämna dokumentationen.
+
+3\. När det gäller AI-system med hög risk som är säkerhetskomponenter i produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I, ska produkttillverkaren anses vara leverantören av AI-systemet med hög risk och omfattas av de skyldigheter som avses i artikel [16](#artikel-16-skyldigheter-för-leverantörer-av-ai-system-med-hög-risk) under någon av följande omständigheter:
+
+a) AI-systemet med hög risk släpps ut på marknaden tillsammans med produkten under produkttillverkarens namn eller varumärke.
+
+b) AI-systemet med hög risk tas i bruk under produkttillverkarens namn eller varumärke efter det att produkten släppts ut på marknaden.
+
+4\. Leverantören av ett AI-system med hög risk och den tredje part som tillhandahåller ett AI-system, verktyg, tjänster, komponenter eller processer som används eller integreras i ett AI-system med hög risk ska genom ett skriftligt avtal ange den nödvändiga informationen, kapaciteten och tekniska åtkomsten samt det andra stödet, baserat på den allmänt erkända senaste utvecklingen, för att göra det möjligt för leverantören av AI-systemet med hög risk att fullt ut uppfylla de skyldigheter som fastställs i [denna förordning](/lagstiftning/ai). Denna punkt är inte tillämplig på tredje parter som för allmänheten tillgängliggör andra verktyg, tjänster, processer eller komponenter än AI-modeller för allmänna ändamål, med en kostnadsfri licens med öppen källkod.
+
+AI-byrån får utveckla och rekommendera frivilliga standardvillkor för avtal mellan leverantörer av AI-system med hög risk och tredje parter som tillhandahåller verktyg, tjänster, komponenter eller processer som används för eller är integrerade i AI-system med hög risk. Vid utarbetandet av dessa frivilliga standardvillkor ska AI-byrån ta hänsyn till eventuella avtalskrav som är tillämpliga inom specifika sektorer eller affärsförhållanden. De frivilliga standardvillkoren ska offentliggöras och vara tillgängliga kostnadsfritt i ett lättanvänt elektroniskt format.
+
+5\. Punkterna 2 och 3 påverkar inte behovet av att iaktta och skydda immateriella rättigheter, konfidentiell affärsinformation och företagshemligheter i enlighet med unionsrätten och nationell rätt.
+
+### Artikel 26 – Skyldigheter för tillhandahållare av AI-system med hög risk
+
+1\. Tillhandahållare av AI-system med hög risk ska vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa att de använder sådana system i enlighet med de bruksanvisningar som åtföljer systemen, enligt punkterna 3 och 6.
+
+2\. Tillhandahållare ska tilldela fysiska personer som har nödvändig kompetens, utbildning och auktoritet samt nödvändigt stöd uppgiften att utöva mänsklig kontroll.
+
+3\. De skyldigheter som fastställs i punkterna 1 och 2 påverkar inte andra skyldigheter för tillhandahållare enligt unionsrätten eller nationell rätt eller tillhandahållarens frihet att organisera sina egna resurser och sin egen verksamhet i syfte att genomföra de åtgärder för mänsklig kontroll som leverantören anger.
+
+4\. Utan att det påverkar tillämpningen av punkterna 1 och 2 ska tillhandahållaren, i den mån tillhandahållaren utövar kontroll över indata, säkerställa att indata är relevanta och tillräckligt representativa med tanke på det avsedda ändamålet med AI-systemet med hög risk.
+
+5\. Tillhandahållare ska övervaka driften av AI-systemet med hög risk på grundval av bruksanvisningen och, i förekommande fall, informera leverantörerna i enlighet med artikel [72](/lagstiftning/ai/kap-9#artikel-72-leverantörers-övervakning-efter-utsläppande-på-marknaden-och-planen-för-övervakning-efter-utsläppande-på-marknaden-när-det-gäller-ai-system-med-hög-risk). Om tillhandahållare har skäl att tro att användningen av AI-systemet med hög risk i enlighet med instruktionerna kan leda till att AI-systemet utgöra en risk i den mening som avses i artikel [79.1](/lagstiftning/ai/kap-9#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) ska de, utan oskäligt dröjsmål, informera leverantören eller distributören och den berörda marknadskontrollmyndigheten och tillfälligt avbryta användningen av det systemet. Om tillhandahållare har fastställt en allvarlig incident ska de också omedelbart informera först leverantören och sedan importören eller distributören och de berörda marknadskontrollsmyndigheterna om den incidenten. Om tillhandahållaren inte kan nå leverantören ska artikel [73](/lagstiftning/ai/kap-9#artikel-73-rapportering-av-allvarliga-incidenter) gälla i tillämpliga delar. Denna skyldighet omfattar inte känsliga operativa uppgifter om tillhandahållare av AI-system som är brottsbekämpande myndigheter.
+
+För tillhandahållare som är finansinstitut som omfattas av krav avseende sina interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster ska övervakningsskyldigheten i första stycket anses vara uppfylld genom att reglerna om interna styrelseformer, arrangemang, processer och mekanismer enligt relevant unionsrätt om finansiella tjänster följs.
+
+6\. Tillhandahållare av AI-system med hög risk ska spara de loggar som genereras automatiskt av det AI-systemet med hög risk, i den mån sådana loggar står under deras kontroll, under en period som är lämplig för det avsedda ändamålet med AI-systemet med hög risk, dock i minst sex månader, om inte annat föreskrivs i tillämplig unionsrätt eller nationell rätt, i synnerhet unionsrätten om skydd av personuppgifter.
+
+Tillhandahållare som är finansinstitut som omfattas av krav avseende sina interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster ska bevara loggar som en del av den dokumentation som ska bevaras enligt relevant unionsrätt om finansiella tjänster.
+
+7\. Innan ett AI-system med hög risk tas i bruk eller används på en arbetsplats ska tillhandahållare som är arbetsgivare informera arbetstagarrepresentanterna och de berörda arbetstagarna om att de kommer att vara föremål för användning av AI-systemet med hög risk. Denna information ska, i tillämpliga fall, tillhandahållas i enlighet med de regler och förfaranden som fastställs i unionsrätten och nationell rätt samt praxis i fråga om information till arbetstagare och deras representanter.
+
+8\. Tillhandahållare av AI-system med hög risk som är offentliga myndigheter eller unionens institutioner, organ eller byråer ska fullgöra de registreringsskyldigheter som avses i artikel [49](#artikel-49-registrering). Om dessa tillhandahållare finner att det AI-system med hög risk som de avser att använda inte har registrerats i den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) får de inte använda det systemet och ska informera leverantören eller distributören.
+
+9\. I tillämpliga fall ska tillhandahållare av AI-system med hög risk använda den information som tillhandahålls enligt artikel [13](#artikel-13-transparens-och-tillhandahållande-av-information-till-tillhandahållare) i [denna förordning](/lagstiftning/ai) för att fullgöra sin skyldighet att genomföra en konsekvensbedömning avseende dataskydd enligt artikel [35](/lagstiftning/gdpr/kap-4#artikel-35-konsekvensbedömning-avseende-dataskydd) i [förordning (EU) 2016/679](/lagstiftning/gdpr) eller artikel [27](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680).
+
+10\. Inom ramen för en utredning för målinriktad sökning av en person som misstänks ha begått ett brott eller som har dömts för att ha begått ett brott ska tillhandahållaren av ett AI-system med hög risk för biometrisk fjärridentifiering i efterhand, utan att det påverkar tillämpningen av [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680), på förhand eller utan oskäligt dröjsmål och senast inom 48 timmar, av en rättslig myndighet eller en administrativ myndighet vars beslut är bindande och föremål för rättslig prövning begära tillstånd för användning av det systemet, utom när det används för den inledande identifieringen av en potentiell misstänkt på grundval av objektiva och verifierbara fakta med direkt anknytning till brottet. Varje användning ska begränsas till vad som är absolut nödvändigt för att utreda ett specifikt brott.
+
+Om det tillstånd som begärts enligt första stycket nekas ska användningen av det system för biometrisk fjärridentifiering i efterhand som är kopplat till det begärda tillståndet upphöra med omedelbar verkan, och de personuppgifter som är kopplade till användningen av det AI-system med hög risk för vilket tillståndet begärdes ska raderas.
+
+Under inga omständigheter får ett sådant AI-system med hög risk för biometrisk fjärridentifiering i efterhand användas för brottsbekämpande ändamål på ett icke målinriktat sätt, utan koppling till ett brott, ett straffrättsligt förfarande, ett verkligt och aktuellt eller verkligt och förutsebart hot om ett brott eller sökning efter en specifik försvunnen person. Det ska säkerställas att inget beslut som har negativa rättsliga följder för en person får fattas av de brottsbekämpande myndigheterna enbart på grundval av utdata från sådana system för biometrisk fjärridentifiering i efterhand.
+
+Denna punkt påverkar inte tillämpningen av artikel [9](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr) och artikel [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) avseende behandling av biometriska uppgifter.
+
+Oavsett ändamål eller tillhandahållare ska varje användning av sådana AI-system med hög risk dokumenteras i den relevanta polisakten och på begäran göras tillgänglig för den berörda marknadskontrollmyndigheten och den nationella dataskyddsmyndigheten, med undantag för utlämnande av känsliga operativa uppgifter som rör brottsbekämpning. Detta stycke påverkar inte de befogenheter som tilldelas tillsynsmyndigheterna genom [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680).
+
+Tillhandahållare ska lämna in årliga rapporter till de berörda marknadskontrollmyndigheterna och nationella dataskyddsmyndigheterna om sin användning av system för biometrisk fjärridentifiering i efterhand, med undantag för utlämnande av känsliga operativa uppgifter som rör brottsbekämpning. Rapporterna får aggregeras för att täcka mer än en användning.
+
+Medlemsstaterna får införa mer restriktiva lagar om användningen av system för biometrisk fjärridentifiering i efterhand i enlighet med unionsrätten.
+
+11\. Utan att det påverkar tillämpningen av artikel [50](/lagstiftning/ai/kap-4#artikel-50-transparensskyldigheter-för-leverantörer-och-tillhandahållare-av-vissa-ai-system) i [denna förordning](/lagstiftning/ai) ska tillhandahållare av AI-system med hög risk som avses i bilaga III och som fattar beslut eller hjälper till att fatta beslut som rör fysiska personer informera de fysiska personerna om att de är föremål för användning av AI-systemet med hög risk. När det gäller AI-system med hög risk som används för brottsbekämpande ändamål ska artikel [13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) tillämpas.
+
+12\. Tillhandahållare ska samarbeta med de berörda behöriga myndigheterna i alla åtgärder som dessa myndigheter vidtar med avseende på AI-systemet med hög risk i syfte att genomföra [denna förordning](/lagstiftning/ai).
+
+### Artikel 27 – Konsekvensbedömning avseende grundläggande rättigheter när det gäller AI-system med hög risk
+
+1\. Innan ett AI-system med hög risk som avses i artikel [6.2](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk), med undantag för AI-system med hög risk som är avsedda att användas inom det område som anges i punkt 2 i bilaga III, införs ska tillhandahållare som är offentligrättsliga organ eller som är privata enheter som tillhandahåller offentliga tjänster, och tillhandahållare av AI-system med hög risk som avses i punkt 5 b och c i bilaga III, göra en bedömning av den inverkan på grundläggande rättigheter som användningen av ett sådant system kan ge upphov till. För detta ändamål ska tillhandahållare göra en bedömning bestående av följande:
+
+a) En beskrivning av tillhandahållarens processer där AI-systemet med hög risk kommer att användas i linje med dess avsedda ändamål.
+
+b) En beskrivning av den tidsperiod inom vilken och den frekvens med vilken varje AI-system med hög risk är avsett att användas.
+
+c) De kategorier av fysiska personer och grupper som sannolikt kommer att påverkas av användningen av systemet i det specifika sammanhanget.
+
+d) De specifika risker för skada som sannolikt kommer att påverka de kategorier av fysiska personer eller grupper av personer som har identifierats enligt led c i denna punkt, med beaktande av den information som leverantören har tillhandahållit enligt artikel [13](#artikel-13-transparens-och-tillhandahållande-av-information-till-tillhandahållare).
+
+e) En beskrivning av genomförandet av åtgärder för mänsklig kontroll, i enlighet med bruksanvisningen.
+
+f) De åtgärder som ska vidtas om dessa risker förverkligas, inbegripet arrangemangen för intern styrning och klagomålsmekanismer.
+
+2\. Den skyldighet som fastställs i punkt 1 gäller för den första användningen av AI-systemet med hög risk. Tillhandahållaren får i liknande fall förlita sig på tidigare genomförda konsekvensbedömningar avseende grundläggande rättigheter eller befintliga konsekvensbedömningar som har utförts av leverantören. En tillhandahållare som under användningen av AI-systemet med hög risk anser att något av de element som anges i punkt 1 har ändrats eller inte längre är aktuellt ska vidta nödvändiga åtgärder för att uppdatera informationen.
+
+3\. När den bedömning som avses i punkt 1 i [denna artikel](#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk) har utförts ska tillhandahållaren underrätta marknadskontrollmyndigheten om sina resultat, inbegripet lämna in den ifyllda mall som avses i punkt 5 i [denna artikel](#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk) som en del av underrättelsen. I det fall som avses i artikel [46.1](#artikel-46-undantag-från-förfarandena-för-bedömning-av-överensstämmelse) får tillhandahållare undantas från den underrättelseskyldigheten.
+
+4\. Om någon av de skyldigheter som fastställs i [denna artikel](#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk) redan uppfylls genom den konsekvensbedömning avseende dataskydd som genomförs enligt artikel [35](/lagstiftning/gdpr/kap-4#artikel-35-konsekvensbedömning-avseende-dataskydd) i [förordning (EU) 2016/679](/lagstiftning/gdpr) eller artikel [27](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680), ska den konsekvensbedömning avseende grundläggande rättigheter som avses i punkt 1 i [den här artikeln](#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk) komplettera den konsekvensbedömningen avseende dataskydd.
+
+5\. AI-byrån ska utarbeta en mall för ett frågeformulär, inbegripet genom ett automatiserat verktyg, för att underlätta för tillhandahållare att på ett förenklat sätt fullgöra sina skyldigheter enligt [denna artikel](#artikel-27-konsekvensbedömning-avseende-grundläggande-rättigheter-när-det-gäller-ai-system-med-hög-risk).
+
+### Artikel 28 – Anmälande myndigheter
+
+1\. Varje medlemsstat ska utse eller inrätta minst en anmälande myndighet med ansvar för att fastställa och genomföra de förfaranden som krävs för bedömning, utseende och anmälan av organ för bedömning av överensstämmelse och för övervakning av dessa. Dessa förfaranden ska utvecklas i samarbete mellan de anmälande myndigheterna i alla medlemsstater.
+
+2\. Medlemsstaterna får bestämma att den bedömning och övervakning som avses i punkt 1 ska utföras av ett nationellt ackrediteringsorgan i den mening som avses i, och i enlighet med, [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+3\. Anmälande myndigheter ska vara inrättade och organiserade och fungera på ett sådant sätt att det inte uppstår någon intressekonflikt med organen för bedömning av överensstämmelse och att det garanteras att deras verksamhet är objektiv och opartisk.
+
+4\. Anmälande myndigheter ska vara organiserade på ett sådant sätt att beslut som rör anmälan av organ för bedömning av överensstämmelse fattas av annan behörig personal än den som har gjort bedömningen av dessa organ.
+
+5\. Anmälande myndigheter får varken erbjuda eller utföra sådan verksamhet som utförs av organ för bedömning av överensstämmelse eller erbjuda eller utföra konsulttjänster på kommersiell eller konkurrensmässig grund.
+
+6\. Anmälande myndigheter ska säkerställa att den information som de erhåller behandlas konfidentiellt, i enlighet med artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+7\. Anmälande myndigheter ska förfoga över tillräckligt med personal med lämplig kompetens för att kunna utföra sina uppgifter. Kompetent personal ska, i tillämpliga fall, ha nödvändig sakkunskap med tanke på sin funktion, på områden som informationsteknik, AI och juridik, inbegripet övervakning av grundläggande rättigheter.
+
+### Artikel 29 – Ansökan om anmälan från ett organ för bedömning av överensstämmelse
+
+1\. Organ för bedömning av överensstämmelse ska lämna in en ansökan om anmälan till den anmälande myndigheten i den medlemsstat där de är etablerade.
+
+2\. Ansökan om anmälan ska åtföljas av en beskrivning av de bedömningar av överensstämmelse, den eller de moduler för bedömning av överensstämmelse och de typer av AI-system som organet för bedömning av överensstämmelse anser sig ha kompetens för samt ett ackrediteringsintyg, om sådant finns, som ska ha utfärdats av ett nationellt ackrediteringsorgan och i vilket det intygas att organet för bedömning av överensstämmelse uppfyller kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ).
+
+Alla giltiga dokument som rör fall av befintliga utseenden av det ansökande anmälda organet enligt annan unionsharmoniseringslagstiftning ska läggas till.
+
+3\. Om det berörda organet för bedömning av överensstämmelse inte kan uppvisa något ackrediteringsintyg ska det ge den anmälande myndigheten alla skriftliga underlag som krävs för kontroll, erkännande och regelbunden övervakning av att det uppfyller kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ).
+
+4\. För anmälda organ som utsetts enligt annan unionsharmoniseringslagstiftning får alla dokument och intyg kopplade till dessa fall av utseende användas som stöd för deras utseendeförfarande enligt [denna förordning](/lagstiftning/ai), beroende på vad som är lämpligt. Det anmälda organet ska uppdatera den dokumentation som avses i punkterna 2 och 3 i [denna artikel](#artikel-29-ansökan-om-anmälan-från-ett-organ-för-bedömning-av-överensstämmelse) när det sker relevanta ändringar, för att myndigheten med ansvar för anmälda organ ska kunna övervaka och kontrollera att samtliga krav som föreskrivs i artikel [31](#artikel-31-krav-avseende-anmälda-organ) alltid uppfylls.
+
+### Artikel 30 – Anmälningsförfarande
+
+1\. Anmälande myndigheter får endast anmäla de organ för bedömning av överensstämmelse som uppfyller kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ).
+
+2\. Anmälande myndigheter ska till kommissionen och övriga medlemsstater, med hjälp av det elektroniska anmälningsverktyg som har utvecklats och förvaltas av kommissionen, anmäla varje organ för bedömning av överensstämmelse som avses i punkt 1.
+
+3\. Den anmälan som avses i punkt 2 i [denna artikel](#artikel-30-anmälningsförfarande) ska innehålla fullständiga uppgifter om bedömningarna av överensstämmelse, modulen eller modulerna för bedömning av överensstämmelse, de berörda typerna av AI-system samt ett relevant intyg om kompetens. Om en anmälan inte grundar sig på ett sådant ackrediteringsintyg som avses i artikel [29.2](#artikel-29-ansökan-om-anmälan-från-ett-organ-för-bedömning-av-överensstämmelse) ska den anmälande myndigheten ge kommissionen och övriga medlemsstater styrkande handlingar som visar att organet för bedömning av överensstämmelse har tillräcklig kompetens och att de system har inrättats som behövs för att säkerställa att organet övervakas regelbundet och fortsätter att uppfylla kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ).
+
+4\. Det berörda organet för bedömning av överensstämmelse får bedriva verksamhet som anmält organ endast om kommissionen och övriga medlemsstater inte har gjort några invändningar inom två veckor från en anmälan från en anmälande myndighet, i de fall ett ackrediteringsintyg enligt artikel [29.2](#artikel-29-ansökan-om-anmälan-från-ett-organ-för-bedömning-av-överensstämmelse) används, eller inom två månader från anmälan från den anmälande myndigheten, i de fall då styrkande handlingar som avses i artikel [29.3](#artikel-29-ansökan-om-anmälan-från-ett-organ-för-bedömning-av-överensstämmelse) används.
+
+5\. Om invändningar görs ska kommissionen utan dröjsmål inleda samråd med de berörda medlemsstaterna och organet för bedömning av överensstämmelse. Med beaktande av detta ska kommissionen besluta om tillståndet är motiverat eller inte. Kommissionen ska rikta sitt beslut till den berörda medlemsstaten och till det berörda organet för bedömning av överensstämmelse.
+
+### Artikel 31 – Krav avseende anmälda organ
+
+1\. Ett anmält organ ska inrättas enligt en medlemsstats nationella rätt och ska vara en juridisk person.
+
+2\. Anmälda organ ska uppfylla de organisatoriska krav och krav på kvalitetsstyrning, resurser och processer som är nödvändiga för att de ska kunna fullgöra sina uppgifter, samt lämpliga cybersäkerhetskrav.
+
+3\. Det anmälda organets organisationsstruktur, ansvarsfördelning, rapporteringsvägar och driftsätt ska säkerställa förtroende för dess prestationer och för resultaten av de aktiviteter avseende bedömning av överensstämmelse som det anmälda organet bedriver.
+
+4\. Anmälda organ ska vara oberoende av den leverantör av AI-system med hög risk som är föremål för dess bedömning av överensstämmelse. Anmälda organ ska också vara oberoende av varje annan operatör som har ett ekonomiskt intresse i AI-system med hög risk som bedöms samt av eventuella konkurrenter till leverantören. Detta hindrar inte att bedömda AI-system med hög risk som är nödvändiga för verksamheten inom organet för bedömning av överensstämmelse används, eller att sådana AI-system med hög risk används för personligt bruk.
+
+5\. Varken ett organ för bedömning av överensstämmelse, dess högsta ledning eller den personal som ansvarar för att utföra bedömningen av överensstämmelse får vara direkt delaktig i konstruktionen, utvecklingen, saluföringen eller användningen av AI-system med hög risk, och de får inte heller företräda de parter som bedriver sådan verksamhet. De får inte delta i någon verksamhet som kan påverka deras objektivitet eller integritet i samband med den bedömning av överensstämmelse för vilken de har anmälts. Detta ska särskilt gälla konsulttjänster.
+
+6\. Anmälda organ ska vara organiserade och drivas på ett sådant sätt att deras verksamhet är oberoende, objektiv och opartisk. Anmälda organ ska dokumentera och genomföra en struktur och förfaranden som garanterar opartiskheten och främjar och tillämpar principerna om opartiskhet i hela organisationen, hos alla anställda och i all bedömningsverksamhet.
+
+7\. Anmälda organ ska ha infört dokumenterade förfaranden som ska säkerställa att deras personal, kommittéer, dotterbolag, underentreprenörer och andra associerade organ eller personal vid externa organ i enlighet med artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling) upprätthåller konfidentialiteten för den information som organen får kännedom om i samband med bedömning av överensstämmelse, utom när informationen måste lämnas ut enligt lag. De anmälda organens personal ska omfattas av tystnadsplikt i fråga om all information som de erhåller under utförandet av sina uppgifter enligt [denna förordning](/lagstiftning/ai), utom gentemot de anmälande myndigheterna i den medlemsstat där deras verksamhet utförs.
+
+8\. Anmälda organ ska ha förfaranden som gör det möjligt för organet att utöva sin verksamhet med vederbörlig hänsyn tagen till en leverantörs storlek, sektor och struktur samt det berörda AI-systemets komplexitet.
+
+9\. Anmälda organ ska teckna en lämplig ansvarsförsäkring för sin verksamhet avseende bedömningar av överensstämmelse, såvida inte den medlemsstat i vilken de är etablerade tar på sig ansvaret i överensstämmelse med nationell rätt eller den medlemsstaten är direkt ansvarig för bedömningen av överensstämmelse.
+
+10\. Anmälda organ ska kunna utföra alla sina uppgifter enligt [denna förordning](/lagstiftning/ai) med största möjliga yrkesmässiga integritet och nödvändig kompetens på det specifika området, oavsett om dessa uppgifter utförs av de anmälda organen själva eller av annan part för deras räkning och under deras ansvar.
+
+11\. Anmälda organ ska ha tillräcklig intern kompetens för att effektivt kunna utvärdera de uppgifter som utförs av externa parter å organens vägnar. Det anmälda organet ska ha permanent tillgång till tillräcklig administrativ, teknisk, juridisk och vetenskaplig personal med erfarenhet av och kunskaper om de relevanta typerna av AI-system, relevanta data och relevant databehandling och om de krav som fastställs i avsnitt 2.
+
+12\. Anmälda organ ska delta i den samordningsverksamhet som avses i artikel [38](#artikel-38-samordning-av-anmälda-organ). De ska också delta direkt, eller vara företrädda i, europeiska standardiseringsorganisationer, eller säkerställa att de är medvetna om och har aktuella kunskaper om relevanta standarder.
+
+### Artikel 32 – Presumtion om överensstämmelse med krav som rör anmälda organ
+
+För ett organ för bedömning av överensstämmelse som kan visa att det uppfyller kriterierna i de relevanta harmoniserade standarderna eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska en presumtion om överensstämmelse med kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ) gälla, på villkor att dessa krav omfattas av de tillämpliga harmoniserade standarderna.
+
+### Artikel 33 – Dotterbolag till anmälda organ och underentreprenad
+
+1\. Om det anmälda organet lägger ut specifika uppgifter med anknytning till bedömningen av överensstämmelse på underentreprenad eller anlitar ett dotterbolag ska det säkerställa att underentreprenören eller dotterbolaget uppfyller kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ) och informera den anmälande myndigheten om detta.
+
+2\. Anmälda organ ska ta det fulla ansvaret för de uppgifter som utförs av underentreprenörer eller dotterbolag.
+
+3\. Verksamhet får läggas ut på underentreprenad eller utföras av ett dotterbolag endast om leverantören samtycker till det. Anmälda organ ska offentliggöra en förteckning över sina dotterbolag.
+
+4\. De relevanta dokumenten rörande bedömningen av underentreprenörens eller dotterbolagets kvalifikationer och det arbete som dessa har utfört enligt [denna förordning](/lagstiftning/ai) ska hållas tillgängliga för den anmälande myndigheten under en period av fem år från och med dagen för avslutandet av underentreprenaden.
+
+### Artikel 34 – Anmälda organs operativa skyldigheter
+
+1\. Anmälda organ ska kontrollera överensstämmelsen hos AI-system med hög risk i enlighet med de förfaranden för bedömning av överensstämmelse som föreskrivs i artikel [43](#artikel-43-bedömning-av-överensstämmelse).
+
+2\. Anmälda organ ska motverka uppkomsten av onödiga administrativa bördor för leverantörer när de utövar sin verksamhet och ta vederbörlig hänsyn till en leverantörs storlek, den sektor där denna är verksam, dess struktur samt komplexiteten i det berörda AI-systemet med hög risk, särskilt i syfte att minimera de administrativa bördorna och efterlevnadskostnaderna för mikroföretag och småföretag i den mening som avses i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361). Det anmälda organet ska emellertid respektera den grad av noggrannhet och den skyddsnivå som krävs för att AI-systemet med hög risk ska överensstämma med kraven i [denna förordning](/lagstiftning/ai).
+
+3\. Anmälda organ ska tillhandahålla och på begäran lämna över all relevant dokumentation, inbegripet leverantörens dokumentation, till den anmälande myndighet som avses i artikel [28](#artikel-28-anmälande-myndigheter), så att denna myndighet kan utföra sin verksamhet avseende bedömning, utseende, anmälan och övervakning och för att underlätta den bedömning som beskrivs i [detta avsnitt](/lagstiftning/ai/kap-3).
+
+### Artikel 35 – Identifikationsnummer och förteckningar över anmälda organ
+
+1\. Kommissionen ska tilldela varje anmält organ ett enda identifikationsnummer, även om ett organ anmäls enligt mer än en unionsakt.
+
+2\. Kommissionen ska offentliggöra förteckningen över de organ som anmälts enligt [denna förordning](/lagstiftning/ai), inklusive deras identifikationsnummer och den verksamhet som de har anmälts för. Kommissionen ska säkerställa att förteckningen hålls uppdaterad.
+
+### Artikel 36 – Ändringar i anmälan
+
+1\. Den anmälande myndigheten ska underrätta kommissionen och övriga medlemsstater om alla relevanta ändringar beträffande anmälan av ett anmält organ via det elektroniska anmälningsverktyg som avses i artikel [30.2](#artikel-30-anmälningsförfarande).
+
+2\. De förfaranden som föreskrivs i artiklarna [29](#artikel-29-ansökan-om-anmälan-från-ett-organ-för-bedömning-av-överensstämmelse) och [30](#artikel-30-anmälningsförfarande) ska tillämpas på utvidgningar av anmälans tillämpningsområde.
+
+När det gäller andra ändringar av anmälan än utvidgningar av dess tillämpningsområde ska de förfaranden som fastställs i punkterna 3–9 tillämpas.
+
+3\. Om ett anmält organ beslutar att upphöra med sin verksamhet avseende bedömning av överensstämmelse, ska det så snart som möjligt och, om upphörandet är planerat, minst ett år innan det upphör med verksamheten underrätta den anmälande myndigheten och de berörda leverantörerna om detta. Det anmälda organets intyg får förbli giltiga under en period på nio månader efter det att det anmälda organets verksamhet upphört på villkor att ett annat anmält organ skriftligen har bekräftat att det kommer att åta sig ansvaret för de AI-system med hög risk som omfattas av intygen. Det sistnämnda anmälda organet ska utföra en fullständig bedömning av de AI-system med hög risk det gäller före utgången av denna niomånadersperiod, innan det utfärdar nya intyg för dem. Om det anmälda organet har upphört med sin verksamhet ska den anmälande myndigheten återkalla utseendet.
+
+4\. Om en anmälande myndighet har tillräckliga skäl att anse att ett anmält organ inte längre uppfyller de krav som anges i artikel [31](#artikel-31-krav-avseende-anmälda-organ) eller att det underlåter att fullgöra sina skyldigheter, ska den anmälande myndigheten utan dröjsmål undersöka frågan med största möjliga omsorg. I detta sammanhang ska den anmälande myndigheten underrätta det berörda anmälda organet om de invändningar som framförts och ge det möjlighet att framföra sina synpunkter. Om den anmälande myndigheten drar slutsatsen att ett anmält organ inte längre uppfyller de krav som anges i artikel [31](#artikel-31-krav-avseende-anmälda-organ) eller att det underlåter att fullgöra sina skyldigheter, ska den anmälande myndigheten, beroende på hur allvarlig underlåtenheten att uppfylla kraven eller fullgöra skyldigheterna är, begränsa utseendet, tillfälligt återkalla det eller återkalla det slutgiltigt beroende på vad som är lämpligt. Myndigheten ska omedelbart informera kommissionen och de andra medlemsstaterna om detta.
+
+5\. Om utseendet av ett anmält organ har återkallats tillfälligt eller begränsats, eller helt eller delvis återkallats slutgiltigt, ska det anmälda organet underrätta de berörda leverantörerna inom tio dagar.
+
+6\. I händelse av begränsningar eller tillfällig eller slutgiltig återkallelse av ett utseende ska den anmälande myndigheten vidta lämpliga åtgärder för att säkerställa att det berörda anmälda organets dokumentation bevaras och göra den tillgänglig för de anmälande myndigheterna i andra medlemsstater och för marknadskontrollmyndigheterna på deras begäran.
+
+7\. I händelse av begränsningar eller tillfällig eller slutgiltig återkallelse av ett utseende ska den anmälande myndigheten
+
+a) bedöma påverkan på de intyg som det anmälda organet har utfärdat,
+
+b) överlämna en rapport om sina iakttagelser till kommissionen och de andra medlemsstaterna senast tre månader efter att ha anmält ändringarna av utseendet,
+
+c) ålägga det anmälda organet att, inom en rimlig tid som myndigheten fastställer, tillfälligt eller slutgiltigt dra tillbaka intyg som utfärdats på felaktiga grunder för att säkerställa fortsatt överensstämmelse för AI-system med hög risk på marknaden,
+
+d) informera kommissionen och medlemsstaterna om intyg som den har krävt ska dras tillbaka tillfälligt eller slutgiltigt,
+
+e) förse de nationella behöriga myndigheterna i den medlemsstat där leverantören har sitt säte med all relevant information om de intyg den har krävt ska dras tillbaka tillfälligt eller slutgiltigt. Denna myndighet ska vidta lämpliga åtgärder, om så är nödvändigt för att undvika en potentiell risk för hälsa, säkerhet eller grundläggande rättigheter.
+
+8\. Med undantag för intyg som utfärdats på felaktiga grunder, och om ett utseende har återkallats tillfälligt eller begränsats, ska intygen vara fortsatt giltiga i något av följande fall:
+
+a) Om den anmälande myndigheten inom en månad från den tillfälliga återkallelsen eller begränsningarna har bekräftat att det inte finns någon risk för hälsa, säkerhet eller grundläggande rättigheter när det gäller intyg som berörs av den tillfälliga återkallelsen eller begränsningarna, och den anmälande myndigheten har angett en tidsfrist för åtgärder som ska leda till att den tillfälliga återkallelsen eller begränsningarna hävs.
+
+b) Om den anmälande myndigheten har bekräftat att inga intyg av betydelse för den tillfälliga återkallelsen ska utfärdas, ändras eller utfärdas på nytt under den tid som den tillfälliga återkallelsen eller begränsningarna gäller, och anger huruvida det anmälda organet har kapacitet att fortsätta att övervaka och ansvara för de befintliga intyg som utfärdats för den period som den tillfälliga återkallelsen eller begränsningarna gäller. Om den anmälande myndigheten fastställer att det anmälda organet inte har kapacitet att upprätthålla befintliga utfärdade intyg, ska leverantören av det system som omfattas av intyget inom tre månader efter den tillfälliga återkallelsen eller begränsningarna skriftligen bekräfta för de nationella behöriga myndigheterna i den medlemsstat där leverantören har sitt säte att ett annat kvalificerat anmält organ tillfälligt tar på sig det anmälda organets uppgifter att övervaka och fortsätta att ansvara för intygen under den tid som den tillfälliga återkallelsen eller begränsningarna gäller.
+
+9\. Med undantag för intyg som utfärdats på felaktiga grunder och fall där ett utseende har återkallats ska intygen fortsätta att vara giltiga i nio månader under följande omständigheter:
+
+a) Den nationella behöriga myndigheten i den medlemsstat där leverantören av det AI-system med hög risk som omfattas av intyget har sitt säte har bekräftat att det inte finns någon risk för hälsa, säkerhet eller grundläggande rättigheter i samband med de berörda AI-systemen med hög risk.
+
+b) Ett annat anmält organ har bekräftat skriftligen att det omedelbart kommer att åta sig ansvaret för dessa AI-system och att det slutför sin bedömning inom tolv månader från det att utseendet har återkallats slutgiltigt.
+
+Under de omständigheter som avses i första stycket får den nationella behöriga myndigheten i den medlemsstat där leverantören av det system som omfattas av intyget har sitt säte förlänga intygens provisoriska giltighet med ytterligare perioder av tre månader i taget, dock längst i tolv månader sammanlagt.
+
+Den nationella behöriga myndighet eller det anmälda organ som tagit på sig de uppgifter som skulle utföras av det anmälda organ som berörs av ändringen av utseendet ska omedelbart informera kommissionen, de andra medlemsstaterna och de andra anmälda organen om ändringen av dessa uppgifter.
+
+### Artikel 37 – Ifrågasättande av anmälda organs kompetens
+
+1\. Kommissionen ska vid behov undersöka alla fall där det finns skäl att betvivla att ett anmält organ har tillräcklig kompetens eller att ett anmält organ fortsätter att uppfylla kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ) och fullgöra sitt tillämpliga ansvar.
+
+2\. Den anmälande myndigheten ska på begäran ge kommissionen all relevant information om anmälan eller upprätthållandet av det berörda anmälda organets kompetens.
+
+3\. Kommissionen ska säkerställa att all känslig information som den erhåller under sina undersökningar enligt [denna artikel](#artikel-37-ifrågasättande-av-anmälda-organs-kompetens) behandlas konfidentiellt i enlighet med artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+4\. Om kommissionen konstaterar att ett anmält organ inte uppfyller eller inte längre uppfyller kraven för anmälan ska den informera den anmälande medlemsstaten om detta och anmoda den att vidta nödvändiga korrigerande åtgärder, inbegripet att om så är nödvändigt återkalla anmälan tillfälligt eller slutgiltigt. Om medlemsstaten inte vidtar nödvändiga korrigerande åtgärder får kommissionen genom en genomförandeakt begränsa utseendet eller återkalla det tillfälligt eller slutgiltigt. Den genomförandeakten ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+### Artikel 38 – Samordning av anmälda organ
+
+1\. Kommissionen ska för AI-system med hög risk säkerställa att lämplig samordning och ett lämpligt samarbete införs mellan de anmälda organ som är verksamma i förfaranden för bedömning av överensstämmelse enligt [denna förordning](/lagstiftning/ai) och att samordningen och samarbetet bedrivs på ett tillfredsställande sätt genom en sektorsspecifik grupp av anmälda organ.
+
+2\. Varje anmälande myndighet ska säkerställa att de organ som den har anmält deltar i arbetet i en grupp som avses i punkt 1 direkt eller genom utsedda representanter.
+
+3\. Kommissionen ska se till att det förekommer utbyte av kunskap och bästa praxis mellan anmälande myndigheter.
+
+### Artikel 39 – Organ för bedömning av överensstämmelse i tredjeländer
+
+Organ för bedömning av överensstämmelse som inrättats enligt ett tredjelands rätt med vilket unionen har ingått ett avtal får bemyndigas att utföra den verksamhet som bedrivs av anmälda organ enligt [denna förordning](/lagstiftning/ai), förutsatt att de uppfyller kraven i artikel [31](#artikel-31-krav-avseende-anmälda-organ) eller säkerställer en likvärdig nivå av överensstämmelse.
+
+### Artikel 40 – Harmoniserade standarder och standardiseringsprodukter
+
+1\. AI-system med hög risk eller AI-modeller för allmänna ändamål som överensstämmer med harmoniserade standarder eller delar av dem till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), ska förutsättas överensstämma med de krav som fastställs i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, skyldigheterna i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3 i [den här förordningen](/lagstiftning/ai), i den utsträckning som de standarderna omfattar dessa krav eller skyldigheter.
+
+2\. I enlighet med artikel [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) ska kommissionen utan oskäligt dröjsmål utfärda begäranden om standardisering som omfattar alla krav i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) och, i tillämpliga fall, begäranden om standardisering som omfattar skyldigheterna i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3 i [den här förordningen](/lagstiftning/ai). I begäran om standardisering ska det också begäras produkter för rapporterings- och dokumentationsprocesser i syfte att förbättra AI-systemens resursprestanda, till exempel genom att minska förbrukningen av energi och andra resurser hos AI-systemet med hög risk under dess livscykel, och för energieffektiv utveckling av AI-modeller för allmänna ändamål. När kommissionen utarbetar en begäran om standardisering ska den samråda med styrelsen och relevanta berörda parter, inklusive det rådgivande forumet.
+
+När kommissionen utfärdar en begäran om standardisering till europeiska standardiseringsorganisationer ska den ange att standarderna måste vara tydliga, samstämmiga, inbegripet med de standarder som utvecklas i de olika sektorerna för produkter som omfattas av den befintliga unionsharmoniseringslagstiftning som förtecknas i bilaga I, och syfta till att säkerställa att AI-system med hög risk eller AI-modeller för allmänna ändamål som släpps ut på marknaden eller tas i bruk i unionen uppfyller relevanta krav eller skyldigheter i [denna förordning](/lagstiftning/ai).
+
+Kommissionen ska kräva att de europeiska standardiseringsorganisationerna påvisar att de har gjort sitt yttersta för att uppnå de mål som avses i första och andra styckena i denna punkt i enlighet med artikel [24](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+3\. Deltagarna i standardiseringsprocessen ska sträva efter att främja investeringar och innovation inom AI, inbegripet genom ökad rättssäkerhet, samt konkurrenskraften och tillväxten på unionsmarknaden, att bidra till att stärka det globala samarbetet om standardisering och ta hänsyn till befintliga internationella standarder på AI-området som är förenliga med unionens värden, grundläggande rättigheter och intressen, och att stärka flerpartsstyrningen i syfte att säkerställa en balanserad representation av intressen och ett faktiskt deltagande av alla relevanta berörda parter i enlighet med artiklarna [5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), [6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) och [7](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+### Artikel 41 – Gemensamma specifikationer
+
+1\. Kommissionen får anta genomförandeakter om fastställande av gemensamma specifikationer för de krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, för de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, om följande villkor är uppfyllda:
+
+a) Kommissionen har enligt artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begärt att en eller flera europeiska standardiseringsorganisationer ska utarbeta en harmoniserad standard för de krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, för de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, och
+
+i) begäran har inte godtagits av någon av de europeiska standardiseringsorganisationerna, eller
+
+ii) de harmoniserade standarder som tillgodoser begäran har inte lämnats inom den tidsfrist som fastställts i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), eller
+
+iii) de relevanta harmoniserade standarderna tar inte i tillräckligt hög grad hänsyn till frågor som rör grundläggande rättigheter, eller
+
+iv) de harmoniserade standarderna överensstämmer inte med begäran, och
+
+b) ingen hänvisning till harmoniserade standarder som omfattar de krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, har offentliggjorts i Europeiska unionens officiella tidning i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), och ingen sådan hänvisning förväntas offentliggöras inom rimlig tid.
+
+Vid utarbetandet av de gemensamma specifikationerna ska kommissionen samråda med det rådgivande forum som avses i artikel [67](/lagstiftning/ai/kap-7#artikel-67-rådgivande-forum).
+
+De genomförandeakter som avses i första stycket i denna punkt ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+2\. Innan kommissionen utarbetar ett utkast till genomförandeakt ska den informera den kommitté som avses i artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) om att den anser att villkoren i punkt 1 i [den här artikeln](#artikel-41-gemensamma-specifikationer) är uppfyllda.
+
+3\. AI-system med hög risk eller AI-modeller för allmänna ändamål som överensstämmer med de gemensamma specifikationer som avses i punkt 1, eller delar av dessa specifikationer, ska förutsättas överensstämma med de krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, fullgöra de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, i den omfattning som de gemensamma specifikationerna omfattar dessa krav eller skyldigheter.
+
+4\. Om en harmoniserad standard antas av en europeisk standardiseringsorganisation och föreslås för kommissionen för offentliggörande av hänvisningen till den i Europeiska unionens officiella tidning, ska kommissionen bedöma den harmoniserade standarden i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025). När en hänvisning till en harmoniserad standard offentliggörs i Europeiska unionens officiella tidning ska kommissionen upphäva de genomförandeakter som avses i punkt 1, eller delar av dem som omfattar samma krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, samma skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3.
+
+5\. Om leverantörer av AI-system med hög risk eller AI-modeller för allmänna ändamål inte följer de gemensamma specifikationer som avses i punkt 1 ska de vederbörligen motivera att de har antagit tekniska lösningar som uppfyller de krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) eller, i tillämpliga fall, fullgör de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, till en nivå som åtminstone är likvärdig med dem.
+
+6\. Om en medlemsstat anser att en gemensam specifikation inte helt uppfyller de krav som anges i avsnitt 2 eller, i tillämpliga fall, de skyldigheter som anges i [kapitel V](/lagstiftning/ai/kap-5) avsnitten 2 och 3, ska den underrätta kommissionen om detta med en detaljerad förklaring. Kommissionen ska bedöma denna information och när så är lämpligt ändra genomförandeakten om fastställande av den berörda gemensamma specifikationen.
+
+### Artikel 42 – Presumtion om överensstämmelse med vissa krav
+
+1\. AI-system med hög risk som har tränats och testats på data som återspeglar den specifika geografiska, beteendemässiga, kontextuella eller funktionella miljö inom vilken de är avsedda att användas ska förutsättas uppfylla de relevanta kraven i artikel [10.4](#artikel-10-data-och-dataförvaltning).
+
+2\. AI-system med hög risk som har certifierats, eller för vilka en försäkran om överensstämmelse har utfärdats inom ramen för en ordning för cybersäkerhetscertifiering enligt [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881), och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas uppfylla de cybersäkerhetskrav som anges i artikel [15](#artikel-15-riktighet-robusthet-och-cybersäkerhet) i [den här förordningen](/lagstiftning/ai), förutsatt att cybersäkerhetscertifikatet eller försäkran om överensstämmelse eller delar därav omfattar dessa krav.
+
+### Artikel 43 – Bedömning av överensstämmelse
+
+1\. För AI-system med hög risk som förtecknas i punkt 1 i bilaga III ska leverantören, när den vill visa att ett AI-system med hög risk uppfyller kraven i avsnitt 2 och den har tillämpat de harmoniserade standarder som avses i artikel [40](#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) eller, i tillämpliga fall, de gemensamma specifikationer som avses i artikel [41](#artikel-41-gemensamma-specifikationer), välja ett av följande förfaranden för bedömning av överensstämmelse grundat på
+
+a) intern kontroll som avses i bilaga VI, eller
+
+b) en bedömning av kvalitetsstyrningssystemet och en bedömning av den tekniska dokumentationen, med deltagande av ett anmält organ, som avses i bilaga VII.
+
+När leverantören vill visa att ett AI-system med hög risk uppfyller de krav som fastställs i avsnitt 2 ska leverantören följa det förfarande för bedömning av överensstämmelse som fastställs i bilaga VII i följande fall:
+
+a) De harmoniserade standarder som avses i artikel [40](#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) saknas, och de gemensamma specifikationer som avses i artikel [41](#artikel-41-gemensamma-specifikationer) är inte tillgängliga.
+
+b) Leverantören har inte tillämpat eller har endast tillämpat en del av den harmoniserade standarden.
+
+c) De gemensamma specifikationer som avses i led a finns men leverantören har inte tillämpat dem.
+
+d) En eller flera av de harmoniserade standarder som avses i led a har offentliggjorts med en begränsning och endast för den del av standarden som begränsades.
+
+För det förfarande för bedömning av överensstämmelse som avses i bilaga VII får leverantören välja vilket av de anmälda organen som helst. Om AI-systemet med hög risk är avsett att tas i bruk av brottsbekämpande myndigheter, migrationsmyndigheter eller asylmyndigheter eller av unionens institutioner, organ eller byråer ska dock den marknadskontrollmyndighet som avses i artikel [74.8](/lagstiftning/ai/kap-9#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden) eller [74.9](/lagstiftning/ai/kap-9#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden), beroende på vad som är tillämpligt, fungera som anmält organ.
+
+2\. För de AI-system med hög risk som avses i punkterna 2–8 i bilaga III ska leverantörer följa det förfarande för bedömning av överensstämmelse grundat på intern kontroll som avses i bilaga VI, vilket inte föreskriver att ett anmält organ ska delta.
+
+3\. För AI-system med hög risk som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I ska leverantören följa det relevanta förfarande för bedömning av överensstämmelse som krävs enligt dessa rättsakter. Kraven i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3) ska tillämpas på de AI-systemen med hög risk och ska ingå i den bedömningen. Punkterna 4.3, 4.4 och 4.5 och punkt 4.6 femte stycket i bilaga VII ska också tillämpas.
+
+Vid denna bedömning ska anmälda organ som har anmälts enligt de rättsakterna ha rätt att kontrollera att AI-systemen med hög risk överensstämmer med kraven i avsnitt 2, förutsatt att dessa anmälda organs överensstämmelse med kraven i artikel [31.4](#artikel-31-krav-avseende-anmälda-organ), [31.5](#artikel-31-krav-avseende-anmälda-organ), [31.10](#artikel-31-krav-avseende-anmälda-organ) och [31.11](#artikel-31-krav-avseende-anmälda-organ) har bedömts i samband med anmälningsförfarandet inom ramen för dessa rättsakter.
+
+Om en rättsakt som förtecknas i avsnitt A i bilaga I gör det möjligt för produkttillverkaren att välja att inte delta i en tredjepartsbedömning av överensstämmelse får tillverkaren, om den har tillämpat alla harmoniserade standarder som omfattar alla relevanta krav, använda detta alternativ endast om den också har tillämpat harmoniserade standarder eller, i tillämpliga fall, de gemensamma specifikationer som avses i artikel [41](#artikel-41-gemensamma-specifikationer), som omfattar samtliga krav som anges i avsnitt 2 i [detta kapitel](/lagstiftning/ai/kap-3).
+
+4\. AI-system med hög risk som redan har varit föremål för ett förfarande för bedömning av överensstämmelse ska genomgå ett nytt förfarande för bedömning av överensstämmelse i fall av en väsentlig ändring, oavsett om det ändrade systemet är avsett att distribueras vidare eller fortsätter att användas av den nuvarande tillhandahållaren.
+
+När det gäller AI-system med hög risk som fortsätter att lära sig efter att det har släppts ut på marknaden eller tagits i bruk, ska sådana ändringar av AI-systemet med hög risk och dess prestanda som leverantören på förhand har fastställt vid tidpunkten för den inledande bedömningen av överensstämmelse och som är en del av den information som ingår i den tekniska dokumentation som avses i punkt 2 f i bilaga IV inte utgöra en väsentlig ändring.
+
+5\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra bilagorna VI och VII genom att uppdatera dem mot bakgrund av teknisk utveckling.
+
+6\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [97](/lagstiftning/ai/kap-11#artikel-97-utövande-av-delegeringen) för att ändra punkterna 1 och 2 i [den här artikeln](#artikel-43-bedömning-av-överensstämmelse) i syfte att låta de AI-system med hög risk som avses i punkterna 2–8 i bilaga III omfattas av det förfarande för bedömning av överensstämmelse som avses i bilaga VII eller delar därav. Kommissionen ska anta sådana delegerade akter med beaktande av hur ändamålsenligt förfarandet för bedömning av överensstämmelse grundat på intern kontroll enligt bilaga VI är när det gäller att förebygga eller minimera de risker för hälsa, säkerhet och skyddet av grundläggande rättigheter som sådana system medför samt vilken tillgång det finns till tillräcklig kapacitet och tillräckliga resurser bland anmälda organ.
+
+### Artikel 44 – Intyg
+
+1\. De intyg som anmälda organ utfärdar i enlighet med bilaga VII ska vara upprättade på ett språk som är lätt att förstå för de relevanta myndigheterna i den medlemsstat där det anmälda organet är etablerat.
+
+2\. Intyg ska gälla under den tid som anges i dem och högst i fem år för AI-system som omfattas av bilaga I, och fyra år för AI-system som omfattas av bilaga III. På begäran av leverantören får intygets giltighet förlängas med högst fem år i taget för AI-system som omfattas av bilaga I, och fyra år för AI-system som omfattas av bilaga III, på grundval av en ny bedömning i enlighet med det tillämpliga förfarandet för bedömning av överensstämmelse. Eventuella tillägg till ett intyg ska vara giltiga, förutsatt att intyget är giltigt.
+
+3\. Om ett anmält organ konstaterar att ett AI-system inte längre uppfyller de krav som fastställs i avsnitt 2, ska det, med beaktande av proportionalitetsprincipen, tillfälligt eller slutligt återkalla det utfärdade intyget eller införa begränsningar för det, om det inte säkerställs att dessa krav uppfylls genom att systemleverantören vidtar lämpliga korrigerande åtgärder inom en rimlig tidsgräns som fastställts av det anmälda organet. Det anmälda organet ska motivera sitt beslut.
+
+Det ska finnas ett förfarande för överklagande av de anmälda organens beslut, inbegripet om utfärdade intyg om överensstämmelse.
+
+### Artikel 45 – Anmälda organs informationsskyldighet
+
+1\. Anmälda organ ska informera den anmälande myndigheten om följande:
+
+a) Alla eventuella unionsintyg om bedömning av teknisk dokumentation, tillägg till dessa intyg samt godkännanden av kvalitetsstyrningssystem som utfärdats i enlighet med kraven i bilaga VII.
+
+b) Eventuella avslag, begränsningar, tillfälliga återkallelser eller tillbakadraganden av ett unionsintyg om bedömning av teknisk dokumentation eller av ett godkännande av kvalitetsstyrningssystem som utfärdats i enlighet med kraven i bilaga VII.
+
+c) Omständigheter som inverkar på omfattningen av eller villkoren för anmälan.
+
+d) Begäranden från marknadskontrollmyndigheterna om information om bedömningar av överensstämmelse.
+
+e) På begäran, bedömningar av överensstämmelse som gjorts inom ramen för anmälan och all annan verksamhet, inklusive gränsöverskridande verksamhet och underentreprenad.
+
+2\. Varje anmält organ ska underrätta de övriga anmälda organen om följande:
+
+a) Godkännanden av kvalitetsstyrningssystem som det har vägrat utfärda eller tillfälligt återkallat eller dragit tillbaka och, på begäran, godkännanden av kvalitetsstyrningssystem som det har utfärdat.
+
+b) Unionsintyg om bedömning av teknisk dokumentation eller tillägg till dessa intyg som det har avslagit, tillfälligt återkallat eller dragit tillbaka eller på annat sätt begränsat och, på begäran, de intyg och/eller tillägg till dessa som det har utfärdat.
+
+3\. Varje anmält organ ska ge de andra anmälda organ som utför liknande bedömningar av överensstämmelse avseende samma typer av AI-system relevant information om frågor som rör negativa och, på begäran, positiva resultat av bedömningar av överensstämmelse.
+
+4\. Anmälda organ ska säkerställa att den information som de erhåller behandlas konfidentiellt, i enlighet med artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling).
+
+### Artikel 46 – Undantag från förfarandena för bedömning av överensstämmelse
+
+1\. Genom undantag från artikel [43](#artikel-43-bedömning-av-överensstämmelse) och på vederbörligen motiverad begäran får varje marknadskontrollmyndighet, av exceptionella skäl som rör allmän säkerhet eller skydd av människors liv och hälsa, miljöskydd eller skydd av viktiga industriella och infrastrukturella tillgångar, tillåta att specifika AI-system med hög risk släpps ut på marknaden eller tas i bruk inom den berörda medlemsstatens territorium. Tillståndet ska gälla under en begränsad period, medan de nödvändiga förfarandena för bedömning av överensstämmelse genomförs, med beaktande av de exceptionella skäl som motiverar undantaget. Dessa förfaranden ska slutföras utan oskäligt dröjsmål.
+
+2\. I en vederbörligen motiverad brådskande situation får brottsbekämpande myndigheter eller civilskyddsmyndigheter av exceptionella skäl som rör allmän säkerhet eller vid ett specifikt, betydande och överhängande hot mot fysiska personers liv eller fysiska säkerhet ta ett specifikt AI-system med hög risk i bruk utan det tillstånd som avses i punkt 1, förutsatt att ett sådant tillstånd begärs under eller efter användningen utan oskäligt dröjsmål. Om det tillstånd som avses i punkt 1 nekas ska användningen av AI-systemet med hög risk avbrytas med omedelbar verkan, och alla resultat och utdata från sådan användning ska omedelbart kasseras.
+
+3\. Det tillstånd som avses i punkt 1 ska utfärdas endast om marknadskontrollmyndigheten konstaterar att AI-systemet med hög risk uppfyller kraven i avsnitt 2. Marknadskontrollmyndigheten ska informera kommissionen och de andra medlemsstaterna om eventuella tillstånd som utfärdats enligt punkterna 1 och 2. Denna skyldighet omfattar inte känsliga operativa uppgifter som rör de brottsbekämpande myndigheternas verksamhet.
+
+4\. Tillståndet ska anses vara motiverat om ingen medlemsstat eller kommissionen har gjort någon invändning inom 15 kalenderdagar från mottagandet av den information som avses i punkt 3 om ett tillstånd utfärdat av en marknadskontrollmyndighet i en medlemsstat i enlighet med punkt 1.
+
+5\. Om en medlemsstat inom 15 kalenderdagar från mottagandet av den anmälan som avses i punkt 3 gör en invändning mot ett tillstånd som utfärdats av en marknadskontrollmyndighet i en annan medlemsstat, eller om kommissionen anser att tillståndet strider mot unionsrätten, eller att medlemsstatens slutsats om systemets överensstämmelse som avses i punkt 3 är ogrundad, ska kommissionen utan dröjsmål inleda samråd med den berörda medlemsstaten. De berörda operatörerna ska rådfrågas och ha möjlighet att framföra sina åsikter. Med beaktande av detta ska kommissionen besluta om tillståndet är motiverat eller inte. Kommissionen ska rikta sitt beslut till den berörda medlemsstaten och till de berörda operatörerna.
+
+6\. Om kommissionen anser att tillståndet är omotiverat ska det dras tillbaka av den berörda medlemsstatens marknadskontrollmyndighet.
+
+7\. För AI-system med hög risk som är relaterade till produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I ska endast de undantag från bedömningen av överensstämmelse som fastställs i den unionsharmoniseringslagstiftningen tillämpas.
+
+### Artikel 47 – EU-försäkran om överensstämmelse
+
+1\. Leverantören ska upprätta en skriftlig maskinläsbar, fysisk eller elektroniskt undertecknad EU-försäkran om överensstämmelse för varje AI-system med hög risk och kunna uppvisa den för de nationella behöriga myndigheterna i tio år efter det att AI-systemet med hög risk har släppts ut på marknaden eller tagits i bruk. I EU-försäkran om överensstämmelse ska det anges för vilket AI-system med hög risk den har upprättats. En kopia av EU-försäkran om överensstämmelse ska på begäran lämnas in till de berörda nationella behöriga myndigheterna.
+
+2\. I EU-försäkran om överensstämmelse ska det anges att det berörda AI-systemet med hög risk uppfyller kraven i avsnitt 2. EU-försäkran om överensstämmelse ska innehålla den information som anges i bilaga V och ska översättas till ett språk som är lätt att förstå för de nationella behöriga myndigheterna i de medlemsstater där AI-systemet med hög risk släpps ut på marknaden eller tillhandahålls.
+
+3\. Om AI-system med hög risk omfattas av annan unionsharmoniseringslagstiftning som också kräver en EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas med avseende på all unionsrätt som är tillämplig på AI-systemet med hög risk. Försäkran ska innehålla all information som krävs för att identifiera vilken unionsharmoniseringslagstiftning som försäkran gäller.
+
+4\. Genom att upprätta EU-försäkran om överensstämmelse ska leverantören ta på sig ansvaret för att kraven i avsnitt 2 uppfylls. Leverantören ska hålla EU-försäkran om överensstämmelse uppdaterad på lämpligt sätt.
+
+5\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel 97 i för att ändra bilaga V genom att uppdatera innehållet i den EU-försäkran om överensstämmelse som anges i den bilagan, för att introducera element som blir nödvändiga mot bakgrund av teknisk utveckling.
+
+### Artikel 48 – CE-märkning
+
+1\. CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+2\. För AI-system med hög risk som tillhandahålls digitalt ska en digital CE-märkning användas endast om den lätt kan nås via det gränssnitt från vilket det systemet är tillgängligt eller via en lättillgänglig maskinläsbar kod eller andra elektroniska medel.
+
+3\. CE-märkningen ska anbringas på AI-system med hög risk så att den är synlig, läsbar och outplånlig. Om detta inte är möjligt eller lämpligt på grund av arten av AI-system med hög risk, ska märkningen anbringas på förpackningen eller den medföljande dokumentationen, beroende på vad som är lämpligt.
+
+4\. CE-märkningen ska i tillämpliga fall åtföljas av identifikationsnumret för det anmälda organ som ansvarar för de förfaranden för bedömning av överensstämmelse som föreskrivs i artikel [43](#artikel-43-bedömning-av-överensstämmelse). Det anmälda organets identifikationsnummer ska anbringas av organet självt eller, enligt organets anvisningar, av leverantören eller av leverantörens ombud. Identifikationsnumret ska också anges i reklammaterial där det nämns att AI-systemet med hög risk uppfyller kraven för CE-märkning.
+
+5\. Om AI-system med hög risk omfattas av annan unionsrätt som också föreskriver anbringande av CE-märkning ska CE-märkningen visa att AI-systemet med hög risk också uppfyller kraven i den andra lagstiftningen.
+
+### Artikel 49 – Registrering
+
+1\. Innan ett AI-system med hög risk som förtecknas i bilaga III, med undantag för AI-system med hög risk som avses i punkt 2 i bilaga III, släpps ut på marknaden eller tas i bruk ska leverantören eller, i tillämpliga fall, ombudet registrera sig självt och systemet i den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii).
+
+2\. Innan ett AI-system för vilket leverantören har fastställt att det inte är ett AI-system med hög risk enligt artikel [6.3](#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) släpps ut på marknaden eller tas i bruk ska leverantören eller, i tillämpliga fall, ombudet registrera sig självt och detta system i den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii).
+
+3\. Innan ett AI-system med hög risk som förtecknas i bilaga III, med undantag för AI-system med hög risk som förtecknas i punkt 2 i bilaga III, tas i bruk eller används, ska tillhandahållare som är offentliga myndigheter, unionens institutioner, byråer eller organ eller personer som agerar på deras vägnar, registrera sig, välja systemet och registrera dess användning i den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii).
+
+4\. För AI-system med hög risk som avses i punkterna 1, 6 och 7 i bilaga III, på områdena brottsbekämpning, migration, asyl och gränskontrollförvaltning, ska den registrering som avses i punkterna 1, 2 och 3 i [denna artikel](#artikel-49-registrering) vara i en säker, icke-offentlig del av den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) och ska, beroende på vad som är tillämpligt, omfatta endast följande information som avses i
+
+a) avsnitt A punkterna 1–10 i bilaga VIII, med undantag för punkterna 6, 8 och 9,
+
+b) avsnitt B punkterna 1–5, 8 och 9 i bilaga VIII,
+
+c) avsnitt C punkterna 1–3 i bilaga VIII,
+
+d) punkterna 1, 2, 3 och 5 i bilaga IX.
+
+Endast kommissionen och de nationella myndigheter som avses i artikel [74.8](/lagstiftning/ai/kap-9#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden) ska ha åtkomst till de respektive begränsade delar av EU-databasen som förtecknas i första stycket i denna punkt.
+
+5\. De AI-system med hög risk som avses i punkt 2 i bilaga III ska registreras på nationell nivå.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

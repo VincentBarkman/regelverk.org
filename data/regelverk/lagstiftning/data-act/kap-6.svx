@@ -1,0 +1,153 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel VI'
+'title': 'Kapitel VI – BYTE AV DATABEHANDLINGSTJÄNSTER'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel VI.'
+'designation': 'Dataförordningen Kapitel VI'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_VI'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 23 – Undanröjande av hinder för ett effektivt byte
+
+Leverantörer av databehandlingstjänster ska vidta de åtgärder som föreskrivs i artiklarna [25](#artikel-25-avtalsvillkor-om-byte), [26](#artikel-26-informationsskyldighet-för-leverantörer-av-databehandlingstjänster), [27](#artikel-27-skyldighet-att-handla-i-god-tro), [29](#artikel-29-gradvist-avskaffande-av-bytesavgifter) och [30](#artikel-30-tekniska-aspekter-av-byte) för att göra det möjligt för kunder att byta till en databehandlingstjänst som omfattar samma tjänstetyp och som tillhandahålls av en annan leverantör av databehandlingstjänster, eller till lokal IKT-infrastruktur, eller, i förekommande fall, att använda flera leverantörer av databehandlingstjänster samtidigt. I synnerhet ska leverantörer av databehandlingstjänster inte införa utan i stället undanröja förkommersiella, kommersiella, tekniska, avtalsmässiga och organisatoriska hinder som hindrar kunderna från att
+
+a) säga upp avtalet om databehandlingstjänsten efter den maximala uppsägningstiden och efter det att bytesprocessen har slutförts med framgång, i enlighet med artikel [25](#artikel-25-avtalsvillkor-om-byte),
+
+b) ingå nya avtal med en annan leverantör av databehandlingstjänster som täcker samma tjänstetyp,
+
+c) portera kundens exporterbara data och digitala tillgångar till en annan leverantör av databehandlingstjänster eller till lokal IKT-infrastruktur, även efter att ha utnyttjat ett gratiserbjudande,
+
+d) i enlighet med artikel [24](#artikel-24-tillämpningsområdet-för-de-tekniska-skyldigheterna) uppnå funktionell likvärdighet i användningen av den nya databehandlingstjänsten i IKT-miljön hos en annan leverantör av databehandlingstjänster som omfattar samma tjänstetyp,
+
+e) om det är tekniskt möjligt separera de databehandlingstjänster som avses i artikel [30.1](#artikel-30-tekniska-aspekter-av-byte) från andra databehandlingstjänster som tillhandahålls av leverantören av databehandlingstjänster.
+
+### Artikel 24 – Tillämpningsområdet för de tekniska skyldigheterna
+
+Ansvaret för leverantörer av databehandlingstjänster enligt artiklarna [23](#artikel-23-undanröjande-av-hinder-för-ett-effektivt-byte), [25](#artikel-25-avtalsvillkor-om-byte), [29](#artikel-29-gradvist-avskaffande-av-bytesavgifter), [30](#artikel-30-tekniska-aspekter-av-byte) och [34](/lagstiftning/data-act/kap-8#artikel-34-interoperabilitet-för-parallell-användning-av-databehandlingstjänster) ska endast gälla de tjänster, avtal eller affärsmetoder som tillhandahålls av den ursprungliga leverantören av databehandlingstjänster.
+
+### Artikel 25 – Avtalsvillkor om byte
+
+1\. Kundens rättigheter och leverantörens skyldigheter vad gäller ett byte av leverantör av databehandlingstjänster eller, i tillämpliga fall, till lokal IKT-infrastruktur ska tydligt anges i ett skriftligt avtal. Leverantören av databehandlingstjänster ska göra detta avtal tillgängligt för kunden före undertecknandet av avtalet på ett sätt som gör det möjligt för kunden att lagra och återge avtalet.
+
+2\. Utan att det påverkar tillämpningen av [direktiv (EU) 2019/770](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0770) ska det avtal som avses i punkt 1 i [denna artikel](#artikel-25-avtalsvillkor-om-byte) innehålla åtminstone följande:
+
+a) Villkor som gör det möjligt för kunden att på begäran byta till en databehandlingstjänst som erbjuds av en annan leverantör av databehandlingstjänster eller att portera alla exporterbara data och digitala tillgångar till lokal IKT-infrastruktur, utan oskäligt dröjsmål och under alla omständigheter senast efter den maximala övergångsperioden på 30 kalenderdagar, som ska inledas efter den maximala uppsägningstid som avses i led d, under vilken tjänsteavtalet fortfarande är tillämpligt och under vilken leverantören av databehandlingstjänster ska
+
+i) ge kunden och tredje parter som kunden har godkänt rimligt bistånd i bytesprocessen,
+
+ii) iaktta vederbörlig omsorg för att upprätthålla driftskontinuitet och fortsätta att tillhandahålla funktioner eller tjänster enligt avtalet,
+
+iii) tillhandahålla tydlig information om kända risker för kontinuiteten i tillhandahållandet av funktioner eller tjänster från den ursprungliga leverantören av databehandlingstjänster,
+
+iv) säkerställa att en hög säkerhetsnivå upprätthålls under hela bytesprocessen, särskilt säkerheten för data under överföringen och den fortsatta säkerheten för dessa data under den period för datahämtning som avses i led g, i enlighet med tillämplig unionsrätt eller nationell rätt.
+
+b) En skyldighet för leverantören av databehandlingstjänster att stödja den utträdesstrategi för kunden som är relevant för de avtalade tjänsterna, bland annat genom att tillhandahålla all relevant information.
+
+c) Ett villkor som anger att avtalet ska anses vara uppsagt och att kunden ska underrättas om detta i något av följande fall:
+
+i) I tillämpliga fall, efter ett framgångsrikt slutförande av bytesprocessen.
+
+ii) Vid utgången av den maximala uppsägningstid som avses i led d, om kunden inte vill byta utan radera sina exporterbara data och digitala tillgångar när tjänsten upphör.
+
+d) En maximal uppsägningstid för inledande av bytesprocessen, som inte får överstiga två månader.
+
+e) En uttömmande specifikation av alla kategorier av data och digitala tillgångar som kan porteras under bytesprocessen, inklusive åtminstone alla exporterbara data.
+
+f) En uttömmande specifikation av alla kategorier av data som är specifika för att leverantörens databehandlingstjänsten ska fungera internt och som ska undantas från de exporterbara data enligt led e om det finns en risk för överträdelse med avseende på leverantörens företagshemligheter, förutsatt att sådana undantag inte hindrar eller försenar den bytesprocess som föreskrivs i artikel [23](#artikel-23-undanröjande-av-hinder-för-ett-effektivt-byte).
+
+g) En minimiperiod för datahämtning på minst 30 kalenderdagar, med början efter det att den övergångsperiod som överenskommits mellan kunden och leverantören av databehandlingstjänster har löpt ut, i enlighet med led a i denna punkt och punkt 4.
+
+h) Ett villkor som säkerställer fullständig radering av alla exporterbara data och digitala tillgångar som genereras direkt av kunden eller som direkt berör kunden, efter utgången av den period för datahämtning som avses i led g eller efter utgången av en alternativ överenskommen period vid en senare tidpunkt än den dag då den period för datahämtning som avses i led g löper ut, förutsatt att bytesprocessen har slutförts med framgång.
+
+i) Bytesavgifter som får införas av leverantörer av databehandlingstjänster i enlighet med artikel [29](#artikel-29-gradvist-avskaffande-av-bytesavgifter).
+
+3\. Det avtal som avses i punkt 1 ska innehålla klausuler enligt vilka kunden får underrätta leverantören av databehandlingstjänster om sitt beslut att vidta en eller flera av följande åtgärder när den maximala uppsägningstid som avses i punkt 2 d löper ut:
+
+a) Byta till en annan leverantör av databehandlingstjänster; kunden ska i så fall tillhandahålla nödvändiga uppgifter om den leverantören.
+
+b) Byta till lokal IKT-infrastruktur.
+
+c) Radera sina exporterbara data och digitala tillgångar.
+
+4\. Om den obligatoriska maximala övergångsperiod som föreskrivs i punkt 2 a är tekniskt ogenomförbar ska leverantören av databehandlingstjänster underrätta kunden inom 14 arbetsdagar efter det att begäran om byte gjorts och vederbörligen motivera varför det är tekniskt ogenomförbart samt ange en alternativ övergångsperiod, som inte får överstiga sju månader. I enlighet med punkt 1 ska driftskontinuitet säkerställas under hela den alternativa övergångsperiod.
+
+5\. Utan att det påverkar tillämpningen av punkt 4 ska det avtal som avses i punkt 1 innehålla klausuler som ger kunden rätt att förlänga övergångsperioden en gång med en tidsperiod som kunden anser lämpligare för sina egna ändamål.
+
+### Artikel 26 – Informationsskyldighet för leverantörer av databehandlingstjänster
+
+Leverantören av databehandlingstjänster ska förse kunden med
+
+a) information om tillgängliga förfaranden för byte och portering till databehandlingstjänsten, inbegripet information om tillgängliga metoder och format för byten och portering samt tekniska och andra begränsningar som leverantören av databehandlingstjänster känner till,
+
+b) en hänvisning till ett uppdaterat onlineregister som sköts av leverantören av databehandlingstjänster, med uppgifter om alla datastrukturer och dataformat samt relevanta standarder och öppna interoperabilitetsspecifikationer i vilka de exporterbara data som avses i artikel [25.2 e](#artikel-25-avtalsvillkor-om-byte) är tillgängliga.
+
+### Artikel 27 – Skyldighet att handla i god tro
+
+Alla berörda parter, inbegripet destinationsleverantörer av databehandlingstjänster, ska samarbeta i god tro för att göra bytesprocessen effektiv, möjliggöra snabb överföring av data och bibehålla databehandlingstjänstens kontinuitet.
+
+### Artikel 28 – Avtalsenliga insynsskyldigheter i fråga om internationell åtkomst och överföring
+
+1\. Leverantörer av databehandlingstjänster ska göra följande information tillgänglig på sina webbplatser och hålla den informationen uppdaterad:
+
+a) Vilken jurisdiktion som den IKT-infrastruktur som används för databehandling av deras enskilda tjänster tillhör.
+
+b) En allmän beskrivning av de tekniska, organisatoriska och avtalsmässiga åtgärder som leverantören av databehandlingstjänster vidtagit för att förhindra internationell statlig åtkomst till eller överföring av icke-personuppgifter som innehas i unionen, om en sådan åtkomst eller överföring skulle strida mot unionsrätten eller den berörda medlemsstatens nationella rätt.
+
+2\. De webbplatser som avses i punkt 1 ska förtecknas i avtal för alla databehandlingstjänster som erbjuds av leverantörer av databehandlingstjänster.
+
+### Artikel 29 – Gradvist avskaffande av bytesavgifter
+
+1\. Från och med den 12 januari 2027 får leverantörer av databehandlingstjänster inte ta ut några bytesavgifter av kunden för bytesprocessen.
+
+2\. Från och med den 11 januari 2024 till och med 12 januari 2027 får leverantörer av databehandlingstjänster ta ut nedsatta bytesavgifter av kunden för bytesprocessen.
+
+3\. De nedsatta bytesavgifter som avses i punkt 2 får inte överstiga de kostnader som är direkt kopplade till den berörda bytesprocessen som uppstår för leverantören av databehandlingstjänster.
+
+4\. Innan leverantörer av databehandlingstjänster ingår avtal med en kund ska de förse den presumtiva kunden med tydlig information om vilka standardavgifter och straffavgifter för förtida uppsägning som kan komma att utkrävas, samt om de nedsatta bytesavgifterna som kan komma att utkrävas under den tidsperiod som avses i punkt 2.
+
+5\. I förekommande fall ska leverantörer av databehandlingstjänster tillhandahålla information till en kund om databehandlingstjänster som inbegriper mycket komplexa eller kostsamma byten eller för vilka det är omöjligt att byta utan betydande störningar i data, digitala tillgångar eller tjänstearkitektur.
+
+6\. I tillämpliga fall ska leverantörerna av databehandlingstjänster göra den information som avses i punkterna 4 och 5 allmänt tillgänglig för kunderna via en särskild del av sin webbplats eller på något annat lättillgängligt sätt.
+
+7\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [45](/lagstiftning/data-act/kap-11#artikel-45-utövande-av-delegeringen) med avseende på att komplettera [denna förordning](/lagstiftning/data-act) genom att inrätta en övervakningsmekanism som låter kommissionen övervaka de bytesavgifter som tas ut av leverantörer av databehandlingstjänster på marknaden för att säkerställa att avskaffandet och nedsättningen av bytesavgifter enligt punkterna 1 och 2 i [den här artikeln](#artikel-29-gradvist-avskaffande-av-bytesavgifter) kommer att genomföras i enlighet med de tidsfrister som föreskrivs i de punkterna.
+
+### Artikel 30 – Tekniska aspekter av byte
+
+1\. Leverantörer av databehandlingstjänster som avser skalbara och elastiska datorresurser begränsade till infrastrukturella element såsom servrar, nät och de virtuella resurser som krävs för driften av infrastrukturen, men som inte ger åtkomst till de operativa tjänster, den programvara och de applikationer som lagras, på annat sätt behandlas eller används på dessa infrastrukturkomponenter ska, i enlighet med artikel [27](#artikel-27-skyldighet-att-handla-i-god-tro), vidta alla rimliga åtgärder som står i deras makt för att underlätta för kunden att, efter att denna har bytt till en tjänst som omfattar samma tjänstetyp, uppnå funktionell likvärdighet vid användningen av den destinationstjänsten för databehandling. Den ursprungliga leverantören av databehandlingstjänster ska underlätta bytesprocessen genom att tillhandahålla kapacitet, adekvat information, dokumentation, tekniskt stöd och, vid behov, nödvändiga verktyg.
+
+2\. Andra leverantörer av databehandlingstjänster än de som avses i punkt 1 ska göra öppna gränssnitt tillgängliga i samma utsträckning för alla sina kunder och de berörda destinationsleverantörerna av databehandlingstjänster och kostnadsfritt i syfte att underlätta bytesprocessen. Dessa gränssnitt ska innehålla tillräcklig information om den berörda tjänsten för att möjliggöra utveckling av programvara för kommunikation med tjänsterna, i syfte att åstadkomma dataportabilitet och interoperabilitet.
+
+3\. För andra databehandlingstjänster än de som avses i punkt 1 i [denna artikel](#artikel-30-tekniska-aspekter-av-byte) ska leverantörer av databehandlingstjänster säkerställa kompatibilitet med gemensamma specifikationer som bygger på öppna interoperabilitetsspecifikationer eller harmoniserade standarder för interoperabilitet minst tolv månader efter det att hänvisningarna till dessa gemensamma specifikationer eller harmoniserade standarder för interoperabla databehandlingstjänster offentliggjordes i det centrala unionsregistret över standarder för interoperabla databehandlingstjänster efter offentliggörandet av de underliggande genomförandeakterna i Europeiska unionens officiella tidning i enlighet med artikel [35.8](/lagstiftning/data-act/kap-8#artikel-35-interoperabilitet-för-databehandlingstjänster).
+
+4\. Andra leverantörer av databehandlingstjänster än de som avses i punkt 1 i [denna artikel](#artikel-30-tekniska-aspekter-av-byte) ska uppdatera det onlineregister som avses i artikel 26 b i enlighet med sina skyldigheter enligt punkt 3 i [den här artikeln](#artikel-30-tekniska-aspekter-av-byte).
+
+5\. Vid byten mellan tjänster av samma tjänstetyp, för vilka gemensamma specifikationer eller harmoniserade standarder för interoperabla databehandlingstjänster som avses i punkt 3 i [denna artikel](#artikel-30-tekniska-aspekter-av-byte) inte har offentliggjorts i det centrala unionsregistret över standarder för interoperabla databehandlingstjänster i enlighet med artikel [35.8](/lagstiftning/data-act/kap-8#artikel-35-interoperabilitet-för-databehandlingstjänster), ska leverantören av databehandlingstjänsterna på kundens begäran exportera alla exporterbara data i ett strukturerat, allmänt använt och maskinläsbart format.
+
+6\. Leverantörer av databehandlingstjänster ska inte vara skyldiga att utveckla ny teknik eller nya tjänster, eller att röja eller överföra digitala tillgångar som skyddas genom immateriella rättigheter eller utgör en företagshemlighet till en kund eller en annan leverantör av databehandlingstjänster eller att äventyra kundens eller leverantörens driftssäkerhet och driftsintegritet.
+
+### Artikel 31 – Särskild ordning för vissa databehandlingstjänster
+
+1\. De skyldigheter som fastställs i artiklarna 23 d, [29](#artikel-29-gradvist-avskaffande-av-bytesavgifter), [30.1](#artikel-30-tekniska-aspekter-av-byte) och [30.3](#artikel-30-tekniska-aspekter-av-byte) ska inte tillämpas på databehandlingstjänster där de flesta huvudfunktioner har skräddarsytts för att tillgodose en enskild kunds särskilda behov eller där alla komponenter har utvecklats för en enskild kunds räkning, och om dessa databehandlingstjänster inte erbjuds i stor kommersiell skala via tjänstekatalogen hos leverantören av databehandlingstjänster.
+
+2\. De skyldigheter som fastställs i [detta kapitel](/lagstiftning/data-act/kap-6) ska inte tillämpas på databehandlingstjänster som tillhandahålls som en icke-produktionsversion för testnings- och utvärderingsändamål och under en begränsad tidsperiod.
+
+3\. Innan ett avtal om tillhandahållande av de databehandlingstjänster som avses i [denna artikel](#artikel-31-särskild-ordning-för-vissa-databehandlingstjänster) ingås ska leverantören av databehandlingstjänster informera den potentiella kunden om vilka skyldigheter i [detta kapitel](/lagstiftning/data-act/kap-6) som inte är tillämpliga.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

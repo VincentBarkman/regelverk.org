@@ -1,0 +1,37 @@
+---
+'name': 'Data Act'
+'title': 'Regulation (EU) 2023/2854 of the European Parliament and of the Council'
+'type': 'eu-regulation'
+'description': 'EU regulation on harmonised rules on fair access to and use of data.'
+'designation': 'EU 2023/2854'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2023-12-22'
+'applies-from': '2025-09-12'
+'sites':
+  - 'it'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – GENERAL PROVISIONS](/lagstiftning/data-act/kap-1) · Articles 1–2
+- [Chapter II – BUSINESS TO CONSUMER AND BUSINESS TO BUSINESS DATA SHARING](/lagstiftning/data-act/kap-2) · Articles 3–7
+- [Chapter III – OBLIGATIONS FOR DATA HOLDERS OBLIGED TO MAKE DATA AVAILABLE PURSUANT TO UNION LAW](/lagstiftning/data-act/kap-3) · Articles 8–12
+- [Chapter IV – UNFAIR CONTRACTUAL TERMS RELATED TO DATA ACCESS AND USE BETWEEN ENTERPRISES](/lagstiftning/data-act/kap-4)
+- [Chapter V – MAKING DATA AVAILABLE TO PUBLIC SECTOR BODIES, THE COMMISSION, THE EUROPEAN CENTRAL BANK AND UNION BODIES ON THE BASIS OF AN EXCEPTIONAL NEED](/lagstiftning/data-act/kap-5) · Articles 14–22
+- [Chapter VI – SWITCHING BETWEEN DATA PROCESSING SERVICES](/lagstiftning/data-act/kap-6) · Articles 23–31
+- [Chapter VII – UNLAWFUL INTERNATIONAL GOVERNMENTAL ACCESS AND TRANSFER OF NON-PERSONAL DATA](/lagstiftning/data-act/kap-7)
+- [Chapter VIII – INTEROPERABILITY](/lagstiftning/data-act/kap-8) · Articles 33–36
+- [Chapter IX – IMPLEMENTATION AND ENFORCEMENT](/lagstiftning/data-act/kap-9) · Articles 37–42
+- [Chapter X – SUI GENERIS RIGHT UNDER DIRECTIVE 96/9/EC](/lagstiftning/data-act/kap-10)
+- [Chapter XI – FINAL PROVISIONS](/lagstiftning/data-act/kap-11) · Articles 44–50
+<!-- scan-laws:end -->

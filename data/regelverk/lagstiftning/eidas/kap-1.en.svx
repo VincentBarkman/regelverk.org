@@ -1,0 +1,151 @@
+---
+'source': 'eidas'
+'ref': 'Chapter I'
+'title': 'Chapter I – GENERAL PROVISIONS'
+'kind': 'chapter'
+'description': 'eIDAS Regulation, Chapter I.'
+'designation': 'eIDAS Regulation Chapter I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_I'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 1 – Subject matter
+
+With a view to ensuring the proper functioning of the internal market while aiming at an adequate level of security of electronic identification means and trust services [this Regulation](/lagstiftning/eidas):
+
+(a) lays down the conditions under which Member States recognise electronic identification means of natural and legal persons falling under a notified electronic identification scheme of another Member State;
+
+(b) lays down rules for trust services, in particular for electronic transactions; and
+
+(c) establishes a legal framework for electronic signatures, electronic seals, electronic time stamps, electronic documents, electronic registered delivery services and certificate services for website authentication.
+
+### Article 2 – Scope
+
+1\. [This Regulation](/lagstiftning/eidas) applies to electronic identification schemes that have been notified by a Member State, and to trust service providers that are established in the Union.
+
+2\. [This Regulation](/lagstiftning/eidas) does not apply to the provision of trust services that are used exclusively within closed systems resulting from national law or from agreements between a defined set of participants.
+
+3\. [This Regulation](/lagstiftning/eidas) does not affect national or Union law related to the conclusion and validity of contracts or other legal or procedural obligations relating to form.
+
+### Article 3 – Definitions
+
+For the purposes of [this Regulation](/lagstiftning/eidas), the following definitions apply:
+
+#### Footnotes
+
+(1) ‘electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person;
+
+(2) ‘electronic identification means’ means a material and/or immaterial unit containing person identification data and which is used for authentication for an online service;
+
+(3) ‘person identification data’ means a set of data enabling the identity of a natural or legal person, or a natural person representing a legal person to be established;
+
+(4) ‘electronic identification scheme’ means a system for electronic identification under which electronic identification means are issued to natural or legal persons, or natural persons representing legal persons;
+
+(5) ‘authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;
+
+(6) ‘relying party’ means a natural or legal person that relies upon an electronic identification or a trust service;
+
+(7) ‘public sector body’ means a state, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law, or a private entity mandated by at least one of those authorities, bodies or associations to provide public services, when acting under such a mandate;
+
+(8) ‘body governed by public law’ means a body defined in point (4) of Article [2](#article-2-scope)(1) of [Directive 2014/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0024) of the European Parliament and of the Council (15);
+
+(9) ‘signatory’ means a natural person who creates an electronic signature;
+
+(10) ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign;
+
+(11) ‘advanced electronic signature’ means an electronic signature which meets the requirements set out in Article [26](/lagstiftning/eidas/kap-3#article-26-requirements-for-advanced-electronic-signatures);
+
+(12) ‘qualified electronic signature’ means an advanced electronic signature that is created by a qualified electronic signature creation device, and which is based on a qualified certificate for electronic signatures;
+
+(13) ‘electronic signature creation data’ means unique data which is used by the signatory to create an electronic signature;
+
+(14) ‘certificate for electronic signature’ means an electronic attestation which links electronic signature validation data to a natural person and confirms at least the name or the pseudonym of that person;
+
+(15) ‘qualified certificate for electronic signature’ means a certificate for electronic signatures, that is issued by a qualified trust service provider and meets the requirements laid down in Annex I;
+
+(16) ‘trust service’ means an electronic service normally provided for remuneration which consists of:
+
+(a) the creation, verification, and validation of electronic signatures, electronic seals or electronic time stamps, electronic registered delivery services and certificates related to those services, or
+
+(b) the creation, verification and validation of certificates for website authentication; or
+
+(c) the preservation of electronic signatures, seals or certificates related to those services;
+
+(17) ‘qualified trust service’ means a trust service that meets the applicable requirements laid down in [this Regulation](/lagstiftning/eidas);
+
+(18) ‘conformity assessment body’ means a body defined in point 13 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765), which is accredited in accordance with that Regulation as competent to carry out conformity assessment of a qualified trust service provider and the qualified trust services it provides;
+
+(19) ‘trust service provider’ means a natural or a legal person who provides one or more trust services either as a qualified or as a non-qualified trust service provider;
+
+(20) ‘qualified trust service provider’ means a trust service provider who provides one or more qualified trust services and is granted the qualified status by the supervisory body;
+
+(21) ‘product’ means hardware or software, or relevant components of hardware or software, which are intended to be used for the provision of trust services;
+
+(22) ‘electronic signature creation device’ means configured software or hardware used to create an electronic signature;
+
+(23) ‘qualified electronic signature creation device’ means an electronic signature creation device that meets the requirements laid down in Annex II;
+
+(24) ‘creator of a seal’ means a legal person who creates an electronic seal;
+
+(25) ‘electronic seal’ means data in electronic form, which is attached to or logically associated with other data in electronic form to ensure the latter’s origin and integrity;
+
+(26) ‘advanced electronic seal’ means an electronic seal, which meets the requirements set out in Article [36](/lagstiftning/eidas/kap-3#article-36-requirements-for-advanced-electronic-seals);
+
+(27) ‘qualified electronic seal’ means an advanced electronic seal, which is created by a qualified electronic seal creation device, and that is based on a qualified certificate for electronic seal;
+
+(28) ‘electronic seal creation data’ means unique data, which is used by the creator of the electronic seal to create an electronic seal;
+
+(29) ‘certificate for electronic seal’ means an electronic attestation that links electronic seal validation data to a legal person and confirms the name of that person;
+
+(30) ‘qualified certificate for electronic seal’ means a certificate for an electronic seal, that is issued by a qualified trust service provider and meets the requirements laid down in Annex III;
+
+(31) ‘electronic seal creation device’ means configured software or hardware used to create an electronic seal;
+
+(32) ‘qualified electronic seal creation device’ means an electronic seal creation device that meets mutatis mutandis the requirements laid down in Annex II;
+
+(33) ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time;
+
+(34) ‘qualified electronic time stamp’ means an electronic time stamp which meets the requirements laid down in Article [42](/lagstiftning/eidas/kap-3#article-42-requirements-for-qualified-electronic-time-stamps);
+
+(35) ‘electronic document’ means any content stored in electronic form, in particular text or sound, visual or audiovisual recording;
+
+(36) ‘electronic registered delivery service’ means a service that makes it possible to transmit data between third parties by electronic means and provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;
+
+(37) ‘qualified electronic registered delivery service’ means an electronic registered delivery service which meets the requirements laid down in Article [44](/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services);
+
+(38) ‘certificate for website authentication’ means an attestation that makes it possible to authenticate a website and links the website to the natural or legal person to whom the certificate is issued;
+
+(39) ‘qualified certificate for website authentication’ means a certificate for website authentication, which is issued by a qualified trust service provider and meets the requirements laid down in Annex IV;
+
+(40) ‘validation data’ means data that is used to validate an electronic signature or an electronic seal;
+
+(41) ‘validation’ means the process of verifying and confirming that an electronic signature or a seal is valid.
+
+### Article 4 – Internal market principle
+
+1\. There shall be no restriction on the provision of trust services in the territory of a Member State by a trust service provider established in another Member State for reasons that fall within the fields covered by [this Regulation](/lagstiftning/eidas).
+
+2\. Products and trust services that comply with [this Regulation](/lagstiftning/eidas) shall be permitted to circulate freely in the internal market.
+
+### Article 5 – Data processing and protection
+
+1\. Processing of personal data shall be carried out in accordance with [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046).
+
+2\. Without prejudice to the legal effect given to pseudonyms under national law, the use of pseudonyms in electronic transactions shall not be prohibited.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

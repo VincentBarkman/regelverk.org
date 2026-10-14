@@ -1,0 +1,258 @@
+---
+'source': 'ai'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel I.'
+'designation': 'AI-förordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_I'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Innehåll
+
+1\. Syftet med [denna förordning](/lagstiftning/ai) är att förbättra den inre marknadens funktion och främja användningen av människocentrerad och tillförlitlig artificiell intelligens (AI), samtidigt som en hög skyddsnivå säkerställs för hälsa, säkerhet och grundläggande rättigheter som fastställs i stadgan, inbegripet demokrati, rättsstatens principer och miljöskydd, mot de skadliga effekterna av AI-system i unionen, och att stödja innovation.
+
+2\. I [denna förordning](/lagstiftning/ai) fastställs
+
+a) harmoniserade regler för utsläppande på marknaden, ibruktagande och användning av AI-system i unionen,
+
+b) förbud mot vissa AI-användningsområden,
+
+c) särskilda krav för AI-system med hög risk och skyldigheter för operatörer av sådana system,
+
+d) harmoniserade transparensregler för vissa AI-system,
+
+e) harmoniserade regler för utsläppande på marknaden av AI-modeller för allmänna ändamål,
+
+f) regler om marknadsövervakning, marknadskontroll, styrning och kontroll av efterlevnad,
+
+g) åtgärder till stöd för innovation med särskild inriktning på små och medelstora företag, inbegripet uppstartsföretag.
+
+### Artikel 2 – Tillämpningsområde
+
+1\. [Denna förordning](/lagstiftning/ai) är tillämplig på
+
+a) leverantörer som släpper ut AI-system på marknaden eller tar sådana i bruk eller släpper ut AI-modeller för allmänna ändamål på marknaden i unionen, oavsett om dessa leverantörer är etablerade eller befinner sig i unionen eller i ett tredjeland,
+
+b) tillhandahållare av AI-system som har sin etableringsort eller befinner sig i unionen,
+
+c) leverantörer och tillhandahållare av AI-system som har sin etableringsort eller befinner sig i ett tredjeland, om de utdata som produceras av AI-systemet används i unionen,
+
+d) importörer och distributörer av AI-system,
+
+e) produkttillverkare som på marknaden släpper ut eller som tar i bruk ett AI-system tillsammans med sin produkt och i eget namn eller under eget varumärke,
+
+f) ombud för leverantörer som inte är etablerade i unionen,
+
+g) berörda personer som befinner sig i unionen.
+
+2\. För AI-system som klassificeras som AI-system med hög risk enligt artikel [6.1](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) och som är relaterade till produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt B i bilaga I är endast artiklarna [6.1](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk), [102](/lagstiftning/ai/kap-13#artikel-102-ändring-av-förordning-eg-nr-300-2008)-[109](/lagstiftning/ai/kap-13#artikel-109-ändring-av-förordning-eu-2019-2144) och [112](/lagstiftning/ai/kap-13#artikel-112-utvärdering-och-översyn) tillämpliga. Artikel [57](/lagstiftning/ai/kap-6#artikel-57-regulatoriska-sandlådor-för-ai) är endast tillämplig i den mån som kraven för AI-system med hög risk enligt [denna förordning](/lagstiftning/ai) har integrerats i den unionsharmoniseringslagstiftningen.
+
+3\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på områden som inte omfattas av unionsrättens tillämpningsområde och ska under alla omständigheter inte påverka medlemsstaternas befogenheter när det gäller nationell säkerhet, oavsett vilken typ av enhet som av medlemsstaterna har anförtrotts uppgiften i fråga om dessa befogenheter.
+
+[Denna förordning](/lagstiftning/ai) är inte tillämplig på AI-system om och i den mån de släpps ut på marknaden, tas i bruk eller används med eller utan ändring uteslutande för militära ändamål, försvarsändamål eller ändamål som rör nationell säkerhet, oavsett vilken typ av enhet som bedriver denna verksamhet.
+
+[Denna förordning](/lagstiftning/ai) är inte tillämplig på AI-system som inte släpps ut på marknaden eller tas i bruk i unionen, om utdata används i unionen uteslutande för militära ändamål, försvarsändamål eller ändamål som rör nationell säkerhet, oavsett vilken typ av enhet som bedriver denna verksamhet.
+
+4\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på offentliga myndigheter i ett tredjeland, eller på internationella organisationer som omfattas av [denna förordnings](/lagstiftning/ai) tillämpningsområde enligt punkt 1, om dessa myndigheter eller organisationer använder AI-system inom ramen för internationellt samarbete eller internationella avtal om brottsbekämpande och rättsligt samarbete med unionen eller med en eller flera medlemsstater, förutsatt att ett sådant tredjeland eller en sådan internationell organisation erbjuder lämpliga skyddsåtgärder med avseende på skyddet av enskildas grundläggande rättigheter och friheter.
+
+5\. [Denna förordning](/lagstiftning/ai) påverkar inte tillämpningen av bestämmelserna om ansvar för leverantörer av förmedlingstjänster i kapitel II i [förordning (EU) 2022/2065](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2065).
+
+6\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på AI-system eller AI-modeller, inbegripet deras utdata, som specifikt utvecklas och tas i bruk enbart i vetenskapligt forsknings- och utvecklingssyfte.
+
+7\. Unionsrätt om skydd av personuppgifter, integritet och konfidentialitet vid kommunikation är tillämplig på personuppgifter som behandlas i samband med de rättigheter och skyldigheter som fastställs i [denna förordning](/lagstiftning/ai). [Denna förordning](/lagstiftning/ai) påverkar inte [förordning (EU) 2016/679](/lagstiftning/gdpr) eller [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) eller [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058) eller (EU) 2016/680, utan att det påverkar tillämpningen av artiklarna [10.5](/lagstiftning/ai/kap-3#artikel-10-data-och-dataförvaltning) och [59](/lagstiftning/ai/kap-6#artikel-59-ytterligare-behandling-av-personuppgifter-för-utveckling-av-vissa-ai-system-i-allmänhetens-intresse-i-den-regulatoriska-sandlådan-för-ai) i [den här förordningen](/lagstiftning/ai).
+
+8\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på forsknings-, testnings- eller utvecklingsverksamhet för AI-system eller AI-modeller innan de släpps ut på marknaden eller tas i bruk. Sådan verksamhet ska bedrivas i enlighet med tillämplig unionsrätt. Testning under verkliga förhållanden omfattas inte av detta undantag.
+
+9\. [Denna förordning](/lagstiftning/ai) påverkar inte tillämpningen av de regler som fastställs genom andra unionsrättsakter om konsumentskydd och produktsäkerhet.
+
+10\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på skyldigheter för tillhandahållare som är fysiska personer och som använder AI-system inom ramen för en rent personlig icke-yrkesmässig verksamhet.
+
+11\. [Denna förordning](/lagstiftning/ai) hindrar inte unionen eller medlemsstaterna från att behålla eller införa lagar och andra författningar som är förmånligare för arbetstagare när det gäller att skydda deras rättigheter i fråga om arbetsgivares användning av AI-system, eller att uppmuntra eller tillåta tillämpning av kollektivavtal som är förmånligare för arbetstagare.
+
+12\. [Denna förordning](/lagstiftning/ai) är inte tillämplig på AI-system som släpps ut med kostnadsfria licenser med öppen källkod, såvida de inte släpps ut på marknaden eller tas i bruk som ett AI-system med hög risk eller som ett AI-system som omfattas av artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) eller [50](/lagstiftning/ai/kap-4#artikel-50-transparensskyldigheter-för-leverantörer-och-tillhandahållare-av-vissa-ai-system).
+
+### Artikel 3 – Definitioner
+
+I [denna förordning](/lagstiftning/ai) gäller följande definitioner:
+
+1\. AI-system: ett maskinbaserat system som är utformat för att fungera med varierande grad av autonomi och som kan uppvisa anpassningsförmåga efter införande och som, för uttryckliga eller underförstådda mål, drar slutsatser härledda från den indata det tar emot, om hur utdata såsom förutsägelser, innehåll, rekommendationer eller beslut som kan påverka fysiska eller virtuella miljöer ska genereras.
+
+2\. risk: kombinationen av sannolikheten för skada och denna skadas allvarlighetsgrad.
+
+3\. leverantör: en fysisk eller juridisk person, en offentlig myndighet, en byrå eller ett annat organ som utvecklar ett AI-system eller en AI-modell för allmänna ändamål eller som har ett AI-system eller en AI-modell för allmänna ändamål och släpper ut det eller den på marknaden eller tar AI-systemet i bruk i eget namn eller under eget varumärke, antingen mot betalning eller kostnadsfritt.
+
+4\. tillhandahållare: en fysisk eller juridisk person, offentlig myndighet, en byrå eller annat organ som under eget överinseende använder ett AI-system, utom när AI-systemet används inom ramen för en personlig icke-yrkesmässig verksamhet.
+
+5\. ombud: en fysisk eller juridisk person som befinner sig eller är etablerad i unionen och som har fått och godtagit en skriftlig fullmakt från en leverantör av ett AI-system eller av en AI-modell för allmänna ändamål för att för dennes räkning fullgöra respektive genomföra de skyldigheter och förfaranden som fastställs i [denna förordning](/lagstiftning/ai).
+
+6\. importör: en fysisk eller juridisk person som befinner sig eller är etablerad i unionen och som släpper ut ett AI-system på marknaden som bär namnet på eller varumärket för en fysisk eller juridisk person som är etablerad i ett tredjeland.
+
+7\. distributör: en annan fysisk eller juridisk person i leveranskedjan än leverantören eller importören, som tillhandahåller ett AI-system på unionsmarknaden.
+
+8\. operatör: en leverantör, en produkttillverkare, en tillhandahållare, ett ombud, en importör eller en distributör.
+
+9\. utsläppande på marknaden: den första gången ett AI-system eller en AI-modell för allmänna ändamål tillhandahålls på unionsmarknaden.
+
+10\. tillhandahållande på marknaden: leveransen av ett AI-system eller en AI-modell för allmänna ändamål för distribution eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt.
+
+11\. ibruktagande: leverans av ett AI-system för första användning direkt till tillhandahållaren eller för eget bruk i unionen för dess avsedda ändamål.
+
+12\. avsett ändamål: den användning för vilken ett AI-system är avsett av leverantören, inbegripet det specifika användningssammanhanget och de specifika användningsvillkoren, enligt specifikationerna i de uppgifter som tillhandahålls av leverantören i bruksanvisningen, reklam- eller försäljningsmaterial och uttalanden samt i den tekniska dokumentationen.
+
+13\. rimligen förutsebar felaktig användning: användning av ett AI-system på ett sätt som inte överensstämmer med dess avsedda ändamål, men som kan vara resultatet av rimligen förutsebart mänskligt beteende eller interaktion med andra system, inbegripet andra AI-system.
+
+14\. säkerhetskomponent: en komponent som finns i en produkt eller i ett AI-system och som fyller en säkerhetsfunktion för den produkten eller det AI-systemet eller som, om den upphör att fungera eller fungerar felaktigt, medför fara för människors hälsa och säkerhet eller för egendom.
+
+15\. bruksanvisning: information som tillhandahålls av leverantören för att informera tillhandahållaren om, i synnerhet, ett AI-systems avsedda ändamål och korrekta användning.
+
+16\. återkallelse av ett AI-system: varje åtgärd som syftar till att få till stånd ett återlämnande till leverantören, ett urdrifttagande eller en avaktivering av användningen av ett AI-system som tillhandahållits för tillhandahållare.
+
+17\. tillbakadragande av ett AI-system: varje åtgärd som syftar till att förhindra att ett AI-system i leveranskedjan tillhandahålls på marknaden.
+
+18\. ett AI-systems prestanda: ett AI-systems förmåga att uppnå sitt avsedda ändamål.
+
+19\. anmälande myndighet: den nationella myndighet som ansvarar för inrättandet och genomförandet av de förfaranden som krävs för bedömning, utseende och anmälan av organ för bedömning av överensstämmelse och för övervakning av dessa.
+
+20\. bedömning av överensstämmelse: processen att visa om kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2 avseende ett AI-system med hög risk har uppfyllts.
+
+21\. organ för bedömning av överensstämmelse: organ som utför tredjepartsbedömning av överensstämmelse, inbegripet testning, certifiering och inspektion.
+
+22\. anmält organ: organ för bedömning av överensstämmelse som anmälts i enlighet med [denna förordning](/lagstiftning/ai) och annan relevant unionsharmoniseringslagstiftning.
+
+23\. väsentlig ändring: en ändring av ett AI-system efter dess utsläppande på marknaden eller ibruktagande som inte förutsetts eller planerats i leverantörens ursprungliga bedömning av överensstämmelse och som leder till att AI-systemets uppfyllelse av kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2 påverkas eller leder till en ändring av det avsedda ändamål för vilket AI-systemet har bedömts.
+
+24\. CE-märkning: märkning genom vilken en leverantör anger att ett AI-system överensstämmer med kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2 och annan tillämplig unionsharmoniseringslagstiftning som föreskriver att den anbringas.
+
+25\. system för övervakning efter utsläppande på marknaden: all verksamhet som bedrivs av leverantörer av AI-system för att samla in och granska erfarenheter från användningen av AI-system som de släpper ut på marknaden eller tar i bruk, i syfte att fastställa ett eventuellt behov av att omedelbart vidta eventuella nödvändiga korrigerande eller förebyggande åtgärder.
+
+26\. marknadskontrollmyndighet: den nationella myndighet som utför aktiviteter och vidtar åtgärder enligt [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+27\. harmoniserad standard: en harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+28\. gemensam specifikation: en uppsättning tekniska specifikationer enligt definitionen i artikel [2.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) som ger förutsättningar för att uppfylla vissa krav som fastställts enligt [den här förordningen](/lagstiftning/ai).
+
+29\. träningsdata: data som används för att träna ett AI-system genom anpassning av dess inlärningsbara parametrar.
+
+30\. valideringsdata: data som används för att tillhandahålla en utvärdering av det tränade AI-systemet och för att stämma av dess icke-inlärningsbara parametrar och dess inlärningsprocess för att bland annat förhindra under- eller överanpassning.
+
+31\. valideringsdataset: ett separat dataset eller en separat del av träningsdatasetet, antingen som en fast eller variabel uppdelning.
+
+32\. testdata: data som används för att tillhandahålla en oberoende utvärdering av AI-systemet för att bekräfta systemets förväntade prestanda innan det släpps ut på marknaden eller tas i bruk.
+
+33\. indata: data som lämnas till eller anskaffas direkt av ett AI-system och som utgör den grund på vilken systemet producerar utdata.
+
+34\. biometriska uppgifter: personuppgifter som erhållits genom särskild teknisk behandling som rör en fysisk persons fysiska, fysiologiska eller beteendemässiga kännetecken, såsom ansiktsbilder eller fingeravtrycksuppgifter.
+
+35\. biometrisk identifiering: automatiserad igenkänning av fysiska, fysiologiska, beteendemässiga eller psykologiska mänskliga drag för att fastställa en fysisk persons identitet genom jämförelse av personens biometriska uppgifter med biometriska uppgifter om enskilda personer som lagrats i en databas.
+
+36\. biometrisk verifiering: automatiserad en-till-en-verifiering, inklusive autentisering, av fysiska personers identitet genom jämförelse av deras biometriska uppgifter med tidigare lämnade biometriska uppgifter.
+
+37\. särskilda kategorier av personuppgifter: de kategorier av personuppgifter som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr), artikel [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) och artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) i [förordning (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725).
+
+38\. känsliga operativa uppgifter: operativa uppgifter som rör verksamhet för att förebygga, förhindra, upptäcka, utreda eller lagföra brott och vars röjande skulle kunna äventyra straffrättsliga förfarandens integritet.
+
+39\. system för känsloigenkänning: ett AI-system vars syfte är att identifiera eller uttyda fysiska personers känslor eller avsikter på grundval av deras biometriska uppgifter.
+
+40\. system för biometrisk kategorisering: ett AI-system för hänförande av fysiska personer till särskilda kategorier på grundval av deras biometriska uppgifter, om det inte utgör en extrafunktion till en annan kommersiell tjänst och är strikt nödvändigt av objektiva tekniska skäl.
+
+41\. system för biometrisk fjärridentifiering: ett AI-system vars syfte är att identifiera fysiska personer utan deras aktiva medverkan, vanligtvis på distans, genom jämförelse av en persons biometriska uppgifter med de biometriska uppgifterna i en referensdatabas.
+
+42\. system för biometrisk fjärridentifiering i realtid: ett system för biometrisk fjärridentifiering där infångning av biometriska uppgifter, jämförelse och identifiering sker utan betydande dröjsmål, som omfattar inte bara omedelbar identifiering utan även begränsade korta fördröjningar för att undvika kringgående.
+
+43\. system för biometrisk fjärridentifiering i efterhand: ett annat system för biometrisk fjärridentifiering än ett system för biometrisk fjärridentifiering i realtid.
+
+44\. allmänt tillgänglig plats: varje offentlig- eller privatägd fysisk plats som är tillgänglig för ett obestämt antal fysiska personer, utan hänsyn till om vissa villkor eller omständigheter för tillträde kan gälla, och oberoende av eventuella kapacitetsbegränsningar.
+
+45\. brottsbekämpande myndighet:
+
+a) en offentlig myndighet som har behörighet att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller verkställa straffrättsliga påföljder, inbegripet att skydda mot samt förebygga och förhindra hot mot den allmänna säkerheten, eller
+
+b) ett annat organ eller en annan enhet som genom medlemsstaternas nationella rätt har anförtrotts myndighetsutövning för att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller verkställa straffrättsliga påföljder, inbegripet att skydda mot samt förebygga och förhindra hot mot den allmänna säkerheten.
+
+46\. brottsbekämpning: verksamhet som genomförs av brottsbekämpande myndigheter eller på deras vägnar för att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller verkställa straffrättsliga påföljder, inbegripet att skydda mot samt förebygga och förhindra hot mot den allmänna säkerheten.
+
+47\. AI-byrån: kommissionens funktion att bidra till genomförandet, övervakningen och tillsynen av AI-system samt AI-modeller för allmänna ändamål, och AI-styrning, enligt kommissionens beslut av den 24 januari 2024; hänvisningar i [denna förordning](/lagstiftning/ai) till AI-byrån ska anses som hänvisningar till kommissionen.
+
+48\. nationell behörig myndighet: en anmälande myndighet eller en marknadskontrollmyndighet; när det gäller AI-system som tas i bruk eller används av unionens institutioner, byråer och organ ska hänvisningar till nationella behöriga myndigheter eller marknadskontrollmyndigheter i [denna förordning](/lagstiftning/ai) anses som hänvisningar till Europeiska datatillsynsmannen.
+
+49\. allvarlig incident: en incident eller ett fel i ett AI-system som direkt eller indirekt orsakar något av följande:
+
+a) Dödsfall eller allvarlig skada på en persons hälsa.
+
+b) En allvarlig och oåterkallelig störning av förvaltningen eller driften av kritisk infrastruktur.
+
+c) Åsidosättande av skyldigheter enligt unionsrätten avsedda att skydda grundläggande rättigheter.
+
+d) Allvarlig skada på egendom eller på miljön.
+
+50\. personuppgifter: personuppgifter enligt definitionen i artikel [4.1](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+51\. icke-personuppgifter: andra uppgifter än personuppgifter enligt definitionen i artikel [4.1](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+52\. profilering: profilering enligt definitionen i artikel [4.4](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+53\. plan för testning under verkliga förhållanden: ett dokument som beskriver målen och metoden för samt den geografiska, befolkningsmässiga och tidsmässiga omfattningen, övervakningen, organisationen samt genomförandet av testning under verkliga förhållanden.
+
+54\. sandlådeplan: ett dokument om vilket den deltagande leverantören och den behöriga myndigheten har kommit överens och som beskriver målen, villkoren, tidsplanen, metoden och kraven för den verksamhet som ska bedrivas i sandlådan.
+
+55\. regulatorisk sandlåda för AI: en kontrollerad ram som inrättats av en behörig myndighet och som erbjuder leverantörer eller potentiella leverantörer av AI-system möjlighet att utveckla, träna, validera och testa, när så är lämpligt under verkliga förhållanden, ett innovativt AI-system, enligt en specifik sandlådeplan för en begränsad tid under regulatorisk tillsyn.
+
+56\. AI-kunnighet: kompetens, kunskap och förståelse som gör det möjligt för leverantörer, tillhandahållare och berörda personer att, med hänsyn till deras respektive rättigheter och skyldigheter i samband med [denna förordning](/lagstiftning/ai), införa AI-system på ett välgrundat sätt samt bli medvetna om möjligheterna och riskerna med AI, och den potentiella skada den kan vålla.
+
+57\. testning under verkliga förhållanden: tillfällig testning av ett AI-system med avseende på dess avsedda ändamål under verkliga förhållanden utanför ett laboratorium eller en på annat sätt simulerad miljö i syfte att samla in tillförlitliga och robusta data och bedöma och kontrollera AI-systemets överensstämmelse med kraven i [denna förordning](/lagstiftning/ai), som inte innebär att AI-systemet släpps ut på marknaden eller tas i bruk i den mening som avses i [denna förordning](/lagstiftning/ai) förutsatt att alla villkor i artikel [57](/lagstiftning/ai/kap-6#artikel-57-regulatoriska-sandlådor-för-ai) eller [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) är uppfyllda.
+
+58\. försöksperson: vid testning under verkliga förhållanden en fysisk person som deltar i testning under verkliga förhållanden.
+
+59\. informerat samtycke: en försökspersons frivilliga, specifika, informerade och otvetydiga uttryck för sin vilja att delta i en viss testning under verkliga förhållanden, efter att ha informerats om alla aspekter av testningen som är relevanta för försökspersonens beslut att delta.
+
+60\. deepfake: AI-genererat eller AI-manipulerat bild-, ljud- eller videoinnehåll som liknar existerande personer, föremål, platser, enheter eller händelser och som för en person felaktigt kan framstå som autentiskt eller sanningsenligt.
+
+61\. utbredd överträdelse: varje handling eller underlåtenhet som strider mot unionsrätten om skydd av enskilda personers intressen och som
+
+a) har skadat eller sannolikt kommer att skada de kollektiva intressena för enskilda personer som är bosatta i minst två andra medlemsstater än den där
+
+i) handlingen eller underlåtenheten hade sitt ursprung eller ägde rum,
+
+ii) den berörda leverantören befinner sig eller är etablerad eller, i tillämpliga fall, dess ombud befinner sig eller är etablerat, eller
+
+iii) tillhandahållaren är etablerad, i de fall där överträdelsen begås av tillhandahållaren,
+
+b) har orsakat, orsakar eller sannolikt kommer att orsaka skada på enskilda personers kollektiva intressen och uppvisar gemensamma drag, till exempel genom att innebära bruk av samma olagliga metoder eller åsidosättande av samma intresse, samt begås av samma operatör och begås samtidigt i minst tre medlemsstater.
+
+62\. kritisk infrastruktur: kritisk infrastruktur enligt definitionen i artikel [2.4](/lagstiftning/cer/kap-1#artikel-2-definitioner) i [direktiv (EU) 2022/2557](/lagstiftning/cer).
+
+63\. AI-modell för allmänna ändamål: en AI-modell, även när en sådan AI-modell tränas med en stor mängd data med hjälp av självövervakning i stor skala, som uppvisar betydande generalitet och på ett kompetent sätt kan utföra ett brett spektrum av distinkta uppgifter oavsett hur modellen släppts ut på marknaden och som kan integreras i en rad system eller tillämpningar i efterföljande led, utom AI-modeller som används för forsknings-, utvecklings- eller prototypverksamhet innan de släpps ut på marknaden.
+
+64\. kapacitet med hög påverkansgrad: kapacitet som motsvarar eller överstiger den kapacitet som registrerats i de mest avancerade AI-modellerna för allmänna ändamål.
+
+65\. systemrisk: en risk som är specifikt kopplad till den kapacitet för hög påverkansgrad som finns hos AI-modeller för allmänna ändamål och som påverkar unionsmarknaden i betydande grad på grund av sin räckvidd eller på grund av faktiska eller rimligen förutsebara negativa effekter på folkhälsa, säkerhet, allmän säkerhet, grundläggande rättigheter eller samhället som helhet, och som kan spridas i stor skala i hela värdekedjan.
+
+66\. AI-system för allmänna ändamål: ett AI-system som bygger på en AI-modell för allmänna ändamål och som har kapacitet att tjäna en rad olika ändamål, både för direkt användning och för integrering i andra AI-system.
+
+67\. flyttalsberäkning: varje matematisk operation eller tilldelning som inbegriper flyttal, som är en delmängd av de reella talen som typiskt representeras på datorer genom ett heltal med fast precision multiplicerad med en heltalsexponent med en fast talbas.
+
+68\. leverantör i efterföljande led: en leverantör av ett AI-system, inbegripet ett AI-system för allmänna ändamål, som integrerar en AI-modell, oavsett om AI-modellen levereras av dem själva och integreras vertikalt eller levereras av en annan enhet på grundval av avtalsförhållanden.
+
+### Artikel 4 – AI-kunnighet
+
+Leverantörer och tillhandahållare av AI-system ska vidta åtgärder för att i största möjliga mån säkerställa att deras personal och andra personer som för deras räkning arbetar med drift och användning av AI-system har tillräcklig AI-kunnighet, med beaktande av deras tekniska kunskaper, erfarenhet och utbildning samt det sammanhang i vilket AI-systemen ska användas, och med hänsyn till de personer eller grupper av personer på vilka AI-systemen ska användas.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

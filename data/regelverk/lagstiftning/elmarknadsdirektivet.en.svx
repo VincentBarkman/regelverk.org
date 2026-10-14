@@ -1,0 +1,37 @@
+---
+'name': 'Electricity Market Directive'
+'title': 'Directive (EU) 2019/944 of the European Parliament and of the Council'
+'type': 'eu-directive'
+'description': 'EU directive on common rules for the internal market for electricity.'
+'designation': 'EU 2019/944'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2019-06-05'
+'applies-from': '2021-01-01'
+'related':
+  - 'ellagen'
+  - 'elmarknadsforordningen'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – SUBJECT MATTER AND DEFINITIONS](/lagstiftning/elmarknadsdirektivet/kap-1) · Articles 1–2
+- [Chapter II – GENERAL RULES FOR THE ORGANISATION OF THE ELECTRICITY SECTOR](/lagstiftning/elmarknadsdirektivet/kap-2) · Articles 3–9
+- [Chapter III – CONSUMER EMPOWERMENT AND PROTECTION](/lagstiftning/elmarknadsdirektivet/kap-3) · Articles 10–29
+- [Chapter IV – DISTRIBUTION SYSTEM OPERATION](/lagstiftning/elmarknadsdirektivet/kap-4) · Articles 30–39
+- [Chapter V – GENERAL RULES APPLICABLE TO TRANSMISSION SYSTEM OPERATORS](/lagstiftning/elmarknadsdirektivet/kap-5) · Articles 40–42
+- [Chapter VI – UNBUNDLING OF TRANSMISSION SYSTEM OPERATORS](/lagstiftning/elmarknadsdirektivet/kap-6) · Articles 43–56
+- [Chapter VII – REGULATORY AUTHORITIES](/lagstiftning/elmarknadsdirektivet/kap-7) · Articles 57–64
+- [Chapter VIII – FINAL PROVISIONS](/lagstiftning/elmarknadsdirektivet/kap-8) · Articles 65–74
+<!-- scan-laws:end -->

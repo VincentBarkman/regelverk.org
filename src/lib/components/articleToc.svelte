@@ -1,10 +1,10 @@
 <script lang="ts">
 	import { replaceState } from '$app/navigation';
+	import { resolve } from '$app/paths';
 	import { fade } from 'svelte/transition';
 	import * as m from '#lib/paraglide/messages.js';
 	import { enhanceCodeBlocks } from '#lib/codeBlocks.js';
 	import type { TocItem } from '#lib/headings.js';
-	import type { Component } from 'svelte';
 
 	let {
 		article,
@@ -14,7 +14,7 @@
 	}: {
 		article?: HTMLElement;
 		items?: TocItem[];
-		content?: Component;
+		content?: unknown;
 		rail?: boolean;
 	} = $props();
 
@@ -47,7 +47,7 @@
 			if (a && !a.classList.contains('anchor')) return;
 			e.preventDefault();
 			void navigator.clipboard?.writeText(new URL(`#${h.id}`, location.href).href);
-			replaceState(`#${h.id}`, {});
+			replaceState(resolve(`#${h.id}`), {});
 			jump(h.id);
 		};
 		article.addEventListener('click', onHeadingClick);

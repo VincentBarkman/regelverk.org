@@ -528,19 +528,19 @@ laws:
 
   - slug: eidas
     type: eu-regulation
-    designation: 'EU 2024/1183'
+    designation: 'EU 910/2014'
     jurisdiction: EU
     issuer: EU
-    celex: '32024R1183'
-    published: '2024-04-30'
-    applies-from: '2024-05-20'
+    celex: '32014R0910'
+    published: '2014-08-28'
+    applies-from: '2014-09-17'
     sites: [it]
     name:
       sv: eIDAS-förordningen
       en: eIDAS Regulation
     title:
-      sv: Europaparlamentets och rådets förordning (EU) 2024/1183
-      en: Regulation (EU) 2024/1183 of the European Parliament and of the Council
+      sv: Europaparlamentets och rådets förordning (EU) nr 910/2014
+      en: Regulation (EU) No 910/2014 of the European Parliament and of the Council
     description:
       sv: EU-förordning om europeisk digital identitet och förtroendetjänster.
       en: EU regulation establishing the European Digital Identity Framework.
@@ -969,5 +969,162 @@ laws:
       sv: Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2015:6) om tillhandahållande av pyrotekniska artiklar och ammunition
     description:
       sv: Föreskrifter om tillhandahållande på marknaden av pyrotekniska artiklar och ammunition.
+    locales: [sv]
+    provisions: all
+
+  - slug: elsakerhetsforordningen
+    type: national-law
+    designation: 'SFS 2017:218'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2017:218'
+    sfs-slug: elsakerhetsforordning-2017218
+    published: '2017-03-22'
+    applies-from: '2017-07-01'
+    sites: [el]
+    related: [elsakerhetslagen, elsak-fs-2022-1]
+    name:
+      sv: Elsäkerhetsförordningen
+      en: Electrical Safety Ordinance
+    title:
+      sv: Elsäkerhetsförordning (2017:218)
+    description:
+      sv: Förordning med kompletterande bestämmelser till elsäkerhetslagen, inklusive behörighetsregler och auktorisation.
+    locales: [sv]
+    provisions: all
+
+  - slug: lagen-om-bevakningsforetag
+    type: national-law
+    designation: 'SFS 1974:191'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1974:191'
+    sfs-slug: lag-1974191-om-bevakningsforetag
+    sites: [fysisk]
+    name:
+      sv: Lagen om bevakningsföretag
+      en: Security Companies Act
+    title:
+      sv: Lag (1974:191) om bevakningsföretag
+    description:
+      sv: Svensk lag om tillstånd och tillsyn för bevakningsföretag, väktare och ordningsvakter.
+    locales: [sv]
+    provisions: all
+
+  - slug: brottsdatalagen
+    type: national-law
+    designation: 'SFS 2018:1177'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '2018:1177'
+    sfs-slug: brottsdatalag-20181177
+    published: '2018-06-21'
+    applies-from: '2018-08-01'
+    sites: [it]
+    related: [gdpr, personuppgiftslagen]
+    name:
+      sv: Brottsdatalagen
+      en: Law Enforcement Data Act
+    title:
+      sv: Brottsdatalag (2018:1177)
+    description:
+      sv: Svensk lag om behandling av personuppgifter vid brottsbekämpning, komplement till GDPR för polis och åklagare.
+    locales: [sv]
+    provisions: all
+
+  - slug: vapenlagen
+    type: national-law
+    designation: 'SFS 1996:67'
+    jurisdiction: Sverige
+    issuer: Riksdagen
+    sfs: '1996:67'
+    sfs-slug: lag-199667-om-vapen-och-ammunition
+    sites: [fysisk]
+    related: [lagen-om-bevakningsforetag]
+    name:
+      sv: Vapenlagen
+      en: Weapons Act
+    title:
+      sv: Lag (1996:67) om vapen och ammunition
+    description:
+      sv: Svensk lag om innehav, förvaring och hantering av vapen och ammunition.
+    locales: [sv]
+    provisions: all
+
+  - slug: atex
+    type: eu-directive
+    designation: 'EU 2014/34'
+    jurisdiction: EU
+    issuer: EU
+    celex: '32014L0034'
+    published: '2014-03-29'
+    applies-from: '2016-04-20'
+    sites: [brandskydd, el]
+    name:
+      sv: ATEX-direktivet
+      en: ATEX Directive
+    title:
+      sv: Europaparlamentets och rådets direktiv 2014/34/EU
+      en: Directive 2014/34/EU of the European Parliament and of the Council
+    description:
+      sv: EU-direktiv om utrustning och skyddssystem avsedda för användning i explosionsfarliga miljöer.
+      en: EU directive on equipment and protective systems intended for use in potentially explosive atmospheres.
+    locales: [sv, en]
+    provisions: all
+
+  - slug: msbfs-2013-3
+    type: foreskrift
+    designation: 'MSBFS 2013:3'
+    jurisdiction: Sverige
+    issuer: MSB
+    source: msbfs
+    fs: '2013:3'
+    sites: [brandskydd]
+    related: [lso]
+    name:
+      sv: Tillsynssystematik för brandfarliga varor (MSBFS 2013:3)
+      en: Supervision system for flammable goods (MSBFS 2013:3)
+    title:
+      sv: Myndigheten för samhällsskydd och beredskaps föreskrifter (MSBFS 2013:3) om tillsynssystematik
+    description:
+      sv: Föreskrifter om tillsynssystematik vid hantering av brandfarliga varor.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-14
+    type: foreskrift
+    designation: 'AFS 2023:14'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:14'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Gränsvärden för luftvägsexponering (AFS 2023:14)
+      en: Airborne exposure limits (AFS 2023:14)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljön
+    description:
+      sv: Föreskrifter om hygieniska gränsvärden för luftvägsexponering i arbetsmiljön.
+    locales: [sv]
+    provisions: all
+
+  - slug: afs-2023-4
+    type: foreskrift
+    designation: 'AFS 2023:4'
+    jurisdiction: Sverige
+    issuer: Arbetsmiljöverket
+    source: av
+    fs: '2023:4'
+    sites: [arbetsmiljo]
+    related: [arbetsmiljolagen]
+    name:
+      sv: Maskiner (AFS 2023:4)
+      en: Machinery (AFS 2023:4)
+    title:
+      sv: Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:4) om maskiner
+    description:
+      sv: Föreskrifter om maskiner och tillhörande säkerhetskrav vid arbete.
     locales: [sv]
     provisions: all

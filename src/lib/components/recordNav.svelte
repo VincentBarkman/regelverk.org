@@ -50,9 +50,8 @@
 					{#each groups as g (g.entity)}
 						{@const Icon = ENTITY_ICON[g.entity]}
 						<details
-							bind:open={
-								() => openGroups[g.entity] ?? defaultOpen(g), (v) => (openGroups[g.entity] = v)
-							}
+							open={openGroups[g.entity] ?? defaultOpen(g)}
+							ontoggle={(e) => (openGroups[g.entity] = e.currentTarget.open)}
 							class="group/det"
 						>
 							<summary

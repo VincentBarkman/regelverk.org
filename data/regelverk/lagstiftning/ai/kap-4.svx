@@ -1,0 +1,47 @@
+---
+'source': 'ai'
+'ref': 'Kapitel IV'
+'title': 'Kapitel IV – TRANSPARENSSKYLDIGHETER FÖR LEVERANTÖRER OCH
+  TILLHANDAHÅLLARE AV VISSA AI-SYSTEM'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel IV.'
+'designation': 'AI-förordningen Kapitel IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_IV'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 50 – Transparensskyldigheter för leverantörer och tillhandahållare av vissa AI-system
+
+1\. Leverantörer ska säkerställa att AI-system som är avsedda att interagera direkt med fysiska personer utformas och utvecklas på ett sådant sätt att de berörda fysiska personerna informeras om att de interagerar med ett AI-system, såvida detta inte är uppenbart för en fysisk person som är normalt informerad och skäligen uppmärksam och medveten, med beaktande av användningens omständigheter och sammanhang. Denna skyldighet är inte tillämplig på AI-system som enligt lag får upptäcka, förebygga, förhindra, utreda eller lagföra brott, med förbehåll för lämpliga garantier för tredje parters rättigheter och friheter, såvida inte dessa system är tillgängliga för allmänheten för att anmäla ett brott.
+
+2\. Leverantörer av AI-system, inbegripet AI-system för allmänna ändamål, som genererar syntetiskt ljud-, bild-, video- eller textinnehåll ska säkerställa att AI-systemets utdata är märkta i ett maskinläsbart format och kan upptäckas som artificiellt genererade eller manipulerade. Leverantörer ska säkerställa att deras tekniska lösningar är effektiva, interoperabla, robusta och tillförlitliga i den mån det är tekniskt möjligt, med beaktande av särdragen och begränsningarna hos olika typer av innehåll, genomförandekostnaderna och den allmänt erkända senaste utvecklingen, vilket kan återspeglas i relevanta tekniska standarder. Denna skyldighet är inte tillämplig i den mån AI-systemen utför en hjälpfunktion för vanlig redigering eller inte väsentligt ändrar de indata som tillhandahålls av tillhandahållaren eller deras semantik, eller om systemen enligt lag får upptäcka, förebygga, förhindra, utreda eller lagföra brott.
+
+3\. Tillhandahållare av ett system för känsloigenkänning eller ett system för biometrisk kategorisering ska informera de fysiska personer som exponeras för systemet om systemets drift, och ska behandla personuppgifter i enlighet med [förordningarna (EU) 2016/679](/lagstiftning/gdpr) och [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) och [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680), beroende på vad som är tillämpligt. Denna skyldighet är inte tillämplig på AI-system som används för biometrisk kategorisering och känsloigenkänning och som enligt lag får upptäcka, förebygga eller utreda brott, med förbehåll för lämpliga garantier för tredje parters rättigheter och friheter, och i enlighet med unionsrätten.
+
+4\. Tillhandahållare av ett AI-system som genererar eller manipulerar bild-, ljud- eller videoinnehåll som utgör en deepfake ska upplysa om att innehållet har genererats artificiellt eller manipulerats. Denna skyldighet är inte tillämplig om användningen enligt lag är tillåten för att upptäcka, förebygga, förhindra, utreda eller lagföra brott. Om innehållet utgör en del av ett uppenbart konstnärligt, kreativt, satiriskt, skönlitterärt eller liknande verk eller program, ska de transparenskrav som anges i denna punkt begränsas till att upplysa om förekomsten av sådant genererat eller manipulerat innehåll på ett lämpligt sätt som inte hindrar visningen eller åtnjutandet av verket.
+
+Tillhandahållare av ett AI-system som genererar eller manipulerar text som offentliggörs i syfte att informera allmänheten om frågor av allmänt intresse ska upplysa om att texten har genererats artificiellt eller manipulerats. Denna skyldighet är inte tillämplig om användningen enligt lag är tillåten för att upptäcka, förebygga, förhindra, utreda eller lagföra brott eller om det AI-genererade innehållet har genomgått en process med mänsklig granskning eller redaktionell kontroll och om en fysisk eller juridisk person bär det redaktionella ansvaret för offentliggörandet av innehållet.
+
+5\. Den information som avses i punkterna 1–4 ska lämnas till de berörda fysiska personerna på ett tydligt och urskiljbart sätt senast vid tidpunkten för den första interaktionen eller exponeringen. Informationen ska uppfylla de tillämpliga tillgänglighetskraven.
+
+6\. Punkterna 1–4 påverkar inte de krav och skyldigheter som fastställs i [kapitel III](/lagstiftning/ai/kap-3), och påverkar inte andra transparensskyldigheter som fastställs i unionsrätten eller nationell rätt för tillhandahållare av AI-system.
+
+7\. AI-byrån ska uppmuntra och underlätta utarbetandet av förfarandekoder på unionsnivå för att underlätta ett effektivt genomförande av skyldigheterna avseende upptäckt och märkning av artificiellt skapat eller manipulerat innehåll. Kommissionen får anta genomförandeakter för att godkänna dessa förfarandekoder i enlighet med förfarandet i artikel [56.6](/lagstiftning/ai/kap-5#artikel-56-förfarandekoder). Om kommissionen anser att förfarandekoden inte är lämplig får den anta en genomförandeakt som specificerar gemensamma regler för genomförandet av dessa skyldigheter i enlighet med det granskningsförfarande som fastställs i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

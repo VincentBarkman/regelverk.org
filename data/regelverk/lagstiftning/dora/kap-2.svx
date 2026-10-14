@@ -1,0 +1,351 @@
+---
+'source': 'dora'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – IKT-riskhantering'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel II.'
+'designation': 'DORA-förordningen Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_II'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 5 – Styrning och organisation
+
+1\. Finansiella entiteter ska ha en intern styrnings- och kontrollram som säkerställer en effektiv och ansvarsfull hantering av IKT-risk i enlighet med artikel [6.4](#artikel-6-ikt-riskhanteringsram), i syfte att åstadkomma en hög nivå av digital operativ motståndskraft.
+
+2\. Den finansiella entitetens ledningsorgan ska fastställa, godkänna, övervaka och ansvara för genomförandet av alla arrangemang som rör den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram).
+
+Vid tillämpning av det första stycket ska ledningsorganet
+
+a) ha det slutliga ansvaret för att hantera den finansiella entitetens IKT-risk,
+
+b) införa strategier som syftar till att säkerställa bibehållandet av höga standarder för tillgänglighet, äkthet, integritet och konfidentialitet för data,
+
+c) fastställa tydliga roller och ansvarsområden för alla IKT-relaterade funktioner och inrätta lämpliga styrformer för att säkerställa kommunikation, samarbete och samordning på ett effektivt och skyndsamt sätt mellan dessa funktioner,
+
+d) ha det övergripande ansvaret för att fastställa och godkänna strategin för digital operativ motståndskraft enligt artikel [6.8](#artikel-6-ikt-riskhanteringsram), inbegripet fastställandet av en lämplig risktoleransnivå för IKT-risk för den finansiella entiteten, enligt vad som avses i artikel [6.8 b](#artikel-6-ikt-riskhanteringsram),
+
+e) godkänna, övervaka och regelbundet se över genomförandet av den IKT-kontinuitetspolicy och de åtgärds- och återställningsplaner avseende IKT för den finansiella entiteten som avses i artikel [11.1](#artikel-11-åtgärder-och-återställande) respektive 11.3, vilka kan antas som särskilda specifika planer och utgöra integrerade delar av den finansiella entitetens övergripande kontinuitetsplan och åtgärds- och återställningsplan,
+
+f) godkänna och regelbundet se över den finansiella entitetens IKT-internrevisionsplaner, IKT-revisioner och väsentliga ändringar av dessa,
+
+g) anslå och regelbundet se över den lämpliga budgeten för att uppfylla den finansiella entitetens behov av digital operativ motståndskraft när det gäller alla typer av resurser, inbegripet relevanta program för medvetenhet om IKT-säkerhet och sådan utbildning om digital operativ motståndskraft som avses i artikel [13.6](#artikel-13-lärande-och-utveckling) och IKT-färdigheter för all personal,
+
+h) godkänna och regelbundet se över den finansiella entitetens riktlinjer för arrangemang vad gäller användningen av IKT-tjänster som tillhandahålls av tredjepartsleverantörer av IKT-tjänster,
+
+i) på verksamhetsnivå etablera rapporteringskanaler som gör det möjligt att vederbörligen informeras om
+
+i) arrangemang som har ingåtts med tredjepartsleverantörer av IKT-tjänster om användningen av IKT-tjänster,
+
+ii) alla relevanta planerade väsentliga ändringar som rör tredjepartsleverantörerna av IKT-tjänster,
+
+iii) den potentiella effekten av sådana ändringar på de kritiska eller viktiga funktioner som omfattas av dessa arrangemang, inbegripet en sammanfattning av riskanalysen för att bedöma effekterna av dessa ändringar och åtminstone allvarliga IKT-relaterade incidenter och deras inverkan liksom åtgärder, återställande och korrigerande åtgärder.
+
+3\. Andra finansiella entiteter än mikroföretag ska inrätta en funktion för att övervaka de arrangemang som har ingåtts med tredjepartsleverantörer av IKT-tjänster om användningen av IKT-tjänster, eller utse en medlem av den verkställande ledningen som ansvarig för att övervaka den åtföljande riskexponeringen och relevant dokumentation.
+
+4\. Medlemmarna i den finansiella entitetens ledningsorgan ska aktivt upprätthålla tillräckliga och aktuella kunskaper och färdigheter för att förstå och bedöma IKT-risk och deras inverkan på den finansiella entitetens verksamhet, inbegripet genom att regelbundet genomgå särskild utbildning som står i proportion till den IKT-risk som hanteras.
+
+### Artikel 6 – IKT-riskhanteringsram
+
+1\. Finansiella entiteter ska ha en sund, heltäckande och väldokumenterad IKT-riskhanteringsram som en del av sitt övergripande riskhanteringssystem och den ska göra det möjligt för dem att snabbt, effektivt och heltäckande hantera IKT-risk och säkerställa en hög nivå av digital operativ motståndskraft.
+
+2\. IKT-riskhanteringsramen ska omfatta åtminstone de strategier, riktlinjer, förfaranden, IKT-protokoll och IKT-verktyg som är nödvändiga för att på ett vederbörligt och adekvat sätt skydda alla informations- och IKT-tillgångar, inbegripet datorprogramvara, datormaskinvara och servrar, och skydda alla relevanta fysiska komponenter och infrastrukturer, såsom lokaler, datacentraler och känsliga angivna områden, för att säkerställa att alla informations- och IKT-tillgångar är tillräckligt skyddade mot risker, inbegripet skada och obehörig åtkomst eller användning.
+
+3\. I enlighet med sin IKT-riskhanteringsram ska finansiella entiteter minimera effekterna av IKT-risk genom att införa lämpliga strategier, riktlinjer, förfaranden, IKT-protokoll och verktyg. De ska tillhandahålla fullständig och uppdaterad information om IKT-risk och om sin IKT-riskhanteringsram till de behöriga myndigheterna när dessa begär det.
+
+4\. Andra finansiella entiteter än mikroföretag ska överföra ansvaret för att hantera och övervaka IKT-risk till en kontrollfunktion och säkerställa en lämplig nivå av oberoende för den kontrollfunktionen för att undvika intressekonflikter. Finansiella entiteter ska säkerställa lämplig åtskillnad mellan och lämpligt oberoende för riskhanteringsfunktioner, kontrollfunktioner och interna revisionsfunktioner avseende IKT, enligt modellen med tre försvarslinjer eller en intern riskhanterings- och kontrollmodell.
+
+5\. IKT-riskhanteringsramen ska dokumenteras och ses över minst en gång per år, eller regelbundet när det gäller mikroföretag, liksom vid uppkomsten av allvarliga IKT-relaterade incidenter, och i enlighet med tillsynsinstruktioner eller slutsatser från relevanta testnings- eller revisionsprocesser för digital operativ motståndskraft. Ramen ska förbättras fortlöpande baserat på erfarenheterna från genomförande och övervakning. En rapport om översynen av IKT-riskhanteringsramen ska överlämnas till den behöriga myndigheten på dess begäran.
+
+6\. IKT-riskhanteringsramen hos andra finansiella entiteter än mikroföretag ska vara föremål för en internrevision av revisorer på regelbunden basis och i enlighet med finansiella entiteters revisionsplan. Dessa revisorer ska ha tillräckliga kunskaper, färdigheter och expertis om IKT-risker, samt ha en lämplig nivå av oberoende. IKT-revisionernas frekvens och inriktning ska stå i proportion till den finansiella entitetens IKT-risk.
+
+7\. Finansiella entiteter ska baserat på slutsatserna från den interna revisionsrapporten inrätta en formell uppföljningsprocess, inbegripet regler för snabb kontroll och snabbt åtgärdande av kritiska resultat från IKT-revisionen.
+
+8\. IKT-riskhanteringsramen ska omfatta en strategi för digital operativ motståndskraft där det anges hur ramen ska genomföras. För detta ändamål ska strategin för digital operativ motståndskraft inbegripa metoder för att hantera IKT-risk och uppnå specifika IKT-mål på följande sätt:
+
+a) Förklara hur IKT-riskhanteringsramen stöder den finansiella entitetens affärsstrategi och mål.
+
+b) Fastställa risktoleransnivån för IKT-risk i enlighet med den finansiella entitetens riskbenägenhet och analysera toleransen mot effekterna av IKT-avbrott.
+
+c) Fastställa tydliga informationssäkerhetsmål, inbegripet nyckelprestationsindikatorer och viktiga riskmått.
+
+d) Förklara IKT-referensarkitekturen och eventuella förändringar som krävs för att uppnå specifika verksamhetsmål.
+
+e) Beskriva de olika mekanismer som har införts för att upptäcka IKT-relaterade incidenter, förebygga deras effekter och ge skydd däremot.
+
+f) Lägga fram bevis för den befintliga situationen vad gäller digital operativ motståndskraft baserat på antalet rapporterade allvarliga IKT-relaterade incidenter och de förebyggande åtgärdernas effektivitet.
+
+g) Genomföra tester av den digitala operativa motståndskraften, i enlighet med [kapitel IV](/lagstiftning/dora/kap-4) i [denna förordning](/lagstiftning/dora).
+
+h) Beskriva en kommunikationsstrategi vid IKT-relaterade incidenter; vars offentliggörande föreskrivs i artikel [14](#artikel-14-kommunikation).
+
+9\. Finansiella entiteter får, när det gäller den strategi för digital operativ motståndskraft som avses i punkt 8, utforma en holistisk strategi med flera olika leverantörer av IKT-tjänster på koncern- eller entitetsnivå som visar de viktigaste beroendena av tredjepartsleverantörer av IKT-tjänster och förklarar logiken bakom upphandlingsmixen av tredjepartsleverantörer av IKT-tjänster.
+
+10\. Finansiella entiteter får, i enlighet med unionsrätten och den nationella rätten på området utkontraktera uppgiften att kontrollera efterlevnaden av IKT-riskhanteringskraven till koncerninterna eller externa företag. Vid sådan utkontraktering bär den finansiella entiteten det fulla ansvaret för kontrollen av efterlevnaden av IKT-riskhanteringskraven.
+
+### Artikel 7 – IKT-system, IKT-protokoll och IKT-verktyg
+
+Finansiella entiteter ska för att åtgärda och hantera IKT-risk använda och upprätthålla uppdaterade IKT-system, IKT-protokoll och IKT-verktyg som
+
+a) är lämpliga med hänsyn till omfattningen hos de transaktioner som ligger till grund för deras verksamhet, i enlighet med den proportionalitetsprincip som anges i artikel [4](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen),
+
+b) är tillförlitliga,
+
+c) har tillräcklig kapacitet för att korrekt behandla de uppgifter som krävs för att bedriva verksamheten och skyndsamt tillhandahålla tjänster, och vid behov hantera toppar i order-, meddelande- eller transaktionsvolymer, även vid införande av ny teknik,
+
+d) är tekniskt motståndskraftiga för att på lämpligt sätt hantera ytterligare informationsbehandlingsbehov när detta krävs under stressade marknadsförhållanden eller andra ogynnsamma situationer.
+
+### Artikel 8 – Identifiering
+
+1\. Som en del av den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram) ska finansiella entiteter identifiera, klassificera och på lämpligt sätt dokumentera alla IKT-stödda affärsfunktioner, roller och ansvarsområden, de informationstillgångar och IKT-tillgångar som stöder dessa funktioner och deras roller och beroenden i förhållande till IKT-risk. Finansiella entiteter ska vid behov, och minst en gång per år, granska lämpligheten i denna klassificering och i all relevant dokumentation.
+
+2\. Finansiella entiteter ska fortlöpande identifiera alla källor till IKT-risk, särskilt riskexponeringen mot och från andra finansiella entiteter, och bedöma cyberhot och IKT-sårbarheter som är relevanta för deras IKT-stödda affärsfunktioner, informationstillgångar och IKT-tillgångar. Finansiella entiteter ska regelbundet och minst en gång per år se över de riskscenarier som påverkar dem.
+
+3\. Andra finansiella entiteter än mikroföretag ska göra en riskbedömning vid varje större förändring av nätverks- och informationssystemets infrastruktur, av de processer eller förfaranden som påverkar deras IKT-stödda affärsfunktioner, informationstillgångar eller IKT-tillgångar.
+
+4\. Finansiella entiteter ska identifiera alla informationstillgångar och IKT-tillgångar, inbegripet sådana på fjärrplatser, nätverksresurser och maskinvaruutrustning, och kartlägga de som anses vara kritiska. De ska kartlägga informationstillgångarnas och IKT-tillgångarnas konfiguration samt länkarna och det ömsesidiga beroendet mellan de olika informationstillgångarna och IKT-tillgångarna.
+
+5\. Finansiella entiteter ska identifiera och dokumentera alla processer som är beroende av tredjepartsleverantörer av IKT-tjänster och identifiera kopplingar till de tredjepartsleverantörer av IKT-tjänster som tillhandahåller tjänster som stöder kritiska eller viktiga funktioner.
+
+6\. Vid tillämpning av punkterna 1, 4 och 5 ska finansiella entiteter upprätthålla relevanta inventeringar och uppdatera dem regelbundet och varje gång en sådan större förändring som avses i punkt 3 inträffar.
+
+7\. Andra finansiella entiteter än mikroföretag ska regelbundet, och minst en gång per år, genomföra en särskild IKT-riskbedömning av alla äldre IKT-system, och i varje fall före och efter sammanlänkning av tekniker, tillämpningar eller system.
+
+### Artikel 9 – Skydd och förebyggande
+
+1\. För att skydda IKT-system på lämpligt sätt och organisera motåtgärder ska finansiella entiteter kontinuerligt övervaka och kontrollera IKT-systemens och IKT-verktygens säkerhet och funktion och ska minimera effekterna av IKT-risk på IKT-system genom att införa lämpliga verktyg, riktlinjer och förfaranden för IKT-säkerhet.
+
+2\. Finansiella entiteter ska utforma, upphandla och genomföra IKT-relaterade säkerhetsstrategier, förfaranden, protokoll och verktyg som syftar till att säkerställa IKT-systemens motståndskraft, kontinuitet och tillgänglighet, i synnerhet för de system som stöder kritiska eller viktiga funktioner, och upprätthålla höga standarder för tillgänglighet, äkthet, integritet och konfidentialitet avseende data, oberoende av om de är i vila, i bruk eller under överföring.
+
+3\. För att uppnå de mål som avses i punkt 2 ska finansiella entiteter använda IKT-lösningar och IKT-processer som är lämpliga i enlighet med artikel [4](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen). Dessa IKT-lösningar och IKT-processer ska
+
+a) säkerställa skyddet vid dataöverföring,
+
+b) minimera risken för förvanskning eller förlust av uppgifter, obehörig åtkomst och tekniska brister som kan hindra affärsverksamheten,
+
+c) förhindra bristen på tillgänglighet, försvagandet av äkthet och integritet, överträdelserna av konfidentialitet, och förlusten av data,
+
+d) säkerställa att uppgifterna skyddas mot risker som uppstår från datahanteringen, inbegripet bristfällig förvaltning, processrelaterade risker och den mänskliga faktorn.
+
+4\. Som en del av den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram) ska finansiella entiteter
+
+a) utarbeta och dokumentera riktlinjer för informationssäkerhet där det fastställs regler för att skydda tillgängligheten, äktheten, integriteten och konfidentialiteten hos data, informationstillgångar och IKT-tillgångar, inbegripet hos deras kunder, när så är tillämpligt,
+
+b) enligt en riskbaserad strategi upprätta en sund struktur för förvaltning av nätverk och infrastruktur med hjälp av lämpliga tekniker, metoder och protokoll, vilket kan inbegripa införande av automatiserade mekanismer för att isolera berörda informationstillgångar vid cyberangrepp,
+
+c) genomföra strategier för att begränsa den fysiska eller logiska åtkomsten till informationstillgångar och IKT-tillgångar till enbart det som krävs för legitima och godkända funktioner och verksamheter, och för detta ändamål fastställa en uppsättning strategier, förfaranden och kontroller för åtkomsträttigheter och säkerställa en sund förvaltning av dessa,
+
+d) genomföra strategier och protokoll för starka äkthetsmekanismer, baserade på relevanta standarder och särskilda kontrollsystem, samt skyddsåtgärder för kryptografiska nycklar där data krypteras baserat på resultat från godkända processer för klassificering och IKT-riskbedömning,
+
+e) genomföra dokumenterade strategier, förfaranden och kontroller för hantering av IKT-förändringar, inbegripet ändringar av programvara, maskinvara, fasta programvarukomponenter, system eller säkerhetsparametrar, som bygger på en riskbedömningsmetod och är en integrerad del av den finansiella entitetens övergripande förändringshanteringsprocess, för att säkerställa att alla ändringar av IKT-system registreras, testas, bedöms, godkänns, genomförs och verifieras på ett kontrollerat sätt,
+
+f) ha lämpliga och heltäckande dokumenterade strategier för programfixar och uppdateringar.
+
+Vid tillämpning av första stycket led b ska finansiella entiteter utforma infrastrukturen för nätanslutning på ett sätt som gör att den omedelbart kan avskiljas eller segmenteras i syfte att minimera och förhindra spridning, särskilt för sammanlänkade finansiella processer.
+
+Vid tillämpning av första stycket led e ska processen för hantering av IKT-förändringar godkännas av lämpliga ledningsnivåer och ska ha särskilda protokoll på plats
+
+### Artikel 10 – Upptäckt
+
+1\. Finansiella entiteter ska ha mekanismer för att snabbt upptäcka onormal verksamhet i enlighet med artikel [17](/lagstiftning/dora/kap-3#artikel-17-process-för-hantering-av-ikt-relaterade-incidenter), inbegripet frågor som rör IKT-nätverkens prestanda och IKT-relaterade incidenter, och för att identifiera potentiella väsentliga systemkritiska felpunkter (single points of failure).
+
+Alla upptäcktsmekanismer som avses i första stycket ska testas regelbundet i enlighet med artikel [25](/lagstiftning/dora/kap-4#artikel-25-testning-av-ikt-verktyg-och-ikt-system).
+
+2\. De upptäcktsmekanismer som avses i punkt 1 ska möjliggöra flera kontrollnivåer, innehålla fastställda varningströskelvärden och varningskriterier för att utlösa och inleda processer för hantering av IKT-relaterade incidenter, inbegripet automatiska varningsmekanismer för relevant personal med ansvar för hantering av IKT-relaterade incidenter.
+
+3\. Finansiella entiteter ska avsätta tillräckligt med resurser och kapacitet för att övervaka användarnas verksamhet, förekomsten av IKT-avvikelser och IKT-relaterade incidenter, särskilt cyberangrepp.
+
+4\. Leverantörer av datarapporteringstjänster ska dessutom ha system som på ett effektivt sätt gör det möjligt att kontrollera handelsrapporters fullständighet, hitta fall av utelämnad information och uppenbara fel och begära omsändning av dessa rapporter.
+
+### Artikel 11 – Åtgärder och återställande
+
+1\. Som en del av den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram) och baserat på identifieringskraven i artikel [8](#artikel-8-identifiering) ska finansiella entiteter införa en heltäckande IKT-kontinuitetspolicy, vilken kan antas som en särskild specifik plan och utgöra en integrerad del av den finansiella entitetens övergripande kontinuitetsplan.
+
+2\. Finansiella entiteter ska genomföra IKT-kontinuitetspolicyn genom särskilda, lämpliga och dokumenterade arrangemang, planer, förfaranden och mekanismer som syftar till att
+
+a) säkerställa kontinuiteten i den finansiella entitetens kritiska eller viktiga funktioner,
+
+b) snabbt, lämpligt och effektivt reagera på och lösa alla IKT-relaterade incidenter på ett sätt som begränsar skador och prioriterar återupptagandet av verksamhet och återställningsåtgärder,
+
+c) utan dröjsmål aktivera särskilda planer som möjliggör begränsningsåtgärder, processer och teknik som är anpassade till varje typ av IKT-relaterad incident och som förhindrar ytterligare skador, samt skräddarsydda åtgärds- och återställningsförfaranden som har fastställts i enlighet med artikel [12](#artikel-12-strategier-och-förfaranden-för-säkerhetskopiering-och-förfaranden-och-metoder-för-återskapande-och-återställning),
+
+d) beräkna preliminära effekter, skador och förluster,
+
+e) fastställa kommunikations- och krishanteringsinsatser som säkerställer att uppdaterad information överförs till all berörd intern personal och alla externa berörda parter i enlighet med artikel [14](#artikel-14-kommunikation) och rapportera till behöriga myndigheter i enlighet med artikel [19](/lagstiftning/dora/kap-3#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+3\. Som en del av den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram) ska finansiella entiteter genomföra åtföljande åtgärds- och återställningsplaner avseende IKT som, när det gäller andra finansiella entiteter än mikroföretag, ska bli föremål för oberoende interna granskningar.
+
+4\. Finansiella entiteter ska införa, upprätthålla och regelbundet testa lämpliga IKT-kontinuitetsplaner, särskilt när det gäller kritiska eller viktiga funktioner som har utkontrakterats eller kontrakterats genom arrangemang med tredjepartsleverantörer av IKT-tjänster.
+
+5\. Finansiella entiteter ska som en del av sin övergripande IKT-kontinuitetspolicy genomföra en verksamhetskonsekvensanalys av hur exponerade de är mot allvarliga störningar i verksamheten. I verksamhetskonsekvensanalysen ska finansiella entiteter bedöma vilka potentiella följder som allvarliga störningar i verksamheten kan få genom kvantitativa och kvalitativa kriterier och med hjälp av interna och externa data och scenarioanalys, beroende på vad som är lämpligt. I verksamhetskonsekvensanalysen ska hänsyn tas till kritikaliteten i de identifierade och kartlagda affärsfunktionerna, stödprocesserna, tredjepartsberoendena och informationstillgångarna, samt deras ömsesidiga beroende. Finansiella entiteter ska säkerställa att IKT-tillgångarna och IKT-tjänsterna är utformade och används i full samstämmighet med verksamhetskonsekvensanalysen, särskilt vad gäller att i tillräcklig utsträckning säkerställa reservkapaciteten för alla kritiska komponenter.
+
+6\. Som en del av sin övergripande IKT-riskhantering ska finansiella entiteter
+
+a) testa IKT-kontinuitetsplanerna och åtgärds- och återställningsplanerna avseende IKT för de IKT-system som stöder alla funktioner minst en gång per år samt i samband med omfattande ändringar av de IKT-system som stöder kritiska eller viktiga funktioner,
+
+b) testa de kriskommunikationsplaner som har upprättats i enlighet med artikel [14](#artikel-14-kommunikation).
+
+Vid tillämpning av första stycket led a ska andra finansiella entiteter än mikroföretag i testplanerna inkludera scenarier för cyberangrepp och byten mellan den primära IKT-infrastrukturen och den reservkapacitet, de säkerhetskopior och reservanläggningar som krävs för att uppfylla de skyldigheter som anges i artikel [12](#artikel-12-strategier-och-förfaranden-för-säkerhetskopiering-och-förfaranden-och-metoder-för-återskapande-och-återställning).
+
+Finansiella entiteter ska regelbundet se över sin IKT-kontinuitetspolicy och sina åtgärds- och återställningsplaner avseende IKT med hänsyn till resultatet av tester som har utförts i enlighet med första stycket och rekommendationer från revisionskontroller eller tillsynsgranskningar.
+
+7\. Andra finansiella entiteter än mikroföretag ska ha en krishanteringsfunktion som, om deras IKT-kontinuitetsplaner eller åtgärds- och återställningsplaner avseende IKT aktiveras, bland annat ska innehålla tydliga förfaranden för hantering av intern och extern kriskommunikation i enlighet med artikel [14](#artikel-14-kommunikation).
+
+8\. Finansiella entiteter ska ha lättillgänglig dokumentation om den verksamhet som pågår före och under avbrott när deras IKT-kontinuitetsplaner och åtgärds- och återställningsplaner avseende IKT aktiveras.
+
+9\. Värdepapperscentraler ska förse de behöriga myndigheterna med kopior av resultatet av IKT-kontinuitetstesterna eller liknande övningar.
+
+10\. Andra finansiella entiteter än mikroföretag ska på begäran till de behöriga myndigheterna lämna en uppskattning av de totala årliga kostnader och förluster som orsakas av allvarliga IKT-relaterade incidenter.
+
+11\. I enlighet med artikel [16](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) ska de europeiska tillsynsmyndigheterna genom den gemensamma kommittén senast den 17 juli 2024 utarbeta gemensamma riktlinjer om uppskattningen av de totala årliga kostnaderna och förlusterna som avses i punkt 10.
+
+### Artikel 12 – Strategier och förfaranden för säkerhetskopiering och förfaranden och metoder för återskapande och återställning
+
+1\. För att säkerställa att IKT-system och data kan återställas med minsta möjliga driftstopp, begränsade avbrott och förluster ska finansiella entiteter som en del i sin IKT-riskhanteringsram utarbeta och dokumentera
+
+a) strategier och förfaranden för säkerhetskopiering där de anger omfattningen av de data som ska säkerhetskopieras och minimifrekvensen för säkerhetskopieringen, baserat på informationens kritikalitet eller uppgifternas konfidentialitetsnivå,
+
+b) förfaranden och metoder för återskapande och återställning.
+
+2\. Finansiella entiteter ska skapa säkerhetskopieringssystem som kan aktiveras i enlighet med strategierna och förfarandena för säkerhetskopiering samt med förfarande och metoder för återskapande och återställning. Aktiveringen av säkerhetskopieringssystem får inte äventyra säkerheten i nätverks- och informationssystemen eller datans tillgänglighet, äkthet, integritet eller konfidentialitet. Testning av säkerhetskopieringsförfarandena och förfarande och metoder för återskapande och återställning och metoderna ska genomföras regelbundet.
+
+3\. När finansiella entiteter återställer säkerhetskopierade data med hjälp av egna system ska de använda IKT-system som är fysiskt och logiskt segregerade från det IKT-system som är källan. IKT-systemen ska ha ett säkert skydd mot obehörig åtkomst eller IKT-förvanskning och medge ett snabbt återupptagande av tjänster, med hjälp av säkerhetskopior av data och system efter behov.
+
+För centrala motparter ska återställningsplanerna göra det möjligt att återställa alla transaktioner så som de var vid tidpunkten för avbrottet, så att den centrala motpartens verksamhet är fortsatt säker och avvecklingen kan fullföljas vid fastställd tidpunkt.
+
+Leverantörer av datarapporteringstjänster ska dessutom ha tillräckliga resurser och ha anläggningar för säkerhetskopiering och återskapande, så att de alltid kan erbjuda och upprätthålla sina tjänster.
+
+4\. Andra finansiella entiteter än mikroföretag ska upprätthålla IKT-reservkapacitet med resurser, förmåga och funktioner som är adekvata för att säkerställa verksamhetens behov. Mikroföretag ska bedöma behovet av att upprätthålla sådan IKT-reservkapacitet med utgångspunkt i vilken riskprofil de har.
+
+5\. Värdepapperscentraler ska ha minst ett sekundärt driftsställe med adekvata resurser, kapacitet, funktioner och personalarrangemang för att säkerställa verksamhetens behov.
+
+Det sekundära driftsstället ska
+
+a) vara beläget på ett geografiskt avstånd från det primära driftsstället som gör det möjligt för det sekundära driftsstället att ha en åtskild riskprofil och hindrar det från att påverkas av den händelse som påverkar det primära driftsstället,
+
+b) kunna säkra driftskontinuiteten i kritiska eller viktiga funktioner som är identiska med det primära driftsstället eller tillhandahålla den servicenivå som är nödvändig för att säkerställa att den finansiella entiteten kan bedriva sin kritiska verksamhet inom ramen för återställningsmålen,
+
+c) vara omedelbart tillgängligt för den finansiella entitetens personal i syfte att säkra driftskontinuitet i dess kritiska eller viktiga funktioner om det primära driftsstället inte är tillgängligt.
+
+6\. När finansiella entiteter fastställer återställningstid och återställningspunktmål för varje funktion ska de ta hänsyn till huruvida det är en kritisk eller viktig funktion och den eventuella övergripande inverkan på marknadseffektiviteten. Tidsmålen ska säkerställa att de överenskomna servicenivåerna uppnås i extrema scenarier.
+
+7\. När finansiella entiteter återställer verksamheten efter en IKT-relaterad incident ska de göra nödvändiga kontroller, inbegripet flera kontroller och avstämningar, för att säkerställa att dataintegriteten håller högsta nivå. Dessa kontroller ska också utföras när data från externa berörda parter rekonstrueras för att säkerställa att alla data stämmer överens mellan systemen.
+
+### Artikel 13 – Lärande och utveckling
+
+1\. Finansiella entiteter ska ha lämplig kapacitet och personal för att samla in information om sårbarheter och cyberhot, IKT-relaterade incidenter, särskilt cyberangrepp, och analysera vilken inverkan de kan förmodas ha på den digitala operativa motståndskraften.
+
+2\. Finansiella entiteter ska införa efterhandsöversyner av IKT-relaterade incidenter efter det att en allvarlig IKT-relaterad incident medför ett avbrott i kärnverksamheten, så att orsakerna till avbrotten kan analyseras och nödvändiga förbättringar av IKT-verksamheten eller i den IKT-kontinuitetspolicy som avses i artikel [11](#artikel-11-åtgärder-och-återställande) identifieras.
+
+Andra finansiella entiteter än mikroföretag ska på begäran till de behöriga myndigheterna meddela vilka ändringar som genomfördes efter de efterhandsöversyner av IKT-relaterade incidenter som avses i första stycket.
+
+De efterhandsöversyner av IKT-relaterade incidenter som avses i första stycket ska fastställa om de fastställda förfarandena följdes och om de åtgärder som vidtogs var effektiva, bl.a. när det gäller
+
+a) svarstiden för att reagera på säkerhetsvarningar och fastställa konsekvenserna av IKT-relaterade incidenter och deras allvarlighetsgrad,
+
+b) kvalitet och snabbhet i utförandet av kriminaltekniska analyser, om så är lämpligt,
+
+c) incidenteskaleringens effektivitet inom den finansiella entiteten,
+
+d) effektiviteten i intern och extern kommunikation.
+
+3\. Lärdomar av den testning av digital operativ motståndskraft som har utförts i enlighet med artiklarna [26](/lagstiftning/dora/kap-4#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) och [27](/lagstiftning/dora/kap-4#artikel-27-krav-för-testare-vid-utförandet-av-hotbildsstyrd-penetrationstestning) och av verkliga IKT-relaterade incidenter, särskilt cyberangrepp, samt utmaningar i samband med aktivering av IKT-kontinuitetsplaner och åtgärds- och återställningsplaner avseende IKT och relevant information som har utväxlats med motparter och bedömts under tillsynsgranskningar, ska införlivas fortlöpande i IKT-riskbedömningsprocessen. Dessa resultat ska utgöra en grund för lämpliga översyner av relevanta delar i den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram).
+
+4\. Finansiella entiteter ska övervaka effektiviteten i genomförandet av den strategi för digital operativ motståndskraft som anges i artikel [6.8](#artikel-6-ikt-riskhanteringsram). De ska kartlägga IKT-riskens utveckling över tid, analysera IKT-relaterade incidenters frekvens, typ, omfattning och utveckling, särskilt cyberangrepp och deras mönster, i syfte att förstå graden av IKT-riskexponering, särskilt när det gäller kritiska eller viktiga funktioner, och öka den finansiella entitetens cybermognad och cyberberedskap.
+
+5\. Senior IKT-personal ska minst en gång per år rapportera till ledningsorganet om de resultat som avses i punkt 3 och lägga fram rekommendationer.
+
+6\. Finansiella entiteter ska utarbeta program för medvetenhet om IKT-säkerhet och utbildning om digital operativ motståndskraft som obligatoriska moduler i sina personalutbildningsprogram. Dessa program och utbildningar ska gälla för alla anställda och personer i ledande ställning, och deras komplexitet ska motsvara behörigheten för personens roll. När så är lämpligt ska finansiella entiteter också inkludera tredjepartsleverantörer av IKT-tjänster i sina relevanta utbildningar, i enlighet med artikel [30.2](/lagstiftning/dora/kap-5#artikel-30-viktiga-avtalsbestämmelser) i.
+
+7\. Andra finansiella entiteter än mikroföretag ska kontinuerligt övervaka relevant teknisk utveckling, även i syfte att förstå vilka konsekvenser införandet av sådan ny teknik kan få för IKT-säkerhetskraven och den digitala operativa motståndskraften. De ska hålla sig uppdaterade om de senaste IKT-riskhanteringsprocesserna för att effektivt bekämpa nuvarande eller nya former av cyberangrepp.
+
+### Artikel 14 – Kommunikation
+
+1\. Som en del av den IKT-riskhanteringsram som avses i artikel [6.1](#artikel-6-ikt-riskhanteringsram) ska finansiella entiteter ha kriskommunikationsplaner som gör det möjligt att på ett ansvarsfullt sätt informera kunder och motparter samt allmänheten om åtminstone allvarliga IKT-relaterade incidenter eller sårbarheter, beroende på vad som är lämpligt.
+
+2\. Som en del av IKT-riskhanteringsramen ska finansiella entiteter genomföra kommunikationsstrategier för intern personal och externa berörda parter. I sina kommunikationsstrategier för personalen ska hänsyn tas till behovet av att skilja mellan personal som deltar i IKT-riskhantering, framför allt personalen med ansvar för åtgärder och återställande, och personal som behöver information.
+
+3\. Minst en person i den finansiella entiteten ska ha i uppgift att genomföra kommunikationsstrategin för IKT-relaterade incidenter och fungera som talesperson gentemot allmänheten och medierna i detta syfte.
+
+### Artikel 15 – Ytterligare harmonisering av verktyg, metoder, processer och strategier för IKT-riskhantering
+
+De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och i samråd med Europeiska unionens cybersäkerhetsbyrå (Enisa), utarbeta gemensamma förslag till tekniska standarder för tillsyn i syfte att
+
+a) närmare specificera delar som ska ingå i de IKT-relaterade säkerhetsstrategier, förfaranden, protokoll och verktyg som avses i artikel [9.2](#artikel-9-skydd-och-förebyggande) i syfte att säkerställa säkerheten i nätverk, möjliggöra lämpliga skyddsåtgärder mot intrång och missbruk av uppgifter, bevara uppgifternas tillgänglighet, äkthet, integritet och konfidentialitet, inbegripet krypteringsmetoder, och garantera en korrekt och snabb dataöverföring utan allvarliga avbrott och onödiga dröjsmål,
+
+b) utveckla ytterligare komponenter i den hantering av kontroll av åtkomsträttigheter som avses i artikel [9.4 c](#artikel-9-skydd-och-förebyggande) och tillhörande personalpolitik där det specificeras åtkomsträttigheter, förfaranden för beviljande och återkallande av rättigheter, övervakning av onormalt beteende i förhållande till IKT-risk genom lämpliga indikatorer, inbegripet mönster för nätanvändning, tidpunkter, it-verksamhet och okänd utrustning,
+
+c) vidareutveckla de mekanismer som anges i artikel [10.1](#artikel-10-upptäckt) för att möjliggöra en snabb upptäckt av onormal verksamhet och de kriterier som fastställs i artikel [10.2](#artikel-10-upptäckt) som utlöser processer för upptäckt och hantering av IKT-relaterade incidenter,
+
+d) närmare specificera komponenterna i den IKT-kontinuitetspolicy som avses i artikel [11.1](#artikel-11-åtgärder-och-återställande),
+
+e) närmare specificera de tester av IKT-kontinuitetsplaner som avses i artikel [11.6](#artikel-11-åtgärder-och-återställande) för att säkerställa att det vid sådan testning tas tillräckligt stor hänsyn till scenarier där kvaliteten på tillhandahållandet av en kritisk eller viktig funktion försämras till en oacceptabel nivå eller tillhandahållandet avbryts, och till de potentiella konsekvenserna av insolvens eller andra fel hos en relevant tredjepartsleverantör av IKT-tjänster och, i förekommande fall, de politiska riskerna i respektive leverantörers jurisdiktioner,
+
+f) närmare specificera komponenterna i de åtgärds- och återställningsplaner avseende IKT som avses i artikel [11.3](#artikel-11-åtgärder-och-återställande),
+
+g) närmare specificera innehållet i och formatet för den rapport om översynen av IKT-riskhanteringsramen som avses i artikel [6.5](#artikel-6-ikt-riskhanteringsram).
+
+När de europeiska tillsynsmyndigheterna utarbetar dessa förslag till tekniska standarder för tillsyn ska de beakta den finansiella entitetens storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i dess tjänster, verksamhet och insatser, samtidigt som vederbörlig hänsyn tas till eventuella särdrag som härrör från den särskilda karaktären på verksamheten i olika sektorer för finansiella tjänster.
+
+De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 januari 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 16 – Förenklad IKT-riskhanteringsram
+
+1\. Artiklarna [5](#artikel-5-styrning-och-organisation)–[15](#artikel-15-ytterligare-harmonisering-av-verktyg-metoder-processer-och-strategier-för-ikt-riskhantering) i [denna förordning](/lagstiftning/dora) ska inte tillämpas på små och icke-sammanlänkade värdepappersföretag, betalningsinstitut undantagna enligt [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366), institut undantagna enligt [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) och för vilka medlemsstaterna har beslutat att inte tillämpa den möjlighet som anges i artikel [2.4](/lagstiftning/dora/kap-1#artikel-2-tillämpningsområde) i [denna förordning](/lagstiftning/dora); institut för elektroniska pengar undantagna enligt [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110) och små tjänstepensionsinstitut.
+
+Utan att det påverkar tillämpningen av första stycket ska de enheter som förtecknas i första stycket
+
+a) inrätta och upprätthålla en sund och dokumenterad IKT-riskhanteringsram som specificerar de mekanismer och åtgärder som syftar till att ge en snabb, effektiv och heltäckande hantering av IKT-risk, inbegripet vad gäller skyddet av relevanta fysiska komponenter och infrastrukturer,
+
+b) kontinuerligt övervaka alla IKT-systems säkerhet och funktion,
+
+c) minimera effekterna av IKT-risk genom användningen av sunda, motståndskraftiga och uppdaterade IKT-system, IKT-protokoll och IKT-verktyg som lämpar sig för att stödja utförandet av verksamheten och tillhandahållandet av tjänster och på ett tillräckligt sätt skydda konfidentialitet, tillgänglighet, integritet eller äkthet hos datan i nätverks- och informationssystemen,
+
+d) göra det möjligt att snabbt identifiera och upptäcka IKT-risk och avvikelser i nätverks- och informationssystemen och att snabbt hantera IKT-relaterade incidenter,
+
+e) identifiera de viktigaste beroendena av tredjepartsleverantörer av IKT-tjänster,
+
+f) säkerställa kontinuiteten för kritiska eller viktiga funktioner genom kontinuitetsplaner och åtgärds- och återställningsåtgärder, vilket bland annat innefattar säkerhetskopiering och återskapande,
+
+g) regelbundet testa de planer och åtgärder som avses i led f, samt effektiviteten i de kontroller som genomförts i enlighet med leden a och c,
+
+h) i enlighet med vad som är lämpligt genomföra relevanta operativa slutsatser som härrör från de test som avses i led g och från efteranalyser av incidenter i IKT-riskbedömningsprocessen, och utifrån behoven och IKT-riskprofilen utarbeta program för medvetenhet om IKT-säkerhet och utbildning om digital operativ motståndskraft för personal och ledning.
+
+2\. Den IKT-riskhanteringsram som avses i punkt 1 andra stycket a, ska dokumenteras och ses över regelbundet och vid uppkomsten av allvarliga IKT-relaterade incidenter, i enlighet med tillsynsinstruktionerna. Ramen ska förbättras fortlöpande baserat på erfarenheterna från genomförande och övervakning. En rapport om översynen av IKT-riskhanteringsramen ska överlämnas till den behöriga myndigheten på dess begäran.
+
+3\. De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och i samråd med Enisa, utarbeta gemensamma förslag till tekniska standarder för tillsyn i syfte att
+
+a) närmare specificera vilka komponenter som ska ingå i den IKT-riskhanteringsram som avses i punkt 1 andra stycket a,
+
+b) närmare specificera komponenterna i förhållande till system, protokoll och verktyg för att minimera effekterna av IKT-risk som avses i punkt 1 andra stycket c, i syfte att säkerställa säkerheten i nätverken, möjliggöra lämpliga skyddsåtgärder mot intrång och missbruk av data och bevara datans tillgänglighet, äkthet, integritet och konfidentialitet,
+
+c) närmare specificera komponenterna i de IKT-kontinuitetsplaner som avses i punkt 1 andra stycket f,
+
+d) närmare specificera reglerna för testningen av kontinuitetsplanerna och säkerställa att de kontroller som avses i punkt 1 andra stycket g är effektiva, och säkerställa att det vid sådan testning tas tillräckligt stor hänsyn till scenarier där kvaliteten på tillhandahållandet av en kritisk eller viktig funktion försämras till en oacceptabel nivå eller tillhandahållandet avbryts,
+
+e) närmare specificera innehållet i och formatet för den rapport om översynen av IKT-riskhanteringsramen som avses i punkt 2.
+
+När de europeiska tillsynsmyndigheterna utarbetar dessa förslag till tekniska standarder för tillsyn ska de ta hänsyn till den finansiella entitetens storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i dess tjänster, verksamhet och insatser.
+
+De europeiska tillsynsmyndigheterna ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 17 januari 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,1 +1,800 @@
-{"version":"2.2.0","functions":[{"name":"Governance","description":"Governance focuses on the processes and activities related to how an organization manages overall software development activities. More specifically, this includes concerns that impact cross-functional groups involved in development, as well as business processes established at the organization level.","practices":[{"name":"Strategy and Metrics","shortName":"SM","description":"Software assurance entails many different activities and concerns. Without an overall plan, you might be spending a lot of effort to build in security, while in fact your efforts may be unaligned, disproportional or even counterproductive. The goal of the Strategy and Metrics (SM) practice is to build an efficient and effective plan for realizing your software security objectives within your organization.\n\nA software security program that selects and prioritizes activities of the rest of the model serves as the foundation for your efforts. The practice works on building the plan, maintaining and disseminating it.\n\nAt the same time, you want to keep track of your security posture and program improvements. A metrics-driven approach is included to ensure an accurate view on your activities. To measure is to know.","streams":[{"letter":"A","name":"Create and Promote","description":"This stream is about creating and promoting an application security roadmap to set the objectives of the enterprise on this topic and increase alignment among stakeholders.","activities":[{"level":1,"title":"Identify the organization's risk appetite","summary":"Identify organization drivers as they relate to the organization's risk tolerance."},{"level":2,"title":"Define the security strategy","summary":"Publish a unified strategy for application security."},{"level":3,"title":"Align security and business strategies","summary":"Align the application security program to support the organization's growth."}]},{"letter":"B","name":"Measure and Improve","description":"This stream aims to drive the validity, relevance, and improvement of the application security roadmap through measurements of performance within the organization.","activities":[{"level":1,"title":"Define basic security metrics","summary":"Define metrics with insight into the effectiveness and efficiency of the Application Security Program."},{"level":2,"title":"Set strategic KPIs","summary":"Set targets and KPI's for measuring the program effectiveness."},{"level":3,"title":"Drive the security program through metrics","summary":"Influence the strategy based on the metrics and organizational needs."}]}]},{"name":"Policy and Compliance","shortName":"PC","description":"The Policy and Compliance (PC) practice focuses on understanding and meeting external legal and regulatory requirements while driving internal security standards to ensure compliance in a way that is aligned with the business purpose of the organization.\n\nA driving theme for improvement within this practice is describing the organization's standards and 3rd party obligations as application requirements, enabling efficient and automated audits that may be leveraged within the SDLC and continuously demonstrate that all expectations are met.\n\nIn a sophisticated form, provision of this practice entails an organization-wide understanding of both internal standards and external compliance drivers while also maintaining low-latency checkpoints with project teams to ensure no project is operating outside expectations without visibility.","streams":[{"letter":"A","name":"Policy and Standards","description":"This stream focuses on maintaining policies and standards and providing them to support integration into the SDLC.","activities":[{"level":1,"title":"Define policies and standards","summary":"Determine a security baseline representing organization's policies and standards."},{"level":2,"title":"Develop test procedures","summary":"Develop security requirements applicable to all applications."},{"level":3,"title":"Measure compliance to policies and standards","summary":"Measure and report on the status of individual application's adherence to policies and standards."}]},{"letter":"B","name":"Compliance Management","description":"This stream focuses on identifying and providing compliance requirements to support integration into the SDLC.","activities":[{"level":1,"title":"Identify compliance requirements","summary":"Identify 3rd-party compliance drivers and requirements and map to existing policies and standards."},{"level":2,"title":"Standardize policy and compliance requirements","summary":"Publish compliance-specific application requirements and test guidance."},{"level":3,"title":"Measure compliance to external requirements","summary":"Measure and report on individual application's compliance with 3rd party requirements."}]}]},{"name":"Education and Guidance","shortName":"EG","description":"The Education and Guidance (EG) practice focuses on arming personnel involved in the software lifecycle with knowledge and resources to design, develop, and deploy secure software. With improved access to information, project teams can proactively identify and mitigate the specific security risks that apply to their organization.\n\nOne major theme for improvement across the Objectives is providing training for employees and increasing their security awareness, either through instructor-led sessions or computer-based modules. As an organization progresses, it builds a broad base of training starting with developers and moving to other roles, culminating with the addition of role-based training to ensure applicability and effectiveness.\n\nIn addition to training, this practice also requires the organization to make a significant investment in improving organizational culture to promote application security through collaboration between teams. Collaboration tools and increased transparency between technologies and tools support this approach to improve the security of the applications.","streams":[{"letter":"A","name":"Training and Awareness","description":"Training and awareness focuses on increasing the overall knowledge around software security among the different stakeholders within the organization.","activities":[{"level":1,"title":"Train all stakeholders for awareness","summary":"Provide security awareness training for all personnel involved in software development."},{"level":2,"title":"Customize security training","summary":"Offer technology and role-specific guidance, including security nuances of each language and platform."},{"level":3,"title":"Standardize security guidance","summary":"Standardized in-house guidance around the organization's secure software development standards."}]},{"letter":"B","name":"Organization and Culture","description":"Organization and culture focuses on promoting the culture of application security within the organization as an important success factor of an SDLC project.","activities":[{"level":1,"title":"Identify security champions","summary":"Identify a \"Security Champion\" within each development team."},{"level":2,"title":"Implement centers of excellence","summary":"Develop a secure software center of excellence promoting thought leadership among developers and architects."},{"level":3,"title":"Establish a security community","summary":"Build a secure software community including all organization people involved in software security."}]}]}]},{"name":"Design","description":"Design concerns the processes and activities related to how an organization defines goals and creates software within development projects. In general, this will include requirements gathering, high-level architecture specification and detailed design.","practices":[{"name":"Threat Assessment","shortName":"TA","description":"The Threat Assessment (TA) practice focuses on identifying and understanding project-level risks based on the functionality of the software being developed and characteristics of the runtime environment. From details about threats and likely attacks against each project, the organization as a whole operates more effectively through better decisions about prioritization of initiatives for security. Additionally, decisions about risk acceptance are more informed and therefore better aligned with the business.\n\nBy starting with simple threat models and building application risk profiles, an organization improves over time. Ultimately, a sophisticated organization would maintain this information in a way that is tightly coupled to the compensating factors and pass-through risks from external entities. This provides greater breadth of understanding for potential downstream impacts from security issues, tradeoffs, or flaws, while keeping a close watch on the organization’s current performance against known threats.","streams":[{"letter":"A","name":"Application Risk Profile","description":"An application risk profile helps to identify which applications can pose a serious threat to the organization if they were attacked or breached.","activities":[{"level":1,"title":"Perform application risk assessments","summary":"A basic assessment of the application risk is performed to understand likelihood and impact of an attack."},{"level":2,"title":"Inventory risk profiles","summary":"Understand the risk for all applications in the organization by centralizing the risk profile inventory for stakeholders."},{"level":3,"title":"Periodic review of risk profiles","summary":"Periodically review application risk profiles at regular intervals to ensure accuracy and reflect current state."}]},{"letter":"B","name":"Threat Modeling","description":"Threat modeling is intended to help software development teams understand what risks exist in what is being built, what could go wrong, and how the risks can be mitigated or remediated.","activities":[{"level":1,"title":"Perform basic threat modeling","summary":"Perform best-effort, risk-based threat modeling using brainstorming and existing diagrams with simple threat checklists."},{"level":2,"title":"Standardize and scale threat modeling","summary":"Standardize threat modeling training, processes, and tools to scale across the organization."},{"level":3,"title":"Optimize threat modeling","summary":"Continuous optimization and automation of your threat modeling methodology."}]}]},{"name":"Security Requirements","shortName":"SR","description":"The Security Requirements (SR) practice focuses on security requirements that are important in the context of secure software. A first type deals with typical software-related requirements, to specify objectives and expectations to protect the service and data at the core of the application. A second type deals with requirements relative to supplier organizations that are part of the development context of the application, in particular for outsourced development. It is important to streamline the expectations in terms of secure development because outsourced development can have a significant impact on the security of the application. The security of 3rd party (technical) libraries is part of the software supply chain stream (see Secure Build), and it is not included in this practice.","streams":[{"letter":"A","name":"Software Requirements","description":"Software requirements specify objectives and expectations to protect the service and data at the core of the application.","activities":[{"level":1,"title":"Identify security requirements","summary":"High-level application security objectives are mapped to functional requirements."},{"level":2,"title":"Standardize and integrate security requirements","summary":"Structured security requirements are available and utilized by developer teams."},{"level":3,"title":"Develop a security requirements framework","summary":"Build a requirements framework for product teams to utilize."}]},{"letter":"B","name":"Supplier Security","description":"Supplier security deals with requirements that are relative to supplier organizations within the development context of the application, in particular for outsourced development.","activities":[{"level":1,"title":"Perform vendor assessments","summary":"Evaluate the supplier based on organizational security requirements."},{"level":2,"title":"Discuss security responsibilities with suppliers","summary":"Build security into supplier agreements in order to ensure compliance with organizational requirements."},{"level":3,"title":"Align security methodology with suppliers","summary":"Ensure proper security coverage for external suppliers by providing clear objectives."}]}]},{"name":"Secure Architecture","shortName":"SA","description":"The Secure Architecture (SA) practice focuses on the security linked to components and technology you deal with during the architectural design of your software. Secure Architecture Design looks at the selection and composition of components that form the foundation of your solution, focusing on its security properties. Technology Management looks at the security of supporting technologies used during development, deployment and operations, such as development stacks and tooling, deployment tooling, and operating systems and tooling.","streams":[{"letter":"A","name":"Architecture Design","description":"The design of a software architecture can significantly impact the security posture of software, and the use of good security practices will improve the overall design.","activities":[{"level":1,"title":"Adhere to basic security principles","summary":"Teams are trained on the use of basic security principles during design."},{"level":2,"title":"Provide preferred security solutions","summary":"Establish common design patterns and security solutions for adoption."},{"level":3,"title":"Build reference architectures","summary":"Reference architectures are utilized and continuously evaluated for adoption and appropriateness."}]},{"letter":"B","name":"Technology Management","description":"Technologies and frameworks are the cornerstones of any software solution. The security properties of these must be looked into to ensure an appropriate security level and to anticipate any potential issues herein.","activities":[{"level":1,"title":"Identify tools and technologies","summary":"Elicit technologies, frameworks and integrations within the overall solution to identify risk."},{"level":2,"title":"Promote preferred tools and technologies","summary":"Standardize technologies and frameworks to be used throughout the different applications."},{"level":3,"title":"Enforce the use of recommended technologies","summary":"Impose the use of standard technologies on all software development."}]}]}]},{"name":"Implementation","description":"Implementation is focused on the processes and activities related to how an organization builds and deploys software components and their related defects.\n\nActivities within the Implementation function have the most impact on the daily life of developers. The joint goal is to ship reliably working software with minimum defects.","practices":[{"name":"Secure Build","shortName":"SB","description":"The Secure Build (SB) practice emphasizes the importance of building software in a standardized, repeatable manner, and of doing so using secure components, including 3rd party software dependencies.\n\nThe first stream focuses on removing any subjectivity from the build process by striving for full automation. An automated build pipeline can include additional automated security checks such as SAST and DAST to gain further assurance and flag security regressions early by failing the build, for example.\n\nThe second stream acknowledges the prevalence of software dependencies in modern applications. It aims to identify them and track their security status in order to contain the impact of their insecurity on an otherwise secure application. In an advanced form, it applies similar security checks to software dependencies as to the application itself.","streams":[{"letter":"A","name":"Build Process","description":"A consistent build process ensures the software you are deploying is predictable and directly linked to the source code. Furthermore, you can take advantage of the software build process for various security activities.","activities":[{"level":1,"title":"Define a consistent build process","summary":"Create a formal definition of the build process so that it becomes consistent and repeatable."},{"level":2,"title":"Automate the build process","summary":"Automate your build pipeline and secure the used tooling. Add security checks in the build pipeline."},{"level":3,"title":"Enforce a security baseline during build","summary":"Define mandatory security checks in the build process and ensure that building non-compliant artifacts fails."}]},{"letter":"B","name":"Software Dependencies","description":"External libraries are a significant part of modern software. The activities in this stream help create a view of external libraries and ensure their security strength is adequate.","activities":[{"level":1,"title":"Identify application dependencies","summary":"Create records with Bill of Materials of your applications and opportunistically analyze these."},{"level":2,"title":"Review application dependencies for security","summary":"Evaluate used dependencies and ensure timely reaction to situations posing risk to your applications."},{"level":3,"title":"Test application dependencies","summary":"Analyze used dependencies for security issues in a comparable way to your own code."}]}]},{"name":"Secure Deployment","shortName":"SD","description":"One of the final stages in delivering secure software is ensuring the security and integrity of developed applications are not compromised during deployment. The Secure Deployment (SD) practice focuses on this. To this end, the practice’s first stream focuses on removing manual error by automating the deployment process as much as possible, and making its success contingent upon the outcomes of integrated security verification checks. It also fosters Separation of Duties by making adequately trained, non-developers responsible for deployment.\n\nThe second stream goes beyond the mechanics of deployment, and focuses on protecting the privacy and integrity of sensitive data, such as passwords, tokens, and other secrets, required for applications to operate in production environments. In its simplest form, suitable production secrets are moved from repositories and configuration files into adequately managed digital vaults. In more advanced forms, secrets are dynamically generated at deployment time and routine processes detect and mitigate the presence of any unprotected secrets in the environment.","streams":[{"letter":"A","name":"Deployment Process","description":"A repeatable and consistent deployment process ensures you only deploy correct software artifacts to production. It also paves the way for representative test environments prior to production.","activities":[{"level":1,"title":"Use a repeatable deployment process","summary":"Formalize the deployment process and secure the used tooling and processes."},{"level":2,"title":"Automate deployment and integrate security checks","summary":"Automate the deployment process over all stages and introduce sensible security verification tests."},{"level":3,"title":"Verify the integrity of deployment artifacts","summary":"Automatically verify the integrity of all deployed software, regardless of whether it's internally or externally developed."}]},{"letter":"B","name":"Secret Management","description":"As the secure execution of any software system requires credentials, this stream ensures proper handling of these sensitive data elements within the organization's environment.","activities":[{"level":1,"title":"Protect application secrets in configuration and code","summary":"Introduce basic protection measures to limit access to your production secrets."},{"level":2,"title":"Include application secrets during deployment","summary":"Inject secrets dynamically during the deployment process from hardened storage and audit all human access to them."},{"level":3,"title":"Enforce lifecycle management of application secrets","summary":"Improve the lifecycle of application secrets by regularly generating them and by ensuring proper use."}]}]},{"name":"Defect Management","shortName":"DM","description":"The Defect Management (DM) practice focuses on collecting, recording, and analyzing software security defects and enriching them with information to drive metrics-based decisions.\n\nThe practice’s first stream deals with the process of handling and managing defects to ensure released software has a given assurance level. The second stream focuses on enriching the information about the defects and deriving metrics to guide decisions about the security of individual projects and of the security assurance program as a whole.\n\nIn a sophisticated form, the practice requires formalized, independent defect management and real-time, correlated information to detect trends and influence security strategy.","streams":[{"letter":"A","name":"Defect Tracking","description":"Defect tracking manages the collection and follow-up of all potential issues in a piece of software, from architectural flaws to coding issues and run-time vulnerabilities.","activities":[{"level":1,"title":"Track security defects centrally","summary":"Introduce a structured tracking of security defects and make knowledgeable decisions based on this information."},{"level":2,"title":"Rate and track security defects","summary":"Rate all security defects over the whole organization consistently and define SLAs for particular severity classes."},{"level":3,"title":"Enforce an SLA for defect management","summary":"Enforce the predefined SLAs and integrate your defect management system with other relevant tooling."}]},{"letter":"B","name":"Metrics and Feedback","description":"Defect tracking can drive the improvement of security activities within the organization through metrics and feedback.","activities":[{"level":1,"title":"Define basic defect metrics","summary":"Regularly go over previously recorded security defects and derive quick wins from basic metrics."},{"level":2,"title":"Define advanced defect metrics","summary":"Collect standardized defect management metrics and use these also for prioritization of centrally driven initiatives."},{"level":3,"title":"Use metrics to improve the security strategy","summary":"Continuously improve your security defect management metrics and correlate it with other sources."}]}]}]},{"name":"Verification","description":"Verification focuses on the processes and activities related to how an organization checks and tests artifacts produced throughout software development. This typically includes quality assurance work such as testing, but it can also include other review and evaluation activities.","practices":[{"name":"Architecture Assessment","shortName":"AA","description":"The Architecture Assessment (AA) practice ensures that the application and infrastructure architecture adequately meets all relevant security and compliance requirements, and sufficiently mitigates identified security threats. The first stream focuses on verifying that the security and compliance requirements identified in the Policy and Compliance, and Security Requirements, practices are met, first in an ad-hoc manner, then more systematically for each interface in the system. The second stream reviews the architecture, first for mitigations against typical threats, then against the specific threats identified in the Threat Assessment practice.\n\nIn its more advanced form, the practice formalizes the architecture security review process, continuously evaluates the effectiveness of the architecture's security controls, their scalability and strategic alignment. Identified weaknesses and possible improvements are fed back to the Secure Architecture practice to improve reference architectures.","streams":[{"letter":"A","name":"Architecture Validation","description":"Architecture validation confirms the security of the software and supporting architecture by identifying application and infrastructure architecture components and verifying their provision of security objectives and requirements.","activities":[{"level":1,"title":"Assess application architecture","summary":"Identify application and infrastructure architecture components and review for basic security provisioning."},{"level":2,"title":"Verify the application architecture for security methodically","summary":"Validate the architecture security mechanisms."},{"level":3,"title":"Verify the effectiveness of security components","summary":"Review of the architecture components' effectiveness."}]},{"letter":"B","name":"Architecture Mitigation","description":"Architecture mitigation focuses on ensuring that all threats identified during Threat Assessment are adequately mitigated, and existing reference architectures updated to address any unhandled threats.","activities":[{"level":1,"title":"Evaluate architecture for typical threats","summary":"Ad-hoc review of the architecture for unmitigated security threats."},{"level":2,"title":"Structurally verify the architecture for identified threats","summary":"Analyze the architecture for known threats."},{"level":3,"title":"Feed review results back to improve reference architectures","summary":"Feed the architecture review results back into the enterprise architecture, organization design principles and patterns, security solutions and reference architectures."}]}]},{"name":"Requirements-driven Testing","shortName":"RT","description":"The goal of the Requirements-driven Testing (RT) practice is to ensure that the implemented security controls operate as expected and satisfy the project's stated security requirements. It does so by incrementally building a set of security test and regression cases and executing them regularly.\n\nA key aspect of this practice is its attention to both positive and negative testing. The former verifies that the application's security controls satisfy stated security requirements and validates their correct functioning. These requirements are typically functional in nature. Negative testing addresses the quality of the implementation of the security controls and aims to detect unexpected design flaws and implementation bugs through misuse and abuse testing. In its more advanced forms, the practice promotes security stress testing, such as denial of service, and strives to continuously improve application security by consistently automating security unit tests and creating security regression tests for all bugs identified and fixed.\n\nAlthough both the Requirements-driven Testing and Security Testing practices are concerned with security testing, the former focuses on verifying the correct implementation of security requirements, while the latter aims to uncover technical implementation weaknesses in an application, irrespective of requirements.","streams":[{"letter":"A","name":"Control Verification","description":"Control Verification validates that security controls and requirements are met through testing derived from requirements, and prevents the introduction of bugs into later releases through regression testing.","activities":[{"level":1,"title":"Test the effectiveness of security controls","summary":"Test for software security controls."},{"level":2,"title":"Define and run security test cases from requirements","summary":"Derive test cases from known security requirements."},{"level":3,"title":"Automate security requirements testing","summary":"Perform regression testing (with security unit tests)."}]},{"letter":"B","name":"Misuse/Abuse Testing","description":"Misuse/Abuse Testing leverages fuzzing, misuse/abuse cases, and the identification of any functionality or resources in the software that can be abused in order to identify weaknesses in features to attack an application.","activities":[{"level":1,"title":"Perform fuzz testing","summary":"Perform security fuzz testing."},{"level":2,"title":"Define and run security abuse cases from requirements","summary":"Create and test abuse cases and business logic flaw tests."},{"level":3,"title":"Perform security stress testing","summary":"Denial of service and security stress testing."}]}]},{"name":"Security Testing","shortName":"ST","description":"The Security Testing (ST) practice leverages the fact that, while automated security testing is fast and scales well to numerous applications, in-depth testing based on good knowledge of an application and its business logic is often only possible via slower, manual expert security testing. Each stream therefore has one approach at its core.\n\nThe first stream focuses on establishing a common security baseline to automatically detect so-called \"low-hanging fruit\". Progressively customize the automated tests for each application and increase their frequency of execution to detect more bugs and regressions earlier, as close as possible to their inception. The more bugs the automated processes can detect, the more time experts have to use their knowledge and creativity to focus on more complex attack vectors and ensure in-depth application testing in the second stream. As manual review is slow and hard to scale, reviewers prioritize testing components based on their risk, recent relevant changes, or upcoming major releases. Organizations can also access external expertise by participating in bug bounty programs, for example.\n\nUnlike the Requirements-driven Testing practice which focuses on verifying that applications correctly implement their requirements, the goal of this practice is to uncover technical and business-logic weaknesses in the application and make them visible to management and business stakeholders, irrespective of requirements.","streams":[{"letter":"A","name":"Scalable Baseline","description":"Scalable baseline focuses on the use of application-specific automated testing tools that integrate security validation into the build and deploy process. The goal of this stream is to favor width (a broad spectrum of applications) over depth of testing.","activities":[{"level":1,"title":"Perform automated security testing","summary":"Utilize automated security testing tools."},{"level":2,"title":"Develop application-specific security test cases","summary":"Employ application-specific security testing automation."},{"level":3,"title":"Integrate security testing tools in the delivery pipeline","summary":"Integrate automated security testing into the build and deploy process."}]},{"letter":"B","name":"Deep Understanding","description":"Deep understanding focuses on performing manual security testing of high-risk components, using complex attack vectors with the goal of making advanced security testing an integral part of the development process. The goal of this stream is to favor testing depth (testing rigor) over testing width (the portfolio of applications).","activities":[{"level":1,"title":"Test high risk application components manually","summary":"Perform manual security testing of high-risk components."},{"level":2,"title":"Establish a penetration testing process","summary":"Conduct manual penetration testing."},{"level":3,"title":"Establish continuous, scalable security verification","summary":"Integrate security testing into development process."}]}]}]},{"name":"Operations","description":"The Operations Business Function encompasses those activities necessary to ensure confidentiality, integrity, and availability are maintained throughout the operational lifetime of an application and its associated data. Increased maturity with regard to this Business Function provides greater assurance that the organization is resilient in the face of operational disruptions, and responsive to changes in the operational landscape.","practices":[{"name":"Incident Management","shortName":"IM","description":"Once your organization has applications in operation, you are likely to face security incidents. In this model, we define a security incident as a breach, or the threat of an imminent breach, of at least one asset's security goals, whether due to malicious or negligent behavior. Examples of security incidents might include: a successful Denial of Service (DoS) attack against a cloud application, an application user accessing private data of another by abusing a security vulnerability, or an attacker modifying application source code. The Incident Management (IM) practice focuses on dealing with these in your organization.\n\nHistorically, many security incidents have been detected months, or even years, after the initial breach. During the \"dwell time\" before an incident is detected, significant damage can occur, increasing the difficulty of recovery. Our first activity stream, Incident Detection, focuses on decreasing that dwell time.\n\nOnce you have identified that you are suffering from a security incident, it's essential to respond in a disciplined, thorough manner to limit the damage, and return to normal operations as efficiently as possible. This is the focus of our second stream.","streams":[{"letter":"A","name":"Incident Detection","description":"Incident Detection refers to the process of determining whether an identified security-relevant event is, in fact, a security incident. The activities in this stream focus on the organization's ability to identify security incidents when they occur, and to initiate appropriate incident response activities.","activities":[{"level":1,"title":"Use best-effort incident detection","summary":"Use available log data to perform best-effort detection of possible security incidents."},{"level":2,"title":"Define an incident detection process","summary":"Follow an established, well-documented process for incident detection, with emphasis on automated log evaluation."},{"level":3,"title":"Improve the incident detection process","summary":"Use a proactively managed process for detection of incidents."}]},{"letter":"B","name":"Incident Response","description":"Incident Response starts the moment you acknowledge and verify the existence of a security incident. Your goal is to act in a coordinated and efficient way so that further damage is limited as much as possible. The activities in this stream focus on the organization's ability to respond appropriately and effectively to reported security incidents.","activities":[{"level":1,"title":"Create an incident response plan","summary":"Identify roles and responsibilities for incident response."},{"level":2,"title":"Define an incident response process","summary":"Establish a formal incident response process and ensure staff are properly trained in performing their roles."},{"level":3,"title":"Establish an incident response team","summary":"Employ a dedicated, well-trained incident response team."}]}]},{"name":"Environment Management","shortName":"EM","description":"The organization's work on application security doesn't end once the application becomes operational. New security features and patches are regularly released for the various elements of the technology stack you're using, until they become obsolete or are no longer supported.\n\nMost of the technologies in any application stack are not secure by default. This is frequently intentional, to enhance backwards compatibility or ease of setup. For this reason, ensuring the secure operation of the organization's technology stack requires the consistent application of secure baseline configurations to all components. The Environment Management (EM) practice focuses on keeping your environment clean and secure.\n\nVulnerabilities are discovered throughout the lifecycles of the technologies on which your organization relies, and new versions addressing them are released on various schedules. This makes it essential to monitor vulnerability reports and perform orderly, timely patching across all affected systems.","streams":[{"letter":"A","name":"Configuration Hardening","description":"The activities in this stream focus on the organization's management of security-related configurations in all elements of the technology stack. The emphasis is on those elements (e.g., operating systems, containers, frameworks, services, appliances, and libraries) obtained from third parties, because their architecture and design are not under the organization's control.","activities":[{"level":1,"title":"Use best-effort hardening","summary":"Perform best-effort hardening of configurations, based on readily available information."},{"level":2,"title":"Establish hardening baselines","summary":"Perform consistent hardening of configurations, following established baselines and guidance."},{"level":3,"title":"Perform continuous configuration monitoring","summary":"Actively monitor configurations for non-conformance to baselines, and handle detected occurrences as security defects."}]},{"letter":"B","name":"Patching and Updating","description":"The activities in this stream focus on the organization's handling of patches and updates for all elements of the technology stack. For software developed by the organization, these activities are concerned with delivering patches and updates to customers, as well as applying them to organization-managed solutions (e.g., software as a service). For third-party elements, these activities are concerned with the organization's timely application of updates and patches received.","activities":[{"level":1,"title":"Practice best-effort patching","summary":"Perform best-effort patching of system and application components."},{"level":2,"title":"Formalize patch management","summary":"Perform regular patching of system and application components, across the full stack. Ensure timely delivery of patches to customers."},{"level":3,"title":"Enforce timely patch management","summary":"Actively monitor update status and manage missing patches as security defects. Proactively obtain vulnerability and update information for components."}]}]},{"name":"Operational Management","shortName":"OM","description":"The Operational Management (OM) practice focuses on activities to ensure security is maintained throughout operational support functions. Although these functions are not performed directly by an application, the overall security of the application and its data depends on their proper performance. Deploying an application on an unsupported operating system with unpatched vulnerabilities, or failing to store backup media securely, can make the protections built into that application irrelevant.\n\nThe functions covered by this practice include, but are not limited to: system provisioning, administration, and decommissioning; database provisioning and administration; and data backup, restore, and archival.","streams":[{"letter":"A","name":"Data Protection","description":"The activities in this stream focus on ensuring the organization properly protects data in all aspects of their creation, handling, storage, and processing.","activities":[{"level":1,"title":"Organize basic data protections","summary":"Implement basic data protection practices."},{"level":2,"title":"Establish a data catalog","summary":"Develop data catalog and establish data protection policy."},{"level":3,"title":"Respond to data breaches","summary":"Automate detection of policy non-compliance, and audit compliance periodically. Regularly review and update to data catalog and data protection policy."}]},{"letter":"B","name":"System Decommissioning / Legacy Management","description":"From the perspective of the organization as a consumer of resources, the activities in this stream focus on the identification, management, and tracking of systems, applications, application dependencies, and services that are no longer used, have reached end of life, or are no longer actively developed or supported. Removal of unused systems and services improves manageability of the environment and reduces the organization's attack surface, while affording direct and indirect cost savings (e.g., reduced license count, reduced logging volume, or reduced analyst effort).","activities":[{"level":1,"title":"Identify unused applications","summary":"Decommission unused applications and services as identified. Manage customer upgrades/migrations individually."},{"level":2,"title":"Formalize decommissioning process","summary":"Develop repeatable decommissioning processes for unused systems/services, and for migration from legacy dependencies. Manage legacy migration roadmaps for customers."},{"level":3,"title":"Review application lifecycle state regularly","summary":"Proactively manage migration roadmaps, for both unsupported end-of-life dependencies, and legacy versions of delivered software."}]}]}]}]}
+{
+	"version": "2.2.0",
+	"functions": [
+		{
+			"name": "Governance",
+			"description": "Governance focuses on the processes and activities related to how an organization manages overall software development activities. More specifically, this includes concerns that impact cross-functional groups involved in development, as well as business processes established at the organization level.",
+			"practices": [
+				{
+					"name": "Strategy and Metrics",
+					"shortName": "SM",
+					"description": "Software assurance entails many different activities and concerns. Without an overall plan, you might be spending a lot of effort to build in security, while in fact your efforts may be unaligned, disproportional or even counterproductive. The goal of the Strategy and Metrics (SM) practice is to build an efficient and effective plan for realizing your software security objectives within your organization.\n\nA software security program that selects and prioritizes activities of the rest of the model serves as the foundation for your efforts. The practice works on building the plan, maintaining and disseminating it.\n\nAt the same time, you want to keep track of your security posture and program improvements. A metrics-driven approach is included to ensure an accurate view on your activities. To measure is to know.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Create and Promote",
+							"description": "This stream is about creating and promoting an application security roadmap to set the objectives of the enterprise on this topic and increase alignment among stakeholders.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify the organization's risk appetite",
+									"summary": "Identify organization drivers as they relate to the organization's risk tolerance."
+								},
+								{
+									"level": 2,
+									"title": "Define the security strategy",
+									"summary": "Publish a unified strategy for application security."
+								},
+								{
+									"level": 3,
+									"title": "Align security and business strategies",
+									"summary": "Align the application security program to support the organization's growth."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Measure and Improve",
+							"description": "This stream aims to drive the validity, relevance, and improvement of the application security roadmap through measurements of performance within the organization.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Define basic security metrics",
+									"summary": "Define metrics with insight into the effectiveness and efficiency of the Application Security Program."
+								},
+								{
+									"level": 2,
+									"title": "Set strategic KPIs",
+									"summary": "Set targets and KPI's for measuring the program effectiveness."
+								},
+								{
+									"level": 3,
+									"title": "Drive the security program through metrics",
+									"summary": "Influence the strategy based on the metrics and organizational needs."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Policy and Compliance",
+					"shortName": "PC",
+					"description": "The Policy and Compliance (PC) practice focuses on understanding and meeting external legal and regulatory requirements while driving internal security standards to ensure compliance in a way that is aligned with the business purpose of the organization.\n\nA driving theme for improvement within this practice is describing the organization's standards and 3rd party obligations as application requirements, enabling efficient and automated audits that may be leveraged within the SDLC and continuously demonstrate that all expectations are met.\n\nIn a sophisticated form, provision of this practice entails an organization-wide understanding of both internal standards and external compliance drivers while also maintaining low-latency checkpoints with project teams to ensure no project is operating outside expectations without visibility.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Policy and Standards",
+							"description": "This stream focuses on maintaining policies and standards and providing them to support integration into the SDLC.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Define policies and standards",
+									"summary": "Determine a security baseline representing organization's policies and standards."
+								},
+								{
+									"level": 2,
+									"title": "Develop test procedures",
+									"summary": "Develop security requirements applicable to all applications."
+								},
+								{
+									"level": 3,
+									"title": "Measure compliance to policies and standards",
+									"summary": "Measure and report on the status of individual application's adherence to policies and standards."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Compliance Management",
+							"description": "This stream focuses on identifying and providing compliance requirements to support integration into the SDLC.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify compliance requirements",
+									"summary": "Identify 3rd-party compliance drivers and requirements and map to existing policies and standards."
+								},
+								{
+									"level": 2,
+									"title": "Standardize policy and compliance requirements",
+									"summary": "Publish compliance-specific application requirements and test guidance."
+								},
+								{
+									"level": 3,
+									"title": "Measure compliance to external requirements",
+									"summary": "Measure and report on individual application's compliance with 3rd party requirements."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Education and Guidance",
+					"shortName": "EG",
+					"description": "The Education and Guidance (EG) practice focuses on arming personnel involved in the software lifecycle with knowledge and resources to design, develop, and deploy secure software. With improved access to information, project teams can proactively identify and mitigate the specific security risks that apply to their organization.\n\nOne major theme for improvement across the Objectives is providing training for employees and increasing their security awareness, either through instructor-led sessions or computer-based modules. As an organization progresses, it builds a broad base of training starting with developers and moving to other roles, culminating with the addition of role-based training to ensure applicability and effectiveness.\n\nIn addition to training, this practice also requires the organization to make a significant investment in improving organizational culture to promote application security through collaboration between teams. Collaboration tools and increased transparency between technologies and tools support this approach to improve the security of the applications.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Training and Awareness",
+							"description": "Training and awareness focuses on increasing the overall knowledge around software security among the different stakeholders within the organization.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Train all stakeholders for awareness",
+									"summary": "Provide security awareness training for all personnel involved in software development."
+								},
+								{
+									"level": 2,
+									"title": "Customize security training",
+									"summary": "Offer technology and role-specific guidance, including security nuances of each language and platform."
+								},
+								{
+									"level": 3,
+									"title": "Standardize security guidance",
+									"summary": "Standardized in-house guidance around the organization's secure software development standards."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Organization and Culture",
+							"description": "Organization and culture focuses on promoting the culture of application security within the organization as an important success factor of an SDLC project.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify security champions",
+									"summary": "Identify a \"Security Champion\" within each development team."
+								},
+								{
+									"level": 2,
+									"title": "Implement centers of excellence",
+									"summary": "Develop a secure software center of excellence promoting thought leadership among developers and architects."
+								},
+								{
+									"level": 3,
+									"title": "Establish a security community",
+									"summary": "Build a secure software community including all organization people involved in software security."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Design",
+			"description": "Design concerns the processes and activities related to how an organization defines goals and creates software within development projects. In general, this will include requirements gathering, high-level architecture specification and detailed design.",
+			"practices": [
+				{
+					"name": "Threat Assessment",
+					"shortName": "TA",
+					"description": "The Threat Assessment (TA) practice focuses on identifying and understanding project-level risks based on the functionality of the software being developed and characteristics of the runtime environment. From details about threats and likely attacks against each project, the organization as a whole operates more effectively through better decisions about prioritization of initiatives for security. Additionally, decisions about risk acceptance are more informed and therefore better aligned with the business.\n\nBy starting with simple threat models and building application risk profiles, an organization improves over time. Ultimately, a sophisticated organization would maintain this information in a way that is tightly coupled to the compensating factors and pass-through risks from external entities. This provides greater breadth of understanding for potential downstream impacts from security issues, tradeoffs, or flaws, while keeping a close watch on the organization’s current performance against known threats.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Application Risk Profile",
+							"description": "An application risk profile helps to identify which applications can pose a serious threat to the organization if they were attacked or breached.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Perform application risk assessments",
+									"summary": "A basic assessment of the application risk is performed to understand likelihood and impact of an attack."
+								},
+								{
+									"level": 2,
+									"title": "Inventory risk profiles",
+									"summary": "Understand the risk for all applications in the organization by centralizing the risk profile inventory for stakeholders."
+								},
+								{
+									"level": 3,
+									"title": "Periodic review of risk profiles",
+									"summary": "Periodically review application risk profiles at regular intervals to ensure accuracy and reflect current state."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Threat Modeling",
+							"description": "Threat modeling is intended to help software development teams understand what risks exist in what is being built, what could go wrong, and how the risks can be mitigated or remediated.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Perform basic threat modeling",
+									"summary": "Perform best-effort, risk-based threat modeling using brainstorming and existing diagrams with simple threat checklists."
+								},
+								{
+									"level": 2,
+									"title": "Standardize and scale threat modeling",
+									"summary": "Standardize threat modeling training, processes, and tools to scale across the organization."
+								},
+								{
+									"level": 3,
+									"title": "Optimize threat modeling",
+									"summary": "Continuous optimization and automation of your threat modeling methodology."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Security Requirements",
+					"shortName": "SR",
+					"description": "The Security Requirements (SR) practice focuses on security requirements that are important in the context of secure software. A first type deals with typical software-related requirements, to specify objectives and expectations to protect the service and data at the core of the application. A second type deals with requirements relative to supplier organizations that are part of the development context of the application, in particular for outsourced development. It is important to streamline the expectations in terms of secure development because outsourced development can have a significant impact on the security of the application. The security of 3rd party (technical) libraries is part of the software supply chain stream (see Secure Build), and it is not included in this practice.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Software Requirements",
+							"description": "Software requirements specify objectives and expectations to protect the service and data at the core of the application.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify security requirements",
+									"summary": "High-level application security objectives are mapped to functional requirements."
+								},
+								{
+									"level": 2,
+									"title": "Standardize and integrate security requirements",
+									"summary": "Structured security requirements are available and utilized by developer teams."
+								},
+								{
+									"level": 3,
+									"title": "Develop a security requirements framework",
+									"summary": "Build a requirements framework for product teams to utilize."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Supplier Security",
+							"description": "Supplier security deals with requirements that are relative to supplier organizations within the development context of the application, in particular for outsourced development.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Perform vendor assessments",
+									"summary": "Evaluate the supplier based on organizational security requirements."
+								},
+								{
+									"level": 2,
+									"title": "Discuss security responsibilities with suppliers",
+									"summary": "Build security into supplier agreements in order to ensure compliance with organizational requirements."
+								},
+								{
+									"level": 3,
+									"title": "Align security methodology with suppliers",
+									"summary": "Ensure proper security coverage for external suppliers by providing clear objectives."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Secure Architecture",
+					"shortName": "SA",
+					"description": "The Secure Architecture (SA) practice focuses on the security linked to components and technology you deal with during the architectural design of your software. Secure Architecture Design looks at the selection and composition of components that form the foundation of your solution, focusing on its security properties. Technology Management looks at the security of supporting technologies used during development, deployment and operations, such as development stacks and tooling, deployment tooling, and operating systems and tooling.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Architecture Design",
+							"description": "The design of a software architecture can significantly impact the security posture of software, and the use of good security practices will improve the overall design.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Adhere to basic security principles",
+									"summary": "Teams are trained on the use of basic security principles during design."
+								},
+								{
+									"level": 2,
+									"title": "Provide preferred security solutions",
+									"summary": "Establish common design patterns and security solutions for adoption."
+								},
+								{
+									"level": 3,
+									"title": "Build reference architectures",
+									"summary": "Reference architectures are utilized and continuously evaluated for adoption and appropriateness."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Technology Management",
+							"description": "Technologies and frameworks are the cornerstones of any software solution. The security properties of these must be looked into to ensure an appropriate security level and to anticipate any potential issues herein.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify tools and technologies",
+									"summary": "Elicit technologies, frameworks and integrations within the overall solution to identify risk."
+								},
+								{
+									"level": 2,
+									"title": "Promote preferred tools and technologies",
+									"summary": "Standardize technologies and frameworks to be used throughout the different applications."
+								},
+								{
+									"level": 3,
+									"title": "Enforce the use of recommended technologies",
+									"summary": "Impose the use of standard technologies on all software development."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Implementation",
+			"description": "Implementation is focused on the processes and activities related to how an organization builds and deploys software components and their related defects.\n\nActivities within the Implementation function have the most impact on the daily life of developers. The joint goal is to ship reliably working software with minimum defects.",
+			"practices": [
+				{
+					"name": "Secure Build",
+					"shortName": "SB",
+					"description": "The Secure Build (SB) practice emphasizes the importance of building software in a standardized, repeatable manner, and of doing so using secure components, including 3rd party software dependencies.\n\nThe first stream focuses on removing any subjectivity from the build process by striving for full automation. An automated build pipeline can include additional automated security checks such as SAST and DAST to gain further assurance and flag security regressions early by failing the build, for example.\n\nThe second stream acknowledges the prevalence of software dependencies in modern applications. It aims to identify them and track their security status in order to contain the impact of their insecurity on an otherwise secure application. In an advanced form, it applies similar security checks to software dependencies as to the application itself.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Build Process",
+							"description": "A consistent build process ensures the software you are deploying is predictable and directly linked to the source code. Furthermore, you can take advantage of the software build process for various security activities.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Define a consistent build process",
+									"summary": "Create a formal definition of the build process so that it becomes consistent and repeatable."
+								},
+								{
+									"level": 2,
+									"title": "Automate the build process",
+									"summary": "Automate your build pipeline and secure the used tooling. Add security checks in the build pipeline."
+								},
+								{
+									"level": 3,
+									"title": "Enforce a security baseline during build",
+									"summary": "Define mandatory security checks in the build process and ensure that building non-compliant artifacts fails."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Software Dependencies",
+							"description": "External libraries are a significant part of modern software. The activities in this stream help create a view of external libraries and ensure their security strength is adequate.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify application dependencies",
+									"summary": "Create records with Bill of Materials of your applications and opportunistically analyze these."
+								},
+								{
+									"level": 2,
+									"title": "Review application dependencies for security",
+									"summary": "Evaluate used dependencies and ensure timely reaction to situations posing risk to your applications."
+								},
+								{
+									"level": 3,
+									"title": "Test application dependencies",
+									"summary": "Analyze used dependencies for security issues in a comparable way to your own code."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Secure Deployment",
+					"shortName": "SD",
+					"description": "One of the final stages in delivering secure software is ensuring the security and integrity of developed applications are not compromised during deployment. The Secure Deployment (SD) practice focuses on this. To this end, the practice’s first stream focuses on removing manual error by automating the deployment process as much as possible, and making its success contingent upon the outcomes of integrated security verification checks. It also fosters Separation of Duties by making adequately trained, non-developers responsible for deployment.\n\nThe second stream goes beyond the mechanics of deployment, and focuses on protecting the privacy and integrity of sensitive data, such as passwords, tokens, and other secrets, required for applications to operate in production environments. In its simplest form, suitable production secrets are moved from repositories and configuration files into adequately managed digital vaults. In more advanced forms, secrets are dynamically generated at deployment time and routine processes detect and mitigate the presence of any unprotected secrets in the environment.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Deployment Process",
+							"description": "A repeatable and consistent deployment process ensures you only deploy correct software artifacts to production. It also paves the way for representative test environments prior to production.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Use a repeatable deployment process",
+									"summary": "Formalize the deployment process and secure the used tooling and processes."
+								},
+								{
+									"level": 2,
+									"title": "Automate deployment and integrate security checks",
+									"summary": "Automate the deployment process over all stages and introduce sensible security verification tests."
+								},
+								{
+									"level": 3,
+									"title": "Verify the integrity of deployment artifacts",
+									"summary": "Automatically verify the integrity of all deployed software, regardless of whether it's internally or externally developed."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Secret Management",
+							"description": "As the secure execution of any software system requires credentials, this stream ensures proper handling of these sensitive data elements within the organization's environment.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Protect application secrets in configuration and code",
+									"summary": "Introduce basic protection measures to limit access to your production secrets."
+								},
+								{
+									"level": 2,
+									"title": "Include application secrets during deployment",
+									"summary": "Inject secrets dynamically during the deployment process from hardened storage and audit all human access to them."
+								},
+								{
+									"level": 3,
+									"title": "Enforce lifecycle management of application secrets",
+									"summary": "Improve the lifecycle of application secrets by regularly generating them and by ensuring proper use."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Defect Management",
+					"shortName": "DM",
+					"description": "The Defect Management (DM) practice focuses on collecting, recording, and analyzing software security defects and enriching them with information to drive metrics-based decisions.\n\nThe practice’s first stream deals with the process of handling and managing defects to ensure released software has a given assurance level. The second stream focuses on enriching the information about the defects and deriving metrics to guide decisions about the security of individual projects and of the security assurance program as a whole.\n\nIn a sophisticated form, the practice requires formalized, independent defect management and real-time, correlated information to detect trends and influence security strategy.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Defect Tracking",
+							"description": "Defect tracking manages the collection and follow-up of all potential issues in a piece of software, from architectural flaws to coding issues and run-time vulnerabilities.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Track security defects centrally",
+									"summary": "Introduce a structured tracking of security defects and make knowledgeable decisions based on this information."
+								},
+								{
+									"level": 2,
+									"title": "Rate and track security defects",
+									"summary": "Rate all security defects over the whole organization consistently and define SLAs for particular severity classes."
+								},
+								{
+									"level": 3,
+									"title": "Enforce an SLA for defect management",
+									"summary": "Enforce the predefined SLAs and integrate your defect management system with other relevant tooling."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Metrics and Feedback",
+							"description": "Defect tracking can drive the improvement of security activities within the organization through metrics and feedback.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Define basic defect metrics",
+									"summary": "Regularly go over previously recorded security defects and derive quick wins from basic metrics."
+								},
+								{
+									"level": 2,
+									"title": "Define advanced defect metrics",
+									"summary": "Collect standardized defect management metrics and use these also for prioritization of centrally driven initiatives."
+								},
+								{
+									"level": 3,
+									"title": "Use metrics to improve the security strategy",
+									"summary": "Continuously improve your security defect management metrics and correlate it with other sources."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Verification",
+			"description": "Verification focuses on the processes and activities related to how an organization checks and tests artifacts produced throughout software development. This typically includes quality assurance work such as testing, but it can also include other review and evaluation activities.",
+			"practices": [
+				{
+					"name": "Architecture Assessment",
+					"shortName": "AA",
+					"description": "The Architecture Assessment (AA) practice ensures that the application and infrastructure architecture adequately meets all relevant security and compliance requirements, and sufficiently mitigates identified security threats. The first stream focuses on verifying that the security and compliance requirements identified in the Policy and Compliance, and Security Requirements, practices are met, first in an ad-hoc manner, then more systematically for each interface in the system. The second stream reviews the architecture, first for mitigations against typical threats, then against the specific threats identified in the Threat Assessment practice.\n\nIn its more advanced form, the practice formalizes the architecture security review process, continuously evaluates the effectiveness of the architecture's security controls, their scalability and strategic alignment. Identified weaknesses and possible improvements are fed back to the Secure Architecture practice to improve reference architectures.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Architecture Validation",
+							"description": "Architecture validation confirms the security of the software and supporting architecture by identifying application and infrastructure architecture components and verifying their provision of security objectives and requirements.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Assess application architecture",
+									"summary": "Identify application and infrastructure architecture components and review for basic security provisioning."
+								},
+								{
+									"level": 2,
+									"title": "Verify the application architecture for security methodically",
+									"summary": "Validate the architecture security mechanisms."
+								},
+								{
+									"level": 3,
+									"title": "Verify the effectiveness of security components",
+									"summary": "Review of the architecture components' effectiveness."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Architecture Mitigation",
+							"description": "Architecture mitigation focuses on ensuring that all threats identified during Threat Assessment are adequately mitigated, and existing reference architectures updated to address any unhandled threats.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Evaluate architecture for typical threats",
+									"summary": "Ad-hoc review of the architecture for unmitigated security threats."
+								},
+								{
+									"level": 2,
+									"title": "Structurally verify the architecture for identified threats",
+									"summary": "Analyze the architecture for known threats."
+								},
+								{
+									"level": 3,
+									"title": "Feed review results back to improve reference architectures",
+									"summary": "Feed the architecture review results back into the enterprise architecture, organization design principles and patterns, security solutions and reference architectures."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Requirements-driven Testing",
+					"shortName": "RT",
+					"description": "The goal of the Requirements-driven Testing (RT) practice is to ensure that the implemented security controls operate as expected and satisfy the project's stated security requirements. It does so by incrementally building a set of security test and regression cases and executing them regularly.\n\nA key aspect of this practice is its attention to both positive and negative testing. The former verifies that the application's security controls satisfy stated security requirements and validates their correct functioning. These requirements are typically functional in nature. Negative testing addresses the quality of the implementation of the security controls and aims to detect unexpected design flaws and implementation bugs through misuse and abuse testing. In its more advanced forms, the practice promotes security stress testing, such as denial of service, and strives to continuously improve application security by consistently automating security unit tests and creating security regression tests for all bugs identified and fixed.\n\nAlthough both the Requirements-driven Testing and Security Testing practices are concerned with security testing, the former focuses on verifying the correct implementation of security requirements, while the latter aims to uncover technical implementation weaknesses in an application, irrespective of requirements.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Control Verification",
+							"description": "Control Verification validates that security controls and requirements are met through testing derived from requirements, and prevents the introduction of bugs into later releases through regression testing.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Test the effectiveness of security controls",
+									"summary": "Test for software security controls."
+								},
+								{
+									"level": 2,
+									"title": "Define and run security test cases from requirements",
+									"summary": "Derive test cases from known security requirements."
+								},
+								{
+									"level": 3,
+									"title": "Automate security requirements testing",
+									"summary": "Perform regression testing (with security unit tests)."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Misuse/Abuse Testing",
+							"description": "Misuse/Abuse Testing leverages fuzzing, misuse/abuse cases, and the identification of any functionality or resources in the software that can be abused in order to identify weaknesses in features to attack an application.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Perform fuzz testing",
+									"summary": "Perform security fuzz testing."
+								},
+								{
+									"level": 2,
+									"title": "Define and run security abuse cases from requirements",
+									"summary": "Create and test abuse cases and business logic flaw tests."
+								},
+								{
+									"level": 3,
+									"title": "Perform security stress testing",
+									"summary": "Denial of service and security stress testing."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Security Testing",
+					"shortName": "ST",
+					"description": "The Security Testing (ST) practice leverages the fact that, while automated security testing is fast and scales well to numerous applications, in-depth testing based on good knowledge of an application and its business logic is often only possible via slower, manual expert security testing. Each stream therefore has one approach at its core.\n\nThe first stream focuses on establishing a common security baseline to automatically detect so-called \"low-hanging fruit\". Progressively customize the automated tests for each application and increase their frequency of execution to detect more bugs and regressions earlier, as close as possible to their inception. The more bugs the automated processes can detect, the more time experts have to use their knowledge and creativity to focus on more complex attack vectors and ensure in-depth application testing in the second stream. As manual review is slow and hard to scale, reviewers prioritize testing components based on their risk, recent relevant changes, or upcoming major releases. Organizations can also access external expertise by participating in bug bounty programs, for example.\n\nUnlike the Requirements-driven Testing practice which focuses on verifying that applications correctly implement their requirements, the goal of this practice is to uncover technical and business-logic weaknesses in the application and make them visible to management and business stakeholders, irrespective of requirements.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Scalable Baseline",
+							"description": "Scalable baseline focuses on the use of application-specific automated testing tools that integrate security validation into the build and deploy process. The goal of this stream is to favor width (a broad spectrum of applications) over depth of testing.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Perform automated security testing",
+									"summary": "Utilize automated security testing tools."
+								},
+								{
+									"level": 2,
+									"title": "Develop application-specific security test cases",
+									"summary": "Employ application-specific security testing automation."
+								},
+								{
+									"level": 3,
+									"title": "Integrate security testing tools in the delivery pipeline",
+									"summary": "Integrate automated security testing into the build and deploy process."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Deep Understanding",
+							"description": "Deep understanding focuses on performing manual security testing of high-risk components, using complex attack vectors with the goal of making advanced security testing an integral part of the development process. The goal of this stream is to favor testing depth (testing rigor) over testing width (the portfolio of applications).",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Test high risk application components manually",
+									"summary": "Perform manual security testing of high-risk components."
+								},
+								{
+									"level": 2,
+									"title": "Establish a penetration testing process",
+									"summary": "Conduct manual penetration testing."
+								},
+								{
+									"level": 3,
+									"title": "Establish continuous, scalable security verification",
+									"summary": "Integrate security testing into development process."
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Operations",
+			"description": "The Operations Business Function encompasses those activities necessary to ensure confidentiality, integrity, and availability are maintained throughout the operational lifetime of an application and its associated data. Increased maturity with regard to this Business Function provides greater assurance that the organization is resilient in the face of operational disruptions, and responsive to changes in the operational landscape.",
+			"practices": [
+				{
+					"name": "Incident Management",
+					"shortName": "IM",
+					"description": "Once your organization has applications in operation, you are likely to face security incidents. In this model, we define a security incident as a breach, or the threat of an imminent breach, of at least one asset's security goals, whether due to malicious or negligent behavior. Examples of security incidents might include: a successful Denial of Service (DoS) attack against a cloud application, an application user accessing private data of another by abusing a security vulnerability, or an attacker modifying application source code. The Incident Management (IM) practice focuses on dealing with these in your organization.\n\nHistorically, many security incidents have been detected months, or even years, after the initial breach. During the \"dwell time\" before an incident is detected, significant damage can occur, increasing the difficulty of recovery. Our first activity stream, Incident Detection, focuses on decreasing that dwell time.\n\nOnce you have identified that you are suffering from a security incident, it's essential to respond in a disciplined, thorough manner to limit the damage, and return to normal operations as efficiently as possible. This is the focus of our second stream.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Incident Detection",
+							"description": "Incident Detection refers to the process of determining whether an identified security-relevant event is, in fact, a security incident. The activities in this stream focus on the organization's ability to identify security incidents when they occur, and to initiate appropriate incident response activities.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Use best-effort incident detection",
+									"summary": "Use available log data to perform best-effort detection of possible security incidents."
+								},
+								{
+									"level": 2,
+									"title": "Define an incident detection process",
+									"summary": "Follow an established, well-documented process for incident detection, with emphasis on automated log evaluation."
+								},
+								{
+									"level": 3,
+									"title": "Improve the incident detection process",
+									"summary": "Use a proactively managed process for detection of incidents."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Incident Response",
+							"description": "Incident Response starts the moment you acknowledge and verify the existence of a security incident. Your goal is to act in a coordinated and efficient way so that further damage is limited as much as possible. The activities in this stream focus on the organization's ability to respond appropriately and effectively to reported security incidents.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Create an incident response plan",
+									"summary": "Identify roles and responsibilities for incident response."
+								},
+								{
+									"level": 2,
+									"title": "Define an incident response process",
+									"summary": "Establish a formal incident response process and ensure staff are properly trained in performing their roles."
+								},
+								{
+									"level": 3,
+									"title": "Establish an incident response team",
+									"summary": "Employ a dedicated, well-trained incident response team."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Environment Management",
+					"shortName": "EM",
+					"description": "The organization's work on application security doesn't end once the application becomes operational. New security features and patches are regularly released for the various elements of the technology stack you're using, until they become obsolete or are no longer supported.\n\nMost of the technologies in any application stack are not secure by default. This is frequently intentional, to enhance backwards compatibility or ease of setup. For this reason, ensuring the secure operation of the organization's technology stack requires the consistent application of secure baseline configurations to all components. The Environment Management (EM) practice focuses on keeping your environment clean and secure.\n\nVulnerabilities are discovered throughout the lifecycles of the technologies on which your organization relies, and new versions addressing them are released on various schedules. This makes it essential to monitor vulnerability reports and perform orderly, timely patching across all affected systems.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Configuration Hardening",
+							"description": "The activities in this stream focus on the organization's management of security-related configurations in all elements of the technology stack. The emphasis is on those elements (e.g., operating systems, containers, frameworks, services, appliances, and libraries) obtained from third parties, because their architecture and design are not under the organization's control.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Use best-effort hardening",
+									"summary": "Perform best-effort hardening of configurations, based on readily available information."
+								},
+								{
+									"level": 2,
+									"title": "Establish hardening baselines",
+									"summary": "Perform consistent hardening of configurations, following established baselines and guidance."
+								},
+								{
+									"level": 3,
+									"title": "Perform continuous configuration monitoring",
+									"summary": "Actively monitor configurations for non-conformance to baselines, and handle detected occurrences as security defects."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "Patching and Updating",
+							"description": "The activities in this stream focus on the organization's handling of patches and updates for all elements of the technology stack. For software developed by the organization, these activities are concerned with delivering patches and updates to customers, as well as applying them to organization-managed solutions (e.g., software as a service). For third-party elements, these activities are concerned with the organization's timely application of updates and patches received.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Practice best-effort patching",
+									"summary": "Perform best-effort patching of system and application components."
+								},
+								{
+									"level": 2,
+									"title": "Formalize patch management",
+									"summary": "Perform regular patching of system and application components, across the full stack. Ensure timely delivery of patches to customers."
+								},
+								{
+									"level": 3,
+									"title": "Enforce timely patch management",
+									"summary": "Actively monitor update status and manage missing patches as security defects. Proactively obtain vulnerability and update information for components."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Operational Management",
+					"shortName": "OM",
+					"description": "The Operational Management (OM) practice focuses on activities to ensure security is maintained throughout operational support functions. Although these functions are not performed directly by an application, the overall security of the application and its data depends on their proper performance. Deploying an application on an unsupported operating system with unpatched vulnerabilities, or failing to store backup media securely, can make the protections built into that application irrelevant.\n\nThe functions covered by this practice include, but are not limited to: system provisioning, administration, and decommissioning; database provisioning and administration; and data backup, restore, and archival.",
+					"streams": [
+						{
+							"letter": "A",
+							"name": "Data Protection",
+							"description": "The activities in this stream focus on ensuring the organization properly protects data in all aspects of their creation, handling, storage, and processing.",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Organize basic data protections",
+									"summary": "Implement basic data protection practices."
+								},
+								{
+									"level": 2,
+									"title": "Establish a data catalog",
+									"summary": "Develop data catalog and establish data protection policy."
+								},
+								{
+									"level": 3,
+									"title": "Respond to data breaches",
+									"summary": "Automate detection of policy non-compliance, and audit compliance periodically. Regularly review and update to data catalog and data protection policy."
+								}
+							]
+						},
+						{
+							"letter": "B",
+							"name": "System Decommissioning / Legacy Management",
+							"description": "From the perspective of the organization as a consumer of resources, the activities in this stream focus on the identification, management, and tracking of systems, applications, application dependencies, and services that are no longer used, have reached end of life, or are no longer actively developed or supported. Removal of unused systems and services improves manageability of the environment and reduces the organization's attack surface, while affording direct and indirect cost savings (e.g., reduced license count, reduced logging volume, or reduced analyst effort).",
+							"activities": [
+								{
+									"level": 1,
+									"title": "Identify unused applications",
+									"summary": "Decommission unused applications and services as identified. Manage customer upgrades/migrations individually."
+								},
+								{
+									"level": 2,
+									"title": "Formalize decommissioning process",
+									"summary": "Develop repeatable decommissioning processes for unused systems/services, and for migration from legacy dependencies. Manage legacy migration roadmaps for customers."
+								},
+								{
+									"level": 3,
+									"title": "Review application lifecycle state regularly",
+									"summary": "Proactively manage migration roadmaps, for both unsupported end-of-life dependencies, and legacy versions of delivered software."
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

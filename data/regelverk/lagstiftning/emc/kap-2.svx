@@ -1,0 +1,111 @@
+---
+'source': 'emc'
+'ref': 'Kapitel 2'
+'title': 'Kapitel 2 – DE EKONOMISKA AKTÖRERNAS SKYLDIGHETER'
+'kind': 'chapter'
+'description': 'EMC-direktivet, Kapitel 2.'
+'designation': 'EMC-direktivet Kapitel 2'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0023.03#cpt_2'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 7 – Tillverkarnas skyldigheter
+
+1\. När tillverkarna släpper ut sina apparater på marknaden ska de se till att de har konstruerats och tillverkats i enlighet med de väsentliga kraven i bilaga I.
+
+2\. Tillverkarna ska utarbeta den tekniska dokumentation som avses i bilaga II eller bilaga III och utföra eller låta utföra den relevanta bedömning av överensstämmelse som avses i artikel [14](/lagstiftning/emc/kap-3#artikel-14-förfarande-vid-bedömning-av-överensstämmelse-för-apparater).
+
+Om bedömningen har visat att apparaten uppfyller de tillämpliga kraven ska tillverkarna upprätta en EU-försäkran om överensstämmelse och anbringa CE-märkningen.
+
+3\. Tillverkarna ska behålla den tekniska dokumentationen och EU-försäkran om överensstämmelse i tio år efter det att apparaten har släppts ut på marknaden.
+
+4\. Tillverkarna ska se till att det finns rutiner som garanterar att serietillverkningen fortsätter att överensstämma med kraven i [detta direktiv](/lagstiftning/emc). Det ska också tas hänsyn till ändringar i apparatens konstruktion eller egenskaper och ändringar i de harmoniserade standarderna eller andra tekniska specifikationer som det hänvisas till vid försäkran om överensstämmelse för en apparat.
+
+5\. Tillverkarna ska se till att de apparater som de har släppt ut på marknaden är försedda med typnummer, partinummer, serienummer eller annan identifieringsmärkning eller, om detta inte är möjligt på grund av apparatens storlek eller art, se till att den erforderliga informationen lämnas på förpackningen eller i ett medföljande dokument.
+
+6\. Tillverkarna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på apparaten, eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med apparaten. Den angivna adressen ska ange en enda kontaktpunkt där tillverkaren kan kontaktas. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+7\. Tillverkarna ska se till att apparaten åtföljs av bruksanvisningar och den information som avses i artikel [18](/lagstiftning/emc/kap-3#artikel-18-information-om-användningen-av-apparaten) på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten. Dessa bruksanvisningar och information liksom alla etiketter ska vara tydliga och lättbegripliga.
+
+8\. Tillverkare som anser eller har skäl att tro att en apparat som de har släppt ut på marknaden inte överensstämmer med [detta direktiv](/lagstiftning/emc) ska omedelbart vidta de korrigerande åtgärder som krävs för att få apparaten att överensstämma med kraven eller, om så är lämpligt, dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska tillverkarna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+9\. Tillverkarna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven i [detta direktiv](/lagstiftning/emc), på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de har släppt ut på marknaden.
+
+### Artikel 8 – Tillverkarens representanter
+
+1\. Tillverkarna får genom skriftlig fullmakt utse en representant.
+
+Skyldigheterna i enlighet med artikel [7.1](#artikel-7-tillverkarnas-skyldigheter) och skyldigheten att upprätta sådan teknisk dokumentation som avses i artikel [7.2](#artikel-7-tillverkarnas-skyldigheter) får inte delegeras till tillverkarens representant.
+
+2\. Tillverkarens representant ska utföra de uppgifter som anges i fullmakten från tillverkaren. Fullmakten ska ge tillverkarens representant rätt att åtminstone
+
+a) inneha EU-försäkran om överensstämmelse och den tekniska dokumentationen för att kunna uppvisa dem för de nationella marknadskontrollmyndigheterna i tio år efter det att apparaten har släppts ut på marknaden,
+
+b) på motiverad begäran av en behörig nationell myndighet ge den myndigheten all information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven,
+
+c) på deras begäran samarbeta med de behöriga nationella myndigheterna om de åtgärder som vidtas för att undanröja riskerna med de apparater som omfattas av fullmakten.
+
+### Artikel 9 – Importörernas skyldigheter
+
+1\. Importörerna får endast släppa ut apparater på marknaden som överensstämmer med kraven.
+
+2\. Innan importörerna släpper ut en apparat på marknaden ska de se till att tillverkaren har utfört den bedömning av överensstämmelse som avses i artikel [14](/lagstiftning/emc/kap-3#artikel-14-förfarande-vid-bedömning-av-överensstämmelse-för-apparater). De ska se till att tillverkaren har upprättat den tekniska dokumentationen, att apparaten är försedd med CE-märkning och åtföljs av de dokument som krävs samt att tillverkaren har uppfyllt kraven i artikel [7.5](#artikel-7-tillverkarnas-skyldigheter) och [7.6](#artikel-7-tillverkarnas-skyldigheter).
+
+Om en importör anser eller har skäl att tro att en apparat inte överensstämmer med de väsentliga kraven i bilaga I får importören inte släppa ut apparaten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om apparaten utgör en risk ska importören dessutom informera tillverkaren och marknadskontrollmyndigheterna om detta.
+
+3\. Importörerna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på apparaten eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med apparaten. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+4\. Importörerna ska se till att apparaten åtföljs av bruksanvisningar och den information som avses i artikel [18](/lagstiftning/emc/kap-3#artikel-18-information-om-användningen-av-apparaten) på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten.
+
+5\. Importörerna ska, så länge de har ansvar för en apparat, se till att förvarings- eller transportförhållandena för apparaten inte äventyrar apparatens överensstämmelse med de väsentliga kraven i bilaga I.
+
+6\. Importörer som anser eller har skäl att tro att en apparat som de har släppt ut på marknaden inte överensstämmer med [detta direktiv](/lagstiftning/emc) ska omedelbart vidta de korrigerande åtgärder som krävs för att få apparaten att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska importörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+7\. Under tio år efter det att apparaten har släppts ut på marknaden ska importörerna hålla en kopia av EU-försäkran om överensstämmelse tillgänglig för marknadskontrollmyndigheterna och se till att dessa myndigheter på begäran kan få tillgång till den tekniska dokumentationen.
+
+8\. Importörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att en apparat överensstämmer med kraven, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de har släppt ut på marknaden.
+
+### Artikel 10 – Distributörernas skyldigheter
+
+1\. När distributörerna tillhandahåller en apparat på marknaden ska de iaktta vederbörlig omsorg för att se till att kraven i [detta direktiv](/lagstiftning/emc) uppfylls.
+
+2\. Innan distributörerna tillhandahåller en apparat på marknaden ska de kontrollera att den är försedd med CE-märkning, att den åtföljs av de dokument som krävs och av bruksanvisning och den information som avses i artikel [18](/lagstiftning/emc/kap-3#artikel-18-information-om-användningen-av-apparaten) på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare i den medlemsstat där apparaten ska tillhandahållas på marknaden samt att tillverkaren och importören har uppfyllt kraven i artiklarna [7.5](#artikel-7-tillverkarnas-skyldigheter), [7.6](#artikel-7-tillverkarnas-skyldigheter) respektive 9.3.
+
+Om en distributör anser eller har skäl att tro att en apparat inte överensstämmer med de väsentliga kraven i bilaga I får distributören inte tillhandahålla apparaten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om apparaten utgör en risk ska distributören dessutom informera tillverkaren eller importören samt marknadskontrollmyndigheterna om detta.
+
+3\. Distributörerna ska, så länge de har ansvar för en apparat, se till att förvarings- eller transportförhållandena för apparaten inte äventyrar apparatens överensstämmelse med de väsentliga kraven i bilaga I.
+
+4\. Distributörer som anser eller har skäl att tro att en apparat som de har tillhandahållit på marknaden inte överensstämmer med [detta direktiv](/lagstiftning/emc) ska försäkra sig om att nödvändiga korrigerande åtgärder vidtas för att få apparaten att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska distributörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+5\. Distributörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten den information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de tillhandahållit på marknaden.
+
+### Artikel 11 – Fall där tillverkarens skyldigheter är tillämpliga på importörer och distributörer
+
+Importörer eller distributörer ska anses vara tillverkare enligt [detta direktiv](/lagstiftning/emc) och ska ha samma skyldigheter som tillverkaren har enligt artikel [7](#artikel-7-tillverkarnas-skyldigheter) när de släpper ut en apparat på marknaden i eget namn eller under eget varumärke eller ändrar en apparat som redan släppts ut på marknaden på ett sådant sätt att överensstämmelsen med [detta direktiv](/lagstiftning/emc) kan påverkas.
+
+### Artikel 12 – Identifiering av de ekonomiska aktörerna
+
+De ekonomiska aktörerna ska på begäran identifiera följande aktörer för marknadskontrollmyndigheterna:
+
+a) Ekonomiska aktörer som har levererat en apparat till dem.
+
+b) Ekonomiska aktörer som de har levererat en apparat till.
+
+De ekonomiska aktörerna ska kunna ge den information som avses i första stycket i tio år efter det att de har fått apparaten levererad och i tio år efter det att de har levererat apparaten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

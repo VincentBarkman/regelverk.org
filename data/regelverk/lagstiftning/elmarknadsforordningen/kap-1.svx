@@ -1,0 +1,327 @@
+---
+'source': 'elmarknadsforordningen'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – SYFTE, TILLÄMPNINGSOMRÅDE OCH DEFINITIONER'
+'kind': 'chapter'
+'description': 'Elmarknadsförordningen, Kapitel I.'
+'designation': 'Elmarknadsförordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0024.03#cpt_I'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Syfte och tillämpningsområde
+
+Syftet med [denna förordning](/lagstiftning/elmarknadsforordningen) är att
+
+a) lägga grunden för ett effektivt uppnående av målen för energiunionen, och särskilt klimat- och energiramen för 2030, genom att med hjälp av marknadens signaler uppnå ökad effektivitet, en större andel förnybara energikällor, försörjningstrygghet, flexibilitet, hållbarhet, utfasning av fossila bränslen och ökad innovation,
+
+b) fastställa grundläggande principer för välfungerande, integrerade elmarknader, som möjliggör icke-diskriminerande marknadstillträde för alla leverantörer av resurser och för elkunder, ger mer inflytande till konsumenterna, säkerställer konkurrenskraft på den globala marknaden, efterfrågeflexibilitet, energilagring och energieffektivitet, underlättar aggregering av decentraliserad produktion och förbrukning, och möjliggör marknadsintegrering såväl som sektoriell integrering och marknadsbaserad ersättning för el som produceras från förnybara källor,
+
+c) fastställa rättvisa regler för gränsöverskridande elhandel, och därmed stärka konkurrensen på den inre marknaden för el, med beaktande av de nationella och regionala marknadernas särdrag; detta omfattar att det inrättas en kompensationsmekanism för gränsöverskridande flöden av el, att det införs harmoniserade principer för avgifter för gränsöverskridande överföring och tilldelning av tillgänglig kapacitet för sammanlänkningar mellan de nationella överföringssystemen,
+
+d) underlätta genomförandet av en välfungerande och transparent grossistmarknad och bidra till en hög nivå av elförsörjningstrygghet, samt tillhandahålla mekanismer för att harmonisera reglerna för gränsöverskridande elhandel.
+
+### Artikel 2 – Definitioner
+
+I [denna förordning](/lagstiftning/elmarknadsforordningen) avses med
+
+1\. sammanlänkning
+
+: en överföringsledning som passerar eller sträcker sig över en gräns mellan medlemsstater och som kopplar samman medlemsstaternas nationella överföringssystem,
+
+2\. tillsynsmyndighet
+
+: en tillsynsmyndighet som utsetts av varje medlemsstat i enlighet med artikel [57.1](/lagstiftning/elmarknadsdirektivet/kap-7#artikel-57-tillsynsmyndigheternas-utnämning-och-oberoende) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+3\. gränsöverskridande flöde
+
+: ett fysiskt flöde av el i en medlemsstats överföringsnät som uppstår genom påverkan av producentverksamhet, kundverksamhet, eller båda, utanför den medlemsstaten på dess överföringsnät,
+
+4\. överbelastning
+
+: en situation där alla begäranden från marknadsaktörer om handel mellan nätområden inte kan tillmötesgås därför att de avsevärt skulle påverka de fysiska flödena genom nätelement som inte kan klara dessa flöden,
+
+5\. ny sammanlänkning
+
+: en sammanlänkning som inte var färdig den 4 augusti 2003,
+
+6\. strukturell överbelastning
+
+: överbelastning i överföringssystemet som kan definieras på ett entydigt sätt, som är förutsägbar, geografiskt stabil över tiden och ofta återkommer under normala förhållanden i elkraftsystemet,
+
+7\. marknadsoperatör
+
+: en enhet som tillhandahåller en tjänst med vilken bud för att sälja el matchas med bud för att köpa el,
+
+8\. nominerad elmarknadsoperatör
+
+: en marknadsoperatör som av den behöriga myndigheten utsetts att utföra arbetsuppgifter i samband med gemensam dagen före- eller intradagskoppling,
+
+9\. värde av förlorad last
+
+: en uppskattning i euro/MWh av det högsta elpris som kunder är villiga att betala för att undvika strömavbrott,
+
+10\. balansering
+
+: alla åtgärder och processer, inom alla tidsramar, genom vilka systemansvariga för överföringssystem fortlöpande säkerställer att systemfrekvensen bibehålls inom ett fördefinierat stabilitetsområde och att nödvändiga reserver upprätthålls med hänsyn till den kvalitet som krävs,
+
+11\. balansenergi
+
+: energi som används av systemansvariga för överföringssystem för att utföra balansering,
+
+12\. leverantör av balanstjänst
+
+: en marknadsaktör som tillhandahåller balansenergi och/eller balanskapacitet för systemansvariga för överföringssystem,
+
+13\. balanskapacitet
+
+: en mängd kapacitet som en leverantör av balanstjänster har accepterat att upprätthålla och för vilken leverantören av balanstjänster accepterat att lämna in bud på motsvarande mängd balansenergi till den systemansvarige för överföringssystemet under avtalets löptid,
+
+14\. balansansvarig part
+
+: en marknadsaktör eller dennes valda företrädare som ansvarar för aktörens obalanser på elmarknaden,
+
+15\. avräkningsperiod för obalanser
+
+: den tidsenhet som används för beräkning av obalansen hos en balansansvarig part,
+
+16\. obalanspris
+
+: priset för en obalans, vare sig det är positivt, noll eller negativt, för varje avräkningsperiod för obalanser och för obalans uppåt respektive nedåt,
+
+17\. område för obalanspris
+
+: det område för vilket ett obalanspris beräknas,
+
+18\. förkvalificeringsprocess
+
+: process för att kontrollera att en leverantör av balanskapacitet uppfyller de krav som ställs av de systemansvariga för överföringssystem,
+
+19\. reservkapacitet
+
+: den mängd frekvenshållningsreserver, frekvensåterställningsreserver eller ersättningsreserver som måste finnas tillgänglig för den systemansvarige för överföringssystemet,
+
+20\. prioriterad inmatning
+
+: avseende modellen för självdirigering, inmatning från kraftverk på grundval av andra kriterier än den ekonomiska rangordningen av bud, och, avseende modellen för central dirigering, inmatning från kraftverk på grundval av andra kriterier än den ekonomiska rangordningen av bud eller nätbegränsningar, som ger prioritet till inmatning från särskilda teknikformer för elproduktion,
+
+21\. kapacitetsberäkningsregion
+
+: det geografiska område där samordnad kapacitetsberäkning tillämpas,
+
+22\. kapacitetsmekanism
+
+: en tillfällig åtgärd för att säkerställa att önskad nivå av nödvändig resurstillräcklighet uppnås, genom ersättning till resurser för att de är tillgängliga, med undantag för åtgärder som rör stödtjänster eller hantering av överbelastning,
+
+23\. högeffektiv kraftvärme
+
+: kraftvärme som uppfyller kriterierna i bilaga II till Europaparlamentets och rådets [direktiv 2012/27/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012L0027) (16),
+
+24\. demonstrationsprojekt
+
+: ett projekt som visar upp teknik som är den första av sitt slag inom unionen och som representerar en viktig innovation som med god marginal överträffar tidigare känd teknik,
+
+25\. marknadsaktör
+
+: en fysisk eller juridisk person som producerar, köper eller säljer el, efterfrågeflexibilitet eller lagringstjänster, inklusive lägger handelsorder, på en eller flera elmarknader, däribland energibalansmarknader,
+
+26\. omdirigering
+
+: en åtgärd, inbegripet begränsning av tilldelad kapacitet som aktiveras av en eller flera systemansvariga genom att ändra produktionsmönstret eller belastningsmönstret, eller båda, för att ändra fysiska flöden i elsystemet och minska en fysisk överbelastning eller på annat sätt säkerställa systemsäkerhet,
+
+27\. motköp
+
+: ett utbyte mellan elområden som initieras av systemansvariga mellan två elområden för att minska fysisk överbelastning,
+
+28\. kraftproduktionsanläggning
+
+: en anläggning som omvandlar primärenergi till elektrisk energi och som består av en eller flera kraftproduktionsmoduler som är anslutna till ett nät,
+
+29\. modell för centraldirigering
+
+: en modell för planering och dirigering där produktionsplaner och förbrukningsplaner såväl som dirigering av kraftproduktionsanläggningar och förbrukningsanläggningar, i den mån de är dirigerbara anläggningar, bestäms av en systemansvarig för överföringssystem inom den integrerade planeringsprocessen,
+
+30\. modell för självreglering
+
+: en modell för planering och dirigering där produktionsplaner och förbrukningsplaner såväl som dirigering av kraftproduktionsanläggningar och förbrukningsanläggningar bestäms av de planeringsansvariga vid de anläggningarna,
+
+31\. standardbalansprodukt
+
+: en harmoniserad balansprodukt som definierats av alla systemansvariga för överföringssystem för utbyte av balanstjänster,
+
+32\. specifik balansprodukt
+
+: en balansprodukt som skiljer sig från en standardbalansprodukt,
+
+33\. delegerad operatör
+
+: en enhet till vilken specifika uppgifter eller skyldigheter som åligger en systemansvarig för överföringssystem eller nominerad elmarknadsoperatör enligt [denna förordning](/lagstiftning/elmarknadsforordningen) eller andra unionsrättsakter har delegerats av den systemansvarige för överföringssystemen eller den nominerade elmarknadsoperatören eller har tilldelats av en medlemsstat eller en tillsynsmyndighet,
+
+34\. kund
+
+: en kund enligt definitionen i artikel [2.1](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+35\. slutkund
+
+: slutkund enligt definitionen i artikel [2.3](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+36\. grossist
+
+: grossist enligt definitionen i artikel [2.2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+37\. hushållskund
+
+: hushållskund enligt definitionen i artikel [2.4](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+38\. små företag
+
+: små företag enligt definitionen i artikel [2.7](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+39\. aktiv kund
+
+: aktiv konsument enligt definitionen i artikel [2.8](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+40\. elmarknader
+
+: elmarknader enligt definitionen i artikel [2.9](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+41\. leverans
+
+: leverans enligt definitionen i artikel [2.12](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+42\. avtal om leverans av el
+
+: avtal om leverans av el enligt definitionen i artikel [2.13](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+43\. aggregering
+
+: aggregering enligt definitionen i artikel [2.18](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+44\. efterfrågeflexibilitet
+
+: efterfrågeflexibilitet enligt definitionen i artikel [2.20](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+45\. smarta mätarsystem
+
+: smarta mätarsystem enligt definitionen i artikel [2.23](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+46\. driftskompatibilitet
+
+: driftskompatibilitet enligt definitionen i artikel [2.24](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+47\. distribution
+
+: distribution enligt definitionen i artikel [2.28](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+48\. systemansvarig för distributionssystem
+
+: systemansvarig för distributionssystem enligt definitionen i artikel [2.29](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+49\. energieffektivitet
+
+: energieffektivitet enligt definitionen i artikel [2.30](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+50\. energi från förnybara energikällor eller förnybar energi
+
+: energi från förnybara energikällor enligt definitionen i artikel [2.31](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+51\. distribuerad produktion
+
+: distribuerad produktion enligt definitionen i artikel [2.32](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+52\. överföring
+
+: överföring enligt definitionen i artikel [2.34](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+53\. systemansvarig för överföringssystem
+
+: systemansvarig för överföringssystem enligt definitionen i artikel [2.35](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+54\. systemanvändare
+
+: systemanvändare enligt definitionen i artikel [2.36](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+55\. produktion
+
+: produktion enligt definitionen i artikel [2.37](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+56\. producent
+
+: producent enligt definitionen i artikel [2.38](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+57\. sammanlänkat system
+
+: sammanlänkat system enligt definitionen i artikel [2.40](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+58\. litet enskilt system
+
+: litet enskilt system enligt definitionen i artikel [2.42](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+59\. litet sammanlänkat system
+
+: litet sammanlänkat system enligt definitionen i artikel [2.43](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+60\. stödtjänst
+
+: stödtjänst enligt definitionen i artikel [2.48](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+61\. icke-frekvensrelaterad stödtjänst
+
+: icke-frekvensrelaterad stödtjänst enligt definitionen i artikel [2.49](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+62\. energilagring
+
+: energilagring enligt definitionen i artikel [2.59](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) i [direktiv (EU) 2019/944](/lagstiftning/elmarknadsdirektivet),
+
+63\. regionalt samordningscentrum
+
+: regionalt samordningscentrum inrättat enligt artikel [35](/lagstiftning/elmarknadsforordningen/kap-5#artikel-35-inrättande-av-regionala-samordningscentrum-och-dessas-uppdrag) i [denna förordning](/lagstiftning/elmarknadsforordningen),
+
+64\. grossistmarknaden för energi
+
+: grossistmarknaden för energi enligt definitionen i artikel [2.6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011R1227) i [Europaparlamentets och rådets förordning (EU) nr 1227/2011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011R1227) (17),
+
+65\. elområde
+
+: det största geografiska område inom vilket marknadsaktörerna kan handla energi utan kapacitetstilldelning,
+
+66\. kapacitetstilldelning
+
+: tilldelning av kapacitet mellan elområden,
+
+67\. kontrollområde
+
+: en sammanhängande del av det sammanlänkade systemet, som drivs av en enda systemansvarig och ska inkludera sammankopplade fysiska belastningar och/eller eventuella förbrukningsenheter,
+
+68\. samordnad nätöverföringskapacitet
+
+: en metod för kapacitetsberäkning som är baserad på principen om att i förväg utvärdera och definiera en maximal energihandel mellan angränsande elområden,
+
+69\. kritiskt linjesegment
+
+: en nätdel som antingen är i elområdet eller mellan elområden med hänsyn till kapacitetsberäkningsförfarandet, vilket begränsar den mängd kraft som kan handlas,
+
+70\. kapacitet mellan elområden
+
+: det sammanlänkade systemets förmåga att överföra energi mellan elområden,
+
+71\. produktionsenhet
+
+: en enda elproducent som tillhör en produktionsanläggning.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

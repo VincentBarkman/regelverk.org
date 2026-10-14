@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { mode } from "mode-watcher";
-	import { Toaster as Sonner, type ToasterProps as SonnerProps } from "svelte-sonner";
+	import { mode } from 'mode-watcher';
+	import { Toaster as Sonner, type ToasterProps as SonnerProps } from 'svelte-sonner';
 	import RiLoaderLine from 'remixicon-svelte/icons/loader-line';
 	import RiCheckboxCircleLine from 'remixicon-svelte/icons/checkbox-circle-line';
 	import RiErrorWarningLine from 'remixicon-svelte/icons/error-warning-line';
@@ -16,8 +16,8 @@
 	style="--normal-bg: var(--color-popover); --normal-text: var(--color-popover-foreground); --normal-border: var(--color-border);"
 	toastOptions={{
 		classes: {
-			toast: "cn-toast",
-		},
+			toast: 'cn-toast'
+		}
 	}}
 	{...restProps}
 >

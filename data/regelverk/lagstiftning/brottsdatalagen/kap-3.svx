@@ -1,0 +1,157 @@
+---
+'source': 'brottsdatalagen'
+'ref': '3 kap.'
+'title': '3 kap. – Personuppgiftsansvarigas skyldigheter'
+'kind': 'chapter'
+'description': 'Brottsdatalagen, 3 kap..'
+'designation': 'Brottsdatalagen 3 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/brottsdatalag-20181177_sfs-2018-1177/#K3'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### 1 §
+
+Den personuppgiftsansvarige är ansvarig för all behandling av personuppgifter som utförs under dennes ledning eller på dennes vägnar.
+
+### 2 §
+
+Den personuppgiftsansvarige ska, genom lämpliga tekniska och organisatoriska åtgärder, säkerställa och kunna visa att behandlingen av personuppgifter är författningsenlig och att den registrerades rättigheter skyddas.
+
+### 3 §
+
+Den personuppgiftsansvarige ska när medlen för behandlingen bestäms och vid behandlingen, genom lämpliga tekniska och organisatoriska åtgärder, se till att nödvändiga skyddsåtgärder integreras i behandlingen (inbyggt dataskydd).
+
+### 4 §
+
+Den personuppgiftsansvarige ska se till att det i automatiserade behandlingssystem som regel inte är möjligt att behandla andra personuppgifter än de som är nödvändiga för varje särskilt angivet ändamål med behandlingen
+
+(dataskydd som standard).
+
+### 5 §
+
+Den personuppgiftsansvarige ska säkerställa att det i automatiserade behandlingssystem förs loggar över personuppgiftsbehandling i den utsträckning det är särskilt föreskrivet.
+
+### 6 §
+
+Den personuppgiftsansvarige ska se till att tillgången till personuppgifter begränsas till vad var och en behöver för att kunna fullgöra sina arbetsuppgifter.
+
+### 7 §
+
+Om en ny typ av behandling, eller betydande förändringar av redan pågående behandling, kan antas medföra särskild risk för intrång i den registrerades personliga integritet, ska den personuppgiftsansvarige innan behandlingen påbörjas eller förändringen genomförs bedöma konsekvenserna för skyddet av personuppgifter.
+
+Om konsekvensbedömningen visar att det finns särskild risk för intrång i registrerades personliga integritet eller om typen av behandling innebär särskild risk för intrång, ska den personuppgiftsansvarige samråda med tillsynsmyndigheten i god tid innan behandlingen påbörjas eller betydande förändringar genomförs (förhandssamråd).
+
+### 8 §
+
+Den personuppgiftsansvarige ska vidta lämpliga tekniska och organisatoriska åtgärder för att skydda de personuppgifter som behandlas, särskilt mot obehörig eller otillåten behandling och mot förlust, förstöring eller annan oavsiktlig skada.
+
+### 9 §
+
+Senast 72 timmar efter det att den personuppgiftsansvarige fått kännedom om en personuppgiftsincident ska den anmälas till tillsynsmyndigheten, utom i de fall där incidenten ska rapporteras enligt [säkerhetsskyddslagen (2018:585)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A585) eller föreskrifter som har meddelats i anslutning till den lagen.
+
+Anmälan behöver inte göras om det är osannolikt att personuppgiftsincidenten har medfört eller kommer att medföra någon risk för otillbörligt intrång i den registrerades personliga integritet. [Lag (2018:1249)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A1249).
+
+### 10 §
+
+Om en personuppgiftsincident som ska anmälas enligt
+
+[9 §](#9) första stycket har medfört eller kan antas medföra särskild risk för otillbörligt intrång i registrerades personliga integritet, ska den personuppgiftsansvarige utan onödigt dröjsmål underrätta den registrerade om incidenten.
+
+Underrättelseskyldigheten gäller inte om den personuppgiftsansvarige
+
+1\. har tillämpat lämpliga tekniska och organisatoriska skyddsåtgärder på de personuppgifter som påverkades av incidenten,
+
+2\. har säkerställt att det inte längre finns särskild risk för otillbörligt intrång i registrerades personliga integritet, eller
+
+3\. skulle behöva göra oproportionerliga ansträngningar för att underrätta alla berörda.
+
+I fall som avses i andra stycket 3 ska allmänheten informeras eller en liknande åtgärd vidtas genom vilken de registrerade får nödvändig information.
+
+### 11 §
+
+Den personuppgiftsansvarige får avstå från att lämna information enligt [10 §](#10) i den utsträckning det är särskilt föreskrivet i lag eller annan författning eller annars framgår av beslut som har meddelats med stöd av författning att uppgifter inte får lämnas ut av hänsyn till intresset av att
+
+1\. förebygga, förhindra eller upptäcka brottslig verksamhet, utreda eller lagföra brott, verkställa straffrättsliga påföljder eller upprätthålla allmän ordning och säkerhet,
+
+2\. andra rättsliga utredningar eller undersökningar inte hindras,
+
+3\. nationell säkerhet skyddas, eller
+
+4\. någon annans rättigheter och friheter skyddas.
+
+Om den personuppgiftsansvarige inte är en myndighet, gäller undantaget i första stycket även för uppgifter som hos en myndighet skulle ha varit sekretessbelagda enligt offentlighets- och [sekretesslagen (2009:400)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A400).
+
+### 12 §
+
+Den personuppgiftsansvarige ska samarbeta med tillsynsmyndigheten när den utför uppgifter enligt [denna lag](/lagstiftning/brottsdatalagen) och föreskrifter som har meddelats i anslutning till lagen.
+
+### 13 §
+
+Den personuppgiftsansvarige ska utse ett eller flera dataskyddsombud och anmäla till tillsynsmyndigheten när dataskyddsombud utses och entledigas.
+
+### 14 §
+
+Dataskyddsombud ska
+
+1\. självständigt kontrollera att den personuppgiftsansvarige behandlar personuppgifter författningsenligt och på ett korrekt sätt och i övrigt fullgör sina skyldigheter,
+
+2\. informera och ge råd till den personuppgiftsansvarige och de som behandlar personuppgifter under dennes ledning om deras skyldigheter vid behandling av personuppgifter,
+
+3\. på begäran ge den personuppgiftsansvarige råd vid en konsekvensbedömning och kontrollera att den genomförs på korrekt sätt,
+
+4\. vara kontaktpunkt för enskilda i frågor som rör behandling av personuppgifter, och
+
+5\. samarbeta med tillsynsmyndigheten och vara kontaktpunkt för den vid förhandssamråd och andra frågor som rör behandling av personuppgifter.
+
+### 15 §
+
+Den som fullgör uppgift som dataskyddsombud får inte obehörigen röja det som han eller hon vid fullgörandet av sin uppgift har fått kännedom om.
+
+I det allmännas verksamhet tillämpas offentlighets- och [sekretesslagen (2009:400)](https://rkrattsbaser.gov.se/sfst?bet=2009%3A400) i stället för första stycket.
+
+### 16 §
+
+Den personuppgiftsansvarige får, om det är lämpligt, anlita personuppgiftsbiträden för behandling av personuppgifter på den personuppgiftsansvariges vägnar. Innan ett personuppgiftsbiträde anlitas ska den personuppgiftsansvarige försäkra sig om att biträdet kommer att vidta de lämpliga tekniska och organisatoriska åtgärder som krävs för att behandlingen av personuppgifter ska vara författningsenlig och för att skydda registrerades rättigheter.
+
+Personuppgiftsbiträdets behandling av personuppgifter ska regleras i ett skriftligt avtal eller annan skriftlig överenskommelse.
+
+### 17 §
+
+Ett personuppgiftsbiträde får inte anlita ett annat personuppgiftsbiträde utan skriftligt tillstånd från den personuppgiftsansvarige.
+
+### 18 §
+
+Ett personuppgiftsbiträde och de som arbetar under biträdets ledning ska behandla personuppgifter i enlighet med instruktioner från den personuppgiftsansvarige.
+
+Om ett personuppgiftsbiträde bestämmer ändamålen med och medlen för behandlingen, ska biträdet anses vara personuppgiftsansvarig för den behandlingen.
+
+### 19 §
+
+Det som sägs om den personuppgiftsansvariges skyldigheter i [5](#5), [6](#6), [8](#8) och [12 §§](#12) gäller även för personuppgiftsbiträden.
+
+### 20 §
+
+Två eller flera behöriga myndigheter är gemensamt personuppgiftsansvariga om de gemensamt bestämmer ändamålen med och medlen för personuppgiftsbehandlingen.
+
+Den registrerade får utöva sina rättigheter enligt lagen mot var och en av de gemensamt personuppgiftsansvariga.
+
+### 21 §
+
+Regeringen får meddela föreskrifter om skyldighet att föra register över kategorier av behandling av personuppgifter och skyldighet att införa interna rutiner för anmälan av överträdelser.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

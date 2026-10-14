@@ -1,0 +1,38 @@
+---
+'name': 'Brottsdatalagen'
+'title': 'Brottsdatalag (2018:1177)'
+'type': 'national-law'
+'description': 'Svensk lag om behandling av personuppgifter vid
+  brottsbekämpning, komplement till GDPR för polis och åklagare.'
+'designation': 'SFS 2018:1177'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'published': '2018-06-21'
+'applies-from': '2018-08-01'
+'related':
+  - 'gdpr'
+  - 'personuppgiftslagen'
+'sites':
+  - 'it'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/brottsdatalag-20181177_sfs-2018-1177/'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [1 kap. – Allmänna bestämmelser](/lagstiftning/brottsdatalagen/kap-1) · §§ 1–6
+- [2 kap. – Behandling av personuppgifter](/lagstiftning/brottsdatalagen/kap-2) · §§ 1–22
+- [3 kap. – Personuppgiftsansvarigas skyldigheter](/lagstiftning/brottsdatalagen/kap-3) · §§ 1–21
+- [4 kap. – Enskildas rättigheter](/lagstiftning/brottsdatalagen/kap-4) · §§ 1–12
+- [5 kap. – Tillsyn](/lagstiftning/brottsdatalagen/kap-5) · §§ 1–13
+- [6 kap. – Administrativa sanktionsavgifter](/lagstiftning/brottsdatalagen/kap-6) · §§ 1–9
+- [7 kap. – Skadestånd och överklagande](/lagstiftning/brottsdatalagen/kap-7) · §§ 1–5
+- [8 kap. – Överföring av personuppgifter till tredjeland och internationella organisationer](/lagstiftning/brottsdatalagen/kap-8) · §§ 1–10
+<!-- scan-laws:end -->

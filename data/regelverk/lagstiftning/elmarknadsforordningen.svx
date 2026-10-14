@@ -1,0 +1,36 @@
+---
+'name': 'Elmarknadsförordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2019/943'
+'type': 'eu-regulation'
+'description': 'EU-förordning om den inre marknaden för el.'
+'designation': 'EU 2019/943'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2019-06-05'
+'applies-from': '2020-01-01'
+'related':
+  - 'ellagen'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – SYFTE, TILLÄMPNINGSOMRÅDE OCH DEFINITIONER](/lagstiftning/elmarknadsforordningen/kap-1) · Artiklarna 1–2
+- [Kapitel II – ALLMÄNNA REGLER FÖR ELMARKNADEN](/lagstiftning/elmarknadsforordningen/kap-2) · Artiklarna 3–13
+- [Kapitel III – TILLTRÄDE TILL NÄT OCH HANTERING AV ÖVERBELASTNING](/lagstiftning/elmarknadsforordningen/kap-3) · Artiklarna 14–19
+- [Kapitel IV – RESURSTILLRÄCKLIGHET](/lagstiftning/elmarknadsforordningen/kap-4) · Artiklarna 20–27
+- [Kapitel V – DRIFT AV ÖVERFÖRINGSSYSTEM](/lagstiftning/elmarknadsforordningen/kap-5) · Artiklarna 28–51
+- [Kapitel VI – DRIFT AV DISTRIBUTIONSSYSTEM](/lagstiftning/elmarknadsforordningen/kap-6) · Artiklarna 52–57
+- [Kapitel VII – NÄTFÖRESKRIFTER OCH RIKTLINJER](/lagstiftning/elmarknadsforordningen/kap-7) · Artiklarna 58–62
+- [Kapitel VIII – SLUTBESTÄMMELSER](/lagstiftning/elmarknadsforordningen/kap-8) · Artiklarna 63–71
+<!-- scan-laws:end -->

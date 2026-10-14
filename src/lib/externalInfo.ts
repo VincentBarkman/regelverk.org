@@ -23,7 +23,34 @@ async function fetchOne(url: string) {
 			redirect: 'follow'
 		});
 		if (res.ok) {
-			const html = (await res.text()).slice(0, 200_000);
+			let html = '';
+			const reader = res.body?.getReader();
+			if (reader) {
+				const chunks: Uint8Array[] = [];
+				let size = 0;
+				while (size < 200_000) {
+					const { done, value } = await reader.read();
+					if (done || !value) break;
+					chunks.push(value);
+					size += value.byteLength;
+				}
+				await reader.cancel().catch(() => {});
+				html = new TextDecoder().decode(
+					chunks.length === 1
+						? chunks[0]
+						: (() => {
+								const all = new Uint8Array(size);
+								let off = 0;
+								for (const c of chunks) {
+									all.set(c, off);
+									off += c.byteLength;
+								}
+								return all;
+							})()
+				);
+			} else {
+				html = (await res.text()).slice(0, 200_000);
+			}
 			const metas: Record<string, string> = {};
 			for (const m of html.matchAll(/<meta\s+[^>]*>/gi)) {
 				const name = m[0].match(/(?:name|property)=["']([^"']+)["']/i)?.[1]?.toLowerCase();

@@ -1,0 +1,1440 @@
+# red [sv] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0023.02
+
+# kap-1 | Kapitel I | ALLMÄNNA BESTÄMMELSER | cpt_I
+
+## Artikel 1 | Syfte och tillämpningsområde | art_1
+1. Genom detta direktiv upprättas en rättslig ram för tillhandahållandet på marknaden och ibruktagandet av radioutrustning i unionen.
+
+2. Detta direktiv ska inte tillämpas på den utrustning som förtecknas i bilaga I.
+
+3. Detta direktiv ska inte tillämpas på radioutrustning som uteslutande används för verksamhet som rör allmän säkerhet, försvar, nationell säkerhet, inbegripet statens ekonomiska välstånd om verksamheterna gäller frågor som rör nationell säkerhet, eller statens verksamhet på det straffrättsliga området.
+
+4. Radioutrustning som omfattas av detta direktiv ska inte samtidigt omfattas av direktiv 2014/35/EU, med undantag för vad som anges i artikel 3.1 a i det här direktivet.
+
+## Artikel 2 | Definitioner | art_2
+1. I detta direktiv avses med:
+
+1.
+
+radioutrustning: en elektrisk eller elektronisk produkt som avsiktligt avger och/eller mottar radiovågor för radiokommunikation och/eller radiobestämning eller en elektrisk eller elektronisk produkt som måste kompletteras med ett tillbehör, t.ex. antenn, för att avsiktligt avge och/eller motta radiovågor för radiokommunikation och/eller radiobestämning.
+
+2.
+
+radiokommunikation: kommunikation med hjälp av radiovågor.
+
+3.
+
+radiobestämning: fastställande av ett föremåls position, hastighet och/eller andra kännetecken eller erhållande av information om dessa parametrar med hjälp av radiovågornas utbredningsegenskaper.
+
+4.
+
+radiovågor: elektromagnetiska vågor med frekvenser under 3 000 GHz utsända i rymden utan konstgjord styrning.
+
+5.
+
+radiogränssnitt: specificering av den reglerade användningen av radiospektrum.
+
+6.
+
+radioutrustningsklass: en klass där särskilda kategorier av radioutrustning som enligt detta direktiv anses likvärdiga och de radiogränssnitt till vilka anslutning av radioutrustningen är avsedd definieras.
+
+7.
+
+skadlig störning: skadlig störning enligt definitionen i artikel 2 r i Europaparlamentets och rådets direktiv 2002/21/EG (15).
+
+8.
+
+elektromagnetisk störning: elektromagnetisk störning enligt definitionen i artikel 3.1.5 i direktiv 2014/30/EU.
+
+9.
+
+tillhandahållande på marknaden: varje leverans av radioutrustning för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt.
+
+10.
+
+utsläppande på marknaden: tillhandahållande för första gången av radioutrustning på unionsmarknaden.
+
+11.
+
+ibruktagande: användning för första gången av radioutrustning inom unionen av slutanvändaren.
+
+12.
+
+tillverkare: fysisk eller juridisk person som tillverkar eller som låter konstruera eller tillverka radioutrustning och saluför denna utrustning, i eget namn eller under eget varumärke.
+
+13.
+
+tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt skriftlig fullmakt från en tillverkare har rätt att i dennes ställe utföra särskilda uppgifter.
+
+14.
+
+importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut radioutrustning från ett tredjeland på unionsmarknaden.
+
+15.
+
+distributör: fysisk eller juridisk person i leveranskedjan, utöver tillverkaren eller importören, som tillhandahåller radioutrustning på marknaden.
+
+16.
+
+ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören.
+
+17.
+
+teknisk specifikation: dokument där det fastställs vilka tekniska krav som radioutrustningen ska uppfylla.
+
+18.
+
+harmoniserad standard: harmoniserad standard enligt definitionen i artikel 2.1 c i förordning (EU) nr 1025/2012.
+
+19.
+
+ackreditering: ackreditering enligt definitionen i artikel 2.10 i förordning (EG) nr 765/2008.
+
+20.
+
+nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel 2.11 i förordning (EG) nr 765/2008.
+
+21.
+
+bedömning av överensstämmelse: den process där det visas huruvida de väsentliga kraven i detta direktiv för radioutrustning har uppfyllts.
+
+22.
+
+organ för bedömning av överensstämmelse: ett organ som utför bedömning av överensstämmelse.
+
+23.
+
+återkallelse: åtgärd för att dra tillbaka radioutrustning som redan tillhandahållits slutanvändaren.
+
+24.
+
+tillbakadragande: åtgärd för att förhindra att radioutrustning i leveranskedjan tillhandahålls på marknaden.
+
+25.
+
+harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter.
+
+26.
+
+CE-märkning: märkning genom vilken tillverkaren visar att radioutrustningen överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning.
+
+2. Kommissionen får anta genomförandeakter för att avgöra om vissa kategorier av elektriska eller elektroniska produkter motsvarar definitionen i punkt 1.1 i denna artikel. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 45.3.
+
+## Artikel 3 | Väsentliga krav | art_3
+1. Radioutrustningen ska vara konstruerad så att följande säkerställs:
+
+a)
+
+Skydd av hälsa och säkerhet för personer och husdjur och skydd av egendom, inklusive de mål avseende säkerhetskrav som anges i direktiv 2014/35/EU, dock utan att spänningsgränserna tillämpas.
+
+b)
+
+En adekvat nivå av elektromagnetisk kompatibilitet enligt direktiv 2014/30/EU.
+
+2. Radioutrustningen ska vara konstruerad så att den ändamålsenligt använder och stöder en effektiv användning av radiospektrum och därigenom undviker skadlig störning.
+
+3. Radioutrustning inom vissa kategorier eller klasser ska vara konstruerad så att den uppfyller följande väsentliga krav:
+
+a)
+
+Radioutrustningen samverkar med tillbehör, i synnerhet gemensamma laddare.
+
+b)
+
+Radioutrustningen samverkar via nät med annan radioutrustning.
+
+c)
+
+Radioutrustningen kan anslutas till gränssnitt av lämplig typ i hela unionen.
+
+d)
+
+Radioutrustningen skadar inte nätet eller dess funktion eller innebär att nätresurserna används på ett felaktigt sätt med därigenom orsakad oacceptabel försämring av tjänsten.
+
+e)
+
+Radioutrustningen innehåller skyddsmekanismer för att säkerställa att användarens och abonnentens personuppgifter och personliga integritet skyddas.
+
+f)
+
+Radioutrustningen stöder vissa funktioner som säkerställer skydd mot bedrägeri.
+
+g)
+
+Radioutrustningen stöder vissa funktioner som säkerställer tillgång till larmtjänster.
+
+h)
+
+Radioutrustningen stöder vissa funktioner för att underlätta användning för användare med funktionshinder.
+
+i)
+
+Radioutrustningen stöder vissa funktioner för att säkerställa att programvara enbart kan laddas i radioutrustningen om det har visats att kombinationen av radioutrustning och programvara överensstämmer.
+
+Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel 44 som anger vilka kategorier eller klasser av radioutrustning som berörs av vart och ett av kraven första stycket a–i i den här punkten.
+
+## Artikel 4 | Tillhandahållande av information om kombinationer av radioutrustning och programvara | art_4
+1. Tillverkare av radioutrustning och av programvara som möjliggör att radioutrustning kan användas på avsett sätt ska ge medlemsstaterna och kommissionen information om hur avsedda kombinationer av radioutrustning och programvara överensstämmer med de väsentliga krav som anges i artikel 3. Sådan information ska vara en följd av den bedömning av överensstämmelse som har gjorts i enlighet med artikel 17 och ska ges i form av ett intyg om överensstämmelse som omfattar de element som anges i bilaga VI. Beroende på de specifika kombinationerna av utrustning och programvara ska det av informationen klart och tydligt framgå vilken radioutrustning och programvara som har bedömts, och informationen ska regelbundet uppdateras.
+
+2. Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel 44 som anger vilka kategorier eller klasser av radioutrustning som berörs av kravet i punkt 1 i den här artikeln.
+
+3. Kommissionen ska anta genomförandeakter för att fastställa operativa bestämmelser för att tillhandahålla informationen om överensstämmelse för de kategorier och klasser som identifierats genom delegerade akter antagnas i enlighet med punkt 2 i denna artikel. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 45.3.
+
+## Artikel 5 | Registrering av radioutrustningstyper inom vissa kategorier | art_5
+1. Från och med den 12 juni 2018 ska tillverkarna registrera radioutrustningstyper inom utrustningskategorier där det finns en låg grad av överensstämmelse med de väsentliga kraven i artikel 3 inom ett centralt system som avses i punkt 4 i den här artikeln innan radioutrustning inom dessa kategorier släpps ut på marknaden. Vid registrering av sådana radioutrustningstyper ska tillverkarna tillhandahålla vissa delar av den tekniska dokumentation som finns förtecknad i bilaga V a, d, e, f, g, h och i eller, där så är motiverat, all denna dokumentation. Kommissionen ska tilldela varje registrerad radioutrustningstyp ett registreringsnummer, som tillverkarna ska anbringa på radioutrustning som släpps ut på marknaden.
+
+2. Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel 44 vilka anger vilka kategorier av radioutrustning som omfattas av kravet i punkt 1 i den här artikeln och vilka delar som ska ingå i den tillhandahållna tekniska dokumentationen, med hänsyn till den information om radioutrustningens överensstämmelse som lämnats av medlemsstaterna i enlighet med artikel 47.1 och efter en utvärdering av risken för att de väsentliga kraven inte uppfylls.
+
+3. Kommissionen ska anta genomförandeakter för att fastställa operativa bestämmelser för registrering och operativa bestämmelser för anbringande av registreringsnummer på radioutrustning, för de kategorier som fastställts genom delegerade akter som antagits i enlighet med punkt 2 i denna artikel. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 45.3.
+
+4. Kommissionen ska tillhandahålla ett centralt system så att tillverkarna kan registrera den information som krävs. Systemet ska säkerställa en tillräcklig kontroll över tillgången till information av konfidentiell natur.
+
+5. Efter tillämpningsdagen för en delegerad akt som antagits enligt punkt 2 i denna artikel ska de rapporter som utarbetats i enlighet med artikel 47.1 och 47.2 utvärdera den delegerade aktens följder.
+
+## Artikel 6 | Tillhandahållande på marknaden | art_6
+Medlemsstaterna ska vidta lämpliga åtgärder för att säkerställa att radioutrustning görs tillgänglig på marknaden endast om den uppfyller kraven i detta direktiv.
+
+## Artikel 7 | Ibruktagande och användning | art_7
+Medlemsstaterna ska tillåta ibruktagande och användning av radioutrustning om den överensstämmer med detta direktiv, när den är korrekt installerad, underhållen och används för avsett ändamål. Utan att det påverkar medlemsstaternas skyldigheter enligt beslut nr 676/2002/EG och de villkor som är knutna till auktorisation för användning av frekvenser i enlighet med unionslagstiftningen, i synnerhet enligt artikel 9.3 och 9.4 i direktiv 2002/21/EG, får medlemsstaterna införa ytterligare krav för ibruktagande eller användning av radioutrustning av skäl som hänför sig till en ändamålsenlig och effektiv radiospektrumanvändning, undvikande av skadlig störning, undvikande av elektromagnetisk störning eller till folkhälsan.
+
+## Artikel 8 | Anmälan av radiogränssnittsspecifikationer och tilldelning av radioutrustningsklasser | art_8
+1. Medlemsstaterna ska i enlighet med det förfarande som anges i direktiv 98/34/EG anmäla de radiogränssnitt som de avser att reglera, utom
+
+a)
+
+de radiogränssnitt som helt och hållet och utan några avvikelser är förenliga med kommissionens beslut om en harmoniserad radiospektrumanvändning antagna i enlighet med beslut nr 676/2002/EG, och
+
+b)
+
+de radiogränssnitt som, i enlighet med genomförandeakter som antagits enligt punkt 2 i den här artikeln, motsvarar radioutrustning som kan tas i bruk och användas utan restriktioner inom unionen.
+
+2. Kommissionen ska anta genomförandeakter för att fastställa likvärdigheten mellan de radiogränssnitt som anmälts och tilldela en radioutrustningsklass, och uppgifter om denna ska offentliggöras i Europeiska unionens officiella tidning. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel 45.3.
+
+## Artikel 9 | Fri rörlighet för radioutrustning | art_9
+1. Medlemsstaterna får inte inom sina territorier, med hänvisning till skäl som har samband med de aspekter som omfattas av detta direktiv, hindra att utrustning som överensstämmer med detta direktiv tillhandahålls på marknaden.
+
+2. Medlemsstaterna får inte hindra att radioutrustning som inte överensstämmer med detta direktiv visas på handelsmässor, utställningar och liknande evenemang, under förutsättning att det tydligt anges att sådan radioutrustning inte får tillhandahållas på marknaden eller tas i bruk förrän den uppfyller bestämmelserna i detta direktiv. Demonstrationer av radioutrustning får ske endast under förutsättning att det har vidtagits adekvata åtgärder, föreskrivna av medlemsstaterna, för att förhindra skadlig störning, elektromagnetisk störning och risk för människors eller husdjurs hälsa eller säkerhet eller för egendom.
+
+# kap-2 | Kapitel II | DE EKONOMISKA AKTÖRERNAS SKYLDIGHETER | cpt_II
+
+## Artikel 10 | Tillverkarnas skyldigheter | art_10
+1. När tillverkarna släpper ut sin radioutrustning på marknaden ska de se till att den har konstruerats och tillverkats i enlighet med de väsentliga kraven i artikel 3.
+
+2. Tillverkarna ska se till att radioutrustningen är konstruerad på så sätt att den kan användas i minst en medlemsstat utan att överträda gällande krav på radiospektrumanvändning.
+
+3. Tillverkarna ska utarbeta den tekniska dokumentationen enligt artikel 21 och utföra eller låta utföra den relevanta bedömning av överensstämmelse som avses i artikel 17.
+
+Om bedömningen av överensstämmelse har visat att radioutrustningen uppfyller de tillämpliga kraven ska tillverkarna upprätta en EU-försäkran om överensstämmelse och anbringa CE-märkningen.
+
+4. Tillverkarna ska behålla den tekniska dokumentationen och EU-försäkran om överensstämmelse i tio år efter det att radioutrustningen har släppts ut på marknaden.
+
+5. Tillverkarna ska se till att det finns rutiner som säkerställer att serietillverkningen fortsätter att överensstämma med kraven i detta direktiv. Hänsyn ska också tas till ändringar i radioutrustningens konstruktion eller egenskaper och ändringar i de harmoniserade standarderna eller de andra tekniska specifikationer som det hänvisas till vid försäkran om överensstämmelse för radioutrustningen.
+
+När det anses lämpligt med tanke på de risker som radioutrustning utgör ska tillverkarna, för att skydda slutanvändarnas hälsa och säkerhet, utföra slumpvis provning av radioutrustning som tillhandahållits på marknaden, granska och vid behov registerföra inkomna klagomål, radioutrustning som inte överensstämmer med kraven och återkallelser av radioutrustning samt informera distributörerna om all sådan övervakning.
+
+6. Tillverkarna ska se till att radioutrustning som de har släppt ut på marknaden är försedd med typnummer, partinummer eller serienummer eller annan identifieringsmärkning eller, om detta inte är möjligt på grund av radioutrustningens storlek eller art, se till att den erforderliga informationen lämnas på förpackningen eller i ett dokument som medföljer radioutrustningen.
+
+7. Tillverkarna ska på radioutrustningen ange namn, registrerat firmanamn eller registrerat varumärke och en postadress på vilken de kan kontaktas eller, om det inte är möjligt på grund av radioutrustningens storlek eller art, ange detta på förpackningen eller i ett dokument som följer med radioutrustningen. Den angivna adressen ska ange en enda kontaktpunkt där tillverkaren kan kontaktas. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+8. Tillverkarna ska se till att radioutrustningen åtföljs av bruksanvisningar och säkerhetsinformation på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten. Bruksanvisningarna ska innehålla de uppgifter som behövs för att kunna använda radioutrustningen på avsett sätt. I denna information ska, i tillämpliga fall, ingå en beskrivning av tillbehör och komponenter, däribland programvara, som gör det möjligt för radioutrustningen att fungera som avsett. Sådana bruksanvisningar och säkerhetsinformation liksom all märkning ska vara tydliga och lättbegripliga.
+
+Följande uppgifter ska också ingå i de fall då radioutrustning avsiktligt avger radiovågor:
+
+a)
+
+Det eller de frekvensband där radioutrustningen arbetar.
+
+b)
+
+Den maximala radiofrekvenseffekt som överförs inom det eller de frekvensband där radioutrustningen arbetar.
+
+9. Tillverkarna ska se till att all radioutrustning åtföljs av en kopia av EU-försäkran om överensstämmelse eller av en förenklad EU-försäkran om överensstämmelse. Om en förenklad EU-försäkran om överensstämmelse finns, ska den innehålla den exakta webbadress där hela texten till EU-försäkran om överensstämmelse kan erhållas.
+
+10. Om det finns restriktioner för ibruktagandet eller krav för användningstillstånd ska informationen på förpackningen möjliggöra identifiering av den medlemsstat eller det geografiska område i en medlemsstat där det finns restriktioner för ibruktagandet eller befintliga krav för användningstillstånd. Denna information ska finnas i den bruksanvisning som åtföljer radioutrustningen. Kommissionen får anta genomförandeakter där det närmare anges hur denna information ska presenteras. Dessa genomförandeakter ska antas i enlighet med det rådgivande förfarande som avses i artikel 45.2.
+
+11. Tillverkare som anser eller har skäl att tro att radioutrustning som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få radioutrustningen att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla utrustningen. Om radioutrustningen utgör en risk ska tillverkarna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater där de har tillhandahållit radioutrustningen på marknaden och lämna detaljerade uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits och om resultaten av dessa.
+
+12. Tillverkarna ska på motiverad begäran av en behörig nationell myndighet, i pappersform eller elektronisk form, ge myndigheten all information och dokumentation som behövs för att visa att radioutrustningen överensstämmer med detta direktiv, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med den radioutrustning som de har släppt ut på marknaden.
+
+## Artikel 11 | Tillverkarens representanter | art_11
+1. Tillverkarna får genom skriftlig fullmakt utse en representant.
+
+Skyldigheterna i enlighet med artikel 10.1 och skyldigheten att upprätta teknisk dokumentation enligt artikel 10.3 får inte delegeras till tillverkarens representant.
+
+2. Tillverkarens representant ska utföra de uppgifter som anges i fullmakten från tillverkaren. Fullmakten ska ge tillverkarens representant rätt att åtminstone
+
+a)
+
+inneha EU-försäkran om överensstämmelse och den tekniska dokumentationen för att kunna uppvisa dem för de nationella marknadskontrollmyndigheterna i tio år efter det att radioutrustningen har släppts ut på marknaden,
+
+b)
+
+på motiverad begäran av en behörig nationell myndighet ge den myndigheten all information och dokumentation som behövs för att visa att radioutrustningen överensstämmer med kraven,
+
+c)
+
+på begäran samarbeta med de behöriga nationella myndigheterna om de åtgärder som vidtas för att undanröja riskerna med den radioutrustning som omfattas av fullmakten.
+
+## Artikel 12 | Importörernas skyldigheter | art_12
+1. Importörerna får endast släppa ut sådan radioutrustning på marknaden som överensstämmer med kraven.
+
+2. Innan importörerna släpper ut radioutrustning på marknaden ska de se till att tillverkaren har utfört den lämpliga proceduren för bedömning av överensstämmelse som avses i artikel 17 och att radioutrustningen är konstruerad på så sätt att den kan användas i minst en medlemsstat utan att överträda gällande krav på radiospektrumanvändning. Importörerna ska se till att tillverkaren har upprättat den tekniska dokumentationen, att radioutrustningen är försedd med CE-märkning och åtföljs av den information och de dokument som avses i artikel 10.8, 10.9 och 10.10, samt att tillverkaren har uppfyllt kraven i artikel 10.6 och 10.7.
+
+Om en importör anser eller har skäl att tro att radioutrustning inte överensstämmer med de väsentliga krav som anges i artikel 3 får importören inte släppa ut radioutrustningen på marknaden förrän den överensstämmer med de tillämpliga kraven. Om radioutrustningen utgör en risk ska importören dessutom informera tillverkaren och marknadskontrollmyndigheterna om detta.
+
+3. Importörerna ska på radioutrustningen ange namn, registrerat firmanamn eller registrerat varumärke och en postadress på vilken de kan kontaktas eller, om detta inte är möjligt, ange detta på förpackningen eller i ett dokument som medföljer radioutrustningen. Detta gäller bland annat de fall då storleken på radioutrustningen inte tillåter detta, eller då importören skulle behöva öppna förpackningen för att ange sitt namn och sin adress på radioutrustningen. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+4. Importörerna ska se till att radioutrustningen åtföljs av bruksanvisningar och säkerhetsinformation på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten.
+
+5. Importörerna ska, så länge de har ansvar för radioutrustning, se till att lagrings- eller transportförhållandena för radioutrustningen inte äventyrar överensstämmelsen med de väsentliga kraven i artikel 3.
+
+6. När det anses lämpligt med tanke på de risker som radioutrustning utgör ska importörerna för att skydda slutanvändarnas hälsa och säkerhet utföra slumpvis provning av radioutrustning som tillhandahållits på marknaden, granska och vid behov registerföra inkomna klagomål, utrustning som inte överensstämmer med kraven och återkallelser av radioutrustning samt informera distributörerna om all sådan övervakning.
+
+7. Importörer som anser eller har skäl att tro att radioutrustning som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få radioutrustningen att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla utrustningen. Om radioutrustningen utgör en risk ska importörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit radioutrustningen, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+8. Under tio år efter det att radioutrustningen släppts ut på marknaden ska importörerna hålla en kopia av EU-försäkran om överensstämmelse tillgänglig för marknadskontrollmyndigheterna och se till att dessa myndigheter på begäran kan få tillgång till den tekniska dokumentationen.
+
+9. Importörerna ska på motiverad begäran av en behörig nationell myndighet, i pappersform eller elektronisk form, ge myndigheten all den information och dokumentation som behövs för att visa att radioutrustningen överensstämmer med kraven, på ett språk som lätt kan förstås av den behöriga nationella myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med den radioutrustning som de har släppt ut på marknaden.
+
+## Artikel 13 | Distributörernas skyldigheter | art_13
+1. När distributörerna tillhandahåller radioutrustning på marknaden ska de iaktta vederbörlig omsorg för att se till att kraven i detta direktiv uppfylls.
+
+2. Innan distributörerna tillhandahåller radioutrustning på marknaden ska de kontrollera att radioutrustningen är försedd med CE-märkning, att den åtföljs av de dokument som krävs enligt detta direktiv och av bruksanvisningar och säkerhetsinformation på ett språk som lätt kan förstås av konsumenter och andra slutanvändare i den medlemsstat i vilken radioutrustningen ska tillhandahållas på marknaden samt att tillverkaren och importören har uppfyllt kraven i artikel 10.2, 10.6–10.10 respektive artikel 12.3.
+
+Om en distributör anser eller har skäl att tro att radioutrustning inte överensstämmer med de väsentliga krav som anges i artikel 3 får distributören inte släppa ut radioutrustningen på marknaden förrän den överensstämmer med de tillämpliga kraven. Om radioutrustningen utgör en risk ska distributören dessutom informera tillverkaren eller importören och marknadskontrollmyndigheterna om detta.
+
+3. Distributörerna ska, så länge de har ansvar för radioutrustning, se till att lagrings- eller transportförhållandena för radioutrustningen inte äventyrar överensstämmelsen med de väsentliga kraven i artikel 3.
+
+4. Distributörer som anser eller har skäl att tro att radioutrustning som de har tillhandahållit på marknaden inte överensstämmer med detta direktiv ska försäkra sig om att det vidtas nödvändiga korrigerande åtgärder för att få utrustningen att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla utrustningen. Om radioutrustningen utgör en risk ska distributörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit radioutrustningen och lämna detaljerade uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+5. Distributörerna ska på motiverad begäran av en behörig nationell myndighet, i pappersform eller elektronisk form, ge myndigheten all den information och dokumentation som behövs för att visa att radioutrustningen överensstämmer med kraven. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med radioutrustning som de tillhandahållit på marknaden.
+
+## Artikel 14 | Fall där importörer och distributörer ska ha samma skyldigheter som tillverkare | art_14
+Importörer eller distributörer ska anses vara tillverkare enligt detta direktiv och ska ha samma skyldigheter som tillverkaren har enligt artikel 10 när de släpper ut radioutrustning på marknaden i eget namn eller under eget varumärke eller ändrar utrustning som redan släppts ut på marknaden på ett sådant sätt att överensstämmelsen med detta direktiv kan påverkas.
+
+## Artikel 15 | Identifiering av de ekonomiska aktörerna | art_15
+De ekonomiska aktörerna ska på begäran identifiera följande aktörer för marknadskontrollmyndigheterna:
+
+a)
+
+Alla ekonomiska aktörer som har levererat radioutrustning till dem.
+
+b)
+
+Alla ekonomiska aktörer som de har levererat radioutrustning till.
+
+De ekonomiska aktörerna ska kunna ge den information som avses i första stycket i tio år efter det att de har fått den radioutrustningen levererad och i tio år efter det att de har levererat radioutrustningen.
+
+# kap-3 | Kapitel III | RADIOUTRUSTNINGENS ÖVERENSSTÄMMELSE MED KRAVEN | cpt_III
+
+## Artikel 16 | Presumtion om överensstämmelse för radioutrustningen | art_16
+Radioutrustning som överensstämmer med de harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de väsentliga krav i artikel 3 som omfattas av dessa standarder eller delar av dem.
+
+## Artikel 17 | Förfaranden för bedömning av överensstämmelse för radioutrustning | art_17
+1. Tillverkaren ska utföra en bedömning av överensstämmelse för radioutrustningen i syfte att uppfylla de väsentliga kraven i artikel 3. I bedömningen av överensstämmelse ska hänsyn tas till alla normala driftsförhållanden, och när det gäller det väsentliga krav som anges i artikel 3.1 a ska bedömningen också ta hänsyn till de förhållanden som rimligen kan förutses. Om radioutrustningen kan konfigureras på olika sätt ska bedömningen av överensstämmelse styrka huruvida radioutrustningen uppfyller de väsentliga kraven i artikel 3 i samtliga möjliga konfigurationer.
+
+2. Tillverkarna ska visa att radioutrustningen överensstämmer med de väsentliga krav som anges i artikel 3.1 genom att använda något av följande förfaranden för bedömning av överensstämmelse:
+
+a)
+
+Intern tillverkningskontroll enligt bilaga II.
+
+b)
+
+EU-typkontroll följd av överensstämmelse med typ på grundval av intern tillverkningskontroll enligt bilaga III.
+
+c)
+
+Överensstämmelse baserad på fullständig kvalitetssäkring enligt bilaga IV.
+
+3. Om tillverkaren vid bedömningen av huruvida radioutrustning överensstämmer med de väsentliga krav som fastställs i artikel 3.2 och 3.3 har följt de harmoniserade standarder till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning ska han eller hon använda något av följande förfaranden:
+
+a)
+
+Intern tillverkningskontroll enligt bilaga II.
+
+b)
+
+EU-typkontroll följd av överensstämmelse med typ på grundval av intern tillverkningskontroll enligt bilaga III.
+
+c)
+
+Överensstämmelse baserad på fullständig kvalitetssäkring enligt bilaga IV.
+
+4. Om tillverkaren vid bedömningen av huruvida radioutrustning överensstämmer med de väsentliga krav som fastställs i artikel 3.2 och 3.3 inte eller endast delvis har följt harmoniserade standarder till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, eller om det inte finns några sådana harmoniserade standarder, ska radioutrustningen omfattas av de väsentliga kraven enligt något av följande förfaranden:
+
+a)
+
+EU-typkontroll följd av överensstämmelse med typ på grundval av intern tillverkningskontroll enligt bilaga III.
+
+b)
+
+Överensstämmelse baserad på fullständig kvalitetssäkring enligt bilaga IV.
+
+## Artikel 18 | EU-försäkran om överensstämmelse | art_18
+1. I EU-försäkran om överensstämmelse ska det anges att de väsentliga kraven i artikel 3 har visats vara uppfyllda.
+
+2. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga VI, innehålla de uppgifter som anges i den bilagan och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där radioutrustningen släpps ut eller tillhandahålls på marknaden.
+
+Det förenklade EU-försäkran om överensstämmelse som avses i artikel 10.9 ska innehålla de uppgifter som anges i bilaga VII och ska regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där radioutrustningen släpps ut eller tillhandahålls på marknaden. Hela texten till EU-försäkran om överensstämmelse ska vara tillgänglig via den webbadress som avses i den förenklade EU-försäkran om överensstämmelse, på det eller de språk som krävs av den medlemsstat där radioutrustningen släpps ut eller tillhandahålls på marknaden.
+
+3. Om radioutrustningen omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att radioutrustningen överensstämmer med kraven i detta direktiv.
+
+## Artikel 19 | Allmänna principer för CE-märkning | art_19
+1. CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel 30 i förordning (EG) nr 765/2008.
+
+2. Med hänsyn till radioutrustningens art får höjden på den CE-märkning som är anbringad på radioutrustningen vara lägre än 5 mm, under förutsättning att den är synlig och läsbar.
+
+## Artikel 20 | Regler och villkor för anbringande av CE-märkning och det anmälda organets identifikationsnummer | art_20
+1. CE-märkningen ska anbringas på radioutrustningen eller dess informationsskylt så att den är synlig, lätt läsbar och outplånlig, utom när detta inte är möjligt eller lämpligt på grund av radioutrustningens art. CE-märkningen ska också anbringas på förpackningen så att den är synlig och lätt läsbar.
+
+2. CE-märkningen ska anbringas innan radioutrustningen släpps ut på marknaden.
+
+3. CE-märkningen ska åtföljas av det anmälda organets identifikationsnummer, om det förfarande för bedömning av överensstämmelse som anges i bilaga IV tillämpas.
+
+Det anmälda organets identifikationsnummer ska ha samma höjd som CE-märkningen.
+
+Det anmälda organets identifikationsnummer ska anbringas av det anmälda organet självt, eller, efter dess anvisningar, av tillverkaren eller dennes representant.
+
+4. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+
+## Artikel 21 | Teknisk dokumentation | art_21
+1. Den tekniska dokumentationen ska innehålla alla relevanta uppgifter om hur tillverkaren gått till väga för att säkerställa att radioutrustningen uppfyller de väsentliga kraven i artikel 3. Den ska åtminstone innehålla de uppgifter som anges i bilaga V.
+
+2. Den tekniska dokumentationen ska upprättas innan radioutrustningen släpps ut på marknaden och ska regelbundet uppdateras.
+
+3. Den tekniska dokumentation och korrespondens som avser förfaranden för EU-typkontroll ska upprättas på ett officiellt språk i den medlemsstat där det anmälda organet finns eller på ett språk som kan godtas av organet i fråga.
+
+4. Om den tekniska dokumentationen inte är förenlig med punkterna 1, 2 eller 3 i den här artikeln, och därmed inte ger tillräcklig mängd relevanta data eller medel som använts för att uppnå överensstämmelse för radioutrustning med de väsentliga krav som anges i artikel 3, får marknadskontrollmyndigheten uppmana tillverkaren eller importören att utföra en provning vid ett organ som är godtagbart för marknadskontrollmyndigheten på tillverkarens eller importörens bekostnad inom en viss föreskriven tid, för att kontrollera att utrustningen uppfyller de väsentliga krav som anges i artikel 3.
+
+# kap-4 | Kapitel IV | ANMÄLAN AV ORGAN FÖR BEDÖMNING AV ÖVERENSSTÄMMELSE | cpt_IV
+
+## Artikel 22 | Anmälan | art_22
+Medlemsstaterna ska anmäla till kommissionen och de andra medlemsstaterna vilka organ som fått i uppdrag att utföra bedömningar av överensstämmelse i enlighet med detta direktiv.
+
+## Artikel 23 | Anmälande myndigheter | art_23
+1. Medlemsstaterna ska utse en anmälande myndighet med ansvar för att inrätta och genomföra de förfaranden som krävs för bedömning och anmälan av organ för bedömning av överensstämmelse och för kontroll av anmälda organ, inklusive överensstämmelse med artikel 28.
+
+2. Medlemsstaterna får bestämma att den bedömning och kontroll som avses i punkt 1 ska utföras av ett nationellt ackrediteringsorgan i den betydelse som anges i och i enlighet med förordning (EG) nr 765/2008.
+
+3. Om den anmälande myndigheten delegerar eller på annat sätt överlåter den bedömning, anmälan eller kontroll som avses i punkt 1 till ett organ som inte är statligt, ska det organet vara en juridisk person och ska i tillämpliga delar uppfylla kraven i artikel 24. Dessutom ska detta organ ha vidtagit åtgärder för att kunna hantera ansvarsskyldighet som kan uppstå i samband med dess verksamhet.
+
+4. Den anmälande myndigheten ska ta det fulla ansvaret för de uppgifter som utförs av det organ som avses i punkt 3.
+
+## Artikel 24 | Krav på de anmälande myndigheterna | art_24
+1. En anmälande myndighet ska vara inrättad på ett sådant sätt att det inte uppstår någon intressekonflikt med organen för bedömning av överensstämmelse.
+
+2. En anmälande myndighet ska vara organiserad och fungera på ett sådant sätt att dess verksamhet är objektiv och opartisk.
+
+3. En anmälande myndighet ska vara organiserad på ett sådant sätt att alla beslut som rör anmälan av organet för bedömning av överensstämmelse fattas av annan behörig personal än den som har gjort bedömningen.
+
+4. En anmälande myndighet får inte erbjuda eller utföra sådan verksamhet som utförs av organ för bedömning av överensstämmelse och den får inte heller erbjuda eller utföra konsulttjänster på kommersiell eller konkurrensmässig grund.
+
+5. En anmälande myndighet ska sörja för att erhållen information behandlas konfidentiellt.
+
+6. En anmälande myndighet ska ha tillgång till tillräckligt med personal med lämplig kompetens för att kunna utföra sina uppgifter.
+
+## Artikel 25 | De anmälande myndigheternas informationsskyldighet | art_25
+Medlemsstaterna ska informera kommissionen om sina förfaranden för bedömning och anmälan av organ för bedömning av överensstämmelse och för övervakning av anmälda organ samt om eventuella ändringar.
+
+Kommissionen ska offentliggöra denna information.
+
+## Artikel 26 | Krav på de anmälda organen | art_26
+1. När det gäller anmälan ska organ för bedömning av överensstämmelse uppfylla kraven i punkterna 2–11.
+
+2. Ett organ för bedömning av överensstämmelse ska inrättas enligt en medlemsstats nationella rätt och vara en juridisk person.
+
+3. Ett organ för bedömning av överensstämmelse ska vara ett tredjepartsorgan som är oberoende av den organisation eller radioutrustning som det bedömer.
+
+Detta organ får vara ett organ som hör till en näringslivsorganisation eller branschorganisation som företräder företag som är involverade i konstruktion, tillverkning, leverans, installation, användning eller underhåll av den radioutrustning som det bedömer, förutsatt att det kan styrkas att organet är oberoende och att det inte föreligger några intressekonflikter.
+
+4. Ett organ för bedömning av överensstämmelse, dess högsta ledning och den personal som ansvarar för bedömningen av överensstämmelse får inte utgöras av den som konstruerar, tillverkar, levererar, installerar, köper, äger, använder eller underhåller den radioutrustning som bedöms och inte heller av den som företräder någon av dessa parter. Detta ska inte hindra användning av bedömd radioutrustning som är nödvändig för verksamheten inom organet för bedömning av överensstämmelse eller användning av sådan radioutrustning för personligt bruk.
+
+Ett organ för bedömning av överensstämmelse, dess högsta ledning och bedömningspersonal får varken delta direkt i konstruktion, tillverkning, marknadsföring, installation, användning eller underhåll av denna radioutrustning eller företräda parter som bedriver sådan verksamhet. De får inte delta i någon verksamhet som kan påverka deras objektivitet och integritet i samband med den bedömning av överensstämmelse för vilken de har anmälts. Detta ska framför allt gälla konsulttjänster.
+
+Organ för bedömning av överensstämmelse ska se till att deras dotterbolags eller underentreprenörers verksamhet inte påverkar konfidentialiteten, objektiviteten eller opartiskheten i organens bedömningar av överensstämmelse.
+
+5. Organ för bedömning av överensstämmelse och deras personal ska utföra bedömningen av överensstämmelse med största möjliga yrkesintegritet, ha teknisk kompetens på det specifika området och vara fria från alla påtryckningar och all påverkan, i synnerhet ekonomiska, som kan påverka deras omdöme eller resultaten av deras bedömning av överensstämmelse; detta gäller särskilt påtryckningar och påverkan från personer eller grupper av personer som berörs av denna verksamhet.
+
+6. Ett organ för bedömning av överensstämmelse ska kunna utföra alla de uppgifter avseende bedömning av överensstämmelse som fastställs i bilagorna III och IV för ett sådant organ och för vilka det har anmälts, oavsett om dessa uppgifter utförs av organet för bedömning av överensstämmelse eller för dess räkning och under dess ansvar.
+
+Vid alla tidpunkter och för varje förfarande för bedömning av överensstämmelse och för varje typ eller kategori av radioutrustning för vilken det har anmälts ska organet för bedömning av överensstämmelse ha följande till sitt förfogande:
+
+a)
+
+Erforderlig personal med teknisk kunskap och tillräcklig erfarenhet för att utföra bedömningen av överensstämmelse.
+
+b)
+
+Erforderliga beskrivningar av förfarandena enligt vilka bedömningar av överensstämmelse utförs; dessa beskrivningar måste säkerställa tydlighet och reproducerbarhet hos förfarandena. Organet ska ha lämpliga rutiner och förfaranden för att skilja mellan de uppgifter som det utför i sin egenskap av anmält organ och all annan verksamhet.
+
+c)
+
+Förfaranden som gör det möjligt för organet att utöva sin verksamhet med vederbörlig hänsyn tagen till ett företags storlek, bransch och struktur, den berörda radioutrustningsteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Ett organ för bedömning av överensstämmelse ska ha de nödvändiga medlen för att korrekt kunna utföra de tekniska och administrativa uppgifterna i samband med bedömningen av överensstämmelse.
+
+7. Den personal som ansvarar för att utföra bedömningen av överensstämmelse ska ha
+
+a)
+
+fullgod teknisk och yrkesinriktad utbildning som täcker all slags bedömning av överensstämmelse på det område inom vilket organet för bedömning av överensstämmelse har anmälts,
+
+b)
+
+tillfredsställande kunskap om kraven för de bedömningar som de gör och befogenhet att utföra dessa bedömningar,
+
+c)
+
+tillräcklig kännedom och insikt om de väsentliga kraven i artikel 3, de tillämpliga harmoniserade standarderna och de relevanta bestämmelserna i harmoniserad unionslagstiftning och nationell lagstiftning,
+
+d)
+
+förmåga att upprätta EU-typintyg eller godkännanden av kvalitetssystem, protokoll och rapporter som visar att bedömningarna har gjorts.
+
+8. Det ska garanteras att organ för bedömning av överensstämmelse, deras högsta ledning och den personal som ansvarar för att utföra bedömningen av överensstämmelse är opartiska.
+
+Ersättningen till den högsta ledningen och den personal som ansvarar för bedömningen av överensstämmelse vid ett organ för bedömning av överensstämmelse får inte vara beroende av antalet bedömningar som görs eller resultaten av bedömningarna.
+
+9. Organ för bedömning av överensstämmelse ska vara ansvarsförsäkrade, om inte staten tar på sig ansvaret enligt nationell lagstiftning eller medlemsstaten själv tar direkt ansvar för bedömningen av överensstämmelse.
+
+10. Personalen vid ett organ för bedömning av överensstämmelse ska iaktta tystnadsplikt beträffande all information som de erhåller vid utförandet av sina uppgifter enligt bilagorna III och IV eller bestämmelser i nationell rätt som genomför dessa, utom gentemot de behöriga myndigheterna i den medlemsstat där verksamheten bedrivs. Äganderättigheter ska skyddas.
+
+11. Organ för bedömning av överensstämmelse ska delta i, eller se till att deras personal som ansvarar för bedömningen av överensstämmelse känner till, det relevanta standardiseringsarbetet, tillsynsmyndigheternas arbete när det gäller radioutrustning och frekvensplanering samt det arbete som utförs i den samordningsgrupp för anmälda organ som inrättats i enlighet med relevant harmoniserad unionslagstiftning, och de ska som generella riktlinjer använda de administrativa beslut och dokument som är resultatet av den gruppens arbete.
+
+## Artikel 27 | Presumtion om överensstämmelse för anmälda organ | art_27
+Ett organ för bedömning av överensstämmelse som kan visa att det uppfyller kriterierna i de relevanta harmoniserade standarder eller delar av dem till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning ska förutsättas uppfylla kraven i artikel 26, förutsatt att dessa krav omfattas av de tillämpliga harmoniserade standarderna.
+
+## Artikel 28 | Dotterbolag och underentreprenörer till anmälda organ | art_28
+1. Om det anmälda organet lägger ut specifika uppgifter med anknytning till bedömningen av överensstämmelse på underentreprenad eller anlitar ett dotterbolag ska det se till att underentreprenören eller dotterbolaget uppfyller kraven i artikel 26 och informera den anmälande myndigheten om detta.
+
+2. De anmälda organen ska ta det fulla ansvaret för underentreprenörernas eller dotterbolagens uppgifter, oavsett var dessa är etablerade.
+
+3. Verksamhet kan läggas ut på underentreprenad eller utföras av ett dotterbolag endast om kunden samtycker till det.
+
+4. De anmälda organen ska hålla de relevanta dokumenten rörande bedömningen av underentreprenörens eller dotterbolagets kvalifikationer och det arbete som utförts av dem i enlighet med bilagorna III och IV tillgängliga för den anmälande myndigheten.
+
+## Artikel 29 | Ansökan om anmälan | art_29
+1. Organet för bedömning av överensstämmelse ska lämna in en ansökan om anmälan till den anmälande myndigheten i den medlemsstat där det är etablerat.
+
+2. Ansökan om anmälan ska åtföljas av en beskrivning av de bedömningar av överensstämmelse, den eller de moduler för bedömning av överensstämmelse och den radioutrustning som organet anser sig ha kompetens för samt ett ackrediteringsintyg, om det finns ett sådant, som utfärdats av ett nationellt ackrediteringsorgan och där det intygas att organet för bedömning av överensstämmelse uppfyller kraven i artikel 26.
+
+3. Om organet för bedömning av överensstämmelse inte kan uppvisa något ackrediteringsintyg ska det ge den anmälande myndigheten alla underlag som krävs för kontroll, erkännande och regelbunden övervakning av att det uppfyller kraven i artikel 26.
+
+## Artikel 30 | Anmälningsförfarande | art_30
+1. De anmälande myndigheterna får endast anmäla de organ för bedömning av överensstämmelse som har uppfyllt kraven i artikel 26.
+
+2. De ska anmäla detta till kommissionen och de andra medlemsstaterna med hjälp av det elektroniska anmälningsverktyg som utvecklats och förvaltas av kommissionen.
+
+3. Anmälan ska innehålla detaljerade uppgifter om bedömningarna av överensstämmelse, modulen eller modulerna för bedömning av överensstämmelse och den berörda radioutrustningen samt ett relevant intyg om kompetens.
+
+4. Om en anmälan inte grundar sig på ett sådant ackrediteringsintyg som avses i artikel 29.2 ska den anmälande myndigheten ge kommissionen och de andra medlemsstaterna de skriftliga underlag som styrker att organet för bedömning av överensstämmelse har erforderlig kompetens och att de system som behövs för att se till att organet övervakas regelbundet och fortsätter att uppfylla kraven i artikel 26 har inrättats.
+
+5. Det berörda organet får bedriva verksamhet som anmält organ endast om kommissionen eller de andra medlemsstaterna inte har rest invändningar inom två veckor efter anmälan, i de fall ett ackrediteringsintyg används, eller inom två månader efter anmälan, i de fall då ingen ackreditering används.
+
+Endast ett sådant organ ska anses vara ett anmält organ vid tillämpningen av detta direktiv.
+
+6. Den anmälande myndigheten ska underrätta kommissionen och de andra medlemsstaterna om alla relevanta ändringar av anmälan.
+
+## Artikel 31 | Identifikationsnummer och förteckningar över anmälda organ | art_31
+1. Kommissionen ska tilldela varje anmält organ ett identifikationsnummer.
+
+Organet ska tilldelas ett enda nummer även om det anmäls enligt flera unionsakter.
+
+2. Kommissionen ska offentliggöra förteckningen över de organ som anmälts enligt detta direktiv, inklusive de identifikationsnummer som de har tilldelats och den verksamhet som de har anmälts för.
+
+Kommissionen ska se till att förteckningen hålls uppdaterad.
+
+## Artikel 32 | Ändringar i anmälan | art_32
+1. Om en anmälande myndighet har konstaterat eller har informerats om att ett anmält organ inte längre uppfyller de krav som anges i artikel 26 eller att det underlåter att fullgöra sina skyldigheter, ska myndigheten i förekommande fall, beroende på hur allvarlig underlåtenheten att uppfylla kraven eller fullgöra skyldigheterna är, begränsa anmälan eller återkalla den tillfälligt eller slutgiltigt. Den ska omedelbart underrätta kommissionen och de andra medlemsstaterna om detta.
+
+2. I händelse av begränsning, tillfällig återkallelse eller återkallelse av anmälan eller om det anmälda organet har upphört med verksamheten ska den anmälande medlemsstaten vidta lämpliga åtgärder för att det anmälda organets dokumentation antingen ska behandlas av ett annat anmält organ eller hållas tillgänglig för de ansvariga anmälande myndigheterna och marknadskontrollmyndigheterna på deras begäran.
+
+## Artikel 33 | Ifrågasättande av de anmälda organens kompetens | art_33
+1. Kommissionen ska undersöka alla fall där den tvivlar på att ett anmält organ har erforderlig kompetens eller att ett anmält organ alltjämt uppfyller de krav och fullgör de skyldigheter som det omfattas av, och även alla fall där den gjorts uppmärksam på att det föreligger sådana tvivel.
+
+2. Den anmälande medlemsstaten ska på begäran ge kommissionen all information om grunderna för anmälan eller hur det berörda anmälda organets kompetens upprätthålls.
+
+3. Kommissionen ska se till att all känslig information som erhållits i samband med undersökningarna behandlas konfidentiellt.
+
+4. Om kommissionen konstaterar att ett anmält organ inte uppfyller eller inte längre uppfyller kraven för anmälan ska den anta en genomförandeakt för att anmoda den anmälande medlemsstaten att vidta erforderliga korrigerande åtgärder, inbegripet att vid behov återta anmälan.
+
+Den genomförandeakten ska antas i enlighet med det rådgivande förfarande som avses i artikel 45.2.
+
+## Artikel 34 | De anmälda organens operativa skyldigheter | art_34
+1. Anmälda organ ska utföra bedömningar av överensstämmelse i enlighet med förfarandena för bedömning av överensstämmelse i bilagorna III och IV.
+
+2. Bedömningarna av överensstämmelse ska utföras på ett proportionellt sätt så att de ekonomiska aktörerna inte belastas i onödan. Organen för bedömning av överensstämmelse ska när de utför sin verksamhet ta vederbörlig hänsyn till ett företags storlek, bransch och struktur och till radioutrustningsteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Samtidigt ska de dock respektera den grad av noggrannhet och skyddsnivå som krävs för att radioutrustningen ska överensstämma med detta direktiv.
+
+3. Om ett anmält organ konstaterar att en tillverkare inte uppfyller de väsentliga kraven i artikel 3 eller motsvarande harmoniserade standarder eller andra tekniska specifikationer, ska det begära att tillverkaren vidtar korrigerande åtgärder, och det ska inte utfärda något EU-typintyg eller något godkännande av kvalitetssystem.
+
+4. Om ett anmält organ vid en kontroll av överensstämmelse efter det att ett EU-typintyg eller ett godkännande av kvalitetssystem har utfärdats konstaterar att radioutrustningen inte längre uppfyller kraven, ska det begära att tillverkaren vidtar korrigerande åtgärder, och det ska vid behov tillfälligt eller slutgiltigt återkalla EU-typintyget eller godkännandet av kvalitetssystem.
+
+5. Om inga korrigerande åtgärder vidtas eller om de inte får önskat resultat, ska det anmälda organet i förekommande fall belägga EU-typintyget eller godkännandet av kvalitetssystem med restriktioner eller återkalla det tillfälligt eller slutgiltigt.
+
+## Artikel 35 | Överklagande av de anmälda organens beslut | art_35
+Medlemsstaterna ska se till att det finns ett förfarande för överklagande av de anmälda organens beslut.
+
+## Artikel 36 | De anmälda organens informationsskyldighet | art_36
+1. De anmälda organen ska informera den anmälande myndigheten om följande:
+
+a)
+
+Avslag, begränsningar och tillfällig eller slutgiltig återkallelse av ett EU-typintyg eller av godkännandet av kvalitetssystem i enlighet med kraven i bilagorna III och IV.
+
+b)
+
+Omständigheter som inverkar på omfattningen av eller villkoren för anmälan.
+
+c)
+
+Begäran från marknadskontrollmyndigheterna om information om bedömningar av överensstämmelse.
+
+d)
+
+På begäran, bedömningar av överensstämmelse som gjorts inom ramen för anmälan och all annan verksamhet, inklusive gränsöverskridande verksamhet och underentreprenad.
+
+2. De anmälda organen ska i enlighet med kraven i bilagorna III och IV ge de andra organ som anmälts i enlighet med detta direktiv och som utför liknande bedömningar av överensstämmelse som täcker samma kategorier av radioutrustning, relevant information om frågor som rör negativa och, på begäran, positiva resultat av bedömningar av överensstämmelse.
+
+3. De anmälda organen ska uppfylla informationskraven i bilagorna III och IV.
+
+## Artikel 37 | Utbyte av erfarenhet | art_37
+Kommissionen ska se till att det förekommer utbyte av erfarenhet mellan de myndigheter i medlemsstaterna som ansvarar för riktlinjerna för anmälan.
+
+## Artikel 38 | Samordning av anmälda organ | art_38
+Kommissionen ska säkerställa att lämplig samordning och lämpligt samarbete sker mellan de organ som anmälts i enlighet med detta direktiv och att detta bedrivs på ett tillfredsställande sätt genom en sektorsspecifik grupp av anmälda organ.
+
+Medlemsstaterna ska se till att de organ som de har anmält deltar i gruppens arbete direkt eller genom utsedda representanter.
+
+# kap-5 | Kapitel V | MARKNADSKONTROLL I UNIONEN, KONTROLL AV RADIOUTRUSTNING SOM FÖRS IN PÅ UNIONSMARKNADEN OCH UNIONENS FÖRFARANDE I FRÅGA OM SKYDDSÅTGÄRDER | cpt_V
+
+## Artikel 39 | Marknadskontroll i unionen och kontroll av radioutrustning som förs in på unionsmarknaden | art_39
+Artiklarna 15.3 och 16–29 i förordning (EG) nr 765/2008 ska tillämpas på radioutrustning.
+
+## Artikel 40 | Förfaranden för att hantera radioutrustning som utgör en risk på nationell nivå | art_40
+1. Om en medlemsstats marknadskontrollmyndigheter har tillräckliga skäl att anta att radioutrustning som omfattas av detta direktiv utgör en risk för människors hälsa eller säkerhet eller andra aspekter av skydd i allmänhetens intresse som omfattas av detta direktiv, ska de göra en utvärdering av utrustningen omfattande alla relevanta krav som fastställs i detta direktiv. De berörda ekonomiska aktörerna ska när så krävs samarbeta med marknadskontrollmyndigheterna i det syftet.
+
+Om marknadskontrollmyndigheterna vid den utvärdering som avses i första stycket konstaterar att radioutrustningen inte uppfyller kraven i detta direktiv ska de utan dröjsmål ålägga den berörda ekonomiska aktören att vidta alla lämpliga korrigerande åtgärder för att radioutrustningen ska uppfylla dessa krav, dra tillbaka utrustningen från marknaden eller återkalla den inom en rimlig tid som de fastställer i förhållande till typen av risk.
+
+Marknadskontrollmyndigheterna ska informera det berörda anmälda organet om detta.
+
+Artikel 21 i förordning (EG) nr 765/2008 ska tillämpas på de åtgärder som avses i andra stycket i denna punkt.
+
+2. Om marknadskontrollmyndigheterna anser att den bristande överensstämmelsen inte bara gäller det nationella territoriet, ska de informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som de har ålagt de ekonomiska aktörerna att vidta.
+
+3. De ekonomiska aktörerna ska se till att alla lämpliga korrigerande åtgärder vidtas i fråga om berörd radioutrustning som de har tillhandahållit på unionsmarknaden.
+
+4. Om den berörda ekonomiska aktören inte vidtar lämpliga korrigerande åtgärder inom den tid som avses i punkt 1 andra stycket, ska marknadskontrollmyndigheterna vidta alla lämpliga tillfälliga åtgärder för att förbjuda eller begränsa tillhandahållandet av radioutrustningen på sin nationella marknad, dra tillbaka radioutrustningen från den marknaden eller återkalla den.
+
+Marknadskontrollmyndigheterna ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om dessa åtgärder.
+
+5. I den information som avses i punkt 4 andra stycket ska alla tillgängliga uppgifter ingå, särskilt de uppgifter som krävs för att kunna identifiera den radioutrustning som inte uppfyller kraven, dess ursprung, vilken typ av bristande överensstämmelse som görs gällande och den risk utrustningen utgör, vilken typ av nationell åtgärd som vidtagits och dess varaktighet samt den berörda ekonomiska aktörens synpunkter. Marknadskontrollmyndigheterna ska särskilt ange om den bristande överensstämmelsen beror på något av följande:
+
+a)
+
+Radioutrustningen uppfyller inte de relevanta väsentliga kraven enligt artikel 3.
+
+b)
+
+De harmoniserade standarder som avses i artikel 16 och utgör underlag för presumtion om överensstämmelse är bristfälliga.
+
+6. Andra medlemsstater än den som inledde förfarandet enligt denna artikel ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om vidtagna åtgärder och om eventuella kompletterande uppgifter som de har tillgång till med avseende på den berörda radioutrustningens bristande överensstämmelse med kraven samt eventuella invändningar mot den vidtagna nationella åtgärden.
+
+7. Om varken en medlemsstat eller kommissionen inom tre månader efter mottagandet av den information som avses i punkt 4 andra stycket har rest invändningar mot en tillfällig åtgärd som vidtagits av en medlemsstat ska den åtgärden anses vara berättigad.
+
+8. Medlemsstaterna ska se till att lämpliga begränsande åtgärder, till exempel tillbakadragande av radioutrustningen från marknaden, utan dröjsmål vidtas mot den berörda radioutrustningen.
+
+## Artikel 41 | Unionsförfarande i fråga om skyddsåtgärder | art_41
+1. Om det, efter det att förfarandet i artikel 40.3 och 40.4 har slutförts, har rests invändningar mot en åtgärd som en medlemsstat vidtagit eller om kommissionen anser att en nationell åtgärd strider mot unionslagstiftningen, ska kommissionen utan dröjsmål inleda samråd med medlemsstaterna och den eller de berörda ekonomiska aktörerna och därefter utvärdera den nationella åtgärden. På grundval av utvärderingsresultaten ska kommissionen anta en genomförandeakt för att fastställa om den nationella åtgärden är motiverad eller inte.
+
+Kommissionen ska rikta beslutet till alla medlemsstater och omedelbart delge dem och den eller de berörda ekonomiska aktörerna beslutet.
+
+2. Om den nationella åtgärden anses vara berättigad ska alla medlemsstater vidta de åtgärder som krävs för att säkerställa att radioutrustning som inte uppfyller kraven dras tillbaka eller återkallas från deras marknader och underrätta kommissionen om detta. Om den nationella åtgärden anses oberättigad ska den berörda medlemsstaten upphäva den åtgärden.
+
+3. Om den nationella åtgärden anses vara berättigad och radioutrustningens bristande överensstämmelse kan tillskrivas brister i de harmoniserade standarder som avses i artikel 40.5 b i detta direktiv ska kommissionen tillämpa det förfarande som föreskrivs i artikel 11 i förordning (EU) nr 1025/2012.
+
+## Artikel 42 | Överensstämmande radioutrustning som utgör en risk | art_42
+1. Om en medlemsstat, efter en utvärdering i enlighet med artikel 40.1, konstaterar att radioutrustningen visserligen uppfyller kraven i detta direktiv men utgör en risk för människors hälsa eller säkerhet eller skydd av andra samhällsintressen som omfattas av detta direktiv, ska den ålägga den berörda ekonomiska aktören att vidta alla lämpliga åtgärder antingen för att säkerställa att den berörda radioutrustningen när den har släppts ut på marknaden inte längre utgör en sådan risk eller för att dra tillbaka eller återkalla utrustningen från marknaden inom en rimlig tid som medlemsstaten fastställer i förhållande till typen av risk.
+
+2. De ekonomiska aktörerna ska se till att det vidtas korrigerande åtgärder i fråga om all berörd radioutrustning som de har tillhandahållit på unionsmarknaden.
+
+3. Medlemsstaten ska omedelbart underrätta kommissionen och de andra medlemsstaterna om detta. Informationen ska innehålla alla tillgängliga uppgifter, särskilt de uppgifter som krävs för att kunna identifiera radioutrustningen, dess ursprung och leveranskedja, den risk utrustningen utgör, vilken typ av nationella åtgärder som vidtagits och deras varaktighet.
+
+4. Kommissionen ska utan dröjsmål inleda samråd med medlemsstaterna och den eller de berörda ekonomiska aktörerna och därefter utvärdera de nationella åtgärderna. På grundval av utvärderingsresultaten ska kommissionen genom genomförandeakter besluta om den nationella åtgärden är berättigad eller inte, och vid behov föreslå lämpliga åtgärder.
+
+De genomförandeakter som avses i första stycket i denna punkt ska antas i enlighet med det granskningsförfarande som avses i artikel 45.3.
+
+Vid vederbörligen motiverade och tvingande skäl till skyndsamhet med avseende på skyddet för människors hälsa och säkerhet ska kommissionen anta genomförandeakter med omedelbar verkan i enlighet med det förfarande som avses i artikel 45.4.
+
+5. Kommissionen ska rikta beslutet till alla medlemsstater och omedelbart delge dem och den eller de berörda ekonomiska aktörerna beslutet.
+
+## Artikel 43 | Formell bristande överensstämmelse | art_43
+1. Utan att det påverkar tillämpningen av artikel 40 ska en medlemsstat, om den konstaterar något av följande, ålägga den berörda ekonomiska aktören att åtgärda den bristande överensstämmelsen:
+
+a)
+
+CE-märkningen har anbringats i strid med artikel 30 i förordning (EG) nr 765/2008 eller artikel 20 i detta direktiv.
+
+b)
+
+CE-märkning saknas.
+
+c)
+
+Det anmälda organets identifikationsnummer, i de fall där det förfarande för bedömning av överensstämmelse som fastställs i bilaga IV används, har anbringats i strid med artikel 20 eller saknas.
+
+d)
+
+Det har inte upprättats någon EU-försäkran om överensstämmelse.
+
+e)
+
+EU-försäkran om överensstämmelse har inte upprättats på ett korrekt sätt.
+
+f)
+
+Den tekniska dokumentationen är antingen inte tillgänglig eller inte komplett.
+
+g)
+
+Den information som avses i artikel 10.6, 10.7 eller 12.3 saknas, är felaktig eller ofullständig.
+
+h)
+
+Information om avsedd användning av radioutrustning, EU-försäkran om överensstämmelse eller information om användningsbegränsningar som anges i artikel 10.8, 10.9 och 10.10 medföljer inte radioutrustningen.
+
+i)
+
+Kraven på identifiering av ekonomiska aktörer enligt artikel 15 är inte uppfyllda.
+
+j)
+
+Artikel 5 efterlevs inte.
+
+2. Om sådan bristande överensstämmelse som avses i punkt 1 fortsätter ska den berörda medlemsstaten vidta lämpliga åtgärder för att begränsa eller förbjuda tillhandahållandet av motsvarande radioutrustning på marknaden eller se till att den återkallas eller dras tillbaka från marknaden.
+
+# kap-6 | Kapitel VI | DELEGERADE AKTER, GENOMFÖRANDEAKTER OCH KOMMITTÉN | cpt_VI
+
+## Artikel 44 | Utövande av delegeringen | art_44
+1. Befogenheten att anta delegerade akter ges till kommissionen med förbehåll för de villkor som anges i denna artikel.
+
+2. Den befogenhet att anta delegerade akter som avses i artiklarna 3.3 andra stycket, 4.2 och 5.2 ska ges till kommissionen för en period av fem år från och med den 11 juni 2014. Kommissionen ska utarbeta en rapport om delegeringen av befogenhet senast nio månader före utgången av femårsperioden. Delegeringen av befogenhet ska genom tyst medgivande förlängas med perioder av samma längd, såvida inte Europaparlamentet eller rådet motsätter sig en sådan förlängning senast tre månader före utgången av varje period.
+
+3. Den delegering av befogenhet som avses i artiklarna 3.3 andra stycket, 4.2 och 5.2 får när som helst återkallas av Europaparlamentet eller rådet. Ett beslut om återkallelse innebär att delegeringen av den befogenhet som anges i beslutet upphör att gälla. Beslutet får verkan dagen efter det att det offentliggörs i Europeiska unionens officiella tidning, eller vid ett senare i beslutet angivet datum. Det påverkar inte giltigheten av delegerade akter som redan har trätt i kraft.
+
+4. Så snart kommissionen antar en delegerad akt ska den samtidigt delge Europaparlamentet och rådet denna.
+
+5. En delegerad akt som antas enligt artiklarna 3.3 andra stycket, 4.2 och 5.2 ska träda i kraft endast om varken Europaparlamentet eller rådet har gjort invändningar mot den delegerade akten inom en period av två månader från den dag då akten delgavs Europaparlamentet och rådet, eller om både Europaparlamentet och rådet, före utgången av den perioden, har underrättat kommissionen om att de inte kommer att invända. Denna period ska förlängas med två månader på Europaparlamentets eller rådets initiativ.
+
+## Artikel 45 | Kommittéförfarande | art_45
+1. Kommissionen ska biträdas av Kommittén för bedömning av överensstämmelse och marknadsövervakning inom teleområdet. Denna kommitté ska vara en kommitté i den mening som avses i förordning (EU) nr 182/2011.
+
+2. När det hänvisas till denna punkt ska artikel 4 i förordning (EU) nr 182/2011 tillämpas.
+
+3. När det hänvisas till denna punkt ska artikel 5 i förordning (EU) nr 182/2011 tillämpas.
+
+4. När det hänvisas till denna punkt ska artikel 8 i förordning (EU) nr 182/2011 jämförd med artikel 5 i den förordningen tillämpas.
+
+5. Kommissionen ska höra kommittén angående alla frågor för vilka samråd med sektorsexperter krävs enligt förordning (EU) nr 1025/2012 eller enligt annan unionslagstiftning.
+
+Kommittén får dessutom undersöka alla andra frågor som avser tillämpningen av detta direktiv och som tas upp av dess ordförande eller av en företrädare för en medlemsstat i enlighet med dess arbetsordning.
+
+# kap-7 | Kapitel VII | SLUTBESTÄMMELSER OCH ÖVERGÅNGSBESTÄMMELSER | cpt_VII
+
+## Artikel 46 | Sanktioner | art_46
+Medlemsstaterna ska föreskriva sanktioner för ekonomiska aktörers överträdelser av bestämmelser i nationell rätt som har utfärdats med tillämpning av detta direktiv och ska vidta de åtgärder som krävs för att se till att dessa sanktioner tillämpas. Sådana sanktioner kan omfatta straffrättsliga påföljder för allvarliga överträdelser.
+
+Sanktionerna ska vara effektiva, proportionella och avskräckande.
+
+## Artikel 47 | Översyn och rapportering | art_47
+1. Medlemsstaterna ska till kommissionen översända regelbundna rapporter om tillämpningen av detta direktiv senast den 12 juni 2017 och därefter minst vartannat år. Rapporterna ska innehålla en beskrivning av den marknadskontroll som bedrivs av medlemsstaterna och tillhandahålla information om huruvida och i vilken omfattning kraven i detta direktiv har uppnåtts, särskilt kraven på identifiering av ekonomiska aktörer.
+
+2. Kommissionen ska se över hur detta direktiv fungerar och rapportera om detta till Europaparlamentet och rådet senast den 12 juni 2018 och vart femte år därefter. Rapporten ska visa vilka framsteg som har gjorts med utarbetandet av relevanta standarder samt ta upp eventuella problem som har uppstått under genomförandet. Rapporten ska också innehålla huvuddragen i verksamheten för Kommittén för bedömning av överensstämmelse och marknadsövervakning inom teleområdet, bedöma vilka framsteg som gjorts i fråga om att uppnå en öppen och konkurrensutsatt marknad för radioutrustning på unionsnivå samt undersöka hur den rättsliga ramen för att tillhandahålla radioutrustning på marknaden och ta den i bruk bör utvecklas för att åstadkomma följande:
+
+a)
+
+Säkerställa att ett enhetligt system uppnås på unionsnivå för all radioutrustning.
+
+b)
+
+Möjliggöra konvergens mellan telekommunikationssektorn, den audiovisuella sektorn och sektorn för informationsteknik.
+
+c)
+
+Möjliggöra harmonisering av lagstiftningsåtgärder på internationell nivå.
+
+d)
+
+Uppnå en hög konsumentskyddsnivå.
+
+e)
+
+Säkerställa att den bärbara radioutrustningen samverkar med tillbehör, särskilt med gemensamma laddare.
+
+f)
+
+Om radioutrustningen förses med en inbyggd skärm, möjliggöra visning av den erforderliga informationen på den inbyggda skärmen.
+
+## Artikel 48 | Övergångsbestämmelser | art_48
+Medlemsstaterna får inte, när det gäller de aspekter som omfattas av detta direktiv, hindra tillhandahållande på marknaden eller ibruktagande av radioutrustning som omfattas av detta direktiv och överensstämmer med relevant unionslagstiftning om harmonisering före den 13 juni 2016 och som släppts ut på marknaden före den 13 juni 2017.
+
+## Artikel 49 | Införlivande | art_49
+1. Medlemsstaterna ska senast den 12 juni 2016 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska till kommissionen genast överlämna texten till dessa bestämmelser.
+
+De ska tillämpa dessa bestämmelser från och med den 13 juni 2016.
+
+När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. De ska även innehålla en uppgift om att hänvisningar i befintliga lagar och andra författningar till det direktiv som upphävts genom detta direktiv ska anses som hänvisningar till detta direktiv. Närmare föreskrifter om hur hänvisningen ska göras och om hur uppgiften ska formuleras ska varje medlemsstat själv utfärda.
+
+2. Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell rätt som de antar inom det område som omfattas av detta direktiv.
+
+## Artikel 50 | Upphävande | art_50
+Direktiv 1999/5/EG ska upphöra att gälla den 13 juni 2016.
+
+Hänvisningar till det upphävda direktivet ska anses som hänvisningar till detta direktiv och ska läsas enligt jämförelsetabellen i bilaga VIII.
+
+## Artikel 51 | Ikraftträdande | art_51
+Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.
+
+## Artikel 52 | Adressater | art_52
+Detta direktiv riktar sig till medlemsstaterna.
+
+Utfärdat i Strasbourg den 16 april 2014.
+
+På Europaparlamentets vägnar
+
+M. SCHULZ
+
+Ordförande
+
+På rådets vägnar
+
+D. KOURKOULAS
+
+Ordförande
+
+(1)
+
+EUT C 133, 9.5.2013, s. 58.
+
+(2) Europaparlamentets ståndpunkt av den 13 mars 2014 (ännu inte offentliggjord i EUT) och rådets beslut av den 14 april 2014.
+
+(3) Europaparlamentets och rådets direktiv 1999/5/EG av den 9 mars 1999 om radioutrustning och teleterminalutrustning och om ömsesidigt erkännande av utrustningens överensstämmelse (EGT L 91, 7.4.1999, s. 10).
+
+(4) Europaparlamentets och rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och marknadskontroll i samband med saluföring av produkter och upphävande av förordning (EEG) nr 339/93 (EUT L 218, 13.8.2008, s. 30).
+
+(5) Europaparlamentets och rådets beslut nr 768/2008/EG av den 9 juli 2008 om en gemensam ram för saluföring av produkter och upphävande av rådets beslut 93/465/EEG (EUT L 218, 13.8.2008, s. 82).
+
+(6) Europaparlamentets och rådets direktiv 2014/35/EU av den 26 februari 2014 om harmonisering av medlemsstaternas lagstiftning om tillhandahållande på marknaden av elektrisk utrustning avsedd för användning inom vissa spänningsgränser (EUT L 96, 29.3.2014, s. 357).
+
+(7) Europaparlamentets och rådets direktiv 2014/30/EU av den 26 februari 2014 om harmonisering av medlemsstaternas lagstiftning om elektromagnetisk kompatibilitet (EUT L 96, 29.3.2014, s. 79).
+
+(8) Kommissionens direktiv 2008/63/EG av den 20 juni 2008 om konkurrens på marknaderna för teleterminalutrustning (EUT L 162, 21.6.2008, s. 20).
+
+(9) Europaparlamentets och rådets direktiv 98/34/EG av den 22 juni 1998 om ett informationsförfarande beträffande tekniska standarder och föreskrifter för informationssamhällets tjänster (EGT L 204, 21.7.1998, s. 37).
+
+(10) Europaparlamentets och rådets beslut nr 676/2002/EG av den 7 mars 2002 om ett regelverk för radiospektrumpolitiken i Europeiska gemenskapen (radiospektrumbeslut) (EGT L 108, 24.4.2002, s. 1).
+
+(11) Kommissionens beslut 2007/344/EG av den 16 maj 2007 om harmoniserad tillgång till information om spektrumanvändningen inom gemenskapen (EUT L 129, 17.5.2007, s. 67).
+
+(12) Europaparlamentets och rådets förordning (EU) nr 1025/2012 av den 25 oktober 2012 om europeisk standardisering och om ändring av rådets direktiv 89/686/EEG och 93/15/EEG samt av Europaparlamentets och rådets direktiv 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG och 2009/105/EG samt om upphävande av rådets beslut nr 87/95/EEG och Europaparlamentets och rådets beslut nr 1673/2006/EG (EUT L 316, 14.11.2012, s. 12).
+
+(13) Europaparlamentets och rådets förordning (EU) nr 182/2011 av den 16 februari 2011 om fastställande av allmänna regler och principer för medlemsstaternas kontroll av kommissionens utövande av sina genomförandebefogenheter (EUT L 55, 28.2.2011, s. 13).
+
+(14)
+
+EUT C 369, 17.12.2011, s. 14.
+
+(15) Europaparlamentets och rådets direktiv 2002/21/EG av den 7 mars 2002 om ett gemensamt regelverk för elektroniska kommunikationsnät och kommunikationstjänster (ramdirektiv) (EGT L 108, 24.4.2002, s. 33).
+
+BILAGA I
+
+UTRUSTNING SOM INTE OMFATTAS AV DETTA DIREKTIV
+
+1.
+
+Radioutrustning som används av radioamatörer enligt vad som avses i artikel 1, definition 56, i Internationella teleunionens (ITU) radioreglemente, såvida utrustningen inte tillhandahålls på marknaden.
+
+Följande ska anses som det inte tillhandahållas på marknaden:
+
+a)
+
+Radiobyggsatser som är avsedda att byggas samman och användas av radioamatörer.
+
+b)
+
+Radioutrustning som modifierats av och för användning av radioamatörer.
+
+c)
+
+Utrustning som konstruerats av enskilda radioamatörer för experimentella och vetenskapliga ändamål i samband med amatörradio.
+
+2.
+
+Marin utrustning som omfattas av rådets direktiv 96/98/EG (1).
+
+3.
+
+Produkter, delar och anordningar ombord på luftfartyg som omfattas av tillämpningsområdet för artikel 3 i Europaparlamentets och rådets förordning (EG) nr 216/2008 (2).
+
+4.
+
+Skräddarsydda utvärderingsbyggsatser för yrkesmässiga användare som är avsedda att användas enbart vid forsknings- och utvecklingsanläggningar för sådana ändamål.
+
+(1) Rådets direktiv 96/98/EG av den 20 december 1996 om marin utrustning (EGT L 46, 17.2.1997, s. 25).
+
+(2) Europaparlamentets och rådets förordning (EG) nr 216/2008 av den 20 februari 2008 om fastställande av gemensamma bestämmelser på det civila luftfartsområdet och inrättande av en europeisk byrå för luftfartssäkerhet, och om upphävande av rådets direktiv 91/670/EEG, förordning (EG) nr 1592/2002 och direktiv 2004/36/EG (EUT L 79, 19.3.2008, s. 1).
+
+BILAGA II
+
+BEDÖMNING AV ÖVERENSSTÄMMELSE MODUL A
+
+INTERN TILLVERKNINGSKONTROLL
+
+1. Intern tillverkningskontroll är det förfarande för bedömning av överensstämmelse genom vilket tillverkaren fullgör skyldigheterna i punkterna 2, 3 och 4 i denna bilaga och säkerställer och försäkrar på eget ansvar att radioutrustningen i fråga uppfyller de väsentliga kraven i artikel 3.
+
+2. Teknisk dokumentation
+
+Tillverkaren ska upprätta den tekniska dokumentationen i enlighet med artikel 21.
+
+3. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den leder till att den tillverkade radioutrustningen överensstämmer med den tekniska dokumentation som avses i punkt 2 i denna bilaga samt med de relevanta väsentliga kraven som anges i artikel 3.
+
+4. CE-märkning och EU-försäkran om överensstämmelse
+
+4.1
+
+Tillverkaren ska anbringa CE-märkningen enligt artiklarna 19 och 20 på all radioutrustning som uppfyller de tillämpliga kraven i detta direktiv.
+
+4.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje typ av radioutrustning och kunna uppvisa den tillsammans med den tekniska dokumentationen för de nationella myndigheterna i tio år efter det att radioutrustningen har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken radioutrustning den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska på begäran göras tillgänglig för de behöriga myndigheterna.
+
+5. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 4 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA III
+
+BEDÖMNING AV ÖVERENSSTÄMMELSE MODULERNA B OCH C
+
+EU-TYPKONTROLL OCH ÖVERENSSTÄMMELSE MED TYP SOM GRUNDAR SIG PÅ INTERN TILLVERKNINGSKONTROLL
+
+När det hänvisas till denna bilaga ska förfarandet för bedömning av överensstämmelse följa modulerna B (EU-typkontroll) och C (överensstämmelse med typ som grundar sig på intern tillverkningskontroll) i denna bilaga.
+
+Modul B
+
+EU-typkontroll
+
+1. EU-typkontroll är den del av ett förfarande för bedömning av överensstämmelse genom vilken ett anmält organ undersöker den tekniska konstruktionen av radioutrustningen och kontrollerar och intygar att den uppfyller de väsentliga kraven i artikel 3.
+
+2. EU-typkontroll ska utföras på följande sätt: Bedömning av den tekniska konstruktionens lämplighet för radioutrustningen genom granskning av den tekniska dokumentation och de underlag som avses i punkt 3, utan undersökning av provexemplar (konstruktionstyp).
+
+3. Tillverkaren ska lämna in ansökan om EU-typkontroll till ett valfritt anmält organ.
+
+Ansökan ska innehålla följande:
+
+a)
+
+Tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens representant, även dennes namn och adress.
+
+b)
+
+En skriftlig försäkran om att samma ansökan inte har lämnats in till något annat anmält organ.
+
+c)
+
+Den tekniska dokumentationen. Den tekniska dokumentationen ska göra det möjligt att bedöma om radioutrustningen uppfyller de tillämpliga kraven i detta direktiv och innehålla en tillfredsställande analys och bedömning av riskerna. Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av radioutrustningens konstruktion, tillverkning och funktionssätt. Den tekniska dokumentationen ska, i tillämpliga fall, innehålla de uppgifter som anges i bilaga V.
+
+d)
+
+Underlag som visar att den lösning som valts för den tekniska konstruktionen är lämplig. I underlaget ska man ange alla dokument som har använts, särskilt när de relevanta harmoniserade standarderna inte har tillämpats eller inte har tillämpats fullt ut. Underlaget ska vid behov innehålla resultaten av provningar som utförts i enlighet med andra relevanta tekniska specifikationer i lämpligt laboratorium som tillhör tillverkaren, eller i något annat provningslaboratorium för dennes räkning och under dennes ansvar.
+
+4. Det anmälda organet ska granska den tekniska dokumentationen och underlagen i syfte att bedöma om radioutrustningens tekniska konstruktion är lämplig.
+
+5. Det anmälda organet ska utarbeta en utvärderingsrapport där det anges vilka åtgärder som har vidtagits i enlighet med punkt 4 och vad de har resulterat i. Utan att det påverkar det anmälda organets skyldigheter enligt punkt 8 får organet inte offentliggöra hela eller delar av innehållet i rapporten utan tillverkarens samtycke.
+
+6. Om typen uppfyller de krav i detta direktiv som är tillämpliga på den berörda radioutrustningen ska det anmälda organet utfärda ett EU-typintyg till tillverkaren. Det intyget ska innehålla tillverkarens namn och adress, slutsatserna av undersökningen, de aspekter av de väsentliga kraven som omfattas av kontrollen, eventuella giltighetsvillkor samt de uppgifter som krävs för att identifiera den bedömda typen. EU-typintyget kan ha en eller flera bilagor.
+
+EU-typintyget och bilagorna ska innehålla all information som behövs för att bedöma om den tillverkade radioutrustningen överensstämmer med den undersökta typen och för att kontrollera utrustningen i bruk.
+
+Om typen inte uppfyller de tillämpliga kraven i detta direktiv ska det anmälda organet avslå ansökan om EU-typintyg och underrätta den sökande om detta samt utförligt motivera avslaget.
+
+7. Det anmälda organet ska följa med i den tekniska utvecklingen, och om det visar sig att den godkända typen inte längre uppfyller de tillämpliga kraven i detta direktiv ska organet fastställa om det krävs ytterligare undersökningar. Om så är fallet ska det anmälda organet underrätta tillverkaren om detta.
+
+Tillverkaren ska underrätta det anmälda organ som har den tekniska dokumentationen rörande EU-typintyget om alla ändringar av den godkända typen som kan påverka radioutrustningens överensstämmelse med de väsentliga kraven i detta direktiv eller villkoren för det intygets giltighet. För sådana ändringar krävs ytterligare godkännande i form av ett tillägg till det ursprungliga EU-typintyget.
+
+8. Varje anmält organ ska underrätta sin anmälande myndighet om de EU-typintyg och/eller eventuella tillägg till dessa som det har utfärdat eller återkallat, och det ska regelbundet eller på begäran ge den anmälande myndigheten tillgång till förteckningen över sådana intyg och/eller tillägg till dessa som det har avslagit, tillfälligt återkallat eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de EU-typintyg och/eller tillägg till dessa som det har vägrat utfärda, tillfälligt eller slutgiltigt återkallat eller på annat sätt belagt med restriktioner och, på begäran, om sådana intyg och/eller tillägg som det har utfärdat.
+
+Varje anmält organ ska underrätta medlemsstaterna om de EU-typintyg som det har utfärdat och/eller tillägg till dessa i de fall där harmoniserade standarder vars referensnummer har offentliggjorts i Europeiska unionens officiella tidning inte har tillämpats eller inte har tillämpats fullt ut. Medlemsstaterna, kommissionen och övriga anmälda organ har rätt att på begäran få en kopia av EU-typintyget och/eller tilläggen till det. Medlemsstaterna och kommissionen har rätt att på begäran få en kopia av den tekniska dokumentationen och av resultaten från de undersökningar som utförts av det anmälda organet. Det anmälda organet ska förvara en kopia av EU-typintyget, dess bilagor och tillägg och det tekniska underlaget, inklusive dokumentation från tillverkaren under tio år räknat från att radioutrustningen har bedömts eller så länge som det intyget är giltigt.
+
+9. Tillverkaren ska för de nationella myndigheterna kunna uppvisa en kopia av EU-typintyget med bilagor och tillägg tillsammans med den tekniska dokumentationen i tio år efter det att radioutrustningen har släppts ut på marknaden.
+
+10. Tillverkarens representant får lämna in den ansökan som avses i punkt 3 och fullgöra skyldigheterna enligt punkterna 7 och 9, förutsatt att de specificeras i fullmakten.
+
+Modul C
+
+Överensstämmelse med typ som grundar sig på intern tillverkningskontroll
+
+1. Överensstämmelse med typ som grundar sig på intern tillverkningskontroll är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2 och 3 samt säkerställer och försäkrar att den berörda radioutrustningen överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den leder till att den tillverkade radioutrustningen överensstämmer med den godkända typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+3. CE-märkning och EU-försäkran om överensstämmelse
+
+3.1
+
+Tillverkaren ska anbringa CE-märkningen i enlighet med artiklarna 19 och 20 på all radioutrustning som överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+3.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje typ av radioutrustning och kunna uppvisa den för de nationella myndigheterna i tio år efter det att radioutrustningen har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken radioutrustning den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska på begäran göras tillgänglig för de behöriga myndigheterna.
+
+4. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 3 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA IV
+
+BEDÖMNING AV ÖVERENSSTÄMMELSE MODUL H
+
+ÖVERENSSTÄMMELSE SOM GRUNDAR SIG PÅ FULLSTÄNDIG KVALITETSSÄKRING
+
+1. Överensstämmelse som grundar sig på fullständig kvalitetssäkring är det förfarande för bedömning av överensstämmelse genom vilket tillverkaren fullgör skyldigheterna i punkterna 2 och 5 och säkerställer och försäkrar på eget ansvar att den berörda radioutrustningen uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska tillämpa ett godkänt kvalitetssystem för konstruktion, tillverkning, slutlig radioutrustningskontroll och provning av de berörda produkterna i enlighet med punkt 3 som ska kontrolleras i enlighet med punkt 4.
+
+3. Kvalitetssystem
+
+3.1
+
+Tillverkaren ska hos ett valfritt anmält organ ansöka om att få sitt kvalitetssystem för den aktuella radioutrustningen bedömt.
+
+Ansökan ska innehålla följande:
+
+a)
+
+Tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens representant, även dennes namn och adress.
+
+b)
+
+Den tekniska dokumentationen för varje typ av radioutrustning som är avsedd att tillverkas. Den tekniska dokumentationen ska, i tillämpliga fall, innehålla de uppgifter som anges i bilaga V.
+
+c)
+
+Dokumentation av kvalitetssystemet.
+
+d)
+
+En skriftlig försäkran om att samma ansökan inte har lämnats till något annat anmält organ.
+
+3.2
+
+Kvalitetssystemet ska säkerställa att radioutrustningen överensstämmer med de tillämpliga kraven i detta direktiv.
+
+Alla faktorer, krav och bestämmelser som tillverkaren tagit hänsyn till ska dokumenteras på ett systematiskt och överskådligt sätt i form av skriftliga riktlinjer, förfaranden och anvisningar. Dokumentationen av kvalitetssystemet ska möjliggöra en enhetlig tolkning av kvalitetsrelaterade program, planer, manualer och protokoll.
+
+Den ska särskilt omfatta en fullgod beskrivning av
+
+a)
+
+kvalitetsmålen och organisationsstruktur samt ledningens ansvar och befogenheter beträffande konstruktion och produktkvalitet,
+
+b)
+
+de tekniska specifikationer för konstruktionen, inbegripet standarder, som kommer att tillämpas och, när de relevanta harmoniserade standarderna inte tillämpas till fullo, vilka medel som kommer att användas för att säkerställa att de väsentliga säkerhetskrav i detta direktiv som är tillämpliga på radioutrustningen uppfylls,
+
+c)
+
+de tekniker för konstruktionsstyrning och konstruktionskontroll, metoder och systematiska åtgärder som kommer att användas vid konstruktion av den radioutrustning som tillhör den berörda radioutrustningstypen,
+
+d)
+
+de motsvarande metoder, processer och systematiska förfaranden för tillverkning, kvalitetskontroll och kvalitetssäkring som kommer att användas,
+
+e)
+
+de undersökningar och provningar som kommer att utföras före, under och efter tillverkningen samt hur ofta dessa kommer att utföras,
+
+f)
+
+kvalitetsdokumenten, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för personalens kvalifikationer,
+
+g)
+
+metoder för övervakning av att den erforderliga konstruktions- och produktkvaliteten uppnås och att kvalitetssystemet fungerar effektivt.
+
+3.3
+
+Det anmälda organet ska bedöma kvalitetssystemet för att avgöra om det uppfyller kraven i punkt 3.2.
+
+Det anmälda organet ska förutsätta att dessa krav är uppfyllda i fråga om de delar av kvalitetssystemet som överensstämmer med motsvarande specifikationer i relevant harmoniserad standard.
+
+Utöver erfarenhet av kvalitetsledningssystem ska minst en av revisionsgruppens deltagare ha erfarenhet av bedömning av det aktuella radioutrustningsområdet och den berörda radiotekniken, och känna till de tillämpliga kraven i detta direktiv. Revisionen ska även omfatta en inspektion hos tillverkaren. Revisionsgruppen ska granska den tekniska dokumentation som avses i punkt 3.1 andra strecksatsen för att kontrollera att tillverkaren känner till de tillämpliga kraven i detta direktiv och kan utföra de undersökningar som krävs för att säkerställa att radioutrustningen överensstämmer med kraven.
+
+Tillverkaren eller dennes representant ska underrättas om beslutet.
+
+Meddelandet ska innehålla slutsatserna från revisionen samt det motiverade beslutet.
+
+3.4
+
+Tillverkaren ska åta sig att fullgöra de skyldigheter som är förenade med det godkända kvalitetssystemet och att upprätthålla det så att det förblir ändamålsenligt och effektivt.
+
+3.5
+
+Tillverkaren ska underrätta det anmälda organ som har godkänt kvalitetssystemet om alla ändringar som planeras i systemet.
+
+Det anmälda organet ska bedöma de föreslagna ändringarna och avgöra om ett ändrat kvalitetssystem fortfarande uppfyller de krav som avses i punkt 3.2 eller om en ny bedömning är nödvändig.
+
+Organet ska meddela tillverkaren sitt beslut. Meddelandet ska innehålla slutsatserna från undersökningen och det motiverade beslutet.
+
+4. Kontroll under det anmälda organets ansvar
+
+4.1
+
+Syftet med kontrollen är att försäkra sig om att tillverkaren fullgör de skyldigheter som är förenade med det godkända kvalitetssystemet.
+
+4.2
+
+För att möjliggöra en bedömning ska tillverkaren ge det anmälda organet tillträde till lokaler för konstruktion, tillverkning, kontroll, provning och förvaring och tillhandahålla all nödvändig information, särskilt i fråga om
+
+a)
+
+dokumentation av kvalitetssystemet,
+
+b)
+
+de dokument som anges i kvalitetssystemets konstruktionsdel, t.ex. resultat från analyser, beräkningar och provningar,
+
+c)
+
+de dokument som anges i kvalitetssystemets tillverkningsdel, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för personalens kvalifikationer etc.
+
+4.3
+
+Det anmälda organet ska regelbundet genomföra revisioner för att försäkra sig om att tillverkaren upprätthåller och tillämpar kvalitetssystemet och ska lämna en revisionsberättelser till tillverkaren.
+
+4.4
+
+Det anmälda organet får dessutom göra oanmälda besök hos tillverkaren. I samband med sådana besök får det anmälda organet vid behov utföra eller låta utföra provningar av produkterna för att kontrollera att kvalitetssystemet fungerar korrekt. Det anmälda organet ska lämna en besöksrapport till tillverkaren och, om provning har utförts, en provningsrapport.
+
+5. CE-märkning och EU-försäkran om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen i enlighet med artiklarna 19 och 20 och, under ansvar av det anmälda organ som avses i punkt 3.1, organets identifikationsnummer på all radioutrustning som uppfyller de tillämpliga krav som anges i artikel 3.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje typ av radioutrustning och kunna uppvisa den för de nationella myndigheterna i tio år efter det att radioutrustningen har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken radioutrustning den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska på begäran göras tillgänglig för de behöriga myndigheterna.
+
+6. Tillverkaren ska under tio år efter det att radioutrustningen har släppts ut på marknaden kunna uppvisa följande för de nationella myndigheterna:
+
+a)
+
+Den tekniska dokumentation som avses i punkt 3.1.
+
+b)
+
+Sådan dokumentation av kvalitetssystemet som avses i punkt 3.1.
+
+c)
+
+Godkända ändringar enligt punkt 3.5.
+
+d)
+
+Sådana beslut och rapporter från det anmälda organet som avses i punkterna 3.5, 4.3 och 4.4.
+
+7. Varje anmält organ ska underrätta sin anmälande myndighet om de godkännanden av kvalitetssystem som det har utfärdat eller återkallat och ska regelbundet eller på begäran ge sin anmälande myndighet tillgång till förteckningen över de godkännanden av kvalitetssystem som det har avslagit, tillfälligt återkallat eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de godkännanden av kvalitetssystem som det har avslagit eller tillfälligt eller slutgiltigt återkallat och, på begäran, om de godkännanden av kvalitetssystem som det har utfärdat.
+
+8. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkterna 3.1, 3.5, 5 och 6 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA V
+
+DEN TEKNISKA DOKUMENTATIONENS INNEHÅLL
+
+Den tekniska dokumentationen ska, där så är tillämpligt, innehålla minst följande:
+
+a)
+
+En allmän beskrivning av radioutrustningen inklusive:
+
+i)
+
+fotografier eller illustrationer som visar yttre egenskaper, märkning och inre utformning,
+
+ii)
+
+versioner av programvara eller fasta program som påverkar överensstämmelsen med de väsentliga kraven,
+
+iii)
+
+användarinformation och installationsanvisningar.
+
+b)
+
+Konstruktions- och tillverkningsritningar samt scheman av komponenter, delmontage, kretsar och liknande relevanta beståndsdelar.
+
+c)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur radioutrustningen fungerar.
+
+d)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de väsentliga kraven i artikel 3, inbegripet en förteckning över andra relevanta tekniska specifikationer som följts. Om de harmoniserade standarderna följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+e)
+
+Kopia av EU-försäkran om överensstämmelse.
+
+f)
+
+Om modulen för bedömning av överensstämmelse i bilaga III har tillämpats, kopia av ett EU-typintyg och dess bilagor som utfärdats av det berörda anmälda organet.
+
+g)
+
+Resultat av konstruktionsberäkningar, undersökningar och liknande relevanta uppgifter.
+
+h)
+
+Provningsrapporter.
+
+i)
+
+En förklaring av efterlevnaden av kravet i artikel 10.2 och av inkluderandet eller utelämnandet av information på förpackningen i enlighet med artikel 10.10.
+
+BILAGA VI
+
+EU-FÖRSÄKRAN OM ÖVERENSSTÄMMELSE (nr XXX) (1)
+
+1.
+
+Radioutrustning (produkt-, typ-, parti- eller serienummer):
+
+2.
+
+Namn på och adress till tillverkaren eller dennes representant:
+
+3.
+
+Denna försäkran om överensstämmelse utfärdas på tillverkarens eget ansvar.
+
+4.
+
+Föremål för försäkran (identifiera radioutrustningen så att den kan spåras; den kan innehålla en färgbild som är så tydlig att det går att identifiera radioutrustningen):
+
+5.
+
+Föremålet för försäkran ovan överensstämmer med den relevanta unionslagstiftningen om harmonisering:
+
+Direktiv 2014/53/EU
+
+Annan harmoniserad unionslagstiftning i förekommande fall
+
+6.
+
+Hänvisningar till de relevanta harmoniserade standarder som använts eller hänvisningar till andra tekniska specifikationer enligt vilka överensstämmelsen försäkras. Hänvisningar måste förtecknas tillsammans med identifieringsnummer och version och i förekommande fall datum för utfärdande:
+
+7.
+
+I tillämpliga fall: det anmälda organet ... (namn, nummer) ... har utfört ... (beskrivning av åtgärd) ... och utfärdat EU-typprovningsintyg: …
+
+8.
+
+I förekommande fall en beskrivning av tillbehör och komponenter, inklusive programvara, som gör det möjligt för radioutrustningen att fungera som avsett och som täcks av en EU-försäkran om överensstämmelse:
+
+9.
+
+Ytterligare information:
+
+Undertecknat för: …
+
+(ort och datum)
+
+(namn, befattning) (namnteckning)
+
+(1) Det är frivilligt för tillverkaren att numrera EU-försäkran om överensstämmelse.
+
+BILAGA VII
+
+FÖRENKLAD EU-FÖRSÄKRAN OM ÖVERENSSTÄMMELSE
+
+Den förenklade EU-försäkran om överensstämmelse som avses i artikel 10.9 ska lämnas in enligt följande:
+
+Härmed försäkrar [tillverkarens namn] att denna typ av radioutrustning [ange typ av radioutrustning] överensstämmer med direktiv 2014/53/EU.
+
+Den fullständiga texten till EU-försäkran om överensstämmelse finns på följande webbadress:
+
+BILAGA VIII
+
+JÄMFÖRELSETABELL
+
+Direktiv 1999/5/EG
+
+Detta direktiv
+
+Artikel 1
+
+Artikel 1
+
+Artikel 2
+
+Artikel 2
+
+Artikel 3.1 och 3.2
+
+Artikel 3.1 och 3.2
+
+Artikel 3.3 och artikel 15a
+
+Artikel 3.3, med undantag för artiklarna 3.3 i, och artikel 44
+
+Artikel 4.1 och artiklarna 13–15
+
+Artiklarna 8 och 45
+
+Artikel 4.2
+
+—
+
+Artikel 5.1
+
+Artikel 16
+
+Artikel 5.2 och 5.3
+
+—
+
+Artikel 6.1
+
+Artikel 6
+
+Artikel 6.2
+
+—
+
+Artikel 6.3
+
+Artikel 10.8, 10.9 och 10.10
+
+Artikel 6.4
+
+—
+
+Artiklarna 7.1 och 7.2
+
+Artikel 7
+
+Artikel 7.3, 7.4 och 7.5
+
+—
+
+Artikel 8.1 och 8.2
+
+Artikel 9
+
+Artikel 8.3
+
+—
+
+Artikel 9
+
+Artiklarna 39–43
+
+Artikel 10
+
+Artikel 17
+
+Artikel 11
+
+Artiklarna 22–38
+
+Artikel 12
+
+Artiklarna 19, 20, 10.6, 10.7
+
+Artikel 16
+
+—
+
+Artikel 17
+
+Artikel 47
+
+Artikel 18
+
+Artikel 48
+
+Artikel 19
+
+Artikel 49
+
+Artikel 20
+
+Artikel 50
+
+Artikel 21
+
+Artikel 51
+
+Artikel 22
+
+Artikel 52
+
+Bilaga I
+
+Bilaga I
+
+Bilaga II
+
+Bilaga II
+
+Bilaga III
+
+—
+
+Bilaga IV
+
+Bilaga III
+
+Bilaga V
+
+Bilaga IV
+
+Bilaga VI
+
+Artikel 26
+
+Bilaga VII punkterna 1–4
+
+Artiklarna 19 och 20
+
+Bilaga VII punkt 5
+
+Artikel 10.10
+
+UTTALANDE AV EUROPAPARLAMENTET
+
+Europaparlamentet anser att endast när genomförandeakter i den mening som avses i förordning (EU) nr 182/2011 diskuteras vid möten med kommittéer kan de sistnämnda anses vara kommittéer inom ramen för kommittéförfarandet i den mening som avses i bilaga I till ramavtalet om förbindelserna mellan Europaparlamentet och kommissionen. Möten med kommittéer omfattas således av punkt 15 i ramavtalet när andra frågor diskuteras.

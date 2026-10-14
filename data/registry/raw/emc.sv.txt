@@ -1,0 +1,1099 @@
+# emc [sv] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0023.03
+
+# kap-1 | Kapitel 1 | ALLMÄNNA BESTÄMMELSER | cpt_1
+
+## Artikel 1 | Syfte | art_1
+Bestämmelserna i detta direktiv gäller utrustnings elektromagnetiska kompatibilitet. Syftet är att säkerställa den inre marknadens funktion genom att kräva att utrustning ska överensstämma med en adekvat nivå av elektromagnetisk kompatibilitet.
+
+## Artikel 2 | Tillämpningsområde | art_2
+1. Detta direktiv ska tillämpas på utrustning enligt definitionen i artikel 3.
+
+2. Detta direktiv ska inte tillämpas på
+
+a)
+
+utrustning som omfattas av direktiv 1999/5/EG,
+
+b)
+
+luftfartsprodukter, delar och anordningar som avses i Europaparlamentets och rådets förordning (EG) nr 216/2008 av den 20 februari 2008 om fastställande av gemensamma bestämmelser på det civila luftfartsområdet och inrättande av en europeisk byrå för luftfartssäkerhet, och om upphävande av rådets direktiv 91/670/EEG, förordning (EG) nr 1592/2002 och direktiv 2004/36/EG (9),
+
+c)
+
+radioutrustning som används av radiosändaramatörer, i den mening som anges i radioreglementet som antagits inom ramen för Internationella teleunionens stadga och Internationella teleunionens konvention (10), om inte utrustningen är tillgänglig på marknaden,
+
+d)
+
+utrustning vars egenskaper är av sådan karaktär att
+
+i)
+
+den inte kan alstra eller bidra till elektromagnetisk emission som överstiger en nivå som tillåter radio- och teleutrustning och annan utrustning att fungera som avsett, och
+
+ii)
+
+dess funktion inte i oacceptabel utsträckning försämras av de elektromagnetiska störningar som normalt uppstår när den används som avsett.
+
+e)
+
+särskilt utformade utvärderingsbyggsatser avsedda för fackmän som endast ska användas i forsknings- och utvecklingsanläggningar för sådana ändamål.
+
+Vid tillämpning av första stycket led c ska byggsatser bestående av komponenter som ska monteras av radiosändaramatörer och utrustning som tillhandahålls på marknaden och modifieras och används av radiosändaramatörer inte betraktas som utrustning som tillhandahålls på marknaden.
+
+3. När, för den utrustning som avses i punkt 1, de väsentliga krav som anges i bilaga I helt eller delvis anges mer specificerat i annan unionslagstiftning, ska detta direktiv inte tillämpas, eller ska inte längre tillämpas, för denna utrustning med avseende på sådana krav från och med dagen för den unionslagstiftningens genomförande.
+
+4. Detta direktiv ska inte inverka på tillämpningen av unionslagstiftning eller nationell lagstiftning om utrustnings säkerhet.
+
+## Artikel 3 | Definitioner | art_3
+1. I detta direktiv avses med
+
+1. utrustning: apparat eller fast installation,
+
+2. apparat: färdig anordning, eller en kombination av sådana anordningar, som finns tillgänglig på marknaden som en funktionell enhet och är avsedd för slutanvändaren och som kan alstra elektromagnetiska störningar, eller vars funktion kan påverkas av sådana störningar,
+
+3. fast installation: en särskild kombination av olika typer av apparater och i förekommande fall andra anordningar som är monterade, installerade och avsedda för permanent användning på en på förhand fastställd plats,
+
+4. elektromagnetisk kompatibilitet: en utrustnings förmåga att fungera tillfredsställande i sin elektromagnetiska omgivning utan att introducera oacceptabla elektromagnetiska störningar för annan utrustning i denna omgivning,
+
+5. elektromagnetisk störning: elektromagnetiskt fenomen som kan försämra funktionen hos en utrustning; en elektromagnetisk störning kan vara elektromagnetiskt brus, en oönskad signal eller en förändring i själva överföringsmediet,
+
+6. tålighet: en utrustnings förmåga att fungera som avsett utan försämring i närvaro av en elektromagnetisk störning,
+
+7. säkerhetsändamål: ändamål för att skydda mänskligt liv eller egendom,
+
+8. elektromagnetisk miljö: de sammanlagda elektromagnetiska fenomen som kan observeras på en viss plats,
+
+9. tillhandahållande på marknaden: varje leverans av en apparat för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt,
+
+10. utsläppande på marknaden: första gången en apparat tillhandahålls på unionsmarknaden,
+
+11. tillverkare: fysisk eller juridisk person som tillverkar eller som låter konstruera eller tillverka en apparat och saluför apparaten, i eget namn eller under eget varumärke,
+
+12. tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt en skriftlig fullmakt från tillverkaren har rätt att i dennes ställe utföra särskilda uppgifter,
+
+13. importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut en apparat från ett tredjeland på unionsmarknaden,
+
+14. distributör: fysisk eller juridisk person i leveranskedjan, förutom tillverkaren eller importören, som tillhandahåller en apparat på marknaden,
+
+15. ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören,
+
+16. teknisk specifikation: dokument där det fastställs vilka tekniska krav som en utrustning ska uppfylla,
+
+17. harmoniserad standard: harmoniserad standard enligt definitionen i artikel 2.1 c i förordning (EU) nr 1025/2012,
+
+18. ackreditering: ackreditering enligt definitionen i artikel 2.10 i förordning (EG) nr 765/2008,
+
+19. nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel 2.11 i förordning (EG) nr 765/2008,
+
+20. bedömning av överensstämmelse: process där det visas huruvida de väsentliga kraven i detta direktiv för en apparat har uppfyllts,
+
+21. organ för bedömning av överensstämmelse: organ som utför bedömning av överensstämmelse, innefattande kalibrering, provning, certifiering och kontroll,
+
+22. återkallelse: åtgärd för att dra tillbaka en apparat som redan tillhandahållits slutanvändaren,
+
+23. tillbakadragande: åtgärd för att förhindra att en apparat i leveranskedjan tillhandahålls på marknaden,
+
+24. harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter,
+
+25. CE-märkning: märkning genom vilken tillverkaren visar att apparaten överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning,
+
+2. I detta direktiv ska följande anses vara en apparat:
+
+1.
+
+Komponenter eller sammansatta inbyggnadsdelar som är avsedda att byggas in i en apparat av slutanvändaren och som kan alstra elektromagnetiska störningar eller vars funktion kan påverkas av sådana störningar.
+
+2.
+
+Rörliga installationer som definieras som en kombination av apparater, och i tillämpliga fall andra anordningar, som är avsedda att flyttas och användas på ett antal olika platser.
+
+## Artikel 4 | Tillhandahållande på marknaden och/eller ibruktagande | art_4
+Medlemsstaterna ska vidta alla lämpliga åtgärder för att säkerställa att utrustning tillhandahålls på marknaden och/eller tas i bruk endast om den är i överensstämmelse med detta direktiv när den är korrekt installerad, underhållen och används för avsett ändamål.
+
+## Artikel 5 | Fri rörlighet för utrustning | art_5
+1. Medlemsstaterna får inte inom sina territorier, med hänvisning till skäl som har samband med elektromagnetisk kompatibilitet, hindra att utrustning som uppfyller bestämmelserna i detta direktiv tillhandahålls på marknaden och/eller tas i bruk.
+
+2. Kraven i detta direktiv får inte förhindra att följande särskilda åtgärder som avser ibruktagande eller användning av utrustning vidtas i någon medlemsstat:
+
+a)
+
+Åtgärder för att bemästra ett befintligt eller förutsett problem rörande elektromagnetisk kompatibilitet på en viss plats.
+
+b)
+
+Åtgärder som vidtas av säkerhetsskäl för att skydda allmänt tillgängliga telenät eller mottagar- eller sändarstationer när de används för säkerhetsändamål i väldefinierade spektrumsituationer.
+
+Utan att det påverkar tillämpningen av Europaparlamentets och rådets direktiv 98/34/EG av den 22 juni 1998 om ett informationsförfarande beträffande tekniska standarder och föreskrifter (11) ska en medlemsstat anmäla dessa särskilda åtgärder till kommissionen och de övriga medlemsstaterna.
+
+De särskilda åtgärder som har godkänts ska offentliggöras av kommissionen i Europeiska unionens officiella tidning.
+
+3. Medlemsstaterna får inte hindra att utrustning som inte uppfyller bestämmelserna i detta direktiv visas och/eller demonstreras på handelsmässor, utställningar eller liknande, förutsatt att det genom synlig skyltning klart framgår att sådan utrustning inte får tillhandahållas på marknaden och/eller tas i bruk förrän den uppfyller bestämmelserna i detta direktiv. Visningar får endast äga rum under förutsättning att tillräckliga åtgärder har vidtagits för att undvika elektromagnetiska störningar.
+
+## Artikel 6 | Väsentliga krav | art_6
+Utrustningen ska uppfylla de väsentliga krav som anges i bilaga I.
+
+# kap-2 | Kapitel 2 | DE EKONOMISKA AKTÖRERNAS SKYLDIGHETER | cpt_2
+
+## Artikel 7 | Tillverkarnas skyldigheter | art_7
+1. När tillverkarna släpper ut sina apparater på marknaden ska de se till att de har konstruerats och tillverkats i enlighet med de väsentliga kraven i bilaga I.
+
+2. Tillverkarna ska utarbeta den tekniska dokumentation som avses i bilaga II eller bilaga III och utföra eller låta utföra den relevanta bedömning av överensstämmelse som avses i artikel 14.
+
+Om bedömningen har visat att apparaten uppfyller de tillämpliga kraven ska tillverkarna upprätta en EU-försäkran om överensstämmelse och anbringa CE-märkningen.
+
+3. Tillverkarna ska behålla den tekniska dokumentationen och EU-försäkran om överensstämmelse i tio år efter det att apparaten har släppts ut på marknaden.
+
+4. Tillverkarna ska se till att det finns rutiner som garanterar att serietillverkningen fortsätter att överensstämma med kraven i detta direktiv. Det ska också tas hänsyn till ändringar i apparatens konstruktion eller egenskaper och ändringar i de harmoniserade standarderna eller andra tekniska specifikationer som det hänvisas till vid försäkran om överensstämmelse för en apparat.
+
+5. Tillverkarna ska se till att de apparater som de har släppt ut på marknaden är försedda med typnummer, partinummer, serienummer eller annan identifieringsmärkning eller, om detta inte är möjligt på grund av apparatens storlek eller art, se till att den erforderliga informationen lämnas på förpackningen eller i ett medföljande dokument.
+
+6. Tillverkarna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på apparaten, eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med apparaten. Den angivna adressen ska ange en enda kontaktpunkt där tillverkaren kan kontaktas. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+7. Tillverkarna ska se till att apparaten åtföljs av bruksanvisningar och den information som avses i artikel 18 på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten. Dessa bruksanvisningar och information liksom alla etiketter ska vara tydliga och lättbegripliga.
+
+8. Tillverkare som anser eller har skäl att tro att en apparat som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få apparaten att överensstämma med kraven eller, om så är lämpligt, dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska tillverkarna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+9. Tillverkarna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven i detta direktiv, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de har släppt ut på marknaden.
+
+## Artikel 8 | Tillverkarens representanter | art_8
+1. Tillverkarna får genom skriftlig fullmakt utse en representant.
+
+Skyldigheterna i enlighet med artikel 7.1 och skyldigheten att upprätta sådan teknisk dokumentation som avses i artikel 7.2 får inte delegeras till tillverkarens representant.
+
+2. Tillverkarens representant ska utföra de uppgifter som anges i fullmakten från tillverkaren. Fullmakten ska ge tillverkarens representant rätt att åtminstone
+
+a)
+
+inneha EU-försäkran om överensstämmelse och den tekniska dokumentationen för att kunna uppvisa dem för de nationella marknadskontrollmyndigheterna i tio år efter det att apparaten har släppts ut på marknaden,
+
+b)
+
+på motiverad begäran av en behörig nationell myndighet ge den myndigheten all information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven,
+
+c)
+
+på deras begäran samarbeta med de behöriga nationella myndigheterna om de åtgärder som vidtas för att undanröja riskerna med de apparater som omfattas av fullmakten.
+
+## Artikel 9 | Importörernas skyldigheter | art_9
+1. Importörerna får endast släppa ut apparater på marknaden som överensstämmer med kraven.
+
+2. Innan importörerna släpper ut en apparat på marknaden ska de se till att tillverkaren har utfört den bedömning av överensstämmelse som avses i artikel 14. De ska se till att tillverkaren har upprättat den tekniska dokumentationen, att apparaten är försedd med CE-märkning och åtföljs av de dokument som krävs samt att tillverkaren har uppfyllt kraven i artikel 7.5 och 7.6.
+
+Om en importör anser eller har skäl att tro att en apparat inte överensstämmer med de väsentliga kraven i bilaga I får importören inte släppa ut apparaten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om apparaten utgör en risk ska importören dessutom informera tillverkaren och marknadskontrollmyndigheterna om detta.
+
+3. Importörerna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på apparaten eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med apparaten. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+4. Importörerna ska se till att apparaten åtföljs av bruksanvisningar och den information som avses i artikel 18 på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare och som bestämts av den berörda medlemsstaten.
+
+5. Importörerna ska, så länge de har ansvar för en apparat, se till att förvarings- eller transportförhållandena för apparaten inte äventyrar apparatens överensstämmelse med de väsentliga kraven i bilaga I.
+
+6. Importörer som anser eller har skäl att tro att en apparat som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få apparaten att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska importörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+7. Under tio år efter det att apparaten har släppts ut på marknaden ska importörerna hålla en kopia av EU-försäkran om överensstämmelse tillgänglig för marknadskontrollmyndigheterna och se till att dessa myndigheter på begäran kan få tillgång till den tekniska dokumentationen.
+
+8. Importörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att en apparat överensstämmer med kraven, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de har släppt ut på marknaden.
+
+## Artikel 10 | Distributörernas skyldigheter | art_10
+1. När distributörerna tillhandahåller en apparat på marknaden ska de iaktta vederbörlig omsorg för att se till att kraven i detta direktiv uppfylls.
+
+2. Innan distributörerna tillhandahåller en apparat på marknaden ska de kontrollera att den är försedd med CE-märkning, att den åtföljs av de dokument som krävs och av bruksanvisning och den information som avses i artikel 18 på ett språk som lätt kan förstås av konsumenterna och andra slutanvändare i den medlemsstat där apparaten ska tillhandahållas på marknaden samt att tillverkaren och importören har uppfyllt kraven i artiklarna 7.5, 7.6 respektive 9.3.
+
+Om en distributör anser eller har skäl att tro att en apparat inte överensstämmer med de väsentliga kraven i bilaga I får distributören inte tillhandahålla apparaten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om apparaten utgör en risk ska distributören dessutom informera tillverkaren eller importören samt marknadskontrollmyndigheterna om detta.
+
+3. Distributörerna ska, så länge de har ansvar för en apparat, se till att förvarings- eller transportförhållandena för apparaten inte äventyrar apparatens överensstämmelse med de väsentliga kraven i bilaga I.
+
+4. Distributörer som anser eller har skäl att tro att en apparat som de har tillhandahållit på marknaden inte överensstämmer med detta direktiv ska försäkra sig om att nödvändiga korrigerande åtgärder vidtas för att få apparaten att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla apparaten. Om apparaten utgör en risk ska distributörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit apparaten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+5. Distributörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten den information och dokumentation som behövs för att visa att apparaten överensstämmer med kraven. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de apparater som de tillhandahållit på marknaden.
+
+## Artikel 11 | Fall där tillverkarens skyldigheter är tillämpliga på importörer och distributörer | art_11
+Importörer eller distributörer ska anses vara tillverkare enligt detta direktiv och ska ha samma skyldigheter som tillverkaren har enligt artikel 7 när de släpper ut en apparat på marknaden i eget namn eller under eget varumärke eller ändrar en apparat som redan släppts ut på marknaden på ett sådant sätt att överensstämmelsen med detta direktiv kan påverkas.
+
+## Artikel 12 | Identifiering av de ekonomiska aktörerna | art_12
+De ekonomiska aktörerna ska på begäran identifiera följande aktörer för marknadskontrollmyndigheterna:
+
+a)
+
+Ekonomiska aktörer som har levererat en apparat till dem.
+
+b)
+
+Ekonomiska aktörer som de har levererat en apparat till.
+
+De ekonomiska aktörerna ska kunna ge den information som avses i första stycket i tio år efter det att de har fått apparaten levererad och i tio år efter det att de har levererat apparaten.
+
+# kap-3 | Kapitel 3 | UTRUSTNINGENS ÖVERENSSTÄMMELSE MED KRAVEN | cpt_3
+
+## Artikel 13 | Presumtion om överensstämmelse för utrustningen | art_13
+Utrustning som överensstämmer med harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de väsentliga krav i bilaga I som omfattas av dessa standarder eller delar av dem.
+
+## Artikel 14 | Förfarande vid bedömning av överensstämmelse för apparater | art_14
+När det gäller bedömning av apparaternas överensstämmelse med de väsentliga krav som anges i bilaga I ska något av följande förfaranden för bedömning av överensstämmelse följas:
+
+a)
+
+Intern tillverkningskontroll enligt bilaga II.
+
+b)
+
+EU-typkontroll följt av överensstämmelse med typ som grundar sig på intern tillverkningskontroll enligt bilaga III.
+
+Tillverkaren får välja att tillämpa det förfarande som avses i första stycket led b endast i fråga om vissa aspekter av de väsentliga kraven, under förutsättning att det förfarande som avses i första stycket led a tillämpas i fråga om de övriga aspekterna av de väsentliga kraven.
+
+## Artikel 15 | EU-försäkran om överensstämmelse | art_15
+1. I EU-försäkran om överensstämmelse ska det anges att de väsentliga säkerhetskraven i bilaga I har visats vara uppfyllda.
+
+2. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga IV, innehålla de uppgifter som anges i de relevanta modulerna i bilagorna II och III och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där apparaten släpps ut eller tillhandahålls på marknaden.
+
+3. Om en apparat omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att apparaten överensstämmer med kraven i detta direktiv.
+
+## Artikel 16 | Allmänna principer för CE-märkning | art_16
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel 30 i förordning (EG) nr 765/2008.
+
+## Artikel 17 | Regler och villkor för CE-märkning | art_17
+1. CE-märkningen ska anbringas på apparaten eller dess märkskylt så att den är synlig, lätt läsbar och varaktig. Om detta inte är möjligt eller lämpligt på grund av apparatens art ska märkningen anbringas på förpackningen och i de medföljande dokumenten.
+
+2. CE-märkningen ska anbringas innan apparaten släpps ut på marknaden.
+
+3. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+
+## Artikel 18 | Information om användningen av apparaten | art_18
+1. Apparaten ska åtföljas av information om eventuella särskilda försiktighetsåtgärder som ska vidtas i samband med montering, installation, underhåll eller användning av apparaten för att apparaten ska överensstämma med de väsentliga kraven i punkt 1 i bilaga I när den tas i bruk.
+
+2. Apparater vars överensstämmelse med de väsentliga kraven i punkt 1 i bilaga I inte är säkerställd i bostadsområden ska åtföljas av en tydlig uppgift om denna begränsade användning, i förekommande fall även på förpackningen.
+
+3. De anvisningar som åtföljer apparaten ska innehålla den information som är nödvändig för att möjliggöra användning av apparaten i överensstämmelse med det ändamål som apparaten är avsedd för.
+
+## Artikel 19 | Fasta installationer | art_19
+1. Apparater som har tillhandahållits på marknaden och som kan byggas in i en fast installation ska omfattas av alla tillämpliga bestämmelser för apparater i detta direktiv.
+
+Kraven i artiklarna 6–12 och 14–18 ska dock inte vara obligatoriska för apparater som är avsedda att byggas in i en bestämd fast installation och inte på annat sätt tillhandahålls på marknaden.
+
+I sådana fall ska den fasta installationens identitet och dess egenskaper avseende elektromagnetisk kompatibilitet framgå av den medföljande dokumentationen tillsammans med de försiktighetsåtgärder som ska vidtas när apparaten byggs in i den fasta installationen för att installationens överensstämmelse inte ska äventyras. Den information som avses i artiklarna 7.5, 7.6 och 9.3 ska också finnas i denna dokumentation.
+
+Sådan god branschpraxis som avses i punkt 2 i bilaga I ska dokumenteras, och den eller de ansvariga personerna ska hålla dokumentationen tillgänglig för kontroll för berörda nationella myndigheter så länge som den fasta installationen är i drift.
+
+2. Om det finns tecken på att den fasta installationen brister i överensstämmelse, särskilt om klagomål framförs om att störningar alstras av installationen, får den berörda medlemsstatens behöriga myndigheter begära bevis på den fasta installationens överensstämmelse och, när det är relevant, inleda en bedömning.
+
+Om bristande överensstämmelse konstateras ska de behöriga myndigheterna kräva att lämpliga åtgärder vidtas så att installationen överensstämmer med de väsentliga kraven i bilaga I.
+
+3. Medlemsstaterna ska införa de bestämmelser som krävs för att den eller de personer ska kunna identifieras som ansvarar för att fastställa att en fast installation överensstämmer med de tillämpliga väsentliga kraven.
+
+# kap-4 | Kapitel 4 | ANMÄLAN AV ORGAN FÖR BEDÖMNING AV ÖVERENSSTÄMMELSE | cpt_4
+
+## Artikel 20 | Anmälan | art_20
+Medlemsstaterna ska anmäla till kommissionen och övriga medlemsstater vilka organ som fått i uppdrag att utföra bedömningar av överensstämmelse i enlighet med detta direktiv.
+
+## Artikel 21 | Anmälande myndigheter | art_21
+1. Medlemsstaterna ska utse en anmälande myndighet med ansvar för att inrätta och genomföra de förfaranden som krävs för bedömning och anmälan av organ för bedömning av överensstämmelse och för övervakning av anmälda organ, inklusive överensstämmelse med artikel 26.
+
+2. Medlemsstaterna får besluta att den bedömning och övervakning som avses i punkt 1 ska utföras av ett nationellt ackrediteringsorgan i den betydelse som anges i och i enlighet med förordning (EG) nr 765/2008.
+
+3. Om den anmälande myndigheten delegerar eller på annat sätt överlåter den bedömning, anmälan eller övervakning som avses i punkt 1 till ett organ som inte är offentligt, ska det organet vara en juridisk person och i tillämpliga delar uppfylla kraven i artikel 22. Dessutom ska detta organ ha vidtagit åtgärder för att kunna hantera ansvarsskyldighet som kan uppstå i samband med dess verksamhet.
+
+4. Den anmälande myndigheten ska ta det fulla ansvaret för de uppgifter som utförs av det organ som avses i punkt 3.
+
+## Artikel 22 | Krav på anmälande myndigheter | art_22
+1. En anmälande myndighet ska vara inrättad på ett sådant sätt att det inte uppstår någon intressekonflikt med organen för bedömning av överensstämmelse.
+
+2. En anmälande myndighet ska vara organiserad och fungera på ett sådant sätt att dess verksamhet är objektiv och opartisk.
+
+3. En anmälande myndighet ska vara organiserad på ett sådant sätt att alla beslut som rör anmälan av ett organ för bedömning av överensstämmelse fattas av annan behörig personal än den som har gjort bedömningen.
+
+4. En anmälande myndighet får inte erbjuda eller utföra sådan verksamhet som utförs av organ för bedömning av överensstämmelse och får inte heller erbjuda eller utföra konsulttjänster på kommersiell eller konkurrensmässig grund.
+
+5. En anmälande myndighet ska sörja för att erhållen information behandlas konfidentiellt.
+
+6. En anmälande myndighet ska ha tillgång till tillräckligt med personal med lämplig kompetens för att kunna utföra sina uppgifter.
+
+## Artikel 23 | De anmälande myndigheternas informationsskyldighet | art_23
+Medlemsstaterna ska informera kommissionen om sina förfaranden för bedömning och anmälan av organ för bedömning av överensstämmelse och för övervakning av anmälda organ samt om eventuella ändringar.
+
+Kommissionen ska offentliggöra denna information.
+
+## Artikel 24 | Krav avseende anmälda organ | art_24
+1. När det gäller anmälan ska organ för bedömning av överensstämmelse uppfylla kraven i punkterna 2–11.
+
+2. Ett organ för bedömning av överensstämmelse ska inrättas enligt en medlemsstats nationella rätt och vara en juridisk person.
+
+3. Ett organ för bedömning av överensstämmelse ska vara ett tredjepartsorgan som är oberoende av den organisation eller apparat som den bedömer.
+
+Detta organ får vara ett organ som hör till en näringslivsorganisation eller branschorganisation som företräder företag som är involverade i konstruktion, tillverkning, leverans, installation, användning eller underhåll av de apparater som det bedömer, förutsatt att det kan styrkas att organet är oberoende och att det inte finns några intressekonflikter.
+
+4. Ett organ för bedömning av överensstämmelse, dess högsta ledning och den personal som ansvarar för att utföra bedömningen av överensstämmelse får inte utgöras av den som konstruerar, tillverkar, levererar, installerar, köper, äger, använder eller underhåller de apparater som bedöms och inte heller av den som företräder någon av dessa parter. Detta ska inte hindra användning av apparater som är nödvändig för verksamheten inom organet för bedömning av överensstämmelse eller användning av apparater för personligt bruk.
+
+Ett organ för bedömning av överensstämmelse, dess högsta ledning och bedömningspersonal får varken delta direkt i konstruktion, tillverkning, marknadsföring, installation, användning eller underhåll av dessa apparater eller företräda parter som bedriver sådan verksamhet. De får inte delta i någon verksamhet som kan påverka deras objektivitet och integritet i samband med den bedömning av överensstämmelse för vilken de har anmälts. Detta ska framför allt gälla konsulttjänster.
+
+Organ för bedömning av överensstämmelse ska se till att deras dotterbolags eller underentreprenörers verksamhet inte påverkar konfidentialiteten, objektiviteten eller opartiskheten i organens bedömningar av överensstämmelse.
+
+5. Organ för bedömning av överensstämmelse och deras personal ska utföra bedömningen av överensstämmelse med största möjliga yrkesintegritet, ha teknisk kompetens på det specifika området och vara fria från alla påtryckningar och all påverkan, i synnerhet ekonomiska, som kan påverka deras omdöme eller resultaten av deras bedömning av överensstämmelse; detta gäller särskilt påtryckningar och påverkan från personer eller grupper av personer som berörs av denna verksamhet.
+
+6. Ett organ för bedömning av överensstämmelse ska kunna utföra alla de uppgifter avseende bedömning av överensstämmelse som fastställs i bilaga III för ett sådant organ och för vilka det har anmälts, oavsett om dessa uppgifter utförs av organet för bedömning av överensstämmelse eller för dess räkning och under dess ansvar.
+
+Vid alla tidpunkter och för varje förfarande för bedömning av överensstämmelse och för varje typ eller kategori av apparater för vilka det har anmälts ska organet för bedömning av överensstämmelse ha följande till sitt förfogande:
+
+a)
+
+Erforderlig personal med teknisk kunskap och tillräcklig erfarenhet för att utföra bedömningen av överensstämmelse.
+
+b)
+
+Erforderliga beskrivningar av förfaranden enligt vilka bedömningar av överensstämmelse utförs; dessa beskrivningar måste säkerställa tydlighet och reproducerbarhet hos förfarandena. Organet ska ha lämpliga rutiner och förfaranden för att skilja mellan de uppgifter som det utför i sin egenskap av anmält organ och annan verksamhet.
+
+c)
+
+Förfaranden som gör det möjligt för organet att utöva sin verksamhet med vederbörlig hänsyn tagen till ett företags storlek, bransch och struktur, den berörda produktteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Organet för bedömning av överensstämmelse ska ha nödvändiga medel för att korrekt kunna utföra de tekniska och administrativa uppgifterna i samband med bedömningen av överensstämmelse och ska ha tillgång till den utrustning och de hjälpmedel som är nödvändiga.
+
+7. Den personal som ansvarar för att utföra bedömningen av överensstämmelse ska ha
+
+a)
+
+fullgod teknisk och yrkesinriktad utbildning som täcker all slags bedömning av överensstämmelse på det område inom vilket organet för bedömning av överensstämmelse har anmälts,
+
+b)
+
+tillfredsställande kunskap om kraven för de bedömningar som de gör och befogenhet att utföra dessa bedömningar,
+
+c)
+
+lämplig kännedom och insikt om de väsentliga kraven i bilaga I, de tillämpliga harmoniserade standarderna och de relevanta bestämmelserna i den harmoniserade unionslagstiftningen och nationell lagstiftning,
+
+d)
+
+förmåga att upprätta intyg, protokoll och rapporter som visar att bedömningarna har gjorts.
+
+8. Det ska garanteras att organ för bedömning av överensstämmelse, deras högsta ledning och den personal som ansvarar för att utföra bedömningen av överensstämmelse är opartiska.
+
+Ersättningen till den högsta ledningen och den personal som ansvarar för att utföra bedömningen av överensstämmelse vid ett organ för bedömning av överensstämmelse får inte vara beroende av antalet bedömningar som görs eller resultaten av bedömningarna.
+
+9. Organ för bedömning av överensstämmelse ska vara ansvarsförsäkrade, om inte staten tar på sig ansvaret enligt nationell rätt eller medlemsstaten själv tar direkt ansvar för bedömningen av överensstämmelse.
+
+10. Personalen vid ett organ för bedömning av överensstämmelse ska iaktta tystnadsplikt beträffande all information som de erhåller vid utförandet av sina uppgifter enligt bilaga III eller bestämmelser i nationell rätt som genomför den, utom gentemot de behöriga myndigheterna i den medlemsstat där verksamheten bedrivs. Äganderättigheter ska skyddas.
+
+11. Organ för bedömning av överensstämmelse ska delta i, eller se till att deras personal som ansvarar för att utföra bedömningen av överensstämmelse känner till, det relevanta standardiseringsarbetet och det arbete som utförs i samordningsgruppen för anmälda organ, som inrättats i enlighet med relevant harmoniserad unionslagstiftning, och de ska som generella riktlinjer använda de administrativa beslut och dokument som är resultatet av gruppens arbete.
+
+## Artikel 25 | Presumtion om överensstämmelse för anmälda organ | art_25
+Ett organ för bedömning av överensstämmelse som kan visa att det uppfyller kriterierna i de relevanta harmoniserade standarderna eller delar av dem till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning ska förutsättas uppfylla kraven i artikel 24, förutsatt att dessa krav omfattas av de tillämpliga harmoniserade standarderna.
+
+## Artikel 26 | Dotterbolag och underentreprenörer till anmälda organ | art_26
+1. Om det anmälda organet lägger ut specifika uppgifter med anknytning till bedömningen av överensstämmelse på underentreprenad eller anlitar ett dotterbolag ska det se till att underentreprenören eller dotterbolaget uppfyller kraven i artikel 24 och informera den anmälande myndigheten om detta.
+
+2. De anmälda organen ska ta det fulla ansvaret för underentreprenörernas eller dotterbolagens uppgifter, oavsett var dessa är etablerade.
+
+3. Verksamhet får läggas ut på underentreprenad eller utföras av ett dotterbolag endast om kunden samtycker till det.
+
+4. De anmälda organen ska hålla de relevanta dokumenten rörande bedömningen av underentreprenörens eller dotterbolagets kvalifikationer och det arbete som utförts av dem enligt bilaga III tillgängliga för den anmälande myndigheten.
+
+## Artikel 27 | Ansökan om anmälan | art_27
+1. Organet för bedömning av överensstämmelse ska lämna in en ansökan om anmälan till den anmälande myndigheten i den medlemsstat där det är etablerat.
+
+2. Ansökan om anmälan ska åtföljas av en beskrivning av de bedömningar av överensstämmelse, den eller de moduler för bedömning av överensstämmelse och den eller de apparater som organet förklarar sig ha kompetens för samt ett ackrediteringsintyg, om det finns ett sådant, som utfärdats av ett nationellt ackrediteringsorgan och där det intygas att organet för bedömning av överensstämmelse uppfyller kraven i artikel 24.
+
+3. Om organet för bedömning av överensstämmelse inte kan uppvisa något ackrediteringsintyg ska det ge den anmälande myndigheten alla underlag som krävs för kontroll, erkännande och regelbunden övervakning av att det uppfyller kraven i artikel 24.
+
+## Artikel 28 | Anmälningsförfarande | art_28
+1. De anmälande myndigheterna får endast anmäla de organ för bedömning av överensstämmelse som har uppfyllt kraven i artikel 24.
+
+2. De ska anmäla till kommissionen och de andra medlemsstaterna med hjälp av det elektroniska anmälningsverktyg som utvecklats och förvaltas av kommissionen.
+
+3. Anmälan ska innehålla detaljerade uppgifter om bedömningarna av överensstämmelse, modulerna för bedömning av överensstämmelse och den eller de berörda apparaterna samt ett relevant intyg om kompetens.
+
+4. Om en anmälan inte grundar sig på ett ackrediteringsintyg som avses i artikel 27.2 ska den anmälande myndigheten ge kommissionen och de andra medlemsstaterna de skriftliga underlag som styrker att organet för bedömning av överensstämmelse har erforderlig kompetens och att de system som behövs för att se till att organet övervakas regelbundet och fortsätter att uppfylla kraven i artikel 24 har inrättats.
+
+5. Det berörda organet får bedriva verksamhet som anmält organ endast om kommissionen eller de andra medlemsstaterna inte har rest invändningar inom två veckor efter anmälan, i de fall då ett ackrediteringsintyg används, eller inom två månader efter anmälan, i de fall då ingen ackreditering används.
+
+Endast ett sådant organ ska anses vara ett anmält organ i enlighet med detta direktiv.
+
+6. Den anmälande myndigheten ska underrätta kommissionen och de andra medlemsstaterna om alla relevanta ändringar av anmälan.
+
+## Artikel 29 | Identifikationsnummer och förteckningar över anmälda organ | art_29
+1. Kommissionen ska tilldela varje anmält organ ett identifikationsnummer.
+
+Organet ska tilldelas ett enda nummer även om det anmäls enligt flera unionsakter.
+
+2. Kommissionen ska offentliggöra förteckningen över de organ som anmälts enligt detta direktiv, inklusive de identifikationsnummer som de har tilldelats och den verksamhet som de har anmälts för.
+
+Kommissionen ska se till att förteckningen hålls uppdaterad.
+
+## Artikel 30 | Ändringar i anmälan | art_30
+1. Om en anmälande myndighet har konstaterat eller har informerats om att ett anmält organ inte längre uppfyller de krav som anges i artikel 24 eller att det underlåter att fullgöra sina skyldigheter, ska myndigheten i förekommande fall, beroende på hur allvarlig underlåtenheten att uppfylla kraven eller fullgöra skyldigheterna är, begränsa anmälan eller återkalla den tillfälligt eller slutgiltigt. Den ska omedelbart underrätta kommissionen och de andra medlemsstaterna om detta.
+
+2. I händelse av begränsning, tillfällig återkallelse eller återkallelse av anmälan eller om det anmälda organet har upphört med verksamheten ska den anmälande medlemsstaten vidta lämpliga åtgärder för att det anmälda organets dokumentation antingen ska behandlas av ett annat anmält organ eller hållas tillgänglig för de ansvariga anmälande myndigheterna och marknadskontrollmyndigheterna på deras begäran.
+
+## Artikel 31 | Ifrågasättande av de anmälda organens kompetens | art_31
+1. Kommissionen ska undersöka alla fall där den tvivlar på att ett anmält organ har erforderlig kompetens eller att ett anmält organ fortsatt uppfyller de krav och fullgör de skyldigheter som det omfattas av, och även alla fall där den gjorts uppmärksam på att det föreligger sådana tvivel.
+
+2. Den anmälande medlemsstaten ska på begäran ge kommissionen all information om grunderna för anmälan eller hur det berörda anmälda organets kompetens upprätthålls.
+
+3. Kommissionen ska se till att all känslig information som har erhållits i samband med undersökningarna behandlas konfidentiellt.
+
+4. Om kommissionen konstaterar att ett anmält organ inte uppfyller eller inte längre uppfyller kraven för anmälan ska den anta en genomförandeakt för att anmoda den anmälande medlemsstaten att vidta erforderliga korrigerande åtgärder, inbegripet att vid behov återta anmälan.
+
+Den genomförandeakten ska antas i enlighet med det rådgivande förfarande som avses i artikel 41.2.
+
+## Artikel 32 | De anmälda organens operativa skyldigheter | art_32
+1. Anmälda organ ska utföra bedömningar av överensstämmelse i enlighet med förfarandena för bedömning av överensstämmelse i bilaga III.
+
+2. Bedömningarna av överensstämmelse ska utföras på ett proportionellt sätt så att de ekonomiska aktörerna inte belastas i onödan.
+
+Organen för bedömning av överensstämmelse ska när de utför sin verksamhet ta vederbörlig hänsyn till ett företags storlek, bransch och struktur och till produktteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Samtidigt ska de dock respektera den grad av noggrannhet och skyddsnivå som krävs för att apparaterna ska överensstämma med detta direktiv.
+
+3. Om ett anmält organ konstaterar att en tillverkare inte har tillämpat de väsentliga kraven i bilaga I eller motsvarande harmoniserade standarder eller andra tekniska specifikationer, ska det begära att tillverkaren vidtar korrigerande åtgärder, och inget intyg ska utfärdas.
+
+4. Om ett anmält organ vid övervakning av överensstämmelse efter det att ett intyg har utfärdats konstaterar att en apparat inte längre uppfyller kraven, ska det begära att tillverkaren vidtar korrigerande åtgärder, och vid behov ska intyget tillfälligt eller slutgiltigt återkallas.
+
+5. Om inga korrigerande åtgärder vidtas eller om de inte får önskat resultat, ska det anmälda organet i förekommande fall belägga intyget med restriktioner eller återkalla det tillfälligt eller slutgiltigt.
+
+## Artikel 33 | Överklagande av de anmälda organens beslut | art_33
+Medlemsstaterna ska se till att det finns ett förfarande för överklagande av de anmälda organens beslut.
+
+## Artikel 34 | De anmälda organens informationsskyldighet | art_34
+1. De anmälda organen ska informera den anmälande myndigheten om följande:
+
+a)
+
+Avslag, begränsningar och tillfällig eller slutgiltig återkallelse av intyg.
+
+b)
+
+Omständigheter som inverkar på omfattningen av eller villkoren för anmälan.
+
+c)
+
+Begäran från marknadskontrollmyndigheterna om information om bedömningar av överensstämmelse.
+
+d)
+
+På begäran, bedömningar av överensstämmelse som gjorts inom ramen för anmälan och all annan verksamhet, inklusive gränsöverskridande verksamhet och underentreprenad.
+
+2. De anmälda organen ska ge de andra organ som anmälts enligt detta direktiv och som utför liknande bedömningar av överensstämmelse som täcker samma apparater, relevant information om frågor som rör negativa och, på begäran, positiva resultat av bedömningar av överensstämmelse.
+
+## Artikel 35 | Utbyte av erfarenhet | art_35
+Kommissionen ska sörja för att erfarenhetsutbyte förekommer mellan de myndigheter i medlemsstaterna som ansvarar för riktlinjerna för anmälan.
+
+## Artikel 36 | Samordning av anmälda organ | art_36
+Kommissionen ska säkerställa att lämplig samordning och lämpligt samarbete sker mellan de organ som anmälts enligt detta direktiv och att detta bedrivs på ett tillfredsställande sätt genom en sektorsspecifik grupp bestående av anmälda organ.
+
+Medlemsstaterna ska se till att de organ som de har anmält deltar i arbetet i denna grupp, direkt eller genom utsedda representanter.
+
+# kap-5 | Kapitel 5 | MARKNADSKONTROLL I UNIONEN, KONTROLL AV APPARATER SOM FÖRS IN PÅ UNIONSMARKNADEN OCH UNIONENS FÖRFARANDE I FRÅGA OM SKYDDSÅTGÄRDER | cpt_5
+
+## Artikel 37 | Marknadskontroll i unionen och kontroll av apparater som förs in på unionsmarknaden | art_37
+Artiklarna 15.3 och 16–29 i förordning (EG) nr 765/2008 ska tillämpas på apparater.
+
+## Artikel 38 | Förfarande för att på nationell nivå hantera apparater som utgör en risk | art_38
+1. Om en medlemsstats marknadskontrollmyndigheter har tillräckliga skäl att anta att en apparat som omfattas av detta direktiv utgör en risk för aspekter av skydd i allmänhetens intresse som omfattas av detta direktiv, ska de göra en utvärdering av apparaten omfattande alla relevanta krav som fastställs i detta direktiv. De berörda ekonomiska aktörerna ska när så krävs samarbeta med marknadskontrollmyndigheterna i det syftet.
+
+Om marknadskontrollmyndigheterna vid den utvärdering som avses i första stycket konstaterar att apparaten inte uppfyller kraven i detta direktiv ska de utan dröjsmål ålägga den berörda ekonomiska aktören att vidta alla lämpliga korrigerande åtgärder för att apparaten ska uppfylla dessa krav, dra tillbaka apparaten från marknaden eller återkalla den inom en rimlig period som de fastställer i förhållande till typen av risk.
+
+Marknadskontrollmyndigheterna ska informera det berörda anmälda organet om detta.
+
+Artikel 21 i förordning (EG) nr 765/2008 ska tillämpas på de åtgärder som avses i andra stycket i denna punkt.
+
+2. Om marknadskontrollmyndigheterna anser att den bristande överensstämmelsen inte bara gäller det nationella territoriet, ska de informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som de har ålagt de ekonomiska aktörerna att vidta.
+
+3. De ekonomiska aktörerna ska se till att alla lämpliga korrigerande åtgärder vidtas i fråga om alla berörda apparater som de har tillhandahållit på unionsmarknaden.
+
+4. Om den berörda ekonomiska aktören inte vidtar lämpliga korrigerande åtgärder inom den period som avses i punkt 1 andra stycket, ska marknadskontrollmyndigheterna vidta alla lämpliga tillfälliga åtgärder för att förbjuda eller begränsa tillhandahållandet av apparaten på sin nationella marknad, dra tillbaka apparaten från den marknaden eller återkalla den.
+
+Marknadskontrollmyndigheterna ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om dessa åtgärder.
+
+5. I den information som avses i punkt 4 andra stycket ska alla tillgängliga uppgifter ingå, särskilt de uppgifter som krävs för att kunna identifiera den apparat som inte uppfyller kraven, dess ursprung, vilken typ av bristande överensstämmelse som görs gällande och den risk apparaten utgör, vilken typ av nationell åtgärd som vidtagits och dess varaktighet samt den berörda ekonomiska aktörens synpunkter. Marknadskontrollmyndigheterna ska särskilt ange om den bristande överensstämmelsen beror på något av följande:
+
+a)
+
+Apparaten uppfyller inte kraven med avseende på de aspekter av skydd i allmänhetens intresse som omfattas av detta direktiv.
+
+b)
+
+Det förekommer brister i de harmoniserade standarder som avses i artikel 13, vilka ger presumtion om överensstämmelse.
+
+6. Andra medlemsstater än den som inledde förfarandet enligt denna artikel ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om vidtagna åtgärder och om eventuella kompletterande uppgifter som de har tillgång till med avseende på den berörda apparatens bristande överensstämmelse med kraven samt eventuella invändningar mot den vidtagna nationella åtgärden.
+
+7. Om varken en medlemsstat eller kommissionen inom tre månader efter mottagandet av den information som avses i punkt 4 andra stycket har rest invändningar mot en tillfällig åtgärd som vidtagits av en medlemsstat ska åtgärden anses vara berättigad.
+
+8. Medlemsstaterna ska se till att lämpliga begränsande åtgärder, till exempel tillbakadragande av apparaten från marknaden, utan dröjsmål vidtas i fråga om den berörda apparaten.
+
+## Artikel 39 | Unionens förfarande i fråga om skyddsåtgärder | art_39
+1. Om det, efter det att förfarandet i artikel 38.3 och 38.4 slutförts, har rests invändningar mot åtgärder som en medlemsstat vidtagit eller om kommissionen anser att sådana åtgärder strider mot unionslagstiftningen, ska kommissionen utan dröjsmål inleda samråd med medlemsstaterna och den eller de berörda ekonomiska aktörerna och utvärdera den nationella åtgärden. På grundval av utvärderingsresultaten ska kommissionen anta en genomförandeakt för att fastställa om den nationella åtgärden är berättigad eller inte.
+
+Kommissionen ska rikta beslutet till alla medlemsstater och omedelbart delge dem och den eller de berörda ekonomiska aktörerna beslutet.
+
+2. Om den nationella åtgärden anses vara berättigad ska alla medlemsstater vidta de åtgärder som krävs för att säkerställa att den apparat som inte uppfyller kraven dras tillbaka från deras marknader och underrätta kommissionen om detta. Om den nationella åtgärden anses oberättigad ska den berörda medlemsstaten upphäva den åtgärden.
+
+3. Om den nationella åtgärden anses vara berättigad och apparatens bristande överensstämmelse kan tillskrivas en brist i de harmoniserade standarder som avses i artikel 38.5 b i detta direktiv ska kommissionen tillämpa det förfarande som föreskrivs i artikel 11 i förordning (EU) nr 1025/2012.
+
+## Artikel 40 | Formell bristande överensstämmelse | art_40
+1. Utan att det påverkar tillämpningen av artikel 38 ska en medlemsstat, om den konstaterar något av följande, ålägga den berörda ekonomiska aktören att åtgärda den bristande överensstämmelsen:
+
+a)
+
+CE-märkningen har anbringats i strid med artikel 30 i förordning (EG) nr 765/2008 eller artikel 17 i detta direktiv.
+
+b)
+
+CE-märkning saknas.
+
+c)
+
+Det har inte upprättats någon EU-försäkran om överensstämmelse.
+
+d)
+
+EU-försäkran om överensstämmelse har inte upprättats på ett korrekt sätt.
+
+e)
+
+Den tekniska dokumentationen är antingen inte tillgänglig eller inte komplett.
+
+f)
+
+Den information som avses i artikel 7.6 eller 9.3 saknas, är felaktig eller ofullständig.
+
+g)
+
+Något annat av de administrativa krav som fastställs i artikel 7 eller 9 är inte uppfyllt.
+
+2. Om sådan bristande överensstämmelse som avses i punkt 1 kvarstår ska den berörda medlemsstaten vidta lämpliga åtgärder för att begränsa eller förbjuda tillhandahållandet av apparaten på marknaden eller se till att den återkallas eller dras tillbaka från marknaden.
+
+# kap-6 | Kapitel 6 | KOMMITTÉFÖRFARANDE, ÖVERGÅNGSBESTÄMMELSER OCH SLUTBESTÄMMELSER | cpt_6
+
+## Artikel 41 | Kommittéförfarande | art_41
+1. Kommissionen ska biträdas av kommittén för elektromagnetisk kompatibilitet. Denna kommitté ska vara en kommitté i den mening som avses i förordning (EU) nr 182/2011.
+
+2. När det hänvisas till denna punkt ska artikel 4 i förordning (EU) nr 182/2011 tillämpas.
+
+3. Kommissionen ska höra kommittén angående alla frågor för vilka samråd med sektorsexperter krävs enligt förordning (EU) nr 1025/2012 eller enligt annan unionslagstiftning.
+
+Kommittén får dessutom undersöka alla andra frågor som avser tillämpningen av detta direktiv som tas upp av dess ordförande eller av en företrädare för en medlemsstat i enlighet med dess arbetsordning.
+
+## Artikel 42 | Sanktioner | art_42
+Medlemsstaterna ska föreskriva sanktioner för ekonomiska aktörers överträdelser av bestämmelser i nationell rätt som har utfärdats med tillämpning av detta direktiv och ska vidta de åtgärder som krävs för att se till att dessa sanktioner tillämpas. Sådana sanktioner kan omfatta straffrättsliga påföljder för allvarliga överträdelser.
+
+Sanktionerna ska vara effektiva, proportionella och avskräckande.
+
+## Artikel 43 | Övergångsbestämmelser | art_43
+Medlemsstaterna får inte förhindra att utrustning som omfattas av direktiv 2004/108/EG och som släppts ut på marknaden före den 20 april 2016 tillhandahålls på marknaden och/eller tas i bruk.
+
+## Artikel 44 | Införlivande | art_44
+1. Medlemsstaterna ska senast den 19 april 2016 anta och offentliggöra de bestämmelser i lagar och andra författningar som är nödvändiga för att följa artiklarna 2.2, 3.1.9–3.1.25, 4, 5.1, 7–12, 15, 16 och 17, artikel 19.1 första stycket och artiklarna 20–43 samt bilagorna II, III och IV. De ska genast överlämna texten till dessa bestämmelser till kommissionen.
+
+De ska tillämpa dessa bestämmelser från och med den 20 april 2016.
+
+När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. De ska även innehålla en uppgift om att hänvisningar i befintliga lagar och andra författningar till det direktiv som upphävts genom det här direktivet ska anses som hänvisningar till det här direktivet. Närmare föreskrifter om hur hänvisningen ska göras och om hur uppgiften ska formuleras ska varje medlemsstat själv utfärda.
+
+2. Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.
+
+## Artikel 45 | Upphävande | art_45
+Direktiv 2004/108/EG ska upphöra att gälla den 20 april 2016, utan att det påverkar medlemsstaternas skyldigheter när det gäller de tidsfrister för införlivande med nationell lagstiftning och datum för tillämpning av direktivet som anges i bilaga V.
+
+Hänvisningar till det upphävda direktivet ska anses som hänvisningar till det här direktivet och ska läsas i enlighet med jämförelsetabellen i bilaga VI.
+
+## Artikel 46 | Ikraftträdande och tillämpning | art_46
+Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.
+
+Artiklarna 1, 2, 3.1.1–3.1.8, 3.2, 5.2, 5.3, 6, 13, 19.3 samt bilaga I ska tillämpas från och med den 20 april 2016.
+
+## Artikel 47 | Adressater | art_47
+Detta direktiv riktar sig till medlemsstaterna.
+
+Utfärdat i Strasbourg den 26 februari 2014.
+
+På Europaparlamentets vägnar
+
+M. SCHULZ
+
+Ordförande
+
+På rådets vägnar
+
+D. KOURKOULAS
+
+Ordförande
+
+(1)
+
+EUT C 181, 21.6.2012, s. 105.
+
+(2) Europaparlamentets ståndpunkt av den 5 februari 2014 (ännu ej offentliggjord i EUT) och rådets beslut av den 20 februari 2014.
+
+(3)
+
+EUT L 390, 31.12.2004, s. 24.
+
+(4)
+
+EUT L 218, 13.8.2008, s. 30.
+
+(5)
+
+EUT L 218, 13.8.2008, s. 82.
+
+(6)
+
+EGT L 91, 7.4.1999, s. 10.
+
+(7)
+
+EUT L 316, 14.11.2012, s. 12.
+
+(8)
+
+EUT L 55, 28.2.2011, s. 13.
+
+(9)
+
+EUT L 79, 19.3.2008, s. 1.
+
+(10) Internationella teleunionens stadga och konvention, antagna vid diplomatkonferensen i Genève 1992 och ändrade vid diplomatkonferensen i Kyoto 1994.
+
+(11)
+
+EGT L 204, 21.7.1998, s. 37.
+
+BILAGA I
+
+VÄSENTLIGA KRAV
+
+1. Allmänna krav
+
+Utrustning ska med beaktande av aktuell tillämpbar teknik vara så konstruerad och tillverkad att
+
+a)
+
+den elektromagnetiska störning den alstrar inte överskrider den nivå över vilken radio- och teleutrustning eller annan utrustning inte kan fungera som avsett,
+
+b)
+
+den har en sådan tålighet mot den elektromagnetiska störning som kan förväntas vid avsedd användning att dess avsedda funktion inte i oacceptabel utsträckning försämras.
+
+2. Särskilda krav för fasta installationer
+
+Installation och avsedd användning av komponenter:
+
+En fast installation ska installeras enligt god branschpraxis och i enlighet med informationen om hur dess komponenter är avsedda att användas för att uppfylla de väsentliga kraven enligt punkt 1.
+
+BILAGA II
+
+MODUL A: INTERN TILLVERKNINGSKONTROLL
+
+1. Intern tillverkningskontroll är det förfarande för bedömning av överensstämmelse genom vilket tillverkaren fullgör skyldigheterna i punkterna 2, 3, 4 och 5 i denna bilaga och säkerställer och försäkrar på eget ansvar att de berörda apparaterna uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Bedömning av den elektromagnetiska kompatibiliteten
+
+Tillverkaren ska utföra en bedömning av apparatens elektromagnetiska kompatibilitet på grundval av relevanta fenomen så att de väsentliga krav som anges i punkt 1 i bilaga I är uppfyllda.
+
+Vid bedömningen av apparatens elektromagnetiska kompatibilitet ska alla normala villkor för den avsedda driften beaktas. Om apparaten kan konfigureras på olika sätt ska bedömningen av den elektromagnetiska kompatibiliteten styrka att apparaten uppfyller de väsentliga kraven i punkt 1 i bilaga I i samtliga möjliga konfigurationer som tillverkaren anger vara representativa för den användning som apparaten är avsedd för.
+
+3. Teknisk dokumentation
+
+Tillverkaren ska utarbeta den tekniska dokumentationen. Dokumentationen ska göra det möjligt att bedöma om apparaten uppfyller de relevanta kraven och innehålla en tillfredställande analys och bedömning av riskerna.
+
+Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av apparatens konstruktion, tillverkning och funktion. Den tekniska dokumentationen ska i tillämpliga fall innehålla minst följande:
+
+a)
+
+En allmän beskrivning av apparaten.
+
+b)
+
+Konstruktions- och tillverkningsritningar samt scheman över komponenter, delmonteringar, kretsar etc.
+
+c)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur apparaten fungerar.
+
+d)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de väsentliga säkerhetskraven i detta direktiv, inbegripet en förteckning över andra relevanta tekniska föreskrifter som följts. Om de harmoniserade standarderna följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+e)
+
+Resultat av konstruktionsberäkningar och undersökningar etc.
+
+f)
+
+Provningsrapporter.
+
+4. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att de tillverkade apparaterna överensstämmer med den tekniska dokumentation som avses i punkt 3 i denna bilaga och med de väsentliga kraven i punkt 1 i bilaga I.
+
+5. CE-märkning och EU-försäkran om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen på varje enskild apparat som uppfyller de tillämpliga kraven i detta direktiv.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för en apparatmodell och kunna uppvisa den tillsammans med den tekniska dokumentationen för de nationella myndigheterna i tio år efter det att apparaten har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken apparatmodell den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska på begäran göras tillgänglig för de berörda myndigheterna.
+
+6. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 5 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA III
+
+DEL A
+
+Modul B: EU-typkontroll
+
+1.
+
+EU-typkontroll är den del av ett förfarande för bedömning av överensstämmelse genom vilken ett anmält organ undersöker en apparats tekniska konstruktion och kontrollerar och intygar att den uppfyller de väsentliga kraven i punkt 1 i bilaga I.
+
+2.
+
+EU-typkontroll ska utföras i form av en bedömning av den tekniska konstruktionens lämplighet för apparaten genom granskning av den tekniska dokumentation som avses i punkt 3, utan undersökning av ett provexemplar (konstruktionstyp). Den kan begränsas till vissa aspekter av de väsentliga kraven som anges av tillverkaren eller tillverkarens representant.
+
+3.
+
+Tillverkaren ska lämna in en ansökan om EU-typkontroll till ett valfritt anmält organ.
+
+Ansökan ska ange de aspekter av de väsentliga kraven för vilka kontroll har begärts och ska innehålla följande:
+
+a)
+
+Tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens behöriga representant, även dennes namn och adress.
+
+b)
+
+En skriftlig försäkran om att samma ansökan inte har lämnats till något annat anmält organ.
+
+c)
+
+Den tekniska dokumentationen. Den tekniska dokumentationen ska göra det möjligt att bedöma om apparaten uppfyller de tillämpliga kraven i detta direktiv och innehålla en tillfredsställande analys och bedömning av riskerna. Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av apparatens konstruktion, tillverkning och funktion. Den tekniska dokumentationen ska i tillämpliga fall innehålla minst följande:
+
+i)
+
+En allmän beskrivning av apparaten.
+
+ii)
+
+Konstruktions- och tillverkningsritningar samt scheman över komponenter, delmonteringar, kretsar etc.
+
+iii)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur apparaten fungerar.
+
+iv)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de väsentliga säkerhetskraven i detta direktiv, inbegripet en förteckning över andra relevanta tekniska specifikationer som följts. Om de harmoniserade standarderna följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+v)
+
+Resultat av konstruktionsberäkningar och undersökningar osv.
+
+vi)
+
+Provningsrapporter.
+
+4.
+
+Det anmälda organet ska granska den tekniska dokumentationen för att bedöma den tekniska konstruktionens lämplighet i fråga om de aspekter av de väsentliga kraven för vilka kontroll har begärts.
+
+5.
+
+Det anmälda organet ska utarbeta en utvärderingsrapport där det anges vilka åtgärder som har vidtagits i enlighet med punkt 4 och vad de har resulterat i. Utan att det påverkar det anmälda organets skyldigheter gentemot de anmälande myndigheterna får organet inte offentliggöra hela eller delar av innehållet i rapporten utan tillverkarens samtycke.
+
+6.
+
+Om typen uppfyller de krav i detta direktiv som är tillämpliga på den berörda apparaten ska det anmälda organet utfärda ett EU-typintyg till tillverkaren. Det intyget ska innehålla tillverkarens namn och adress, slutsatserna av undersökningen, de aspekter av de väsentliga kraven som omfattas av kontrollen, eventuella giltighetsvillkor och de uppgifter som krävs för att identifiera den godkända typen. EU-typintyget kan ha en eller flera bilagor.
+
+EU-typintyget och bilagorna ska innehålla all information som behövs för att bedöma om de tillverkade apparaterna överensstämmer med den undersökta typen och för att kontrollera apparater i bruk.
+
+Om typen inte uppfyller de tillämpliga kraven i detta direktiv ska det anmälda organet avslå ansökan om EU-typintyg och underrätta den sökande om detta samt utförligt motivera avslaget.
+
+7.
+
+Det anmälda organet ska följa med i den tekniska utvecklingen, och om det visar sig att den godkända typen inte längre uppfyller de tillämpliga kraven i detta direktiv ska organet fastställa om det krävs ytterligare undersökningar. Om så är fallet ska det anmälda organet underrätta tillverkaren om detta.
+
+Tillverkaren ska underrätta det anmälda organ som har den tekniska dokumentationen för EU-typintyget om alla ändringar av den godkända typen som kan påverka apparatens överensstämmelse med de väsentliga kraven i detta direktiv eller villkoren för det intygets giltighet. För sådana ändringar krävs ytterligare godkännande i form av ett tillägg till det ursprungliga EU-typintyget.
+
+8.
+
+Varje anmält organ ska underrätta sin anmälande myndighet om de EU-typintyg och/eller eventuella tillägg till dessa som det har utfärdat eller återkallat, och det ska regelbundet eller på begäran ge den anmälande myndigheten tillgång till förteckningen över sådana intyg och/eller tillägg till dessa som det har avslagit, tillfälligt återkallat eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de EU-typintyg och/eller tillägg till dessa som det har avslagit, tillfälligt eller slutgiltigt återkallat eller på annat sätt belagt med restriktioner och, på begäran, om sådana intyg och/eller tillägg som det har utfärdat.
+
+Kommissionen, medlemsstaterna och övriga anmälda organ har rätt att på begäran få en kopia av EU-typintyget och/eller tilläggen till det. Kommissionen och medlemsstaterna har rätt att på begäran få en kopia av den tekniska dokumentationen och av resultaten från de undersökningar som utförts av det anmälda organet. Det anmälda organet ska förvara en kopia av EU-typintyget med bilagor och tillägg samt det tekniska underlaget, inklusive dokumentation från tillverkaren, så länge som det intyget är giltigt.
+
+9.
+
+Tillverkaren ska för de nationella myndigheterna kunna uppvisa en kopia av EU-typintyget med bilagor och tillägg tillsammans med den tekniska dokumentationen i tio år efter det att apparaten har släppts ut på marknaden.
+
+10.
+
+Tillverkarens representant får lämna in den ansökan som avses i punkt 3 och fullgöra skyldigheterna enligt punkterna 7 och 9, förutsatt att de specificeras i fullmakten.
+
+DEL B
+
+Modul C: överensstämmelse med typ som grundar sig på intern tillverkningskontroll
+
+1. Överensstämmelse med typ som grundar sig på intern tillverkningskontroll är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2 och 3 samt säkerställer och försäkrar att de berörda apparaterna överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att de tillverkade apparaterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+3. CE-märkning och EU-försäkran om överensstämmelse
+
+3.1
+
+Tillverkaren ska anbringa CE-märkningen på varje enskild apparat som överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+3.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje apparatmodell och kunna uppvisa den för de nationella myndigheterna i tio år efter det att apparaten har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken apparatmodell den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska på begäran göras tillgänglig för de berörda myndigheterna.
+
+4. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 3 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA IV
+
+EU-försäkran om överensstämmelse (nr XXX)
+
+(1)
+
+1.
+
+Apparatmodell/produkt (produkt-, typ-, parti- eller serienummer):
+
+2.
+
+Namn på och adress till tillverkaren eller dennes representant:
+
+3.
+
+Denna försäkran om överensstämmelse utfärdas på tillverkarens eget ansvar.
+
+4.
+
+Föremål för försäkran (identifiera apparaten så att den kan spåras – den kan innehålla en färgbild som är så tydlig att det vid behov går att identifiera apparaten):
+
+5.
+
+Föremålet för försäkran ovan överensstämmer med den relevanta harmoniserade unionslagstiftningen:
+
+6.
+
+Hänvisningar till de relevanta harmoniserade standarder, inklusive datum för standarden, som använts eller hänvisningar till de andra tekniska specifikationer, inklusive datum för specifikationen, enligt vilka överensstämmelsen försäkras:
+
+7.
+
+I tillämpliga fall: Det anmäla organet … (namn, nummer) … har utfört … (beskrivning av åtgärden) och utfärdat intyget:
+
+8.
+
+Ytterligare information:
+
+Undertecknat för:
+
+(ort och datum)
+
+(namn, befattning) (namnteckning)
+
+(1) Det är frivilligt för tillverkaren att numrera EU-försäkran om överensstämmelse.
+
+BILAGA V
+
+Tidsfrister för införlivande med nationell lagstiftning och tillämpningsdatum
+
+(som avses i artikel 45)
+
+Direktiv
+
+Tidsfrist för införlivande
+
+Datum för tillämpning
+
+2004/108/EG
+
+20 januari 2007
+
+20 juli 2007
+
+BILAGA VI
+
+Jämförelsetabell
+
+Direktiv 2004/108/EG
+
+Detta direktiv
+
+Artikel 1.1
+
+Artiklarna 1 och 2.1
+
+Artikel 1.2
+
+Artikel 2.2 a–2.2 c
+
+Artikel 1.3
+
+Artikel 2.2 d
+
+Artikel 1.4
+
+Artikel 2.3
+
+Artikel 1.5
+
+Artikel 2.4
+
+Artikel 2.1 a
+
+Artikel 3.1.1
+
+Artikel 2.1 b
+
+Artikel 3.1.2
+
+Artikel 2.1 c
+
+Artikel 3.1.3
+
+Artikel 2.1 d
+
+Artikel 3.1.4
+
+Artikel 2.1 e
+
+Artikel 3.1.5
+
+Artikel 2.1 f
+
+Artikel 3.1.6
+
+Artikel 2.1 g
+
+Artikel 3.1.7
+
+Artikel 2.1 h
+
+Artikel 3.1.8
+
+Artikel 2.2
+
+Artikel 3.2
+
+Artikel 3
+
+Artikel 4
+
+Artikel 4
+
+Artikel 5
+
+Artikel 5
+
+Artikel 6
+
+Artikel 6
+
+Artikel 13
+
+Artikel 7
+
+Artikel 14
+
+Artikel 8
+
+Artiklarna 16 och 17
+
+Artikel 9.1
+
+Artikel 7.5
+
+Artikel 9.2
+
+Artikel 7.6
+
+Artikel 9.3
+
+Artikel 18.1
+
+Artikel 9.4
+
+Artikel 18.2
+
+Artikel 9.5
+
+Artikel 18.3
+
+Artiklarna 10 och 11
+
+Artiklarna 37, 38 och 39
+
+Artikel 12
+
+Kapitel 4
+
+Artikel 13
+
+Artikel 19
+
+Artikel 14
+
+Artikel 45
+
+Artikel 15
+
+Artikel 43
+
+Artikel 16
+
+Artikel 44
+
+Artikel 17
+
+Artikel 46
+
+Artikel 18
+
+Artikel 47
+
+Bilaga I
+
+Bilaga I
+
+Bilaga II och punkt 1 i bilaga IV
+
+Bilaga II
+
+Bilaga III
+
+Bilaga III
+
+Punkt 2 i bilaga IV
+
+Bilaga IV
+
+Bilaga V
+
+Artiklarna 16 och 17
+
+Bilaga VI
+
+Artikel 24
+
+Bilaga VII
+
+Bilaga VI
+
+UTTALANDE AV EUROPAPARLAMENTET
+
+Europaparlamentet anser att endast om och när genomförandeakter i den mening som avses i förordning (EU) nr 182/2011 diskuteras vid möten med kommittéer kan de sistnämnda anses vara kommittéer inom ramen för kommittéförfarandet i den mening som avses i bilaga I till ramavtalet om förbindelserna mellan Europaparlamentet och kommissionen. Möten med kommittéer omfattas således av punkt 15 i ramavtalet om och när andra frågor diskuteras.

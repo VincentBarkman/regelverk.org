@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { SvelteMap } from 'svelte/reactivity';
 	import RiExternalLinkLine from 'remixicon-svelte/icons/external-link-line';
 
 	type Ref =
@@ -15,7 +16,7 @@
 	};
 
 	let card = $state<Card | null>(null);
-	const cache = new Map<string, { title: string; text: string }>();
+	const cache = new SvelteMap<string, { title: string; text: string }>();
 	let seq = 0;
 	let showT: ReturnType<typeof setTimeout> | undefined;
 	let hideT: ReturnType<typeof setTimeout> | undefined;
@@ -39,7 +40,8 @@
 		return null;
 	};
 
-	const clean = (s: string | null | undefined) => (s ?? '').replace(/#$/, '').replace(/\s+/g, ' ').trim();
+	const clean = (s: string | null | undefined) =>
+		(s ?? '').replace(/#$/, '').replace(/\s+/g, ' ').trim();
 
 	const excerpt = (h: Element) => {
 		let text = '';
@@ -90,7 +92,7 @@
 		const external = ref.kind === 'external';
 		card = { style, title: clean(a.textContent), external, loading: !external };
 
-		let data: { title: string; text: string } | null = null;
+		let data: { title: string; text: string } | null;
 		if (ref.kind === 'anchor') {
 			data = ref.frag ? fromDoc(document, ref.frag) : null;
 		} else if (ref.kind === 'internal') {
@@ -113,13 +115,9 @@
 	$effect(() => {
 		const el = document.querySelector('article');
 		if (!el) return;
-		(window as unknown as Record<string, unknown>).__refRuns =
-			((window as unknown as Record<string, unknown>).__refRuns as number) + 1 || 1;
 
 		const over = (e: MouseEvent) => {
 			const a = (e.target as HTMLElement).closest?.('a[href]');
-			(window as unknown as Record<string, unknown>).__refHit =
-				`${a instanceof HTMLAnchorElement ? a.getAttribute('href') : 'nolink'}:${classify(a as HTMLAnchorElement)?.kind ?? 'none'}`;
 			if (!(a instanceof HTMLAnchorElement) || a === current) return;
 			const ref = classify(a);
 			if (!ref) return;
@@ -157,7 +155,7 @@
 {#if card}
 	<div
 		data-ref-card
-		class="bg-popover text-popover-foreground ring-foreground/10 fixed z-50 w-64 rounded-lg p-2.5 text-sm shadow-md ring-1"
+		class="fixed z-50 w-64 rounded-lg bg-popover p-2.5 text-sm text-popover-foreground shadow-md ring-1 ring-foreground/10"
 		style={card.style}
 		role="tooltip"
 		onmouseenter={() => clearTimeout(hideT)}

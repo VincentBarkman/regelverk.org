@@ -1,0 +1,143 @@
+---
+'source': 'emc'
+'ref': 'Chapter 1'
+'title': 'Chapter 1 – GENERAL PROVISIONS'
+'kind': 'chapter'
+'description': 'EMC Directive, Chapter 1.'
+'designation': 'EMC Directive Chapter 1'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03#cpt_1'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 1 – Subject matter
+
+[This Directive](/lagstiftning/emc) regulates the electromagnetic compatibility of equipment. It aims to ensure the functioning of the internal market by requiring equipment to comply with an adequate level of electromagnetic compatibility.
+
+### Article 2 – Scope
+
+1\. [This Directive](/lagstiftning/emc) shall apply to equipment as defined in Article [3](#article-3-definitions).
+
+2\. [This Directive](/lagstiftning/emc) shall not apply to:
+
+(a) equipment covered by [Directive 1999/5/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0005);
+
+(b) aeronautical products, parts and appliances as referred to in [Regulation (EC) No 216/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0216) of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, [Regulation (EC) No 1592/2002](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R1592) and [Directive 2004/36/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0036) (9);
+
+(c) radio equipment used by radio amateurs within the meaning of the Radio Regulations adopted in the framework of the Constitution of the International Telecommunication Union and the Convention of the International Telecommunication Union (10), unless the equipment is made available on the market;
+
+(d) equipment the inherent nature of the physical characteristics of which is such that:
+
+(i) it is incapable of generating or contributing to electromagnetic emissions which exceed a level allowing radio and telecommunication equipment and other equipment to operate as intended; and
+
+(ii) it operates without unacceptable degradation in the presence of the electromagnetic disturbance normally consequent upon its intended use;
+
+(e) custom built evaluation kits destined for professionals to be used solely at research and development facilities for such purposes.
+
+For the purposes of point (c) of the first subparagraph, kits of components to be assembled by radio amateurs and equipment made available on the market and modified by and for the use of radio amateurs are not regarded as equipment made available on the market.
+
+3\. Where, for the equipment referred to in paragraph 1, the essential requirements set out in Annex I are wholly or partly laid down more specifically by other Union legislation, [this Directive](/lagstiftning/emc) shall not apply, or shall cease to apply, to that equipment in respect of such requirements from the date of implementation of that Union legislation.
+
+4\. [This Directive](/lagstiftning/emc) shall not affect the application of Union or national legislation regulating the safety of equipment.
+
+### Article 3 – Definitions
+
+1\. For the purposes of [this Directive](/lagstiftning/emc), the following definitions shall apply:
+
+#### Footnotes
+
+(1) ‘equipment’ means any apparatus or fixed installation;
+
+(2) ‘apparatus’ means any finished appliance or combination thereof made available on the market as a single functional unit, intended for the end-user and liable to generate electromagnetic disturbance, or the performance of which is liable to be affected by such disturbance;
+
+(3) ‘fixed installation’ means a particular combination of several types of apparatus and, where applicable, other devices, which are assembled, installed and intended to be used permanently at a predefined location;
+
+(4) ‘electromagnetic compatibility’ means the ability of equipment to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to other equipment in that environment;
+
+(5) ‘electromagnetic disturbance’ means any electromagnetic phenomenon which may degrade the performance of equipment; an electromagnetic disturbance may be electromagnetic noise, an unwanted signal or a change in the propagation medium itself;
+
+(6) ‘immunity’ means the ability of equipment to perform as intended without degradation in the presence of an electromagnetic disturbance;
+
+(7) ‘safety purposes’ means the purposes of safeguarding human life or property;
+
+(8) ‘electromagnetic environment’ means all electromagnetic phenomena observable in a given location;
+
+(9) ‘making available on the market’ means any supply of apparatus for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(10) ‘placing on the market’ means the first making available of apparatus on the Union market;
+
+(11) ‘manufacturer’ means any natural or legal person who manufactures apparatus or has apparatus designed or manufactured, and markets that apparatus under his name or trade mark;
+
+(12) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+
+(13) ‘importer’ means any natural or legal person established within the Union who places apparatus from a third country on the Union market;
+
+(14) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes apparatus available on the market;
+
+(15) ‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+
+(16) ‘technical specification’ means a document that prescribes technical requirements to be fulfilled by the equipment;
+
+(17) ‘harmonised standard’ means harmonised standard as defined in point (c) of point 1 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025);
+
+(18) ‘accreditation’ means accreditation as defined in point 10 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765);
+
+(19) ‘national accreditation body’ means national accreditation body as defined in point 11 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765);
+
+(20) ‘conformity assessment’ means the process demonstrating whether the essential requirements of [this Directive](/lagstiftning/emc) relating to an apparatus have been fulfilled;
+
+(21) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+
+(22) ‘recall’ means any measure aimed at achieving the return of apparatus that has already been made available to the end-user;
+
+(23) ‘withdrawal’ means any measure aimed at preventing apparatus in the supply chain from being made available on the market;
+
+(24) ‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+
+(25) ‘CE marking’ means a marking by which the manufacturer indicates that the apparatus is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.
+
+2\. For the purposes of [this Directive](/lagstiftning/emc), the following shall be considered as apparatus:
+
+(1) ‘components’ or ‘sub-assemblies’ intended for incorporation into an apparatus by the end-user, which are liable to generate electromagnetic disturbance, or the performance of which is liable to be affected by such disturbance;
+
+(2) ‘mobile installations’ defined as a combination of apparatus and, where applicable, other devices, intended to be moved and operated in a range of locations.
+
+### Article 4 – Making available on the market and/or putting into service
+
+Member States shall take all appropriate measures to ensure that equipment is made available on the market and/or put into service only if it complies with [this Directive](/lagstiftning/emc) when properly installed, maintained and used for its intended purpose.
+
+### Article 5 – Free movement of equipment
+
+1\. Member States shall not impede, for reasons relating to electromagnetic compatibility, the making available on the market and/or the putting into service in their territory of equipment which complies with [this Directive](/lagstiftning/emc).
+
+2\. The requirements of [this Directive](/lagstiftning/emc) shall not prevent the application in any Member State of the following special measures concerning the putting into service or use of equipment:
+
+(a) measures to overcome an existing or predicted electromagnetic compatibility problem at a specific site;
+
+(b) measures taken for safety reasons to protect public telecommunications networks or receiving or transmitting stations when used for safety purposes in well-defined spectrum situations.
+
+Without prejudice to [Directive 98/34/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31998L0034) of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (11), Member States shall notify those special measures to the Commission and to the other Member States.
+
+The special measures which have been accepted shall be published by the Commission in the Official Journal of the European Union.
+
+3\. Member States shall not create any obstacles to the display and/or demonstration at trade fairs, exhibitions or similar events of equipment which does not comply with [this Directive](/lagstiftning/emc), provided that a visible sign clearly indicates that such equipment may not be made available on the market and/or put into service until it has been brought into conformity with [this Directive](/lagstiftning/emc). Demonstration may only take place provided that adequate measures have been taken to avoid electromagnetic disturbances.
+
+### Article 6 – Essential requirements
+
+The equipment shall meet the essential requirements set out in Annex I.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

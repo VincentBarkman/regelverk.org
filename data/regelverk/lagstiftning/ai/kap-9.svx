@@ -1,0 +1,369 @@
+---
+'source': 'ai'
+'ref': 'Kapitel IX'
+'title': 'Kapitel IX – ÖVERVAKNING EFTER UTSLÄPPANDE PÅ MARKNADEN,
+  INFORMATIONSDELNING OCH MARKNADSKONTROLL'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel IX.'
+'designation': 'AI-förordningen Kapitel IX'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_IX'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 72 – Leverantörers övervakning efter utsläppande på marknaden och planen för övervakning efter utsläppande på marknaden när det gäller AI-system med hög risk
+
+1\. Leverantörer ska inrätta och dokumentera ett system för övervakning efter utsläppande på marknaden på ett sätt som står i proportion till AI-teknikens beskaffenhet och riskerna med AI-systemet med hög risk.
+
+2\. Systemet för övervakning efter utsläppande på marknaden ska aktivt och systematiskt samla in, dokumentera och analysera relevanta uppgifter som kan tillhandahållas av tillhandahållare eller som kan samlas in via andra källor om prestandan för AI-systemen med hög risk under hela deras livstid, och som gör det möjligt för leverantören att utvärdera AI-systemens fortlöpande överensstämmelse med kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2. I förekommande fall ska övervakningen efter utsläppande på marknaden omfatta en analys av interaktionen med andra AI-system. Denna skyldighet omfattar inte känsliga operativa uppgifter om tillhandahållare som är brottsbekämpande myndigheter.
+
+3\. Systemet för övervakning efter utsläppande på marknaden ska baseras på en plan för övervakning efter utsläppande på marknaden. Planen för övervakning efter utsläppande på marknaden ska vara en del av den tekniska dokumentation som avses i bilaga IV. Kommissionen ska anta en genomförandeakt med detaljerade bestämmelser som fastställer en mall för planen för övervakning efter utsläppande på marknaden och en förteckning över de element som ska ingå i planen senast den 2 februari 2026. Den genomförandeakten ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+4\. För AI-system med hög risk som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I ska leverantörer, om ett system och en plan för övervakning efter utsläppande på marknaden redan har inrättats enligt den lagstiftningen, för att säkerställa samstämmighet, undvika dubbelarbete och minimera ytterligare bördor, ha möjlighet att, beroende på vad som är lämpligt, integrera de nödvändiga delar som beskrivs i punkterna 1, 2 och 3 med hjälp av den mall som avses i punkt 3 i system och planer som redan finns enligt den lagstiftningen, förutsatt att den uppnår en likvärdig skyddsnivå.
+
+Första stycket i denna punkt ska också tillämpas på AI-system med hög risk som avses i punkt 5 i bilaga III och som släpps ut på marknaden eller tas i bruk av finansiella institut som omfattas av krav avseende sina interna styrelseformer, arrangemang eller processer enligt unionsrätten om finansiella tjänster.
+
+### Artikel 73 – Rapportering av allvarliga incidenter
+
+1\. Leverantörer av AI-system med hög risk som släpps ut på unionsmarknaden ska rapportera alla allvarliga incidenter till marknadskontrollmyndigheterna i de medlemsstater där incidenten inträffade.
+
+2\. Den rapport som avses i punkt 1 ska göras omedelbart efter det att leverantören har fastställt ett orsakssamband mellan AI-systemet och den allvarliga incidenten eller den rimliga sannolikheten för att det finns ett sådant samband och, under alla omständigheter, senast 15 dagar efter det att leverantören eller, i tillämpliga fall, tillhandahållaren fått kännedom om den allvarliga incidenten.
+
+Den rapporteringsperiod som avses i första stycket ska ta hänsyn till hur allvarligt den allvarliga incidenten är.
+
+3\. Trots vad som sägs i punkt 2 i [denna artikel](#artikel-73-rapportering-av-allvarliga-incidenter) ska, i händelse av en utbredd överträdelse eller en allvarlig incident enligt definitionen i artikel [3.49 b](/lagstiftning/ai/kap-1#artikel-3-definitioner), den rapport som avses i punkt 1 i [den här artikeln](#artikel-73-rapportering-av-allvarliga-incidenter) tillhandahållas omedelbart och senast två dagar efter det att leverantören eller, i tillämpliga fall, tillhandahållaren fått kännedom om incidenten.
+
+4\. Trots vad som sägs i punkt 2 ska rapporten, om en person avlider, tillhandahållas omedelbart efter det att leverantören eller tillhandahållaren har fastställt, eller så snart den misstänker, ett orsakssamband mellan AI-systemet med hög risk och den allvarliga incidenten, dock senast tio dagar efter den dag då leverantören eller, i tillämpliga fall, tillhandahållaren fått kännedom om den allvarliga incidenten.
+
+5\. Om det är nödvändigt för att säkerställa snabb rapportering får leverantören eller, i tillämpliga fall, tillhandahållaren, lämna in en inledande rapport som är ofullständig, följd av en fullständig rapport.
+
+6\. Efter rapporteringen av en allvarlig incident enligt punkt 1 ska leverantören utan dröjsmål utföra de nödvändiga utredningarna med avseende på den allvarliga incidenten och det berörda AI-systemet. Detta ska inbegripa en riskbedömning av incidenten och korrigerande åtgärder.
+
+Leverantören ska samarbeta med de behöriga myndigheterna, och i förekommande fall med det berörda anmälda organet, under de utredningar som avses i första stycket, och får inte utföra någon utredning som inbegriper att ändra det berörda AI-systemet på ett sätt som kan påverka eventuella efterföljande utvärderingar av orsakerna till incidenten, innan den underrättar de behöriga myndigheterna om en sådan åtgärd.
+
+7\. Efter att ha mottagit en underrättelse om en allvarlig incident enligt artikel [3.49 c](/lagstiftning/ai/kap-1#artikel-3-definitioner) ska den berörda marknadskontrollmyndigheten informera de nationella offentliga myndigheter eller organ som avses i artikel [77.1](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter). Kommissionen ska utarbeta särskilda vägledning för att underlätta fullgörandet av de skyldigheter som anges i punkt 1 i [den här artikeln](#artikel-73-rapportering-av-allvarliga-incidenter). Dessa riktlinjer ska utfärdas senast den 2 augusti 2025 och ska bedömas regelbundet.
+
+8\. Marknadskontrollmyndigheten ska vidta lämpliga åtgärder i enlighet med vad som föreskrivs i artikel [19](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) inom sju dagar från den dag som den mottog den underrättelse som avses i punkt 1 i [den här artikeln](#artikel-73-rapportering-av-allvarliga-incidenter) och ska följa de underrättelseförfaranden som föreskrivs i den förordningen.
+
+9\. För AI-system med hög risk som avses i bilaga III och som släpps ut på marknaden eller tas i bruk av leverantörer som omfattas av unionslagstiftningsinstrument som föreskriver rapporteringsskyldigheter som är likvärdiga med dem som anges i [denna förordning](/lagstiftning/ai) ska anmälan av allvarliga incidenter vara begränsade till dem som avses i artikel [3.49 c](/lagstiftning/ai/kap-1#artikel-3-definitioner).
+
+10\. För AI-system med hög risk som utgör säkerhetskomponenter i enheter, eller som själva är enheter, vilka omfattas av [förordningarna (EU) 2017/745](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R0745) och [(EU) 2017/746](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R0746), ska anmälan av allvarliga incidenter begränsas till sådana som avses i artikel [3.49 c](/lagstiftning/ai/kap-1#artikel-3-definitioner) i [den här förordningen](/lagstiftning/ai) och göras till den nationella behöriga myndighet som utsetts för detta ändamål av de medlemsstater där incidenten inträffade.
+
+11\. Nationella behöriga myndigheter ska omedelbart underrätta kommissionen om alla allvarliga incidenter, oavsett om de har vidtagit åtgärder med anledning av dessa, i enlighet med artikel [20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+### Artikel 74 – Marknadskontroll och kontroll av AI-system på unionsmarkanden
+
+1\. [Förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska tillämpas på AI-system som omfattas av [den här förordningen](/lagstiftning/ai). För att effektivt kunna kontrollera efterlevnaden av [den här förordningen](/lagstiftning/ai) gäller följande:
+
+a) Alla hänvisningar till en ekonomisk aktör enligt [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska förstås som hänvisningar som omfattar alla operatörer som identifieras artikel [2.1](/lagstiftning/ai/kap-1#artikel-2-tillämpningsområde) i [den här förordningen](/lagstiftning/ai).
+
+b) Alla hänvisningar till en produkt enligt [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska förstås som hänvisningar som omfattar alla AI-system som omfattas av [den här förordningen](/lagstiftning/ai).
+
+2\. Som en del av sina rapporteringsskyldigheter enligt artikel [34.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska marknadskontrollmyndigheterna årligen rapportera till kommissionen och berörda nationella konkurrensmyndigheter all information som framkommit i samband med marknadskontrollen och som kan vara av potentiellt intresse för tillämpningen av unionens konkurrenslagstiftning. De ska också årligen rapportera till kommissionen om användning inom förbjudna användningsområden som ägt rum det året och om de åtgärder som vidtagits.
+
+3\. För AI-system med hög risk som är relaterade till produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I ska marknadskontrollmyndigheten vid tillämpning av [denna förordning](/lagstiftning/ai) vara den myndighet ansvarig för marknadskontroll som utsetts enligt de rättsakterna.
+
+Genom undantag från första stycket och under lämpliga omständigheter får medlemsstaterna utse en annan berörd myndighet att fungera som marknadskontrollmyndighet under förutsättning att de säkerställer samordning med de berörda sektorsspecifika marknadskontrollmyndigheter som är ansvariga för kontroll av efterlevnaden av unionens harmoniseringslagstiftning som förtecknas i bilaga I.
+
+4\. De förfaranden som avses i artiklarna [79](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå)–[83](#artikel-83-formell-bristande-överensstämmelse) i [denna förordning](/lagstiftning/ai) är inte tillämplig på AI-system som är relaterade till produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i avsnitt A i bilaga I om sådana rättsakter redan föreskriver förfaranden som säkerställer en likvärdig skyddsnivå och har samma syfte. I sådana fall ska dessa relevanta sektorsspecifika förfaranden tillämpas i stället.
+
+5\. Utan att det påverkar marknadskontrollmyndigheternas befogenheter enligt artikel [14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) får marknadskontrollmyndigheterna i syfte att säkerställa en effektiv kontroll av efterlevnaden av [den här förordningen](/lagstiftning/ai) på distans och när så är lämpligt utöva de befogenheter som avses i artikel [14.4 d](/lagstiftning/ai/kap-3#artikel-14-mänsklig-kontroll) och j i den förordningen.
+
+6\. För AI-system med hög risk som släpps ut på marknaden, tas i bruk eller används av finansinstitut som regleras av unionsrätten om finansiella tjänster ska marknadskontrollmyndigheten vid tillämpning av [denna förordning](/lagstiftning/ai) vara den berörda nationella myndighet som enligt den lagstiftningen ansvarar för den finansiella tillsynen över dessa institut, i den mån utsläppandet på marknaden, ibruktagandet eller användningen av AI-systemet står i direkt samband med tillhandahållandet av dessa finansiella tjänster.
+
+7\. Genom undantag från punkt 6 får en annan berörd myndighet, under lämpliga omständigheter och under förutsättning att samordning säkerställs, av medlemsstaten identifieras som marknadskontrollmyndighet vid tillämpning av [denna förordning](/lagstiftning/ai).
+
+Nationella marknadskontrollmyndigheter som utövar tillsyn över reglerade kreditinstitut reglerade enligt [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) och som deltar i den gemensamma tillsynsmekanism som inrättats genom [förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024), ska utan dröjsmål till Europeiska centralbanken rapportera all information som identifierats i samband med deras marknadskontroll och som kan vara av potentiellt intresse för Europeiska centralbankens tillsynsuppgifter enligt den förordningen.
+
+8\. För AI-system med hög risk som förtecknas i punkt 1 i bilaga III till [denna förordning](/lagstiftning/ai) ska medlemsstaterna, i den mån systemen används för brottsbekämpande ändamål, gränsförvaltning och rättvisa och demokrati, och för AI-system med hög risk som förtecknas i punkterna 6, 7 och 8 i bilaga III till [denna förordning](/lagstiftning/ai), till marknadskontrollmyndigheter för tillämpning av [denna förordning](/lagstiftning/ai) utse antingen de behöriga tillsynsmyndigheterna för dataskydd enligt [förordning (EU) 2016/679](/lagstiftning/gdpr) eller [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680), eller någon annan myndighet som utsetts enligt de villkor som fastställs i artiklarna [41](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680)–[44](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680) i [direktiv (EU) 2016/680](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0680). Marknadskontrollen påverkar inte på något sätt rättsliga myndigheters oberoende eller på annat sätt inkräkta på deras verksamhet när de agerar inom ramen för sin dömande verksamhet.
+
+9\. När unionens institutioner, byråer eller organ omfattas av [denna förordning](/lagstiftning/ai) ska Europeiska datatillsynsmannen fungera som marknadskontrollmyndighet för dessa, med undantag av när Europeiska unionens domstol agerar i dess rättskipande funktion.
+
+10\. Medlemsstaterna ska underlätta samordningen mellan marknadskontrollmyndigheter som utses enligt [denna förordning](/lagstiftning/ai) och andra relevanta nationella myndigheter eller organ som utövar tillsyn över tillämpningen av unionens harmoniseringslagstiftning som förtecknas i bilaga I eller annan unionsrätt som kan vara relevant för de AI-system med hög risk som avses i bilaga III.
+
+11\. Marknadskontrollmyndigheter och kommissionen ska kunna föreslå gemensamma aktiviteter, inbegripet gemensamma undersökningar, som ska genomföras antingen av marknadskontrollmyndigheterna själva eller av marknadskontrollmyndigheter tillsammans med kommissionen, och som syftar till att främja överensstämmelse, identifiera bristande överensstämmelse, öka medvetenheten och ge vägledning om [denna förordning](/lagstiftning/ai) med avseende på specifika kategorier av AI-system med hög risk som befinns utgöra en allvarlig risk i två eller flera medlemsstater i enlighet med artikel [9](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020). AI-byrån ska tillhandahålla samordningsstöd för gemensamma utredningar.
+
+12\. Utan att det påverkar de befogenheter som föreskrivs enligt [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020), och när så är relevant och begränsat till vad som är nödvändigt för att marknadskontrollmyndigheterna ska kunna fullgöra sina uppgifter, ska leverantörer bevilja dessa fullständig åtkomst till den dokumentation och de tränings-, validerings- och testdataset som används för utvecklingen av AI-system med hög risk, inbegripet, när så är lämpligt och med förbehåll för säkerhetsgarantier, genom applikationsprogrammeringsgränssnitt (API) eller andra relevanta tekniska medel och verktyg som möjliggör fjärråtkomst.
+
+13\. Marknadskontrollmyndigheterna ska beviljas tillgång till källkoden för AI-systemet med hög risk på motiverad begäran och endast om båda följande villkor är uppfyllda:
+
+a) Tillgång till källkod är nödvändig för att bedöma om ett AI-system med hög risk uppfyller kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2.
+
+b) Testnings- eller revisionsförfaranden och kontroller som grundas på uppgifter och dokumentation från leverantören har uttömts eller visat sig vara otillräckliga.
+
+14\. All information eller dokumentation som har erhållits av marknadskontrollmyndigheter ska behandlas i enlighet med de konfidentialitetskrav som anges i artikel [78](#artikel-78-konfidentiell-behandling).
+
+### Artikel 75 – Ömsesidigt bistånd, marknadskontroll och kontroll av AI-system för allmänna ändamål
+
+1\. Om ett AI-system bygger på en AI-modell för allmänna ändamål och modellen och systemet har utvecklats av samma leverantör ska AI-byrån ha befogenhet att övervaka och utöva tillsyn över AI-systemets efterlevnad av skyldigheter enligt [denna förordning](/lagstiftning/ai). För att utföra sina övervaknings- och tillsynsuppgifter ska AI-byrån ha alla befogenheter som en marknadskontrollmyndighet har enligt [detta avsnitt](/lagstiftning/ai/kap-9) och [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020).
+
+2\. Om de relevanta marknadskontrollmyndigheterna har tillräckliga skäl att anse att AI-system för allmänna ändamål som kan användas direkt av tillhandahållare för minst ett ändamål som klassificeras som AI-system med hög risk enligt [denna förordning](/lagstiftning/ai) inte uppfyller de krav som fastställs i [denna förordning](/lagstiftning/ai), ska de samarbeta med AI-byrån för att utföra bedömningar av överensstämmelse och informera styrelsen och andra marknadskontrollmyndigheter om detta.
+
+3\. Om en marknadskontrollmyndighet inte kan slutföra sina utredningar av AI-system med hög risk på grund av att den inte fått tillgång till viss information avseende AI-modellen för allmänna ändamål, trots att den har vidtagit alla lämpliga åtgärder för att inhämta den informationen, får den lämna en motiverad begäran till AI-byrån, genom vilken tillgång till denna information ska verkställas. I detta fall ska AI-byrån utan dröjsmål, och under alla omständigheter inom 30 dagar, förse den begärande myndigheten med all information som AI-byrån anser vara relevant för att fastställa om ett AI-system med hög risk inte uppfyller kraven. Marknadskontrollmyndigheter ska säkerställa att den information som de erhåller i enlighet med artikel [78](#artikel-78-konfidentiell-behandling) i [denna förordning](/lagstiftning/ai) behandlas konfidentiellt. Det förfarande som föreskrivs i kapitel VI i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska gälla i tillämpliga delar.
+
+### Artikel 76 – Marknadskontrollmyndigheters tillsyn av testning under verkliga förhållanden
+
+1\. Marknadskontrollmyndigheterna ska ha behörigheter och befogenheter att säkerställa att testning under verkliga förhållanden sker i enlighet med [denna förordning](/lagstiftning/ai).
+
+2\. Om testning under verkliga förhållanden utförs för AI-system som står under tillsyn inom ramen för en regulatorisk sandlåda för AI enligt artikel [58](/lagstiftning/ai/kap-6#artikel-58-närmare-arrangemang-och-funktionssätt-för-regulatoriska-sandlådor-för-ai), ska marknadskontrollmyndigheterna kontrollera efterlevnaden av artikel [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) som en del av sin tillsynsroll för den regulatoriska sandlådan för AI. Dessa myndigheter får, beroende på vad som är lämpligt, tillåta att testning under verkliga förhållanden utförs av leverantören eller den potentiella leverantören med avvikelse från de villkor som anges i artikel [60.4 f](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) och g.
+
+3\. Om en marknadskontrollmyndighet har informerats av den potentiella leverantören, leverantören eller någon tredje part om en allvarlig incident eller har andra skäl att anse att villkoren i artiklarna [60](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) och [61](/lagstiftning/ai/kap-6#artikel-61-informerat-samtycke-till-deltagande-i-testning-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) inte är uppfyllda, får den, beroende på vad som är lämpligt, fatta något av följande beslut på sitt territorium:
+
+a) Tillfälligt avbryta eller avsluta testningen under verkliga förhållanden.
+
+b) Kräva att leverantören eller den potentiella leverantören och tillhandahållaren eller den potentiella tillhandahållaren ändrar någon aspekt av testningen under verkliga förhållanden.
+
+4\. Om en marknadskontrollmyndighet har fattat ett beslut som avses i punkt 3 i [denna artikel](#artikel-76-marknadskontrollmyndigheters-tillsyn-av-testning-under-verkliga-förhållanden) eller har gjort en invändning i den mening som avses i artikel [60.4 b](/lagstiftning/ai/kap-6#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai), ska skälen till beslutet eller invändningen anges i beslutet eller invändningen liksom information om hur leverantören eller den potentiella leverantören kan bestrida beslutet eller invändningen.
+
+5\. I tillämpliga fall ska en marknadskontrollmyndighet, om den har fattat ett beslut som avses i punkt 3, meddela skälen till detta till marknadskontrollmyndigheterna i andra medlemsstater där AI-systemet har testats i enlighet med planen för testning.
+
+### Artikel 77 – Myndigheters befogenheter att skydda grundläggande rättigheter
+
+1\. Nationella offentliga myndigheter eller organ som utövar tillsyn över eller kontrollerar efterlevnaden av skyldigheter enligt unionsrätt om skydd av grundläggande rättigheter, inbegripet rätten till icke-diskriminering, i samband med användningen av AI-system med hög risk som avses i bilaga III, ska ha befogenhet att begära och få åtkomst till all dokumentation som skapas eller upprätthålls enligt [denna förordning](/lagstiftning/ai) på ett språk och i ett format som är lättillgängligt när åtkomst till sådan dokumentation är nödvändig för att effektivt fullgöra sina mandat inom ramen för deras jurisdiktion. Den berörda offentliga myndigheten eller det berörda offentliga organet ska informera marknadskontrollmyndigheten i den berörda medlemsstaten om en sådan begäran.
+
+2\. Senast den 2 november 2024 ska varje medlemsstat identifiera de offentliga myndigheter eller organ som avses i punkt 1 och offentliggöra en förteckning över dem. Medlemsstaterna ska anmäla förteckningen till kommissionen och de andra medlemsstaterna och hålla förteckningen uppdaterad.
+
+3\. Om den dokumentation som avses i punkt 1 är otillräcklig för att fastställa huruvida ett åsidosättande av skyldigheter enligt unionsrätt om skydd av grundläggande rättigheter har ägt rum, får den offentliga myndighet eller det offentliga organ som avses i punkt 1 lämna en motiverad begäran till marknadskontrollmyndigheten om organisering av testning av AI-systemet med hög risk genom tekniska medel. Marknadskontrollmyndigheten ska organisera testningen i nära samarbete med den begärande offentliga myndigheten eller det begärande offentliga organet inom rimlig tid efter begäran.
+
+4\. All information eller dokumentation som de nationella offentliga myndigheter eller organ som avses i punkt 1 i [denna artikel](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter) erhåller enligt [denna artikel](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter) ska behandlas i enlighet med de konfidentialitetskrav som fastställs i artikel [78](#artikel-78-konfidentiell-behandling).
+
+### Artikel 78 – Konfidentiell behandling
+
+1\. Kommissionen, marknadskontrollmyndigheterna och anmälda organ och alla andra fysiska eller juridiska personer som deltar i tillämpningen av [denna förordning](/lagstiftning/ai) ska, i enlighet med unionsrätten eller nationell rätt, respektera konfidentialiteten för den information och de data som de erhåller när de utför sina uppgifter och sin verksamhet på ett sådant sätt att de särskilt skyddar följande:
+
+a) Immateriella rättigheter och en fysisk eller juridisk persons konfidentiella affärsinformation eller företagshemligheter, inklusive källkod, utom i de fall som avses i artikel [5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) i [Europaparlamentets och rådets direktiv (EU) 2016/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) (57).
+
+b) Ett effektivt genomförande av [denna förordning](/lagstiftning/ai), särskilt med avseende på inspektioner, utredningar eller revisioner.
+
+c) Offentliga och nationella säkerhetsintressen.
+
+d) Genomförandet av straffrättsliga eller administrativa förfaranden.
+
+e) Uppgifter som säkerhetsskyddsklassificerats enligt unionsrätten eller nationell rätt.
+
+2\. De myndigheter som deltar i tillämpningen av [denna förordning](/lagstiftning/ai) enligt punkt 1 ska endast begära sådana data som är strikt nödvändiga för bedömningen av den risk som AI-system utgör och för utövandet av deras befogenheter i enlighet med [denna förordning](/lagstiftning/ai) och med [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020). De ska vidta tillräckliga och effektiva cybersäkerhetsåtgärder för att skydda säkerheten och konfidentialiteten för den information och de data som inhämtats, och ska radera inhämtade data så snart dessa inte längre behövs för det ändamål för vilket de inhämtats, i enlighet med tillämplig unionsrätt eller nationell rätt.
+
+3\. Utan att det påverkar tillämpningen av punkterna 1 och 2 får information som på konfidentiell basis utbyts mellan de nationella behöriga myndigheterna eller mellan nationella behöriga myndigheter och kommissionen inte lämnas ut utan föregående samråd med den nationella behöriga myndighet som lämnat informationen och med tillhandahållaren när sådana AI-system med hög risk som avses i punkt 1, 6 eller 7 i bilaga III används av brottsbekämpande myndigheter, gränskontrollmyndigheter, migrationsmyndigheter eller asylmyndigheter, om ett sådant röjande skulle äventyra allmänna och nationella säkerhetsintressen. Detta informationsutbyte får inte omfatta känsliga operativa uppgifter som rör brottsbekämpande myndigheters, gränskontrollmyndigheters, migrationsmyndigheters eller asylmyndigheters verksamhet.
+
+Om brottsbekämpande myndigheter, migrationsmyndigheter eller asylmyndigheter är leverantörer av sådana AI-system med hög risk som avses i punkt 1, 6 eller 7 i bilaga III ska den tekniska dokumentation som avses i bilaga IV finnas kvar i dessa myndigheters lokaler. Dessa myndigheter ska säkerställa att de marknadskontrollmyndigheter som avses i artikel [74.8](#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden) och [74.9](#artikel-74-marknadskontroll-och-kontroll-av-ai-system-på-unionsmarkanden), beroende på vad som är tillämpligt, på begäran omedelbart kan få åtkomst till eller få en kopia av dokumentationen. Endast personal vid marknadskontrollmyndigheten som innehar säkerhetsgodkännande på tillräckligt hög nivå ska ha åtkomst till denna dokumentation eller kopior av denna.
+
+4\. Punkterna 1, 2 och 3 påverkar inte kommissionens, medlemsstaternas och deras relevanta myndigheters samt anmälda organs rättigheter eller skyldigheter när det gäller att utbyta information och utfärda varningar, inbegripet i samband med gränsöverskridande samarbete, och inte heller påverkas de berörda parternas straffrättsliga skyldighet att lämna information enligt medlemsstaternas straffrätt.
+
+5\. Kommissionen och medlemsstaterna får, om det är nödvändigt och förenligt med relevanta bestämmelser i internationella avtal och handelsavtal, utbyta konfidentiell information med de tillsynsmyndigheter i tredjeländer med vilka de har slutit bilaterala eller multilaterala avtal om konfidentialitet som garanterar en tillräcklig nivå av konfidentialitet.
+
+### Artikel 79 – Förfaranden för att hantera AI-system som utgör en risk på nationell nivå
+
+1\. AI-system som utgör en risk ska förstås som en produkt som utgör en risk enligt definitionen i artikel [3.19](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i den mån de utgör risker för personers hälsa eller säkerhet eller grundläggande rättigheter.
+
+2\. Om en medlemsstats marknadskontrollmyndighet har tillräckliga skäl att anse att ett AI-system utgör en sådan risk som avses i punkt 1 i [denna artikel](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå), ska den utvärdera om det berörda AI-systemet är förenligt med alla krav och skyldigheter som fastställs i [denna förordning](/lagstiftning/ai). Särskild uppmärksamhet ska ägnas åt AI-system som utgör en risk för sårbara grupper. Om risker för grundläggande rättigheter identifieras ska marknadskontrollsmyndigheten även omedelbart informera och till fullo samarbeta med de berörda nationella offentliga myndigheter eller organ som avses i artikel [77.1](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter). De berörda operatörerna ska vid behov samarbeta med marknadskontrollmyndigheten och andra nationella offentliga myndigheter eller organ som avses i artikel [77.1](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter).
+
+Om marknadskontrollsmyndigheten eller, när så är lämpligt, marknadskontrollsmyndigheten i samarbete med den nationella offentliga myndighet som avses i artikel [77.1](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter), vid utvärderingen konstaterar att AI-systemet inte uppfyller kraven och skyldigheterna i [denna förordning](/lagstiftning/ai) ska den utan oskäligt dröjsmål kräva att berörda operatörer vidtar alla lämpliga korrigerande åtgärder för att AI-systemet ska uppfylla dessa krav, dra tillbaka AI-systemet från marknaden eller återkalla det inom en period som marknadskontrollsmyndigheten får fastställa, och under alla omständigheter senast inom 15 arbetsdagar eller såsom fastställts i relevant unionsharmoniseringslagstiftning.
+
+Marknadskontrollmyndigheten ska informera det berörda anmälda organet om detta. Artikel [18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska tillämpas på de åtgärder som avses i andra stycket i denna punkt.
+
+3\. Om marknadskontrollmyndigheten anser att den bristande överensstämmelsen inte bara gäller det nationella territoriet, ska den utan oskäligt dröjsmål informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som den har ålagt operatören att vidta.
+
+4\. Operatören ska säkerställa att alla lämpliga korrigerande åtgärder vidtas i fråga om alla berörda AI-system som den har tillhandahållit på unionsmarknaden.
+
+5\. Om operatören av ett AI-system inte vidtar lämpliga korrigerande åtgärder inom den tid som avses i punkt 2, ska marknadskontrollmyndigheten vidta alla lämpliga provisoriska åtgärder för att förbjuda eller begränsa tillhandahållandet eller ibruktagandet av AI-systemet på sin nationella marknad, dra tillbaka produkten eller det fristående AI-systemet från den marknaden eller återkalla det. Myndigheten ska utan oskäligt dröjsmål anmäla dessa åtgärder till kommissionen och de andra medlemsstaterna.
+
+6\. I den anmälan som avses i punkt 5 ska alla tillgängliga data ingå, särskilt den information som krävs för att kunna identifiera det AI-system som inte uppfyller kraven, dess ursprung och leveranskedjan, vilken typ av bristande överensstämmelse som görs gällande och den risk systemet utgör, vilken typ av nationell åtgärd som vidtagits och dess varaktighet samt den berörda operatörens synpunkter. Marknadskontrollmyndigheterna ska särskilt ange om den bristande överensstämmelsen beror på en eller flera av följande orsaker:
+
+a) Bristande efterlevnad av förbudet mot de AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden).
+
+b) AI-systemet med hög risk uppfyller inte kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2.
+
+c) Brister i de harmoniserade standarder eller gemensamma specifikationer som avses i artiklarna [40](/lagstiftning/ai/kap-3#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) och [41](/lagstiftning/ai/kap-3#artikel-41-gemensamma-specifikationer) och som ger presumtion om överensstämmelse.
+
+d) Bristande efterlevnad av artikel [50](/lagstiftning/ai/kap-4#artikel-50-transparensskyldigheter-för-leverantörer-och-tillhandahållare-av-vissa-ai-system).
+
+7\. Andra marknadskontrollmyndigheter än marknadskontrollmyndigheten i den medlemsstat som inledde förfarandet ska utan oskäligt dröjsmål informera kommissionen och de andra medlemsstaterna om alla vidtagna åtgärder och eventuella kompletterande uppgifter som de har tillgång till med avseende på AI-systemets bristande överensstämmelse och, vid oenighet om den anmälda nationella åtgärden, om sina invändningar.
+
+8\. Åtgärden ska anses vara berättigad om ingen marknadskontrollmyndighet i en medlemsstat eller kommissionen har gjort invändningar inom tre månader efter mottagandet av den anmälan som avses i punkt 5 mot en provisorisk åtgärd som vidtagits av en marknadskontrollmyndighet i en annan medlemsstat. Detta påverkar inte den berörda operatörens processuella rättigheter i enlighet med artikel [18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020). Den tremånadersperiod som avses i detta stycke ska minskas till 30 dagar vid bristande efterlevnad av förbudet mot de AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden) i [den här förordningen](/lagstiftning/ai).
+
+9\. Marknadskontrollmyndigheterna ska säkerställa att lämpliga begränsande åtgärder, till exempel att produkten eller AI-systemet dras tillbaka från marknaden, vidtas i fråga om den berörda produkten eller det berörda AI-systemet utan oskäligt dröjsmål.
+
+### Artikel 80 – Förfarande för hantering av AI-system som av leverantören klassificeras som AI-system utan hög risk vid tillämpning av BILAGA III
+
+1\. Om en marknadskontrollmyndighet har tillräckliga skäl att anse att ett AI-system som av leverantören klassificeras som AI-system utan hög risk enligt artikel [6.3](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) faktiskt är ett AI-system med hög risk, ska marknadskontrollmyndigheten genomföra en utvärdering av det berörda AI-systemet med avseende på dess klassificering som AI-system med hög risk på grundval av de villkor som anges i artikel [6.3](/lagstiftning/ai/kap-3#artikel-6-klassificeringsregler-för-ai-system-med-hög-risk) och kommissionens riktlinjer.
+
+2\. Om marknadskontrollmyndigheten vid utvärderingen konstaterar att det berörda AI-systemet är ett system med hög risk ska den utan oskäligt dröjsmål ålägga den berörda leverantören att vidta alla nödvändiga åtgärder för att AI-systemet ska uppfylla de krav och skyldigheter som fastställs i [denna förordning](/lagstiftning/ai) samt vidta lämpliga korrigerande åtgärder inom en period som marknadskontrollmyndigheten får föreskriva.
+
+3\. Om marknadskontrollmyndigheten anser att användningen av det berörda AI-systemet inte är begränsad till det nationella territoriet, ska den utan oskäligt dröjsmål informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som den har ålagt operatören att vidta.
+
+4\. Leverantören ska säkerställa att alla nödvändiga åtgärder vidtas för att AI-systemet ska uppfylla de krav och skyldigheter som fastställs i [denna förordning](/lagstiftning/ai). Om leverantören av ett berört AI-system inte bringar AI-systemet i överensstämmelse med dessa krav och skyldigheter inom den period som avses i punkt 2 i [denna artikel](#artikel-80-förfarande-för-hantering-av-ai-system-som-av-leverantören-klassificeras-som-ai-system-utan-hög-risk-vid-tillämpning-av-bilaga-iii) ska leverantören bli föremål för sanktionsavgifter i enlighet med artikel [99](/lagstiftning/ai/kap-12#artikel-99-sanktioner).
+
+5\. Leverantören ska säkerställa att alla lämpliga korrigerande åtgärder vidtas i fråga om alla berörda AI-system som den har tillhandahållit på unionsmarknaden.
+
+6\. Om leverantören av det berörda AI-systemet inte vidtar lämpliga korrigerande åtgärder inom den period som avses i punkt 2 i [denna artikel](#artikel-80-förfarande-för-hantering-av-ai-system-som-av-leverantören-klassificeras-som-ai-system-utan-hög-risk-vid-tillämpning-av-bilaga-iii) ska artikel [79.5](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå)–[79.9](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) tillämpas.
+
+7\. Om marknadskontrollmyndigheten vid utvärderingen enligt punkt 1 i [denna artikel](#artikel-80-förfarande-för-hantering-av-ai-system-som-av-leverantören-klassificeras-som-ai-system-utan-hög-risk-vid-tillämpning-av-bilaga-iii) fastställer att AI-systemet av leverantören felaktigt klassificerats som ett system utan hög risk i syfte att kringgå tillämpningen av kraven i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2, ska leverantören bli föremål för sanktionsavgifter i enlighet med artikel [99](/lagstiftning/ai/kap-12#artikel-99-sanktioner).
+
+8\. När marknadskontrollmyndigheterna utövar sina befogenheter att övervaka tillämpningen av [denna artikel](#artikel-80-förfarande-för-hantering-av-ai-system-som-av-leverantören-klassificeras-som-ai-system-utan-hög-risk-vid-tillämpning-av-bilaga-iii), och i enlighet med artikel [11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020), får de utföra lämpliga kontroller, med särskilt beaktande av information som lagras i den EU-databas som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) i [den här förordningen](/lagstiftning/ai).
+
+### Artikel 81 – Unionsförfarande för skyddsåtgärder
+
+1\. Om marknadskontrollmyndigheten i en medlemsstat inom tre månader efter mottagandet av den anmälan som avses i artikel [79.5](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå), eller inom 30 dagar vid bristande efterlevnad av förbudet mot de AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden), har gjort invändningar mot en åtgärd som vidtagits av marknadskontrollmyndigheten i en annan medlemsstat, eller om kommissionen anser att åtgärden strider mot unionsrätten, ska kommissionen utan oskäligt dröjsmål inleda samråd med den berörda medlemsstatens marknadskontrollmyndighet och operatören eller operatörerna och ska utvärdera den nationella åtgärden. På grundval av utvärderingsresultaten ska kommissionen besluta om den nationella åtgärden är berättigad eller inte inom sex månader, eller inom 60 dagar vid bristande efterlevnad av förbudet mot de AI-användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden), från och med den anmälan som avses i artikel [79.5](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) och meddela beslutet till marknadskontrollmyndigheten i den berörda medlemsstaten. Kommissionen ska också underrätta alla de övriga marknadskontrollmyndigheterna om ett sådant beslut.
+
+2\. Om kommissionen anser att den åtgärd som vidtagits av den berörda medlemsstaten är motiverad ska samtliga medlemsstater säkerställa att de vidtar lämpliga restriktiva åtgärder med avseende på det berörda AI-systemet, såsom att kräva att AI-systemet dras tillbaka från deras marknad utan oskäligt dröjsmål, och underrätta kommissionen om detta. Om kommissionen anser att den nationella åtgärden är omotiverad ska den berörda medlemsstaten dra tillbaka åtgärden och underrätta kommissionen om detta.
+
+3\. Om den nationella åtgärden anses vara berättigad och AI-systemets bristande överensstämmelse kan tillskrivas brister i de harmoniserade standarder eller gemensamma specifikationer som avses i artiklarna [40](/lagstiftning/ai/kap-3#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) och [41](/lagstiftning/ai/kap-3#artikel-41-gemensamma-specifikationer) i [denna förordning](/lagstiftning/ai), ska kommissionen tillämpa det förfarande som föreskrivs i artikel [11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+### Artikel 82 – AI-system som uppfyller kraven och som utgör en risk
+
+1\. Om en marknadskontrollmyndighet i en medlemsstat har gjort en utvärdering enligt artikel [79](#artikel-79-förfaranden-för-att-hantera-ai-system-som-utgör-en-risk-på-nationell-nivå) och, efter samråd med den nationella offentliga myndighet som avses i artikel [77.1](#artikel-77-myndigheters-befogenheter-att-skydda-grundläggande-rättigheter), konstaterar att ett AI-system med hög risk uppfyller kraven i [denna förordning](/lagstiftning/ai) men ändå utgör en risk för personers hälsa och säkerhet, för grundläggande rättigheter eller för andra aspekter av skyddet av allmänintresset, ska den ålägga den berörda operatören att, utan oskäligt dröjsmål och inom en period som den får fastställa, vidta alla lämpliga åtgärder för att säkerställa att det berörda AI-systemet när det släpps ut på marknaden eller tas i bruk inte längre utgör en sådan risk.
+
+2\. Leverantören eller en annan berörd operatör ska säkerställa att korrigerande åtgärder vidtas i fråga om alla berörda AI-system som den har tillhandahållit på marknaden i unionen inom den tidsplan som föreskrivs av marknadskontrollmyndigheten i den medlemsstat som avses i punkt 1.
+
+3\. Medlemsstaterna ska omedelbart informera kommissionen och de andra medlemsstaterna om ett konstaterande enligt punkt 1. Den informationen ska innehålla alla tillgängliga närmare uppgifter, särskilt de data som krävs för att kunna identifiera det berörda AI-systemet, dess ursprung och leveranskedja, den risk som AI-systemet utgör samt vilken typ av nationella åtgärder som vidtagits och deras varaktighet.
+
+4\. Kommissionen ska utan oskäligt dröjsmål inleda samråd med de berörda medlemsstaterna och de berörda operatörerna samt utvärdera de nationella åtgärderna. På grundval av utvärderingsresultaten ska kommissionen besluta om åtgärden är berättigad, och vid behov föreslå andra lämpliga åtgärder.
+
+5\. Kommissionen ska omedelbart meddela sitt beslut till de berörda medlemsstaterna och till de berörda operatörerna. Den ska också informera övriga medlemsstater.
+
+### Artikel 83 – Formell bristande överensstämmelse
+
+1\. Om marknadskontrollmyndigheten i en medlemsstat konstaterar något av följande ska den ålägga den berörda leverantören att åtgärda den bristande överensstämmelsen inom en tid som den får föreskriva:
+
+a) CE-märkningen har anbringats i strid med artikel [48](/lagstiftning/ai/kap-3#artikel-48-ce-märkning).
+
+b) CE-märkningen saknas.
+
+c) Den EU-försäkran om överensstämmelse som avses i artikel [47](/lagstiftning/ai/kap-3#artikel-47-eu-försäkran-om-överensstämmelse) har inte upprättats.
+
+d) Den EU-försäkran om överensstämmelse som avses i artikel [47](/lagstiftning/ai/kap-3#artikel-47-eu-försäkran-om-överensstämmelse) har inte upprättats på ett korrekt sätt.
+
+e) Den registrering i EU-databasen som avses i artikel [71](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) har inte genomförts.
+
+f) I tillämpliga fall, ett ombud har inte utsetts.
+
+g) Teknisk dokumentation är inte tillgänglig.
+
+2\. Om den bristande överensstämmelse som avses i punkt 1 kvarstår ska marknadskontrollmyndigheten i den berörda medlemsstaten vidta lämpliga och proportionella åtgärder för att begränsa eller förbjuda tillhandahållandet av AI-systemet med hög risk på marknaden eller säkerställa att det utan dröjsmål återkallas eller dras tillbaka från marknaden.
+
+### Artikel 84 – Unionsstödstrukturer för testning av AI
+
+1\. Kommissionen ska utse en eller flera unionsstödstrukturer för testning av AI enligt artikel [21.6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) på AI-området.
+
+2\. Utan att det påverkar de uppgifter som avses i punkt 1 ska unionsstödstrukturerna för testning av AI även tillhandahålla oberoende teknisk eller vetenskaplig rådgivning på begäran av styrelsen, kommissionen eller marknadskontrollmyndigheterna.
+
+### Artikel 85 – Rätt att lämna in klagomål till en marknadskontrollmyndighet
+
+Utan att det påverkar andra administrativa eller rättsliga rättsmedel får varje fysisk eller juridisk person som har skäl att anse att bestämmelserna i [denna förordning](/lagstiftning/ai) har överträtts lämna klagomål till den berörda marknadskontrollmyndigheten.
+
+I enlighet med [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska sådana klagomål beaktas vid genomförandet av marknadskontrollen och hanteras i enlighet med de särskilda förfaranden som fastställts för detta av marknadskontrollmyndigheterna.
+
+### Artikel 86 – Rätt till förklaring av individuellt beslutsfattande
+
+1\. Varje berörd person som är föremål för ett beslut som fattas av tillhandahållaren på grundval av utdata från ett AI-system med hög risk som förtecknas i bilaga III, med undantag för system som förtecknas i punkt 2 i den bilagan, och som har rättslig verkan eller på liknande sätt i betydande grad påverkar den personen på ett sätt som de anser ha en negativ inverkan på deras hälsa, säkerhet eller grundläggande rättigheter, ska ha rätt att erhålla tydliga och meningsfulla förklaringar av AI-systemets roll i beslutsförfarandet och de viktigaste delarna av det beslut som fattats.
+
+2\. Punkt 1 är inte tillämplig på användning av AI-system för vilka undantag från eller begränsningar av skyldigheten enligt den punkten följer av unionsrätten eller nationell rätt i överensstämmelse med unionsrätten.
+
+3\. [Denna artikel](#artikel-86-rätt-till-förklaring-av-individuellt-beslutsfattande) är endast tillämplig i den utsträckning som den rättighet som avses i punkt 1 inte på annat sätt föreskrivs i unionsrätten.
+
+### Artikel 87 – Rapportering av överträdelser och skydd av personer som rapporterar överträdelser
+
+[Direktiv (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L1937) ska tillämpas på rapportering av överträdelser av [denna förordning](/lagstiftning/ai) och skydd för personer som rapporterar sådana överträdelser.
+
+### Artikel 88 – Kontroll av efterlevnaden av skyldigheterna för leverantörer av AI-modeller för allmänna ändamål
+
+1\. Kommissionen ska ha exklusiv befogenhet att utöva tillsyn avseende och kontrollera efterlevnaden av [kapitel V](/lagstiftning/ai/kap-5), med beaktande av rättssäkerhetsgarantierna enligt artikel [94](#artikel-94-processuella-rättigheter-för-ekonomiska-operatörer-av-ai-modellen-med-allmänna-ändamål). Kommissionen ska anförtro genomförandet av dessa uppgifter till AI-byrån, utan att det påverkar kommissionens organisationsbefogenheter och befogenhetsfördelningen mellan medlemsstaterna och unionen på grundval av fördragen.
+
+2\. Utan att det påverkar tillämpningen av artikel [75.3](#artikel-75-ömsesidigt-bistånd-marknadskontroll-och-kontroll-av-ai-system-för-allmänna-ändamål) får marknadskontrollmyndigheterna begära att kommissionen utövar de befogenheter som fastställs i [detta avsnitt](/lagstiftning/ai/kap-9), om detta är nödvändigt och proportionellt för att hjälpa dem att fullgöra sina uppgifter enligt [denna förordning](/lagstiftning/ai).
+
+### Artikel 89 – Övervakningsåtgärder
+
+1\. För att utföra de uppgifter som tilldelas den enligt [detta avsnitt](/lagstiftning/ai/kap-9) får AI-byrån vidta nödvändiga åtgärder för att övervaka att leverantörer av AI-modeller för allmänna ändamål genomför och efterlever [denna förordning](/lagstiftning/ai) på ett effektivt sätt, inbegripet deras efterlevnad av godkända uppförandekoder.
+
+2\. Leverantörer i efterföljande led ska ha rätt att lämna in ett klagomål om överträdelse av [denna förordning](/lagstiftning/ai). Ett klagomål ska vara vederbörligen motiverat och innehålla åtminstone följande uppgifter:
+
+a) Kontaktpunkten för leverantören av den berörda AI-modellen för allmänna ändamål.
+
+b) En beskrivning av relevanta fakta, de berörda bestämmelserna i [denna förordning](/lagstiftning/ai) och skälet till att leverantören i efterföljande led anser att leverantören av den berörda AI-modellen för allmänna ändamål har överträtt [denna förordning](/lagstiftning/ai).
+
+c) All övrig information som den leverantör i efterföljande led som skickade begäran anser vara relevant, inbegripet, i förekommande fall, information som samlats in på eget initiativ.
+
+### Artikel 90 – Varningar från den vetenskapliga panelen om systemrisker
+
+1\. Den vetenskapliga panelen får lämna en kvalificerad varning till AI-byrån om den har anledning att misstänka att
+
+a) en AI-modell för allmänna ändamål utgör en konkret identifierbar risk på unionsnivå, eller
+
+b) en AI-modell för allmänna ändamål uppfyller de villkor som anges i artikel [51](/lagstiftning/ai/kap-5#artikel-51-klassificering-av-ai-modeller-för-allmänna-ändamål-som-ai-modeller-för-allmänna-ändamål-med-systemrisk).
+
+2\. Efter en sådan kvalificerad varning får kommissionen, genom AI-byrån och efter att ha informerat styrelsen, utöva de befogenheter som fastställs i [detta avsnitt](/lagstiftning/ai/kap-9) i syfte att bedöma ärendet. AI-byrån ska informera styrelsen om alla åtgärder enligt artiklarna [91](#artikel-91-befogenhet-att-begära-dokumentation-och-information)–[94](#artikel-94-processuella-rättigheter-för-ekonomiska-operatörer-av-ai-modellen-med-allmänna-ändamål).
+
+3\. En kvalificerad varning ska vara vederbörligen motiverad och innehålla åtminstone följande uppgifter:
+
+a) Kontaktpunkten för leverantören av den berörda AI-modellen för allmänna ändamål med systemrisk.
+
+b) En beskrivning av relevanta fakta och skälen till den vetenskapliga panelens varning.
+
+c) All övrig information som den vetenskapliga panelen anser vara relevant, inbegripet, i förekommande fall, information som samlats in på eget initiativ.
+
+### Artikel 91 – Befogenhet att begära dokumentation och information
+
+1\. Kommissionen får begära att leverantören av den berörda AI-modellen för allmänna ändamål tillhandahåller den dokumentation som utarbetats av leverantören i enlighet med artiklarna [53](/lagstiftning/ai/kap-5#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [55](/lagstiftning/ai/kap-5#artikel-55-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål-med-systemrisk), eller all ytterligare information som är nödvändig för att bedöma leverantörens efterlevnad av [denna förordning](/lagstiftning/ai).
+
+2\. Innan begäran om information skickas får AI-byrån inleda en strukturerad dialog med leverantören av AI-modellen för allmänna ändamål.
+
+3\. På en vederbörligen motiverad begäran från den vetenskapliga panelen får kommissionen utfärda en begäran om information till en leverantör av en AI-modell för allmänna ändamål, om tillgången till information är nödvändig och proportionell för fullgörandet av den vetenskapliga panelens uppgifter enligt artikel [68.2](/lagstiftning/ai/kap-7#artikel-68-vetenskaplig-panel-av-oberoende-experter).
+
+4\. Begäran om information ska innehålla uppgifter om den rättsliga grunden för och syftet med begäran, en specifikation av vilken information som begärs, en tidsfrist inom vilken informationen ska tillhandahållas samt de sanktionsavgifter som föreskrivs i artikel [101](/lagstiftning/ai/kap-12#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) för tillhandahållande av oriktig, ofullständig eller vilseledande information.
+
+5\. Leverantören av den berörda AI-modellen för allmänna ändamål, eller dennes företrädare, ska tillhandahålla den begärda informationen. När det gäller juridiska personer, företag eller firmor, eller om leverantören inte är en juridisk person, ska de personer som är behöriga att företräda dem enligt lag eller deras stadgar tillhandahålla den begärda informationen på uppdrag av leverantören av den berörda AI-modellen för allmänna ändamål. I behörig ordning befullmäktigade jurister får lämna information på sina huvudmäns vägnar. Huvudmännen förblir dock fullt ut ansvariga om den tillhandahållna informationen är ofullständig, oriktig eller vilseledande.
+
+### Artikel 92 – Befogenhet att genomföra utvärderingar
+
+1\. AI-byrån får, efter samråd med styrelsen, genomföra utvärderingar av den berörda AI-modellen för allmänna ändamål i syfte att
+
+a) bedöma leverantörens efterlevnad av skyldigheterna enligt [denna förordning](/lagstiftning/ai), om den information som samlats in enligt artikel [91](#artikel-91-befogenhet-att-begära-dokumentation-och-information) är otillräcklig, eller
+
+b) undersöka systemrisker på unionsnivå för AI-modeller för allmänna ändamål med systemrisk, särskilt efter en kvalificerad varning från den vetenskapliga panelen i enlighet med artikel [90.1 a](#artikel-90-varningar-från-den-vetenskapliga-panelen-om-systemrisker).
+
+2\. Kommissionen får besluta att utse oberoende experter som ska utföra utvärderingar på dess vägnar, inbegripet från den vetenskapliga panel som inrättats enligt artikel [68](/lagstiftning/ai/kap-7#artikel-68-vetenskaplig-panel-av-oberoende-experter). Oberoende experter som utses för denna uppgift ska uppfylla de kriterier som anges i artikel [68.2](/lagstiftning/ai/kap-7#artikel-68-vetenskaplig-panel-av-oberoende-experter).
+
+3\. Vid tillämpningen av punkt 1 får kommissionen begära åtkomst till den berörda AI-modellen för allmänna ändamål genom applikationsprogrammeringsgränssnitt (API) eller ytterligare lämpliga tekniska medel och verktyg, inbegripet källkod.
+
+4\. I begäran om åtkomst ska anges den rättsliga grunden, syftet med och skälen till begäran, den tidsfrist inom vilken åtkomsten ska tillhandahållas samt de sanktionsavgifter som föreskrivs i artikel [101](/lagstiftning/ai/kap-12#artikel-101-sanktionsavgifter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) för underlåtenhet att ge åtkomst.
+
+5\. Leverantörerna av den berörda AI-modellen för allmänna ändamål eller deras ombud ska lämna den information som krävs. När det gäller juridiska personer, företag eller firmor, eller om leverantören inte är en juridisk person, ska de personer som är behöriga att företräda dem enligt lag eller stadgar tillhandahålla den begärda åtkomsten på uppdrag av leverantören av den berörda AI-modellen för allmänna ändamål.
+
+6\. Kommissionen ska anta genomförandeakter som fastställer närmare arrangemang och villkor för utvärderingarna, inbegripet närmare bestämmelser för deltagande av oberoende experter, och förfarandet för att välja ut dem. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+7\. Innan AI-byrån begär åtkomst till den berörda AI-modellen för allmänna ändamål får den inleda en strukturerad dialog med leverantören av AI-modellen för allmänna ändamål för att samla in mer information om den interna testningen av modellen, interna skyddsåtgärder för att förebygga systemrisker och andra interna förfaranden och åtgärder som leverantören har vidtagit för att minska sådana risker.
+
+### Artikel 93 – Befogenhet att begära åtgärder
+
+1\. När det är nödvändigt och lämpligt får kommissionen begära att leverantörer
+
+a) vidtar lämpliga åtgärder för att fullgöra de skyldigheter som föreskrivs i artiklarna [53](/lagstiftning/ai/kap-5#artikel-53-skyldigheter-för-leverantörer-av-ai-modeller-för-allmänna-ändamål) och [54](/lagstiftning/ai/kap-5#artikel-54-ombud-för-leverantörer-av-ai-modeller-för-allmänna-ändamål),
+
+b) genomför riskreducerande åtgärder, om den utvärdering som utförts i enlighet med artikel [92](#artikel-92-befogenhet-att-genomföra-utvärderingar) har gett upphov till allvarliga och väl underbyggda farhågor om en systemrisk på unionsnivå,
+
+c) begränsa tillhandahållandet på marknaden, dra tillbaka eller återkalla modellen.
+
+2\. Innan en åtgärd begärs får AI-byrån inleda en strukturerad dialog med leverantören av AI-modellen för allmänna ändamål.
+
+3\. Om leverantören av AI-modellen för allmänna ändamål med systemrisk under den strukturerade dialog som avses i punkt 2 erbjuder att åta sig att genomföra riskreducerande åtgärder för att hantera en systemrisk på unionsnivå, får kommissionen genom beslut göra dessa åtaganden bindande och förklara att det inte finns några ytterligare skäl till åtgärder.
+
+### Artikel 94 – Processuella rättigheter för ekonomiska operatörer av AI-modellen med allmänna ändamål
+
+Artikel [18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) ska i tillämpliga delar gälla för leverantörer av AI-modellen för allmänna ändamål, utan att det påverkar de mer specifika processuella rättigheter som föreskrivs i [den här förordningen](/lagstiftning/ai).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

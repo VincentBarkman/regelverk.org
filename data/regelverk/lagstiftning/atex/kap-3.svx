@@ -1,0 +1,102 @@
+---
+'source': 'atex'
+'ref': 'Kapitel 3'
+'title': 'Kapitel 3 – PRODUKTENS ÖVERENSSTÄMMELSE MED KRAVEN'
+'kind': 'chapter'
+'description': 'ATEX-direktivet, Kapitel 3.'
+'designation': 'ATEX-direktivet Kapitel 3'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0023.03#cpt_3'
+'sites':
+  - 'brandskydd'
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 12 – Presumtion om överensstämmelse för produkter
+
+1\. Produkter som överensstämmer med harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de grundläggande hälso- och säkerhetskrav i bilaga II som omfattas av dessa standarder eller delar av dem.
+
+2\. Då harmoniserade standarder saknas, ska medlemsstaterna vidta alla åtgärder de anser nödvändiga för att informera berörda parter om de befintliga nationella standarder och tekniska specifikationer som anses betydelsefulla eller relevanta för att de grundläggande hälso- och säkerhetskraven i bilaga II ska kunna verkställas på avsett sätt.
+
+### Artikel 13 – Förfaranden vid bedömning av överensstämmelse
+
+1\. Följande metoder ska användas för att kontrollera överensstämmelse när det gäller utrustning och, vid behov, sådana anordningar som avses i artikel [1.1 b](/lagstiftning/atex/kap-1#artikel-1-tillämpningsområde):
+
+a) När det gäller utrustningsgrupp I och II, utrustningskategori M 1 och 1: EU-typkontrollen som anges i bilaga III, jämfört med ett av följande:
+
+— Överensstämmelse med typ som grundar sig på kvalitetssäkring av produktionen som anges i bilaga IV.
+
+— Överensstämmelse med typ som grundar sig på produktkontroll som anges i bilaga V.
+
+b) När det gäller utrustningsgrupp I och II, utrustningskategori M 2 och 2:
+
+i) I fråga om inre förbränningsmotorer och elektrisk utrustning i dessa grupper och kategorier: EU-typkontrollen som anges i bilaga III, jämfört med något av följande:
+
+— Överensstämmelse med typ som grundar sig på intern tillverkningskontroll och övervakad produktprovning som anges i bilaga VI.
+
+— Överensstämmelse med typ som grundar sig på kvalitetssäkring av produkter som anges i bilaga VII.
+
+ii) I fråga om annan utrustning i dessa grupper och kategorier: intern tillverkningskontroll som anges i bilaga VIII, och inlämnande av den tekniska dokumentation som föreskrivs i punkt 2 i bilaga VIII till ett anmält organ, som snarast möjligt ska erkänna mottagandet av dokumentationen och arkivera den.
+
+c) När det gäller utrustningsgrupp II, utrustningskategori 3: intern tillverkningskontroll som anges i bilaga VIII.
+
+d) När det gäller utrustningsgrupp I och II: utöver de förfaranden som avses i leden a, b och c får man även använda överensstämmelse som grundar sig på kontroll av enskilda produkter som anges i bilaga IX.
+
+2\. Det förfarande som avses i 1 a eller 1 d ska tillämpas vid kontroll av överensstämmelse i fråga om säkerhetssystem.
+
+3\. De förfaranden som avses i punkt 1 ska tillämpas i fråga om komponenter med undantag av utförande av CE-märkning och upprättande av EU-försäkran om överensstämmelse. Tillverkaren ska utfärda ett skriftligt intyg om överensstämmelse på att komponenterna överensstämmer med de tillämpliga bestämmelserna i [detta direktiv](/lagstiftning/atex), med angivande av deras egenskaper och av hur de ska installeras i utrustning eller säkerhetssystem så att de grundläggande hälso- och säkerhetskraven i bilaga II för slututrustning eller slutsäkerhetssystem kan uppfyllas.
+
+4\. Det förfarande som behandlas i bilaga VIII får också följas i fråga om de säkerhetsaspekter som avses i punkt 1.2.7 i bilaga II, utöver den bedömning av överensstämmelse som avses i punkterna 1 och 2.
+
+5\. Genom undantag från punkterna 1, 2 och 4 får de behöriga myndigheterna, efter en vederbörligen motiverad begäran, tillåta att produkter, med undantag för komponenter, på vilka de förfaranden som avses i punkterna 1, 2 och 4 inte har tillämpats, släpps ut på marknaden och tas i drift inom den berörda medlemsstatens territorium, om användningen av dessa produkter är av betydelse av säkerhetsskäl.
+
+6\. Dokument och korrespondens i samband med de förfaranden vid bedömning av överensstämmelse som avses i punkterna 1–4 ska upprättas på ett språk som bestämts av den berörda medlemsstaten.
+
+### Artikel 14 – EU-försäkran om överensstämmelse
+
+1\. I EU-försäkran om överensstämmelse ska det anges att de grundläggande hälso- och säkerhetskraven i bilaga II har visats vara uppfyllda.
+
+2\. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga X, innehålla de uppgifter som anges i de berörda förfarandena för bedömning av överensstämmelse i bilagorna III–IX och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där produkten släpps ut eller tillhandahålls på marknaden.
+
+3\. Om en produkt omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4\. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att produkten överensstämmer med kraven i [detta direktiv](/lagstiftning/atex).
+
+### Artikel 15 – Allmänna principer för CE-märkning
+
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+### Artikel 16 – Regler och villkor för CE-märkning och annan märkning
+
+1\. CE-märkningen ska anbringas på produkten eller dess märkskylt så att den är synlig, lätt läsbar och varaktig. Om detta inte är möjligt eller lämpligt på grund av produktens art ska märkningen anbringas på förpackningen och i de medföljande dokumenten.
+
+2\. CE-märkningen ska anbringas innan produkten släpps ut på marknaden.
+
+3\. CE-märkningen ska åtföljas av det anmälda organets identifikationsnummer, om organet medverkar i produktionskontrollen.
+
+Det anmälda organets identifikationsnummer ska anbringas av organet självt eller, efter dess anvisningar, av tillverkaren eller dennes representant.
+
+4\. CE-märkningen och, i tillämpliga fall, det anmälda organets identifikationsnummer ska åtföljas av det särskilda explosionsskyddsmärket
+
+, utrustningsgruppens och utrustningskategorins symboler och, i tillämpliga fall, sådan annan märkning och information som avses i punkt 1.0.5 i bilaga II.
+
+5\. CE-märkningen och den märkning, de symboler och den information som avses i punkt 4 samt i tillämpliga fall det anmälda organets identifikationsnummer får åtföljas av ett annat märke som anger en särskild risk eller ett särskilt användningsområde.
+
+Om produkter är utformade för användning i ett särskilt slag av explosiv omgivning ska detta klart framgå av märkningen.
+
+6\. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

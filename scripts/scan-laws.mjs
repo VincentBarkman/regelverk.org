@@ -32,16 +32,21 @@ const DRY = flag('dry');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchDoc(url, tries = 14) {
+async function fetchDoc(url, tries = 14, headers = {}) {
 	for (let i = 0; i < tries; i++) {
 		try {
 			const res = await fetch(url, {
-				headers: { 'user-agent': 'Mozilla/5.0 (regelverk.org law scanner)' }
+				headers: { 'user-agent': 'Mozilla/5.0 (regelverk.org law scanner)', ...headers }
 			});
 			if (res.status === 200) return await res.text();
-			if (![202, 429, 500, 502, 503].includes(res.status)) throw new Error(`HTTP ${res.status}`);
+			if (res.headers.get('x-amzn-waf-action')) return null;
+			if (![202, 429, 500, 502, 503].includes(res.status)) {
+				const err = new Error(`HTTP ${res.status}`);
+				err.fatal = true;
+				throw err;
+			}
 		} catch (e) {
-			if (i === tries - 1) throw e;
+			if (e.fatal || i === tries - 1) throw e;
 		}
 		await sleep(5000 + i * 3000);
 	}
@@ -172,6 +177,96 @@ function parseEurlex(html, locale) {
 			body
 		});
 	}
+	return chapters.filter((c) => c.provisions.length);
+}
+
+function parseCellarLegacy(html, locale) {
+	const paras = [];
+	for (const m of html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
+		const t = htmlToText(m[1]).replace(/\s+/g, ' ').trim();
+		if (t) paras.push(t);
+	}
+	const secRe =
+		locale === 'en'
+			? /^(SECTION|CHAPTER|TITLE|PART)\s+[IVXLCDM\d]+/i
+			: /^(AVSNITT|KAPITEL|DEL|AVDELNING)\s+[IVXLCDM\d]+/i;
+	const artRe = locale === 'en' ? /^Article\s+\d+[a-z]*$/i : /^Artikel\s+\d+[a-z]*$/i;
+	const numRe = /\d+[a-z]*/;
+
+	const chapters = [];
+	let cur = null;
+	let prov = null;
+	const flush = () => {
+		if (prov && cur) cur.provisions.push(prov);
+		prov = null;
+	};
+	for (let i = 0; i < paras.length; i++) {
+		const t = paras[i];
+		if (/^(HÄRIGENOM FÖRESKRIVS|HAS ADOPTED|HAR ANTAGIT)/i.test(t) && !cur) continue;
+		if (secRe.test(t)) {
+			flush();
+			const prefix = t.match(secRe)[0];
+			const rest = t.slice(prefix.length).trim();
+			const num = prefix.match(/([IVXLCDM]+|\d+)$/)?.[1] ?? `${chapters.length + 1}`;
+			const n = /^\d+$/.test(num) ? +num : romanToInt(num.toUpperCase());
+			cur = {
+				slug: `kap-${n}`,
+				anchor: '',
+				num: `${n}`,
+				title: rest,
+				labelSv: t.split(/\s+/).slice(0, 2).join(' '),
+				labelEn: t.split(/\s+/).slice(0, 2).join(' '),
+				provisions: []
+			};
+			chapters.push(cur);
+			continue;
+		}
+		if (artRe.test(t)) {
+			flush();
+			if (!cur) {
+				cur = {
+					slug: 'artiklar',
+					anchor: '',
+					num: '0',
+					title: '',
+					labelSv: 'Artiklar',
+					labelEn: 'Articles',
+					provisions: []
+				};
+				chapters.push(cur);
+			}
+			const num = t.match(numRe)[0];
+			let title = '';
+			const next = paras[i + 1] ?? '';
+			if (
+				next &&
+				next.length < 100 &&
+				!/\.\s*$|^\d+\./.test(next) &&
+				!artRe.test(next) &&
+				!secRe.test(next)
+			) {
+				title = next;
+				i++;
+			}
+			prov = {
+				label: `Artikel ${num}`,
+				labelEn: `Article ${num}`,
+				title,
+				anchor: `art_${num}`,
+				body: ''
+			};
+			continue;
+		}
+		if (/^(BILAGA|ANNEX)\b/i.test(t)) {
+			flush();
+			break;
+		}
+		if (prov) prov.body = prov.body ? prov.body + '\n\n' + t : t;
+		else if (cur) {
+			if (!cur.provisions.length) cur.title = cur.title ? cur.title + ' ' + t : cur.title;
+		}
+	}
+	flush();
 	return chapters.filter((c) => c.provisions.length);
 }
 
@@ -661,6 +756,24 @@ function applyGroups(chapters, groups) {
 	}
 	return [...out, ...bySlug.values()];
 }
+
+function chunkMonolith(ch) {
+	const out = [];
+	for (let i = 0; i < ch.provisions.length; i += 8) {
+		const slice = ch.provisions.slice(i, i + 8);
+		const n = out.length + 1;
+		out.push({
+			slug: `kap-${n}`,
+			anchor: '',
+			num: `${n}`,
+			title: `${slice[0].label} – ${slice.at(-1).label}`,
+			labelSv: `${n} kap.`,
+			labelEn: `Chapter ${n}`,
+			provisions: slice
+		});
+	}
+	return out;
+}
 const rawPath = (slug, locale) => resolve(ROOT, RAW_DIR, `${slug}.${locale}.txt`);
 
 function writeRaw(slug, locale, url, chapters) {
@@ -671,7 +784,11 @@ function writeRaw(slug, locale, url, chapters) {
 			`# ${c.slug} | ${locale === 'en' ? c.labelEn : c.labelSv} | ${c.title} | ${c.anchor ?? ''}`
 		);
 		for (const p of c.provisions)
-			lines.push('', `## ${p.label} | ${p.title ?? ''} | ${p.anchor ?? ''}`, p.body);
+			lines.push(
+				'',
+				`## ${locale === 'en' ? (p.labelEn ?? p.label) : p.label} | ${p.title ?? ''} | ${p.anchor ?? ''}`,
+				p.body
+			);
 	}
 	const file = rawPath(slug, locale);
 	mkdirSync(dirname(file), { recursive: true });
@@ -782,8 +899,7 @@ function upsertSvx(
 			),
 			() => generatedBlock.trimEnd()
 		);
-	} else if (keepBodyIfNoMarkers) {
-	} else {
+	} else if (!keepBodyIfNoMarkers) {
 		body = generatedBlock + '\n' + body.trim() + '\n';
 	}
 	write(path, head + '\n' + body.trim() + '\n');
@@ -797,6 +913,43 @@ const write = (path, content) => {
 };
 const eurlexUrl = (celex, locale) =>
 	`https://eur-lex.europa.eu/legal-content/${locale.toUpperCase()}/TXT/HTML/?uri=CELEX:${celex}`;
+const SPARQL = 'https://publications.europa.eu/webapi/rdf/sparql';
+const EU_LANG = { sv: 'SWE', en: 'ENG' };
+
+async function cellarXhtmlUrl(celex, locale) {
+	const q = `PREFIX cdm: <http://publications.europa.eu/ontology/cdm#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?m WHERE {
+  ?w cdm:work_id_document "celex:${celex}"^^xsd:string .
+  ?e cdm:expression_belongs_to_work ?w .
+  ?e cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/${EU_LANG[locale]}> .
+  ?m cdm:manifestation_manifests_expression ?e .
+  ?m cdm:manifestation_type ?t .
+  FILTER(str(?t) = "xhtml" || str(?t) = "html")
+} LIMIT 1`;
+	const res = await fetch(`${SPARQL}?query=${encodeURIComponent(q)}`, {
+		headers: { accept: 'text/csv', 'user-agent': 'Mozilla/5.0 (regelverk.org law scanner)' }
+	});
+	if (res.status !== 200) throw new Error(`SPARQL HTTP ${res.status}`);
+	const url = (await res.text())
+		.split('\n')
+		.slice(1)
+		.map((l) => l.replace(/^"|"$/g, '').trim())
+		.find((l) => l.includes('/cellar/'));
+	return url ?? null;
+}
+
+async function fetchEuDoc(celex, locale) {
+	const eurlex = eurlexUrl(celex, locale);
+	const html = await fetchDoc(eurlex);
+	if (html != null) return { html, url: eurlex };
+	const cellar = await cellarXhtmlUrl(celex, locale);
+	if (!cellar) throw new Error(`no Cellar xhtml for ${celex} (${locale})`);
+	const res = await fetchDoc(cellar, 14, {
+		accept: 'application/xhtml+xml, text/html;q=0.9'
+	});
+	if (res == null) throw new Error(`Cellar WAF for ${celex} (${locale})`);
+	return { html: res, url: cellar };
+}
 const sfsSlug = (law) =>
 	law['sfs-slug'] ??
 	law.title.sv
@@ -821,15 +974,20 @@ async function scanLaw(law) {
 			: fsSource
 				? fsUrls[fsSource](law.fs)
 				: sfsUrl(law);
-		let chapters = null;
+		let chapters;
 		if (OFFLINE) {
 			chapters = readRaw(law.slug, locale);
 			if (chapters) console.log(`  ${locale}: ${chapters.length} chapters (cached raw)`);
 		} else {
 			try {
-				const html = await fetchDoc(url);
-				if (isEu) chapters = parseEurlex(html, locale);
-				else if (fsSource === 'av') chapters = parseAv(html);
+				let html;
+				if (isEu) ({ html, url } = await fetchEuDoc(law.celex, locale));
+				else html = await fetchDoc(url);
+				if (html == null) throw new Error('WAF challenge');
+				if (isEu) {
+					chapters = parseEurlex(html, locale);
+					if (!chapters.length) chapters = parseCellarLegacy(html, locale);
+				} else if (fsSource === 'av') chapters = parseAv(html);
 				else if (fsSource) {
 					const pdf = await fetchFsText(law, url, html);
 					url = pdf.url;
@@ -847,6 +1005,8 @@ async function scanLaw(law) {
 		if (chapters?.length && Array.isArray(law.groups)) chapters = applyGroups(chapters, law.groups);
 		else if (chapters?.length && !isEu && chapters.every((c) => !c.slug.startsWith('kap-')))
 			chapters = applyGroups(chapters, autoGroups(chapters));
+		if (chapters?.length === 1 && !isEu && chapters[0].provisions.length > 12)
+			chapters = chunkMonolith(chapters[0]);
 		if (!chapters?.length && Array.isArray(law.provisions)) {
 			chapters = law.provisions.map((p) => ({
 				slug: typeof p === 'string' ? p : p.slug,

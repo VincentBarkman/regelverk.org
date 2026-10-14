@@ -1,0 +1,141 @@
+---
+'source': 'afs-2023-14'
+'ref': '1 kap.'
+'title': '1 kap. – Inledande bestämmelser'
+'kind': 'chapter'
+'description': 'Gränsvärden för luftvägsexponering (AFS 2023:14), 1 kap..'
+'designation': 'AFS 2023:14 1 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Arbetsmiljöverket'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202314/'
+'sites':
+  - 'arbetsmiljo'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Inledande bestämmelser
+
+### 1 §
+
+Dessa föreskrifter finns för att förebygga ohälsa hos arbetstagare som exponeras för de ämnen som finns listade i dessa föreskrifter.
+
+Då gäller föreskrifterna
+
+### 2 §
+
+Bestämmelserna i dessa föreskrifter reglerar all verksamhet där luftföroreningar förekommer eller bildas.
+
+### 3 §
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om övergripande bestämmelser för kemiska riskkällor, finns det krav på att arbetsgivaren ska bedöma om halten av luftföroreningar är godtagbar i förhållande till de hygieniska gränsvärden som anges i bilaga 1 i dessa föreskrifter. Det finns också krav på att arbetsgivare ska se till att yrkeshygieniska mätningar genomförs, om man inte på annat sätt kan bedöma om halten av luftföroreningar är godtagbar.
+
+Vem riktar sig föreskrifterna till
+
+### 4 §
+
+Arbetsgivaren ansvarar för att bestämmelserna i dessa föreskrifter följs. Med arbetsgivare likställs den som hyr in arbetskraft.
+
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställda, omfattas av bestämmelserna i dessa föreskrifter.
+
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att bestämmelserna i dessa föreskrifter under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivaren.
+
+Definitioner
+
+### 5 §
+
+I dessa föreskrifter har följande begrepp dessa betydelser.
+
+Begrepp
+
+Betydelse
+
+Luftförorening
+
+Ämne eller blandning av ämnen i luft som kan medföra ohälsa.
+
+Hygieniskt gränsvärde
+
+Gränsvärde för genomsnittshalt av en luftförorening i inandningsluften beräknat som ett tidsvägt medelvärde.
+
+Nivågränsvärde
+
+Hygieniskt gränsvärde under en arbetsdag, upp till 8 timmar.
+
+Korttidsgränsvärde
+
+Hygieniskt gränsvärde under 15 minuter. För ammoniak, monoisocyanater och diisocyanater gäller referenstiden 5 minuter. För akrylsyra gäller referenstiden 1 minut.
+
+Hygienisk effekt
+
+Ska beräknas för ämnen med likartad toxikologisk effekt på samma organ. Exponeringen är godtagbar om den hygieniska effekten är högst 1. Den hygieniska effekten sammanfattas i följande formel:
+
+HE=C1G1+C2G2+…CnGn…där C1, C2, Cn är uppmätta halter för ämnena och G1, G2, Gn är gränsvärdena för dessa ämnen uttryckta i samma enhet.
+
+Tidsvägt medelvärde
+
+Den uppmätta halten av luftföroreningen ska beräknas som ett tidsvägt medelvärde. Vid deltidsprovtagning får man det tidsvägda medelvärdet, Cm, ur följande formel:
+
+Cm=C1t1+C2t2+C3t3+…+Cntnt1+t2+t3+…+tndär C1, C2, C3, Cn är den uppmätta halten för varje deltidsprov och t1, t2, t3, tn är provtagningstiden för varje deltidsprov.
+
+Visa hela tabellen
+
+Kunskaper
+
+### 6 §
+
+Arbetsgivaren ska se till att den som mäter luftföroreningar har kunskaper som minst omfattar hur man
+
+planerar och genomför mätningar,
+
+behandlar mätdata,
+
+tolkar resultat, och
+
+redovisar resultat i en mätrapport enligt bilaga 2.
+
+> _Allmänna råd_
+
+> När mätningar genomförs kan man använda sig av standarden SS-EN 689:2018+AC:2019 Arbetsplatsluft – Bedömning av exponering genom inandning av kemiska ämnen – Mätstrategi för överensstämmelse med gränsvärden för exponering på arbetsplats. Utgåva 1.
+
+#### Utförande av mätningar
+
+### 7 §
+
+Arbetsgivaren ska se till att mätningar utförs enligt [8](#8)–[12 §§](/lagstiftning/afs-2023-14/kap-2#12). Mätningarna ska planeras i samverkan mellan arbetsgivare och berörda arbetstagare samt skyddsombud alternativt arbetsmiljöombud om ett sådant finns.
+
+### 8 §
+
+Den som genomför mätningen ska göra det i inandningsluften på så många arbetstagare att det går att bedöma exponeringen för alla som är exponerade. Mätningarna ska avse förhållandena vid normal drift. Det ska vid behov även utföras mätningar under andra förhållanden.
+
+Den som mäter ska även jämföra den uppmätta exponeringen med de hygieniska gränsvärden som finns i bilaga 1.
+
+### 9 §
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om ytterligare bestämmelser för vissa grupper av kemiska ämnen, finns det krav på obligatoriska mätningar när det kan förekomma exponering via inandning av
+
+bly och oorganiska blyföreningar,
+
+etylenoxid,
+
+kadmium och oorganiska kadmiumföreningar,
+
+styren, vinyltoluen eller andra reaktiva monomerer vid esterplastframställning, eller
+
+särskilt farliga syntetiska oorganiska fibrer.
+
+### 10 §
+
+Om arbetstagarna exponeras för flera ämnen som påverkar samma del av kroppen, med likartad verkningsmekanism, ska den som mäter bedöma ämnenas sammanlagda påverkan. Detta ska man göra genom att beräkna den hygieniska effekten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

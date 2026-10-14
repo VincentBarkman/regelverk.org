@@ -1,0 +1,293 @@
+---
+'source': 'elmarknadsforordningen'
+'ref': 'Chapter IV'
+'title': 'Chapter IV – RESOURCE ADEQUACY'
+'kind': 'chapter'
+'description': 'Electricity Market Regulation, Chapter IV.'
+'designation': 'Electricity Market Regulation Chapter IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_IV'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 20 – Resource adequacy in the internal market for electricity
+
+1\. Member States shall monitor resource adequacy within their territory on the basis of the European resource adequacy assessment referred to in Article [23](#article-23-european-resource-adequacy-assessment). For the purpose of complementing the European resource adequacy assessment, Member States may also carry out national resource adequacy assessments pursuant to Article [24](#article-24-national-resource-adequacy-assessments).
+
+2\. Where the European resource adequacy assessment referred to in Article [23](#article-23-european-resource-adequacy-assessment) or national resource adequacy assessment referred to in Article [24](#article-24-national-resource-adequacy-assessments) identifies a resource adequacy concern, the Member State concerned shall identify any regulatory distortions or market failures that caused or contributed to the emergence of the concern.
+
+3\. Member States with identified resource adequacy concerns shall develop and publish an implementation plan with a timeline for adopting measures to eliminate any identified regulatory distortions or market failures as a part of the State aid process. When addressing resource adequacy concerns, the Member States shall in particular take into account the principles set out in Article [3](/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets) and shall consider:
+
+(a) removing regulatory distortions;
+
+(b) removing price caps in accordance with Article [10](/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits);
+
+(c) introducing a shortage pricing function for balancing energy as referred to in Article [44](/lagstiftning/elmarknadsforordningen/kap-5#article-44-organisational-structure)(3) of [Regulation (EU) 2017/2195](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195);
+
+(d) increasing interconnection and internal grid capacity with a view to reaching at least their interconnection targets as referred in point (d)(1) of Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999);
+
+(e) enabling self-generation, energy storage, demand side measures and energy efficiency by adopting measures to eliminate any identified regulatory distortions;
+
+(f) ensuring cost-efficient and market-based procurement of balancing and ancillary services;
+
+(g) removing regulated prices where required by Article [5](/lagstiftning/elmarknadsdirektivet/kap-2#artikel-5-marknadsbaserade-leveranspriser) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+
+4\. The Member States concerned shall submit their implementation plans to the Commission for review.
+
+5\. Within four months of receipt of the implementation plan, the Commission shall issue an opinion on whether the measures are sufficient to eliminate the regulatory distortions or market failures that were identified pursuant to paragraph 2, and may invite the Member States to amend their implementation plans accordingly.
+
+6\. The Member States concerned shall monitor the application of their implementation plans and shall publish the results of the monitoring in an annual report and shall submit that report to the Commission.
+
+7\. The Commission shall issue an opinion on whether the implementation plans have been sufficiently implemented and whether the resource adequacy concern has been resolved.
+
+8\. Member States shall continue to adhere to the implementation plan after the identified resource adequacy concern has been resolved.
+
+### Article 21 – General principles for capacity mechanisms
+
+1\. To eliminate residual resource adequacy concerns, Member States may, as a last resort while implementing the measures referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(3) of [this Regulation](/lagstiftning/elmarknadsforordningen) in accordance with Article 107, 108 and 109 of the TFEU, introduce capacity mechanisms.
+
+2\. Before introducing capacity mechanisms, the Member States concerned shall conduct a comprehensive study of the possible effects of such mechanisms on the neighbouring Member States by consulting at least its neighbouring Member States to which they have a direct network connection and the stakeholders of those Member States.
+
+3\. Member States shall assess whether a capacity mechanism in the form of strategic reserve is capable of addressing the resource adequacy concerns. Where this is not the case, Member States may implement a different type of capacity mechanism.
+
+4\. Member States shall not introduce capacity mechanisms where both the European resource adequacy assessment and the national resource adequacy assessment, or in the absence of a national resource adequacy assessment, the European resource adequacy assessment have not identified a resource adequacy concern.
+
+5\. Member States shall not introduce capacity mechanisms before the implementation plan as referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(3) has received an opinion by the Commission as referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(5).
+
+6\. Where a Member State applies a capacity mechanism, it shall review that capacity mechanism and shall ensure that no new contracts are concluded under that mechanism where both the European resource adequacy assessment and the national resource adequacy assessment, or in the absence of a national resource adequacy assessment, the European resource adequacy assessment have not identified a resource adequacy concern or the implementation plan as referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(3) has not received an opinion by the Commission as referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(5).
+
+7\. When designing capacity mechanisms Member States shall include a provision allowing for an efficient administrative phase-out of the capacity mechanism where no new contracts are concluded under paragraph 6 during three consecutive years.
+
+8\. Capacity mechanisms shall be temporary. They shall be approved by the Commission for no longer than 10 years. They shall be phased out or the amount of the committed capacities shall be reduced on the basis of the implementation plans referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity). Member States shall continue to apply the implementation plan after the introduction of the capacity mechanism.
+
+### Article 22 – Design principles for capacity mechanisms
+
+1\. Any capacity mechanism shall:
+
+(a) be temporary;
+
+(b) not create undue market distortions and not limit cross-zonal trade;
+
+(c) not go beyond what is necessary to address the adequacy concerns referred to in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity);
+
+(d) select capacity providers by means of a transparent, non-discriminatory and competitive process;
+
+(e) provide incentives for capacity providers to be available in times of expected system stress;
+
+(f) ensure that the remuneration is determined through the competitive process;
+
+(g) set out the technical conditions for the participation of capacity providers in advance of the selection process;
+
+(h) be open to participation of all resources that are capable of providing the required technical performance, including energy storage and demand side management;
+
+(i) apply appropriate penalties to capacity providers that are not available in times of system stress.
+
+2\. The design of strategic reserves shall meet the following requirements:
+
+(a) where a capacity mechanism has been designed as a strategic reserve, the resources thereof are to be dispatched only if the transmission system operators are likely to exhaust their balancing resources to establish an equilibrium between demand and supply;
+
+(b) during imbalance settlement periods where resources in the strategic reserve are dispatched, imbalances in the market are to be settled at least at the value of lost load or at a higher value than the intraday technical price limit as referred in Article [10](/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits)(1), whichever is higher;
+
+(c) the output of the strategic reserve following dispatch is to be attributed to balance responsible parties through the imbalance settlement mechanism;
+
+(d) the resources taking part in the strategic reserve are not to receive remuneration from the wholesale electricity markets or from the balancing markets;
+
+(e) the resources in the strategic reserve are to be held outside the market for at least the duration of the contractual period.
+
+The requirement referred to in point (a) of the first subparagraph shall be without prejudice to the activation of resources before actual dispatch in order to respect the ramping constraints and operating requirements of the resources. The output of the strategic reserve during activation shall not be attributed to balance groups through wholesale markets and shall not change their imbalances.
+
+3\. In addition to the requirements laid down in paragraph 1, capacity mechanisms other than strategic reserves shall:
+
+(a) be constructed so as to ensure that the price paid for availability automatically tends to zero when the level of capacity supplied is expected to be adequate to meet the level of capacity demanded;
+
+(b) remunerate the participating resources only for their availability and ensure that the remuneration does not affect decisions of the capacity provider on whether or not to generate;
+
+(c) ensure that capacity obligations are transferable between eligible capacity providers.
+
+4\. Capacity mechanisms shall incorporate the following requirements regarding CO2 emission limits:
+
+(a) from 4 July 2019 at the latest, generation capacity that started commercial production on or after that date and that emits more than 550 g of CO2 of fossil fuel origin per kWh of electricity shall not be committed or to receive payments or commitments for future payments under a capacity mechanism;
+
+(b) from 1 July 2025 at the latest, generation capacity that started commercial production before 4 July 2019 and that emits more than 550 g of CO2 of fossil fuel origin per kWh of electricity and more than 350 kg CO2 of fossil fuel origin on average per year per installed kWe shall not be committed or receive payments or commitments for future payments under a capacity mechanism.
+
+The emission limit of 550 g CO2 of fossil fuel origin per kWh of electricity and the limit of 350 kg CO2 of fossil fuel origin on average per year per installed kWe referred to in points (a) and (b) of the first subparagraph shall be calculated on the basis of the design efficiency of the generation unit meaning the net efficiency at nominal capacity under the relevant standards provided for by the International Organization for Standardization.
+
+By 5 January 2020, ACER shall publish an opinion providing technical guidance related to the calculation of the values referred in the first subparagraph.
+
+5\. Member States that apply capacity mechanisms on 4 July 2019 shall adapt their mechanisms to comply with Chapter 4 without prejudice to commitments or contracts concluded by 31 December 2019.
+
+### Article 23 – European resource adequacy assessment
+
+1\. The European resource adequacy assessment shall identify resource adequacy concerns by assessing the overall adequacy of the electricity system to supply current and projected demands for electricity at Union level, at the level of the Member States, and at the level of individual bidding zones, where relevant. The European resource adequacy assessment shall cover each year within a period of 10 years from the date of that assessment.
+
+2\. The European resource adequacy assessment shall be conducted by the ENTSO for Electricity.
+
+3\. By 5 January 2020, the ENTSO for Electricity shall submit to the Electricity Coordination Group set up under Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope) of Commission Decision of 15 November 2012 (21) and ACER a draft methodology for the European resource adequacy assessment based on the principles provided for in paragraph 5 of [this Article](#article-23-european-resource-adequacy-assessment).
+
+4\. Transmission system operators shall provide the ENTSO for Electricity with the data it needs to carry out the European resource adequacy assessment.
+
+The ENTSO for Electricity shall carry out the European resource adequacy assessment on an annual basis. Producers and other market participants shall provide transmission system operators with data regarding expected utilisation of the generation resources, taking into account the availability of primary resources and appropriate scenarios of projected demand and supply.
+
+5\. The European resource adequacy assessment shall be based on a transparent methodology which shall ensure that the assessment:
+
+(a) is carried out on each bidding zone level covering at least all Member States;
+
+(b) is based on appropriate central reference scenarios of projected demand and supply including an economic assessment of the likelihood of retirement, mothballing, new-build of generation assets and measures to reach energy efficiency and electricity interconnection targets and appropriate sensitivities on extreme weather events, hydrological conditions, wholesale prices and carbon price developments;
+
+(c) contains separate scenarios reflecting the differing likelihoods of the occurrence of resource adequacy concerns which the different types of capacity mechanisms are designed to address;
+
+(d) appropriately takes account of the contribution of all resources including existing and future possibilities for generation, energy storage, sectoral integration, demand response, and import and export and their contribution to flexible system operation;
+
+(e) anticipates the likely impact of the measures referred in Article [20](#article-20-resource-adequacy-in-the-internal-market-for-electricity)(3);
+
+(f) includes variants without existing or planned capacity mechanisms and, where applicable, variants with such mechanisms;
+
+(g) is based on a market model using the flow-based approach, where applicable;
+
+(h) applies probabilistic calculations;
+
+(i) applies a single modelling tool;
+
+(j) includes at least the following indicators referred to in Article [25](#article-25-reliability-standard):
+
+— ‘expected energy not served’, and
+
+— ‘loss of load expectation’;
+
+(k) identifies the sources of possible resource adequacy concerns, in particular whether it is a network constraint, a resource constraint, or both;
+
+(l) takes into account real network development;
+
+(m) ensures that the national characteristics of generation, demand flexibility and energy storage, the availability of primary resources and the level of interconnection are properly taken into consideration.
+
+6\. By 5 January 2020, the ENTSO for Electricity shall submit to ACER a draft methodology for calculating:
+
+(a) the value of lost load;
+
+(b) the cost of new entry for generation, or demand response; and
+
+(c) the reliability standard referred to in Article [25](#article-25-reliability-standard).
+
+The methodology shall be based on transparent, objective and verifiable criteria.
+
+7\. The proposals under paragraphs 3 and 6 for the draft methodology, the scenarios, sensitivities and assumptions on which they are based, and the results of the European resource adequacy assessment under paragraph 4 shall be subject to the prior consultation of Member States, the Electricity Coordination Group and relevant stakeholders and approval by ACER under the procedure set out in Article [27](#article-27-approval-procedure).
+
+### Article 24 – National resource adequacy assessments
+
+1\. National resource adequacy assessments shall have a regional scope and shall be based on the methodology referred in Article [23](#article-23-european-resource-adequacy-assessment)(3) in particular in points (b) to (m) of Article [23](#article-23-european-resource-adequacy-assessment)(5).
+
+National resource adequacy assessments shall contain the reference central scenarios as referred to in point (b) of Article [23](#article-23-european-resource-adequacy-assessment)(5).
+
+National resource adequacy assessments may take into account additional sensitivities to those referred in point (b) of Article [23](#article-23-european-resource-adequacy-assessment)(5). In such cases, national resource adequacy assessments may:
+
+(a) make assumptions taking into account the particularities of national electricity demand and supply;
+
+(b) use tools and consistent recent data that are complementary to those used by the ENTSO for Electricity for the European resource adequacy assessment.
+
+In addition, the national resource adequacy assessments, in assessing the contribution of capacity providers located in another Member State to the security of supply of the bidding zones that they cover, shall use the methodology as provided for in point (a) of Article [26](#article-26-cross-border-participation-in-capacity-mechanisms)(11).
+
+2\. National resource adequacy assessments and, where applicable, the European resource adequacy assessment and the opinion of ACER pursuant to paragraph 3 shall be made publicly available.
+
+3\. Where the national resource adequacy assessment identifies an adequacy concern with regard to a bidding zone that was not identified in the European resource adequacy assessment, the national resource adequacy assessment shall include the reasons for the divergence between the two resource adequacy assessments, including details of the sensitivities used and the underlying assumptions. Member States shall publish that assessment and submit it to ACER.
+
+Within two months of the date of the receipt of the report, ACER shall provide an opinion on whether the differences between the national resource adequacy assessment and the European resource adequacy assessment are justified.
+
+The body that is responsible for the national resource adequacy assessment shall take due account of ACER's opinion, and where necessary shall amend its assessment. Where it decides not to take ACER's opinion fully into account, the body that is responsible for the national resource adequacy assessment shall publish a report with detailed reasons.
+
+### Article 25 – Reliability standard
+
+1\. When applying capacity mechanisms Member States shall have a reliability standard in place. A reliability standard shall indicate the necessary level of security of supply of the Member State in a transparent manner. In the case of cross-border bidding zones, such reliability standards shall be established jointly by the relevant authorities.
+
+2\. The reliability standard shall be set by the Member State or by a competent authority designated by the Member State, following a proposal by the regulatory authority. The reliability standard shall be based on the methodology set out in Article [23](#article-23-european-resource-adequacy-assessment)(6).
+
+3\. The reliability standard shall be calculated using at least the value of lost load and the cost of new entry over a given timeframe and shall be expressed as ‘expected energy not served’ and ‘loss of load expectation’.
+
+4\. When applying capacity mechanisms, the parameters determining the amount of capacity procured in the capacity mechanism shall be approved by the Member State or by a competent authority designated by the Member State, on the basis of a proposal of the regulatory authority.
+
+### Article 26 – Cross-border participation in capacity mechanisms
+
+1\. Capacity mechanisms other than strategic reserves and where technically feasible, strategic reserves shall be open to direct cross-border participation of capacity providers located in another Member State, subject to the conditions laid down in [this Article](#article-26-cross-border-participation-in-capacity-mechanisms).
+
+2\. Member States shall ensure that foreign capacity capable of providing equivalent technical performance to domestic capacities has the opportunity to participate in the same competitive process as domestic capacity. In the case of capacity mechanisms in operation on 4 July 2019, Member States may allow interconnectors to participate directly in the same competitive process as foreign capacity for a maximum of four years from 4 July 2019 or two years after the date of approval of the methodologies referred to in paragraph 11, whichever is earlier.
+
+Member States may require foreign capacity to be located in a Member State that has a direct network connection with the Member State applying the mechanism.
+
+3\. Member States shall not prevent capacity which is located in their territory from participating in capacity mechanisms of other Member States.
+
+4\. Cross-border participation in capacity mechanisms shall not change, alter or otherwise affect cross-zonal schedules or physical flows between Member States. Those schedules and flows shall be determined solely by the outcome of capacity allocation pursuant to Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management).
+
+5\. Capacity providers shall be able to participate in more than one capacity mechanism.
+
+Where capacity providers participate in more than one capacity mechanism for the same delivery period, they shall participate up to the expected availability of interconnection and the likely concurrence of system stress between the system where the mechanism is applied and the system in which the foreign capacity is located, in accordance with the methodology referred to in point (a) of paragraph 11.
+
+6\. Capacity providers shall be required to make non-availability payments where their capacity is not available.
+
+Where capacity providers participate in more than one capacity mechanism for the same delivery period, they shall be required to make multiple non-availability payments where they are unable to fulfil multiple commitments.
+
+7\. For the purposes of providing a recommendation to transmission system operators, regional coordination centres established pursuant to Article [35](/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) shall calculate on an annual basis the maximum entry capacity available for the participation of foreign capacity. That calculation shall take into account the expected availability of interconnection and the likely concurrence of system stress in the system where the mechanism is applied and the system in which the foreign capacity is located. Such a calculation shall be required for each bidding zone border.
+
+Transmission system operators shall set the maximum entry capacity available for the participation of foreign capacity based on the recommendation of the regional coordination centre on an annual basis.
+
+8\. Member States shall ensure that the entry capacity referred to in paragraph 7 is allocated to eligible capacity providers in a transparent, non-discriminatory and market-based manner.
+
+9\. Where capacity mechanisms allow for cross-border participation in two neighbouring Member States, any revenues arising through the allocation referred to in paragraph 8 shall accrue to the transmission system operators concerned and shall be shared between them in accordance with the methodology referred in point (b) of paragraph 11 of [this Article](#article-26-cross-border-participation-in-capacity-mechanisms) or in accordance with a common methodology approved by both relevant regulatory authorities. If the neighbouring Member State does not apply a capacity mechanism or applies a capacity mechanism which is not open to cross-border participation, the share of revenues shall be approved by the competent national authority of the Member State in which the capacity mechanism is implemented after having sought the opinion of the regulatory authorities of the neighbouring Member States. Transmission system operators shall use such revenues for the purposes set out in Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(2).
+
+10\. The transmission system operator where the foreign capacity is located shall:
+
+(a) establish whether interested capacity providers can provide the technical performance as required by the capacity mechanism in which the capacity provider intends to participate, and register that capacity provider as an eligible capacity provider in a registry set up for that purpose;
+
+(b) carry out availability checks;
+
+(c) notify the transmission system operator in the Member State applying the capacity mechanism of the information it acquires under points (a) and (b) of this subparagraph and the second subparagraph.
+
+The relevant capacity provider shall notify the transmission system operator of its participation in a foreign capacity mechanism without delay.
+
+11\. By 5 July 2020 the ENTSO for Electricity shall submit to ACER:
+
+(a) a methodology for calculating the maximum entry capacity for cross-border participation as referred to in paragraph 7;
+
+(b) a methodology for sharing the revenues referred to in paragraph 9;
+
+(c) common rules for the carrying out of availability checks referred to in point (b) of paragraph 10;
+
+(d) common rules for determining when a non-availability payment is due;
+
+(e) terms of the operation of the registry as referred to in point (a) of paragraph 10;
+
+(f) common rules for identifying capacity eligible to participate in the capacity mechanism as referred to in point (a) of paragraph 10.
+
+The proposal shall be subject to prior consultation and approval by ACER in accordance with Article [27](#article-27-approval-procedure).
+
+12\. The regulatory authorities concerned shall verify whether the capacities have been calculated in accordance with the methodology referred to in point (a) of paragraph 11.
+
+13\. Regulatory authorities shall ensure that cross-border participation in capacity mechanisms is organised in an effective and non-discriminatory manner. They shall in particular provide for adequate administrative arrangements for the enforcement of non-availability payments across borders.
+
+14\. The capacities allocated in accordance with paragraph 8 shall be transferable between eligible capacity providers. Eligible capacity providers shall notify the registry as referred to in point (a) of paragraph 10 of any such transfer.
+
+15\. By 5 July 2021 the ENTSO for Electricity shall set up and operate the registry referred to in point (a) of paragraph 10. The registry shall be open to all eligible capacity providers, the systems implementing capacity mechanisms and their transmission system operators.
+
+### Article 27 – Approval procedure
+
+1\. Where reference is made to [this Article](#article-27-approval-procedure), the procedure set out in paragraphs 2, 3 and 4 shall apply to the approval of proposals submitted by the ENTSO for Electricity.
+
+2\. Before submitting a proposal, the ENTSO for Electricity shall carry out a consultation involving all relevant stakeholders, including regulatory authorities and other national authorities. It shall duly take the results of that consultation into consideration in its proposal.
+
+3\. Within three months of the date of receipt of the proposal referred to in paragraph 1, ACER shall either approve or amend it. In the latter case, ACER shall consult the ENTSO for Electricity before approving the amended proposal. ACER shall publish the approved proposal on its website within three months of the date of receipt of the proposed documents.
+
+4\. ACER may request changes to the approved proposal at any time. Within six months of the date of receipt of such a request, the ENTSO for Electricity shall submit a draft of the proposed changes to ACER. Within three months of the date of receipt of the draft, ACER shall amend or approve the changes and publish those changes on its website.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

@@ -1,0 +1,140 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – SKYLDIGHETER FÖR DATAHÅLLARE SOM ÄR SKYLDIGA ATT GÖRA
+  DATA TILLGÄNGLIGA ENLIGT UNIONSRÄTTEN'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel III.'
+'designation': 'Dataförordningen Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_III'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 8 – Villkor enligt vilka datahållare gör data tillgängliga för datamottagare
+
+1\. Om en datahållare inom ramen för förbindelser mellan företag är skyldig att göra data tillgängliga för en datamottagare enligt artikel [5](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) eller enligt annan tillämplig unionsrätt eller nationell lagstiftning som antagits i enlighet med unionsrätten, ska datahållaren komma överens med en datamottagare om villkoren för att göra data tillgängliga och ska göra detta på rättvisa, rimliga och icke-diskriminerande villkor och på ett öppet sätt i enlighet med [detta kapitel](/lagstiftning/data-act/kap-3) och [kapitel IV](/lagstiftning/data-act/kap-4).
+
+2\. Ett avtalsvillkor om åtkomst till och användning av data eller om ansvar och rättsmedel vid överträdelse eller uppsägning av datarelaterade skyldigheter ska inte vara bindande om det utgör ett oskäligt avtalsvillkor i den mening som avses i artikel [13](/lagstiftning/data-act/kap-4#artikel-13-oskäliga-avtalsvillkor-som-ensidigt-åläggs-ett-annat-företag) eller om det, till användarens nackdel, utesluter tillämpningen av, avviker från eller ändrar verkan av användarens rättigheter enligt [kapitel II](/lagstiftning/data-act/kap-2).
+
+3\. En datahållare får inte, avseende åtgärder som vidtagits för att göra data tillgängliga, diskriminera mellan jämförbara kategorier av datamottagare, inbegripet datahållarens partnerföretag eller anknutna företag, när data görs tillgängliga. Om en datamottagare anser att de förhållanden under vilka data har gjorts tillgängliga för denne är diskriminerande, ska datahållaren utan oskäligt dröjsmål ge datamottagaren information, på dennes motiverade begäran, som visar att det inte har förekommit någon diskriminering.
+
+4\. En datahållare får inte, inbegripet på exklusiv grund, göra data tillgängliga för en datamottagare, såvida inte användaren begär detta enligt [kapitel II](/lagstiftning/data-act/kap-2).
+
+5\. Datahållare och datamottagare ska inte vara skyldiga att tillhandahålla någon information utöver vad som är nödvändigt för att kontrollera efterlevnaden av de avtalsvillkor som överenskommits för tillgängliggörande av data eller vad som är nödvändigt för uppfyllandet av deras skyldigheter enligt [denna förordning](/lagstiftning/data-act) eller annan tillämplig unionsrätt eller nationell lagstiftning som antagits i enlighet med unionsrätten.
+
+6\. Om inte annat föreskrivs i unionsrätten, inbegripet artiklarna [4.6](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster) och [5.9](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) i [denna förordning](/lagstiftning/data-act), eller i nationell lagstiftning som antagits i enlighet med unionsrätten, ska en skyldighet att göra data tillgängliga för en datamottagare inte medföra någon skyldighet att röja företagshemligheter.
+
+### Artikel 9 – Ersättning för tillgängliggörande av data
+
+1\. Ersättning som en datahållare och en datamottagare kommer överens om för att göra data tillgängliga i förbindelser mellan företag ska vara icke-diskriminerande och rimlig och får inbegripa en marginal.
+
+2\. När datahållaren och datamottagaren kommer överens om ersättning ska de särskilt beakta följande:
+
+a) Kostnader för att göra data tillgängliga, inbegripet särskilt de kostnader som är nödvändiga för formatering av data, spridning med elektroniska medel och lagring.
+
+b) Investeringar i insamling och framställning av data, i förekommande fall med beaktande av huruvida andra parter har bidragit till att inhämta, generera eller samla in datan i fråga.
+
+3\. Den ersättning som avses i punkt 1 kan också bero på datans volym, format och karaktär.
+
+4\. Om datamottagaren är ett mikroföretag eller ett litet eller medelstort företag eller en icke-vinstdrivande forskningsorganisation och om en sådan datamottagare inte har partnerföretag eller anknutna företag som inte betraktas som mikroföretag eller små eller medelstora företag, får den överenskomna ersättningen inte överstiga de kostnader som anges i punkt 2 a.
+
+5\. Kommissionen ska anta riktlinjer för beräkningen av rimlig ersättning, med beaktande av råd från Europeiska datainnovationsstyrelsen som avses i artikel [42](/lagstiftning/data-act/kap-9#artikel-42-europeiska-datainnovationsstyrelsens-roll).
+
+6\. [Denna artikel](#artikel-9-ersättning-för-tillgängliggörande-av-data) ska inte hindra annan unionsrätt eller nationell lagstiftning som antagits i enlighet med unionsrätten från att utesluta ersättning för tillgängliggörande av data eller föreskriva lägre ersättning.
+
+7\. Datahållaren ska ge datamottagaren tillräckligt detaljerad information om grunden för beräkningen av ersättningen så att datamottagaren kan bedöma huruvida kraven i punkterna 1–4 är uppfyllda.
+
+### Artikel 10 – Tvistlösning
+
+1\. Användare, datahållare och datamottagare ska ha tillgång till ett tvistlösningsorgan, som certifierats i enlighet med punkt 5 i [denna artikel](#artikel-10-tvistlösning), för att lösa tvister enligt artiklarna [4.3](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster), [4.9](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster) och [5.12](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) samt tvister avseende rättvisa, rimliga och icke-diskriminerande villkor för tillgängliggörande av data på ett öppet sätt i enlighet med [detta kapitel](/lagstiftning/data-act/kap-3) och [kapitel IV](/lagstiftning/data-act/kap-4).
+
+2\. Tvistlösningsorganen ska informera de berörda parterna om avgifter eller mekanismer som används för att fastställa avgifter innan dessa parter begär ett beslut.
+
+3\. När det gäller tvister som hänskjutits till ett tvistlösningsorgan enligt artiklarna [4.3](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster), [4.9](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster) och [5.12](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter), om tvistlösningsorganet avgör en tvist till förmån för användaren eller datamottagaren, ska datahållaren bära alla de avgifter som tas ut av tvistlösningsorganet och ersätta den användaren eller den datamottagaren för alla andra rimliga kostnader som denne har ådragit sig i samband med tvistlösningen. Om tvistlösningsorganet avgör en tvist till förmån för datahållaren ska användaren eller datamottagaren inte vara skyldig att ersätta några avgifter eller andra utgifter som datahållaren har betalat eller ska betala i samband med tvistlösningen, såvida inte tvistlösningsorganet finner att användaren eller datamottagaren uppenbart har handlat i ond tro.
+
+4\. Kunder och leverantörer av databehandlingstjänster ska ha tillgång till ett tvistlösningsorgan, som certifierats i enlighet med punkt 5 i [denna artikel](#artikel-10-tvistlösning), för att lösa tvister som rör överträdelser av kundernas rättigheter och de skyldigheter som leverantörer av databehandlingstjänster har, i enlighet med artiklarna [23](/lagstiftning/data-act/kap-6#artikel-23-undanröjande-av-hinder-för-ett-effektivt-byte)–[31](/lagstiftning/data-act/kap-6#artikel-31-särskild-ordning-för-vissa-databehandlingstjänster).
+
+5\. Den medlemsstat där tvistlösningsorganet är etablerat ska på begäran av det organet certifiera detta organ, om organet har visat att det uppfyller samtliga följande villkor:
+
+a) Det är opartiskt och oberoende, och ska fatta sina beslut i enlighet med tydliga, icke-diskriminerande och rättvisa förfaranderegler.
+
+b) Det har den sakkunskap som krävs, i synnerhet när det gäller rättvisa, rimliga och icke-diskriminerande villkor, inbegripet ersättning, och om att göra data tillgängliga på ett öppet sätt, vilket innebär att organet på ett effektivt sätt kan fastställa dessa villkor.
+
+c) Det kan enkelt nås genom elektronisk kommunikationsteknik.
+
+d) Det kan anta beslut på ett snabbt, effektivt och kostnadseffektivt sätt på minst ett av unionens officiella språk.
+
+6\. Medlemsstaterna ska underrätta kommissionen om de tvistlösningsorgan som certifierats i enlighet med punkt 5. Kommissionen ska offentliggöra en förteckning över dessa organ på en särskild webbplats och hålla den uppdaterad.
+
+7\. Ett tvistlösningsorgan ska vägra att behandla en begäran om lösning av en tvist som redan har hänskjutits till ett annat tvistlösningsorgan eller till en domstol i en medlemsstat.
+
+8\. Ett tvistlösningsorgan ska ge parterna möjlighet att inom rimlig tid framföra sina synpunkter i frågor som dessa parter har begärt ska prövas vid det organet. I detta sammanhang ska varje part i en tvist förses med inlagorna från den andra parten i tvisten och eventuella utlåtanden från experter. Parterna ska ges möjlighet att lämna synpunkter på sådana inlagor och utlåtanden.
+
+9\. Ett tvistlösningsorgan ska fatta sitt beslut i en fråga som hänskjutits till det inom 90 dagar efter mottagandet av en begäran enligt punkterna 1 och 4. Detta beslut ska vara skriftligt eller på ett varaktigt medium och ska åtföljas av en motivering.
+
+10\. Tvistlösningsorganen ska utarbeta och offentliggöra årliga verksamhetsrapporter. Sådana årliga rapporter ska innehålla i synnerhet följande information:
+
+a) En sammanställning av utgången av tvister.
+
+b) Den genomsnittliga tid det har tagit att lösa tvister.
+
+c) De vanligaste skälen till tvister.
+
+11\. För att underlätta utbytet av information och bästa praxis får ett tvistlösningsorgan besluta att inkludera rekommendationer i den rapport som avses i punkt 10 om hur problem kan undvikas eller lösas.
+
+12\. Ett tvistlösningsorgans beslut ska endast vara bindande för parterna om parterna uttryckligen och innan tvistlösningsförfarandet inleds har samtyckt till att beslutet är bindande.
+
+13\. [Denna artikel](#artikel-10-tvistlösning) påverkar inte parters rätt att söka ett effektivt rättsmedel inför en domstol i en medlemsstat.
+
+### Artikel 11 – Tekniska skyddsåtgärder om obehörig användning eller obehörigt utlämnande av data
+
+1\. En datahållare får vidta lämpliga tekniska skyddsåtgärder, inbegripet smarta kontrakt och kryptering, för att förhindra obehörig åtkomst till data, inbegripet metadata, och för att säkerställa överensstämmelse med artiklarna [4](/lagstiftning/data-act/kap-2#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster), [5](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter), [6](/lagstiftning/data-act/kap-2#artikel-6-skyldigheter-för-tredje-parter-som-tar-emot-data-på-användarens-begäran), [8](#artikel-8-villkor-enligt-vilka-datahållare-gör-data-tillgängliga-för-datamottagare) och [9](#artikel-9-ersättning-för-tillgängliggörande-av-data) samt med de överenskomna avtalsvillkoren för tillgängliggörande av data. Sådana tekniska skyddsåtgärder får varken diskriminera mellan datamottagare eller hindra en användares rätt att erhålla en kopia av eller hämta, använda eller få åtkomst till data eller tillhandahålla tredje parter data enligt artikel [5](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) eller någon rätt för tredje part enligt unionsrätten eller nationell lagstiftning som antagits i enlighet med unionsrätten. Användare, tredje parter och datamottagare får inte ändra eller avlägsna sådana tekniska skyddsåtgärder såvida inte datahållaren samtycker till detta.
+
+2\. Under de omständigheter som avses i punkt 3 ska den tredje parten eller datamottagaren utan oskäligt dröjsmål tillmötesgå begärandena från datahållaren och, i tillämpliga fall och om det inte är samma person, innehavaren av en företagshemlighet eller användaren, om
+
+a) att radera de data som tillhandahållits av datahållaren och eventuella kopior av dessa,
+
+b) att avsluta produktion, erbjudande eller utsläppande på marknaden eller användning av varor, härledda data eller tjänster som framställts på grundval av kunskap som erhållits genom sådana data, eller import, export eller lagring av varor som innebär intrång för dessa ändamål, och förstöra alla varor som innebär intrång, om det finns en allvarlig risk för att den olagliga användningen av dessa data kommer att orsaka datahållaren, innehavaren av en företagshemlighet eller användaren betydande skada eller om en sådan åtgärd inte skulle vara oproportionell med hänsyn till intressena för datahållaren, innehavaren av en företagshemlighet eller användaren,
+
+c) att informera användaren om den obehöriga användningen eller det obehöriga röjandet av data och om de åtgärder som vidtagits för att bringa den obehöriga användningen eller det obehöriga röjandet av dessa data att upphöra,
+
+d) att ersätta den part som lider skada till följd av missbruk eller röjande av sådana data som olagligen åtkommits eller använts.
+
+3\. Punkt 2 ska vara tillämplig om en tredje part eller en datamottagare
+
+a) i syfte att erhålla data har lämnat falsk information till en datahållare, använt bedrägliga eller tvingande medel eller missbrukat luckor i datahållarens tekniska infrastruktur som är utformad för att skydda dessa data,
+
+b) har använt de data som gjorts tillgängliga för obehöriga ändamål, inbegripet utveckling av en konkurrerande uppkopplad produkt i den mening som avses i artikel [6.2 e](/lagstiftning/data-act/kap-2#artikel-6-skyldigheter-för-tredje-parter-som-tar-emot-data-på-användarens-begäran),
+
+c) olagligen har lämnat ut data till en annan part,
+
+d) inte har upprätthållit de tekniska och organisatoriska åtgärder som överenskommits enligt artikel [5.9](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter), eller
+
+e) har ändrat eller avlägsnat tekniska skyddsåtgärder som tillämpas av datahållaren enligt punkt 1 i [denna artikel](#artikel-11-tekniska-skyddsåtgärder-om-obehörig-användning-eller-obehörigt-utlämnande-av-data) utan datahållarens samtycke.
+
+4\. Punkt 2 ska också vara tillämplig om en användare ändrar eller avlägsnar tekniska skyddsåtgärder som datahållaren tillämpar eller inte upprätthåller de tekniska och organisatoriska åtgärder som vidtagits av användaren i samförstånd med datahållaren eller, om det inte är samma person, innehavaren av företagshemligheter, för att bevara företagshemligheter, samt med avseende på varje annan part som tar emot data från användaren i strid med [denna förordning](/lagstiftning/data-act).
+
+5\. Om datamottagaren handlar i strid med artikel [6.2 a](/lagstiftning/data-act/kap-2#artikel-6-skyldigheter-för-tredje-parter-som-tar-emot-data-på-användarens-begäran) eller b ska användarna ha samma rättigheter som datahållarna enligt punkt 2 i [den här artikeln](#artikel-11-tekniska-skyddsåtgärder-om-obehörig-användning-eller-obehörigt-utlämnande-av-data).
+
+### Artikel 12 – Omfattningen av skyldigheterna för datahållare som enligt unionsrätten är skyldiga att göra data tillgängliga
+
+1\. [Detta kapitel](/lagstiftning/data-act/kap-3) ska tillämpas om en datahållare i förbindelser mellan företag är skyldig att göra data tillgängliga för en datamottagare enligt artikel [5](/lagstiftning/data-act/kap-2#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) eller enligt tillämplig unionsrätt eller nationell lagstiftning som antagits i enlighet med unionsrätten.
+
+2\. Ett avtalsvillkor i ett datadelningsavtal som, till nackdel för en part eller, där detta är tillämpligt, till nackdel för användaren, utesluter tillämpningen av [detta kapitel](/lagstiftning/data-act/kap-3), avviker från det eller ändrar dess verkan, ska inte vara bindande för den parten.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

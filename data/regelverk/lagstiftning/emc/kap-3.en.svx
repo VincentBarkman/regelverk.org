@@ -1,0 +1,87 @@
+---
+'source': 'emc'
+'ref': 'Chapter 3'
+'title': 'Chapter 3 – CONFORMITY OF EQUIPMENT'
+'kind': 'chapter'
+'description': 'EMC Directive, Chapter 3.'
+'designation': 'EMC Directive Chapter 3'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03#cpt_3'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 13 – Presumption of conformity of equipment
+
+Equipment which is in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential requirements set out in Annex I covered by those standards or parts thereof.
+
+### Article 14 – Conformity assessment procedures for apparatus
+
+Compliance of apparatus with the essential requirements set out in Annex I shall be demonstrated by means of either of the following conformity assessment procedures:
+
+(a) internal production control set out in Annex II;
+
+(b) EU type examination that is followed by Conformity to type based on internal production control set out in Annex III.
+
+The manufacturer may choose to restrict the application of the procedure referred to in point (b) of the first paragraph to some aspects of the essential requirements, provided that for the other aspects of the essential requirements the procedure referred to in point (a) of the first paragraph is applied.
+
+### Article 15 – EU declaration of conformity
+
+1\. The EU declaration of conformity shall state that the fulfilment of the essential requirements set out in Annex I has been demonstrated.
+
+2\. The EU declaration of conformity shall have the model structure set out in Annex IV, shall contain the elements specified in the relevant modules set out in Annexes II and III and shall be continuously updated. It shall be translated into the language or languages required by the Member State in which the apparatus is placed or made available on the market.
+
+3\. Where apparatus is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned including their publication references.
+
+4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the apparatus with the requirements laid down in [this Directive](/lagstiftning/emc).
+
+### Article 16 – General principles of the CE marking
+
+The CE marking shall be subject to the general principles set out in Article [30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765).
+
+### Article 17 – Rules and conditions for affixing the CE marking
+
+1\. The CE marking shall be affixed visibly, legibly and indelibly to the apparatus or to its data plate. Where that is not possible or not warranted on account of the nature of the apparatus, it shall be affixed to the packaging and to the accompanying documents.
+
+2\. The CE marking shall be affixed before the apparatus is placed on the market.
+
+3\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking.
+
+### Article 18 – Information concerning the use of apparatus
+
+1\. Apparatus shall be accompanied by information on any specific precautions that must be taken when the apparatus is assembled, installed, maintained or used, in order to ensure that, when put into service, the apparatus is in conformity with the essential requirements set out in point 1 of Annex I.
+
+2\. Apparatus for which compliance with the essential requirements set out in point 1 of Annex I is not ensured in residential areas shall be accompanied by a clear indication of such restriction of use, where appropriate also on the packaging.
+
+3\. The information required to enable apparatus to be used in accordance with the intended purpose of the apparatus shall be included in the instructions accompanying the apparatus.
+
+### Article 19 – Fixed installations
+
+1\. Apparatus which has been made available on the market and which may be incorporated into a fixed installation shall be subject to all relevant provisions for apparatus set out in [this Directive](/lagstiftning/emc).
+
+However, the requirements of Articles [6](/lagstiftning/emc/kap-1#article-6-essential-requirements) to 12 and Articles [14](/lagstiftning/lso) to 18 shall not be compulsory in the case of apparatus which is intended for incorporation into a particular fixed installation and is otherwise not made available on the market.
+
+In such cases, the accompanying documentation shall identify the fixed installation and its electromagnetic compatibility characteristics and shall indicate the precautions to be taken for the incorporation of the apparatus into the fixed installation in order not to compromise the conformity of that installation. It shall also include the information referred to in Article [7](/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers)(5) and (6) and Article [9](/lagstiftning/emc/kap-2#article-9-obligations-of-importers)(3).
+
+The good engineering practices referred to in point 2 of Annex I shall be documented and the documentation shall be held by the person or persons responsible at the disposal of the relevant national authorities for inspection for as long as the fixed installation is in operation.
+
+2\. Where there are indications of non-compliance of the fixed installation, in particular, where there are complaints about disturbances being generated by the installation, the competent authorities of the Member State concerned may request evidence of compliance of the fixed installation, and, when appropriate, initiate an evaluation.
+
+Where non-compliance is established, the competent authorities shall impose appropriate measures to bring the fixed installation into compliance with the essential requirements set out in Annex I.
+
+3\. Member States shall set out the necessary provisions for identifying the person or persons responsible for the establishment of compliance of a fixed installation with the relevant essential requirements.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

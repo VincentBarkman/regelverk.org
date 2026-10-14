@@ -1,0 +1,43 @@
+name: Content issue
+description: A law, regulation or standard is missing, outdated or wrong
+title: '[Content]: '
+labels: [content]
+body:
+  - type: markdown
+    attributes:
+      value: Report wrong, missing or outdated legal/standards content.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type of issue
+      options:
+        - Missing law / regulation / standard
+        - Outdated content (new edition or amendment exists)
+        - Wrong or mislinked text
+        - Broken cross-reference
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: designation
+    attributes:
+      label: Designation
+      description: e.g. SFS 2020:913, AFS 2023:1, Regulation (EU) 2022/2554, ISO 27001
+      placeholder: AFS 2023:1
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: The affected page on regelverk.org, if there is one
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: Link to the official text (riksdagen.se, EUR-Lex, agency site, publisher catalogue)
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is missing, wrong or outdated?
+    validations:
+      required: true

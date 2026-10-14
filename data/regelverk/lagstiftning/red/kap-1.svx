@@ -1,0 +1,172 @@
+---
+'source': 'red'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'Radiodirektivet, Kapitel I.'
+'designation': 'Radiodirektivet Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0023.02#cpt_I'
+'sites':
+  - 'el'
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Syfte och tillämpningsområde
+
+1\. Genom [detta direktiv](/lagstiftning/red) upprättas en rättslig ram för tillhandahållandet på marknaden och ibruktagandet av radioutrustning i unionen.
+
+2\. [Detta direktiv](/lagstiftning/red) ska inte tillämpas på den utrustning som förtecknas i bilaga I.
+
+3\. [Detta direktiv](/lagstiftning/red) ska inte tillämpas på radioutrustning som uteslutande används för verksamhet som rör allmän säkerhet, försvar, nationell säkerhet, inbegripet statens ekonomiska välstånd om verksamheterna gäller frågor som rör nationell säkerhet, eller statens verksamhet på det straffrättsliga området.
+
+4\. Radioutrustning som omfattas av [detta direktiv](/lagstiftning/red) ska inte samtidigt omfattas av [direktiv 2014/35/EU](/lagstiftning/lvd), med undantag för vad som anges i artikel [3.1 a](#artikel-3-väsentliga-krav) i [det här direktivet](/lagstiftning/red).
+
+### Artikel 2 – Definitioner
+
+1\. I [detta direktiv](/lagstiftning/red) avses med:
+
+1\. radioutrustning: en elektrisk eller elektronisk produkt som avsiktligt avger och/eller mottar radiovågor för radiokommunikation och/eller radiobestämning eller en elektrisk eller elektronisk produkt som måste kompletteras med ett tillbehör, t.ex. antenn, för att avsiktligt avge och/eller motta radiovågor för radiokommunikation och/eller radiobestämning.
+
+2\. radiokommunikation: kommunikation med hjälp av radiovågor.
+
+3\. radiobestämning: fastställande av ett föremåls position, hastighet och/eller andra kännetecken eller erhållande av information om dessa parametrar med hjälp av radiovågornas utbredningsegenskaper.
+
+4\. radiovågor: elektromagnetiska vågor med frekvenser under 3 000 GHz utsända i rymden utan konstgjord styrning.
+
+5\. radiogränssnitt: specificering av den reglerade användningen av radiospektrum.
+
+6\. radioutrustningsklass: en klass där särskilda kategorier av radioutrustning som enligt [detta direktiv](/lagstiftning/red) anses likvärdiga och de radiogränssnitt till vilka anslutning av radioutrustningen är avsedd definieras.
+
+7\. skadlig störning: skadlig störning enligt definitionen i artikel [2 r](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0021) i Europaparlamentets och rådets [direktiv 2002/21/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0021) (15).
+
+8\. elektromagnetisk störning: elektromagnetisk störning enligt definitionen i artikel [3.1.5](/lagstiftning/emc/kap-1#artikel-3-definitioner) i [direktiv 2014/30/EU](/lagstiftning/emc).
+
+9\. tillhandahållande på marknaden: varje leverans av radioutrustning för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt.
+
+10\. utsläppande på marknaden: tillhandahållande för första gången av radioutrustning på unionsmarknaden.
+
+11\. ibruktagande: användning för första gången av radioutrustning inom unionen av slutanvändaren.
+
+12\. tillverkare: fysisk eller juridisk person som tillverkar eller som låter konstruera eller tillverka radioutrustning och saluför denna utrustning, i eget namn eller under eget varumärke.
+
+13\. tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt skriftlig fullmakt från en tillverkare har rätt att i dennes ställe utföra särskilda uppgifter.
+
+14\. importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut radioutrustning från ett tredjeland på unionsmarknaden.
+
+15\. distributör: fysisk eller juridisk person i leveranskedjan, utöver tillverkaren eller importören, som tillhandahåller radioutrustning på marknaden.
+
+16\. ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören.
+
+17\. teknisk specifikation: dokument där det fastställs vilka tekniska krav som radioutrustningen ska uppfylla.
+
+18\. harmoniserad standard: harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+19\. ackreditering: ackreditering enligt definitionen i artikel [2.10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+20\. nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+21\. bedömning av överensstämmelse: den process där det visas huruvida de väsentliga kraven i [detta direktiv](/lagstiftning/red) för radioutrustning har uppfyllts.
+
+22\. organ för bedömning av överensstämmelse: ett organ som utför bedömning av överensstämmelse.
+
+23\. återkallelse: åtgärd för att dra tillbaka radioutrustning som redan tillhandahållits slutanvändaren.
+
+24\. tillbakadragande: åtgärd för att förhindra att radioutrustning i leveranskedjan tillhandahålls på marknaden.
+
+25\. harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter.
+
+26\. CE-märkning: märkning genom vilken tillverkaren visar att radioutrustningen överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning.
+
+2\. Kommissionen får anta genomförandeakter för att avgöra om vissa kategorier av elektriska eller elektroniska produkter motsvarar definitionen i punkt 1.1 i [denna artikel](#artikel-2-definitioner). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [45.3](/lagstiftning/red/kap-6#artikel-45-kommittéförfarande).
+
+### Artikel 3 – Väsentliga krav
+
+1\. Radioutrustningen ska vara konstruerad så att följande säkerställs:
+
+a) Skydd av hälsa och säkerhet för personer och husdjur och skydd av egendom, inklusive de mål avseende säkerhetskrav som anges i [direktiv 2014/35/EU](/lagstiftning/lvd), dock utan att spänningsgränserna tillämpas.
+
+b) En adekvat nivå av elektromagnetisk kompatibilitet enligt [direktiv 2014/30/EU](/lagstiftning/emc).
+
+2\. Radioutrustningen ska vara konstruerad så att den ändamålsenligt använder och stöder en effektiv användning av radiospektrum och därigenom undviker skadlig störning.
+
+3\. Radioutrustning inom vissa kategorier eller klasser ska vara konstruerad så att den uppfyller följande väsentliga krav:
+
+a) Radioutrustningen samverkar med tillbehör, i synnerhet gemensamma laddare.
+
+b) Radioutrustningen samverkar via nät med annan radioutrustning.
+
+c) Radioutrustningen kan anslutas till gränssnitt av lämplig typ i hela unionen.
+
+d) Radioutrustningen skadar inte nätet eller dess funktion eller innebär att nätresurserna används på ett felaktigt sätt med därigenom orsakad oacceptabel försämring av tjänsten.
+
+e) Radioutrustningen innehåller skyddsmekanismer för att säkerställa att användarens och abonnentens personuppgifter och personliga integritet skyddas.
+
+f) Radioutrustningen stöder vissa funktioner som säkerställer skydd mot bedrägeri.
+
+g) Radioutrustningen stöder vissa funktioner som säkerställer tillgång till larmtjänster.
+
+h) Radioutrustningen stöder vissa funktioner för att underlätta användning för användare med funktionshinder.
+
+i) Radioutrustningen stöder vissa funktioner för att säkerställa att programvara enbart kan laddas i radioutrustningen om det har visats att kombinationen av radioutrustning och programvara överensstämmer.
+
+Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel [44](/lagstiftning/red/kap-6#artikel-44-utövande-av-delegeringen) som anger vilka kategorier eller klasser av radioutrustning som berörs av vart och ett av kraven första stycket a–i i den här punkten.
+
+### Artikel 4 – Tillhandahållande av information om kombinationer av radioutrustning och programvara
+
+1\. Tillverkare av radioutrustning och av programvara som möjliggör att radioutrustning kan användas på avsett sätt ska ge medlemsstaterna och kommissionen information om hur avsedda kombinationer av radioutrustning och programvara överensstämmer med de väsentliga krav som anges i artikel [3](#artikel-3-väsentliga-krav). Sådan information ska vara en följd av den bedömning av överensstämmelse som har gjorts i enlighet med artikel [17](/lagstiftning/red/kap-3#artikel-17-förfaranden-för-bedömning-av-överensstämmelse-för-radioutrustning) och ska ges i form av ett intyg om överensstämmelse som omfattar de element som anges i bilaga VI. Beroende på de specifika kombinationerna av utrustning och programvara ska det av informationen klart och tydligt framgå vilken radioutrustning och programvara som har bedömts, och informationen ska regelbundet uppdateras.
+
+2\. Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel [44](/lagstiftning/red/kap-6#artikel-44-utövande-av-delegeringen) som anger vilka kategorier eller klasser av radioutrustning som berörs av kravet i punkt 1 i [den här artikeln](#artikel-4-tillhandahållande-av-information-om-kombinationer-av-radioutrustning-och-programvara).
+
+3\. Kommissionen ska anta genomförandeakter för att fastställa operativa bestämmelser för att tillhandahålla informationen om överensstämmelse för de kategorier och klasser som identifierats genom delegerade akter antagnas i enlighet med punkt 2 i [denna artikel](#artikel-4-tillhandahållande-av-information-om-kombinationer-av-radioutrustning-och-programvara). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [45.3](/lagstiftning/red/kap-6#artikel-45-kommittéförfarande).
+
+### Artikel 5 – Registrering av radioutrustningstyper inom vissa kategorier
+
+1\. Från och med den 12 juni 2018 ska tillverkarna registrera radioutrustningstyper inom utrustningskategorier där det finns en låg grad av överensstämmelse med de väsentliga kraven i artikel [3](#artikel-3-väsentliga-krav) inom ett centralt system som avses i punkt 4 i [den här artikeln](#artikel-5-registrering-av-radioutrustningstyper-inom-vissa-kategorier) innan radioutrustning inom dessa kategorier släpps ut på marknaden. Vid registrering av sådana radioutrustningstyper ska tillverkarna tillhandahålla vissa delar av den tekniska dokumentation som finns förtecknad i bilaga V a, d, e, f, g, h och i eller, där så är motiverat, all denna dokumentation. Kommissionen ska tilldela varje registrerad radioutrustningstyp ett registreringsnummer, som tillverkarna ska anbringa på radioutrustning som släpps ut på marknaden.
+
+2\. Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel [44](/lagstiftning/red/kap-6#artikel-44-utövande-av-delegeringen) vilka anger vilka kategorier av radioutrustning som omfattas av kravet i punkt 1 i [den här artikeln](#artikel-5-registrering-av-radioutrustningstyper-inom-vissa-kategorier) och vilka delar som ska ingå i den tillhandahållna tekniska dokumentationen, med hänsyn till den information om radioutrustningens överensstämmelse som lämnats av medlemsstaterna i enlighet med artikel [47.1](/lagstiftning/red/kap-7#artikel-47-översyn-och-rapportering) och efter en utvärdering av risken för att de väsentliga kraven inte uppfylls.
+
+3\. Kommissionen ska anta genomförandeakter för att fastställa operativa bestämmelser för registrering och operativa bestämmelser för anbringande av registreringsnummer på radioutrustning, för de kategorier som fastställts genom delegerade akter som antagits i enlighet med punkt 2 i [denna artikel](#artikel-5-registrering-av-radioutrustningstyper-inom-vissa-kategorier). Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [45.3](/lagstiftning/red/kap-6#artikel-45-kommittéförfarande).
+
+4\. Kommissionen ska tillhandahålla ett centralt system så att tillverkarna kan registrera den information som krävs. Systemet ska säkerställa en tillräcklig kontroll över tillgången till information av konfidentiell natur.
+
+5\. Efter tillämpningsdagen för en delegerad akt som antagits enligt punkt 2 i [denna artikel](#artikel-5-registrering-av-radioutrustningstyper-inom-vissa-kategorier) ska de rapporter som utarbetats i enlighet med artikel [47.1](/lagstiftning/red/kap-7#artikel-47-översyn-och-rapportering) och [47.2](/lagstiftning/red/kap-7#artikel-47-översyn-och-rapportering) utvärdera den delegerade aktens följder.
+
+### Artikel 6 – Tillhandahållande på marknaden
+
+Medlemsstaterna ska vidta lämpliga åtgärder för att säkerställa att radioutrustning görs tillgänglig på marknaden endast om den uppfyller kraven i [detta direktiv](/lagstiftning/red).
+
+### Artikel 7 – Ibruktagande och användning
+
+Medlemsstaterna ska tillåta ibruktagande och användning av radioutrustning om den överensstämmer med [detta direktiv](/lagstiftning/red), när den är korrekt installerad, underhållen och används för avsett ändamål. Utan att det påverkar medlemsstaternas skyldigheter enligt [beslut nr 676/2002/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3676D2002) och de villkor som är knutna till auktorisation för användning av frekvenser i enlighet med unionslagstiftningen, i synnerhet enligt artikel [9.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0021) och [9.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0021) i [direktiv 2002/21/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0021), får medlemsstaterna införa ytterligare krav för ibruktagande eller användning av radioutrustning av skäl som hänför sig till en ändamålsenlig och effektiv radiospektrumanvändning, undvikande av skadlig störning, undvikande av elektromagnetisk störning eller till folkhälsan.
+
+### Artikel 8 – Anmälan av radiogränssnittsspecifikationer och tilldelning av radioutrustningsklasser
+
+1\. Medlemsstaterna ska i enlighet med det förfarande som anges i [direktiv 98/34/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31998L0034) anmäla de radiogränssnitt som de avser att reglera, utom
+
+a) de radiogränssnitt som helt och hållet och utan några avvikelser är förenliga med kommissionens beslut om en harmoniserad radiospektrumanvändning antagna i enlighet med [beslut nr 676/2002/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3676D2002), och
+
+b) de radiogränssnitt som, i enlighet med genomförandeakter som antagits enligt punkt 2 i [den här artikeln](#artikel-8-anmälan-av-radiogränssnittsspecifikationer-och-tilldelning-av-radioutrustningsklasser), motsvarar radioutrustning som kan tas i bruk och användas utan restriktioner inom unionen.
+
+2\. Kommissionen ska anta genomförandeakter för att fastställa likvärdigheten mellan de radiogränssnitt som anmälts och tilldela en radioutrustningsklass, och uppgifter om denna ska offentliggöras i Europeiska unionens officiella tidning. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [45.3](/lagstiftning/red/kap-6#artikel-45-kommittéförfarande).
+
+### Artikel 9 – Fri rörlighet för radioutrustning
+
+1\. Medlemsstaterna får inte inom sina territorier, med hänvisning till skäl som har samband med de aspekter som omfattas av [detta direktiv](/lagstiftning/red), hindra att utrustning som överensstämmer med [detta direktiv](/lagstiftning/red) tillhandahålls på marknaden.
+
+2\. Medlemsstaterna får inte hindra att radioutrustning som inte överensstämmer med [detta direktiv](/lagstiftning/red) visas på handelsmässor, utställningar och liknande evenemang, under förutsättning att det tydligt anges att sådan radioutrustning inte får tillhandahållas på marknaden eller tas i bruk förrän den uppfyller bestämmelserna i [detta direktiv](/lagstiftning/red). Demonstrationer av radioutrustning får ske endast under förutsättning att det har vidtagits adekvata åtgärder, föreskrivna av medlemsstaterna, för att förhindra skadlig störning, elektromagnetisk störning och risk för människors eller husdjurs hälsa eller säkerhet eller för egendom.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

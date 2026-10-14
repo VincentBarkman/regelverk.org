@@ -1,0 +1,31 @@
+---
+'source': 'eidas'
+'ref': 'Chapter IV'
+'title': 'Chapter IV – ELECTRONIC DOCUMENTS'
+'kind': 'chapter'
+'description': 'eIDAS Regulation, Chapter IV.'
+'designation': 'eIDAS Regulation Chapter IV'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_IV'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Legal text
+
+### Article 46 – Legal effects of electronic documents
+
+An electronic document shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in electronic form.
+<!-- scan-laws:end -->
+
+## Interpretation
+
+_No interpretation added yet._

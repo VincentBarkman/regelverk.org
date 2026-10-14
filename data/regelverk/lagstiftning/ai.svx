@@ -1,0 +1,40 @@
+---
+'name': 'AI-förordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2024/1689'
+'type': 'eu-regulation'
+'description': 'EU-förordning om harmoniserade regler för artificiell intelligens.'
+'designation': 'EU 2024/1689'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2024-07-12'
+'applies-from': '2026-08-02'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/ai/kap-1) · Artiklarna 1–4
+- [Kapitel II – FÖRBJUDNA AI-ANVÄNDNINGSOMRÅDEN](/lagstiftning/ai/kap-2)
+- [Kapitel III – AI-SYSTEM MED HÖG RISK](/lagstiftning/ai/kap-3) · Artiklarna 6–49
+- [Kapitel IV – TRANSPARENSSKYLDIGHETER FÖR LEVERANTÖRER OCH TILLHANDAHÅLLARE AV VISSA AI-SYSTEM](/lagstiftning/ai/kap-4)
+- [Kapitel V – AI-MODELLER FÖR ALLMÄNNA ÄNDAMÅL](/lagstiftning/ai/kap-5) · Artiklarna 51–56
+- [Kapitel VI – ÅTGÄRDER TILL STÖD FÖR INNOVATION](/lagstiftning/ai/kap-6) · Artiklarna 57–63
+- [Kapitel VII – STYRNING](/lagstiftning/ai/kap-7) · Artiklarna 64–70
+- [Kapitel VIII – EU-DATABAS FÖR AI-SYSTEM MED HÖG RISK](/lagstiftning/ai/kap-8)
+- [Kapitel IX – ÖVERVAKNING EFTER UTSLÄPPANDE PÅ MARKNADEN, INFORMATIONSDELNING OCH MARKNADSKONTROLL](/lagstiftning/ai/kap-9) · Artiklarna 72–94
+- [Kapitel X – UPPFÖRANDEKODER OCH RIKTLINJER](/lagstiftning/ai/kap-10) · Artiklarna 95–96
+- [Kapitel XI – DELEGERING AV BEFOGENHETER OCH KOMMITTÉFÖRFARANDE](/lagstiftning/ai/kap-11) · Artiklarna 97–98
+- [Kapitel XII – SANKTIONER](/lagstiftning/ai/kap-12) · Artiklarna 99–101
+- [Kapitel XIII – SLUTBESTÄMMELSER](/lagstiftning/ai/kap-13) · Artiklarna 102–113
+<!-- scan-laws:end -->

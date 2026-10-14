@@ -1,0 +1,77 @@
+---
+'source': 'elsakerhetsforordningen'
+'ref': '2 kap.'
+'title': '2 kap. – Drifttillstånd för elektriska anläggningar'
+'kind': 'chapter'
+'description': 'Elsäkerhetsförordningen, 2 kap..'
+'designation': 'Elsäkerhetsförordningen 2 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/elsakerhetsforordning-2017218_sfs-2017-218/'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Drifttillstånd för elektriska anläggningar
+
+### 7 §
+
+Om en högspänningsledning ingår i en direktjordad anläggning där det vid enfasigt fel kan uppkomma jordslutningsström med större styrka än 500 ampere, får ledningen inte tas i bruk innan Elsäkerhetsverket gett tillstånd till det (drifttillstånd).
+
+Tillstånd behövs dock inte om högspänningsledningen är en kontaktledning för järnvägsdrift.
+
+Vid tillämpningen av första stycket ska högspänning avse nominell spänning över 1 000 volt växelspänning eller över
+
+1 500 volt likspänning.
+
+### 8 §
+
+Ett drifttillstånd enligt [7 §](#7) 1. får ges endast om anläggningen ger betryggande säkerhet mot person- eller sakskada, och
+
+2\. får begränsas till att gälla för viss tid.
+
+#### Starkströmsledningar inom område med detaljplan
+
+### 9 §
+
+Om en detaljplan antas för ett område där en luftledning för starkström har dragits fram med stöd av nätkoncession för område, är ledningens innehavare skyldig att på Elsäkerhetsverkets begäran göra de ändringar av ledningen som är nödvändiga från elsäkerhetssynpunkt med hänsyn till områdets bebyggande.
+
+### 10 §
+
+Om en detaljplan antas för ett område där det finns en luftledning för svagström och en sådan luftledning med lågspänning som är en starkströmsanläggning, är lågspänningsledningens innehavare skyldig att på Elsäkerhetsverkets begäran göra de ändringar av ledningen som är nödvändiga från elsäkerhetssynpunkt.
+
+Vid tillämpningen av första stycket ska lågspänning avse nominell spänning upp till och med 1 000 volt växelspänning eller upp till och med 1 500 volt likspänning.
+
+#### Starkströmsledningar inom områden för trafik
+
+### 11 §
+
+En luftledning för starkström ska placeras och vara utförd på ett sådant sätt att den inte kan medföra risk eller hinder för trafiken på grund av el eller ledningens placering, om ledningen byggs
+
+1\. inom området för en befintlig eller planerad allmän väg eller en enskild väg som hålls öppen för trafik,
+
+2\. inom eller invid ett område för järnväg, eller
+
+3\. inom ett område invid en flygplats.
+
+Invid en flygplats får ledningen aldrig placeras närmare än
+
+4 000 meter från den referenspunkt som har bestämts för flygplatsen av den som har inrättat flygplatsen.
+
+### 12 §
+
+Om det inom ett område för sjötrafik byggs en luftledning för starkström eller en ledning för starkström i vatten, ska ledningen placeras och vara utförd på ett sådant sätt att den inte kan orsaka risk eller hinder för trafiken på grund av el eller ledningens placering.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

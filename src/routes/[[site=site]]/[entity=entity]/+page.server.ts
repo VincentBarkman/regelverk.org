@@ -1,5 +1,5 @@
 import { resolveScope } from '#lib/scope.js';
-import { listRecords, nestRecords } from '#lib/data.js';
+import { listRecords, navGroups } from '#lib/data.js';
 import { ENTITIES } from '#lib/entities.js';
 import type { EntryGenerator, PageServerLoad } from './$types';
 
@@ -9,10 +9,7 @@ export const load: PageServerLoad = ({ params, url }) => {
 		scope,
 		entity: params.entity,
 		records: listRecords(scope, params.entity),
-		nav: ENTITIES.map((entity) => ({
-			entity,
-			items: nestRecords(listRecords(scope, entity))
-		})).filter((g) => g.items.length)
+		nav: navGroups(scope)
 	};
 };
 

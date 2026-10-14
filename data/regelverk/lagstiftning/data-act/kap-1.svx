@@ -1,0 +1,179 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel I.'
+'designation': 'Dataförordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_I'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Innehåll och tillämpningsområde
+
+1\. I [denna förordning](/lagstiftning/data-act) fastställs harmoniserade regler om bland annat
+
+a) att göra produktdata och data från en tillhörande tjänst tillgängliga för användaren av den uppkopplade produkten eller den tillhörande tjänsten,
+
+b) datahållares tillhandahållande av data till datamottagare,
+
+c) datahållares tillhandahållande av data till offentliga organ, kommissionen, Europeiska centralbanken och unionsorgan, när det finns ett exceptionellt behov av dessa data för utförandet av en specifik uppgift av allmänt intresse,
+
+d) att underlätta byten av databehandlingstjänster,
+
+e) att införa skyddsåtgärder mot olaglig åtkomst för tredje part till icke-personuppgifter, och
+
+f) utveckling av interoperabilitetsstandarder för åtkomst till, överföring och användning av data.
+
+2\. [Denna förordning](/lagstiftning/data-act) omfattar personuppgifter och icke-personuppgifter, inbegripet följande typer av data i följande sammanhang:
+
+a) [Kapitel II](/lagstiftning/data-act/kap-2) är tillämpligt på data, med undantag för innehåll, avseende uppkopplade produkters och tillhörande tjänsters prestanda, användning och miljö.
+
+b) [Kapitel III](/lagstiftning/data-act/kap-3) är tillämpligt på data från den privata sektorn som omfattas av lagstadgade skyldigheter i fråga om datadelning.
+
+c) [Kapitel IV](/lagstiftning/data-act/kap-4) är tillämpligt på data från den privata sektorn som är åtkomliga och används på grundval av avtal mellan företag.
+
+d) [Kapitel V](/lagstiftning/data-act/kap-5) är tillämpligt på data från den privata sektorn med fokus på icke-personuppgifter.
+
+e) [Kapitel VI](/lagstiftning/data-act/kap-6) är tillämpligt på data och tjänster som behandlas av leverantörer av databehandlingstjänster.
+
+f) [Kapitel VII](/lagstiftning/data-act/kap-7) är tillämpligt på icke-personuppgifter som innehas i unionen av leverantörer av databehandlingstjänster.
+
+3\. [Denna förordning](/lagstiftning/data-act) är tillämplig på följande:
+
+a) Tillverkare av uppkopplade produkter som släpps ut på marknaden i unionen och leverantörer av tillhörande tjänster, oberoende av dessa tillverkares och leverantörers etableringsort.
+
+b) Användare i unionen av uppkopplade produkter eller tillhörande tjänster som avses i led a.
+
+c) Datahållare, oberoende av etableringsort, som gör data tillgängliga för datamottagare i unionen.
+
+d) Datamottagare i unionen som ges tillgång till data.
+
+e) Offentliga organ, kommissionen, Europeiska centralbanken och unionsorgan som begär att datahållare gör data tillgängliga när det finns ett exceptionellt behov av dessa data för utförandet av en specifik uppgift av allmänt intresse samt de datahållare som tillhandahåller data till följd av en sådan begäran.
+
+f) Leverantörer av databehandlingstjänster, oberoende av deras etableringsort, som tillhandahåller sådana tjänster till kunder i unionen.
+
+g) Deltagare i dataområden och leverantörer av applikationer som använder smarta kontrakt och personer vars närings- eller yrkesverksamhet inbegriper användning av smarta kontrakt för andra i samband med genomförandet av ett avtal.
+
+4\. När det i [denna förordning](/lagstiftning/data-act) hänvisas till uppkopplade produkter eller tillhörande tjänster anses sådana hänvisningar även omfatta virtuella assistenter, i den mån de interagerar med en uppkopplad produkt eller tillhörande tjänst.
+
+5\. [Denna förordning](/lagstiftning/data-act) påverkar inte tillämpningen av unionsrätt och nationell rätt om skydd av personuppgifter, integritet och konfidentialitet vid kommunikation samt terminalutrustningens integritet, som ska tillämpas på personuppgifter som behandlas i samband med de rättigheter och skyldigheter som fastställs i [denna förordning](/lagstiftning/data-act), i synnerhet [förordningarna (EU) 2016/679](/lagstiftning/gdpr) och [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) och [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058), inbegripet tillsynsmyndigheternas befogenheter och behörighet och registrerades rättigheter. I den mån användare är registrerade ska de rättigheter som fastställs i [kapitel II](/lagstiftning/data-act/kap-2) i [den här förordningen](/lagstiftning/data-act) komplettera registrerades rättigheter till tillgång och rättigheter till dataportabilitet enligt artiklarna [15](/lagstiftning/gdpr/kap-3#artikel-15-den-registrerades-rätt-till-tillgång) och [20](/lagstiftning/gdpr/kap-3#artikel-20-rätt-till-dataportabilitet) i [förordning (EU) 2016/679](/lagstiftning/gdpr). Om [den här förordningen](/lagstiftning/data-act) står i strid med unionsrätt om skydd av personuppgifter eller integritet eller med nationell lagstiftning som antagits i enlighet med sådan unionsrätt, ska relevant unionsrätt eller nationell rätt om skydd av personuppgifter eller integritet äga företräde.
+
+6\. [Denna förordning](/lagstiftning/data-act) ska inte tillämpas på eller föregripa frivilliga arrangemang för utbyte av data mellan privata och offentliga enheter, i synnerhet frivilliga arrangemang för datadelning.
+
+[Denna förordning](/lagstiftning/data-act) påverkar inte unionsrättsakter eller nationella rättsakter som föreskriver delning, åtkomst till och användning av data för att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller verkställa straffrättsliga påföljder, eller för tull- och skatteändamål, i synnerhet [förordningarna (EU) 2021/784](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32021R0784), [(EU) 2022/2065](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2065) och [(EU) 2023/1543](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32023R1543) samt [direktiv (EU) 2023/1544](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32023L1544), eller internationellt samarbete på det området. [Den här förordningen](/lagstiftning/data-act) är inte tillämplig på insamling, delning eller användning av eller åtkomst till data enligt [förordning (EU) 2015/847](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015R0847) och [direktiv (EU) 2015/849](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L0849). [Den här förordningen](/lagstiftning/data-act) är inte tillämplig på områden som inte omfattas av unionsrätten och påverkar under inga omständigheter medlemsstaternas befogenheter i fråga om allmän säkerhet, försvar eller nationell säkerhet, oavsett vilken typ av enhet som medlemsstaterna har anförtrott att utföra uppgifter inom ramen för dessa befogenheter eller deras befogenhet att skydda andra väsentliga statliga funktioner, inbegripet att säkerställa statens territoriella integritet och upprätthålla lag och ordning. [Den här förordningen](/lagstiftning/data-act) påverkar inte medlemsstaternas befogenheter i fråga om tull- och skatteförvaltning eller medborgares hälsa och säkerhet.
+
+7\. [Denna förordning](/lagstiftning/data-act) kompletterar metoden för självreglering i [förordning (EU) 2018/1807](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1807) genom att lägga till allmänt tillämpliga skyldigheter för byte av molntjänster.
+
+8\. [Denna förordning](/lagstiftning/data-act) påverkar inte tillämpningen av unionsrättsakter och nationella rättsakter som skyddar immateriella rättigheter, i synnerhet [direktiv 2001/29/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32001L0029), [2004/48/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004L0048) och (EU) 2019/790.
+
+9\. [Denna förordning](/lagstiftning/data-act) kompletterar, och påverkar inte tillämpningen av, unionsrätt som syftar till att främja konsumenters intressen och säkerställa en hög nivå av konsumentskydd samt att skydda deras hälsa, säkerhet och ekonomiska intressen, i synnerhet direktiv 93/13/EEG, 2005/29/EG och 2011/83/EU.
+
+10\. [Denna förordning](/lagstiftning/data-act) hindrar inte ingåendet av frivilliga avtal om laglig datadelning, inbegripet avtal som ingås på ömsesidig grund, som uppfyller kraven i [denna förordning](/lagstiftning/data-act).
+
+### Artikel 2 – Definitioner
+
+I [denna förordning](/lagstiftning/data-act) gäller följande definitioner:
+
+1\. data: varje digital återgivning av handlingar, fakta eller information och varje sammanställning av sådana handlingar, fakta eller information, även i form av ljudupptagningar, bildupptagningar eller audiovisuella upptagningar.
+
+2\. metadata: en strukturerad beskrivning av innehållet i eller användningen av data som underlättar sökningen i eller användningen av dessa data.
+
+3\. personuppgifter: personuppgifter enligt definitionen i artikel [4.1](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+4\. icke-personuppgifter: andra data än personuppgifter.
+
+5\. uppkopplad produkt: en vara som erhåller, genererar eller samlar in data om sin användning eller om sin miljö, och som kan kommunicera produktdata via en elektronisk kommunikationstjänst, fysisk åtkomst, åtkomst genom uppkoppling eller åtkomst i enheten, och vars huvudfunktion inte är att lagra, behandla eller överföra data för någon annan part än användaren.
+
+6\. tillhörande tjänst: en digital tjänst, annan än en elektronisk kommunikationstjänst, inbegripet programvara, som är ansluten till produkten vid tidpunkten för köp, hyra eller leasing på ett sådant sätt att den uppkopplade produkten inte skulle kunna utföra en eller flera av sina funktioner utan den, eller som senare ansluts till produkten av tillverkaren eller en tredje part för att lägga till, uppdatera eller anpassa funktioner hos den uppkopplade produkten.
+
+7\. behandling: en åtgärd eller kombination av åtgärder som utförs på data eller datamängder, oberoende av om de utförs automatiserat eller inte, såsom insamling, registrering, organisering, strukturering, lagring, bearbetning eller ändring, framtagning, läsning, användning, utlämnande genom överföring, spridning eller tillhandahållande på annat sätt, justering eller sammanförande, begränsning, radering eller förstöring.
+
+8\. databehandlingstjänst: en digital tjänst som tillhandahålls en kund och som möjliggör allmän nätverkstillgång på begäran till en gemensam pool av konfigurerbara, skalbara och elastiska databehandlingsresurser av centraliserad, distribuerad eller mycket distribuerad art och som snabbt kan tillhandahållas och levereras med minsta möjliga administration eller interaktion med tjänsteleverantören.
+
+9\. samma tjänstetyp: en uppsättning databehandlingstjänster som delar samma primära mål, databehandlingstjänstemodell och huvudsakliga funktioner.
+
+10\. dataförmedlingstjänst: dataförmedlingstjänst enligt definitionen i artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) i [förordning (EU) 2022/868](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868).
+
+11\. registrerad: registrerad som avses i artikel [4.1](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+12\. användare: en fysisk eller juridisk person som äger en uppkopplad produkt eller till vilken tillfälliga rättigheter att använda den uppkopplade produkten har överlåtits genom avtal, eller som erhåller tillhörande tjänster.
+
+13\. datahållare: en fysisk eller juridisk person som har en rätt eller skyldighet, i enlighet med [denna förordning](/lagstiftning/data-act), tillämplig unionsrätt eller nationell lagstiftning som antagits i enlighet med unionsrätten, att använda och tillgängliggöra data, inbegripet produktdata eller data från tillhörande tjänster som denne har hämtat eller genererat under tillhandahållandet av en tillhörande tjänst, om detta avtalats.
+
+14\. datamottagare: en fysisk eller juridisk person som agerar för syften kopplade till personens näringsverksamhet, affärsverksamhet, hantverk eller yrke och som är en annan än användaren av en uppkopplad produkt eller tillhörande tjänst, för vilken datahållaren gör data tillgängliga, inbegripet en tredje part på begäran från användaren till datahållaren eller i enlighet med en rättslig skyldighet enligt unionsrätten eller nationell lagstiftning som antagits i enlighet med unionsrätten.
+
+15\. produktdata: data som genereras genom användning av en uppkopplad produkt och som tillverkaren har utformat för att kunna hämtas via en elektronisk kommunikationstjänst, via fysisk åtkomst eller åtkomst i enheten av en användare, datahållare eller en tredje part, inbegripet tillverkaren i tillämpliga fall.
+
+16\. data från en tillhörande tjänst: data som representerar digitaliseringen av användaråtgärder eller användarhändelser som kan härledas från den uppkopplade produkten och som registreras avsiktligt av användaren eller genereras som en biprodukt av användarens åtgärder under leverantörens tillhandahållande av en tillhörande tjänst.
+
+17\. lätt åtkomliga data: produktdata och data från en tillhörande tjänst som en datahållare lagligen erhåller eller lagligen kan erhålla från den uppkopplade produkten eller tillhörande tjänsten, utan oproportionella ansträngningar som går utöver en enkel åtgärd.
+
+18\. företagshemlighet: företagshemlighet enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) i [direktiv (EU) 2016/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943).
+
+19\. innehavare av en företagshemlighet: en innehavare av en företagshemlighet enligt definitionen i artikel [2.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943) i [direktiv (EU) 2016/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0943).
+
+20\. profilering: profilering enligt definitionen i artikel [4.4](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+21\. tillhandahållande på marknaden: leverans av en uppkopplad produkt för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller gratis.
+
+22\. utsläppande på marknaden: det första tillhandahållandet av en uppkopplad produkt på unionens marknad.
+
+23\. konsument: en fysisk person som agerar för ändamål som faller utanför den personens näringsverksamhet, affärsverksamhet, hantverk eller yrke.
+
+24\. företag: en fysisk eller juridisk person som när det gäller avtal eller praxis som omfattas av [denna förordning](/lagstiftning/data-act) agerar för syften som är kopplade till personens näringsverksamhet, affärsverksamhet, hantverk eller yrke.
+
+25\. små företag: små företag enligt definitionen i artikel [2.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+26\. mikroföretag: ett mikroföretag enligt definitionen i artikel [2.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+27\. unionsorgan: de unionsorgan och unionsbyråer som inrättats genom eller enligt akter som antagits på grundval av fördraget om Europeiska unionen, EUF-fördraget eller fördraget om upprättandet av Europeiska atomenergigemenskapen.
+
+28\. offentliga organ: medlemsstaternas nationella, regionala eller lokala myndigheter och medlemsstaternas offentligrättsliga organ, eller sammanslutningar som bildats av en eller flera sådana myndigheter eller ett eller flera sådana organ.
+
+29\. allmänt nödläge: en exceptionell situation under en begränsad tid, såsom ett hot mot folkhälsan, ett nödläge till följd av naturkatastrofer eller en större katastrof orsakad av människan, inbegripet en större cybersäkerhetsincident, med negativa konsekvenser för befolkningen i unionen, en medlemsstat eller en del av en medlemsstat, som medför en risk för allvarliga och bestående återverkningar på levnadsvillkoren eller den ekonomiska och finansiella stabiliteten, eller avsevärd och omedelbar värdeminskning av ekonomiska tillgångar i unionen eller berörda medlemsstater, och som fastställs och officiellt utlyses i enlighet med relevanta förfaranden i unionsrätten eller nationell rätt.
+
+30\. kund: en fysisk eller juridisk person som har ingått ett avtalsförhållande med en leverantör av databehandlingstjänster i syfte att använda en eller flera databehandlingstjänster.
+
+31\. virtuella assistenter: programvara som kan behandla uppmaningar, uppdrag eller frågor, inbegripet sådana baserade på ljud, skrift, gester eller rörelse, och som baserat på dessa uppmaningar, uppdrag eller frågor ger åtkomst till andra tjänster eller kontrollerar uppkopplade produkters funktioner.
+
+32\. digitala tillgångar: element i digitalt format, inbegripet applikationer, för vilka kunden har nyttjanderätt, oberoende av avtalsförhållandet med den databehandlingstjänst som kunden avser att byta från.
+
+33\. lokal IKT-infrastruktur: IKT-infrastruktur och databehandlingsresurser som ägs, hyrs eller leasas av kunden, är belägna i kundens egen datacentral och drivs av kunden eller en tredje part.
+
+34\. byte: process som inbegriper en ursprunglig leverantör av databehandlingstjänster, en kund till en databehandlingstjänst och, i tillämpliga fall, en destinationsleverantör av databehandlingstjänster, varigenom kunden till en databehandlingstjänst byter från användning av en databehandlingstjänst till användning av en annan databehandlingstjänst av samma tjänstetyp eller en annan tjänst som erbjuds av en annan leverantör av databehandlingstjänster, eller till lokal IKT-infrastruktur, inbegripet genom extrahering, anpassning och uppladdning av data.
+
+35\. uttagsavgifter för data: avgifter för dataöverföring som tas ut av kunder för att de ska kunna extrahera sina data genom nätverket från IKT-infrastrukturen hos en leverantör av databehandlingstjänster till en annan leverantörs system eller till lokal IKT-infrastruktur.
+
+36\. bytesavgifter: andra avgifter än standardavgifter eller straffavgifter för förtida uppsägning som en leverantör av databehandlingstjänster tar ut av en kund för de åtgärder som föreskrivs i [denna förordning](/lagstiftning/data-act) för att byta till en annan leverantörs system eller till lokal IKT-infrastruktur, inbegripet uttagsavgifter för data.
+
+37\. funktionell likvärdighet: att på grundval av kundens exporterbara data och digitala tillgångar återställa en miniminivå av funktionalitet i miljön för en ny databehandlingstjänst av samma tjänstetyp efter bytesprocessen, där destinationstjänsten för databehandling levererar ett väsentligen jämförbart resultat som svar på samma input för delade funktioner som tillhandahålls kunden enligt avtalet.
+
+38\. exporterbara data: vid tillämpning av artiklarna [23](/lagstiftning/data-act/kap-6#artikel-23-undanröjande-av-hinder-för-ett-effektivt-byte)–[31](/lagstiftning/data-act/kap-6#artikel-31-särskild-ordning-för-vissa-databehandlingstjänster) och [35](/lagstiftning/data-act/kap-8#artikel-35-interoperabilitet-för-databehandlingstjänster), in- och utdata, inklusive metadata, som direkt eller indirekt genereras eller samgenereras genom kundens användning av databehandlingstjänsten, med undantag för tillgångar eller data som skyddas genom immateriella rättigheter, eller som utgör en företagshemlighet, som tillhör leverantörer av databehandlingstjänster eller tredje parter.
+
+39\. smart kontrakt: ett datorprogram som används för automatiserat genomförande av ett avtal eller en del därav med hjälp av en sekvens av elektroniska dataposter och som säkerställer deras integritet och korrektheten hos deras kronologiska ordningsföljd.
+
+40\. interoperabilitet: förmågan hos två eller fler dataområden eller kommunikationsnät, system, uppkopplade produkter, applikationer, databehandlingstjänster eller komponenter att utbyta och använda data för att utföra sina funktioner.
+
+41\. öppen interoperabilitetsspecifikation: en teknisk specifikation på informations- och kommunikationsteknikområdet som är resultatinriktad på att uppnå interoperabilitet mellan databehandlingstjänster.
+
+42\. gemensamma specifikationer: ett dokument, som inte är en standard, vilket omfattar tekniska lösningar som gör det möjligt att uppfylla vissa krav och skyldigheter som fastställs enligt [denna förordning](/lagstiftning/data-act).
+
+43\. harmoniserad standard: en harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

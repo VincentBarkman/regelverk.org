@@ -1,0 +1,186 @@
+---
+'source': 'dora'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – Hantering av, klassificering av och rapportering om
+  IKT-relaterade incidenter'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel III.'
+'designation': 'DORA-förordningen Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_III'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 17 – Process för hantering av IKT-relaterade incidenter
+
+1\. Finansiella entiteter ska fastställa, inrätta och genomföra en process för hantering av IKT-relaterade incidenter för att upptäcka, hantera och rapportera IKT-relaterade incidenter.
+
+2\. Finansiella entiteter ska registrera alla IKT-relaterade incidenter och betydande cyberhot. Finansiella entiteter ska inrätta lämpliga förfaranden och processer för att säkerställa en konsekvent och integrerad övervakning, hantering och uppföljning av IKT-relaterade incidenter, för att säkerställa att grundorsakerna identifieras, dokumenteras och åtgärdas i syfte att förhindra att sådana incidenter inträffar.
+
+3\. Den process för hantering av IKT-relaterade incidenter som avses i punkt 1 ska
+
+a) införa indikatorer för tidig varning,
+
+b) innehålla fastställda förfaranden för att identifiera, spåra, logga, kategorisera och klassificera IKT-relaterade incidenter enligt deras prioritetsordning och allvar och enligt de berörda tjänsternas kritikalitet i enlighet med de kriterier som fastställs i artikel [18.1](#artikel-18-klassificering-av-ikt-relaterade-incidenter-och-cyberhot),
+
+c) innehålla en fördelning av roller och ansvarsområden som behöver aktiveras för olika IKT-relaterade incidenttyper och scenarier,
+
+d) innehålla planer för kommunikation till personal, externa berörda parter och medier i enlighet med artikel [14](/lagstiftning/dora/kap-2#artikel-14-kommunikation) och för anmälan till kunder, för interna eskaleringsförfaranden, inbegripet IKT-relaterade kundklagomål, samt för tillhandahållande av information till finansiella entiteter som fungerar som motparter, beroende på vad som är lämpligt,
+
+e) säkerställa att åtminstone allvarliga IKT-relaterade incidenter rapporteras till relevant senior ledning och att ledningsorganet informeras om åtminstone allvarliga IKT-relaterade incidenter, med en förklaring av effekter, åtgärder och ytterligare kontroller som ska fastställas till följd av sådana IKT-relaterade incidenter,
+
+f) innehålla fastställda förfaranden för åtgärder vid IKT-relaterade incidenter för att mildra effekterna och säkerställa att tjänsterna snabbt kan tas i drift och är säkra.
+
+### Artikel 18 – Klassificering av IKT-relaterade incidenter och cyberhot
+
+1\. Finansiella entiteter ska klassificera IKT-relaterade incidenter och fastställa deras inverkan baserat på följande kriterier:
+
+a) Antalet och/eller betydelsen av kunder eller finansiella motparter som påverkas, och i tillämpliga fall, mängden eller antalet transaktioner som påverkas av den IKT-relaterade incidenten, och om anseendet har påverkats av den IKT-relaterade incidenten.
+
+b) Den IKT-relaterade incidentens varaktighet, inklusive driftstopp.
+
+c) Den geografiska spridningen med avseende på de områden som påverkas av den IKT-relaterade incidenten, särskilt om den påverkar fler än två medlemsstater.
+
+d) De dataförluster som den IKT-relaterade incidenten medför, vad gäller tillgänglighet, äkthet, integritet eller konfidentialitet vad gäller datan
+
+e) De berörda tjänsternas kritikalitet, inbegripet den finansiella entitetens transaktioner och verksamhet.
+
+f) De ekonomiska effekterna, särskilt direkta och indirekta kostnader och förluster, av den IKT-relaterade incidenten i absoluta och relativa tal.
+
+2\. Finansiella entiteter ska klassificera cyberhot som betydande baserat på de hotade tjänsternas kritikalitet, inbegripet den finansiella entitetens transaktioner och verksamhet, antalet och/eller betydelsen av kunder eller finansiella motparter som hotas och den geografiska spridningen av de hotade områdena.
+
+3\. De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och i samråd med ECB och Enisa, utarbeta gemensamma förslag till tekniska standarder för tillsyn som ytterligare specificerar följande:
+
+a) De kriterier som anges i punkt 1, inbegripet väsentlighetströsklar för att fastställa allvarliga IKT-relaterade incidenter eller, i tillämpliga fall, allvarliga betalningsrelaterade operativa incidenter eller säkerhetsincidenter, som omfattas av rapporteringsskyldigheten i artikel [19.1](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+b) De kriterier som de behöriga myndigheterna ska tillämpa för att bedöma allvarliga IKT-relaterade incidenters eller, i tillämpliga fall, allvarliga betalningsrelaterade operativa incidenters eller säkerhetsincidenters relevans för de relevanta behöriga myndigheterna i andra medlemsstater och de detaljer i rapporter om allvarliga IKT-relaterade incidenter eller, i tillämpliga fall, allvarliga betalningsrelaterade operativa incidenter eller säkerhetsincidenter som ska delas med andra behöriga myndigheter enligt artikel [19.6](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot) och [19.7](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+c) De kriterier som anges i punkt 2 i [denna artikel](#artikel-18-klassificering-av-ikt-relaterade-incidenter-och-cyberhot), inbegripet höga väsentlighetströsklar för att fastställa betydande cyberhot.
+
+4\. När de europeiska tillsynsmyndigheterna utarbetar de gemensamma förslag till tekniska standarder för tillsyn som avses i punkt 3 i [denna artikel](#artikel-18-klassificering-av-ikt-relaterade-incidenter-och-cyberhot) ska de ta hänsyn till kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen) samt internationella standarder, riktlinjer och specifikationer som har utarbetats och offentliggjorts av Enisa, inbegripet, när så är lämpligt, specifikationer för andra ekonomiska sektorer. Vid tillämpningen av kriterierna i artikel [4.2](/lagstiftning/dora/kap-1#artikel-4-proportionalitetsprincipen) ska de europeiska tillsynsmyndigheterna vederbörligen beakta behovet av att mikroföretag och små och medelstora företag mobiliserar tillräckliga resurser och tillräcklig kapacitet för att säkerställa att IKT-relaterade incidenter hanteras snabbt.
+
+De europeiska tillsynsmyndigheterna ska överlämna dessa gemensamma förslag till tekniska standarder för tillsyn till kommissionen senast den 17 januari 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de tekniska standarder för tillsyn som avses i punkt 3 i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 19 – Rapportering av allvarliga IKT-relaterade incidenter och frivillig anmälan av betydande cyberhot
+
+1\. Finansiella entiteter ska rapportera allvarliga IKT-relaterade incidenter till den relevanta behöriga myndighet som avses i artikel [46](/lagstiftning/dora/kap-7#artikel-46-behöriga-myndigheter) i enlighet med punkt 4 i [den här artikeln](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+Om en finansiell entitet är föremål för tillsyn av mer än en sådan nationell behörig myndighet som avses i artikel [46](/lagstiftning/dora/kap-7#artikel-46-behöriga-myndigheter) ska medlemsstaterna utse en enda behörig myndighet till relevant behörig myndighet med ansvar för att utföra de funktioner och skyldigheter som föreskrivs i [denna artikel](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+Kreditinstitut som klassificeras som betydande i enlighet med artikel [6.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) i [förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) ska rapportera allvarliga IKT-relaterade incidenter till den relevanta nationella behöriga myndighet som utsetts i enlighet med artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036), och myndigheten ska omedelbart översända den rapporten till ECB.
+
+Vid tillämpning av första stycket ska finansiella entiteter, efter att ha samlat in och analyserat all relevant information, utarbeta den första anmälan och de rapporter som avses i punkt 4 i [denna artikel](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot) med hjälp av de mallar som avses i artikel [20](#artikel-20-harmonisering-av-rapporteringsinnehåll-och-mallar) och överlämna dem till den behöriga myndigheten. Om det visar sig vara tekniskt omöjligt att överföra den första anmälan med hjälp av mallen ska finansiella entiteter anmäla till den behöriga myndigheten på annat vis.
+
+Den första anmälan och de rapporter som avses i punkt 4 ska innehålla all information som är nödvändig för att den behöriga myndigheten ska kunna fastställa betydelsen av den allvarliga IKT-relaterade incidenten och bedöma eventuella gränsöverskridande konsekvenser.
+
+Utan att det påverkar den finansiella entitetens rapportering enligt första stycket till den relevanta behöriga myndigheten får medlemsstaterna även besluta att vissa eller alla finansiella entiteter dessutom till den första anmälan och de rapporter som avses i punkt 4 i [denna artikel](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot) ska använda de mallar som avses i artikel [20](#artikel-20-harmonisering-av-rapporteringsinnehåll-och-mallar) när de överlämnar anmälan och rapporterna till de behöriga myndigheterna eller de CSIRT-enheter som utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+2\. Finansiella entiteter får på frivillig basis rapportera betydande cyberhot till den relevanta behöriga myndigheten, när de anser att hotet är relevant för det finansiella systemet, tjänsteanvändarna eller kunderna. Den relevanta behöriga myndigheten får lämna sådan information till de andra relevanta myndigheter som avses i punkt 6.
+
+Kreditinstitut som klassificeras som betydande i enlighet med artikel [6.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) i [förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) får på frivillig basis rapportera betydande cyberhot till den relevanta nationella behöriga myndighet som utsetts i enlighet med artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036), och myndigheten ska omedelbart översända den anmälan till ECB.
+
+Medlemsstaterna får fastställa att de finansiella entiteter som rapporterar på frivillig basis i enlighet med första stycket också får vidarebefordra den anmälan till de CSIRT-enheter som utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+3\. Om en allvarlig IKT-relaterad incident inträffar och påverkar kunders ekonomiska intressen ska finansiella entiteter utan onödigt dröjsmål så snart de blir medvetna om den informera sina kunder om den allvarliga IKT-relaterade incidenten och om de åtgärder som har vidtagits för att mildra de negativa effekterna av en sådan incident.
+
+I händelse av ett betydande cyberhot ska finansiella entiteter, i tillämpliga fall, informera de kunder som kan påverkas om alla lämpliga skyddsåtgärder som de sistnämnda kan överväga att vidta.
+
+4\. Finansiella entiteter ska, inom de tidsfrister som ska fastställas i enlighet med artikel [20](#artikel-20-harmonisering-av-rapporteringsinnehåll-och-mallar) första stycket a ii, lämna följande till den relevanta behöriga myndigheten:
+
+a) En första anmälan.
+
+b) En delrapport efter den första anmälan som avses i led a, så snart statusen för den ursprungliga incidenten har förändrats avsevärt eller hanteringen av den allvarliga IKT-relaterade incidenten har förändrats på grund av ny tillgänglig information, när så är lämpligt åtföljd av uppdaterade anmälningar varje gång en relevant statusuppdatering finns tillgänglig, samt på särskild begäran av den behöriga myndigheten.
+
+c) En slutrapport, när analysen av grundorsakerna har slutförts, oavsett om begränsande åtgärder redan har vidtagits, och när de faktiska påverkanssiffrorna finns tillgängliga för att ersätta uppskattningar.
+
+5\. Finansiella entiteter får i enlighet med unionsrätten och nationell rätt på området utkontraktera rapporteringsskyldigheterna enligt [denna artikel](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot) till en tredjepartsleverantör av tjänster. Vid sådan utkontraktering bär den finansiella entiteten det fulla ansvaret för efterlevnaden av incidentrapporteringskraven.
+
+6\. Efter mottagandet av den första anmälan och av varje rapport som avses i punkt 4 ska den behöriga myndigheten skyndsamt lämna närmare uppgifter om den allvarliga IKT-relaterade incidenten till följande mottagare, i tillämpliga fall på grundval av deras respektive behörigheter:
+
+a) EBA, Esma eller Eiopa,
+
+b) ECB när det gäller de finansiella entiteter som avses i artikel [2.1 a](/lagstiftning/dora/kap-1#artikel-2-tillämpningsområde), b och d,
+
+c) de behöriga myndigheter, de gemensamma kontaktpunkter eller de CSIRT-enheter som utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2),
+
+d) de resolutionsmyndigheter som avses i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) i [direktiv 2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) och den gemensamma resolutionsnämnden när det gäller sådana enheter som avses i artikel [7.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) i [Europaparlamentets och rådets förordning (EU) nr 806/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) (37) och när det gäller sådana enheter och koncerner som avses i artikel [7.4 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) och [7.5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) i [förordning (EU) nr 806/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) om sådana detaljer gäller incidenter som utgör en risk för säkerställandet av kritiska funktioner i den mening som avses i artikel [2.1.35](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) i [direktiv 2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059), och
+
+e) andra relevanta offentliga myndigheter enligt nationell rätt.
+
+7\. Efter att ha mottagit information i enlighet med punkt 6 ska EBA, Esma eller Eiopa och ECB, i samråd med Enisa och i samarbete med den relevanta behöriga myndigheten, bedöma huruvida den allvarliga IKT-relaterade incidenten är relevant för behöriga myndigheter i andra medlemsstater. Efter denna bedömning ska EBA, Esma eller Eiopa så snart som möjligt underrätta de relevanta behöriga myndigheterna i andra medlemsstater i ärendet. ECB ska underrätta medlemmarna i Europeiska centralbankssystemet om frågor som är relevanta för betalningssystemet. Baserat på denna underrättelse ska de behöriga myndigheterna vid behov vidta alla nödvändiga åtgärder för att skydda det finansiella systemets omedelbara stabilitet.
+
+8\. Den anmälan som Esma ska göra enligt punkt 7 i [denna artikel](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot) ska inte påverka den behöriga myndighetens skyldighet att skyndsamt översända uppgifterna om den allvarliga IKT-relaterade incidenten till den relevanta myndigheten i värdmedlemsstaten, om en värdepapperscentral har betydande gränsöverskridande verksamhet i värdmedlemsstaten, om den allvarliga IKT-relaterade incidenten sannolikt kommer att medföra allvarliga konsekvenser för finansmarknaderna i värdmedlemsstaten och om det finns samarbetsarrangemang mellan behöriga myndigheter som gäller tillsynen av finansiella entiteter.
+
+### Artikel 20 – Harmonisering av rapporteringsinnehåll och mallar
+
+De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och i samråd med Enisa och ECB, utarbeta
+
+a) gemensamma förslag till tekniska standarder för tillsyn för att
+
+i) fastställa innehållet i rapporterna om allvarliga IKT-relaterade incidenter, för att återspegla de kriterier som fastställts i artikel [18.1](#artikel-18-klassificering-av-ikt-relaterade-incidenter-och-cyberhot) och införliva ytterligare beståndsdelar, såsom detaljerna för att fastställa huruvida rapporteringen är relevant för andra medlemsstater och huruvida det utgör en allvarliga betalningsrelaterad operativ incident eller säkerhetsincident eller inte,
+
+ii) fastställa tidsfristerna för den första anmälan och för varje rapport som avses i artikel [19.4](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot),
+
+iii) fastställa innehållet i anmälan om betydande cyberhot.
+
+Vid utarbetandet av dessa förslag till tekniska standarder för tillsyn ska de europeiska tillsynsmyndigheterna ta hänsyn till den finansiella entitetens storlek och allmänna riskprofil samt karaktären på, omfattningen av och komplexiteten i dess tjänster, verksamhet och insatser, särskilt för att säkerställa att olika tidsfrister för tillämpningen av detta stycke led a ii, beroende på vad som är lämpligt, kan återspegla de finansiella sektorernas särdrag, utan att det påverkar upprätthållandet av en enhetlig strategi för IKT-relaterad incidentrapportering enligt [denna förordning](/lagstiftning/dora) och i [direktiv (EU) 2022/2555](/lagstiftning/nis2). De europeiska tillsynsmyndigheterna ska, beroende på vad som är tillämpligt, lämna en motivering när de avviker från de metoder som tillämpas inom ramen för det direktivet.
+
+b) gemensamma förslag till tekniska standarder för genomförande i syfte att fastställa standardformulär, mallar och förfaranden för finansiella entiteter för rapportering av en allvarlig IKT-relaterad incident eller anmälan av ett betydande cyberhot.
+
+De europeiska tillsynsmyndigheterna ska överlämna de gemensamma förslag till tekniska standarder för tillsyn som avses i första stycket a och de gemensamma förslag till tekniska genomförandestandarder som avses i första stycket b till kommissionen senast den 17 juli 2024.
+
+Kommissionen ges befogenhet att komplettera [denna förordning](/lagstiftning/dora) genom att anta de gemensamma tekniska standarder för tillsyn som avses i första stycket a i enlighet med artiklarna [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093)–[14](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+Kommissionen ges befogenhet att anta de gemensamma tekniska standarder för genomförande som avses i första stycket b i enlighet med artikel [15](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+### Artikel 21 – Centralisering av rapportering av allvarliga IKT-relaterade incidenter
+
+1\. De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén och i samråd med ECB och Enisa, utarbeta en gemensam rapport med en bedömning av genomförbarheten av ytterligare centralisering av incidentrapporteringen genom inrättandet av en gemensam EU-knutpunkt för finansiella entiteters rapportering av allvarliga IKT-relaterade incidenter. Den gemensamma rapporten ska innehålla en undersökning av olika sätt att underlätta flödet av IKT-relaterad incidentrapportering, minska de därmed sammanhängande kostnaderna och underbygga tematiska analyser i syfte att öka konvergensen i tillsynen.
+
+2\. Den gemensamma rapport som avses i punkt 1 ska innehålla minst följande:
+
+a) Förutsättningar för att inrätta en gemensam EU-knutpunkt.
+
+b) Fördelar, begränsningar och risker, inbegripet risker förknippade med hög koncentration av känslig information.
+
+c) Nödvändig kapacitet för att säkerställa interoperabilitet med andra relevanta rapporteringssystem.
+
+d) Inslag i den operativa förvaltningen.
+
+e) Villkor för medlemskap.
+
+f) Tekniska arrangemang för att finansiella entiteter och nationella behöriga myndigheter ska få tillgång till den gemensamma EU-knutpunkten.
+
+g) En preliminär bedömning av de finansiella kostnaderna för inrättandet av den operativa plattformen till stöd för den gemensamma EU-knutpunkten, inklusive den sakkunskap som krävs.
+
+3\. De europeiska tillsynsmyndigheterna ska överlämna den rapport som avses i punkt 1 till Europaparlamentet, rådet och kommissionen senast den 17 januari 2025.
+
+### Artikel 22 – Återkoppling från tillsynsmyndigheterna
+
+1\. Utan att det påverkar de tekniska uppgifterna, råden eller åtgärderna och efterföljande uppföljning, som i tillämpliga fall kan tillhandahållas i enlighet med nationell rätt, av CSIRT-enheterna enligt [direktiv (EU) 2022/2555](/lagstiftning/nis2), ska den behöriga myndigheten, efter mottagandet av den första anmälan och av varje rapport som avses i artikel [19.4](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot), bekräfta mottagandet och får, när så är möjligt, skyndsamt tillhandahålla relevant och proportionell återkoppling eller vägledning på hög nivå till den finansiella entiteten, särskilt genom att göra tillgänglig all eventuell relevant anonymiserad information och underrättelser om liknande hot, och får diskutera åtgärder som tillämpas på finansiell entitetsnivå, och sätt att minimera och mildra de negativa effekterna i den finansiella sektorn. Utan att det påverkar den återkoppling som mottagits från tillsynsmyndigheterna ska finansiella entiteter förbli fullt ansvariga för hanteringen av och konsekvenserna av IKT-relaterade incidenter som rapporteras enligt artikel [19.1](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+2\. De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén årligen lämna anonymiserade och aggregerade rapporter om allvarliga IKT-relaterade incidenter, vars detaljer ska komma från behöriga myndigheter i enlighet med artikel [19.6](#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot), med angivande av åtminstone antalet allvarliga IKT-relaterade incidenter och deras art, inverkan på finansiella entiteters eller kunders verksamhet, vidtagna avhjälpande åtgärder och uppkomna kostnader.
+
+De europeiska tillsynsmyndigheterna ska utfärda varningar och ta fram statistik på hög nivå till stöd för IKT-hot- och sårbarhetsbedömningar.
+
+### Artikel 23 – Betalningsrelaterade operativa incidenter eller säkerhetsincidenter som gäller kreditinstitut, betalningsinstitut, leverantörer av kontoinformationstjänster och institut för elektroniska pengar
+
+De krav som fastställs i [detta kapitel](/lagstiftning/dora/kap-3) ska också tillämpas på betalningsrelaterade operativa incidenter eller säkerhetsincidenter och på allvarliga betalningsrelaterade operativa incidenter eller säkerhetsincidenter, om de gäller kreditinstitut, betalningsinstitut, leverantörer av kontoinformationstjänster och institut för elektroniska pengar.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

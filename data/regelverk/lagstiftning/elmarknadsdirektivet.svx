@@ -1,0 +1,37 @@
+---
+'name': 'Elmarknadsdirektivet'
+'title': 'Europaparlamentets och rådets direktiv (EU) 2019/944'
+'type': 'eu-directive'
+'description': 'EU-direktiv om gemensamma regler för den inre marknaden för el.'
+'designation': 'EU 2019/944'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2019-06-05'
+'applies-from': '2021-01-01'
+'related':
+  - 'ellagen'
+  - 'elmarknadsforordningen'
+'sites':
+  - 'el'
+'url': 'http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – SYFTE OCH DEFINITIONER](/lagstiftning/elmarknadsdirektivet/kap-1) · Artiklarna 1–2
+- [Kapitel II – ALLMÄNNA REGLER FÖR ORGANISATIONEN AV ELSEKTORN](/lagstiftning/elmarknadsdirektivet/kap-2) · Artiklarna 3–9
+- [Kapitel III – KONSUMENTINFLYTANDE OCH KONSUMENTSKYDD](/lagstiftning/elmarknadsdirektivet/kap-3) · Artiklarna 10–29
+- [Kapitel IV – DRIFT AV DISTRIBUTIONSSYSTEM](/lagstiftning/elmarknadsdirektivet/kap-4) · Artiklarna 30–39
+- [Kapitel V – ALLMÄNNA BESTÄMMELSER FÖR SYSTEMANSVARIGA FÖR ÖVERFÖRINGSSYSTEM](/lagstiftning/elmarknadsdirektivet/kap-5) · Artiklarna 40–42
+- [Kapitel VI – ÅTSKILLNAD AV SYSTEMANSVARIGA FÖR ÖVERFÖRINGSSYSTEM](/lagstiftning/elmarknadsdirektivet/kap-6) · Artiklarna 43–56
+- [Kapitel VII – TILLSYNSMYNDIGHETER](/lagstiftning/elmarknadsdirektivet/kap-7) · Artiklarna 57–64
+- [Kapitel VIII – SLUTBESTÄMMELSER](/lagstiftning/elmarknadsdirektivet/kap-8) · Artiklarna 65–74
+<!-- scan-laws:end -->

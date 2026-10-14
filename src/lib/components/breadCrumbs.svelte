@@ -10,7 +10,7 @@
 				{#if i > 0}<li aria-hidden="true" class="select-none">/</li>{/if}
 				<li>
 					{#if item.href}
-						<a href={item.href} class="underline-offset-4 hover:underline hover:text-primary"
+						<a href={item.href} class="underline-offset-4 hover:text-primary hover:underline"
 							>{item.label}</a
 						>
 					{:else}

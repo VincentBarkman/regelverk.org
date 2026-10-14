@@ -1,0 +1,32 @@
+---
+'name': 'Arbetsmiljödirektivet'
+'title': 'Rådets direktiv 89/391/EEG'
+'type': 'eu-directive'
+'description': 'EU-ramverksdirektiv om åtgärder för att förbättra arbetstagares
+  säkerhet och hälsa i arbetet.'
+'designation': 'EEG 89/391'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '1989-06-29'
+'related':
+  - 'arbetsmiljolagen'
+'sites':
+  - 'arbetsmiljo'
+'url': 'http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3.0002.01'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [AVSNITT I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/arbetsmiljodirektivet/kap-1) · Artiklarna 1–4
+- [AVSNITT II – ARBETSGIVARNAS SKYLDIGHETER](/lagstiftning/arbetsmiljodirektivet/kap-2) · Artiklarna 5–12
+- [AVSNITT III – ARBETSTAGARNAS SKYLDIGHETER](/lagstiftning/arbetsmiljodirektivet/kap-3)
+- [AVSNITT IV – ÖVRIGA BESTÄMMELSER](/lagstiftning/arbetsmiljodirektivet/kap-4) · Artiklarna 14–19
+<!-- scan-laws:end -->

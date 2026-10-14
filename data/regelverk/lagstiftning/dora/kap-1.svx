@@ -1,0 +1,261 @@
+---
+'source': 'dora'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – Allmänna bestämmelser'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel I.'
+'designation': 'DORA-förordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_I'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Innehåll
+
+1\. I syfte att uppnå en hög gemensam nivå av digital operativ motståndskraft fastställs i [denna förordning](/lagstiftning/dora) enhetliga krav avseende säkerhet i nätverks- och informationssystem som stöder finansiella entiteters affärsprocesser enligt följande:
+
+a) Krav som är tillämpliga på finansiella entiteter i fråga om
+
+i) riskhantering inom informations- och kommunikationsteknik (IKT),
+
+ii) rapportering av allvarliga IKT-relaterade incidenter och underrättande om, på frivillig grund, betydande cyberhot till de behöriga myndigheterna,
+
+iii) rapportering av allvarliga betalningsrelaterade operativa incidenter eller säkerhetsincidenter till de behöriga myndigheterna av de finansiella entiteter som avses i artikel [2.1 a](#artikel-2-tillämpningsområde)–d,
+
+iv) testning av digital operativ motståndskraft,
+
+v) utbyte av information och underrättelser i samband med cyberhot och cybersårbarheter,
+
+vi) åtgärder för en sund hantering av tredjepartsrelaterad IKT-risk.
+
+b) Krav i samband med de kontraktsmässiga arrangemang som har ingåtts mellan tredjepartsleverantörer av IKT-tjänster och finansiella entiteter.
+
+c) Regler för inrättandet och genomförandet av tillsynsramen för kritiska tredjepartsleverantörer av IKT-tjänster när de tillhandahåller tjänster till finansiella entiteter.
+
+d) Regler om samarbete mellan behöriga myndigheter och regler om behöriga myndigheters tillsyn och kontroll av efterlevnaden i alla frågor som omfattas av [denna förordning](/lagstiftning/dora).
+
+2\. När det gäller finansiella entiteter som har identifierats som leverantörer av väsentliga eller viktiga entiteter enligt nationella regler som införlivar artikel [3](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) ska [denna förordning](/lagstiftning/dora) betraktas som en sektorsspecifik unionsrättsakt vid tillämpningen av artikel [4](/lagstiftning/nis2/kap-1#artikel-4-sektorsspecifika-unionsrättsakter) i det direktivet.
+
+3\. [Denna förordning](/lagstiftning/dora) påverkar inte medlemsstaternas ansvar vad gäller väsentliga statliga funktioner inom områdena allmän säkerhet, försvar och nationell säkerhet i enlighet med unionsrätten.
+
+### Artikel 2 – Tillämpningsområde
+
+1\. Utan att det påverkar tillämpningen av punkterna 3 och 4 är [denna förordning](/lagstiftning/dora) tillämplig på följande entiteter:
+
+a) Kreditinstitut.
+
+b) Betalningsinstitut, inbegripet sådana betalningsinstitut som är undantagna enligt [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366).
+
+c) Leverantörer av kontoinformationstjänster.
+
+d) Institut för elektroniska pengar, inbegripet sådana institut för elektroniska pengar som är undantagna enligt [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110).
+
+e) Värdepappersföretag.
+
+f) Leverantörer av kryptotillgångstjänster, auktoriserade enligt en Europaparlamentets och rådets förordning om marknader för kryptotillgångar och om ändring av [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) och [direktiven 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) och (EU) 2019/1937 (förordningen om kryptotillgångar) och emittenter av tillgångsanknutna token.
+
+g) Värdepapperscentraler.
+
+h) Centrala motparter.
+
+i) Handelsplatser.
+
+j) Transaktionsregister.
+
+k) Förvaltare av alternativa investeringsfonder.
+
+l) Förvaltningsbolag.
+
+m) Leverantörer av datarapporteringstjänster.
+
+n) Försäkrings- och återförsäkringsföretag.
+
+o) Försäkringsförmedlare, återförsäkringsförmedlare och försäkringsförmedlare som bedriver förmedling som sidoverksamhet.
+
+p) Tjänstepensionsinstitut.
+
+q) Kreditvärderingsinstitut.
+
+r) Administratörer av kritiska referensvärden.
+
+s) Leverantörer av gräsrotsfinansieringstjänster.
+
+t) Värdepapperiseringsregister.
+
+u) Tredjepartsleverantörer av IKT-tjänster.
+
+2\. Vid tillämpningen av [denna förordning](/lagstiftning/dora) ska de entiteter som avses i punkt 1 a–t tillsammans benämnas finansiella entiteter.
+
+3\. [Denna förordning](/lagstiftning/dora) är inte tillämplig på
+
+a) förvaltare av alternativa investeringsfonder som avses i artikel [3.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) i [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061),
+
+b) försäkrings- och återförsäkringsföretag som avses i artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) i [direktiv 2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138),
+
+c) tjänstepensionsinstitut som förvaltar pensionsplaner som tillsammans inte har fler än totalt 15 medlemmar,
+
+d) fysiska eller juridiska personer som är undantagna enligt artiklarna [2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) och [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) i [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065),
+
+e) försäkringsförmedlare, återförsäkringsförmedlare och försäkringsförmedlare som bedriver förmedling som sidoverksamhet som är mikroföretag eller små eller medelstora företag,
+
+f) postgiroinstitut som avses i artikel [2.5.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036).
+
+4\. Medlemsstaterna får från tillämpningsområdet för [denna förordning](/lagstiftning/dora) utesluta sådana enheter som avses i artikel [2.5.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036)–[2.5.23](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) om de är belägna inom deras respektive territorier. Om en medlemsstat utnyttjar en sådan möjlighet ska den informera kommissionen om detta samt om eventuella senare ändringar av detta. Kommissionen ska offentliggöra informationen på sin webbplats eller på annat lättillgängligt vis.
+
+### Artikel 3 – Definitioner
+
+I [denna förordning](/lagstiftning/dora) gäller följande definitioner:
+
+1\. digital operativ motståndskraft: en finansiell entitets förmåga att bygga upp, säkerställa och se över sin operativa integritet och tillförlitlighet genom att, direkt eller indirekt, med användning av tjänster från tredjepartsleverantörer av IKT-tjänster, säkerställa hela skalan av IKT-relaterad kapacitet som behövs för att hantera säkerheten i de nätverks- och informationssystem som en finansiell entitet använder och som stöder ett fortlöpande tillhandahållande av finansiella tjänster och deras kvalitet, inbegripet under avbrott.
+
+2\. nätverks- och informationssystem: ett nätverks- och informationssystem enligt definitionen i artikel [6.1](/lagstiftning/nis2/kap-1#artikel-6-definitioner) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+3\. äldre IKT-system: ett IKT-system som har nått slutet på sin livscykel, som inte lämpar sig för uppgraderingar eller justeringar, av tekniska eller kommersiella skäl, eller som inte längre stöds av leverantören eller av en tredjepartsleverantör av IKT-tjänster, men som fortfarande används och stöder den finansiella entitetens funktioner.
+
+4\. säkerhet i nätverks- och informationssystem: ett säkerhet i nätverks- och informationssystem enligt definitionen i artikel [6.2](/lagstiftning/nis2/kap-1#artikel-6-definitioner) i [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+5\. IKT-risk: varje rimligen identifierbar omständighet i samband med användningen av nätverks- och informationssystem som, om de inträffar, kan äventyra säkerheten i nätverks- och informationssystem, verktyg eller processer som är teknikberoende, funktioner och processer eller tillhandahållandet av tjänster genom att orsaka negativa effekter i den digitala eller fysiska miljön.
+
+6\. informationstillgång: en samling materiell eller immateriell skyddsvärd information.
+
+7\. IKT-tillgång: en programvaru- eller maskinvarutillgång i nätverks- och informationssystemen som används av den finansiella entiteten.
+
+8\. IKT-relaterad incident: en enskild händelse eller en serie sammankopplade händelser som inte planerats av den finansiella entiteten och som äventyrar säkerheten i nätverks- och informationssystemen och har negativ inverkan på tillgängligheten, äktheten, integriteten eller konfidentialiteten vad gäller datan eller de tjänster som tillhandahålls av den finansiella entiteten.
+
+9\. betalningsrelaterad operativ incident eller säkerhetsincident: en enskild händelse eller en serie sammankopplade händelser som inte planerats av de finansiella entiteter som avses i artikel [2.1 a](#artikel-2-tillämpningsområde)–d och som kan vara IKT-relaterade men inte behöver vara det och har negativ inverkan på tillgängligheten, äktheten, integriteten eller konfidentialiteten vad gäller betalningsrelaterade data eller de betalningsrelaterade tjänster som tillhandahålls av den finansiella entiteten.
+
+10\. allvarlig IKT-relaterad incident: en IKT-relaterad incident som har stor negativ inverkan på nätverks- och informationssystem som stöder den finansiella entitetens kritiska eller viktiga funktioner.
+
+11\. allvarlig betalningsrelaterad operativ incident eller säkerhetsincident: en betalningsrelaterad operativ incident eller säkerhetsincident som har stor negativ inverkan på de betalningsrelaterade tjänster som tillhandahålls.
+
+12\. cyberhot: ett cyberhot enligt definitionen i artikel [2.8](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) i [förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881).
+
+13\. betydande cyberhot: ett cyberhot vars tekniska egenskaper indikerar att det potentiellt kan leda till en allvarlig IKT-relaterad incident eller allvarlig betalningsrelaterad operativ incident eller säkerhetsincident.
+
+14\. cyberangrepp: en skadlig IKT-relaterad incident orsakad av ett försök av en fientlig aktör att förstöra, exponera, ändra, deaktivera, stjäla eller få obehörig åtkomst till eller obehörigt utnyttja en tillgång.
+
+15\. underrättelser om hot: information som har sammanställts, omvandlats, analyserats, tolkats eller berikats för att skapa det sammanhang som krävs för beslutsfattande och som möjliggör relevant och tillräcklig förståelse för att mildra effekterna av en IKT-relaterad incident eller ett cyberhot, inbegripet de tekniska detaljerna om ett cyberangrepp, de ansvariga för attacken och deras tillvägagångssätt och motiv.
+
+16\. sårbarhet: en svaghet, mottaglighet eller brist hos en tillgång, ett system, en process eller en kontroll som kan utnyttjas.
+
+17\. hotbildsstyrd penetrationstestning: en ram som efterliknar den taktik, teknik och de förfaranden som används av verkliga fientliga aktörer, som uppfattas som ett genuint cyberhot och som ger ett kontrollerat, skräddarsytt, underrättelsestyrt (rött lag) test av de kritiska produktionssystem som är i drift hos den finansiella entiteten.
+
+18\. IKT-tredjepartsrisk: en IKT-risk som kan uppstå för en finansiell entitet i samband med dess användning av IKT-tjänster som tillhandahålls av tredjepartsleverantörer av IKT-tjänster eller av underleverantörer till sådana leverantörer, inbegripet genom utkontrakteringsarrangemang.
+
+19\. tredjepartsleverantör av IKT-tjänster: ett företag som tillhandahåller IKT-tjänster.
+
+20\. koncernintern IKT-tjänsteleverantör: ett företag som ingår i en finansiell koncern och som huvudsakligen tillhandahåller IKT-tjänster till finansiella entiteter inom samma koncern eller till finansiella entiteter som tillhör samma institutionella skyddssystem, inbegripet till deras moderföretag, dotterföretag, filialer eller andra entiteter som står under samma ägarskap eller kontroll.
+
+21\. IKT-tjänster: digitala tjänster och datatjänster som fortlöpande tillhandahålls genom IKT-system till en eller flera interna eller externa användare, inbegripet maskinvara som tjänst och maskinvarutjänster som inbegriper tillhandahållande av teknisk support genom uppdateringar av programvara eller fast programvara från maskinvaruleverantören, ej inbegripet traditionella analoga telefontjänster.
+
+22\. kritisk eller viktig funktion: en funktion vars avbrott väsentligt skulle försämra den finansiella entitetens finansiella resultat eller sundheten eller kontinuiteten i dess tjänster och verksamhet, eller om funktionens upphörande, brister eller misslyckande väsentligt skulle försämra en finansiell entitets fortsatta efterlevnad av villkoren och skyldigheterna i auktorisationen eller av dess övriga skyldigheter enligt tillämplig rätt avseende finansiella tjänster.
+
+23\. kritisk tredjepartsleverantör av IKT-tjänster: en tredjepartsleverantör av IKT-tjänster som har klassificerats som kritisk i enlighet med artikel [31](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska).
+
+24\. tredjepartsleverantör av IKT-tjänster som är etablerad i ett tredjeland: en tredjepartsleverantör av IKT-tjänster som är en juridisk person som är etablerad i ett tredjeland och som har ingått ett kontraktsmässigt arrangemang med en finansiell entitet om tillhandahållande av IKT-tjänster.
+
+25\. dotterföretag: ett dotterföretag i den mening som avses i artiklarna [2.10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) och [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) i [direktiv 2013/34/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034).
+
+26\. koncern: en koncern enligt definitionen i artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) i [direktiv 2013/34/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034).
+
+27\. moderföretag: ett moderföretag i den mening som avses i artiklarna [2.9](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) och [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) i [direktiv 2013/34/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034).
+
+28\. IKT-underleverantör etablerad i ett tredjeland: en IKT-underleverantör som är en juridisk person som är etablerad i ett tredjeland och som har ingått ett kontraktsmässigt arrangemang antingen med en tredjepartsleverantör av IKT-tjänster eller med en tredjepartsleverantör av IKT-tjänster som är etablerad i ett tredjeland.
+
+29\. IKT-koncentrationsrisk: exponering mot enskilda eller flera närstående kritiska tredjepartsleverantörer av IKT-tjänster som skapar ett visst beroende av sådana leverantörer, så att otillgänglighet, fel eller annan typ av brist hos sådana leverantörer kan komma att äventyra förmågan hos en finansiell entitet att tillhandahålla kritiska eller viktiga funktioner eller leda till andra typer av negativa effekter, inbegripet stora förluster, eller äventyra den finansiella stabiliteten i unionen som helhet.
+
+30\. ledningsorgan: ett ledningsorgan enligt definitionen i artikel [4.1.36](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) i [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065), artikel [3.1.7](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036), artikel [2.1 s](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) i Europaparlamentets och rådets [direktiv 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) (31), artikel [2.1.45](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) i [förordning (EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909), artikel [3.1.20](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) i [förordning (EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) och i de relevanta bestämmelserna i förordningen om kryptotillgångar, eller motsvarande personer som i praktiken leder entiteten eller har nyckelfunktioner i enlighet med relevant unionsrätt eller nationell rätt.
+
+31\. kreditinstitut: ett kreditinstitut enligt definitionen i artikel [4.1.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575) i [Europaparlamentets och rådets förordning (EU) nr 575/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575) (32).
+
+32\. institut undantaget enligt [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036): en sådan enhet som avses i artikel [2.5.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036)–[2.5.23](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036).
+
+33\. värdepappersföretag: ett värdepappersföretag enligt definitionen i artikel [4.1.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) i [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065).
+
+34\. litet och icke-sammanlänkat värdepappersföretag: ett värdepappersföretag som uppfyller villkoren i artikel [12.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R2033) i [Europaparlamentets och rådets förordning (EU) 2019/2033](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R2033) (33).
+
+35\. betalningsinstitut: ett betalningsinstitut enligt definitionen i artikel [4.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366).
+
+36\. betalningsinstitut undantaget enligt [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366): sådana betalningsinstitut som är undantagna enligt artikel [32.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366).
+
+37\. leverantör av kontoinformationstjänster: sådana leverantörer av kontoinformationstjänster som avses i artikel [33.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366).
+
+38\. institut för elektroniska pengar: ett institut för elektroniska pengar enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110) i Europaparlamentets och rådets [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110).
+
+39\. institut för elektroniska pengar undantaget enligt [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110): ett institut för elektroniska pengar som omfattas av ett undantag enligt artikel [9.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110) i [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110).
+
+40\. central motpart: en central motpart enligt definitionen i artikel 2.1 [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648).
+
+41\. transaktionsregister: ett transaktionsregister enligt definitionen i artikel [2.2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) i [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648).
+
+42\. värdepapperscentral: en värdepapperscentral enligt definitionen i artikel [2.1.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) i [förordning (EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909).
+
+43\. handelsplats: en handelsplats enligt definitionen i artikel [4.1.24](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) i [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065).
+
+44\. förvaltare av alternativa investeringsfonder: en förvaltare av alternativa investeringsfonder enligt definitionen i artikel [4.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) i [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061).
+
+45\. förvaltningsbolag: ett förvaltningsbolag enligt definitionen i artikel [2.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) i [direktiv 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065).
+
+46\. leverantör av datarapporteringstjänster: en leverantör av datarapporteringstjänster i enlighet med vad som avses i artikel [2.1.34](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600)–[36](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600) i [förordning (EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600).
+
+47\. försäkringsföretag: ett försäkringsföretag enligt definitionen i artikel [13.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) i [direktiv 2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138).
+
+48\. återförsäkringsföretag: ett återförsäkringsföretag enligt definitionen i artikel [13.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) i [direktiv 2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138).
+
+49\. försäkringsförmedlare: en försäkringsförmedlare enligt definitionen i artikel [2.1.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) i [Europaparlamentets och rådets direktiv (EU) 2016/97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) (34).
+
+50\. försäkringsförmedlare som bedriver förmedling som sidoverksamhet: en försäkringsförmedlare som bedriver förmedling som sidoverksamhet enligt definitionen i artikel [2.1.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) i [direktiv (EU) 2016/97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097).
+
+51\. återförsäkringsförmedlare: en återförsäkringsförmedlare enligt definitionen i artikel [2.1.5](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) i [direktiv (EU) 2016/97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097).
+
+52\. tjänstepensionsinstitut: ett tjänstepensionsinstitut enligt definitionen i artikel [6.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2341) i [direktiv (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2341).
+
+53\. litet tjänstepensionsinstitut: ett tjänstepensionsinstitut som förvaltar pensionsplaner som tillsammans inte har fler än totalt 100 medlemmar.
+
+54\. kreditvärderingsinstitut: ett kreditvärderingsinstitut enligt definitionen i artikel [3.1 b](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) i [förordning (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060).
+
+55\. leverantör av kryptotillgångstjänster: en leverantör av kryptotillgångstjänster enligt definitionen i de relevanta bestämmelserna i förordningen om kryptotillgångar.
+
+56\. emittent av tillgångsanknutna token: en emittent av tillgångsanknutna token enligt definitionen i de relevanta bestämmelserna i förordningen om kryptotillgångar.
+
+57\. administratör av kritiska referensvärden: en administratör av kritiska referensvärden enligt definitionen i artikel [3.1.25](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) i [förordning (EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011).
+
+58\. leverantör av gräsrotsfinansieringstjänster: en leverantör av gräsrotsfinansieringstjänster enligt definitionen i artikel [2.1 e](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020R1503) i [Europaparlamentets och rådets förordning (EU) 2020/1503](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020R1503) (35).
+
+59\. värdepapperiseringsregister: ett värdepapperiseringsregister enligt definitionen i artikel [2.23](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R2402) i [Europaparlamentets och rådets förordning (EU) 2017/2402](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R2402) (36).
+
+60\. mikroföretag: en finansiell entitet, som inte är en handelsplats, en central motpart, ett transaktionsregister eller en värdepapperscentral, och som har färre än 10 anställda och en årsomsättning och/eller årlig balansomslutning som inte överstiger 2 miljoner EUR.
+
+61\. ledande tillsynsmyndighet: den europeiska tillsynsmyndighet som utses i enlighet med artikel [31.1 b](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) i [denna förordning](/lagstiftning/dora).
+
+62\. den gemensamma kommittén: den kommitté som avses i artikel [54](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) i [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095).
+
+63\. litet företag: en finansiell entitet med tio eller fler anställda men färre än 50 anställda och en årsomsättning och/eller årlig balansomslutning som överstiger 2 miljoner EUR men som inte överstiger 10 miljoner EUR.
+
+64\. medelstort företag: en finansiell entitet som inte är ett litet företag och som har färre än 250 anställda och en årsomsättning som inte överstiger 50 miljoner EUR och/eller en årlig balansomslutning som inte överstiger 43 miljoner EUR.
+
+65\. offentlig myndighet: alla statliga entiteter eller andra entiteter inom offentlig förvaltning, inbegripet nationella centralbanker.
+
+### Artikel 4 – Proportionalitetsprincipen
+
+1\. Finansiella entiteter ska genomföra reglerna i [kapitel II](/lagstiftning/dora/kap-2) i enlighet med proportionalitetsprincipen, och med beaktande av sin storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i sina tjänster, sin verksamhet och sina insatser.
+
+2\. Dessutom ska finansiella entiteters tillämpning av kapitlen III, IV och V, avsnitt I, stå i proportion till deras storlek och allmänna riskprofil, och karaktären på, omfattningen av och komplexiteten i sina tjänster, verksamhet och insatser, i enlighet med vad som specificeras i de relevanta reglerna i dessa kapitel.
+
+3\. De behöriga myndigheterna ska beakta finansiella entiteters tillämpning av proportionalitetsprincipen när de ser över enhetligheten i IKT-riskhanteringsramen baserat på de rapporter som lämnats in på begäran av de behöriga myndigheterna enligt artiklarna [6.5](/lagstiftning/dora/kap-2#artikel-6-ikt-riskhanteringsram) och [16.2](/lagstiftning/dora/kap-2#artikel-16-förenklad-ikt-riskhanteringsram).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

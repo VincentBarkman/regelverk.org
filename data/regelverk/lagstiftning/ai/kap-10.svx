@@ -1,0 +1,70 @@
+---
+'source': 'ai'
+'ref': 'Kapitel X'
+'title': 'Kapitel X – UPPFÖRANDEKODER OCH RIKTLINJER'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel X.'
+'designation': 'AI-förordningen Kapitel X'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_X'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 95 – Uppförandekod för frivillig tillämpning av specifika krav
+
+1\. AI-byrån och medlemsstaterna ska uppmuntra och underlätta utarbetandet av uppförandekoder, inbegripet tillhörande styrningsmekanismer, som är avsedda att främja frivillig tillämpning på AI-system, utom AI-system med hög risk, av vissa eller alla av de krav som anges i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2, med beaktande av tillgängliga tekniska lösningar och bästa branschpraxis som möjliggör tillämpning av sådana krav.
+
+2\. AI-byrån och medlemsstaterna ska underlätta utarbetandet av uppförandekoder för frivillig tillämpning, inbegripet av tillhandahållare, av särskilda krav på alla AI-system, på grundval av tydliga mål och centrala resultatindikatorer för att mäta uppnåendet av dessa mål, inbegripet men inte begränsat till, sådana inslag som
+
+a) tillämpliga inslag som föreskrivs i unionens etiska riktlinjer för tillförlitlig AI,
+
+b) bedöma och minimera AI-systemens inverkan på miljömässig hållbarhet, inbegripet när det gäller energieffektiv programmering och teknik för effektiv utformning, träning och användning av AI,
+
+c) främja AI-kunnighet, särskilt hos personer som arbetar med utveckling, drift och användning av AI,
+
+d) underlätta en inkluderande och diversifierad utformning av AI-system, bland annat genom att inrätta inkluderande och diversifierade utvecklingsteam och främja berörda parters deltagande i den processen,
+
+e) bedöma och förebygga AI-systemens negativa inverkan på sårbara personer eller grupper av sårbara personer, inbegripet när det gäller tillgänglighet för personer med funktionsnedsättning, samt på jämställdheten.
+
+3\. Uppförandekoder får utarbetas av enskilda leverantörer eller tillhandahållare av AI-system eller av organisationer som företräder dem eller av båda dessa, inbegripet genom att eventuella berörda parter och deras representativa organisationer involveras, inbegripet organisationer i civilsamhället och den akademiska världen. Uppförandekoder får omfatta ett eller flera AI-system med beaktande av likheten mellan de berörda systemens avsedda ändamål.
+
+4\. När AI-byrån och medlemsstaterna uppmuntrar och underlättar utarbetandet av uppförandekoder ska de ta hänsyn till de särskilda intressen och behov som små och medelstora företag, inbegripet uppstartsföretag, har.
+
+### Artikel 96 – Riktlinjer från kommissionen om genomförandet av denna förordning
+
+1\. Kommissionen ska utarbeta riktlinjer för det praktiska genomförandet av [denna förordning](/lagstiftning/ai), särskilt avseende
+
+a) tillämpningen av de krav och skyldigheter som avses i artiklarna [8](/lagstiftning/ai/kap-3#artikel-8-förenlighet-med-kraven)–[15](/lagstiftning/ai/kap-3#artikel-15-riktighet-robusthet-och-cybersäkerhet) och i artikel [25](/lagstiftning/ai/kap-3#artikel-25-ansvar-längs-ai-värdekedjan),
+
+b) de förbjudna användningsområden som avses i artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden),
+
+c) det praktiska genomförandet av bestämmelserna om väsentliga ändringar,
+
+d) det praktiska genomförandet av de transparensskyldigheter som fastställs i artikel [50](/lagstiftning/ai/kap-4#artikel-50-transparensskyldigheter-för-leverantörer-och-tillhandahållare-av-vissa-ai-system),
+
+e) detaljerad information om [denna förordnings](/lagstiftning/ai) förhållande till unionens harmoniseringslagstiftning som förtecknas i bilaga I samt med annan relevant unionsrätt, inbegripet när det gäller enhetlighet i efterlevnaden av den,
+
+f) tillämpningen av definitionen av ett AI-system enligt artikel [3.1](/lagstiftning/ai/kap-1#artikel-3-definitioner).
+
+När kommissionen utfärdar sådana riktlinjer ska den ägna särskild uppmärksamhet åt behoven hos små och medelstora företag, inbegripet uppstartsföretag, lokala offentliga myndigheter och sektorer som mest sannolikt kommer att beröras av [denna förordning](/lagstiftning/ai).
+
+De riktlinjer som avses i första stycket i denna punkt ska ta vederbörlig hänsyn till den allmänt erkända senaste utvecklingen när det gäller AI samt till relevanta harmoniserade standarder och gemensamma specifikationer som avses i artiklarna [40](/lagstiftning/ai/kap-3#artikel-40-harmoniserade-standarder-och-standardiseringsprodukter) och [41](/lagstiftning/ai/kap-3#artikel-41-gemensamma-specifikationer), eller till de harmoniserade standarder eller tekniska specifikationer som fastställs enligt unionens harmoniseringslagstiftning.
+
+2\. På begäran av medlemsstaterna eller AI-byrån, eller på eget initiativ, ska kommissionen uppdatera redan antagna riktlinjer när det anses nödvändigt.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

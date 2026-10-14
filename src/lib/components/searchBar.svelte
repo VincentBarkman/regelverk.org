@@ -299,7 +299,9 @@
 											<Icon class="size-3.5 text-primary/40" aria-hidden="true" />
 										</span>
 										<span class="flex min-w-0 flex-1 flex-col">
-											<span class="truncate font-serif text-sm font-semibold text-primary">{item.title}</span>
+											<span class="truncate font-serif text-sm font-semibold text-primary"
+												>{item.title}</span
+											>
 											{#if item.description}
 												<span class="truncate text-xs text-primary/55">{item.description}</span>
 											{/if}

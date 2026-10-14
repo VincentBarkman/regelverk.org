@@ -1,0 +1,321 @@
+---
+'source': 'dora'
+'ref': 'Kapitel IX'
+'title': 'Kapitel IX – Övergångs- och slutbestämmelser'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel IX.'
+'designation': 'DORA-förordningen Kapitel IX'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_IX'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 58 – Översynsklausul
+
+1\. Senast den 17 januari 2028 ska kommissionen, efter samråd med de europeiska tillsynsmyndigheterna och ESRB, när så är lämpligt, genomföra en översyn och överlämna en rapport till Europaparlamentet och rådet, när så är lämpligt åtföljd av ett lagstiftningsförslag. Översynen ska minst omfatta följande:
+
+a) Kriterierna för att klassificera tredjepartsleverantörer av IKT-tjänster som kritiska i enlighet med artikel [31.2](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska).
+
+b) Den frivilliga karaktären hos den anmälan av betydande cyberhot som avses i artikel [19](/lagstiftning/dora/kap-3#artikel-19-rapportering-av-allvarliga-ikt-relaterade-incidenter-och-frivillig-anmälan-av-betydande-cyberhot).
+
+c) Den ordning som avses i artikel [31.12](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) och de befogenheter för den ledande tillsynsmyndigheten som föreskrivs i artikel [35.1 d](/lagstiftning/dora/kap-5#artikel-35-den-ledande-tillsynsmyndighetens-befogenheter) iv första strecksatsen, i syfte att utvärdera om dessa bestämmelser är ändamålsenliga för att säkerställa en effektiv tillsyn av kritiska tredjepartsleverantörer av IKT-tjänster som är etablerade i ett tredjeland och om det är nödvändigt att etablera ett dotterföretag i unionen.
+
+Vid tillämpning av första stycket i detta led ska översynen omfatta en analys av den ordning som avses i artikel [31.12](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska), inbegripet vad gäller åtkomst för finansiella entiteter i unionen till tjänster från tredjeländer och tillgång till sådana tjänster på marknaden i unionen, och den ska ta hänsyn till den fortsatta utvecklingen på marknaderna för de tjänster som omfattas av [denna förordning](/lagstiftning/dora), finansiella entiteters och de finansiella tillsynsmyndigheternas praktiska erfarenheter av tillämpningen respektive tillsynen av den ordningen samt all relevant utveckling inom reglering och tillsyn som äger rum på internationell nivå.
+
+d) Lämpligheten i att i tillämpningsområdet för [denna förordning](/lagstiftning/dora) inkludera sådana finansiella entiteter som avses i artikel [2.3 e](/lagstiftning/dora/kap-1#artikel-2-tillämpningsområde) som använder automatiska försäljningssystem, mot bakgrund av den framtida marknadsutvecklingen när det gäller användningen av sådana system.
+
+e) Det gemensamma tillsynsnätverkets funktion och ändamålsenlighet när det gäller att stödja konsekvens i tillsynen och effektivitet i informationsutbytet inom tillsynsramen.
+
+2\. I samband med översynen av [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) ska kommissionen bedöma behovet av ökad cyberresiliens i betalningssystem och betalningshantering och lämpligheten i att utvidga tillämpningsområdet för [denna förordning](/lagstiftning/dora) till att även omfatta betalningssystemsoperatörer och enheter som deltar i betalningshantering. Mot bakgrund av denna bedömning ska kommissionen, som en del av översynen av [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366), lägga fram en rapport för Europaparlamentet och rådet senast den 17 juli 2023.
+
+Baserat på den översynsrapporten och efter samråd med de europeiska tillsynsmyndigheterna, ECB och ESRB får kommissionen, när så är lämpligt och som en del av det lagstiftningsförslag som den får anta i enlighet med artikel [108](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) andra stycket i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366), lägga fram ett förslag för att säkerställa att alla betalningssystemsoperatörer och entiteter som deltar i betalningshantering är föremål för lämplig tillsyn, samtidigt som hänsyn tas till den befintliga tillsynen av centralbanken.
+
+3\. Senast den 17 januari 2026 ska kommissionen, efter samråd med de europeiska tillsynsmyndigheterna och kommittén för europeiska tillsynsorgan för revisorer, genomföra en översyn och överlämna en rapport till Europaparlamentet och rådet, vid behov åtföljd av ett lagstiftningsförslag, om huruvida det är lämpligt att stärka kraven för lagstadgade revisorer och revisionsföretag när det gäller digital operativ motståndskraft genom att inkludera lagstadgade revisorer och revisionsföretag i tillämpningsområdet för [denna förordning](/lagstiftning/dora) eller genom att ändra Europaparlamentets och rådets [direktiv 2006/43/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0043) (39).
+
+### Artikel 59 – Ändringar av förordning (EG) nr 1060/2009
+
+[Förordning (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) ska ändras på följande sätt:
+
+1\. I bilaga I avsnitt A punkt 4 ska första stycket ersättas med följande:
+
+”Ett kreditvärderingsinstitut ska tillämpa sunda förfaranden för förvaltning och redovisning samt ha mekanismer för internkontroll och effektiva riskbedömningsmetoder samt effektiva kontroll- och skyddssystem för förvaltningen av sina IKT-system i enlighet med [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) (*1).
+
+(*1) [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (EUT L 333, 27.12.2022, s. 1).”
+
+"
+
+2\. I bilaga III ska punkt 12 ersättas med följande:
+
+”12.
+
+Ett kreditvärderingsinstitut bryter mot artikel [6.2](/lagstiftning/dora/kap-2#artikel-6-ikt-riskhanteringsram), jämförd med bilaga I avsnitt A punkt 4, om det inte tillämpar sunda förfaranden för förvaltning eller redovisning eller inte har mekanismer för internkontroll eller effektiva riskbedömningsmetoder samt effektiva kontroll- eller skyddssystem för förvaltningen av sina IKT-system i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), eller om det inte tillämpar eller upprätthåller beslutsförfaranden och organisationsstrukturer enligt vad som krävs i den punkten.”
+
+### Artikel 60 – Ändringar av förordning (EU) nr 648/2012
+
+[Förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) ska ändras på följande sätt:
+
+1\. Artikel [26](/lagstiftning/dora/kap-4#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) ska ändras på följande sätt:
+
+a) Punkt 3 ska ersättas med följande:
+
+”3. En central motpart ska upprätthålla en organisationsstruktur som säkerställer en kontinuerlig och väl fungerande verksamhet och tillhandahållande av tjänster. Den ska använda lämpliga och proportionella system, resurser och förfaranden, inbegripet IKT-system som förvaltas i enlighet med [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) (*2).
+
+(*2) [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (EUT L 333, 27.12.2022. s. 1).”
+
+"
+
+b) Punkt 6 ska utgå.
+
+2\. Artikel [34](/lagstiftning/dora/kap-5#artikel-34-operativ-samordning-mellan-ledande-tillsynsmyndigheter) ska ändras på följande sätt:
+
+a) Punkt 1 ska ersättas med följande:
+
+”1. En central motpart ska etablera, genomföra och upprätthålla lämpliga riktlinjer för kontinuerlig verksamhet och en lämplig katastrofplan, vilket ska innefatta IKT-kontinuitetspolicy och åtgärds- och återställningsplaner avseende IKT som har upprättats och genomförts i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), för att säkerställa verksamheten, snabbt återuppta den och fullgöra den centrala motpartens skyldigheter.”
+
+b) I punkt 3 ska första stycket ersättas med följande:
+
+”3. För att säkerställa en konsekvent tillämpning av [denna artikel](#artikel-60-ändringar-av-förordning-eu-nr-648-2012) ska Esma, efter samråd med ECBS-medlemmarna, utarbeta förslag till tekniska standarder för tillsyn med närmare uppgifter om minimiinnehåll och krav avseende riktlinjerna för kontinuerlig verksamhet och katastrofplanen, exklusive IKT-kontinuitetspolicy och IKT-katastrofplanerna.”
+
+3\. I artikel [56.3](/lagstiftning/dora/kap-7#artikel-56-dataskydd) ska första stycket ersättas med följande:
+
+”3. För att säkerställa en konsekvent tillämpning av [denna artikel](#artikel-60-ändringar-av-förordning-eu-nr-648-2012) ska Esma utarbeta förslag till tekniska standarder för tillsyn med närmare uppgifter om den ansökan om registrering som avses i punkt 1, utom för krav som rör IKT-riskhantering.”
+
+4\. I artikel [79](/lagstiftning/dora) ska punkterna 1 och 2 ersättas med följande:
+
+”1. Ett transaktionsregister ska kartlägga operativa riskkällor och minimera dem genom att utveckla lämpliga system, kontroller och förfaranden, inbegripet IKT-system som förvaltas i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora).
+
+2\. Ett transaktionsregister ska utforma, tillämpa och upprätthålla tillräckliga riktlinjer för kontinuerlig verksamhet och en katastrofplan, inbegripet IKT-kontinuitetspolicy och åtgärds- och återställningsplaner avseende IKT som har upprättats i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), för att säkerställa verksamheten, snabbt kunna återuppta den och fullgöra transaktionsregistrets skyldigheter.”
+
+5\. I artikel [80](/lagstiftning/dora) ska punkt 1 utgå.
+
+6\. I bilaga I ska avsnitt II ändras på följande sätt:
+
+a) Leden a och b ska ersättas med följande:
+
+”a)
+
+Ett transaktionsregister bryter mot artikel [79.1](/lagstiftning/dora) om det inte identifierar operativa riskkällor eller inte minimerar dessa risker genom att utveckla lämpliga system, kontroller och förfaranden, inbegripet IKT-system som förvaltas i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora).
+
+b) Ett transaktionsregister bryter mot artikel [79.2](/lagstiftning/dora) om det inte utformar, tillämpar eller upprätthåller en lämplig strategiplan för kontinuerlig verksamhet och en katastrofplan som har upprättats i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), för att säkerställa verksamheten, snabbt kunna återuppta den och fullgöra transaktionsregistrets skyldigheter.”
+
+b) Led c ska utgå.
+
+7\. Bilaga III ska ändras på följande sätt:
+
+a) Avsnitt II ska ändras på följande sätt:
+
+i) Led c ska ersättas med följande:
+
+”c)
+
+En central motpart i kategori 2 överträder artikel [26.3](/lagstiftning/dora/kap-4#artikel-26-avancerad-testning-av-ikt-verktyg-ikt-system-och-ikt-processer-baserad-på-hotbildsstyrd-penetrationstestning) om den inte upprätthåller en organisationsstruktur som säkerställer en kontinuerlig och väl fungerande verksamhet och tillhandahållande av tjänster, eller om den inte använder lämpliga och proportionella system, resurser eller förfaranden, inbegripet IKT-system som förvaltas i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora).”
+
+ii) Led f ska utgå.
+
+b) I avsnitt III ska led a ersättas med följande:
+
+”a)
+
+En central motpart i kategori 2 överträder artikel [34.1](/lagstiftning/dora/kap-5#artikel-34-operativ-samordning-mellan-ledande-tillsynsmyndigheter) om den inte utformar, genomför eller upprätthåller lämpliga riktlinjer för kontinuerlig verksamhet och en åtgärds- och återställningsplan som har upprättats i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), för att säkerställa verksamheten, snabbt kunna återuppta den och fullgöra den centrala motpartens skyldigheter, vilket åtminstone ger möjlighet att återställa alla transaktioner till vad de var vid tidpunkten för störningen, så att den centrala motpartens verksamhet är fortsatt säker och den kan fullfölja avvecklingen vid fastställt datum.”
+
+### Artikel 61 – Ändringar av förordning (EU) nr 909/2014
+
+Artikel [45](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) i [förordning (EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) ska ändras på följande sätt:
+
+1\. Punkt 1 ska ersättas med följande:
+
+”1. En värdepapperscentral ska identifiera källor till operativ risk, såväl interna som externa, och minimera deras effekt genom att använda lämpliga IKT-verktyg, IKT-processer och IKT-strategier som har inrättats och förvaltas i enlighet med [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) (*3), samt andra relevanta lämpliga verktyg, kontroller och förfaranden för andra typer av operativa risker, inbegripet för samtliga avvecklingssystem för värdepapper som den driver.
+
+(*3) [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (EUT L 333, 27.12.2022, s. 1).”
+
+"
+
+2\. Punkt 2 ska utgå.
+
+3\. Punkterna 3 och 4 ska ersättas med följande:
+
+”3. En värdepapperscentral ska för tjänster som den tillhandahåller samt för varje avvecklingssystem för värdepapper som den driver upprätta, genomföra och upprätthålla ändamålsenliga riktlinjer för driftskontinuitet och en plan för katastrofberedskap, inbegripet IKT-kontinuitetspolicy och åtgärds- och återställningsplaner avseende IKT som har inrättats i enlighet med [förordning (EU) 2022/2554](/lagstiftning/dora), för att se till att dess tjänster kan upprätthållas, driften snabbt kan återupptas och värdepapperscentralens skyldigheter kan fullgöras vid händelser som medför en betydande risk för avbrott i verksamheten.
+
+4\. Den plan som avses i punkt 3 ska göra det möjligt att återupprätta alla transaktioner och deltagares positioner vid tidpunkten för avbrottet, så att värdepapperscentralens deltagare kan fortsätta sin verksamhet på ett säkert sätt och avvecklingen kan fullföljas på fastställd dag, inbegripet genom att säkerställa att driften av avgörande it-system kan återupptas från och med tidpunkten för avbrottet i enlighet med vad som föreskrivs i artikel [12.5](/lagstiftning/dora/kap-2#artikel-12-strategier-och-förfaranden-för-säkerhetskopiering-och-förfaranden-och-metoder-för-återskapande-och-återställning) och [12.7](/lagstiftning/dora/kap-2#artikel-12-strategier-och-förfaranden-för-säkerhetskopiering-och-förfaranden-och-metoder-för-återskapande-och-återställning) i [förordning (EU) 2022/2554](/lagstiftning/dora).”
+
+4\. Punkt 6 ska ersättas med följande:
+
+”6. En värdepapperscentral ska identifiera, övervaka och hantera de risker för verksamheten som de viktigaste deltagarna i det avvecklingssystem för värdepapper som den driver samt tjänsteleverantörer, andra värdepapperscentraler eller andra marknadsinfrastrukturer kan utgöra för dess verksamhet. Den ska på begäran tillhandahålla behöriga och relevanta myndigheter information om varje sådan risk som har identifierats. Den ska även utan dröjsmål informera den behöriga myndigheten och de relevanta myndigheterna om alla operativa incidenter till följd av sådana risker, med undantag för IKT-risk.”
+
+5\. I punkt 7 ska första stycket ersättas med följande:
+
+”7. Esma ska i nära samarbete med medlemmarna i ECBS utarbeta förslag till tekniska standarder för tillsyn i syfte att fastställa de operativa risker som avses i punkterna 1 och 6, med undantag för IKT-risker, och de metoder för att testa, hantera och minimera de riskerna, inbegripet de riktlinjer för driftskontinuitet och planer för katastrofberedskap som avses i punkterna 3 och 4 samt metoderna för att bedöma dessa.”
+
+### Artikel 62 – Ändringar av förordning (EU) nr 600/2014
+
+[Förordning (EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600) ska ändras på följande sätt:
+
+1\. Artikel 27g ska ändras på följande sätt:
+
+a) Punkt 4 ska ersättas med följande:
+
+”4.
+
+APA ska uppfylla de krav avseende säkerhet i nätverks- och informationssystem som fastställs i [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) (*4).
+
+(*4) [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) av den 14 december 2022 om digital operativ motståndskraft för finanssektorn och om ändring av [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060), [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600), [(EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) och [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) (EUT L 333, 27.12.2022, s. 1).”
+
+"
+
+b) Punkt 8 c ska ersättas med följande:
+
+”c)
+
+De konkreta organisatoriska krav som avses i punkterna 3 och 5.”
+
+2\. Artikel 27h ska ändras på följande sätt:
+
+a) Punkt 5 ska ersättas med följande:
+
+”5. CTP ska uppfylla de krav avseende säkerhet i nätverks- och informationssystem som fastställs i [förordning (EU) 2022/2554](/lagstiftning/dora).”
+
+b) Punkt 8 e ska ersättas med följande:
+
+”e)
+
+De konkreta organisatoriska krav som avses i punkt 4.”
+
+3\. Artikel 27i ska ändras på följande sätt:
+
+a) Punkt 3 ska ersättas med följande:
+
+”3. ARM ska uppfylla de krav avseende säkerhet i nätverks- och informationssystem som fastställs i [förordning (EU) 2022/2554](/lagstiftning/dora).”
+
+b) Punkt 5 b ska ersättas med följande:
+
+”b)
+
+De konkreta organisatoriska krav som avses i punkterna 2 och 4.”
+
+### Artikel 63 – Ändringar av förordning (EU) 2016/1011
+
+I artikel [6](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) i [förordning (EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) ska följande punkt läggas till:
+
+”6.
+
+För kritiska referensvärden ska administratören tillämpa sunda förfaranden för förvaltning och redovisning samt ha mekanismer för internkontroll och effektiva riskbedömningsmetoder samt effektiva kontroll- och skyddssystem för förvaltningen av IKT-system i enlighet med [Europaparlamentets och rådets förordning (EU) 2022/2554](/lagstiftning/dora) (*5).
+
+### Artikel 64 – Ikraftträdande och tillämpning
+
+> _[Denna förordning](/lagstiftning/dora) träder i kraft den tjugonde dagen efter det att den har offentliggjorts i Europeiska unionens officiella tidning._
+
+Den ska tillämpas från och med den 17 januari 2025.
+
+[Denna förordning](/lagstiftning/dora) är till alla delar bindande och direkt tillämplig i alla medlemsstater.
+
+#### Underskrift
+
+Utfärdad i Strasbourg den 14 december 2022.
+
+På Europaparlamentets vägnar
+
+R. METSOLA
+
+Ordförande
+
+På rådets vägnar
+
+M. BEK
+
+Ordförande
+
+#### Fotnoter
+
+(1) EUT C 343, 26.8.2021, s. 1.
+
+(2) EUT C 155, 30.4.2021, s. 38.
+
+(3) Europaparlamentets ståndpunkt av den 10 november 2022 (ännu inte offentliggjord i EUT) och rådets beslut av den 28 november 2022.
+
+(4) [Europaparlamentets och rådets förordning (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska bankmyndigheten), om ändring av [beslut nr 716/2009/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3716D2009) och om upphävande av kommissionens [beslut 2009/78/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009D0078) (EUT L 331, 15.12.2010, s. 12).
+
+(5) [Europaparlamentets och rådets förordning (EU) nr 1094/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1094) av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska försäkrings- och tjänstepensionsmyndigheten), om ändring av [beslut nr 716/2009/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3716D2009) och om upphävande av kommissionens [beslut 2009/79/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009D0079) (EUT L 331, 15.12.2010, s. 48).
+
+(6) [Europaparlamentets och rådets förordning (EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska värdepappers- och marknadsmyndigheten), om ändring av [beslut nr 716/2009/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:3716D2009) och om upphävande av kommissionens [beslut 2009/77/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009D0077) (EUT L 331, 15.12.2010, s. 84).
+
+(7) [Europaparlamentets och rådets direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) av den 6 juli 2016 om åtgärder för en hög gemensam nivå på säkerhet i nätverks- och informationssystem i hela unionen (EUT L 194, 19.7.2016, s. 1).
+
+(8) [Europaparlamentets och rådets direktiv (EU) 2022/2555](/lagstiftning/nis2) av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av [förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) och [direktiv (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018L1972), och om upphävande av [direktiv (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L1148) (NIS 2-direktivet) (se sidan 80 i detta nummer av EUT).
+
+(9) [Europaparlamentets och rådets direktiv (EU) 2022/2557](/lagstiftning/cer) av den 14 december 2022 om kritiska entiteters motståndskraft och upphävande av rådets [direktiv 2008/114/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008L0114) (se sidan 164 i detta nummer av EUT).
+
+(10) [Europaparlamentets och rådets direktiv (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2341) av den 14 december 2016 om verksamhet i och tillsyn över tjänstepensionsinstitut (EUT L 354, 23.12.2016, s. 37).
+
+(11) [Europaparlamentets och rådets förordning (EU) 2019/881](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0881) av den 17 april 2019 om Enisa (Europeiska unionens cybersäkerhetsbyrå) och om cybersäkerhetscertifiering av informations- och kommunikationsteknik och om upphävande av [förordning (EU) nr 526/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0526) (cybersäkerhetsakten) (EUT L 151, 7.6.2019, s. 15).
+
+(12) [Europaparlamentets och rådets direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) av den 25 november 2015 om betaltjänster på den inre marknaden, om ändring av [direktiven 2002/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0065), [2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110) och [2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) samt [förordning (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) och om upphävande av [direktiv 2007/64/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007L0064) (EUT L 337, 23.12.2015, s. 35).
+
+(13) [Europaparlamentets och rådets förordning (EU) 2016/679](/lagstiftning/gdpr) av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046) (allmän dataskyddsförordning) (EUT L 119, 4.5.2016, s. 1).
+
+(14) Europaparlamentets och rådets [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110) av den 16 september 2009 om rätten att starta och driva affärsverksamhet i institut för elektroniska pengar samt om tillsyn av sådan verksamhet, om ändring av [direktiven 2005/60/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0060) och [2006/48/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0048) och om upphävande av [direktiv 2000/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32000L0046) (EUT L 267, 10.10.2009, s. 7).
+
+(15) Europaparlamentets och rådets [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av [direktiv 2002/87/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0087) och om upphävande av [direktiv 2006/48/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0048) och [2006/49/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0049) (EUT L 176, 27.6.2013, s. 338).
+
+(16) Europaparlamentets och rådets [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om ändring av [direktiv 2003/41/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003L0041) och [2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) och [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) och [(EU) nr 1095/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1095) (EUT L 174, 1.7.2011, s. 1).
+
+(17) Europaparlamentets och rådets [direktiv 2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) (EUT L 335, 17.12.2009, s. 1).
+
+(18) Europaparlamentets och rådets [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) av den 15 maj 2014 om marknader för finansiella instrument och om ändring av [direktiv 2002/92/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0092) och av [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) (EUT L 173, 12.6.2014, s. 349).
+
+(19) [Rådets förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) av den 15 oktober 2013 om tilldelning av särskilda uppgifter till Europeiska centralbanken i fråga om politiken för tillsyn över kreditinstitut (EUT L 287, 29.10.2013, s. 63).
+
+(20) Europaparlamentets och rådets [direktiv 2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) av den 15 maj 2014 om inrättande av en ram för återhämtning och resolution av kreditinstitut och värdepappersföretag och om ändring av rådets direktiv 82/891/EEG och Europaparlamentets och rådets [direktiv 2001/24/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32001L0024), [2002/47/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0047), [2004/25/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004L0025), [2005/56/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0056), [2007/36/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32007L0036), [2011/35/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0035), [2012/30/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012L0030) och [2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) samt [Europaparlamentets och rådets förordningar (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) och [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) (EUT L 173, 12.6.2014, s. 190).
+
+(21) Europaparlamentets och rådets [direktiv 2013/34/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0034) av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets [direktiv 2006/43/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0043) och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG (EUT L 182, 29.6.2013, s. 19).
+
+(22) EUT L 123, 12.5.2016, s. 1.
+
+(23) [Europaparlamentets och rådets förordning (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) av den 16 september 2009 om kreditvärderingsinstitut (EUT L 302, 17.11.2009, s. 1).
+
+(24) [Europaparlamentets och rådets förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister (EUT L 201, 27.7.2012, s. 1).
+
+(25) [Europaparlamentets och rådets förordning (EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600) av den 15 maj 2014 om marknader för finansiella instrument och om ändring av [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) (EUT L 173, 12.6.2014, s. 84).
+
+(26) [Europaparlamentets och rådets förordning (EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av [direktiv 98/26/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31998L0026) och [2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) och [förordning (EU) nr 236/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0236) (EUT L 257, 28.8.2014, s. 1).
+
+(27) [Europaparlamentets och rådets direktiv (EU) 2022/2556](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022L2556) av den 14 december 2022 om ändring av [direktiven 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065), [2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138), [2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061), [2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036), [2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059), [2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065), (EU) 2015/2366 och (EU) 2016/2341 vad gäller digital operativ motståndskraft för finanssektorn (se sidan 153 i detta nummer av EUT).
+
+(28) [Europaparlamentets och rådets förordning (EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) av den 8 juni 2016 om index som används som referensvärden för finansiella instrument och finansiella avtal eller för att mäta investeringsfonders resultat, och om ändring av [direktiven 2008/48/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008L0048) och [2014/17/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0017) och [förordning (EU) nr 596/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0596) (EUT L 171, 29.6.2016, s. 1).
+
+(29) [Europaparlamentets och rådets förordning (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) av den 23 oktober 2018 om skydd för fysiska personer med avseende på behandling av personuppgifter som utförs av unionens institutioner, organ och byråer och om det fria flödet av sådana uppgifter samt om upphävande av [förordning (EG) nr 45/2001](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32001R0045) och [beslut nr 1247/2002/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31247D2002) (EUT L 295, 21.11.2018, s. 39).
+
+(30) EUT C 229, 15.6.2021, s. 16.
+
+(31) Europaparlamentets och rådets [direktiv 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) (EUT L 302, 17.11.2009, s. 32).
+
+(32) [Europaparlamentets och rådets förordning (EU) nr 575/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575) av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) (EUT L 176, 27.6.2013, s. 1).
+
+(33) [Europaparlamentets och rådets förordning (EU) 2019/2033](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R2033) av den 27 november 2019 om tillsynskrav för värdepappersföretag och om ändring av [förordningarna (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093), [(EU) nr 575/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575), [(EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600) och [(EU) nr 806/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) (EUT L 314, 5.12.2019, s. 1).
+
+(34) [Europaparlamentets och rådets direktiv (EU) 2016/97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) av den 20 januari 2016 om försäkringsdistribution (EUT L 26, 2.2.2016, s. 19).
+
+(35) [Europaparlamentets och rådets förordning (EU) 2020/1503](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020R1503) av den 7 oktober 2020 om europeiska leverantörer av gräsrotsfinansieringstjänster för företag och om ändring av [förordning (EU) 2017/1129](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R1129) och [direktiv (EU) 2019/1937](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L1937) (EUT L 347, 20.10.2020, s. 1).
+
+(36) [Europaparlamentets och rådets förordning (EU) 2017/2402](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R2402) av den 12 december 2017 om ett allmänt ramverk för värdepapperisering och om inrättande av ett särskilt ramverk för enkel, transparent och standardiserad värdepapperisering samt om ändring av [direktiven 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065), [2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) och [2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) och [förordningarna (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) och [(EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) (EUT L 347, 28.12.2017, s. 35).
+
+(37) [Europaparlamentets och rådets förordning (EU) nr 806/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806) av den 15 juli 2014 om fastställande av enhetliga regler och ett enhetligt förfarande för resolution av kreditinstitut och vissa värdepappersföretag inom ramen för en gemensam resolutionsmekanism och en gemensam resolutionsfond och om ändring av [förordning (EU) nr 1093/2010](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32010R1093) (EUT L 225, 30.7.2014, s. 1).
+
+(38) [Europaparlamentets och rådets direktiv (EU) 2019/2034](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L2034) av den 27 november 2019 om tillsyn av värdepappersföretag och om ändring av [direktiven 2002/87/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0087), [2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065), [2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061), [2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036), [2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) och [2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) (EUT L 314, 5.12.2019, s. 64).
+
+(39) Europaparlamentets och rådets [direktiv 2006/43/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0043) av den 17 maj 2006 om lagstadgad revision av årsbokslut och sammanställd redovisning och om ändring av rådets direktiv 78/660/EEG och 83/349/EEG samt om upphävande av rådets direktiv 84/253/EEG (EUT L 157, 9.6.2006, s. 87).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

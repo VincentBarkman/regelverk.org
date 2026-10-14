@@ -1,0 +1,37 @@
+---
+'name': 'Dataförordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2023/2854'
+'type': 'eu-regulation'
+'description': 'EU-förordning om rättvis tillgång till och användning av data.'
+'designation': 'EU 2023/2854'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2023-12-22'
+'applies-from': '2025-09-12'
+'sites':
+  - 'it'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – ALLMÄNNA BESTÄMMELSER](/lagstiftning/data-act/kap-1) · Artiklarna 1–2
+- [Kapitel II – DATADELNING MELLAN FÖRETAG OCH KONSUMENTER OCH MELLAN FÖRETAG](/lagstiftning/data-act/kap-2) · Artiklarna 3–7
+- [Kapitel III – SKYLDIGHETER FÖR DATAHÅLLARE SOM ÄR SKYLDIGA ATT GÖRA DATA TILLGÄNGLIGA ENLIGT UNIONSRÄTTEN](/lagstiftning/data-act/kap-3) · Artiklarna 8–12
+- [Kapitel IV – OSKÄLIGA AVTALSVILLKOR I SAMBAND MED ÅTKOMST TILL OCH ANVÄNDNING AV DATA MELLAN FÖRETAG](/lagstiftning/data-act/kap-4)
+- [Kapitel V – GÖRA DATA TILLGÄNGLIGA FÖR OFFENTLIGA ORGAN, KOMMISSIONEN, EUROPEISKA CENTRALBANKEN OCH UNIONSORGAN PÅ GRUNDVAL AV ETT EXCEPTIONELLT BEHOV](/lagstiftning/data-act/kap-5) · Artiklarna 14–22
+- [Kapitel VI – BYTE AV DATABEHANDLINGSTJÄNSTER](/lagstiftning/data-act/kap-6) · Artiklarna 23–31
+- [Kapitel VII – OLAGLIG INTERNATIONELL STATLIG ÅTKOMST TILL OCH ÖVERFÖRING AV ICKE-PERSONUPPGIFTER](/lagstiftning/data-act/kap-7)
+- [Kapitel VIII – INTEROPERABILITET](/lagstiftning/data-act/kap-8) · Artiklarna 33–36
+- [Kapitel IX – GENOMFÖRANDE OCH EFTERLEVNAD](/lagstiftning/data-act/kap-9) · Artiklarna 37–42
+- [Kapitel X – RÄTTEN AV SITT EGET SLAG ENLIGT DIREKTIV 96/9/EG](/lagstiftning/data-act/kap-10)
+- [Kapitel XI – SLUTBESTÄMMELSER](/lagstiftning/data-act/kap-11) · Artiklarna 44–50
+<!-- scan-laws:end -->

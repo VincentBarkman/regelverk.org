@@ -1,0 +1,163 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel VIII'
+'title': 'Kapitel VIII – INTEROPERABILITET'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel VIII.'
+'designation': 'Dataförordningen Kapitel VIII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_VIII'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 33 – Väsentliga krav med avseende på interoperabilitet för data, datadelningsmekanismer och datadelningstjänster samt gemensamma europeiska dataområden
+
+1\. Deltagare i dataområden som erbjuder data eller datatjänster till andra deltagare ska uppfylla följande väsentliga krav för att underlätta interoperabiliteten mellan data, datadelningsmekanismer och datadelningstjänster samt mellan gemensamma europeiska dataområden, som är ändamåls- eller sektorsspecifika eller sektoröverskridande interoperabla ramar för gemensamma standarder och praxisformer för delning eller gemensam behandling av data för bland annat utveckling av nya produkter och tjänster, vetenskaplig forskning eller civilsamhällsinitiativ:
+
+a) Innehåll i datamängden, användningsbegränsningar, licenser, datainsamlingsmetoder, datakvalitet och osäkerhet i data ska beskrivas tillräckligt, när så är tillämpligt, i ett maskinläsbart format, för att mottagaren ska kunna hitta, få åtkomst till och använda data.
+
+b) Datastrukturer, dataformat, vokabulärer, klassificeringssystem, taxonomier och kodförteckningar ska, om sådana finns tillgängliga, beskrivas på ett allmänt tillgängligt och konsekvent sätt.
+
+c) De tekniska medlen för åtkomst till data, såsom programmeringsgränssnitt, och deras användningsvillkor och tjänstekvalitet ska vara tillräckligt beskrivna för att möjliggöra automatisk åtkomst och överföring av data mellan parter, även kontinuerligt, genom bulknedladdning eller i realtid i ett maskinläsbart format, om detta är tekniskt möjligt och inte hindrar den uppkopplade produktens funktionsduglighet.
+
+d) De medel som krävs för att möjliggöra interoperabilitet för verktyg för automatiserat genomförande av datadelningsavtal, såsom smarta kontrakt, ska i tillämpliga fall tillhandahållas.
+
+Kraven kan vara av allmän karaktär eller avse specifika sektorer, samtidigt som sambandet med krav som härrör från annan unionsrätt eller nationell rätt beaktas fullt ut.
+
+2\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [45](/lagstiftning/data-act/kap-11#artikel-45-utövande-av-delegeringen) i [denna förordning](/lagstiftning/data-act) med avseende på att komplettera [denna förordning](/lagstiftning/data-act) genom att ytterligare specificera de väsentliga krav som fastställs i punkt 1 i [den här artikeln](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden), med avseende på de krav som till sin natur inte kan ge den avsedda effekten om de inte specificeras närmare i bindande unionsrättsakter och för att korrekt återspegla den tekniska utvecklingen och marknadsutvecklingen.
+
+Kommissionen ska, när den antar delegerade akter, beakta råd från Europeiska datainnovationsstyrelsen i enlighet med artikel [42](/lagstiftning/data-act/kap-9#artikel-42-europeiska-datainnovationsstyrelsens-roll) c iii.
+
+3\. Deltagare i dataområden som erbjuder data eller datatjänster till andra deltagare i dataområden som uppfyller de harmoniserade standarder eller delar av dem vars hänvisningar är offentliggjorda i Europeiska unionens officiella tidning ska förutsättas uppfylla de väsentliga krav som fastställs i punkt 1, i den mån dessa krav omfattas av sådana harmoniserade standarder eller delar av dem.
+
+4\. Kommissionen ska enligt artikel [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begära att en eller flera europeiska standardiseringsorganisationer utarbetar harmoniserade standarder som uppfyller de väsentliga krav som fastställs i punkt 1 i [den här artikeln](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden).
+
+5\. Kommissionen får genom genomförandeakter anta gemensamma specifikationer som omfattar något av eller alla de väsentliga krav som fastställs i punkt 1 om följande villkor är uppfyllda:
+
+a) Kommissionen har enligt artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begärt att en eller flera europeiska standardiseringsorganisationer ska utarbeta en harmoniserad standard som uppfyller de väsentliga krav som fastställs i punkt 1 i [den här artikeln](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden), och
+
+i) begäran har inte accepterats,
+
+ii) de harmoniserade standarder som avser denna begäran har inte levererats inom den tidsfrist som fastställts i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), eller
+
+iii) de harmoniserade standarderna uppfyller inte begäran, och
+
+b) ingen hänvisning till harmoniserade standarder som omfattar de relevanta väsentliga krav som fastställs i punkt 1 i [denna artikel](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden) är offentliggjord i Europeiska unionens officiella tidning i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), och ingen sådan hänvisning förväntas offentliggöras inom rimlig tid.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [46.2](/lagstiftning/data-act/kap-11#artikel-46-kommittéförfarande).
+
+6\. Innan kommissionen utarbetar ett utkast till genomförandeakt som avses i punkt 5 i [denna artikel](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden) ska den underrätta den kommitté som avses i artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) om att den anser att villkoren i punkt 5 i [den här artikeln](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden) är uppfyllda.
+
+7\. Vid utarbetandet av utkastet till den genomförandeakt som avses i punkt 5 ska kommissionen beakta råd från Europeiska datainnovationsstyrelsen och synpunkter från andra relevanta organ eller expertgrupper och vederbörligen samråda med alla berörda parter.
+
+8\. Deltagare i dataområden som erbjuder data eller datatjänster till andra deltagare i dataområden som uppfyller de gemensamma specifikationer som fastställs genom genomförandeakter som avses i punkt 5 eller delar av dem ska förutsättas överensstämma med de väsentliga krav som fastställs i punkt 1 i den mån dessa krav omfattas av sådana gemensamma specifikationer eller delar av dem.
+
+9\. Om en harmoniserad standard antas av en europeisk standardiseringsorganisation och föreslås för kommissionen för offentliggörande av hänvisningen till den i Europeiska unionens officiella tidning, ska kommissionen bedöma den harmoniserade standarden i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025). När en hänvisning till en harmoniserad standard offentliggörs i Europeiska unionens officiella tidning ska kommissionen upphäva de genomförandeakter som avses i punkt 5 i [denna artikel](#artikel-33-väsentliga-krav-med-avseende-på-interoperabilitet-för-data-datadelningsmekanismer-och-datadelningstjänster-samt-gemensamma-europeiska-dataområden), eller delar av dem som omfattar samma väsentliga krav som omfattas av den harmoniserade standarden.
+
+10\. Om en medlemsstat anser att en gemensam specifikation inte helt uppfyller de väsentliga krav som fastställs i punkt 1 ska den underrätta kommissionen om detta genom att lämna en detaljerad förklaring. Kommissionen ska bedöma denna detaljerade förklaring och får vid behov ändra genomförandeakten om fastställande av den gemensamma specifikationen i fråga.
+
+11\. Kommissionen får anta riktlinjer med beaktande av förslaget från Europeiska datainnovationsstyrelsen i enlighet med artikel [30 h](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) i [förordning (EU) 2022/868](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R0868) om fastställande av interoperabla ramar för gemensamma standarder och praxisformer för de gemensamma europeiska dataområdenas funktion.
+
+### Artikel 34 – Interoperabilitet för parallell användning av databehandlingstjänster
+
+1\. Kraven i artiklarna [23](/lagstiftning/data-act/kap-6#artikel-23-undanröjande-av-hinder-för-ett-effektivt-byte), [24](/lagstiftning/data-act/kap-6#artikel-24-tillämpningsområdet-för-de-tekniska-skyldigheterna), [25.2 a](/lagstiftning/data-act/kap-6#artikel-25-avtalsvillkor-om-byte) ii, a iv, e och f och 30.2–30.5 ska också gälla i tillämpliga delar för leverantörer av databehandlingstjänster för att underlätta interoperabilitet för parallell användning av databehandlingstjänster.
+
+2\. När en databehandlingstjänst används parallellt med en annan databehandlingstjänst, får leverantörerna av databehandlingstjänster påföra uttagsavgifter för data, men endast i syfte att vidareföra de kostnader som uppkommit, utan att överskrida dessa kostnader.
+
+### Artikel 35 – Interoperabilitet för databehandlingstjänster
+
+1\. Öppna interoperabilitetsspecifikationer och harmoniserade standarder för interoperabla databehandlingstjänster ska
+
+a) om det är tekniskt möjligt åstadkomma interoperabilitet mellan olika databehandlingstjänster som omfattar samma tjänstetyp,
+
+b) förbättra portabiliteten för digitala tillgångar mellan olika databehandlingstjänster som omfattar samma tjänstetyp,
+
+c) om det är tekniskt möjligt underlätta funktionell likvärdighet mellan olika databehandlingstjänster som avses i artikel [30.1](/lagstiftning/data-act/kap-6#artikel-30-tekniska-aspekter-av-byte) som omfattar samma tjänstetyp,
+
+d) inte inverka negativt på säkerhet och integritet för databehandlingstjänster och data,
+
+e) vara utformade på ett sådant sätt att det möjliggör tekniska framsteg och införande av nya funktioner och innovation inom databehandlingstjänster.
+
+2\. Öppna interoperabilitetsspecifikationer och harmoniserade standarder för interoperabla databehandlingstjänster ska på ett adekvat sätt hantera
+
+a) aspekterna av interoperabilitet i molnet när det gäller transportinteroperabilitet, syntaktisk interoperabilitet, semantisk datainteroperabilitet, beteendeinteroperabilitet och policyinteroperabilitet,
+
+b) aspekterna av dataportabilitet i molnet vad gäller syntaktisk dataportabilitet, semantisk dataportabilitet och portabilitet för datapolicy,
+
+c) aspekterna av applikationer i molnet vad gäller syntaktisk applikationsportabilitet, applikationsportabilitet för instruktioner, applikationsportabilitet för metadata, applikationsportabilitet för beteende och applikationsportabilitet för policy.
+
+3\. De öppna interoperabilitetsspecifikationerna ska uppfylla kraven i bilaga II till [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+4\. Efter att ha beaktat relevanta internationella och europeiska standarder och självregleringsinitiativ får kommissionen i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begära att en eller flera europeiska standardiseringsorganisationer utarbetar harmoniserade standarder som uppfyller de väsentliga krav som fastställs i punkterna 1 och 2 i [den här artikeln](#artikel-35-interoperabilitet-för-databehandlingstjänster).
+
+5\. Kommissionen får genom genomförandeakter anta gemensamma specifikationer på grundval av öppna interoperabilitetsspecifikationer som omfattar alla de väsentliga krav som fastställs i punkterna 1 och 2.
+
+6\. Vid utarbetandet av utkastet till den genomförandeakt som avses i punkt 5 i [denna artikel](#artikel-35-interoperabilitet-för-databehandlingstjänster) ska kommissionen beakta synpunkterna från de relevanta behöriga myndigheter som avses i artikel [37.5 h](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) och andra relevanta organ eller expertgrupper och vederbörligen samråda med alla berörda parter.
+
+7\. Om en medlemsstat anser att en gemensam specifikation inte helt uppfyller de väsentliga krav som fastställs i punkterna 1 och 2 ska den underrätta kommissionen om detta genom att lämna en detaljerad förklaring. Kommissionen ska bedöma denna detaljerade förklaring och får vid behov ändra genomförandeakten om fastställande av den gemensamma specifikationen i fråga.
+
+8\. Vid tillämpning av artikel [30.3](/lagstiftning/data-act/kap-6#artikel-30-tekniska-aspekter-av-byte) ska kommissionen genom genomförandeakter offentliggöra hänvisningar till harmoniserade standarder och gemensamma specifikationer för interoperabla databehandlingstjänster i ett centralt unionsregister över standarder för interoperabla databehandlingstjänster.
+
+9\. De genomförandeakter som avses i [denna artikel](#artikel-35-interoperabilitet-för-databehandlingstjänster) ska antas i enlighet med det granskningsförfarande som avses i artikel [46.2](/lagstiftning/data-act/kap-11#artikel-46-kommittéförfarande).
+
+### Artikel 36 – Väsentliga krav avseende smarta kontrakt för genomförande av datadelningsavtal
+
+1\. Säljaren av en applikation som använder smarta kontrakt eller, i avsaknad av en sådan, den person vars närings- eller yrkesverksamhet inbegriper användning av smarta kontrakt för andra inom ramen för genomförandet av ett avtal eller en del av det om att tillgängliggöra data ska säkerställa att dessa smarta kontrakt efterlever följande väsentliga krav:
+
+a) Robusthet och åtkomstkontroll: Säkerställa att det smarta kontraktet har utformats för att erbjuda åtkomstkontrollmekanismer och en mycket hög grad av robusthet för att undvika funktionsfel och stå emot manipulering från tredje parters sida.
+
+b) Säkerhet vid uppsägning och avbrott: Säkerställa att det finns en mekanism för att avsluta det fortsatta genomförandet av transaktioner och att det smarta kontraktet omfattar interna funktioner som kan återställa eller instruera kontraktet att permanent eller tillfälligt avbryta driften, i synnerhet för att undvika framtida oavsiktliga exekveringar.
+
+c) Dataarkivering och kontinuitet: Säkerställa, under omständigheter då ett smart kontrakt måste avslutas eller avaktiveras, att det finns en möjlighet att arkivera transaktionsuppgifterna, smart avtalslogik och kod för att föra register över tidigare utförda transaktioner (granskningsbarhet).
+
+d) Åtkomstkontroll: Säkerställa att ett smart kontrakt skyddas genom strikta mekanismer för åtkomstkontroll vid skikten för kontroll och smarta kontrakt.
+
+e) Enhetlighet: Säkerställa enhetlighet med villkoren i det datadelningsavtal som det smarta kontraktet genomför.
+
+2\. Säljaren av ett smart kontrakt eller, i avsaknad av en sådan, den person vars närings- eller yrkesverksamhet inbegriper användning av smarta kontrakt för andra inom ramen för genomförandet av ett avtal eller en del av det om att tillgängliggöra data ska utföra en bedömning av överensstämmelse i syfte att uppfylla de väsentliga krav som fastställs i punkt 1 och, när dessa krav är uppfyllda, utfärda en EU-försäkran om överensstämmelse.
+
+3\. Genom att utarbeta en EU-försäkran om överensstämmelse ska försäljaren av en applikation som använder smarta kontrakt eller, i avsaknad av en sådan, den person vars närings- eller yrkesverksamhet inbegriper användning av smarta kontrakt för andra inom ramen för genomförandet av ett avtal eller en del av det om att tillgängliggöra data vara ansvarig för efterlevnaden av de väsentliga krav som fastställs i punkt 1.
+
+4\. Ett smart kontrakt som uppfyller de harmoniserade standarder eller de relevanta delarna av dessa standarder och vars hänvisningar är offentliggjorda i Europeiska unionens officiella tidning ska förutsättas uppfylla de väsentliga krav som fastställs i punkt 1, i den mån dessa krav omfattas av sådana harmoniserade standarder eller delar av dem.
+
+5\. Kommissionen ska enligt artikel [10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begära att en eller flera europeiska standardiseringsorganisationer utarbetar harmoniserade standarder som uppfyller de väsentliga krav som fastställs i punkt 1 i [den här artikeln](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal).
+
+6\. Kommissionen får, genom genomförandeakter, anta gemensamma specifikationer som omfattar något av eller alla de väsentliga krav som fastställs i punkt 1 om följande villkor är uppfyllda:
+
+a) Kommissionen har enligt artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) begärt att en eller flera europeiska standardiseringsorganisationer ska utarbeta en harmoniserad standard som uppfyller de väsentliga krav som fastställs i punkt 1 i [den här artikeln](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal), och
+
+i) begäran har inte accepterats,
+
+ii) de harmoniserade standarder som avser denna begäran har inte levererats inom den tidsfrist som fastställts i enlighet med artikel [10.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), eller
+
+iii) de harmoniserade standarderna uppfyller inte begäran, och
+
+b) ingen hänvisning till harmoniserade standarder som omfattar de relevanta väsentliga krav som fastställs i punkt 1 i [denna artikel](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal) är offentliggjord i Europeiska unionens officiella tidning i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025), och ingen sådan hänvisning förväntas offentliggöras inom rimlig tid.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [46.2](/lagstiftning/data-act/kap-11#artikel-46-kommittéförfarande).
+
+7\. Innan kommissionen utarbetar ett utkast till den genomförandeakt som avses i punkt 6 i [denna artikel](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal) ska den underrätta den kommitté som avses i artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) om att den anser att villkoren i punkt 6 i [den här artikeln](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal) är uppfyllda.
+
+8\. Vid utarbetandet av utkastet till den genomförandeakt som avses i punkt 6 ska kommissionen beakta råd från Europeiska datainnovationsstyrelsen och synpunkter från andra relevanta organ eller expertgrupper och vederbörligen samråda med alla berörda parter.
+
+9\. Säljaren av ett smart kontrakt eller, i avsaknad av en sådan, den person vars närings- eller yrkesverksamhet inbegriper användning av smarta kontrakt för andra inom ramen för genomförandet av ett avtal eller en del av det om att tillgängliggöra data som uppfyller de gemensamma specifikationer som fastställs genom genomförandeakter som avses i punkt 6 eller delar av dem ska förutsättas överensstämma med de väsentliga krav som fastställs i punkt 1 i den mån dessa krav omfattas av sådana gemensamma specifikationer eller delar av dem.
+
+10\. Om en harmoniserad standard antas av en europeisk standardiseringsorganisation och föreslås för kommissionen för offentliggörande av hänvisningen till den i Europeiska unionens officiella tidning, ska kommissionen bedöma den harmoniserade standarden i enlighet med [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025). När en hänvisning till en harmoniserad standard offentliggörs i Europeiska unionens officiella tidning ska kommissionen upphäva de genomförandeakter som avses i punkt 6 i [denna artikel](#artikel-36-väsentliga-krav-avseende-smarta-kontrakt-för-genomförande-av-datadelningsavtal), eller delar av dem som omfattar samma väsentliga krav som de som omfattas av den harmoniserade standarden.
+
+11\. Om en medlemsstat anser att en gemensam specifikation inte helt uppfyller de väsentliga krav som fastställs i punkt 1 ska den underrätta kommissionen om detta genom att lämna en detaljerad förklaring. Kommissionen ska bedöma denna detaljerade förklaring och får vid behov ändra genomförandeakten om fastställande av den gemensamma specifikationen i fråga.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

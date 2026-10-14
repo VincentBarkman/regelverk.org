@@ -17,6 +17,18 @@
 
 	const site = $derived(SITES[scope]);
 	const sectorScopes = SITE_SCOPES.filter((s) => s !== 'regelverk');
+	const specRules = $derived(
+		JSON.stringify({
+			prefetch: [
+				{
+					source: 'list',
+					urls: SITE_SCOPES.filter((s) => s !== scope).map((s) => `https://${siteHost(s)}/`),
+					eagerness: 'moderate'
+				}
+			]
+		})
+	);
+	const specRulesTag = $derived('<script type="speculationrules">' + specRules + '</' + 'script>');
 
 	const TYPING_PHRASES: Record<SiteScope, string[]> = {
 		regelverk: ['ATEX...', 'NIS2...', 'ELSÄK-FS...', 'AFS 2023...', 'ISO 27001...', 'BBR...'],
@@ -49,15 +61,8 @@
 			<link rel="dns-prefetch" href="https://{siteHost(s)}" />
 			<link rel="preconnect" href="https://{siteHost(s)}" />
 		{/each}
-		{@html `<script type="speculationrules">${JSON.stringify({
-			prefetch: [
-				{
-					source: 'list',
-					urls: SITE_SCOPES.filter((s) => s !== scope).map((s) => `https://${siteHost(s)}/`),
-					eagerness: 'moderate'
-				}
-			]
-		})}</script>`}
+		<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+		{@html specRulesTag}
 	{/if}
 </svelte:head>
 

@@ -1,0 +1,149 @@
+---
+'source': 'eidas'
+'ref': 'Kapitel I'
+'title': 'Kapitel I – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'eIDAS-förordningen, Kapitel I.'
+'designation': 'eIDAS-förordningen Kapitel I'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0024.03#cpt_I'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Syfte
+
+I syfte att säkerställa en väl fungerande inre marknad och uppnå en lämplig säkerhetsnivå för medel för elektronisk identifiering och betrodda tjänster fastställs i [denna förordning](/lagstiftning/eidas)
+
+a) de villkor på vilka medlemsstaterna erkänner medel för elektronisk identifiering av fysiska och juridiska personer som omfattas av ett anmält system för elektronisk identifiering hos en annan medlemsstat,
+
+b) regler för betrodda tjänster, i synnerhet för elektroniska transaktioner, och
+
+c) en rättslig ram för elektroniska underskrifter, elektroniska stämplar, elektronisk tidsstämpling, elektroniska dokument, elektroniska tjänster för rekommenderade leveranser och certifikattjänster för autentisering av webbplatser.
+
+### Artikel 2 – Tillämpningsområde
+
+1\. [Denna förordning](/lagstiftning/eidas) gäller system för elektronisk identifiering som har anmälts av en medlemsstat, och tillhandahållare av betrodda tjänster som är etablerade inom unionen.
+
+2\. [Denna förordning](/lagstiftning/eidas) gäller inte tillhandahållande av betrodda tjänster som till följd av nationell rätt eller avtal mellan en avgränsad uppsättning deltagare endast används inom slutna system.
+
+3\. [Denna förordning](/lagstiftning/eidas) påverkar inte nationell rätt eller unionsrätt som avser ingående av avtal och deras giltighet eller andra rättsliga eller förfarandemässiga skyldigheter avseende formkrav.
+
+### Artikel 3 – Definitioner
+
+I [denna förordning](/lagstiftning/eidas) gäller följande definitioner:
+
+1\. elektronisk identifiering: en process inom vilken personidentifieringsuppgifter i elektronisk form, som unikt avser en fysisk eller juridisk person eller en fysisk person som företräder en juridisk person, används.
+
+2\. medel för elektronisk identifiering: en materiell och/eller immateriell enhet som innehåller personidentifieringsuppgifter och som används för autentisering för nättjänster.
+
+3\. personidentifieringsuppgifter: en uppsättning uppgifter som gör det möjligt att fastställa identiteten på en fysisk eller juridisk person eller en fysisk person som företräder en juridisk person.
+
+4\. system för elektronisk identifiering: ett system för elektronisk identifiering genom vilket medel för elektronisk identifiering utfärdas till en fysisk eller juridisk person eller en fysisk person som företräder en juridisk person.
+
+5\. autentisering: en elektronisk process som gör det möjligt att bekräfta den elektroniska identifieringen för en fysisk eller juridisk person, eller ursprunget för och integriteten hos uppgifter i elektronisk form.
+
+6\. förlitande part: en fysisk eller juridisk person som förlitar sig på en elektronisk identifiering eller betrodda tjänster.
+
+7\. offentligt organ: en statlig, regional eller lokal myndighet, ett organ som lyder under offentlig rätt eller en sammanslutning som bildats av en eller flera sådana myndigheter eller ett eller flera sådana offentligrättsliga organ, eller en privat enhet som av minst en av dessa myndigheter, enheter eller sammanslutningar har bemyndigats att tillhandahålla offentliga tjänster när de agerar i enlighet med ett sådant bemyndigande.
+
+8\. offentligrättsligt organ: ett organ enligt definitionen i artikel [2.1.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0024) i Europaparlamentets och rådets [direktiv 2014/24/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0024) (15).
+
+9\. undertecknare: en fysisk person som skapar en elektronisk underskrift.
+
+10\. elektronisk underskrift: uppgifter i elektronisk form som är fogade till eller logiskt knutna till andra uppgifter i elektronisk form och som används av undertecknaren för att skriva under.
+
+11\. avancerad elektronisk underskrift: en elektronisk underskrift som uppfyller kraven enligt artikel [26](/lagstiftning/eidas/kap-3#artikel-26-krav-med-avseende-på-avancerade-elektroniska-underskrifter).
+
+12\. kvalificerad elektronisk underskrift: en avancerad elektronisk underskrift som skapas med hjälp av en kvalificerad anordning för underskriftframställning och som är baserad på ett kvalificerat certifikat för elektroniska underskrifter.
+
+13\. uppgifter för skapande av elektroniska underskrifter: unika uppgifter som undertecknaren använder för att skapa en elektronisk underskrift.
+
+14\. certifikat för elektroniska underskrifter: ett elektroniskt intyg som kopplar valideringsuppgifter för en elektronisk underskrift till en fysisk person och bekräftar åtminstone namnet eller pseudonymen på den personen.
+
+15\. kvalificerat certifikat för elektroniska underskrifter: ett certifikat för elektroniska underskrifter som utfärdas av en kvalificerad tillhandahållare av betrodda tjänster och uppfyller kraven i bilaga I.
+
+16\. betrodd tjänst: en elektronisk tjänst som vanligen tillhandahålls mot ekonomisk ersättning och som består av
+
+a) skapande, kontroll och validering av elektroniska underskrifter, elektroniska stämplar eller elektroniska tidsstämplingar, elektroniska tjänster för rekommenderade leveranser och certifikat med anknytning till dessa tjänster, eller
+
+b) skapande, kontroll och validering av certifikat för autentisering av webbplatser, eller
+
+c) bevarande av elektroniska underskrifter, stämplar eller certifikat med anknytning till dessa tjänster.
+
+17\. kvalificerad betrodd tjänst: en betrodd tjänst som uppfyller tillämpliga krav i [denna förordning](/lagstiftning/eidas).
+
+18\. organ för bedömning av överensstämmelse: ett organ enligt definitionen i artikel [2.13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) som i enlighet med den förordningen är ackrediterat för överensstämmelsebedömning av en kvalificerad tillhandahållare av en betrodd tjänst och den kvalificerade betrodda tjänst som denne tillhandahåller.
+
+19\. tillhandahållare av betrodda tjänster: en fysisk eller juridisk person som tillhandahåller en eller flera betrodda tjänster, antingen i egenskap av kvalificerade eller icke kvalificerade tillhandahållare av betrodda tjänster.
+
+20\. kvalificerad tillhandahållare av betrodda tjänster: en tillhandahållare av betrodda tjänster som tillhandahåller en eller flera kvalificerade betrodda tjänster och som beviljats status som kvalificerad av tillsynsorganet.
+
+21\. produkt: maskinvara eller programvara, eller relevanta komponenter i maskinvara eller programvara, som är avsedda att användas för tillhandahållande av betrodda tjänster.
+
+22\. anordning för underskriftframställning: en konfigurerad programvara eller maskinvara som används för att skapa en elektronisk underskrift.
+
+23\. kvalificerad anordning för underskriftframställning: en anordning för skapande av elektroniska underskrifter som uppfyller kraven i bilaga II.
+
+24\. skapare av en stämpel: en juridisk person som skapar en elektronisk stämpel.
+
+25\. elektronisk stämpel: uppgifter i elektronisk form som är fogade till eller logiskt knutna till andra uppgifter i elektronisk form för att säkerställa de senares ursprung och integritet.
+
+26\. avancerad elektronisk stämpel: en elektronisk stämpel som uppfyller kraven enligt artikel [36](/lagstiftning/eidas/kap-3#artikel-36-krav-med-avseende-på-avancerade-elektroniska-stämplar).
+
+27\. kvalificerad elektronisk stämpel: en avancerad elektronisk stämpel som skapas med hjälp av en kvalificerad anordning för skapande av elektroniska stämplar och som är baserat på ett kvalificerat certifikat för elektroniska stämplar.
+
+28\. uppgifter för skapande av elektroniska stämplar: unika uppgifter som skaparen av den elektroniska stämpeln använder för att skapa en elektronisk stämpel.
+
+29\. certifikat för elektroniska stämplar: ett elektroniskt intyg som kopplar valideringsuppgifter för en elektronisk stämpel till en juridisk person och bekräftar namnet på den personen.
+
+30\. kvalificerat certifikat för elektroniska stämplar: ett certifikat för en elektronisk stämpel som utfärdas av en kvalificerad tillhandahållare av betrodda tjänster och uppfyller kraven i bilaga III.
+
+31\. anordning för skapande av elektroniska stämplar: en konfigurerad programvara eller maskinvara som används för att skapa en elektronisk stämpel.
+
+32\. kvalificerad anordning för skapande av elektroniska stämplar: en anordning för skapande av elektroniska stämplar som efter nödvändig anpassning uppfyller kraven i bilaga II.
+
+33\. elektronisk tidsstämpling: uppgifter i elektronisk form som binder andra uppgifter i elektronisk form till en viss tidpunkt och därmed utgör bevis för att de senare uppgifterna existerade vid den tidpunkten.
+
+34\. kvalificerad elektronisk tidsstämpling: en elektronisk tidsstämpling som uppfyller de krav som fastställs i artikel [42](/lagstiftning/eidas/kap-3#artikel-42-krav-på-kvalificerade-elektroniska-tidsstämplingar).
+
+35\. elektroniskt dokument: innehåll lagrat i elektronisk form, i synnerhet som ljud-, bild- eller audiovisuell inspelning.
+
+36\. elektronisk tjänst för rekommenderad leverans: en tjänst som gör det möjligt att överföra uppgifter mellan tredje män på elektronisk väg och tillhandahåller bevis avseende de överförda uppgifternas hantering, inklusive bevis för uppgifternas sändning och mottagande, och som skyddar överförda uppgifter mot risken för förlust, stöld, skada eller otillåtna ändringar.
+
+37\. kvalificerad elektronisk tjänst för rekommenderad leverans: en elektronisk tjänst för rekommenderad leverans som uppfyller de krav som fastställs i artikel [44](/lagstiftning/eidas/kap-3#artikel-44-krav-på-kvalificerade-elektroniska-tjänster-för-rekommenderade-leveranser).
+
+38\. certifikat för autentisering av webbplatser: ett intyg som gör det möjligt att autentisera en webbplats och koppla webbplatsen till den fysiska eller juridiska person som certifikatet utfärdats för.
+
+39\. kvalificerat certifikat för autentisering av webbplatser: ett certifikat för autentisering av webbplatser som utfärdas av en kvalificerad tillhandahållare av betrodda tjänster och uppfyller kraven i bilaga IV.
+
+40\. valideringsuppgifter: uppgifter som används för att validera en elektronisk underskrift eller en elektronisk stämpel.
+
+41\. validering: en process genom vilken en elektronisk underskrifts giltighet kontrolleras och bekräftas.
+
+### Artikel 4 – Inremarknadsprincipen
+
+1\. Tillhandahållande av betrodda tjänster i en medlemsstat som utförs av en tillhandahållare av betrodda tjänster som är etablerad i en annan medlemsstat får inte begränsas av skäl som omfattas av de områden som regleras i [denna förordning](/lagstiftning/eidas).
+
+2\. Produkter och betrodda tjänster som överensstämmer med [denna förordning](/lagstiftning/eidas) ska omfattas av fri rörlighet på den inre marknaden.
+
+### Artikel 5 – Behandling och skydd av uppgifter
+
+1\. Personuppgifter ska behandlas i enlighet med [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046).
+
+2\. Utan att det påverkar rättsverkan av pseudonymer enligt nationell rätt ska användningen av pseudonymer vid elektroniska transaktioner inte förbjudas.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

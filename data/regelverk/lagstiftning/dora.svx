@@ -1,0 +1,37 @@
+---
+'name': 'DORA-förordningen'
+'title': 'Europaparlamentets och rådets förordning (EU) 2022/2554'
+'type': 'eu-regulation'
+'description': 'EU-förordning om digital driftsäkerhet för finanssektorn.'
+'designation': 'EU 2022/2554'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2022-12-27'
+'applies-from': '2025-01-17'
+'related':
+  - 'nis2'
+'sites':
+  - 'it'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03'
+---
+
+<!-- scan-laws:start -->
+## Innehåll
+
+- [Kapitel I – Allmänna bestämmelser](/lagstiftning/dora/kap-1) · Artiklarna 1–4
+- [Kapitel II – IKT-riskhantering](/lagstiftning/dora/kap-2) · Artiklarna 5–16
+- [Kapitel III – Hantering av, klassificering av och rapportering om IKT-relaterade incidenter](/lagstiftning/dora/kap-3) · Artiklarna 17–23
+- [Kapitel IV – Testning av digital operativ motståndskraft](/lagstiftning/dora/kap-4) · Artiklarna 24–27
+- [Kapitel V – Hantering av IKT-tredjepartsrisker](/lagstiftning/dora/kap-5) · Artiklarna 28–44
+- [Kapitel VI – Arrangemang för informationsutbyte](/lagstiftning/dora/kap-6)
+- [Kapitel VII – Behöriga myndigheter](/lagstiftning/dora/kap-7) · Artiklarna 46–56
+- [Kapitel VIII – Delegerade akter](/lagstiftning/dora/kap-8)
+- [Kapitel IX – Övergångs- och slutbestämmelser](/lagstiftning/dora/kap-9) · Artiklarna 58–64
+<!-- scan-laws:end -->

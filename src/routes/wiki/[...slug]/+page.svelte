@@ -4,7 +4,7 @@
 	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
-	import { articleFor, flatRecords } from '#lib/data.js';
+	import { flatRecords } from '#lib/data.js';
 	import { extractHeadings } from '#lib/headings.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
@@ -15,6 +15,8 @@
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
+	import LdJson from '#lib/components/ldJson.svelte';
+	import { getLocale } from '#lib/paraglide/runtime.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import * as Table from '#lib/components/ui/table/index.js';
 	import RecordLink from '#lib/components/recordLink.svelte';
@@ -29,7 +31,6 @@
 	const description = $derived(
 		typeof data.record?.meta?.description === 'string' ? data.record.meta.description : undefined
 	);
-	const Article = $derived(data.ref ? articleFor(data.ref.entity, data.ref.id) : undefined);
 	const tocItems = $derived(extractHeadings(data.record?.body ?? ''));
 
 	const listHref = (ent: Entity, id: string) =>
@@ -202,6 +203,34 @@
 	};
 
 	let articleEl = $state<HTMLElement>();
+
+	let external = $state<Record<string, { title?: string; description?: string }>>({});
+	$effect(() => {
+		external = {};
+		void Promise.resolve(data.external)
+			.then((e) => {
+				external = e ?? {};
+			})
+			.catch(() => {});
+	});
+
+	const canonicalUrl = $derived.by(() => {
+		if (!data.ref) return `https://${host}`;
+		const idPath = data.ref.id.split('/').map(encodeURIComponent).join('/');
+		return data.ref.entity === 'pages'
+			? `https://${host}/wiki/${data.ref.scope}/pages/${idPath}`
+			: `https://${host}/${data.ref.entity}/${idPath}`;
+	});
+
+	const jsonLd = $derived({
+		'@context': 'https://schema.org',
+		'@type': 'Article',
+		headline: title,
+		url: canonicalUrl,
+		inLanguage: getLocale() === 'en' ? 'en' : 'sv',
+		...(description ? { description } : {}),
+		isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
+	});
 </script>
 
 <svelte:head>
@@ -214,19 +243,15 @@
 		{#if data.ref.entity !== 'pages'}
 			<meta name="description" content="{scope} / {ENTITY_LABEL[data.ref.entity]()}" />
 		{/if}
-		<link
-			rel="canonical"
-			href="https://{host}/{data.ref.entity}/{encodeURIComponent(data.ref.id)}"
-		/>
+		<link rel="canonical" href={canonicalUrl} />
 	{/if}
 	<OgMeta
 		type="article"
 		title="{title} · {host}"
 		description={description ?? SITE_BLURB[scope]()}
-		url={data.ref
-			? `https://${host}/${data.ref.entity}/${encodeURIComponent(data.ref.id)}`
-			: `https://${host}`}
+		url={canonicalUrl}
 	/>
+	<LdJson data={jsonLd} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
@@ -271,8 +296,9 @@
 					</p>
 				{/if}
 				<ArticleToc rail={false} items={tocItems} />
-				{#if Article}
-					<Article />
+				{#if data.articleHtml}
+					<!-- eslint-disable-next-line svelte/no-at-html-tags -->
+					{@html data.articleHtml}
 				{:else}
 					<pre class="text-xs whitespace-pre-wrap">{data.record.body}</pre>
 				{/if}
@@ -404,13 +430,7 @@
 				{/if}
 				<!-- eslint-enable svelte/no-navigation-without-resolve -->
 
-				<RecordMeta
-					meta={data.record.meta}
-					{links}
-					{logos}
-					previews={refs}
-					siteInfo={data.external ?? {}}
-				/>
+				<RecordMeta meta={data.record.meta} {links} {logos} previews={refs} siteInfo={external} />
 				<RecordBottom {related} {scopes} {subs} {more} {moreHref} {moreLabel} />
 			</article>
 		{:else}
@@ -418,7 +438,7 @@
 			<p class="text-sm text-primary/70">{m.wiki_empty()}</p>
 		{/if}
 
-		<ArticleToc article={articleEl} content={Article} items={tocItems} />
+		<ArticleToc article={articleEl} content={data.articleHtml} items={tocItems} />
 	</main>
 
 	<SiteFooter {scope} wide />

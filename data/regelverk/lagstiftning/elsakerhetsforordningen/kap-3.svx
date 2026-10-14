@@ -1,0 +1,79 @@
+---
+'source': 'elsakerhetsforordningen'
+'ref': '3 kap.'
+'title': '3 kap. – Säkerhetskrav i fråga om elektrisk utrustning'
+'kind': 'chapter'
+'description': 'Elsäkerhetsförordningen, 3 kap..'
+'designation': 'Elsäkerhetsförordningen 3 kap.'
+'jurisdiction': 'Sverige'
+'issuer': 'Riksdagen'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv'
+'url': 'https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/elsakerhetsforordning-2017218_sfs-2017-218/'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+#### Säkerhetskrav i fråga om elektrisk utrustning
+
+### 13 §
+
+Elektrisk utrustning ska vara konstruerad och tillverkad i enlighet med god säkerhetsteknisk praxis inom Europeiska unionen så att utrustningen, när den är korrekt installerad och underhållen och används för avsett ändamål, inte riskerar säkerheten för människor, husdjur eller egendom.
+
+Första stycket och [14](#14)-[19 §§](#19) innehåller sådana säkerhetskrav som avses i [16 § elsäkerhetslagen (2016:732)](https://rkrattsbaser.gov.se/sfst?bet=2016%3A732).
+
+[Förordning (2018:2097)](https://rkrattsbaser.gov.se/sfst?bet=2018%3A2097).
+
+### 14 §
+
+Elektrisk utrustning ska genom märkning på utrustningen eller, om detta inte är möjligt, på en medföljande bruksanvisning vara försedd med sådan information som behövs från säkerhetssynpunkt för att säkerställa att den används på ett säkert sätt och för avsett ändamål.
+
+### 15 §
+
+Tillverkarens eller fabrikatets namn eller varumärke samt typbeteckning ska finnas klart och tydligt angivna på utrustningen eller, om detta inte är möjligt, på förpackningen.
+
+### 16 §
+
+Elektrisk utrustning och tillhörande komponenter ska ha ett sådant utförande att de kan sättas samman och anslutas på ett korrekt och säkert sätt.
+
+### 17 §
+
+Tekniska åtgärder ska vidtas till skydd mot risker orsakade av elektrisk utrustning så att
+
+1\. människor och husdjur är tillfredsställande skyddade mot fara för fysisk skada eller annan skada som kan orsakas av direkt eller indirekt beröring med spänningsförande delar,
+
+2\. det inte kan uppstå temperaturer, ljusbågar eller strålning som kan orsaka faror,
+
+3\. människor, husdjur och egendom är tillfredsställande skyddade mot risker som inte är av elektrisk natur men som enligt erfarenhet kan orsakas av elektrisk utrustning, och
+
+4\. isoleringen hos elektrisk utrustning är anpassad till de förhållanden som kan förutses.
+
+### 18 §
+
+Tekniska åtgärder ska vidtas till skydd mot risker orsakade av yttre påverkan på elektrisk utrustning så att utrustningen
+
+1\. uppfyller det som vid mekanisk påverkan skäligen kan förväntas av utrustningen i fråga om att människor, husdjur och egendom inte utsätts för fara,
+
+2\. i den omgivning där det kan förutses att utrustningen kommer att användas kan stå emot icke-mekanisk påverkan i sådan utsträckning att människor, husdjur och egendom inte utsätts för fara, och
+
+3\. inte utsätter människor, husdjur och egendom för fara vid sådana överbelastningsförhållanden eller felfall som kan förutses.
+
+#### Presumtion om överensstämmelse med säkerhetskraven
+
+### 19 §
+
+Om annat inte visas, ska en elektrisk utrustning anses uppfylla säkerhetskraven i [denna förordning](/lagstiftning/elsakerhetsforordningen) när utrustningen är utförd enligt en harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [Europaparlamentets och rådets förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) av den 25 oktober 2012 om europeisk standardisering och om ändring av rådets direktiv 89/686/EEG och 93/15/EEG samt av Europaparlamentets och rådets [direktiv 94/9/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31994L0009), [94/25/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31994L0025), [95/16/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0016), [97/23/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31997L0023), [98/34/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31998L0034), [2004/22/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004L0022),
+
+2007/23/EG, 2009/23/EG och 2009/105/EG samt om upphävande av rådets beslut 87/95/EEG och Europaparlamentets och rådets [beslut 1673/2006/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31673D2006), eller, när en sådan standard saknas, enligt någon annan teknisk specifikation som har angetts i föreskrifter som Elsäkerhetsverket har meddelat och är tillämplig på utrustningen.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

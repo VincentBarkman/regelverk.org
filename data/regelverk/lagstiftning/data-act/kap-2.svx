@@ -1,0 +1,167 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel II'
+'title': 'Kapitel II – DATADELNING MELLAN FÖRETAG OCH KONSUMENTER OCH MELLAN FÖRETAG'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel II.'
+'designation': 'Dataförordningen Kapitel II'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_II'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 3 – Skyldighet att göra produktdata och data från tillhörande tjänster tillgängliga för användaren
+
+1\. Uppkopplade produkter ska utformas och tillverkas, och tillhörande tjänster ska utformas och tillhandahållas, så att produktdata och data från tillhörande tjänster, inbegripet relevanta metadata som krävs för att tolka och använda dessa data, som standard är direkt tillgängliga för användaren, när detta är relevant och tekniskt möjligt, på ett enkelt, säkert och kostnadsfritt sätt i ett heltäckande, strukturerat, allmänt använt och maskinläsbart format.
+
+2\. Innan ett avtal om köp, hyra eller leasing av en uppkopplad produkt ingås ska försäljaren, uthyraren eller leasegivaren, som kan vara tillverkaren, lämna åtminstone följande information till användaren på ett tydligt och begripligt sätt:
+
+a) Typen, formatet och den uppskattade mängden produktdata som den uppkopplade produkten kan generera.
+
+b) Huruvida den uppkopplade produkten kan generera data kontinuerligt och i realtid.
+
+c) Huruvida den uppkopplade produkten kan lagra data på enheten eller på en fjärrserver, inbegripet, i förekommande fall, den planerade lagringstiden.
+
+d) Hur användaren kan få åtkomst till, hämta eller, i relevanta fall, radera datan, inbegripet de tekniska medlen för detta, samt deras användningsvillkor och tjänstekvalitet.
+
+3\. Innan ett avtal om tillhandahållande av en tillhörande tjänst ingås ska leverantören av en sådan tjänst lämna åtminstone följande information till användaren på ett tydligt och begripligt sätt:
+
+a) Arten, den uppskattade mängden och insamlingsfrekvensen för de produktdata som den presumtiva datahållaren förväntas erhålla och, i förekommande fall, villkoren för användarens åtkomst till eller hämtning av sådana data, inbegripet den presumtiva datahållarens arrangemang för datalagring och lagringstiden.
+
+b) Arten och den uppskattade mängden av de data från tillhörande tjänster som ska genereras samt villkoren för användarens åtkomst till eller hämtning av sådana data, inbegripet den presumtiva datahållarens arrangemang för datalagring och lagringstiden.
+
+c) Huruvida den presumtiva datahållaren förväntar sig att själv använda lätt åtkomliga data och de ändamål för vilka dessa data ska användas, och om den avser att tillåta en eller flera tredje parter att använda dessa data för ändamål som överenskommits med användaren.
+
+d) Den presumtiva datahållarens och, i tillämpliga fall, andra databehandlingsparters, identitet, såsom dennes företagsnamn och den geografiska adress där denne är etablerad.
+
+e) De kommunikationsmedel som gör det möjligt att snabbt kontakta den presumtiva datahållaren och effektivt kommunicera med denna.
+
+f) Hur användaren kan begära att data delas med en tredje part och, i förekommande fall, avsluta datadelningen.
+
+g) Användarens rätt att lämna in ett klagomål om överträdelse av någon av bestämmelserna i [detta kapitel](/lagstiftning/data-act/kap-2) till den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare).
+
+h) Huruvida en presumtiv datahållare är innehavare av en företagshemlighet som ingår i de data som är åtkomliga från den uppkopplade produkten eller som genereras under tillhandahållandet av en tillhörande tjänst, och, om den presumtiva datahållaren inte är innehavaren av en företagshemlighet, identiteten på innehavaren av en företagshemlighet.
+
+i) Varaktigheten för avtalet mellan användaren och den presumtiva datahållaren samt villkoren för att säga upp ett sådant avtal.
+
+### Artikel 4 – Användares och datahållares rättigheter och skyldigheter när det gäller att få åtkomst till, använda och tillgängliggöra produktdata och data från tillhörande tjänster
+
+1\. Om användaren inte har direkt åtkomst till data från den uppkopplade produkten eller den tillhörande tjänsten ska datahållare utan oskäligt dröjsmål göra lätt åtkomliga data, samt relevanta metadata som är nödvändiga för att tolka och använda dessa data, tillgängliga för användaren, av samma kvalitet som den som är tillgänglig för datahållaren, på ett enkelt, säkert och kostnadsfritt sätt i ett heltäckande, strukturerat, allmänt använt och maskinläsbart format och, i tillämpliga fall och där så är tekniskt genomförbart, kontinuerligt och i realtid. Detta ska göras på grundval av en enkel begäran på elektronisk väg om det är tekniskt möjligt.
+
+2\. Användare och datahållare får genom avtal begränsa eller förbjuda åtkomst till, användning eller ytterligare datadelning, om sådan behandling skulle kunna undergräva säkerhetskraven för den uppkopplade produkten, i enlighet med unionsrätten eller nationell rätt, och leda till allvarliga negativa effekter på fysiska personers hälsa, säkerhet eller trygghet. Behöriga myndigheter får tillhandahålla användare och datahållare teknisk expertis i detta sammanhang. Om datahållaren vägrar att dela data enligt [denna artikel](#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster) ska denne underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare).
+
+3\. Utan att det påverkar användarens rätt att när som helst begära prövning vid en domstol i en medlemsstat får användaren, i samband med en tvist med datahållaren om de avtalsenliga begränsningar eller förbud som avses i punkt 2,
+
+a) i enlighet med artikel [37.5 b](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) lämna in ett klagomål till den behöriga myndigheten, eller
+
+b) komma överens med datahållaren om att hänskjuta ärendet till ett tvistlösningsorgan i enlighet med artikel [10.1](/lagstiftning/data-act/kap-3#artikel-10-tvistlösning).
+
+4\. Datahållare får inte göra det orimligt svårt för användaren att göra val eller utöva rättigheter enligt [denna artikel](#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster), till exempel genom att erbjuda användaren val på ett icke-neutralt sätt eller genom att undergräva eller försämra användarens självständighet, beslutsfattande eller val via strukturen, utformningen, funktionen eller driftssättet för ett digitalt användargränssnitt eller en del därav.
+
+5\. För att kontrollera om en fysisk eller juridisk person kan anses vara en användare vid tillämpning av punkt 1 får en datahållare inte kräva att denna person lämnar någon information utöver vad som är nödvändigt. Datahållare får inte spara någon information, i synnerhet inte loggdata, om användarens åtkomst till de data som begärs utöver vad som är nödvändigt för ett korrekt utförande av användarens begäran om åtkomst och för säkerheten och underhållet av datainfrastrukturen.
+
+6\. Företagshemligheter ska bevaras och får endast röjas om datahållaren och användaren före utlämnandet vidtar alla nödvändiga åtgärder för att bevara deras konfidentialitet, särskilt avseende tredje parter. Datahållaren, eller om det inte är samma person, innehavaren av en företagshemlighet, ska identifiera de data som skyddas som företagshemligheter, inbegripet i relevanta metadata, och ska komma överens med användaren om de proportionella tekniska och organisatoriska åtgärder som är nödvändiga för att bevara konfidentialiteten för delade data, särskilt i förhållande till tredje parter, såsom standardavtalsvillkor, avtal om konfidentialitet, strikta åtkomstprotokoll, tekniska standarder och tillämpning av uppförandekoder.
+
+7\. Om det inte finns någon överenskommelse om de nödvändiga åtgärder som avses i punkt 6, eller om användaren underlåter att genomföra de åtgärder som överenskommits enligt punkt 6 eller äventyrar företagshemligheternas konfidentialitet, får datahållaren hindra eller, i förekommande fall, avbryta delningen av data som identifierats som företagshemligheter. Datahållarens beslut ska vara vederbörligen motiverat och lämnas skriftligen till användaren utan oskäligt dröjsmål. I sådana fall ska datahållaren underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) om att den har hindrat eller avbrutit datadelning och identifiera vilka åtgärder som inte har överenskommits eller genomförts och, i förekommande fall, för vilka företagshemligheter konfidentialiteten har äventyrats.
+
+8\. Om en datahållare som är en innehavare av en företagshemlighet kan visa att det är högst sannolikt att denne kommer att lida allvarlig ekonomisk skada till följd av röjandet av företagshemligheter, trots de tekniska och organisatoriska åtgärder som vidtagits av användaren enligt punkt 6 i [denna artikel](#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster), får den datahållaren, under exceptionella omständigheter och från fall till fall, avslå en begäran om åtkomst till de specifika data som avses. Detta påvisande ska vara vederbörligen motiverat på grundval av objektiva faktorer, särskilt verkställbarheten av skyddet av företagshemligheter i tredjeländer, begärda datas art och grad av konfidentialitet samt den uppkopplade produktens unika och nya karaktär, och ska tillhandahållas användaren skriftligen utan oskäligt dröjsmål. Om datahållaren vägrar att dela data enligt den här punkten ska denne underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare).
+
+9\. Utan att det påverkar en användares rätt att när som helst begära prövning vid en domstol i en medlemsstat, får en användare som vill bestrida en datahållares beslut att vägra eller att hindra eller avbryta datadelning enligt punkterna 7 och 8
+
+a) i enlighet med artikel [37.5 b](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) lämna in ett klagomål till den behöriga myndigheten, som utan oskäligt dröjsmål ska besluta huruvida och på vilka villkor datadelning ska inledas eller återupptas, eller
+
+b) komma överens med datahållaren om att hänskjuta ärendet till ett tvistlösningsorgan i enlighet med artikel [10.1](/lagstiftning/data-act/kap-3#artikel-10-tvistlösning).
+
+10\. Användaren får inte använda de data som erhållits till följd av en begäran som avses i punkt 1 för att utveckla en uppkopplad produkt som konkurrerar med den uppkopplade produkt som dessa data härrör från och inte heller dela dessa data med en tredje part i detta syfte och får inte använda sådana data för att skaffa sig inblick i tillverkarens, eller i förekommande fall datahållarens, ekonomiska situation, tillgångar och produktionsmetoder.
+
+11\. Användaren får inte, för att få åtkomst till data, använda tvångsmedel eller missbruka luckor i en datahållares tekniska infrastruktur som utformats för att skydda data.
+
+12\. Om användaren inte är den registrerade vars personuppgifter begärs får datahållaren tillgängliggöra personuppgifter som genereras genom användning av en uppkopplad produkt eller tillhörande tjänst för användaren endast om det finns en giltig rättslig grund för behandling enligt artikel [6](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr) och, i förekommande fall, om villkoren i artikel [9](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i den förordningen och i artikel [5.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058) i [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058) är uppfyllda.
+
+13\. En datahållare får endast använda lätt åtkomliga data som är icke-personuppgifter på grundval av ett avtal med användaren. En datahållare får inte använda sådana data för att få inblick i användarens ekonomiska situation, tillgångar och produktionsmetoder, eller användning av dessa, på något annat sätt som skulle kunna undergräva användarens kommersiella ställning på de marknader där användaren är verksam.
+
+14\. Datahållare får inte göra sådana produktdata som är icke-personuppgifter tillgängliga för tredje parter för kommersiella eller icke-kommersiella ändamål annat än för att fullgöra avtalet med användaren. Vid behov ska datahållare genom avtal förbinda tredje parter att inte dela vidare data som de har mottagit från dem.
+
+### Artikel 5 – Användarens rätt att dela data med tredje parter
+
+1\. På begäran av en användare, eller av en part som agerar för en användares räkning, ska datahållaren utan oskäligt dröjsmål för en tredje part tillgängliggöra lätt åtkomliga data samt de relevanta metadata som är nödvändiga för att tolka och använda dessa data, av samma kvalitet som den som är tillgänglig för datahållaren, på ett enkelt och säkert sätt, kostnadsfritt för användaren, i ett heltäckande, strukturerat, allmänt använt och maskinläsbart format och, när så är relevant och tekniskt genomförbart, kontinuerligt och i realtid. Data ska göras tillgänglig av datahållaren för den tredje parten i enlighet med artiklarna [8](/lagstiftning/data-act/kap-3#artikel-8-villkor-enligt-vilka-datahållare-gör-data-tillgängliga-för-datamottagare) och [9](/lagstiftning/data-act/kap-3#artikel-9-ersättning-för-tillgängliggörande-av-data).
+
+2\. Punkt 1 ska inte gälla lätt åtkomliga data i samband med testning av nya uppkopplade produkter, ämnen eller processer som ännu inte har släppts ut på marknaden, såvida inte tredje parts användning av dem är tillåten enligt avtal.
+
+3\. Ett företag som har utsetts till grindvakt enligt artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R1925) i [förordning (EU) 2022/1925](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R1925) ska inte vara en godtagbar tredje part enligt [den här artikeln](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) och får därför inte
+
+a) på något som helst sätt anmoda en användare, genom begäran eller kommersiellt incitament, inbegripet genom att erbjuda ekonomisk eller annan ersättning, att göra data som användaren har erhållit till följd av en begäran enligt artikel [4.1](#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster) tillgängliga för en av förtagets tjänster,
+
+b) anmoda en användare, genom begäran eller kommersiellt incitament, att begära att datahållaren gör data tillgängliga för en av företagets tjänster enligt punkt 1 i [denna artikel](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter),
+
+c) från en användare ta emot data som användaren har erhållit till följd av en begäran enligt artikel [4.1](#artikel-4-användares-och-datahållares-rättigheter-och-skyldigheter-när-det-gäller-att-få-åtkomst-till-använda-och-tillgängliggöra-produktdata-och-data-från-tillhörande-tjänster).
+
+4\. För att kontrollera om en fysisk eller juridisk person kan anses vara en användare eller en tredje part vid tillämpning av punkt 1 ska användaren eller den tredje parten inte vara skyldig att tillhandahålla någon information utöver vad som är nödvändigt. Datahållare får inte spara någon information om den tredje partens åtkomst till begärda data utöver vad som är nödvändigt för ett korrekt utförande av den tredje partens begäran om åtkomst och för säkerheten och underhållet av datainfrastrukturen.
+
+5\. Den tredje parten får inte, för att få åtkomst till data, använda tvångsmedel eller missbruka luckor i en datahållares tekniska infrastruktur som utformats för att skydda data.
+
+6\. En datahållare får inte använda lätt åtkomliga data för att få inblick i den tredje partens ekonomiska situation, tillgångar och produktionsmetoder, eller användning av dessa, på något annat sätt som skulle kunna undergräva den tredje partens kommersiella ställning på de marknader där den tredje parten är verksam, såvida inte den tredje parten har gett sitt tillstånd till sådan användning och har teknisk möjlighet att när som helst och på ett enkelt sätt återkalla det tillståndet.
+
+7\. Om användaren inte är den registrerade vars personuppgifter begärs får alla personuppgifter som genereras genom användning av en uppkopplad produkt eller tillhörande tjänst, endast göras tillgängliga av datahållaren eller den tredje parten om det finns en giltig rättslig grund för behandlingen enligt artikel [6](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr) och, i förekommande fall, om villkoren i artikel [9](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i den förordningen och i artikel [5.3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058) i [direktiv 2002/58/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0058) är uppfyllda.
+
+8\. Om datahållaren och den tredje parten underlåter att komma överens om arrangemangen för överföring av data får detta inte hindra eller inkräkta på den registrerades utövande av sina rättigheter enligt [förordning (EU) 2016/679](/lagstiftning/gdpr), i synnerhet inte när det gäller rätten till dataportabilitet enligt artikel [20](/lagstiftning/gdpr/kap-3#artikel-20-rätt-till-dataportabilitet) i den förordningen.
+
+9\. Företagshemligheter ska bevaras och får endast röjas för tredje parter i den mån sådant röjande är absolut nödvändigt för att uppfylla det syfte som överenskommits mellan användaren och den tredje parten. Datahållaren, eller, om det inte är samma person, innehavaren av en företagshemlighet, ska identifiera de data som skyddas som företagshemligheter, inbegripet i relevanta metadata, och ska komma överens med den tredje parten om alla proportionella tekniska och organisatoriska åtgärder som är nödvändiga för att bevara konfidentialiteten för delade data, såsom standardavtalsvillkor, avtal om konfidentialitet, strikta åtkomstprotokoll, tekniska standarder och tillämpning av uppförandekoder.
+
+10\. Om det inte finns någon överenskommelse om de nödvändiga åtgärder som avses i punkt 9 i [denna artikel](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) eller om den tredje parten underlåter att genomföra de åtgärder som överenskommits enligt punkt 9 i [denna artikel](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) eller äventyrar företagshemligheternas konfidentialitet, får datahållaren hindra eller, i förekommande fall, avbryta delningen av data som identifierats som företagshemligheter. Datahållarens beslut ska vara vederbörligen motiverat och lämnas skriftligen till den tredje parten utan oskäligt dröjsmål. I sådana fall ska datahållaren underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) om att den har hindrat eller avbrutit datadelning och identifiera vilka åtgärder som inte har överenskommits eller genomförts och, i förekommande fall, för vilka företagshemligheter konfidentialiteten har äventyrats.
+
+11\. Om en datahållare som är en innehavare av en företagshemlighet kan visa att det är högst sannolikt att denne kommer att lida allvarlig ekonomisk skada till följd av röjandet av företagshemligheter, trots de tekniska och organisatoriska åtgärder som vidtagits av den tredje parten enligt punkt 9 i [denna artikel](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter), får den datahållaren, under exceptionella omständigheter och från fall till fall, avslå en begäran om åtkomst till de specifika data som avses. Detta påvisande ska vara vederbörligen motiverat på grundval av objektiva faktorer, särskilt verkställbarheten av skyddet av företagshemligheter i tredjeländer, begärda datas art och grad av konfidentialitet samt den uppkopplade produktens unika och nya karaktär, och ska tillhandahållas den tredje parten skriftligen utan oskäligt dröjsmål. Om datahållaren vägrar att dela data enligt den här punkten ska denne underrätta den behöriga myndighet som utsetts enligt artikel [37](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare).
+
+12\. Utan att det påverkar tredje parts rätt att när som helst begära prövning vid en domstol i en medlemsstat, får en tredje part som vill bestrida en datahållares beslut att vägra eller att hindra eller avbryta datadelning enligt punkterna 10 och 11
+
+a) i enlighet med artikel [37.5 b](/lagstiftning/data-act/kap-9#artikel-37-behöriga-myndigheter-och-datasamordnare) lämna in ett klagomål till den behöriga myndigheten, som utan oskäligt dröjsmål ska besluta huruvida och på vilka villkor datadelningen ska inledas eller återupptas, eller
+
+b) komma överens med datahållaren om att hänskjuta ärendet till ett tvistlösningsorgan i enlighet med artikel [10.1](/lagstiftning/data-act/kap-3#artikel-10-tvistlösning).
+
+13\. Den rätt som avses i punkt 1 får inte på ett ogynnsamt sätt påverka registrerades rättigheter enligt tillämplig unionsrätt och nationell rätt om skydd av personuppgifter.
+
+### Artikel 6 – Skyldigheter för tredje parter som tar emot data på användarens begäran
+
+1\. En tredje part ska behandla de data som gjorts tillgängliga för den enligt artikel [5](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) endast för de ändamål och på de villkor som överenskommits med användaren med förbehåll för unionsrätt och nationell rätt om skyddet av personuppgifter, inbegripet den registrerades rättigheter när det gäller personuppgifter. Den tredje parten ska radera dessa data när de inte längre är nödvändiga för det överenskomna ändamålet, såvida inte annat överenskommits med användaren när det gäller personuppgifter.
+
+2\. Den tredje parten får inte
+
+a) göra det orimligt svårt för användaren att göra sina val eller utöva sina rättigheter enligt artikel [5](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) och [den här artikeln](#artikel-6-skyldigheter-för-tredje-parter-som-tar-emot-data-på-användarens-begäran), inbegripet genom att erbjuda användaren val på ett icke-neutralt sätt, eller utöva tvång mot, vilseleda eller manipulera användaren eller genom att undergräva eller inskränka användarens självständighet, beslutsfattande eller val, inbegripet genom ett digitalt användargränssnitt eller en del därav,
+
+b) utan hinder av artikel [22.2 a](/lagstiftning/data-act/kap-5#artikel-22-ömsesidigt-bistånd-och-gränsöverskridande-samarbete) och c i [förordning (EU) 2016/679](/lagstiftning/gdpr) använda de data som den tar emot för profilering, såvida det inte är nödvändigt för att tillhandahålla den tjänst som begärs av användaren,
+
+c) göra de data som den tar emot tillgängliga för en annan tredje part, såvida inte datan görs tillgängliga på grundval av ett avtal med användaren, och förutsatt att den andra tredje parten vidtar alla nödvändiga åtgärder som överenskommits mellan datahållaren och den tredje parten för att bevara företagshemligheters konfidentialitet,
+
+d) göra de data som den tar emot tillgängliga för ett företag som har utsetts till grindvakt enligt artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R1925) i [förordning (EU) 2022/1925](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R1925),
+
+e) använda de data som den mottar för att utveckla en produkt som konkurrerar med den uppkopplade produkt från vilken de data som åtkommits härrör eller dela dessa data med en annan tredje part för det ändamålet; tredje parter får inte heller använda produktdata eller data från en tillhörande tjänst som är icke-personuppgifter och som gjorts tillgängliga för dem för att få inblick i datahållarens ekonomiska situation, tillgångar och produktionsmetoder, eller användning av dessa,
+
+f) använda de data som den mottar på ett sätt som inverkar negativt på säkerheten för den uppkopplade produkten eller de tillhörande tjänsterna,
+
+g) bortse från specifika åtgärder som överenskommits med en datahållare eller med innehavaren av företagshemligheter enligt artikel [5.9](#artikel-5-användarens-rätt-att-dela-data-med-tredje-parter) och äventyra konfidentialiteten för företagshemligheter,
+
+h) hindra en användare som är en konsument, inbegripet på grundval av ett avtal, från att göra mottagna data tillgängliga för andra parter.
+
+### Artikel 7 – Tillämpningsområdet för skyldigheter vad gäller datadelning mellan företag och konsumenter och mellan företag
+
+1\. Skyldigheterna i [detta kapitel](/lagstiftning/data-act/kap-2) ska inte gälla data som genereras genom användning av uppkopplade produkter som tillverkas eller utformas, eller tillhörande tjänster som tillhandahålls av, ett mikroföretag eller ett litet företag, förutsatt att det företaget inte har ett partnerföretag eller ett anknutet företag i den mening som avses i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) som inte betraktas som ett mikroföretag eller ett litet företag och när det mikroföretaget eller det lilla företaget inte tillverkar eller utformar en uppkopplad produkt eller tillhandahåller en tillhörande tjänst på entreprenad.
+
+Detsamma ska gälla för data som genereras genom användning av uppkopplade produkter som har tillverkats eller tillhörande tjänster som har tillhandahållits av ett företag som har betraktats som ett medelstort företag enligt artikel [2](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i bilagan till [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) i mindre än ett år och för uppkopplade produkter under ett år från den dag då de släpptes ut på marknaden av ett medelstort företag.
+
+2\. Avtalsvillkor som till nackdel för användaren utesluter tillämpning av, avviker från eller ändrar verkan av användarens rättigheter enligt [detta kapitel](/lagstiftning/data-act/kap-2) ska inte vara bindande för användaren.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

@@ -1,0 +1,126 @@
+---
+'source': 'atex'
+'ref': 'Kapitel 1'
+'title': 'Kapitel 1 – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'ATEX-direktivet, Kapitel 1.'
+'designation': 'ATEX-direktivet Kapitel 1'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0023.03#cpt_1'
+'sites':
+  - 'brandskydd'
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Tillämpningsområde
+
+1\. [Detta direktiv](/lagstiftning/atex) ska tillämpas på följande, nedan kallade produkter:
+
+a) Utrustning och säkerhetssystem som är avsedda att användas i explosionsfarliga omgivningar.
+
+b) Säkerhets- och regleranordningar som är avsedda att användas utanför explosionsfarliga omgivningar men som krävs för, eller bidrar till, att utrustningen och säkerhetssystemen ska kunna fungera på ett säkert sätt med hänsyn till explosionsriskerna.
+
+c) Komponenter som är avsedda att installeras i sådan utrustning och sådana säkerhetssystem som avses i punkt a.
+
+2\. [Detta direktiv](/lagstiftning/atex) ska inte tillämpas på
+
+a) medicinsk utrustning som är avsedd att användas i medicinsk miljö,
+
+b) utrustning och säkerhetssystem som är explosionsfarliga enbart på grund av förekomsten av explosiva substanser eller instabila kemiska substanser,
+
+c) utrustning som är avsedd för användning i hushåll och icke-kommersiell miljö, där explosionsfarliga omgivningar endast sällan kan uppstå och då uteslutande till följd av oavsedda gasutsläpp,
+
+d) personlig skyddsutrustning som omfattas av rådets direktiv 89/686/EEG av den 21 december 1989 om tillnärmning av medlemsstaternas lagstiftning om personlig skyddsutrustning (9),
+
+e) havsgående fartyg och rörliga off shore-enheter samt utrustning ombord på sådana fartyg eller enheter,
+
+f) transportmedel, dvs. fordon och släpvagnar till dessa, som uteslutande är avsedda för passagerartransport i luften eller på väg, järnväg eller vattenväg och transportmedel som är utformade för godstransport i luften, på allmän väg, på järnvägsnät eller på vattenväg; fordon som är avsedda att användas i explosionsfarliga omgivningar ska inte undantas från [detta direktivs](/lagstiftning/atex) tillämpningsområde,
+
+g) sådan utrustning som omfattas av artikel 346.1 b i fördraget om Europeiska unionens funktionssätt.
+
+### Artikel 2 – Definitioner
+
+I [detta direktiv](/lagstiftning/atex) avses med
+
+1\. utrustning: maskiner, apparater, fasta eller rörliga anordningar, kontrollkomponenter med instrument och detektions- eller skyddssystem, som enskilt eller i förening är avsedda att generera, överföra, lagra, mäta, kontrollera eller omforma energi och/eller materialbearbetning och som kan orsaka explosion genom sina inneboende potentiella antändningskällor.
+
+2\. säkerhetssystem: andra anordningar än de utrustningskomponenter som är avsedda att omedelbart stoppa en begynnande explosion och/eller begränsa det område som berörs av en explosion och har tillhandahållits på marknaden separat för användning som autonoma system.
+
+3\. komponent: enhet som är av väsentlig betydelse för att utrustning eller säkerhetssystem ska fungera på ett säkert sätt, men som saknar självständig funktion.
+
+4\. explosiv omgivning: blandning under atmosfäriska förhållanden av luft och brännbara ämnen i form av gas, ånga, imma eller stoft, i vilken förbränningen efter antändning sprider sig till hela den oförbrända blandningen.
+
+5\. explosionsfarlig omgivning: atmosfär som kan bli explosiv på grund av lokala förhållanden eller driftsförhållanden.
+
+6\. utrustningsgrupp I: omfattar utrustning som är avsedd att användas i gruvor under jord och i sådana delar av ovanjordsinstallationerna i dessa gruvor där fara kan uppstå på grund av gruvgas och brännbart stoft och som omfattar utrustningskategorierna M 1 och M 2 enligt bilaga I.
+
+7\. utrustningsgrupp II: omfattar utrustning som är avsedd att användas på andra platser där fara kan uppstå på grund av explosiv omgivning och omfattar utrustningskategorierna 1, 2 och 3 enligt bilaga I.
+
+8\. utrustningskategori: den klassificering av utrustning, inom varje utrustningsgrupp, som anges i bilaga I och som fastställer den skyddsnivå som krävs.
+
+9\. avsedd användning: användning av en produkt som fastställts av tillverkaren genom att dela in utrustningen i en särskild utrustningsgrupp och -kategori eller genom att lämna all information som är nödvändig för att ett säkerhetssystem, en anordning eller en komponent ska fungera på ett säkert sätt.
+
+10\. tillhandahållande på marknaden: varje leverans av en produkt för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt.
+
+11\. utsläppande på marknaden: första gången en produkt tillhandahålls på unionsmarknaden.
+
+12\. tillverkare: fysisk eller juridisk person som tillverkar en produkt eller som låter konstruera och tillverka en sådan produkt och saluför produkten, i eget namn eller under eget varumärke eller använder den för egna ändamål.
+
+13\. tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt skriftlig fullmakt från tillverkaren har rätt att i dennes ställe utföra särskilda uppgifter.
+
+14\. importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut en produkt från ett tredjeland på unionsmarknaden.
+
+15\. distributör: fysisk eller juridisk person i leveranskedjan, förutom tillverkaren eller importören, som tillhandahåller en produkt på marknaden.
+
+16\. ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören.
+
+17\. teknisk specifikation: dokument där det fastställs vilka tekniska krav som en produkt ska uppfylla.
+
+18\. harmoniserad standard: harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025).
+
+19\. ackreditering: ackreditering enligt definitionen i artikel [2.10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+20\. nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765).
+
+21\. bedömning av överensstämmelse: process där det visas huruvida de grundläggande hälso- och säkerhetskraven i [detta direktiv](/lagstiftning/atex) för en produkt har uppfyllts.
+
+22\. organ för bedömning av överensstämmelse: organ som utför bedömning av överensstämmelse, innefattande kalibrering, provning, certifiering och kontroll.
+
+23\. återkallelse: åtgärd för att dra tillbaka en produkt som redan tillhandahållits slutanvändaren.
+
+24\. tillbakadragande: åtgärd för att förhindra att en produkt i leveranskedjan tillhandahålls på marknaden.
+
+25\. harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter.
+
+26\. CE-märkning: märkning genom vilken tillverkaren visar att produkten överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning.
+
+### Artikel 3 – Tillhandahållande på marknaden och idrifttagande
+
+1\. Medlemsstaterna ska vidta alla lämpliga åtgärder för att säkerställa att produkter får tillhandahållas på marknaden och tas i drift endast om de uppfyller kraven i [detta direktiv](/lagstiftning/atex) och under förutsättning att de installeras och underhålls på ett korrekt sätt och används i enlighet med deras avsedda användning.
+
+2\. [Detta direktiv](/lagstiftning/atex) ska inte påverka medlemsstaternas rätt att fastställa sådana krav som de anser nödvändiga för att säkerställa att människor, särskilt i egenskap av arbetstagare, skyddas vid användning av de berörda produkterna, förutsatt att detta inte medför att produkterna ändras på ett sätt som inte är förenligt med [detta direktiv](/lagstiftning/atex).
+
+3\. Medlemsstaterna får inte hindra att produkter som inte uppfyller bestämmelserna i [detta direktiv](/lagstiftning/atex) visas på mässor, utställningar och demonstrationer, förutsatt att det klart anges på en väl synlig skylt att produkterna inte uppfyller kraven i [detta direktiv](/lagstiftning/atex) och att de inte saluförs innan tillverkaren har åstadkommit överensstämmelse med kraven. Vid demonstrationer ska lämpliga säkerhetsåtgärder vidtas så att människor skyddas.
+
+### Artikel 4 – Grundläggande hälso- och säkerhetskrav
+
+Produkter ska uppfylla de grundläggande hälso- och säkerhetskrav som anges i bilaga II i tillämpliga delar med hänsyn till deras avsedda användning.
+
+### Artikel 5 – Fri rörlighet
+
+Medlemsstaterna får inte förbjuda, begränsa eller hindra att produkter som uppfyller de krav som ställs i [detta direktiv](/lagstiftning/atex) tillhandahålls på marknaden och tas i drift inom deras territorier.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

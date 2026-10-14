@@ -1,0 +1,473 @@
+---
+'source': 'eidas'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – BETRODDA TJÄNSTER'
+'kind': 'chapter'
+'description': 'eIDAS-förordningen, Kapitel III.'
+'designation': 'eIDAS-förordningen Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0024.03#cpt_III'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 13 – Skadeståndsansvar och bevisbörda
+
+1\. Utan att det påverkar tillämpningen av punkt 2 ska tillhandahållare av betrodda tjänster ha skadeståndsansvar för skada som åsamkats en fysisk eller juridisk person avsiktligt eller på grund av oaktsamhet genom underlåtenhet att uppfylla kraven i [denna förordning](/lagstiftning/eidas).
+
+Bevisbördan för avsikt eller oaktsamhet hos en icke-kvalificerad tillhandahållare av betrodda tjänster ska vila på den fysiska eller juridiska person som gör gällande sådan skada som avses i första stycket.
+
+Avsikt eller oaktsamhet hos en kvalificerad tillhandahållare av betrodda tjänster ska anses föreligga såvida inte en kvalificerad tillhandahållare av betrodda tjänster bevisar att den skada som avses i första stycket har uppstått utan avsikt eller oaktsamhet hos den kvalificerade tillhandahållaren av betrodda tjänster.
+
+2\. Om en tillhandahållare av betrodda tjänster vederbörligen informerar sina kunder i förväg om de begränsningar som gäller för användningen av de tjänster de tillhandahåller och dessa begränsningar är möjliga för tredje man att ta del av, ska tillhandahållarna av betrodda tjänster inte ha skadeståndsansvar för skador som uppstår vid sådan användning av tjänster som överskrider de angivna begränsningarna.
+
+3\. Punkterna 1 och 2 ska tillämpas i enlighet med nationella bestämmelser om skadeståndsansvar.
+
+### Artikel 14 – Internationella aspekter
+
+1\. Betrodda tjänster som tillhandahålls av tillhandahållare av betrodda tjänster som är etablerade i ett tredjeland ska erkännas som rättsligt likvärdiga med kvalificerade betrodda tjänster som tillhandahålls av kvalificerade tillhandahållare av betrodda tjänster som är etablerade inom unionen, under förutsättning att de betrodda tjänsterna från tredjelandet är erkända enligt ett avtal som ingåtts mellan unionen och det berörda tredjelandet eller en internationell organisation i enlighet med artikel [218](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:12012E) i EUF-fördraget.
+
+2\. Avtal som avses i punkt 1 ska särskilt säkerställa att
+
+a) de krav som är tillämpliga på kvalificerade tillhandahållare av betrodda tjänster som är etablerade inom unionen och de kvalificerade betrodda tjänster som de tillhandahåller uppfylls av tillhandahållarna av betrodda tjänster i det tredjeland eller den internationella organisation med vilket eller vilken avtalet ingås och av de betrodda tjänster som de tillhandahåller,
+
+b) de kvalificerade betrodda tjänster som tillhandahålls av kvalificerade tillhandahållare av betrodda tjänster som är etablerade inom unionen erkänns som rättsligt likvärdiga med betrodda tjänster som tillhandahålls av tillhandahållare av betrodda tjänster i det tredjeland eller den internationella organisation med vilket eller vilken avtalet ingås.
+
+### Artikel 15 – Tillgänglighet för personer med funktionshinder
+
+När det är genomförbart ska betrodda tjänster som tillhandahålls och slutanvändarprodukter som används i samband med tillhandahållandet av dessa tjänster göras tillgängliga för personer med funktionshinder.
+
+### Artikel 16 – Sanktioner
+
+Medlemsstaterna ska fastställa bestämmelser om de sanktioner som ska tillämpas vid överträdelser av [denna förordning](/lagstiftning/eidas). Sanktionerna ska vara effektiva, proportionella och avskräckande.
+
+### Artikel 17 – Tillsynsorgan
+
+1\. Medlemsstaterna ska utse ett tillsynsorgan som är etablerat inom deras territorium eller, efter ömsesidig överenskommelse med en annan medlemsstat, ett tillsynsorgan som är etablerat i den andra medlemsstaten. Det organet ska ansvara för tillsynsuppgifter i den medlemsstat som utsett organet.
+
+Tillsynsorgan ska tilldelas nödvändiga befogenheter och adekvata resurser för utövande av sina uppgifter.
+
+2\. Medlemsstaterna ska meddela kommissionen namn på och adress till sina respektive utsedda tillsynsorgan.
+
+3\. Tillsynsorganet ska ha följande roll:
+
+a) Utöva tillsyn över kvalificerade tillhandahållare av betrodda tjänster som är etablerade i den medlemsstat där de har utsetts för att genom tillsynsverksamhet på förhand och i efterhand se till att de kvalificerade tillhandahållarna av betrodda tjänster och de kvalificerade betrodda tjänster som de tillhandahåller uppfyller kraven i [denna förordning](/lagstiftning/eidas).
+
+b) Vid behov vidta åtgärder avseende icke-kvalificerade tillhandahållare av betrodda tjänster som är etablerade i den medlemsstat där de har utsetts genom tillsynsverksamhet i efterhand om de tar del av påståenden att dessa icke-kvalificerade tillhandahållare av betrodda tjänster eller de betrodda tjänster som de tillhandahåller inte uppfyller kraven i [denna förordning](/lagstiftning/eidas).
+
+4\. Vid tillämpningen av punkt 3 och med förbehåll för de begränsningar som anges däri ska tillsynsorganets uppgifter särskilt innefatta följande:
+
+a) Samarbete med andra tillsynsorgan och bistånd till dem i enlighet med artikel [18](#artikel-18-ömsesidigt-bistånd).
+
+b) Analys av de rapporter om överensstämmelsebedömning som avses i artiklarna [20.1](#artikel-20-tillsyn-över-kvalificerade-tillhandahållare-av-betrodda-tjänster) och [21.1](#artikel-21-igångsättande-av-en-kvalificerad-betrodd-tjänst).
+
+c) Information till andra tillsynsorgan samt allmänheten om säkerhetsincidenter eller integritetsförluster i enlighet med artikel [19.2](#artikel-19-säkerhetskrav-på-tillhandahållare-av-betrodda-tjänster).
+
+d) Rapportering till kommissionen om sin huvudverksamhet i enlighet med punkt 6 i [denna artikel](#artikel-17-tillsynsorgan).
+
+e) Granskningsverksamhet eller framställningar till ett organ för bedömning av överensstämmelse om att detta ska göra en överensstämmelsebedömning av kvalificerade tillhandahållare av betrodda tjänster i enlighet med artikel [20.2](#artikel-20-tillsyn-över-kvalificerade-tillhandahållare-av-betrodda-tjänster).
+
+f) Samarbete med dataskyddsmyndigheterna, främst genom att utan onödigt dröjsmål informera dem om resultatet av granskningar av kvalificerade tillhandahållare av betrodda tjänster, när det förefaller ha skett en överträdelse av reglerna för skydd för personuppgifter.
+
+g) Beviljande av status som kvalificerad tillhandahållare av betrodda tjänster och till de tjänster som de tillhandahåller samt återkallande av denna status i enlighet med artiklarna [20](#artikel-20-tillsyn-över-kvalificerade-tillhandahållare-av-betrodda-tjänster) och [21](#artikel-21-igångsättande-av-en-kvalificerad-betrodd-tjänst).
+
+h) Information till det organ som är ansvarigt för den nationella förteckning över betrodda tjänsteleverantörer som avses i artikel [22.3](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer) om sina beslut om beviljande eller återkallande av status som kvalificerad, såvida inte det organet även är tillsynsorganet.
+
+i) Kontroll av befintlighet och korrekt tillämpning av bestämmelser om planer för verksamhetens upphörande i sådana fall när den kvalificerade tillhandahållaren av betrodda tjänster upphör med sin verksamhet, inbegripet hur information hålls tillgänglig i enlighet med artikel [24.2 h](#artikel-24-krav-på-kvalificerade-tillhandahållare-av-betrodda-tjänster).
+
+j) Åläggande av krav på tillhandahållare av betrodda tjänster att åtgärda varje underlåtenhet att uppfylla kraven i [denna förordning](/lagstiftning/eidas).
+
+5\. Medlemsstaterna får kräva att tillsynsorganet ska inrätta, underhålla och uppdatera en infrastruktur för betrodda tjänster i enlighet med villkoren i nationell rätt.
+
+6\. Senast den 31 mars varje år ska varje tillsynsorgan till kommissionen överlämna en rapport om det föregående kalenderårets huvudverksamhet tillsammans med en sammanfattning av överträdelseanmälningar som har inkommit från tillhandahållare av betrodda tjänster i enlighet med artikel [19.2](#artikel-19-säkerhetskrav-på-tillhandahållare-av-betrodda-tjänster).
+
+7\. Kommissionen ska göra den årsrapport som avses i punkt 6 tillgänglig för medlemsstaterna.
+
+8\. Kommissionen får genom genomförandeakter fastställa format och förfaranden för den rapport som avses i punkt 6. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 18 – Ömsesidigt bistånd
+
+1\. Tillsynsorganen ska samarbeta med sikte på att utbyta god praxis.
+
+Ett tillsynsorgan ska, efter att ha mottagit en motiverad begäran från ett annat tillsynsorgan, ge det organet bistånd så att deras åtgärder kan vidtas på ett enhetligt sätt. Det ömsesidiga biståndet kan bland annat omfatta begäranden om information och tillsynsåtgärder, t.ex. begäranden om att utföra inspektioner avseende de rapporter om överensstämmelsebedömning som avses i artiklarna [20](#artikel-20-tillsyn-över-kvalificerade-tillhandahållare-av-betrodda-tjänster) och [21](#artikel-21-igångsättande-av-en-kvalificerad-betrodd-tjänst).
+
+2\. Ett tillsynsorgan som tar emot en begäran om bistånd får vägra att tillmötesgå denna begäran på grundval av något av följande skäl:
+
+a) Tillsynsorganet är inte behörigt att tillhandahålla det bistånd som begärs.
+
+b) Det begärda biståndet står inte i proportion till den tillsynsverksamhet som tillsynsorganet utför i enlighet med artikel [17](#artikel-17-tillsynsorgan).
+
+c) Det skulle stå i strid med [denna förordning](/lagstiftning/eidas) att tillhandahålla det begärda biståndet.
+
+3\. Där så är lämpligt får medlemsstaterna bemyndiga sina respektive tillsynsorgan att vidta gemensamma åtgärder där personal från andra medlemsstaters tillsynsorgan deltar. De berörda medlemsstaterna ska besluta om och inrätta arrangemangen och förfarandena för sådana gemensamma åtgärder i enlighet med sin nationella rätt.
+
+### Artikel 19 – Säkerhetskrav på tillhandahållare av betrodda tjänster
+
+1\. Kvalificerade och icke kvalificerade tillhandahållare av betrodda tjänster ska vidta lämpliga tekniska och organisatoriska åtgärder för att hantera riskerna för säkerheten hos de betrodda tjänster som de tillhandahåller. Med beaktande av den senaste tekniska utvecklingen ska dessa åtgärder säkerställa att säkerhetsnivån står i proportion till graden av risk. I synnerhet ska åtgärder vidtas för att förhindra eller minimera säkerhetsincidenters inverkan samt för att informera berörda parter om de negativa effekterna av eventuella sådana incidenter.
+
+2\. Kvalificerade och icke kvalificerade tillhandahållare av betrodda tjänster ska, utan otillbörligt dröjsmål och under alla omständigheter inom 24 timmar efter upptäckt, underrätta tillsynsorganet och i förekommande fall andra relevanta organ, såsom det behöriga nationella organet för informationssäkerhet eller dataskyddsmyndigheten, om alla säkerhetsincidenter eller integritetsförluster som i betydande omfattning påverkar den betrodda tjänst som tillhandahålls eller på de personuppgifter som ingår i denna.
+
+När det är troligt att säkerhetsincidenten eller integritetsförlusten kommer att ha negativ inverkan på en fysisk eller juridisk person till vilken den betrodda tjänsten har tillhandahållits, ska tillhandahållaren av betrodda tjänster utan onödigt dröjsmål även underrätta den fysiska eller juridiska personen om säkerhetsincidenten eller integritetsförlusten.
+
+När så är lämpligt, särskilt om säkerhetsincidenten eller integritetsförlusten rör två eller flera medlemsstater, ska det underrättade tillsynsorganet informera tillsynsorganen i övriga berörda medlemsstater samt Enisa.
+
+Det underrättade tillsynsorganet ska informera allmänheten eller kräva att tillhandahållaren av betrodda tjänster gör det, om den slår fast att ett avslöjande av säkerhetsincidenten eller integritetsförlusten ligger i allmänhetens intresse.
+
+3\. Tillsynsorganet ska en gång om året till Enisa överlämna en sammanfattning av de anmälningar om säkerhetsincidenter eller som inkommit från tillhandahållare av betrodda tjänster.
+
+4\. Kommissionen får, genom genomförandeakter,
+
+a) ytterligare specificera de åtgärder som avses i punkt 1, och
+
+b) fastställa format och förfaranden, inklusive tidsfrister, som ska vara tillämpliga för de ändamål som avses i punkt 2.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 20 – Tillsyn över kvalificerade tillhandahållare av betrodda tjänster
+
+1\. Kvalificerade tillhandahållare av betrodda tjänster ska minst en gång vartannat år och på egen bekostnad granskas av ett organ för bedömning av överensstämmelse. Syftet med denna granskning ska vara att bekräfta att de kvalificerade tillhandahållarna av betrodda tjänster och de kvalificerade betrodda tjänster som de tillhandahåller uppfyller kraven i [denna förordning](/lagstiftning/eidas). De kvalificerade tillhandahållarna av betrodda tjänster ska lämna in den resulterande rapporten om överensstämmelsebedömning till tillsynsorganet inom en period av tre arbetsdagar efter mottagande av denna.
+
+2\. Tillsynsorganet får, utan att det påverkar tillämpningen av punkt 1, när som helst granska eller begära att ett organ för bedömning av överensstämmelse gör en överensstämmelsebedömning av de kvalificerade tillhandahållarna av betrodda tjänster på dessa tillhandahållare av betrodda tjänsters egen bekostnad för att bekräfta att dessa och de kvalificerade betrodda tjänster som de tillhandahåller uppfyller kraven i [denna förordning](/lagstiftning/eidas). Vid misstänkta överträdelser av reglerna om skydd för personuppgifter ska tillsynsorganet informera dataskyddsmyndigheterna om sina granskningsresultat.
+
+3\. När tillsynsorganet begär att den kvalificerade tillhandahållaren av betrodda tjänster ska åtgärda en underlåtenhet att uppfylla kraven i [denna förordning](/lagstiftning/eidas) och när tillhandahållaren inte gör detta, och i tillämpliga fall inom den tidsfrist som fastställts av tillsynsorganet, får tillsynsorganet med beaktande av i synnerhet underlåtenhetens omfattning, varaktighet och följder återkalla den tillhandahållarens eller den berörda tillhandahållna tjänstens status som kvalificerad samt informera det organ som avses i artikel [22.3](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer) för att de förteckningar över betrodda tjänsteleverantörer som avses i artikel [22.1](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer) ska kunna uppdateras. Tillsynsorganet ska informera den kvalificerade tillhandahållaren av betrodda tjänster om återkallandet av dess eller den berörda tjänstens status som kvalificerad.
+
+4\. Kommissionen får genom genomförandeakter fastställa referensnummer till följande standarder:
+
+a) Ackreditering av organ för bedömning av överensstämmelse och för den rapport om överensstämmelsebedömning som avses i punkt 1.
+
+b) Granskningsregler som organen för bedömning av överensstämmelse ska följa vid sina överensstämmelsebedömningar av kvalificerade tillhandahållare av betrodda tjänster som avses i punkt 1.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 21 – Igångsättande av en kvalificerad betrodd tjänst
+
+1\. När tillhandahållare av betrodda tjänster som inte har status som kvalificerade har för avsikt att börja tillhandahålla kvalificerade betrodda tjänster, ska de anmäla sin avsikt till tillsynsorganet och samtidigt lämna in en rapport om överensstämmelsebedömning som utfärdats av ett organ för bedömning av överensstämmelse.
+
+2\. Tillsynsorganet ska kontrollera huruvida tillhandahållaren av betrodda tjänster och de betrodda tjänster som denne tillhandahåller uppfyller kraven i [denna förordning](/lagstiftning/eidas), och i synnerhet kraven för kvalificerade tillhandahållare av betrodda tjänster och för de kvalificerade betrodda tjänster som de tillhandahåller.
+
+Om tillsynsorganet kommer fram till att tillhandahållaren av betrodda tjänster och de betrodda tjänster som denne tillhandahåller uppfyller de krav som avses i första stycket, ska det bevilja status som kvalificerad till tillhandahållare av betrodda tjänster och de betrodda tjänster som denne tillhandahåller samt informera det organ som avses i artikel [22.3](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer) för att de förteckningar över betrodda tjänsteleverantörer som avses i artikel [22.1](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer) ska kunna uppdateras, senast tre månader efter anmälan i enlighet med punkt 1 i [denna artikel](#artikel-21-igångsättande-av-en-kvalificerad-betrodd-tjänst).
+
+Om kontrollen inte har slutförts inom tre månader från anmälan, ska tillsynsorganet informera tillhandahållaren av betrodda tjänster om detta och ange orsakerna till förseningen samt när kontrollen beräknas vara slutförd.
+
+3\. Kvalificerade tillhandahållare av betrodda tjänster får börja tillhandahålla den kvalificerade betrodda tjänsten efter det att status som kvalificerad har angetts i de förteckningar över betrodda tjänsteleverantörer som avses i artikel [22.1](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer).
+
+4\. Kommissionen får genom genomförandeakter fastställa format och förfaranden för de ändamål som avses i punkterna 1 och 2. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 22 – Förteckningar över betrodda tjänsteleverantörer
+
+1\. Varje medlemsstat ska upprätta, underhålla och offentliggöra förteckningar med uppgifter om kvalificerade tillhandahållare av betrodda tjänster som den ansvarar för, tillsammans med uppgifter om de kvalificerade betrodda tjänster som dessa tillhandahåller.
+
+2\. Medlemsstaterna ska på ett säkert sätt upprätta, underhålla och offentliggöra elektroniskt undertecknade eller förseglade förteckningar som avses i punkt 1 i en form som lämpar sig för automatiserad behandling.
+
+3\. Medlemsstaterna ska utan onödigt dröjsmål till kommissionen lämna information om det organ som ansvarar för att upprätta, underhålla och offentliggöra nationella förteckningar över betrodda tjänsteleverantörer, samt närmare uppgifter om var dessa förteckningar offentliggörs, de certifikat som används för att underteckna eller försegla förteckningarna över betrodda tjänsteleverantörer och eventuella ändringar i dem.
+
+4\. Kommissionen ska se till att den information som avses i punkt 3 genom en säker kanal görs tillgänglig för allmänheten i elektroniskt undertecknad eller förseglad form som lämpar sig för automatiserad behandling.
+
+5\. Senast den 18 september 2015 ska kommissionen genom genomförandeakter ange den information som avses i punkt 1 och fastställa de tekniska specifikationer och format som ska gälla för förteckningar över betrodda tjänsteleverantörer för de ändamål som avses i punkterna 1–4. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 23 – EU-förtroendemärke för kvalificerade betrodda tjänster
+
+1\. Efter det att den kvalificerade status som avses i artikel [21.2](#artikel-21-igångsättande-av-en-kvalificerad-betrodd-tjänst) andra stycket har angetts i den förteckning över betrodda tjänsteleverantörer som avses i artikel [22.1](#artikel-22-förteckningar-över-betrodda-tjänsteleverantörer), får kvalificerade tillhandahållare av betrodda tjänster använda sig av EU-förtroendemärket för att på ett enkelt, igenkännligt och tydligt sätt ange de kvalificerade betrodda tjänster som de tillhandahåller.
+
+2\. Vid användning av det EU-förtroendemärke som avses i punkt 1 ska kvalificerade tillhandahållare av betrodda tjänster se till att en länk till den relevanta förteckningen över betrodda tjänsteleverantörer finns på deras webbplats.
+
+3\. Senast den 1 juli 2015 ska kommissionen genom genomförandeakter fastställa specifikationer med avseende på formatet för EU-förtroendemärket för kvalificerade betrodda tjänster och särskilt för dess presentation, sammansättning, storlek och utformning. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 24 – Krav på kvalificerade tillhandahållare av betrodda tjänster
+
+1\. En kvalificerad tillhandahållare av betrodda tjänster ska, när den utfärdar ett kvalificerat certifikat för en betrodd tjänst, på lämpligt sätt och i enlighet med nationell rätt kontrollera identiteten och i förekommande fall eventuella särskilda attribut för den fysiska eller juridiska person till vilken det kvalificerade certifikatet utfärdas.
+
+Den information som avses i första stycket ska kontrolleras av den kvalificerade tillhandahållaren av betrodda tjänster antingen direkt eller via tredje man i enlighet med nationell rätt på något av följande sätt:
+
+a) Genom fysisk närvaro av den fysiska personen eller av en behörig företrädare för den juridiska personen.
+
+b) På distans, med hjälp av medel för elektronisk identifiering, där en fysisk närvaro av den fysiska personen eller en behörig företrädare för den juridiska personen vid tidpunkt före utfärdandet av det kvalificerade certifikatet säkerställs och som uppfyller kraven i artikel [8](/lagstiftning/eidas/kap-2#artikel-8-tillitsnivåer-för-system-för-elektronisk-identifiering) när det gäller tillitsnivåerna väsentlig eller hög.
+
+c) Genom ett certifikat för en kvalificerad elektronisk underskrift eller en kvalificerad elektronisk stämpel som utfärdats i enlighet med led a eller b.
+
+d) Med hjälp av andra identifieringsmetoder som erkänns på nationell nivå och som erbjuder garantier som är likvärdiga med fysisk närvaro. Likvärdiga garantier ska bekräftas av ett organ för bedömning av överensstämmelse.
+
+2\. En kvalificerad tillhandahållare av betrodda tjänster som tillhandahåller kvalificerade betrodda tjänster ska
+
+a) informera tillsynsorganet om alla ändringar av tillhandahållandet av dess kvalificerade betrodda tjänster, och om den har för avsikt att upphöra med denna verksamhet,
+
+b) ha personal, och i förekommande fall underleverantörer, som har den sakkunskap, den tillförlitlighet samt de erfarenheter och kvalifikationer som behövs och som har genomgått lämplig utbildning om regler för säkerhet och skydd för personuppgifter och ska tillämpa förfaranden för administration och förvaltning som överensstämmer med europeiska eller internationella standarder,
+
+c) när det gäller risken för ansvar vid skador i enlighet med artikel [13](#artikel-13-skadeståndsansvar-och-bevisbörda) förfoga över tillräckliga ekonomiska medel och/eller skaffa sig lämplig ansvarsförsäkring i enlighet med nationell rätt,
+
+d) innan den ingår ett avtalsförhållande på ett tydligt och uttömmande sätt informera de personer som vill använda en kvalificerad betrodd tjänst om de exakta villkor som gäller för användning av den tjänsten, inbegripet om eventuella begränsningar av användningen,
+
+e) använda tillförlitliga system och produkter som är skyddade mot ändringar och säkerställa den tekniska säkerheten och tillförlitligheten hos den process som stöds av dessa,
+
+f) använda tillförlitliga system för att lagra uppgifter som har lämnats till den, i en form som kan kontrolleras så att
+
+i) de är offentligt tillgängliga för hämtning endast i de fall där samtycke från den person som uppgifterna rör har erhållits,
+
+ii) endast behöriga personer kan föra in uppgifter och göra ändringar i de lagrade uppgifterna, och
+
+iii) uppgifternas äkthet kan kontrolleras,
+
+g) vidta lämpliga åtgärder mot förfalskning och stöld av uppgifter,
+
+h) under en lämplig tidsperiod registrera och hålla tillgänglig, även efter det att den kvalificerade tillhandahållaren av betrodda uppgifter har upphört med sin verksamhet, all relevant information om uppgifter som den kvalificerade tillhandahållaren av betrodda tjänster har utfärdat och tagit emot, särskilt för att vid rättsliga förfaranden kunna lägga fram bevis och för att säkerställa tjänstens kontinuitet; registreringen får göras elektroniskt,
+
+i) ha en uppdaterad plan för verksamhetens upphörande i syfte att säkerställa tjänstens kontinuitet i enlighet med bestämmelser som kontrollerats av tillsynsorganet i enlighet med artikel [17.4](#artikel-17-tillsynsorgan) i,
+
+j) säkerställa laglig behandling av personuppgifter i enlighet med [direktiv 95/46/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31995L0046),
+
+k) då det är fråga om kvalificerade tillhandahållare av betrodda tjänster som utfärdar kvalificerade certifikat, upprätta och uppdatera en certifikatdatabas,
+
+3\. Om en kvalificerad tillhandahållare av betrodda tjänster som utfärdar kvalificerade certifikat beslutar att återkalla ett certifikat, ska den registrera ett sådant återkallande i sin certifikatdatabas och offentliggöra återkallandet av statusen för certifikatet i god tid och i alla händelser inom 24 timmar efter mottagandet av begäran. Återkallandet ska få verkan omedelbart efter offentliggörandet.
+
+4\. Med avseende på punkt 3 ska kvalificerade tillhandahållare av betrodda tjänster som utfärdar kvalificerade certifikat informera eventuella förlitande parter om giltigheten eller statusen som återkallad hos de kvalificerade certifikat som de utfärdat. Informationen ska, åtminstone på certifikatnivå, när som helst och utöver certifikatets giltighetsperiod göras tillgängligt på ett automatiskt sätt som är tillförlitligt, kostnadsfritt och effektivt.
+
+5\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för tillförlitliga system och produkter, vilka uppfyller kraven i punkt 2 e och f i [denna artikel](#artikel-24-krav-på-kvalificerade-tillhandahållare-av-betrodda-tjänster). Överensstämmelse med kraven i [denna artikel](#artikel-24-krav-på-kvalificerade-tillhandahållare-av-betrodda-tjänster) ska förutsättas när tillförlitliga system och produkter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 25 – Rättslig verkan av elektroniska underskrifter
+
+1\. En elektronisk underskrift får inte förvägras rättslig verkan eller giltighet som bevis vid rättsliga förfaranden enbart på grund av att underskriften har elektronisk form eller inte uppfyller kraven för kvalificerade elektroniska underskrifter.
+
+2\. En kvalificerad elektronisk underskrift ska ha motsvarande rättsliga verkan som en handskriven underskrift.
+
+3\. En kvalificerad elektronisk underskrift som är baserad på ett kvalificerat certifikat som utfärdats i en medlemsstat ska erkännas som en kvalificerad elektronisk underskrift i alla andra medlemsstater.
+
+### Artikel 26 – Krav med avseende på avancerade elektroniska underskrifter
+
+En avancerad elektronisk underskrift ska uppfylla följande krav:
+
+a) Den ska vara unikt knuten till undertecknaren.
+
+b) Undertecknaren ska kunna identifieras genom den.
+
+c) Den ska vara skapad på grundval av uppgifter för skapande av elektroniska underskrifter som undertecknaren med hög grad av tillförlitlighet kan använda uteslutande under sin egen kontroll.
+
+d) Den ska vara kopplad till de uppgifter som den används för att underteckna på ett sådant sätt att alla efterföljande ändringar av uppgifterna kan upptäckas.
+
+### Artikel 27 – Elektroniska underskrifter i offentliga tjänster
+
+1\. Om en medlemsstat kräver en avancerad elektronisk underskrift för användningen av en nättjänst som erbjuds av ett offentligt organ eller på ett offentligt organs vägnar, ska medlemsstaten erkänna avancerade elektroniska underskrifter, avancerade elektroniska underskrifter som är baserade på ett kvalificerat certifikat för elektroniska underskrifter och kvalificerade elektroniska underskrifter i åtminstone de format eller med de metoder som anges i de genomförandeakter som avses i punkt 5.
+
+2\. Om en medlemsstat kräver en avancerad elektronisk underskrift som är baserad på ett kvalificerat certifikat för användningen av en nättjänst som erbjuds av ett offentligt organ eller på ett offentligt organs vägnar, ska medlemsstaten erkänna avancerade elektroniska underskrifter som är baserade på ett kvalificerat certifikat och kvalificerade elektroniska underskrifter i åtminstone de format eller med de metoder som anges i de genomförandeakter som avses i punkt 5.
+
+3\. Medlemsstaterna ska för gränsöverskridande användning av nättjänster som erbjuds av ett offentligt organ inte kräva en elektronisk underskrift med en högre säkerhetsnivå än den som gäller för kvalificerade elektroniska underskrifter.
+
+4\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för avancerade elektroniska underskrifter. Överensstämmelse med de krav på avancerade elektroniska underskrifter som avses i punkterna 1 och 2 i [denna artikel](#artikel-27-elektroniska-underskrifter-i-offentliga-tjänster) samt i artikel [26](#artikel-26-krav-med-avseende-på-avancerade-elektroniska-underskrifter) ska förutsättas när en avancerad elektronisk underskrift uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+5\. Kommissionen ska senast den 18 september 2015 och med beaktande av befintliga rutiner, standarder och unionsrättsakter, genom genomförandeakter, fastställa referensformat för avancerade elektroniska underskrifter eller referensmetoder i de fall alternativa format används. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 28 – Kvalificerade certifikat för elektroniska underskrifter
+
+1\. Kvalificerade certifikat för elektroniska underskrifter ska uppfylla kraven i bilaga I.
+
+2\. Kvalificerade certifikat för elektroniska underskrifter ska inte omfattas av några obligatoriska krav som går utöver kraven i bilaga I.
+
+3\. Kvalificerade certifikat för elektroniska underskrifter får omfatta extra, icke-obligatoriska, särskilda attribut. Dessa attribut ska inte påverka kvalificerade elektroniska underskrifters kompatibilitet eller erkännande.
+
+4\. Om ett kvalificerat certifikat för elektroniska underskrifter har återkallats efter den ursprungliga aktiveringen, ska det förlora sin giltighet från och med tidpunkten för återkallandet, och dess status som giltigt ska inte under några omständigheter återgå.
+
+5\. På följande villkor får medlemsstaterna fastställa nationella bestämmelser för tillfälligt upphävande av ett kvalificerat certifikat för elektroniska underskrifter:
+
+> _a) Om ett kvalificerat certifikat för en elektronisk underskrift tillfälligt har upphävts, ska certifikatet vara ogiltigt under tiden för det tillfälliga upphävandet._
+
+b) Perioden för det tillfälliga upphävandet ska tydligt anges i certifikatdatabasen och certifikatets status som tillfälligt upphävt ska under perioden för det tillfälliga upphävandet vara synlig genom den tjänst som tillhandahåller information om certifikatets status.
+
+6\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för kvalificerade certifikat för elektroniska underskrifter. Överensstämmelse med kraven i bilaga I ska förutsättas när ett kvalificerat certifikat för elektroniska underskrifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 29 – Krav på anordningar för skapande av kvalificerade elektroniska underskrifter
+
+1\. Anordningar för skapande av kvalificerade elektroniska underskrifter ska uppfylla kraven i bilaga II.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för anordningar för skapande av kvalificerade elektroniska underskrifter. Överensstämmelse med kraven i bilaga II ska förutsättas när en anordning för skapande av kvalificerade elektroniska underskrifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 30 – Certifiering av anordningar för skapande av kvalificerade elektroniska underskrifter
+
+1\. Lämpliga offentliga eller privata organ som utsetts av medlemsstaterna ska certifiera att anordningar för skapande av kvalificerade elektroniska underskrifter överensstämmer med kraven i bilaga II.
+
+2\. Medlemsstaterna ska underrätta kommissionen om namnet på och adressen till det offentliga eller privata organ som avses i punkt 1. Kommissionen ska göra den informationen tillgänglig för medlemsstaterna.
+
+3\. Den certifiering som avses i punkt 1 ska bygga på något av följande:
+
+a) Ett förfarande för säkerhetsutvärdering som utförts i enlighet med någon av de standarder för säkerhetsutvärdering av informationsteknikprodukter som finns med i den förteckning som fastställts i enlighet med andra stycket.
+
+b) Ett annat förfarande än det som avses i led a, förutsatt att det omfattar jämförbara säkerhetsnivåer och att det offentliga eller privata organ som avses i punkt 1 underrättar kommissionen om förfarandet. Detta förfarande får endast användas vid avsaknad av sådana standarder som avses i led a eller medan en sådan säkerhetsutvärdering som avses i led a pågår.
+
+Kommissionen ska genom genomförandeakter upprätta en förteckning över standarder för den säkerhetsbedömning av informationsteknikprodukter som avses i led a. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+4\. Kommissionen ska ha befogenhet att anta delegerade akter i enlighet med artikel [47](/lagstiftning/eidas/kap-5#artikel-47-utövande-av-delegeringen) rörande fastställandet av särskilda kriterier som ska uppfyllas av de utsedda organ som avses i punkt 1 i [den här artikeln](#artikel-30-certifiering-av-anordningar-för-skapande-av-kvalificerade-elektroniska-underskrifter).
+
+### Artikel 31 – Offentliggörande av en förteckning över certifierade anordningar för skapande av kvalificerade elektroniska underskrifter
+
+1\. Medlemsstaterna ska utan onödigt dröjsmål och senast en månad efter det att certifieringen slutförts till kommissionen lämna information om anordningar för skapande av kvalificerade elektroniska underskrifter som har certifierats av de organ som avses i artikel [30.1](#artikel-30-certifiering-av-anordningar-för-skapande-av-kvalificerade-elektroniska-underskrifter). De ska utan onödigt dröjsmål och senast en månad efter det att en certifiering har upphört att gälla även informera kommissionen om anordningar för skapande av elektroniska underskrifter som inte längre är certifierade.
+
+2\. Kommissionen ska på grundval av den information som inkommit upprätta, offentliggöra och underhålla en förteckning över certifierade anordningar för skapande av kvalificerade elektroniska underskrifter.
+
+3\. Kommissionen får genom genomförandeakter fastställa format och förfaranden som ska vara tillämpliga för de ändamål som avses i punkt 1. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 32 – Krav på validering av kvalificerade elektroniska underskrifter
+
+1\. Genom valideringsförfarandet för en kvalificerad elektronisk underskrift ska den kvalificerade elektroniska underskriftens giltighet bekräftas under förutsättning att
+
+a) det certifikat som stöder underskriften vid tidpunkten för undertecknandet var ett kvalificerat certifikat för elektroniska underskrifter som överensstämmer med bilaga I,
+
+b) det kvalificerade certifikatet har utfärdats av en kvalificerad tillhandahållare av betrodda tjänster och var giltigt vid tidpunkten för undertecknandet,
+
+c) valideringsuppgifterna för underskriften överensstämmer med de uppgifter som lämnats till den förlitande parten,
+
+d) certifikatets unika uppsättning uppgifter som avser undertecknaren har tillhandahållits den förlitande parten på rätt sätt,
+
+e) användningen av en eventuell pseudonym tydligt har angetts för den förlitande parten om en pseudonym användes vid tidpunkten för undertecknandet,
+
+f) den elektroniska underskriften har skapats med hjälp av en anordning för skapande av kvalificerade elektroniska underskrifter,
+
+g) integriteten hos de undertecknade uppgifterna inte har äventyrats,
+
+h) kraven i artikel [26](#artikel-26-krav-med-avseende-på-avancerade-elektroniska-underskrifter) var uppfyllda vid tidpunkten för undertecknandet.
+
+2\. Det system som används för att validera den kvalificerade elektroniska underskriften ska ge den förlitande parten det korrekta resultatet av valideringsförfarandet och ska göra det möjligt för den förlitande parten att upptäcka eventuella problem som är relevanta för säkerheten.
+
+3\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för validering av kvalificerade elektroniska underskrifter. Överensstämmelse med kraven i punkt 1 ska förutsättas när valideringen av kvalificerade elektroniska underskrifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 33 – Kvalificerad valideringstjänst för kvalificerade elektroniska underskrifter
+
+1\. En kvalificerad valideringstjänst för kvalificerade elektroniska underskrifter får endast tillhandahållas av en kvalificerad tillhandahållare av betrodda tjänster som
+
+a) tillhandahåller validering i enlighet med artikel [32.1](#artikel-32-krav-på-validering-av-kvalificerade-elektroniska-underskrifter), och
+
+b) gör det möjligt för förlitande parter att erhålla resultaten av valideringsförfarandet på ett automatiskt sätt som är tillförlitligt, effektivt och försett med en avancerad elektronisk underskrift eller en avancerad elektronisk stämpel från tillhandahållaren av den kvalificerade valideringstjänsten.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för den kvalificerade valideringstjänst som avses i punkt 1. Överensstämmelse med kraven i punkt 1 ska förutsättas när valideringstjänsten för kvalificerade elektroniska underskrifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 34 – Kvalificerad tjänst för bevarande av kvalificerade elektroniska underskrifter
+
+1\. En kvalificerad tjänst för bevarande av kvalificerade elektroniska underskrifter får endast tillhandahållas av en kvalificerad tillhandahållare av betrodda tjänster som använder förfaranden och tekniker som gör det möjligt att förlänga den kvalificerade elektroniska underskriftens tillförlitlighet utöver perioden för teknisk giltighet.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för kvalificerade tjänster för bevarande av kvalificerade elektroniska underskrifter. Överensstämmelse med kraven i punkt 1 ska förutsättas när systemen för de kvalificerade tjänsterna för bevarande av kvalificerade elektroniska underskrifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 35 – Rättslig verkan av elektroniska stämplar
+
+1\. En elektronisk stämpel får inte förvägras rättslig verkan eller giltighet som bevis vid rättsliga förfaranden enbart på grund av att det har elektronisk form eller att det inte uppfyller kraven för kvalificerade elektroniska stämplar.
+
+2\. En kvalificerad elektronisk stämpel ska omfattas av en presumtion om integritet hos de uppgifter som den kvalificerade elektroniska stämpeln är kopplad till och om att de har korrekt ursprung.
+
+3\. En kvalificerad elektronisk stämpel som är baserat på ett kvalificerat certifikat som har utfärdats i en medlemsstat ska erkännas som en kvalificerad elektronisk stämpel i alla andra medlemsstater.
+
+### Artikel 36 – Krav med avseende på avancerade elektroniska stämplar
+
+En elektronisk stämpel ska uppfylla följande krav:
+
+a) Den ska vara knuten uteslutande till skaparen av stämpeln.
+
+b) Skaparen av stämpeln ska kunna identifieras genom det.
+
+c) Det ska vara skapat på grundval av uppgifter för skapande av elektroniska stämplar som stämpelns skapare med hög grad av tillförlitlighet under sin kontroll kan använda för skapande av elektroniska stämplar.
+
+d) Den ska vara kopplad till de uppgifter den avser på ett sådant sätt att alla efterföljande ändringar av uppgifterna kan upptäckas.
+
+### Artikel 37 – Elektroniska stämplar i offentliga tjänster
+
+1\. Om en medlemsstat kräver en avancerad elektronisk stämpel för användningen av en nättjänst som erbjuds av ett offentligt organ eller för organets räkning ska medlemsstaten erkänna avancerade elektroniska stämplar, avancerade elektroniska stämplar som är baserade på ett kvalificerat certifikat för elektroniska stämplar och kvalificerade elektroniska stämplar i åtminstone de format eller med användning av de metoder som anges i de genomförandeakter som avses i punkt 5.
+
+2\. Om en medlemsstat kräver en avancerad elektronisk stämpel som är baserad på ett kvalificerat certifikat för användningen av en nättjänst som erbjuds av ett offentligt organ eller för organets räkning, ska medlemsstaten erkänna avancerade elektroniska stämplar som är baserade på ett kvalificerat certifikat och kvalificerade elektroniska stämplar i åtminstone de format eller med användning av de metoder som anges i de genomförandeakter som avses i punkt 5.
+
+3\. Medlemsstaterna ska för gränsöverskridande användning av en nättjänst som erbjuds av ett offentligt organ inte kräva en elektronisk stämpel på en högre säkerhetsnivå än den som gäller för den kvalificerade elektroniska stämpeln.
+
+4\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för avancerade elektroniska stämplar. Överensstämmelse med de krav på avancerade elektroniska stämplar som avses i punkterna 1 och 2 i [denna artikel](#artikel-37-elektroniska-stämplar-i-offentliga-tjänster) samt i artikel [36](#artikel-36-krav-med-avseende-på-avancerade-elektroniska-stämplar) ska förutsättas när en avancerad elektronisk stämpel uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+5\. Kommissionen ska senast den 18 september 2015, och med beaktande av befintliga rutiner, standarder och unionsrättsakter genom genomförandeakter fastställa referensformat för avancerade elektroniska stämplar eller referensmetoder i de fall alternativa format används. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 38 – Kvalificerade certifikat för elektroniska stämplar
+
+1\. Kvalificerade certifikat för elektroniska stämplar ska uppfylla kraven i bilaga III.
+
+2\. Kvalificerade certifikat för elektroniska stämplar ska inte omfattas av några obligatoriska krav som går utöver kraven i bilaga III.
+
+3\. Kvalificerade certifikat för elektroniska stämplar får omfatta extra, icke-obligatoriska, särskilda attribut. Dessa attribut ska inte påverka kvalificerade elektroniska stämplars interoperabilitet eller erkännande.
+
+4\. Om ett kvalificerat certifikat för en elektronisk stämpel har återkallats efter den ursprungliga aktiveringen ska det förlora sin giltighet från och med tidpunkten för återkallandet och dess status ska inte under några omständigheter återgå.
+
+5\. På följande villkor får medlemsstaterna fastställa nationella bestämmelser för tillfälligt upphävande av kvalificerade certifikat för elektroniska stämplar:
+
+> _a) Om ett kvalificerat certifikat för elektroniska stämplar tillfälligt har upphävts ska certifikatet vara ogiltigt under perioden för det tillfälliga upphävandet._
+
+b) Perioden för det tillfälliga upphävandet ska tydligt anges i certifikatdatabasen och certifikatets status som tillfälligt upphävt ska under perioden för det tillfälliga upphävandet vara synlig genom den tjänst som tillhandahåller information om certifikatets status.
+
+6\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för kvalificerade certifikat för elektroniska stämplar. Överensstämmelse med kraven i bilaga III ska förutsättas när ett kvalificerat certifikat för elektroniska stämplar uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 39 – Kvalificerade anordningar för skapande av elektroniska stämplar
+
+1\. Artikel [29](#artikel-29-krav-på-anordningar-för-skapande-av-kvalificerade-elektroniska-underskrifter) ska på motsvarande sätt gälla för kraven på kvalificerade anordningar för skapande av elektroniska stämplar.
+
+2\. Artikel [30](#artikel-30-certifiering-av-anordningar-för-skapande-av-kvalificerade-elektroniska-underskrifter) ska på motsvarande sätt gälla för certifieringen av kvalificerade anordningar för skapande av elektroniska stämplar.
+
+3\. Artikel [31](#artikel-31-offentliggörande-av-en-förteckning-över-certifierade-anordningar-för-skapande-av-kvalificerade-elektroniska-underskrifter) ska på motsvarande sätt gälla för offentliggörandet av en förteckning över certifierade kvalificerade anordningar för skapande av elektroniska stämplar.
+
+### Artikel 40 – Validering och bevarande av kvalificerade elektroniska stämplar
+
+Artiklarna [32](#artikel-32-krav-på-validering-av-kvalificerade-elektroniska-underskrifter), [33](#artikel-33-kvalificerad-valideringstjänst-för-kvalificerade-elektroniska-underskrifter) och [34](#artikel-34-kvalificerad-tjänst-för-bevarande-av-kvalificerade-elektroniska-underskrifter) ska på motsvarande sätt gälla för validering och bevarande av kvalificerade elektroniska stämplar.
+
+### Artikel 41 – Rättslig verkan av elektroniska tidsstämplingar
+
+1\. En elektronisk tidsstämpling ska inte förvägras rättslig verkan eller giltighet som bevis vid rättsliga förfaranden enbart på grund av att den har elektronisk form eller inte uppfyller kraven för en kvalificerad elektronisk tidsstämpling.
+
+2\. En kvalificerad elektronisk tidsstämpling ska omfattas av en presumtion om korrekthet hos det datum och den tid som den anger och integritet hos de uppgifter som datumet och tiden är kopplade till.
+
+3\. En kvalificerad elektronisk tidsstämpling som utfärdats i en medlemsstat ska erkännas som en kvalificerad elektronisk tidsstämpling i alla medlemsstater.
+
+### Artikel 42 – Krav på kvalificerade elektroniska tidsstämplingar
+
+1\. En kvalificerad elektronisk tidsstämpling ska uppfylla följande krav:
+
+a) Den ska binda datumet och tiden till uppgifter så att möjligheten att uppgifterna ändras utan att det går att upptäcka rimligtvis kan uteslutas.
+
+b) Den ska vara grundad på en korrekt tidskälla som är kopplad till samordnad universaltid.
+
+c) Den ska vara undertecknad med hjälp av en avancerad elektronisk underskrift eller förseglad med en avancerad elektronisk stämpel från den kvalificerade tillhandahållaren av betrodda tjänster eller genom en likvärdig metod.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för bindning av datum och tidpunkt till uppgifter och för korrekta tidskällor. Överensstämmelse med kraven i punkt 1 ska förutsättas när bindningen av datum och tidpunkt till uppgifter och den korrekta tidskällan uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 43 – Rättslig verkan av elektroniska tjänster för rekommenderade leveranser
+
+1\. Uppgifter som sänds och tas emot genom en elektronisk tjänst för rekommenderade leveranser får inte förvägras rättslig verkan eller giltighet som bevis vid rättsliga förfaranden enbart på grund av att de har elektronisk form eller inte uppfyller kraven på den kvalificerade elektroniska tjänsten för rekommenderade leveranser.
+
+2\. Uppgifter som sänds och tas emot genom en kvalificerad elektronisk tjänst för rekommenderade leveranser ska omfattas av en presumtion om uppgifternas integritet, om uppgifternas avsändande av den identifierade avsändaren, uppgifternas mottagande av den identifierade adressaten samt om riktigheten i det datum och den tidpunkt för avsändande och mottagande som anges i den kvalificerade elektroniska tjänsten för rekommenderade leveranser.
+
+### Artikel 44 – Krav på kvalificerade elektroniska tjänster för rekommenderade leveranser
+
+1\. Kvalificerade elektroniska tjänster för rekommenderade leveranser ska uppfylla följande krav:
+
+a) De ska tillhandahållas av en eller flera kvalificerade tillhandahållare av betrodda tjänster.
+
+b) De ska med hög grad av tillförlitlighet säkerställa avsändarens identitet.
+
+c) De ska säkerställa adressatens identitet innan uppgifterna levereras.
+
+d) Avsändandet och mottagandet av uppgifter ska säkerställas genom en avancerad elektronisk underskrift eller en avancerad elektronisk stämpel från en kvalificerad tillhandahållare av betrodda tjänster på ett sätt som utesluter möjligheten att uppgifterna ändras utan att det går att upptäcka.
+
+e) Eventuella ändringar av de uppgifter som behövs för att sända eller ta emot uppgifterna ska tydligt anges för uppgifternas avsändare och adressat.
+
+f) Datumet och tidpunkten för avsändande, mottagande och eventuella ändringar av uppgifter måste anges genom en kvalificerad elektronisk tidsstämpling.
+
+Om uppgifterna överförs mellan två eller flera kvalificerade tillhandahållare av betrodda tjänster ska kraven i leden a–f gälla för alla kvalificerade tillhandahållare av betrodda tjänster.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för processer för att sända och ta emot uppgifter. Överensstämmelse med kraven i punkt 1 ska förutsättas när en process för att sända och ta emot uppgifter uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+
+### Artikel 45 – Krav på kvalificerade certifikat för autentisering av webbplatser
+
+1\. Kvalificerade certifikat för autentisering av webbplatser ska uppfylla kraven i bilaga IV.
+
+2\. Kommissionen får genom genomförandeakter fastställa referensnummer till standarder för kvalificerade certifikat för autentisering av webbplatser. Överensstämmelse med kraven i bilaga IV ska förutsättas när ett kvalificerat certifikat för autentisering av webbplatser uppfyller dessa standarder. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [48.2](/lagstiftning/eidas/kap-5#artikel-48-kommittéförfarande).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

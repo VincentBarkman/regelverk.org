@@ -1,3 +1,11 @@
 # allow crawling everything by default
 User-agent: *
 Disallow:
+
+Sitemap: https://regelverk.org/sitemap.xml
+Sitemap: https://it.regelverk.org/sitemap.xml
+Sitemap: https://ot.regelverk.org/sitemap.xml
+Sitemap: https://fysisk.regelverk.org/sitemap.xml
+Sitemap: https://brandskydd.regelverk.org/sitemap.xml
+Sitemap: https://el.regelverk.org/sitemap.xml
+Sitemap: https://arbetsmiljo.regelverk.org/sitemap.xml

@@ -1,0 +1,50 @@
+---
+'source': 'data-act'
+'ref': 'Kapitel VII'
+'title': 'Kapitel VII – OLAGLIG INTERNATIONELL STATLIG ÅTKOMST TILL OCH
+  ÖVERFÖRING AV ICKE-PERSONUPPGIFTER'
+'kind': 'chapter'
+'description': 'Dataförordningen, Kapitel VII.'
+'designation': 'Dataförordningen Kapitel VII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0024.03#cpt_VII'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 32 – Internationell statlig åtkomst och överföring
+
+1\. Leverantörer av databehandlingstjänster ska vidta alla adekvata tekniska, organisatoriska och rättsliga åtgärder, inbegripet avtal, för att förhindra internationell statlig åtkomst och tredjeländers statliga åtkomst till och överföring av icke-personuppgifter som innehas i unionen, om en sådan överföring eller åtkomst skulle strida mot unionsrätten eller den berörda medlemsstatens nationella rätt, utan att det påverkar tillämpningen av punkt 2 eller 3.
+
+2\. Beslut eller domar från en domstol i ett tredjeland och beslut från en administrativ myndighet i ett tredjeland där det krävs att en leverantör av databehandlingstjänster överför eller ger åtkomst till icke-personuppgifter som omfattas av [denna förordning](/lagstiftning/data-act) och som innehas i unionen ska endast erkännas eller genomföras på något som helst sätt om de grundar sig på en internationell överenskommelse, såsom ett fördrag om ömsesidig rättslig hjälp, som gäller mellan det begärande tredjelandet och unionen, eller ett sådant avtal mellan det begärande tredjelandet och en medlemsstat.
+
+3\. I de fall då, i avsaknad av en internationell överenskommelse som avses i punkt 2, en leverantör av databehandlingstjänster är adressat för ett beslut eller en dom från en domstol i ett tredjeland eller ett beslut från en administrativ myndighet i ett tredjeland om att överföra eller ge åtkomst till icke-personuppgifter som omfattas av tillämpningsområdet för [denna förordning](/lagstiftning/data-act) och som innehas i unionen, och efterlevnaden av ett sådant beslut skulle riskera att medföra att adressaten bryter mot unionsrätten eller den berörda medlemsstatens nationella rätt, ska tredjelandsmyndigheten motta eller få åtkomst till sådana data endast om
+
+a) tredjelandets system kräver att skälen till ett sådant beslut och beslutets proportionalitet ska fastställas och föreskriver att beslutet eller domen är av specifik art, exempelvis genom att det fastställs en tillräckligt stark koppling till vissa misstänkta personer eller till överträdelser,
+
+b) adressatens motiverade invändning är föremål för en granskning av en behörig domstol i tredjelandet, och
+
+c) den behöriga domstol i tredjelandet som utfärdar beslutet eller domen eller granskar en administrativ myndighets beslut enligt det tredjelandets rätt har befogenhet att ta vederbörlig hänsyn till de relevanta rättsliga intressena för leverantören av de data som skyddas av unionsrätten eller den berörda medlemsstatens nationella rätt.
+
+Beslutets eller domens adressat får begära ett yttrande från det relevanta nationella organ eller den relevanta nationella myndighet som har behörighet för internationellt samarbete i rättsliga frågor, för att avgöra om de villkor som anges i första stycket är uppfyllda, särskilt när den anser att beslutet kan avse företagshemligheter och andra kommersiellt känsliga data samt innehåll som skyddas av immateriella rättigheter eller att överföringen kan leda till återidentifiering. Det relevanta nationella organet eller den relevanta nationella myndigheten får samråda med kommissionen. Om adressaten anser att beslutet eller domen kan inkräkta på unionens eller dess medlemsstaters nationella säkerhets- eller försvarsintressen ska den begära ett yttrande från det relevanta nationella organet eller den relevanta nationella myndigheten för att avgöra om begärda data rör unionens eller dess medlemsstaters nationella säkerhets- eller försvarsintressen. Om adressaten inte har fått något svar inom en månad, eller om yttrandet av ett sådant organ eller en sådan myndighet visar att de villkor som anges i första stycket inte är uppfyllda, får adressaten avslå begäran om överföring eller åtkomst till icke-personuppgifter av dessa skäl.
+
+Europeiska datainnovationsstyrelsen, som avses i artikel [42](/lagstiftning/data-act/kap-9#artikel-42-europeiska-datainnovationsstyrelsens-roll), ska ge råd till och bistå kommissionen vid utarbetandet av riktlinjer för bedömningen av huruvida de villkor som avses i första stycket i denna punkt är uppfyllda.
+
+4\. Om de villkor som fastställs i punkt 2 eller 3 är uppfyllda ska leverantören av databehandlingstjänster tillhandahålla den minsta mängd data som är tillåten som svar på en begäran, på grundval av en rimlig tolkning av den begäran av den leverantör, det relevanta nationella behöriga organ eller den relevanta behöriga nationella myndighet som avses i punkt 3 andra stycket.
+
+5\. Leverantören av databehandlingstjänster ska informera kunden om att det finns en begäran från en myndighet i ett tredjeland om att få åtkomst till dess data innan leverantören tillmötesgår den begäran, utom när begäran tjänar brottsbekämpande ändamål och så länge som detta är nödvändigt för att upprätthålla den brottsbekämpande verksamhetens effektivitet.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

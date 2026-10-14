@@ -1,6 +1,8 @@
 import { externalUrls, fetchExternalInfo } from '#lib/externalInfo.js';
 import { commits } from '#lib/generated/commits.js';
-import { getRecord, listPages, listRecords, nestRecords } from '#lib/data.js';
+import { listPages, listRecords, navGroups } from '#lib/data.js';
+import { getRecord } from '#lib/data.server.js';
+import { articleHtmlFor } from '#lib/articles.server.js';
 import { isEntity } from '#lib/entities.js';
 import { isSiteScope } from '#lib/sites.js';
 import { ENTITIES, type Entity } from '#lib/entities.js';
@@ -30,14 +32,10 @@ export const load: PageServerLoad = async ({ params }) => {
 		slug: params.slug,
 		ref,
 		record,
-		external: await fetchExternalInfo(externalUrls(record?.meta ?? null)),
+		articleHtml: ref ? articleHtmlFor(ref.entity, ref.id) : undefined,
+		external: fetchExternalInfo(externalUrls(record?.meta ?? null)),
 		pages: ref ? listPages(ref.scope) : [],
-		nav: ref
-			? ENTITIES.map((entity) => ({
-					entity,
-					items: nestRecords(listRecords(ref.scope, entity))
-				})).filter((g) => g.items.length)
-			: [],
+		nav: ref ? navGroups(ref.scope) : [],
 		updates:
 			ref?.id === 'uppdateringar'
 				? all

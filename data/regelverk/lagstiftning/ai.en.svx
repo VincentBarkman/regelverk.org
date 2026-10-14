@@ -1,0 +1,40 @@
+---
+'name': 'Artificial Intelligence Act (AI Act)'
+'title': 'Regulation (EU) 2024/1689 of the European Parliament and of the Council'
+'type': 'eu-regulation'
+'description': 'EU regulation laying down harmonised rules on artificial intelligence.'
+'designation': 'EU 2024/1689'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'lastReviewed': '2026-10-14'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'published': '2024-07-12'
+'applies-from': '2026-08-02'
+'sites':
+  - 'it'
+  - 'ot'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.03'
+---
+
+<!-- scan-laws:start -->
+## Contents
+
+- [Chapter I – GENERAL PROVISIONS](/lagstiftning/ai/kap-1) · Articles 1–4
+- [Chapter II – PROHIBITED AI PRACTICES](/lagstiftning/ai/kap-2)
+- [Chapter III – HIGH-RISK AI SYSTEMS](/lagstiftning/ai/kap-3) · Articles 6–49
+- [Chapter IV – TRANSPARENCY OBLIGATIONS FOR PROVIDERS AND DEPLOYERS OF CERTAIN AI SYSTEMS](/lagstiftning/ai/kap-4)
+- [Chapter V – GENERAL-PURPOSE AI MODELS](/lagstiftning/ai/kap-5) · Articles 51–56
+- [Chapter VI – MEASURES IN SUPPORT OF INNOVATION](/lagstiftning/ai/kap-6) · Articles 57–63
+- [Chapter VII – GOVERNANCE](/lagstiftning/ai/kap-7) · Articles 64–70
+- [Chapter VIII – EU DATABASE FOR HIGH-RISK AI SYSTEMS](/lagstiftning/ai/kap-8)
+- [Chapter IX – POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE](/lagstiftning/ai/kap-9) · Articles 72–94
+- [Chapter X – CODES OF CONDUCT AND GUIDELINES](/lagstiftning/ai/kap-10) · Articles 95–96
+- [Chapter XI – DELEGATION OF POWER AND COMMITTEE PROCEDURE](/lagstiftning/ai/kap-11) · Articles 97–98
+- [Chapter XII – PENALTIES](/lagstiftning/ai/kap-12) · Articles 99–101
+- [Chapter XIII – FINAL PROVISIONS](/lagstiftning/ai/kap-13) · Articles 102–113
+<!-- scan-laws:end -->

@@ -1,0 +1,244 @@
+---
+'source': 'ai'
+'ref': 'Kapitel VI'
+'title': 'Kapitel VI – ÅTGÄRDER TILL STÖD FÖR INNOVATION'
+'kind': 'chapter'
+'description': 'AI-förordningen, Kapitel VI.'
+'designation': 'AI-förordningen Kapitel VI'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0024.03#cpt_VI'
+'sites':
+  - 'it'
+  - 'ot'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 57 – Regulatoriska sandlådor för AI
+
+1\. Medlemsstaterna ska säkerställa att deras behöriga myndigheter inrättar minst en regulatorisk sandlåda för AI på nationell nivå, som ska vara i drift senast den 2 augusti 2026. Denna sandlåda får också inrättas tillsammans med de behöriga myndigheterna i andra medlemsstater. Kommissionen får tillhandahålla tekniskt stöd, rådgivning och verktyg för inrättande och drift av regulatoriska sandlådor för AI.
+
+Skyldigheten enligt första stycket får också fullgöras genom deltagande i en befintlig sandlåda i den mån deltagandet ger en likvärdig nivå av nationell täckning för de deltagande medlemsstaterna.
+
+2\. Ytterligare regulatoriska sandlådor för AI får också inrättas på regional eller lokal nivå eller tillsammans med andra medlemsstaters behöriga myndigheter.
+
+3\. Europeiska datatillsynsmannen får också inrätta en regulatorisk sandlåda för AI för unionens institutioner, organ och byråer och får utöva de nationella behöriga myndigheternas roller och uppgifter i enlighet med [detta kapitel](/lagstiftning/ai/kap-6).
+
+4\. Medlemsstaterna ska säkerställa att de behöriga myndigheter som avses i punkterna 1 och 2 anslår tillräckliga resurser för att uppfylla kraven i [denna artikel](#artikel-57-regulatoriska-sandlådor-för-ai), på ett ändamålsenligt sätt och i god tid. När så är lämpligt ska de nationella behöriga myndigheterna samarbeta med andra relevanta myndigheter, och de får tillåta deltagande av andra aktörer inom AI-ekosystemet. [Denna artikel](#artikel-57-regulatoriska-sandlådor-för-ai) påverkar inte andra regulatoriska sandlådor som inrättats enligt unionsrätten eller nationell rätt. Medlemsstaterna ska säkerställa lämpligt samarbete mellan de myndigheter som utövar tillsyn över dessa andra sandlådor och de nationella behöriga myndigheterna.
+
+5\. Regulatoriska sandlådor för AI som inrättats enligt punkt 1 ska tillhandahålla en kontrollerad miljö som främjar innovation och underlättar utveckling, träning, testning och validering av innovativa AI-system under en begränsad tid innan de släpps ut på marknaden eller tas i bruk i enlighet med en särskild sandlådeplan som leverantörerna eller de potentiella leverantörerna och den behöriga myndigheten kommer överens om. Sådana sandlådor får omfatta testning under verkliga förhållanden under tillsyn i sandlådorna.
+
+6\. De behöriga myndigheterna ska, beroende på vad som är lämpligt, tillhandahålla vägledning, tillsyn och stöd inom den regulatoriska sandlådan för AI i syfte att identifiera risker, särskilt när det gäller grundläggande rättigheter, hälsa och säkerhet, testning, riskreducerande åtgärder och deras effektivitet i förhållande till skyldigheterna och kraven i [denna förordning](/lagstiftning/ai) samt, i förekommande fall, annan unionsrätt och nationell rätt som är föremål för tillsyn inom sandlådan.
+
+7\. De behöriga myndigheterna ska ge leverantörer och potentiella leverantörer som deltar i den regulatoriska sandlådan för AI vägledning om rättsliga förväntningar och hur de krav och skyldigheter som fastställs i [denna förordning](/lagstiftning/ai) ska uppfyllas.
+
+På begäran av leverantören eller den potentiella leverantören av AI-systemet ska den behöriga myndigheten tillhandahålla ett skriftligt bevis på den verksamhet som framgångsrikt utförts i sandlådan. Den behöriga myndigheten ska också tillhandahålla en slutrapport med uppgifter om den verksamhet som bedrivs i sandlådan och tillhörande resultat och lärdomar. Leverantörer får använda sådan dokumentation för att visa att de uppfyller kraven i [denna förordning](/lagstiftning/ai) genom förfarandet för bedömning av överensstämmelse eller relevant marknadskontroll. I detta avseende ska marknadskontrollmyndigheter och anmälda organ beakta slutrapporterna och de skriftliga bevis som tillhandahålls av den nationella behöriga myndigheten på ett positivt sätt, i syfte att påskynda förfaranden för bedömning av överensstämmelse i rimlig utsträckning.
+
+8\. Om inte annat följer av konfidentialitetsbestämmelserna i artikel [78](/lagstiftning/ai/kap-9#artikel-78-konfidentiell-behandling) och med godkännande från leverantören eller den potentiella leverantören ska kommissionen och styrelsen ha rätt att få tillgång till slutrapporterna och ska beakta dem, på lämpligt sätt, när de utför sina uppgifter enligt [denna förordning](/lagstiftning/ai). Om både leverantören eller den potentiella leverantören och den nationella behöriga myndigheten uttryckligen samtycker får slutrapporten göras allmänt tillgänglig via den enda informationsplattform som avses i [den här artikeln](#artikel-57-regulatoriska-sandlådor-för-ai).
+
+9\. Inrättandet av regulatoriska sandlådor för AI ska syfta till att bidra till följande mål:
+
+a) Förbättra rättssäkerheten för att uppnå efterlevnad av [denna förordning](/lagstiftning/ai) eller, i förekommande fall, annan tillämplig unionsrätt och nationell rätt.
+
+b) Stödja utbyte av bästa praxis genom samarbete med de myndigheter som deltar i den regulatoriska sandlådan för AI.
+
+c) Främja innovation och konkurrenskraft och underlätta utvecklingen av ett AI-ekosystem.
+
+d) Bidra till evidensbaserat regulatoriskt lärande.
+
+e) Underlätta och påskynda tillträdet till unionsmarknaden för AI-system, särskilt när de tillhandahålls av små och medelstora företag, inbegripet uppstartsföretag.
+
+10\. I den mån de innovativa AI-systemen inbegriper behandling av personuppgifter eller på annat sätt faller inom tillsynsområdet för andra nationella myndigheter eller behöriga myndigheter som tillhandahåller eller stöder åtkomst till data ska de nationella behöriga myndigheterna säkerställa att de nationella dataskyddsmyndigheterna och dessa andra nationella eller behöriga myndigheter är involverade i driften av den regulatoriska sandlådan för AI och i tillsynen över dessa aspekter så långt deras respektive uppgifter och befogenheter sträcker sig.
+
+11\. De regulatoriska sandlådorna för AI påverkar inte tillsynsbefogenheterna eller de korrigerande befogenheterna för de behöriga myndigheter som utövar tillsyn över sandlådorna, inbegripet på regional eller lokal nivå. Alla betydande risker för hälsa och säkerhet och grundläggande rättigheter som upptäcks under utvecklingen och testningen av sådana AI-system ska leda till adekvata begränsningsåtgärder. De nationella behöriga myndigheterna ska ha befogenhet att tillfälligt eller permanent avbryta testprocessen eller deltagandet i sandlådan om inga verkningsfulla begränsningsåtgärder är möjliga och ska informera AI-byrån om ett sådant beslut. De nationella behöriga myndigheterna ska utöva sina tillsynsbefogenheter inom ramen för relevant rätt, med användning av sitt utrymme för skönsmässig bedömning när de genomför rättsliga bestämmelser för ett specifikt regulatoriskt sandlådeprojekt för AI, i syfte att stödja innovation inom AI i unionen.
+
+12\. Leverantörer och potentiella leverantörer som deltar i den regulatoriska sandlådan för AI ska förbli ansvariga, enligt tillämplig unionsrätt och nationell rätt om ansvar för skada som åsamkas tredje part till följd av de experiment som äger rum i sandlådan. Under förutsättning att de potentiella leverantörerna följer den särskilda planen och villkoren för deras deltagande samt i god tro följer de riktlinjer som den nationella behöriga myndigheten ger, ska myndigheterna dock inte ålägga några administrativa sanktionsavgifter för överträdelser av [denna förordning](/lagstiftning/ai). Om andra behöriga myndigheter med ansvar för annan unionsrätt och nationell rätt aktivt deltog i tillsynen av AI-systemet i sandlådan och tillhandahöll vägledning för efterlevnad ska inga administrativa sanktionsavgifter åläggas avseende den rätten.
+
+13\. De regulatoriska sandlådorna för AI ska utformas och genomföras på ett sådant sätt att de i relevanta fall underlättar gränsöverskridande samarbete mellan de nationella behöriga myndigheterna.
+
+14\. De nationella behöriga myndigheterna ska samordna sin verksamhet och samarbeta inom ramen för styrelsen.
+
+15\. De nationella behöriga myndigheterna ska informera AI-byrån och styrelsen om inrättandet av en sandlåda och får begära stöd och vägledning av dem. AI-byrån ska göra en förteckning över planerade och befintliga sandlådor allmänt tillgänglig och hålla den uppdaterad för att uppmuntra till mer interaktion i regulatoriska sandlådor för AI och gränsöverskridande samarbete.
+
+16\. De nationella behöriga myndigheterna ska lämna årliga rapporter till AI-byrån och styrelsen, från och med ett år efter att den regulatoriska sandlådan för AI har inrättats och därefter varje år fram till dess att den avslutas samt en slutrapport. Dessa rapporter ska innehålla information om framstegen och resultaten av genomförandet av dessa sandlådor, inbegripet bästa praxis, incidenter, tillvaratagna erfarenheter och rekommendationer om deras etablering och, i relevanta fall, om tillämpningen och en eventuell översyn av [denna förordning](/lagstiftning/ai), inbegripet dess delegerade akter och genomförandeakter, och om tillämpningen av annan unionsrätt som står under tillsyn av de berörda myndigheterna inom sandlådan. De nationella behöriga myndigheterna ska göra dessa årliga rapporter eller sammanfattningar av dessa tillgängliga för allmänheten online. Kommissionen ska, när så är lämpligt, beakta årsrapporterna när den utför sina uppgifter enligt [denna förordning](/lagstiftning/ai).
+
+17\. Kommissionen ska utveckla ett gemensamt och särskilt gränssnitt som innehåller all relevant information om regulatoriska sandlådor för AI för att göra det möjligt för berörda parter att interagera med regulatoriska sandlådor för AI och ta upp frågor med behöriga myndigheter samt söka icke-bindande vägledning om överensstämmelse för innovativa produkter, tjänster och affärsmodeller med inbäddad AI-teknik, i enlighet med artikel [62.1 c](#artikel-62-åtgärder-för-leverantörer-och-tillhandahållare-särskilt-små-och-medelstora-företag-inbegripet-uppstartsföretag). Kommissionen ska proaktivt säkerställa samordning med nationella behöriga myndigheter, där så är relevant.
+
+### Artikel 58 – Närmare arrangemang och funktionssätt för regulatoriska sandlådor för AI
+
+1\. För att undvika fragmentering i hela unionen ska kommissionen anta genomförandeakter som specificerar de närmare arrangemangen för inrättande, utveckling, genomförande, drift och tillsyn av regulatoriska sandlådor för AI. Dessa genomförandeakter ska innehålla gemensamma principer i följande frågor:
+
+a) Behörighets- och urvalskriterier för deltagande i den regulatoriska sandlådan för AI.
+
+b) Förfarandet för tillämpning, deltagande, övervakning, utträde ur och avslutande av den regulatoriska sandlådan för AI, inbegripet sandlådeplanen och slutrapporten.
+
+c) De villkor som gäller för deltagarna.
+
+Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+2\. De genomförandeakter som avses i punkt 1 ska säkerställa att
+
+a) regulatoriska sandlådor för AI är öppna för alla ansökande leverantörer eller potentiella leverantörer av ett AI-system som uppfyller behörighets- och urvalskriterier, som ska vara transparenta och rättvisa, och nationella behöriga myndigheter ska informera sökande om sitt beslut inom tre månader efter ansökan,
+
+b) regulatoriska sandlådor för AI möjliggör bred och likvärdig tillgång och håller jämna steg med efterfrågan på deltagande; leverantörer och potentiella leverantörer får också lämna in ansökningar i partnerskap med tillhandahållare och andra relevanta tredje parter,
+
+c) närmare arrangemang och villkor för regulatoriska sandlådor för AI i möjligaste mån stöder de nationella behöriga myndigheternas flexibilitet att inrätta och driva sina regulatoriska sandlådor för AI,
+
+d) tillgången till regulatoriska sandlådor för AI är kostnadsfri för små och medelstora företag, inbegripet uppstartsföretag, utan att det påverkar exceptionella kostnader som nationella behöriga myndigheter får återkräva på ett rättvist och proportionellt sätt,
+
+e) de, genom lärdomar från de regulatoriska sandlådorna för AI, gör det lättare för leverantörer och potentiella leverantörer att fullgöra skyldigheterna avseende bedömning av överensstämmelse enligt [denna förordning](/lagstiftning/ai) och den frivilliga tillämpningen av de uppförandekoder som avses i artikel [95](/lagstiftning/ai/kap-10#artikel-95-uppförandekod-för-frivillig-tillämpning-av-specifika-krav),
+
+f) regulatoriska sandlådor för AI underlättar deltagandet av andra relevanta aktörer inom AI-ekosystemet, såsom anmälda organ och standardiseringsorganisationer, små och medelstora företag, inbegripet uppstartsföretag och andra företag, innovatörer, test- och experimentfaciliteter, forsknings- och experimentlaboratorier och europeiska digitala innovationsknutpunkter, kompetenscentrum samt enskilda forskare, för att möjliggöra och underlätta samarbete med den offentliga och privata sektorn,
+
+g) förfaranden, processer och administrativa krav för ansökan och urval till, deltagande i och utträde ur den regulatoriska sandlådan för AI ska vara enkla, lättbegripliga och tydligt kommunicerade för att underlätta deltagandet av små och medelstora företag, inbegripet uppstartsföretag, med begränsad rättslig och administrativ kapacitet och strömlinjeformas i hela unionen i syfte att undvika fragmentering, och att deltagande i en regulatorisk sandlåda för AI som inrättats av en medlemsstat eller av Europeiska datatillsynsmannen erkänns ömsesidigt och enhetligt och har samma rättsliga verkan i hela unionen,
+
+h) deltagandet i den regulatoriska sandlådan för AI är begränsat till en period som är lämplig med tanke på projektets komplexitet och omfattning, vilken får förlängas av den nationella behöriga myndigheten,
+
+i) de regulatoriska sandlådorna för AI underlättar utvecklingen av verktyg och infrastruktur för testning, riktmärkning, bedömning och förklaring av de aspekter av AI-systemen som är relevanta för regulatoriskt lärande, såsom riktighet, robusthet och cybersäkerhet samt minimering av riskerna för grundläggande rättigheter och samhället i stort.
+
+3\. Potentiella leverantörer i regulatoriska sandlådor för AI, särskilt små och medelstora företag och uppstartsföretag, ska, när så är relevant, hänvisas till tjänster före införandet, såsom vägledning om genomförandet av [denna förordning](/lagstiftning/ai), andra mervärdestjänster såsom hjälp med standardiseringsdokument och certifiering, test- och experimentfaciliteter, europeiska digitala innovationsknutpunkter och kompetenscentrum.
+
+4\. När nationella behöriga myndigheter överväger att godkänna testning under verkliga förhållanden som står under tillsyn inom ramen för en regulatorisk sandlåda för AI som ska inrättas enligt [denna artikel](#artikel-58-närmare-arrangemang-och-funktionssätt-för-regulatoriska-sandlådor-för-ai), ska de särskilt komma överens med deltagarna om villkoren för sådan testning och i synnerhet om lämpliga garantier, i syfte att skydda grundläggande rättigheter, hälsa och säkerhet. När så är lämpligt ska de samarbeta med andra nationella behöriga myndigheter i syfte att säkerställa enhetlig praxis i hela unionen.
+
+### Artikel 59 – Ytterligare behandling av personuppgifter för utveckling av vissa AI-system i allmänhetens intresse i den regulatoriska sandlådan för AI
+
+1\. Personuppgifter som lagligen samlats in för andra ändamål får behandlas i den regulatoriska sandlådan för AI enbart i syfte att utveckla, träna och testa vissa AI-system i sandlådan om samtliga följande villkor är uppfyllda:
+
+a) AI-systemen ska utvecklas för att ett viktigt allmänt intresse ska skyddas av en offentlig myndighet eller annan fysisk eller juridisk person på ett eller flera av följande områden:
+
+i) Allmän säkerhet och folkhälsa, inbegripet upptäckt, diagnostisering, förebyggande, bekämpning och behandling av sjukdomar och förbättring av hälso- och sjukvårdssystemen.
+
+ii) En hög nivå av skydd och förbättring av miljöns kvalitet, skydd av den biologiska mångfalden, skydd mot föroreningar, åtgärder för grön omställning samt begränsning av och anpassning till klimatförändringar.
+
+iii) Energihållbarhet.
+
+iv) Säkerhet och resiliens när det gäller transportsystem och mobilitet, kritisk infrastruktur och nätverk.
+
+v) Den offentliga förvaltningens och de offentliga tjänsternas effektivitet och kvalitet.
+
+b) De data som behandlas är nödvändiga för att uppfylla ett eller flera av de krav som avses i [kapitel III](/lagstiftning/ai/kap-3) avsnitt 2 i fall där dessa krav inte kan uppfyllas effektivt genom behandling av anonymiserade eller syntetiska data eller andra icke-personuppgifter.
+
+c) Det finns effektiva övervakningsmekanismer för att fastställa om experimenten i sandlådan kan medföra höga risker för de registrerades rättigheter och friheter, enligt artikel [35](/lagstiftning/gdpr/kap-4#artikel-35-konsekvensbedömning-avseende-dataskydd) i [förordning (EU) 2016/679](/lagstiftning/gdpr) och artikel [39](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725) i [förordning (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725), samt en svarsmekanism för att snabbt begränsa dessa risker och, vid behov, stoppa behandlingen.
+
+d) Alla personuppgifter som ska behandlas inom ramen för sandlådan befinner sig i en funktionellt separat, isolerad och skyddad databehandlingsmiljö under den potentiella leverantörens kontroll, och endast behöriga personer har tillgång till dessa uppgifter.
+
+e) Leverantörer kan endast dela vidare de ursprungligen insamlade uppgifterna i enlighet med unionens dataskyddslagstiftning. Personuppgifter som skapats i sandlådan får inte delas utanför sandlådan.
+
+f) Behandling av personuppgifter i samband med sandlådan ska varken leda till åtgärder eller beslut som påverkar de registrerade eller påverka tillämpningen av deras rättigheter enligt unionsrätten om skydd av personuppgifter.
+
+g) Alla personuppgifter som behandlas inom ramen för sandlådan ska skyddas genom lämpliga tekniska och organisatoriska åtgärder och raderas när deltagandet i sandlådan har avslutats eller personuppgifternas lagringstid har löpt ut.
+
+h) Loggarna över behandlingen av personuppgifter inom ramen för sandlådan ska bevaras under den tid som deltagandet i sandlådan varar, om inte annat föreskrivs i unionsrätten eller nationell rätt,
+
+i) En fullständig och detaljerad beskrivning av processen och motiveringen för träning, testning och validering av AI-systemet bevaras tillsammans med testresultaten som en del av den tekniska dokumentation som avses i bilaga IV.
+
+j) En kort sammanfattning av AI-projektet som utvecklats i sandlådan, dess mål och förväntade resultat offentliggörs på den behöriga myndighetens webbplats. Denna skyldighet omfattar inte känsliga operativa uppgifter som rör brottsbekämpande myndigheters, gränskontrollmyndigheters, migrationsmyndigheters eller asylmyndigheters verksamhet.
+
+2\. I syfte att förebygga, förhindra, utreda, upptäcka eller lagföra brott eller verkställa straffrättsliga påföljder, inbegripet att skydda mot samt förebygga och förhindra hot mot den allmänna säkerheten, under brottsbekämpande myndigheters överinseende och ansvar, ska behandlingen av personuppgifter i regulatoriska sandlådor för AI baseras på specifik unionsrätt eller nationell rätt och omfattas av samma kumulativa villkor som dem som avses i punkt 1.
+
+3\. Punkt 1 påverkar inte tillämpningen av unionsrätt eller nationell rätt som utesluter behandling av personuppgifter för andra ändamål än dem som uttryckligen anges i den rätten eller av unionsrätt eller nationell rätt som fastställer grunden för behandling av personuppgifter som är nödvändig för att utveckla, testa eller träna innovativa AI-system, eller av någon annan rättslig grund, i överensstämmelse med unionsrätten om skydd av personuppgifter.
+
+### Artikel 60 – Testning av AI-system med hög risk under verkliga förhållanden utanför regulatoriska sandlådor för AI
+
+1\. Testning av AI-system med hög risk under verkliga förhållanden utanför regulatoriska sandlådor för AI får utföras av leverantörer eller potentiella leverantörer av AI-system med hög risk som förtecknas i bilaga III, i enlighet med [denna artikel](#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) och den plan för testning under verkliga förhållanden som avses i [denna artikel](#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai), utan att det påverkar förbuden enligt artikel [5](/lagstiftning/ai/kap-2#artikel-5-förbjudna-ai-användningsområden).
+
+Kommissionen ska genom genomförandeakter specificera de närmare inslagen i planen för testning under verkliga förhållanden. Dessa genomförandeakter ska antas i enlighet med det granskningsförfarande som avses i artikel [98.2](/lagstiftning/ai/kap-11#artikel-98-kommittéförfarande).
+
+Denna punkt påverkar inte tillämpningen av unionsrätten eller nationell rätt om testning under verkliga förhållanden av AI-system med hög risk som är relaterade till produkter som omfattas av unionens harmoniseringslagstiftning som förtecknas i bilaga I.
+
+2\. Leverantörer eller potentiella leverantörer får på egen hand eller i partnerskap med en eller flera tillhandahållare eller potentiella tillhandahållare utföra testning under verkliga förhållanden av AI-system med hög risk som avses i bilaga III när som helst innan AI-systemet släpps ut på marknaden eller tas i bruk.
+
+3\. Testning av AI-system med hög risk under verkliga förhållanden enligt [denna artikel](#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) påverkar inte etisk granskning som krävs enligt nationell rätt eller unionsrätten.
+
+4\. Leverantörer eller potentiella leverantörer får utföra testningen under verkliga förhållanden endast om samtliga följande villkor är uppfyllda:
+
+a) Leverantören eller den potentiella leverantören har utarbetat en plan för testning under verkliga förhållanden och lämnat in den till marknadskontrollmyndigheten i den medlemsstat där testningen under verkliga förhållanden ska utföras.
+
+b) Marknadskontrollmyndigheten i den medlemsstat där testningen under verkliga förhållanden ska utföras har godkänt testningen under verkliga förhållanden och planen för testning under verkliga förhållanden. Om marknadskontrollmyndigheten inte har lämnat något svar inom 30 dagar ska testningen under verkliga förhållanden och planen för testning under verkliga förhållanden betraktas som godkänd. Om det i nationell rätt inte föreskrivs något tyst godkännande, ska testningen under verkliga förhållanden fortfarande förutsätta ett tillstånd.
+
+c) Leverantören eller den potentiella leverantören, med undantag för leverantörer eller potentiella leverantörer av AI-system med hög risk som avses i punkterna 1, 6 och 7 i bilaga III på områdena brottsbekämpning, migration, asyl och gränskontrollförvaltning samt AI-system med hög risk som avses i punkt 2 i bilaga III, har registrerat testning under verkliga förhållanden i enlighet med artikel [71.4](/lagstiftning/ai/kap-8#artikel-71-eu-databas-för-ai-system-med-hög-risk-som-förtecknas-i-bilaga-iii) med ett unikt unionsomfattande identifieringsnummer och med den information som anges i bilaga IX. Leverantören eller den potentiella leverantören av AI-system med hög risk som avses i punkterna 1, 6 och 7 i bilaga III på områdena brottsbekämpning, migration, asyl och gränskontrollförvaltning, har registrerat testning under verkliga förhållanden i den säkra icke-offentliga delen av EU-databasen enligt artikel [49.4 d](/lagstiftning/ai/kap-3#artikel-49-registrering) med ett unikt unionsomfattande identifieringsnummer och med den information som anges däri. Leverantören eller den potentiella leverantören av AI-system med hög risk som avses i punkt 2 i bilaga III har registrerat testning under verkliga förhållanden i enlighet med artikel [49.5](/lagstiftning/ai/kap-3#artikel-49-registrering).
+
+d) Den leverantör eller potentiella leverantör som utför testningen under verkliga förhållanden är etablerad i unionen eller har utsett ett juridiskt ombud som är etablerat i unionen.
+
+e) Uppgifter som samlats in och behandlats för testning under verkliga förhållanden ska överföras till tredjeländer endast om lämpliga och tillämpliga skyddsåtgärder enligt unionsrätten vidtas.
+
+f) Testningen under verkliga förhållanden varar inte längre än vad som är nödvändigt för att uppnå dess mål och under inga omständigheter längre än sex månader, med möjlighet till förlängning med ytterligare sex månader om leverantören eller den potentiella leverantören gör en förhandsanmälan till marknadskontrollmyndigheten, som ska åtföljas av en förklaring av behovet av en sådan förlängning.
+
+g) Försökspersoner i testningen under verkliga förhållanden som tillhör sårbara grupper på grund av ålder eller funktionsnedsättning skyddas på lämpligt sätt.
+
+h) Om en leverantör eller potentiell leverantör organiserar testningen under verkliga förhållanden i samarbete med en eller flera tillhandahållare eller potentiella tillhandahållare, har dessa informerats om alla aspekter av testningen som är relevanta för deras beslut att delta och fått den relevanta bruksanvisningen för det AI-system som avses i artikel [13](/lagstiftning/ai/kap-3#artikel-13-transparens-och-tillhandahållande-av-information-till-tillhandahållare). Leverantören eller den potentiella leverantören och tillhandahållaren eller den potentiella tillhandahållaren ska ingå ett avtal som anger deras roller och ansvar i syfte att säkerställa överensstämmelse med bestämmelserna om testning under verkliga förhållanden enligt [denna förordning](/lagstiftning/ai) och enligt annan tillämplig unionsrätt och nationell rätt.
+
+i) Försökspersonerna i testningen under verkliga förhållanden har gett sitt informerade samtycke i enlighet med artikel [61](#artikel-61-informerat-samtycke-till-deltagande-i-testning-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai), eller, när det gäller brottsbekämpning, om en begäran om informerat samtycke skulle hindra AI-systemet att testas, får själva testningen och resultatet av testningen under verkliga förhållanden inte ha någon negativ inverkan på försökspersonerna, och deras personuppgifter ska raderas när testningen har utförts.
+
+j) Testningen under verkliga förhållanden övervakas effektivt av leverantören eller den potentiella leverantören och av tillhandahållare eller potentiella tillhandahållare genom personer som har lämpliga kvalifikationer inom det berörda området och som har nödvändig kapacitet, utbildning och auktoritet för att utföra sina uppgifter.
+
+k) AI-systemets förutsägelser, rekommendationer eller beslut kan effektivt upphävas eller ignoreras.
+
+5\. Försökspersoner inom testningen under verkliga förhållanden, eller deras lagligen utsedda företrädare, beroende på vad som är lämpligt, får, utan att detta medför nackdelar och utan att behöva lämna någon motivering, när som helst avsluta sitt deltagande i testningen genom att dra tillbaka sitt informerade samtycke och får begära omedelbar och permanent radering av sina personuppgifter. Tillbakadragandet av det informerade samtycket påverkar inte den verksamhet som redan utförts.
+
+6\. I enlighet med artikel [75](/lagstiftning/ai/kap-9#artikel-75-ömsesidigt-bistånd-marknadskontroll-och-kontroll-av-ai-system-för-allmänna-ändamål) ska medlemsstaterna ge sina marknadskontrollmyndigheter befogenhet att kräva att leverantörer och potentiella leverantörer tillhandahåller information, att utföra oanmälda inspektioner på distans eller på plats och att utföra kontroller av utförandet av testningen under verkliga förhållanden och tillhörande AI-system med hög risk. Marknadskontrollmyndigheterna ska använda dessa befogenheter för att säkerställa en säker utveckling av testning under verkliga förhållanden.
+
+7\. Alla allvarliga incidenter som identifieras under testningen under verkliga förhållanden ska rapporteras till den nationella marknadskontrollmyndigheten i enlighet med artikel [73](/lagstiftning/ai/kap-9#artikel-73-rapportering-av-allvarliga-incidenter). Leverantören eller den potentiella leverantören ska vidta omedelbara riskbegränsningsåtgärder eller, om så inte sker, tillfälligt avbryta testningen under verkliga förhållanden tills sådan riskreducering äger rum eller i annat fall avsluta den. Leverantören eller den potentiella leverantören ska fastställa ett förfarande för snabb återkallelse av AI-systemet när testningen under verkliga förhållanden avslutas på detta sätt.
+
+8\. Leverantörer eller potentiella leverantörer ska underrätta den nationella marknadskontrollmyndigheten i den medlemsstat där testningen under verkliga förhållanden ska utföras om det tillfälliga avbrottet i eller avslutandet av testningen under verkliga förhållanden och om de slutliga resultaten.
+
+9\. Leverantören och den potentiella leverantören ska vara ansvariga enligt tillämplig unionsrätt och nationell rätt om ansvar för eventuella skador som orsakas under deras deltagande i testningen under verkliga förhållanden.
+
+### Artikel 61 – Informerat samtycke till deltagande i testning under verkliga förhållanden utanför regulatoriska sandlådor för AI
+
+1\. För testning under verkliga förhållanden enligt artikel [60](#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) ska frivilligt lämnat informerat samtycke erhållas från försökspersonerna innan de deltar i sådan testning och efter att de vederbörligen har informerats med koncis, tydlig, relevant och begriplig information om
+
+a) vilken karaktär och vilka mål som testningen under verkliga förhållanden har och de eventuella olägenheter som kan vara förknippade med att delta,
+
+b) de förhållanden under vilka testningen under verkliga förhållanden ska utföras, inbegripet den förväntade varaktigheten för försökspersonens eller försökspersonernas deltagande,
+
+c) sina rättigheter och garantierna avseende sitt deltagande, särskilt sin rätt att vägra att delta och att när som helst avsluta sitt deltagande i testningen under verkliga förhållanden utan negativa följder och utan att behöva motivera sitt beslut,
+
+d) formerna för begäran om upphävande eller ignorerande av AI-systemets förutsägelser, rekommendationer eller beslut,
+
+e) det unika unionsomfattande identifieringsnumret för testningen under verkliga förhållanden i enlighet med artikel [60.4 c](#artikel-60-testning-av-ai-system-med-hög-risk-under-verkliga-förhållanden-utanför-regulatoriska-sandlådor-för-ai) och kontaktuppgifter för leverantören eller dennes juridiska ombud från vilka ytterligare information kan erhållas.
+
+2\. Det informerade samtycket ska dateras och dokumenteras och en kopia ska ges till försökspersonerna i testningen eller till deras juridiska ombud.
+
+### Artikel 62 – Åtgärder för leverantörer och tillhandahållare, särskilt små och medelstora företag, inbegripet uppstartsföretag
+
+1\. Medlemsstaterna ska vidta följande åtgärder:
+
+a) Ge små och medelstora företag, inbegripet uppstartsföretag, som har ett säte eller en filial i unionen prioriterad tillgång till de regulatoriska sandlådorna för AI, i den mån de uppfyller behörighetskraven och urvalskriterierna. Den prioriterade tillgången hindrar inte andra små och medelstora företag, inbegripet uppstartsföretag, än dem som avses i denna punkt, att ha tillgång till den regulatoriska sandlådan för AI, förutsatt att de också uppfyller behörighetskraven och urvalskriterierna.
+
+b) Anordna särskilda medvetandehöjande åtgärder och utbildning om tillämpningen av [denna förordning](/lagstiftning/ai) anpassat till behoven hos små och medelstora företag, inbegripet uppstartsföretag, tillhandahållare och, när så är lämpligt, lokala offentliga myndigheter.
+
+c) Använda befintliga särskilda kanaler och, när så är lämpligt, upprätta nya sådana för kommunikation med små och medelstora företag, inbegripet uppstartsföretag, tillhandahållare, andra innovatörer och, om lämpligt, lokala offentliga myndigheter, för att ge råd och svara på frågor om genomförandet av [denna förordning](/lagstiftning/ai), inbegripet när det gäller deltagande i regulatoriska sandlådor för AI.
+
+d) Underlätta små och medelstora företags och andra berörda parters deltagande i processen för standardiseringsutveckling.
+
+2\. De särskilda intressen och behov som små och medelstora företag, inbegripet uppstartsföretag, har som leverantörer ska beaktas när avgifterna för bedömning av överensstämmelse enligt artikel [43](/lagstiftning/ai/kap-3#artikel-43-bedömning-av-överensstämmelse) fastställs, och avgifterna ska minskas i proportion till deras storlek, marknadsstorlek och andra relevanta indikatorer.
+
+3\. AI-byrån ska vidta följande åtgärder:
+
+a) Tillhandahålla standardiserade mallar för områden som omfattas av [denna förordning](/lagstiftning/ai), i enlighet med styrelsens anvisningar i dess begäran.
+
+b) Utveckla och upprätthålla en enda informationsplattform som ger information som är lätt att använda om [denna förordning](/lagstiftning/ai) till alla operatörer i hela unionen.
+
+c) Anordna lämpliga kommunikationskampanjer för att öka medvetenheten om de skyldigheter som följer av [denna förordning](/lagstiftning/ai),
+
+d) Utvärdera och främja konvergens av bästa praxis i förfaranden för offentlig upphandling när det gäller AI-system.
+
+### Artikel 63 – Undantag för särskilda operatörer
+
+1\. Mikroföretag i den mening som avses i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) får på ett förenklat sätt efterleva vissa delar av det kvalitetsstyrningssystem som krävs enligt artikel [17](/lagstiftning/ai/kap-3#artikel-17-kvalitetsstyrningssystem) i [denna förordning](/lagstiftning/ai), förutsatt att de inte har partnerföretag eller anknutna företag i den mening som avses i den rekommendationen. För detta ändamål ska kommissionen utarbeta riktlinjer för de delar av kvalitetsstyrningssystemet som får efterlevas på ett förenklat sätt med beaktande av mikroföretags behov, utan att det påverkar skyddsnivån eller behovet av efterlevnad av kraven med avseende på AI-system med hög risk.
+
+2\. Punkt 1 i [denna artikel](#artikel-63-undantag-för-särskilda-operatörer) ska inte tolkas som att dessa operatörer undantas från att uppfylla andra krav eller fullgöra andra skyldigheter som fastställs i [denna förordning](/lagstiftning/ai), inbegripet dem som fastställs i artiklarna [9](/lagstiftning/ai/kap-3#artikel-9-riskhanteringssystem), [10](/lagstiftning/ai/kap-3#artikel-10-data-och-dataförvaltning), [11](/lagstiftning/ai/kap-3#artikel-11-teknisk-dokumentation), [12](/lagstiftning/ai/kap-3#artikel-12-loggning), [13](/lagstiftning/ai/kap-3#artikel-13-transparens-och-tillhandahållande-av-information-till-tillhandahållare), [14](/lagstiftning/ai/kap-3#artikel-14-mänsklig-kontroll), [15](/lagstiftning/ai/kap-3#artikel-15-riktighet-robusthet-och-cybersäkerhet), [72](/lagstiftning/ai/kap-9#artikel-72-leverantörers-övervakning-efter-utsläppande-på-marknaden-och-planen-för-övervakning-efter-utsläppande-på-marknaden-när-det-gäller-ai-system-med-hög-risk) och [73](/lagstiftning/ai/kap-9#artikel-73-rapportering-av-allvarliga-incidenter).
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

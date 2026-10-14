@@ -1,0 +1,2229 @@
+# atex [sv] scraped 2026-10-14
+# source: http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0023.03
+
+# kap-1 | Kapitel 1 | ALLMÄNNA BESTÄMMELSER | cpt_1
+
+## Artikel 1 | Tillämpningsområde | art_1
+1. Detta direktiv ska tillämpas på följande, nedan kallade produkter:
+
+a)
+
+Utrustning och säkerhetssystem som är avsedda att användas i explosionsfarliga omgivningar.
+
+b)
+
+Säkerhets- och regleranordningar som är avsedda att användas utanför explosionsfarliga omgivningar men som krävs för, eller bidrar till, att utrustningen och säkerhetssystemen ska kunna fungera på ett säkert sätt med hänsyn till explosionsriskerna.
+
+c)
+
+Komponenter som är avsedda att installeras i sådan utrustning och sådana säkerhetssystem som avses i punkt a.
+
+2. Detta direktiv ska inte tillämpas på
+
+a)
+
+medicinsk utrustning som är avsedd att användas i medicinsk miljö,
+
+b)
+
+utrustning och säkerhetssystem som är explosionsfarliga enbart på grund av förekomsten av explosiva substanser eller instabila kemiska substanser,
+
+c)
+
+utrustning som är avsedd för användning i hushåll och icke-kommersiell miljö, där explosionsfarliga omgivningar endast sällan kan uppstå och då uteslutande till följd av oavsedda gasutsläpp,
+
+d)
+
+personlig skyddsutrustning som omfattas av rådets direktiv 89/686/EEG av den 21 december 1989 om tillnärmning av medlemsstaternas lagstiftning om personlig skyddsutrustning (9),
+
+e)
+
+havsgående fartyg och rörliga off shore-enheter samt utrustning ombord på sådana fartyg eller enheter,
+
+f)
+
+transportmedel, dvs. fordon och släpvagnar till dessa, som uteslutande är avsedda för passagerartransport i luften eller på väg, järnväg eller vattenväg och transportmedel som är utformade för godstransport i luften, på allmän väg, på järnvägsnät eller på vattenväg; fordon som är avsedda att användas i explosionsfarliga omgivningar ska inte undantas från detta direktivs tillämpningsområde,
+
+g)
+
+sådan utrustning som omfattas av artikel 346.1 b i fördraget om Europeiska unionens funktionssätt.
+
+## Artikel 2 | Definitioner | art_2
+I detta direktiv avses med
+
+1. utrustning: maskiner, apparater, fasta eller rörliga anordningar, kontrollkomponenter med instrument och detektions- eller skyddssystem, som enskilt eller i förening är avsedda att generera, överföra, lagra, mäta, kontrollera eller omforma energi och/eller materialbearbetning och som kan orsaka explosion genom sina inneboende potentiella antändningskällor.
+
+2. säkerhetssystem: andra anordningar än de utrustningskomponenter som är avsedda att omedelbart stoppa en begynnande explosion och/eller begränsa det område som berörs av en explosion och har tillhandahållits på marknaden separat för användning som autonoma system.
+
+3. komponent: enhet som är av väsentlig betydelse för att utrustning eller säkerhetssystem ska fungera på ett säkert sätt, men som saknar självständig funktion.
+
+4. explosiv omgivning: blandning under atmosfäriska förhållanden av luft och brännbara ämnen i form av gas, ånga, imma eller stoft, i vilken förbränningen efter antändning sprider sig till hela den oförbrända blandningen.
+
+5. explosionsfarlig omgivning: atmosfär som kan bli explosiv på grund av lokala förhållanden eller driftsförhållanden.
+
+6. utrustningsgrupp I: omfattar utrustning som är avsedd att användas i gruvor under jord och i sådana delar av ovanjordsinstallationerna i dessa gruvor där fara kan uppstå på grund av gruvgas och brännbart stoft och som omfattar utrustningskategorierna M 1 och M 2 enligt bilaga I.
+
+7. utrustningsgrupp II: omfattar utrustning som är avsedd att användas på andra platser där fara kan uppstå på grund av explosiv omgivning och omfattar utrustningskategorierna 1, 2 och 3 enligt bilaga I.
+
+8. utrustningskategori: den klassificering av utrustning, inom varje utrustningsgrupp, som anges i bilaga I och som fastställer den skyddsnivå som krävs.
+
+9. avsedd användning: användning av en produkt som fastställts av tillverkaren genom att dela in utrustningen i en särskild utrustningsgrupp och -kategori eller genom att lämna all information som är nödvändig för att ett säkerhetssystem, en anordning eller en komponent ska fungera på ett säkert sätt.
+
+10. tillhandahållande på marknaden: varje leverans av en produkt för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt.
+
+11. utsläppande på marknaden: första gången en produkt tillhandahålls på unionsmarknaden.
+
+12. tillverkare: fysisk eller juridisk person som tillverkar en produkt eller som låter konstruera och tillverka en sådan produkt och saluför produkten, i eget namn eller under eget varumärke eller använder den för egna ändamål.
+
+13. tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt skriftlig fullmakt från tillverkaren har rätt att i dennes ställe utföra särskilda uppgifter.
+
+14. importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut en produkt från ett tredjeland på unionsmarknaden.
+
+15. distributör: fysisk eller juridisk person i leveranskedjan, förutom tillverkaren eller importören, som tillhandahåller en produkt på marknaden.
+
+16. ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören.
+
+17. teknisk specifikation: dokument där det fastställs vilka tekniska krav som en produkt ska uppfylla.
+
+18. harmoniserad standard: harmoniserad standard enligt definitionen i artikel 2.1 c i förordning (EU) nr 1025/2012.
+
+19. ackreditering: ackreditering enligt definitionen i artikel 2.10 i förordning (EG) nr 765/2008.
+
+20. nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel 2.11 i förordning (EG) nr 765/2008.
+
+21. bedömning av överensstämmelse: process där det visas huruvida de grundläggande hälso- och säkerhetskraven i detta direktiv för en produkt har uppfyllts.
+
+22. organ för bedömning av överensstämmelse: organ som utför bedömning av överensstämmelse, innefattande kalibrering, provning, certifiering och kontroll.
+
+23. återkallelse: åtgärd för att dra tillbaka en produkt som redan tillhandahållits slutanvändaren.
+
+24. tillbakadragande: åtgärd för att förhindra att en produkt i leveranskedjan tillhandahålls på marknaden.
+
+25. harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter.
+
+26. CE-märkning: märkning genom vilken tillverkaren visar att produkten överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning.
+
+## Artikel 3 | Tillhandahållande på marknaden och idrifttagande | art_3
+1. Medlemsstaterna ska vidta alla lämpliga åtgärder för att säkerställa att produkter får tillhandahållas på marknaden och tas i drift endast om de uppfyller kraven i detta direktiv och under förutsättning att de installeras och underhålls på ett korrekt sätt och används i enlighet med deras avsedda användning.
+
+2. Detta direktiv ska inte påverka medlemsstaternas rätt att fastställa sådana krav som de anser nödvändiga för att säkerställa att människor, särskilt i egenskap av arbetstagare, skyddas vid användning av de berörda produkterna, förutsatt att detta inte medför att produkterna ändras på ett sätt som inte är förenligt med detta direktiv.
+
+3. Medlemsstaterna får inte hindra att produkter som inte uppfyller bestämmelserna i detta direktiv visas på mässor, utställningar och demonstrationer, förutsatt att det klart anges på en väl synlig skylt att produkterna inte uppfyller kraven i detta direktiv och att de inte saluförs innan tillverkaren har åstadkommit överensstämmelse med kraven. Vid demonstrationer ska lämpliga säkerhetsåtgärder vidtas så att människor skyddas.
+
+## Artikel 4 | Grundläggande hälso- och säkerhetskrav | art_4
+Produkter ska uppfylla de grundläggande hälso- och säkerhetskrav som anges i bilaga II i tillämpliga delar med hänsyn till deras avsedda användning.
+
+## Artikel 5 | Fri rörlighet | art_5
+Medlemsstaterna får inte förbjuda, begränsa eller hindra att produkter som uppfyller de krav som ställs i detta direktiv tillhandahålls på marknaden och tas i drift inom deras territorier.
+
+# kap-2 | Kapitel 2 | DE EKONOMISKA AKTÖRERNAS SKYLDIGHETER | cpt_2
+
+## Artikel 6 | Tillverkarnas skyldigheter | art_6
+1. När tillverkarna släpper ut sina produkter på marknaden eller använder dem för egna ändamål ska de se till att de har konstruerats och tillverkats i enlighet med de grundläggande hälso- och säkerhetskraven i bilaga II.
+
+2. Tillverkarna ska utarbeta den tekniska dokumentation som avses i bilagorna III-IX och utföra eller låta utföra den bedömning av överensstämmelse som avses i artikel 13.
+
+Om bedömningen har visat att produkten, med undantag för komponenter, uppfyller de tillämpliga kraven ska tillverkarna upprätta en EU-försäkran om överensstämmelse och anbringa CE-märkningen.
+
+Om bedömningen har visat att komponenten uppfyller de tillämpliga kraven enligt det relevanta förfarandet för bedömning av överensstämmelse ska tillverkarna upprätta ett skriftligt intyg om överensstämmelse enligt artikel 13.3.
+
+Tillverkarna ska se till att varje produkt åtföljs av en kopia av EU-försäkran om överensstämmelse eller, när så är lämpligt, av intyget om överensstämmelse. Om ett stort antal produkter levereras till en och samma användare får emellertid partiet eller sändningen av produkter åtföljas av ett enda exemplar.
+
+3. Tillverkarna ska behålla den tekniska dokumentationen och EU-försäkran om överensstämmelse eller, när så är lämpligt, intyget om överensstämmelse i tio år efter det att produkten har släppts ut på marknaden.
+
+4. Tillverkarna ska se till att det finns rutiner som garanterar att serietillverkningen fortsätter att överensstämma med kraven i detta direktiv. Det ska också tas hänsyn till ändringar i produktens konstruktion eller egenskaper och ändringar i de harmoniserade standarderna eller andra tekniska specifikationer som det hänvisas till vid försäkran om överensstämmelse för produkten.
+
+När det anses lämpligt med tanke på de risker som en produkt utgör ska tillverkarna, för att skydda slutanvändarnas hälsa och säkerhet, utföra slumpvis provning av produkter som tillhandahållits på marknaden, granska och vid behov registerföra inkomna klagomål, produkter som inte överensstämmer med kraven och återkallelser av produkter samt informera distributörerna om all sådan övervakning.
+
+5. Tillverkarna ska se till att en produkt som de har släppt ut på marknaden är försedd med typnummer, partinummer, serienummer eller annan identifieringsmärkning eller, om detta inte är möjligt på grund av produktens storlek eller art, se till att den erforderliga informationen lämnas på förpackningen eller i ett medföljande dokument.
+
+6. Tillverkarna ska se till att en produkt, med undantag för komponenter, som de har släppt ut på marknaden är försedd med det särskilda explosionsskyddsmärket och, när så är lämpligt, sådan annan märkning och information som avses i punkt 1.0.5 i bilaga II.
+
+7. Tillverkarna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på produkten, eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med produkten. Den angivna adressen ska ange en enda kontaktpunkt där tillverkaren kan kontaktas. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+8. Tillverkarna ska se till att produkten åtföljs av bruksanvisningar och säkerhetsinformation på ett språk som lätt kan förstås av slutanvändare och som bestämts av den berörda medlemsstaten. Sådana bruksanvisningar och säkerhetsinformation liksom alla etiketter ska vara tydliga och lättbegripliga.
+
+9. Tillverkare som anser eller har skäl att tro att en produkt som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få produkten att överensstämma med kraven eller, om så är lämpligt, dra tillbaka eller återkalla produkten. Om produkten utgör en risk ska tillverkarna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit produkten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+10. Tillverkarna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att produkten överensstämmer med kraven i detta direktiv, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med produkter som de har släppt ut på marknaden.
+
+## Artikel 7 | Tillverkarens representant | art_7
+1. Tillverkarna får genom skriftlig fullmakt utse en representant.
+
+Skyldigheterna i enlighet med artikel 6.1 och skyldigheten att upprätta teknisk dokumentation som avses i artikel 6.2 får inte delegeras till tillverkarens representant.
+
+2. Tillverkarens representant ska utföra de uppgifter som anges i fullmakten från tillverkaren. Fullmakten ska ge tillverkarens representant rätt att bl.a.
+
+a)
+
+behålla EU-försäkran om överensstämmelse eller, när så är lämpligt, intyget om överensstämmelse och den tekniska dokumentationen för att kunna uppvisa dem för de nationella marknadskontrollmyndigheterna i tio år efter det att produkten har släppts ut på marknaden,
+
+b)
+
+på motiverad begäran av en behörig nationell myndighet ge den myndigheten all information och dokumentation som behövs för att visa att produkten överensstämmer med kraven,
+
+c)
+
+på begäran samarbeta med de behöriga nationella myndigheterna om de åtgärder som vidtas för att undanröja riskerna med de produkter som omfattas av fullmakten.
+
+## Artikel 8 | Importörernas skyldigheter | art_8
+1. Importörerna får endast släppa ut produkter på marknaden som överensstämmer med kraven.
+
+2. Innan importörerna släpper ut en produkt på marknaden ska de se till att tillverkaren har utfört det lämpliga förfarandet för bedömning av överensstämmelse som avses i artikel 13. De ska se till att tillverkaren har upprättat den tekniska dokumentationen, att produkten är försedd med CE-märkning, i tillämpliga fall, och åtföljs av EU-försäkran om överensstämmelse eller intyget om överensstämmelse och de dokument som krävs samt att tillverkaren har uppfyllt kraven i artikel 6.5, 6.6 och 6.7.
+
+Om en importör anser eller har skäl att tro att en produkt inte överensstämmer med de grundläggande hälso- och säkerhetskraven i bilaga II får importören inte släppa ut produkten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om produkten utgör en risk ska importören dessutom informera tillverkaren och marknadskontrollmyndigheterna om detta.
+
+3. Importörerna ska ange sitt namn, registrerade firmanamn eller registrerade varumärke samt den postadress på vilken de kan kontaktas på produkten, eller, om detta inte är möjligt, på förpackningen eller i ett dokument som följer med produkten. Kontaktuppgifterna ska anges på ett språk som lätt kan förstås av slutanvändarna och marknadskontrollmyndigheterna.
+
+4. Importörerna ska se till att produkten åtföljs av bruksanvisningar och säkerhetsinformation på ett språk som lätt kan förstås av slutanvändare och som bestämts av den berörda medlemsstaten.
+
+5. Importörerna ska, så länge de har ansvar för en produkt, se till att förvarings- eller transportförhållandena för produkten inte äventyrar produktens överensstämmelse med de grundläggande hälso- och säkerhetskraven i bilaga II.
+
+6. När det anses lämpligt med tanke på de risker som en produkt utgör ska importörerna, för att skydda slutanvändarnas hälsa och säkerhet, utföra slumpvis provning av produkter som tillhandahållits på marknaden, granska och vid behov registerföra inkomna klagomål, produkter som inte överensstämmer med kraven och återkallelser av produkter samt informera distributörerna om all sådan övervakning.
+
+7. Importörer som anser eller har skäl att tro att produkten som de har släppt ut på marknaden inte överensstämmer med detta direktiv ska omedelbart vidta de korrigerande åtgärder som krävs för att få produkten att överensstämma med kraven eller, om så är lämpligt, dra tillbaka eller återkalla artikeln. Om produkten utgör en risk ska importörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit produkten, och lämna uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+8. Under tio år efter det att produkten har släppts ut på marknaden ska importörerna hålla en kopia av EU-försäkran om överensstämmelse eller, när så är lämpligt, av intyget om överensstämmelse tillgänglig för marknadskontrollmyndigheterna och se till att dessa myndigheter på begäran kan få tillgång till den tekniska dokumentationen.
+
+9. Importörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten all information och dokumentation som behövs för att visa att en produkt överensstämmer med kraven, på ett språk som lätt kan förstås av den myndigheten. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med produkter som de har släppt ut på marknaden.
+
+## Artikel 9 | Distributörernas skyldigheter | art_9
+1. När distributörerna tillhandahåller en produkt på marknaden ska de iaktta vederbörlig omsorg för att se till att kraven i detta direktiv uppfylls.
+
+2. Innan distributörerna tillhandahåller en produkt på marknaden ska de kontrollera att den är försedd med CE-märkning, i tillämpliga fall, att den åtföljs av EU-försäkran om överensstämmelse eller intyget om överensstämmelse och de dokument som krävs och av bruksanvisning och säkerhetsinformation på ett språk som lätt kan förstås av slutanvändare i den medlemsstat där produkten ska tillhandahållas på marknaden och att tillverkaren och importören har uppfyllt kraven i artiklarna 6.5, 6.6, 6.7 respektive 8.3.
+
+Om en distributör anser eller har skäl att tro att en produkt inte överensstämmer med de grundläggande hälso- och säkerhetskraven i bilaga II får distributören inte tillhandahålla produkten på marknaden förrän den överensstämmer med de tillämpliga kraven. Om produkten utgör en risk ska distributören dessutom informera tillverkaren eller importören samt marknadskontrollmyndigheterna om detta.
+
+3. Distributörerna ska, så länge de har ansvar för en produkt, se till att förvarings- eller transportförhållandena för produkten inte äventyrar produktens överensstämmelse med de grundläggande hälso- och säkerhetskraven i bilaga II.
+
+4. Distributörer som anser eller har skäl att tro att en produkt som de har tillhandahållit på marknaden inte överensstämmer med detta direktiv ska försäkra sig om att nödvändiga korrigerande åtgärder vidtas för att få produkten att överensstämma med kraven eller, om så är lämpligt, för att dra tillbaka eller återkalla produkten. Om produkten utgör en risk ska distributörerna dessutom omedelbart underrätta de behöriga myndigheterna i de medlemsstater på vilkas marknad de har tillhandahållit produkten, och lämna detaljerade uppgifter om i synnerhet den bristande överensstämmelsen och de korrigerande åtgärder som vidtagits.
+
+5. Distributörerna ska på motiverad begäran av en behörig nationell myndighet i pappersform eller elektronisk form ge myndigheten den information och dokumentation som behövs för att visa att produkten överensstämmer med kraven. De ska på begäran samarbeta med den behöriga myndigheten om de åtgärder som vidtas för att undanröja riskerna med de produkter som de har tillhandahållit på marknaden.
+
+## Artikel 10 | Fall där tillverkarens skyldigheter är tillämpliga på importörer och distributörer | art_10
+Importörer eller distributörer ska anses vara tillverkare enligt detta direktiv och ska ha samma skyldigheter som tillverkaren har enligt artikel 6 när de släpper ut en produkt på marknaden i eget namn eller under eget varumärke eller ändrar en produkt som redan släppts ut på marknaden på ett sådant sätt att överensstämmelsen med detta direktiv kan påverkas.
+
+## Artikel 11 | Identifiering av de ekonomiska aktörerna | art_11
+De ekonomiska aktörerna ska på begäran identifiera följande aktörer för marknadskontrollmyndigheterna:
+
+a)
+
+Ekonomiska aktörer som har levererat en produkt till dem.
+
+b)
+
+Ekonomiska aktörer som de har levererat en produkt till.
+
+De ekonomiska aktörerna ska kunna ge den information som avses i första stycket i tio år efter det att de har fått produkten levererad och i tio år efter det att de har levererat produkten.
+
+# kap-3 | Kapitel 3 | PRODUKTENS ÖVERENSSTÄMMELSE MED KRAVEN | cpt_3
+
+## Artikel 12 | Presumtion om överensstämmelse för produkter | art_12
+1. Produkter som överensstämmer med harmoniserade standarder eller delar av dem, till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de grundläggande hälso- och säkerhetskrav i bilaga II som omfattas av dessa standarder eller delar av dem.
+
+2. Då harmoniserade standarder saknas, ska medlemsstaterna vidta alla åtgärder de anser nödvändiga för att informera berörda parter om de befintliga nationella standarder och tekniska specifikationer som anses betydelsefulla eller relevanta för att de grundläggande hälso- och säkerhetskraven i bilaga II ska kunna verkställas på avsett sätt.
+
+## Artikel 13 | Förfaranden vid bedömning av överensstämmelse | art_13
+1. Följande metoder ska användas för att kontrollera överensstämmelse när det gäller utrustning och, vid behov, sådana anordningar som avses i artikel 1.1 b:
+
+a)
+
+När det gäller utrustningsgrupp I och II, utrustningskategori M 1 och 1: EU-typkontrollen som anges i bilaga III, jämfört med ett av följande:
+
+—
+
+Överensstämmelse med typ som grundar sig på kvalitetssäkring av produktionen som anges i bilaga IV.
+
+—
+
+Överensstämmelse med typ som grundar sig på produktkontroll som anges i bilaga V.
+
+b)
+
+När det gäller utrustningsgrupp I och II, utrustningskategori M 2 och 2:
+
+i)
+
+I fråga om inre förbränningsmotorer och elektrisk utrustning i dessa grupper och kategorier: EU-typkontrollen som anges i bilaga III, jämfört med något av följande:
+
+—
+
+Överensstämmelse med typ som grundar sig på intern tillverkningskontroll och övervakad produktprovning som anges i bilaga VI.
+
+—
+
+Överensstämmelse med typ som grundar sig på kvalitetssäkring av produkter som anges i bilaga VII.
+
+ii)
+
+I fråga om annan utrustning i dessa grupper och kategorier: intern tillverkningskontroll som anges i bilaga VIII, och inlämnande av den tekniska dokumentation som föreskrivs i punkt 2 i bilaga VIII till ett anmält organ, som snarast möjligt ska erkänna mottagandet av dokumentationen och arkivera den.
+
+c)
+
+När det gäller utrustningsgrupp II, utrustningskategori 3: intern tillverkningskontroll som anges i bilaga VIII.
+
+d)
+
+När det gäller utrustningsgrupp I och II: utöver de förfaranden som avses i leden a, b och c får man även använda överensstämmelse som grundar sig på kontroll av enskilda produkter som anges i bilaga IX.
+
+2. Det förfarande som avses i 1 a eller 1 d ska tillämpas vid kontroll av överensstämmelse i fråga om säkerhetssystem.
+
+3. De förfaranden som avses i punkt 1 ska tillämpas i fråga om komponenter med undantag av utförande av CE-märkning och upprättande av EU-försäkran om överensstämmelse. Tillverkaren ska utfärda ett skriftligt intyg om överensstämmelse på att komponenterna överensstämmer med de tillämpliga bestämmelserna i detta direktiv, med angivande av deras egenskaper och av hur de ska installeras i utrustning eller säkerhetssystem så att de grundläggande hälso- och säkerhetskraven i bilaga II för slututrustning eller slutsäkerhetssystem kan uppfyllas.
+
+4. Det förfarande som behandlas i bilaga VIII får också följas i fråga om de säkerhetsaspekter som avses i punkt 1.2.7 i bilaga II, utöver den bedömning av överensstämmelse som avses i punkterna 1 och 2.
+
+5. Genom undantag från punkterna 1, 2 och 4 får de behöriga myndigheterna, efter en vederbörligen motiverad begäran, tillåta att produkter, med undantag för komponenter, på vilka de förfaranden som avses i punkterna 1, 2 och 4 inte har tillämpats, släpps ut på marknaden och tas i drift inom den berörda medlemsstatens territorium, om användningen av dessa produkter är av betydelse av säkerhetsskäl.
+
+6. Dokument och korrespondens i samband med de förfaranden vid bedömning av överensstämmelse som avses i punkterna 1–4 ska upprättas på ett språk som bestämts av den berörda medlemsstaten.
+
+## Artikel 14 | EU-försäkran om överensstämmelse | art_14
+1. I EU-försäkran om överensstämmelse ska det anges att de grundläggande hälso- och säkerhetskraven i bilaga II har visats vara uppfyllda.
+
+2. EU-försäkran om överensstämmelse ska utformas i enlighet med mallen i bilaga X, innehålla de uppgifter som anges i de berörda förfarandena för bedömning av överensstämmelse i bilagorna III–IX och regelbundet uppdateras. Den ska översättas till det eller de språk som krävs av den medlemsstat där produkten släpps ut eller tillhandahålls på marknaden.
+
+3. Om en produkt omfattas av mer än en unionsakt där det ställs krav på EU-försäkran om överensstämmelse ska en enda EU-försäkran om överensstämmelse upprättas för alla dessa unionsakter. I denna försäkran ska det anges vilka unionsakter som berörs, och det ska lämnas en publikationshänvisning till dem.
+
+4. Genom att upprätta EU-försäkran om överensstämmelse tar tillverkaren ansvar för att produkten överensstämmer med kraven i detta direktiv.
+
+## Artikel 15 | Allmänna principer för CE-märkning | art_15
+CE-märkningen ska omfattas av de allmänna principer som fastställs i artikel 30 i förordning (EG) nr 765/2008.
+
+## Artikel 16 | Regler och villkor för CE-märkning och annan märkning | art_16
+1. CE-märkningen ska anbringas på produkten eller dess märkskylt så att den är synlig, lätt läsbar och varaktig. Om detta inte är möjligt eller lämpligt på grund av produktens art ska märkningen anbringas på förpackningen och i de medföljande dokumenten.
+
+2. CE-märkningen ska anbringas innan produkten släpps ut på marknaden.
+
+3. CE-märkningen ska åtföljas av det anmälda organets identifikationsnummer, om organet medverkar i produktionskontrollen.
+
+Det anmälda organets identifikationsnummer ska anbringas av organet självt eller, efter dess anvisningar, av tillverkaren eller dennes representant.
+
+4. CE-märkningen och, i tillämpliga fall, det anmälda organets identifikationsnummer ska åtföljas av det särskilda explosionsskyddsmärket
+
+, utrustningsgruppens och utrustningskategorins symboler och, i tillämpliga fall, sådan annan märkning och information som avses i punkt 1.0.5 i bilaga II.
+
+5. CE-märkningen och den märkning, de symboler och den information som avses i punkt 4 samt i tillämpliga fall det anmälda organets identifikationsnummer får åtföljas av ett annat märke som anger en särskild risk eller ett särskilt användningsområde.
+
+Om produkter är utformade för användning i ett särskilt slag av explosiv omgivning ska detta klart framgå av märkningen.
+
+6. Medlemsstaterna ska utgå från befintliga mekanismer för att se till att bestämmelserna om CE-märkning tillämpas korrekt och vidta lämpliga åtgärder i händelse av otillbörlig användning av den märkningen.
+
+# kap-4 | Kapitel 4 | ANMÄLAN AV ORGAN FÖR BEDÖMNING AV ÖVERENSSTÄMMELSE | cpt_4
+
+## Artikel 17 | Anmälan | art_17
+Medlemsstaterna ska anmäla till kommissionen och övriga medlemsstater vilka organ som fått i uppdrag att utföra bedömningar av överensstämmelse i enlighet med detta direktiv.
+
+## Artikel 18 | Anmälande myndigheter | art_18
+1. Medlemsstaterna ska utse en anmälande myndighet med ansvar för att inrätta och genomföra de förfaranden som krävs för bedömning och anmälan av organ för bedömning av överensstämmelse och för övervakning av anmälda organ, inklusive överensstämmelse med artikel 23.
+
+2. Medlemsstaterna får besluta att den bedömning och övervakning som avses i punkt 1 ska utföras av ett nationellt ackrediteringsorgan i den betydelse som anges i och i enlighet med förordning (EG) nr 765/2008.
+
+3. Om den anmälande myndigheten delegerar eller på annat sätt överlåter den bedömning, anmälan eller övervakning som avses i punkt 1 till ett organ som inte är offentligt, ska det organet vara en juridisk person och ska i tillämpliga delar uppfylla kraven i artikel 19. Dessutom ska detta organ ha vidtagit åtgärder för att kunna hantera ansvarsskyldighet som kan uppstå i samband med dess verksamhet.
+
+4. Den anmälande myndigheten ska ta det fulla ansvaret för de uppgifter som utförs av det organ som avses i punkt 3.
+
+## Artikel 19 | Krav på anmälande myndigheter | art_19
+1. En anmälande myndighet ska vara inrättad på ett sådant sätt att det inte uppstår någon intressekonflikt med organen för bedömning av överensstämmelse.
+
+2. En anmälande myndighet ska vara organiserad och fungera på ett sådant sätt att dess verksamhet är objektiv och opartisk.
+
+3. En anmälande myndighet ska vara organiserad på ett sådant sätt att alla beslut som rör anmälan av ett organ för bedömning av överensstämmelse fattas av annan behörig personal än den som har gjort bedömningen.
+
+4. En anmälande myndighet får inte erbjuda eller utföra sådan verksamhet som utförs av organ för bedömning av överensstämmelse och får inte heller erbjuda eller utföra konsulttjänster på kommersiell eller konkurrensmässig grund.
+
+5. En anmälande myndighet ska sörja för att erhållen information behandlas konfidentiellt.
+
+6. En anmälande myndighet ska ha tillgång till tillräckligt med personal med lämplig kompetens för att kunna utföra sina uppgifter.
+
+## Artikel 20 | De anmälande myndigheternas informationsskyldighet | art_20
+Medlemsstaterna ska informera kommissionen om sina förfaranden för bedömning och anmälan av organ för bedömning av överensstämmelse och för övervakning av anmälda organ samt om eventuella ändringar.
+
+Kommissionen ska offentliggöra denna information.
+
+## Artikel 21 | Krav avseende anmälda organ | art_21
+1. När det gäller anmälan ska organ för bedömning av överensstämmelse uppfylla kraven i punkterna 2–11.
+
+2. Ett organ för bedömning av överensstämmelse ska inrättas enligt en medlemsstats nationella rätt och vara en juridisk person.
+
+3. Ett organ för bedömning av överensstämmelse ska vara ett tredjepartsorgan som är oberoende av den organisation eller produkt som den bedömer.
+
+Detta organ får vara ett organ som hör till en näringslivsorganisation eller branschorganisation som företräder företag som är involverade i konstruktion, tillverkning, leverans, installation, användning eller underhåll av de produkter som det bedömer, förutsatt att det kan styrkas att organet är oberoende och att det inte finns några intressekonflikter.
+
+4. Ett organ för bedömning av överensstämmelse, dess högsta ledning och den personal som ansvarar för att utföra bedömningen av överensstämmelse får inte utgöras av den som konstruerar, tillverkar, levererar, installerar, köper, äger, använder eller underhåller dessa produkter eller av företrädare för någon av dessa parter. Detta ska inte hindra användning av produkter som är nödvändiga för verksamheten inom organet för bedömning av överensstämmelse eller användning av sådana produkter för personligt bruk.
+
+Ett organ för bedömning av överensstämmelse, dess högsta ledning och personal som ansvarar för att utföra bedömningen av överensstämmelse får varken delta direkt i konstruktion, tillverkning, marknadsföring, installation, användning eller underhåll av dessa produkter eller företräda parter som bedriver sådan verksamhet. De får inte delta i någon verksamhet som kan påverka deras objektivitet och integritet i samband med den bedömning av överensstämmelse för vilken de har anmälts. Detta ska framför allt gälla konsulttjänster.
+
+Organ för bedömning av överensstämmelse ska se till att deras dotterbolags eller underentreprenörers verksamhet inte påverkar konfidentialiteten, objektiviteten eller opartiskheten i organens bedömningar av överensstämmelse.
+
+5. Organ för bedömning av överensstämmelse och deras personal ska utföra bedömningen av överensstämmelse med största möjliga yrkesintegritet, ha teknisk kompetens på det specifika området och vara fria från alla påtryckningar och all påverkan, i synnerhet ekonomiska, som kan påverka deras omdöme eller resultaten av deras bedömning av överensstämmelse; detta gäller särskilt påtryckningar och påverkan från personer eller grupper av personer som berörs av denna verksamhet.
+
+6. Ett organ för bedömning av överensstämmelse ska kunna utföra alla de uppgifter avseende bedömning av överensstämmelse som fastställs i bilagorna III–VII och bilaga IX för ett sådant organ och för vilka det har anmälts, oavsett om dessa uppgifter utförs av organet för bedömning av överensstämmelse eller för dess räkning och under dess ansvar.
+
+Vid alla tidpunkter och för varje förfarande för bedömning av överensstämmelse och för varje typ eller kategori av produkter för vilka det har anmälts ska organet för bedömning av överensstämmelse ha följande till sitt förfogande:
+
+a)
+
+Erforderlig personal med teknisk kunskap och tillräcklig erfarenhet för att utföra bedömningen av överensstämmelse.
+
+b)
+
+Erforderliga beskrivningar av förfaranden enligt vilka bedömningar av överensstämmelse utförs; dessa beskrivningar måste säkerställa tydlighet och reproducerbarhet hos förfarandena. Organet ska ha lämpliga rutiner och förfaranden för att skilja mellan de uppgifter som det utför i sin egenskap av anmält organ och annan verksamhet.
+
+c)
+
+Förfaranden som gör det möjligt för organet att utöva sin verksamhet med vederbörlig hänsyn tagen till ett företags storlek, bransch och struktur, den berörda produktteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Organet för bedömning av överensstämmelse ska ha nödvändiga medel för att korrekt kunna utföra de tekniska och administrativa uppgifterna i samband med bedömningen av överensstämmelse och ska ha tillgång till den utrustning och de hjälpmedel som är nödvändiga
+
+7. Den personal som ansvarar för att utföra bedömningen av överensstämmelse ska ha
+
+a)
+
+fullgod teknisk och yrkesinriktad utbildning som täcker all slags bedömning av överensstämmelse på det område inom vilket organet för bedömning av överensstämmelse har anmälts,
+
+b)
+
+tillfredsställande kunskap om kraven för de bedömningar som de gör och befogenhet att utföra dessa bedömningar,
+
+c)
+
+lämplig kännedom och insikt om de grundläggande hälso- och säkerhetskraven i bilaga II, de tillämpliga harmoniserade standarderna, de relevanta bestämmelserna i den harmoniserade unionslagstiftningen och nationell lagstiftning,
+
+d)
+
+förmåga att upprätta intyg, protokoll och rapporter som visar att bedömningarna har gjorts.
+
+8. Det ska garanteras att organ för bedömning av överensstämmelse, deras högsta ledning och den personal som ansvarar för att utföra bedömningen av överensstämmelse är opartiska.
+
+Ersättningen till den högsta ledningen och den personal som ansvarar för att utföra bedömningen av överensstämmelse vid ett organ för bedömning av överensstämmelse får inte vara beroende av antalet bedömningar som görs eller resultaten av bedömningarna.
+
+9. Organ för bedömning av överensstämmelse ska vara ansvarsförsäkrade, om inte staten tar på sig ansvaret enligt nationell lagstiftning eller medlemsstaten själv tar direkt ansvar för bedömningen av överensstämmelse.
+
+10. Personalen vid ett organ för bedömning av överensstämmelse ska iaktta tystnadsplikt beträffande all information som de erhåller vid utförandet av sina uppgifter enligt bilagorna III–VII och bilaga IX eller bestämmelser i nationell rätt som genomför den, utom gentemot de behöriga myndigheterna i den medlemsstat där verksamheten bedrivs. Äganderättigheter ska skyddas.
+
+11. Organ för bedömning av överensstämmelse ska delta i, eller se till att deras personal som ansvarar för att utföra bedömningen av överensstämmelse känner till, det relevanta standardiseringsarbetet och det arbete som utförs i samordningsgruppen för anmälda organ, som inrättats i enlighet med relevant harmoniserad unionslagstiftning, och de ska som generella riktlinjer använda de administrativa beslut och dokument som är resultatet av gruppens arbete.
+
+## Artikel 22 | Presumtion om överensstämmelse för anmälda organ | art_22
+Ett organ för bedömning av överensstämmelse som kan visa att det uppfyller kriterierna i de relevanta harmoniserade standarderna eller delar av dem till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning ska förutsättas uppfylla kraven i artikel 21, förutsatt att dessa krav omfattas av de tillämpliga harmoniserade standarderna.
+
+## Artikel 23 | Dotterbolag och underentreprenörer till anmälda organ | art_23
+1. Om det anmälda organet lägger ut specifika uppgifter med anknytning till bedömningen av överensstämmelse på underentreprenad eller anlitar ett dotterbolag ska det se till att underentreprenören eller dotterbolaget uppfyller kraven i artikel 21 och informera den anmälande myndigheten om detta.
+
+2. De anmälda organen ska ta det fulla ansvaret för underentreprenörernas eller dotterbolagens uppgifter, oavsett var dessa är etablerade.
+
+3. Verksamhet får läggas ut på underentreprenad eller utföras av ett dotterbolag endast om kunden samtycker till det.
+
+4. De anmälda organen ska hålla de relevanta dokumenten rörande bedömningen av underentreprenörens eller dotterbolagets kvalifikationer och det arbete som utförts av dem enligt bilagorna III–VII och bilaga IX tillgängliga för den anmälande myndigheten.
+
+## Artikel 24 | Ansökan om anmälan | art_24
+1. Organet för bedömning av överensstämmelse ska lämna in en ansökan om anmälan till den anmälande myndigheten i den medlemsstat där det är etablerat.
+
+2. Ansökan om anmälan ska åtföljas av en beskrivning av de bedömningar av överensstämmelse, den eller de moduler för bedömning av överensstämmelse och den eller de produkter som organet förklarar sig ha kompetens för samt ett ackrediteringsintyg, om det finns ett sådant, som utfärdats av ett nationellt ackrediteringsorgan och där det intygas att organet för bedömning av överensstämmelse uppfyller kraven i artikel 21.
+
+3. Om organet för bedömning av överensstämmelse inte kan uppvisa något ackrediteringsintyg ska det ge den anmälande myndigheten alla underlag som krävs för kontroll, erkännande och regelbunden övervakning av att det uppfyller kraven i artikel 21.
+
+## Artikel 25 | Anmälningsförfarande | art_25
+1. De anmälande myndigheterna får endast anmäla de organ för bedömning av överensstämmelse som har uppfyllt kraven i artikel 21.
+
+2. De ska anmäla till kommissionen och de andra medlemsstaterna med hjälp av det elektroniska anmälningsverktyg som utvecklats och förvaltas av kommissionen.
+
+3. Anmälan ska innehålla detaljerade uppgifter om bedömningarna av överensstämmelse, modulerna för bedömning av överensstämmelse och de berörda produkterna samt ett relevant intyg om kompetens.
+
+4. Om en anmälan inte grundar sig på ett sådant ackrediteringsintyg som avses i artikel 24.2 ska den anmälande myndigheten ge kommissionen och de andra medlemsstaterna de skriftliga underlag som styrker att organet för bedömning av överensstämmelse har erforderlig kompetens och att de system som behövs för att se till att organet övervakas regelbundet och fortsätter att uppfylla kraven i artikel 21 har inrättats.
+
+5. Det berörda organet får bedriva verksamhet som anmält organ endast om kommissionen eller de andra medlemsstaterna inte har rest invändningar inom två veckor efter anmälan, i de fall då ett ackrediteringsintyg används, eller inom två månader efter anmälan, i de fall då ingen ackreditering används.
+
+Endast ett sådant organ ska anses vara ett anmält organ i enlighet med detta direktiv.
+
+6. Den anmälande myndigheten ska underrätta kommissionen och de andra medlemsstaterna om alla relevanta ändringar av anmälan.
+
+## Artikel 26 | Identifikationsnummer och förteckningar över anmälda organ | art_26
+1. Kommissionen ska tilldela varje anmält organ ett identifikationsnummer.
+
+Organet ska tilldelas ett enda nummer även om det anmäls enligt flera unionsakter.
+
+2. Kommissionen ska offentliggöra förteckningen över de organ som anmälts enligt detta direktiv, inklusive de identifikationsnummer som de har tilldelats och den verksamhet som de har anmälts för.
+
+Kommissionen ska se till att förteckningen hålls uppdaterad.
+
+## Artikel 27 | Ändringar i anmälan | art_27
+1. Om en anmälande myndighet har konstaterat eller har informerats om att ett anmält organ inte längre uppfyller de krav som anges i artikel 21 eller att det underlåter att fullgöra sina skyldigheter, ska myndigheten i förekommande fall, beroende på hur allvarlig underlåtenheten att uppfylla kraven eller fullgöra skyldigheterna är, begränsa anmälan eller dra tillbaka den tillfälligt eller permanent. Den ska omedelbart underrätta kommissionen och de andra medlemsstaterna om detta.
+
+2. I händelse av begränsning, tillfälligt tillbakadragande eller tillbakadragande av anmälan eller om det anmälda organet har upphört med verksamheten ska den anmälande medlemsstaten vidta lämpliga åtgärder för att det anmälda organets dokumentation antingen ska behandlas av ett annat anmält organ eller hållas tillgänglig för de ansvariga anmälande myndigheterna och marknadskontrollmyndigheterna på deras begäran.
+
+## Artikel 28 | Ifrågasättande av de anmälda organens kompetens | art_28
+1. Kommissionen ska undersöka alla fall där den tvivlar på att ett anmält organ har erforderlig kompetens eller att ett anmält organ fortsatt uppfyller de krav och fullgör de skyldigheter som det omfattas av, och även alla fall där den gjorts uppmärksam på att det föreligger sådana tvivel.
+
+2. Den anmälande medlemsstaten ska på begäran ge kommissionen all information om grunderna för anmälan eller hur det berörda anmälda organets kompetens upprätthålls.
+
+3. Kommissionen ska se till att all känslig information som har erhållits i samband med undersökningarna behandlas konfidentiellt.
+
+4. Om kommissionen konstaterar att ett anmält organ inte uppfyller eller inte längre uppfyller kraven för anmälan ska den anta en genomförandeakt för att anmoda den anmälande medlemsstaten att vidta erforderliga korrigerande åtgärder, inbegripet att vid behov återta anmälan.
+
+Den genomförandeakten ska antas i enlighet med det rådgivande förfarande som avses i artikel 39.2.
+
+## Artikel 29 | De anmälda organens operativa skyldigheter | art_29
+1. Anmälda organ ska utföra bedömningar av överensstämmelse i enlighet med förfarandena för bedömning av överensstämmelse i bilagorna III–VII och bilaga IX.
+
+2. Bedömningarna av överensstämmelse ska utföras på ett proportionellt sätt så att de ekonomiska aktörerna inte belastas i onödan. Organen för bedömning av överensstämmelse ska när de utför sin verksamhet ta vederbörlig hänsyn till ett företags storlek, bransch och struktur och till produktteknikens komplexitet och eventuell massproduktion eller serietillverkning.
+
+Samtidigt ska de dock respektera den grad av noggrannhet och skyddsnivå som krävs för att produkten ska överensstämma med kraven i detta direktiv.
+
+3. Om ett anmält organ konstaterar att en tillverkare inte har tillämpat de grundläggande hälso- och säkerhetskraven i bilaga II eller motsvarande harmoniserade standarder eller andra tekniska specifikationer, ska det begära att tillverkaren vidtar korrigerande åtgärder, och inget intyg om överensstämmelse ska utfärdas.
+
+4. Om ett anmält organ vid övervakning av överensstämmelse efter det att ett intyg har utfärdats konstaterar att en produkt inte längre uppfyller kraven, ska det begära att tillverkaren vidtar korrigerande åtgärder, och vid behov ska intyget tillfälligt eller permanent dras tillbaka.
+
+5. Om inga korrigerande åtgärder vidtas eller om de inte får önskat resultat, ska det anmälda organet i förekommande fall belägga intyget med restriktioner eller återkalla det tillfälligt eller slutgiltigt.
+
+## Artikel 30 | Överklagande av de anmälda organens beslut | art_30
+Medlemsstaterna ska se till att det finns ett förfarande för överklagande av de anmälda organens beslut.
+
+## Artikel 31 | De anmälda organens informationsskyldighet | art_31
+1. De anmälda organen ska informera den anmälande myndigheten om följande:
+
+a)
+
+Avslag, begränsningar och tillfälligt eller permanent tillbakadragande av intyg.
+
+b)
+
+Omständigheter som inverkar på omfattningen av eller villkoren för anmälan.
+
+c)
+
+Begäran från marknadskontrollmyndigheterna om information om bedömningar av överensstämmelse.
+
+d)
+
+På begäran, bedömningar av överensstämmelse som gjorts inom ramen för anmälan och all annan verksamhet, inklusive gränsöverskridande verksamhet och underentreprenad.
+
+2. De anmälda organen ska ge de andra organ som anmälts enligt detta direktiv och som utför liknande bedömningar av överensstämmelse som täcker samma produkter, relevant information om frågor som rör negativa och, på begäran, positiva resultat av bedömningar av överensstämmelse.
+
+## Artikel 32 | Utbyte av erfarenhet | art_32
+Kommissionen ska sörja för att erfarenhetsutbyte förekommer mellan de myndigheter i medlemsstaterna som ansvarar för riktlinjerna för anmälan.
+
+## Artikel 33 | Samordning av anmälda organ | art_33
+Kommissionen ska säkerställa att lämplig samordning och lämpligt samarbete sker mellan de organ som anmälts enligt detta direktiv och att detta bedrivs på ett tillfredsställande sätt genom en sektorsspecifik grupp bestående av anmälda organ.
+
+Medlemsstaterna ska se till att de organ som de har anmält deltar i arbetet i den sektorsspecifika gruppen, direkt eller genom utsedda representanter.
+
+# kap-5 | Kapitel 5 | MARKNADSKONTROLL I UNIONEN, KONTROLL AV PRODUKTER SOM FÖRS IN PÅ UNIONSMARKNADEN OCH UNIONENS FÖRFARANDE I FRÅGA OM SKYDDSÅTGÄRDER | cpt_5
+
+## Artikel 34 | Marknadskontroll i unionen och kontroll av produkter som förs in på unionsmarknaden | art_34
+Artikel 15.3 och artiklarna 16–29 i förordning (EG) nr 765/2008 ska tillämpas på produkter som omfattas av artikel 1 i det här direktivet.
+
+## Artikel 35 | Förfarande för att på nationell nivå hantera produkter som utgör en risk | art_35
+1. Om en medlemsstats marknadskontrollmyndigheter har tillräckliga skäl att anta att en produkt utgör en risk för människors hälsa eller säkerhet, eller för husdjur och egendom, ska de göra en utvärdering av produkten omfattande alla relevanta krav som fastställs i detta direktiv. De berörda ekonomiska aktörerna ska när så krävs samarbeta med marknadskontrollmyndigheterna i detta syfte.
+
+Om marknadskontrollmyndigheterna vid den utvärdering som avses i första stycket konstaterar att produkten inte uppfyller kraven i detta direktiv ska de utan dröjsmål ålägga den berörda ekonomiska aktören att vidta alla lämpliga korrigerande åtgärder för att produkten ska uppfylla dessa krav, dra tillbaka produkten från marknaden eller återkalla den inom en rimlig period som de fastställer i förhållande till typen av risk.
+
+Marknadskontrollmyndigheterna ska informera det berörda anmälda organet om detta.
+
+Artikel 21 i förordning (EG) nr 765/2008 ska tillämpas på de åtgärder som avses i andra stycket i denna punkt.
+
+2. Om marknadskontrollmyndigheterna anser att den bristande överensstämmelsen inte bara gäller det nationella territoriet, ska de informera kommissionen och de andra medlemsstaterna om utvärderingsresultaten och om de åtgärder som de har ålagt de ekonomiska aktörerna att vidta.
+
+3. De ekonomiska aktörerna ska se till att alla lämpliga korrigerande åtgärder vidtas i fråga om alla berörda produkter som de har tillhandahållit på unionsmarknaden.
+
+4. Om den berörda ekonomiska aktören inte vidtar lämpliga korrigerande åtgärder inom den period som avses i punkt 1 andra stycket, ska marknadskontrollmyndigheterna vidta alla lämpliga tillfälliga åtgärder för att förbjuda eller begränsa tillhandahållandet av produkten på sin nationella marknad, dra tillbaka produkten från den marknaden eller återkalla den.
+
+Marknadskontrollmyndigheterna ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om dessa åtgärder.
+
+5. I den information som avses i punkt 4 andra stycket ska alla tillgängliga uppgifter ingå, särskilt de uppgifter som krävs för att kunna identifiera den produkt som inte uppfyller kraven, dess ursprung, vilken typ av bristande överensstämmelse som görs gällande och den risk produkten utgör, vilken typ av nationell åtgärd som vidtagits och dess varaktighet samt den berörda ekonomiska aktörens synpunkter. Marknadskontrollmyndigheterna ska särskilt ange om den bristande överensstämmelsen beror på någon av följande omständigheter:
+
+a)
+
+Produkten uppfyller inte kraven med avseende på människors hälsa eller säkerhet eller skydd av husdjur och egendom.
+
+b)
+
+Det förekommer brister i de harmoniserade standarder som avses i artikel 12, vilka ger presumtion om överensstämmelse.
+
+6. Andra medlemsstater än den som inledde förfarandet enligt denna artikel ska utan dröjsmål informera kommissionen och de andra medlemsstaterna om vidtagna åtgärder och om eventuella kompletterande uppgifter som de har tillgång till med avseende på den berörda produktens bristande överensstämmelse med kraven samt eventuella invändningar mot den vidtagna nationella åtgärden.
+
+7. Om varken en medlemsstat eller kommissionen inom tre månader efter mottagandet av den information som avses i punkt 4 andra stycket har rest invändningar mot en tillfällig åtgärd som vidtagits av en medlemsstat ska åtgärden anses vara berättigad.
+
+8. Medlemsstaterna ska se till att lämpliga begränsande åtgärder, till exempel tillbakadragande av produkten från marknaden, utan dröjsmål vidtas i fråga om produkten.
+
+## Artikel 36 | Unionens förfarande i fråga om skyddsåtgärder | art_36
+1. Om det, efter det att förfarandet i artikel 35.3 och 35.4 slutförts, har rests invändningar mot en åtgärd som en medlemsstat vidtagit eller om kommissionen anser att en nationell åtgärd strider mot unionslagstiftningen, ska kommissionen utan dröjsmål inleda samråd med medlemsstaterna och den eller de berörda ekonomiska aktörerna och utvärdera den nationella åtgärden. På grundval av utvärderingsresultaten ska kommissionen anta en genomförandeakt för att fastställa om den nationella åtgärden är berättigad eller inte.
+
+Kommissionen ska rikta beslutet till alla medlemsstater och omedelbart delge dem och den eller de berörda ekonomiska aktörerna beslutet.
+
+2. Om den nationella åtgärden anses vara berättigad ska alla medlemsstater vidta de åtgärder som krävs för att säkerställa att den produkt som inte uppfyller kraven dras tillbaka från deras marknader och underrätta kommissionen om detta. Om den nationella åtgärden anses oberättigad ska den berörda medlemsstaten upphäva åtgärden.
+
+3. Om den nationella åtgärden anses vara berättigad och produktens bristande överensstämmelse kan tillskrivas en brist i de harmoniserade standarder som avses i artikel 35.5 b i detta direktiv ska kommissionen tillämpa det förfarande som föreskrivs i artikel 11 i förordning (EU) nr 1025/2012.
+
+## Artikel 37 | Produkter som uppfyller kraven men utgör en risk | art_37
+1. Om en medlemsstat, efter att ha utfört en utvärdering i enlighet med artikel 35.1, konstaterar att en produkt visserligen uppfyller kraven i detta direktiv men utgör en risk för människors hälsa eller säkerhet, eller för husdjur eller egendom, ska den ålägga den berörda ekonomiska aktören att vidta alla lämpliga åtgärder, antingen för att säkerställa att den berörda produkten när den har släppts ut på marknaden inte längre utgör en sådan risk eller för att dra tillbaka eller återkalla produkten från marknaden inom en rimlig period som medlemsstaten fastställer i förhållande till typen av risk.
+
+2. De ekonomiska aktörerna ska se till att det vidtas korrigerande åtgärder i fråga om alla berörda produkter som de har tillhandahållit på unionsmarknaden.
+
+3. Medlemsstaten ska omedelbart underrätta kommissionen och de andra medlemsstaterna. Informationen ska innehålla alla tillgängliga uppgifter, särskilt de uppgifter som krävs för att kunna identifiera produkten, dess ursprung och leveranskedja, den risk produkten utgör, vilken typ av nationella åtgärder som vidtagits och deras varaktighet.
+
+4. Kommissionen ska utan dröjsmål inleda samråd med medlemsstaterna och den eller de berörda ekonomiska aktörerna och därefter utvärdera de nationella åtgärderna. På grundval av utvärderingsresultaten ska kommissionen genom genomförandeakter besluta om den nationella åtgärden är berättigad eller inte, och vid behov föreslå lämpliga åtgärder.
+
+De genomförandeakter som avses i första stycket i denna punkt ska antas i enlighet med det granskningsförfarande som avses i artikel 39.3.
+
+Vid vederbörligen motiverade och tvingande skäl till skyndsamhet med avseende på skyddet för människors hälsa och säkerhet eller skyddet för husdjur eller egendom ska kommissionen anta genomförandeakter med omedelbar verkan i enlighet med det förfarande som avses i artikel 39.4.
+
+5. Kommissionen ska rikta beslutet till alla medlemsstater och omedelbart delge dem och den eller de berörda ekonomiska aktörerna beslutet.
+
+## Artikel 38 | Formell bristande överensstämmelse | art_38
+1. Utan att det påverkar tillämpningen av artikel 35 ska en medlemsstat, om den konstaterar något av följande, ålägga den berörda ekonomiska aktören att åtgärda den bristande överensstämmelsen:
+
+a)
+
+CE-märkningen har anbringats i strid med artikel 30 i förordning (EG) nr 765/2008 eller artikel 16 i detta direktiv.
+
+b)
+
+CE-märkning, om sådan krävs, saknas.
+
+c)
+
+Det särskilda explosionsskyddsmärket
+
+, utrustningsgruppens och utrustningskategorins symboler och, i tillämpliga fall, annan märkning och information har anbringats i strid med punkt 1.0.5 i bilaga II eller saknas.
+
+d)
+
+Det anmälda organets identifikationsnummer har, i de fall organet medverkar i produktionskontrollen, anbringats i strid med artikel 16 eller saknas.
+
+e)
+
+EU-försäkran om överensstämmelse eller intyget om överensstämmelse, beroende på vad som är lämpligt, åtföljer inte produkten.
+
+f)
+
+EU-försäkran om överensstämmelse eller, om så krävs, intyget om överensstämmelse, har inte upprättats på ett korrekt sätt.
+
+g)
+
+Den tekniska dokumentationen är antingen inte tillgänglig eller inte komplett.
+
+h)
+
+Den information som avses i artikel 6.7 eller 8.3 saknas, är felaktig eller ofullständig.
+
+i)
+
+Något annat av de administrativa krav som fastställs i artikel 6 eller 8 är inte uppfyllt.
+
+2. Om sådan bristande överensstämmelse som avses i punkt 1 kvarstår ska den berörda medlemsstaten vidta lämpliga åtgärder för att begränsa eller förbjuda tillhandahållandet av produkten på marknaden eller se till att den återkallas eller dras tillbaka från marknaden.
+
+# kap-6 | Kapitel 6 | KOMMITTÉ, ÖVERGÅNGSBESTÄMMELSER OCH SLUTBESTÄMMELSER | cpt_6
+
+## Artikel 39 | Kommittéförfarande | art_39
+1. Kommissionen ska biträdas av kommittén för utrustning och säkerhetssystem som är avsedda att användas i explosionsfarliga omgivningar. Kommittén ska vara en kommitté i den mening som avses i förordning (EU) nr 182/2011.
+
+2. När det hänvisas till denna punkt ska artikel 4 i förordning (EU) nr 182/2011 tillämpas.
+
+3. När det hänvisas till denna punkt ska artikel 5 i förordning (EU) nr 182/2011 tillämpas.
+
+4. När det hänvisas till denna punkt ska artikel 8 i förordning (EU) nr 182/2011, jämförd med artikel 5 i den förordningen, tillämpas.
+
+5. Kommissionen ska höra kommittén angående alla frågor för vilka samråd med sektorsexperter krävs enligt förordning (EU) nr 1025/2012 eller enligt annan unionslagstiftning.
+
+Kommittén får dessutom undersöka alla andra frågor som avser tillämpningen av detta direktiv som tas upp av dess ordförande eller av en företrädare för en medlemsstat i enlighet med dess arbetsordning.
+
+## Artikel 40 | Sanktioner | art_40
+Medlemsstaterna ska föreskriva sanktioner för ekonomiska aktörers överträdelser av bestämmelser i nationell rätt som har utfärdats med tillämpning av detta direktiv och ska vidta de åtgärder som krävs för att se till att dessa sanktioner tillämpas. Sådana sanktioner kan omfatta straffrättsliga påföljder för allvarliga överträdelser.
+
+Sanktionerna ska vara effektiva, proportionella och avskräckande.
+
+## Artikel 41 | Övergångsbestämmelser | art_41
+1. Medlemsstaterna får inte förhindra att produkter som omfattas av och är förenliga med direktiv 94/9/EG och som släppts ut på marknaden före den 20 april 2016 tillhandahålls på marknaden eller tas i bruk.
+
+2. Intyg som utfärdats i enlighet med direktiv 94/9/EG ska vara giltiga enligt det här direktivet.
+
+## Artikel 42 | Införlivande | art_42
+1. Medlemsstaterna ska senast den 19 april 2016 anta och offentliggöra de bestämmelser i lagar och andra författningar som är nödvändiga för att följa artiklarna 1, 2.2, 2.8–2.26, 3, 5–41 och bilagorna III–X. De ska till kommissionen genast överlämna texten till dessa bestämmelser.
+
+De ska tillämpa dessa bestämmelser från och med den 20 april 2016.
+
+När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. De ska även innehålla en uppgift om att hänvisningar i befintliga lagar och andra författningar till det direktiv som upphävts genom det här direktivet ska anses som hänvisningar till det här direktivet. Närmare föreskrifter om hur hänvisningen ska göras och om hur uppgiften ska formuleras ska varje medlemsstat själv utfärda.
+
+2. Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.
+
+## Artikel 43 | Upphävande | art_43
+Direktiv 94/9/EG, ändrat genom de förordningar som förtecknas i del A i bilaga XI, ska upphöra att gälla med verkan från och med den 20 april 2016 utan att det påverkar medlemsstaternas skyldigheter när det gäller de tidsfrister för införlivande med nationell lagstiftning och datum för tillämpning av direktivet som anges i del B i bilaga XI.
+
+Hänvisningar till det upphävda direktivet ska anses som hänvisningar till det här direktivet och ska läsas i enlighet med jämförelsetabellen i bilaga XII.
+
+## Artikel 44 | Ikraftträdande | art_44
+Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i Europeiska unionens officiella tidning.
+
+Artiklarna 2.1, 2.3–2.7 och 4 samt bilagorna I, II, XI och XII ska tillämpas från och med den 20 april 2016.
+
+## Artikel 45 | Adressater | art_45
+Detta direktiv riktar sig till medlemsstaterna.
+
+Utfärdat i Strasbourg den 26 februari 2014.
+
+På Europaparlamentets vägnar
+
+M. SCHULZ
+
+Ordförande
+
+På rådets vägnar
+
+D. KOURKOULAS
+
+Ordförande
+
+(1)
+
+EUT C 181, 21.6.2012, s. 105.
+
+(2) Europaparlamentets ståndpunkt av den 5 februari 2014 (ännu ej offentliggjord i EUT) och rådets beslut av den 20 februari 2014.
+
+(3)
+
+EGT L 100, 19.4.1994, s. 1.
+
+(4) Se del A i bilaga XI.
+
+(5)
+
+EUT L 218, 13.8.2008, s. 30.
+
+(6)
+
+EUT L 218, 13.8.2008, s. 82.
+
+(7)
+
+EUT L 316, 14.11.2012, s. 12.
+
+(8)
+
+EUT L 55, 28.2.2011, s. 13.
+
+(9)
+
+EGT L 399, 30.12.1989, s. 18.
+
+BILAGA I
+
+KRITERIER FÖR KATEGORIINDELNING AV UTRUSTNINGSGRUPPER
+
+1. Utrustningsgrupp I
+
+a)
+
+Utrustningskategori M 1 omfattar utrustning som projekterats och vid behov försetts med kompletterande skyddsanordningar för att kunna fungera i överensstämmelse med de driftsparametrar som angivits av tillverkaren och för att garantera en mycket hög skyddsnivå.
+
+Utrustning av denna kategori är avsedd att användas i gruvor under jord och i sådana delar av installationerna ovan jord där fara föreligger på grund av gruvgas och/eller brännbart stoft.
+
+Utrustning av denna kategori ska kunna fungera även vid störningar i undantagsfall i explosiv omgivning och ska vara försedd med skyddsanordningar som säkerställer att
+
+—
+
+antingen minst en andra oberoende skyddsanordning garanterar den skyddsnivå som krävs, om en skyddsanordning slås ut,
+
+—
+
+eller den skyddsnivå som krävs garanteras även om två fel inträffar oberoende av varandra.
+
+Utrustning av denna kategori ska uppfylla de kompletterande krav som anges i punkt 2.0.1 i bilaga II.
+
+b)
+
+Utgiftskategori M 2 omfattar utrustning som projekterats för att kunna fungera i överensstämmelse med de driftsparametrar som angivits av tillverkaren och för att garantera en hög skyddsnivå.
+
+Utrustning av denna kategori är avsedd att användas i gruvor under jord och i sådana delar av installationerna ovan jord där fara föreligger på grund av gruvgas och/eller brännbart stoft.
+
+Sådan utrustning är utformad för att energitillförseln ska avbrytas om omgivningen blir explosiv.
+
+Skyddsanordningar till utrustning av denna kategori ska garantera den skyddsnivå som krävs vid normal drift och även vid svårare driftsförhållanden, särskilt sådana som orsakas av omild behandling och varierande miljöbetingelser.
+
+Utrustning av denna kategori ska uppfylla de kompletterande krav som anges i punkt 2.0.2 i bilaga II.
+
+2. Utrustningsgrupp II
+
+a)
+
+Utrustningskategori 1 omfattar utrustning som projekterats för att kunna fungera i överensstämmelse med de driftsparametrar som angivits av tillverkaren och för att garantera en mycket hög skyddsnivå.
+
+Utrustning av denna kategori är avsedd att användas i områden där det kontinuerligt, under långa perioder eller ofta förekommer explosiva omgivningar till följd av blandningar av luft och gaser, ånga eller imma eller av luft och stoft.
+
+Utrustning av denna kategori ska kunna fungera även vid störningar i undantagsfall i explosiv omgivning och ska vara försedd med skyddsanordningar som säkerställer att
+
+—
+
+antingen minst en andra oberoende skyddsanordning garanterar den skyddsnivå som krävs, om en skyddsanordning slås ut,
+
+—
+
+eller den skyddsnivå som krävs garanteras även om två fel inträffar oberoende av varandra.
+
+Utrustning av denna kategori ska uppfylla de kompletterande krav som anges i punkt 2.1 i bilaga II.
+
+b)
+
+Utrustningskategori 2 omfattar utrustning som projekterats för att kunna fungera i överensstämmelse med de driftsparametrar som angivits av tillverkaren och för att garantera en hög skyddsnivå.
+
+Utrustning av denna kategori är avsedd att användas i områden där explosiva omgivningar orsakade av gaser, ånga, imma eller blandning av luft och stoft kan förekomma ibland.
+
+Skyddsanordningarna för utrustning av denna kategori ska garantera att den skyddsnivå som krävs bibehålls även vid ofta återkommande störningar eller fel på utrustningen som normalt behöver tas med i beräkningarna.
+
+Utrustning av denna kategori ska uppfylla de kompletterande krav som anges i punkt 2.2 i bilaga II.
+
+c)
+
+Utrustningskategori 3 omfattar utrustning som projekterats för att kunna fungera i överensstämmelse med de driftsparametrar som angivits av tillverkaren och för att garantera en normal skyddsnivå.
+
+Utrustning av denna kategori är avsedd att användas i områden där explosiva omgivningar orsakade av gaser, ånga, imma eller blandning av luft och stoft endast undantagsvis förekommer och i så fall under kortare tidsperioder vid enstaka tillfällen.
+
+Utrustning av denna kategori ska garantera den skyddsnivå som krävs vid normal drift.
+
+Utrustning av denna kategori ska uppfylla de kompletterande krav som anges i punkt 2.3 i bilaga II.
+
+BILAGA II
+
+GRUNDLÄGGANDE HÄLSO- OCH SÄKERHETSKRAV FÖR PROJEKTERING OCH KONSTRUKTION AV UTRUSTNING OCH SÄKERHETSSYSTEM FÖR ANVÄNDNING I EXPLOSIONSFARLIGA OMGIVNINGAR
+
+Inledande anmärkningar
+
+A.
+
+Tekniskt vetande ska utnyttjas och nya rön som snabbt kan förändra detta ska utnyttjas utan dröjsmål.
+
+B.
+
+För sådana anordningar som avses i artikel 1.1 b ska de grundläggande hälso- och säkerhetskraven endast tillämpas i den utsträckning de är nödvändiga för att anordningarna ska kunna fungera och utnyttjas på ett säkert och tillförlitligt sätt med hänsyn till explosionsfaran.
+
+1. Gemensamma krav för utrustning och säkerhetssystem
+
+1.0 Allmänna krav
+
+1.0.1 Principer för integrerad explosionssäkerhet
+
+Utrustning och säkerhetssystem som avses användas i explosionsfarliga omgivningar måste utformas för att ge integrerad explosionssäkerhet.
+
+I detta sammanhang måste tillverkaren vidta åtgärder för att
+
+—
+
+i första hand om möjligt förhindra att explosiv omgivning bildas genom påverkan eller utsläpp från utrustningen eller säkerhetsanordningarna i sig,
+
+—
+
+förhindra antändning av explosiv omgivning med beaktande av varje elektrisk eller icke-elektrisk antändningskällas natur,
+
+—
+
+om det trots detta inträffar en explosion som direkt eller indirekt kan medföra fara för människor och, i tillämpliga fall, husdjur eller egendom, denna omedelbart stoppas och/eller påverkan av lågor och explosionstryck begränsas till en tillräcklig skyddsnivå.
+
+1.0.2 Utrustning och säkerhetssystem ska projekteras och tillverkas med beaktande av de driftsstörningar som kan inträffa, så att farliga situationer så långt möjligt undviks.
+
+Det ska tas hänsyn till sådan felaktig användning som rimligen kan förutses.
+
+1.0.3 Särskilda villkor för kontroll och underhåll
+
+Utrustning och säkerhetssystem som omfattas av särskilda villkor för kontroll och underhåll ska projekteras och tillverkas med hänsyn till dessa villkor.
+
+1.0.4 Miljöförhållanden
+
+Utrustning och säkerhetssystem ska projekteras och tillverkas för att kunna klara av faktiska eller förutsebara miljöförhållanden.
+
+1.0.5 Märkning
+
+All utrustning och alla säkerhetssystem ska märkas på lätt läsbart och outplånligt sätt med minst följande uppgifter:
+
+—
+
+Tillverkarens namn, registrerade firmanamn eller registrerade varumärke och adress.
+
+—
+
+CE-märkning (se bilaga II till förordning (EG) nr 765/2008).
+
+—
+
+Serie- eller typbeteckning.
+
+—
+
+Eventuellt parti- eller serienummer.
+
+—
+
+Tillverkningsår.
+
+—
+
+Det särskilda explosionsskyddsmärket
+
+följt av symbolen för utrustningsgrupp och -kategori.
+
+—
+
+För utrustningsgrupp II: bokstaven ”G” (avseende explosiva omgivningar orsakade av gas, ånga eller imma)
+
+och/eller
+
+—
+
+bokstaven ”D” (avseende explosiva omgivningar orsakade av stoft).
+
+De ska dessutom vid behov märkas med all information som är nödvändig för säkerheten vid användning.
+
+1.0.6 Instruktioner
+
+a)
+
+All utrustning och alla säkerhetssystem ska åtföljas av instruktioner som minst omfattar följande:
+
+—
+
+Upprepande av informationen i märkningen med undantag av parti- eller serienumret (se punkt 1.0.5) samt eventuell kompletterande information avseende underhåll (t.ex. reparationsverkstadens adress osv.).
+
+—
+
+Säkerhetsinstruktioner för
+
+—
+
+driftsstart,
+
+—
+
+användning,
+
+—
+
+montering och demontering,
+
+—
+
+underhåll (normal service och akuta reparationsbehov),
+
+—
+
+installation,
+
+—
+
+justering.
+
+—
+
+Vid behov: uppgift om skyddszoner vid övertrycksventiler.
+
+—
+
+Vid behov: utbildningsmanualer.
+
+—
+
+Uppgifter som gör det möjligt att med säkerhet avgöra om utrustning av en viss kategori eller ett säkerhetssystem säkert kan användas inom det avsedda området och under förväntade driftsförhållanden.
+
+—
+
+Elektriska parametrar och tryckparametrar, högsta yttemperatur och övriga gränsvärden.
+
+—
+
+Vid behov: särskilda villkor för användningen, även uppgifter om möjlig felaktig användning som erfarenhetsmässigt har visat sig kunna inträffa.
+
+—
+
+Vid behov: de viktigaste egenskaperna hos redskap som kan monteras på utrustningen eller säkerhetssystemet.
+
+b)
+
+Instruktionerna ska innehålla de ritningar och diagram som är nödvändiga för driftsstart, underhåll, tillsyn, driftskontroll och, i tillämpliga fall, reparation av utrustningen eller säkerhetssystemet samt all nödvändig information, särskilt i fråga om säkerheten.
+
+c)
+
+Dokumentationen om utrustningen eller säkerhetssystemet får inte strida mot instruktionerna i fråga om säkerhetsaspekterna.
+
+1.1 Val av material
+
+1.1.1 De material som används vid tillverkningen av utrustning och säkerhetssystem får inte kunna utlösa explosion under de påfrestningar vid driften som kan förutses.
+
+1.1.2 Inom ramen för de driftsförhållanden som angivits av tillverkaren får det inte kunna uppstå någon reaktion mellan det använda materialet och beståndsdelarna i den explosionsfarliga omgivningen som kan försämra explosionsskyddet.
+
+1.1.3 Materialen måste väljas så att förutsebara förändringar av deras egenskaper och kompatibilitet med andra material inte leder till en försämring av det skydd som ges. Hänsyn måste särskilt tas till materialets beständighet mot korrosion och nötning, elektriska ledningsförmåga, mekanisk styrka, åldringsegenskaper och påverkan av temperaturvariationer.
+
+1.2 Utformning och tillverkning
+
+1.2.1 Utrustning och säkerhetssystem ska utformas och tillverkas med hänsyn till den tekniska kunskapen om explosionsskydd, så att de kan fungera säkert under hela sin förväntade livstid.
+
+1.2.2 Komponenter som ska monteras i utrustning eller säkerhetssystem eller användas som reservdelar ska utformas och tillverkas så att de fungerar säkert vid avsedd användning för explosionsskydd, om de installeras enligt tillverkarens instruktioner.
+
+1.2.3 Slutna strukturer och förhindrande av läckor
+
+Utrustning som kan avge brännbara gaser eller brännbart stoft ska i största möjliga utsträckning utformas som slutna strukturer.
+
+Om utrustningen innehåller öppningar eller otäta kopplingar ska dessa så långt möjligt utformas så att utsläpp av gas eller stoft inte kan leda till explosiva omgivningar utanför utrustningen.
+
+Öppningar för påfyllning eller tömning ska så långt möjligt utformas och utrustas så att utsläpp av brännbart material begränsas under påfyllning och tömning.
+
+1.2.4 Dammavlagring
+
+Utrustning och säkerhetssystem som är avsedda att användas i områden som är utsatta för damm ska utformas så att dammavlagringar på ytan inte antänds.
+
+Allmänt sett ska dammavlagringar begränsas i största möjliga utsträckning. Utrustning och säkerhetssystem måste vara lätta att rengöra.
+
+Yttemperaturen på delarna av utrustningen måste hållas betydligt lägre än glödtemperaturen för dammavlagringarna.
+
+Hänsyn måste tas till dammlagrets tjocklek och då så är lämpligt ska åtgärder vidtas för att begränsa temperaturen för att förhindra värmeackumulation.
+
+1.2.5 Kompletterande skyddsanordningar
+
+Utrustning och säkerhetssystem som kan utsättas för vissa typer av yttre påverkan ska vid behov förses med kompletterande skyddsanordningar.
+
+Utrustningen måste kunna motstå förutsebar påverkan utan att explosionsskyddet påverkas negativt.
+
+1.2.6 Säkerhet vid öppning
+
+Om utrustningen och säkerhetssystemen är placerade i ett hölje eller en sluten behållare som är en del av själva explosionsskyddet, får höljet eller behållaren endast kunna öppnas med ett särskilt redskap eller under användning av lämpliga skyddsåtgärder.
+
+1.2.7 Skydd mot andra faror
+
+Utrustning och säkerhetssystem ska utformas så att
+
+a)
+
+fysiska och andra skador vid direkt och indirekt kontakt undviks,
+
+b)
+
+det kan garanteras att yttemperaturer på åtkomliga delar eller strålning som kan orsaka fara inte uppstår,
+
+c)
+
+icke-elektriska faror, som erfarenhetsmässigt visat sig kunna uppträda, elimineras,
+
+d)
+
+det kan garanteras att sådan överbelastning som kan förutses inte orsakar tillbud.
+
+Om sådana faror i samband med utrustning och säkerhetssystem som avses i denna punkt helt eller delvis omfattas av annan unionslagstiftning, ska detta direktiv inte tillämpas eller upphöra att tillämpas i fråga om sådan utrustning, sådana säkerhetssystem och sådana faror från och med att denna särskilda unionslagstiftning sätts i kraft.
+
+1.2.8 Överbelastning av utrustningen
+
+Farlig överbelastning av utrustningen ska förhindras på projekteringsstadiet genom inbyggda mät-, regler- och kontrollanordningar, som t.ex. överströmbrytare, termostater, differentialtryckströmställare, mängdmätare, trögverkande reläer, varvräknare och/eller liknande slag av kontrollanordningar.
+
+1.2.9 Explosionssäkra inkapslingssystem
+
+Om delar som kan antända explosiv omgivning kapslas in, ska åtgärder vidtas för att säkerställa att inkapslingen motstår det tryck som utvecklas vid en inre explosion av en explosiv blandning och att den förhindrar att explosionen sprids till den explosiva omgivningen kring inkapslingen.
+
+1.3 Potentiella antändningskällor
+
+1.3.1 Faror som orsakas av olika antändningskällor
+
+Potentiella antändningskällor, som gnistor, flammor, ljusbågar, höga yttemperaturer, akustisk energi, optisk strålning, elektromagnetiska vågor och andra antändningskällor, får inte förekomma.
+
+1.3.2 Faror som orsakas av statisk elektricitet
+
+Ackumulering av statisk elektricitet som kan leda till farliga urladdningar måste förhindras med lämpliga medel.
+
+1.3.3 Faror som orsakas av läckström
+
+Det måste förhindras att läckström uppstår i elektriskt ledande delar av utrustningen, vilket t.ex. kan ge upphov till farlig korrosion, överhettning av ytor eller gnistor som kan orsaka antändning.
+
+1.3.4 Faror som orsakas av överhettning
+
+Överhettning som orsakas av friktion eller stötar, t.ex. mellan material och delar som kommer i kontakt med varandra vid rotation eller genom främmande föremål, ska så långt möjligt förhindras på projekteringsstadiet.
+
+1.3.5 Faror vid tryckutjämning
+
+Tryckutjämning i utrustning och säkerhetssystem ska genom dessas utformning eller med hjälp av inbyggda mät-, kontroll- och regleranordningar inte kunna orsaka tryckvågor eller kompressioner som kan leda till antändning.
+
+1.4 Faror som orsakas av yttre påverkan
+
+1.4.1 Utrustning och säkerhetssystem ska utformas och tillverkas så att de kan fullgöra sin avsedda funktion på ett helt säkert sätt även under växlande miljöbetingelser och i närvaro av yttre elektrisk spänning, fuktighet, vibrationer, kontaminering och annan yttre påverkan under de driftsbetingelser som angivits av tillverkaren.
+
+1.4.2 Utrustningens delar ska vara lämpade för förväntade mekaniska och termiska påfrestningar och kunna motstå angrepp från befintliga eller förutsebara aggressiva substanser.
+
+1.5 Krav i fråga om säkerhetsanordningar
+
+1.5.1 Säkerhetsanordningar ska kunna fungera oberoende av de mät- och/eller kontrollanordningar som är nödvändiga för driften.
+
+Om möjligt ska fel på en säkerhetsanordning med hjälp av lämpliga tekniska medel kunna upptäckas tillräckligt snabbt för att sannolikheten för att farliga situationer ska uppstå ska vara mycket liten.
+
+Som allmän regel ska självskyddsprincipen tillämpas.
+
+Säkerhetsmässiga manövrer ska som allmän regel direkt påverka de relevanta kontrollanordningarna utan mellanliggande programkommando.
+
+1.5.2 Vid fel på en säkerhetsanordning ska utrustning och/eller säkerhetssystem så långt möjligt säkras.
+
+1.5.3 Nödstoppskontroller på säkerhetsanordningar ska så långt möjligt vara försedda med återstartsspärr. Vid normalt handhavande ska ett nytt startkommando endast kunna verkställas efter det att återstartsspärrarna medvetet har återställts.
+
+1.5.4 Styrenheter och monitorer
+
+Om styrenheter och monitorer används måste de vara utformade enligt ergonomiska principer så att högsta möjliga nivå kan erhållas på driftssäkerheten i fråga om explosionsrisker.
+
+1.5.5 Krav för anordningar med mätfunktion i samband med explosionsskydd
+
+Anordningar med mätfunktion ska, i den mån de används på utrustning i explosionsfarlig miljö, vara utformade och tillverkade så att de motsvarar förutsebara driftsmässiga krav och särskilda användningsbetingelser.
+
+1.5.6 Anordningar med mätfunktion ska vid behov kunna kontrolleras i fråga om avläsningssäkerhet och funktionsduglighet.
+
+1.5.7 Vid utformningen av anordningar med mätfunktion ska en säkerhetsfaktor användas som säkerställer att alarmtröskeln ligger tillräckligt långt under explosions- och/eller antändningsgränsen för den atmosfär som ska registreras, varvid särskild hänsyn ska tas till anläggningens driftsförhållanden och möjliga avvikelser i mätsystemet.
+
+1.5.8 Risker som orsakas av programvaran
+
+Vid utformningen av utrustning, säkerhetssystem och säkerhetsanordningar med datastyrning måste särskild uppmärksamhet ägnas de risker som kan orsakas av programvarufel.
+
+1.6 Krav på systemsäkerhet
+
+1.6.1 Det måste vara möjligt att genom manuellt överordnat kommando stänga utrustning och säkerhetssystem som ingår i automatiska processer som avviker från avsedda driftsförhållanden, förutsatt att säkerheten inte minskas därigenom.
+
+1.6.2 När nödstoppssystemet aktiveras måste den ackumulerade energin avledas så snabbt och säkert som möjligt eller isoleras så att fara inte längre föreligger.
+
+Detta gäller inte elektrokemiskt lagrad energi.
+
+1.6.3 Faror vid strömavbrott
+
+Om utrustning och säkerhetssystem kan orsaka spridning av ytterligare risker vid strömavbrott måste det vara möjligt att bevara deras driftssäkerhet oberoende av övriga delar av anläggningen.
+
+1.6.4 Faror som orsakas av anslutningar
+
+Utrustning och säkerhetssystem ska vara försedda med lämpliga kabel- och ledningsinföringar.
+
+Om utrustning och säkerhetssystem ska användas i kombination med annan utrustning och andra säkerhetssystem måste förbindelserna vara säkra.
+
+1.6.5 Montering av larmanordningar på utrustning
+
+Om utrustning eller säkerhetssystem är försedda med detektions- eller larmanordningar för kontroll av explosiv atmosfär måste nödvändiga instruktioner ges för en korrekt placering av dessa.
+
+2. Kompletterande krav i fråga om utrustning
+
+2.0 Krav på utrustning i utrustningsgrupp I
+
+2.0.1 Krav tillämpliga på utrustningskategori M 1 i utrustningsgrupp I
+
+2.0.1.1
+
+Utrustningen måste vara utformad och tillverkad så att antändningskällor inte blir aktiva ens vid undantagsvis förekommande störningar som berör utrustningen.
+
+Utrustningen måste vara försedd med skyddsanordningar så att
+
+—
+
+antingen minst en andra oberoende skyddsanordning garanterar den skyddsnivå som krävs, om en skyddsanordning slås ut,
+
+—
+
+eller den skyddsnivå som krävs garanteras även om två fel inträffar oberoende av varandra.
+
+Vid behov ska utrustningen vara försedd med ytterligare särskilda skyddsanordningar.
+
+Utrustningen ska förbli funktionsduglig i explosiv atmosfär.
+
+2.0.1.2
+
+Utrustningen ska vid behov tillverkas så att damm inte kan tränga in i den.
+
+2.0.1.3
+
+Yttemperaturerna på delarna av utrustningen måste hållas klart under antändningstemperaturen för förutsebara luft-/stoftblandningar så att uppvirvlat stoft inte antänds.
+
+2.0.1.4
+
+Utrustningen måste vara utformad så att de delar av den som kan vara antändningskällor endast kan öppnas om energitillförseln är avbruten eller om förhållandena är helt säkra. Om det inte är möjligt att avbryta energitillförseln måste tillverkaren anbringa ett varningsmärke på den del av utrustningen som kan öppnas.
+
+Vid behov ska utrustningen förses med lämpliga kompletterande låsanordningar.
+
+2.0.2 Krav tillämpliga på utrustningskategori M 2 i utrustningsgrupp I
+
+2.0.2.1
+
+Utrustningen måste vara försedd med säkerhetsanordningar som garanterar att antändningskällor inte aktiveras under normal drift ens under svårare driftsförhållanden, särskilt sådana som orsakas av omild behandling och växlande miljöförhållanden.
+
+Utrustningen ska vara konstruerad så att energitillförseln avbryts vid explosiv atmosfär.
+
+2.0.2.2
+
+Utrustningen måste vara utformad så att de delar av den som kan vara antändningskällor endast kan öppnas om energitillförseln är avbruten eller med lämpliga låsanordningar. Om det inte är möjligt att avbryta energitillförseln måste tillverkaren anbringa ett varningsmärke på den del av utrustningen som kan öppnas.
+
+2.0.2.3
+
+Kraven beträffande explosionsrisker orsakade av stoft för utrustningskategori M 1 ska tillämpas även på denna kategori.
+
+2.1 Krav tillämpliga på utrustningskategori 1 i utrustningsgrupp II
+
+2.1.1 Explosiv atmosfär orsakad av gas, ånga eller imma
+
+2.1.1.1
+
+Utrustningen måste vara utformad och tillverkad så att antändningskällor inte blir aktiva ens vid undantagsvis förekommande störningar som berör utrustningen.
+
+Utrustningen måste vara försedd med skyddsanordningar så att
+
+—
+
+antingen minst en andra oberoende skyddsanordning garanterar den skyddsnivå som krävs, om en skyddsanordning slås ut,
+
+—
+
+eller den skyddsnivå som krävs garanteras även om två fel inträffar oberoende av varandra.
+
+2.1.1.2
+
+I fråga om utrustning vars yta kan hettas upp måste åtgärder vidtas för att säkerställa att de angivna maximala yttemperaturerna inte överskrids ens under maximalt ogynnsamma förhållanden.
+
+Även temperaturökningar till följd av ackumulerad värme och kemiska reaktioner ska beaktas.
+
+2.1.1.3
+
+Utrustningen måste vara utformad så att de delar av den som kan vara antändningskällor endast kan öppnas om energitillförseln är avbruten eller om förhållandena är helt säkra. Om det inte är möjligt att avbryta energitillförseln måste tillverkaren anbringa ett varningsmärke på den del av utrustningen som kan öppnas.
+
+Vid behov ska utrustningen förses med lämpliga kompletterande låsanordningar.
+
+2.1.2 Explosiv atmosfär orsakad av luft-/stoftblandningar
+
+2.1.2.1
+
+Utrustningen måste vara utformad och tillverkad så att antändning av luft-/stoftblandningar inte inträffar ens vid undantagsvis förekommande störningar.
+
+Utrustningen måste vara försedd med skyddsanordningar så att
+
+—
+
+antingen minst en andra oberoende skyddsanordning garanterar den skyddsnivå som krävs, om en skyddsanordning slås ut,
+
+—
+
+eller den skyddsnivå som krävs garanteras även om två fel inträffar oberoende av varandra.
+
+2.1.2.2
+
+Då så är nödvändigt ska utrustningen vara utformad så att stoft endast kan tränga in i eller ut ur utrustningen på särskilt utmärkta ställen.
+
+Detta krav måste även uppfyllas av kabelinföringar och anslutande delar.
+
+2.1.2.3
+
+Yttemperaturen på delarna av utrustningen måste hållas klart under antändningstemperaturen för förutsägbara luft-/stoftblandningar så att antändning av uppvirvlat stoft förhindras.
+
+2.1.2.4
+
+I fråga om säkerheten vid öppnandet av utrustningens delar ska krav 2.1.1.3 gälla.
+
+2.2 Krav tillämpliga på utrustningskategori 2 i utrustningsgrupp II
+
+2.2.1 Explosiv atmosfär orsakad av gas, ånga eller imma
+
+2.2.1.1
+
+Utrustningen måste vara utformad och tillverkad så att antändningskällor inte kan uppstå ens vid täta störningar eller fel i utrustningens funktion, som normalt måste tas med i beräkningen.
+
+2.2.1.2
+
+Utrustningens delar måste vara utformade och tillverkade så att de angivna yttemperaturerna inte överskrids ens vid risker som uppstår i exceptionella situationer som kan förutses av tillverkaren.
+
+2.2.1.3
+
+Utrustningen måste vara utformad så att de delar av den som kan vara antändningskällor endast kan öppnas om energitillförseln är avbruten eller med lämpliga låsanordningar. Om det inte är möjligt att avbryta energitillförseln måste tillverkaren anbringa ett varningsmärke på den del av utrustningen som kan öppnas.
+
+2.2.2 Explosiv atmosfär orsakad av luft-/stoftblandningar
+
+2.2.2.1
+
+Utrustningen måste vara utformad och tillverkad så att antändning av luft-/stoftblandningar inte inträffar ens vid täta störningar eller fel i utrustningens funktion, som normalt måste tas med i beräkningen.
+
+2.2.2.2
+
+Yttemperaturer: krav 2.1.2.3 ska gälla.
+
+2.2.2.3
+
+Skydd mot damm: krav 2.1.2.2 ska gälla.
+
+2.2.2.4
+
+Säkerhet vid öppning av utrustningens delar: krav 2.2.1.3 ska gälla.
+
+2.3 Krav tillämpliga på utrustningskategori 3 i utrustningsgrupp II
+
+2.3.1 Explosiv atmosfär orsakad av gas, ånga eller imma
+
+2.3.1.1
+
+Utrustningen måste utformas och tillverkas så att förutsebara antändningskällor som kan uppstå vid normal drift inte kan förekomma.
+
+2.3.1.2
+
+Yttemperaturerna får inte överskrida de angivna maximala yttemperaturerna om utrustningen används under de förhållanden den är avsedd för. Högre temperaturer får endast tillåtas i undantagsfall om tillverkaren tillämpar särskilda kompletterande skyddsåtgärder.
+
+2.3.2 Explosiv atmosfär orsakad av luft-/stoftblandningar
+
+2.3.2.1
+
+Utrustningen måste vara utformad och tillverkad så att luft-/stoftblandningar inte kan antändas av sådana förutsebara antändningskällor som kan förekomma vid normal drift.
+
+2.3.2.2
+
+Yttemperaturer: krav 2.1.2.3 ska gälla.
+
+2.3.2.3
+
+Utrustningen, inklusive kabelinföringar och anslutande delar, ska vara tillverkad med hänsyn till stoftpartiklarnas storlek så att explosiva luft-/stoftblandningar eller farliga avlagringar inuti utrustningen inte kan utvecklas.
+
+3. Kompletterande krav på säkerhetssystem
+
+3.0 Allmänna krav
+
+3.0.1 Säkerhetssystem ska vara dimensionerade så att följderna av en explosion nedbringas till tillräcklig säkerhetsnivå.
+
+3.0.2 Säkerhetssystem ska vara utformade och kunna placeras så att det kan förhindras att explosioner sprider sig genom farliga kedjereaktioner eller överslag och att begynnande explosioner inte detonerar.
+
+3.0.3 Säkerhetssystemen ska kunna behålla sin funktionsförmåga vid strömavbrott under tillräckligt lång tid för att farliga situationer ska kunna undvikas.
+
+3.0.4 Säkerhetssystem får inte slås ut genom extern påverkan.
+
+3.1 Projektering och utformning
+
+3.1.1 Materialegenskaper
+
+Det maximitryck och den maximitemperatur som ska användas på projekteringsstadiet i fråga om materialegenskaper är det förväntade trycket vid en explosion som inträffar under extrema driftsförhållanden och den temperatur som orsakas av eldens beräknade uppvärmningseffekt.
+
+3.1.2 Säkerhetssystem som är projekterade för att motstå eller begränsa explosioner måste kunna motstå de tryckvågor som framkallas utan skador.
+
+3.1.3 Tillbehör som ansluts till säkerhetssystem ska kunna motstå det förväntade maximala explosionstrycket utan att förlora sin funktionsförmåga.
+
+3.1.4 Vid projekteringen och utformningen av säkerhetssystem ska hänsyn tas till reaktioner orsakade av trycket i tillbehör och röranslutningar.
+
+3.1.5 Tryckutjämningssystem
+
+Om det kan antas att påfrestningarna på säkerhetssystemen kommer att överstiga dessas hållfasthet måste systemen utformas med lämpliga tryckutjämningsanordningar som inte medför fara för personer som befinner sig i närheten.
+
+3.1.6 System för undertryckande av explosioner
+
+System för undertryckande av explosioner måste projekteras och utformas så att de reagerar på en begynnande explosion på ett så tidigt stadium av tillbudet som möjligt och motverkar denna optimalt med hänsyn till maximal tryckökningshastighet och maximalt explosionstryck.
+
+3.1.7 Explosionsurkopplingssystem
+
+Urkopplingssystem som är avsedda att koppla ur särskild utrustning snarast möjligt vid begynnande explosioner med hjälp av lämpliga anordningar ska projekteras och utformas så att de behåller sin motståndskraft mot brand som sprids inuti systemet och sin mekaniska styrka under normala driftsförhållanden.
+
+3.1.8 Säkerhetssystem måste kunna byggas in i en krets med lämplig larmtröskel, så att då så krävs till- och utförsel av produkter avbryts och de delar av utrustningen som inte längre kan fungera på ett säkert sätt slås av.
+
+BILAGA III
+
+MODUL B: EU-TYPKONTROLL
+
+1.
+
+EU-typkontroll är den del av ett förfarande för bedömning av överensstämmelse genom vilken ett anmält organ undersöker en produkts tekniska konstruktion och kontrollerar och intygar att den uppfyller de tillämpliga kraven i detta direktiv.
+
+2.
+
+EU-typkontrollen ska utföras i form av en undersökning av ett provexemplar av den kompletta produkten (produktionstyp) som är representativt för produktionen i fråga.
+
+3.
+
+Tillverkaren ska lämna in en ansökan om EU-typkontroll till ett valfritt anmält organ.
+
+Ansökan ska innehålla följande:
+
+a)
+
+Tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens representant, även dennes namn och adress.
+
+b)
+
+En skriftlig försäkran om att samma ansökan inte har lämnats till något annat anmält organ.
+
+c)
+
+Den tekniska dokumentationen. Den tekniska dokumentationen ska göra det möjligt att bedöma om produkten uppfyller de tillämpliga kraven i detta direktiv och innehålla en tillfredsställande analys och bedömning av riskerna. Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av produktens konstruktion, tillverkning och funktion. Den tekniska dokumentationen ska innehålla minst följande:
+
+i)
+
+En allmän beskrivning av produkten.
+
+ii)
+
+Konstruktions- och tillverkningsritningar samt scheman över komponenter, delmonteringar, kretsar etc.
+
+iii)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur produkten fungerar.
+
+iv)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de grundläggande hälso- och säkerhetskraven i detta direktiv, inbegripet en förteckning över andra relevanta tekniska föreskrifter som följts. När det gäller harmoniserade standarder som följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+v)
+
+Resultat av konstruktionsberäkningar och undersökningar etc.
+
+vi)
+
+Provningsrapporter.
+
+d)
+
+Provexemplar som är representativa för den planerade produktionen. Det anmälda organet kan vid behov begära in fler provexemplar för att genomföra provningsprogrammet.
+
+4.
+
+Det anmälda organet ska göra följande:
+
+4.1
+
+Granska den tekniska dokumentationen, kontrollera att provexemplaret eller provexemplaren har tillverkats i överensstämmelse med den tekniska dokumentationen samt identifiera såväl de delar som är konstruerade enligt de tillämpliga bestämmelserna i de relevanta harmoniserade standarderna, som de delar som är konstruerade i enlighet med andra relevanta tekniska specifikationer.
+
+4.2
+
+Utföra eller låta utföra lämpliga undersökningar och provningar för att, i de fall tillverkaren har valt att använda lösningarna i de relevanta harmoniserade standarderna, kontrollera att dessa lösningar har använts på rätt sätt.
+
+4.3
+
+Utföra eller låta utföra lämpliga undersökningar och provningar för att, i de fall där lösningarna i de relevanta harmoniserade standarderna inte har tillämpats, kontrollera att de lösningar som tillverkaren använt, tillämpning av andra relevanta tekniska specifikationer, uppfyller de motsvarande grundläggande hälso- och säkerhetskraven i detta direktiv.
+
+4.4
+
+I samråd med tillverkaren bestämma på vilken plats undersökningarna och de nödvändiga proven ska genomföras.
+
+5.
+
+Det anmälda organet ska utarbeta en utvärderingsrapport där det anges vilka åtgärder som har vidtagits i enlighet med punkt 4 och vad de har resulterat i. Utan att det påverkar det anmälda organets skyldigheter gentemot de anmälande myndigheterna får organet inte offentliggöra hela eller delar av innehållet i rapporten utan tillverkarens samtycke.
+
+6.
+
+Om typen uppfyller de krav i detta direktiv som är tillämpliga på den berörda produkten, ska det anmälda organet utfärda ett EU-typintyg till tillverkaren. Det intyget ska innehålla tillverkarens namn och adress, slutsatserna av undersökningen, eventuella giltighetsvillkor samt de uppgifter som krävs för att identifiera den godkända typen. EU-typintyget kan ha en eller flera bilagor.
+
+EU-typintyget och bilagorna ska innehålla all information som behövs för att bedöma om de tillverkade produkterna överensstämmer med den undersökta typen och för att kontrollera produkter i bruk.
+
+Om typen inte uppfyller de tillämpliga kraven i detta direktiv ska det anmälda organet avslå ansökan om EU-typintyg och underrätta den sökande om detta samt utförligt motivera avslaget.
+
+7.
+
+Det anmälda organet ska följa med i den tekniska utvecklingen, och om det visar sig att den godkända typen inte längre uppfyller de tillämpliga kraven i detta direktiv ska organet fastställa om det krävs ytterligare undersökningar. Om så är fallet ska det anmälda organet underrätta tillverkaren om detta.
+
+Tillverkaren ska underrätta det anmälda organ som hos sig bevarar den tekniska dokumentationen för EU-typintyget om alla ändringar av den godkända typen som kan påverka produktens överensstämmelse med de grundläggande säkerhetskraven i detta direktiv eller villkoren för det intygets giltighet. För sådana ändringar krävs ytterligare godkännande i form av ett tillägg till det ursprungliga EU-typintyget.
+
+8.
+
+Varje anmält organ ska underrätta sin anmälande myndighet om de EU-typintyg och/eller eventuella tillägg till dessa som det har utfärdat eller dragit tillbaka, och det ska regelbundet eller på begäran ge den anmälande myndigheten tillgång till förteckningen över sådana intyg och/eller tillägg till dessa som det har avslagit, tillfälligt dragit tillbaka eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de EU-typintyg och/eller tillägg till dessa som det har avslagit, tillfälligt eller slutgiltigt återkallat eller på annat sätt belagt med restriktioner och, på begäran, om sådana intyg och/eller tillägg som det har utfärdat.
+
+Kommissionen, medlemsstaterna och övriga anmälda organ har rätt att på begäran få en kopia av EU-typintyget och/eller tilläggen till det. Kommissionen och medlemsstaterna har rätt att på begäran få en kopia av den tekniska dokumentationen och av resultaten från de undersökningar som utförts av det anmälda organet. Det anmälda organet ska förvara en kopia av EU-typintyget med bilagor och tillägg samt det tekniska underlaget, inklusive dokumentation från tillverkaren, så länge som det intyget är giltigt.
+
+9.
+
+Tillverkaren ska för de nationella myndigheterna kunna uppvisa en kopia av EU-typintyget med bilagor och tillägg tillsammans med den tekniska dokumentationen i tio år efter det att produkten har släppts ut på marknaden.
+
+10.
+
+Tillverkarens representant får lämna in den ansökan som avses i punkt 3 och fullgöra skyldigheterna enligt punkterna 7 och 9, förutsatt att de specificeras i fullmakten.
+
+BILAGA IV
+
+MODUL D: ÖVERENSSTÄMMELSE MED TYP SOM GRUNDAR SIG PÅ KVALITETSSÄKRING AV PRODUKTIONEN
+
+1. Överensstämmelse med typ som grundar sig på kvalitetssäkring av produktionen är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2 och 5 samt säkerställer och försäkrar på eget ansvar att de berörda produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska tillämpa ett godkänt kvalitetssystem för tillverkning, slutkontroll och provning av de berörda produkterna i enlighet med punkt 3 och ska kontrolleras i enlighet med punkt 4.
+
+3. Kvalitetssystem
+
+3.1
+
+Tillverkaren ska hos ett valfritt anmält organ ansöka om att få sitt kvalitetssystem för de berörda produkterna bedömt.
+
+Ansökan ska innehålla
+
+a)
+
+tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens representant, även dennes namn och adress,
+
+b)
+
+en skriftlig försäkran om att samma ansökan inte har lämnats till något annat anmält organ,
+
+c)
+
+alla upplysningar av betydelse för den avsedda produktkategorin,
+
+d)
+
+dokumentation av kvalitetssystemet,
+
+e)
+
+den tekniska dokumentationen för den godkända typen, och en kopia av EU-typintyget.
+
+3.2
+
+Kvalitetssystemet ska säkerställa att produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+Alla faktorer, krav och bestämmelser som tillverkaren tagit hänsyn till ska dokumenteras på ett systematiskt och överskådligt sätt i form av skriftliga riktlinjer, förfaranden och instruktioner. Dokumentationen av kvalitetssystemet ska möjliggöra en enhetlig tolkning av kvalitetssystemets program, planer, manualer och protokoll.
+
+Dokumentationen ska framför allt innehålla en fullgod beskrivning av
+
+a)
+
+kvalitetsmål och organisationsstruktur samt ledningens ansvar och befogenheter beträffande produktkvaliteten,
+
+b)
+
+de motsvarande metoder, processer och systematiska förfaranden för tillverkning, kvalitetskontroll och kvalitetssäkring som kommer att användas,
+
+c)
+
+de undersökningar och provningar som kommer att utföras före, under och efter tillverkningen samt hur ofta dessa kommer att utföras,
+
+d)
+
+kvalitetsdokumenten, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för den berörda personalens kvalifikationer etc.
+
+e)
+
+metoder för övervakning av att den erforderliga produktkvaliteten uppnås och att kvalitetssystemet fungerar effektivt.
+
+3.3
+
+Det anmälda organet ska bedöma kvalitetssystemet för att avgöra om det uppfyller kraven i punkt 3.2.
+
+Det anmälda organet ska förutsätta att dessa krav är uppfyllda i fråga om de delar av kvalitetssystemet som överensstämmer med motsvarande specifikationer i relevant harmoniserad standard.
+
+Utöver erfarenhet av kvalitetsledningssystem ska minst en av revisionsgruppens deltagare ha erfarenhet av bedömning av det aktuella produktområdet och den berörda produkttekniken och känna till de tillämpliga kraven i detta direktiv. Revisionen ska även omfatta en inspektion hos tillverkaren. Revisionsgruppen ska granska den tekniska dokumentation som avses i punkt 3.1 e för att kontrollera att tillverkaren känner till de relevanta kraven i detta direktiv och för att utföra de undersökningar som krävs för att säkerställa att produkten överensstämmer med kraven.
+
+Tillverkaren ska meddelas beslutet. Meddelandet ska innehålla slutsatserna från revisionen och det motiverade beslutet.
+
+3.4
+
+Tillverkaren ska åta sig att fullgöra de skyldigheter som är förenade med det godkända kvalitetssystemet och att upprätthålla det så att det förblir ändamålsenligt och effektivt.
+
+3.5
+
+Tillverkaren ska underrätta det anmälda organ som har godkänt kvalitetssystemet om alla ändringar som planeras i systemet.
+
+Det anmälda organet ska bedöma de föreslagna ändringarna och avgöra om ett ändrat kvalitetssystem fortfarande uppfyller de krav som avses i punkt 3.2 eller om en ny bedömning är nödvändig.
+
+Organet ska meddela tillverkaren sitt beslut. Meddelandet ska innehålla slutsatserna från undersökningen och det motiverade beslutet.
+
+4. Kontroll under det anmälda organets ansvar
+
+4.1
+
+Syftet med kontrollen är att försäkra sig om att tillverkaren fullgör de skyldigheter som är förenade med det godkända kvalitetssystemet.
+
+4.2
+
+För att möjliggöra en bedömning ska tillverkaren ge det anmälda organet tillträde till lokaler för tillverkning, kontroll, provning och förvaring och tillhandahålla all nödvändig information, särskilt i fråga om
+
+a)
+
+dokumentationen av kvalitetssystemet,
+
+b)
+
+kvalitetsdokumenten, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för den berörda personalens kvalifikationer etc.
+
+4.3
+
+Det anmälda organet ska regelbundet genomföra revisioner för att försäkra sig om att tillverkaren upprätthåller och tillämpar kvalitetssystemet och ska lämna en revisionsberättelse till tillverkaren.
+
+4.4
+
+Det anmälda organet får dessutom göra oanmälda besök hos tillverkaren. Under sådana besök får det anmälda organet vid behov utföra eller låta utföra produktprovningar för att kontrollera att kvalitetssystemet fungerar korrekt. Det anmälda organet ska lämna en besöksrapport till tillverkaren och, om provning har utförts, en provningsrapport.
+
+5. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen och, under ansvar av det anmälda organ som avses i punkt 3.1, organets identifikationsnummer på varje enskild produkt, med undantag för komponenter, som överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje produktmodell, med undantag för komponenter, och kunna uppvisa den för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produktmodell den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+5.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse för varje komponentmodell och kunna uppvisa den för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent den har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+6. Tillverkaren ska under tio år efter det att en produkt har släppts ut på marknaden kunna uppvisa följande för de nationella myndigheterna:
+
+a)
+
+Den dokumentation som avses i punkt 3.1.
+
+b)
+
+Information avseende sådana godkännanden av ändringar som avses i punkt 3.5.
+
+c)
+
+Sådana beslut och rapporter från det anmälda organet som avses i punkterna 3.5, 4.3 och 4.4.
+
+7. Varje anmält organ ska underrätta sin anmälande myndighet om de godkännanden av kvalitetssystem som det har utfärdat eller dragit tillbaka och ska regelbundet eller på begäran ge den anmälande myndigheten tillgång till förteckningen över de godkännanden av kvalitetssystem som det har avslagit, tillfälligt dragit tillbaka eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de godkännanden av kvalitetssystem som det har avslagit, tillfälligt eller permanent dragit tillbaka eller på annat sätt belagt med restriktioner och, på begäran, om de godkännanden av kvalitetssystem som det har utfärdat.
+
+8. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkterna 3.1, 3.5, 5 och 6 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA V
+
+MODUL F: ÖVERENSSTÄMMELSE MED TYP SOM GRUNDAR SIG PÅ PRODUKTVERIFIERING
+
+1. Överensstämmelse med typ som grundar sig på produktverifiering är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2 och 5 samt säkerställer och försäkrar på eget ansvar att de berörda produkterna, som har genomgått kontroll i enlighet med punkt 3, överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att de tillverkade produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+3. Kontroll
+
+Ett anmält organ, som tillverkaren har valt, ska utföra eller låta utföra undersökningar och provningar för att kontrollera att produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+Undersökningarna och provningarna för att kontrollera att produkterna uppfyller de tillämpliga kraven ska utföras genom undersökning och provning av varje enskild produkt i enlighet med punkt 4.
+
+4. Kontroll av överensstämmelse genom undersökning och provning av varje enskild produkt
+
+4.1
+
+Alla produkter ska undersökas var för sig och provningar i enlighet med relevanta harmoniserade standarder och/eller likvärdiga provningar i enlighet med andra relevanta tekniska specifikationer ska utföras för att fastställa om produkterna överensstämmer med den godkända typen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+Om det inte finns någon harmoniserad standard ska det berörda anmälda organet bestämma vilka provningar som ska utföras.
+
+4.2
+
+Det anmälda organet ska utfärda ett intyg om överensstämmelse i fråga om de utförda undersökningarna och provningarna och ska anbringa sitt identifikationsnummer på den godkända produkten, eller låta anbringa det under sitt ansvar.
+
+Tillverkaren ska hålla intygen om överensstämmelse tillgängliga för de nationella myndigheterna i tio år efter det att produkten har släppts ut på marknaden.
+
+5. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen och, under ansvar av det anmälda organ som avses i punkt 3, organets identifikationsnummer på varje enskild produkt, med undantag för komponenter, som överensstämmer med den godkända typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje produktmodell, med undantag för komponenter, och kunna uppvisa den för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produktmodell den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+Om det anmälda organ som avses i punkt 3 godkänner det får tillverkaren också, under organets ansvar, anbringa dess identifikationsnummer på produkterna, med undantag för komponenter.
+
+5.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse för varje komponentmodell och kunna uppvisa det för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent det har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+6. Om det anmälda organ som avses i punkt 3 godkänner det får tillverkaren också, under organets ansvar, anbringa dess identifikationsnummer på produkterna.
+
+7. Tillverkarens representant
+
+Tillverkarens skyldigheter får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten. Tillverkarens representant får inte fullgöra någon av de skyldigheter som åligger tillverkaren i enlighet med punkt 2.
+
+BILAGA VI
+
+MODUL C1: ÖVERENSSTÄMMELSE MED TYP SOM GRUNDAR SIG PÅ INTERN TILLVERKNINGSKONTROLL OCH ÖVERVAKADE PRODUKTKONTROLLER
+
+1. Överensstämmelse med typ som grundar sig på intern tillverkningskontroll och övervakade produktkontroller är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2, 3 och 4 och säkerställer och försäkrar på eget ansvar att de berörda produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att de tillverkade produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+3. Produktkontroller
+
+För varje tillverkad produkt ska en eller flera provningar av särskilda produktaspekter utföras av tillverkaren eller för dennes räkning för att kontrollera att produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med motsvarande krav i detta direktiv. Provningarna ska utföras av ett anmält organ som tillverkaren valt.
+
+Tillverkaren ska, under det anmälda organets ansvar, anbringa det anmälda organets identifikationsnummer under tillverkningen.
+
+4. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+4.1
+
+Tillverkaren ska anbringa CE-märkningen på varje enskild produkt, med undantag för komponenter, som överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+4.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för en produktmodell, med undantag för komponenter, och kunna uppvisa den för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produkt den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+4.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse för varje komponentmodell och kunna uppvisa det för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent det har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+5. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 4 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA VII
+
+MODUL E: ÖVERENSSTÄMMELSE MED TYP SOM GRUNDAR SIG PÅ KVALITETSSÄKRING AV PRODUKTER
+
+1. Överensstämmelse med typ som grundar sig på kvalitetssäkring av produkter är den del av ett förfarande för bedömning av överensstämmelse genom vilken tillverkaren fullgör skyldigheterna i punkterna 2 och 5 samt säkerställer och försäkrar på eget ansvar att de berörda produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Tillverkning
+
+Tillverkaren ska tillämpa ett godkänt kvalitetssystem för slutkontroll och provning av de berörda produkterna i enlighet med punkt 3 och ska kontrolleras i enlighet med punkt 4.
+
+3. Kvalitetssystem
+
+3.1
+
+Tillverkaren ska hos ett valfritt anmält organ ansöka om att få sitt kvalitetssystem för de berörda produkterna bedömt.
+
+Ansökan ska innehålla
+
+a)
+
+tillverkarens namn och adress och, om ansökan lämnas in av tillverkarens representant, även dennes namn och adress,
+
+b)
+
+en skriftlig försäkran om att samma ansökan inte har lämnats till något annat anmält organ,
+
+c)
+
+alla upplysningar av betydelse för den avsedda produktkategorin,
+
+d)
+
+dokumentation av kvalitetssystemet, och
+
+e)
+
+den tekniska dokumentationen för den godkända typen, och en kopia av EU-typintyget.
+
+3.2
+
+Kvalitetssystemet ska säkerställa att produkterna överensstämmer med typen enligt beskrivningen i EU-typintyget och med de tillämpliga kraven i detta direktiv.
+
+Alla faktorer, krav och bestämmelser som tillverkaren tagit hänsyn till ska dokumenteras på ett systematiskt och överskådligt sätt i form av skriftliga riktlinjer, förfaranden och instruktioner. Dokumentationen av kvalitetssystemet ska möjliggöra en enhetlig tolkning av kvalitetssystemets program, planer, manualer och protokoll.
+
+Dokumentationen ska framför allt innehålla en fullgod beskrivning av
+
+a)
+
+kvalitetsmål och organisationsstruktur samt ledningens ansvar och befogenheter beträffande produktkvaliteten,
+
+b)
+
+de undersökningar och provningar som ska utföras efter tillverkningen,
+
+c)
+
+kvalitetsdokumenten, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för den berörda personalens kvalifikationer etc.
+
+d)
+
+metoder för övervakning av att kvalitetssystemet fungerar effektivt.
+
+3.3
+
+Det anmälda organet ska bedöma kvalitetssystemet för att avgöra om det uppfyller kraven i punkt 3.2.
+
+Det anmälda organet ska förutsätta att dessa krav är uppfyllda i fråga om de delar av kvalitetssystemet som överensstämmer med motsvarande specifikationer i relevant harmoniserad standard.
+
+Utöver erfarenhet av kvalitetsledningssystem ska minst en av revisionsgruppens deltagare ha erfarenhet av bedömning av det aktuella produktområdet och den berörda produkttekniken, och känna till de tillämpliga kraven i detta direktiv. Revisionen ska även omfatta en inspektion hos tillverkaren. Revisionsgruppen ska granska den tekniska dokumentation som avses i punkt 3.1 e för att kontrollera att tillverkaren känner till de relevanta kraven i detta direktiv och för att utföra de undersökningar som krävs för att säkerställa att produkten överensstämmer med kraven.
+
+Tillverkaren ska meddelas beslutet. Meddelandet ska innehålla slutsatserna från revisionen och det motiverade beslutet.
+
+3.4
+
+Tillverkaren ska åta sig att fullgöra de skyldigheter som är förenade med det godkända kvalitetssystemet och att upprätthålla det så att det förblir ändamålsenligt och effektivt.
+
+3.5
+
+Tillverkaren ska underrätta det anmälda organ som har godkänt kvalitetssystemet om alla ändringar som planeras i systemet.
+
+Det anmälda organet ska bedöma de föreslagna ändringarna och avgöra om ett ändrat kvalitetssystem fortfarande uppfyller de krav som avses i punkt 3.2 eller om en ny bedömning är nödvändig.
+
+Det ska meddela tillverkaren sitt beslut. Meddelandet ska innehålla slutsatserna från undersökningen och det motiverade beslutet.
+
+4. Kontroll under det anmälda organets ansvar
+
+4.1
+
+Syftet med kontrollen är att försäkra sig om att tillverkaren fullgör de skyldigheter som är förenade med det godkända kvalitetssystemet.
+
+4.2
+
+För att möjliggöra en bedömning ska tillverkaren ge det anmälda organet tillträde till lokaler för tillverkning, kontroll, provning och förvaring och tillhandahålla all nödvändig information, särskilt i fråga om
+
+a)
+
+dokumentationen av kvalitetssystemet,
+
+b)
+
+kvalitetsdokumenten, t.ex. granskningsrapporter, provningsresultat, kalibreringsresultat och redogörelser för den berörda personalens kvalifikationer etc.
+
+4.3
+
+Det anmälda organet ska regelbundet genomföra revisioner för att försäkra sig om att tillverkaren upprätthåller och tillämpar kvalitetssystemet och ska lämna en revisionsberättelse till tillverkaren.
+
+4.4
+
+Det anmälda organet får dessutom göra oanmälda besök hos tillverkaren. Under sådana besök får det anmälda organet vid behov utföra eller låta utföra provningar av produkterna för att kontrollera att kvalitetssystemet fungerar korrekt. Det anmälda organet ska lämna en besöksrapport till tillverkaren och, om provning har utförts, en provningsrapport.
+
+5. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen och, under ansvar av det anmälda organ som avses i punkt 3.1, organets identifikationsnummer på varje enskild produkt, med undantag för komponenter, som överensstämmer med typen enligt beskrivningen i EU-typintyget och uppfyller de tillämpliga kraven i detta direktiv.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för varje produktmodell, med undantag för komponenter, och kunna uppvisa den för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produktmodell den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+5.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse för varje komponentmodell och kunna uppvisa det för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent det har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+6. Tillverkaren ska under tio år efter det att en produkt har släppts ut på marknaden kunna uppvisa följande för de nationella myndigheterna:
+
+a)
+
+Den dokumentation som avses i punkt 3.1.
+
+b)
+
+Information avseende sådana godkännanden av ändringar som avses i punkt 3.5.
+
+c)
+
+Sådana beslut och rapporter från det anmälda organet som avses i punkterna 3.5, 4.3 och 4.4.
+
+7. Varje anmält organ ska underrätta sin anmälande myndighet om de godkännanden av kvalitetssystem som det har utfärdat eller dragit tillbaka och ska regelbundet eller på begäran ge den anmälande myndigheten tillgång till förteckningen över de godkännanden av kvalitetssystem som det har avslagit, tillfälligt dragit tillbaka eller på annat sätt belagt med restriktioner.
+
+Varje anmält organ ska underrätta de övriga anmälda organen om de godkännanden av kvalitetssystem som det har avslagit eller tillfälligt eller slutgiltigt dragit tillbaka och, på begäran, om de godkännanden av kvalitetssystem som det har utfärdat.
+
+8. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkterna 3.1, 3.5, 5 och 6 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA VIII
+
+MODUL A: INTERN TILLVERKNINGSKONTROLL
+
+1. Intern tillverkningskontroll är det förfarande för bedömning av överensstämmelse genom vilket tillverkaren fullgör skyldigheterna i punkterna 2, 3 och 4 och säkerställer och försäkrar på eget ansvar att de berörda produkterna uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Teknisk dokumentation
+
+Tillverkaren ska upprätta den tekniska dokumentationen. Dokumentationen ska göra det möjligt att bedöma om produkten uppfyller de relevanta kraven och innehålla en tillfredsställande analys och bedömning av riskerna.
+
+Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av produktens konstruktion, tillverkning och funktion. Den tekniska dokumentationen ska innehålla minst följande:
+
+a)
+
+En allmän beskrivning av produkten.
+
+b)
+
+Konstruktions- och tillverkningsritningar samt scheman över komponenter, delmonteringar, kretsar etc.
+
+c)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur produkten fungerar.
+
+d)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de grundläggande säkerhetskraven i detta direktiv, inbegripet en förteckning över andra relevanta tekniska specifikationer som följts. När det gäller harmoniserade standarder som följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+e)
+
+Resultat av konstruktionsberäkningar och undersökningar etc.
+
+f)
+
+Provningsrapporter.
+
+3. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att de tillverkade produkterna överensstämmer med den tekniska dokumentation som avses i punkt 2 och uppfyller de tillämpliga kraven i detta direktiv.
+
+4. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+4.1
+
+Tillverkaren ska anbringa CE-märkningen, på varje enskild produkt, med undantag för komponenter, som uppfyller de tillämpliga kraven i detta direktiv.
+
+4.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse för en produktmodell, med undantag för komponenter, och kunna uppvisa den tillsammans med den tekniska dokumentationen för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produkt den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+4.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse för varje komponentmodell och kunna uppvisa det tillsammans med den tekniska dokumentationen för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent det har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+5. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkt 4 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA IX
+
+MODUL G: ÖVERENSSTÄMMELSE SOM GRUNDAR SIG PÅ KONTROLL AV ENSKILDA PRODUKTER
+
+1. Överensstämmelse som grundar sig på kontroll av enskilda produkter är det förfarande för bedömning av överensstämmelse genom vilket tillverkaren fullgör skyldigheterna i punkterna 2, 3 och 5 och säkerställer och försäkrar på eget ansvar att den berörda produkten, som har genomgått kontroll i enlighet med punkt 4, uppfyller de tillämpliga kraven i detta direktiv.
+
+2. Teknisk dokumentation
+
+2.1
+
+Tillverkaren ska upprätta den tekniska dokumentationen och göra den tillgänglig för det anmälda organ som avses i punkt 4. Dokumentationen ska göra det möjligt att bedöma om produkten uppfyller de relevanta kraven och innehålla en tillfredsställande analys och bedömning av riskerna. Den tekniska dokumentationen ska innehålla de tillämpliga kraven och, i den mån det krävs för bedömningen, även en beskrivning av produktens konstruktion, tillverkning och funktion. Den tekniska dokumentationen ska innehålla minst följande:
+
+a)
+
+En allmän beskrivning av produkten.
+
+b)
+
+Konstruktions- och tillverkningsritningar samt scheman över komponenter, delmonteringar, kretsar etc.
+
+c)
+
+Beskrivningar och förklaringar som behövs för att förstå dessa ritningar och scheman och hur produkten fungerar.
+
+d)
+
+En förteckning över de harmoniserade standarder som helt eller delvis har följts och till vilka hänvisningar har offentliggjorts i Europeiska unionens officiella tidning och, i de fall där de harmoniserade standarderna inte har följts, beskrivningar av de lösningar som har valts för att uppfylla de grundläggande säkerhetskraven i detta direktiv, inbegripet en förteckning över andra relevanta tekniska specifikationer som följts. När det gäller harmoniserade standarder som följts delvis ska det i den tekniska dokumentationen specificeras vilka delar som har tillämpats.
+
+e)
+
+Resultat av konstruktionsberäkningar och undersökningar etc.
+
+f)
+
+Provningsrapporter.
+
+2.2
+
+Tillverkaren ska hålla den tekniska dokumentationen tillgänglig för de berörda nationella myndigheterna i tio år efter det att produkten har släppts ut på marknaden.
+
+3. Tillverkning
+
+Tillverkaren ska vidta alla nödvändiga åtgärder för att tillverkningen och övervakningen av den ska leda till att den tillverkade produkten uppfyller de tillämpliga kraven i detta direktiv.
+
+4. Kontroll
+
+Ett anmält organ, som tillverkaren valt, ska utföra eller låta utföra undersökningar och provningar i enlighet med relevanta harmoniserade standarder och/eller likvärdiga provningar i enlighet med andra relevanta tekniska specifikationer, för att kontrollera att produkten uppfyller de tillämpliga kraven i detta direktiv. Om det inte finns någon harmoniserad standard ska det berörda anmälda organet bestämma vilka provningar som ska utföras.
+
+Det anmälda organet ska utfärda ett intyg om överensstämmelse i fråga om de utförda undersökningarna och provningarna och ska anbringa sitt identifikationsnummer på den godkända produkten, eller låta anbringa det under sitt ansvar.
+
+Tillverkaren ska hålla intygen om överensstämmelse tillgängliga för de nationella myndigheterna i tio år efter det att produkten har släppts ut på marknaden.
+
+5. CE-märkning, EU-försäkran om överensstämmelse och intyg om överensstämmelse
+
+5.1
+
+Tillverkaren ska anbringa CE-märkningen och, under ansvar av det anmälda organ som avses i punkt 4, organets identifikationsnummer på varje produkt, med undantag för komponenter, som uppfyller de tillämpliga kraven i detta direktiv.
+
+5.2
+
+Tillverkaren ska upprätta en skriftlig EU-försäkran om överensstämmelse och kunna uppvisa den för de nationella myndigheterna i tio år efter det att produkten, med undantag för komponenter, har släppts ut på marknaden. I EU-försäkran om överensstämmelse ska det anges för vilken produkt den har upprättats.
+
+En kopia av EU-försäkran om överensstämmelse ska åtfölja varje produkt, med undantag för komponenter.
+
+5.3
+
+Tillverkaren ska upprätta ett skriftligt intyg om överensstämmelse och kunna uppvisa det för de nationella myndigheterna i tio år efter det att komponenten har släppts ut på marknaden. I intyget om överensstämmelse ska det anges för vilken komponent det har upprättats. En kopia av intyget om överensstämmelse ska åtfölja varje komponent.
+
+6. Tillverkarens representant
+
+Tillverkarens skyldigheter enligt punkterna 2.2 och 5 får fullgöras, för dennes räkning och på dennes ansvar, av tillverkarens representant, förutsatt att dessa skyldigheter specificeras i fullmakten.
+
+BILAGA X
+
+EU-FÖRSÄKRAN OM ÖVERENSSTÄMMELSE (nr XXXX) (1)
+
+1.
+
+Produktmodell/produkt (produkt-, typ-, parti- eller serienummer):
+
+2.
+
+Tillverkarens namn och adress och, i tillämpliga fall, tillverkarens representant:
+
+3.
+
+Denna försäkran om överensstämmelse utfärdas på tillverkarens eget ansvar.
+
+4.
+
+Föremål för försäkran (identifiera produkten så att den kan spåras; för att produkten ska kunna identifieras kan det vara nödvändigt att bifoga en bild):
+
+5.
+
+Föremålet för försäkran ovan överensstämmer med den relevanta harmoniserade unionslagstiftningen:
+
+6.
+
+Hänvisningar till de relevanta harmoniserade standarder som använts eller hänvisningar till de andra tekniska specifikationer enligt vilka överensstämmelsen försäkras:
+
+7.
+
+I tillämpliga fall, det anmälda organet … (namn, nummer) har utfört … (beskrivning av åtgärden) och utfärdat intyg:
+
+8.
+
+Ytterligare information:
+
+Undertecknat för:
+
+(ort och datum):
+
+(namn, befattning) (namnteckning):
+
+(1) Det är frivilligt för tillverkaren att numrera EU-försäkran om överensstämmelse.
+
+BILAGA XI
+
+DEL A
+
+Upphävt direktiv och en förteckning över dess efterföljande ändringar
+
+(se artikel 43)
+
+Europaparlamentets och rådets direktiv 94/9/EG
+
+(EGT L 100, 19.4.1994, s. 1)
+
+Europaparlamentets och rådets direktiv (EG) nr 1882/2003
+
+(EUT L 284, 31.10.2003, s. 1)
+
+Endast punkt 8 i bilaga I
+
+Europaparlamentets och rådets förordning (EU) nr 1025/2012
+
+(EUT L 316, 14.11.2012, s. 12)
+
+Endast artikel 26.1 c
+
+DEL B
+
+Tidsfrister för införlivande med nationell lagstiftning och datum för tillämpning
+
+(se artikel 43)
+
+Direktiv
+
+Tidsfrist för införlivande
+
+Datum för tillämpning
+
+94/9/EG
+
+1 september 1995
+
+1 mars 1996
+
+BILAGA XII
+
+JÄMFÖRELSETABELL
+
+Direktiv 94/9/EG
+
+Detta direktiv
+
+Artikel 1.1
+
+Artikel 1.1 a
+
+Artikel 1.2
+
+Artikel 1.1 b
+
+—
+
+Artikel 1.1 c
+
+Artikel 1.3
+
+Artikel 2.1–2.9
+
+—
+
+Artikel 2.10–2.26
+
+Artikel 1.4
+
+Artikel 1.2
+
+Artikel 2
+
+Artikel 3
+
+Artikel 3
+
+Article 4
+
+Artikel 4
+
+Artikel 5
+
+Artikel 5.1 första stycket
+
+—
+
+Artikel 5.1 andra stycket
+
+Artikel 12.2
+
+Artikel 5.2
+
+Artikel 12.1
+
+Artikel 5.3
+
+—
+
+—
+
+Artiklarna 6–11
+
+—
+
+—
+
+Artikel 6.1 och 6.2
+
+—
+
+Artikel 6.3
+
+Artikel 39.1–39.4
+
+—
+
+Artikel 39.5 första stycket
+
+Artikel 6.4
+
+Artikel 39.5 andra stycket
+
+Artikel 7
+
+—
+
+Artikel 8.1–8.6
+
+Artikel 13.1–13.6
+
+Artikel 8.7
+
+—
+
+—
+
+Artiklarna 14 och 15
+
+Artikel 9
+
+—
+
+Artikel 10.1
+
+—
+
+Artikel 10.2
+
+Artikel 16.1
+
+Artikel 10.3
+
+—
+
+—
+
+Artikel 16.2–16.6
+
+—
+
+Artiklarna 17–33
+
+Artikel 11
+
+—
+
+—
+
+Artiklarna 34–38
+
+Artiklarna 12 och 13
+
+—
+
+—
+
+Artikel 40
+
+—
+
+Artikel 41.1
+
+Artikel 14.1
+
+—
+
+Artikel 14.2
+
+Artikel 41.2
+
+Artikel 14.3
+
+—
+
+Artikel 15.1
+
+Artikel 42.1
+
+Artikel 15.2
+
+—
+
+—
+
+Artikel 42.2
+
+—
+
+Artiklarna 43 och 44
+
+Artikel 16
+
+Artikel 45
+
+Bilagorna I–IX
+
+Bilagorna I–IX
+
+Bilaga X
+
+—
+
+Bilaga XI
+
+—
+
+—
+
+Bilaga X
+
+—
+
+Bilaga XI
+
+—
+
+Bilaga XII
+
+UTTALANDE AV EUROPAPARLAMENTET
+
+Europaparlamentet anser att endast om och när genomförandeakter i den mening som avses i förordning (EU) nr 182/2011 diskuteras vid möten med kommittéer kan de sistnämnda anses vara kommittéer inom ramen för kommittéförfarandet i den mening som avses i bilaga I till ramavtalet om förbindelserna mellan Europaparlamentet och kommissionen. Möten med kommittéer omfattas således av punkt 15 i ramavtalet om och när andra frågor diskuteras.

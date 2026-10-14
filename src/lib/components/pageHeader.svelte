@@ -4,7 +4,7 @@
 	import { SITES, siteHost, type SiteScope } from '#lib/sites.js';
 	import { ENTITIES, type Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
-	import { listRecords } from '#lib/data.js';
+	import { topRecords } from '#lib/data.js';
 	import * as NavigationMenu from '#lib/components/ui/navigation-menu/index.js';
 	import * as Sheet from '#lib/components/ui/sheet/index.js';
 	import RiMenuLine from 'remixicon-svelte/icons/menu-line';
@@ -33,10 +33,7 @@
 				)
 			: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`;
 
-	const records = (ent: Entity) =>
-		listRecords(scope, ent)
-			.filter((r) => !r.parent)
-			.slice(0, 5);
+	const records = (ent: Entity) => topRecords(scope, ent);
 </script>
 
 <header class="bg-amber-5/80 sticky top-0 z-10 backdrop-blur-sm">
@@ -77,10 +74,7 @@
 			</div>
 
 			<!-- eslint-disable svelte/no-navigation-without-resolve -->
-			<NavigationMenu.Root
-				viewport={false}
-				class="mt-3 hidden min-w-0 justify-start lg:flex"
-			>
+			<NavigationMenu.Root viewport={false} class="mt-3 hidden min-w-0 justify-start lg:flex">
 				<NavigationMenu.List class="flex-wrap gap-0.5 whitespace-nowrap">
 					{#each ENTITIES as ent (ent)}
 						<NavigationMenu.Item>

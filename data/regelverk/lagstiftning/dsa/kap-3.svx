@@ -1,0 +1,908 @@
+---
+'source': 'dsa'
+'ref': 'Kapitel III'
+'title': 'Kapitel III – KRAV PÅ TILLBÖRLIG AKTSAMHET FÖR EN TRANSPARENT OCH
+  SÄKER ONLINEMILJÖ'
+'kind': 'chapter'
+'description': 'Förordningen om digitala tjänster (DSA), Kapitel III.'
+'designation': 'DSA Kapitel III'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/3ff67256-55c4-11ed-92ed-01aa75ed71a1.0024.03#cpt_III'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 11 – Kontaktpunkter för medlemsstaternas myndigheter, kommissionen och nämnden
+
+1\. Leverantörer av förmedlingstjänster ska utse en enda kontaktpunkt för att göra det möjligt för dem att kommunicera direkt, på elektronisk väg, med medlemsstaternas myndigheter, kommissionen och den nämnd som avses i artikel [61](/lagstiftning/dsa/kap-4#artikel-61-den-europeiska-nämnden-för-digitala-tjänster) för tillämpningen av [denna förordning](/lagstiftning/dsa).
+
+2\. Leverantörer av förmedlingstjänster ska offentliggöra den information som behövs för att enkelt identifiera och kommunicera med deras enda kontaktpunkter. Den informationen ska vara lätt tillgänglig och ska hållas uppdaterad.
+
+3\. Leverantörer av förmedlingstjänster ska i den information som avses i punkt 2 ange vilket eller vilka av medlemsstaternas officiella språk som, utöver ett språk som i huvudsak förstås av största möjliga antal medborgare i unionen, kan användas för kommunikation med deras kontaktpunkter, och dessa språk ska innefatta minst ett av de officiella språken i den medlemsstat där leverantören av förmedlingstjänster har sitt huvudsakliga etableringsställe eller där dess rättsliga företrädare har sin hemvist eller är etablerad.
+
+### Artikel 12 – Kontaktpunkter för tjänstemottagare
+
+1\. Leverantörer av förmedlingstjänster ska utse en enda kontaktpunkt för att göra det möjligt för tjänstemottagare att kommunicera direkt och snabbt med dem, på elektronisk väg och på ett användarvänligt sätt, inbegripet genom att göra det möjligt för tjänstemottagarna att välja kommunikationsmedel, som inte enbart ska förlita sig på automatiserade verktyg.
+
+2\. Utöver de skyldigheter som föreskrivs enligt [direktiv 2000/31/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32000L0031) ska leverantörer av förmedlingstjänster offentliggöra den information som behövs för att tjänstemottagarna enkelt ska kunna identifiera sina enda kontaktpunkter och kommunicera med dem. Den informationen ska vara lätt tillgänglig och ska hållas uppdaterad.
+
+### Artikel 13 – Rättsliga företrädare
+
+1\. Leverantörer av förmedlingstjänster som inte har ett etableringsställe i unionen men som erbjuder tjänster i unionen ska skriftligen utse en juridisk eller fysisk person att agera som deras rättsliga företrädare i en av de medlemsstater där de erbjuder sina tjänster.
+
+2\. Leverantörer av förmedlingstjänster ska bemyndiga sina rättsliga företrädare att vid sidan av eller i stället för sådana leverantörer hantera kontakterna med medlemsstaternas behöriga myndigheter, kommissionen och nämnden när det gäller alla frågor som är nödvändiga för mottagande, efterlevnad och tillämpning av beslut som utfärdas i samband med [denna förordning](/lagstiftning/dsa). Leverantörer av förmedlingstjänster ska förse sina rättsliga företrädare med de befogenheter som är nödvändiga och tillräckliga resurser för att garantera ett effektivt och lämpligt samarbete med medlemsstaternas behöriga myndigheter, kommissionen och nämnden och för att följa sådana beslut.
+
+3\. Det ska vara möjligt för den utsedda rättsliga företrädaren att hållas ansvarig för bristande efterlevnad av skyldigheter enligt [denna förordning](/lagstiftning/dsa), utan att det påverkar de skadeståndskrav och rättsliga åtgärder som kan riktas mot leverantören av förmedlingstjänster.
+
+4\. Leverantörer av förmedlingstjänster ska meddela den rättsliga företrädarens namn, postadress, e-postadress och telefonnummer till samordnaren för digitala tjänster i den medlemsstat där den rättsliga företrädaren har sin hemvist eller är etablerad. De ska säkerställa att den informationen är allmänt tillgänglig, lättillgänglig, korrekt och hålls uppdaterad.
+
+5\. Utseendet av en rättslig företrädare inom unionen enligt punkt 1 ska inte utgöra en etablering i unionen.
+
+### Artikel 14 – Allmänna villkor
+
+1\. Leverantörer av förmedlingstjänster ska i sina allmänna villkor inkludera information om eventuella begränsningar de tillämpar på användningen av deras tjänster när det gäller den information som tillhandahålls av tjänstemottagarna. Denna information ska omfatta uppgifter om eventuella policyer, förfaranden, åtgärder och verktyg som används för innehållsmoderering, inbegripet algoritmbaserat beslutsfattande och mänsklig granskning samt om arbetsordningen för deras interna system för hantering av klagomål. Den ska vara formulerad i tydliga, klara, lättbegripliga, användarvänliga och entydiga ordalag och finnas allmänt tillgänglig i ett lättillgängligt och maskinläsbart format.
+
+2\. Leverantörer av förmedlingstjänster ska underrätta tjänstemottagarna om varje betydande ändring av de allmänna villkoren.
+
+3\. Om en förmedlingstjänst främst riktar sig till minderåriga eller till övervägande del används av dem ska leverantören av den förmedlartjänsten förklara villkoren och eventuella begränsningar för användningen av tjänsten på ett sätt som minderåriga kan förstå.
+
+4\. Leverantörer av förmedlingstjänster ska agera på ett aktsamt, objektivt och proportionellt sätt vid tillämpningen och kontrollen av efterlevnaden av de begränsningar som avses i punkt 1, med vederbörlig hänsyn till alla berörda parters rättigheter och legitima intressen, inbegripet tjänstemottagarnas grundläggande rättigheter, såsom yttrandefriheten, mediernas frihet och mångfald och andra grundläggande rättigheter och friheter enligt stadgan.
+
+5\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska ge tjänstemottagarna en koncis, lättillgänglig och maskinläsbar sammanfattning av de allmänna villkoren, inbegripet tillgängliga rättsmedel och prövningsmekanismer, i klara och entydiga ordalag.
+
+6\. Mycket stora onlineplattformar och mycket stora onlinesökmotorer i den mening som avses i artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer) ska offentliggöra sina allmänna villkor på de officiella språken i samtliga medlemsstater där de erbjuder sina tjänster.
+
+### Artikel 15 – Transparensrapporteringsskyldigheter för leverantörer av förmedlingstjänster
+
+1\. Leverantörer av förmedlingstjänster ska minst en gång om året i ett maskinläsbart format samt på ett lättillgängligt sätt offentliggöra tydliga, lättbegripliga rapporter om all innehållsmoderering som de bedrivit under den berörda perioden. Dessa rapporter ska särskilt innehålla information om följande, beroende på vad som är tillämpligt:
+
+a) För leverantörer av förmedlingstjänster: antalet förelägganden som mottagits från medlemsstaternas myndigheter, inbegripet förelägganden som utfärdats i enlighet med artiklarna [9](/lagstiftning/dsa/kap-2#artikel-9-förelägganden-om-att-agera-mot-olagligt-innehåll) och [10](/lagstiftning/dsa/kap-2#artikel-10-förelägganden-om-att-tillhandahålla-information), kategoriserade efter typen av olagligt innehåll, den medlemsstat som utfärdat föreläggandet och den mediantid som behövts för att informera den myndighet som utfärdat föreläggandet, eller någon annan myndighet som angetts i föreläggandet, om mottagandet av föreläggandet, och för att ge verkan åt föreläggandet.
+
+b) För leverantörer av värdtjänster: antalet anmälningar som lämnats in i enlighet med artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder), kategoriserade enligt typen av påstått olagligt innehåll, antalet anmälningar som lämnats in av betrodda anmälare, eventuella åtgärder som vidtagits till följd av dessa anmälningar och med särskiljande av fall där åtgärder vidtagits baserat på lagstiftning och fall där åtgärder vidtagits på grundval av leverantörens allmänna villkor, antalet anmälningar som behandlats uteslutande med hjälp av automatiserade metoder samt mediantiden för vidtagande av åtgärder.
+
+c) För leverantörer av förmedlingstjänster: meningsfull och begriplig information om den innehållsmoderering som görs på leverantörens eget initiativ, inbegripet användningen av automatiserade verktyg, vilka åtgärder som vidtagits för att tillhandahålla utbildning och stöd till personer med ansvar för innehållsmoderering, antalet och typen av vidtagna åtgärder som påverkar tillgången, synligheten och tillgängligheten för information som tillhandahålls av tjänstemottagarna och mottagarnas förmåga att tillhandahålla information genom tjänsten, samt andra relaterade begränsningar av tjänsten. Den inrapporterade informationen ska vara kategoriserad efter typ av olagligt innehåll eller överträdelse av tjänsteleverantörens allmänna villkor, detektionsmetod och typ av begränsning som tillämpas.
+
+> _d) För leverantörer av förmedlingstjänster: antalet klagomål som inkommit via de interna systemen för hantering av klagomål i enlighet med leverantörens allmänna villkor, och dessutom, för leverantörer av onlineplattformar, i enlighet med artikel [20](#artikel-20-internt-system-för-hantering-av-klagomål) grunden för dessa klagomål, beslut som fattats med avseende på dessa klagomål, mediantiden för att fatta dessa beslut samt antal tillfällen då dessa beslut upphävts._
+
+e) All användning av automatiserade metoder för innehållsmoderering, inbegripet en kvalitativ beskrivning, en specificering av de exakta syftena och indikatorer på tillförlitligheten och den möjliga felprocenten för de automatiserade metoder som används för uppnåendet av dessa syften samt eventuella skyddsåtgärder som tillämpas.
+
+2\. Punkt 1 i [denna artikel](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster) ska inte tillämpas på leverantörer av förmedlingstjänster som utgör mikroföretag eller små företag enligt definitionen i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) och som inte är mycket stora onlineplattformar i den mening som avses i artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer) i [denna förordning](/lagstiftning/dsa).
+
+3\. Kommissionen får anta genomförandeakter för att fastställa mallar när det gäller formen på, innehållet i och andra aspekter av rapporterna enligt punkt 1 i [denna artikel](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster), inbegripet harmoniserade rapporteringsperioder. Dessa genomförandeakter ska antas i enlighet med det rådgivande förfarande som avses i artikel [88](/lagstiftning/dsa/kap-4#artikel-88-kommittéförfarande).
+
+### Artikel 16 – Mekanismer för anmälan och åtgärder
+
+1\. Leverantörer av värdtjänster ska införa mekanismer som gör det möjligt för varje individ eller enhet att till dem anmäla förekomster på deras tjänst av specifik information som individen eller enheten anser utgöra olagligt innehåll. Dessa mekanismer ska vara lättillgängliga och användarvänliga och det ska vara möjligt att lämna in anmälningar enbart på elektronisk väg.
+
+2\. De mekanismer som avses i punkt 1 ska vara sådana att de främjar inlämning av anmälningar som är tillräckligt exakta och underbyggda. Därför ska leverantörerna av värdtjänster vidta nödvändiga åtgärder för att möjliggöra och främja inlämning av anmälningar som innehåller samtliga följande delar:
+
+a) En tillräckligt underbyggd redogörelse för skälen till att individen eller enheten hävdar att informationen i fråga utgör olagligt innehåll.
+
+b) En tydlig angivelse av informationens exakta elektroniska lokalisering, exempelvis en eller flera exakta URL och, vid behov, ytterligare information som gör det möjligt att identifiera det olagliga innehållet anpassat till typen av innehåll och den specifika typen av värdtjänst.
+
+c) Namn och e-postadress för den individ eller enhet som lämnar in anmälan, utom när det gäller information som anses involvera ett av de brott som avses i artiklarna [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0093)–[7](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0093) i [direktiv 2011/93/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0093).
+
+d) En förklaring där den individ eller enhet som lämnar in anmälan bekräftar sin övertygelse i ärligt uppsåt om att informationen och påståendena i anmälan är korrekta och fullständiga.
+
+3\. Anmälningar som avses i [denna artikel](#artikel-16-mekanismer-för-anmälan-och-åtgärder) ska anses ge upphov till faktisk kunskap eller medvetenhet för tillämpningen av artikel [6](/lagstiftning/dsa/kap-2#artikel-6-värdtjänster) avseende den specifika information som berörs när de gör det möjligt för en aktsam leverantör av värdtjänster att utan en detaljerad rättslig undersökning fastställa att den aktuella verksamheten eller informationen är olaglig.
+
+4\. I de fall då anmälan innehåller de elektroniska kontaktuppgifterna för den individ eller enhet som gjort anmälan ska leverantören av värdtjänster utan onödigt dröjsmål sända ett mottagningsbevis till den individen eller enheten.
+
+5\. Leverantören ska också utan onödigt dröjsmål underrätta den individen eller enheten om sitt beslut avseende den information som anmälan avser och tillhandahålla information om möjligheterna till prövning av beslutet.
+
+6\. Leverantörer av värdtjänster ska behandla alla anmälningar som de tar emot genom de mekanismer som avses i punkt 1 och fatta sina beslut om den information som anmälningarna omfattar på ett snabbt, aktsamt, icke godtyckligt och objektivt sätt. Om de använder automatiserade metoder för denna behandling eller detta beslutsfattande ska de inkludera information om denna användning i det meddelande som avses i punkt 5.
+
+### Artikel 17 – Motivering
+
+1\. Leverantörer av värdtjänster ska tillhandahålla en tydlig och specifik motivering till berörda tjänstemottagare om någon av följande begränsningar har införts på grund av att den information som tjänstemottagaren lämnat utgör olagligt innehåll eller är oförenlig med deras allmänna villkor:
+
+a) Begränsningar vad gäller synligheten för specifika delar av den information som tillhandahållits av tjänstemottagaren, inbegripet att innehåll avlägsnas, att innehåll görs oåtkomligt eller att innehåll demonetiseras.
+
+b) Tillfälligt upphävande, avslutande eller annan begränsning av penningutbetalningar.
+
+c) Tillfälligt avbrytande eller avslutande av tillhandahållandet av tjänsten, helt eller delvis.
+
+d) Tillfällig stängning eller avslutande av tjänstemottagarens konto.
+
+2\. Punkt 1 ska endast tillämpas om leverantören känner till de relevanta elektroniska kontaktuppgifterna. Den ska tillämpas senast från och med det datum då begränsningen införs, oavsett varför eller hur den infördes.
+
+Punkt 1 ska inte tillämpas om informationen utgör vilseledande kommersiellt innehåll i stora volymer.
+
+3\. Den motivering som avses i punkt 1 ska minst innehålla följande uppgifter:
+
+a) Information om huruvida beslutet medför att informationen antingen avlägsnas, görs oåtkomlig, demonetiseras eller ges begränsad synlighet, eller om betalningar kopplade till den tillfälligt upphävs eller avslutas, eller innebär att andra åtgärder som avses i punkt 1 införs avseende informationen, och, om relevant, den territoriella omfattningen av beslutet samt dess varaktighet.
+
+b) De fakta och omständigheter som legat till grund för beslutet, inklusive, i förekommande fall, information om huruvida beslutet fattats till följd av en anmälan i enlighet med artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder) eller på grundval av frivilliga undersökningar på eget initiativ och, när så är strikt nödvändigt, anmälarens identitet.
+
+c) Om tillämpligt, uppgifter om eventuell användning av automatiserade metoder vid beslutsfattandet, inbegripet information om huruvida beslutet fattats med avseende på innehåll som upptäckts eller identifierats med hjälp av automatiserade metoder.
+
+d) Om beslutet rör påstått olagligt innehåll, en hänvisning till den rättsliga grund som använts och förklaringar till varför informationen anses utgöra olagligt innehåll på denna grund.
+
+e) Om beslutet fattats baserat på informationens påstådda oförenlighet med värdtjänstleverantörens allmänna villkor, en hänvisning till den avtalsgrund som använts och en förklaring av varför informationen anses oförenlig med denna grund.
+
+f) Tydliga och användarvänliga uppgifter om de möjligheter till prövning som är tillgängliga för tjänstemottagaren med avseende på beslutet, framför allt, om tillämpligt, genom interna mekanismer för hantering av klagomål, tvistlösning utanför domstol och rättslig prövning.
+
+4\. De uppgifter som leverantörer av värdtjänster tillhandahåller i enlighet med [denna artikel](#artikel-17-motivering) ska vara tydliga och lättbegripliga och så exakta och specifika som rimligen är möjligt under de givna omständigheterna. Uppgifterna ska i synnerhet vara sådana att den berörda tjänstemottagaren har rimlig möjlighet att effektivt utöva de möjligheter till prövning som avses i punkt 3 f.
+
+5\. [Denna artikel](#artikel-17-motivering) ska inte tillämpas på förelägganden som avses i artikel [9](/lagstiftning/dsa/kap-2#artikel-9-förelägganden-om-att-agera-mot-olagligt-innehåll).
+
+### Artikel 18 – Anmälan av misstanke om brott
+
+1\. Om en leverantör av värdtjänster får kännedom om information som ger upphov till misstanke om att ett brott som inbegriper ett hot mot en eller flera människors liv eller säkerhet har skett, håller på att ske eller sannolikt kommer att ske, ska den omedelbart underrätta de brottsbekämpande eller rättsliga myndigheterna i den eller de berörda medlemsstaterna om denna misstanke och tillhandahålla all relevant information som finns tillgänglig.
+
+2\. Om en leverantör av värdtjänster inte med rimlig säkerhet kan fastställa vilken medlemsstat som berörs ska den underrätta de brottsbekämpande myndigheterna i den medlemsstat där den är etablerad eller där dess rättsliga företrädare har sin hemvist eller är etablerad, eller underrätta Europol, eller båda.
+
+Vid tillämpningen av [denna artikel](#artikel-18-anmälan-av-misstanke-om-brott) ska den berörda medlemsstaten vara den medlemsstat i vilken brottet misstänks ha skett, håller på att ske eller sannolikt kommer att ske, eller den medlemsstat där den brottsmisstänkte har sin hemvist eller befinner sig, eller den medlemsstat där offret för det misstänkta brottet har sin hemvist eller befinner sig.
+
+### Artikel 19 – Undantag för mikroföretag och små företag
+
+1\. [Detta avsnitt](/lagstiftning/dsa/kap-3) ska, med undantag för artikel [24.3](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), inte tillämpas på leverantörer av onlineplattformar som utgör mikroföretag eller små företag enligt definitionen i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+[Detta avsnitt](/lagstiftning/dsa/kap-3) ska, med undantag för artikel [24.3](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), inte tillämpas på leverantörer av onlineplattformar som tidigare har uppfyllt kraven för status som mikroföretag eller små företag enligt definitionen i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) under de tolv månader som följer efter det att de förlorat denna status enligt artikel [4.2](/lagstiftning/dsa/kap-2#artikel-4-enbart-vidarefordran-mere-conduit) i den rekommendationen, förutom om de är mycket stora onlineplattformar i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer).
+
+2\. Genom undantag från punkt 1 i [denna artikel](#artikel-19-undantag-för-mikroföretag-och-små-företag) ska [detta avsnitt](/lagstiftning/dsa/kap-3) tillämpas på leverantörer av onlineplattformar som har betecknats som mycket stora onlineplattformar i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer), oavsett om de utgör mikroföretag eller små företag.
+
+### Artikel 20 – Internt system för hantering av klagomål
+
+1\. Leverantörer av onlineplattformar ska, under en period på minst sex månader från det beslut som avses i denna punkt, ge tjänstemottagare, inbegripet individer eller enheter som har lämnat in en anmälan, tillgång till ett effektivt internt system för hantering av klagomål som gör det möjligt för dem att lämna in klagomål, på elektronisk väg och avgiftsfritt, mot onlineplattformsleverantörens beslut efter att ha mottagit en anmälan eller mot följande beslut som fattas av leverantören av onlineplattformen med motiveringen att den information som tillhandahålls av mottagaren utgör olagligt innehåll eller är oförenlig med plattformens allmänna villkor:
+
+a) Beslut om huruvida informationen ska avlägsnas eller göras oåtkomlig eller dess synlighet begränsas.
+
+b) Beslut om huruvida tillhandahållandet av tjänsten till mottagarna, helt eller delvis, ska avbrytas tillfälligt eller avslutas.
+
+c) Beslut om huruvida mottagarnas konto ska stängas tillfälligt eller avslutas.
+
+d) Beslut om huruvida möjligheten att monetarisera information som tillhandahålls av mottagarna ska upphävas tillfälligt, avslutas eller på annat sätt begränsas.
+
+2\. Den period på minst sex månader som avses i punkt 1 i [denna artikel](#artikel-20-internt-system-för-hantering-av-klagomål) ska anses börja löpa den dag då tjänstemottagaren informerades om beslutet i enlighet med artikel [16.5](#artikel-16-mekanismer-för-anmälan-och-åtgärder) eller artikel [17](#artikel-17-motivering).
+
+3\. Leverantörer av onlineplattformar ska säkerställa att deras interna system för hantering av klagomål är lättillgängliga och användarvänliga och underlättar inlämning av tillräckligt exakta och underbyggda klagomål.
+
+4\. Leverantörer av onlineplattformar ska hantera klagomål som lämnas in via deras interna system för hantering av klagomål på ett snabbt, icke-diskriminerande, aktsamt och icke godtyckligt sätt. När klagomålen omfattar ett tillräckligt underlag för att leverantören av onlineplattformen ska anse att dess beslut att inte vidta några åtgärder efter att ha mottagit en anmälan saknar grund eller att den information som klagomålet avser inte är olaglig eller oförenlig med dess allmänna villkor, eller innehåller information som visar att den klagandes beteende inte motiverar den åtgärd som vidtagits, ska onlineplattformen utan onödigt dröjsmål ändra sitt beslut enligt punkt 1.
+
+5\. Leverantörer av onlineplattformar ska utan onödigt dröjsmål underrätta klagande om sitt motiverade beslut med avseende på den information som klagomålet avser och om möjligheterna till tvistlösning utanför domstol enligt artikel [21](#artikel-21-tvistlösning-utanför-domstol) samt om andra tillgängliga möjligheter till prövning.
+
+6\. Leverantörer av onlineplattformar ska säkerställa att de beslut som avses i punkt 5 fattas under tillsyn av lämpligt kvalificerad personal och inte enbart baserat på automatiserade metoder.
+
+### Artikel 21 – Tvistlösning utanför domstol
+
+1\. Tjänstemottagare, inbegripet individer eller enheter som har lämnat in anmälningar, till vilka de beslut som avses i artikel [20.1](#artikel-20-internt-system-för-hantering-av-klagomål) riktas ska ha rätt att välja varje organ för tvistlösning utanför domstol som har certifierats i enlighet med punkt 3 i [den här artikeln](#artikel-21-tvistlösning-utanför-domstol) för att lösa tvister som rör dessa beslut, inklusive klagomål som inte har lösts genom det interna system för hantering av klagomål som avses i den artikeln.
+
+Leverantörer av onlineplattformar ska säkerställa att information om tjänstemottagarnas möjlighet att ha tillgång till tvistlösning utanför domstol, som avses i första stycket, är lättillgänglig på deras onlinegränssnitt, tydligt och användarvänligt.
+
+Första stycket ska inte påverka rätten för den berörda tjänstemottagaren att i vilket skede som helst inleda förfaranden för att inför domstol bestrida besluten från leverantörerna av onlineplattformar i enlighet med tillämplig rätt.
+
+2\. Båda parterna ska i ärligt uppsåt samarbeta med det utvalda organet för tvistlösning utanför domstol i syfte att lösa tvisten.
+
+Leverantörer av onlineplattformar får vägra att samarbeta med ett sådant organ för tvistlösning utanför domstol, om en tvist redan har lösts rörande samma information och samma grunder för innehållets påstådda olaglighet eller oförenlighet.
+
+Det certifierade organet för tvistlösning utanför domstol ska inte ha befogenhet att ålägga parterna en bindande lösning av tvisten.
+
+3\. Samordnaren för digitala tjänster i den medlemsstat där organet för tvistlösning utanför domstol är etablerat ska, under en period på högst fem år som får förlängas, certifiera organet, på dess begäran, om organet har visat att det uppfyller samtliga följande villkor:
+
+a) Organet är opartiskt och oberoende, även oberoende i finansiellt hänseende, från leverantörer av onlineplattformar och från mottagarna av den tjänst som tillhandahålls av leverantörer av onlineplattformar, inbegripet individer eller enheter som har lämnat in anmälningar.
+
+b) Organet har den sakkunskap som krävs för de frågor som uppstår inom ett eller flera enskilda områden av olagligt innehåll, eller i förhållande till tillämpningen och kontrollen av efterlevnaden av de allmänna villkoren för en eller flera typer av onlineplattformar, vilket gör att organet kan bidra effektivt till tvistlösningen.
+
+c) Dess medlemmar får ersättning på ett sätt som inte är kopplat till resultatet av förfarandet.
+
+d) Den tvistlösning utanför domstol som organet erbjuder är lättillgänglig, sker via elektronisk kommunikationsteknik och tillåter möjligheten att inleda tvistlösningen och lämna in de styrkande handlingar som krävs online.
+
+e) Organet klarar att lösa tvister på ett snabbt, effektivt och kostnadseffektivt sätt och på minst ett av unionsinstitutionernas officiella språk.
+
+f) Den tvistlösning utanför domstol som organet erbjuder sker i enlighet med tydliga och rättvisa förfaranderegler som är lättillgängliga för allmänheten och förenliga med tillämplig rätt, inbegripet [denna artikel](#artikel-21-tvistlösning-utanför-domstol).
+
+Samordnaren för digitala tjänster ska, när så är tillämpligt, i certifikatet ange
+
+a) de specifika frågor som omfattas av organets sakkunskap, enligt första stycket b, och
+
+b) det eller de unionsinstitutionernas officiella språk på vilka organet kan lösa tvister, enligt första stycket e.
+
+4\. Certifierade organ för tvistlösning utanför domstol ska årligen rapportera om sin verksamhet till den samordnare för digitala tjänster som certifierat dem, med angivande av åtminstone antalet tvister de tagit emot, information om resultaten av dessa tvister, den genomsnittliga tiden för att lösa dem och eventuella brister eller svårigheter som uppstått. De ska tillhandahålla ytterligare information på begäran av samordnaren för digitala tjänster.
+
+Samordnarna för digitala tjänster ska vartannat år utarbeta en rapport om hur de organ för tvistlösning utanför domstol som de certifierat fungerar. Rapporten ska särskilt
+
+a) innehålla en förteckning över antalet tvister som varje certifierat organ för tvistlösning utanför domstol har mottagit årligen,
+
+b) ange resultatet av de förfaranden som inletts vid dessa organ och den genomsnittliga tid det tar att lösa tvisterna,
+
+c) identifiera och förklara eventuella systematiska eller sektorsvisa brister eller svårigheter som uppstått i samband med dessa organs funktion,
+
+d) identifiera bästa praxis för den funktionen,
+
+e) innehålla rekommendationer om hur den funktionen kan förbättras, när så är lämpligt.
+
+Certifierade organ för tvistlösning utanför domstol ska göra sina beslut tillgängliga för parterna inom en rimlig tidsperiod och senast 90 kalenderdagar efter mottagandet av klagomålet. Vid mycket komplicerade tvister får det certifierade organet för tvistlösning utanför domstol efter eget gottfinnande förlänga tidsfristen på 90 kalenderdagar med en ytterligare period som inte får överstiga 90 dagar, vilket resulterar i en maximal period på 180 dagar.
+
+5\. Om organet för tvistlösning utanför domstol avgör tvisten till tjänstemottagarens fördel, inbegripet den individ eller enhet som har lämnat in en anmälan, ska leverantören av onlineplattformen bära alla avgifter som tas ut av organet för tvistlösning utanför domstol och ska ersätta den mottagaren, inbegripet individen eller enheten, för alla andra skäliga utgifter som denne har betalat i samband med tvistlösningen. Om organet för tvistlösning utanför domstol avgör tvisten till fördel för leverantören av onlineplattformen, ska tjänstemottagaren, inbegripet individen eller enheten, inte behöva stå för några avgifter eller andra utgifter som leverantören av onlineplattformen har betalat eller ska betala i samband med tvistlösningen, såvida inte organet för tvistlösning utanför domstol konstaterar att den mottagaren uppenbart agerat i ond tro.
+
+De avgifter som organet för tvistlösning utanför domstol tar ut från leverantörer av onlineplattformar för tvistlösning ska vara skäliga och får i vart fall inte överstiga de kostnader som organet ådragit sig. För tjänstemottagare ska tvistlösningstjänster vara tillgängliga kostnadsfritt eller mot en låg avgift.
+
+Certifierade organ för tvistlösning utanför domstol ska se till att tjänstemottagaren, inbegripet individer eller enheter som har lämnat in en anmälan, och leverantören av den berörda onlineplattformen får kännedom om avgifterna, eller de mekanismer som används för att fastställa avgifterna, innan tvistlösningen inleds.
+
+6\. Medlemsstaterna får inrätta organ för tvistlösning utanför domstol för de syften som anges i punkt 1 eller stödja verksamheten för vissa eller samtliga organ för tvistlösning utanför domstol som de har certifierat i enlighet med punkt 3.
+
+Medlemsstaterna ska säkerställa att de åtgärder som de vidtar i enlighet med första stycket inte påverkar förmågan för deras samordnare för digitala tjänster att certifiera de berörda organen i enlighet med punkt 3.
+
+7\. En samordnare för digitala tjänster som har certifierat ett organ för tvistlösning utanför domstol ska återkalla certifieringen om det efter en undersökning, antingen på dennes egna initiativ eller på grundval av information från tredje parter fastställs att organet för tvistlösning utanför domstol inte längre uppfyller de villkor som anges i punkt 3. Innan certifieringen återkallas ska samordnaren för digitala tjänster ge det organet möjlighet att reagera på resultatet av undersökningen och samordnarens avsikt att återkalla certifieringen för organet för tvistlösning utanför domstol.
+
+8\. Samordnarna för digitala tjänster ska till kommissionen anmäla de organ för tvistlösning utanför domstol som de har certifierat i enlighet med punkt 3, i förekommande fall inklusive de specifikationer som avses i andra stycket i den punkten samt de organ för tvistlösning utanför domstol för vilka de återkallat certifieringen. Kommissionen ska på en särskild och lättillgänglig webbplats offentliggöra en förteckning över dessa organ, inklusive dessa specifikationer, och hålla den uppdaterad.
+
+9\. [Denna artikel](#artikel-21-tvistlösning-utanför-domstol) påverkar inte tillämpningen av [direktiv 2013/11/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0011) eller alternativa tvistlösningsförfaranden och tvistlösningsenheter för konsumenter som inrättats inom ramen för det direktivet.
+
+### Artikel 22 – Betrodda anmälare
+
+1\. Leverantörer av onlineplattformar ska vidta de tekniska och organisatoriska åtgärder som är nödvändiga för att säkerställa att de anmälningar som inom ramen för deras respektive särskilda sakkunskapsområde lämnas in av betrodda anmälare via de mekanismer som avses i artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder) ges prioritet och behandlas och blir föremål för beslut utan onödigt dröjsmål.
+
+2\. Statusen betrodd anmälare enligt [denna förordning](/lagstiftning/dsa) ska, efter ansökan från en enhet, beviljas av samordnaren för digitala tjänster i den medlemsstat där den sökande är etablerad, till en sökande som har visat att den uppfyller samtliga följande villkor:
+
+a) Den har särskild sakkunskap och kompetens när det gäller att upptäcka, identifiera och anmäla olagligt innehåll.
+
+b) Den är oberoende från leverantörer av onlineplattformar.
+
+c) Den bedriver sin anmälningsrelaterade verksamhet aktsamt, korrekt och objektivt.
+
+3\. Betrodda anmälare ska minst en gång om året offentliggöra lättbegripliga och detaljerade rapporter om anmälningar som lämnats in i enlighet med artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder) under den berörda perioden. Rapporten ska åtminstone innehålla en förteckning över antalet anmälningar som kategoriseras enligt följande:
+
+a) Värdtjänstleverantörens identitet.
+
+b) Typen av påstått olagligt innehåll som anmälts.
+
+c) De åtgärder som vidtagits av leverantören.
+
+Rapporterna ska innehålla en förklaring av de förfaranden som införts för att säkerställa att den betrodda anmälaren behåller sitt oberoende.
+
+Betrodda anmälare ska skicka rapporterna till den tilldelande samordnaren för digitala tjänster och ska offentliggöra dem. Informationen i dessa rapporter får inte innehålla några personuppgifter.
+
+4\. Samordnarna för digitala tjänster ska meddela kommissionen och nämnden namn, adresser och e-postadresser för de enheter som de har beviljat statusen betrodd anmälare i enlighet med punkt 2 eller vars status som betrodd anmälare de har dragit in tillfälligt i enlighet med punkt 6 eller återkallat i enlighet med punkt 7.
+
+5\. Kommissionen ska offentliggöra den information som avses i punkt 4 i en allmänt tillgänglig databas, i ett lättillgängligt och maskinläsbart format, och ska hålla denna databas uppdaterad.
+
+6\. Om en leverantör av onlineplattformar har information som visar att en betrodd anmälare har lämnat in ett betydande antal anmälningar som inte är tillräckligt exakta, som är inkorrekta eller som är bristfälligt underbyggda via de mekanismer som avses i artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder), inbegripet information som samlats in i samband med behandlingen av klagomål via det interna system för hantering av klagomål som avses i artikel [20.4](#artikel-20-internt-system-för-hantering-av-klagomål), ska den överlämna denna information till den samordnare för digitala tjänster som beviljade den berörda enheten status som betrodd anmälare och därvid tillhandahålla de nödvändiga förklaringarna och styrkande handlingarna. Vid mottagandet av informationen från leverantörerna av onlineplattformar och om samordnaren för digitala tjänster anser att det finns legitima skäl att inleda en undersökning ska statusen som betrodd anmälare upphävas tillfälligt under den tid som undersökningen pågår. Undersökningen ska genomföras utan onödigt dröjsmål.
+
+7\. Den samordnare för digitala tjänster som beviljade enheten status som betrodd anmälare ska återkalla denna status om den efter en undersökning, antingen på eget initiativ eller på grundval av information från tredje parter, inbegripet information som tillhandahålls av en leverantör av onlineplattformar enligt punkt 6, fastställer att enheten inte längre uppfyller de villkor som anges i punkt 2. Innan statusen återkallas ska samordnaren för digitala tjänster ge enheten möjlighet att reagera på resultatet av undersökningen och samordnarens avsikt att återkalla enhetens status som betrodd anmälare.
+
+8\. Kommissionen ska, vid behov, efter samråd med nämnden utfärda riktlinjer för att bistå leverantörerna av onlineplattformar och samordnarna för digitala tjänster vid tillämpningen av punkterna 2, 6 och 7.
+
+### Artikel 23 – Åtgärder och skydd mot missbruk
+
+1\. Leverantörer av onlineplattformar ska, under en rimlig tidsperiod och efter att ha utfärdat en förhandsvarning, tillfälligt avbryta tillhandahållandet av sina tjänster till tjänstemottagare som ofta tillhandahåller innehåll som är uppenbart olagligt.
+
+2\. Leverantörer av onlineplattformar ska, under en rimlig tidsperiod och efter att ha utfärdat en förhandsvarning, tillfälligt avbryta behandlingen av anmälningar och klagomål som lämnas in via de mekanismer för anmälan och åtgärder och interna system för hantering av klagomål som avses i artiklarna [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder) respektive 20, av individer eller enheter eller från klagande som ofta lämnar in anmälningar eller klagomål som är uppenbart ogrundade.
+
+3\. När de fattar beslut om tillfälligt avbrytande, ska leverantörer av onlineplattformar från fall till fall, i rätt tid och på ett aktsamt och objektivt sätt bedöma om tjänstemottagaren, individen, enheten eller klaganden ägnar sig åt sådant missbruk som avses i punkterna 1 och 2, med beaktande av alla relevanta fakta och omständigheter som framgår av den information som leverantören av onlineplattformar har tillgång till. Dessa omständigheter ska innefatta minst följande:
+
+a) Det absoluta antalet innehållsposter som är uppenbart olagliga eller anmälningar eller klagomål som är uppenbart ogrundade, som lämnats in under en viss tidsperiod.
+
+b) Deras relativa andel av det totala antalet uppgifter som tillhandahållits eller anmälningar som lämnats in under en viss tidsperiod.
+
+c) Graden av allvar i missbruket, inbegripet det berörda olagliga innehållets karaktär, och i dess konsekvenser.
+
+d) Om denna kan fastställas: tjänstemottagarens, individens, enhetens eller den klagandes avsikt.
+
+4\. Leverantörer av onlineplattformar ska i sina allmänna villkor på ett tydligt och detaljerat sätt ange sin policy när det gäller sådant missbruk som avses i punkterna 1 och 2, och ska ge exempel på vilka sakförhållanden och omständigheter som de beaktar när de bedömer om ett visst beteende utgör missbruk och fastställer det tillfälliga avbrytandets varaktighet.
+
+### Artikel 24 – Transparensrapporteringsskyldigheter för leverantörer av onlineplattformar
+
+1\. Utöver den information som avses i artikel [15](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster) ska leverantörer av onlineplattformar i de rapporter som avses i den artikeln inkludera uppgifter om följande:
+
+a) Antalet tvister som hänskjutits till de organ för tvistlösning utanför domstol som avses i artikel [21](#artikel-21-tvistlösning-utanför-domstol), resultaten av tvistlösningarna och mediantidsåtgången för genomförandet av tvistlösningsförfarandena samt andelen tvister där leverantören av onlineplattformen genomfört organets beslut.
+
+b) Antalet tillfälliga avbrytanden som gjorts enligt artikel [23](#artikel-23-åtgärder-och-skydd-mot-missbruk), varvid åtskillnad ska göras mellan tillfälliga avbrytanden som gjorts till följd av tillhandahållande av innehåll som är uppenbart olagligt, inlämning av anmälningar som är uppenbart ogrundade och inlämning av klagomål som är uppenbart ogrundade.
+
+2\. Senast den 17 februari 2023 och minst en gång var sjätte månad därefter ska leverantörer offentliggöra för varje onlineplattform eller onlinesökmotor, i en allmänt tillgänglig del av sitt onlinegränssnitt, information om det genomsnittliga antalet aktiva tjänstemottagare per månad i unionen, beräknat som ett genomsnitt under de senaste sex månaderna och i enlighet med den metod som fastställs i de delegerade akter som avses i artikel [33.3](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer), om de delegerade akterna har antagits.
+
+3\. Leverantörer av onlineplattformar eller av onlinesökmotorer ska meddela samordnaren för digitala tjänster i etableringslandet och kommissionen, på dessas begäran och utan onödigt dröjsmål, den information som avses i punkt 2, uppdaterad fram till den tidpunkt då denna begäran gjordes. Den samordnaren för digitala tjänster eller kommissionen får begära att leverantören av onlineplattformen eller av onlinesökmotorn tillhandahåller ytterligare information om den beräkning som avses i den punkten, inbegripet förklaringar och styrkande av de data som använts. Denna information får inte innehålla några personuppgifter.
+
+4\. När samordnaren för digitala tjänster i etableringslandet, på grundval av den information som mottagits enligt punkterna 2 och 3 i [denna artikel](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), har skäl att anse att en leverantör av onlineplattformar eller av onlinesökmotorer uppnår det tröskelvärde för det genomsnittliga antalet aktiva tjänstemottagare per månad i unionen som fastställs i artikel [33.1](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer), ska denne informera kommissionen om detta.
+
+5\. Leverantörer av onlineplattformar ska utan onödigt dröjsmål lämna in de beslut och motiveringar som avses i artikel [17.1](#artikel-17-motivering) till kommissionen för införande i en allmänt tillgänglig maskinläsbar databas som förvaltas av kommissionen. Leverantörer av onlineplattformar ska säkerställa att den information som lämnas inte innehåller personuppgifter.
+
+6\. Kommissionen får anta genomförandeakter för att fastställa mallar när det gäller formen på, innehållet i och andra aspekter av rapporterna enligt punkt 1 i [denna artikel](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar). Dessa genomförandeakter ska antas i enlighet med det rådgivande förfarande som avses i artikel [88](/lagstiftning/dsa/kap-4#artikel-88-kommittéförfarande).
+
+### Artikel 25 – Utformning och organisering av onlinegränssnitt
+
+1\. Leverantörer av onlineplattformar får inte utforma, organisera eller driva sina onlinegränssnitt på ett sätt som vilseleder eller manipulerar tjänstemottagare eller på ett sätt som på annat vis väsentligt snedvrider eller försämrar tjänstemottagarnas förmåga att fatta fria och välgrundade beslut.
+
+2\. Förbudet i punkt 1 ska inte tillämpas på metoder som omfattas av [direktiv 2005/29/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32005L0029) eller [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+3\. Kommissionen får utfärda riktlinjer för hur punkt 1 ska tillämpas på specifika metoder, särskilt i fråga om att
+
+a) ge större synlighet åt vissa val när tjänstemottagaren uppmanas att fatta ett beslut,
+
+b) upprepade gånger begära att en tjänstemottagare gör ett val när det valet redan har gjorts, särskilt genom att presentera ett popup-fönster som stör användarupplevelsen,
+
+c) göra förfarandet för att avsluta en tjänst svårare än att ansluta sig till den.
+
+### Artikel 26 – Annonsering på onlineplattformar
+
+1\. Leverantörer av onlineplattformar som presenterar annonser på sina onlinegränssnitt ska, för varje enskild annons som presenteras för varje enskild mottagare, säkerställa att tjänstemottagarna på ett klart, specifikt och entydigt sätt och i realtid, kan identifiera följande:
+
+a) Att informationen utgör en annons, bland annat med hjälp av tydliga markeringar vilka kan följa en standard enligt artikel [44](#artikel-44-standarder).
+
+b) Den fysiska eller juridiska person för vars räkning annonsen presenterades.
+
+c) Den fysiska eller juridiska person som betalat för annonsen, om den personen är en annan än den fysiska eller juridiska person som avses i led b.
+
+d) Meningsfull information som ska vara direkt och lätt tillgänglig via annonsen om de huvudparametrar som använts för att fastställa vilka mottagare som annonsen ska presenteras för och hur dessa parametrar kan ändras.
+
+2\. Leverantörer av onlineplattformar ska erbjuda tjänstemottagarna en funktion för att dessa ska kunna anmäla om det innehåll de tillhandahåller utgör eller innehåller kommersiella meddelanden.
+
+När tjänstemottagaren lämnar in en anmälan enligt denna punkt ska leverantören av onlineplattformar säkerställa att andra tjänstemottagare på ett klart och entydigt sätt och i realtid, inbegripet genom tydliga markeringar, vilka kan följa en standard enligt artikel [44](#artikel-44-standarder), kan identifiera att det innehåll som tillhandahålls av tjänstemottagaren utgör eller innehåller ett kommersiellt meddelande i enlighet med den anmälan.
+
+3\. Leverantörer av onlineplattformar får inte för tjänstemottagare presentera annonser som bygger på profilering, enligt definitionen i artikel [4.4](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr), med användning av särskilda kategorier av personuppgifter som avses i artikel [9.1](/lagstiftning/gdpr/kap-2#artikel-9-behandling-av-särskilda-kategorier-av-personuppgifter) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+### Artikel 27 – Transparens i rekommendationssystemet
+
+1\. Leverantörer av onlineplattformar som använder rekommendationssystem ska i sina allmänna villkor, på ett klart och begripligt sätt, ange de huvudparametrar som används i deras rekommendationssystem, liksom alla eventuella möjligheter som tjänstemottagarna har att modifiera eller påverka dessa huvudparametrar.
+
+2\. De huvudparametrar som avses i punkt 1 ska förklara varför viss information föreslås tjänstemottagaren. De ska åtminstone innehålla följande:
+
+a) De kriterier som är av störst betydelse för att avgöra vilken information som föreslås tjänstemottagaren.
+
+b) Skälen för dessa parametrars relativa vikt.
+
+3\. Om flera alternativ finns tillgängliga enligt punkt 1 för rekommendationssystem som fastställer den relativa ordningsföljden för information som presenteras för tjänstemottagarna, ska leverantörer av onlineplattformar också tillhandahålla en funktion som gör det möjligt för tjänstemottagaren att när som helst välja och ändra det alternativ som denne föredrar. Den funktionen ska vara direkt och lätt tillgänglig i den specifika del av onlineplattformens onlinegränssnitt där informationen rangordnas.
+
+### Artikel 28 – Skydd av minderåriga online
+
+1\. Leverantörer av onlineplattformar som är tillgängliga för minderåriga ska på sina tjänster införa lämpliga och proportionella åtgärder för att säkerställa en hög nivå av integritet, säkerhet och trygghet för minderåriga.
+
+2\. Leverantörer av onlineplattformar får inte presentera annonser på sina gränssnitt som bygger på profilering enligt definitionen i artikel [4.4](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr) med hjälp av tjänstemottagarens personuppgifter när de med rimlig säkerhet är medvetna om att tjänstemottagaren är minderårig.
+
+3\. Efterlevnaden av de skyldigheter som fastställs i [denna artikel](#artikel-28-skydd-av-minderåriga-online) ska inte ålägga leverantörer av onlineplattformar att behandla ytterligare personuppgifter för att bedöma om tjänstemottagaren är minderårig.
+
+4\. Kommissionen får efter samråd med nämnden utfärda riktlinjer för att bistå leverantörer av onlineplattformar vid tillämpningen av punkt 1.
+
+### Artikel 29 – Uteslutning för mikroföretag och små företag
+
+1\. [Detta avsnitt](/lagstiftning/dsa/kap-3) ska inte tillämpas på leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare som utgör mikroföretag eller små företag enligt definitionen i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361).
+
+[Detta avsnitt](/lagstiftning/dsa/kap-3) ska inte tillämpas på leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare som tidigare har uppfyllt kraven för status som mikroföretag eller små företag enligt definitionen i [rekommendation 2003/361/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32003H0361) under de tolv månader som följer efter det att de har förlorat den statusen enligt artikel [4.2](/lagstiftning/dsa/kap-2#artikel-4-enbart-vidarefordran-mere-conduit) i den rekommendationen, utom när de är mycket stora onlineplattformar i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer).
+
+2\. Genom undantag från punkt 1 i [denna artikel](#artikel-29-uteslutning-för-mikroföretag-och-små-företag) ska [detta avsnitt](/lagstiftning/dsa/kap-3) tillämpas på leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare som har utsetts till mycket stora onlineplattformar i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer), oavsett om de utgör mikroföretag eller små företag.
+
+### Artikel 30 – Näringsidkares spårbarhet
+
+1\. Leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska säkerställa att näringsidkare endast kan använda de onlineplattformarna för att främja meddelanden eller erbjuda produkter eller tjänster till konsumenter som befinner sig i unionen om onlineplattformarna, innan deras tjänster används för dessa ändamål, har erhållit följande information, när detta är tillämpligt på näringsidkaren:
+
+a) Näringsidkarens namn, adress, telefonnummer och e-postadress.
+
+b) En kopia av näringsidkarens identitetshandling eller annan elektronisk identifiering enligt artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) i [Europaparlamentets och rådets förordning (EU) nr 910/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0910) (40).
+
+c) Näringsidkarens betalkontouppgifter.
+
+d) Om näringsidkaren är registrerad i ett handelsregister eller liknande offentligt register, det register i vilket näringsidkaren är registrerad och dennes registreringsnummer eller motsvarande identifieringsuppgifter i detta register.
+
+e) En självcertifiering där näringsidkaren förbinder sig att endast erbjuda produkter eller tjänster som överensstämmer med tillämpliga regler i unionsrätten.
+
+2\. Leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska, vid mottagandet av den information som avses i punkt 1 och innan den berörda näringsidkaren tillåts använda dess tjänster, genom att använda fritt tillgängliga officiella onlinedatabaser eller onlinegränssnitt som tillhandahålls av en medlemsstat eller av unionen, eller genom att begära att näringsidkaren tillhandahåller styrkande handlingar från tillförlitliga källor, göra sitt bästa för att bedöma om den information som avses i punkt 1 a–e är tillförlitlig och fullständig. Vid tillämpning av [denna förordning](/lagstiftning/dsa) ska näringsidkare vara ansvariga för att den information som lämnas är korrekt.
+
+När det gäller näringsidkare som för de ändamål som avses i punkt 1 redan den 17 februari 2024 använder tjänster från leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare, ska leverantörerna göra sitt bästa för att erhålla den angivna informationen från de berörda näringsidkarna inom tolv månader. Om de berörda näringsidkarna inte lämnar informationen inom denna period ska leverantörerna avbryta tillhandahållandet av sina tjänster till dessa näringsidkare till dess att de har lämnat all information.
+
+3\. Om leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare får tillräckliga indikationer på eller har skäl att misstänka att någon del av den information enligt punkt 1 som erhållits från den berörda näringsidkaren är oriktig, ofullständig eller inaktuell ska den leverantören begära att näringsidkaren åtgärdar den situationen utan dröjsmål eller inom den tidsfrist som fastställs i unionsrätten eller nationell rätt.
+
+Om näringsidkaren underlåter att rätta eller komplettera informationen ska leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare snabbt tillfälligt avbryta tillhandahållandet till den näringsidkaren av sin tjänst vad avser erbjudandet av produkter eller tjänster till konsumenter i unionen till dess att denna begäran har uppfyllts fullt ut.
+
+4\. Utan att det påverkar tillämpningen av artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) i [förordning (EU) 2019/1150](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1150) ska den berörda näringsidkaren, om en leverantör av en onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare nekar en näringsidkare att använda sin tjänst enligt punkt 1, eller tillfälligt avbryter tillhandahållandet av sin tjänst enligt punkt 3 i [den här artikeln](#artikel-30-näringsidkares-spårbarhet), ha rätt att lämna in ett klagomål i enlighet med artiklarna [20](#artikel-20-internt-system-för-hantering-av-klagomål) och [21](#artikel-21-tvistlösning-utanför-domstol) i [den här förordningen](/lagstiftning/dsa).
+
+5\. Leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska lagra den information som erhållits enligt punkterna 1 och 2 på ett säkert sätt under en period på sex månader efter det att dess avtalsförhållande med den berörda näringsidkaren löpt ut. De ska sedan radera informationen.
+
+6\. Utan att det påverkar tillämpningen av punkt 2 i [denna artikel](#artikel-30-näringsidkares-spårbarhet) ska leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare endast röja informationen till tredje parter när detta krävs i enlighet med tillämplig rätt, inbegripet de förelägganden som avses i artikel [10](/lagstiftning/dsa/kap-2#artikel-10-förelägganden-om-att-tillhandahålla-information) och eventuella andra förelägganden som utfärdats av medlemsstaternas behöriga myndigheter eller kommissionen för utövandet av deras uppgifter inom ramen för [denna förordning](/lagstiftning/dsa).
+
+7\. Leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska på sin onlineplattform ge tjänstemottagarna tillgång till den information som avses i punkt 1 a, d och e, på ett tydligt, lättillgängligt och begripligt sätt. Den informationen ska finnas tillgänglig åtminstone på onlineplattformens onlinegränssnitt där informationen om produkten eller tjänsten presenteras.
+
+### Artikel 31 – Inbyggd överensstämmelse
+
+1\. Leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska säkerställa att deras onlinegränssnitt är utformat och organiserat på ett sådant sätt att näringsidkarna har möjlighet att fullgöra sina skyldigheter när det gäller förhandsinformation, överensstämmelse och produktsäkerhetsinformation enligt tillämplig unionsrätt.
+
+I synnerhet ska den berörda leverantören säkerställa att dess onlinegränssnitt ger näringsidkare möjlighet att tillhandahålla information om namn, adress, telefonnummer och e-postadress vad gäller den ekonomiska aktören, enligt definitionen i artikel [3.13](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) i [förordning (EU) 2019/1020](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R1020) och annan unionsrätt.
+
+2\. Leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska säkerställa att deras onlinegränssnitt är utformat och organiserat på ett sådant sätt att näringsidkarna kan tillhandahålla åtminstone
+
+a) den information som krävs för en tydlig och otvetydig identifiering av de produkter eller tjänster som marknadsförs eller erbjuds konsumenter i unionen genom leverantörernas tjänster,
+
+b) eventuella tecken som identifierar näringsidkaren, såsom varumärket, symbolen eller logotypen, och
+
+c) i tillämpliga fall, information om etikettering och märkning i enlighet med reglerna i tillämplig unionsrätt om produktsäkerhet och produktöverensstämmelse.
+
+3\. Leverantörer av onlineplattformar som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare ska göra sitt bästa för att bedöma huruvida sådana näringsidkare har tillhandahållit den information som avses i punkterna 1 och 2 innan de tillåts att erbjuda produkter eller tjänster på de plattformarna. Efter att ha gjort det möjligt för näringsidkaren att erbjuda produkterna eller tjänsterna på sin onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare, ska leverantören göra rimliga ansträngningar för att genom stickprov i officiella, fritt tillgängliga och maskinläsbara onlinedatabaser eller onlinegränssnitt, kontrollera huruvida de erbjudna produkterna eller tjänsterna har identifierats som olagliga.
+
+### Artikel 32 – Rätt till information
+
+1\. Om en leverantör av en onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare får kännedom, oavsett hur, om att en olaglig produkt eller tjänst har erbjudits av en näringsidkare till konsumenter i unionen genom dess tjänster, ska den leverantören, i den mån den har deras kontaktuppgifter, informera de konsumenter som köpt den olagliga produkten eller tjänsten med hjälp av dess tjänster om följande:
+
+a) Det faktum att produkten eller tjänsten är olaglig.
+
+b) Näringsidkarens identitet.
+
+c) Eventuella möjligheter till rättslig prövning.
+
+Den skyldighet som fastställs i första stycket ska vara begränsad till köp av olagliga produkter eller tjänster som gjorts under de sex månader som föregår den tidpunkt då leverantören fick kännedom om olagligheten.
+
+2\. Om leverantören av den onlineplattform som gör det möjligt för konsumenter att ingå distansavtal med näringsidkare, i den situation som avses i punkt 1, inte har kontaktuppgifter till alla berörda konsumenter ska leverantören göra informationen om de olagliga produkterna eller tjänsterna, näringsidkarens identitet och eventuella möjligheter till rättslig prövning tillgänglig för allmänheten och lättåtkomlig på sitt onlinegränssnitt.
+
+### Artikel 33 – Mycket stora onlineplattformar och mycket stora onlinesökmotorer
+
+1\. [Detta avsnitt](/lagstiftning/dsa/kap-3) ska tillämpas på onlineplattformar och onlinesökmotorer som har ett genomsnittligt antal aktiva tjänstemottagare i unionen per månad som uppgår till 45 miljoner eller mer och som utses till mycket stora onlineplattformar eller mycket stora onlinesökmotorer enligt punkt 4.
+
+2\. Kommissionen ska anta delegerade akter i enlighet med artikel [87](/lagstiftning/dsa/kap-4#artikel-87-utövande-av-delegeringen) för att korrigera det genomsnittliga antalet aktiva tjänstemottagare per månad i unionen enligt punkt 1, om unionens befolkning ökar eller minskar med minst 5 % jämfört med dess befolkning 2020, eller dess befolkning, efter korrigering genom en delegerad akt, det år då den senaste delegerade akten antogs. I ett sådant fall ska den justera antalet så att det motsvarar 10 % av unionens befolkning det år då den antar den delegerade akten, avrundat uppåt eller nedåt så att siffran kan uttryckas i miljoner.
+
+3\. Kommissionen får, efter samråd med nämnden, anta delegerade akter i enlighet med artikel [87](/lagstiftning/dsa/kap-4#artikel-87-utövande-av-delegeringen) för att komplettera bestämmelserna i [denna förordning](/lagstiftning/dsa) genom att fastställa metoden för beräkning av det genomsnittliga antalet aktiva tjänstemottagare per månad i unionen, för tillämpningen av punkt 1 i [den här artikeln](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer) och artikel [24.2](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), så att det säkerställs att metoden tar hänsyn till marknadsutvecklingen och den tekniska utvecklingen.
+
+4\. Kommissionen ska, efter samråd med etableringsmedlemsstaten eller efter att ha beaktat den information som tillhandahållits av samordnaren för digitala tjänster i etableringslandet enligt artikel [24.4](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), anta ett beslut om att vid tillämpningen av [denna förordning](/lagstiftning/dsa) utse till mycket stor onlineplattform eller mycket stor onlinesökmotor den onlineplattform eller den onlinesökmotor som har ett genomsnittligt antal aktiva tjänstemottagare per månad som är lika med eller större än det antal som avses i punkt 1 i [den här artikeln](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer). Kommissionen ska fatta sitt beslut på grundval av de uppgifter som rapporterats till kommissionen av leverantören av onlineplattformen eller onlinesökmotorn enligt artikel [24.2](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) och information som begärts enligt artikel [24.3](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) eller eventuella andra tillförlitliga uppgifter som kommissionen har tillgång till.
+
+Underlåtenhet av leverantören av onlineplattformen eller av onlinesökmotorn att följa artikel [24.2](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) eller att hörsamma begäran från samordnaren för digitala tjänster i etableringslandet eller från kommissionen enligt artikel [24.3](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) ska inte hindra kommissionen från att utse den leverantören till leverantör av en mycket stora onlineplattform eller av en mycket stor onlinesökmotor enligt denna punkt.
+
+Om kommissionen grundar sitt beslut på annan information som är tillgänglig för kommissionen enligt första stycket i denna punkt eller på grundval av ytterligare information som begärts enligt artikel [24.3](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), ska kommissionen ge den berörda leverantören av onlineplattformen eller av onlinesökmotorn möjlighet att inom tio arbetsdagar lämna in sina synpunkter på kommissionens preliminära slutsatser och att den avser att utse onlineplattformen eller onlinesökmotorn till en mycket stor onlineplattform respektive en mycket stor onlinesökmotor. Kommissionen ska ta vederbörlig hänsyn till de synpunkter som lämnats in av den berörda leverantören.
+
+Om leverantören av den berörda onlineplattformen eller onlinesökmotorn underlåter att lämna in sina synpunkter enligt tredje stycket ska kommissionen inte vara förhindrad att utse den onlineplattformen eller den onlinesökmotorn till en mycket stor onlineplattform respektive en mycket stor onlinesökmotor på grundval av andra uppgifter som är den har tillgång till.
+
+5\. Kommissionen ska avsluta utseendet om onlineplattformen eller onlinesökmotorn under en oavbruten period på ett år inte har ett genomsnittligt antal aktiva tjänstemottagare per månad som är lika med eller större än det antal som avses i punkt 1.
+
+6\. Kommissionen ska utan onödigt dröjsmål meddela leverantören av den berörda onlineplattformen eller onlinesökmotorn, nämnden och samordnaren för digitala tjänster i etableringslandet sina beslut enligt punkterna 4 och 5.
+
+Kommissionen ska säkerställa att förteckningen över utsedda mycket stora onlineplattformar och mycket stora onlinesökmotorer offentliggörs i Europeiska unionens officiella tidning och ska hålla förteckningen uppdaterad. De skyldigheter som fastställs i [detta avsnitt](/lagstiftning/dsa/kap-3) ska börja gälla, eller upphöra att gälla, för de berörda mycket stora onlineplattformarna och mycket stora onlinesökmotorerna fyra månader efter det meddelande till den berörda leverantören som avses i första stycket.
+
+### Artikel 34 – Riskbedömning
+
+1\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska noggrant identifiera, analysera och bedöma alla eventuella systemrisker i unionen som härrör från utformningen av tjänsten eller hur deras tjänst och relaterade system fungerar, inbegripet algoritmiska system, eller från användningen av deras tjänster.
+
+De ska utföra riskbedömningarna senast den tillämpningsdag som avses i artikel [33.6](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer) andra stycket och därefter minst en gång om året, och under alla omständigheter innan införandet av funktioner som sannolikt kommer att ha en kritisk inverkan på de risker som identifierats enligt [den här artikeln](#artikel-34-riskbedömning). Riskbedömningen ska vara specifik för deras tjänster samt stå i proportion till systemriskerna, med beaktande av deras allvarsgrad och sannolikheten för att de blir aktuella och ska omfatta följande systemrisker:
+
+a) Spridningen av olagligt innehåll via deras tjänster.
+
+b) Faktiska eller förutsebara negativa effekter på utövandet av grundläggande rättigheter, särskilt den grundläggande rätten till mänsklig värdighet i enlighet med artikel [1](/lagstiftning/dsa/kap-1#artikel-1-innehåll) i stadgan, till respekt för privatlivet och familjelivet i enlighet med artikel [7](/lagstiftning/dsa/kap-2#artikel-7-frivilliga-undersökningar-på-eget-initiativ-och-regelefterlevnad) i stadgan, till skydd av personuppgifter i enlighet med artikel [8](/lagstiftning/dsa/kap-2#artikel-8-inga-allmänna-skyldigheter-avseende-övervakning-eller-aktivt-faktasökande) i stadgan, till yttrandefrihet och informationsfrihet, inbegripet mediernas frihet och mångfald, i enlighet med artikel [11](#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden) i stadgan, till icke-diskriminering i enlighet med artikel [21](#artikel-21-tvistlösning-utanför-domstol) i stadgan, till respekt för barnets rättigheter i enlighet med artikel [24](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) i stadgan och till en hög konsumentskyddsnivå i enlighet med artikel [38](#artikel-38-rekommendationssystem) i stadgan.
+
+c) Eventuella faktiska eller förutsebara negativa effekter på samhällsdebatten och valprocesser samt den allmänna säkerheten.
+
+d) Eventuella faktiska eller förutsebara negativa effekter avseende könsrelaterat våld, skydd av folkhälsan och minderåriga och allvarliga negativa konsekvenser för personens fysiska och psykiska välbefinnande.
+
+2\. När riskbedömningarna görs ska leverantörerna av mycket stora onlineplattformar och av mycket stora onlinesökmotorer särskilt beakta om och hur följande faktorer påverkar någon eller några av de systemrisker som avses i punkt 1:
+
+a) Utformningen av deras rekommendationssystem och andra eventuella relevanta algoritmiska system.
+
+b) Deras system för innehållsmoderering.
+
+c) Gällande allmänna villkor och tillämpningen av dem.
+
+d) System för urval och presentation av annonser.
+
+e) Leverantörens datarelaterade metoder.
+
+Leverantörerna ska i bedömningarna också analysera om och hur riskerna enligt punkt 1 påverkas av avsiktlig manipulering av deras tjänster, inbegripet genom icke-autentisk användning eller automatiserat utnyttjande av tjänsten, samt förstärkning och potentiellt snabb och omfattande spridning av olagligt innehåll och information som är oförenlig med deras allmänna villkor.
+
+Bedömningen ska ta hänsyn till särskilda regionala eller språkliga aspekter, även när de är specifika för en medlemsstat.
+
+3\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska behålla de styrkande handlingarna från riskbedömningarna i minst tre år efter det att riskbedömningarna har utförts, och ska på begäran översända dem till kommissionen och samordnaren för digitala tjänster i etableringslandet.
+
+### Artikel 35 – Riskbegränsning
+
+1\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska införa rimliga, proportionella och effektiva riskbegränsningsåtgärder som är anpassade för de specifika systemrisker som identifierats enligt artikel [34](#artikel-34-riskbedömning), med särskilt beaktande av dessa åtgärders konsekvenser för grundläggande rättigheter. Sådana åtgärder får, i tillämpliga fall, innefatta
+
+a) anpassning av deras tjänsters utformning, funktioner eller funktionssätt, inbegripet deras onlinegränssnitt,
+
+b) anpassning av deras allmänna villkor och tillämpningen av dem,
+
+c) anpassning av innehållsmodereringsprocesserna, inbegripet hastigheten och kvaliteten på behandlingen av anmälningar avseende specifika typer av olagligt innehåll och, i förekommande fall, avlägsnandet eller oåtkomliggörandet utan dröjsmål av det anmälda innehållet, särskilt med avseende på olaglig hatpropaganda eller cybervåld, samt anpassning av eventuella relevanta beslutsprocesser och särskilda resurser för innehållsmoderering,
+
+d) testning och anpassning av deras algoritmiska system, inbegripet deras rekommendationssystem,
+
+e) anpassning av deras system för annonsering och anpassning av riktade åtgärder som syftar till att begränsa eller justera presentationen av annonser i samband med de tjänster som de tillhandahåller,
+
+f) stärkande av interna processer, interna resurser, intern testning, intern dokumentation av eller intern tillsyn över deras verksamhet, särskilt vad gäller upptäckt av systemrisk,
+
+g) inledande eller anpassning av samarbetet med betrodda anmälare i enlighet med artikel [22](#artikel-22-betrodda-anmälare), och genomförande av beslutet om organ för tvistlösning utanför domstol enligt artikel [21](#artikel-21-tvistlösning-utanför-domstol),
+
+h) inledande eller anpassning av samarbetet med andra leverantörer av onlineplattformar eller av onlinesökmotorer genom de uppförandekoder och krisprotokoll som avses i artiklarna [45](#artikel-45-uppförandekoder) respektive 48,
+
+i) vidtagande av medvetandehöjande åtgärder och anpassning av deras onlinegränssnitt i syfte att ge tjänstemottagare mer information,
+
+j) vidtagande av riktade åtgärder för att skydda barnets rättigheter, inbegripet verktyg för ålderskontroll och föräldrakontroll, verktyg avsedda att hjälpa minderåriga att anmäla övergrepp eller få stöd, beroende på vad som är lämpligt.
+
+k) säkerställande av att information, oavsett om denna utgör genererad eller manipulerad bild, ljud eller video som på ett märkbart sätt liknar befintliga personer, föremål, platser eller andra enheter eller händelser och som felaktigt framstår som autentiskt eller sanningsenligt går att särskilja genom framträdande märkning när den presenteras på deras onlinegränssnitt samt, dessutom, tillhandahållande av en funktion som är lätt att använda och som gör det möjligt för tjänstemottagarna att markera sådan information.
+
+2\. Nämnden ska i samarbete med kommissionen offentliggöra övergripande rapporter en gång om året. Rapporterna ska omfatta följande:
+
+a) Identifiering och bedömning av de mest framträdande och återkommande systemrisker som rapporterats av leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer eller identifierats genom andra informationskällor, särskilt sådana som tillhandahållits i enlighet med artiklarna [39](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online), [40](#artikel-40-dataåtkomst-och-granskning) och [42](#artikel-42-transparensrapporteringsskyldigheter).
+
+b) Bästa praxis för leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer för att begränsa de systemrisker som identifieras.
+
+Dessa rapporter ska redogöra för systemrisker uppdelade på de medlemsstater där de uppstått och i unionen som helhet, beroende på vad som är tillämpligt.
+
+3\. Kommissionen får i samarbete med samordnarna för digitala tjänster utfärda riktlinjer för tillämpningen av punkt 1 med avseende på specifika risker, särskilt för att beskriva bästa praxis och rekommendera tänkbara åtgärder, med vederbörlig hänsyn till de konsekvenser som åtgärderna kan ha på de grundläggande rättigheterna enligt stadgan, för alla berörda parter. Vid utarbetandet av dessa riktlinjer ska kommissionen anordna offentliga samråd.
+
+### Artikel 36 – Krisresponsmekanism
+
+1\. Om en kris uppstår får kommissionen, på rekommendation av nämnden, anta ett beslut som ålägger en eller flera leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer att vidta en eller flera av följande åtgärder:
+
+a) Bedöma om och, i så fall, i vilken utsträckning och på vilket sätt, driften och användningen av deras tjänster på ett betydande sätt bidrar till ett allvarligt hot enligt punkt 2, eller sannolikt kommer att göra det.
+
+b) Välja ut och tillämpa specifika, effektiva och proportionella åtgärder, såsom de som föreskrivs i artikel [35.1](#artikel-35-riskbegränsning) eller artikel [48.2](#artikel-48-krisprotokoll), för att förebygga, undanröja eller begränsa sådana bidrag till det allvarliga hot som identifierats enligt led a i denna punkt.
+
+c) Senast ett visst datum, eller med i beslutet angivna regelbundna mellanrum, rapportera till kommissionen om de bedömningar som avses i led a, om det exakta innehållet i, genomförandet av och de kvalitativa och kvantitativa effekterna av de särskilda åtgärder som vidtagits enligt led b och om alla andra frågor som rör dessa bedömningar eller åtgärder, enligt vad som anges i beslutet.
+
+Vid val och tillämpning av åtgärder enligt led b i denna punkt ska tjänsteleverantören eller tjänsteleverantörerna ta vederbörlig hänsyn till graden av allvar i det allvarliga hot som avses i punkt 2, till åtgärdernas brådskande karaktär och till de faktiska eller potentiella konsekvenserna för alla berörda parters rättigheter och legitima intressen, inbegripet eventuell underlåtenhet att vidta åtgärder för att respektera de grundläggande rättigheter som fastställs i stadgan.
+
+2\. Vid tillämpningen av [denna artikel](#artikel-36-krisresponsmekanism) ska en kris anses föreligga om extraordinära omständigheter leder till ett allvarligt hot mot den allmänna säkerheten eller folkhälsan i unionen eller i betydande delar av den.
+
+3\. När kommissionen fattar det beslut som avses i punkt 1 ska den säkerställa att samtliga följande krav är uppfyllda:
+
+a) De åtgärder som krävs enligt beslutet är absolut nödvändiga, motiverade och proportionella, med hänsyn särskilt till graden av allvar i det allvarliga hot som avses i punkt 2, åtgärdernas brådskande karaktär och de faktiska eller potentiella konsekvenserna för alla berörda parters rättigheter och legitima intressen, inbegripet eventuell underlåtenhet att vidta åtgärder för att respektera de grundläggande rättigheter som fastställs i stadgan.
+
+b) I beslutet anges en rimlig tidsperiod inom vilken de särskilda åtgärder som avses i punkt 1 b ska vidtas, med hänsyn särskilt till hur brådskande åtgärderna är och den tid som behövs för att förbereda och genomföra dem.
+
+c) De åtgärder som krävs enligt beslutet är begränsade till en period på högst tre månader.
+
+4\. Efter att ha fattat det beslut som avses i punkt 1 ska kommissionen utan onödigt dröjsmål vidta följande åtgärder:
+
+a) Meddela beslutet till den eller de leverantörer som beslutet riktar sig till.
+
+b) Offentliggöra beslutet.
+
+c) Informera nämnden om beslutet, uppmana den att lämna in synpunkter på det och hålla den underrättad om eventuell senare utveckling angående beslutet.
+
+5\. Valet av särskilda åtgärder som ska vidtas enligt punkt 1 b och punkt 7 andra stycket ska göras av den eller de leverantörer som kommissionens beslut riktar sig till.
+
+6\. Kommissionen får på eget initiativ eller på begäran av leverantören inleda en dialog med leverantören för att, mot bakgrund av leverantörens särskilda omständigheter, avgöra om de planerade eller genomförda åtgärder som avses i punkt 1 b är effektiva och proportionella för att uppnå de eftersträvade målen. Kommissionen ska särskilt se till att de åtgärder som tjänsteleverantören vidtar enligt punkt 1 b uppfyller de krav som avses i punkt 3 a och c.
+
+7\. Kommissionen ska övervaka tillämpningen av de särskilda åtgärder som vidtas enligt det beslut som avses i punkt 1 i [denna artikel](#artikel-36-krisresponsmekanism), på grundval av de rapporter som avses i led c i den punkten och all annan relevant information, inbegripet information som den kan begära enligt artikel [40](#artikel-40-dataåtkomst-och-granskning) eller [67](/lagstiftning/dsa/kap-4#artikel-67-begäran-om-information), med beaktande av krisens utveckling. Kommissionen ska regelbundet rapportera till nämnden om den övervakningen, minst en gång i månaden.
+
+Om kommissionen anser att de planerade eller genomförda särskilda åtgärderna enligt punkt 1 b inte är effektiva eller proportionella får den, efter samråd med nämnden, anta ett beslut som kräver att leverantören ser över valet eller tillämpningen av dessa särskilda åtgärder.
+
+8\. När så är lämpligt med hänsyn till krisens utveckling får kommissionen, på nämndens rekommendation, ändra det beslut som avses i punkt 1 eller i punkt 7 andra stycket genom att
+
+a) återkalla beslutet och, när så är lämpligt, kräva att den mycket stora onlineplattformen eller den mycket stora onlinesökmotorn upphör att tillämpa de åtgärder som valts ut och genomförts enligt punkt 1 b eller punkt 7 andra stycket, i synnerhet om skälen för sådana åtgärder inte längre föreligger,
+
+b) förlänga den period som avses i punkt 3 c med en period på högst tre månader,
+
+c) beakta de erfarenheter som gjorts vid tillämpningen av åtgärderna, särskilt om åtgärderna eventuellt inte respekterar de grundläggande rättigheterna i stadgan.
+
+9\. Kraven i punkterna 1–6 ska tillämpas på beslutet och den ändring av det som avses i [denna artikel](#artikel-36-krisresponsmekanism).
+
+10\. Kommissionen ska ta största möjliga hänsyn till de rekommendationer som nämnden avger enligt [denna artikel](#artikel-36-krisresponsmekanism).
+
+11\. Kommissionen ska årligen rapportera till Europaparlamentet och rådet efter antagandet av beslut i enlighet med [denna artikel](#artikel-36-krisresponsmekanism), och under alla omständigheter tre månader efter det att krisen upphört, om tillämpningen av de särskilda åtgärder som vidtagits enligt dessa beslut.
+
+### Artikel 37 – Oberoende revision
+
+1\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska på egen bekostnad och minst en gång om året vara föremål för oberoende revision för att granska uppfyllandet av
+
+a) de skyldigheter som fastställs i [kapitel III](/lagstiftning/dsa/kap-3),
+
+b) eventuella åtaganden som gjorts enligt de uppförandekoder som avses i artiklarna [45](#artikel-45-uppförandekoder) och [46](#artikel-46-uppförandekoder-för-annonsering-online) och de krisprotokoll som avses i artikel [48](#artikel-48-krisprotokoll).
+
+2\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska tillhandahålla de organisationer som utför revisioner enligt [denna artikel](#artikel-37-oberoende-revision) det samarbete och bistånd som krävs för att de ska kunna utföra revisionerna på ett ändamålsenligt, effektivt och snabbt sätt, bland annat genom att ge dem tillgång till alla relevanta uppgifter och lokaler och genom att besvara muntliga eller skriftliga frågor. De ska avstå från att hindra, otillbörligt påverka eller undergräva utförandet av revisionen.
+
+Sådana revisioner ska säkerställa en lämplig nivå av konfidentialitet och tystnadsplikt när det gäller den information som erhålls från leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer och tredje parter i samband med revisionerna, även efter det att revisionerna har avslutats. Uppfyllandet av detta krav får dock inte inverka negativt på utförandet av revisioner och andra bestämmelser i [denna förordning](/lagstiftning/dsa), särskilt bestämmelserna om öppenhet, tillsyn och kontroll av efterlevnaden. Om det är nödvändigt för transparensrapporteringen enligt artikel [42.4](#artikel-42-transparensrapporteringsskyldigheter) ska revisionsrapporten och den rapport om genomförandet av revisionen som avses i punkterna 4 och 6 i [den här artikeln](#artikel-37-oberoende-revision) åtföljas av versioner som inte innehåller någon information som rimligen skulle kunna anses vara konfidentiell.
+
+3\. Revision enligt punkt 1 ska utföras av organisationer som
+
+a) är oberoende från och inte har några intressekonflikter med den berörda leverantören av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer och varje annan juridisk person med anknytning till den leverantören, som i synnerhet
+
+i) inte har tillhandahållit andra tjänster än revision med anknytning till de ärenden som granskas till den berörda leverantören av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer eller till någon juridisk person med anknytning till den leverantören under de tolv månader som föregår revisionens början och har åtagit sig att inte tillhandahålla sådana tjänster till dem under tolv månader efter det att revisionen slutförts,
+
+ii) inte har tillhandahållit revisionstjänster enligt [denna artikel](#artikel-37-oberoende-revision) till den berörda leverantören av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer eller till någon juridisk person med anknytning till den leverantören under en period som är längre än tio på varandra följande år,
+
+iii) inte utför revisionen i utbyte mot arvoden som är beroende av revisionens resultat,
+
+b) har styrkt sakkunskap på områdena riskhantering, teknisk kompetens och kapacitet, och
+
+c) har styrkt objektivitet och yrkesetik, baserat i synnerhet på efterlevnad av uppförandekoder eller lämpliga standarder.
+
+4\. Leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska säkerställa att de organisationer som utför revisionerna upprättar en revisionsrapport för varje revision. Den rapporten ska vara skriftligt underbyggd och ska innehålla åtminstone följande:
+
+a) Namn, adress och kontaktpunkt för leverantören av den mycket stora onlineplattform eller den mycket stora onlinesökmotor som är föremål för revisionen samt den period som omfattas.
+
+b) Namn och adress för den organisation eller de organisationer som utför revisionen.
+
+c) En intresseförklaring.
+
+d) En redogörelse för de specifika aspekter som omfattas av revisionen och den metod som använts.
+
+e) En redogörelse för och en sammanfattning av de viktigaste resultaten från revisionen.
+
+f) En förteckning över de tredje parter med vilka samråd genomförts som en del av revisionen.
+
+g) Ett revisionsuttalande där det anges om leverantören av den mycket stora onlineplattform eller den mycket stora onlinesökmotor som är föremål för revisionen uppfyllt de skyldigheter och åtaganden som avses i punkt 1; revisionsuttalandet kan vara positivt, positivt med anmärkningar eller negativt.
+
+h) I de fall då revisionsuttalandet inte är positivt, operativa rekommendationer om specifika åtgärder för att uppnå efterlevnad och den rekommenderade tidsramen för uppnående av efterlevnad.
+
+5\. Om den organisation som utfört revisionen inte har kunnat granska vissa specifika delar eller avge ett revisionsuttalande på grundval av sina undersökningar ska revisionsrapporten redogöra för omständigheterna och skälen till varför de delarna inte kunde granskas.
+
+6\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer som får en revisionsrapport som inte är positiv ska ta vederbörlig hänsyn till de operativa rekommendationer som riktas till dem för att vidta de åtgärder som är nödvändiga för att genomföra dessa. De ska inom en månad från mottagandet av dessa rekommendationer anta en rapport om genomförandet av revisionen där dessa åtgärder redovisas. I de fall då de inte genomför de operativa rekommendationerna ska de i rapporten om genomförandet av revisionen motivera varför de inte gjort det och ange eventuella alternativa åtgärder som de har vidtagit för att åtgärda alla fall av bristande efterlevnad.
+
+7\. Kommissionen ges befogenhet att anta delegerade akter i enlighet med artikel [87](/lagstiftning/dsa/kap-4#artikel-87-utövande-av-delegeringen) för att komplettera [denna förordning](/lagstiftning/dsa) genom att fastställa de regler som är nödvändiga för utförandet av revisioner enligt [den här artikeln](#artikel-37-oberoende-revision), särskilt när det gäller de nödvändiga reglerna om stegen i förfarandet, revisionsmetoder och rapporteringsmallar för de revisioner som utförs enligt [den här artikeln](#artikel-37-oberoende-revision). Dessa delegerade akter ska beakta eventuella frivilliga revisionsstandarder som avses i artikel [44.1 e](#artikel-44-standarder).
+
+### Artikel 38 – Rekommendationssystem
+
+Utöver de krav som anges i artikel [27](#artikel-27-transparens-i-rekommendationssystemet) ska leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer som använder rekommendationssystem erbjuda minst ett alternativ för vart och ett av sina rekommendationssystem som inte är baserat på profilering enligt definitionen i artikel [4.4](/lagstiftning/gdpr/kap-1#artikel-4-definitioner) i [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+### Artikel 39 – Ytterligare transparens vad gäller annonsering online
+
+1\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer som presenterar annonser på sina onlinegränssnitt ska sammanställa och offentliggöra, i en särskild sektion på deras onlinegränssnitt genom ett sökbart och tillförlitligt verktyg som medger flerkriteriesökningar, och via gränssnitt för applikationsprogrammering, en datakatalog som innehåller den information som avses i punkt 2, under hela den period under vilken de presenterar en annons och fram till ett år efter att annonsen presenterades för sista gången på deras onlinegränssnitt. De ska säkerställa att datakatalogen inte innehåller några personuppgifter för de tjänstemottagare som annonsen presenterades för eller kunde ha presenterats för och ska göra rimliga ansträngningar för att säkerställa att informationen är korrekt och fullständig.
+
+2\. Datakatalogen ska innehålla åtminstone samtliga följande uppgifter:
+
+a) Annonsens innehåll, inbegripet produktens, tjänstens eller varumärkets namn samt annonsens ämne.
+
+b) Den fysiska eller juridiska person för vars räkning annonsen presenterades.
+
+c) Den fysiska eller juridiska person som betalat för annonsen, om den personen är en annan än den person som avses i led b.
+
+d) Den period under vilken annonsen presenterades.
+
+e) Om annonsen var avsedd att presenteras specifikt för en eller flera särskilda grupper av tjänstemottagare och, i sådana fall, de huvudparametrar som använts för detta ändamål, inbegripet, om så är relevant, de huvudparametrar som använts för att utesluta en eller flera sådana särskilda grupper.
+
+f) De kommersiella meddelanden som offentliggjorts på de mycket stora onlineplattformarna och identifierats enligt artikel [26.2](#artikel-26-annonsering-på-onlineplattformar).
+
+g) Det totala antalet tjänstemottagare som nåtts och, i förekommande fall, aggregerade siffror uppdelade på varje medlemsstat för den grupp eller de grupper av mottagare till vilka annonsen specifikt riktades.
+
+3\. När det gäller punkt 2 a, b och c ska databasen, om en leverantör av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer har avlägsnat eller gjort en specifik annons oåtkomlig på grund av påstådd olaglighet eller oförenlighet med dess allmänna villkor, inte innehålla den information som avses i de leden. I sådana fall ska databasen för den berörda specifika annonsen innehålla den information som avses i artikel [17.3 a](#artikel-17-motivering)–e eller artikel [9.2 a](/lagstiftning/dsa/kap-2#artikel-9-förelägganden-om-att-agera-mot-olagligt-innehåll) i, beroende på vad som är tillämpligt.
+
+Kommissionen får, efter samråd med nämnden, med relevanta utvalda forskare enligt vad som avses i artikel [40](#artikel-40-dataåtkomst-och-granskning) och med allmänheten, utfärda riktlinjer om struktur, organisation och funktioner för de databaser som avses i [den här artikeln](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online).
+
+### Artikel 40 – Dataåtkomst och granskning
+
+1\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska, på motiverad begäran från samordnaren för digitala tjänster i etableringslandet eller kommissionen och inom en rimlig tidsperiod som anges i den begäran, ge dessa åtkomst till de data som behövs för att övervaka och bedöma efterlevnaden av [denna förordning](/lagstiftning/dsa).
+
+2\. Samordnare för digitala tjänster och kommissionen ska använda de data till vilka åtkomst givits enligt punkt 1 endast för att övervaka och bedöma efterlevnaden av [denna förordning](/lagstiftning/dsa) och ska ta vederbörlig hänsyn till de rättigheter och intressen som leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer och de berörda tjänstemottagarna har, inbegripet skydd av personuppgifter, skydd av konfidentiell information, i synnerhet företagshemligheter, och upprätthållande av säkerheten för deras tjänst.
+
+3\. Vid tillämpning av punkt 1 ska leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer, på begäran av antingen samordnaren för digitala tjänster i etableringslandet eller kommissionen, redogöra för utformningen av och logiken i hur deras algoritmiska system, inbegripet deras rekommendationssystem, fungerar och testas.
+
+4\. På motiverad begäran från samordnaren för digitala tjänster i etableringslandet ska leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer inom en rimlig tidsperiod som anges i begäran, ge utvalda forskare, som uppfyller kraven i punkt 8 i [denna artikel](#artikel-40-dataåtkomst-och-granskning), åtkomst till data enbart i syfte att bedriva forskning som bidrar till upptäckten, identifieringen och förståelsen av systemrisker i unionen enligt artikel [34.1](#artikel-34-riskbedömning) samt bedömningen av om riskminskningsåtgärderna enligt artikel [35](#artikel-35-riskbegränsning) är lämpliga och effektiva och vilka konsekvenser de har.
+
+5\. Inom 15 dagar från mottagandet av en sådan begäran som avses i punkt 4 får leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer begära att samordnaren för digitala tjänster i etableringslandet ändrar denna begäran, om de anser att de inte kan ge den begärda åtkomsten till data av ett av följande två skäl:
+
+a) De har inte tillgång till dessa data.
+
+b) Åtkomst till dessa data kommer att medföra betydande sårbarhet för tjänstens säkerhet eller skyddet av konfidentiell information, i synnerhet företagshemligheter.
+
+6\. En begäran om ändring enligt punkt 5 ska omfatta förslag på en eller flera alternativa metoder genom vilka åtkomst kan tillhandahållas till begärda data eller andra data som är lämpliga och tillräckliga för denna begärans ändamål.
+
+Samordnaren för digitala tjänster i etableringslandet ska fatta beslut om en begäran om ändring inom 15 dagar och meddela leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn sitt beslut och, i förekommande fall, den ändrade begäran och den nya fristen för att tillmötesgå denna begäran.
+
+7\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska underlätta och ge åtkomst till data enligt punkterna 1 och 4 genom lämpliga gränssnitt som anges i begäran, inbegripet onlinedatabaser eller gränssnitt för applikationsprogrammering.
+
+8\. Efter en vederbörligen motiverad ansökan från forskare ska samordnaren för digitala tjänster i etableringslandet ge sådana forskare status som utvalda forskare för den särskilda forskning som avses i ansökan och utfärda en motiverad begäran om åtkomst till data till en leverantör av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer enligt punkt 4, om forskarna visar att de uppfyller samtliga följande villkor:
+
+a) De är knutna till en forskningsorganisation enligt definitionen i artikel [2.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0790) i [direktiv (EU) 2019/790](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L0790).
+
+b) De är fristående från kommersiella intressen.
+
+c) Deras ansökan anger hur forskningen finansieras.
+
+d) De är kapabla att uppfylla de särskilda datasäkerhetskrav och konfidentialitetskrav som är förbundna med varje begäran och att skydda personuppgifter, och de beskriver i sin begäran lämpliga tekniska och organisatoriska åtgärder som de har vidtagit i detta syfte.
+
+e) Deras ansökan visar att deras tillgång till data och de tidsramar inom vilka de begär tillgång är nödvändiga för, och står i proportion till, forskningens syften, och att de förväntade resultaten av den forskningen kommer att bidra till de syften som föreskrivs i punkt 4.
+
+f) Den planerade forskningsverksamheten kommer att genomföras i de syften som föreskrivs i punkt 4.
+
+g) De har åtagit sig att göra forskningsresultaten allmänt tillgängliga utan kostnad, inom en rimlig tidsperiod efter det att forskningen slutförts, med förbehåll för de berörda tjänstemottagarnas rättigheter och intressen i enlighet med [förordning (EU) 2016/679](/lagstiftning/gdpr).
+
+När ansökan enligt denna punkt har mottagits ska samordnaren för digitala tjänster i etableringslandet informera kommissionen och nämnden.
+
+9\. Forskare får också lämna in sin ansökan till samordnaren för digitala tjänster i medlemsstaten för den forskningsorganisation till vilken de är knutna. Vid mottagandet av ansökan enligt denna punkt ska samordnaren för digitala tjänster göra en inledande bedömning av huruvida respektive forskare uppfyller samtliga villkor i punkt 8. Respektive samordnare för digitala tjänster ska därefter översända ansökan, tillsammans med de styrkande handlingar som lämnats in av respektive forskare och den inledande bedömningen, till samordnaren för digitala tjänster i etableringslandet. Samordnaren för digitala tjänster ska ta ett beslut huruvida en forskare ska tilldelas status som utvald forskare utan onödigt dröjsmål.
+
+Den inledande bedömningen ska beaktas fullt ut, men det slutliga beslutet att tilldela en forskare status som utvald forskare fattas av samordnaren för digitala tjänster i etableringslandet, i enlighet med punkt 8.
+
+10\. Den samordnare för digitala tjänster som beviljat status som utvald forskare och utfärdat den motiverade begäran om dataåtkomst till leverantörerna av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer för en utvald forskare, ska utfärda ett beslut om att avsluta åtkomsten om den efter en undersökning, antingen på eget initiativ eller på grundval av information från tredje part, fastställer att den utvalda forskaren inte längre uppfyller villkoren i punkt 8, och ska informera leverantören av den berörda mycket stora onlineplattformen eller mycket stora onlinesökmotorn om beslutet. Innan åtkomsten avslutas ska samordnaren för digitala tjänster ge den utvalda forskaren möjlighet att reagera på resultaten av undersökningen och på samordnarens avsikt att avsluta åtkomsten.
+
+11\. Samordnarna för digitala tjänster i etableringsländerna ska meddela nämnden namn och kontaktuppgifter för de fysiska personer eller enheter som de har beviljat status som utvald forskare i enlighet med punkt 8 samt syftet med den forskning som ligger till grund för den ansökan som gjorts eller, om de har avslutat dataåtkomsten i enlighet med punkt 10, kommunicera den informationen till nämnden.
+
+12\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska utan onödigt dröjsmål ge tillgång till data, inbegripet data i realtid om det är tekniskt möjligt, förutsatt att dessa data är allmänt tillgängliga i deras onlinegränssnitt för forskare, inbegripet sådana som är knutna till ideella organ, organisationer och sammanslutningar, som uppfyller villkoren i punkt 8 b, c, d och e och som använder dessa data enbart för att bedriva forskning som bidrar till att upptäcka, identifiera och förstå systemrisker i unionen enligt artikel [34.1](#artikel-34-riskbedömning).
+
+13\. Kommissionen ska efter samråd med nämnden anta delegerade akter som kompletterar [denna förordning](/lagstiftning/dsa) genom att fastställa de tekniska villkor enligt vilka leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska dela data enligt punkterna 1 och 4 och de ändamål för vilka dessa data får användas. Dessa delegerade akter ska fastställa de särskilda villkor enligt vilka sådan delning av data med forskare kan ske i överensstämmelse med [förordning (EU) 2016/679](/lagstiftning/gdpr), samt relevanta objektiva indikatorer, förfaranden och, vid behov, oberoende rådgivningsmekanismer till stöd för delning av data, med beaktande av de intressen som leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer och de berörda tjänstemottagarna har, inklusive skyddet av konfidentiell information, i synnerhet företagshemligheter, och med upprätthållande av säkerheten för deras tjänst.
+
+### Artikel 41 – Funktion för regelefterlevnad
+
+1\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska inrätta en funktion för regelefterlevnad som ska vara oberoende av deras operativa funktioner och bestå av en eller flera regelefterlevnadsansvariga, inbegripet chefen för funktionen för regelefterlevnad. Den funktionen för regelefterlevnad ska ha tillräcklig auktoritet och tyngd samt tillräckliga resurser liksom tillträde till ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn för att övervaka att leverantören efterlever [denna förordning](/lagstiftning/dsa).
+
+2\. Ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn ska säkerställa att regelefterlevnadsansvariga har de yrkeskvalifikationer, den kunskap, de erfarenheter och den förmåga som krävs för att utföra de uppgifter som avses i punkt 3.
+
+Ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn ska säkerställa att chefen för funktionen för regelefterlevnad är en oberoende högre chef med särskilt ansvar för funktionen för regelefterlevnad.
+
+Chefen för funktionen för regelefterlevnad ska rapportera direkt till ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn, och får ta upp problem och varna ledningsorganet när risker som avses i artikel [34](#artikel-34-riskbedömning) eller bristande efterlevnad av [denna förordning](/lagstiftning/dsa) påverkar eller kan komma att påverka den berörda leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn, utan att detta inverkar på ledningsorganets ansvar i dess tillsynsfunktion och ledningsfunktion.
+
+Chefen för funktionen för regelefterlevnad ska inte kunna avsättas utan förhandsgodkännande från ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn.
+
+3\. De regelefterlevnadsansvariga ska ha följande uppgifter:
+
+a) Samarbeta med samordnaren för digitala tjänster i etableringslandet och med kommissionen vid tillämpningen av [denna förordning](/lagstiftning/dsa).
+
+b) Säkerställa att alla risker som avses i artikel [34](#artikel-34-riskbedömning) identifieras och rapporteras korrekt och att rimliga, proportionella och ändamålsenliga riskminskningsåtgärder vidtas enligt artikel [35](#artikel-35-riskbegränsning).
+
+c) Organisera och övervaka de verksamheter som leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn bedriver i samband med den oberoende revisionen enligt artikel [37](#artikel-37-oberoende-revision).
+
+d) Förse ledningen och de anställda vid leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn med information och råd om relevanta skyldigheter inom ramen för [denna förordning](/lagstiftning/dsa).
+
+e) Övervaka att leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn fullgör sina skyldigheter enligt [denna förordning](/lagstiftning/dsa).
+
+f) I tillämpliga fall övervaka att leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn fullgör åtaganden som gjorts inom ramen för uppförandekoderna enligt artiklarna [45](#artikel-45-uppförandekoder) och [46](#artikel-46-uppförandekoder-för-annonsering-online) eller krisprotokollen enligt artikel [48](#artikel-48-krisprotokoll).
+
+4\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska meddela samordnaren för digitala tjänster i etableringslandet och kommissionen namn och kontaktuppgifter för chefen för funktionen för regelefterlevnad.
+
+5\. Ledningsorganet för leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn ska fastställa, övervaka och hållas ansvarigt för genomförandet av leverantörens styrningsarrangemang för säkerställande av oberoendet för funktionen för efterlevnad, inbegripet fördelning av ansvar inom organisationen hos leverantören av den mycket stora onlineplattformen eller av den mycket stora onlinesökmotorn, förebyggande av intressekonflikter och sund hantering av systemrisker som identifierats enligt artikel [34](#artikel-34-riskbedömning).
+
+6\. Ledningsorganet ska godkänna och regelbundet, minst en gång om året, se över strategier och policyer för beaktande, hantering, övervakning och minskning av de risker som identifierats enligt artikel [34](#artikel-34-riskbedömning) och som den mycket stora onlineplattformen eller den mycket stora onlinesökmotorn är exponerad för eller kan exponeras för.
+
+7\. Ledningsorganet ska ägna tillräckligt med tid åt att överväga åtgärder som rör riskhantering. Det ska aktivt delta i beslut som rör riskhantering och ska säkerställa att tillräckliga resurser anslås till hanteringen av de risker som identifierats enligt artikel [34](#artikel-34-riskbedömning).
+
+### Artikel 42 – Transparensrapporteringsskyldigheter
+
+1\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska offentliggöra de rapporter som avses i artikel [15](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster) senast två månader från den tillämpningsdag som avses i artikel [33.6](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer) andra stycket och därefter minst var sjätte månad.
+
+2\. De rapporter som avses i punkt 1 i [denna artikel](#artikel-42-transparensrapporteringsskyldigheter) och som offentliggörs av leverantörer av mycket stora onlineplattformar ska, utöver den information som avses i artiklarna [15](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster) och [24.1](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar), specificera följande:
+
+a) De personalresurser som leverantören av mycket stora onlineplattformar avsätter för innehållsmoderering med avseende på de tjänster som erbjuds i unionen, uppdelade på vart och ett av medlemsstaternas officiella språk som är tillämpliga, inbegripet för att fullgöra de skyldigheter som fastställs i artiklarna [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder) och [22](#artikel-22-betrodda-anmälare) samt för att fullgöra de skyldigheter som anges i artikel [20](#artikel-20-internt-system-för-hantering-av-klagomål).
+
+b) Kvalifikationerna och språkkunskaperna hos de personer som utför den verksamhet som avses i led a samt den utbildning och det stöd som ges till sådan personal.
+
+c) De indikatorer på korrekthet och tillhörande information som avses i artikel [15.1 e](#artikel-15-transparensrapporteringsskyldigheter-för-leverantörer-av-förmedlingstjänster), uppdelade på vart och ett av medlemsstaternas officiella språk.
+
+Rapporterna ska offentliggöras på minst ett av medlemsstaternas officiella språk.
+
+3\. Utöver den information som avses i artikel [24.2](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) ska leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer i de rapporter som avses i punkt 1 i [den här artikeln](#artikel-42-transparensrapporteringsskyldigheter) inkludera information om det genomsnittliga antalet tjänstemottagare per månad för varje medlemsstat.
+
+4\. Leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer ska till samordnaren för digitala tjänster i etableringslandet och kommissionen överlämna, utan onödigt dröjsmål efter färdigställande, och offentliggöra senast tre månader efter mottagandet av var och en av revisionsrapporterna enligt artikel [37.4](#artikel-37-oberoende-revision)
+
+a) en rapport som beskriver resultaten av riskbedömningen enligt artikel [34](#artikel-34-riskbedömning),
+
+b) de specifika riskbegränsningsåtgärder som vidtagits enligt artikel [35.1](#artikel-35-riskbegränsning),
+
+c) den revisionsrapport som föreskrivs i artikel [37.4](#artikel-37-oberoende-revision),
+
+d) den rapport om genomförandet av revisionen som föreskrivs i artikel [37.6](#artikel-37-oberoende-revision),
+
+e) i tillämpliga fall, information om de samråd som leverantören genomfört till stöd för riskbedömningarna och utformningen av riskbegränsningsåtgärderna.
+
+5\. Om en leverantör av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer anser att offentliggörandet av information enligt punkt 4 kan resultera i röjandet av konfidentiell information hos den leverantören eller tjänstemottagarna, medföra sårbarhet för dess tjänsts säkerhet, undergräva allmän säkerhet eller skada mottagare, får leverantören avlägsna denna information från de allmänt tillgängliga rapporterna. I sådana fall ska leverantören sända de fullständiga rapporterna till samordnaren för digitala tjänster i etableringslandet och kommissionen, tillsammans med en motivering som förklarar varför informationen avlägsnades från de allmänt tillgängliga rapporterna.
+
+### Artikel 43 – Tillsynsavgift
+
+1\. Kommissionen ska ta ut en årlig tillsynsavgift av leverantörer av mycket stora onlineplattformar och av mycket stora onlinesökmotorer som utses i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer).
+
+2\. Det totala beloppet för de årliga tillsynsavgifterna ska täcka de beräknade kostnader som kommissionen ådrar sig i samband med sina tillsynsuppgifter enligt [denna förordning](/lagstiftning/dsa), särskilt kostnader i samband med utseende enligt artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer), inrättande, underhåll och drift av databasen enligt artikel [24.5](#artikel-24-transparensrapporteringsskyldigheter-för-leverantörer-av-onlineplattformar) och systemet för informationsutbyte enligt artikel [85](/lagstiftning/dsa/kap-4#artikel-85-system-för-informationsutbyte), hänskjutanden enligt artikel [59](/lagstiftning/dsa/kap-4#artikel-59-hänskjutande-till-kommissionen), stöd till nämnden enligt artikel [62](/lagstiftning/dsa/kap-4#artikel-62-nämndens-struktur) och tillsynsuppgifter enligt artikel [56](/lagstiftning/dsa/kap-4#artikel-56-behörighet) och [kapitel IV](/lagstiftning/dsa/kap-4) avsnitt 4.
+
+3\. Leverantörerna av mycket stora onlineplattformar och av mycket stora onlinesökmotorer ska årligen debiteras en tillsynsavgift för varje tjänst som de har utsetts för i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer).
+
+Kommissionen ska anta genomförandeakter som fastställer den årliga tillsynsavgiften för varje leverantör av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer. När kommissionen antar dessa genomförandeakter ska den tillämpa den metod som fastställs i den delegerade akt som avses i punkt 4 i [denna artikel](#artikel-43-tillsynsavgift) och ska respektera principerna i punkt 5 i [denna artikel](#artikel-43-tillsynsavgift). Dessa genomförandeakter ska antas i enlighet med det rådgivande förfarande som avses i artikel [88](/lagstiftning/dsa/kap-4#artikel-88-kommittéförfarande).
+
+4\. Kommissionen ska anta delegerade akter i enlighet med artikel [87](/lagstiftning/dsa/kap-4#artikel-87-utövande-av-delegeringen) som fastställer detaljerade metoder och förfaranden för
+
+a) fastställande av de beräknade kostnader som avses i punkt 2,
+
+b) fastställande av de enskilda årliga tillsynsavgifter som avses i punkt 5 b och c,
+
+c) fastställande av det högsta totala värde som anges i punkt 5 c, och
+
+d) de arrangemang som krävs för inbetalningar.
+
+Kommissionen ska iaktta de principer som anges i punkt 5 i [denna artikel](#artikel-43-tillsynsavgift) när den antar dessa delegerade akter.
+
+5\. Den genomförandeakt som avses i punkt 3 och den delegerade akt som avses i punkt 4 ska iaktta följande principer:
+
+a) Beräkningen av det totala beloppet för den årliga tillsynsavgiften tar hänsyn till de kostnader som uppkommit under det föregående året.
+
+b) Den årliga tillsynsavgiften står i proportion till det genomsnittliga antalet aktiva mottagare per månad i unionen för varje mycket stor onlineplattform eller varje mycket stor onlinesökmotor som utsetts i enlighet med artikel [33](#artikel-33-mycket-stora-onlineplattformar-och-mycket-stora-onlinesökmotorer).
+
+c) Den totala årliga tillsynsavgift som tas ut från en viss leverantör av mycket stora onlineplattformar eller mycket stora sökmotorer överstiger inte under några omständigheter 0,05 % av dess globala årliga nettoinkomst under det föregående räkenskapsåret.
+
+6\. De enskilda årliga tillsynsavgifter som tas ut enligt punkt 1 i [denna artikel](#artikel-43-tillsynsavgift) ska utgöra externa inkomster avsatta för särskilda ändamål i enlighet med artikel 21.5 i Europaparlamentets och rådets förordning (EU, Euratom) 2018/1046 (41).
+
+7\. Kommissionen ska årligen rapportera till Europaparlamentet och rådet om de totala kostnaderna för fullgörandet av uppgifterna enligt [denna förordning](/lagstiftning/dsa) och det totala beloppet för de enskilda årliga tillsynsavgifter som tagits ut under det föregående året.
+
+### Artikel 44 – Standarder
+
+1\. Kommissionen ska samråda med nämnden och stödja och främja utvecklingen och genomförandet av frivilliga standarder som fastställs av relevanta europeiska och internationella standardiseringsorgan när det gäller åtminstone följande:
+
+a) Elektronisk inlämning av anmälningar enligt artikel [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder).
+
+b) Standarder för mallar, utformning och processer för användarvänlig kommunikation med tjänstemottagarna om begränsningar till följd av allmänna villkor och ändringar av dessa.
+
+c) Elektronisk inlämning av anmälningar från betrodda anmälare enligt artikel [22](#artikel-22-betrodda-anmälare), däribland genom gränssnitt för applikationsprogrammering.
+
+d) Särskilda gränssnitt, däribland gränssnitt för applikationsprogrammering, för att främja fullgörandet av de skyldigheter som anges i artiklarna [39](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online) och [40](#artikel-40-dataåtkomst-och-granskning).
+
+e) Revision av mycket stora onlineplattformar och av mycket stora onlinesökmotorer enligt artikel [37](#artikel-37-oberoende-revision).
+
+f) Interoperabilitet för de datakataloger för annonser som avses i artikel [39.2](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online).
+
+g) Överföring av data mellan annonseringsmellanhänder till stöd för transparensskyldigheter enligt artikel [26.1 b](#artikel-26-annonsering-på-onlineplattformar), c och d.
+
+h) Tekniska åtgärder för att göra det möjligt att fullgöra skyldigheterna i [denna förordning](/lagstiftning/dsa) i fråga om annonsering, inbegripet de skyldigheter avseende tydliga markeringar av annonser och kommersiella meddelanden som avses i artikel [26](#artikel-26-annonsering-på-onlineplattformar).
+
+i) Val av gränssnitt och presentation av information om huvudparametrarna för olika typer av rekommendationssystem, i enlighet med artiklarna [27](#artikel-27-transparens-i-rekommendationssystemet) och [38](#artikel-38-rekommendationssystem).
+
+j) Standarder för riktade åtgärder för att skydda minderåriga online.
+
+2\. Kommissionen ska stödja uppdateringen av standarder mot bakgrund av den tekniska utvecklingen och beteendena hos mottagarna av de berörda tjänsterna. Relevant information om uppdateringen av standarderna ska vara allmänt och lätt tillgänglig.
+
+### Artikel 45 – Uppförandekoder
+
+1\. Kommissionen och nämnden ska uppmuntra och främja utarbetandet av frivilliga uppförandekoder på unionsnivå för att bidra till en korrekt tillämpning av [denna förordning](/lagstiftning/dsa), med beaktande av i synnerhet de särskilda utmaningarna med att hantera olika typer av olagligt innehåll och systemrisker, i enlighet med unionsrätten i synnerhet på områdena konkurrens och skydd av personuppgifter.
+
+2\. När betydande systemrisker i den mening som avses i artikel [34.1](#artikel-34-riskbedömning) uppstår och berör flera mycket stora onlineplattformar eller mycket stora onlinesökmotorer får kommissionen bjuda in berörda leverantörer av mycket stora onlineplattformar eller berörda leverantörer av mycket stora onlinesökmotorer, andra leverantörer av mycket stora onlineplattformar, av mycket stora onlinesökmotorer, av onlineplattformar och av andra förmedlingstjänster, när så är lämpligt, liksom relevanta behöriga myndigheter, civilsamhällesorganisationer och andra relevanta intressenter, att delta i utarbetandet av uppförandekoder, vilket innefattar inrättandet av kommittéer för att vidta särskilda riskbegränsningsåtgärder, samt en ram för regelbunden rapportering om åtgärder som vidtas och resultaten av dessa.
+
+3\. När de tillämpar punkterna 1 och 2 ska kommissionen och nämnden samt, i förekommande fall, andra organ, sträva efter att säkerställa att uppförandekoderna omfattar tydligt angivna specifika mål, innehåller nyckelutförandeindikatorer för att mäta hur dessa mål uppnås och att de tar vederbörlig hänsyn till behoven och intressena för alla berörda parter, och i synnerhet medborgarna, på unionsnivå. Kommissionen och nämnden ska också sträva efter att säkerställa att deltagarna regelbundet rapporterar till kommissionen och sina respektive samordnare för digitala tjänster i etableringsländerna om åtgärder som vidtagits samt resultaten av dessa, som mäts i förhållande till de nyckelutförandeindikatorer som anges i uppförandekoderna. Nyckelutförandeindikatorer och rapporteringsåtaganden ska ta hänsyn till skillnader mellan olika deltagares storlek och kapacitet.
+
+4\. Kommissionen och nämnden ska bedöma om uppförandekoderna fyller de syften som anges i punkterna 1 och 3 och ska regelbundet övervaka och utvärdera hur uppförandekodernas mål uppnås, med beaktande av de nyckelutförandeindikatorer de eventuellt innehåller. De ska offentliggöra sina slutsatser.
+
+Kommissionen och nämnden ska också uppmuntra och främja regelbunden översyn och anpassning av uppförandekoderna.
+
+Vid systematisk underlåtenhet att följa uppförandekoderna får kommissionen och nämnden uppmana undertecknarna av uppförandekoderna att vidta nödvändiga åtgärder.
+
+### Artikel 46 – Uppförandekoder för annonsering online
+
+1\. Kommissionen ska uppmuntra och främja utarbetandet av frivilliga uppförandekoder på unionsnivå av leverantörer av onlineplattformar och andra relevanta tjänsteleverantörer, exempelvis tillhandahållare av förmedlingstjänster för annonsering online, andra aktörer som ingår i värdekedjan för programmatisk annonsering, organisationer som företräder tjänstemottagare, civilsamhällesorganisationer eller berörda myndigheter, för att bidra till ytterligare transparens för aktörer i värdekedjan för annonsering online utöver kraven i artiklarna [26](#artikel-26-annonsering-på-onlineplattformar) och [39](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online).
+
+2\. Kommissionen ska sträva efter att säkerställa att uppförandekoderna främjar en effektiv överföring av information som fullt ut iakttar alla berörda parters rättigheter och intressen, samt konkurrenspräglade, transparenta och rättvisa villkor för annonsering online, i enlighet med unionsrätten och nationell rätt, i synnerhet på områdena konkurrens samt integritetsskydd och skydd av personuppgifter. Kommissionen ska sträva efter att säkerställa att uppförandekoderna omfattar minst följande:
+
+a) Överföring av information som innehas av förmedlare av annonsering online till tjänstemottagare beträffande kraven i artikel [26.1 b](#artikel-26-annonsering-på-onlineplattformar), c och d.
+
+b) Överföring av information som innehas av förmedlare av annonsering online till datakatalogerna enligt artikel [39](#artikel-39-ytterligare-transparens-vad-gäller-annonsering-online).
+
+c) Meningsfull information om monetarisering av data.
+
+3\. Kommissionen ska uppmuntra utarbetandet av uppförandekoder senast den 18 februari 2025 och uppförandekoderna ska börja tillämpas senast den 18 augusti 2025.
+
+4\. Kommissionen ska uppmuntra alla aktörer i den värdekedja för annonsering online som avses i punkt 1 att godkänna de åtaganden som anges i uppförandekoderna och att fullgöra dem.
+
+### Artikel 47 – Uppförandekoder för tillgänglighet
+
+1\. Kommissionen ska uppmuntra och främja utarbetandet av uppförandekoder på unionsnivå med deltagande av leverantörer av onlineplattformar och andra relevanta tjänsteleverantörer, organisationer som företräder tjänstemottagare och civilsamhällesorganisationer eller berörda myndigheter för att främja fullständigt och verkningsfullt deltagande på lika villkor genom att förbättra tillgången till onlinetjänster som, genom ursprunglig utformning eller senare anpassning, tillgodoser de särskilda behoven hos personer med funktionsnedsättning.
+
+2\. Kommissionen ska sträva efter att säkerställa att uppförandekoderna eftersträvar målet att säkerställa dessa tjänsters tillgänglighet i enlighet med unionsrätten och nationell rätt, för att maximera deras förutsebara användning bland personer med funktionsnedsättning. Kommissionen ska sträva efter att säkerställa att uppförandekoderna omfattar minst följande mål:
+
+a) Utforma och anpassa tjänster för att göra dem tillgängliga för personer med funktionsnedsättning genom att göra dem synliga, funktionella, begripliga och robusta.
+
+b) Förklara hur tjänsterna uppfyller de tillämpliga tillgänglighetskraven och göra denna information tillgänglig för allmänheten på ett tillgängligt sätt för personer med funktionsnedsättning.
+
+c) Säkerställa att information, formulär och åtgärder enligt [denna förordning](/lagstiftning/dsa) görs tillgängliga på ett sådant sätt att de är lätta att hitta, lätta att förstå och tillgängliga för personer med funktionsnedsättning.
+
+3\. Kommissionen ska uppmuntra utarbetandet av uppförandekoder senast den 18 februari 2025 och att de börjar tillämpas senast den 18 augusti 2025.
+
+### Artikel 48 – Krisprotokoll
+
+1\. Nämnden får rekommendera att kommissionen initierar utarbetandet, i enlighet med punkterna 2, 3 och 4, av frivilliga krisprotokoll för hantering av krissituationer. Dessa situationer ska vara strikt begränsade till extraordinära omständigheter som påverkar den allmänna säkerheten eller folkhälsan.
+
+2\. Kommissionen ska uppmuntra och främja att leverantörer av mycket stora onlineplattformar, av mycket stora onlinesökmotorer och, när så är lämpligt, leverantörer av andra onlineplattformar eller av andra onlinesökmotorer, deltar i utarbetandet, testandet och tillämpningen av dessa krisprotokoll. Kommissionen ska sträva efter att säkerställa att dessa krisprotokoll innefattar en eller flera av följande åtgärder:
+
+a) På ett framträdande sätt visa sådan information om krissituationen som tillhandahålls av medlemsstaternas myndigheter eller på unionsnivå eller, beroende på krisens sammanhang, av andra berörda, tillförlitliga organ.
+
+b) Säkerställa att leverantören av förmedlingstjänster utser en särskild kontaktpunkt för krishantering. I tillämpliga fall kan detta vara den elektroniska kontaktpunkt som avses i artikel [11](#artikel-11-kontaktpunkter-för-medlemsstaternas-myndigheter-kommissionen-och-nämnden) eller, när det gäller leverantörer av mycket stora onlineplattformar eller av mycket stora onlinesökmotorer, den regelefterlevnadsansvariga som avses i artikel [41](#artikel-41-funktion-för-regelefterlevnad).
+
+c) När så är tillämpligt, anpassa de resurser som avsätts för fullgörandet av de skyldigheter som anges i artiklarna [16](#artikel-16-mekanismer-för-anmälan-och-åtgärder), [20](#artikel-20-internt-system-för-hantering-av-klagomål), [22](#artikel-22-betrodda-anmälare), [23](#artikel-23-åtgärder-och-skydd-mot-missbruk) och [35](#artikel-35-riskbegränsning) till de behov som krissituationen ger upphov till.
+
+3\. Kommissionen ska, vid behov, involvera medlemsstaternas myndigheter och får även involvera unionens organ och byråer i arbetet med att utarbeta, testa och övervaka tillämpningen av dessa krisprotokoll. Kommissionen får, när så är nödvändigt och lämpligt, också involvera civilsamhällesorganisationer eller andra relevanta organisationer i utarbetandet av krisprotokoll.
+
+4\. Kommissionen ska sträva efter att säkerställa att alla följande aspekter på ett tydligt sätt anges i krisprotokollen:
+
+a) De specifika parametrarna för att fastställa vad som utgör de särskilda extraordinära omständigheter som krisprotokollet är ämnat att omfatta och de mål som eftersträvas med det.
+
+b) Varje deltagares roll och de åtgärder som de ska vidta som förberedelse och när krisprotokollet har aktiverats.
+
+c) Ett tydligt förfarande för att avgöra när krisprotokollet ska aktiveras.
+
+d) Ett tydligt förfarande för att fastställa under vilken tidsperiod som de åtgärder som ska vidtas när krisprotokollet aktiveras ska gälla, vilken är strikt begränsad till vad som är nödvändigt för att hantera de särskilda extraordinära omständigheterna i fråga.
+
+e) Skyddsmekanismer för att hantera eventuella negativa effekter på utövandet av grundläggande rättigheter enligt stadgan, i synnerhet yttrandefriheten, informationsfriheten och rätten till icke-diskriminering.
+
+f) En process för offentlig rapportering av alla åtgärder som vidtagits, deras varaktighet och deras resultat, efter att krissituationen har upphört.
+
+5\. Om kommissionen anser att ett krisprotokoll inte fungerar effektivt i krissituationen, eller för att skydda utövandet av grundläggande rättigheter enligt punkt 4 e, ska den begära att deltagarna ändrar krisprotokollet, även genom att vidta ytterligare åtgärder.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

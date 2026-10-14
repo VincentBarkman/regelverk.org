@@ -1,0 +1,201 @@
+---
+'source': 'dora'
+'ref': 'Kapitel VII'
+'title': 'Kapitel VII – Behöriga myndigheter'
+'kind': 'chapter'
+'description': 'DORA-förordningen, Kapitel VII.'
+'designation': 'DORA-förordningen Kapitel VII'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0024.03#cpt_VII'
+'sites':
+  - 'it'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 46 – Behöriga myndigheter
+
+Utan att det påverkar tillämpningen av de bestämmelser om tillsynsramen för kritiska tredjepartsleverantörer av IKT-tjänster som avses i [kapitel V](/lagstiftning/dora/kap-5) avsnitt II i [denna förordning](/lagstiftning/dora) ska efterlevnaden av [denna förordning](/lagstiftning/dora) säkerställas av följande behöriga myndigheter i enlighet med de befogenheter som tilldelats genom respektive rättsakt:
+
+a) För kreditinstitut och för institut undantagna enligt [direktiv 2013/36/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036): den behöriga myndighet som har utsetts i enlighet med artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036) i det direktivet. För kreditinstitut som har klassificerats som betydande i enlighet med artikel [6.4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024) i [förordning (EU) nr 1024/2013](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R1024): ECB i enlighet med de befogenheter och uppgifter som har tilldelats genom den förordningen.
+
+b) För betalningsinstitut, inbegripet betalningsinstitut undantagna enligt [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366), institut för elektroniska pengar, inbegripet de som är undantagna enligt [direktiv 2009/110/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0110), och leverantörer av kontoinformationstjänster som avses i artikel [33.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366): den behöriga myndighet som har utsetts i enlighet med artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366) i [direktiv (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32015L2366).
+
+c) För värdepappersföretag: den behöriga myndighet som har utsetts i enlighet med artikel [4](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L2034) i [Europaparlamentets och rådets direktiv (EU) 2019/2034](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019L2034) (38).
+
+d) För leverantörer av kryptotillgångstjänster som har auktoriserats enligt förordningen om kryptotillgångar och emittenter av tillgångsanknutna token: den behöriga myndighet som har utsetts i enlighet med de relevanta bestämmelserna i den förordningen.
+
+e) För värdepapperscentraler: den behöriga myndighet som har utsetts i enlighet med artikel [11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909) i [förordning (EU) nr 909/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909).
+
+f) För centrala motparter: den behöriga myndighet som har utsetts i enlighet med artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) i [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648).
+
+g) För handelsplatser och leverantörer av datarapporteringstjänster: den behöriga myndighet som har utsetts i enlighet med artikel [67](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) i [direktiv 2014/65/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0065) och den behöriga myndigheten enligt definitionen i artikel [2.1.18](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600) i [förordning (EU) nr 600/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600).
+
+h) För transaktionsregister: den behöriga myndighet som har utsetts i enlighet med artikel [22](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648) i [förordning (EU) nr 648/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648).
+
+i) För förvaltare av alternativa investeringsfonder: den behöriga myndighet som har utsetts i enlighet med artikel [44](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061) i [direktiv 2011/61/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32011L0061).
+
+j) För förvaltningsbolag: den behöriga myndighet som har utsetts i enlighet med artikel [97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065) i [direktiv 2009/65/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0065).
+
+k) För försäkrings- och återförsäkringsföretag: den behöriga myndighet som har utsetts i enlighet med artikel [30](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138) i [direktiv 2009/138/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009L0138).
+
+l) För försäkringsförmedlare, återförsäkringsförmedlare och försäkringsförmedlare som bedriver förmedling som sidoverksamhet: den behöriga myndighet som har utsetts i enlighet med artikel [12](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097) i [direktiv (EU) 2016/97](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L0097).
+
+m) För tjänstepensionsinstitut: den behöriga myndighet som har utsetts i enlighet med artikel [47](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2341) i [direktiv (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016L2341).
+
+n) För kreditvärderingsinstitut: den behöriga myndighet som har utsetts i enlighet med artikel [21](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060) i [förordning (EG) nr 1060/2009](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060).
+
+o) För administratörer av kritiska referensvärden: den behöriga myndighet som har utsetts i enlighet med artiklarna [40](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) och [41](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011) i [förordning (EU) 2016/1011](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011).
+
+p) För leverantörer av gräsrotsfinansieringstjänster: den behöriga myndighet som har utsetts i enlighet med artikel [29](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020R1503) i [förordning (EU) 2020/1503](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32020R1503).
+
+q) För värdepapperiseringsregister: den behöriga myndighet som har utsetts i enlighet med artiklarna [10](/lagstiftning/dora/kap-2#artikel-10-upptäckt) och artikel [14.1](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R2402) i [förordning (EU) 2017/2402](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32017R2402).
+
+### Artikel 47 – Samarbete med strukturer och myndigheter som har inrättats genom direktiv (EU) 2022/2555
+
+1\. För att främja samarbete och möjliggöra tillsynsutbyten mellan de behöriga myndigheter som har utsetts enligt [denna förordning](/lagstiftning/dora) och den samarbetsgrupp som har inrättats genom artikel [14](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp) i [direktiv (EU) 2022/2555](/lagstiftning/nis2) får de europeiska tillsynsmyndigheterna och de behöriga myndigheterna delta i samarbetsgruppens verksamhet i frågor som rör deras tillsynsverksamhet i samband med finansiella entiteter. De europeiska tillsynsmyndigheterna och de behöriga myndigheterna får begära att bli inbjudna att delta i samarbetsgruppens verksamhet i väsentliga eller viktiga frågor som rör entiteter om inte annat följer av [direktiv (EU) 2022/2555](/lagstiftning/nis2) och som har klassificerats som kritiska tredjepartsleverantörer av IKT-tjänster enligt artikel [31](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) i [denna förordning](/lagstiftning/dora).
+
+2\. De behöriga myndigheterna får när så är lämpligt samråda och utbyta information med den gemensamma kontaktpunkten och de CSIRT-enheter som utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2).
+
+3\. De behöriga myndigheterna får när så är lämpligt begära relevant teknisk rådgivning och tekniskt stöd från de behöriga myndigheter som har utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2) och ingå samarbetsarrangemang som gör det möjligt att inrätta effektiva och snabba samordningsmekanismer.
+
+4\. De arrangemang som avses i punkt 3 i [denna artikel](#artikel-47-samarbete-med-strukturer-och-myndigheter-som-har-inrättats-genom-direktiv-eu-2022-2555) kan bland annat ange förfarandena för samordning av tillsynsverksamheten i samband med väsentliga eller viktiga entiteter om inte annat följer av] [direktiv (EU) 2022/2555](/lagstiftning/nis2) och som har klassificerats som kritiska tredjepartsleverantörer av IKT-tjänster enligt artikel [31](/lagstiftning/dora/kap-5#artikel-31-klassificering-av-tredjepartsleverantörer-av-ikt-tjänster-som-kritiska) i [denna förordning](/lagstiftning/dora), bl.a. för genomförande av utredningar och inspektioner på plats i enlighet med nationell rätt och för mekanismer för informationsutbyte mellan de behöriga myndigheterna enligt [denna förordning](/lagstiftning/dora) och de behöriga myndigheter som har utsetts eller inrättats i enlighet med det direktivet, inbegripet tillgång till information som de senare myndigheterna har begärt.
+
+### Artikel 48 – Samarbete mellan myndigheter
+
+1\. De behöriga myndigheterna ska ha ett nära samarbete sinsemellan och, i tillämpliga fall, med den ledande tillsynsmyndigheten.
+
+2\. De behöriga myndigheterna och den ledande tillsynsmyndigheten ska i god tid ömsesidigt utbyta all relevant information om kritiska tredjepartsleverantörer av IKT-tjänster som är nödvändig för att de ska kunna utföra sina respektive uppgifter enligt [denna förordning](/lagstiftning/dora), särskilt om identifierade risker, strategier och åtgärder som vidtas som en del av den ledande tillsynsmyndighetens tillsynsuppgifter.
+
+### Artikel 49 – Övningar, kommunikation och samarbete mellan finansiella sektorer
+
+1\. De europeiska tillsynsmyndigheterna får, genom den gemensamma kommittén och i samarbete med behöriga myndigheter, resolutionsmyndigheter som avses i artikel [3](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059) i [direktiv 2014/59/EU](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014L0059), ECB, Gemensamma resolutionsnämnden, när det gäller information som rör entiteter som omfattas av tillämpningsområdet för [förordning (EU) nr 806/2014](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0806), ESRB och Enisa, när så är lämpligt, inrätta mekanismer för att möjliggöra utbyte av effektiv praxis mellan olika finansiella sektorer för att öka situationsmedvetenheten och identifiera gemensamma sårbarheter och risker på it-området.
+
+De får utveckla krishanterings- och beredskapsövningar som inbegriper cyberangrepp i syfte att utveckla kommunikationskanaler och gradvis möjliggöra en effektiv samordnad reaktion på unionsnivå i händelse av en allvarlig gränsöverskridande IKT-relaterad incident eller därmed sammanhängande hot som har en systempåverkan på unionens finansiella sektor som helhet.
+
+Dessa övningar kan när så är lämpligt även innefatta test av den finansiella sektorns beroendeförhållanden till andra ekonomiska sektorer.
+
+2\. De behöriga myndigheterna, de europeiska tillsynsmyndigheterna och ECB ska ha ett nära samarbete och utbyta information för att fullgöra sina uppgifter enligt artiklarna [47](#artikel-47-samarbete-med-strukturer-och-myndigheter-som-har-inrättats-genom-direktiv-eu-2022-2555)–[54](#artikel-54-offentliggörande-av-administrativa-sanktioner). De ska nära samordna sin tillsyn för att identifiera och åtgärda överträdelser av [denna förordning](/lagstiftning/dora), utarbeta och främja bästa praxis, underlätta samarbete, främja en konsekvent tolkning och tillhandahålla bedömningar över jurisdiktionsgränserna om det uppstår meningsskiljaktigheter.
+
+### Artikel 50 – Administrativa sanktioner och avhjälpande åtgärder
+
+1\. De behöriga myndigheterna ska ha alla tillsyns-, utrednings- och sanktionsbefogenheter som krävs för att de ska kunna fullgöra sina skyldigheter enligt [denna förordning](/lagstiftning/dora).
+
+2\. De befogenheter som avses i punkt 1 ska omfatta åtminstone följande befogenheter:
+
+a) Få tillgång till alla dokument eller uppgifter i vilken form som helst som enligt den behöriga myndigheten är relevanta för fullgörandet av dess uppgifter och få eller ta en kopia av dem.
+
+b) Utföra kontroller eller inspektioner på plats, som ska omfatta men inte vara begränsade till att
+
+i) kalla till sig företrädare för finansiella entiteter och be dem om muntliga eller skriftliga förklaringar angående sakförhållanden eller dokument som rör föremålet för och syftet med utredningen samt nedteckna svaren,
+
+ii) höra vilken annan fysisk eller juridisk person som helst som går med på att höras i syfte att samla in information om föremålet för utredningen.
+
+c) Kräva korrigerande och avhjälpande åtgärder vid överträdelser av kraven i [denna förordning](/lagstiftning/dora).
+
+3\. Utan att det påverkar medlemsstaternas rätt att ålägga straffrättsliga påföljder i enlighet med artikel [52](#artikel-52-straffrättsliga-påföljder) ska medlemsstaterna fastställa regler om lämpliga administrativa sanktioner och avhjälpande åtgärder vid överträdelser av [denna förordning](/lagstiftning/dora) och säkerställa att de genomförs effektivt.
+
+Sådana sanktioner och åtgärder ska vara effektiva, proportionella och avskräckande.
+
+4\. Medlemsstaterna ska ge behöriga myndigheter befogenhet att tillämpa åtminstone följande administrativa sanktioner eller avhjälpande åtgärder vid överträdelser av [denna förordning](/lagstiftning/dora):
+
+a) Utfärda ett föreläggande enligt vilket det krävs att den fysiska eller juridiska personen upphör med det agerande som strider mot [denna förordning](/lagstiftning/dora) och inte upprepar detta agerande.
+
+b) Kräva att varje praxis eller beteende som den behöriga myndigheten anser strider mot bestämmelserna i [denna förordning](/lagstiftning/dora) tillfälligt eller permanent upphör och förhindra en upprepning av denna praxis eller detta beteende.
+
+c) Vidta vilken typ av åtgärd som helst, även av ekonomisk art, för att säkerställa att finansiella entiteter fortsätter att uppfylla rättsliga krav.
+
+d) Kräva tillgång till, i den mån det är tillåtet enligt nationell rätt, befintliga uppgifter om datatrafik som innehas av en teleoperatör om det föreligger en rimlig misstanke om överträdelse av [denna förordning](/lagstiftning/dora) och om dessa uppgifter kan vara relevanta för en utredning av överträdelser av [denna förordning](/lagstiftning/dora).
+
+e) Utfärda offentliga meddelanden, inbegripet offentliga uttalanden, med uppgift om den fysiska eller juridiska personens identitet och överträdelsens art.
+
+5\. Om punkt 2 c och punkt 4 är tillämpliga på juridiska personer ska medlemsstaterna ge de behöriga myndigheterna befogenhet att tillämpa administrativa sanktioner och avhjälpande åtgärder, med förbehåll för de villkor som föreskrivs i nationell rätt, på medlemmar i ledningsorganet och på andra personer som enligt nationell rätt är ansvariga för överträdelsen.
+
+6\. Medlemsstaterna ska säkerställa att alla beslut om att ålägga administrativa sanktioner eller avhjälpande åtgärder enligt punkt 2 c är vederbörligen motiverade och kan överklagas.
+
+### Artikel 51 – Utövande av befogenheten att ålägga administrativa sanktioner och avhjälpande åtgärder
+
+1\. De behöriga myndigheterna ska utöva sina befogenheter att ålägga de administrativa sanktioner och avhjälpande åtgärder som avses i artikel [50](#artikel-50-administrativa-sanktioner-och-avhjälpande-åtgärder) i enlighet med sina nationella rättsliga ramar, när så är lämpligt, på något av följande sätt:
+
+a) Direkt.
+
+b) I samarbete med andra myndigheter.
+
+c) På eget ansvar genom delegering till andra myndigheter.
+
+d) Genom hänvändelse till de behöriga rättsliga myndigheterna.
+
+2\. De behöriga myndigheterna ska, när de fastställer typen av och nivån på en administrativ sanktion eller avhjälpande åtgärd som ska åläggas enligt artikel [50](#artikel-50-administrativa-sanktioner-och-avhjälpande-åtgärder), ta hänsyn till i vilken utsträckning överträdelsen är avsiktlig eller beror på försummelse och till alla andra relevanta omständigheter, bland annat följande, när så är lämpligt:
+
+a) Överträdelsens väsentlighet, svårighetsgrad och varaktighet.
+
+b) Graden av ansvar hos den fysiska eller juridiska person som gjort sig skyldig till överträdelsen.
+
+c) Den finansiella styrkan hos den fysiska eller juridiska person som gjort sig skyldig till överträdelsen.
+
+d) Omfattningen av de vinster som erhållits eller av förluster som undvikits av den fysiska eller juridiska person som har gjort sig skyldig till överträdelsen, i den mån de kan bestämmas.
+
+e) Förluster för tredje parter orsakade av överträdelsen, i den mån de kan fastställas.
+
+f) Viljan hos den ansvariga fysiska eller juridiska person att samarbeta med den behöriga myndigheten, utan att det påverkar behovet av att säkerställa återföring av den vinst som den fysiska eller juridiska personen gjort eller de förluster som denne undvikit.
+
+g) Tidigare överträdelser av den fysiska eller juridiska person som har gjort sig skyldig till överträdelsen.
+
+### Artikel 52 – Straffrättsliga påföljder
+
+1\. Medlemsstaterna får besluta att inte fastställa regler för administrativa sanktioner eller avhjälpande åtgärder för överträdelser som omfattas av straffrättsliga påföljder i deras nationella rätt.
+
+2\. Om medlemsstaterna har valt att fastställa straffrättsliga påföljder för överträdelser av [denna förordning](/lagstiftning/dora), ska de säkerställa att lämpliga åtgärder har vidtagits så att de behöriga myndigheterna har alla nödvändiga befogenheter att samarbeta med rättsliga myndigheter, åklagarmyndigheter eller straffrättsliga myndigheter inom sin jurisdiktion för att få specifik information om brottsutredningar eller straffrättsliga förfaranden som har inletts på grund av överträdelser av [denna förordning](/lagstiftning/dora), och att lämna samma information till andra behöriga myndigheter samt EBA, Esma eller Eiopa för att uppfylla sina skyldigheter att samarbeta enligt [denna förordning](/lagstiftning/dora).
+
+### Artikel 53 – Underrättelseskyldigheter
+
+Medlemsstaterna ska underrätta kommissionen, Esma, EBA och Eiopa om de lagar och andra författningar som genomför [detta kapitel](/lagstiftning/dora/kap-7), inbegripet alla relevanta straffrättsliga bestämmelser senast den 17 januari 2025. Medlemsstaterna ska utan onödigt dröjsmål underrätta kommissionen, Esma, EBA och Eiopa om eventuella ändringar av dessa.
+
+### Artikel 54 – Offentliggörande av administrativa sanktioner
+
+1\. De behöriga myndigheterna ska utan onödigt dröjsmål på sina officiella webbplatser offentliggöra alla beslut om att ålägga en administrativ sanktion som inte kan överklagas efter det att sanktionens adressat har underrättats om beslutet.
+
+2\. Det offentliggörande som avses i punkt 1 ska innehålla information om överträdelsens typ och art, de ansvariga personernas identitet och ålagda sanktioner.
+
+3\. Om den behöriga myndigheten efter en bedömning av det enskilda fallet anser att ett offentliggörande av de juridiska personernas identitet eller av de fysiska personernas identitet och personuppgifter är oproportionellt, inbegripet riskerna när det gäller skyddet av personuppgifter, kan hota stabiliteten på de finansiella marknaderna eller äventyra en pågående brottsutredning eller, i den mån detta kan bestämmas, vålla den berörda personen oproportionell skada, ska den behöriga myndigheten vidta någon av följande åtgärder i fråga om beslutet om att ålägga en administrativ sanktion:
+
+a) Skjuta upp offentliggörandet av beslutet tills det inte längre finns någon anledning att inte offentliggöra det.
+
+b) Offentliggöra beslutet på anonym grund på ett sätt som överensstämmer med nationell rätt.
+
+c) Avstå från att offentliggöra beslutet om de alternativ som anges i leden a och b inte anses vara tillräckliga för att säkerställa att det inte innebär något hot mot finansmarknadernas stabilitet eller om offentliggörandet inte är proportionellt när det gäller mindre stränga sanktioner.
+
+4\. Vid ett beslut om att offentliggöra en administrativ sanktion på anonym grund i enlighet med punkt 3 b får offentliggörandet av de relevanta uppgifterna skjutas upp.
+
+5\. Om en behörig myndighet offentliggör ett beslut om åläggande av en administrativ sanktion som överklagas till de relevanta rättsliga myndigheterna, ska de behöriga myndigheterna omedelbart på sin officiella webbplats lägga till denna information och i senare skeden all efterföljande tillhörande information om resultatet av ett sådant överklagande. Varje rättsligt beslut om ogiltigförklaring av ett beslut om åläggande av en administrativ sanktion ska också offentliggöras.
+
+6\. De behöriga myndigheterna ska säkerställa att alla offentliggöranden som avses i punkterna 1–4 finns kvar på deras officiella webbplats endast under den tidsperiod som är nödvändig vid tillämpning av [denna artikel](#artikel-54-offentliggörande-av-administrativa-sanktioner). Denna period får inte överstiga fem år efter offentliggörandet.
+
+### Artikel 55 – Tystnadsplikt
+
+1\. All konfidentiell information som är föremål för mottagande, utbyte eller förmedling enligt [denna förordning](/lagstiftning/dora) ska omfattas av de villkor för tystnadsplikt som föreskrivs i punkt 2.
+
+2\. Tystnadsplikten ska tillämpas för alla personer som arbetar eller har arbetat för de behöriga myndigheterna enligt [denna förordning](/lagstiftning/dora), eller för en myndighet eller ett marknadsföretag eller en fysisk eller juridisk person som dessa behöriga myndigheter har delegerat sina befogenheter till, inbegripet revisorer och experter som arbetar på den behöriga myndighetens uppdrag.
+
+3\. Information som omfattas av tystnadsplikt, inbegripet informationsutbyte mellan behöriga myndigheter enligt [denna förordning](/lagstiftning/dora) och behöriga myndigheter som har utsetts eller inrättats i enlighet med [direktiv (EU) 2022/2555](/lagstiftning/nis2), får inte lämnas ut till någon annan person eller myndighet utom när detta föreskrivs i unionsrätt eller nationell rätt.
+
+4\. All information som utbyts mellan de behöriga myndigheterna enligt [denna förordning](/lagstiftning/dora) och som avser affärs- eller driftsförhållanden och andra ekonomiska eller personliga förhållanden ska anses vara konfidentiell och omfattas av tystnadsplikt, utom när den behöriga myndigheten vid den tidpunkt då informationen lämnas anger att informationen får lämnas ut eller om det är nödvändigt att lämna ut informationen i samband med rättsliga förfaranden.
+
+### Artikel 56 – Dataskydd
+
+1\. De europeiska tillsynsmyndigheterna och de behöriga myndigheterna får endast behandla personuppgifter om det är nödvändigt för att de ska kunna fullgöra sina respektive skyldigheter och uppgifter enligt [denna förordning](/lagstiftning/dora), särskilt när det gäller utredning, inspektion, begäran om information, kommunikation, offentliggörande, utvärdering, verifiering, bedömning och utarbetande av tillsynsplaner. Personuppgifterna ska behandlas i enlighet med [förordning (EU) 2016/679](/lagstiftning/gdpr) eller [förordning (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32018R1725), beroende på vilken som är tillämplig.
+
+2\. Utom där annat föreskrivs i andra sektorsspecifika rättsakter ska de personuppgifter som avses i punkt 1 lagras till dess att de tillämpliga tillsynsuppgifterna fullgjorts och under alla omständigheter i högst 15 år, utom i fall av pågående domstolsförfaranden som kräver ytterligare lagring av sådana uppgifter.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._

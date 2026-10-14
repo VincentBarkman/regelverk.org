@@ -1,0 +1,5 @@
+#!/bin/sh
+# Runs the same checks as .github/workflows/ci.yml before pushing.
+# Enable once with: git config core.hooksPath .githooks
+
+exec pnpm verify

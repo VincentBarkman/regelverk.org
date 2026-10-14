@@ -1,0 +1,141 @@
+---
+'source': 'emc'
+'ref': 'Kapitel 1'
+'title': 'Kapitel 1 – ALLMÄNNA BESTÄMMELSER'
+'kind': 'chapter'
+'description': 'EMC-direktivet, Kapitel 1.'
+'designation': 'EMC-direktivet Kapitel 1'
+'jurisdiction': 'EU'
+'issuer': 'EU'
+'status': 'in-force'
+'reviewStatus': 'auto'
+'legalStatus': 'binding'
+'sourceChecked': '2026-10-14'
+'licenseClass': 'official-text'
+'translation': 'sv-en'
+'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0023.03#cpt_1'
+'sites':
+  - 'el'
+---
+
+<!-- scan-laws:start -->
+## Lagtext
+
+### Artikel 1 – Syfte
+
+Bestämmelserna i [detta direktiv](/lagstiftning/emc) gäller utrustnings elektromagnetiska kompatibilitet. Syftet är att säkerställa den inre marknadens funktion genom att kräva att utrustning ska överensstämma med en adekvat nivå av elektromagnetisk kompatibilitet.
+
+### Artikel 2 – Tillämpningsområde
+
+1\. [Detta direktiv](/lagstiftning/emc) ska tillämpas på utrustning enligt definitionen i artikel [3](#artikel-3-definitioner).
+
+2\. [Detta direktiv](/lagstiftning/emc) ska inte tillämpas på
+
+a) utrustning som omfattas av [direktiv 1999/5/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31999L0005),
+
+b) luftfartsprodukter, delar och anordningar som avses i [Europaparlamentets och rådets förordning (EG) nr 216/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0216) av den 20 februari 2008 om fastställande av gemensamma bestämmelser på det civila luftfartsområdet och inrättande av en europeisk byrå för luftfartssäkerhet, och om upphävande av rådets direktiv 91/670/EEG, [förordning (EG) nr 1592/2002](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002R1592) och [direktiv 2004/36/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32004L0036) (9),
+
+c) radioutrustning som används av radiosändaramatörer, i den mening som anges i radioreglementet som antagits inom ramen för Internationella teleunionens stadga och Internationella teleunionens konvention (10), om inte utrustningen är tillgänglig på marknaden,
+
+d) utrustning vars egenskaper är av sådan karaktär att
+
+i) den inte kan alstra eller bidra till elektromagnetisk emission som överstiger en nivå som tillåter radio- och teleutrustning och annan utrustning att fungera som avsett, och
+
+ii) dess funktion inte i oacceptabel utsträckning försämras av de elektromagnetiska störningar som normalt uppstår när den används som avsett.
+
+e) särskilt utformade utvärderingsbyggsatser avsedda för fackmän som endast ska användas i forsknings- och utvecklingsanläggningar för sådana ändamål.
+
+Vid tillämpning av första stycket led c ska byggsatser bestående av komponenter som ska monteras av radiosändaramatörer och utrustning som tillhandahålls på marknaden och modifieras och används av radiosändaramatörer inte betraktas som utrustning som tillhandahålls på marknaden.
+
+3\. När, för den utrustning som avses i punkt 1, de väsentliga krav som anges i bilaga I helt eller delvis anges mer specificerat i annan unionslagstiftning, ska [detta direktiv](/lagstiftning/emc) inte tillämpas, eller ska inte längre tillämpas, för denna utrustning med avseende på sådana krav från och med dagen för den unionslagstiftningens genomförande.
+
+4\. [Detta direktiv](/lagstiftning/emc) ska inte inverka på tillämpningen av unionslagstiftning eller nationell lagstiftning om utrustnings säkerhet.
+
+### Artikel 3 – Definitioner
+
+1\. I [detta direktiv](/lagstiftning/emc) avses med
+
+1\. utrustning: apparat eller fast installation,
+
+2\. apparat: färdig anordning, eller en kombination av sådana anordningar, som finns tillgänglig på marknaden som en funktionell enhet och är avsedd för slutanvändaren och som kan alstra elektromagnetiska störningar, eller vars funktion kan påverkas av sådana störningar,
+
+3\. fast installation: en särskild kombination av olika typer av apparater och i förekommande fall andra anordningar som är monterade, installerade och avsedda för permanent användning på en på förhand fastställd plats,
+
+4\. elektromagnetisk kompatibilitet: en utrustnings förmåga att fungera tillfredsställande i sin elektromagnetiska omgivning utan att introducera oacceptabla elektromagnetiska störningar för annan utrustning i denna omgivning,
+
+5\. elektromagnetisk störning: elektromagnetiskt fenomen som kan försämra funktionen hos en utrustning; en elektromagnetisk störning kan vara elektromagnetiskt brus, en oönskad signal eller en förändring i själva överföringsmediet,
+
+6\. tålighet: en utrustnings förmåga att fungera som avsett utan försämring i närvaro av en elektromagnetisk störning,
+
+7\. säkerhetsändamål: ändamål för att skydda mänskligt liv eller egendom,
+
+8\. elektromagnetisk miljö: de sammanlagda elektromagnetiska fenomen som kan observeras på en viss plats,
+
+9\. tillhandahållande på marknaden: varje leverans av en apparat för distribution, förbrukning eller användning på unionsmarknaden i samband med kommersiell verksamhet, mot betalning eller kostnadsfritt,
+
+10\. utsläppande på marknaden: första gången en apparat tillhandahålls på unionsmarknaden,
+
+11\. tillverkare: fysisk eller juridisk person som tillverkar eller som låter konstruera eller tillverka en apparat och saluför apparaten, i eget namn eller under eget varumärke,
+
+12\. tillverkarens representant: fysisk eller juridisk person som är etablerad inom unionen och som enligt en skriftlig fullmakt från tillverkaren har rätt att i dennes ställe utföra särskilda uppgifter,
+
+13\. importör: fysisk eller juridisk person som är etablerad inom unionen och släpper ut en apparat från ett tredjeland på unionsmarknaden,
+
+14\. distributör: fysisk eller juridisk person i leveranskedjan, förutom tillverkaren eller importören, som tillhandahåller en apparat på marknaden,
+
+15\. ekonomisk aktör: tillverkaren, tillverkarens representant, importören och distributören,
+
+16\. teknisk specifikation: dokument där det fastställs vilka tekniska krav som en utrustning ska uppfylla,
+
+17\. harmoniserad standard: harmoniserad standard enligt definitionen i artikel [2.1 c](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025) i [förordning (EU) nr 1025/2012](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R1025),
+
+18\. ackreditering: ackreditering enligt definitionen i artikel [2.10](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765),
+
+19\. nationellt ackrediteringsorgan: nationellt ackrediteringsorgan enligt definitionen i artikel [2.11](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765) i [förordning (EG) nr 765/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0765),
+
+20\. bedömning av överensstämmelse: process där det visas huruvida de väsentliga kraven i [detta direktiv](/lagstiftning/emc) för en apparat har uppfyllts,
+
+21\. organ för bedömning av överensstämmelse: organ som utför bedömning av överensstämmelse, innefattande kalibrering, provning, certifiering och kontroll,
+
+22\. återkallelse: åtgärd för att dra tillbaka en apparat som redan tillhandahållits slutanvändaren,
+
+23\. tillbakadragande: åtgärd för att förhindra att en apparat i leveranskedjan tillhandahålls på marknaden,
+
+24\. harmoniserad unionslagstiftning: unionslagstiftning som harmoniserar villkoren för saluföring av produkter,
+
+25\. CE-märkning: märkning genom vilken tillverkaren visar att apparaten överensstämmer med de tillämpliga kraven i harmoniserad unionslagstiftning som föreskriver CE-märkning,
+
+2\. I [detta direktiv](/lagstiftning/emc) ska följande anses vara en apparat:
+
+1\. Komponenter eller sammansatta inbyggnadsdelar som är avsedda att byggas in i en apparat av slutanvändaren och som kan alstra elektromagnetiska störningar eller vars funktion kan påverkas av sådana störningar.
+
+2\. Rörliga installationer som definieras som en kombination av apparater, och i tillämpliga fall andra anordningar, som är avsedda att flyttas och användas på ett antal olika platser.
+
+### Artikel 4 – Tillhandahållande på marknaden och/eller ibruktagande
+
+Medlemsstaterna ska vidta alla lämpliga åtgärder för att säkerställa att utrustning tillhandahålls på marknaden och/eller tas i bruk endast om den är i överensstämmelse med [detta direktiv](/lagstiftning/emc) när den är korrekt installerad, underhållen och används för avsett ändamål.
+
+### Artikel 5 – Fri rörlighet för utrustning
+
+1\. Medlemsstaterna får inte inom sina territorier, med hänvisning till skäl som har samband med elektromagnetisk kompatibilitet, hindra att utrustning som uppfyller bestämmelserna i [detta direktiv](/lagstiftning/emc) tillhandahålls på marknaden och/eller tas i bruk.
+
+2\. Kraven i [detta direktiv](/lagstiftning/emc) får inte förhindra att följande särskilda åtgärder som avser ibruktagande eller användning av utrustning vidtas i någon medlemsstat:
+
+a) Åtgärder för att bemästra ett befintligt eller förutsett problem rörande elektromagnetisk kompatibilitet på en viss plats.
+
+b) Åtgärder som vidtas av säkerhetsskäl för att skydda allmänt tillgängliga telenät eller mottagar- eller sändarstationer när de används för säkerhetsändamål i väldefinierade spektrumsituationer.
+
+Utan att det påverkar tillämpningen av Europaparlamentets och rådets [direktiv 98/34/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31998L0034) av den 22 juni 1998 om ett informationsförfarande beträffande tekniska standarder och föreskrifter (11) ska en medlemsstat anmäla dessa särskilda åtgärder till kommissionen och de övriga medlemsstaterna.
+
+De särskilda åtgärder som har godkänts ska offentliggöras av kommissionen i Europeiska unionens officiella tidning.
+
+3\. Medlemsstaterna får inte hindra att utrustning som inte uppfyller bestämmelserna i [detta direktiv](/lagstiftning/emc) visas och/eller demonstreras på handelsmässor, utställningar eller liknande, förutsatt att det genom synlig skyltning klart framgår att sådan utrustning inte får tillhandahållas på marknaden och/eller tas i bruk förrän den uppfyller bestämmelserna i [detta direktiv](/lagstiftning/emc). Visningar får endast äga rum under förutsättning att tillräckliga åtgärder har vidtagits för att undvika elektromagnetiska störningar.
+
+### Artikel 6 – Väsentliga krav
+
+Utrustningen ska uppfylla de väsentliga krav som anges i bilaga I.
+<!-- scan-laws:end -->
+
+## Tolkning
+
+_Ingen tolkning tillagd ännu._
