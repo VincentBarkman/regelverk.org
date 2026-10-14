@@ -143,9 +143,7 @@
 					>
 						<Select.Trigger
 							size="sm"
-							aria-label={filters.entity
-								? `${m.db_filter_category()}: ${entityText}`
-								: entityText}
+							aria-label={filters.entity ? `${m.db_filter_category()}: ${entityText}` : entityText}
 							class="h-8 border-primary/15 bg-white/70 text-xs text-primary/80"
 						>
 							{entityText}
