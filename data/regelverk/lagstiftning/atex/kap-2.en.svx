@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0006.03#cpt_2'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0034#cpt_2'
 'sites':
   - 'brandskydd'
   - 'el'
@@ -26,17 +26,17 @@
 
 1\. When placing their products on the market or using them for their own purposes, manufacturers shall ensure that they have been designed and manufactured in accordance with the essential health and safety requirements set out in Annex II.
 
-2\. Manufacturers shall draw up the technical documentation referred to in Annexes III to IX and carry out the relevant conformity assessment procedure referred to in Article [13](/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures) or have it carried out.
+2\. Manufacturers shall draw up the technical documentation referred to in Annexes III to IX and carry out the relevant conformity assessment procedure referred to in Article [13](/en/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures) or have it carried out.
 
 Where compliance of a product, other than a component, with the applicable requirements has been demonstrated by that procedure, manufacturers shall draw up an EU declaration of conformity and affix the CE marking.
 
-Where compliance of a component with the applicable requirements has been demonstrated by the relevant conformity assessment procedure, manufacturers shall draw up a written attestation of conformity as referred to in Article [13](/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures)(3).
+Where compliance of a component with the applicable requirements has been demonstrated by the relevant conformity assessment procedure, manufacturers shall draw up a written attestation of conformity as referred to in Article [13](/en/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures)(3).
 
 Manufacturers shall ensure that each product is accompanied by a copy of the EU declaration of conformity or of the attestation of conformity, as appropriate. However, where a large number of products are delivered to a single user, the batch or consignment concerned may be accompanied by a single copy.
 
 3\. Manufacturers shall keep the technical documentation and the EU declaration of conformity or, where applicable, the attestation of conformity for 10 years after the product has been placed on the market.
 
-4\. Manufacturers shall ensure that procedures are in place for series production to remain in conformity with [this Directive](/lagstiftning/atex). Changes in a product design or characteristics and changes in the harmonised standards or in other technical specifications by reference to which conformity of a product is declared shall be adequately taken into account.
+4\. Manufacturers shall ensure that procedures are in place for series production to remain in conformity with [this Directive](/en/lagstiftning/atex). Changes in a product design or characteristics and changes in the harmonised standards or in other technical specifications by reference to which conformity of a product is declared shall be adequately taken into account.
 
 When deemed appropriate with regard to the risks presented by a product, manufacturers shall, to protect the health and safety of end-users, carry out sample testing of products made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming products and product recalls, and shall keep distributors informed of any such monitoring.
 
@@ -48,9 +48,9 @@ When deemed appropriate with regard to the risks presented by a product, manufac
 
 8\. Manufacturers shall ensure that the product is accompanied by instructions and safety information in a language which can be easily understood by end-users, as determined by the Member State concerned. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
 
-9\. Manufacturers who consider or have reason to believe that a product which they have placed on the market is not in conformity with [this Directive](/lagstiftning/atex) shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the product presents a risk, manufacturers shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+9\. Manufacturers who consider or have reason to believe that a product which they have placed on the market is not in conformity with [this Directive](/en/lagstiftning/atex) shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the product presents a risk, manufacturers shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
 
-10\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of the product with [this Directive](/lagstiftning/atex), in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by products which they have placed on the market.
+10\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of the product with [this Directive](/en/lagstiftning/atex), in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by products which they have placed on the market.
 
 ### Article 7 – Authorised representatives
 
@@ -70,7 +70,7 @@ The obligations laid down in Article [6](#article-6-obligations-of-manufacturers
 
 1\. Importers shall place only compliant products on the market.
 
-2\. Before placing a product on the market importers shall ensure that the appropriate conformity assessment procedure referred to in Article [13](/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures) has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation, that the product bears the CE marking, where applicable, is accompanied by the EU declaration of conformity or the attestation of conformity and the required documents, and that the manufacturer has complied with the requirements set out in Article [6](#article-6-obligations-of-manufacturers)(5), (6) and (7).
+2\. Before placing a product on the market importers shall ensure that the appropriate conformity assessment procedure referred to in Article [13](/en/lagstiftning/atex/kap-3#article-13-conformity-assessment-procedures) has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation, that the product bears the CE marking, where applicable, is accompanied by the EU declaration of conformity or the attestation of conformity and the required documents, and that the manufacturer has complied with the requirements set out in Article [6](#article-6-obligations-of-manufacturers)(5), (6) and (7).
 
 Where an importer considers or has reason to believe that a product is not in conformity with the essential health and safety requirements set out in Annex II, he shall not place the product on the market until it has been brought into conformity. Furthermore, where the product presents a risk, the importer shall inform the manufacturer and the market surveillance authorities to that effect.
 
@@ -82,7 +82,7 @@ Where an importer considers or has reason to believe that a product is not in co
 
 6\. When deemed appropriate with regard to the risks presented by a product, importers shall, to protect the health and safety of end-users, carry out sample testing of products made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming products and product recalls, and shall keep distributors informed of any such monitoring.
 
-7\. Importers who consider or have reason to believe that a product which they have placed on the market is not in conformity with [this Directive](/lagstiftning/atex) shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the product presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+7\. Importers who consider or have reason to believe that a product which they have placed on the market is not in conformity with [this Directive](/en/lagstiftning/atex) shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the product presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
 
 8\. Importers shall, for 10 years after the product has been placed on the market, keep a copy of the EU declaration of conformity or, where applicable, of the attestation of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
 
@@ -90,7 +90,7 @@ Where an importer considers or has reason to believe that a product is not in co
 
 ### Article 9 – Obligations of distributors
 
-1\. When making a product available on the market distributors shall act with due care in relation to the requirements of [this Directive](/lagstiftning/atex).
+1\. When making a product available on the market distributors shall act with due care in relation to the requirements of [this Directive](/en/lagstiftning/atex).
 
 2\. Before making a product available on the market distributors shall verify that the product bears the CE marking, where applicable, that it is accompanied by the EU declaration of conformity or the attestation of conformity and the required documents and by instructions and safety information, in a language which can be easily understood by end-users in the Member State in which the product is to be made available on the market, and that the manufacturer and the importer have complied with the requirements set out in Article [6](#article-6-obligations-of-manufacturers)(5), (6) and (7) and Article [8](#article-8-obligations-of-importers)(3) respectively.
 
@@ -98,13 +98,13 @@ Where a distributor considers or has reason to believe that a product is not in 
 
 3\. Distributors shall ensure that, while a product is under their responsibility, its storage or transport conditions do not jeopardise its compliance with the essential health and safety requirements set out in Annex II.
 
-4\. Distributors who consider or have reason to believe that a product which they have made available on the market is not in conformity with [this Directive](/lagstiftning/atex) shall make sure that the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the product presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+4\. Distributors who consider or have reason to believe that a product which they have made available on the market is not in conformity with [this Directive](/en/lagstiftning/atex) shall make sure that the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the product presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
 
 5\. Distributors shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of a product. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by products which they have made available on the market.
 
 ### Article 10 – Cases in which obligations of manufacturers apply to importers and distributors
 
-An importer or distributor shall be considered a manufacturer for the purposes of [this Directive](/lagstiftning/atex) and he shall be subject to the obligations of the manufacturer under Article [6](#article-6-obligations-of-manufacturers), where he places a product on the market under his name or trade mark or modifies a product already placed on the market in such a way that compliance with [this Directive](/lagstiftning/atex) may be affected.
+An importer or distributor shall be considered a manufacturer for the purposes of [this Directive](/en/lagstiftning/atex) and he shall be subject to the obligations of the manufacturer under Article [6](#article-6-obligations-of-manufacturers), where he places a product on the market under his name or trade mark or modifies a product already placed on the market in such a way that compliance with [this Directive](/en/lagstiftning/atex) may be affected.
 
 ### Article 11 – Identification of economic operators
 

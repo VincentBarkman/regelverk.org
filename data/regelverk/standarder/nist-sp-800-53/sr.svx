@@ -24,124 +24,124 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### SR-1 – Policy and Procedures
+### <span id="sr-1"></span>SR-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1. [organization-level or mission/business process-level or system-level] supply chain risk management policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the supply chain risk management policy and the associated supply chain risk management controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the supply chain risk management policy and procedures; and
-- c. Review and update the current supply chain risk management:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="sr-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="sr-1_smt.a.1"></span> 1. [organization-level or mission/business process-level or system-level] supply chain risk management policy that:
+    - <span id="sr-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="sr-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="sr-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the supply chain risk management policy and the associated supply chain risk management controls;
+- <span id="sr-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the supply chain risk management policy and procedures; and
+- <span id="sr-1_smt.c"></span> c. Review and update the current supply chain risk management:
+  - <span id="sr-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="sr-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### SR-2 – Supply Chain Risk Management Plan
+### <span id="sr-2"></span>SR-2 – Supply Chain Risk Management Plan
 
-- a. Develop a plan for managing supply chain risks associated with the research and development, design, manufacturing, acquisition, delivery, integration, operations and maintenance, and disposal of the following systems, system components or system services: [organization-defined systems, system components, or system services];
-- b. Review and update the supply chain risk management plan [organization-defined frequency] or as required, to address threat, organizational or environmental changes; and
-- c. Protect the supply chain risk management plan from unauthorized disclosure and modification.
+- <span id="sr-2_smt.a"></span> a. Develop a plan for managing supply chain risks associated with the research and development, design, manufacturing, acquisition, delivery, integration, operations and maintenance, and disposal of the following systems, system components or system services: [organization-defined systems, system components, or system services];
+- <span id="sr-2_smt.b"></span> b. Review and update the supply chain risk management plan [organization-defined frequency] or as required, to address threat, organizational or environmental changes; and
+- <span id="sr-2_smt.c"></span> c. Protect the supply chain risk management plan from unauthorized disclosure and modification.
 
-#### SR-2(1) – Establish SCRM Team
+#### <span id="sr-2.1"></span>SR-2(1) – Establish SCRM Team
 
 Establish a supply chain risk management team consisting of [organization-defined personnel, roles and responsibilities] to lead and support the following SCRM activities: [organization-defined supply chain risk management activities].
 
-### SR-3 – Supply Chain Controls and Processes
+### <span id="sr-3"></span>SR-3 – Supply Chain Controls and Processes
 
-- a. Establish a process or processes to identify and address weaknesses or deficiencies in the supply chain elements and processes of [organization-defined system or system component] in coordination with [organization-defined supply chain personnel];
-- b. Employ the following controls to protect against supply chain risks to the system, system component, or system service and to limit the harm or consequences from supply chain-related events: [organization-defined supply chain controls] ; and
-- c. Document the selected and implemented supply chain processes and controls in [security and privacy plans or supply chain risk management plan or [organization-defined document] ].
+- <span id="sr-3_smt.a"></span> a. Establish a process or processes to identify and address weaknesses or deficiencies in the supply chain elements and processes of [organization-defined system or system component] in coordination with [organization-defined supply chain personnel];
+- <span id="sr-3_smt.b"></span> b. Employ the following controls to protect against supply chain risks to the system, system component, or system service and to limit the harm or consequences from supply chain-related events: [organization-defined supply chain controls] ; and
+- <span id="sr-3_smt.c"></span> c. Document the selected and implemented supply chain processes and controls in [security and privacy plans or supply chain risk management plan or [organization-defined document] ].
 
-#### SR-3(1) – Diverse Supply Base
+#### <span id="sr-3.1"></span>SR-3(1) – Diverse Supply Base
 
 Employ a diverse set of sources for the following system components and services: [organization-defined system components and services].
 
-#### SR-3(2) – Limitation of Harm
+#### <span id="sr-3.2"></span>SR-3(2) – Limitation of Harm
 
 Employ the following controls to limit harm from potential adversaries identifying and targeting the organizational supply chain: [organization-defined controls].
 
-#### SR-3(3) – Sub-tier Flow Down
+#### <span id="sr-3.3"></span>SR-3(3) – Sub-tier Flow Down
 
 Ensure that the controls included in the contracts of prime contractors are also included in the contracts of subcontractors.
 
-### SR-4 – Provenance
+### <span id="sr-4"></span>SR-4 – Provenance
 
 Document, monitor, and maintain valid provenance of the following systems, system components, and associated data: [organization-defined systems, system components, and associated data].
 
-#### SR-4(1) – Identity
+#### <span id="sr-4.1"></span>SR-4(1) – Identity
 
 Establish and maintain unique identification of the following supply chain elements, processes, and personnel associated with the identified system and critical system components: [organization-defined supply chain elements, processes, and personnel].
 
-#### SR-4(2) – Track and Trace
+#### <span id="sr-4.2"></span>SR-4(2) – Track and Trace
 
 Establish and maintain unique identification of the following systems and critical system components for tracking through the supply chain: [organization-defined systems and critical system components].
 
-#### SR-4(3) – Validate as Genuine and Not Altered
+#### <span id="sr-4.3"></span>SR-4(3) – Validate as Genuine and Not Altered
 
 Employ the following controls to validate that the system or system component received is genuine and has not been altered: [organization-defined controls].
 
-#### SR-4(4) – Supply Chain Integrity — Pedigree
+#### <span id="sr-4.4"></span>SR-4(4) – Supply Chain Integrity — Pedigree
 
 Employ [organization-defined controls] and conduct [organization-defined analysis method] to ensure the integrity of the system and system components by validating the internal composition and provenance of critical or mission-essential technologies, products, and services.
 
-### SR-5 – Acquisition Strategies, Tools, and Methods
+### <span id="sr-5"></span>SR-5 – Acquisition Strategies, Tools, and Methods
 
 Employ the following acquisition strategies, contract tools, and procurement methods to protect against, identify, and mitigate supply chain risks: [organization-defined strategies, tools, and methods].
 
-#### SR-5(1) – Adequate Supply
+#### <span id="sr-5.1"></span>SR-5(1) – Adequate Supply
 
 Employ the following controls to ensure an adequate supply of [organization-defined critical system components]: [organization-defined controls].
 
-#### SR-5(2) – Assessments Prior to Selection, Acceptance, Modification, or Update
+#### <span id="sr-5.2"></span>SR-5(2) – Assessments Prior to Selection, Acceptance, Modification, or Update
 
 Assess the system, system component, or system service prior to selection, acceptance, modification, or update.
 
-### SR-6 – Supplier Assessments and Reviews
+### <span id="sr-6"></span>SR-6 – Supplier Assessments and Reviews
 
 Assess and review the supply chain-related risks associated with suppliers or contractors and the system, system component, or system service they provide [organization-defined frequency].
 
-#### SR-6(1) – Testing and Analysis
+#### <span id="sr-6.1"></span>SR-6(1) – Testing and Analysis
 
 Employ [organizational analysis or independent third-party analysis or organizational testing or independent third-party testing] of the following supply chain elements, processes, and actors associated with the system, system component, or system service: [organization-defined supply chain elements, processes, and actors].
 
-### SR-7 – Supply Chain Operations Security
+### <span id="sr-7"></span>SR-7 – Supply Chain Operations Security
 
 Employ the following Operations Security (OPSEC) controls to protect supply chain-related information for the system, system component, or system service: [organization-defined OPSEC controls].
 
-### SR-8 – Notification Agreements
+### <span id="sr-8"></span>SR-8 – Notification Agreements
 
 Establish agreements and procedures with entities involved in the supply chain for the system, system component, or system service for the [notification of supply chain compromises or [organization-defined results of assessments or audits] ].
 
-### SR-9 – Tamper Resistance and Detection
+### <span id="sr-9"></span>SR-9 – Tamper Resistance and Detection
 
 Implement a tamper protection program for the system, system component, or system service.
 
-#### SR-9(1) – Multiple Stages of System Development Life Cycle
+#### <span id="sr-9.1"></span>SR-9(1) – Multiple Stages of System Development Life Cycle
 
 Employ anti-tamper technologies, tools, and techniques throughout the system development life cycle.
 
-### SR-10 – Inspection of Systems or Components
+### <span id="sr-10"></span>SR-10 – Inspection of Systems or Components
 
 Inspect the following systems or system components [at random or at [organization-defined frequency]  or upon [organization-defined indications of need for inspection] ] to detect tampering: [organization-defined systems or system components].
 
-### SR-11 – Component Authenticity
+### <span id="sr-11"></span>SR-11 – Component Authenticity
 
-- a. Develop and implement anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the system; and
-- b. Report counterfeit system components to [source of counterfeit component or [organization-defined external reporting organizations]  or [organization-defined personnel or roles] ].
+- <span id="sr-11_smt.a"></span> a. Develop and implement anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the system; and
+- <span id="sr-11_smt.b"></span> b. Report counterfeit system components to [source of counterfeit component or [organization-defined external reporting organizations]  or [organization-defined personnel or roles] ].
 
-#### SR-11(1) – Anti-counterfeit Training
+#### <span id="sr-11.1"></span>SR-11(1) – Anti-counterfeit Training
 
 Train [organization-defined personnel or roles] to detect counterfeit system components (including hardware, software, and firmware).
 
-#### SR-11(2) – Configuration Control for Component Service and Repair
+#### <span id="sr-11.2"></span>SR-11(2) – Configuration Control for Component Service and Repair
 
 Maintain configuration control over the following system components awaiting service or repair and serviced or repaired components awaiting return to service: [organization-defined system components].
 
-#### SR-11(3) – Anti-counterfeit Scanning
+#### <span id="sr-11.3"></span>SR-11(3) – Anti-counterfeit Scanning
 
 Scan for counterfeit system components [organization-defined frequency].
 
-### SR-12 – Component Disposal
+### <span id="sr-12"></span>SR-12 – Component Disposal
 
 Dispose of [organization-defined data, documentation, tools, or system components] using the following techniques and methods: [organization-defined techniques and methods].
 

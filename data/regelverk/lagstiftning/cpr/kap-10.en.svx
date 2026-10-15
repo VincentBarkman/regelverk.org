@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1.0006.03#cpt_X'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R3110#cpt_X'
 'sites':
   - 'brandskydd'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 75 – Construction digital product passport system
 
-1\. The Commission shall adopt delegated acts in accordance with Article [89](/lagstiftning/cpr/kap-15#article-89-delegated-acts) to supplement [this Regulation](/lagstiftning/cpr) by setting up a construction digital product passport system, in accordance with the conditions set out in [this Chapter](/lagstiftning/cpr/kap-10).
+1\. The Commission shall adopt delegated acts in accordance with Article [89](/en/lagstiftning/cpr/kap-15#article-89-delegated-acts) to supplement [this Regulation](/en/lagstiftning/cpr) by setting up a construction digital product passport system, in accordance with the conditions set out in [this Chapter](/en/lagstiftning/cpr/kap-10).
 
 2\. The construction digital product passport system shall:
 
@@ -51,17 +51,17 @@
 
 1\. The information in the digital product passport shall be accurate, complete, and up-to-date.
 
-2\. A digital product passport for a product under [this Regulation](/lagstiftning/cpr) shall:
+2\. A digital product passport for a product under [this Regulation](/en/lagstiftning/cpr) shall:
 
 (a) include the following information:
 
-(i) the declaration of performance and conformity referred to in Article [15](/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity), including the information referred to in Article [15](/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity)(6) which can be included through a connection to other Union databases where it is available and the documentation provided together in accordance with Annex V;
+(i) the declaration of performance and conformity referred to in Article [15](/en/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity), including the information referred to in Article [15](/en/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity)(6) which can be included through a connection to other Union databases where it is available and the documentation provided together in accordance with Annex V;
 
-(ii) the general product information, instructions for use and safety information referred to in Article [22](/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(6);
+(ii) the general product information, instructions for use and safety information referred to in Article [22](/en/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(6);
 
-(iii) the technical documentation referred to in Article [22](/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(3) including the specific sections required pursuant to Articles [59](/lagstiftning/cpr/kap-7#article-59-replacement-of-type-testing-and-type-calculation) to 61;
+(iii) the technical documentation referred to in Article [22](/en/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(3) including the specific sections required pursuant to Articles [59](/en/lagstiftning/cpr/kap-7#article-59-replacement-of-type-testing-and-type-calculation) to 61;
 
-(iv) the label in accordance with Article [22](/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(9);
+(iv) the label in accordance with Article [22](/en/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(9);
 
 (v) unique identifiers issued in accordance with Article [79](#article-79-unique-identifiers-and-digital-product-passport-registry)(1);
 
@@ -71,9 +71,9 @@
 
 (b) be connected to one or more data carriers;
 
-(c) be accessible by electronic means through the data carrier displayed, in accordance with Article [18](/lagstiftning/cpr/kap-2#article-18-rules-and-conditions-for-the-affixing-of-ce-marking)(2), point (g);
+(c) be accessible by electronic means through the data carrier displayed, in accordance with Article [18](/en/lagstiftning/cpr/kap-2#article-18-rules-and-conditions-for-the-affixing-of-ce-marking)(2), point (g);
 
-(d) correspond to the product type and its unique identification code referred to in Article [22](/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(5);
+(d) correspond to the product type and its unique identification code referred to in Article [22](/en/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(5);
 
 (e) be accessible free of charge to all economic operators, clients, users and authorities through the data carrier;
 
@@ -91,7 +91,7 @@
 
 (c) improve traceability of products along the value chain.
 
-4\. Products in respect of which the exemption established in Article [14](/lagstiftning/cpr/kap-2#article-14-exemptions-from-drawing-up-a-declaration-of-performance-and-conformity) is applied are also exempt from the obligation to provide a digital product passport.
+4\. Products in respect of which the exemption established in Article [14](/en/lagstiftning/cpr/kap-2#article-14-exemptions-from-drawing-up-a-declaration-of-performance-and-conformity) is applied are also exempt from the obligation to provide a digital product passport.
 
 ### Article 77 – General requirements for the digital product passport
 
@@ -99,19 +99,19 @@
 
 (a) it shall be connected through one or more data carriers to a persistent unique identification code of the product type;
 
-(b) the data carrier shall be affixed in accordance with Article [18](/lagstiftning/cpr/kap-2#article-18-rules-and-conditions-for-the-affixing-of-ce-marking)(2), point (g);
+(b) the data carrier shall be affixed in accordance with Article [18](/en/lagstiftning/cpr/kap-2#article-18-rules-and-conditions-for-the-affixing-of-ce-marking)(2), point (g);
 
 (c) the data carrier shall comply with Article [79](#article-79-unique-identifiers-and-digital-product-passport-registry)(1);
 
 (d) all information included in the digital product passport shall be based on open standards, developed with an interoperable format and shall, as appropriate, be machine-readable, structured, searchable and transferable through an open interoperable data exchange network, without ‘vendor lock-in’, in accordance with the essential requirements set out in Article [78](#article-78-technical-design-and-operation-of-the-digital-product-passport); documents provided together with the declaration of performance and conformity referred to in Article [76](#article-76-digital-product-passport)(2)(a)(i) and technical documentation referred to in Article [76](#article-76-digital-product-passport)(2)(a)(iii) shall be exempted from this obligation when justified for technical reasons;
 
-(e) personal data related to the end-user of the product shall not be stored in the digital product passport without the explicit consent of the end-user in compliance with Article [6](/lagstiftning/gdpr/kap-2#artikel-6-laglig-behandling-av-personuppgifter) of [Regulation (EU) 2016/679](/lagstiftning/gdpr) of the European Parliament and of the Council (30);
+(e) personal data related to the end-user of the product shall not be stored in the digital product passport without the explicit consent of the end-user in compliance with Article [6](/en/lagstiftning/gdpr/kap-2#article-6-lawfulness-of-processing) of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) of the European Parliament and of the Council (30);
 
 (f) the information in the digital product passport shall include a reference to the product type referred to in Article [76](#article-76-digital-product-passport)(2), point (d);
 
 (g) the access to information included in the digital product passport shall be regulated in accordance with the essential requirements set out in Article [78](#article-78-technical-design-and-operation-of-the-digital-product-passport) and the specific access rights shall be identified in accordance with construction digital product passport system levels of access;
 
-(h) the declaration of performance and conformity referred to in Article [76](#article-76-digital-product-passport)(2), point (a)(i), shall follow the guidelines issued in accordance with Article [16](/lagstiftning/cpr/kap-2#article-16-supply-of-the-declaration-of-performance-and-conformity)(3).
+(h) the declaration of performance and conformity referred to in Article [76](#article-76-digital-product-passport)(2), point (a)(i), shall follow the guidelines issued in accordance with Article [16](/en/lagstiftning/cpr/kap-2#article-16-supply-of-the-declaration-of-performance-and-conformity)(3).
 
 2\. Where other Union legislation requires or allows the inclusion of specific information in the digital product passport, that information may be included in the digital product passport in accordance with the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1).
 
@@ -133,7 +133,7 @@ The technical design and operation of the digital product passport shall comply 
 
 (f) the right to access and to introduce, modify or update information in the digital product passport shall be restricted to the access rights specified in the construction digital product passport system;
 
-(g) protection of information that constitutes trade secrets within the meaning of Article [2](/lagstiftning/cpr/kap-1#article-2-scope)(1) [Directive (EU) 2016/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0943) of the European Parliament and of the Council (31) or intellectual property rights shall be ensured;
+(g) protection of information that constitutes trade secrets within the meaning of Article [2](/en/lagstiftning/cpr/kap-1#article-2-scope)(1) [Directive (EU) 2016/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0943) of the European Parliament and of the Council (31) or intellectual property rights shall be ensured;
 
 (h) data authentication, reliability and integrity shall be ensured;
 
@@ -141,21 +141,21 @@ The technical design and operation of the digital product passport shall comply 
 
 ### Article 79 – Unique identifiers and digital product passport registry
 
-1\. Article [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) of [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) shall apply for the purposes of the implementation of [this Regulation](/lagstiftning/cpr) as regards unique identifiers and data carriers unless the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) of [this Regulation](/lagstiftning/cpr) lays down more detailed or alternative rules related to those unique identifiers and data carriers, as referred to in Article [75](#article-75-construction-digital-product-passport-system)(2)(h) of [this Regulation](/lagstiftning/cpr).
+1\. Article [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) of [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) shall apply for the purposes of the implementation of [this Regulation](/en/lagstiftning/cpr) as regards unique identifiers and data carriers unless the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) of [this Regulation](/en/lagstiftning/cpr) lays down more detailed or alternative rules related to those unique identifiers and data carriers, as referred to in Article [75](#article-75-construction-digital-product-passport-system)(2)(h) of [this Regulation](/en/lagstiftning/cpr).
 
-2\. Article [13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) of [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) shall apply for the purposes of the implementation of [this Regulation](/lagstiftning/cpr) as regards the digital product passport registry unless the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) of [this Regulation](/lagstiftning/cpr) lays down more detailed or alternative rules related to that registry, as referred to in Article [75](#article-75-construction-digital-product-passport-system)(2)(h) of [this Regulation](/lagstiftning/cpr).
+2\. Article [13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) of [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) shall apply for the purposes of the implementation of [this Regulation](/en/lagstiftning/cpr) as regards the digital product passport registry unless the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) of [this Regulation](/en/lagstiftning/cpr) lays down more detailed or alternative rules related to that registry, as referred to in Article [75](#article-75-construction-digital-product-passport-system)(2)(h) of [this Regulation](/en/lagstiftning/cpr).
 
 3\. Article [14](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) of [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781) shall apply for the purposes of implementation of this Regulations as regards the web portal for information in the digital product passport.
 
 ### Article 80 – Mandatory use and technical adaptation
 
-1\. Six months after the entry into force of the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1), the system shall be fully operational and shall be fulfilling its intended objectives, including the functionalities provided for in Article [76](#article-76-digital-product-passport). 18 months after the entry into force of the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) the obligations established pursuant to Article [22](/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(7) shall apply. The system may be used by manufacturers voluntarily in the interim period.
+1\. Six months after the entry into force of the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1), the system shall be fully operational and shall be fulfilling its intended objectives, including the functionalities provided for in Article [76](#article-76-digital-product-passport). 18 months after the entry into force of the delegated act referred to in Article [75](#article-75-construction-digital-product-passport-system)(1) the obligations established pursuant to Article [22](/en/lagstiftning/cpr/kap-3#article-22-obligations-of-manufacturers)(7) shall apply. The system may be used by manufacturers voluntarily in the interim period.
 
-2\. The Commission is empowered to adopt delegated acts in accordance with Article [89](/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend [this Regulation](/lagstiftning/cpr) to:
+2\. The Commission is empowered to adopt delegated acts in accordance with Article [89](/en/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend [this Regulation](/en/lagstiftning/cpr) to:
 
 (a) further specify, add and remove functionalities referred to in Article [75](#article-75-construction-digital-product-passport-system)(2) in order to adapt it to technical progress or to adapt it to the once-only principle in relation to information requirements in other Union law;
 
-(b) revise Articles [77](#article-77-general-requirements-for-the-digital-product-passport)(1) and 78 of [this Regulation](/lagstiftning/cpr) to ensure compatibility and interoperability with [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781).
+(b) revise Articles [77](#article-77-general-requirements-for-the-digital-product-passport)(1) and 78 of [this Regulation](/en/lagstiftning/cpr) to ensure compatibility and interoperability with [Regulation (EU) 2024/1781](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781).
 <!-- scan-laws:end -->
 
 ## Interpretation

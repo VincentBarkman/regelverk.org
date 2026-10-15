@@ -24,4 +24,9 @@ Part 3-3 sets out technical security requirements for industrial automation and 
 The requirements are organized around seven foundational security areas, including identification, access control, system integrity, and availability. Security levels need to follow a system-specific risk assessment; the catalogue listing does not replace the standard.
 
 Official source: [IEC 62443-3-3:2013](https://webstore.iec.ch/en/publication/7033).
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/en/lagstiftning/cra)
+- [NIS2 directive](/en/lagstiftning/nis2)
 <!-- scan-standards:end -->

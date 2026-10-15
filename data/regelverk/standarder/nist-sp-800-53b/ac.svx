@@ -23,222 +23,222 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### AC-1 – Policy and Procedures
+### <span id="ac-1"></span>AC-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business process-level or system-level] access control policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the access control policy and the associated access controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the access control policy and procedures; and
-- c. Review and update the current access control:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="ac-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="ac-1_smt.a.1"></span> 1.  [organization-level or mission/business process-level or system-level] access control policy that:
+    - <span id="ac-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="ac-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="ac-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the access control policy and the associated access controls;
+- <span id="ac-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the access control policy and procedures; and
+- <span id="ac-1_smt.c"></span> c. Review and update the current access control:
+  - <span id="ac-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="ac-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### AC-2 – Account Management
+### <span id="ac-2"></span>AC-2 – Account Management
 
-- a. Define and document the types of accounts allowed and specifically prohibited for use within the system;
-- b. Assign account managers;
-- c. Require [organization-defined prerequisites and criteria] for group and role membership;
-- d. Specify:
-  - 1. Authorized users of the system;
-  - 2. Group and role membership; and
-  - 3. Access authorizations (i.e., privileges) and [organization-defined attributes (as required)] for each account;
-- e. Require approvals by [organization-defined personnel or roles] for requests to create accounts;
-- f. Create, enable, modify, disable, and remove accounts in accordance with [organization-defined policy, procedures, prerequisites, and criteria];
-- g. Monitor the use of accounts;
-- h. Notify account managers and [organization-defined personnel or roles] within:
-  - 1.  [organization-defined time period] when accounts are no longer required;
-  - 2.  [organization-defined time period] when users are terminated or transferred; and
-  - 3.  [organization-defined time period] when system usage or need-to-know changes for an individual;
-- i. Authorize access to the system based on:
-  - 1. A valid access authorization;
-  - 2. Intended system usage; and
-  - 3.  [organization-defined attributes (as required)];
-- j. Review accounts for compliance with account management requirements [organization-defined frequency];
-- k. Establish and implement a process for changing shared or group account authenticators (if deployed) when individuals are removed from the group; and
-- l. Align account management processes with personnel termination and transfer processes.
+- <span id="ac-2_smt.a"></span> a. Define and document the types of accounts allowed and specifically prohibited for use within the system;
+- <span id="ac-2_smt.b"></span> b. Assign account managers;
+- <span id="ac-2_smt.c"></span> c. Require [organization-defined prerequisites and criteria] for group and role membership;
+- <span id="ac-2_smt.d"></span> d. Specify:
+  - <span id="ac-2_smt.d.1"></span> 1. Authorized users of the system;
+  - <span id="ac-2_smt.d.2"></span> 2. Group and role membership; and
+  - <span id="ac-2_smt.d.3"></span> 3. Access authorizations (i.e., privileges) and [organization-defined attributes (as required)] for each account;
+- <span id="ac-2_smt.e"></span> e. Require approvals by [organization-defined personnel or roles] for requests to create accounts;
+- <span id="ac-2_smt.f"></span> f. Create, enable, modify, disable, and remove accounts in accordance with [organization-defined policy, procedures, prerequisites, and criteria];
+- <span id="ac-2_smt.g"></span> g. Monitor the use of accounts;
+- <span id="ac-2_smt.h"></span> h. Notify account managers and [organization-defined personnel or roles] within:
+  - <span id="ac-2_smt.h.1"></span> 1.  [organization-defined time period] when accounts are no longer required;
+  - <span id="ac-2_smt.h.2"></span> 2.  [organization-defined time period] when users are terminated or transferred; and
+  - <span id="ac-2_smt.h.3"></span> 3.  [organization-defined time period] when system usage or need-to-know changes for an individual;
+- <span id="ac-2_smt.i"></span> i. Authorize access to the system based on:
+  - <span id="ac-2_smt.i.1"></span> 1. A valid access authorization;
+  - <span id="ac-2_smt.i.2"></span> 2. Intended system usage; and
+  - <span id="ac-2_smt.i.3"></span> 3.  [organization-defined attributes (as required)];
+- <span id="ac-2_smt.j"></span> j. Review accounts for compliance with account management requirements [organization-defined frequency];
+- <span id="ac-2_smt.k"></span> k. Establish and implement a process for changing shared or group account authenticators (if deployed) when individuals are removed from the group; and
+- <span id="ac-2_smt.l"></span> l. Align account management processes with personnel termination and transfer processes.
 
-#### AC-2(1) – Automated System Account Management
+#### <span id="ac-2.1"></span>AC-2(1) – Automated System Account Management
 
 Support the management of system accounts using [organization-defined automated mechanisms].
 
-#### AC-2(2) – Automated Temporary and Emergency Account Management
+#### <span id="ac-2.2"></span>AC-2(2) – Automated Temporary and Emergency Account Management
 
 Automatically [remove or disable] temporary and emergency accounts after [organization-defined time period].
 
-#### AC-2(3) – Disable Accounts
+#### <span id="ac-2.3"></span>AC-2(3) – Disable Accounts
 
 Disable accounts within [organization-defined time period] when the accounts:
-- (a) Have expired;
-- (b) Are no longer associated with a user or individual;
-- (c) Are in violation of organizational policy; or
-- (d) Have been inactive for [organization-defined time period].
+- <span id="ac-2.3_smt.a"></span> (a) Have expired;
+- <span id="ac-2.3_smt.b"></span> (b) Are no longer associated with a user or individual;
+- <span id="ac-2.3_smt.c"></span> (c) Are in violation of organizational policy; or
+- <span id="ac-2.3_smt.d"></span> (d) Have been inactive for [organization-defined time period].
 
-#### AC-2(4) – Automated Audit Actions
+#### <span id="ac-2.4"></span>AC-2(4) – Automated Audit Actions
 
 Automatically audit account creation, modification, enabling, disabling, and removal actions.
 
-#### AC-2(5) – Inactivity Logout
+#### <span id="ac-2.5"></span>AC-2(5) – Inactivity Logout
 
 Require that users log out when [organization-defined time period of expected inactivity or description of when to log out].
 
-#### AC-2(13) – Disable Accounts for High-risk Individuals
+#### <span id="ac-2.13"></span>AC-2(13) – Disable Accounts for High-risk Individuals
 
 Disable accounts of individuals within [organization-defined time period] of discovery of [organization-defined significant risks].
 
-### AC-3 – Access Enforcement
+### <span id="ac-3"></span>AC-3 – Access Enforcement
 
 Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies.
 
-### AC-4 – Information Flow Enforcement
+### <span id="ac-4"></span>AC-4 – Information Flow Enforcement
 
 Enforce approved authorizations for controlling the flow of information within the system and between connected systems based on [organization-defined information flow control policies].
 
-### AC-5 – Separation of Duties
+### <span id="ac-5"></span>AC-5 – Separation of Duties
 
-- a. Identify and document [organization-defined duties of individuals] ; and
-- b. Define system access authorizations to support separation of duties.
+- <span id="ac-5_smt.a"></span> a. Identify and document [organization-defined duties of individuals] ; and
+- <span id="ac-5_smt.b"></span> b. Define system access authorizations to support separation of duties.
 
-### AC-6 – Least Privilege
+### <span id="ac-6"></span>AC-6 – Least Privilege
 
 Employ the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) that are necessary to accomplish assigned organizational tasks.
 
-#### AC-6(1) – Authorize Access to Security Functions
+#### <span id="ac-6.1"></span>AC-6(1) – Authorize Access to Security Functions
 
 Authorize access for [organization-defined individuals and roles] to:
-- (a)  [organization-defined security functions (deployed in hardware, software, and firmware)] ; and
-- (b)  [organization-defined security-relevant information].
+- <span id="ac-6.1_smt.a"></span> (a)  [organization-defined security functions (deployed in hardware, software, and firmware)] ; and
+- <span id="ac-6.1_smt.b"></span> (b)  [organization-defined security-relevant information].
 
-#### AC-6(2) – Non-privileged Access for Nonsecurity Functions
+#### <span id="ac-6.2"></span>AC-6(2) – Non-privileged Access for Nonsecurity Functions
 
 Require that users of system accounts (or roles) with access to [organization-defined security functions or security-relevant information] use non-privileged accounts or roles, when accessing nonsecurity functions.
 
-#### AC-6(5) – Privileged Accounts
+#### <span id="ac-6.5"></span>AC-6(5) – Privileged Accounts
 
 Restrict privileged accounts on the system to [organization-defined personnel or roles].
 
-#### AC-6(7) – Review of User Privileges
+#### <span id="ac-6.7"></span>AC-6(7) – Review of User Privileges
 
-- (a) Review [organization-defined frequency] the privileges assigned to [organization-defined roles and classes] to validate the need for such privileges; and
-- (b) Reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.
+- <span id="ac-6.7_smt.a"></span> (a) Review [organization-defined frequency] the privileges assigned to [organization-defined roles and classes] to validate the need for such privileges; and
+- <span id="ac-6.7_smt.b"></span> (b) Reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.
 
-#### AC-6(9) – Log Use of Privileged Functions
+#### <span id="ac-6.9"></span>AC-6(9) – Log Use of Privileged Functions
 
 Log the execution of privileged functions.
 
-#### AC-6(10) – Prohibit Non-privileged Users from Executing Privileged Functions
+#### <span id="ac-6.10"></span>AC-6(10) – Prohibit Non-privileged Users from Executing Privileged Functions
 
 Prevent non-privileged users from executing privileged functions.
 
-### AC-7 – Unsuccessful Logon Attempts
+### <span id="ac-7"></span>AC-7 – Unsuccessful Logon Attempts
 
-- a. Enforce a limit of [organization-defined number] consecutive invalid logon attempts by a user during a [organization-defined time period] ; and
-- b. Automatically [lock the account or node for [organization-defined time period]  or lock the account or node until released by an administrator or delay next logon prompt per [organization-defined delay algorithm]  or notify system administrator or take other [organization-defined action] ] when the maximum number of unsuccessful attempts is exceeded.
+- <span id="ac-7_smt.a"></span> a. Enforce a limit of [organization-defined number] consecutive invalid logon attempts by a user during a [organization-defined time period] ; and
+- <span id="ac-7_smt.b"></span> b. Automatically [lock the account or node for [organization-defined time period]  or lock the account or node until released by an administrator or delay next logon prompt per [organization-defined delay algorithm]  or notify system administrator or take other [organization-defined action] ] when the maximum number of unsuccessful attempts is exceeded.
 
-### AC-8 – System Use Notification
+### <span id="ac-8"></span>AC-8 – System Use Notification
 
-- a. Display [organization-defined system use notification] to users before granting access to the system that provides privacy and security notices consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines and state that:
-  - 1. Users are accessing a U.S. Government system;
-  - 2. System usage may be monitored, recorded, and subject to audit;
-  - 3. Unauthorized use of the system is prohibited and subject to criminal and civil penalties; and
-  - 4. Use of the system indicates consent to monitoring and recording;
-- b. Retain the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the system; and
-- c. For publicly accessible systems:
-  - 1. Display system use information [organization-defined conditions] , before granting further access to the publicly accessible system;
-  - 2. Display references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and
-  - 3. Include a description of the authorized uses of the system.
+- <span id="ac-8_smt.a"></span> a. Display [organization-defined system use notification] to users before granting access to the system that provides privacy and security notices consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines and state that:
+  - <span id="ac-8_smt.a.1"></span> 1. Users are accessing a U.S. Government system;
+  - <span id="ac-8_smt.a.2"></span> 2. System usage may be monitored, recorded, and subject to audit;
+  - <span id="ac-8_smt.a.3"></span> 3. Unauthorized use of the system is prohibited and subject to criminal and civil penalties; and
+  - <span id="ac-8_smt.a.4"></span> 4. Use of the system indicates consent to monitoring and recording;
+- <span id="ac-8_smt.b"></span> b. Retain the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the system; and
+- <span id="ac-8_smt.c"></span> c. For publicly accessible systems:
+  - <span id="ac-8_smt.c.1"></span> 1. Display system use information [organization-defined conditions] , before granting further access to the publicly accessible system;
+  - <span id="ac-8_smt.c.2"></span> 2. Display references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and
+  - <span id="ac-8_smt.c.3"></span> 3. Include a description of the authorized uses of the system.
 
-### AC-11 – Device Lock
+### <span id="ac-11"></span>AC-11 – Device Lock
 
-- a. Prevent further access to the system by [initiating a device lock after [organization-defined time period] of inactivity or requiring the user to initiate a device lock before leaving the system unattended] ; and
-- b. Retain the device lock until the user reestablishes access using established identification and authentication procedures.
+- <span id="ac-11_smt.a"></span> a. Prevent further access to the system by [initiating a device lock after [organization-defined time period] of inactivity or requiring the user to initiate a device lock before leaving the system unattended] ; and
+- <span id="ac-11_smt.b"></span> b. Retain the device lock until the user reestablishes access using established identification and authentication procedures.
 
-#### AC-11(1) – Pattern-hiding Displays
+#### <span id="ac-11.1"></span>AC-11(1) – Pattern-hiding Displays
 
 Conceal, via the device lock, information previously visible on the display with a publicly viewable image.
 
-### AC-12 – Session Termination
+### <span id="ac-12"></span>AC-12 – Session Termination
 
 Automatically terminate a user session after [organization-defined conditions or trigger events].
 
-### AC-14 – Permitted Actions Without Identification or Authentication
+### <span id="ac-14"></span>AC-14 – Permitted Actions Without Identification or Authentication
 
-- a. Identify [organization-defined user actions] that can be performed on the system without identification or authentication consistent with organizational mission and business functions; and
-- b. Document and provide supporting rationale in the security plan for the system, user actions not requiring identification or authentication.
+- <span id="ac-14_smt.a"></span> a. Identify [organization-defined user actions] that can be performed on the system without identification or authentication consistent with organizational mission and business functions; and
+- <span id="ac-14_smt.b"></span> b. Document and provide supporting rationale in the security plan for the system, user actions not requiring identification or authentication.
 
-### AC-17 – Remote Access
+### <span id="ac-17"></span>AC-17 – Remote Access
 
-- a. Establish and document usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and
-- b. Authorize each type of remote access to the system prior to allowing such connections.
+- <span id="ac-17_smt.a"></span> a. Establish and document usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and
+- <span id="ac-17_smt.b"></span> b. Authorize each type of remote access to the system prior to allowing such connections.
 
-#### AC-17(1) – Monitoring and Control
+#### <span id="ac-17.1"></span>AC-17(1) – Monitoring and Control
 
 Employ automated mechanisms to monitor and control remote access methods.
 
-#### AC-17(2) – Protection of Confidentiality and Integrity Using Encryption
+#### <span id="ac-17.2"></span>AC-17(2) – Protection of Confidentiality and Integrity Using Encryption
 
 Implement cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.
 
-#### AC-17(3) – Managed Access Control Points
+#### <span id="ac-17.3"></span>AC-17(3) – Managed Access Control Points
 
 Route remote accesses through authorized and managed network access control points.
 
-#### AC-17(4) – Privileged Commands and Access
+#### <span id="ac-17.4"></span>AC-17(4) – Privileged Commands and Access
 
-- (a) Authorize the execution of privileged commands and access to security-relevant information via remote access only in a format that provides assessable evidence and for the following needs: [organization-defined needs] ; and
-- (b) Document the rationale for remote access in the security plan for the system.
+- <span id="ac-17.4_smt.a"></span> (a) Authorize the execution of privileged commands and access to security-relevant information via remote access only in a format that provides assessable evidence and for the following needs: [organization-defined needs] ; and
+- <span id="ac-17.4_smt.b"></span> (b) Document the rationale for remote access in the security plan for the system.
 
-### AC-18 – Wireless Access
+### <span id="ac-18"></span>AC-18 – Wireless Access
 
-- a. Establish configuration requirements, connection requirements, and implementation guidance for each type of wireless access; and
-- b. Authorize each type of wireless access to the system prior to allowing such connections.
+- <span id="ac-18_smt.a"></span> a. Establish configuration requirements, connection requirements, and implementation guidance for each type of wireless access; and
+- <span id="ac-18_smt.b"></span> b. Authorize each type of wireless access to the system prior to allowing such connections.
 
-#### AC-18(1) – Authentication and Encryption
+#### <span id="ac-18.1"></span>AC-18(1) – Authentication and Encryption
 
 Protect wireless access to the system using authentication of [users or devices] and encryption.
 
-#### AC-18(3) – Disable Wireless Networking
+#### <span id="ac-18.3"></span>AC-18(3) – Disable Wireless Networking
 
 Disable, when not intended for use, wireless networking capabilities embedded within system components prior to issuance and deployment.
 
-### AC-19 – Access Control for Mobile Devices
+### <span id="ac-19"></span>AC-19 – Access Control for Mobile Devices
 
-- a. Establish configuration requirements, connection requirements, and implementation guidance for organization-controlled mobile devices, to include when such devices are outside of controlled areas; and
-- b. Authorize the connection of mobile devices to organizational systems.
+- <span id="ac-19_smt.a"></span> a. Establish configuration requirements, connection requirements, and implementation guidance for organization-controlled mobile devices, to include when such devices are outside of controlled areas; and
+- <span id="ac-19_smt.b"></span> b. Authorize the connection of mobile devices to organizational systems.
 
-#### AC-19(5) – Full Device or Container-based Encryption
+#### <span id="ac-19.5"></span>AC-19(5) – Full Device or Container-based Encryption
 
 Employ [full-device encryption or container-based encryption] to protect the confidentiality and integrity of information on [organization-defined mobile devices].
 
-### AC-20 – Use of External Systems
+### <span id="ac-20"></span>AC-20 – Use of External Systems
 
-- a.  [establish [organization-defined terms and conditions]  or identify [organization-defined controls asserted] ] , consistent with the trust relationships established with other organizations owning, operating, and/or maintaining external systems, allowing authorized individuals to:
-  - 1. Access the system from external systems; and
-  - 2. Process, store, or transmit organization-controlled information using external systems; or
-- b. Prohibit the use of [organization-defined prohibited types of external systems].
+- <span id="ac-20_smt.a"></span> a.  [establish [organization-defined terms and conditions]  or identify [organization-defined controls asserted] ] , consistent with the trust relationships established with other organizations owning, operating, and/or maintaining external systems, allowing authorized individuals to:
+  - <span id="ac-20_smt.a.1"></span> 1. Access the system from external systems; and
+  - <span id="ac-20_smt.a.2"></span> 2. Process, store, or transmit organization-controlled information using external systems; or
+- <span id="ac-20_smt.b"></span> b. Prohibit the use of [organization-defined prohibited types of external systems].
 
-#### AC-20(1) – Limits on Authorized Use
+#### <span id="ac-20.1"></span>AC-20(1) – Limits on Authorized Use
 
 Permit authorized individuals to use an external system to access the system or to process, store, or transmit organization-controlled information only after:
-- (a) Verification of the implementation of controls on the external system as specified in the organization’s security and privacy policies and security and privacy plans; or
-- (b) Retention of approved system connection or processing agreements with the organizational entity hosting the external system.
+- <span id="ac-20.1_smt.a"></span> (a) Verification of the implementation of controls on the external system as specified in the organization’s security and privacy policies and security and privacy plans; or
+- <span id="ac-20.1_smt.b"></span> (b) Retention of approved system connection or processing agreements with the organizational entity hosting the external system.
 
-#### AC-20(2) – Portable Storage Devices — Restricted Use
+#### <span id="ac-20.2"></span>AC-20(2) – Portable Storage Devices — Restricted Use
 
 Restrict the use of organization-controlled portable storage devices by authorized individuals on external systems using [organization-defined restrictions].
 
-### AC-21 – Information Sharing
+### <span id="ac-21"></span>AC-21 – Information Sharing
 
-- a. Enable authorized users to determine whether access authorizations assigned to a sharing partner match the information’s access and use restrictions for [organization-defined information-sharing circumstances] ; and
-- b. Employ [organization-defined automated mechanisms] to assist users in making information sharing and collaboration decisions.
+- <span id="ac-21_smt.a"></span> a. Enable authorized users to determine whether access authorizations assigned to a sharing partner match the information’s access and use restrictions for [organization-defined information-sharing circumstances] ; and
+- <span id="ac-21_smt.b"></span> b. Employ [organization-defined automated mechanisms] to assist users in making information sharing and collaboration decisions.
 
-### AC-22 – Publicly Accessible Content
+### <span id="ac-22"></span>AC-22 – Publicly Accessible Content
 
-- a. Designate individuals authorized to make information publicly accessible;
-- b. Train authorized individuals to ensure that publicly accessible information does not contain nonpublic information;
-- c. Review the proposed content of information prior to posting onto the publicly accessible system to ensure that nonpublic information is not included; and
-- d. Review the content on the publicly accessible system for nonpublic information [organization-defined frequency] and remove such information, if discovered.
+- <span id="ac-22_smt.a"></span> a. Designate individuals authorized to make information publicly accessible;
+- <span id="ac-22_smt.b"></span> b. Train authorized individuals to ensure that publicly accessible information does not contain nonpublic information;
+- <span id="ac-22_smt.c"></span> c. Review the proposed content of information prior to posting onto the publicly accessible system to ensure that nonpublic information is not included; and
+- <span id="ac-22_smt.d"></span> d. Review the content on the publicly accessible system for nonpublic information [organization-defined frequency] and remove such information, if discovered.
 
 ---
 

@@ -57,7 +57,7 @@ endpoints, like `/api/users`.
 
 During the registration process for an application that allows only invited
 users to join, the mobile application triggers an API call to
-`GET /api/invites/{'{'{'}'}invite_guid{'}'}`. The response contains a JSON with details
+`GET /api/invites/｛invite_guid｝`. The response contains a JSON with details
 about the invite, including the user's role and the user's email.
 
 An attacker duplicates the request and manipulates the HTTP method and endpoint
@@ -70,10 +70,10 @@ The attacker exploits the issue and sends a new invite with admin privileges:
 ```
 POST /api/invites/new
 
-{'{'{'}'}
+｛
   "email": "attacker@somehost.com",
   "role":"admin"
-{'}'}
+｝
 ```
 
 Later on, the attacker uses the maliciously crafted invite in order to create

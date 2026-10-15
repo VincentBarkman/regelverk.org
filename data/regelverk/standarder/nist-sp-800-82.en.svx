@@ -21,4 +21,9 @@ url: https://csrc.nist.gov/pubs/sp/800/82/r3/final
 NIST SP 800-82 explains how industrial control systems differ from conventional IT systems and how security programs adapt to environments where availability and human safety are paramount. The publication is free to download from NIST but has no machine-readable control catalogue; complement it with NIST SP 800-53 and IEC 62443.
 
 Official source: [NIST SP 800-82 Rev. 3](https://csrc.nist.gov/pubs/sp/800/82/r3/final).
+
+## Related legal acts
+
+- [NIS2 directive](/en/lagstiftning/nis2)
+- [CER directive](/en/lagstiftning/cer)
 <!-- scan-standards:end -->

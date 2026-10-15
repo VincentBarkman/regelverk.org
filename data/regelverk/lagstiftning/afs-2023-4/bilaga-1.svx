@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### Grundläggande hälso- och säkerhetskrav på konstruktion och tillverkning av maskiner
 
 ### Allmänna principer
 
@@ -44,6 +42,8 @@ eliminera riskkällorna eller minska riskerna relaterade till dessa genom skydds
 3\. De grundläggande hälso- och säkerhetskrav som fastställs i denna bilaga är tvingande. Det kan dock på grund av rådande teknisk utvecklingsnivå vara omöjligt att uppfylla de mål som anges i kraven. Under sådana omständigheter ska maskinen så långt möjligt konstrueras och tillverkas för att närma sig dessa mål.
 
 4\. Denna bilaga består av flera delar. Den första har en allmän omfattning och gäller samtliga maskintyper. De andra delarna behandlar vissa mer specifika riskkällor. För att med säkerhet uppfylla samtliga tillämpliga grundläggande krav är det dock viktigt att hela denna bilaga tas i beaktande. När maskinerna konstrueras ska kraven i den allmänna delen och kraven i en eller flera av de andra delarna beaktas, beroende på resultatet av riskbedömningen i enlighet med punkt 1 i dessa allmänna principer. Grundläggande hälso- och säkerhetskrav för skyddet av miljön ska tillämpas endast på de maskiner som avses i avsnitt 2.4.
+
+#### Grundläggande hälso- och säkerhetskrav
 
 ### 1.1 – Allmänt
 

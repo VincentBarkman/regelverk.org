@@ -23,68 +23,68 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### 03.04.01 – Baseline Configuration
+### <span id="SP_800_171_03.04.01"></span>03.04.01 – Baseline Configuration
 
-- SR-03.04.01.a Develop and maintain under configuration control, a current baseline configuration of the system.
-- SR-03.04.01.b Review and update the baseline configuration of the system [organization-defined frequency] and when system components are installed or modified.
+- <span id="SR-03.04.01.a"></span> SR-03.04.01.a Develop and maintain under configuration control, a current baseline configuration of the system.
+- <span id="SR-03.04.01.b"></span> SR-03.04.01.b Review and update the baseline configuration of the system [organization-defined frequency] and when system components are installed or modified.
 
-### 03.04.02 – Configuration Settings
+### <span id="SP_800_171_03.04.02"></span>03.04.02 – Configuration Settings
 
-- SR-03.04.02.a Establish, document, and implement the following configuration settings for the system that reflect the most restrictive mode consistent with operational requirements: [organization-defined configuration settings] .
-- SR-03.04.02.b Identify, document, and approve any deviations from established configuration settings.
+- <span id="SR-03.04.02.a"></span> SR-03.04.02.a Establish, document, and implement the following configuration settings for the system that reflect the most restrictive mode consistent with operational requirements: [organization-defined configuration settings] .
+- <span id="SR-03.04.02.b"></span> SR-03.04.02.b Identify, document, and approve any deviations from established configuration settings.
 
-### 03.04.03 – Configuration Change Control
+### <span id="SP_800_171_03.04.03"></span>03.04.03 – Configuration Change Control
 
-- SR-03.04.03.a Define the types of changes to the system that are configuration-controlled.
-- SR-03.04.03.b Review proposed configuration-controlled changes to the system, and approve or disapprove such changes with explicit consideration for security impacts.
-- SR-03.04.03.c Implement and document approved configuration-controlled changes to the system.
-- SR-03.04.03.d Monitor and review activities associated with configuration-controlled changes to the system.
+- <span id="SR-03.04.03.a"></span> SR-03.04.03.a Define the types of changes to the system that are configuration-controlled.
+- <span id="SR-03.04.03.b"></span> SR-03.04.03.b Review proposed configuration-controlled changes to the system, and approve or disapprove such changes with explicit consideration for security impacts.
+- <span id="SR-03.04.03.c"></span> SR-03.04.03.c Implement and document approved configuration-controlled changes to the system.
+- <span id="SR-03.04.03.d"></span> SR-03.04.03.d Monitor and review activities associated with configuration-controlled changes to the system.
 
-### 03.04.04 – Impact Analyses
+### <span id="SP_800_171_03.04.04"></span>03.04.04 – Impact Analyses
 
-- SR-03.04.04.a Analyze changes to the system to determine potential security impacts prior to change implementation.
-- SR-03.04.04.b Verify that the security requirements for the system continue to be satisfied after the system changes have been implemented.
+- <span id="SR-03.04.04.a"></span> SR-03.04.04.a Analyze changes to the system to determine potential security impacts prior to change implementation.
+- <span id="SR-03.04.04.b"></span> SR-03.04.04.b Verify that the security requirements for the system continue to be satisfied after the system changes have been implemented.
 
-### 03.04.05 – Access Restrictions for Change
+### <span id="SP_800_171_03.04.05"></span>03.04.05 – Access Restrictions for Change
 
 Define, document, approve, and enforce physical and logical access restrictions associated with changes to the system.
 
-### 03.04.06 – Least Functionality
+### <span id="SP_800_171_03.04.06"></span>03.04.06 – Least Functionality
 
-- SR-03.04.06.a Configure the system to provide only mission-essential capabilities.
-- SR-03.04.06.b Prohibit or restrict use of the following functions, ports, protocols, connections, and services: [organization-defined functions] .
-- SR-03.04.06.c Review the system [organization-defined frequency] to identify unnecessary or nonsecure functions, ports, protocols, connections, and services.
-- SR-03.04.06.d Disable or remove functions, ports, protocols, connections, and services that are unnecessary or nonsecure.
+- <span id="SR-03.04.06.a"></span> SR-03.04.06.a Configure the system to provide only mission-essential capabilities.
+- <span id="SR-03.04.06.b"></span> SR-03.04.06.b Prohibit or restrict use of the following functions, ports, protocols, connections, and services: [organization-defined functions] .
+- <span id="SR-03.04.06.c"></span> SR-03.04.06.c Review the system [organization-defined frequency] to identify unnecessary or nonsecure functions, ports, protocols, connections, and services.
+- <span id="SR-03.04.06.d"></span> SR-03.04.06.d Disable or remove functions, ports, protocols, connections, and services that are unnecessary or nonsecure.
 
-### SP_800_171_03.04.07 – 03.04.07
-
-
-
-### 03.04.08 – Authorized Software – Allow by Exception
-
-- SR-03.04.08.a Identify software programs authorized to execute on the system.
-- SR-03.04.08.b Implement a deny-all, allow-by-exception policy for the execution of authorized software programs on the system.
-- SR-03.04.08.c Review and update the list of authorized software programs [organization-defined frequency].
-
-### SP_800_171_03.04.09 – 03.04.09
+### <span id="SP_800_171_03.04.07"></span>SP_800_171_03.04.07 – 03.04.07
 
 
 
-### 03.04.10 – System Component Inventory
+### <span id="SP_800_171_03.04.08"></span>03.04.08 – Authorized Software – Allow by Exception
 
-- SR-03.04.10.a Develop and document an inventory of system components.
-- SR-03.04.10.b Review and update the system component inventory [organization-defined frequency].
-- SR-03.04.10.c Update the system component inventory as part of installations, removals, and system updates.
+- <span id="SR-03.04.08.a"></span> SR-03.04.08.a Identify software programs authorized to execute on the system.
+- <span id="SR-03.04.08.b"></span> SR-03.04.08.b Implement a deny-all, allow-by-exception policy for the execution of authorized software programs on the system.
+- <span id="SR-03.04.08.c"></span> SR-03.04.08.c Review and update the list of authorized software programs [organization-defined frequency].
 
-### 03.04.11 – Information Location
+### <span id="SP_800_171_03.04.09"></span>SP_800_171_03.04.09 – 03.04.09
 
-- SR-03.04.11.a Identify and document the location of CUI and the system components on which the information is processed and stored.
-- SR-03.04.11.b Document changes to the system or system component location where CUI is processed and stored.
 
-### 03.04.12 – System and Component Configuration for High-Risk Areas
 
-- SR-03.04.12.a Issue systems or system components with the following configurations to individuals traveling to high-risk locations: [organization-defined configurations].
-- SR-03.04.12.b Apply the following security requirements to the systems or components when the individuals return from travel: [organization-defined security requirements].
+### <span id="SP_800_171_03.04.10"></span>03.04.10 – System Component Inventory
+
+- <span id="SR-03.04.10.a"></span> SR-03.04.10.a Develop and document an inventory of system components.
+- <span id="SR-03.04.10.b"></span> SR-03.04.10.b Review and update the system component inventory [organization-defined frequency].
+- <span id="SR-03.04.10.c"></span> SR-03.04.10.c Update the system component inventory as part of installations, removals, and system updates.
+
+### <span id="SP_800_171_03.04.11"></span>03.04.11 – Information Location
+
+- <span id="SR-03.04.11.a"></span> SR-03.04.11.a Identify and document the location of CUI and the system components on which the information is processed and stored.
+- <span id="SR-03.04.11.b"></span> SR-03.04.11.b Document changes to the system or system component location where CUI is processed and stored.
+
+### <span id="SP_800_171_03.04.12"></span>03.04.12 – System and Component Configuration for High-Risk Areas
+
+- <span id="SR-03.04.12.a"></span> SR-03.04.12.a Issue systems or system components with the following configurations to individuals traveling to high-risk locations: [organization-defined configurations].
+- <span id="SR-03.04.12.b"></span> SR-03.04.12.b Apply the following security requirements to the systems or components when the individuals return from travel: [organization-defined security requirements].
 
 ---
 

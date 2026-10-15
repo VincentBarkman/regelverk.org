@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/51ed7804-1617-11ee-806b-01aa75ed71a1.0006.03#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#cpt_V'
 'sites':
   - 'arbetsmiljo'
   - 'ot'
@@ -24,7 +24,7 @@
 
 ### Article 26 – Notification
 
-Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party conformity assessment tasks in accordance with [this Regulation](/lagstiftning/maskinforordningen).
+Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party conformity assessment tasks in accordance with [this Regulation](/en/lagstiftning/maskinforordningen).
 
 ### Article 27 – Notifying authorities
 
@@ -94,7 +94,7 @@ A conformity assessment body shall have the means necessary to perform the techn
 
 (b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
 
-(c) appropriate knowledge and understanding of the essential health and safety requirements set out in Annex III, of the applicable harmonised standards and common specifications referred to in Article [20](/lagstiftning/maskinforordningen/kap-3#article-20-presumption-of-conformity-of-products-within-the-scope-of-this-regulation), and of the relevant provisions of Union harmonisation legislation and of national legislation;
+(c) appropriate knowledge and understanding of the essential health and safety requirements set out in Annex III, of the applicable harmonised standards and common specifications referred to in Article [20](/en/lagstiftning/maskinforordningen/kap-3#article-20-presumption-of-conformity-of-products-within-the-scope-of-this-regulation), and of the relevant provisions of Union harmonisation legislation and of national legislation;
 
 (d) the ability to draw up certificates, records and reports demonstrating that conformity assessments have been carried out.
 
@@ -148,7 +148,7 @@ Where a conformity assessment body demonstrates its conformity with the criteria
 
 5\. The conformity assessment body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of the validation of the notification where it includes an accreditation certificate referred to in Article [33](#article-33-application-for-notification)(2), or within two months of the notification where it includes documentary evidence referred to in paragraph 4 of [this Article](#article-34-notification-procedure).
 
-Only such a body shall be considered a notified body for the purposes of [this Regulation](/lagstiftning/maskinforordningen).
+Only such a body shall be considered a notified body for the purposes of [this Regulation](/en/lagstiftning/maskinforordningen).
 
 6\. The notifying authority shall notify the Commission and the other Member States of any subsequent relevant changes to the notification referred to in paragraph 2.
 
@@ -158,7 +158,7 @@ Only such a body shall be considered a notified body for the purposes of [this R
 
 It shall assign a single such number even where the body is notified under several Union acts.
 
-2\. The Commission shall make publicly available the list of bodies notified under [this Regulation](/lagstiftning/maskinforordningen) including the identification numbers that have been assigned to them and the conformity assessment activities for which they have been notified.
+2\. The Commission shall make publicly available the list of bodies notified under [this Regulation](/en/lagstiftning/maskinforordningen) including the identification numbers that have been assigned to them and the conformity assessment activities for which they have been notified.
 
 The Commission shall ensure that the list is kept up to date.
 
@@ -178,7 +178,7 @@ The Commission shall ensure that the list is kept up to date.
 
 4\. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requesting the notifying Member State to take the necessary corrective measures, including the withdrawal of the notification if necessary.
 
-That implementing act shall be adopted in accordance with the advisory procedure referred to in Article [48](/lagstiftning/maskinforordningen/kap-7#article-48-committee-procedure)(2).
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article [48](/en/lagstiftning/maskinforordningen/kap-7#article-48-committee-procedure)(2).
 
 ### Article 38 – Operational obligations of notified bodies
 
@@ -186,9 +186,9 @@ That implementing act shall be adopted in accordance with the advisory procedure
 
 2\. A notified body shall perform its activities in a proportionate manner, avoiding unnecessary burdens for economic operators, and taking due account of the size of an undertaking, the sector in which the undertaking operates, the structure of the undertaking, the degree of complexity of the technology in question and the mass or serial nature of the production process.
 
-In so doing, the notified body shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the machinery or related product with the requirements of [this Regulation](/lagstiftning/maskinforordningen).
+In so doing, the notified body shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the machinery or related product with the requirements of [this Regulation](/en/lagstiftning/maskinforordningen).
 
-3\. Where a notified body finds that the essential health and safety requirements set out in Annex III, or corresponding harmonised standards or common specifications referred to in Article [20](/lagstiftning/maskinforordningen/kap-3#article-20-presumption-of-conformity-of-products-within-the-scope-of-this-regulation) have not been met by a manufacturer, it shall require the manufacturer to take appropriate corrective actions and shall not issue an EU-type examination certificate, adopt a quality system approval decision or issue a unit verification certificate.
+3\. Where a notified body finds that the essential health and safety requirements set out in Annex III, or corresponding harmonised standards or common specifications referred to in Article [20](/en/lagstiftning/maskinforordningen/kap-3#article-20-presumption-of-conformity-of-products-within-the-scope-of-this-regulation) have not been met by a manufacturer, it shall require the manufacturer to take appropriate corrective actions and shall not issue an EU-type examination certificate, adopt a quality system approval decision or issue a unit verification certificate.
 
 4\. Where, in the course of the monitoring of conformity, following the adoption of an approval decision, in accordance with Annex IX, a notified body finds that machinery or a related product no longer complies, it shall require the manufacturer to take appropriate corrective actions and shall suspend or withdraw the approval decision, if necessary.
 
@@ -210,7 +210,7 @@ A notified body shall ensure that a transparent and accessible appeals procedure
 
 (d) on request, any conformity assessment activities performed within the scope of its notification and any other activity performed, including cross-border activities and subcontracting.
 
-2\. A notified body shall provide the other bodies notified under [this Regulation](/lagstiftning/maskinforordningen) carrying out similar conformity assessment activities covering the same kinds of machinery or related products with relevant information on issues relating to negative and, on request, positive conformity assessment results.
+2\. A notified body shall provide the other bodies notified under [this Regulation](/en/lagstiftning/maskinforordningen) carrying out similar conformity assessment activities covering the same kinds of machinery or related products with relevant information on issues relating to negative and, on request, positive conformity assessment results.
 
 ### Article 41 – Exchange of experience
 
@@ -218,7 +218,7 @@ The Commission shall provide for the organisation of exchange of experience betw
 
 ### Article 42 – Coordination of notified bodies
 
-The Commission shall ensure the establishment and good functioning of appropriate coordination and cooperation between bodies notified under [this Regulation](/lagstiftning/maskinforordningen) in the form of a sectoral group of notified bodies.
+The Commission shall ensure the establishment and good functioning of appropriate coordination and cooperation between bodies notified under [this Regulation](/en/lagstiftning/maskinforordningen) in the form of a sectoral group of notified bodies.
 
 Notified bodies shall participate in the work of that group, directly or by means of designated representatives.
 <!-- scan-laws:end -->

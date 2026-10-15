@@ -23,22 +23,22 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.11.01 – Risk Assessment
+### <span id="SP_800_171_03.11.01"></span>03.11.01 – Risk Assessment
 
-- SR-03.11.01.a Assess the risk (including supply chain risk) of unauthorized disclosure resulting from the processing, storage, or transmission of CUI.
-- SR-03.11.01.b Update risk assessments [organization-defined frequency].
+- <span id="SR-03.11.01.a"></span> SR-03.11.01.a Assess the risk (including supply chain risk) of unauthorized disclosure resulting from the processing, storage, or transmission of CUI.
+- <span id="SR-03.11.01.b"></span> SR-03.11.01.b Update risk assessments [organization-defined frequency].
 
-### 03.11.02 – Vulnerability Monitoring and Scanning
+### <span id="SP_800_171_03.11.02"></span>03.11.02 – Vulnerability Monitoring and Scanning
 
-- SR-03.11.02.a Monitor and scan the system for vulnerabilities [organization-defined frequency] and when new vulnerabilities affecting the system are identified.
-- SR-03.11.02.b Remediate system vulnerabilities within [organization-defined response times].
-- SR-03.11.02.c Update system vulnerabilities to be scanned [organization-defined frequency] and when new vulnerabilities are identified and reported.
+- <span id="SR-03.11.02.a"></span> SR-03.11.02.a Monitor and scan the system for vulnerabilities [organization-defined frequency] and when new vulnerabilities affecting the system are identified.
+- <span id="SR-03.11.02.b"></span> SR-03.11.02.b Remediate system vulnerabilities within [organization-defined response times].
+- <span id="SR-03.11.02.c"></span> SR-03.11.02.c Update system vulnerabilities to be scanned [organization-defined frequency] and when new vulnerabilities are identified and reported.
 
-### SP_800_171_03.11.03 – 03.11.03
+### <span id="SP_800_171_03.11.03"></span>SP_800_171_03.11.03 – 03.11.03
 
 
 
-### 03.11.04 – Risk Response
+### <span id="SP_800_171_03.11.04"></span>03.11.04 – Risk Response
 
 Respond to findings from security assessments, monitoring, and audits.
 

@@ -23,7 +23,8 @@ export const load: PageServerLoad = async ({ params, url }) => {
 	const host = siteHost(scope);
 	const lang = getLocale() === 'en' ? 'en' : 'sv';
 	const idPath = params.id.split('/').map(encodeURIComponent).join('/');
-	const canonical = `https://${host}/${entity}/${idPath}`;
+	const locPath = `${lang === 'en' ? '/en' : ''}`;
+	const canonical = `https://${host}${locPath}/${entity}/${idPath}`;
 	const meta = record.meta ?? {};
 	const title = record.title ?? params.id;
 	const description = typeof meta.description === 'string' ? meta.description : undefined;
@@ -33,7 +34,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 				?.items.find((i) => i.id === params.id.split('/').slice(0, -1).join('/'))
 		: undefined;
 	const hrefFor = (id: string) =>
-		`https://${host}/${entity}/${id.split('/').map(encodeURIComponent).join('/')}`;
+		`https://${host}${locPath}/${entity}/${id.split('/').map(encodeURIComponent).join('/')}`;
 	const main =
 		entity === 'lagstiftning'
 			? {
@@ -70,8 +71,8 @@ export const load: PageServerLoad = async ({ params, url }) => {
 					isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
 				};
 	const crumbs = [
-		{ name: m.nav_home(), url: `https://${host}/` },
-		{ name: ENTITY_LABEL[entity](), url: `https://${host}/${entity}` },
+		{ name: m.nav_home(), url: `https://${host}${locPath}/` },
+		{ name: ENTITY_LABEL[entity](), url: `https://${host}${locPath}/${entity}` },
 		...(parent ? [{ name: parent.title ?? parent.id, url: hrefFor(parent.id) }] : []),
 		{ name: title, url: canonical }
 	];

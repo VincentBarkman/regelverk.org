@@ -11,10 +11,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/3ff67256-55c4-11ed-92ed-01aa75ed71a1.0006.03#cpt_III'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2065#cpt_III'
 'sites':
   - 'it'
 ---
@@ -24,7 +24,7 @@
 
 ### Article 11 – Points of contact for Member States’ authorities, the Commission and the Board
 
-1\. Providers of intermediary services shall designate a single point of contact to enable them to communicate directly, by electronic means, with Member States’ authorities, the Commission and the Board referred to in Article [61](/lagstiftning/dsa/kap-4#article-61-european-board-for-digital-services) for the application of [this Regulation](/lagstiftning/dsa).
+1\. Providers of intermediary services shall designate a single point of contact to enable them to communicate directly, by electronic means, with Member States’ authorities, the Commission and the Board referred to in Article [61](/en/lagstiftning/dsa/kap-4#article-61-european-board-for-digital-services) for the application of [this Regulation](/en/lagstiftning/dsa).
 
 2\. Providers of intermediary services shall make public the information necessary to easily identify and communicate with their single points of contact. That information shall be easily accessible, and shall be kept up to date.
 
@@ -40,9 +40,9 @@
 
 1\. Providers of intermediary services which do not have an establishment in the Union but which offer services in the Union shall designate, in writing, a legal or natural person to act as their legal representative in one of the Member States where the provider offers its services.
 
-2\. Providers of intermediary services shall mandate their legal representatives for the purpose of being addressed in addition to or instead of such providers, by the Member States’ competent authorities, the Commission and the Board, on all issues necessary for the receipt of, compliance with and enforcement of decisions issued in relation to [this Regulation](/lagstiftning/dsa). Providers of intermediary services shall provide their legal representative with necessary powers and sufficient resources to guarantee their efficient and timely cooperation with the Member States’ competent authorities, the Commission and the Board, and to comply with such decisions.
+2\. Providers of intermediary services shall mandate their legal representatives for the purpose of being addressed in addition to or instead of such providers, by the Member States’ competent authorities, the Commission and the Board, on all issues necessary for the receipt of, compliance with and enforcement of decisions issued in relation to [this Regulation](/en/lagstiftning/dsa). Providers of intermediary services shall provide their legal representative with necessary powers and sufficient resources to guarantee their efficient and timely cooperation with the Member States’ competent authorities, the Commission and the Board, and to comply with such decisions.
 
-3\. It shall be possible for the designated legal representative to be held liable for non-compliance with obligations under [this Regulation](/lagstiftning/dsa), without prejudice to the liability and legal actions that could be initiated against the provider of intermediary services.
+3\. It shall be possible for the designated legal representative to be held liable for non-compliance with obligations under [this Regulation](/en/lagstiftning/dsa), without prejudice to the liability and legal actions that could be initiated against the provider of intermediary services.
 
 4\. Providers of intermediary services shall notify the name, postal address, email address and telephone number of their legal representative to the Digital Services Coordinator in the Member State where that legal representative resides or is established. They shall ensure that that information is publicly available, easily accessible, accurate and kept up to date.
 
@@ -66,7 +66,7 @@
 
 1\. Providers of intermediary services shall make publicly available, in a machine-readable format and in an easily accessible manner, at least once a year, clear, easily comprehensible reports on any content moderation that they engaged in during the relevant period. Those reports shall include, in particular, information on the following, as applicable:
 
-(a) for providers of intermediary services, the number of orders received from Member States’ authorities including orders issued in accordance with Articles [9](/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content) and [10](/lagstiftning/dsa/kap-2#article-10-orders-to-provide-information), categorised by the type of illegal content concerned, the Member State issuing the order, and the median time needed to inform the authority issuing the order, or any other authority specified in the order, of its receipt, and to give effect to the order;
+(a) for providers of intermediary services, the number of orders received from Member States’ authorities including orders issued in accordance with Articles [9](/en/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content) and [10](/en/lagstiftning/dsa/kap-2#article-10-orders-to-provide-information), categorised by the type of illegal content concerned, the Member State issuing the order, and the median time needed to inform the authority issuing the order, or any other authority specified in the order, of its receipt, and to give effect to the order;
 
 (b) for providers of hosting services, the number of notices submitted in accordance with Article [16](#article-16-notice-and-action-mechanisms), categorised by the type of alleged illegal content concerned, the number of notices submitted by trusted flaggers, any action taken pursuant to the notices by differentiating whether the action was taken on the basis of the law or the terms and conditions of the provider, the number of notices processed by using automated means and the median time needed for taking the action;
 
@@ -76,9 +76,9 @@
 
 (e) any use made of automated means for the purpose of content moderation, including a qualitative description, a specification of the precise purposes, indicators of the accuracy and the possible rate of error of the automated means used in fulfilling those purposes, and any safeguards applied.
 
-2\. Paragraph 1 of [this Article](#article-15-transparency-reporting-obligations-for-providers-of-intermediary-services) shall not apply to providers of intermediary services that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) and which are not very large online platforms within the meaning of Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines) of [this Regulation](/lagstiftning/dsa).
+2\. Paragraph 1 of [this Article](#article-15-transparency-reporting-obligations-for-providers-of-intermediary-services) shall not apply to providers of intermediary services that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) and which are not very large online platforms within the meaning of Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines) of [this Regulation](/en/lagstiftning/dsa).
 
-3\. The Commission may adopt implementing acts to lay down templates concerning the form, content and other details of reports pursuant to paragraph 1 of [this Article](#article-15-transparency-reporting-obligations-for-providers-of-intermediary-services), including harmonised reporting periods. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/lagstiftning/dsa/kap-4#article-88-committee-procedure).
+3\. The Commission may adopt implementing acts to lay down templates concerning the form, content and other details of reports pursuant to paragraph 1 of [this Article](#article-15-transparency-reporting-obligations-for-providers-of-intermediary-services), including harmonised reporting periods. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/en/lagstiftning/dsa/kap-4#article-88-committee-procedure).
 
 ### Article 16 – Notice and action mechanisms
 
@@ -90,11 +90,11 @@
 
 (b) a clear indication of the exact electronic location of that information, such as the exact URL or URLs, and, where necessary, additional information enabling the identification of the illegal content adapted to the type of content and to the specific type of hosting service;
 
-(c) the name and email address of the individual or entity submitting the notice, except in the case of information considered to involve one of the offences referred to in Articles [3](/lagstiftning/dsa/kap-1#article-3-definitions) to 7 of [Directive 2011/93/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0093);
+(c) the name and email address of the individual or entity submitting the notice, except in the case of information considered to involve one of the offences referred to in Articles [3](/en/lagstiftning/dsa/kap-1#article-3-definitions) to 7 of [Directive 2011/93/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0093);
 
 (d) a statement confirming the bona fide belief of the individual or entity submitting the notice that the information and allegations contained therein are accurate and complete.
 
-3\. Notices referred to in [this Article](#article-16-notice-and-action-mechanisms) shall be considered to give rise to actual knowledge or awareness for the purposes of Article [6](/lagstiftning/dsa/kap-2#article-6-hosting) in respect of the specific item of information concerned where they allow a diligent provider of hosting services to identify the illegality of the relevant activity or information without a detailed legal examination.
+3\. Notices referred to in [this Article](#article-16-notice-and-action-mechanisms) shall be considered to give rise to actual knowledge or awareness for the purposes of Article [6](/en/lagstiftning/dsa/kap-2#article-6-hosting) in respect of the specific item of information concerned where they allow a diligent provider of hosting services to identify the illegality of the relevant activity or information without a detailed legal examination.
 
 4\. Where the notice contains the electronic contact information of the individual or entity that submitted it, the provider of hosting services shall, without undue delay, send a confirmation of receipt of the notice to that individual or entity.
 
@@ -134,7 +134,7 @@ Paragraph 1 shall not apply where the information is deceptive high-volume comme
 
 4\. The information provided by the providers of hosting services in accordance with [this Article](#article-17-statement-of-reasons) shall be clear and easily comprehensible and as precise and specific as reasonably possible under the given circumstances. The information shall, in particular, be such as to reasonably allow the recipient of the service concerned to effectively exercise the possibilities for redress referred to in of paragraph 3, point (f).
 
-5\. [This Article](#article-17-statement-of-reasons) shall not apply to any orders referred to in Article [9](/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content).
+5\. [This Article](#article-17-statement-of-reasons) shall not apply to any orders referred to in Article [9](/en/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content).
 
 ### Article 18 – Notification of suspicions of criminal offences
 
@@ -146,11 +146,11 @@ For the purpose of [this Article](#article-18-notification-of-suspicions-of-crim
 
 ### Article 19 – Exclusion for micro and small enterprises
 
-1\. [This Section](/lagstiftning/dsa/kap-3), with the exception of Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) thereof, shall not apply to providers of online platforms that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361).
+1\. [This Section](/en/lagstiftning/dsa/kap-3), with the exception of Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) thereof, shall not apply to providers of online platforms that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361).
 
-[This Section](/lagstiftning/dsa/kap-3), with the exception of Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) thereof, shall not apply to providers of online platforms that previously qualified for the status of a micro or small enterprise as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) during the 12 months following their loss of that status pursuant to Article [4](/lagstiftning/dsa/kap-2#article-4-mere-conduit)(2) thereof, except when they are very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
+[This Section](/en/lagstiftning/dsa/kap-3), with the exception of Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) thereof, shall not apply to providers of online platforms that previously qualified for the status of a micro or small enterprise as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) during the 12 months following their loss of that status pursuant to Article [4](/en/lagstiftning/dsa/kap-2#article-4-mere-conduit)(2) thereof, except when they are very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
 
-2\. By derogation from paragraph 1 of [this Article](#article-19-exclusion-for-micro-and-small-enterprises), [this Section](/lagstiftning/dsa/kap-3) shall apply to providers of online platforms that have been designated as very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), irrespective of whether they qualify as micro or small enterprises.
+2\. By derogation from paragraph 1 of [this Article](#article-19-exclusion-for-micro-and-small-enterprises), [this Section](/en/lagstiftning/dsa/kap-3) shall apply to providers of online platforms that have been designated as very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), irrespective of whether they qualify as micro or small enterprises.
 
 ### Article 20 – Internal complaint-handling system
 
@@ -244,7 +244,7 @@ Member States shall ensure that any of their activities undertaken under the fir
 
 1\. Providers of online platforms shall take the necessary technical and organisational measures to ensure that notices submitted by trusted flaggers, acting within their designated area of expertise, through the mechanisms referred to in Article [16](#article-16-notice-and-action-mechanisms), are given priority and are processed and decided upon without undue delay.
 
-2\. The status of ‘trusted flagger’ under [this Regulation](/lagstiftning/dsa) shall be awarded, upon application by any entity, by the Digital Services Coordinator of the Member State in which the applicant is established, to an applicant that has demonstrated that it meets all of the following conditions:
+2\. The status of ‘trusted flagger’ under [this Regulation](/en/lagstiftning/dsa) shall be awarded, upon application by any entity, by the Digital Services Coordinator of the Member State in which the applicant is established, to an applicant that has demonstrated that it meets all of the following conditions:
 
 (a) it has particular expertise and competence for the purposes of detecting, identifying and notifying illegal content;
 
@@ -308,13 +308,13 @@ Trusted flaggers shall send those reports to the awarding Digital Services Coord
 
 5\. Providers of online platforms shall, without undue delay, submit to the Commission the decisions and the statements of reasons referred to in Article [17](#article-17-statement-of-reasons)(1) for the inclusion in a publicly accessible machine-readable database managed by the Commission. Providers of online platforms shall ensure that the information submitted does not contain personal data.
 
-6\. The Commission may adopt implementing acts to lay down templates concerning the form, content and other details of reports pursuant to paragraph 1 of [this Article](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/lagstiftning/dsa/kap-4#article-88-committee-procedure).
+6\. The Commission may adopt implementing acts to lay down templates concerning the form, content and other details of reports pursuant to paragraph 1 of [this Article](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/en/lagstiftning/dsa/kap-4#article-88-committee-procedure).
 
 ### Article 25 – Online interface design and organisation
 
 1\. Providers of online platforms shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions.
 
-2\. The prohibition in paragraph 1 shall not apply to practices covered by [Directive 2005/29/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0029) or [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+2\. The prohibition in paragraph 1 shall not apply to practices covered by [Directive 2005/29/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0029) or [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
 3\. The Commission may issue guidelines on how paragraph 1 applies to specific practices, notably:
 
@@ -340,7 +340,7 @@ Trusted flaggers shall send those reports to the awarding Digital Services Coord
 
 When the recipient of the service submits a declaration pursuant to this paragraph, the provider of online platforms shall ensure that other recipients of the service can identify in a clear and unambiguous manner and in real time, including through prominent markings, which might follow standards pursuant to Article [44](#article-44-standards), that the content provided by the recipient of the service is or contains commercial communications, as described in that declaration.
 
-3\. Providers of online platforms shall not present advertisements to recipients of the service based on profiling as defined in Article [4](/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/lagstiftning/gdpr) using special categories of personal data referred to in Article [9](/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content)(1) of [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+3\. Providers of online platforms shall not present advertisements to recipients of the service based on profiling as defined in Article [4](/en/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) using special categories of personal data referred to in Article [9](/en/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content)(1) of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
 ### Article 27 – Recommender system transparency
 
@@ -358,7 +358,7 @@ When the recipient of the service submits a declaration pursuant to this paragra
 
 1\. Providers of online platforms accessible to minors shall put in place appropriate and proportionate measures to ensure a high level of privacy, safety, and security of minors, on their service.
 
-2\. Providers of online platform shall not present advertisements on their interface based on profiling as defined in Article [4](/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/lagstiftning/gdpr) using personal data of the recipient of the service when they are aware with reasonable certainty that the recipient of the service is a minor.
+2\. Providers of online platform shall not present advertisements on their interface based on profiling as defined in Article [4](/en/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) using personal data of the recipient of the service when they are aware with reasonable certainty that the recipient of the service is a minor.
 
 3\. Compliance with the obligations set out in [this Article](#article-28-online-protection-of-minors) shall not oblige providers of online platforms to process additional personal data in order to assess whether the recipient of the service is a minor.
 
@@ -366,11 +366,11 @@ When the recipient of the service submits a declaration pursuant to this paragra
 
 ### Article 29 – Exclusion for micro and small enterprises
 
-1\. [This Section](/lagstiftning/dsa/kap-3) shall not apply to providers of online platforms allowing consumers to conclude distance contracts with traders that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361).
+1\. [This Section](/en/lagstiftning/dsa/kap-3) shall not apply to providers of online platforms allowing consumers to conclude distance contracts with traders that qualify as micro or small enterprises as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361).
 
-[This Section](/lagstiftning/dsa/kap-3) shall not apply to providers of online platforms allowing consumers to conclude distance contracts with traders that previously qualified for the status of a micro or small enterprise as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) during the 12 months following their loss of that status pursuant to Article [4](/lagstiftning/dsa/kap-2#article-4-mere-conduit)(2) thereof, except when they are very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
+[This Section](/en/lagstiftning/dsa/kap-3) shall not apply to providers of online platforms allowing consumers to conclude distance contracts with traders that previously qualified for the status of a micro or small enterprise as defined in [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) during the 12 months following their loss of that status pursuant to Article [4](/en/lagstiftning/dsa/kap-2#article-4-mere-conduit)(2) thereof, except when they are very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
 
-2\. By derogation from paragraph 1 of [this Article](#article-29-exclusion-for-micro-and-small-enterprises), [this Section](/lagstiftning/dsa/kap-3) shall apply to providers of online platforms allowing consumers to conclude distance contracts with traders that have been designated as very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), irrespective of whether they qualify as micro or small enterprises.
+2\. By derogation from paragraph 1 of [this Article](#article-29-exclusion-for-micro-and-small-enterprises), [this Section](/en/lagstiftning/dsa/kap-3) shall apply to providers of online platforms allowing consumers to conclude distance contracts with traders that have been designated as very large online platforms in accordance with Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), irrespective of whether they qualify as micro or small enterprises.
 
 ### Article 30 – Traceability of traders
 
@@ -378,7 +378,7 @@ When the recipient of the service submits a declaration pursuant to this paragra
 
 (a) the name, address, telephone number and email address of the trader;
 
-(b) a copy of the identification document of the trader or any other electronic identification as defined by Article [3](/lagstiftning/eidas/kap-1#artikel-3-definitioner) of [Regulation (EU) No 910/2014](/lagstiftning/eidas) of the European Parliament and of the Council (40);
+(b) a copy of the identification document of the trader or any other electronic identification as defined by Article [3](/en/lagstiftning/eidas/kap-1#article-3-definitions) of [Regulation (EU) No 910/2014](/en/lagstiftning/eidas) of the European Parliament and of the Council (40);
 
 (c) the payment account details of the trader;
 
@@ -386,7 +386,7 @@ When the recipient of the service submits a declaration pursuant to this paragra
 
 (e) a self-certification by the trader committing to only offer products or services that comply with the applicable rules of Union law.
 
-2\. Upon receiving the information referred to in paragraph 1 and prior to allowing the trader concerned to use its services, the provider of the online platform allowing consumers to conclude distance contracts with traders shall, through the use of any freely accessible official online database or online interface made available by a Member State or the Union or through requests to the trader to provide supporting documents from reliable sources, make best efforts to assess whether the information referred to in paragraph 1, points (a) to (e), is reliable and complete. For the purpose of [this Regulation](/lagstiftning/dsa), traders shall be liable for the accuracy of the information provided.
+2\. Upon receiving the information referred to in paragraph 1 and prior to allowing the trader concerned to use its services, the provider of the online platform allowing consumers to conclude distance contracts with traders shall, through the use of any freely accessible official online database or online interface made available by a Member State or the Union or through requests to the trader to provide supporting documents from reliable sources, make best efforts to assess whether the information referred to in paragraph 1, points (a) to (e), is reliable and complete. For the purpose of [this Regulation](/en/lagstiftning/dsa), traders shall be liable for the accuracy of the information provided.
 
 As regards traders that are already using the services of providers of online platforms allowing consumers to conclude distance contracts with traders for the purposes referred to in paragraph 1 on 17 February 2024, the providers shall make best efforts to obtain the information listed from the traders concerned within 12 months. Where the traders concerned fail to provide the information within that period, the providers shall suspend the provision of their services to those traders until they have provided all information.
 
@@ -394,11 +394,11 @@ As regards traders that are already using the services of providers of online pl
 
 Where the trader fails to correct or complete that information, the provider of the online platform allowing consumers to conclude distance contracts with traders shall swiftly suspend the provision of its service to that trader in relation to the offering of products or services to consumers located in the Union until the request has been fully complied with.
 
-4\. Without prejudice to Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150) of [Regulation (EU) 2019/1150](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150), if a provider of an online platform allowing consumers to conclude distance contracts with traders refuses to allow a trader to use its service pursuant to paragraph 1, or suspends the provision of its service pursuant to paragraph 3 of [this Article](#article-30-traceability-of-traders), the trader concerned shall have the right to lodge a complaint as provided for in Articles [20](#article-20-internal-complaint-handling-system) and [21](#article-21-out-of-court-dispute-settlement) of [this Regulation](/lagstiftning/dsa).
+4\. Without prejudice to Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150) of [Regulation (EU) 2019/1150](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150), if a provider of an online platform allowing consumers to conclude distance contracts with traders refuses to allow a trader to use its service pursuant to paragraph 1, or suspends the provision of its service pursuant to paragraph 3 of [this Article](#article-30-traceability-of-traders), the trader concerned shall have the right to lodge a complaint as provided for in Articles [20](#article-20-internal-complaint-handling-system) and [21](#article-21-out-of-court-dispute-settlement) of [this Regulation](/en/lagstiftning/dsa).
 
 5\. Providers of online platforms allowing consumers to conclude distance contracts with traders shall store the information obtained pursuant to paragraphs 1 and 2 in a secure manner for a period of six months after the end of the contractual relationship with the trader concerned. They shall subsequently delete the information.
 
-6\. Without prejudice to paragraph 2 of [this Article](#article-30-traceability-of-traders), the provider of the online platform allowing consumers to conclude distance contracts with traders shall only disclose the information to third parties where so required in accordance with the applicable law, including the orders referred to in Article [10](/lagstiftning/dsa/kap-2#article-10-orders-to-provide-information) and any orders issued by Member States’ competent authorities or the Commission for the performance of their tasks under [this Regulation](/lagstiftning/dsa).
+6\. Without prejudice to paragraph 2 of [this Article](#article-30-traceability-of-traders), the provider of the online platform allowing consumers to conclude distance contracts with traders shall only disclose the information to third parties where so required in accordance with the applicable law, including the orders referred to in Article [10](/en/lagstiftning/dsa/kap-2#article-10-orders-to-provide-information) and any orders issued by Member States’ competent authorities or the Commission for the performance of their tasks under [this Regulation](/en/lagstiftning/dsa).
 
 7\. The provider of the online platform allowing consumers to conclude distance contracts with traders shall make the information referred to in paragraph 1, points (a), (d) and (e) available on its online platform to the recipients of the service in a clear, easily accessible and comprehensible manner. That information shall be available at least on the online platform’s online interface where the information on the product or service is presented.
 
@@ -406,7 +406,7 @@ Where the trader fails to correct or complete that information, the provider of 
 
 1\. Providers of online platforms allowing consumers to conclude distance contracts with traders shall ensure that its online interface is designed and organised in a way that enables traders to comply with their obligations regarding pre-contractual information, compliance and product safety information under applicable Union law.
 
-In particular, the provider concerned shall ensure that its online interface enables traders to provide information on the name, address, telephone number and email address of the economic operator, as defined in Article [3](/lagstiftning/dsa/kap-1#article-3-definitions), point (13), of [Regulation (EU) 2019/1020](/lagstiftning/marknadskontrollforordningen) and other Union law.
+In particular, the provider concerned shall ensure that its online interface enables traders to provide information on the name, address, telephone number and email address of the economic operator, as defined in Article [3](/en/lagstiftning/dsa/kap-1#article-3-definitions), point (13), of [Regulation (EU) 2019/1020](/en/lagstiftning/marknadskontrollforordningen) and other Union law.
 
 2\. Providers of online platforms allowing consumers to conclude distance contracts with traders shall ensure that its online interface is designed and organised in a way that it allows traders to provide at least the following:
 
@@ -434,13 +434,13 @@ The obligation laid down in the first subparagraph shall be limited to purchases
 
 ### Article 33 – Very large online platforms and very large online search engines
 
-1\. [This Section](/lagstiftning/dsa/kap-3) shall apply to online platforms and online search engines which have a number of average monthly active recipients of the service in the Union equal to or higher than 45 million, and which are designated as very large online platforms or very large online search engines pursuant to paragraph 4.
+1\. [This Section](/en/lagstiftning/dsa/kap-3) shall apply to online platforms and online search engines which have a number of average monthly active recipients of the service in the Union equal to or higher than 45 million, and which are designated as very large online platforms or very large online search engines pursuant to paragraph 4.
 
-2\. The Commission shall adopt delegated acts in accordance with Article [87](/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation) to adjust the number of average monthly active recipients of the service in the Union referred to in paragraph 1, where the Union’s population increases or decreases at least by 5 % in relation to its population in 2020 or its population after adjustment by means of a delegated act in the year in which the latest delegated act was adopted. In such a case, it shall adjust the number so that it corresponds to 10 % of the Union’s population in the year in which it adopts the delegated act, rounded up or down to allow the number to be expressed in millions.
+2\. The Commission shall adopt delegated acts in accordance with Article [87](/en/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation) to adjust the number of average monthly active recipients of the service in the Union referred to in paragraph 1, where the Union’s population increases or decreases at least by 5 % in relation to its population in 2020 or its population after adjustment by means of a delegated act in the year in which the latest delegated act was adopted. In such a case, it shall adjust the number so that it corresponds to 10 % of the Union’s population in the year in which it adopts the delegated act, rounded up or down to allow the number to be expressed in millions.
 
-3\. The Commission may adopt delegated acts in accordance with Article [87](/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation), after consulting the Board, to supplement the provisions of [this Regulation](/lagstiftning/dsa) by laying down the methodology for calculating the number of average monthly active recipients of the service in the Union, for the purposes of paragraph 1 of [this Article](#article-33-very-large-online-platforms-and-very-large-online-search-engines) and Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(2), ensuring that the methodology takes account of market and technological developments.
+3\. The Commission may adopt delegated acts in accordance with Article [87](/en/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation), after consulting the Board, to supplement the provisions of [this Regulation](/en/lagstiftning/dsa) by laying down the methodology for calculating the number of average monthly active recipients of the service in the Union, for the purposes of paragraph 1 of [this Article](#article-33-very-large-online-platforms-and-very-large-online-search-engines) and Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(2), ensuring that the methodology takes account of market and technological developments.
 
-4\. The Commission shall, after having consulted the Member State of establishment or after taking into account the information provided by the Digital Services Coordinator of establishment pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(4), adopt a decision designating as a very large online platform or a very large online search engine for the purposes of [this Regulation](/lagstiftning/dsa) the online platform or the online search engine which has a number of average monthly active recipients of the service equal to or higher than the number referred to in paragraph 1 of [this Article](#article-33-very-large-online-platforms-and-very-large-online-search-engines). The Commission shall take its decision on the basis of data reported by the provider of the online platform or of the online search engine pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(2), or information requested pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) or any other information available to the Commission.
+4\. The Commission shall, after having consulted the Member State of establishment or after taking into account the information provided by the Digital Services Coordinator of establishment pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(4), adopt a decision designating as a very large online platform or a very large online search engine for the purposes of [this Regulation](/en/lagstiftning/dsa) the online platform or the online search engine which has a number of average monthly active recipients of the service equal to or higher than the number referred to in paragraph 1 of [this Article](#article-33-very-large-online-platforms-and-very-large-online-search-engines). The Commission shall take its decision on the basis of data reported by the provider of the online platform or of the online search engine pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(2), or information requested pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) or any other information available to the Commission.
 
 The failure by the provider of the online platform or of the online search engine to comply with Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(2) or to comply with the request by the Digital Services Coordinator of establishment or by the Commission pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(3) shall not prevent the Commission from designating that provider as a provider of a very large online platform or of a very large online search engine pursuant to this paragraph.
 
@@ -452,7 +452,7 @@ The failure of the provider of the online platform or of the online search engin
 
 6\. The Commission shall notify its decisions pursuant to paragraphs 4 and 5, without undue delay, to the provider of the online platform or of the online search engine concerned, to the Board and to the Digital Services Coordinator of establishment.
 
-The Commission shall ensure that the list of designated very large online platforms and very large online search engines is published in the Official Journal of the European Union, and shall keep that list up to date. The obligations set out in [this Section](/lagstiftning/dsa/kap-3) shall apply, or cease to apply, to the very large online platforms and very large online search engines concerned from four months after the notification to the provider concerned referred to in the first subparagraph.
+The Commission shall ensure that the list of designated very large online platforms and very large online search engines is published in the Official Journal of the European Union, and shall keep that list up to date. The obligations set out in [this Section](/en/lagstiftning/dsa/kap-3) shall apply, or cease to apply, to the very large online platforms and very large online search engines concerned from four months after the notification to the provider concerned referred to in the first subparagraph.
 
 ### Article 34 – Risk assessment
 
@@ -462,7 +462,7 @@ They shall carry out the risk assessments by the date of application referred to
 
 (a) the dissemination of illegal content through their services;
 
-(b) any actual or foreseeable negative effects for the exercise of fundamental rights, in particular the fundamental rights to human dignity enshrined in Article [1](/lagstiftning/dsa/kap-1#article-1-subject-matter) of the Charter, to respect for private and family life enshrined in Article [7](/lagstiftning/dsa/kap-2#article-7-voluntary-own-initiative-investigations-and-legal-compliance) of the Charter, to the protection of personal data enshrined in Article [8](/lagstiftning/dsa/kap-2#article-8-no-general-monitoring-or-active-fact-finding-obligations) of the Charter, to freedom of expression and information, including the freedom and pluralism of the media, enshrined in Article [11](#article-11-points-of-contact-for-member-states-authorities-the-commission-and-the-board) of the Charter, to non-discrimination enshrined in Article [21](#article-21-out-of-court-dispute-settlement) of the Charter, to respect for the rights of the child enshrined in Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms) of the Charter and to a high-level of consumer protection enshrined in Article [38](#article-38-recommender-systems) of the Charter;
+(b) any actual or foreseeable negative effects for the exercise of fundamental rights, in particular the fundamental rights to human dignity enshrined in Article [1](/en/lagstiftning/dsa/kap-1#article-1-subject-matter) of the Charter, to respect for private and family life enshrined in Article [7](/en/lagstiftning/dsa/kap-2#article-7-voluntary-own-initiative-investigations-and-legal-compliance) of the Charter, to the protection of personal data enshrined in Article [8](/en/lagstiftning/dsa/kap-2#article-8-no-general-monitoring-or-active-fact-finding-obligations) of the Charter, to freedom of expression and information, including the freedom and pluralism of the media, enshrined in Article [11](#article-11-points-of-contact-for-member-states-authorities-the-commission-and-the-board) of the Charter, to non-discrimination enshrined in Article [21](#article-21-out-of-court-dispute-settlement) of the Charter, to respect for the rights of the child enshrined in Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms) of the Charter and to a high-level of consumer protection enshrined in Article [38](#article-38-recommender-systems) of the Charter;
 
 (c) any actual or foreseeable negative effects on civic discourse and electoral processes, and public security;
 
@@ -556,7 +556,7 @@ When identifying and applying measures pursuant to point (b) of this paragraph, 
 
 6\. The Commission may on its own initiative or at the request of the provider, engage in a dialogue with the provider to determine whether, in light of the provider’s specific circumstances, the intended or implemented measures referred to in paragraph 1, point (b), are effective and proportionate in achieving the objectives pursued. In particular, the Commission shall ensure that the measures taken by the service provider under paragraph 1, point (b), meet the requirements referred to in paragraph 3, points (a) and (c).
 
-7\. The Commission shall monitor the application of the specific measures taken pursuant to the decision referred to in paragraph 1 of [this Article](#article-36-crisis-response-mechanism) on the basis of the reports referred to in point (c) of that paragraph and any other relevant information, including information it may request pursuant to Article [40](#article-40-data-access-and-scrutiny) or [67](/lagstiftning/dsa/kap-4#article-67-requests-for-information), taking into account the evolution of the crisis. The Commission shall report regularly to the Board on that monitoring, at least on a monthly basis.
+7\. The Commission shall monitor the application of the specific measures taken pursuant to the decision referred to in paragraph 1 of [this Article](#article-36-crisis-response-mechanism) on the basis of the reports referred to in point (c) of that paragraph and any other relevant information, including information it may request pursuant to Article [40](#article-40-data-access-and-scrutiny) or [67](/en/lagstiftning/dsa/kap-4#article-67-requests-for-information), taking into account the evolution of the crisis. The Commission shall report regularly to the Board on that monitoring, at least on a monthly basis.
 
 Where the Commission considers that the intended or implemented specific measures pursuant to paragraph 1, point (b), are not effective or proportionate it may, after consulting the Board, adopt a decision requiring the provider to review the identification or application of those specific measures.
 
@@ -578,13 +578,13 @@ Where the Commission considers that the intended or implemented specific measure
 
 1\. Providers of very large online platforms and of very large online search engines shall be subject, at their own expense and at least once a year, to independent audits to assess compliance with the following:
 
-(a) the obligations set out in [Chapter III](/lagstiftning/dsa/kap-3);
+(a) the obligations set out in [Chapter III](/en/lagstiftning/dsa/kap-3);
 
 (b) any commitments undertaken pursuant to the codes of conduct referred to in Articles [45](#article-45-codes-of-conduct) and [46](#article-46-codes-of-conduct-for-online-advertising) and the crisis protocols referred to in Article [48](#article-48-crisis-protocols).
 
 2\. Providers of very large online platforms and of very large online search engines shall afford the organisations carrying out the audits pursuant to [this Article](#article-37-independent-audit) the cooperation and assistance necessary to enable them to conduct those audits in an effective, efficient and timely manner, including by giving them access to all relevant data and premises and by answering oral or written questions. They shall refrain from hampering, unduly influencing or undermining the performance of the audit.
 
-Such audits shall ensure an adequate level of confidentiality and professional secrecy in respect of the information obtained from the providers of very large online platforms and of very large online search engines and third parties in the context of the audits, including after the termination of the audits. However, complying with that requirement shall not adversely affect the performance of the audits and other provisions of [this Regulation](/lagstiftning/dsa), in particular those on transparency, supervision and enforcement. Where necessary for the purpose of the transparency reporting pursuant to Article [42](#article-42-transparency-reporting-obligations)(4), the audit report and the audit implementation report referred to in paragraphs 4 and 6 of [this Article](#article-37-independent-audit) shall be accompanied with versions that do not contain any information that could reasonably be considered to be confidential.
+Such audits shall ensure an adequate level of confidentiality and professional secrecy in respect of the information obtained from the providers of very large online platforms and of very large online search engines and third parties in the context of the audits, including after the termination of the audits. However, complying with that requirement shall not adversely affect the performance of the audits and other provisions of [this Regulation](/en/lagstiftning/dsa), in particular those on transparency, supervision and enforcement. Where necessary for the purpose of the transparency reporting pursuant to Article [42](#article-42-transparency-reporting-obligations)(4), the audit report and the audit implementation report referred to in paragraphs 4 and 6 of [this Article](#article-37-independent-audit) shall be accompanied with versions that do not contain any information that could reasonably be considered to be confidential.
 
 3\. Audits performed pursuant to paragraph 1 shall be performed by organisations which:
 
@@ -622,11 +622,11 @@ Such audits shall ensure an adequate level of confidentiality and professional s
 
 6\. Providers of very large online platforms or of very large online search engines receiving an audit report that is not ‘positive’ shall take due account of the operational recommendations addressed to them with a view to take the necessary measures to implement them. They shall, within one month from receiving those recommendations, adopt an audit implementation report setting out those measures. Where they do not implement the operational recommendations, they shall justify in the audit implementation report the reasons for not doing so and set out any alternative measures that they have taken to address any instances of non-compliance identified.
 
-7\. The Commission is empowered to adopt delegated acts in accordance with Article [87](/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation) to supplement [this Regulation](/lagstiftning/dsa) by laying down the necessary rules for the performance of the audits pursuant to [this Article](#article-37-independent-audit), in particular as regards the necessary rules on the procedural steps, auditing methodologies and reporting templates for the audits performed pursuant to [this Article](#article-37-independent-audit). Those delegated acts shall take into account any voluntary auditing standards referred to in Article [44](#article-44-standards)(1), point (e).
+7\. The Commission is empowered to adopt delegated acts in accordance with Article [87](/en/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation) to supplement [this Regulation](/en/lagstiftning/dsa) by laying down the necessary rules for the performance of the audits pursuant to [this Article](#article-37-independent-audit), in particular as regards the necessary rules on the procedural steps, auditing methodologies and reporting templates for the audits performed pursuant to [this Article](#article-37-independent-audit). Those delegated acts shall take into account any voluntary auditing standards referred to in Article [44](#article-44-standards)(1), point (e).
 
 ### Article 38 – Recommender systems
 
-In addition to the requirements set out in Article [27](#article-27-recommender-system-transparency), providers of very large online platforms and of very large online search engines that use recommender systems shall provide at least one option for each of their recommender systems which is not based on profiling as defined in Article [4](/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+In addition to the requirements set out in Article [27](#article-27-recommender-system-transparency), providers of very large online platforms and of very large online search engines that use recommender systems shall provide at least one option for each of their recommender systems which is not based on profiling as defined in Article [4](/en/lagstiftning/dsa/kap-2#article-4-mere-conduit), point (4), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
 ### Article 39 – Additional online advertising transparency
 
@@ -648,15 +648,15 @@ In addition to the requirements set out in Article [27](#article-27-recommender-
 
 (g) the total number of recipients of the service reached and, where applicable, aggregate numbers broken down by Member State for the group or groups of recipients that the advertisement specifically targeted.
 
-3\. As regards paragraph 2, points (a), (b) and (c), where a provider of very large online platform or of very large online search engine has removed or disabled access to a specific advertisement based on alleged illegality or incompatibility with its terms and conditions, the repository shall not include the information referred to in those points. In such case, the repository shall include, for the specific advertisement concerned, the information referred to in Article [17](#article-17-statement-of-reasons)(3), points (a) to (e), or Article [9](/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content)(2), point (a)(i), as applicable.
+3\. As regards paragraph 2, points (a), (b) and (c), where a provider of very large online platform or of very large online search engine has removed or disabled access to a specific advertisement based on alleged illegality or incompatibility with its terms and conditions, the repository shall not include the information referred to in those points. In such case, the repository shall include, for the specific advertisement concerned, the information referred to in Article [17](#article-17-statement-of-reasons)(3), points (a) to (e), or Article [9](/en/lagstiftning/dsa/kap-2#article-9-orders-to-act-against-illegal-content)(2), point (a)(i), as applicable.
 
 The Commission may, after consultation of the Board, the relevant vetted researchers referred to in Article [40](#article-40-data-access-and-scrutiny) and the public, issue guidelines on the structure, organisation and functionalities of the repositories referred to in [this Article](#article-39-additional-online-advertising-transparency).
 
 ### Article 40 – Data access and scrutiny
 
-1\. Providers of very large online platforms or of very large online search engines shall provide the Digital Services Coordinator of establishment or the Commission, at their reasoned request and within a reasonable period specified in that request, access to data that are necessary to monitor and assess compliance with [this Regulation](/lagstiftning/dsa).
+1\. Providers of very large online platforms or of very large online search engines shall provide the Digital Services Coordinator of establishment or the Commission, at their reasoned request and within a reasonable period specified in that request, access to data that are necessary to monitor and assess compliance with [this Regulation](/en/lagstiftning/dsa).
 
-2\. Digital Services Coordinators and the Commission shall use the data accessed pursuant to paragraph 1 only for the purpose of monitoring and assessing compliance with [this Regulation](/lagstiftning/dsa) and shall take due account of the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of personal data, the protection of confidential information, in particular trade secrets, and maintaining the security of their service.
+2\. Digital Services Coordinators and the Commission shall use the data accessed pursuant to paragraph 1 only for the purpose of monitoring and assessing compliance with [this Regulation](/en/lagstiftning/dsa) and shall take due account of the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of personal data, the protection of confidential information, in particular trade secrets, and maintaining the security of their service.
 
 3\. For the purposes of paragraph 1, providers of very large online platforms or of very large online search engines shall, at the request of either the Digital Service Coordinator of establishment or of the Commission, explain the design, the logic, the functioning and the testing of their algorithmic systems, including their recommender systems.
 
@@ -676,7 +676,7 @@ The Digital Services Coordinator of establishment shall decide on the request fo
 
 8\. Upon a duly substantiated application from researchers, the Digital Services Coordinator of establishment shall grant such researchers the status of ‘vetted researchers’ for the specific research referred to in the application and issue a reasoned request for data access to a provider of very large online platform or of very large online search engine a pursuant to paragraph 4, where the researchers demonstrate that they meet all of the following conditions:
 
-(a) they are affiliated to a research organisation as defined in Article [2](/lagstiftning/dsa/kap-1#article-2-scope), point (1), of [Directive (EU) 2019/790](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0790);
+(a) they are affiliated to a research organisation as defined in Article [2](/en/lagstiftning/dsa/kap-1#article-2-scope), point (1), of [Directive (EU) 2019/790](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0790);
 
 (b) they are independent from commercial interests;
 
@@ -688,7 +688,7 @@ The Digital Services Coordinator of establishment shall decide on the request fo
 
 (f) the planned research activities will be carried out for the purposes laid down in paragraph 4;
 
-(g) they have committed themselves to making their research results publicly available free of charge, within a reasonable period after the completion of the research, subject to the rights and interests of the recipients of the service concerned, in accordance with [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+(g) they have committed themselves to making their research results publicly available free of charge, within a reasonable period after the completion of the research, subject to the rights and interests of the recipients of the service concerned, in accordance with [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
 Upon receipt of the application pursuant to this paragraph, the Digital Services Coordinator of establishment shall inform the Commission and the Board.
 
@@ -702,31 +702,31 @@ While taking due account of the initial assessment provided, the final decision 
 
 12\. Providers of very large online platforms or of very large online search engines shall give access without undue delay to data, including, where technically possible, to real-time data, provided that the data is publicly accessible in their online interface by researchers, including those affiliated to not for profit bodies, organisations and associations, who comply with the conditions set out in paragraph 8, points (b), (c), (d) and (e), and who use the data solely for performing research that contributes to the detection, identification and understanding of systemic risks in the Union pursuant to Article [34](#article-34-risk-assessment)(1).
 
-13\. The Commission shall, after consulting the Board, adopt delegated acts supplementing [this Regulation](/lagstiftning/dsa) by laying down the technical conditions under which providers of very large online platforms or of very large online search engines are to share data pursuant to paragraphs 1 and 4 and the purposes for which the data may be used. Those delegated acts shall lay down the specific conditions under which such sharing of data with researchers can take place in compliance with [Regulation (EU) 2016/679](/lagstiftning/gdpr), as well as relevant objective indicators, procedures and, where necessary, independent advisory mechanisms in support of sharing of data, taking into account the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of confidential information, in particular trade secrets, and maintaining the security of their service.
+13\. The Commission shall, after consulting the Board, adopt delegated acts supplementing [this Regulation](/en/lagstiftning/dsa) by laying down the technical conditions under which providers of very large online platforms or of very large online search engines are to share data pursuant to paragraphs 1 and 4 and the purposes for which the data may be used. Those delegated acts shall lay down the specific conditions under which such sharing of data with researchers can take place in compliance with [Regulation (EU) 2016/679](/en/lagstiftning/gdpr), as well as relevant objective indicators, procedures and, where necessary, independent advisory mechanisms in support of sharing of data, taking into account the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of confidential information, in particular trade secrets, and maintaining the security of their service.
 
 ### Article 41 – Compliance function
 
-1\. Providers of very large online platforms or of very large online search engines shall establish a compliance function, which is independent from their operational functions and composed of one or more compliance officers, including the head of the compliance function. That compliance function shall have sufficient authority, stature and resources, as well as access to the management body of the provider of the very large online platform or of the very large online search engine to monitor the compliance of that provider with [this Regulation](/lagstiftning/dsa).
+1\. Providers of very large online platforms or of very large online search engines shall establish a compliance function, which is independent from their operational functions and composed of one or more compliance officers, including the head of the compliance function. That compliance function shall have sufficient authority, stature and resources, as well as access to the management body of the provider of the very large online platform or of the very large online search engine to monitor the compliance of that provider with [this Regulation](/en/lagstiftning/dsa).
 
 2\. The management body of the provider of the very large online platform or of the very large online search engine shall ensure that compliance officers have the professional qualifications, knowledge, experience and ability necessary to fulfil the tasks referred to in paragraph 3.
 
 The management body of the provider of the very large online platform or of the very large online search engine shall ensure that the head of the compliance function is an independent senior manager with distinct responsibility for the compliance function.
 
-The head of the compliance function shall report directly to the management body of the provider of the very large online platform or of the very large online search engine, and may raise concerns and warn that body where risks referred to in Article [34](#article-34-risk-assessment) or non-compliance with [this Regulation](/lagstiftning/dsa) affect or may affect the provider of the very large online platform or of the very large online search engine concerned, without prejudice to the responsibilities of the management body in its supervisory and managerial functions.
+The head of the compliance function shall report directly to the management body of the provider of the very large online platform or of the very large online search engine, and may raise concerns and warn that body where risks referred to in Article [34](#article-34-risk-assessment) or non-compliance with [this Regulation](/en/lagstiftning/dsa) affect or may affect the provider of the very large online platform or of the very large online search engine concerned, without prejudice to the responsibilities of the management body in its supervisory and managerial functions.
 
 The head of the compliance function shall not be removed without prior approval of the management body of the provider of the very large online platform or of the very large online search engine.
 
 3\. Compliance officers shall have the following tasks:
 
-(a) cooperating with the Digital Services Coordinator of establishment and the Commission for the purpose of [this Regulation](/lagstiftning/dsa);
+(a) cooperating with the Digital Services Coordinator of establishment and the Commission for the purpose of [this Regulation](/en/lagstiftning/dsa);
 
 (b) ensuring that all risks referred to in Article [34](#article-34-risk-assessment) are identified and properly reported on and that reasonable, proportionate and effective risk-mitigation measures are taken pursuant to Article [35](#article-35-mitigation-of-risks);
 
 (c) organising and supervising the activities of the provider of the very large online platform or of the very large online search engine relating to the independent audit pursuant to Article [37](#article-37-independent-audit);
 
-(d) informing and advising the management and employees of the provider of the very large online platform or of the very large online search engine about relevant obligations under [this Regulation](/lagstiftning/dsa);
+(d) informing and advising the management and employees of the provider of the very large online platform or of the very large online search engine about relevant obligations under [this Regulation](/en/lagstiftning/dsa);
 
-(e) monitoring the compliance of the provider of the very large online platform or of the very large online search engine with its obligations under [this Regulation](/lagstiftning/dsa);
+(e) monitoring the compliance of the provider of the very large online platform or of the very large online search engine with its obligations under [this Regulation](/en/lagstiftning/dsa);
 
 (f) where applicable, monitoring the compliance of the provider of the very large online platform or of the very large online search engine with commitments made under the codes of conduct pursuant to Articles [45](#article-45-codes-of-conduct) and [46](#article-46-codes-of-conduct-for-online-advertising) or the crisis protocols pursuant to Article [48](#article-48-crisis-protocols).
 
@@ -772,13 +772,13 @@ The reports shall be published in at least one of the official languages of the 
 
 1\. The Commission shall charge providers of very large online platforms and of very large online search engines an annual supervisory fee upon their designation pursuant to Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
 
-2\. The overall amount of the annual supervisory fees shall cover the estimated costs that the Commission incurs in relation to its supervisory tasks under [this Regulation](/lagstiftning/dsa), in particular costs related to the designation pursuant to Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), to the set-up, maintenance and operation of the database pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(5) and to the information sharing system pursuant to Article [85](/lagstiftning/dsa/kap-4#article-85-information-sharing-system), to referrals pursuant to Article [59](/lagstiftning/dsa/kap-4#article-59-referral-to-the-commission), to supporting the Board pursuant to Article [62](/lagstiftning/dsa/kap-4#article-62-structure-of-the-board) and to the supervisory tasks pursuant to Article [56](/lagstiftning/dsa/kap-4#article-56-competences) and Section 4 of [Chapter IV](/lagstiftning/dsa/kap-4).
+2\. The overall amount of the annual supervisory fees shall cover the estimated costs that the Commission incurs in relation to its supervisory tasks under [this Regulation](/en/lagstiftning/dsa), in particular costs related to the designation pursuant to Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines), to the set-up, maintenance and operation of the database pursuant to Article [24](#article-24-transparency-reporting-obligations-for-providers-of-online-platforms)(5) and to the information sharing system pursuant to Article [85](/en/lagstiftning/dsa/kap-4#article-85-information-sharing-system), to referrals pursuant to Article [59](/en/lagstiftning/dsa/kap-4#article-59-referral-to-the-commission), to supporting the Board pursuant to Article [62](/en/lagstiftning/dsa/kap-4#article-62-structure-of-the-board) and to the supervisory tasks pursuant to Article [56](/en/lagstiftning/dsa/kap-4#article-56-competences) and Section 4 of [Chapter IV](/en/lagstiftning/dsa/kap-4).
 
 3\. The providers of very large online platforms and of very large online search engines shall be charged annually a supervisory fee for each service for which they have been designated pursuant to Article [33](#article-33-very-large-online-platforms-and-very-large-online-search-engines).
 
-The Commission shall adopt implementing acts establishing the amount of the annual supervisory fee in respect of each provider of very large online platform or of very large online search engine. When adopting those implementing acts, the Commission shall apply the methodology laid down in the delegated act referred to in paragraph 4 of [this Article](#article-43-supervisory-fee) and shall respect the principles set out in paragraph 5 of [this Article](#article-43-supervisory-fee). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/lagstiftning/dsa/kap-4#article-88-committee-procedure).
+The Commission shall adopt implementing acts establishing the amount of the annual supervisory fee in respect of each provider of very large online platform or of very large online search engine. When adopting those implementing acts, the Commission shall apply the methodology laid down in the delegated act referred to in paragraph 4 of [this Article](#article-43-supervisory-fee) and shall respect the principles set out in paragraph 5 of [this Article](#article-43-supervisory-fee). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [88](/en/lagstiftning/dsa/kap-4#article-88-committee-procedure).
 
-4\. The Commission shall adopt delegated acts, in accordance with Article [87](/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation), laying down the detailed methodology and procedures for:
+4\. The Commission shall adopt delegated acts, in accordance with Article [87](/en/lagstiftning/dsa/kap-4#article-87-exercise-of-the-delegation), laying down the detailed methodology and procedures for:
 
 (a) the determination of the estimated costs referred to in paragraph 2;
 
@@ -800,7 +800,7 @@ When adopting those delegated acts, the Commission shall respect the principles 
 
 6\. The individual annual supervisory fees charged pursuant to paragraph 1 of [this Article](#article-43-supervisory-fee) shall constitute external assigned revenue in accordance with Article [21](#article-21-out-of-court-dispute-settlement)(5) of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (41).
 
-7\. The Commission shall report annually to the European Parliament and to the Council on the overall amount of the costs incurred for the fulfilment of the tasks under [this Regulation](/lagstiftning/dsa) and the total amount of the individual annual supervisory fees charged in the preceding year.
+7\. The Commission shall report annually to the European Parliament and to the Council on the overall amount of the costs incurred for the fulfilment of the tasks under [this Regulation](/en/lagstiftning/dsa) and the total amount of the individual annual supervisory fees charged in the preceding year.
 
 ### Article 44 – Standards
 
@@ -820,7 +820,7 @@ When adopting those delegated acts, the Commission shall respect the principles 
 
 (g) transmission of data between advertising intermediaries in support of transparency obligations pursuant to Article [26](#article-26-advertising-on-online-platforms)(1), points (b), (c) and (d);
 
-(h) technical measures to enable compliance with obligations relating to advertising contained in [this Regulation](/lagstiftning/dsa), including the obligations regarding prominent markings for advertisements and commercial communications referred to in Article [26](#article-26-advertising-on-online-platforms);
+(h) technical measures to enable compliance with obligations relating to advertising contained in [this Regulation](/en/lagstiftning/dsa), including the obligations regarding prominent markings for advertisements and commercial communications referred to in Article [26](#article-26-advertising-on-online-platforms);
 
 (i) choice interfaces and presentation of information on the main parameters of different types of recommender systems, in accordance with Articles [27](#article-27-recommender-system-transparency) and [38](#article-38-recommender-systems);
 
@@ -830,7 +830,7 @@ When adopting those delegated acts, the Commission shall respect the principles 
 
 ### Article 45 – Codes of conduct
 
-1\. The Commission and the Board shall encourage and facilitate the drawing up of voluntary codes of conduct at Union level to contribute to the proper application of [this Regulation](/lagstiftning/dsa), taking into account in particular the specific challenges of tackling different types of illegal content and systemic risks, in accordance with Union law in particular on competition and the protection of personal data.
+1\. The Commission and the Board shall encourage and facilitate the drawing up of voluntary codes of conduct at Union level to contribute to the proper application of [this Regulation](/en/lagstiftning/dsa), taking into account in particular the specific challenges of tackling different types of illegal content and systemic risks, in accordance with Union law in particular on competition and the protection of personal data.
 
 2\. Where significant systemic risk within the meaning of Article [34](#article-34-risk-assessment)(1) emerge and concern several very large online platforms or very large online search engines, the Commission may invite the providers of very large online platforms concerned or the providers of very large online search engines concerned, and other providers of very large online platforms, of very large online search engines, of online platforms and of other intermediary services, as appropriate, as well as relevant competent authorities, civil society organisations and other relevant stakeholders, to participate in the drawing up of codes of conduct, including by setting out commitments to take specific risk mitigation measures, as well as a regular reporting framework on any measures taken and their outcomes.
 
@@ -868,7 +868,7 @@ In the case of systematic failure to comply with the codes of conduct, the Commi
 
 (b) explaining how the services meet the applicable accessibility requirements and making this information available to the public in an accessible manner for persons with disabilities;
 
-(c) making information, forms and measures provided pursuant to [this Regulation](/lagstiftning/dsa) available in such a manner that they are easy to find, easy to understand, and accessible to persons with disabilities.
+(c) making information, forms and measures provided pursuant to [this Regulation](/en/lagstiftning/dsa) available in such a manner that they are easy to find, easy to understand, and accessible to persons with disabilities.
 
 3\. The Commission shall encourage the development of the codes of conduct by 18 February 2025 and their application by 18 August 2025.
 
@@ -882,7 +882,7 @@ In the case of systematic failure to comply with the codes of conduct, the Commi
 
 (b) ensuring that the provider of intermediary services designates a specific point of contact for crisis management; where relevant, this may be the electronic point of contact referred to in Article [11](#article-11-points-of-contact-for-member-states-authorities-the-commission-and-the-board) or, in the case of providers of very large online platforms or of very large online search engines, the compliance officer referred to in Article [41](#article-41-compliance-function);
 
-(c) where applicable, adapt the resources dedicated to compliance with the obligations set out in Articles [16](/lagstiftning/dsa/kap-3#artikel-16-mekanismer-för-anmälan-och-åtgärder), [20](/lagstiftning/dsa/kap-3#artikel-20-internt-system-för-hantering-av-klagomål), [22](/lagstiftning/dsa/kap-3#artikel-22-betrodda-anmälare), [23](/lagstiftning/dsa/kap-3#artikel-23-åtgärder-och-skydd-mot-missbruk) and [35](/lagstiftning/dsa/kap-3#artikel-35-riskbegränsning) to the needs arising from the crisis situation.
+(c) where applicable, adapt the resources dedicated to compliance with the obligations set out in Articles [16](/en/lagstiftning/dsa/kap-3#article-16-notice-and-action-mechanisms), [20](/en/lagstiftning/dsa/kap-3#article-20-internal-complaint-handling-system), [22](/en/lagstiftning/dsa/kap-3#article-22-trusted-flaggers), [23](/en/lagstiftning/dsa/kap-3#article-23-measures-and-protection-against-misuse) and [35](/en/lagstiftning/dsa/kap-3#article-35-mitigation-of-risks) to the needs arising from the crisis situation.
 
 3\. The Commission shall, as appropriate, involve Member States’ authorities, and may also involve Union bodies, offices and agencies in drawing up, testing and supervising the application of the crisis protocols. The Commission may, where necessary and appropriate, also involve civil society organisations or other relevant organisations in drawing up the crisis protocols.
 

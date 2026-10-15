@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-05-22'
@@ -18,17 +18,17 @@
 'sites':
   - 'el'
   - 'it'
-'url': 'http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0006.02'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0053'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – GENERAL PROVISIONS](/lagstiftning/red/kap-1) · Articles 1–9
-- [Chapter II – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/red/kap-2) · Articles 10–15
-- [Chapter III – CONFORMITY OF RADIO EQUIPMENT](/lagstiftning/red/kap-3) · Articles 16–21
-- [Chapter IV – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/red/kap-4) · Articles 22–38
-- [Chapter V – UNION MARKET SURVEILLANCE, CONTROL OF RADIO EQUIPMENT ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/red/kap-5) · Articles 39–43
-- [Chapter VI – DELEGATED ACTS AND IMPLEMENTING ACTS AND THE COMMITTEE](/lagstiftning/red/kap-6) · Articles 44–45
-- [Chapter VII – FINAL AND TRANSITIONAL PROVISIONS](/lagstiftning/red/kap-7) · Articles 46–52
+- [Chapter I – GENERAL PROVISIONS](/en/lagstiftning/red/kap-1) · Articles 1–9
+- [Chapter II – OBLIGATIONS OF ECONOMIC OPERATORS](/en/lagstiftning/red/kap-2) · Articles 10–15
+- [Chapter III – CONFORMITY OF RADIO EQUIPMENT](/en/lagstiftning/red/kap-3) · Articles 16–21
+- [Chapter IV – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/en/lagstiftning/red/kap-4) · Articles 22–38
+- [Chapter V – UNION MARKET SURVEILLANCE, CONTROL OF RADIO EQUIPMENT ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/en/lagstiftning/red/kap-5) · Articles 39–43
+- [Chapter VI – DELEGATED ACTS AND IMPLEMENTING ACTS AND THE COMMITTEE](/en/lagstiftning/red/kap-6) · Articles 44–45
+- [Chapter VII – FINAL AND TRANSITIONAL PROVISIONS](/en/lagstiftning/red/kap-7) · Articles 46–52
 <!-- scan-laws:end -->

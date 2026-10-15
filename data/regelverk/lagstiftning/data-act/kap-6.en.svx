@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03#cpt_VI'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R2854#cpt_VI'
 'sites':
   - 'it'
 ---
@@ -37,7 +37,7 @@ Providers of data processing services shall take the measures provided for in Ar
 
 ### Article 24 – Scope of the technical obligations
 
-The responsibilities of providers of data processing services laid down in Articles [23](#article-23-removing-obstacles-to-effective-switching), [25](#article-25-contractual-terms-concerning-switching), [29](#article-29-gradual-withdrawal-of-switching-charges), [30](#article-30-technical-aspects-of-switching) and [34](/lagstiftning/data-act/kap-8#article-34-interoperability-for-the-purposes-of-in-parallel-use-of-data-processing-services) shall apply only to the services, contracts or commercial practices provided by the source provider of data processing services.
+The responsibilities of providers of data processing services laid down in Articles [23](#article-23-removing-obstacles-to-effective-switching), [25](#article-25-contractual-terms-concerning-switching), [29](#article-29-gradual-withdrawal-of-switching-charges), [30](#article-30-technical-aspects-of-switching) and [34](/en/lagstiftning/data-act/kap-8#article-34-interoperability-for-the-purposes-of-in-parallel-use-of-data-processing-services) shall apply only to the services, contracts or commercial practices provided by the source provider of data processing services.
 
 ### Article 25 – Contractual terms concerning switching
 
@@ -123,7 +123,7 @@ All parties involved, including destination providers of data processing service
 
 6\. Where applicable, providers of data processing services shall make the information referred to in paragraphs 4 and 5 publicly available to customers via a dedicated section of their website or in any other easily accessible way.
 
-7\. The Commission is empowered to adopt delegated acts in accordance with Article [45](/lagstiftning/data-act/kap-11#article-45-exercise-of-the-delegation) to supplement [this Regulation](/lagstiftning/data-act) by establishing a monitoring mechanism for the Commission to monitor switching charges, imposed by providers of data processing services on the market to ensure that the withdrawal and reduction of switching charges, pursuant to paragraphs 1 and 2 of [this Article](#article-29-gradual-withdrawal-of-switching-charges) are to be attained in accordance with the deadlines laid down in those paragraphs.
+7\. The Commission is empowered to adopt delegated acts in accordance with Article [45](/en/lagstiftning/data-act/kap-11#article-45-exercise-of-the-delegation) to supplement [this Regulation](/en/lagstiftning/data-act) by establishing a monitoring mechanism for the Commission to monitor switching charges, imposed by providers of data processing services on the market to ensure that the withdrawal and reduction of switching charges, pursuant to paragraphs 1 and 2 of [this Article](#article-29-gradual-withdrawal-of-switching-charges) are to be attained in accordance with the deadlines laid down in those paragraphs.
 
 ### Article 30 – Technical aspects of switching
 
@@ -131,11 +131,11 @@ All parties involved, including destination providers of data processing service
 
 2\. Providers of data processing services, other than those referred to in paragraph 1, shall make open interfaces available to an equal extent to all their customers and the concerned destination providers of data processing services free of charge to facilitate the switching process. Those interfaces shall include sufficient information on the service concerned to enable the development of software to communicate with the services, for the purposes of data portability and interoperability.
 
-3\. For data processing services other than those referred to in paragraph 1 of [this Article](#article-30-technical-aspects-of-switching), providers of data processing services shall ensure compatibility with common specifications based on open interoperability specifications or harmonised standards for interoperability at least 12 months after the references to those common specifications or harmonised standards for interoperability of data processing services were published in the central Union standards repository for the interoperability of data processing services following the publication of the underlying implementing acts in the Official Journal of the European Union in accordance with Article [35](/lagstiftning/data-act/kap-8#article-35-interoperability-of-data-processing-services)(8).
+3\. For data processing services other than those referred to in paragraph 1 of [this Article](#article-30-technical-aspects-of-switching), providers of data processing services shall ensure compatibility with common specifications based on open interoperability specifications or harmonised standards for interoperability at least 12 months after the references to those common specifications or harmonised standards for interoperability of data processing services were published in the central Union standards repository for the interoperability of data processing services following the publication of the underlying implementing acts in the Official Journal of the European Union in accordance with Article [35](/en/lagstiftning/data-act/kap-8#article-35-interoperability-of-data-processing-services)(8).
 
 4\. Providers of data processing services other than those referred to in paragraph 1 of [this Article](#article-30-technical-aspects-of-switching) shall update the online register referred to in Article [26](#article-26-information-obligation-of-providers-of-data-processing-services), point (b) in accordance with their obligations under paragraph 3 of [this Article](#article-30-technical-aspects-of-switching).
 
-5\. In the case of switching between services of the same service type, for which common specifications or the harmonised standards for interoperability referred to in paragraph 3 of [this Article](#article-30-technical-aspects-of-switching) have not been published in the central Union standards repository for the interoperability of data processing services in accordance with Article [35](/lagstiftning/data-act/kap-8#article-35-interoperability-of-data-processing-services)(8), the provider of data processing services shall, at the request of the customer, export all exportable data in a structured, commonly used and machine-readable format.
+5\. In the case of switching between services of the same service type, for which common specifications or the harmonised standards for interoperability referred to in paragraph 3 of [this Article](#article-30-technical-aspects-of-switching) have not been published in the central Union standards repository for the interoperability of data processing services in accordance with Article [35](/en/lagstiftning/data-act/kap-8#article-35-interoperability-of-data-processing-services)(8), the provider of data processing services shall, at the request of the customer, export all exportable data in a structured, commonly used and machine-readable format.
 
 6\. Providers of data processing services shall not be required to develop new technologies or services, or disclose or transfer digital assets that are protected by intellectual property rights or that constitute a trade secret, to a customer or to a different provider of data processing services or compromise the customer’s or provider’s security and integrity of service.
 
@@ -143,9 +143,9 @@ All parties involved, including destination providers of data processing service
 
 1\. The obligations laid down in Article [23](#article-23-removing-obstacles-to-effective-switching), point (d), Article [29](#article-29-gradual-withdrawal-of-switching-charges) and Article [30](#article-30-technical-aspects-of-switching)(1) and (3) shall not apply to data processing services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where all components have been developed for the purposes of an individual customer, and where those data processing services are not offered at broad commercial scale via the service catalogue of the provider of data processing services.
 
-2\. The obligations laid down in [this Chapter](/lagstiftning/data-act/kap-6) shall not apply to data processing services provided as a non-production version for testing and evaluation purposes and for a limited period of time.
+2\. The obligations laid down in [this Chapter](/en/lagstiftning/data-act/kap-6) shall not apply to data processing services provided as a non-production version for testing and evaluation purposes and for a limited period of time.
 
-3\. Prior to the conclusion of a contract on the provision of the data processing services referred to in [this Article](#article-31-specific-regime-for-certain-data-processing-services), the provider of data processing services shall inform the prospective customer of the obligations of [this Chapter](/lagstiftning/data-act/kap-6) that do not apply.
+3\. Prior to the conclusion of a contract on the provision of the data processing services referred to in [this Article](#article-31-specific-regime-for-certain-data-processing-services), the provider of data processing services shall inform the prospective customer of the obligations of [this Chapter](/en/lagstiftning/data-act/kap-6) that do not apply.
 <!-- scan-laws:end -->
 
 ## Interpretation

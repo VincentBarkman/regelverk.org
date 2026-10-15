@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#cpt_I'
 'sites':
   - 'it'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 1 – Subject matter
 
-With a view to ensuring the proper functioning of the internal market while aiming at an adequate level of security of electronic identification means and trust services [this Regulation](/lagstiftning/eidas):
+With a view to ensuring the proper functioning of the internal market while aiming at an adequate level of security of electronic identification means and trust services [this Regulation](/en/lagstiftning/eidas):
 
 (a) lays down the conditions under which Member States recognise electronic identification means of natural and legal persons falling under a notified electronic identification scheme of another Member State;
 
@@ -33,15 +33,15 @@ With a view to ensuring the proper functioning of the internal market while aimi
 
 ### Article 2 – Scope
 
-1\. [This Regulation](/lagstiftning/eidas) applies to electronic identification schemes that have been notified by a Member State, and to trust service providers that are established in the Union.
+1\. [This Regulation](/en/lagstiftning/eidas) applies to electronic identification schemes that have been notified by a Member State, and to trust service providers that are established in the Union.
 
-2\. [This Regulation](/lagstiftning/eidas) does not apply to the provision of trust services that are used exclusively within closed systems resulting from national law or from agreements between a defined set of participants.
+2\. [This Regulation](/en/lagstiftning/eidas) does not apply to the provision of trust services that are used exclusively within closed systems resulting from national law or from agreements between a defined set of participants.
 
-3\. [This Regulation](/lagstiftning/eidas) does not affect national or Union law related to the conclusion and validity of contracts or other legal or procedural obligations relating to form.
+3\. [This Regulation](/en/lagstiftning/eidas) does not affect national or Union law related to the conclusion and validity of contracts or other legal or procedural obligations relating to form.
 
 ### Article 3 – Definitions
 
-For the purposes of [this Regulation](/lagstiftning/eidas), the following definitions apply:
+For the purposes of [this Regulation](/en/lagstiftning/eidas), the following definitions apply:
 
 #### Footnotes
 
@@ -65,7 +65,7 @@ For the purposes of [this Regulation](/lagstiftning/eidas), the following defini
 
 (10) ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign;
 
-(11) ‘advanced electronic signature’ means an electronic signature which meets the requirements set out in Article [26](/lagstiftning/eidas/kap-3#article-26-requirements-for-advanced-electronic-signatures);
+(11) ‘advanced electronic signature’ means an electronic signature which meets the requirements set out in Article [26](/en/lagstiftning/eidas/kap-3#article-26-requirements-for-advanced-electronic-signatures);
 
 (12) ‘qualified electronic signature’ means an advanced electronic signature that is created by a qualified electronic signature creation device, and which is based on a qualified certificate for electronic signatures;
 
@@ -83,7 +83,7 @@ For the purposes of [this Regulation](/lagstiftning/eidas), the following defini
 
 (c) the preservation of electronic signatures, seals or certificates related to those services;
 
-(17) ‘qualified trust service’ means a trust service that meets the applicable requirements laid down in [this Regulation](/lagstiftning/eidas);
+(17) ‘qualified trust service’ means a trust service that meets the applicable requirements laid down in [this Regulation](/en/lagstiftning/eidas);
 
 (18) ‘conformity assessment body’ means a body defined in point 13 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765), which is accredited in accordance with that Regulation as competent to carry out conformity assessment of a qualified trust service provider and the qualified trust services it provides;
 
@@ -101,7 +101,7 @@ For the purposes of [this Regulation](/lagstiftning/eidas), the following defini
 
 (25) ‘electronic seal’ means data in electronic form, which is attached to or logically associated with other data in electronic form to ensure the latter’s origin and integrity;
 
-(26) ‘advanced electronic seal’ means an electronic seal, which meets the requirements set out in Article [36](/lagstiftning/eidas/kap-3#article-36-requirements-for-advanced-electronic-seals);
+(26) ‘advanced electronic seal’ means an electronic seal, which meets the requirements set out in Article [36](/en/lagstiftning/eidas/kap-3#article-36-requirements-for-advanced-electronic-seals);
 
 (27) ‘qualified electronic seal’ means an advanced electronic seal, which is created by a qualified electronic seal creation device, and that is based on a qualified certificate for electronic seal;
 
@@ -117,13 +117,13 @@ For the purposes of [this Regulation](/lagstiftning/eidas), the following defini
 
 (33) ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time;
 
-(34) ‘qualified electronic time stamp’ means an electronic time stamp which meets the requirements laid down in Article [42](/lagstiftning/eidas/kap-3#article-42-requirements-for-qualified-electronic-time-stamps);
+(34) ‘qualified electronic time stamp’ means an electronic time stamp which meets the requirements laid down in Article [42](/en/lagstiftning/eidas/kap-3#article-42-requirements-for-qualified-electronic-time-stamps);
 
 (35) ‘electronic document’ means any content stored in electronic form, in particular text or sound, visual or audiovisual recording;
 
 (36) ‘electronic registered delivery service’ means a service that makes it possible to transmit data between third parties by electronic means and provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;
 
-(37) ‘qualified electronic registered delivery service’ means an electronic registered delivery service which meets the requirements laid down in Article [44](/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services);
+(37) ‘qualified electronic registered delivery service’ means an electronic registered delivery service which meets the requirements laid down in Article [44](/en/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services);
 
 (38) ‘certificate for website authentication’ means an attestation that makes it possible to authenticate a website and links the website to the natural or legal person to whom the certificate is issued;
 
@@ -135,9 +135,9 @@ For the purposes of [this Regulation](/lagstiftning/eidas), the following defini
 
 ### Article 4 – Internal market principle
 
-1\. There shall be no restriction on the provision of trust services in the territory of a Member State by a trust service provider established in another Member State for reasons that fall within the fields covered by [this Regulation](/lagstiftning/eidas).
+1\. There shall be no restriction on the provision of trust services in the territory of a Member State by a trust service provider established in another Member State for reasons that fall within the fields covered by [this Regulation](/en/lagstiftning/eidas).
 
-2\. Products and trust services that comply with [this Regulation](/lagstiftning/eidas) shall be permitted to circulate freely in the internal market.
+2\. Products and trust services that comply with [this Regulation](/en/lagstiftning/eidas) shall be permitted to circulate freely in the internal market.
 
 ### Article 5 – Data processing and protection
 

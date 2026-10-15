@@ -23,46 +23,46 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.10.01 – Physical Access Authorizations
+### <span id="SP_800_171_03.10.01"></span>03.10.01 – Physical Access Authorizations
 
-- SR-03.10.01.a Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides.
-- SR-03.10.01.b Issue authorization credentials for facility access.
-- SR-03.10.01.c Review the facility access list [organization-defined frequency].
-- SR-03.10.01.d Remove individuals from the facility access list when access is no longer required.
+- <span id="SR-03.10.01.a"></span> SR-03.10.01.a Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides.
+- <span id="SR-03.10.01.b"></span> SR-03.10.01.b Issue authorization credentials for facility access.
+- <span id="SR-03.10.01.c"></span> SR-03.10.01.c Review the facility access list [organization-defined frequency].
+- <span id="SR-03.10.01.d"></span> SR-03.10.01.d Remove individuals from the facility access list when access is no longer required.
 
-### 03.10.02 – Monitoring Physical Access
+### <span id="SP_800_171_03.10.02"></span>03.10.02 – Monitoring Physical Access
 
-- SR-03.10.02.a Monitor physical access to the facility where the system resides to detect and respond to physical security incidents.
-- SR-03.10.02.b Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events or potential indicators of events].
+- <span id="SR-03.10.02.a"></span> SR-03.10.02.a Monitor physical access to the facility where the system resides to detect and respond to physical security incidents.
+- <span id="SR-03.10.02.b"></span> SR-03.10.02.b Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events or potential indicators of events].
 
-### SP_800_171_03.10.03 – 03.10.03
-
-
-
-### SP_800_171_03.10.04 – 03.10.04
+### <span id="SP_800_171_03.10.03"></span>SP_800_171_03.10.03 – 03.10.03
 
 
 
-### SP_800_171_03.10.05 – 03.10.05
+### <span id="SP_800_171_03.10.04"></span>SP_800_171_03.10.04 – 03.10.04
 
 
 
-### 03.10.06 – Alternate Work Site
+### <span id="SP_800_171_03.10.05"></span>SP_800_171_03.10.05 – 03.10.05
 
-- SR-03.10.06.a Determine alternate work sites allowed for use by employees.
-- SR-03.10.06.b Employ the following security requirements at alternate work sites: [organization-defined security requirements].
 
-### 03.10.07 – Physical Access Control
 
-- SR-03.10.07.a Enforce physical access authorizations at entry and exit points to the facility where the system resides by:
-  - SR-03.10.07.a.01 Verifying individual physical access authorizations before granting access to the facility and
-  - SR-03.10.07.a.02 Controlling ingress and egress with physical access control systems, devices, or guards.
-- SR-03.10.07.b Maintain physical access audit logs for entry or exit points.
-- SR-03.10.07.c Escort visitors, and control visitor activity.
-- SR-03.10.07.d Secure keys, combinations, and other physical access devices.
-- SR-03.10.07.e Control physical access to output devices to prevent unauthorized individuals from obtaining access to CUI.
+### <span id="SP_800_171_03.10.06"></span>03.10.06 – Alternate Work Site
 
-### 03.10.08 – Access Control for Transmission
+- <span id="SR-03.10.06.a"></span> SR-03.10.06.a Determine alternate work sites allowed for use by employees.
+- <span id="SR-03.10.06.b"></span> SR-03.10.06.b Employ the following security requirements at alternate work sites: [organization-defined security requirements].
+
+### <span id="SP_800_171_03.10.07"></span>03.10.07 – Physical Access Control
+
+- <span id="SR-03.10.07.a"></span> SR-03.10.07.a Enforce physical access authorizations at entry and exit points to the facility where the system resides by:
+  - <span id="SR-03.10.07.a.01"></span> SR-03.10.07.a.01 Verifying individual physical access authorizations before granting access to the facility and
+  - <span id="SR-03.10.07.a.02"></span> SR-03.10.07.a.02 Controlling ingress and egress with physical access control systems, devices, or guards.
+- <span id="SR-03.10.07.b"></span> SR-03.10.07.b Maintain physical access audit logs for entry or exit points.
+- <span id="SR-03.10.07.c"></span> SR-03.10.07.c Escort visitors, and control visitor activity.
+- <span id="SR-03.10.07.d"></span> SR-03.10.07.d Secure keys, combinations, and other physical access devices.
+- <span id="SR-03.10.07.e"></span> SR-03.10.07.e Control physical access to output devices to prevent unauthorized individuals from obtaining access to CUI.
+
+### <span id="SP_800_171_03.10.08"></span>03.10.08 – Access Control for Transmission
 
 Control physical access to system distribution and transmission lines within organizational facilities.
 

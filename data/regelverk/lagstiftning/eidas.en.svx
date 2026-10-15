@@ -10,23 +10,23 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-08-28'
 'applies-from': '2014-09-17'
 'sites':
   - 'it'
-'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – GENERAL PROVISIONS](/lagstiftning/eidas/kap-1) · Articles 1–5
-- [Chapter II – ELECTRONIC IDENTIFICATION](/lagstiftning/eidas/kap-2) · Articles 6–12
-- [Chapter III – TRUST SERVICES](/lagstiftning/eidas/kap-3) · Articles 13–45
-- [Chapter IV – ELECTRONIC DOCUMENTS](/lagstiftning/eidas/kap-4)
-- [Chapter V – DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS](/lagstiftning/eidas/kap-5) · Articles 47–48
-- [Chapter VI – FINAL PROVISIONS](/lagstiftning/eidas/kap-6) · Articles 49–52
+- [Chapter I – GENERAL PROVISIONS](/en/lagstiftning/eidas/kap-1) · Articles 1–5
+- [Chapter II – ELECTRONIC IDENTIFICATION](/en/lagstiftning/eidas/kap-2) · Articles 6–12
+- [Chapter III – TRUST SERVICES](/en/lagstiftning/eidas/kap-3) · Articles 13–45
+- [Chapter IV – ELECTRONIC DOCUMENTS](/en/lagstiftning/eidas/kap-4)
+- [Chapter V – DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS](/en/lagstiftning/eidas/kap-5) · Articles 47–48
+- [Chapter VI – FINAL PROVISIONS](/en/lagstiftning/eidas/kap-6) · Articles 49–52
 <!-- scan-laws:end -->

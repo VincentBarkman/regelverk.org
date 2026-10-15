@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/21b7d4eb-a6e2-11ef-85f0-01aa75ed71a1.0006.03#cpt_VII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#cpt_VII'
 'sites':
   - 'it'
   - 'ot'
@@ -24,11 +24,11 @@
 
 ### Article 63 – Confidentiality
 
-1\. All parties involved in the application of [this Regulation](/lagstiftning/cra) shall respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
+1\. All parties involved in the application of [this Regulation](/en/lagstiftning/cra) shall respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
 
 (a) intellectual property rights and confidential business information or trade secrets of a natural or legal person, including source code, except the cases referred to in Article [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0943) of [Directive (EU) 2016/943](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0943) of the European Parliament and of the Council (37);
 
-(b) the effective implementation of [this Regulation](/lagstiftning/cra), in particular for the purposes of inspections, investigations or audits;
+(b) the effective implementation of [this Regulation](/en/lagstiftning/cra), in particular for the purposes of inspections, investigations or audits;
 
 (c) public and national security interests;
 
@@ -42,11 +42,11 @@
 
 ### Article 64 – Penalties
 
-1\. Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/lagstiftning/cra) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and measures and shall notify it, without delay, of any subsequent amendment affecting them.
+1\. Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/en/lagstiftning/cra) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and measures and shall notify it, without delay, of any subsequent amendment affecting them.
 
-2\. Non-compliance with the essential cybersecurity requirements set out in Annex I and the obligations set out in Articles [13](/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers) and [14](/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers) shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 2,5 % of the its total worldwide annual turnover for the preceding financial year, whichever is higher.
+2\. Non-compliance with the essential cybersecurity requirements set out in Annex I and the obligations set out in Articles [13](/en/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers) and [14](/en/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers) shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 2,5 % of the its total worldwide annual turnover for the preceding financial year, whichever is higher.
 
-3\. Non-compliance with the obligations set out in Articles [18](/lagstiftning/cra/kap-2#article-18-authorised-representatives) to 23, Article [28](/lagstiftning/cra/kap-3#article-28-eu-declaration-of-conformity), Article [30](/lagstiftning/cra/kap-3#article-30-rules-and-conditions-for-affixing-the-ce-marking)(1) to (4), Article [31](/lagstiftning/cra/kap-3#article-31-technical-documentation)(1) to (4), Article [32](/lagstiftning/cra/kap-3#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(1), (2) and (3), Article [33](/lagstiftning/cra/kap-3#article-33-support-measures-for-microenterprises-and-small-and-medium-sized-enterprises-including-start-ups)(5), and Articles [39](/lagstiftning/cra/kap-4#article-39-requirements-relating-to-notified-bodies), [41](/lagstiftning/cra/kap-4#article-41-subsidiaries-of-and-subcontracting-by-notified-bodies), [47](/lagstiftning/cra/kap-4#article-47-operational-obligations-of-notified-bodies), [49](/lagstiftning/cra/kap-4#article-49-information-obligation-on-notified-bodies) and [53](/lagstiftning/cra/kap-5#article-53-access-to-data-and-documentation) shall be subject to administrative fines of up to EUR 10 000 000 or, if the offender is an undertaking, up to 2 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+3\. Non-compliance with the obligations set out in Articles [18](/en/lagstiftning/cra/kap-2#article-18-authorised-representatives) to 23, Article [28](/en/lagstiftning/cra/kap-3#article-28-eu-declaration-of-conformity), Article [30](/en/lagstiftning/cra/kap-3#article-30-rules-and-conditions-for-affixing-the-ce-marking)(1) to (4), Article [31](/en/lagstiftning/cra/kap-3#article-31-technical-documentation)(1) to (4), Article [32](/en/lagstiftning/cra/kap-3#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(1), (2) and (3), Article [33](/en/lagstiftning/cra/kap-3#article-33-support-measures-for-microenterprises-and-small-and-medium-sized-enterprises-including-start-ups)(5), and Articles [39](/en/lagstiftning/cra/kap-4#article-39-requirements-relating-to-notified-bodies), [41](/en/lagstiftning/cra/kap-4#article-41-subsidiaries-of-and-subcontracting-by-notified-bodies), [47](/en/lagstiftning/cra/kap-4#article-47-operational-obligations-of-notified-bodies), [49](/en/lagstiftning/cra/kap-4#article-49-information-obligation-on-notified-bodies) and [53](/en/lagstiftning/cra/kap-5#article-53-access-to-data-and-documentation) shall be subject to administrative fines of up to EUR 10 000 000 or, if the offender is an undertaking, up to 2 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
 
 4\. The supply of incorrect, incomplete or misleading information to notified bodies and market surveillance authorities in reply to a request shall be subject to administrative fines of up to EUR 5 000 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
 
@@ -58,7 +58,7 @@
 
 (c) the size, in particular with regard to microenterprises and small and medium sized-enterprises, including start-ups, and the market share of the economic operator committing the infringement.
 
-6\. Market surveillance authorities that apply administrative fines shall communicate that application to the market surveillance authorities of other Member States through the information and communication system referred to in Article [34](/lagstiftning/marknadskontrollforordningen/kap-8#artikel-34-informations-och-kommunikationssystem) of [Regulation (EU) 2019/1020](/lagstiftning/marknadskontrollforordningen).
+6\. Market surveillance authorities that apply administrative fines shall communicate that application to the market surveillance authorities of other Member States through the information and communication system referred to in Article [34](/en/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system) of [Regulation (EU) 2019/1020](/en/lagstiftning/marknadskontrollforordningen).
 
 7\. Each Member State shall lay down rules on whether and to what extent administrative fines may be imposed on public authorities and public bodies established in that Member State.
 
@@ -68,13 +68,13 @@
 
 10\. By way of derogation from paragraphs 3 to 9, the administrative fines referred to in those paragraphs shall not apply to the following:
 
-(a) manufacturers that qualify as microenterprises or small enterprises with regard to any failure to meet the deadline referred to in Article [14](/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers)(2), point (a), or Article [14](/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers)(4), point (a);
+(a) manufacturers that qualify as microenterprises or small enterprises with regard to any failure to meet the deadline referred to in Article [14](/en/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers)(2), point (a), or Article [14](/en/lagstiftning/cra/kap-2#article-14-reporting-obligations-of-manufacturers)(4), point (a);
 
-(b) any infringement of [this Regulation](/lagstiftning/cra) by open-source software stewards.
+(b) any infringement of [this Regulation](/en/lagstiftning/cra) by open-source software stewards.
 
 ### Article 65 – Representative actions
 
-[Directive (EU) 2020/1828](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1828) shall apply to the representative actions brought against infringements by economic operators of provisions of [this Regulation](/lagstiftning/cra) that harm, or may harm, the collective interests of consumers.
+[Directive (EU) 2020/1828](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1828) shall apply to the representative actions brought against infringements by economic operators of provisions of [this Regulation](/en/lagstiftning/cra) that harm, or may harm, the collective interests of consumers.
 <!-- scan-laws:end -->
 
 ## Interpretation

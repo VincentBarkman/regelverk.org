@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-12'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2016-05-04'
@@ -19,21 +19,21 @@
 'sites':
   - 'it'
   - 'ot'
-'url': 'http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – General provisions](/lagstiftning/gdpr/kap-1) · Articles 1–4
-- [Chapter II – Principles](/lagstiftning/gdpr/kap-2) · Articles 5–11
-- [Chapter III – Rights of the data subject](/lagstiftning/gdpr/kap-3) · Articles 12–23
-- [Chapter IV – Controller and processor](/lagstiftning/gdpr/kap-4) · Articles 24–43
-- [Chapter V – Transfers of personal data to third countries or international organisations](/lagstiftning/gdpr/kap-5) · Articles 44–50
-- [Chapter VI – Independent supervisory authorities](/lagstiftning/gdpr/kap-6) · Articles 51–59
-- [Chapter VII – Cooperation and consistency](/lagstiftning/gdpr/kap-7) · Articles 60–76
-- [Chapter VIII – Remedies, liability and penalties](/lagstiftning/gdpr/kap-8) · Articles 77–84
-- [Chapter IX – Provisions relating to specific processing situations](/lagstiftning/gdpr/kap-9) · Articles 85–91
-- [Chapter X – Delegated acts and implementing acts](/lagstiftning/gdpr/kap-10) · Articles 92–93
-- [Chapter XI – Final provisions](/lagstiftning/gdpr/kap-11) · Articles 94–99
+- [Chapter I – General provisions](/en/lagstiftning/gdpr/kap-1) · Articles 1–4
+- [Chapter II – Principles](/en/lagstiftning/gdpr/kap-2) · Articles 5–11
+- [Chapter III – Rights of the data subject](/en/lagstiftning/gdpr/kap-3) · Articles 12–23
+- [Chapter IV – Controller and processor](/en/lagstiftning/gdpr/kap-4) · Articles 24–43
+- [Chapter V – Transfers of personal data to third countries or international organisations](/en/lagstiftning/gdpr/kap-5) · Articles 44–50
+- [Chapter VI – Independent supervisory authorities](/en/lagstiftning/gdpr/kap-6) · Articles 51–59
+- [Chapter VII – Cooperation and consistency](/en/lagstiftning/gdpr/kap-7) · Articles 60–76
+- [Chapter VIII – Remedies, liability and penalties](/en/lagstiftning/gdpr/kap-8) · Articles 77–84
+- [Chapter IX – Provisions relating to specific processing situations](/en/lagstiftning/gdpr/kap-9) · Articles 85–91
+- [Chapter X – Delegated acts and implementing acts](/en/lagstiftning/gdpr/kap-10) · Articles 92–93
+- [Chapter XI – Final provisions](/en/lagstiftning/gdpr/kap-11) · Articles 94–99
 <!-- scan-laws:end -->

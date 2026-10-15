@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2022-12-27'
@@ -19,19 +19,19 @@
   - 'nis2'
 'sites':
   - 'it'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – General provisions](/lagstiftning/dora/kap-1) · Articles 1–4
-- [Chapter II – ICT risk management](/lagstiftning/dora/kap-2) · Articles 5–16
-- [Chapter III – ICT-related incident management, classification and reporting](/lagstiftning/dora/kap-3) · Articles 17–23
-- [Chapter IV – Digital operational resilience testing](/lagstiftning/dora/kap-4) · Articles 24–27
-- [Chapter V – Managing of ICT third-party risk](/lagstiftning/dora/kap-5) · Articles 28–44
-- [Chapter VI – Information-sharing arrangements](/lagstiftning/dora/kap-6)
-- [Chapter VII – Competent authorities](/lagstiftning/dora/kap-7) · Articles 46–56
-- [Chapter VIII – Delegated acts](/lagstiftning/dora/kap-8)
-- [Chapter IX – Transitional and final provisions](/lagstiftning/dora/kap-9) · Articles 58–64
+- [Chapter I – General provisions](/en/lagstiftning/dora/kap-1) · Articles 1–4
+- [Chapter II – ICT risk management](/en/lagstiftning/dora/kap-2) · Articles 5–16
+- [Chapter III – ICT-related incident management, classification and reporting](/en/lagstiftning/dora/kap-3) · Articles 17–23
+- [Chapter IV – Digital operational resilience testing](/en/lagstiftning/dora/kap-4) · Articles 24–27
+- [Chapter V – Managing of ICT third-party risk](/en/lagstiftning/dora/kap-5) · Articles 28–44
+- [Chapter VI – Information-sharing arrangements](/en/lagstiftning/dora/kap-6)
+- [Chapter VII – Competent authorities](/en/lagstiftning/dora/kap-7) · Articles 46–56
+- [Chapter VIII – Delegated acts](/en/lagstiftning/dora/kap-8)
+- [Chapter IX – Transitional and final provisions](/en/lagstiftning/dora/kap-9) · Articles 58–64
 <!-- scan-laws:end -->

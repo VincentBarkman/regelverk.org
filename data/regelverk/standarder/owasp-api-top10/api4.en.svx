@@ -61,10 +61,10 @@ browser to the back-end API:
 ```
 POST /initiate_forgot_password
 
-{'{'{'}'}
+｛
   "step": 1,
   "user_number": "6501113434"
-{'}'}
+｝
 ```
 
 Then, behind the scenes, an API call is sent from the back-end to a 3rd party
@@ -75,9 +75,9 @@ POST /sms/send_reset_pass_code
 
 Host: willyo.net
 
-{'{'{'}'}
+｛
   "phone_number": "6501113434"
-{'}'}
+｝
 ```
 
 The 3rd party provider, Willyo, charges $0.05 per this type of call.
@@ -94,13 +94,13 @@ A GraphQL API Endpoint allows the user to upload a profile picture.
 ```
 POST /graphql
 
-{'{'{'}'}
-  "query": "mutation {'{'{'}'}
-    uploadPic(name: \"pic1\", base64_pic: \"R0FOIEFOR0xJVA…\") {'{'{'}'}
+｛
+  "query": "mutation ｛
+    uploadPic(name: \"pic1\", base64_pic: \"R0FOIEFOR0xJVA…\") ｛
       url
-    {'}'}
-  {'}'}"
-{'}'}
+    ｝
+  ｝"
+｝
 ```
 
 Once the upload is complete, the API generates multiple thumbnails with
@@ -119,11 +119,11 @@ nature of GraphQL:
 POST /graphql
 
 [
-  {'{'{'}'}"query": "mutation {'{'{'}'}uploadPic(name: \"pic1\", base64_pic: \"R0FOIEFOR0xJVA…\") {'{'{'}'}url{'}'}{'}'}"{'}'},
-  {'{'{'}'}"query": "mutation {'{'{'}'}uploadPic(name: \"pic2\", base64_pic: \"R0FOIEFOR0xJVA…\") {'{'{'}'}url{'}'}{'}'}"{'}'},
+  ｛"query": "mutation ｛uploadPic(name: \"pic1\", base64_pic: \"R0FOIEFOR0xJVA…\") ｛url｝｝"｝,
+  ｛"query": "mutation ｛uploadPic(name: \"pic2\", base64_pic: \"R0FOIEFOR0xJVA…\") ｛url｝｝"｝,
   ...
-  {'{'{'}'}"query": "mutation {'{'{'}'}uploadPic(name: \"pic999\", base64_pic: \"R0FOIEFOR0xJVA…\") {'{'{'}'}url{'}'}{'}'}"{'}'},
-{'}'}
+  ｛"query": "mutation ｛uploadPic(name: \"pic999\", base64_pic: \"R0FOIEFOR0xJVA…\") ｛url｝｝"｝,
+｝
 ```
 
 Because the API does not limit the number of times the `uploadPic` operation can

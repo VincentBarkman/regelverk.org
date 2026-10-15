@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2019-06-05'
@@ -20,18 +20,18 @@
   - 'elmarknadsforordningen'
 'sites':
   - 'el'
-'url': 'http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0944'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – SUBJECT MATTER AND DEFINITIONS](/lagstiftning/elmarknadsdirektivet/kap-1) · Articles 1–2
-- [Chapter II – GENERAL RULES FOR THE ORGANISATION OF THE ELECTRICITY SECTOR](/lagstiftning/elmarknadsdirektivet/kap-2) · Articles 3–9
-- [Chapter III – CONSUMER EMPOWERMENT AND PROTECTION](/lagstiftning/elmarknadsdirektivet/kap-3) · Articles 10–29
-- [Chapter IV – DISTRIBUTION SYSTEM OPERATION](/lagstiftning/elmarknadsdirektivet/kap-4) · Articles 30–39
-- [Chapter V – GENERAL RULES APPLICABLE TO TRANSMISSION SYSTEM OPERATORS](/lagstiftning/elmarknadsdirektivet/kap-5) · Articles 40–42
-- [Chapter VI – UNBUNDLING OF TRANSMISSION SYSTEM OPERATORS](/lagstiftning/elmarknadsdirektivet/kap-6) · Articles 43–56
-- [Chapter VII – REGULATORY AUTHORITIES](/lagstiftning/elmarknadsdirektivet/kap-7) · Articles 57–64
-- [Chapter VIII – FINAL PROVISIONS](/lagstiftning/elmarknadsdirektivet/kap-8) · Articles 65–74
+- [Chapter I – SUBJECT MATTER AND DEFINITIONS](/en/lagstiftning/elmarknadsdirektivet/kap-1) · Articles 1–2
+- [Chapter II – GENERAL RULES FOR THE ORGANISATION OF THE ELECTRICITY SECTOR](/en/lagstiftning/elmarknadsdirektivet/kap-2) · Articles 3–9
+- [Chapter III – CONSUMER EMPOWERMENT AND PROTECTION](/en/lagstiftning/elmarknadsdirektivet/kap-3) · Articles 10–29
+- [Chapter IV – DISTRIBUTION SYSTEM OPERATION](/en/lagstiftning/elmarknadsdirektivet/kap-4) · Articles 30–39
+- [Chapter V – GENERAL RULES APPLICABLE TO TRANSMISSION SYSTEM OPERATORS](/en/lagstiftning/elmarknadsdirektivet/kap-5) · Articles 40–42
+- [Chapter VI – UNBUNDLING OF TRANSMISSION SYSTEM OPERATORS](/en/lagstiftning/elmarknadsdirektivet/kap-6) · Articles 43–56
+- [Chapter VII – REGULATORY AUTHORITIES](/en/lagstiftning/elmarknadsdirektivet/kap-7) · Articles 57–64
+- [Chapter VIII – FINAL PROVISIONS](/en/lagstiftning/elmarknadsdirektivet/kap-8) · Articles 65–74
 <!-- scan-laws:end -->

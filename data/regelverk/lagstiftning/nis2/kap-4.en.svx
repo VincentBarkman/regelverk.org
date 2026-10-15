@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_IV'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555#cpt_IV'
 'sites':
   - 'it'
   - 'ot'
@@ -66,9 +66,9 @@ Taking into account the state-of-the-art and, where applicable, relevant Europea
 
 The Commission may adopt implementing acts laying down the technical and the methodological requirements, as well as sectoral requirements, as necessary, of the measures referred to in paragraph 2 with regard to essential and important entities other than those referred to in the first subparagraph of this paragraph.
 
-When preparing the implementing acts referred to in the first and second subparagraphs of this paragraph, the Commission shall, to the extent possible, follow European and international standards, as well as relevant technical specifications. The Commission shall exchange advice and cooperate with the Cooperation Group and ENISA on the draft implementing acts in accordance with Article [14](/lagstiftning/nis2/kap-3#article-14-cooperation-group)(4), point (e).
+When preparing the implementing acts referred to in the first and second subparagraphs of this paragraph, the Commission shall, to the extent possible, follow European and international standards, as well as relevant technical specifications. The Commission shall exchange advice and cooperate with the Cooperation Group and ENISA on the draft implementing acts in accordance with Article [14](/en/lagstiftning/nis2/kap-3#article-14-cooperation-group)(4), point (e).
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/lagstiftning/nis2/kap-8#article-39-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/en/lagstiftning/nis2/kap-8#article-39-committee-procedure)(2).
 
 ### Article 22 – Union level coordinated security risk assessments of critical supply chains
 
@@ -122,23 +122,23 @@ By way of derogation from the first subparagraph, point (b), a trust service pro
 
 8\. At the request of the CSIRT or the competent authority, the single point of contact shall forward notifications received pursuant to paragraph 1 to the single points of contact of other affected Member States.
 
-9\. The single point of contact shall submit to ENISA every three months a summary report, including anonymised and aggregated data on significant incidents, incidents, cyber threats and near misses notified in accordance with paragraph 1 of [this Article](#article-23-reporting-obligations) and with Article [30](/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information). In order to contribute to the provision of comparable information, ENISA may adopt technical guidance on the parameters of the information to be included in the summary report. ENISA shall inform the Cooperation Group and the CSIRTs network about its findings on notifications received every six months.
+9\. The single point of contact shall submit to ENISA every three months a summary report, including anonymised and aggregated data on significant incidents, incidents, cyber threats and near misses notified in accordance with paragraph 1 of [this Article](#article-23-reporting-obligations) and with Article [30](/en/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information). In order to contribute to the provision of comparable information, ENISA may adopt technical guidance on the parameters of the information to be included in the summary report. ENISA shall inform the Cooperation Group and the CSIRTs network about its findings on notifications received every six months.
 
-10\. The CSIRTs or, where applicable, the competent authorities shall provide to the competent authorities under [Directive (EU) 2022/2557](/lagstiftning/cer) information about significant incidents, incidents, cyber threats and near misses notified in accordance with paragraph 1 of [this Article](#article-23-reporting-obligations) and with Article [30](/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information) by entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer).
+10\. The CSIRTs or, where applicable, the competent authorities shall provide to the competent authorities under [Directive (EU) 2022/2557](/en/lagstiftning/cer) information about significant incidents, incidents, cyber threats and near misses notified in accordance with paragraph 1 of [this Article](#article-23-reporting-obligations) and with Article [30](/en/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information) by entities identified as critical entities under [Directive (EU) 2022/2557](/en/lagstiftning/cer).
 
-11\. The Commission may adopt implementing acts further specifying the type of information, the format and the procedure of a notification submitted pursuant to paragraph 1 of [this Article](#article-23-reporting-obligations) and to Article [30](/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information) and of a communication submitted pursuant to paragraph 2 of [this Article](#article-23-reporting-obligations).
+11\. The Commission may adopt implementing acts further specifying the type of information, the format and the procedure of a notification submitted pursuant to paragraph 1 of [this Article](#article-23-reporting-obligations) and to Article [30](/en/lagstiftning/nis2/kap-6#article-30-voluntary-notification-of-relevant-information) and of a communication submitted pursuant to paragraph 2 of [this Article](#article-23-reporting-obligations).
 
 By 17 October 2024, the Commission shall, with regard to DNS service providers, TLD name registries, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines and of social networking services platforms, adopt implementing acts further specifying the cases in which an incident shall be considered to be significant as referred to in paragraph 3. The Commission may adopt such implementing acts with regard to other essential and important entities.
 
-The Commission shall exchange advice and cooperate with the Cooperation Group on the draft implementing acts referred to in the first and second subparagraphs of this paragraph in accordance with Article [14](/lagstiftning/nis2/kap-3#article-14-cooperation-group)(4), point (e).
+The Commission shall exchange advice and cooperate with the Cooperation Group on the draft implementing acts referred to in the first and second subparagraphs of this paragraph in accordance with Article [14](/en/lagstiftning/nis2/kap-3#article-14-cooperation-group)(4), point (e).
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/lagstiftning/nis2/kap-8#article-39-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [39](/en/lagstiftning/nis2/kap-8#article-39-committee-procedure)(2).
 
 ### Article 24 – Use of European cybersecurity certification schemes
 
 1\. In order to demonstrate compliance with particular requirements of Article [21](#article-21-cybersecurity-risk-management-measures), Member States may require essential and important entities to use particular ICT products, ICT services and ICT processes, developed by the essential or important entity or procured from third parties, that are certified under European cybersecurity certification schemes adopted pursuant to Article [49](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881). Furthermore, Member States shall encourage essential and important entities to use qualified trust services.
 
-2\. The Commission is empowered to adopt delegated acts, in accordance with Article [38](/lagstiftning/nis2/kap-8#article-38-exercise-of-the-delegation), to supplement [this Directive](/lagstiftning/nis2) by specifying which categories of essential and important entities are to be required to use certain certified ICT products, ICT services and ICT processes or obtain a certificate under a European cybersecurity certification scheme adopted pursuant to Article [49](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881). Those delegated acts shall be adopted where insufficient levels of cybersecurity have been identified and shall include an implementation period.
+2\. The Commission is empowered to adopt delegated acts, in accordance with Article [38](/en/lagstiftning/nis2/kap-8#article-38-exercise-of-the-delegation), to supplement [this Directive](/en/lagstiftning/nis2) by specifying which categories of essential and important entities are to be required to use certain certified ICT products, ICT services and ICT processes or obtain a certificate under a European cybersecurity certification scheme adopted pursuant to Article [49](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881). Those delegated acts shall be adopted where insufficient levels of cybersecurity have been identified and shall include an implementation period.
 
 Before adopting such delegated acts, the Commission shall carry out an impact assessment and shall carry out consultations in accordance with Article [56](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) of [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881).
 

@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2023-06-29'
@@ -20,7 +20,7 @@
 'sites':
   - 'arbetsmiljo'
   - 'ot'
-'url': 'http://publications.europa.eu/resource/cellar/51ed7804-1617-11ee-806b-01aa75ed71a1.0024.03'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32023R1230'
 ---
 
 <!-- scan-laws:start -->

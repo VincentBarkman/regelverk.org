@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/21b7d4eb-a6e2-11ef-85f0-01aa75ed71a1.0006.03#cpt_III'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R2847#cpt_III'
 'sites':
   - 'it'
   - 'ot'
@@ -26,23 +26,23 @@
 
 1\. Products with digital elements and processes put in place by the manufacturer which are in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those standards or parts thereof.
 
-The Commission shall, in accordance with Article [10](/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), request one or more European standardisation organisations to draft harmonised standards for the essential cybersecurity requirements set out in Annex I to [this Regulation](/lagstiftning/cra). When preparing standardisation requests for [this Regulation](/lagstiftning/cra), the Commission shall strive to take into account existing European and international standards for cybersecurity that are in place or under development in order to simplify the development of harmonised standards, in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
+The Commission shall, in accordance with Article [10](/en/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), request one or more European standardisation organisations to draft harmonised standards for the essential cybersecurity requirements set out in Annex I to [this Regulation](/en/lagstiftning/cra). When preparing standardisation requests for [this Regulation](/en/lagstiftning/cra), the Commission shall strive to take into account existing European and international standards for cybersecurity that are in place or under development in order to simplify the development of harmonised standards, in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
 
-2\. The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential cybersecurity requirements set out in Annex I for products with digital elements that fall within the scope of [this Regulation](/lagstiftning/cra).
+2\. The Commission may adopt implementing acts establishing common specifications covering technical requirements that provide a means to comply with the essential cybersecurity requirements set out in Annex I for products with digital elements that fall within the scope of [this Regulation](/en/lagstiftning/cra).
 
 Those implementing acts shall be adopted only where the following conditions are fulfilled:
 
-(a) the Commission has requested, pursuant to Article [10](/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard for the essential cybersecurity requirements set out in Annex I and:
+(a) the Commission has requested, pursuant to Article [10](/en/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard for the essential cybersecurity requirements set out in Annex I and:
 
 (i) the request has not been accepted;
 
-(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/en/lagstiftning/cra/kap-1#article-10-enhancing-skills-in-a-cyber-resilient-digital-environment)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
 
 (iii) the harmonised standards do not comply with the request; and
 
-(b) no reference to harmonised standards covering the relevant essential cybersecurity requirements set out in Annex I to [this Regulation](/lagstiftning/cra) has been published in the Official Journal of the European Union in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) and no such reference is expected to be published within a reasonable period.
+(b) no reference to harmonised standards covering the relevant essential cybersecurity requirements set out in Annex I to [this Regulation](/en/lagstiftning/cra) has been published in the Official Journal of the European Union in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) and no such reference is expected to be published within a reasonable period.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/en/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
 
 3\. Before preparing the draft implementing act referred to in paragraph 2 of [this Article](#article-27-presumption-of-conformity), the Commission shall inform the committee referred to in Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) that it considers that the conditions in paragraph 2 of [this Article](#article-27-presumption-of-conformity) have been fulfilled.
 
@@ -56,21 +56,21 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 8\. Products with digital elements and processes put in place by the manufacturer for which an EU statement of conformity or certificate has been issued under a European cybersecurity certification scheme adopted pursuant to [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I in so far as the EU statement of conformity or European cybersecurity certificate, or parts thereof, cover those requirements.
 
-9\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) of [this Regulation](/lagstiftning/cra) to supplement [this Regulation](/lagstiftning/cra) by specifying the European cybersecurity certification schemes adopted pursuant to [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) that can be used to demonstrate conformity of products with digital elements with the essential cybersecurity requirements or parts thereof as set out in Annex I to [this Regulation](/lagstiftning/cra). Furthermore, the issuance of a European cybersecurity certificate issued under such schemes, at least at assurance level ‘substantial’, eliminates the obligation of a manufacturer to carry out a third-party conformity assessment for the corresponding requirements, as set out in Article [32](#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(2), points (a) and (b), and Article [32](#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(3), points (a) and (b), of [this Regulation](/lagstiftning/cra).
+9\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/en/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) of [this Regulation](/en/lagstiftning/cra) to supplement [this Regulation](/en/lagstiftning/cra) by specifying the European cybersecurity certification schemes adopted pursuant to [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881) that can be used to demonstrate conformity of products with digital elements with the essential cybersecurity requirements or parts thereof as set out in Annex I to [this Regulation](/en/lagstiftning/cra). Furthermore, the issuance of a European cybersecurity certificate issued under such schemes, at least at assurance level ‘substantial’, eliminates the obligation of a manufacturer to carry out a third-party conformity assessment for the corresponding requirements, as set out in Article [32](#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(2), points (a) and (b), and Article [32](#article-32-conformity-assessment-procedures-for-products-with-digital-elements)(3), points (a) and (b), of [this Regulation](/en/lagstiftning/cra).
 
 ### Article 28 – EU declaration of conformity
 
-1\. The EU declaration of conformity shall be drawn up by manufacturers in accordance with Article [13](/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers)(12) and state that the fulfilment of the applicable essential cybersecurity requirements set out in Annex I has been demonstrated.
+1\. The EU declaration of conformity shall be drawn up by manufacturers in accordance with Article [13](/en/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers)(12) and state that the fulfilment of the applicable essential cybersecurity requirements set out in Annex I has been demonstrated.
 
 2\. The EU declaration of conformity shall have the model structure set out in Annex V and shall contain the elements specified in the relevant conformity assessment procedures set out in Annex VIII. Such a declaration shall be updated as appropriate. It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
 
-The simplified EU declaration of conformity referred to in Article [13](/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers)(20) shall have the model structure set out in Annex VI. It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
+The simplified EU declaration of conformity referred to in Article [13](/en/lagstiftning/cra/kap-2#article-13-obligations-of-manufacturers)(20) shall have the model structure set out in Annex VI. It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market.
 
 3\. Where a product with digital elements is subject to more than one Union legal act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union legal acts. That declaration shall contain the identification of the Union legal acts concerned, including their publication references.
 
 4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with digital elements.
 
-5\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) to supplement [this Regulation](/lagstiftning/cra) by adding elements to the minimum content of the EU declaration of conformity set out in Annex V to take account of technological developments.
+5\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/en/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) to supplement [this Regulation](/en/lagstiftning/cra) by adding elements to the minimum content of the EU declaration of conformity set out in Annex V to take account of technological developments.
 
 ### Article 29 – General principles of the CE marking
 
@@ -88,9 +88,9 @@ The CE marking shall be subject to the general principles set out in Article [30
 
 The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the manufacturer or the manufacturer’s authorised representative.
 
-5\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking. Where the product with digital elements is subject to Union harmonisation legislation, other than [this Regulation](/lagstiftning/cra), which also provides for the affixing of the CE marking, the CE marking shall indicate that the product also fulfils the requirements set out in such other Union harmonisation legislation.
+5\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking. Where the product with digital elements is subject to Union harmonisation legislation, other than [this Regulation](/en/lagstiftning/cra), which also provides for the affixing of the CE marking, the CE marking shall indicate that the product also fulfils the requirements set out in such other Union harmonisation legislation.
 
-6\. The Commission may, by means of implementing acts, lay down technical specifications for labels, pictograms or any other marks related to the security of the products with digital elements, their support periods and mechanisms to promote their use and to increase public awareness about the security of products with digital elements. When preparing the draft implementing acts, the Commission shall consult relevant stakeholders, and, if it has already been established pursuant to Article [52](/lagstiftning/cra/kap-5#article-52-market-surveillance-and-control-of-products-with-digital-elements-in-the-union-market)(15), ADCO. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
+6\. The Commission may, by means of implementing acts, lay down technical specifications for labels, pictograms or any other marks related to the security of the products with digital elements, their support periods and mechanisms to promote their use and to increase public awareness about the security of products with digital elements. When preparing the draft implementing acts, the Commission shall consult relevant stakeholders, and, if it has already been established pursuant to Article [52](/en/lagstiftning/cra/kap-5#article-52-market-surveillance-and-control-of-products-with-digital-elements-in-the-union-market)(15), ADCO. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/en/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
 
 ### Article 31 – Technical documentation
 
@@ -98,11 +98,11 @@ The identification number of the notified body shall be affixed by the body itse
 
 2\. The technical documentation shall be drawn up before the product with digital elements is placed on the market and shall be continuously updated, where appropriate, at least during the support period.
 
-3\. For products with digital elements as referred to in Article [12](/lagstiftning/cra/kap-1#article-12-high-risk-ai-systems), which are also subject to other Union legal acts which provide for technical documentation, a single set of technical documentation shall be drawn up containing the information referred to in Annex VII and the information required by those Union legal acts.
+3\. For products with digital elements as referred to in Article [12](/en/lagstiftning/cra/kap-1#article-12-high-risk-ai-systems), which are also subject to other Union legal acts which provide for technical documentation, a single set of technical documentation shall be drawn up containing the information referred to in Annex VII and the information required by those Union legal acts.
 
 4\. The technical documentation and correspondence relating to any conformity assessment procedure shall be drawn up in an official language of the Member State in which the notified body is established or in a language acceptable to that body.
 
-5\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) to supplement [this Regulation](/lagstiftning/cra) by adding elements to be included in the technical documentation set out in Annex VII to take account of technological developments, as well as developments encountered in the implementation process of [this Regulation](/lagstiftning/cra). To that end, the Commission shall strive to ensure that the administrative burden on microenterprises and small and medium-sized enterprises is proportionate.
+5\. The Commission is empowered to adopt delegated acts in accordance with Article [61](/en/lagstiftning/cra/kap-6#article-61-exercise-of-the-delegation) to supplement [this Regulation](/en/lagstiftning/cra) by adding elements to be included in the technical documentation set out in Annex VII to take account of technological developments, as well as developments encountered in the implementation process of [this Regulation](/en/lagstiftning/cra). To that end, the Commission shall strive to ensure that the administrative burden on microenterprises and small and medium-sized enterprises is proportionate.
 
 ### Article 32 – Conformity assessment procedures for products with digital elements
 
@@ -128,13 +128,13 @@ The identification number of the notified body shall be affixed by the body itse
 
 (b) a conformity assessment based on full quality assurance (based on module H) set out in Annex VIII; or
 
-(c) where available and applicable, a European cybersecurity certification scheme pursuant to Article [27](#article-27-presumption-of-conformity)(9) of [this Regulation](/lagstiftning/cra) at assurance level at least ‘substantial’ pursuant to [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881).
+(c) where available and applicable, a European cybersecurity certification scheme pursuant to Article [27](#article-27-presumption-of-conformity)(9) of [this Regulation](/en/lagstiftning/cra) at assurance level at least ‘substantial’ pursuant to [Regulation (EU) 2019/881](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881).
 
 4\. Critical products with digital elements listed in Annex IV shall demonstrate conformity with the essential cybersecurity requirements set out in Annex I by using one of the following procedures:
 
-(a) a European cybersecurity certification scheme in accordance with Article [8](/lagstiftning/cra/kap-1#article-8-critical-products-with-digital-elements)(1); or
+(a) a European cybersecurity certification scheme in accordance with Article [8](/en/lagstiftning/cra/kap-1#article-8-critical-products-with-digital-elements)(1); or
 
-(b) where the conditions in Article [8](/lagstiftning/cra/kap-1#article-8-critical-products-with-digital-elements)(1) are not met, any of the procedures referred to in paragraph 3 of [this Article](#article-32-conformity-assessment-procedures-for-products-with-digital-elements).
+(b) where the conditions in Article [8](/en/lagstiftning/cra/kap-1#article-8-critical-products-with-digital-elements)(1) are not met, any of the procedures referred to in paragraph 3 of [this Article](#article-32-conformity-assessment-procedures-for-products-with-digital-elements).
 
 5\. Manufacturers of products with digital elements qualifying as free and open-source software, which fall under the categories set out in Annex III, shall be able to demonstrate conformity with the essential cybersecurity requirements set out in Annex I by using one of the procedures referred to in paragraph 1 of [this Article](#article-32-conformity-assessment-procedures-for-products-with-digital-elements), provided that the technical documentation referred to in Article [31](#article-31-technical-documentation) is made available to the public at the time of the placing on the market of those products.
 
@@ -144,21 +144,21 @@ The identification number of the notified body shall be affixed by the body itse
 
 1\. Member States shall, where appropriate, undertake the following actions, tailored to the needs of microenterprises and small enterprises:
 
-(a) organise specific awareness-raising and training activities about the application of [this Regulation](/lagstiftning/cra);
+(a) organise specific awareness-raising and training activities about the application of [this Regulation](/en/lagstiftning/cra);
 
-(b) establish a dedicated channel for communication with microenterprises and small enterprises and, as appropriate, local public authorities to provide advice and respond to queries about the implementation of [this Regulation](/lagstiftning/cra);
+(b) establish a dedicated channel for communication with microenterprises and small enterprises and, as appropriate, local public authorities to provide advice and respond to queries about the implementation of [this Regulation](/en/lagstiftning/cra);
 
 (c) support testing and conformity assessment activities, including where relevant with the support of the European Cybersecurity Competence Centre.
 
-2\. Member States may, where appropriate, establish cyber resilience regulatory sandboxes. Such regulatory sandboxes shall provide for controlled testing environments for innovative products with digital elements to facilitate their development, design, validation and testing for the purpose of complying with [this Regulation](/lagstiftning/cra) for a limited period of time before the placing on the market. The Commission and, where appropriate, ENISA, may provide technical support, advice and tools for the establishment and operation of regulatory sandboxes. The regulatory sandboxes shall be set up under the direct supervision, guidance and support by the market surveillance authorities. Member States shall inform the Commission and the other market surveillance authorities of the establishment of a regulatory sandbox through ADCO. The regulatory sandboxes shall not affect the supervisory and corrective powers of the competent authorities. Member States shall ensure open, fair, and transparent access to regulatory sandboxes, and in particular facilitate access by microenterprises and small enterprises, including start-ups.
+2\. Member States may, where appropriate, establish cyber resilience regulatory sandboxes. Such regulatory sandboxes shall provide for controlled testing environments for innovative products with digital elements to facilitate their development, design, validation and testing for the purpose of complying with [this Regulation](/en/lagstiftning/cra) for a limited period of time before the placing on the market. The Commission and, where appropriate, ENISA, may provide technical support, advice and tools for the establishment and operation of regulatory sandboxes. The regulatory sandboxes shall be set up under the direct supervision, guidance and support by the market surveillance authorities. Member States shall inform the Commission and the other market surveillance authorities of the establishment of a regulatory sandbox through ADCO. The regulatory sandboxes shall not affect the supervisory and corrective powers of the competent authorities. Member States shall ensure open, fair, and transparent access to regulatory sandboxes, and in particular facilitate access by microenterprises and small enterprises, including start-ups.
 
-3\. In accordance with Article [26](/lagstiftning/cra/kap-2#article-26-guidance), the Commission shall provide guidance for microenterprises and small and medium-sized enterprises in relation to the implementation of [this Regulation](/lagstiftning/cra).
+3\. In accordance with Article [26](/en/lagstiftning/cra/kap-2#article-26-guidance), the Commission shall provide guidance for microenterprises and small and medium-sized enterprises in relation to the implementation of [this Regulation](/en/lagstiftning/cra).
 
 4\. The Commission shall advertise available financial support in the regulatory framework of existing Union programmes, in particular in order to ease the financial burden on microenterprises and small enterprises.
 
 5\. Microenterprises and small enterprises may provide all elements of the technical documentation specified in Annex VII by using a simplified format. For that purpose, the Commission shall, by means of implementing acts, specify the simplified technical documentation form targeted at the needs of microenterprises and small enterprises, including how the elements set out in Annex VII are to be provided. Where a microenterprise or small enterprise opts to provide the information set out in Annex VII in a simplified manner, it shall use the form referred to in this paragraph. Notified bodies shall accept that form for the purposes of conformity assessment.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [62](/en/lagstiftning/cra/kap-6#article-62-committee-procedure)(2).
 
 ### Article 34 – Mutual recognition agreements
 

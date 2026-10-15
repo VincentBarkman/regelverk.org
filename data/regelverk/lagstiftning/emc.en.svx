@@ -11,23 +11,23 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-03-29'
 'applies-from': '2016-04-20'
 'sites':
   - 'el'
-'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0030'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter 1 – GENERAL PROVISIONS](/lagstiftning/emc/kap-1) · Articles 1–6
-- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/emc/kap-2) · Articles 7–12
-- [Chapter 3 – CONFORMITY OF EQUIPMENT](/lagstiftning/emc/kap-3) · Articles 13–19
-- [Chapter 4 – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/emc/kap-4) · Articles 20–36
-- [Chapter 5 – UNION MARKET SURVEILLANCE AND CONTROL OF APPARATUS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/emc/kap-5) · Articles 37–40
-- [Chapter 6 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/emc/kap-6) · Articles 41–47
+- [Chapter 1 – GENERAL PROVISIONS](/en/lagstiftning/emc/kap-1) · Articles 1–6
+- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/en/lagstiftning/emc/kap-2) · Articles 7–12
+- [Chapter 3 – CONFORMITY OF EQUIPMENT](/en/lagstiftning/emc/kap-3) · Articles 13–19
+- [Chapter 4 – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/en/lagstiftning/emc/kap-4) · Articles 20–36
+- [Chapter 5 – UNION MARKET SURVEILLANCE AND CONTROL OF APPARATUS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/en/lagstiftning/emc/kap-5) · Articles 37–40
+- [Chapter 6 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/en/lagstiftning/emc/kap-6) · Articles 41–47
 <!-- scan-laws:end -->

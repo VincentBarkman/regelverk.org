@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import SearchBar from '#lib/components/searchBar.svelte';
 	import * as Empty from '#lib/components/ui/empty/index.js';
 	import * as m from '#lib/paraglide/messages.js';
@@ -19,9 +20,12 @@
 	<Empty.Root class="border-0">
 		<Empty.Header>
 			<Empty.Title class="font-serif text-3xl font-medium">
-				<a href={resolve('/[[site=site]]', {})} class="underline-offset-4 hover:underline"
-					>{page.status} – {title}</a
+				<!-- eslint-disable svelte/no-navigation-without-resolve -->
+				<a
+					href={localizeHref(resolve('/[[site=site]]', {}))}
+					class="underline-offset-4 hover:underline">{page.status} – {title}</a
 				>
+				<!-- eslint-enable svelte/no-navigation-without-resolve -->
 			</Empty.Title>
 			<Empty.Description>{description}</Empty.Description>
 		</Empty.Header>

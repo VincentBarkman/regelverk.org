@@ -23,126 +23,126 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### SC-1 – Policy and Procedures
+### <span id="sc-1"></span>SC-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business-process-level or system-level] system and communications protection policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the system and communications protection policy and the associated system and communications protection controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the system and communications protection policy and procedures; and
-- c. Review and update the current system and communications protection:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="sc-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="sc-1_smt.a.1"></span> 1.  [organization-level or mission/business-process-level or system-level] system and communications protection policy that:
+    - <span id="sc-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="sc-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="sc-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the system and communications protection policy and the associated system and communications protection controls;
+- <span id="sc-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the system and communications protection policy and procedures; and
+- <span id="sc-1_smt.c"></span> c. Review and update the current system and communications protection:
+  - <span id="sc-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="sc-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### SC-2 – Separation of System and User Functionality
+### <span id="sc-2"></span>SC-2 – Separation of System and User Functionality
 
 Separate user functionality, including user interface services, from system management functionality.
 
-### SC-4 – Information in Shared System Resources
+### <span id="sc-4"></span>SC-4 – Information in Shared System Resources
 
 Prevent unauthorized and unintended information transfer via shared system resources.
 
-### SC-5 – Denial-of-service Protection
+### <span id="sc-5"></span>SC-5 – Denial-of-service Protection
 
-- a.  [protect against or limit] the effects of the following types of denial-of-service events: [organization-defined types of denial-of-service events] ; and
-- b. Employ the following controls to achieve the denial-of-service objective: [organization-defined controls by type of denial-of-service event].
+- <span id="sc-5_smt.a"></span> a.  [protect against or limit] the effects of the following types of denial-of-service events: [organization-defined types of denial-of-service events] ; and
+- <span id="sc-5_smt.b"></span> b. Employ the following controls to achieve the denial-of-service objective: [organization-defined controls by type of denial-of-service event].
 
-### SC-7 – Boundary Protection
+### <span id="sc-7"></span>SC-7 – Boundary Protection
 
-- a. Monitor and control communications at the external managed interfaces to the system and at key internal managed interfaces within the system;
-- b. Implement subnetworks for publicly accessible system components that are [physically or logically] separated from internal organizational networks; and
-- c. Connect to external networks or systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security and privacy architecture.
+- <span id="sc-7_smt.a"></span> a. Monitor and control communications at the external managed interfaces to the system and at key internal managed interfaces within the system;
+- <span id="sc-7_smt.b"></span> b. Implement subnetworks for publicly accessible system components that are [physically or logically] separated from internal organizational networks; and
+- <span id="sc-7_smt.c"></span> c. Connect to external networks or systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security and privacy architecture.
 
-#### SC-7(3) – Access Points
+#### <span id="sc-7.3"></span>SC-7(3) – Access Points
 
 Limit the number of external network connections to the system.
 
-#### SC-7(4) – External Telecommunications Services
+#### <span id="sc-7.4"></span>SC-7(4) – External Telecommunications Services
 
-- (a) Implement a managed interface for each external telecommunication service;
-- (b) Establish a traffic flow policy for each managed interface;
-- (c) Protect the confidentiality and integrity of the information being transmitted across each interface;
-- (d) Document each exception to the traffic flow policy with a supporting mission or business need and duration of that need;
-- (e) Review exceptions to the traffic flow policy [organization-defined frequency] and remove exceptions that are no longer supported by an explicit mission or business need;
-- (f) Prevent unauthorized exchange of control plane traffic with external networks;
-- (g) Publish information to enable remote networks to detect unauthorized control plane traffic from internal networks; and
-- (h) Filter unauthorized control plane traffic from external networks.
+- <span id="sc-7.4_smt.a"></span> (a) Implement a managed interface for each external telecommunication service;
+- <span id="sc-7.4_smt.b"></span> (b) Establish a traffic flow policy for each managed interface;
+- <span id="sc-7.4_smt.c"></span> (c) Protect the confidentiality and integrity of the information being transmitted across each interface;
+- <span id="sc-7.4_smt.d"></span> (d) Document each exception to the traffic flow policy with a supporting mission or business need and duration of that need;
+- <span id="sc-7.4_smt.e"></span> (e) Review exceptions to the traffic flow policy [organization-defined frequency] and remove exceptions that are no longer supported by an explicit mission or business need;
+- <span id="sc-7.4_smt.f"></span> (f) Prevent unauthorized exchange of control plane traffic with external networks;
+- <span id="sc-7.4_smt.g"></span> (g) Publish information to enable remote networks to detect unauthorized control plane traffic from internal networks; and
+- <span id="sc-7.4_smt.h"></span> (h) Filter unauthorized control plane traffic from external networks.
 
-#### SC-7(5) – Deny by Default — Allow by Exception
+#### <span id="sc-7.5"></span>SC-7(5) – Deny by Default — Allow by Exception
 
 Deny network communications traffic by default and allow network communications traffic by exception [at managed interfaces or for [organization-defined systems] ].
 
-#### SC-7(7) – Split Tunneling for Remote Devices
+#### <span id="sc-7.7"></span>SC-7(7) – Split Tunneling for Remote Devices
 
 Prevent split tunneling for remote devices connecting to organizational systems unless the split tunnel is securely provisioned using [organization-defined safeguards].
 
-#### SC-7(8) – Route Traffic to Authenticated Proxy Servers
+#### <span id="sc-7.8"></span>SC-7(8) – Route Traffic to Authenticated Proxy Servers
 
 Route [organization-defined internal communications traffic] to [organization-defined external networks] through authenticated proxy servers at managed interfaces.
 
-### SC-8 – Transmission Confidentiality and Integrity
+### <span id="sc-8"></span>SC-8 – Transmission Confidentiality and Integrity
 
 Protect the [confidentiality or integrity] of transmitted information.
 
-#### SC-8(1) – Cryptographic Protection
+#### <span id="sc-8.1"></span>SC-8(1) – Cryptographic Protection
 
 Implement cryptographic mechanisms to [prevent unauthorized disclosure of information or detect changes to information] during transmission.
 
-### SC-10 – Network Disconnect
+### <span id="sc-10"></span>SC-10 – Network Disconnect
 
 Terminate the network connection associated with a communications session at the end of the session or after [organization-defined time period] of inactivity.
 
-### SC-12 – Cryptographic Key Establishment and Management
+### <span id="sc-12"></span>SC-12 – Cryptographic Key Establishment and Management
 
 Establish and manage cryptographic keys when cryptography is employed within the system in accordance with the following key management requirements: [organization-defined requirements].
 
-### SC-13 – Cryptographic Protection
+### <span id="sc-13"></span>SC-13 – Cryptographic Protection
 
-- a. Determine the [organization-defined cryptographic uses] ; and
-- b. Implement the following types of cryptography required for each specified cryptographic use: [organization-defined types of cryptography].
+- <span id="sc-13_smt.a"></span> a. Determine the [organization-defined cryptographic uses] ; and
+- <span id="sc-13_smt.b"></span> b. Implement the following types of cryptography required for each specified cryptographic use: [organization-defined types of cryptography].
 
-### SC-15 – Collaborative Computing Devices and Applications
+### <span id="sc-15"></span>SC-15 – Collaborative Computing Devices and Applications
 
-- a. Prohibit remote activation of collaborative computing devices and applications with the following exceptions: [organization-defined exceptions where remote activation is to be allowed] ; and
-- b. Provide an explicit indication of use to users physically present at the devices.
+- <span id="sc-15_smt.a"></span> a. Prohibit remote activation of collaborative computing devices and applications with the following exceptions: [organization-defined exceptions where remote activation is to be allowed] ; and
+- <span id="sc-15_smt.b"></span> b. Provide an explicit indication of use to users physically present at the devices.
 
-### SC-17 – Public Key Infrastructure Certificates
+### <span id="sc-17"></span>SC-17 – Public Key Infrastructure Certificates
 
-- a. Issue public key certificates under an [organization-defined certificate policy] or obtain public key certificates from an approved service provider; and
-- b. Include only approved trust anchors in trust stores or certificate stores managed by the organization.
+- <span id="sc-17_smt.a"></span> a. Issue public key certificates under an [organization-defined certificate policy] or obtain public key certificates from an approved service provider; and
+- <span id="sc-17_smt.b"></span> b. Include only approved trust anchors in trust stores or certificate stores managed by the organization.
 
-### SC-18 – Mobile Code
+### <span id="sc-18"></span>SC-18 – Mobile Code
 
-- a. Define acceptable and unacceptable mobile code and mobile code technologies; and
-- b. Authorize, monitor, and control the use of mobile code within the system.
+- <span id="sc-18_smt.a"></span> a. Define acceptable and unacceptable mobile code and mobile code technologies; and
+- <span id="sc-18_smt.b"></span> b. Authorize, monitor, and control the use of mobile code within the system.
 
-### SC-20 – Secure Name/Address Resolution Service (Authoritative Source)
+### <span id="sc-20"></span>SC-20 – Secure Name/Address Resolution Service (Authoritative Source)
 
-- a. Provide additional data origin authentication and integrity verification artifacts along with the authoritative name resolution data the system returns in response to external name/address resolution queries; and
-- b. Provide the means to indicate the security status of child zones and (if the child supports secure resolution services) to enable verification of a chain of trust among parent and child domains, when operating as part of a distributed, hierarchical namespace.
+- <span id="sc-20_smt.a"></span> a. Provide additional data origin authentication and integrity verification artifacts along with the authoritative name resolution data the system returns in response to external name/address resolution queries; and
+- <span id="sc-20_smt.b"></span> b. Provide the means to indicate the security status of child zones and (if the child supports secure resolution services) to enable verification of a chain of trust among parent and child domains, when operating as part of a distributed, hierarchical namespace.
 
-### SC-21 – Secure Name/Address Resolution Service (Recursive or Caching Resolver)
+### <span id="sc-21"></span>SC-21 – Secure Name/Address Resolution Service (Recursive or Caching Resolver)
 
 Request and perform data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.
 
-### SC-22 – Architecture and Provisioning for Name/Address Resolution Service
+### <span id="sc-22"></span>SC-22 – Architecture and Provisioning for Name/Address Resolution Service
 
 Ensure the systems that collectively provide name/address resolution service for an organization are fault-tolerant and implement internal and external role separation.
 
-### SC-23 – Session Authenticity
+### <span id="sc-23"></span>SC-23 – Session Authenticity
 
 Protect the authenticity of communications sessions.
 
-### SC-28 – Protection of Information at Rest
+### <span id="sc-28"></span>SC-28 – Protection of Information at Rest
 
 Protect the [confidentiality or integrity] of the following information at rest: [organization-defined information at rest].
 
-#### SC-28(1) – Cryptographic Protection
+#### <span id="sc-28.1"></span>SC-28(1) – Cryptographic Protection
 
 Implement cryptographic mechanisms to prevent unauthorized disclosure and modification of the following information at rest on [organization-defined system components or media]: [organization-defined information].
 
-### SC-39 – Process Isolation
+### <span id="sc-39"></span>SC-39 – Process Isolation
 
 Maintain a separate execution domain for each executing system process.
 

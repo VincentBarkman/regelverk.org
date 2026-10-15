@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-03-29'
@@ -20,7 +20,7 @@
   - 'elsakerhetslagen'
 'sites':
   - 'el'
-'url': 'http://publications.europa.eu/resource/cellar/13ab8bf5-b721-11e3-86f9-01aa75ed71a1.0023.03'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32014L0035'
 ---
 
 <!-- scan-laws:start -->

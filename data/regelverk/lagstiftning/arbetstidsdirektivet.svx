@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2003-11-18'
@@ -19,7 +19,7 @@
   - 'arbetstidslagen'
 'sites':
   - 'arbetsmiljo'
-'url': 'http://publications.europa.eu/resource/cellar/050dd964-4f94-4c61-ab50-89217a0d90e2.0011.01'
+'url': 'https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:32003L0088'
 ---
 
 <!-- scan-laws:start -->

@@ -184,6 +184,13 @@ export default defineConfig({
 					!(warning.code === 'script_context_deprecated' && warning.filename?.endsWith('.svx'))
 			},
 			adapter: adapter(),
+			prerender: {
+				concurrency: 8,
+				// legal texts contain cross-links to anchors that may not exist on the
+				// target page; don't fail the build over them
+				handleMissingId: 'warn',
+				handleUnseenRoutes: 'warn'
+			},
 			preprocess: [
 				mdsvex({
 					extensions: ['.svx', '.md'],
@@ -197,7 +204,7 @@ export default defineConfig({
 			project: './project.inlang',
 			outdir: './src/lib/paraglide',
 			emitTsDeclarations: true,
-			strategy: ['cookie', 'baseLocale']
+			strategy: ['url', 'cookie', 'baseLocale']
 		})
 	],
 	test: {

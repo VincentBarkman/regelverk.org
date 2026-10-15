@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
-'url': 'https://www.msb.se/siteassets/dokument/regler/rs/msbfs-2015-6.pdf'
+'url': 'https://www.msb.se/sv/regler/gallande-regler/msbfs-20156/'
 'sites':
   - 'brandskydd'
 ---
@@ -140,8 +140,8 @@ för de märkningar som anges i [7](#7)-[9 §§](#9) ska informationen finnas p�
 minsta förpackningsenheten.
 
 ### 11 § – Märkning utöver CE-märkning på pyrotekniska utrustningar för
-fordon
 
+fordon | 
 Märkningen av de pyrotekniska utrustningarna för fordon ska
 
 innehålla uppgifter om
@@ -161,7 +161,7 @@ tillverkaren kan kontaktas.
 
 Om det inte finns tillräckligt med plats på den pyrotekniska artikeln
 
-för de märkningar som anges i [11 §](#11-märkning-utöver-ce-märkning-på-pyrotekniska-utrustningar-för-fordon), ska informationen finnas på
+för de märkningar som anges i [11 §](#11-märkning-utöver-ce-märkning-på-pyrotekniska-utrustningar-för), ska informationen finnas på
 förpackningen.
 <!-- scan-laws:end -->
 

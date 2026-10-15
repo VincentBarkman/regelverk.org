@@ -21,4 +21,8 @@ url: https://www.pcisecuritystandards.org/standards/pci-dss/
 PCI DSS ställer tolv kravområden på organisationer som lagrar, behandlar eller överför kortinnehavardata. Standarden ges ut av PCI Security Standards Council; den aktuella versionen 4.0.1 publicerades 2024. Standardtexten hämtas från PCI SSC:s dokumentbibliotek.
 
 Officiell källa: [PCI DSS v4.0.1](https://www.pcisecuritystandards.org/standards/pci-dss/).
+
+## Relaterade regelverk
+
+- [Dataskyddsförordningen (GDPR)](/lagstiftning/gdpr)
 <!-- scan-standards:end -->

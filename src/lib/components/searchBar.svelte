@@ -10,6 +10,7 @@
 	import * as Command from '#lib/components/ui/command/index.js';
 	import { goto } from '$app/navigation';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { browser } from '$app/env';
 	import * as m from '#lib/paraglide/messages.js';
 	import { ENTITY_ICON, ENTITY_LABEL } from '#lib/meta.js';
@@ -290,8 +291,9 @@
 							{#each searchResults as item (item.id)}
 								{@const Icon = ENTITY_ICON[item.entity]}
 								<Command.Item onSelect={() => goToWiki(item.slug)} class="px-2 py-2">
+									<!-- eslint-disable svelte/no-navigation-without-resolve -->
 									<a
-										href={resolve('/wiki/[...slug]', { slug: item.slug })}
+										href={localizeHref(resolve('/wiki/[...slug]', { slug: item.slug }))}
 										class="flex w-full items-start gap-2.5 text-left"
 										onclick={() => (showResults = true)}
 									>
@@ -311,6 +313,7 @@
 											>
 										</span>
 									</a>
+									<!-- eslint-enable svelte/no-navigation-without-resolve -->
 								</Command.Item>
 							{/each}
 							<Command.Item

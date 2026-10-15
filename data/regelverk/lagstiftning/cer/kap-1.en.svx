@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_I'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -25,7 +25,7 @@
 
 ### Article 1 – Subject matter and scope
 
-1\. [This Directive](/lagstiftning/cer):
+1\. [This Directive](/en/lagstiftning/cer):
 
 (a) lays down obligations on Member States to take specific measures aimed at ensuring that services which are essential for the maintenance of vital societal functions or economic activities within the scope of Article 114 TFEU are provided in an unobstructed manner in the internal market, in particular obligations to identify critical entities and to support critical entities in meeting the obligations imposed on them;
 
@@ -37,35 +37,35 @@
 
 (ii) on enforcement;
 
-(iii) for the identification of critical entities of particular European significance and on advisory missions to assess the measures that such entities have put in place to meet their obligations under [Chapter III](/lagstiftning/cer/kap-3);
+(iii) for the identification of critical entities of particular European significance and on advisory missions to assess the measures that such entities have put in place to meet their obligations under [Chapter III](/en/lagstiftning/cer/kap-3);
 
-(d) establishes common procedures for cooperation and reporting on the application of [this Directive](/lagstiftning/cer);
+(d) establishes common procedures for cooperation and reporting on the application of [this Directive](/en/lagstiftning/cer);
 
 (e) lays down measures with a view to achieving a high level of resilience of critical entities in order to ensure the provision of essential services within the Union and to improve the functioning of the internal market.
 
-2\. [This Directive](/lagstiftning/cer) shall not apply to matters covered by [Directive (EU) 2022/2555](/lagstiftning/nis2), without prejudice to Article [8](/lagstiftning/cer/kap-2#article-8-critical-entities-in-the-banking-financial-market-infrastructure-and-digital-infrastructure-sectors) of [this Directive](/lagstiftning/cer). In light of the relationship between the physical security and cybersecurity of critical entities, Member States shall ensure that [this Directive](/lagstiftning/cer) and [Directive (EU) 2022/2555](/lagstiftning/nis2) are implemented in a coordinated manner.
+2\. [This Directive](/en/lagstiftning/cer) shall not apply to matters covered by [Directive (EU) 2022/2555](/en/lagstiftning/nis2), without prejudice to Article [8](/en/lagstiftning/cer/kap-2#article-8-critical-entities-in-the-banking-financial-market-infrastructure-and-digital-infrastructure-sectors) of [this Directive](/en/lagstiftning/cer). In light of the relationship between the physical security and cybersecurity of critical entities, Member States shall ensure that [this Directive](/en/lagstiftning/cer) and [Directive (EU) 2022/2555](/en/lagstiftning/nis2) are implemented in a coordinated manner.
 
-3\. Where provisions of sector-specific Union legal acts require critical entities to take measures to enhance their resilience and where those requirements are recognised by Member States as at least equivalent to the corresponding obligations laid down in [this Directive](/lagstiftning/cer), the relevant provisions of [this Directive](/lagstiftning/cer), including the provisions on supervision and enforcement laid down in [Chapter VI](/lagstiftning/cer/kap-6), shall not apply.
+3\. Where provisions of sector-specific Union legal acts require critical entities to take measures to enhance their resilience and where those requirements are recognised by Member States as at least equivalent to the corresponding obligations laid down in [this Directive](/en/lagstiftning/cer), the relevant provisions of [this Directive](/en/lagstiftning/cer), including the provisions on supervision and enforcement laid down in [Chapter VI](/en/lagstiftning/cer/kap-6), shall not apply.
 
-4\. Without prejudice to Article [346](/lagstiftning/nis2) TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with [this Directive](/lagstiftning/cer) only where that exchange is necessary for the application of [this Directive](/lagstiftning/cer). The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and the security and commercial interests of critical entities, while respecting the security of Member States.
+4\. Without prejudice to Article [346](/en/lagstiftning/nis2) TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with [this Directive](/en/lagstiftning/cer) only where that exchange is necessary for the application of [this Directive](/en/lagstiftning/cer). The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and the security and commercial interests of critical entities, while respecting the security of Member States.
 
-5\. [This Directive](/lagstiftning/cer) is without prejudice to the Member States’ responsibility for safeguarding national security and defence and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
+5\. [This Directive](/en/lagstiftning/cer) is without prejudice to the Member States’ responsibility for safeguarding national security and defence and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
 
-6\. [This Directive](/lagstiftning/cer) does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences.
+6\. [This Directive](/en/lagstiftning/cer) does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences.
 
-7\. Member States may decide that Article [11](/lagstiftning/cer/kap-2#article-11-cooperation-between-member-states) and Chapters III, IV and VI, in whole or in part, do not apply to specific critical entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 6 of [this Article](#article-1-subject-matter-and-scope).
+7\. Member States may decide that Article [11](/en/lagstiftning/cer/kap-2#article-11-cooperation-between-member-states) and Chapters III, IV and VI, in whole or in part, do not apply to specific critical entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 6 of [this Article](#article-1-subject-matter-and-scope).
 
-8\. The obligations laid down in [this Directive](/lagstiftning/cer) shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
+8\. The obligations laid down in [this Directive](/en/lagstiftning/cer) shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
 
-9\. [This Directive](/lagstiftning/cer) is without prejudice to Union law on the protection of personal data, in particular [Regulation (EU) 2016/679](/lagstiftning/gdpr) of the European Parliament and of the Council (28) and [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) of the European Parliament and of the Council (29).
+9\. [This Directive](/en/lagstiftning/cer) is without prejudice to Union law on the protection of personal data, in particular [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) of the European Parliament and of the Council (28) and [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) of the European Parliament and of the Council (29).
 
 ### Article 2 – Definitions
 
-For the purposes of [this Directive](/lagstiftning/cer), the following definitions apply:
+For the purposes of [this Directive](/en/lagstiftning/cer), the following definitions apply:
 
 #### Footnotes
 
-(1) ‘critical entity’ means a public or private entity which has been identified by a Member State in accordance with Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities) as belonging to one of the categories set out in the third column of the table in the Annex;
+(1) ‘critical entity’ means a public or private entity which has been identified by a Member State in accordance with Article [6](/en/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities) as belonging to one of the categories set out in the third column of the table in the Annex;
 
 (2) ‘resilience’ means a critical entity’s ability to prevent, protect against, respond to, resist, mitigate, absorb, accommodate and recover from an incident;
 
@@ -95,7 +95,7 @@ For the purposes of [this Directive](/lagstiftning/cer), the following definitio
 
 ### Article 3 – Minimum harmonisation
 
-[This Directive](/lagstiftning/cer) shall not preclude Member States from adopting or maintaining provisions of national law with a view to achieving a higher level of resilience of critical entities, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
+[This Directive](/en/lagstiftning/cer) shall not preclude Member States from adopting or maintaining provisions of national law with a view to achieving a higher level of resilience of critical entities, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
 <!-- scan-laws:end -->
 
 ## Interpretation

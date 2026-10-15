@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { getLocale, locales, setLocale } from '#lib/paraglide/runtime.js';
+	import { getLocale, locales, setLocale, localizeHref } from '#lib/paraglide/runtime.js';
 	import '#lib/locale.js';
+	import { page } from '$app/state';
 	import { toggleMode } from 'mode-watcher';
 	import RiSunLine from 'remixicon-svelte/icons/sun-line';
 	import RiMoonLine from 'remixicon-svelte/icons/moon-line';
@@ -101,13 +102,16 @@
 			<span class="select-none" aria-hidden="true">·</span>
 			{#each locales as loc, i (loc)}
 				{#if i > 0}<span class="select-none" aria-hidden="true">/</span>{/if}
-				<button
-					onclick={() => setLocale(loc)}
+				<a
+					href={localizeHref(page.url.pathname, { locale: loc })}
+					onclick={() => setLocale(loc, { reload: false })}
+					rel="external"
 					lang={loc}
-					aria-pressed={getLocale() === loc}
+					hreflang={loc}
+					aria-current={getLocale() === loc ? 'true' : undefined}
 					class="uppercase underline-offset-4 hover:underline {getLocale() === loc
 						? 'font-semibold text-primary'
-						: ''}">{loc}</button
+						: ''}">{loc}</a
 				>
 			{/each}
 		</p>

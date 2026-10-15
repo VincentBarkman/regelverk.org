@@ -161,5 +161,6 @@
 	"ui_copy": "Copy",
 	"ui_copied": "Copied!",
 	"ui_show_all_count": "Show all {count}",
-	"ui_show_less": "Show fewer"
+	"ui_show_less": "Show fewer",
+	"ui_share": "Share"
 }

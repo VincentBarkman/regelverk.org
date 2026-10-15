@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_VIII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0943#cpt_VIII'
 'sites':
   - 'el'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 63 – New interconnectors
 
-1\. New direct current interconnectors may, upon request, be exempted, for a limited period, from Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(2) and (3) of [this Regulation](/lagstiftning/elmarknadsforordningen) and from Articles [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market) and [43](/lagstiftning/elmarknadsforordningen/kap-5#article-43-management-board-of-regional-coordination-centres), Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(7) and Article [60](/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(1) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) provided that the following conditions are met:
+1\. New direct current interconnectors may, upon request, be exempted, for a limited period, from Article [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(2) and (3) of [this Regulation](/en/lagstiftning/elmarknadsforordningen) and from Articles [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market) and [43](/en/lagstiftning/elmarknadsforordningen/kap-5#article-43-management-board-of-regional-coordination-centres), Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(7) and Article [60](/en/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(1) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) provided that the following conditions are met:
 
 (a) the investment enhances competition in electricity supply;
 
@@ -93,11 +93,11 @@ The Commission's approval of an exemption decision shall expire two years after 
 
 (c) the decision was based on incomplete, incorrect or misleading information, which was provided by the parties.
 
-11\. The Commission is empowered to adopt delegated acts in accordance with Article [68](#article-68-exercise-of-the-delegation) supplementing [this Regulation](/lagstiftning/elmarknadsforordningen) by specifying guidelines for the application of the conditions laid down in paragraph 1 of [this Article](#article-63-new-interconnectors) and setting out the procedure to be followed for the application of paragraphs 4 and 7 to 10 of [this Article](#article-63-new-interconnectors).
+11\. The Commission is empowered to adopt delegated acts in accordance with Article [68](#article-68-exercise-of-the-delegation) supplementing [this Regulation](/en/lagstiftning/elmarknadsforordningen) by specifying guidelines for the application of the conditions laid down in paragraph 1 of [this Article](#article-63-new-interconnectors) and setting out the procedure to be followed for the application of paragraphs 4 and 7 to 10 of [this Article](#article-63-new-interconnectors).
 
 ### Article 64 – Derogations
 
-1\. Member States may apply for derogations from the relevant provisions of Articles [3](/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets) and [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market), Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1), Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(1) and (4), Articles [9](/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets), [10](/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits) and [11](/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load), Articles [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review) to 17, Articles [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income) to 27, Articles [35](/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) to 47 and Article [51](/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators) provided that:
+1\. Member States may apply for derogations from the relevant provisions of Articles [3](/en/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets) and [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market), Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1), Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(1) and (4), Articles [9](/en/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets), [10](/en/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits) and [11](/en/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load), Articles [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review) to 17, Articles [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income) to 27, Articles [35](/en/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) to 47 and Article [51](/en/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators) provided that:
 
 (a) the Member State can demonstrate that there are substantial problems for the operation of small isolated systems and small connected systems;
 
@@ -113,21 +113,21 @@ A derogation granted under [this Article](#article-64-derogations) shall aim to 
 
 In its decision granting a derogation the Commission shall set out to what extent the derogation is to take into account the application of the network codes and guidelines.
 
-2\. Articles [3](/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets), [5](/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility) and [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market), Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1), points (c) and (g) of Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(2)) Articles [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets) to 17, Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) and (6), Articles [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income) and [20](/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity), Article [21](/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)(1), (2) and (4) to (8), point (c) of Article [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(1), points (b) and (c) of Article [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(2), the last subparagraph of Article [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms) (2), Articles [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment) to 27, Article [34](/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(1), (2) and (3), Articles [35](/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) to 47, Article [48](/lagstiftning/elmarknadsforordningen/kap-5#article-48-ten-year-network-development-plan)(2) and Articles [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism) and [51](/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators) shall not apply to Cyprus until its transmission system is connected to other Member States' transmission systems via interconnections.
+2\. Articles [3](/en/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets), [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility) and [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market), Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1), points (c) and (g) of Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(2)) Articles [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets) to 17, Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) and (6), Articles [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income) and [20](/en/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity), Article [21](/en/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)(1), (2) and (4) to (8), point (c) of Article [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(1), points (b) and (c) of Article [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(2), the last subparagraph of Article [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms) (2), Articles [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment) to 27, Article [34](/en/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(1), (2) and (3), Articles [35](/en/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) to 47, Article [48](/en/lagstiftning/elmarknadsforordningen/kap-5#article-48-ten-year-network-development-plan)(2) and Articles [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism) and [51](/en/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators) shall not apply to Cyprus until its transmission system is connected to other Member States' transmission systems via interconnections.
 
 If the transmission system of Cyprus is not connected to other Member States' transmission systems by means of interconnections by 1 January 2026, Cyprus shall assess the need for derogation from those provisions and may submit a request to prolong the derogation to the Commission. The Commission shall assess whether the application of the provisions risks causing substantial problems to the operation of the electricity system in Cyprus or whether their application in Cyprus is expected to provide benefits to the functioning of the market. On the basis of that assessment, the Commission shall issue a reasoned decision to prolong the derogation in full or in part. The decision shall be published in the Official Journal of the European Union.
 
-3\. [This Regulation](/lagstiftning/elmarknadsforordningen) shall not affect the application of the derogations granted under Article [66](/lagstiftning/elmarknadsdirektivet/kap-8#artikel-66-undantag) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+3\. [This Regulation](/en/lagstiftning/elmarknadsforordningen) shall not affect the application of the derogations granted under Article [66](/en/lagstiftning/elmarknadsdirektivet/kap-8#article-66-derogations) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet).
 
 4\. In relation to the attainment of the 2030 interconnection target, as stipulated under [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), the electricity link between Malta and Italy shall be duly taken into account.
 
 ### Article 65 – Provision of information and confidentiality
 
-1\. Member States and the regulatory authorities shall, on request, provide the Commission with all the information necessary for the purposes of enforcing [this Regulation](/lagstiftning/elmarknadsforordningen).
+1\. Member States and the regulatory authorities shall, on request, provide the Commission with all the information necessary for the purposes of enforcing [this Regulation](/en/lagstiftning/elmarknadsforordningen).
 
 The Commission shall set a reasonable time limit within which the information is to be provided, taking into account the complexity and urgency of the information required.
 
-2\. If the Member State or the regulatory authority concerned does not provide the information referred to in paragraph 1 within the time limit referred to in paragraph 1 the Commission may request all the information necessary for the purpose of enforcing [this Regulation](/lagstiftning/elmarknadsforordningen) directly from the undertakings concerned.
+2\. If the Member State or the regulatory authority concerned does not provide the information referred to in paragraph 1 within the time limit referred to in paragraph 1 the Commission may request all the information necessary for the purpose of enforcing [this Regulation](/en/lagstiftning/elmarknadsforordningen) directly from the undertakings concerned.
 
 When sending a request for information to an undertaking, the Commission shall, at the same time, forward a copy of the request to the regulatory authorities of the Member State in whose territory the seat of the undertaking is situated.
 
@@ -139,13 +139,13 @@ When sending a request for information to an undertaking, the Commission shall, 
 
 The Commission shall, at the same time, send a copy of its decision to the regulatory authorities of the Member State within the territory of which the person is resident or the seat of the undertaking is situated.
 
-6\. The information referred to in paragraphs 1 and 2 shall be used only for the purposes of enforcing [this Regulation](/lagstiftning/elmarknadsforordningen).
+6\. The information referred to in paragraphs 1 and 2 shall be used only for the purposes of enforcing [this Regulation](/en/lagstiftning/elmarknadsforordningen).
 
-The Commission shall not disclose information acquired pursuant to [this Regulation](/lagstiftning/elmarknadsforordningen) where that information is covered by the obligation of professional secrecy.
+The Commission shall not disclose information acquired pursuant to [this Regulation](/en/lagstiftning/elmarknadsforordningen) where that information is covered by the obligation of professional secrecy.
 
 ### Article 66 – Penalties
 
-1\. Without prejudice to paragraph 2 of [this Article](#article-66-penalties), the Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/lagstiftning/elmarknadsforordningen), the network codes adopted pursuant to Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes), and the guidelines adopted pursuant to Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.
+1\. Without prejudice to paragraph 2 of [this Article](#article-66-penalties), the Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/en/lagstiftning/elmarknadsforordningen), the network codes adopted pursuant to Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes), and the guidelines adopted pursuant to Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.
 
 2\. The Commission may, by decision, impose on undertakings fines not exceeding 1 % of the total turnover in the preceding business year where, intentionally or negligently, those undertakings supply incorrect, incomplete or misleading information in response to a request made pursuant to Article [65](#article-65-provision-of-information-and-confidentiality)(3) or fail to supply information within the time-limit set in a decision adopted pursuant to the first subparagraph of Article [65](#article-65-provision-of-information-and-confidentiality)(5). In setting the amount of a fine, the Commission shall have regard to the gravity of the failure to comply with the requirements referred to in paragraph 1 of [this Article](#article-66-penalties).
 
@@ -153,7 +153,7 @@ The Commission shall not disclose information acquired pursuant to [this Regulat
 
 ### Article 67 – Committee procedure
 
-1\. The Commission shall be assisted by the committee set up by Article [68](/lagstiftning/elmarknadsdirektivet/kap-8#artikel-68-kommittéförfarande) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet). That committee shall be a committee within the meaning of [Regulation (EU) No 182/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182).
+1\. The Commission shall be assisted by the committee set up by Article [68](/en/lagstiftning/elmarknadsdirektivet/kap-8#article-68-committee-procedure) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet). That committee shall be a committee within the meaning of [Regulation (EU) No 182/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182).
 
 2\. Where reference is made to this paragraph, Article [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182) of [Regulation (EU) No 182/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182) shall apply.
 
@@ -161,39 +161,39 @@ The Commission shall not disclose information acquired pursuant to [this Regulat
 
 1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in [this Article](#article-68-exercise-of-the-delegation).
 
-2\. The power to adopt delegated acts referred to in Article [34](/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) shall be conferred on the Commission until 31 December 2028. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of that period and, if applicable, before the end of subsequent periods. The delegation of power shall be tacitly extended for periods of eight years, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+2\. The power to adopt delegated acts referred to in Article [34](/en/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) shall be conferred on the Commission until 31 December 2028. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of that period and, if applicable, before the end of subsequent periods. The delegation of power shall be tacitly extended for periods of eight years, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
 
-3\. The delegation of power referred to in Article [34](/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+3\. The delegation of power referred to in Article [34](/en/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
 
 4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
 
 5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
 
-6\. A delegated act adopted pursuant to Article [34](/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+6\. A delegated act adopted pursuant to Article [34](/en/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)(3), Article [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(4), Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2), Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2) and Article [63](#article-63-new-interconnectors)(11) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
 
 ### Article 69 – Commission reviews and reports
 
-1\. By 1 July 2025, the Commission shall review the existing network codes and guidelines in order to assess which of their provisions could be appropriately incorporated into legislative acts of the Union concerning the internal electricity market and how the empowerments for network codes and guidelines laid down in Articles [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes) and [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines) could be revised.
+1\. By 1 July 2025, the Commission shall review the existing network codes and guidelines in order to assess which of their provisions could be appropriately incorporated into legislative acts of the Union concerning the internal electricity market and how the empowerments for network codes and guidelines laid down in Articles [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes) and [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines) could be revised.
 
 The Commission shall submit a detailed report of its assessment to the European Parliament and to the Council by the same date.
 
 By 31 December 2026, the Commission shall, where appropriate, submit legislative proposals on the basis of its assessment.
 
-2\. By 31 December 2030 the Commission shall review [this Regulation](/lagstiftning/elmarknadsforordningen) and shall submit a report to the European Parliament and to the Council on the basis of that review, accompanied by a legislative proposal where appropriate.
+2\. By 31 December 2030 the Commission shall review [this Regulation](/en/lagstiftning/elmarknadsforordningen) and shall submit a report to the European Parliament and to the Council on the basis of that review, accompanied by a legislative proposal where appropriate.
 
 ### Article 70 – Repeal
 
-[Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) is repealed. References to the repealed Regulation shall be construed as references to [this Regulation](/lagstiftning/elmarknadsforordningen) and shall be read in accordance with the correlation table set out in Annex III.
+[Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) is repealed. References to the repealed Regulation shall be construed as references to [this Regulation](/en/lagstiftning/elmarknadsforordningen) and shall be read in accordance with the correlation table set out in Annex III.
 
 ### Article 71 – Entry into force
 
-1\. [This Regulation](/lagstiftning/elmarknadsforordningen) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+1\. [This Regulation](/en/lagstiftning/elmarknadsforordningen) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 2\. It shall apply from 1 January 2020.
 
-Notwithstanding the first subparagraph, Articles [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review), [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans), [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(4), 23(3) and (6), 35, 36 and 62 shall apply from the date of entry into force of [this Regulation](/lagstiftning/elmarknadsforordningen). For the purpose of implementing Article [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(7) and Article [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)(2), Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management) shall apply from that date.
+Notwithstanding the first subparagraph, Articles [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review), [15](/en/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans), [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)(4), 23(3) and (6), 35, 36 and 62 shall apply from the date of entry into force of [this Regulation](/en/lagstiftning/elmarknadsforordningen). For the purpose of implementing Article [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(7) and Article [15](/en/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)(2), Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management) shall apply from that date.
 
-[This Regulation](/lagstiftning/elmarknadsforordningen) shall be binding in its entirety and directly applicable in all Member States.
+[This Regulation](/en/lagstiftning/elmarknadsforordningen) shall be binding in its entirety and directly applicable in all Member States.
 
 #### Signature
 
@@ -223,7 +223,7 @@ G. CIAMBA
 
 (5) Commission [Regulation (EU) 2017/2195](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2195) of 23 November 2017 establishing a guideline on electricity balancing (OJ L 312, 28.11.2017, p. 6).
 
-(6) [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) (see page 125 of this Official Journal).
+(6) [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) (see page 125 of this Official Journal).
 
 (7) Commission [Regulation (EU) 2015/1222](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1222) of 24 July 2015 establishing a guideline on capacity allocation and congestion management (OJ L 197, 25.7.2015, p. 24).
 
@@ -277,7 +277,7 @@ Coordinated capacity calculation shall be performed for the day-ahead and intrad
 
 1.3
 
-Coordinated capacity calculation shall be performed on the basis of the methodologies developed pursuant to the guideline on capacity allocation and congestion management adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+Coordinated capacity calculation shall be performed on the basis of the methodologies developed pursuant to the guideline on capacity allocation and congestion management adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
 1.4
 
@@ -285,7 +285,7 @@ Coordinated capacity calculation shall be performed based on a common grid model
 
 1.5
 
-Coordinated capacity calculation shall ensure an efficient congestion management in accordance with the principles of congestion management defined in [this Regulation](/lagstiftning/elmarknadsforordningen).
+Coordinated capacity calculation shall ensure an efficient congestion management in accordance with the principles of congestion management defined in [this Regulation](/en/lagstiftning/elmarknadsforordningen).
 
 2\. Coordinated security analysis
 
@@ -299,7 +299,7 @@ Security analysis shall be performed for all operational planning timeframes, be
 
 2.3
 
-Coordinated security analysis shall be performed on the basis of the methodologies developed pursuant to the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+Coordinated security analysis shall be performed on the basis of the methodologies developed pursuant to the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
 2.4
 
@@ -321,7 +321,7 @@ Transmission system operators shall appoint one regional coordination centre to 
 
 3.3
 
-Common grid models shall be performed in accordance with the methodologies developed pursuant to the system operation guideline and the capacity allocation and congestion management guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+Common grid models shall be performed in accordance with the methodologies developed pursuant to the system operation guideline and the capacity allocation and congestion management guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
 3.4
 
@@ -335,7 +335,7 @@ Common grid models shall be made available to all regional coordination centres,
 
 4.1
 
-Regional coordination centres shall support the transmission system operators in the system operation region in carrying out the consistency assessment of transmission system operators' defence plans and restoration plans pursuant to the procedures set out in the network code on electricity emergency and restoration adopted on the basis of Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+Regional coordination centres shall support the transmission system operators in the system operation region in carrying out the consistency assessment of transmission system operators' defence plans and restoration plans pursuant to the procedures set out in the network code on electricity emergency and restoration adopted on the basis of Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
 4.2
 
@@ -357,7 +357,7 @@ Transmission system operators shall assess and take into account the proposed mi
 
 5.1
 
-Each relevant regional coordination centre shall support the transmission system operators appointed as frequency leaders and the resynchronisation leaders pursuant to the network code on emergency and restoration adopted on the basis of Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) to improve the efficiency and effectiveness of system restoration. The transmission system operators in the system operation region shall establish the role of the regional coordination centre relating to the support to the coordination and optimisation of regional restoration.
+Each relevant regional coordination centre shall support the transmission system operators appointed as frequency leaders and the resynchronisation leaders pursuant to the network code on emergency and restoration adopted on the basis of Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) to improve the efficiency and effectiveness of system restoration. The transmission system operators in the system operation region shall establish the role of the regional coordination centre relating to the support to the coordination and optimisation of regional restoration.
 
 5.2
 
@@ -441,7 +441,7 @@ Each regional coordination centre shall deliver the results of the regional syst
 
 10.1
 
-Each Regional coordination centre shall carry out regional outage coordination in accordance with the procedures set out in the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) in order to monitor the availability status of the relevant assets and coordinate their availability plans to ensure the operational security of the transmission system, while maximising the capacity of the interconnectors and the transmission systems affecting cross-zonal flows.
+Each Regional coordination centre shall carry out regional outage coordination in accordance with the procedures set out in the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) in order to monitor the availability status of the relevant assets and coordinate their availability plans to ensure the operational security of the transmission system, while maximising the capacity of the interconnectors and the transmission systems affecting cross-zonal flows.
 
 10.2
 
@@ -475,19 +475,19 @@ The training programs shall cover all the relevant components of system operatio
 
 13.1
 
-If the ENTSO for Electricity delegates this function, regional coordination centres shall identify regional electricity crisis scenarios in accordance with the criteria set out in Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941).
+If the ENTSO for Electricity delegates this function, regional coordination centres shall identify regional electricity crisis scenarios in accordance with the criteria set out in Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941).
 
 The identification of regional electricity crisis scenarios shall be performed in accordance with the methodology set out in Article [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941).
 
 13.2
 
-Regional coordination centres shall support the competent authorities of each system operation region upon their request in the preparation and carrying out of biennial crisis simulation in accordance with Article [12](/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)(3) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941).
+Regional coordination centres shall support the competent authorities of each system operation region upon their request in the preparation and carrying out of biennial crisis simulation in accordance with Article [12](/en/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)(3) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941).
 
 14\. Identification of needs for new transmission capacity, for upgrade of existing transmission capacity or their alternatives
 
 14.1
 
-Regional coordination centres shall support transmission system operators in the identification of needs for new transmission capacity, for an upgrade of existing transmission capacity or for their alternatives, to be submitted to the regional groups established pursuant to [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) and to be included in the ten-year network development plan referred to in Article [51](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-51-nätutveckling-och-befogenhet-att-fatta-investeringsbeslut) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+Regional coordination centres shall support transmission system operators in the identification of needs for new transmission capacity, for an upgrade of existing transmission capacity or for their alternatives, to be submitted to the regional groups established pursuant to [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) and to be included in the ten-year network development plan referred to in Article [51](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-51-network-development-and-powers-to-make-investment-decisions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet).
 
 15\. Calculation of the maximum entry capacity available for the participation of foreign capacity in capacity mechanisms
 
@@ -497,7 +497,7 @@ Regional coordination centres shall support transmission system operator in calc
 
 15.2
 
-The calculation shall be performed in accordance with the methodology set out in point (a) of Article [26](/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(11).
+The calculation shall be performed in accordance with the methodology set out in point (a) of Article [26](/en/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(11).
 
 15.3
 
@@ -519,15 +519,15 @@ REPEALED REGULATION WITH LIST OF THE SUCCESSIVE AMENDMENTS THERETO
 
 [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure and repealing [Decision No 1364/2006/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31364D2006) and amending [Regulations (EC) No 713/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0713), [(EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) and [(EC) No 715/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0715) (OJ L 115, 25.4.2013, p. 39)
 
-Point (a) of Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)
+Point (a) of Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)
 
-Point (a) of Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(10)
+Point (a) of Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(10)
 
-Article [11](/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
+Article [11](/en/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4a)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4a)
 
-Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(3)
+Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(3)
 
 Commission [Regulation (EU) No 543/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0543) of 14 June 2013 on submission and publication of data in electricity markets and amending Annex I to [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) of the European Parliament and of the Council (OJ L 163, 15.6.2013, p. 1)
 
@@ -539,385 +539,385 @@ CORRELATION TABLE
 
 [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714)
 
-[This Regulation](/lagstiftning/elmarknadsforordningen)
+[This Regulation](/en/lagstiftning/elmarknadsforordningen)
 
-— Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(a)
+— Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(a)
 
-— Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(b)
+— Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(b)
 
-Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(a)
+Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(a)
 
-Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(c)
+Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(c)
 
-Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(b)
+Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(b)
 
-Article [1](/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(d)
+Article [1](/en/lagstiftning/elmarknadsforordningen/kap-1#article-1-subject-matter-and-scope)(d)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(1)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(1)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(1)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(1)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(a)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(a)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(b)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(b)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(3)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(3)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(c)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(c)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(4)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(4)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(d)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(d)
 
-— Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(e)
+— Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(e)
 
-— Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(f)
+— Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(f)
 
-— Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(g)
+— Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2)(g)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions) (5)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions) (5)
 
-— Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions) (6) to (71)
+— Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions) (6) to (71)
 
-— Article [3](/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets)
+— Article [3](/en/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets)
 
-— Article [4](/lagstiftning/elmarknadsforordningen/kap-2#article-4-just-transition)
+— Article [4](/en/lagstiftning/elmarknadsforordningen/kap-2#article-4-just-transition)
 
-— Article [5](/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility)
+— Article [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility)
 
-— Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)
+— Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)
 
-— Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)
+— Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)
 
-— Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)
+— Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)
 
-— Article [9](/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)
+— Article [9](/en/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)
 
-— Article [10](/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits)
+— Article [10](/en/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits)
 
-— Article [11](/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
+— Article [11](/en/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
 
-— Article [12](/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)
+— Article [12](/en/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)
 
-— Article [13](/lagstiftning/elmarknadsforordningen/kap-2#article-13-redispatching)
+— Article [13](/en/lagstiftning/elmarknadsforordningen/kap-2#article-13-redispatching)
 
-— Article [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)
+— Article [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)
 
-— Article [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)
+— Article [15](/en/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)
 
-Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(1) to (3)
+Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(1) to (3)
 
-Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(1) to (4)
+Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(1) to (4)
 
-— Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(5) to (8)
+— Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(5) to (8)
 
-Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(4) to (5)
+Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(4) to (5)
 
-Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(9) to (11)
+Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(9) to (11)
 
-— Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(12) and (13)
+— Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(12) and (13)
 
-— Article [17](/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes)
+— Article [17](/en/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes)
 
-Article [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(1)
+Article [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(1)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(1)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(1)
 
-— Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(2)
+— Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(2)
 
-Article [14](/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(2) to (5)
+Article [14](/en/lagstiftning/elmarknadsforordningen/kap-3#article-14-bidding-zone-review)(2) to (5)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(3) to (6)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(3) to (6)
 
-— Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(7) to (11)
+— Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(7) to (11)
 
-— Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(1)
+— Article [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(1)
 
-Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(6)
+Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(6)
 
-Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(2) and (3)
+Article [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(2) and (3)
 
-— Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(4) and (5)
+— Article [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)(4) and (5)
 
-— Article [20](/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity)
+— Article [20](/en/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity)
 
-— Article [21](/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)
+— Article [21](/en/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)
 
-— Article [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)
+— Article [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(4)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(4)
 
-Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(1)
+Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(1)
 
-— Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(2) to (7)
+— Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(2) to (7)
 
-— Article [25](/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard)
+— Article [25](/en/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard)
 
-— Article [26](/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)
+— Article [26](/en/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)
 
-— Article [27](/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure)
+— Article [27](/en/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure)
 
-Article [4](/lagstiftning/elmarknadsforordningen/kap-2#article-4-just-transition)
+Article [4](/en/lagstiftning/elmarknadsforordningen/kap-2#article-4-just-transition)
 
-Article [28](/lagstiftning/elmarknadsforordningen/kap-5#article-28-european-network-of-transmission-system-operators-for-electricity)(1)
+Article [28](/en/lagstiftning/elmarknadsforordningen/kap-5#article-28-european-network-of-transmission-system-operators-for-electricity)(1)
 
-— Article [28](/lagstiftning/elmarknadsforordningen/kap-5#article-28-european-network-of-transmission-system-operators-for-electricity)(2)
+— Article [28](/en/lagstiftning/elmarknadsforordningen/kap-5#article-28-european-network-of-transmission-system-operators-for-electricity)(2)
 
-Article [5](/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility)
+Article [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility)
 
-Article [29](/lagstiftning/elmarknadsforordningen/kap-5#article-29-the-entso-for-electricity) (1) to (4)
+Article [29](/en/lagstiftning/elmarknadsforordningen/kap-5#article-29-the-entso-for-electricity) (1) to (4)
 
-— Article [29](/lagstiftning/elmarknadsforordningen/kap-5#article-29-the-entso-for-electricity)(5)
+— Article [29](/en/lagstiftning/elmarknadsforordningen/kap-5#article-29-the-entso-for-electricity)(5)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(2) (first sentence)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(2) (first sentence)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(a)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(a)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(b)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(b)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(b)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(b)
 
-— Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(c)
+— Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(c)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(c)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(c)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity) (1)(d)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity) (1)(d)
 
-— Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity) (1)(e) and (f)
+— Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity) (1)(e) and (f)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1) (g) and (h)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1) (g) and (h)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets) (3)(a)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets) (3)(a)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(i)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(i)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(d)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(d)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(j)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(j)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(k)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(k)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(e)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(3)(e)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(l)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(l)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(m) to (o)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(1)(m) to (o)
 
-— Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(2) and (3)
+— Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(2) and (3)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(5)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(5)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(4)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(4)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(9)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(9)
 
-Article [30](/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(5)
+Article [30](/en/lagstiftning/elmarknadsforordningen/kap-5#article-30-tasks-of-the-entso-for-electricity)(5)
 
-Article [10](/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits)
+Article [10](/en/lagstiftning/elmarknadsforordningen/kap-2#article-10-technical-bidding-limits)
 
-Article [31](/lagstiftning/elmarknadsforordningen/kap-5#article-31-consultations)
+Article [31](/en/lagstiftning/elmarknadsforordningen/kap-5#article-31-consultations)
 
-Article [9](/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)
+Article [9](/en/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)
 
-Article [32](/lagstiftning/elmarknadsforordningen/kap-5#article-32-monitoring-by-acer)
+Article [32](/en/lagstiftning/elmarknadsforordningen/kap-5#article-32-monitoring-by-acer)
 
-Article [11](/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
+Article [11](/en/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load)
 
-Article [33](/lagstiftning/elmarknadsforordningen/kap-5#article-33-costs)
+Article [33](/en/lagstiftning/elmarknadsforordningen/kap-5#article-33-costs)
 
-Article [12](/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)
+Article [12](/en/lagstiftning/elmarknadsforordningen/kap-2#article-12-dispatching-of-generation-and-demand-response)
 
-Article [34](/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)
+Article [34](/en/lagstiftning/elmarknadsforordningen/kap-5#article-34-regional-cooperation-of-transmission-system-operators)
 
-— Article [35](/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres)
+— Article [35](/en/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres)
 
-— Article [36](/lagstiftning/elmarknadsforordningen/kap-5#article-36-geographical-scope-of-regional-coordination-centres)
+— Article [36](/en/lagstiftning/elmarknadsforordningen/kap-5#article-36-geographical-scope-of-regional-coordination-centres)
 
-— Article [37](/lagstiftning/elmarknadsforordningen/kap-5#article-37-tasks-of-regional-coordination-centres)
+— Article [37](/en/lagstiftning/elmarknadsforordningen/kap-5#article-37-tasks-of-regional-coordination-centres)
 
-— Article [38](/lagstiftning/elmarknadsforordningen/kap-5#article-38-cooperation-within-and-between-regional-coordination-centres)
+— Article [38](/en/lagstiftning/elmarknadsforordningen/kap-5#article-38-cooperation-within-and-between-regional-coordination-centres)
 
-— Article [39](/lagstiftning/elmarknadsforordningen/kap-5#article-39-working-arrangements)
+— Article [39](/en/lagstiftning/elmarknadsforordningen/kap-5#article-39-working-arrangements)
 
-— Article [40](/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)
+— Article [40](/en/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)
 
-Article [41](/lagstiftning/elmarknadsforordningen/kap-5#article-41-transparency)
+Article [41](/en/lagstiftning/elmarknadsforordningen/kap-5#article-41-transparency)
 
-— Article [42](/lagstiftning/elmarknadsforordningen/kap-5#article-42-adoption-and-review-of-coordinated-actions-and-recommendations)
+— Article [42](/en/lagstiftning/elmarknadsforordningen/kap-5#article-42-adoption-and-review-of-coordinated-actions-and-recommendations)
 
-— Article [43](/lagstiftning/elmarknadsforordningen/kap-5#article-43-management-board-of-regional-coordination-centres)
+— Article [43](/en/lagstiftning/elmarknadsforordningen/kap-5#article-43-management-board-of-regional-coordination-centres)
 
-— Article [44](/lagstiftning/elmarknadsforordningen/kap-5#article-44-organisational-structure)
+— Article [44](/en/lagstiftning/elmarknadsforordningen/kap-5#article-44-organisational-structure)
 
-— Article [45](/lagstiftning/elmarknadsforordningen/kap-5#article-45-equipment-and-staff)
+— Article [45](/en/lagstiftning/elmarknadsforordningen/kap-5#article-45-equipment-and-staff)
 
-— Article [46](/lagstiftning/elmarknadsforordningen/kap-5#article-46-monitoring-and-reporting)
+— Article [46](/en/lagstiftning/elmarknadsforordningen/kap-5#article-46-monitoring-and-reporting)
 
-— Article [47](/lagstiftning/elmarknadsforordningen/kap-5#article-47-liability)
+— Article [47](/en/lagstiftning/elmarknadsforordningen/kap-5#article-47-liability)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(10)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(10)
 
-Article [48](/lagstiftning/elmarknadsforordningen/kap-5#article-48-ten-year-network-development-plan)
+Article [48](/en/lagstiftning/elmarknadsforordningen/kap-5#article-48-ten-year-network-development-plan)
 
-Article [13](/lagstiftning/elmarknadsforordningen/kap-2#article-13-redispatching)
+Article [13](/en/lagstiftning/elmarknadsforordningen/kap-2#article-13-redispatching)
 
-Article [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)
+Article [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)
 
-Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2) (final subparagraph)
+Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2) (final subparagraph)
 
-Article [49](/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(7)
+Article [49](/en/lagstiftning/elmarknadsforordningen/kap-5#article-49-inter-transmission-system-operator-compensation-mechanism)(7)
 
-Article [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)
+Article [15](/en/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)
 
-Article [50](/lagstiftning/elmarknadsforordningen/kap-5#article-50-provision-of-information)(1) to (6)
+Article [50](/en/lagstiftning/elmarknadsforordningen/kap-5#article-50-provision-of-information)(1) to (6)
 
 Annex I point 5.10
 
-Article [50](/lagstiftning/elmarknadsforordningen/kap-5#article-50-provision-of-information)(7)
+Article [50](/en/lagstiftning/elmarknadsforordningen/kap-5#article-50-provision-of-information)(7)
 
-Article [3](/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets)
+Article [3](/en/lagstiftning/elmarknadsforordningen/kap-2#article-3-principles-regarding-the-operation-of-electricity-markets)
 
-Article [51](/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators)
+Article [51](/en/lagstiftning/elmarknadsforordningen/kap-5#article-51-certification-of-transmission-system-operators)
 
-— Article [52](/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)
+— Article [52](/en/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)
 
-— Article [53](/lagstiftning/elmarknadsforordningen/kap-6#article-53-establishment-of-the-eu-dso-entity)
+— Article [53](/en/lagstiftning/elmarknadsforordningen/kap-6#article-53-establishment-of-the-eu-dso-entity)
 
-Article [54](/lagstiftning/elmarknadsforordningen/kap-6#article-54-principal-rules-and-procedures-for-the-eu-dso-entity)
+Article [54](/en/lagstiftning/elmarknadsforordningen/kap-6#article-54-principal-rules-and-procedures-for-the-eu-dso-entity)
 
-— Article [55](/lagstiftning/elmarknadsforordningen/kap-6#article-55-tasks-of-the-eu-dso-entity)
+— Article [55](/en/lagstiftning/elmarknadsforordningen/kap-6#article-55-tasks-of-the-eu-dso-entity)
 
-— Article [56](/lagstiftning/elmarknadsforordningen/kap-6#article-56-consultations-in-the-network-code-development-process)
+— Article [56](/en/lagstiftning/elmarknadsforordningen/kap-6#article-56-consultations-in-the-network-code-development-process)
 
-— Article [57](/lagstiftning/elmarknadsforordningen/kap-6#article-57-cooperation-between-distribution-system-operators-and-transmission-system-operators)
+— Article [57](/en/lagstiftning/elmarknadsforordningen/kap-6#article-57-cooperation-between-distribution-system-operators-and-transmission-system-operators)
 
-— Article [58](/lagstiftning/elmarknadsforordningen/kap-7#article-58-adoption-of-network-codes-and-guidelines)
+— Article [58](/en/lagstiftning/elmarknadsforordningen/kap-7#article-58-adoption-of-network-codes-and-guidelines)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(6)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(6)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1)(a), (b) and (c)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1)(a), (b) and (c)
 
-— Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1)(d) and (e)
+— Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1)(d) and (e)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(2)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(3)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(3)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(2)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(2)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(4)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(4)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(3)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(3)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(5)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(5)
 
-— Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(6)
+— Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(6)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(4)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(4)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(7)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(7)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(5)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(5)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(8)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(8)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(6)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(6)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(9)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(9)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(1)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(1)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(10)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(10)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(7)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(7)
 
-— Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(8)
+— Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(8)
 
-— Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(9) and (10)
+— Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(9) and (10)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(11) and (12)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(11) and (12)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(13) and (14)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(13) and (14)
 
-Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market) (12)
+Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market) (12)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(15)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(15)
 
-Article [8](/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(2)
+Article [8](/en/lagstiftning/elmarknadsforordningen/kap-2#article-8-trade-on-day-ahead-and-intraday-markets)(2)
 
-Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(15)
+Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(15)
 
-— Article [60](/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(1)
+— Article [60](/en/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(1)
 
-Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1)
+Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(1)
 
-Article [60](/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(2)
+Article [60](/en/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(2)
 
-Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(2)
+Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(2)
 
-Article [60](/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(3)
+Article [60](/en/lagstiftning/elmarknadsforordningen/kap-7#article-60-amendments-of-network-codes)(3)
 
-Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(3)
+Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(3)
 
-— Article [7](/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(4)
+— Article [7](/en/lagstiftning/elmarknadsforordningen/kap-2#article-7-day-ahead-and-intraday-markets)(4)
 
 — —
 
-Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(1)
+Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(1)
 
-— Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2)
+— Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(2)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(1)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(1)
 
-Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(3)
+Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(3)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(2)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(2)
 
-— Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(3)
+— Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(3)
 
-Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(4)
+Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(4)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4)
 
-— Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4a)
+— Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(4a)
 
-Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(5)
+Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(5)
 
-Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5)
+Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5)
 
-Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(5) and (6)
+Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines)(5) and (6)
 
-Article [19](/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)
+Article [19](/en/lagstiftning/elmarknadsforordningen/kap-3#article-19-congestion-income)
 
-— Article [21](/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)
+— Article [21](/en/lagstiftning/elmarknadsforordningen/kap-4#article-21-general-principles-for-capacity-mechanisms)
 
-Article [62](/lagstiftning/elmarknadsforordningen/kap-7#article-62-right-of-member-states-to-provide-for-more-detailed-measures)
+Article [62](/en/lagstiftning/elmarknadsforordningen/kap-7#article-62-right-of-member-states-to-provide-for-more-detailed-measures)
 
-Article [17](/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes)
+Article [17](/en/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes)
 
 Article [63](#article-63-new-interconnectors)
 
 — Article [64](#article-64-derogations)
 
-Article [20](/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity)
+Article [20](/en/lagstiftning/elmarknadsforordningen/kap-4#article-20-resource-adequacy-in-the-internal-market-for-electricity)
 
 Article [65](#article-65-provision-of-information-and-confidentiality)
 
-Article [22](/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)
+Article [22](/en/lagstiftning/elmarknadsforordningen/kap-4#article-22-design-principles-for-capacity-mechanisms)
 
 Article [66](#article-66-penalties)
 
-Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)
+Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)
 
 Article [67](#article-67-committee-procedure)
 
-Article [24](/lagstiftning/elmarknadsforordningen/kap-4#article-24-national-resource-adequacy-assessments)
+Article [24](/en/lagstiftning/elmarknadsforordningen/kap-4#article-24-national-resource-adequacy-assessments)
 
 — —
 
@@ -925,11 +925,11 @@ Article [68](#article-68-exercise-of-the-delegation)
 
 — Article [69](#article-69-commission-reviews-and-reports)
 
-Article [25](/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard)
+Article [25](/en/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard)
 
 Article [70](#article-70-repeal)
 
-Article [26](/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)
+Article [26](/en/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)
 
 Article [71](#article-71-entry-into-force)
 <!-- scan-laws:end -->

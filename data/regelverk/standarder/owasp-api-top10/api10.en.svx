@@ -67,9 +67,9 @@ request like the one below:
 
 ```
 POST /user/store_phr_record
-{'{'{'}'}
+｛
   "genome": "ACTAGTAG__TTGADDAAIICCTT…"
-{'}'}
+｝
 ```
 
 Bad actors found a way to compromise the third-party API and it starts

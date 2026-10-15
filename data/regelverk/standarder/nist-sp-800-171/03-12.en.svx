@@ -23,33 +23,33 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.12.01 – Security Assessment
+### <span id="SP_800_171_03.12.01"></span>03.12.01 – Security Assessment
 
 Assess the security requirements for the system and its environment of operation [organization-defined frequency] to determine if the requirements have been satisfied.
 
-### 03.12.02 – Plan of Action and Milestones
+### <span id="SP_800_171_03.12.02"></span>03.12.02 – Plan of Action and Milestones
 
-- SR-03.12.02.a Develop a plan of action and milestones for the system:
-  - SR-03.12.02.a.01 To document the planned remediation actions to correct weaknesses or deficiencies noted during security assessments and
-  - SR-03.12.02.a.02 To reduce or eliminate known system vulnerabilities.
-- SR-03.12.02.b Update the existing plan of action and milestones based on the findings from:
-  - SR-03.12.02.b.01 Security assessments,
-  - SR-03.12.02.b.02 Audits or reviews, and
-  - SR-03.12.02.b.03 Continuous monitoring activities.
+- <span id="SR-03.12.02.a"></span> SR-03.12.02.a Develop a plan of action and milestones for the system:
+  - <span id="SR-03.12.02.a.01"></span> SR-03.12.02.a.01 To document the planned remediation actions to correct weaknesses or deficiencies noted during security assessments and
+  - <span id="SR-03.12.02.a.02"></span> SR-03.12.02.a.02 To reduce or eliminate known system vulnerabilities.
+- <span id="SR-03.12.02.b"></span> SR-03.12.02.b Update the existing plan of action and milestones based on the findings from:
+  - <span id="SR-03.12.02.b.01"></span> SR-03.12.02.b.01 Security assessments,
+  - <span id="SR-03.12.02.b.02"></span> SR-03.12.02.b.02 Audits or reviews, and
+  - <span id="SR-03.12.02.b.03"></span> SR-03.12.02.b.03 Continuous monitoring activities.
 
-### 03.12.03 – Continuous Monitoring
+### <span id="SP_800_171_03.12.03"></span>03.12.03 – Continuous Monitoring
 
 Develop and implement a system-level continuous monitoring strategy that includes ongoing monitoring and security assessments.
 
-### SP_800_171_03.12.04 – 03.12.04
+### <span id="SP_800_171_03.12.04"></span>SP_800_171_03.12.04 – 03.12.04
 
 
 
-### 03.12.05 – Information Exchange
+### <span id="SP_800_171_03.12.05"></span>03.12.05 – Information Exchange
 
-- SR-03.12.05.a Approve and manage the exchange of CUI between the system and other systems using [interconnection security agreements or information exchange security agreements or memoranda of understanding or agreement or service-level agreements or user agreements or non-disclosure agreements or other types of agreements].
-- SR-03.12.05.b Document interface characteristics, security requirements, and responsibilities for each system as part of the exchange agreements.
-- SR-03.12.05.c Review and update the exchange agreements [organization-defined frequency].
+- <span id="SR-03.12.05.a"></span> SR-03.12.05.a Approve and manage the exchange of CUI between the system and other systems using [interconnection security agreements or information exchange security agreements or memoranda of understanding or agreement or service-level agreements or user agreements or non-disclosure agreements or other types of agreements].
+- <span id="SR-03.12.05.b"></span> SR-03.12.05.b Document interface characteristics, security requirements, and responsibilities for each system as part of the exchange agreements.
+- <span id="SR-03.12.05.c"></span> SR-03.12.05.c Review and update the exchange agreements [organization-defined frequency].
 
 ---
 

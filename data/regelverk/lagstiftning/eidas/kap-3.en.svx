@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_III'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#cpt_III'
 'sites':
   - 'it'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 13 – Liability and burden of proof
 
-1\. Without prejudice to paragraph 2, trust service providers shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to comply with the obligations under [this Regulation](/lagstiftning/eidas).
+1\. Without prejudice to paragraph 2, trust service providers shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to comply with the obligations under [this Regulation](/en/lagstiftning/eidas).
 
 The burden of proving intention or negligence of a non-qualified trust service provider shall lie with the natural or legal person claiming the damage referred to in the first subparagraph.
 
@@ -49,7 +49,7 @@ Where feasible, trust services provided and end-user products used in the provis
 
 ### Article 16 – Penalties
 
-Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/lagstiftning/eidas). The penalties provided for shall be effective, proportionate and dissuasive.
+Member States shall lay down the rules on penalties applicable to infringements of [this Regulation](/en/lagstiftning/eidas). The penalties provided for shall be effective, proportionate and dissuasive.
 
 ### Article 17 – Supervisory body
 
@@ -61,9 +61,9 @@ Supervisory bodies shall be given the necessary powers and adequate resources fo
 
 3\. The role of the supervisory body shall be the following:
 
-(a) to supervise qualified trust service providers established in the territory of the designating Member State to ensure, through ex ante and ex post supervisory activities, that those qualified trust service providers and the qualified trust services that they provide meet the requirements laid down in [this Regulation](/lagstiftning/eidas);
+(a) to supervise qualified trust service providers established in the territory of the designating Member State to ensure, through ex ante and ex post supervisory activities, that those qualified trust service providers and the qualified trust services that they provide meet the requirements laid down in [this Regulation](/en/lagstiftning/eidas);
 
-(b) to take action if necessary, in relation to non-qualified trust service providers established in the territory of the designating Member State, through ex post supervisory activities, when informed that those non-qualified trust service providers or the trust services they provide allegedly do not meet the requirements laid down in [this Regulation](/lagstiftning/eidas).
+(b) to take action if necessary, in relation to non-qualified trust service providers established in the territory of the designating Member State, through ex post supervisory activities, when informed that those non-qualified trust service providers or the trust services they provide allegedly do not meet the requirements laid down in [this Regulation](/en/lagstiftning/eidas).
 
 4\. For the purposes of paragraph 3 and subject to the limitations provided therein, the tasks of the supervisory body shall include in particular:
 
@@ -85,7 +85,7 @@ Supervisory bodies shall be given the necessary powers and adequate resources fo
 
 (i) to verify the existence and correct application of provisions on termination plans in cases where the qualified trust service provider ceases its activities, including how information is kept accessible in accordance with point (h) of Article [24](#article-24-requirements-for-qualified-trust-service-providers)(2);
 
-(j) to require that trust service providers remedy any failure to fulfil the requirements laid down in [this Regulation](/lagstiftning/eidas).
+(j) to require that trust service providers remedy any failure to fulfil the requirements laid down in [this Regulation](/en/lagstiftning/eidas).
 
 5\. Member States may require the supervisory body to establish, maintain and update a trust infrastructure in accordance with the conditions under national law.
 
@@ -93,7 +93,7 @@ Supervisory bodies shall be given the necessary powers and adequate resources fo
 
 7\. The Commission shall make the annual report referred to in paragraph 6 available to Member States.
 
-8\. The Commission may, by means of implementing acts, define the formats and procedures for the report referred to in paragraph 6. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+8\. The Commission may, by means of implementing acts, define the formats and procedures for the report referred to in paragraph 6. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 18 – Mutual assistance
 
@@ -107,7 +107,7 @@ A supervisory body shall, upon receipt of a justified request from another super
 
 (b) the requested assistance is not proportionate to supervisory activities of the supervisory body carried out in accordance with Article [17](#article-17-supervisory-body);
 
-(c) providing the requested assistance would be incompatible with [this Regulation](/lagstiftning/eidas).
+(c) providing the requested assistance would be incompatible with [this Regulation](/en/lagstiftning/eidas).
 
 3\. Where appropriate, Member States may authorise their respective supervisory bodies to carry out joint investigations in which staff from other Member States’ supervisory bodies is involved. The arrangements and procedures for such joint actions shall be agreed upon and established by the Member States concerned in accordance with their national law.
 
@@ -131,15 +131,15 @@ The notified supervisory body shall inform the public or require the trust servi
 
 (b) define the formats and procedures, including deadlines, applicable for the purpose of paragraph 2.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 20 – Supervision of qualified trust service providers
 
-1\. Qualified trust service providers shall be audited at their own expense at least every 24 months by a conformity assessment body. The purpose of the audit shall be to confirm that the qualified trust service providers and the qualified trust services provided by them fulfil the requirements laid down in [this Regulation](/lagstiftning/eidas). The qualified trust service providers shall submit the resulting conformity assessment report to the supervisory body within the period of three working days after receiving it.
+1\. Qualified trust service providers shall be audited at their own expense at least every 24 months by a conformity assessment body. The purpose of the audit shall be to confirm that the qualified trust service providers and the qualified trust services provided by them fulfil the requirements laid down in [this Regulation](/en/lagstiftning/eidas). The qualified trust service providers shall submit the resulting conformity assessment report to the supervisory body within the period of three working days after receiving it.
 
-2\. Without prejudice to paragraph 1, the supervisory body may at any time audit or request a conformity assessment body to perform a conformity assessment of the qualified trust service providers, at the expense of those trust service providers, to confirm that they and the qualified trust services provided by them fulfil the requirements laid down in [this Regulation](/lagstiftning/eidas). Where personal data protection rules appear to have been breached, the supervisory body shall inform the data protection authorities of the results of its audits.
+2\. Without prejudice to paragraph 1, the supervisory body may at any time audit or request a conformity assessment body to perform a conformity assessment of the qualified trust service providers, at the expense of those trust service providers, to confirm that they and the qualified trust services provided by them fulfil the requirements laid down in [this Regulation](/en/lagstiftning/eidas). Where personal data protection rules appear to have been breached, the supervisory body shall inform the data protection authorities of the results of its audits.
 
-3\. Where the supervisory body requires the qualified trust service provider to remedy any failure to fulfil requirements under [this Regulation](/lagstiftning/eidas) and where that provider does not act accordingly, and if applicable within a time limit set by the supervisory body, the supervisory body, taking into account, in particular, the extent, duration and consequences of that failure, may withdraw the qualified status of that provider or of the affected service it provides and inform the body referred to in Article [22](#article-22-trusted-lists)(3) for the purposes of updating the trusted lists referred to in Article [22](#article-22-trusted-lists)(1). The supervisory body shall inform the qualified trust service provider of the withdrawal of its qualified status or of the qualified status of the service concerned.
+3\. Where the supervisory body requires the qualified trust service provider to remedy any failure to fulfil requirements under [this Regulation](/en/lagstiftning/eidas) and where that provider does not act accordingly, and if applicable within a time limit set by the supervisory body, the supervisory body, taking into account, in particular, the extent, duration and consequences of that failure, may withdraw the qualified status of that provider or of the affected service it provides and inform the body referred to in Article [22](#article-22-trusted-lists)(3) for the purposes of updating the trusted lists referred to in Article [22](#article-22-trusted-lists)(1). The supervisory body shall inform the qualified trust service provider of the withdrawal of its qualified status or of the qualified status of the service concerned.
 
 4\. The Commission may, by means of implementing acts, establish reference number of the following standards:
 
@@ -147,13 +147,13 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 (b) auditing rules under which conformity assessment bodies will carry out their conformity assessment of the qualified trust service providers as referred to in paragraph 1.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 21 – Initiation of a qualified trust service
 
 1\. Where trust service providers, without qualified status, intend to start providing qualified trust services, they shall submit to the supervisory body a notification of their intention together with a conformity assessment report issued by a conformity assessment body.
 
-2\. The supervisory body shall verify whether the trust service provider and the trust services provided by it comply with the requirements laid down in [this Regulation](/lagstiftning/eidas), and in particular, with the requirements for qualified trust service providers and for the qualified trust services they provide.
+2\. The supervisory body shall verify whether the trust service provider and the trust services provided by it comply with the requirements laid down in [this Regulation](/en/lagstiftning/eidas), and in particular, with the requirements for qualified trust service providers and for the qualified trust services they provide.
 
 If the supervisory body concludes that the trust service provider and the trust services provided by it comply with the requirements referred to in the first subparagraph, the supervisory body shall grant qualified status to the trust service provider and the trust services it provides and inform the body referred to in Article [22](#article-22-trusted-lists)(3) for the purposes of updating the trusted lists referred to in Article [22](#article-22-trusted-lists)(1), not later than three months after notification in accordance with paragraph 1 of [this Article](#article-21-initiation-of-a-qualified-trust-service).
 
@@ -161,7 +161,7 @@ If the verification is not concluded within three months of notification, the su
 
 3\. Qualified trust service providers may begin to provide the qualified trust service after the qualified status has been indicated in the trusted lists referred to in Article [22](#article-22-trusted-lists)(1).
 
-4\. The Commission may, by means of implementing acts, define the formats and procedures for the purpose of paragraphs 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+4\. The Commission may, by means of implementing acts, define the formats and procedures for the purpose of paragraphs 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 22 – Trusted lists
 
@@ -173,7 +173,7 @@ If the verification is not concluded within three months of notification, the su
 
 4\. The Commission shall make available to the public, through a secure channel, the information referred to in paragraph 3 in electronically signed or sealed form suitable for automated processing.
 
-5\. By 18 September 2015 the Commission shall, by means of implementing acts, specify the information referred to in paragraph 1 and define the technical specifications and formats for trusted lists applicable for the purposes of paragraphs 1 to 4. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+5\. By 18 September 2015 the Commission shall, by means of implementing acts, specify the information referred to in paragraph 1 and define the technical specifications and formats for trusted lists applicable for the purposes of paragraphs 1 to 4. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 23 – EU trust mark for qualified trust services
 
@@ -181,7 +181,7 @@ If the verification is not concluded within three months of notification, the su
 
 2\. When using the EU trust mark for the qualified trust services referred to in paragraph 1, qualified trust service providers shall ensure that a link to the relevant trusted list is made available on their website.
 
-3\. By 1 July 2015 the Commission shall, by means of implementing acts, provide for specifications with regard to the form, and in particular the presentation, composition, size and design of the EU trust mark for qualified trust services. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+3\. By 1 July 2015 the Commission shall, by means of implementing acts, provide for specifications with regard to the form, and in particular the presentation, composition, size and design of the EU trust mark for qualified trust services. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 24 – Requirements for qualified trust service providers
 
@@ -191,7 +191,7 @@ The information referred to in the first subparagraph shall be verified by the q
 
 (a) by the physical presence of the natural person or of an authorised representative of the legal person; or
 
-(b) remotely, using electronic identification means, for which prior to the issuance of the qualified certificate, a physical presence of the natural person or of an authorised representative of the legal person was ensured and which meets the requirements set out in Article [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes) with regard to the assurance levels ‘substantial’ or ‘high’; or
+(b) remotely, using electronic identification means, for which prior to the issuance of the qualified certificate, a physical presence of the natural person or of an authorised representative of the legal person was ensured and which meets the requirements set out in Article [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes) with regard to the assurance levels ‘substantial’ or ‘high’; or
 
 (c) by means of a certificate of a qualified electronic signature or of a qualified electronic seal issued in compliance with point (a) or (b); or
 
@@ -231,7 +231,7 @@ The information referred to in the first subparagraph shall be verified by the q
 
 4\. With regard to paragraph 3, qualified trust service providers issuing qualified certificates shall provide to any relying party information on the validity or revocation status of qualified certificates issued by them. This information shall be made available at least on a per certificate basis at any time and beyond the validity period of the certificate in an automated manner that is reliable, free of charge and efficient.
 
-5\. The Commission may, by means of implementing acts, establish reference numbers of standards for trustworthy systems and products, which comply with the requirements under points (e) and (f) of paragraph 2 of [this Article](#article-24-requirements-for-qualified-trust-service-providers). Compliance with the requirements laid down in [this Article](#article-24-requirements-for-qualified-trust-service-providers) shall be presumed where trustworthy systems and products meet those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+5\. The Commission may, by means of implementing acts, establish reference numbers of standards for trustworthy systems and products, which comply with the requirements under points (e) and (f) of paragraph 2 of [this Article](#article-24-requirements-for-qualified-trust-service-providers). Compliance with the requirements laid down in [this Article](#article-24-requirements-for-qualified-trust-service-providers) shall be presumed where trustworthy systems and products meet those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 25 – Legal effects of electronic signatures
 
@@ -261,9 +261,9 @@ An advanced electronic signature shall meet the following requirements:
 
 3\. Member States shall not request for cross-border use in an online service offered by a public sector body an electronic signature at a higher security level than the qualified electronic signature.
 
-4\. The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic signatures. Compliance with the requirements for advanced electronic signatures referred to in paragraphs 1 and 2 of [this Article](#article-27-electronic-signatures-in-public-services) and in Article [26](#article-26-requirements-for-advanced-electronic-signatures) shall be presumed when an advanced electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+4\. The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic signatures. Compliance with the requirements for advanced electronic signatures referred to in paragraphs 1 and 2 of [this Article](#article-27-electronic-signatures-in-public-services) and in Article [26](#article-26-requirements-for-advanced-electronic-signatures) shall be presumed when an advanced electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
-5\. By 18 September 2015, and taking into account existing practices, standards and Union legal acts, the Commission shall, by means of implementing acts, define reference formats of advanced electronic signatures or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+5\. By 18 September 2015, and taking into account existing practices, standards and Union legal acts, the Commission shall, by means of implementing acts, define reference formats of advanced electronic signatures or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 28 – Qualified certificates for electronic signatures
 
@@ -281,13 +281,13 @@ An advanced electronic signature shall meet the following requirements:
 
 (b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
 
-6\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for electronic signature. Compliance with the requirements laid down in Annex I shall be presumed where a qualified certificate for electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+6\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for electronic signature. Compliance with the requirements laid down in Annex I shall be presumed where a qualified certificate for electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 29 – Requirements for qualified electronic signature creation devices
 
 1\. Qualified electronic signature creation devices shall meet the requirements laid down in Annex II.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified electronic signature creation devices. Compliance with the requirements laid down in Annex II shall be presumed where a qualified electronic signature creation device meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified electronic signature creation devices. Compliance with the requirements laid down in Annex II shall be presumed where a qualified electronic signature creation device meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 30 – Certification of qualified electronic signature creation devices
 
@@ -301,9 +301,9 @@ An advanced electronic signature shall meet the following requirements:
 
 (b) a process other than the process referred to in point (a), provided that it uses comparable security levels and provided that the public or private body referred to in paragraph 1 notifies that process to the Commission. That process may be used only in the absence of standards referred to in point (a) or when a security evaluation process referred to in point (a) is ongoing.
 
-The Commission shall, by means of implementing acts, establish a list of standards for the security assessment of information technology products referred to in point (a). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+The Commission shall, by means of implementing acts, establish a list of standards for the security assessment of information technology products referred to in point (a). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
-4\. The Commission shall be empowered to adopt delegated acts in accordance with Article [47](/lagstiftning/eidas/kap-5#article-47-exercise-of-the-delegation) concerning the establishment of specific criteria to be met by the designated bodies referred to in paragraph 1 of [this Article](#article-30-certification-of-qualified-electronic-signature-creation-devices).
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article [47](/en/lagstiftning/eidas/kap-5#article-47-exercise-of-the-delegation) concerning the establishment of specific criteria to be met by the designated bodies referred to in paragraph 1 of [this Article](#article-30-certification-of-qualified-electronic-signature-creation-devices).
 
 ### Article 31 – Publication of a list of certified qualified electronic signature creation devices
 
@@ -311,7 +311,7 @@ The Commission shall, by means of implementing acts, establish a list of standar
 
 2\. On the basis of the information received, the Commission shall establish, publish and maintain a list of certified qualified electronic signature creation devices.
 
-3\. The Commission may, by means of implementing acts, define formats and procedures applicable for the purpose of paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+3\. The Commission may, by means of implementing acts, define formats and procedures applicable for the purpose of paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 32 – Requirements for the validation of qualified electronic signatures
 
@@ -335,7 +335,7 @@ The Commission shall, by means of implementing acts, establish a list of standar
 
 2\. The system used for validating the qualified electronic signature shall provide to the relying party the correct result of the validation process and shall allow the relying party to detect any security relevant issues.
 
-3\. The Commission may, by means of implementing acts, establish reference numbers of standards for the validation of qualified electronic signatures. Compliance with the requirements laid down in paragraph 1 shall be presumed where the validation of qualified electronic signatures meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+3\. The Commission may, by means of implementing acts, establish reference numbers of standards for the validation of qualified electronic signatures. Compliance with the requirements laid down in paragraph 1 shall be presumed where the validation of qualified electronic signatures meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 33 – Qualified validation service for qualified electronic signatures
 
@@ -345,13 +345,13 @@ The Commission shall, by means of implementing acts, establish a list of standar
 
 (b) allows relying parties to receive the result of the validation process in an automated manner, which is reliable, efficient and bears the advanced electronic signature or advanced electronic seal of the provider of the qualified validation service.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified validation service referred to in paragraph 1. Compliance with the requirements laid down in paragraph 1 shall be presumed where the validation service for a qualified electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified validation service referred to in paragraph 1. Compliance with the requirements laid down in paragraph 1 shall be presumed where the validation service for a qualified electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 34 – Qualified preservation service for qualified electronic signatures
 
 1\. A qualified preservation service for qualified electronic signatures may only be provided by a qualified trust service provider that uses procedures and technologies capable of extending the trustworthiness of the qualified electronic signature beyond the technological validity period.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for the qualified preservation service for qualified electronic signatures. Compliance with the requirements laid down in paragraph 1 shall be presumed where the arrangements for the qualified preservation service for qualified electronic signatures meet those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for the qualified preservation service for qualified electronic signatures. Compliance with the requirements laid down in paragraph 1 shall be presumed where the arrangements for the qualified preservation service for qualified electronic signatures meet those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 35 – Legal effects of electronic seals
 
@@ -381,9 +381,9 @@ An advanced electronic seal shall meet the following requirements:
 
 3\. Member States shall not request for the cross-border use in an online service offered by a public sector body an electronic seal at a higher security level than the qualified electronic seal.
 
-4\. The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic seals. Compliance with the requirements for advanced electronic seals referred to in paragraphs 1 and 2 of [this Article](#article-37-electronic-seals-in-public-services) and Article [36](#article-36-requirements-for-advanced-electronic-seals) shall be presumed when an advanced electronic seal meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+4\. The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic seals. Compliance with the requirements for advanced electronic seals referred to in paragraphs 1 and 2 of [this Article](#article-37-electronic-seals-in-public-services) and Article [36](#article-36-requirements-for-advanced-electronic-seals) shall be presumed when an advanced electronic seal meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
-5\. By 18 September 2015, and taking into account existing practices, standards and legal acts of the Union, the Commission shall, by means of implementing acts, define reference formats of advanced electronic seals or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+5\. By 18 September 2015, and taking into account existing practices, standards and legal acts of the Union, the Commission shall, by means of implementing acts, define reference formats of advanced electronic seals or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 38 – Qualified certificates for electronic seals
 
@@ -401,7 +401,7 @@ An advanced electronic seal shall meet the following requirements:
 
 (b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
 
-6\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for electronic seals. Compliance with the requirements laid down in Annex III shall be presumed where a qualified certificate for electronic seal meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+6\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for electronic seals. Compliance with the requirements laid down in Annex III shall be presumed where a qualified certificate for electronic seal meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 39 – Qualified electronic seal creation devices
 
@@ -433,7 +433,7 @@ Articles [32](#article-32-requirements-for-the-validation-of-qualified-electroni
 
 (c) it is signed using an advanced electronic signature or sealed with an advanced electronic seal of the qualified trust service provider, or by some equivalent method.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for the binding of date and time to data and for accurate time sources. Compliance with the requirements laid down in paragraph 1 shall be presumed where the binding of date and time to data and the accurate time source meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for the binding of date and time to data and for accurate time sources. Compliance with the requirements laid down in paragraph 1 shall be presumed where the binding of date and time to data and the accurate time source meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 43 – Legal effect of an electronic registered delivery service
 
@@ -459,13 +459,13 @@ Articles [32](#article-32-requirements-for-the-validation-of-qualified-electroni
 
 In the event of the data being transferred between two or more qualified trust service providers, the requirements in points (a) to (f) shall apply to all the qualified trust service providers.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for processes for sending and receiving data. Compliance with the requirements laid down in paragraph 1 shall be presumed where the process for sending and receiving data meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for processes for sending and receiving data. Compliance with the requirements laid down in paragraph 1 shall be presumed where the process for sending and receiving data meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 45 – Requirements for qualified certificates for website authentication
 
 1\. Qualified certificates for website authentication shall meet the requirements laid down in Annex IV.
 
-2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for website authentication. Compliance with the requirements laid down in Annex IV shall be presumed where a qualified certificate for website authentication meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+2\. The Commission may, by means of implementing acts, establish reference numbers of standards for qualified certificates for website authentication. Compliance with the requirements laid down in Annex IV shall be presumed where a qualified certificate for website authentication meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 <!-- scan-laws:end -->
 
 ## Interpretation

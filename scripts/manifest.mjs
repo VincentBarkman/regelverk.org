@@ -208,7 +208,7 @@ for (const scope of SITE_SCOPES)
 mkdirSync(OUT, { recursive: true });
 writeFileSync(
 	join(OUT, 'records.ts'),
-	`export const records: { scope: string; entity: string; id: string; parent?: string; locale?: string; title?: string; meta: Record<string, unknown> | null }[] = ${JSON.stringify(records, null, '\t')};\n`
+	`export const records: { scope: string; entity: string; id: string; parent?: string; locale?: string; title?: string; meta: Record<string, unknown> | null }[] = JSON.parse(${JSON.stringify(JSON.stringify(records))});\n`
 );
 writeFileSync(
 	join(OUT, 'searchIndex.ts'),

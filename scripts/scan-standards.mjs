@@ -365,7 +365,7 @@ const oscalStatements = (control) => {
 	const render = (part, depth = 0) =>
 		[
 			part.prose
-				? `${'  '.repeat(depth)}- ${part.props?.find((prop) => prop.name === 'label')?.value ?? ''} ${format(part.prose)}`.trimEnd()
+				? `${'  '.repeat(depth)}- ${part.id ? `<span id="${part.id}"></span> ` : ''}${part.props?.find((prop) => prop.name === 'label')?.value ?? ''} ${format(part.prose)}`.trimEnd()
 				: '',
 			...(part.parts ?? []).flatMap((child) => render(child, depth + 1))
 		].filter(Boolean);
@@ -400,9 +400,10 @@ function parseOscal(data) {
 			if (!Array.isArray(family.controls)) throw new Error('Invalid NIST OSCAL family');
 			const fid = displayId(family);
 			const controls = family.controls.flatMap((control) => [
-				`### ${oscalHeading(control)}\n\n${oscalStatements(control)}`,
+				`### <span id="${control.id}"></span>${oscalHeading(control)}\n\n${oscalStatements(control)}`,
 				...(control.controls ?? []).map(
-					(enhancement) => `#### ${oscalHeading(enhancement)}\n\n${oscalStatements(enhancement)}`
+					(enhancement) =>
+						`#### <span id="${enhancement.id}"></span>${oscalHeading(enhancement)}\n\n${oscalStatements(enhancement)}`
 				)
 			]);
 			return {
@@ -511,6 +512,8 @@ function parseOpenContent(data, standard) {
 					.filter((l) => !l.startsWith('# '))
 					.join('\n')
 					.replace(/^(#{1,5}) /gm, '#$1 ')
+					// sibling-file references (./0xa5-….md) point at our apiN pages
+					.replace(/\.\/0xa(\d+)-[\w-]+\.md/g, (_, n) => `api${+n}`)
 					.trim();
 				return {
 					slug: `api${i + 1}`,
@@ -632,7 +635,12 @@ function generatedBody(standard, locale, description, groups = []) {
 		: '';
 	const related = standard.relatedLaws?.length
 		? `\n\n## ${locale === 'sv' ? 'Relaterade regelverk' : 'Related legal acts'}\n\n${standard.relatedLaws
-				.map((slug) => `- [${lawNames.get(slug)?.[locale] ?? slug}](/lagstiftning/${slug})`)
+				.map((slug) => {
+					const dir = resolve(root, 'data/regelverk/lagstiftning', slug);
+					const hasEn = existsSync(dir) && readdirSync(dir).some((f) => f.endsWith('.en.svx'));
+					const pre = locale === 'en' && hasEn ? '/en' : '';
+					return `- [${lawNames.get(slug)?.[locale] ?? slug}](${pre}/lagstiftning/${slug})`;
+				})
 				.join('\n')}`
 		: '';
 	return `${locale === 'sv' ? '## Om standarden' : '## About the standard'}\n\n${intro}${note}\n\n${locale === 'sv' ? 'Officiell källa' : 'Official source'}: [${standard.designation}](${standard.url}).${index}${related}`;

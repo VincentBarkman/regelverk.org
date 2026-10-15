@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0944#cpt_II'
 'sites':
   - 'el'
 ---
@@ -41,7 +41,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 1\. Suppliers shall be free to determine the price at which they supply electricity to customers. Member States shall take appropriate actions to ensure effective competition between suppliers.
 
-2\. Member States shall ensure the protection of energy poor and vulnerable household customers pursuant to Articles [28](/lagstiftning/elmarknadsdirektivet/kap-3#article-28-vulnerable-customers) and [29](/lagstiftning/elmarknadsdirektivet/kap-3#article-29-energy-poverty) by social policy or by other means than public interventions in the price setting for the supply of electricity.
+2\. Member States shall ensure the protection of energy poor and vulnerable household customers pursuant to Articles [28](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-28-vulnerable-customers) and [29](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-29-energy-poverty) by social policy or by other means than public interventions in the price setting for the supply of electricity.
 
 3\. By way of derogation from paragraphs 1 and 2, Member States may apply public interventions in the price setting for the supply of electricity to energy poor or vulnerable household customers. Such public interventions shall be subject to the conditions set out in paragraphs 4 and 5.
 
@@ -73,7 +73,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 (e) ensure that all beneficiaries of such public interventions have the possibility to choose competitive market offers and are directly informed at least every quarter of the availability of offers and savings in the competitive market, in particular of dynamic electricity price contracts, and shall ensure that they are provided with assistance to switch to a market-based offer;
 
-(f) ensure that, pursuant to Articles [19](/lagstiftning/elmarknadsdirektivet/kap-3#article-19-smart-metering-systems) and [21](/lagstiftning/elmarknadsdirektivet/kap-3#article-21-entitlement-to-a-smart-meter), all beneficiaries of such public interventions are entitled to, and are offered to, have smart meters installed at no extra upfront cost to the customer, are directly informed of the possibility of installing smart meters and are provided with necessary assistance;
+(f) ensure that, pursuant to Articles [19](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-19-smart-metering-systems) and [21](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-21-entitlement-to-a-smart-meter), all beneficiaries of such public interventions are entitled to, and are offered to, have smart meters installed at no extra upfront cost to the customer, are directly informed of the possibility of installing smart meters and are provided with necessary assistance;
 
 (g) not lead to direct cross-subsidisation between customers supplied at free market prices and those supplied at regulated supply prices.
 
@@ -85,7 +85,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 ### Article 6 – Third-party access
 
-1\. Member States shall ensure the implementation of a system of third-party access to the transmission and distribution systems based on published tariffs, applicable to all customers and applied objectively and without discrimination between system users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation, are approved in accordance with Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities) prior to their entry into force and that those tariffs, and the methodologies — where only methodologies are approved — are published prior to their entry into force.
+1\. Member States shall ensure the implementation of a system of third-party access to the transmission and distribution systems based on published tariffs, applicable to all customers and applied objectively and without discrimination between system users. Member States shall ensure that those tariffs, or the methodologies underlying their calculation, are approved in accordance with Article [59](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities) prior to their entry into force and that those tariffs, and the methodologies — where only methodologies are approved — are published prior to their entry into force.
 
 2\. The transmission or distribution system operator may refuse access where it lacks the necessary capacity. Duly substantiated reasons shall be given for such refusal, in particular having regard to Article [9](#article-9-public-service-obligations), and based on objective and technically and economically justified criteria. Member States or, where Member States have so provided, the regulatory authorities of those Member States, shall ensure that those criteria are consistently applied and that the system user who has been refused access can make use of a dispute settlement procedure. The regulatory authorities shall also ensure, where appropriate and when refusal of access takes place, that the transmission system operator or distribution system operator provides relevant information on measures that would be necessary to reinforce the network. Such information shall be provided in all cases when access for recharging points has been denied. The party requesting such information may be charged a reasonable fee reflecting the cost of providing such information.
 
@@ -103,7 +103,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 3\. The possibility of supplying electricity through a direct line as referred to in paragraph 1 of [this Article](#article-7-direct-lines) shall not affect the possibility of contracting electricity in accordance with Article [6](#article-6-third-party-access).
 
-4\. Member States may issue authorisations to construct a direct line, subject either to the refusal of system access on the basis, as appropriate, of Article [6](#article-6-third-party-access) or to the opening of a dispute settlement procedure under Article [60](/lagstiftning/elmarknadsdirektivet/kap-7#article-60-decisions-and-complaints).
+4\. Member States may issue authorisations to construct a direct line, subject either to the refusal of system access on the basis, as appropriate, of Article [6](#article-6-third-party-access) or to the opening of a dispute settlement procedure under Article [60](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-60-decisions-and-complaints).
 
 5\. Member States may refuse to authorise a direct line if the granting of such an authorisation would obstruct the application of the provisions on public service obligations in Article [9](#article-9-public-service-obligations). Duly substantiated reasons shall be given for such a refusal.
 
@@ -147,15 +147,15 @@ Where Member States have established particular land use permit procedures apply
 
 ### Article 9 – Public service obligations
 
-1\. Without prejudice to paragraph 2, Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that electricity undertakings operate in accordance with the principles of [this Directive](/lagstiftning/elmarknadsdirektivet) with a view to achieving a competitive, secure and environmentally sustainable market for electricity, and shall not discriminate between those undertakings as regards either rights or obligations.
+1\. Without prejudice to paragraph 2, Member States shall ensure, on the basis of their institutional organisation and with due regard to the principle of subsidiarity, that electricity undertakings operate in accordance with the principles of [this Directive](/en/lagstiftning/elmarknadsdirektivet) with a view to achieving a competitive, secure and environmentally sustainable market for electricity, and shall not discriminate between those undertakings as regards either rights or obligations.
 
-2\. Having full regard to the relevant provisions of the TFEU, in particular Article 106 thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including the security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory and verifiable, and shall guarantee equality of access for electricity undertakings of the Union to national consumers. Public service obligations which concern the price setting for the supply of electricity shall comply with the requirements set out in Article [5](#article-5-market-based-supply-prices) of [this Directive](/lagstiftning/elmarknadsdirektivet).
+2\. Having full regard to the relevant provisions of the TFEU, in particular Article 106 thereof, Member States may impose on undertakings operating in the electricity sector, in the general economic interest, public service obligations which may relate to security, including the security of supply, regularity, quality and price of supplies and environmental protection, including energy efficiency, energy from renewable sources and climate protection. Such obligations shall be clearly defined, transparent, non-discriminatory and verifiable, and shall guarantee equality of access for electricity undertakings of the Union to national consumers. Public service obligations which concern the price setting for the supply of electricity shall comply with the requirements set out in Article [5](#article-5-market-based-supply-prices) of [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 
-3\. Where financial compensation, other forms of compensation and exclusive rights which a Member State grants for the fulfilment of the obligations set out in paragraph 2 of [this Article](#article-9-public-service-obligations) or for the provision of universal service as set out in Article [27](/lagstiftning/elmarknadsdirektivet/kap-3#article-27-universal-service) are provided, this shall be done in a non-discriminatory and transparent way.
+3\. Where financial compensation, other forms of compensation and exclusive rights which a Member State grants for the fulfilment of the obligations set out in paragraph 2 of [this Article](#article-9-public-service-obligations) or for the provision of universal service as set out in Article [27](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-27-universal-service) are provided, this shall be done in a non-discriminatory and transparent way.
 
-4\. Member States shall, upon implementation of [this Directive](/lagstiftning/elmarknadsdirektivet), inform the Commission of all measures adopted to fulfil universal service and public service obligations, including consumer protection and environmental protection, and their possible effect on national and international competition, whether or not such measures require a derogation from [this Directive](/lagstiftning/elmarknadsdirektivet). They shall subsequently inform the Commission every two years of any changes to those measures, whether or not they require a derogation from [this Directive](/lagstiftning/elmarknadsdirektivet).
+4\. Member States shall, upon implementation of [this Directive](/en/lagstiftning/elmarknadsdirektivet), inform the Commission of all measures adopted to fulfil universal service and public service obligations, including consumer protection and environmental protection, and their possible effect on national and international competition, whether or not such measures require a derogation from [this Directive](/en/lagstiftning/elmarknadsdirektivet). They shall subsequently inform the Commission every two years of any changes to those measures, whether or not they require a derogation from [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 
-5\. Member States may decide not to apply Articles [6](#article-6-third-party-access), [7](#article-7-direct-lines) and [8](#article-8-authorisation-procedure-for-new-capacity) of [this Directive](/lagstiftning/elmarknadsdirektivet) insofar as their application would obstruct, in law or in fact, the performance of the obligations imposed on electricity undertakings in the general economic interest and insofar as the development of trade would not be affected to such an extent as would be contrary to the interests of the Union. The interests of the Union include, inter alia, competition with regard to customers in accordance with Article 106 TFEU and [this Directive](/lagstiftning/elmarknadsdirektivet).
+5\. Member States may decide not to apply Articles [6](#article-6-third-party-access), [7](#article-7-direct-lines) and [8](#article-8-authorisation-procedure-for-new-capacity) of [this Directive](/en/lagstiftning/elmarknadsdirektivet) insofar as their application would obstruct, in law or in fact, the performance of the obligations imposed on electricity undertakings in the general economic interest and insofar as the development of trade would not be affected to such an extent as would be contrary to the interests of the Union. The interests of the Union include, inter alia, competition with regard to customers in accordance with Article 106 TFEU and [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 <!-- scan-laws:end -->
 
 ## Interpretation

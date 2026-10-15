@@ -23,20 +23,20 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.17.01 – Supply Chain Risk Management Plan
+### <span id="SP_800_171_03.17.01"></span>03.17.01 – Supply Chain Risk Management Plan
 
-- SR-03.17.01.a Develop a plan for managing supply chain risks associated with the research and development, design, manufacturing, acquisition, delivery, integration, operations, maintenance, and disposal of the system, system components, or system services.
-- SR-03.17.01.b Review and update the supply chain risk management plan [organization-defined frequency].
-- SR-03.17.01.c Protect the supply chain risk management plan from unauthorized disclosure.
+- <span id="SR-03.17.01.a"></span> SR-03.17.01.a Develop a plan for managing supply chain risks associated with the research and development, design, manufacturing, acquisition, delivery, integration, operations, maintenance, and disposal of the system, system components, or system services.
+- <span id="SR-03.17.01.b"></span> SR-03.17.01.b Review and update the supply chain risk management plan [organization-defined frequency].
+- <span id="SR-03.17.01.c"></span> SR-03.17.01.c Protect the supply chain risk management plan from unauthorized disclosure.
 
-### 03.17.02 – Acquisition Strategies, Tools, and Methods
+### <span id="SP_800_171_03.17.02"></span>03.17.02 – Acquisition Strategies, Tools, and Methods
 
 Develop and implement acquisition strategies, contract tools, and procurement methods to identify, protect against, and mitigate supply chain risks.
 
-### 03.17.03 – Supply Chain Requirements and Processes
+### <span id="SP_800_171_03.17.03"></span>03.17.03 – Supply Chain Requirements and Processes
 
-- SR-03.17.03.a Establish a process for identifying and addressing weaknesses or deficiencies in the supply chain elements and processes.
-- SR-03.17.03.b Enforce the following security requirements to protect against supply chain risks to the system, system components, or system services and to limit the harm or consequences from supply chain-related events: [organization-defined security requirements].
+- <span id="SR-03.17.03.a"></span> SR-03.17.03.a Establish a process for identifying and addressing weaknesses or deficiencies in the supply chain elements and processes.
+- <span id="SR-03.17.03.b"></span> SR-03.17.03.b Enforce the following security requirements to protect against supply chain risks to the system, system components, or system services and to limit the harm or consequences from supply chain-related events: [organization-defined security requirements].
 
 ---
 

@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555#cpt_I'
 'sites':
   - 'it'
   - 'ot'
@@ -24,13 +24,13 @@
 
 ### Article 1 – Subject matter
 
-1\. [This Directive](/lagstiftning/nis2) lays down measures that aim to achieve a high common level of cybersecurity across the Union, with a view to improving the functioning of the internal market.
+1\. [This Directive](/en/lagstiftning/nis2) lays down measures that aim to achieve a high common level of cybersecurity across the Union, with a view to improving the functioning of the internal market.
 
-2\. To that end, [this Directive](/lagstiftning/nis2) lays down:
+2\. To that end, [this Directive](/en/lagstiftning/nis2) lays down:
 
 (a) obligations that require Member States to adopt national cybersecurity strategies and to designate or establish competent authorities, cyber crisis management authorities, single points of contact on cybersecurity (single points of contact) and computer security incident response teams (CSIRTs);
 
-(b) cybersecurity risk-management measures and reporting obligations for entities of a type referred to in Annex I or II as well as for entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer);
+(b) cybersecurity risk-management measures and reporting obligations for entities of a type referred to in Annex I or II as well as for entities identified as critical entities under [Directive (EU) 2022/2557](/en/lagstiftning/cer);
 
 (c) rules and obligations on cybersecurity information sharing;
 
@@ -38,11 +38,11 @@
 
 ### Article 2 – Scope
 
-1\. [This Directive](/lagstiftning/nis2) applies to public or private entities of a type referred to in Annex I or II which qualify as medium-sized enterprises under Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) of the Annex to [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361), or exceed the ceilings for medium-sized enterprises provided for in paragraph 1 of that Article, and which provide their services or carry out their activities within the Union.
+1\. [This Directive](/en/lagstiftning/nis2) applies to public or private entities of a type referred to in Annex I or II which qualify as medium-sized enterprises under Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) of the Annex to [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361), or exceed the ceilings for medium-sized enterprises provided for in paragraph 1 of that Article, and which provide their services or carry out their activities within the Union.
 
-Article [3](#article-3-essential-and-important-entities)(4) of the Annex to that Recommendation shall not apply for the purposes of [this Directive](/lagstiftning/nis2).
+Article [3](#article-3-essential-and-important-entities)(4) of the Annex to that Recommendation shall not apply for the purposes of [this Directive](/en/lagstiftning/nis2).
 
-2\. Regardless of their size, [this Directive](/lagstiftning/nis2) also applies to entities of a type referred to in Annex I or II, where:
+2\. Regardless of their size, [this Directive](/en/lagstiftning/nis2) also applies to entities of a type referred to in Annex I or II, where:
 
 (a) services are provided by:
 
@@ -66,39 +66,39 @@ Article [3](#article-3-essential-and-important-entities)(4) of the Annex to that
 
 (ii) at regional level as defined by a Member State in accordance with national law that, following a risk-based assessment, provides services the disruption of which could have a significant impact on critical societal or economic activities.
 
-3\. Regardless of their size, [this Directive](/lagstiftning/nis2) applies to entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer).
+3\. Regardless of their size, [this Directive](/en/lagstiftning/nis2) applies to entities identified as critical entities under [Directive (EU) 2022/2557](/en/lagstiftning/cer).
 
-4\. Regardless of their size, [this Directive](/lagstiftning/nis2) applies to entities providing domain name registration services.
+4\. Regardless of their size, [this Directive](/en/lagstiftning/nis2) applies to entities providing domain name registration services.
 
-5\. Member States may provide for [this Directive](/lagstiftning/nis2) to apply to:
+5\. Member States may provide for [this Directive](/en/lagstiftning/nis2) to apply to:
 
 (a) public administration entities at local level;
 
 (b) education institutions, in particular where they carry out critical research activities.
 
-6\. [This Directive](/lagstiftning/nis2) is without prejudice to the Member States’ responsibility for safeguarding national security and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
+6\. [This Directive](/en/lagstiftning/nis2) is without prejudice to the Member States’ responsibility for safeguarding national security and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
 
-7\. [This Directive](/lagstiftning/nis2) does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the prevention, investigation, detection and prosecution of criminal offences.
+7\. [This Directive](/en/lagstiftning/nis2) does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the prevention, investigation, detection and prosecution of criminal offences.
 
-8\. Member States may exempt specific entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the prevention, investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 7 of [this Article](#article-2-scope), from the obligations laid down in Article [21](/lagstiftning/nis2/kap-4#article-21-cybersecurity-risk-management-measures) or [23](/lagstiftning/nis2/kap-4#article-23-reporting-obligations) with regard to those activities or services. In such cases, the supervisory and enforcement measures referred to in [Chapter VII](/lagstiftning/nis2/kap-7) shall not apply in relation to those specific activities or services. Where the entities carry out activities or provide services exclusively of the type referred to in this paragraph, Member States may decide also to exempt those entities from the obligations laid down in Articles [3](#article-3-essential-and-important-entities) and [27](/lagstiftning/nis2/kap-5#article-27-registry-of-entities).
+8\. Member States may exempt specific entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the prevention, investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 7 of [this Article](#article-2-scope), from the obligations laid down in Article [21](/en/lagstiftning/nis2/kap-4#article-21-cybersecurity-risk-management-measures) or [23](/en/lagstiftning/nis2/kap-4#article-23-reporting-obligations) with regard to those activities or services. In such cases, the supervisory and enforcement measures referred to in [Chapter VII](/en/lagstiftning/nis2/kap-7) shall not apply in relation to those specific activities or services. Where the entities carry out activities or provide services exclusively of the type referred to in this paragraph, Member States may decide also to exempt those entities from the obligations laid down in Articles [3](#article-3-essential-and-important-entities) and [27](/en/lagstiftning/nis2/kap-5#article-27-registry-of-entities).
 
 9\. Paragraphs 7 and 8 shall not apply where an entity acts as a trust service provider.
 
-10\. [This Directive](/lagstiftning/nis2) does not apply to entities which Member States have exempted from the scope of [Regulation (EU) 2022/2554](/lagstiftning/dora) in accordance with Article [2](#article-2-scope)(4) of that Regulation.
+10\. [This Directive](/en/lagstiftning/nis2) does not apply to entities which Member States have exempted from the scope of [Regulation (EU) 2022/2554](/en/lagstiftning/dora) in accordance with Article [2](#article-2-scope)(4) of that Regulation.
 
-11\. The obligations laid down in [this Directive](/lagstiftning/nis2) shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
+11\. The obligations laid down in [this Directive](/en/lagstiftning/nis2) shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
 
-12\. [This Directive](/lagstiftning/nis2) applies without prejudice to [Regulation (EU) 2016/679](/lagstiftning/gdpr), [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058), [Directives 2011/93/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0093) (27) and [2013/40/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0040) (28) of the European Parliament and of the Council and [Directive (EU) 2022/2557](/lagstiftning/cer).
+12\. [This Directive](/en/lagstiftning/nis2) applies without prejudice to [Regulation (EU) 2016/679](/en/lagstiftning/gdpr), [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058), [Directives 2011/93/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0093) (27) and [2013/40/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0040) (28) of the European Parliament and of the Council and [Directive (EU) 2022/2557](/en/lagstiftning/cer).
 
-13\. Without prejudice to Article [346](/lagstiftning/cer) TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with [this Directive](/lagstiftning/nis2) only where that exchange is necessary for the application of [this Directive](/lagstiftning/nis2). The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and protect the security and commercial interests of entities concerned.
+13\. Without prejudice to Article [346](/en/lagstiftning/cer) TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with [this Directive](/en/lagstiftning/nis2) only where that exchange is necessary for the application of [this Directive](/en/lagstiftning/nis2). The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and protect the security and commercial interests of entities concerned.
 
-14\. Entities, the competent authorities, the single points of contact and the CSIRTs shall process personal data to the extent necessary for the purposes of [this Directive](/lagstiftning/nis2) and in accordance with [Regulation (EU) 2016/679](/lagstiftning/gdpr), in particular such processing shall rely on Article [6](#article-6-definitions) thereof.
+14\. Entities, the competent authorities, the single points of contact and the CSIRTs shall process personal data to the extent necessary for the purposes of [this Directive](/en/lagstiftning/nis2) and in accordance with [Regulation (EU) 2016/679](/en/lagstiftning/gdpr), in particular such processing shall rely on Article [6](#article-6-definitions) thereof.
 
-The processing of personal data pursuant to [this Directive](/lagstiftning/nis2) by providers of public electronic communications networks or providers of publicly available electronic communications services shall be carried out in accordance with Union data protection law and Union privacy law, in particular [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058).
+The processing of personal data pursuant to [this Directive](/en/lagstiftning/nis2) by providers of public electronic communications networks or providers of publicly available electronic communications services shall be carried out in accordance with Union data protection law and Union privacy law, in particular [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058).
 
 ### Article 3 – Essential and important entities
 
-1\. For the purposes of [this Directive](/lagstiftning/nis2), the following entities shall be considered to be essential entities:
+1\. For the purposes of [this Directive](/en/lagstiftning/nis2), the following entities shall be considered to be essential entities:
 
 (a) entities of a type referred to in Annex I which exceed the ceilings for medium-sized enterprises provided for in Article [2](#article-2-scope)(1) of the Annex to [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361);
 
@@ -110,11 +110,11 @@ The processing of personal data pursuant to [this Directive](/lagstiftning/nis2)
 
 (e) any other entities of a type referred to in Annex I or II that are identified by a Member State as essential entities pursuant to Article [2](#article-2-scope)(2), points (b) to (e);
 
-(f) entities identified as critical entities under [Directive (EU) 2022/2557](/lagstiftning/cer), referred to in Article [2](#article-2-scope)(3) of [this Directive](/lagstiftning/nis2);
+(f) entities identified as critical entities under [Directive (EU) 2022/2557](/en/lagstiftning/cer), referred to in Article [2](#article-2-scope)(3) of [this Directive](/en/lagstiftning/nis2);
 
 (g) if the Member State so provides, entities which that Member State identified before 16 January 2023 as operators of essential services in accordance with [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) or national law.
 
-2\. For the purposes of [this Directive](/lagstiftning/nis2), entities of a type referred to in Annex I or II which do not qualify as essential entities pursuant to paragraph 1 of [this Article](#article-3-essential-and-important-entities) shall be considered to be important entities. This includes entities identified by Member States as important entities pursuant to Article [2](#article-2-scope)(2), points (b) to (e).
+2\. For the purposes of [this Directive](/en/lagstiftning/nis2), entities of a type referred to in Annex I or II which do not qualify as essential entities pursuant to paragraph 1 of [this Article](#article-3-essential-and-important-entities) shall be considered to be important entities. This includes entities identified by Member States as important entities pursuant to Article [2](#article-2-scope)(2), points (b) to (e).
 
 3\. By 17 April 2025, Member States shall establish a list of essential and important entities as well as entities providing domain name registration services. Member States shall review and, where appropriate, update that list on a regular basis and at least every two years thereafter.
 
@@ -126,7 +126,7 @@ The processing of personal data pursuant to [this Directive](/lagstiftning/nis2)
 
 (c) where applicable, the relevant sector and subsector referred to in Annex I or II; and
 
-(d) where applicable, a list of the Member States where they provide services falling within the scope of [this Directive](/lagstiftning/nis2).
+(d) where applicable, a list of the Member States where they provide services falling within the scope of [this Directive](/en/lagstiftning/nis2).
 
 The entities referred to in paragraph 3 shall notify any changes to the details submitted pursuant to the first subparagraph of this paragraph without delay, and, in any event, within two weeks of the date of the change.
 
@@ -144,23 +144,23 @@ Member States may establish national mechanisms for entities to register themsel
 
 ### Article 4 – Sector-specific Union legal acts
 
-1\. Where sector-specific Union legal acts require essential or important entities to adopt cybersecurity risk-management measures or to notify significant incidents and where those requirements are at least equivalent in effect to the obligations laid down in [this Directive](/lagstiftning/nis2), the relevant provisions of [this Directive](/lagstiftning/nis2), including the provisions on supervision and enforcement laid down in [Chapter VII](/lagstiftning/nis2/kap-7), shall not apply to such entities. Where sector-specific Union legal acts do not cover all entities in a specific sector falling within the scope of [this Directive](/lagstiftning/nis2), the relevant provisions of [this Directive](/lagstiftning/nis2) shall continue to apply to the entities not covered by those sector-specific Union legal acts.
+1\. Where sector-specific Union legal acts require essential or important entities to adopt cybersecurity risk-management measures or to notify significant incidents and where those requirements are at least equivalent in effect to the obligations laid down in [this Directive](/en/lagstiftning/nis2), the relevant provisions of [this Directive](/en/lagstiftning/nis2), including the provisions on supervision and enforcement laid down in [Chapter VII](/en/lagstiftning/nis2/kap-7), shall not apply to such entities. Where sector-specific Union legal acts do not cover all entities in a specific sector falling within the scope of [this Directive](/en/lagstiftning/nis2), the relevant provisions of [this Directive](/en/lagstiftning/nis2) shall continue to apply to the entities not covered by those sector-specific Union legal acts.
 
-2\. The requirements referred to in paragraph 1 of [this Article](#article-4-sector-specific-union-legal-acts) shall be considered to be equivalent in effect to the obligations laid down in [this Directive](/lagstiftning/nis2) where:
+2\. The requirements referred to in paragraph 1 of [this Article](#article-4-sector-specific-union-legal-acts) shall be considered to be equivalent in effect to the obligations laid down in [this Directive](/en/lagstiftning/nis2) where:
 
-(a) cybersecurity risk-management measures are at least equivalent in effect to those laid down in Article [21](/lagstiftning/nis2/kap-4#article-21-cybersecurity-risk-management-measures)(1) and (2); or
+(a) cybersecurity risk-management measures are at least equivalent in effect to those laid down in Article [21](/en/lagstiftning/nis2/kap-4#article-21-cybersecurity-risk-management-measures)(1) and (2); or
 
-(b) the sector-specific Union legal act provides for immediate access, where appropriate automatic and direct, to the incident notifications by the CSIRTs, the competent authorities or the single points of contact under [this Directive](/lagstiftning/nis2) and where requirements to notify significant incidents are at least equivalent in effect to those laid down in Article [23](/lagstiftning/nis2/kap-4#article-23-reporting-obligations)(1) to (6) of [this Directive](/lagstiftning/nis2).
+(b) the sector-specific Union legal act provides for immediate access, where appropriate automatic and direct, to the incident notifications by the CSIRTs, the competent authorities or the single points of contact under [this Directive](/en/lagstiftning/nis2) and where requirements to notify significant incidents are at least equivalent in effect to those laid down in Article [23](/en/lagstiftning/nis2/kap-4#article-23-reporting-obligations)(1) to (6) of [this Directive](/en/lagstiftning/nis2).
 
 3\. The Commission shall, by 17 July 2023, provide guidelines clarifying the application of paragraphs 1 and 2. The Commission shall review those guidelines on a regular basis. When preparing those guidelines, the Commission shall take into account any observations of the Cooperation Group and ENISA.
 
 ### Article 5 – Minimum harmonisation
 
-[This Directive](/lagstiftning/nis2) shall not preclude Member States from adopting or maintaining provisions ensuring a higher level of cybersecurity, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
+[This Directive](/en/lagstiftning/nis2) shall not preclude Member States from adopting or maintaining provisions ensuring a higher level of cybersecurity, provided that such provisions are consistent with Member States’ obligations laid down in Union law.
 
 ### Article 6 – Definitions
 
-For the purposes of [this Directive](/lagstiftning/nis2), the following definitions apply:
+For the purposes of [this Directive](/en/lagstiftning/nis2), the following definitions apply:
 
 #### Footnotes
 
@@ -220,13 +220,13 @@ For the purposes of [this Directive](/lagstiftning/nis2), the following definiti
 
 (23) ‘digital service’ means a service as defined in Article [1](#article-1-subject-matter)(1), point (b), of [Directive (EU) 2015/1535](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L1535) of the European Parliament and of the Council (30);
 
-(24) ‘trust service’ means a trust service as defined in Article [3](#article-3-essential-and-important-entities), point (16), of [Regulation (EU) No 910/2014](/lagstiftning/eidas);
+(24) ‘trust service’ means a trust service as defined in Article [3](#article-3-essential-and-important-entities), point (16), of [Regulation (EU) No 910/2014](/en/lagstiftning/eidas);
 
-(25) ‘trust service provider’ means a trust service provider as defined in Article [3](#article-3-essential-and-important-entities), point (19), of [Regulation (EU) No 910/2014](/lagstiftning/eidas);
+(25) ‘trust service provider’ means a trust service provider as defined in Article [3](#article-3-essential-and-important-entities), point (19), of [Regulation (EU) No 910/2014](/en/lagstiftning/eidas);
 
-(26) ‘qualified trust service’ means a qualified trust service as defined in Article [3](#article-3-essential-and-important-entities), point (17), of [Regulation (EU) No 910/2014](/lagstiftning/eidas);
+(26) ‘qualified trust service’ means a qualified trust service as defined in Article [3](#article-3-essential-and-important-entities), point (17), of [Regulation (EU) No 910/2014](/en/lagstiftning/eidas);
 
-(27) ‘qualified trust service provider’ means a qualified trust service provider as defined in Article [3](#article-3-essential-and-important-entities), point (20), of [Regulation (EU) No 910/2014](/lagstiftning/eidas);
+(27) ‘qualified trust service provider’ means a qualified trust service provider as defined in Article [3](#article-3-essential-and-important-entities), point (20), of [Regulation (EU) No 910/2014](/en/lagstiftning/eidas);
 
 (28) ‘online marketplace’ means an online marketplace as defined in Article [2](#article-2-scope), point (n), of [Directive 2005/29/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0029) of the European Parliament and of the Council (31);
 
@@ -240,7 +240,7 @@ For the purposes of [this Directive](/lagstiftning/nis2), the following definiti
 
 (33) ‘social networking services platform’ means a platform that enables end-users to connect, share, discover and communicate with each other across multiple devices, in particular via chats, posts, videos and recommendations;
 
-(34) ‘representative’ means a natural or legal person established in the Union explicitly designated to act on behalf of a DNS service provider, a TLD name registry, an entity providing domain name registration services, a cloud computing service provider, a data centre service provider, a content delivery network provider, a managed service provider, a managed security service provider, or a provider of an online marketplace, of an online search engine or of a social networking services platform that is not established in the Union, which may be addressed by a competent authority or a CSIRT in the place of the entity itself with regard to the obligations of that entity under [this Directive](/lagstiftning/nis2);
+(34) ‘representative’ means a natural or legal person established in the Union explicitly designated to act on behalf of a DNS service provider, a TLD name registry, an entity providing domain name registration services, a cloud computing service provider, a data centre service provider, a content delivery network provider, a managed service provider, a managed security service provider, or a provider of an online marketplace, of an online search engine or of a social networking services platform that is not established in the Union, which may be addressed by a competent authority or a CSIRT in the place of the entity itself with regard to the obligations of that entity under [this Directive](/en/lagstiftning/nis2);
 
 (35) ‘public administration entity’ means an entity recognised as such in a Member State in accordance with national law, not including the judiciary, parliaments or central banks, which complies with the following criteria:
 

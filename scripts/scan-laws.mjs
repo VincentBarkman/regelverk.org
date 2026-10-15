@@ -146,7 +146,10 @@ function htmlToRich(html, slug) {
 		s = s.slice(0, divStart) + s.slice(end + '</div>'.length);
 	}
 	const blocks = [];
-	const stash = (html) => `\n\n{BLOCK${blocks.push(html) - 1}}\n\n`;
+	// a stashed block may itself contain earlier markers (e.g. math inside a
+	// table cell); resolve them eagerly so no {BLOCKn} leaks into the output
+	const stash = (html) =>
+		`\n\n{BLOCK${blocks.push(html.replace(/\{BLOCK(\d+)\}/g, (_, i) => blocks[+i])) - 1}}\n\n`;
 	// escape literal &, < inside element text (e.g. "t < 10 s") so svelte
 	// doesn't parse them as markup; real tags are left alone
 	const escBlockText = (h) =>
@@ -170,7 +173,8 @@ function htmlToRich(html, slug) {
 		clean = escBlockText(clean);
 		// long lookup tables (e.g. wavelength tables) collapse behind a checkbox
 		// toggle (browsers always hoist <summary> to the top of <details>, so a
-		// checkbox keeps the label under the table)
+		// checkbox keeps the expander under the table); the toggle label lives in
+		// a merged tfoot row so it reads as part of the table
 		const rows = (clean.match(/<tr\b/gi) ?? []).length;
 		if (rows > 12) {
 			const cap = clean.match(/<caption[^>]*>([\s\S]*?)<\/caption>/i);
@@ -182,7 +186,8 @@ function htmlToRich(html, slug) {
 				: `Tabell (${rows} rader)`;
 			if (cap) clean = clean.replace(cap[0], '');
 			const id = `tbl-${blocks.length}`;
-			clean = `<div class="scan-table"><input type="checkbox" id="${id}" class="scan-table-toggle"><div class="scan-table-content">${clean}</div><label for="${id}" class="scan-table-label">${label}</label></div>`;
+			const foot = `<tfoot class="scan-table-foot"><tr><td colspan="999"><label for="${id}" class="scan-table-label">${label}</label></td></tr></tfoot>`;
+			clean = `<div class="scan-table"><input type="checkbox" id="${id}" class="scan-table-toggle"><div class="scan-table-content">${clean.replace(/<\/table>/i, `${foot}</table>`)}</div></div>`;
 		}
 		return stash(clean);
 	});
@@ -587,6 +592,17 @@ function parseAv(html, lawSlug) {
 	let cur = null;
 	let pendingTitle = '';
 	let pendingSection = '';
+	let avdelning = '';
+	const newKap = (num, title) => ({
+		slug: `kap-${num}`,
+		anchor: '',
+		num: `${num}`,
+		title: title.trim(),
+		labelSv: `${num} kap.`,
+		labelEn: `Chapter ${num}`,
+		avdelning,
+		provisions: []
+	});
 	const fallback = () => {
 		if (cur) return cur;
 		cur = {
@@ -647,6 +663,8 @@ function parseAv(html, lawSlug) {
 			};
 			if (groups.has(cur.slug)) cur = groups.get(cur.slug);
 			else groups.set(cur.slug, cur);
+			avdelning = kap || bil ? '' : e.title;
+			if (kap) cur.avdelning = avdelning || undefined;
 			pendingTitle = pendingSection = '';
 			// free text between the chapter heading and the first sub-event
 			const intro = htmlToRich(doc.slice(e.bodyFrom, nextPos(i)), lawSlug).trim();
@@ -661,6 +679,17 @@ function parseAv(html, lawSlug) {
 			continue;
 		}
 		if (e.kind === 'head') {
+			// on av.se, "N kap." headings inside an Avdelning are h3 — treat
+			// them as real chapter boundaries, not pseudo-provisions
+			const kapHead = e.title.match(/^(\d+)\s*kap\.?\s*(.*)$/i);
+			if (kapHead) {
+				const n = parseInt(kapHead[1], 10);
+				cur = groups.get(`kap-${n}`) ?? newKap(n, kapHead[2]);
+				cur.avdelning ??= avdelning || undefined;
+				groups.set(cur.slug, cur);
+				pendingTitle = pendingSection = '';
+				continue;
+			}
 			if (next?.kind === 'para' || next?.kind === 'rad') {
 				pendingTitle = e.title;
 				continue;
@@ -877,6 +906,85 @@ function autoGroups(chapters) {
 	return groups;
 }
 
+// cached raws from before the parseAv fix store "N kap." chapter headings as
+// pseudo-provisions inside Avdelning groups — re-split them into real chapters
+function splitKapMarkers(chapters) {
+	const markerOf = (p) => (/^\d{1,3}$/.test(p.label) ? p.title?.match(/^kap\.?\s*(.*)$/i) : null);
+	const out = [];
+	let implied = 0;
+	for (const c of chapters) {
+		const isAvd = /^avdelning\b/i.test(c.title);
+		if (!isAvd && !c.provisions.some(markerOf)) {
+			out.push(c);
+			continue;
+		}
+		let cur = null;
+		const flush = () => {
+			if (cur?.provisions.length) out.push(cur);
+			cur = null;
+		};
+		const startKap = (num, title) => {
+			flush();
+			cur = {
+				slug: `kap-${num}`,
+				anchor: '',
+				num: `${num}`,
+				title,
+				labelSv: `${num} kap.`,
+				labelEn: `Chapter ${num}`,
+				avdelning: isAvd ? c.title : undefined,
+				provisions: []
+			};
+			implied = num + 1;
+		};
+		for (const p of c.provisions) {
+			const m = markerOf(p);
+			if (m) {
+				startKap(parseInt(p.label, 10), m[1].trim());
+				if (p.body.trim())
+					cur.provisions.push({
+						label: 'Inledning',
+						labelEn: 'Introduction',
+						title: '',
+						anchor: '',
+						body: p.body
+					});
+				continue;
+			}
+			if (!cur) {
+				if (isAvd && /^\d+\s*[a-z]?\s*§$/i.test(p.label)) {
+					// provisions before the first marker belong to the implied
+					// first chapter of the avdelning (its kap heading was lost)
+					startKap(implied || 1, c.title.replace(/^avdelning\s+\S+\s*:\s*/i, '').trim());
+				} else {
+					cur = { ...c, provisions: [] };
+				}
+			}
+			cur.provisions.push(p);
+		}
+		flush();
+	}
+	// avdelning groups that ended up holding only intro text (their chapters
+	// were split into kap-N) get folded into the chapter that follows
+	for (let i = out.length - 1; i >= 0; i--) {
+		const c = out[i];
+		if (!c.slug.startsWith('avsnitt-')) continue;
+		if (c.provisions.some((p) => /§/.test(p.label))) continue;
+		const next = out[i + 1];
+		if (!next?.slug.startsWith('kap-')) continue;
+		next.provisions.unshift(
+			...c.provisions.map((p) => ({
+				...p,
+				label: 'Inledning',
+				labelEn: 'Introduction',
+				title: ''
+			}))
+		);
+		out.splice(i, 1);
+	}
+	return out;
+}
+
 function applyGroups(chapters, groups) {
 	const bySlug = new Map(chapters.map((c) => [c.slug, c]));
 	const out = [];
@@ -931,12 +1039,12 @@ function writeRaw(slug, locale, url, chapters) {
 	for (const c of chapters) {
 		lines.push(
 			'',
-			`# ${c.slug} | ${locale === 'en' ? c.labelEn : c.labelSv} | ${c.title} | ${c.anchor ?? ''}`
+			`# ${c.slug} | ${locale === 'en' ? c.labelEn : c.labelSv} | ${c.title} | ${c.anchor ?? ''} | ${c.avdelning ?? ''}`
 		);
 		for (const p of c.provisions)
 			lines.push(
 				'',
-				`## ${locale === 'en' ? (p.labelEn ?? p.label) : p.label} | ${p.title ?? ''} | ${p.anchor ?? ''}`,
+				`## ${locale === 'en' ? (p.labelEn ?? p.label) : p.label} | ${p.title ?? ''} | ${p.anchor ?? ''} | ${p.section ?? ''}`,
 				p.body
 			);
 	}
@@ -964,6 +1072,7 @@ function readRaw(slug, locale) {
 				labelEn: parts[1] ?? '',
 				title: parts[2] ?? '',
 				anchor: parts[3] ?? '',
+				avdelning: parts[4] || undefined,
 				provisions: []
 			};
 			chapters.push(cur);
@@ -973,6 +1082,7 @@ function readRaw(slug, locale) {
 				label: parts[0],
 				title: parts[1] === 'undefined' ? '' : (parts[1] ?? ''),
 				anchor: parts[2] ?? '',
+				section: parts[3] || undefined,
 				body: text.slice(marks[i].index + full.length, end).trim()
 			});
 		}
@@ -1152,8 +1262,13 @@ async function scanLaw(law) {
 				chapters = readRaw(law.slug, locale);
 			}
 		}
+		if (chapters?.length && !isEu) chapters = splitKapMarkers(chapters);
 		if (chapters?.length && Array.isArray(law.groups)) chapters = applyGroups(chapters, law.groups);
-		else if (chapters?.length && !isEu && chapters.every((c) => !c.slug.startsWith('kap-')))
+		else if (
+			chapters?.length &&
+			!isEu &&
+			chapters.every((c) => !c.slug.startsWith('kap-') && !c.slug.startsWith('avsnitt-'))
+		)
 			chapters = applyGroups(chapters, autoGroups(chapters));
 		if (chapters?.length === 1 && !isEu && chapters[0].provisions.length > 12)
 			chapters = chunkMonolith(chapters[0]);
@@ -1322,48 +1437,60 @@ function namedAct(qualifier) {
 	const c = NAMED_CELEX[q];
 	return c ? { celex: c } : null;
 }
-function artIndex(slug) {
-	if (ART_INDEX.has(slug)) return ART_INDEX.get(slug);
+// locale-aware: en pages link to en anchors, so index *.en.svx for en and
+// fall back to the sv files when a law has no translated chapter
+function localeFiles(slug, locale) {
 	const dir = resolve(ROOT, OUT_DIR, slug);
+	if (!existsSync(dir)) return null;
+	const en = locale === 'en';
+	const files = readdirSync(dir).filter((f) =>
+		en ? f.endsWith('.en.svx') : f.endsWith('.svx') && !f.slice(0, -4).includes('.')
+	);
+	if (en && !files.length) return localeFiles(slug, 'sv');
+	return { dir, files };
+}
+function artIndex(slug, locale = 'sv') {
+	const key = `${locale}:${slug}`;
+	if (ART_INDEX.has(key)) return ART_INDEX.get(key);
+	const loc = localeFiles(slug, locale);
 	let map = null;
-	if (existsSync(dir)) {
+	if (loc) {
 		map = new Map();
-		for (const f of readdirSync(dir)) {
-			if (!f.endsWith('.svx') || f.slice(0, -4).includes('.')) continue;
-			const src = readFileSync(resolve(dir, f), 'utf-8');
+		for (const f of loc.files) {
+			const src = readFileSync(resolve(loc.dir, f), 'utf-8');
 			for (const hm of src.matchAll(/^#{3,4}\s+(?:artikel|article)\s+(\d+\s*[a-z]?)\b[^\n]*/gim)) {
 				const num = hm[1].replace(/\s+/g, '').toLowerCase();
 				if (!map.has(num))
 					map.set(num, {
-						slug: f.slice(0, -4),
+						slug: f.replace(/\.en\.svx$|\.svx$/, ''),
 						frag: slugifyText(hm[0].replace(/^#+\s+/, ''))
 					});
 			}
 		}
 	}
-	ART_INDEX.set(slug, map);
+	ART_INDEX.set(key, map);
 	return map;
 }
 
 const PROV_INDEX = new Map();
-function provIndex(slug) {
-	if (PROV_INDEX.has(slug)) return PROV_INDEX.get(slug);
-	const dir = resolve(ROOT, OUT_DIR, slug);
+function provIndex(slug, locale = 'sv') {
+	const key = `${locale}:${slug}`;
+	if (PROV_INDEX.has(key)) return PROV_INDEX.get(key);
+	const loc = localeFiles(slug, locale);
 	const map = new Map();
-	if (existsSync(dir)) {
-		for (const f of readdirSync(dir)) {
-			if (!f.endsWith('.svx') || f.slice(0, -4).includes('.')) continue;
-			const kap = f.match(/^kap-(\d+)\.svx$/)?.[1] ?? null;
-			const src = readFileSync(resolve(dir, f), 'utf-8');
+	if (loc) {
+		for (const f of loc.files) {
+			const kap = f.match(/^kap-(\d+)(?:\.en)?\.svx$/)?.[1] ?? null;
+			const src = readFileSync(resolve(loc.dir, f), 'utf-8');
 			for (const hm of src.matchAll(/^#{3,4}\s+(\d+\s*[a-z]?)\s*§/gim)) {
 				const num = hm[1].replace(/\s+/g, '').toLowerCase();
 				const frag = slugifyText(hm[0].replace(/^#+\s+/, ''));
-				for (const key of kap ? [`${kap}:${num}`, `:${num}`] : [`:${num}`])
-					if (!map.has(key)) map.set(key, { slug: f.slice(0, -4), frag });
+				for (const k of kap ? [`${kap}:${num}`, `:${num}`] : [`:${num}`])
+					if (!map.has(k)) map.set(k, { slug: f.replace(/\.en\.svx$|\.svx$/, ''), frag });
 			}
 		}
 	}
-	PROV_INDEX.set(slug, map);
+	PROV_INDEX.set(key, map);
 	return map;
 }
 
@@ -1384,8 +1511,9 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 			if (!first.has(num)) first.set(num, { slug: c.slug, frag });
 		}
 	}
+	const pre = locale === 'en' ? '/en' : '';
 	const link = (text, slug, frag) =>
-		`[${text}](${slug === selfSlug ? `#${frag}` : `/lagstiftning/${law.slug}/${slug}#${frag}`})`;
+		`[${text}](${slug === selfSlug ? `#${frag}` : `${pre}/lagstiftning/${law.slug}/${slug}#${frag}`})`;
 	const sfs = (y, n) => `https://rkrattsbaser.gov.se/sfst?bet=${y}%3A${n}`;
 	const norm = (num) => num.replace(/\s+/g, '').toLowerCase();
 	const find = (key) => {
@@ -1552,7 +1680,7 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 			out += enumText.slice(last, nm.index);
 			const slug = `kap-${parseInt(nm[0], 10)}`;
 			const text = nm[0] + (i === nums.length - 1 ? suffix : '');
-			out += byChapter.has(slug) ? `[${text}](/lagstiftning/${law.slug}/${slug})` : text;
+			out += byChapter.has(slug) ? `[${text}](${pre}/lagstiftning/${law.slug}/${slug})` : text;
 			last = nm.index + nm[0].length;
 		});
 		return out;
@@ -1591,20 +1719,31 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 			String.raw`)`,
 		'iu'
 	);
+	// en content links to /en/lagstiftning/… only when the target law has an
+	// en page; otherwise fall back to the sv page
+	const localePre = (slug) => {
+		if (locale !== 'en') return '';
+		const dir = resolve(ROOT, OUT_DIR, slug);
+		const hasEn =
+			(existsSync(dir) && readdirSync(dir).some((f) => f.endsWith('.en.svx'))) ||
+			existsSync(resolve(ROOT, OUT_DIR, `${slug}.en.svx`));
+		return hasEn ? '/en' : '';
+	};
 	const namedStatuteUrl = (qname, kapNum, parNum) => {
 		const na = namedAct(qname);
 		const slug = na?.slug ?? null;
 		if (slug && existsSync(resolve(ROOT, OUT_DIR, `${slug}.svx`))) {
+			const lp = localePre(slug);
 			const num = parNum?.replace(/\s+/g, '').toLowerCase();
 			if (num) {
 				const hit =
-					(kapNum && provIndex(slug)?.get(`${parseInt(kapNum, 10)}:${num}`)) ??
-					provIndex(slug)?.get(`:${num}`);
-				if (hit) return `/lagstiftning/${slug}/${hit.slug}#${hit.frag}`;
+					(kapNum && provIndex(slug, locale)?.get(`${parseInt(kapNum, 10)}:${num}`)) ??
+					provIndex(slug, locale)?.get(`:${num}`);
+				if (hit) return `${lp}/lagstiftning/${slug}/${hit.slug}#${hit.frag}`;
 			}
 			if (kapNum && existsSync(resolve(ROOT, OUT_DIR, slug, `kap-${parseInt(kapNum, 10)}.svx`)))
-				return `/lagstiftning/${slug}/kap-${parseInt(kapNum, 10)}`;
-			return `/lagstiftning/${slug}`;
+				return `${lp}/lagstiftning/${slug}/kap-${parseInt(kapNum, 10)}`;
+			return `${lp}/lagstiftning/${slug}`;
 		}
 		const celex = na?.celex ?? (slug ? SLUG_CELEX.get(slug) : null);
 		if (celex)
@@ -1620,15 +1759,15 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 	const selfLink = (t) =>
 		`[${t}](${
 			/kapitel|avsnitt|chapter|section/i.test(t)
-				? `/lagstiftning/${law.slug}/${selfSlug}`
+				? `${pre}/lagstiftning/${law.slug}/${selfSlug}`
 				: /artikel|article/i.test(t)
 					? `#${selfFrag}`
-					: `/lagstiftning/${law.slug}`
+					: `${pre}/lagstiftning/${law.slug}`
 		})`;
 
 	const eurlex = (celex) =>
 		EU_SLUGS.has(celex) && existsSync(resolve(ROOT, OUT_DIR, `${EU_SLUGS.get(celex)}.svx`))
-			? `/lagstiftning/${EU_SLUGS.get(celex)}`
+			? `${localePre(EU_SLUGS.get(celex))}/lagstiftning/${EU_SLUGS.get(celex)}`
 			: `https://eur-lex.europa.eu/legal-content/${locale === 'en' ? 'EN' : 'SV'}/TXT/?uri=CELEX:${celex}`;
 	let lastEu = null;
 	let lastExt = null;
@@ -1819,9 +1958,10 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 				const artUrl = (c, s, nn) => {
 					const slug = s ?? EU_SLUGS.get(c);
 					const local = slug && existsSync(resolve(ROOT, OUT_DIR, `${slug}.svx`));
-					const hit = local && nn ? artIndex(slug)?.get(nn) : null;
-					if (hit) return `/lagstiftning/${slug}/${hit.slug}#${hit.frag}`;
-					if (local) return `/lagstiftning/${slug}`;
+					const hit = local && nn ? artIndex(slug, locale)?.get(nn) : null;
+					const lp = slug ? localePre(slug) : '';
+					if (hit) return `${lp}/lagstiftning/${slug}/${hit.slug}#${hit.frag}`;
+					if (local) return `${lp}/lagstiftning/${slug}`;
 					const cc = c ?? (slug ? SLUG_CELEX.get(slug) : null);
 					return cc ? eurlex(cc) : null;
 				};
@@ -1837,7 +1977,7 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 					if (t)
 						return t.slug === selfSlug
 							? `#${t.frag}`
-							: `/lagstiftning/${law.slug}/${t.slug}#${t.frag}`;
+							: `${pre}/lagstiftning/${law.slug}/${t.slug}#${t.frag}`;
 					return lastEu ? artUrl(lastEu, null, base) : null;
 				};
 				let out = '';
@@ -1882,7 +2022,7 @@ function linkifyRefs(body, law, chapters, selfSlug, selfFrag, locale) {
 			}
 			if (romch) {
 				const slug = `kap-${roman(romch)}`;
-				if (byChapter.has(slug)) return `[${m}](/lagstiftning/${law.slug}/${slug})`;
+				if (byChapter.has(slug)) return `[${m}](${pre}/lagstiftning/${law.slug}/${slug})`;
 				return lastExt ? `[${m}](${lastExt})` : m;
 			}
 			return m;
@@ -1957,7 +2097,8 @@ function markStatusLines(body) {
 
 function chapterBlock(law, c, chapters, locale) {
 	const parts = [];
-	let lastSection = null;
+	if (c.avdelning) parts.push(`#### ${escMd(c.avdelning)}`);
+	let lastSection = c.avdelning ?? null;
 	for (const p of c.provisions) {
 		if (p.section && p.section !== lastSection) {
 			parts.push(`#### ${escMd(p.section)}`);
@@ -1970,7 +2111,7 @@ function chapterBlock(law, c, chapters, locale) {
 		const body = formatEndmatter(
 			formatLists(p.body)
 				.split(
-					/(<div class="scan-table">[\s\S]*?<\/label><\/div>|<details[\s\S]*?<\/details>|<table[\s\S]*?<\/table>|<math[\s\S]*?<\/math>|<img\b[^>]*>)/g
+					/(<div class="scan-table">[\s\S]*?<\/label><\/td><\/tr><\/tfoot><\/table><\/div><\/div>|<details[\s\S]*?<\/details>|<table[\s\S]*?<\/table>|<math[\s\S]*?<\/math>|<img\b[^>]*>)/g
 				)
 				.map((seg, i) => (i % 2 ? seg : linkify(seg)))
 				.join(''),
@@ -2039,7 +2180,7 @@ async function main() {
 					first && last && first !== last
 						? ` · ${unit} ${stripUnit(first)}–${stripUnit(last)}`
 						: '';
-				return `- [${title}](/lagstiftning/${law.slug}/${c.slug})${range}`;
+				return `- [${title}](${locale === 'en' ? '/en' : ''}/lagstiftning/${law.slug}/${c.slug})${range}`;
 			});
 			const parentIntro = `## ${locale === 'en' ? 'Contents' : 'Innehåll'}\n\n${items.join('\n')}`;
 			const parentBlock = `${MARK_START}\n${parentIntro}\n${MARK_END}`;

@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2003-11-18'
@@ -19,16 +19,16 @@
   - 'arbetstidslagen'
 'sites':
   - 'arbetsmiljo'
-'url': 'http://publications.europa.eu/resource/cellar/050dd964-4f94-4c61-ab50-89217a0d90e2.0004.01'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32003L0088'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [CHAPTER 1](/lagstiftning/arbetstidsdirektivet/kap-1) · Articles 1–2
-- [CHAPTER 2](/lagstiftning/arbetstidsdirektivet/kap-2) · Articles 3–7
-- [CHAPTER 3](/lagstiftning/arbetstidsdirektivet/kap-3) · Articles 8–13
-- [CHAPTER 4](/lagstiftning/arbetstidsdirektivet/kap-4) · Articles 14–16
-- [CHAPTER 5](/lagstiftning/arbetstidsdirektivet/kap-5) · Articles 17–22
-- [CHAPTER 6](/lagstiftning/arbetstidsdirektivet/kap-6) · Articles 23–29
+- [CHAPTER 1](/en/lagstiftning/arbetstidsdirektivet/kap-1) · Articles 1–2
+- [CHAPTER 2](/en/lagstiftning/arbetstidsdirektivet/kap-2) · Articles 3–7
+- [CHAPTER 3](/en/lagstiftning/arbetstidsdirektivet/kap-3) · Articles 8–13
+- [CHAPTER 4](/en/lagstiftning/arbetstidsdirektivet/kap-4) · Articles 14–16
+- [CHAPTER 5](/en/lagstiftning/arbetstidsdirektivet/kap-5) · Articles 17–22
+- [CHAPTER 6](/en/lagstiftning/arbetstidsdirektivet/kap-6) · Articles 23–29
 <!-- scan-laws:end -->

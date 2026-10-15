@@ -11,10 +11,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03#cpt_5'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0030#cpt_5'
 'sites':
   - 'el'
 ---
@@ -24,13 +24,13 @@
 
 ### Article 37 – Union market surveillance and control of apparatus entering the Union market
 
-Article [15](/lagstiftning/emc/kap-3#article-15-eu-declaration-of-conformity)(3) and Articles [16](/lagstiftning/emc/kap-3#article-16-general-principles-of-the-ce-marking) to 29 of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) shall apply to apparatus.
+Article [15](/en/lagstiftning/emc/kap-3#article-15-eu-declaration-of-conformity)(3) and Articles [16](/en/lagstiftning/emc/kap-3#article-16-general-principles-of-the-ce-marking) to 29 of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) shall apply to apparatus.
 
 ### Article 38 – Procedure for dealing with apparatus presenting a risk at national level
 
-1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that an apparatus covered by [this Directive](/lagstiftning/emc) presents a risk to aspects of public interest protection covered by [this Directive](/lagstiftning/emc), they shall carry out an evaluation in relation to the apparatus concerned covering all relevant requirements laid down in [this Directive](/lagstiftning/emc). The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
+1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that an apparatus covered by [this Directive](/en/lagstiftning/emc) presents a risk to aspects of public interest protection covered by [this Directive](/en/lagstiftning/emc), they shall carry out an evaluation in relation to the apparatus concerned covering all relevant requirements laid down in [this Directive](/en/lagstiftning/emc). The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
 
-Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the apparatus does not comply with the requirements laid down in [this Directive](/lagstiftning/emc), they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the apparatus into compliance with those requirements, to withdraw the apparatus from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the apparatus does not comply with the requirements laid down in [this Directive](/en/lagstiftning/emc), they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the apparatus into compliance with those requirements, to withdraw the apparatus from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
 
 The market surveillance authorities shall inform the relevant notified body accordingly.
 
@@ -46,9 +46,9 @@ The market surveillance authorities shall inform the Commission and the other Me
 
 5\. The information referred to in the second subparagraph of paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant apparatus, the origin of the apparatus, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:
 
-(a) failure of the apparatus to meet the requirements relating to aspects of public interest protection covered by [this Directive](/lagstiftning/emc); or
+(a) failure of the apparatus to meet the requirements relating to aspects of public interest protection covered by [this Directive](/en/lagstiftning/emc); or
 
-(b) shortcomings in the harmonised standards referred to in Article [13](/lagstiftning/emc/kap-3#article-13-presumption-of-conformity-of-equipment) conferring a presumption of conformity.
+(b) shortcomings in the harmonised standards referred to in Article [13](/en/lagstiftning/emc/kap-3#article-13-presumption-of-conformity-of-equipment) conferring a presumption of conformity.
 
 6\. Member States other than the Member State initiating the procedure under [this Article](#article-38-procedure-for-dealing-with-apparatus-presenting-a-risk-at-national-level) shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the apparatus concerned, and, in the event of disagreement with the adopted national measure, of their objections.
 
@@ -64,13 +64,13 @@ The Commission shall address its decision to all Member States and shall immedia
 
 2\. If the national measure is considered justified, all Member States shall take the necessary measures to ensure that the non-compliant apparatus is withdrawn from their market, and shall inform the Commission accordingly. If the national measure is considered unjustified, the Member State concerned shall withdraw that measure.
 
-3\. Where the national measure is considered justified and the non-compliance of the apparatus is attributed to shortcomings in the harmonised standards referred to in point (b) of Article [38](#article-38-procedure-for-dealing-with-apparatus-presenting-a-risk-at-national-level)(5) of [this Directive](/lagstiftning/emc), the Commission shall apply the procedure provided for in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
+3\. Where the national measure is considered justified and the non-compliance of the apparatus is attributed to shortcomings in the harmonised standards referred to in point (b) of Article [38](#article-38-procedure-for-dealing-with-apparatus-presenting-a-risk-at-national-level)(5) of [this Directive](/en/lagstiftning/emc), the Commission shall apply the procedure provided for in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
 
 ### Article 40 – Formal non-compliance
 
 1\. Without prejudice to Article [38](#article-38-procedure-for-dealing-with-apparatus-presenting-a-risk-at-national-level), where a Member State makes one of the following findings, it shall require the relevant economic operator to put an end to the non-compliance concerned:
 
-(a) the CE marking has been affixed in violation of Article [30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) or of Article [17](/lagstiftning/emc/kap-3#article-17-rules-and-conditions-for-affixing-the-ce-marking) of [this Directive](/lagstiftning/emc);
+(a) the CE marking has been affixed in violation of Article [30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) or of Article [17](/en/lagstiftning/emc/kap-3#article-17-rules-and-conditions-for-affixing-the-ce-marking) of [this Directive](/en/lagstiftning/emc);
 
 (b) the CE marking has not been affixed;
 
@@ -80,9 +80,9 @@ The Commission shall address its decision to all Member States and shall immedia
 
 (e) technical documentation is either not available or not complete;
 
-(f) the information referred to in Article [7](/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers)(6) or Article [9](/lagstiftning/emc/kap-2#article-9-obligations-of-importers)(3) is absent, false or incomplete;
+(f) the information referred to in Article [7](/en/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers)(6) or Article [9](/en/lagstiftning/emc/kap-2#article-9-obligations-of-importers)(3) is absent, false or incomplete;
 
-(g) any other administrative requirement provided for in Article [7](/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers) or Article [9](/lagstiftning/emc/kap-2#article-9-obligations-of-importers) is not fulfilled.
+(g) any other administrative requirement provided for in Article [7](/en/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers) or Article [9](/en/lagstiftning/emc/kap-2#article-9-obligations-of-importers) is not fulfilled.
 
 2\. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the apparatus being made available on the market or ensure that it is recalled or withdrawn from the market.
 <!-- scan-laws:end -->

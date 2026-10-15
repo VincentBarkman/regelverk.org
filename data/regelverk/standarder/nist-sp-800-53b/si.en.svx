@@ -23,108 +23,108 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### SI-1 – Policy and Procedures
+### <span id="si-1"></span>SI-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business process-level or system-level] system and information integrity policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the system and information integrity policy and the associated system and information integrity controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the system and information integrity policy and procedures; and
-- c. Review and update the current system and information integrity:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="si-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="si-1_smt.a.1"></span> 1.  [organization-level or mission/business process-level or system-level] system and information integrity policy that:
+    - <span id="si-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="si-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="si-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the system and information integrity policy and the associated system and information integrity controls;
+- <span id="si-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the system and information integrity policy and procedures; and
+- <span id="si-1_smt.c"></span> c. Review and update the current system and information integrity:
+  - <span id="si-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="si-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### SI-2 – Flaw Remediation
+### <span id="si-2"></span>SI-2 – Flaw Remediation
 
-- a. Identify, report, and correct system flaws;
-- b. Test software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
-- c. Install security-relevant software and firmware updates within [organization-defined time period] of the release of the updates; and
-- d. Incorporate flaw remediation into the organizational configuration management process.
+- <span id="si-2_smt.a"></span> a. Identify, report, and correct system flaws;
+- <span id="si-2_smt.b"></span> b. Test software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+- <span id="si-2_smt.c"></span> c. Install security-relevant software and firmware updates within [organization-defined time period] of the release of the updates; and
+- <span id="si-2_smt.d"></span> d. Incorporate flaw remediation into the organizational configuration management process.
 
-#### SI-2(2) – Automated Flaw Remediation Status
+#### <span id="si-2.2"></span>SI-2(2) – Automated Flaw Remediation Status
 
 Determine if system components have applicable security-relevant software and firmware updates installed using [organization-defined automated mechanisms] [organization-defined frequency].
 
-### SI-3 – Malicious Code Protection
+### <span id="si-3"></span>SI-3 – Malicious Code Protection
 
-- a. Implement [signature-based or non-signature-based] malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code;
-- b. Automatically update malicious code protection mechanisms as new releases are available in accordance with organizational configuration management policy and procedures;
-- c. Configure malicious code protection mechanisms to:
-  - 1. Perform periodic scans of the system [organization-defined frequency] and real-time scans of files from external sources at [endpoint or network entry and exit points] as the files are downloaded, opened, or executed in accordance with organizational policy; and
-  - 2.  [block malicious code or quarantine malicious code or take [organization-defined action] ] ; and send alert to [organization-defined personnel or roles] in response to malicious code detection; and
-- d. Address the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the system.
+- <span id="si-3_smt.a"></span> a. Implement [signature-based or non-signature-based] malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code;
+- <span id="si-3_smt.b"></span> b. Automatically update malicious code protection mechanisms as new releases are available in accordance with organizational configuration management policy and procedures;
+- <span id="si-3_smt.c"></span> c. Configure malicious code protection mechanisms to:
+  - <span id="si-3_smt.c.1"></span> 1. Perform periodic scans of the system [organization-defined frequency] and real-time scans of files from external sources at [endpoint or network entry and exit points] as the files are downloaded, opened, or executed in accordance with organizational policy; and
+  - <span id="si-3_smt.c.2"></span> 2.  [block malicious code or quarantine malicious code or take [organization-defined action] ] ; and send alert to [organization-defined personnel or roles] in response to malicious code detection; and
+- <span id="si-3_smt.d"></span> d. Address the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the system.
 
-### SI-4 – System Monitoring
+### <span id="si-4"></span>SI-4 – System Monitoring
 
-- a. Monitor the system to detect:
-  - 1. Attacks and indicators of potential attacks in accordance with the following monitoring objectives: [organization-defined monitoring objectives] ; and
-  - 2. Unauthorized local, network, and remote connections;
-- b. Identify unauthorized use of the system through the following techniques and methods: [organization-defined techniques and methods];
-- c. Invoke internal monitoring capabilities or deploy monitoring devices:
-  - 1. Strategically within the system to collect organization-determined essential information; and
-  - 2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;
-- d. Analyze detected events and anomalies;
-- e. Adjust the level of system monitoring activity when there is a change in risk to organizational operations and assets, individuals, other organizations, or the Nation;
-- f. Obtain legal opinion regarding system monitoring activities; and
-- g. Provide [organization-defined system monitoring information] to [organization-defined personnel or roles] [as needed or  [organization-defined frequency] ].
+- <span id="si-4_smt.a"></span> a. Monitor the system to detect:
+  - <span id="si-4_smt.a.1"></span> 1. Attacks and indicators of potential attacks in accordance with the following monitoring objectives: [organization-defined monitoring objectives] ; and
+  - <span id="si-4_smt.a.2"></span> 2. Unauthorized local, network, and remote connections;
+- <span id="si-4_smt.b"></span> b. Identify unauthorized use of the system through the following techniques and methods: [organization-defined techniques and methods];
+- <span id="si-4_smt.c"></span> c. Invoke internal monitoring capabilities or deploy monitoring devices:
+  - <span id="si-4_smt.c.1"></span> 1. Strategically within the system to collect organization-determined essential information; and
+  - <span id="si-4_smt.c.2"></span> 2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;
+- <span id="si-4_smt.d"></span> d. Analyze detected events and anomalies;
+- <span id="si-4_smt.e"></span> e. Adjust the level of system monitoring activity when there is a change in risk to organizational operations and assets, individuals, other organizations, or the Nation;
+- <span id="si-4_smt.f"></span> f. Obtain legal opinion regarding system monitoring activities; and
+- <span id="si-4_smt.g"></span> g. Provide [organization-defined system monitoring information] to [organization-defined personnel or roles] [as needed or  [organization-defined frequency] ].
 
-#### SI-4(2) – Automated Tools and Mechanisms for Real-time Analysis
+#### <span id="si-4.2"></span>SI-4(2) – Automated Tools and Mechanisms for Real-time Analysis
 
 Employ automated tools and mechanisms to support near real-time analysis of events.
 
-#### SI-4(4) – Inbound and Outbound Communications Traffic
+#### <span id="si-4.4"></span>SI-4(4) – Inbound and Outbound Communications Traffic
 
-- (a) Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
-- (b) Monitor inbound and outbound communications traffic [organization-defined frequency] for [organization-defined unusual or unauthorized activities or conditions].
+- <span id="si-4.4_smt.a"></span> (a) Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;
+- <span id="si-4.4_smt.b"></span> (b) Monitor inbound and outbound communications traffic [organization-defined frequency] for [organization-defined unusual or unauthorized activities or conditions].
 
-#### SI-4(5) – System-generated Alerts
+#### <span id="si-4.5"></span>SI-4(5) – System-generated Alerts
 
 Alert [organization-defined personnel or roles] when the following system-generated indications of compromise or potential compromise occur: [organization-defined compromise indicators].
 
-### SI-5 – Security Alerts, Advisories, and Directives
+### <span id="si-5"></span>SI-5 – Security Alerts, Advisories, and Directives
 
-- a. Receive system security alerts, advisories, and directives from [organization-defined external organizations] on an ongoing basis;
-- b. Generate internal security alerts, advisories, and directives as deemed necessary;
-- c. Disseminate security alerts, advisories, and directives to: [ [organization-defined personnel or roles]  or  [organization-defined elements]  or  [organization-defined external organizations] ] ; and
-- d. Implement security directives in accordance with established time frames, or notify the issuing organization of the degree of noncompliance.
+- <span id="si-5_smt.a"></span> a. Receive system security alerts, advisories, and directives from [organization-defined external organizations] on an ongoing basis;
+- <span id="si-5_smt.b"></span> b. Generate internal security alerts, advisories, and directives as deemed necessary;
+- <span id="si-5_smt.c"></span> c. Disseminate security alerts, advisories, and directives to: [ [organization-defined personnel or roles]  or  [organization-defined elements]  or  [organization-defined external organizations] ] ; and
+- <span id="si-5_smt.d"></span> d. Implement security directives in accordance with established time frames, or notify the issuing organization of the degree of noncompliance.
 
-### SI-7 – Software, Firmware, and Information Integrity
+### <span id="si-7"></span>SI-7 – Software, Firmware, and Information Integrity
 
-- a. Employ integrity verification tools to detect unauthorized changes to the following software, firmware, and information: [organization-defined software, firmware, and information] ; and
-- b. Take the following actions when unauthorized changes to the software, firmware, and information are detected: [organization-defined actions].
+- <span id="si-7_smt.a"></span> a. Employ integrity verification tools to detect unauthorized changes to the following software, firmware, and information: [organization-defined software, firmware, and information] ; and
+- <span id="si-7_smt.b"></span> b. Take the following actions when unauthorized changes to the software, firmware, and information are detected: [organization-defined actions].
 
-#### SI-7(1) – Integrity Checks
+#### <span id="si-7.1"></span>SI-7(1) – Integrity Checks
 
 Perform an integrity check of [organization-defined software, firmware, and information] [at startup or at [organization-defined transitional states or security-relevant events]  or  [organization-defined frequency] ].
 
-#### SI-7(7) – Integration of Detection and Response
+#### <span id="si-7.7"></span>SI-7(7) – Integration of Detection and Response
 
 Incorporate the detection of the following unauthorized changes into the organizational incident response capability: [organization-defined changes].
 
-### SI-8 – Spam Protection
+### <span id="si-8"></span>SI-8 – Spam Protection
 
-- a. Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and
-- b. Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+- <span id="si-8_smt.a"></span> a. Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and
+- <span id="si-8_smt.b"></span> b. Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
-#### SI-8(2) – Automatic Updates
+#### <span id="si-8.2"></span>SI-8(2) – Automatic Updates
 
 Automatically update spam protection mechanisms [organization-defined frequency].
 
-### SI-10 – Information Input Validation
+### <span id="si-10"></span>SI-10 – Information Input Validation
 
 Check the validity of the following information inputs: [organization-defined information inputs].
 
-### SI-11 – Error Handling
+### <span id="si-11"></span>SI-11 – Error Handling
 
-- a. Generate error messages that provide information necessary for corrective actions without revealing information that could be exploited; and
-- b. Reveal error messages only to [organization-defined personnel or roles].
+- <span id="si-11_smt.a"></span> a. Generate error messages that provide information necessary for corrective actions without revealing information that could be exploited; and
+- <span id="si-11_smt.b"></span> b. Reveal error messages only to [organization-defined personnel or roles].
 
-### SI-12 – Information Management and Retention
+### <span id="si-12"></span>SI-12 – Information Management and Retention
 
 Manage and retain information within the system and information output from the system in accordance with applicable laws, executive orders, directives, regulations, policies, standards, guidelines and operational requirements.
 
-### SI-16 – Memory Protection
+### <span id="si-16"></span>SI-16 – Memory Protection
 
 Implement the following controls to protect the system memory from unauthorized code execution: [organization-defined controls].
 

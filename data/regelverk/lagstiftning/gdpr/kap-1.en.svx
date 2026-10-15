@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#cpt_I'
 'sites':
   - 'it'
   - 'ot'
@@ -24,17 +24,17 @@
 
 ### Article 1 – Subject-matter and objectives
 
-1\. [This Regulation](/lagstiftning/gdpr) lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.
+1\. [This Regulation](/en/lagstiftning/gdpr) lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.
 
-2\. [This Regulation](/lagstiftning/gdpr) protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.
+2\. [This Regulation](/en/lagstiftning/gdpr) protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.
 
 3\. The free movement of personal data within the Union shall be neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data.
 
 ### Article 2 – Material scope
 
-1\. [This Regulation](/lagstiftning/gdpr) applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.
+1\. [This Regulation](/en/lagstiftning/gdpr) applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.
 
-2\. [This Regulation](/lagstiftning/gdpr) does not apply to the processing of personal data:
+2\. [This Regulation](/en/lagstiftning/gdpr) does not apply to the processing of personal data:
 
 (a) in the course of an activity which falls outside the scope of Union law;
 
@@ -44,25 +44,25 @@
 
 (d) by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
 
-3\. For the processing of personal data by the Union institutions, bodies, offices and agencies, [Regulation (EC) No 45/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0045) applies. [Regulation (EC) No 45/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0045) and other Union legal acts applicable to such processing of personal data shall be adapted to the principles and rules of [this Regulation](/lagstiftning/gdpr) in accordance with Article [98](/lagstiftning/gdpr/kap-11#article-98-review-of-other-union-legal-acts-on-data-protection).
+3\. For the processing of personal data by the Union institutions, bodies, offices and agencies, [Regulation (EC) No 45/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0045) applies. [Regulation (EC) No 45/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0045) and other Union legal acts applicable to such processing of personal data shall be adapted to the principles and rules of [this Regulation](/en/lagstiftning/gdpr) in accordance with Article [98](/en/lagstiftning/gdpr/kap-11#article-98-review-of-other-union-legal-acts-on-data-protection).
 
-4\. [This Regulation](/lagstiftning/gdpr) shall be without prejudice to the application of [Directive 2000/31/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0031), in particular of the liability rules of intermediary service providers in Articles [12](/lagstiftning/gdpr/kap-3#article-12-transparent-information-communication-and-modalities-for-the-exercise-of-the-rights-of-the-data-subject) to 15 of that Directive.
+4\. [This Regulation](/en/lagstiftning/gdpr) shall be without prejudice to the application of [Directive 2000/31/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0031), in particular of the liability rules of intermediary service providers in Articles [12](/en/lagstiftning/gdpr/kap-3#article-12-transparent-information-communication-and-modalities-for-the-exercise-of-the-rights-of-the-data-subject) to 15 of that Directive.
 
 ### Article 3 – Territorial scope
 
-1\. [This Regulation](/lagstiftning/gdpr) applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union, regardless of whether the processing takes place in the Union or not.
+1\. [This Regulation](/en/lagstiftning/gdpr) applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union, regardless of whether the processing takes place in the Union or not.
 
-2\. [This Regulation](/lagstiftning/gdpr) applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:
+2\. [This Regulation](/en/lagstiftning/gdpr) applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:
 
 (a) the offering of goods or services, irrespective of whether a payment of the data subject is required, to such data subjects in the Union; or
 
 (b) the monitoring of their behaviour as far as their behaviour takes place within the Union.
 
-3\. [This Regulation](/lagstiftning/gdpr) applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law.
+3\. [This Regulation](/en/lagstiftning/gdpr) applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law.
 
 ### Article 4 – Definitions
 
-For the purposes of [this Regulation](/lagstiftning/gdpr):
+For the purposes of [this Regulation](/en/lagstiftning/gdpr):
 
 #### Footnotes
 
@@ -100,9 +100,9 @@ For the purposes of [this Regulation](/lagstiftning/gdpr):
 
 (a) as regards a controller with establishments in more than one Member State, the place of its central administration in the Union, unless the decisions on the purposes and means of the processing of personal data are taken in another establishment of the controller in the Union and the latter establishment has the power to have such decisions implemented, in which case the establishment having taken such decisions is to be considered to be the main establishment;
 
-(b) as regards a processor with establishments in more than one Member State, the place of its central administration in the Union, or, if the processor has no central administration in the Union, the establishment of the processor in the Union where the main processing activities in the context of the activities of an establishment of the processor take place to the extent that the processor is subject to specific obligations under [this Regulation](/lagstiftning/gdpr);
+(b) as regards a processor with establishments in more than one Member State, the place of its central administration in the Union, or, if the processor has no central administration in the Union, the establishment of the processor in the Union where the main processing activities in the context of the activities of an establishment of the processor take place to the extent that the processor is subject to specific obligations under [this Regulation](/en/lagstiftning/gdpr);
 
-(17) ‘representative’ means a natural or legal person established in the Union who, designated by the controller or processor in writing pursuant to Article [27](/lagstiftning/gdpr/kap-4#article-27-representatives-of-controllers-or-processors-not-established-in-the-union), represents the controller or processor with regard to their respective obligations under [this Regulation](/lagstiftning/gdpr);
+(17) ‘representative’ means a natural or legal person established in the Union who, designated by the controller or processor in writing pursuant to Article [27](/en/lagstiftning/gdpr/kap-4#article-27-representatives-of-controllers-or-processors-not-established-in-the-union), represents the controller or processor with regard to their respective obligations under [this Regulation](/en/lagstiftning/gdpr);
 
 (18) ‘enterprise’ means a natural or legal person engaged in an economic activity, irrespective of its legal form, including partnerships or associations regularly engaged in an economic activity;
 
@@ -110,7 +110,7 @@ For the purposes of [this Regulation](/lagstiftning/gdpr):
 
 (20) ‘binding corporate rules’ means personal data protection policies which are adhered to by a controller or processor established on the territory of a Member State for transfers or a set of transfers of personal data to a controller or processor in one or more third countries within a group of undertakings, or group of enterprises engaged in a joint economic activity;
 
-(21) ‘supervisory authority’ means an independent public authority which is established by a Member State pursuant to Article [51](/lagstiftning/gdpr/kap-6#article-51-supervisory-authority);
+(21) ‘supervisory authority’ means an independent public authority which is established by a Member State pursuant to Article [51](/en/lagstiftning/gdpr/kap-6#article-51-supervisory-authority);
 
 (22) ‘supervisory authority concerned’ means a supervisory authority which is concerned by the processing of personal data because:
 
@@ -126,7 +126,7 @@ For the purposes of [this Regulation](/lagstiftning/gdpr):
 
 (b) processing of personal data which takes place in the context of the activities of a single establishment of a controller or processor in the Union but which substantially affects or is likely to substantially affect data subjects in more than one Member State.
 
-(24) ‘relevant and reasoned objection’ means an objection to a draft decision as to whether there is an infringement of [this Regulation](/lagstiftning/gdpr), or whether envisaged action in relation to the controller or processor complies with [this Regulation](/lagstiftning/gdpr), which clearly demonstrates the significance of the risks posed by the draft decision as regards the fundamental rights and freedoms of data subjects and, where applicable, the free flow of personal data within the Union;
+(24) ‘relevant and reasoned objection’ means an objection to a draft decision as to whether there is an infringement of [this Regulation](/en/lagstiftning/gdpr), or whether envisaged action in relation to the controller or processor complies with [this Regulation](/en/lagstiftning/gdpr), which clearly demonstrates the significance of the risks posed by the draft decision as regards the fundamental rights and freedoms of data subjects and, where applicable, the free flow of personal data within the Union;
 
 (25) ‘information society service’ means a service as defined in point (b) of Article [1](#article-1-subject-matter-and-objectives)(1) of [Directive (EU) 2015/1535](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L1535) of the European Parliament and of the Council (19);
 

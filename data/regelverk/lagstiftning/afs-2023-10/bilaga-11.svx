@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,11 +21,9 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Gränsvärden för exponering för statiska magnetiska fält
-
 ### Inledning
 
-Denna bilaga innehåller gränsvärden för sensoriska effekter och hälsoeffekter och hör till 13 kap. 8–10 och 13 §§.
+Denna bilaga innehåller gränsvärden för sensoriska effekter och hälsoeffekter och hör till [13 kap. 8](/lagstiftning/afs-2023-10/kap-13#8)–[10](/lagstiftning/afs-2023-10/kap-13#10) och [13 §§](/lagstiftning/afs-2023-10/kap-13#13).
 
 I tabell 24 anges gränsvärden för magnetisk flödestäthet B vid exponering för statiska magnetiska fält i frekvensintervallet 0 Hz upp till 1 Hz. Värdena avser magnetisk flödestäthet B i luft.
 

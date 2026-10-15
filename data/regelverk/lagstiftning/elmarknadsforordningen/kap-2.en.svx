@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0943#cpt_II'
 'sites':
   - 'el'
 ---
@@ -95,9 +95,9 @@ Member States may, without prejudice to Articles 107 and 108 TFEU, provide incen
 
 (d) respect the need to accommodate the increasing share of variable generation, increased demand responsiveness and the advent of new technologies.
 
-2\. The price of balancing energy shall not be pre-determined in contracts for balancing capacity. Procurement processes shall be transparent in accordance with Article [40](/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet), while protecting the confidentiality of commercially sensitive information.
+2\. The price of balancing energy shall not be pre-determined in contracts for balancing capacity. Procurement processes shall be transparent in accordance with Article [40](/en/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet), while protecting the confidentiality of commercially sensitive information.
 
-3\. Balancing markets shall ensure operational security whilst allowing for maximum use and efficient allocation of cross-zonal capacity across timeframes in accordance with Article [17](/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes).
+3\. Balancing markets shall ensure operational security whilst allowing for maximum use and efficient allocation of cross-zonal capacity across timeframes in accordance with Article [17](/en/lagstiftning/elmarknadsforordningen/kap-3#article-17-allocation-of-cross-zonal-capacity-across-timeframes).
 
 4\. The settlement of balancing energy for standard balancing products and specific balancing products shall be based on marginal pricing (pay-as-cleared) unless all regulatory authorities approve an alternative pricing method on the basis of a joint proposal by all transmission system operators following an analysis demonstrating that that alternative pricing method is more efficient.
 
@@ -111,7 +111,7 @@ Transmission system operators applying a central dispatching model may establish
 
 7\. The dimensioning of reserve capacity shall be performed by the transmission system operators and shall be facilitated at regional level.
 
-8\. The procurement of balancing capacity shall be performed by the transmission system operator and may be facilitated at a regional level. Reservation of cross-border capacity to that end may be limited. The procurement of balancing capacity shall be market-based and organised in such a way as to be non-discriminatory between market participants in the prequalification process in accordance with Article [40](/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) whether market participants participate individually or through aggregation.
+8\. The procurement of balancing capacity shall be performed by the transmission system operator and may be facilitated at a regional level. Reservation of cross-border capacity to that end may be limited. The procurement of balancing capacity shall be market-based and organised in such a way as to be non-discriminatory between market participants in the prequalification process in accordance with Article [40](/en/lagstiftning/elmarknadsforordningen/kap-5#article-40-consultation-procedure)(4) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) whether market participants participate individually or through aggregation.
 
 Procurement of balancing capacity shall be based on a primary market unless and to the extent that the regulatory authority has provided for a derogation to allow the use of other forms of market-based procurement on the grounds of a lack of competition in the market for balancing services. Derogations from the obligation to base the procurement of balancing capacity on use of primary markets shall be reviewed every three years.
 
@@ -141,7 +141,7 @@ Proposals for derogations shall include a description of measures proposed to mi
 
 ### Article 7 – Day-ahead and intraday markets
 
-1\. Transmission system operators and NEMOs shall jointly organise the management of the integrated day-ahead and intraday markets in accordance with [Regulation (EU) 2015/1222](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1222). Transmission system operators and NEMOs shall cooperate at Union level or, where more appropriate, at a regional level in order to maximise the efficiency and effectiveness of Union electricity day-ahead and intraday trading. The obligation to cooperate shall be without prejudice to the application of Union competition law. In their functions relating to electricity trading, transmission system operators and NEMOs shall be subject to regulatory oversight by the regulatory authorities pursuant to Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#artikel-59-tillsynsmyndigheternas-uppgifter-och-befogenheter) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) and ACER pursuant to Articles [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) and [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) of [Regulation (EU) 2019/942](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942).
+1\. Transmission system operators and NEMOs shall jointly organise the management of the integrated day-ahead and intraday markets in accordance with [Regulation (EU) 2015/1222](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R1222). Transmission system operators and NEMOs shall cooperate at Union level or, where more appropriate, at a regional level in order to maximise the efficiency and effectiveness of Union electricity day-ahead and intraday trading. The obligation to cooperate shall be without prejudice to the application of Union competition law. In their functions relating to electricity trading, transmission system operators and NEMOs shall be subject to regulatory oversight by the regulatory authorities pursuant to Article [59](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) and ACER pursuant to Articles [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) and [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942) of [Regulation (EU) 2019/942](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0942).
 
 2\. Day-ahead and intraday markets shall:
 
@@ -195,7 +195,7 @@ From 1 January 2025, the imbalance settlement period shall not exceed 30 minutes
 
 ### Article 11 – Value of lost load
 
-1\. By 5 July 2020 where required for the purpose of setting a reliability standard in accordance with Article [25](/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard) regulatory authorities or, where a Member State has designated another competent authority for that purpose, such designated competent authorities shall determine a single estimate of the value of lost load for their territory. That estimate shall be made publically available. Regulatory authorities or other designated competent authorities may determine different estimates per bidding zone if they have more than one bidding zone in their territory. Where a bidding zone consists of territories of more than one Member State, the concerned regulatory authorities or other designated competent authorities shall determine a single estimate of the value of lost load for that bidding zone. In determining the single estimate of the value of lost load, regulatory authorities or other designated competent authorities shall apply the methodology referred to in Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(6).
+1\. By 5 July 2020 where required for the purpose of setting a reliability standard in accordance with Article [25](/en/lagstiftning/elmarknadsforordningen/kap-4#article-25-reliability-standard) regulatory authorities or, where a Member State has designated another competent authority for that purpose, such designated competent authorities shall determine a single estimate of the value of lost load for their territory. That estimate shall be made publically available. Regulatory authorities or other designated competent authorities may determine different estimates per bidding zone if they have more than one bidding zone in their territory. Where a bidding zone consists of territories of more than one Member State, the concerned regulatory authorities or other designated competent authorities shall determine a single estimate of the value of lost load for that bidding zone. In determining the single estimate of the value of lost load, regulatory authorities or other designated competent authorities shall apply the methodology referred to in Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment)(6).
 
 2\. Regulatory authorities and designated competent authorities shall update their estimate of the value of lost load at least every five years, or earlier where they observe a significant change.
 
@@ -211,7 +211,7 @@ From 1 January 2025, the imbalance settlement period shall not exceed 30 minutes
 
 3\. A Member State may decide not to apply priority dispatch to power-generating facilities as referred to in point (a) of paragraph 2 with a start of operation at least six months after that decision, or to apply a lower minimum capacity than that set out under point (a) of paragraph 2, provided that:
 
-(a) it has well-functioning intraday and other wholesale and balancing markets and that those markets are fully accessible to all market participants in accordance with [this Regulation](/lagstiftning/elmarknadsforordningen);
+(a) it has well-functioning intraday and other wholesale and balancing markets and that those markets are fully accessible to all market participants in accordance with [this Regulation](/en/lagstiftning/elmarknadsforordningen);
 
 (b) redispatching rules and congestion management are transparent to all market participants;
 
@@ -229,9 +229,9 @@ Without prejudice to Articles [107](https://eur-lex.europa.eu/legal-content/EN/T
 
 5\. For power-generating facilities commissioned as from 1 January 2026, point (a) of paragraph 2 shall apply only to power-generating facilities that use renewable energy sources and have an installed electricity capacity of less than 200 kW.
 
-6\. Without prejudice to contracts concluded before 4 July 2019, power-generating facilities that use renewable energy sources or high-efficiency cogeneration and were commissioned before 4 July 2019 and, when commissioned, were subject to priority dispatch under Article [15](/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)(5) of [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) or Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(2) of [Directive 2009/28/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0028) of the European Parliament and of the Council (20) shall continue to benefit from priority dispatch. Priority dispatch shall no longer apply to such power-generating facilities from the date on which the power-generating facility becomes subject to significant modifications, which shall be deemed to be the case at least where a new connection agreement is required or where the generation capacity of the power-generating facility is increased.
+6\. Without prejudice to contracts concluded before 4 July 2019, power-generating facilities that use renewable energy sources or high-efficiency cogeneration and were commissioned before 4 July 2019 and, when commissioned, were subject to priority dispatch under Article [15](/en/lagstiftning/elmarknadsforordningen/kap-3#article-15-action-plans)(5) of [Directive 2012/27/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0027) or Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(2) of [Directive 2009/28/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0028) of the European Parliament and of the Council (20) shall continue to benefit from priority dispatch. Priority dispatch shall no longer apply to such power-generating facilities from the date on which the power-generating facility becomes subject to significant modifications, which shall be deemed to be the case at least where a new connection agreement is required or where the generation capacity of the power-generating facility is increased.
 
-7\. Priority dispatch shall not endanger the secure operation of the electricity system, shall not be used as a justification for curtailment of cross-zonal capacities beyond what is provided for in Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management) and shall be based on transparent and non-discriminatory criteria.
+7\. Priority dispatch shall not endanger the secure operation of the electricity system, shall not be used as a justification for curtailment of cross-zonal capacities beyond what is provided for in Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management) and shall be based on transparent and non-discriminatory criteria.
 
 ### Article 13 – Redispatching
 
@@ -247,7 +247,7 @@ Without prejudice to Articles [107](https://eur-lex.europa.eu/legal-content/EN/T
 
 (c) the number of available power generating, energy storage or demand response facilities is too low to ensure effective competition in the area where suitable facilities for the provision of the service are located; or
 
-(d) the current grid situation leads to congestion in such a regular and predictable way that market-based redispatching would lead to regular strategic bidding which would increase the level of internal congestion and the Member State concerned either has adopted an action plan to address this congestion or ensures that minimum available capacity for cross-zonal trade is in accordance with Article [16](/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(8).
+(d) the current grid situation leads to congestion in such a regular and predictable way that market-based redispatching would lead to regular strategic bidding which would increase the level of internal congestion and the Member State concerned either has adopted an action plan to address this congestion or ensures that minimum available capacity for cross-zonal trade is in accordance with Article [16](/en/lagstiftning/elmarknadsforordningen/kap-3#article-16-general-principles-of-capacity-allocation-and-congestion-management)(8).
 
 4\. The transmission system operators and distribution system operators shall report at least annually to the competent regulatory authority, on:
 

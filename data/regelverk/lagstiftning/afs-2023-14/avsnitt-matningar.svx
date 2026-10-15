@@ -1,16 +1,16 @@
 ---
 'source': 'afs-2023-14'
-'ref': '2 kap.'
-'title': '2 kap. – Nivågränsvärde'
+'ref': 'Mätningar'
+'title': 'Mätningar'
 'kind': 'chapter'
-'description': 'Gränsvärden för luftvägsexponering (AFS 2023:14), 2 kap..'
-'designation': 'AFS 2023:14 2 kap.'
+'description': 'Gränsvärden för luftvägsexponering (AFS 2023:14), Mätningar.'
+'designation': 'AFS 2023:14 Mätningar'
 'jurisdiction': 'Sverige'
 'issuer': 'Arbetsmiljöverket'
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202314/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### Mätningar
 
 ### 7 § – Utförande av mätningar
 
@@ -78,12 +76,6 @@ Bindande korttidsgränsvärden får inte överskridas.
 Arbetsgivaren ska se till att mätresultaten finns dokumenterade i en rapport med de uppgifter som framgår av bilaga 2.
 
 Enligt [3 § arbetsmiljöförordningen (1977:1166)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1166) ska arbetsgivaren spara mätrapporterna i minst 5 år.
-
-#### Åtgärder vid överskridande av gränsvärden
-
-### 14 §
-
-I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:10) om risker i arbetsmiljön, i kapitlet om övergripande bestämmelser för kemiska riskkällor, finns krav på att arbetsgivaren ska vidta åtgärder om hygieniska gränsvärden överskrids och att åtgärderna ska väljas enligt åtgärdstrappan i samma föreskrifter.
 <!-- scan-laws:end -->
 
 ## Tolkning

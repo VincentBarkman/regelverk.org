@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_III'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0944#cpt_III'
 'sites':
   - 'el'
 ---
@@ -147,9 +147,9 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 (d) entitled to delegate to a third party the management of the installations required for their activities, including installation, operation, data handling and maintenance, without that third party being considered to be an active customer;
 
-(e) subject to cost-reflective, transparent and non-discriminatory network charges that account separately for the electricity fed into the grid and the electricity consumed from the grid, in accordance with Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(9) of [this Directive](/lagstiftning/elmarknadsdirektivet) and Article [18](/lagstiftning/elmarknadsforordningen/kap-3#artikel-18-avgifter-för-tillträde-till-näten-användning-och-förstärkning-av-näten) of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen), ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system;
+(e) subject to cost-reflective, transparent and non-discriminatory network charges that account separately for the electricity fed into the grid and the electricity consumed from the grid, in accordance with Article [59](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(9) of [this Directive](/en/lagstiftning/elmarknadsdirektivet) and Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement) of [Regulation (EU) 2019/943](/en/lagstiftning/elmarknadsforordningen), ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system;
 
-(f) financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/lagstiftning/elmarknadsforordningen/kap-2#artikel-5-balansansvar) of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen).
+(f) financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility) of [Regulation (EU) 2019/943](/en/lagstiftning/elmarknadsforordningen).
 
 3\. Member States may have different provisions applicable to individual and jointly-acting active customers in their national law, provided that all rights and obligations under [this Article](#article-15-active-customers) apply to all active customers. Any difference in the treatment of jointly-acting active customers shall be proportionate and duly justified.
 
@@ -177,7 +177,7 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 (d) subject to fair compensation as assessed by the regulatory authority, relevant distribution system operators cooperate with citizen energy communities to facilitate electricity transfers within citizen energy communities;
 
-(e) citizen energy communities are subject to non-discriminatory, fair, proportionate and transparent procedures and charges, including with respect to registration and licensing, and to transparent, non-discriminatory and cost-reflective network charges in accordance with Article [18](/lagstiftning/elmarknadsforordningen/kap-3#artikel-18-avgifter-för-tillträde-till-näten-användning-och-förstärkning-av-näten) of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen), ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system.
+(e) citizen energy communities are subject to non-discriminatory, fair, proportionate and transparent procedures and charges, including with respect to registration and licensing, and to transparent, non-discriminatory and cost-reflective network charges in accordance with Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement) of [Regulation (EU) 2019/943](/en/lagstiftning/elmarknadsforordningen), ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system.
 
 2\. Member States may provide in the enabling regulatory framework that citizen energy communities:
 
@@ -185,7 +185,7 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 (b) are entitled to own, establish, purchase or lease distribution networks and to autonomously manage them subject to conditions set out in paragraph 4 of [this Article](#article-16-citizen-energy-communities);
 
-(c) are subject to the exemptions provided for in Article [38](/lagstiftning/elmarknadsdirektivet/kap-4#article-38-closed-distribution-systems)(2).
+(c) are subject to the exemptions provided for in Article [38](/en/lagstiftning/elmarknadsdirektivet/kap-4#article-38-closed-distribution-systems)(2).
 
 3\. Member States shall ensure that citizen energy communities:
 
@@ -193,7 +193,7 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 (b) are treated in a non-discriminatory and proportionate manner with regard to their activities, rights and obligations as final customers, producers, suppliers, distribution system operators or market participants engaged in aggregation;
 
-(c) are financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/lagstiftning/elmarknadsforordningen/kap-2#artikel-5-balansansvar) of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen);
+(c) are financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility) of [Regulation (EU) 2019/943](/en/lagstiftning/elmarknadsforordningen);
 
 (d) with regard to consumption of self-generated electricity, citizen energy communities are treated like active customers in accordance with point (e) of Article [15](#article-15-active-customers)(2);
 
@@ -201,11 +201,11 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 For the purposes of point (e) of the first subparagraph, where electricity is shared, this shall be without prejudice to applicable network charges, tariffs and levies, in accordance with a transparent cost-benefit analysis of distributed energy resources developed by the competent national authority.
 
-4\. Member States may decide to grant citizen energy communities the right to manage distribution networks in their area of operation and establish the relevant procedures, without prejudice to [Chapter IV](/lagstiftning/elmarknadsdirektivet/kap-4) or to other rules and regulations applying to distribution system operators. If such a right is granted, Member States shall ensure that citizen energy communities:
+4\. Member States may decide to grant citizen energy communities the right to manage distribution networks in their area of operation and establish the relevant procedures, without prejudice to [Chapter IV](/en/lagstiftning/elmarknadsdirektivet/kap-4) or to other rules and regulations applying to distribution system operators. If such a right is granted, Member States shall ensure that citizen energy communities:
 
 (a) are entitled to conclude an agreement on the operation of their network with the relevant distribution system operator or transmission system operator to which their network is connected;
 
-(b) are subject to appropriate network charges at the connection points between their network and the distribution network outside the citizen energy community and that such network charges account separately for the electricity fed into the distribution network and the electricity consumed from the distribution network outside the citizen energy community in accordance with Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(7);
+(b) are subject to appropriate network charges at the connection points between their network and the distribution network outside the citizen energy community and that such network charges account separately for the electricity fed into the distribution network and the electricity consumed from the distribution network outside the citizen energy community in accordance with Article [59](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(7);
 
 (c) do not discriminate or harm customers who remain connected to the distribution system.
 
@@ -223,7 +223,7 @@ For the purposes of point (e) of the first subparagraph, where electricity is sh
 
 (c) non-discriminatory and transparent rules and procedures for the exchange of data between market participants engaged in aggregation and other electricity undertakings that ensure easy access to data on equal and non-discriminatory terms while fully protecting commercially sensitive information and customers' personal data;
 
-(d) an obligation on market participants engaged in aggregation to be financially responsible for the imbalances that they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/lagstiftning/elmarknadsforordningen/kap-2#artikel-5-balansansvar) of [Regulation (EU) 2019/943](/lagstiftning/elmarknadsforordningen);
+(d) an obligation on market participants engaged in aggregation to be financially responsible for the imbalances that they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article [5](/en/lagstiftning/elmarknadsforordningen/kap-2#article-5-balance-responsibility) of [Regulation (EU) 2019/943](/en/lagstiftning/elmarknadsforordningen);
 
 (e) provision for final customers who have a contract with independent aggregators not to be subject to undue payments, penalties or other undue contractual restrictions by their suppliers;
 
@@ -259,7 +259,7 @@ For the purposes of point (e) of the first subparagraph, where electricity is sh
 
 5\. Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in paragraph 2, Member States shall ensure that this assessment is revised at least every four years, or more frequently, in response to significant changes in the underlying assumptions and in response to technological and market developments. Member States shall notify to the Commission the outcome of their updated cost-benefit assessment as it becomes available.
 
-6\. The provisions in [this Directive](/lagstiftning/elmarknadsdirektivet) concerning smart metering systems shall apply to future installations and to installations that replace older smart meters. Smart metering systems that have already been installed, or for which the ‘start of works’ began, before 4 July 2019, may remain in operation over their lifetime but, in the case of smart metering systems that do not meet the requirements of Article [20](#article-20-functionalities-of-smart-metering-systems) and Annex II, shall not remain in operation after 5 July 2031.
+6\. The provisions in [this Directive](/en/lagstiftning/elmarknadsdirektivet) concerning smart metering systems shall apply to future installations and to installations that replace older smart meters. Smart metering systems that have already been installed, or for which the ‘start of works’ began, before 4 July 2019, may remain in operation over their lifetime but, in the case of smart metering systems that do not meet the requirements of Article [20](#article-20-functionalities-of-smart-metering-systems) and Annex II, shall not remain in operation after 5 July 2031.
 
 For the purpose of this paragraph, ‘start of works’ means either the start of construction works on the investment or the first firm commitment to order equipment or other commitment that makes the investment irreversible, whichever is the first in time. Buying of land and preparatory works such as obtaining permits and conducting preliminary feasibility studies are not considered as start of works. For take-overs, ‘start of works’ means the moment of acquiring the assets directly linked to the acquired establishment.
 
@@ -311,21 +311,21 @@ For the purposes of point (e) of the first subparagraph, it shall be possible fo
 
 ### Article 23 – Data management
 
-1\. When laying down the rules regarding the management and exchange of data, Member States or, where a Member State has so provided, the designated competent authorities shall specify the rules on the access to data of the final customer by eligible parties in accordance with [this Article](#article-23-data-management) and the applicable Union legal framework. For the purpose of [this Directive](/lagstiftning/elmarknadsdirektivet), data shall be understood to include metering and consumption data as well as data required for customer switching, demand response and other services.
+1\. When laying down the rules regarding the management and exchange of data, Member States or, where a Member State has so provided, the designated competent authorities shall specify the rules on the access to data of the final customer by eligible parties in accordance with [this Article](#article-23-data-management) and the applicable Union legal framework. For the purpose of [this Directive](/en/lagstiftning/elmarknadsdirektivet), data shall be understood to include metering and consumption data as well as data required for customer switching, demand response and other services.
 
 2\. Member States shall organise the management of data in order to ensure efficient and secure data access and exchange, as well as data protection and data security.
 
 Independently of the data management model applied in each Member State, the parties responsible for data management shall provide access to the data of the final customer to any eligible party, in accordance with paragraph 1. Eligible parties shall have the requested data at their disposal in a non-discriminatory manner and simultaneously. Access to data shall be easy and the relevant procedures for obtaining access to data shall be made publicly available.
 
-3\. The rules on access to data and data storage for the purpose of [this Directive](/lagstiftning/elmarknadsdirektivet) shall comply with the relevant Union law.
+3\. The rules on access to data and data storage for the purpose of [this Directive](/en/lagstiftning/elmarknadsdirektivet) shall comply with the relevant Union law.
 
-The processing of personal data within the framework of [this Directive](/lagstiftning/elmarknadsdirektivet) shall be carried out in accordance with [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+The processing of personal data within the framework of [this Directive](/en/lagstiftning/elmarknadsdirektivet) shall be carried out in accordance with [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
-4\. Member States or, where a Member State has so provided, the designated competent authorities, shall authorise and certify or, where applicable, supervise the parties responsible for the data management, in order to ensure that they comply with the requirements of [this Directive](/lagstiftning/elmarknadsdirektivet).
+4\. Member States or, where a Member State has so provided, the designated competent authorities, shall authorise and certify or, where applicable, supervise the parties responsible for the data management, in order to ensure that they comply with the requirements of [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 
-Without prejudice to the tasks of the data protection officers under [Regulation (EU) 2016/679](/lagstiftning/gdpr), Member States may decide to require that parties responsible for the data management appoint compliance officers who are to be responsible for monitoring the implementation of measures taken by those parties to ensure non-discriminatory access to data and compliance with the requirements of [this Directive](/lagstiftning/elmarknadsdirektivet).
+Without prejudice to the tasks of the data protection officers under [Regulation (EU) 2016/679](/en/lagstiftning/gdpr), Member States may decide to require that parties responsible for the data management appoint compliance officers who are to be responsible for monitoring the implementation of measures taken by those parties to ensure non-discriminatory access to data and compliance with the requirements of [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 
-Member States may appoint compliance officers or bodies referred to in point (d) of Article [35](/lagstiftning/elmarknadsdirektivet/kap-4#article-35-unbundling-of-distribution-system-operators)(2) of [this Directive](/lagstiftning/elmarknadsdirektivet) to fulfil the obligations under this paragraph.
+Member States may appoint compliance officers or bodies referred to in point (d) of Article [35](/en/lagstiftning/elmarknadsdirektivet/kap-4#article-35-unbundling-of-distribution-system-operators)(2) of [this Directive](/en/lagstiftning/elmarknadsdirektivet) to fulfil the obligations under this paragraph.
 
 5\. No additional costs shall be charged to final customers for access to their data or for a request to make their data available.
 
@@ -337,7 +337,7 @@ Member States or, where a Member State has so provided, the designated competent
 
 1\. In order to promote competition in the retail market and to avoid excessive administrative costs for the eligible parties, Member States shall facilitate the full interoperability of energy services within the Union.
 
-2\. The Commission shall adopt, by means of implementing acts, interoperability requirements and non-discriminatory and transparent procedures for access to data referred to in Article [23](#article-23-data-management)(1). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [68](/lagstiftning/elmarknadsdirektivet/kap-8#article-68-committee-procedure)(2).
+2\. The Commission shall adopt, by means of implementing acts, interoperability requirements and non-discriminatory and transparent procedures for access to data referred to in Article [23](#article-23-data-management)(1). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article [68](/en/lagstiftning/elmarknadsdirektivet/kap-8#article-68-committee-procedure)(2).
 
 3\. Member States shall ensure that electricity undertakings apply the interoperability requirements and procedures for access to data referred to in paragraph 2. Those requirements and procedures shall be based on existing national practices.
 
@@ -347,29 +347,29 @@ Member States shall ensure the provision of single points of contact, to provide
 
 ### Article 26 – Right to out-of-court dispute settlement
 
-1\. Member States shall ensure that final customers have access to simple, fair, transparent, independent, effective and efficient out-of-court mechanisms for the settlement of disputes concerning rights and obligations established under [this Directive](/lagstiftning/elmarknadsdirektivet), through an independent mechanism such as an energy ombudsman or a consumer body, or through a regulatory authority. Where the final customer is a consumer within the meaning of [Directive 2013/11/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0011) of the European Parliament and of the Council (23), such out-of-court dispute settlement mechanisms shall comply with the quality requirements of [Directive 2013/11/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0011) and shall provide, where warranted, for systems of reimbursement and compensation.
+1\. Member States shall ensure that final customers have access to simple, fair, transparent, independent, effective and efficient out-of-court mechanisms for the settlement of disputes concerning rights and obligations established under [this Directive](/en/lagstiftning/elmarknadsdirektivet), through an independent mechanism such as an energy ombudsman or a consumer body, or through a regulatory authority. Where the final customer is a consumer within the meaning of [Directive 2013/11/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0011) of the European Parliament and of the Council (23), such out-of-court dispute settlement mechanisms shall comply with the quality requirements of [Directive 2013/11/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0011) and shall provide, where warranted, for systems of reimbursement and compensation.
 
-2\. Where necessary, Member States shall ensure that alternative dispute resolution entities cooperate to provide simple, fair, transparent, independent, effective and efficient out-of-court dispute settlement mechanisms for any dispute that arises from products or services that are tied to, or bundled with, any product or service falling under the scope of [this Directive](/lagstiftning/elmarknadsdirektivet).
+2\. Where necessary, Member States shall ensure that alternative dispute resolution entities cooperate to provide simple, fair, transparent, independent, effective and efficient out-of-court dispute settlement mechanisms for any dispute that arises from products or services that are tied to, or bundled with, any product or service falling under the scope of [this Directive](/en/lagstiftning/elmarknadsdirektivet).
 
 3\. The participation of electricity undertakings in out-of-court dispute settlement mechanisms for household customers shall be mandatory unless the Member State demonstrates to the Commission that other mechanisms are equally effective.
 
 ### Article 27 – Universal service
 
-1\. Member States shall ensure that all household customers, and, where Member States deem it to be appropriate, small enterprises, enjoy universal service, namely the right to be supplied with electricity of a specified quality within their territory at competitive, easily and clearly comparable, transparent and non-discriminatory prices. To ensure the provision of universal service, Member States may appoint a supplier of last resort. Member States shall impose on distribution system operators an obligation to connect customers to their network under terms, conditions and tariffs set in accordance with the procedure laid down in Article [59](/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(7). [This Directive](/lagstiftning/elmarknadsdirektivet) does not prevent Member States from strengthening the market position of the household customers and small and medium-sized non-household customers by promoting the possibilities for the voluntary aggregation of representation for that class of customers.
+1\. Member States shall ensure that all household customers, and, where Member States deem it to be appropriate, small enterprises, enjoy universal service, namely the right to be supplied with electricity of a specified quality within their territory at competitive, easily and clearly comparable, transparent and non-discriminatory prices. To ensure the provision of universal service, Member States may appoint a supplier of last resort. Member States shall impose on distribution system operators an obligation to connect customers to their network under terms, conditions and tariffs set in accordance with the procedure laid down in Article [59](/en/lagstiftning/elmarknadsdirektivet/kap-7#article-59-duties-and-powers-of-the-regulatory-authorities)(7). [This Directive](/en/lagstiftning/elmarknadsdirektivet) does not prevent Member States from strengthening the market position of the household customers and small and medium-sized non-household customers by promoting the possibilities for the voluntary aggregation of representation for that class of customers.
 
-2\. Paragraph 1 shall be implemented in a transparent and non-discriminatory way, and shall not impede the free choice of supplier provided for in Article [4](/lagstiftning/elmarknadsdirektivet/kap-2#article-4-free-choice-of-supplier).
+2\. Paragraph 1 shall be implemented in a transparent and non-discriminatory way, and shall not impede the free choice of supplier provided for in Article [4](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-4-free-choice-of-supplier).
 
 ### Article 28 – Vulnerable customers
 
 1\. Member States shall take appropriate measures to protect customers and shall ensure, in particular, that there are adequate safeguards to protect vulnerable customers. In this context, each Member State shall define the concept of vulnerable customers which may refer to energy poverty and, inter alia, to the prohibition of disconnection of electricity to such customers in critical times. The concept of vulnerable customers may include income levels, the share of energy expenditure of disposable income, the energy efficiency of homes, critical dependence on electrical equipment for health reasons, age or other criteria. Member States shall ensure that rights and obligations linked to vulnerable customers are applied. In particular, they shall take measures to protect customers in remote areas. They shall ensure high levels of consumer protection, particularly with respect to transparency regarding contractual terms and conditions, general information and dispute settlement mechanisms.
 
-2\. Member States shall take appropriate measures, such as providing benefits by means of their social security systems to ensure the necessary supply to vulnerable customers, or providing for support for energy efficiency improvements, to address energy poverty where identified pursuant to point (d) of Article [3](/lagstiftning/elmarknadsdirektivet/kap-2#article-3-competitive-consumer-centred-flexible-and-non-discriminatory-electricity-markets)(3) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), including in the broader context of poverty. Such measures shall not impede the effective opening of the market set out in Article [4](/lagstiftning/elmarknadsdirektivet/kap-2#article-4-free-choice-of-supplier) or market functioning and shall be notified to the Commission, where relevant, in accordance with Article [9](/lagstiftning/elmarknadsdirektivet/kap-2#article-9-public-service-obligations)(4). Such notifications may also include measures taken within the general social security system.
+2\. Member States shall take appropriate measures, such as providing benefits by means of their social security systems to ensure the necessary supply to vulnerable customers, or providing for support for energy efficiency improvements, to address energy poverty where identified pursuant to point (d) of Article [3](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-3-competitive-consumer-centred-flexible-and-non-discriminatory-electricity-markets)(3) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), including in the broader context of poverty. Such measures shall not impede the effective opening of the market set out in Article [4](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-4-free-choice-of-supplier) or market functioning and shall be notified to the Commission, where relevant, in accordance with Article [9](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-9-public-service-obligations)(4). Such notifications may also include measures taken within the general social security system.
 
 ### Article 29 – Energy poverty
 
-When assessing the number of households in energy poverty pursuant to point (d) of Article [3](/lagstiftning/elmarknadsdirektivet/kap-2#article-3-competitive-consumer-centred-flexible-and-non-discriminatory-electricity-markets)(3) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), Member States shall establish and publish a set of criteria, which may include low income, high expenditure of disposable income on energy and poor energy efficiency.
+When assessing the number of households in energy poverty pursuant to point (d) of Article [3](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-3-competitive-consumer-centred-flexible-and-non-discriminatory-electricity-markets)(3) of [Regulation (EU) 2018/1999](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999), Member States shall establish and publish a set of criteria, which may include low income, high expenditure of disposable income on energy and poor energy efficiency.
 
-The Commission shall provide guidance on the definition of ‘significant number of households in energy poverty’ in this context and in the context of Article [5](/lagstiftning/elmarknadsdirektivet/kap-2#article-5-market-based-supply-prices)(5), starting from the premise that any proportion of households in energy poverty can be considered to be significant.
+The Commission shall provide guidance on the definition of ‘significant number of households in energy poverty’ in this context and in the context of Article [5](/en/lagstiftning/elmarknadsdirektivet/kap-2#article-5-market-based-supply-prices)(5), starting from the premise that any proportion of households in energy poverty can be considered to be significant.
 <!-- scan-laws:end -->
 
 ## Interpretation

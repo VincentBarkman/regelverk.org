@@ -45,7 +45,7 @@ An API is vulnerable if it:
 * Allows users to change their email address, current password, or do any other
   sensitive operations without asking for password confirmation.
 * Doesn't validate the authenticity of tokens.
-* Accepts unsigned/weakly signed JWT tokens (`{'{'{'}'}"alg":"none"{'}'}`)
+* Accepts unsigned/weakly signed JWT tokens (`｛"alg":"none"｝`)
 * Doesn't validate the JWT expiration date.
 * Uses plain text, non-encrypted, or weakly hashed passwords.
 * Uses weak encryption keys.
@@ -64,13 +64,13 @@ like the one below with the user credentials:
 
 ```
 POST /graphql
-{'{'{'}'}
-  "query":"mutation {'{'{'}'}
-    login (username:\"&lt;username&gt;\",password:\"&lt;password&gt;\") {'{'{'}'}
+｛
+  "query":"mutation ｛
+    login (username:\"&lt;username&gt;\",password:\"&lt;password&gt;\") ｛
       token
-    {'}'}
-   {'}'}"
-{'}'}
+    ｝
+   ｝"
+｝
 ```
 
 If credentials are valid, then an auth token is returned which should be
@@ -84,11 +84,11 @@ query batching to bypass the request rate limiting, speeding up the attack:
 ```
 POST /graphql
 [
-  {'{'{'}'}"query":"mutation{'{'{'}'}login(username:\"victim\",password:\"password\"){'{'{'}'}token{'}'}{'}'}"{'}'},
-  {'{'{'}'}"query":"mutation{'{'{'}'}login(username:\"victim\",password:\"123456\"){'{'{'}'}token{'}'}{'}'}"{'}'},
-  {'{'{'}'}"query":"mutation{'{'{'}'}login(username:\"victim\",password:\"qwerty\"){'{'{'}'}token{'}'}{'}'}"{'}'},
+  ｛"query":"mutation｛login(username:\"victim\",password:\"password\")｛token｝｝"｝,
+  ｛"query":"mutation｛login(username:\"victim\",password:\"123456\")｛token｝｝"｝,
+  ｛"query":"mutation｛login(username:\"victim\",password:\"qwerty\")｛token｝｝"｝,
   ...
-  {'{'{'}'}"query":"mutation{'{'{'}'}login(username:\"victim\",password:\"123\"){'{'{'}'}token{'}'}{'}'}"{'}'},
+  ｛"query":"mutation｛login(username:\"victim\",password:\"123\")｛token｝｝"｝,
 ]
 ```
 
@@ -101,7 +101,7 @@ should issue an API request like the one below:
 PUT /account
 Authorization: Bearer &lt;token&gt;
 
-{'{'{'}'} "email": "&lt;new_email_address&gt;" {'}'}
+｛ "email": "&lt;new_email_address&gt;" ｝
 ```
 
 Because the API does not require users to confirm their identity by providing

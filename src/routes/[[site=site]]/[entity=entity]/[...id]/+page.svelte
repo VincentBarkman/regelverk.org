@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
@@ -13,6 +14,7 @@
 	import NavSheet from '#lib/components/navSheet.svelte';
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
+	import ShareButton from '#lib/components/shareButton.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
 	import LdJson from '#lib/components/ldJson.svelte';
 	import { getLocale } from '#lib/paraglide/runtime.js';
@@ -33,32 +35,40 @@
 	const tocItems = $derived(data.toc ?? []);
 
 	const listHref = (ent: Entity, id: string) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]/[...id]',
-					scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
-				)
-			: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]/[...id]',
+						scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
+					)
+				: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`
+		);
 
 	const homeHref = $derived(
-		dev
-			? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
-			: `https://${host}`
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}`
+		)
 	);
 
 	const entityHref = $derived(
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]',
-					scope === 'regelverk' ? { entity } : { site: scope, entity }
-				)
-			: `https://${host}/${entity}`
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]',
+						scope === 'regelverk' ? { entity } : { site: scope, entity }
+					)
+				: `https://${host}/${entity}`
+		)
 	);
 
 	const pageHref = (slug: string) =>
-		dev
-			? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
-			: `https://${host}/wiki/${scope}/pages/${slug}`;
+		localizeHref(
+			dev
+				? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
+				: `https://${host}/wiki/${scope}/pages/${slug}`
+		);
 
 	const refKeys = (r: { id: string; meta: Record<string, unknown> | null }) =>
 		[
@@ -161,7 +171,7 @@
 	const subs = $derived((currentItem?.children ?? []).map(toRefLink));
 
 	const idPath = $derived(data.id.split('/').map(encodeURIComponent).join('/'));
-	const canonicalUrl = $derived(`https://${host}/${entity}/${idPath}`);
+	const canonicalUrl = $derived(localizeHref(`https://${host}/${entity}/${idPath}`));
 	const lang = $derived(getLocale() === 'en' ? 'en' : 'sv');
 
 	const crumbs = $derived([
@@ -214,8 +224,8 @@
 			href="https://{host}{l === 'en' ? '/en' : ''}/{entity}/{idPath}"
 		/>
 	{/each}
-	{#if data.locales?.includes('en')}
-		<link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+	{#if data.locales?.includes('sv')}
+		<link rel="alternate" hreflang="x-default" href="https://{host}/{entity}/{idPath}" />
 	{/if}
 	<OgMeta
 		type="article"
@@ -235,7 +245,10 @@
 		{#if data.record}
 			<RefPreview />
 			<article bind:this={articleEl} class={ARTICLE_PROSE}>
-				<BreadCrumbs items={crumbs} />
+				<div class="flex items-start justify-between gap-4">
+					<BreadCrumbs items={crumbs} />
+					<ShareButton url={canonicalUrl} {title} />
+				</div>
 				<h1>{title}</h1>
 				{#if description}
 					<p class="not-prose -mt-3 mb-6 text-[15px] leading-relaxed text-primary/60">

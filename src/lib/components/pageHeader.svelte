@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { SITES, siteHost, type SiteScope } from '#lib/sites.js';
 	import { ENTITIES, type Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
@@ -18,20 +19,24 @@
 	const host = $derived(siteHost(scope));
 
 	const entityHref = (ent: Entity) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]',
-					scope === 'regelverk' ? { entity: ent } : { site: scope, entity: ent }
-				)
-			: `https://${host}/${ent}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]',
+						scope === 'regelverk' ? { entity: ent } : { site: scope, entity: ent }
+					)
+				: `https://${host}/${ent}`
+		);
 
 	const recordHref = (ent: Entity, id: string) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]/[...id]',
-					scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
-				)
-			: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]/[...id]',
+						scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
+					)
+				: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`
+		);
 
 	const records = (ent: Entity) => topRecords(scope, ent);
 </script>
@@ -41,17 +46,21 @@
 		<div class="@container mx-auto w-full max-w-4xl px-4 pt-3 pb-1 sm:px-6 xl:max-w-296 xl:px-0">
 			<div class="flex items-center gap-4">
 				{#if dev}
+					<!-- eslint-disable svelte/no-navigation-without-resolve -->
 					<a
-						href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
+						href={localizeHref(
+							resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
+						)}
 						aria-label={host}
 						use:fitText={1.875}
 						class="shrink-0 font-serif text-[min(1.875rem,calc((100cqw_-_88px)/13))] font-medium whitespace-nowrap lg:text-[min(1.875rem,calc((100cqw_-_308px)/13))]"
 						>{#if site.subdomain}<span class={site.colorClass}>{site.subdomain}</span
 							>.regelverk.org{:else}regelverk.org{/if}</a
 					>
+					<!-- eslint-enable svelte/no-navigation-without-resolve -->
 				{:else}
 					<a
-						href="https://{host}"
+						href={localizeHref(`https://${host}/`)}
 						rel="external"
 						aria-label={host}
 						use:fitText={1.875}

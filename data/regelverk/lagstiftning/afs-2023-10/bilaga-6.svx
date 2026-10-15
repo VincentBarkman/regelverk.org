@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,17 +21,15 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Ämnen med förbud eller tillståndskrav
-
 ### Inledning
 
-Denna bilaga hör till 8 kap. 21 och 22 §§.
+Denna bilaga hör till [8 kap. 21](/lagstiftning/afs-2023-10/kap-8#21-förbud-och-krav-på-tillstånd) och [22 §§](/lagstiftning/afs-2023-10/kap-8#22).
 
 ### Grupp A – Ämnen som inte får hanteras enligt 8 kap. 21 §
 
-Bestämmelserna i 8 kap. 21 § reglerar även ämnets salter och när ämnet innehåller kristallvatten. CAS-nummer är ämnets identifikationsnummer enligt Chemical Abstract Service.
+Bestämmelserna i [8 kap. 21 §](/lagstiftning/afs-2023-10/kap-8#21-förbud-och-krav-på-tillstånd) reglerar även ämnets salter och när ämnet innehåller kristallvatten. CAS-nummer är ämnets identifikationsnummer enligt Chemical Abstract Service.
 
-<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Cancerframkallande ämnen</div></div></th><th><div><div>CAS-nummer</div></div></th></tr><tr><td><div><div>2-Acetamidofluoren</div></div></td><td><div><div>53-96-3</div></div></td></tr><tr><td><div><div>4-Aminodifenyl</div></div></td><td><div><div>92-67-1</div></div></td></tr><tr><td><div><div>Benzidin</div></div></td><td><div><div>92-87-5</div></div></td></tr><tr><td><div><div>1,1’-Diklordimetyleter</div></div></td><td><div><div>542-88-1</div></div></td></tr><tr><td><div><div>1,2-Dibrom-3-klorpropan</div></div></td><td><div><div>96-12-8</div></div></td></tr><tr><td><div><div>N,N-Dimetyl-4-aminoazobensen</div></div></td><td><div><div>60-11-7</div></div></td></tr><tr><td><div><div>Erionit</div></div></td><td><div><div>66733-21-9<br>12510-42-8</div></div></td></tr><tr><td><div><div>Hexametylfosfortriamid (HMPA)</div></div></td><td><div><div>680-31-9</div></div></td></tr><tr><td><div><div>Metylklormetyleter</div></div></td><td><div><div>107-30-2</div></div></td></tr><tr><td><div><div>20-Metylkolantren (3-metylkolantren)</div></div></td><td><div><div>56-49-5</div></div></td></tr><tr><td><div><div>N-Metyl-N-nitrosourea</div></div></td><td><div><div>684-93-5</div></div></td></tr><tr><td><div><div>β-Naftylamin</div></div></td><td><div><div>91-59-8</div></div></td></tr><tr><td><div><div>4-Nitrodifenyl</div></div></td><td><div><div>92-93-3</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell 5. Ämnen som inte får hanteras enligt 8 kap. 21 §</label></div>
+<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Cancerframkallande ämnen</div></div></th><th><div><div>CAS-nummer</div></div></th></tr><tr><td><div><div>2-Acetamidofluoren</div></div></td><td><div><div>53-96-3</div></div></td></tr><tr><td><div><div>4-Aminodifenyl</div></div></td><td><div><div>92-67-1</div></div></td></tr><tr><td><div><div>Benzidin</div></div></td><td><div><div>92-87-5</div></div></td></tr><tr><td><div><div>1,1’-Diklordimetyleter</div></div></td><td><div><div>542-88-1</div></div></td></tr><tr><td><div><div>1,2-Dibrom-3-klorpropan</div></div></td><td><div><div>96-12-8</div></div></td></tr><tr><td><div><div>N,N-Dimetyl-4-aminoazobensen</div></div></td><td><div><div>60-11-7</div></div></td></tr><tr><td><div><div>Erionit</div></div></td><td><div><div>66733-21-9<br>12510-42-8</div></div></td></tr><tr><td><div><div>Hexametylfosfortriamid (HMPA)</div></div></td><td><div><div>680-31-9</div></div></td></tr><tr><td><div><div>Metylklormetyleter</div></div></td><td><div><div>107-30-2</div></div></td></tr><tr><td><div><div>20-Metylkolantren (3-metylkolantren)</div></div></td><td><div><div>56-49-5</div></div></td></tr><tr><td><div><div>N-Metyl-N-nitrosourea</div></div></td><td><div><div>684-93-5</div></div></td></tr><tr><td><div><div>β-Naftylamin</div></div></td><td><div><div>91-59-8</div></div></td></tr><tr><td><div><div>4-Nitrodifenyl</div></div></td><td><div><div>92-93-3</div></div></td></tr></tbody><tfoot class="scan-table-foot"><tr><td colspan="999"><label for="tbl-0" class="scan-table-label">Tabell 5. Ämnen som inte får hanteras enligt 8 kap. 21 §</label></td></tr></tfoot></table></div></div>
 
 > _Allmänna råd_
 >

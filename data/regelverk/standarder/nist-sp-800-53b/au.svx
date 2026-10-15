@@ -23,96 +23,96 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### AU-1 – Policy and Procedures
+### <span id="au-1"></span>AU-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business process-level or system-level] audit and accountability policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the audit and accountability policy and the associated audit and accountability controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the audit and accountability policy and procedures; and
-- c. Review and update the current audit and accountability:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="au-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="au-1_smt.a.1"></span> 1.  [organization-level or mission/business process-level or system-level] audit and accountability policy that:
+    - <span id="au-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="au-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="au-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the audit and accountability policy and the associated audit and accountability controls;
+- <span id="au-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the audit and accountability policy and procedures; and
+- <span id="au-1_smt.c"></span> c. Review and update the current audit and accountability:
+  - <span id="au-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="au-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### AU-2 – Event Logging
+### <span id="au-2"></span>AU-2 – Event Logging
 
-- a. Identify the types of events that the system is capable of logging in support of the audit function: [organization-defined event types];
-- b. Coordinate the event logging function with other organizational entities requiring audit-related information to guide and inform the selection criteria for events to be logged;
-- c. Specify the following event types for logging within the system: [organization-defined event types (subset of the event types defined in [AU-2a.](#au-2_smt.a)) along with the frequency of (or situation requiring) logging for each identified event type];
-- d. Provide a rationale for why the event types selected for logging are deemed to be adequate to support after-the-fact investigations of incidents; and
-- e. Review and update the event types selected for logging [organization-defined frequency].
+- <span id="au-2_smt.a"></span> a. Identify the types of events that the system is capable of logging in support of the audit function: [organization-defined event types];
+- <span id="au-2_smt.b"></span> b. Coordinate the event logging function with other organizational entities requiring audit-related information to guide and inform the selection criteria for events to be logged;
+- <span id="au-2_smt.c"></span> c. Specify the following event types for logging within the system: [organization-defined event types (subset of the event types defined in [AU-2a.](#au-2_smt.a)) along with the frequency of (or situation requiring) logging for each identified event type];
+- <span id="au-2_smt.d"></span> d. Provide a rationale for why the event types selected for logging are deemed to be adequate to support after-the-fact investigations of incidents; and
+- <span id="au-2_smt.e"></span> e. Review and update the event types selected for logging [organization-defined frequency].
 
-### AU-3 – Content of Audit Records
+### <span id="au-3"></span>AU-3 – Content of Audit Records
 
 Ensure that audit records contain information that establishes the following:
-- a. What type of event occurred;
-- b. When the event occurred;
-- c. Where the event occurred;
-- d. Source of the event;
-- e. Outcome of the event; and
-- f. Identity of any individuals, subjects, or objects/entities associated with the event.
+- <span id="au-3_smt.a"></span> a. What type of event occurred;
+- <span id="au-3_smt.b"></span> b. When the event occurred;
+- <span id="au-3_smt.c"></span> c. Where the event occurred;
+- <span id="au-3_smt.d"></span> d. Source of the event;
+- <span id="au-3_smt.e"></span> e. Outcome of the event; and
+- <span id="au-3_smt.f"></span> f. Identity of any individuals, subjects, or objects/entities associated with the event.
 
-#### AU-3(1) – Additional Audit Information
+#### <span id="au-3.1"></span>AU-3(1) – Additional Audit Information
 
 Generate audit records containing the following additional information: [organization-defined additional information].
 
-### AU-4 – Audit Log Storage Capacity
+### <span id="au-4"></span>AU-4 – Audit Log Storage Capacity
 
 Allocate audit log storage capacity to accommodate [organization-defined audit log retention requirements].
 
-### AU-5 – Response to Audit Logging Process Failures
+### <span id="au-5"></span>AU-5 – Response to Audit Logging Process Failures
 
-- a. Alert [organization-defined personnel or roles] within [organization-defined time period] in the event of an audit logging process failure; and
-- b. Take the following additional actions: [organization-defined additional actions].
+- <span id="au-5_smt.a"></span> a. Alert [organization-defined personnel or roles] within [organization-defined time period] in the event of an audit logging process failure; and
+- <span id="au-5_smt.b"></span> b. Take the following additional actions: [organization-defined additional actions].
 
-### AU-6 – Audit Record Review, Analysis, and Reporting
+### <span id="au-6"></span>AU-6 – Audit Record Review, Analysis, and Reporting
 
-- a. Review and analyze system audit records [organization-defined frequency] for indications of [organization-defined inappropriate or unusual activity] and the potential impact of the inappropriate or unusual activity;
-- b. Report findings to [organization-defined personnel or roles] ; and
-- c. Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
+- <span id="au-6_smt.a"></span> a. Review and analyze system audit records [organization-defined frequency] for indications of [organization-defined inappropriate or unusual activity] and the potential impact of the inappropriate or unusual activity;
+- <span id="au-6_smt.b"></span> b. Report findings to [organization-defined personnel or roles] ; and
+- <span id="au-6_smt.c"></span> c. Adjust the level of audit record review, analysis, and reporting within the system when there is a change in risk based on law enforcement information, intelligence information, or other credible sources of information.
 
-#### AU-6(1) – Automated Process Integration
+#### <span id="au-6.1"></span>AU-6(1) – Automated Process Integration
 
 Integrate audit record review, analysis, and reporting processes using [organization-defined automated mechanisms].
 
-#### AU-6(3) – Correlate Audit Record Repositories
+#### <span id="au-6.3"></span>AU-6(3) – Correlate Audit Record Repositories
 
 Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
 
-### AU-7 – Audit Record Reduction and Report Generation
+### <span id="au-7"></span>AU-7 – Audit Record Reduction and Report Generation
 
 Provide and implement an audit record reduction and report generation capability that:
-- a. Supports on-demand audit record review, analysis, and reporting requirements and after-the-fact investigations of incidents; and
-- b. Does not alter the original content or time ordering of audit records.
+- <span id="au-7_smt.a"></span> a. Supports on-demand audit record review, analysis, and reporting requirements and after-the-fact investigations of incidents; and
+- <span id="au-7_smt.b"></span> b. Does not alter the original content or time ordering of audit records.
 
-#### AU-7(1) – Automatic Processing
+#### <span id="au-7.1"></span>AU-7(1) – Automatic Processing
 
 Provide and implement the capability to process, sort, and search audit records for events of interest based on the following content: [organization-defined fields within audit records].
 
-### AU-8 – Time Stamps
+### <span id="au-8"></span>AU-8 – Time Stamps
 
-- a. Use internal system clocks to generate time stamps for audit records; and
-- b. Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.
+- <span id="au-8_smt.a"></span> a. Use internal system clocks to generate time stamps for audit records; and
+- <span id="au-8_smt.b"></span> b. Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time, have a fixed local time offset from Coordinated Universal Time, or that include the local time offset as part of the time stamp.
 
-### AU-9 – Protection of Audit Information
+### <span id="au-9"></span>AU-9 – Protection of Audit Information
 
-- a. Protect audit information and audit logging tools from unauthorized access, modification, and deletion; and
-- b. Alert [organization-defined personnel or roles] upon detection of unauthorized access, modification, or deletion of audit information.
+- <span id="au-9_smt.a"></span> a. Protect audit information and audit logging tools from unauthorized access, modification, and deletion; and
+- <span id="au-9_smt.b"></span> b. Alert [organization-defined personnel or roles] upon detection of unauthorized access, modification, or deletion of audit information.
 
-#### AU-9(4) – Access by Subset of Privileged Users
+#### <span id="au-9.4"></span>AU-9(4) – Access by Subset of Privileged Users
 
 Authorize access to management of audit logging functionality to only [organization-defined subset of privileged users or roles].
 
-### AU-11 – Audit Record Retention
+### <span id="au-11"></span>AU-11 – Audit Record Retention
 
 Retain audit records for [organization-defined time period] to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements.
 
-### AU-12 – Audit Record Generation
+### <span id="au-12"></span>AU-12 – Audit Record Generation
 
-- a. Provide audit record generation capability for the event types the system is capable of auditing as defined in [AU-2a](#au-2_smt.a) on [organization-defined system components];
-- b. Allow [organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
-- c. Generate audit records for the event types defined in [AU-2c](#au-2_smt.c) that include the audit record content defined in [AU-3](#au-3).
+- <span id="au-12_smt.a"></span> a. Provide audit record generation capability for the event types the system is capable of auditing as defined in [AU-2a](#au-2_smt.a) on [organization-defined system components];
+- <span id="au-12_smt.b"></span> b. Allow [organization-defined personnel or roles] to select the event types that are to be logged by specific components of the system; and
+- <span id="au-12_smt.c"></span> c. Generate audit records for the event types defined in [AU-2c](#au-2_smt.c) that include the audit record content defined in [AU-3](#au-3).
 
 ---
 

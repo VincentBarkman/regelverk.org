@@ -2,6 +2,7 @@
 	import SearchBar from '#lib/components/searchBar.svelte';
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { SITE_SCOPES, SITES, siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
 	import { ENTITIES } from '#lib/entities.js';
 	import SiteMark from '#lib/components/siteMark.svelte';
@@ -76,13 +77,19 @@
 				class="text-center font-serif text-[min(3rem,6.5cqw)] font-medium whitespace-nowrap select-none"
 			>
 				{#if dev}
+					<!-- eslint-disable svelte/no-navigation-without-resolve -->
 					<a
-						href={resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })}
+						href={localizeHref(
+							resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
+						)}
 						aria-label={siteHost(scope)}>{@render wordmark()}</a
 					>
+					<!-- eslint-enable svelte/no-navigation-without-resolve -->
 				{:else}
-					<a href={`https://${siteHost(scope)}`} rel="external" aria-label={siteHost(scope)}
-						>{@render wordmark()}</a
+					<a
+						href={localizeHref(`https://${siteHost(scope)}`)}
+						rel="external"
+						aria-label={siteHost(scope)}>{@render wordmark()}</a
 					>
 				{/if}
 			</h1>
@@ -97,8 +104,9 @@
 					{#each sectorScopes as s (s)}
 						<li>
 							{#if dev}
+								<!-- eslint-disable svelte/no-navigation-without-resolve -->
 								<a
-									href={resolve('/[[site=site]]', s === scope ? {} : { site: s })}
+									href={localizeHref(resolve('/[[site=site]]', s === scope ? {} : { site: s }))}
 									class="block"
 									aria-current={s === scope ? 'page' : undefined}
 								>
@@ -117,9 +125,10 @@
 										</span>
 									</Card.Root>
 								</a>
+								<!-- eslint-enable svelte/no-navigation-without-resolve -->
 							{:else}
 								<a
-									href={`https://${siteHost(s === scope ? 'regelverk' : s)}`}
+									href={localizeHref(`https://${siteHost(s === scope ? 'regelverk' : s)}`)}
 									rel="external"
 									class="block"
 									aria-current={s === scope ? 'page' : undefined}
@@ -152,10 +161,13 @@
 						{@const EIcon = ENTITY_ICON[e]}
 						<li>
 							{#if dev}
+								<!-- eslint-disable svelte/no-navigation-without-resolve -->
 								<a
-									href={resolve(
-										'/[[site=site]]/[entity=entity]',
-										scope === 'regelverk' ? { entity: e } : { site: scope, entity: e }
+									href={localizeHref(
+										resolve(
+											'/[[site=site]]/[entity=entity]',
+											scope === 'regelverk' ? { entity: e } : { site: scope, entity: e }
+										)
 									)}
 									class="flex items-center gap-2 py-1 text-xs underline-offset-4 hover:underline"
 								>
@@ -163,9 +175,10 @@
 									<span>{ENTITY_LABEL[e]()}</span>
 									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/60" aria-hidden="true" />
 								</a>
+								<!-- eslint-enable svelte/no-navigation-without-resolve -->
 							{:else}
 								<a
-									href={`https://${siteHost(scope)}/${e}`}
+									href={localizeHref(`https://${siteHost(scope)}/${e}`)}
 									rel="external"
 									class="flex items-center gap-2 py-1 text-xs underline-offset-4 hover:underline"
 								>

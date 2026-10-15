@@ -23,67 +23,67 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.05.01 – User Identification and Authentication
+### <span id="SP_800_171_03.05.01"></span>03.05.01 – User Identification and Authentication
 
-- SR-03.05.01.a Uniquely identify and authenticate system users, and associate that unique identification with processes acting on behalf of those users.
-- SR-03.05.01.b Re-authenticate users when [organization-defined circumstances or situations] .
+- <span id="SR-03.05.01.a"></span> SR-03.05.01.a Uniquely identify and authenticate system users, and associate that unique identification with processes acting on behalf of those users.
+- <span id="SR-03.05.01.b"></span> SR-03.05.01.b Re-authenticate users when [organization-defined circumstances or situations] .
 
-### 03.05.02 – Device Identification and Authentication
+### <span id="SP_800_171_03.05.02"></span>03.05.02 – Device Identification and Authentication
 
 Uniquely identify and authenticate [organization-defined devices or types of devices] before establishing a system connection.
 
-### 03.05.03 – Multi-Factor Authentication
+### <span id="SP_800_171_03.05.03"></span>03.05.03 – Multi-Factor Authentication
 
 Implement multi-factor authentication for access to privileged and non-privileged accounts.
 
-### 03.05.04 – Replay-Resistant Authentication
+### <span id="SP_800_171_03.05.04"></span>03.05.04 – Replay-Resistant Authentication
 
 Implement replay-resistant authentication mechanisms for access to privileged and non-privileged accounts.
 
-### 03.05.05 – Identifier Management
+### <span id="SP_800_171_03.05.05"></span>03.05.05 – Identifier Management
 
-- SR-03.05.05.a Receive authorization from organizational personnel or roles to assign an individual, group, role, service, or device identifier.
-- SR-03.05.05.b Select and assign an identifier that identifies an individual, group, role, service, or device.
-- SR-03.05.05.c Prevent the reuse of identifiers for [organization-defined time period].
-- SR-03.05.05.d Manage individual identifiers by uniquely identifying each individual as [organization-defined characteristic].
+- <span id="SR-03.05.05.a"></span> SR-03.05.05.a Receive authorization from organizational personnel or roles to assign an individual, group, role, service, or device identifier.
+- <span id="SR-03.05.05.b"></span> SR-03.05.05.b Select and assign an identifier that identifies an individual, group, role, service, or device.
+- <span id="SR-03.05.05.c"></span> SR-03.05.05.c Prevent the reuse of identifiers for [organization-defined time period].
+- <span id="SR-03.05.05.d"></span> SR-03.05.05.d Manage individual identifiers by uniquely identifying each individual as [organization-defined characteristic].
 
-### SP_800_171_03.05.06 – 03.05.06
-
-
-
-### 03.05.07 – Password Management
-
-- SR-03.05.07.a Maintain a list of commonly-used, expected, or compromised passwords, and update the list [organization-defined frequency] and when organizational passwords are suspected to have been compromised.
-- SR-03.05.07.b Verify that passwords are not found on the list of commonly used, expected, or compromised passwords when users create or update passwords.
-- SR-03.05.07.c Transmit passwords only over cryptographically protected channels.
-- SR-03.05.07.d Store passwords in a cryptographically protected form.
-- SR-03.05.07.e Select a new password upon first use after account recovery.
-- SR-03.05.07.f Enforce the following composition and complexity rules for passwords: [organization-defined rules].
-
-### SP_800_171_03.05.08 – 03.05.08
+### <span id="SP_800_171_03.05.06"></span>SP_800_171_03.05.06 – 03.05.06
 
 
 
-### SP_800_171_03.05.09 – 03.05.09
+### <span id="SP_800_171_03.05.07"></span>03.05.07 – Password Management
+
+- <span id="SR-03.05.07.a"></span> SR-03.05.07.a Maintain a list of commonly-used, expected, or compromised passwords, and update the list [organization-defined frequency] and when organizational passwords are suspected to have been compromised.
+- <span id="SR-03.05.07.b"></span> SR-03.05.07.b Verify that passwords are not found on the list of commonly used, expected, or compromised passwords when users create or update passwords.
+- <span id="SR-03.05.07.c"></span> SR-03.05.07.c Transmit passwords only over cryptographically protected channels.
+- <span id="SR-03.05.07.d"></span> SR-03.05.07.d Store passwords in a cryptographically protected form.
+- <span id="SR-03.05.07.e"></span> SR-03.05.07.e Select a new password upon first use after account recovery.
+- <span id="SR-03.05.07.f"></span> SR-03.05.07.f Enforce the following composition and complexity rules for passwords: [organization-defined rules].
+
+### <span id="SP_800_171_03.05.08"></span>SP_800_171_03.05.08 – 03.05.08
 
 
 
-### SP_800_171_03.05.10 – 03.05.10
+### <span id="SP_800_171_03.05.09"></span>SP_800_171_03.05.09 – 03.05.09
 
 
 
-### 03.05.11 – Authentication Feedback
+### <span id="SP_800_171_03.05.10"></span>SP_800_171_03.05.10 – 03.05.10
+
+
+
+### <span id="SP_800_171_03.05.11"></span>03.05.11 – Authentication Feedback
 
 Obscure feedback of authentication information during the authentication process.
 
-### 03.05.12 – Authenticator Management
+### <span id="SP_800_171_03.05.12"></span>03.05.12 – Authenticator Management
 
-- SR-03.05.12.a Verify the identity of the individual, group, role, service, or device receiving the authenticator as part of the initial authenticator distribution.
-- SR-03.05.12.b Establish initial authenticator content for any authenticators issued by the organization.
-- SR-03.05.12.c Establish and implement administrative procedures for initial authenticator distribution; for lost, compromised, or damaged authenticators; and for revoking authenticators.
-- SR-03.05.12.d Change default authenticators at first use.
-- SR-03.05.12.e Change or refresh authenticators [organization-defined frequency] or when the following events occur: [organization-defined events].
-- SR-03.05.12.f Protect authenticator content from unauthorized disclosure and modification.
+- <span id="SR-03.05.12.a"></span> SR-03.05.12.a Verify the identity of the individual, group, role, service, or device receiving the authenticator as part of the initial authenticator distribution.
+- <span id="SR-03.05.12.b"></span> SR-03.05.12.b Establish initial authenticator content for any authenticators issued by the organization.
+- <span id="SR-03.05.12.c"></span> SR-03.05.12.c Establish and implement administrative procedures for initial authenticator distribution; for lost, compromised, or damaged authenticators; and for revoking authenticators.
+- <span id="SR-03.05.12.d"></span> SR-03.05.12.d Change default authenticators at first use.
+- <span id="SR-03.05.12.e"></span> SR-03.05.12.e Change or refresh authenticators [organization-defined frequency] or when the following events occur: [organization-defined events].
+- <span id="SR-03.05.12.f"></span> SR-03.05.12.f Protect authenticator content from unauthorized disclosure and modification.
 
 ---
 

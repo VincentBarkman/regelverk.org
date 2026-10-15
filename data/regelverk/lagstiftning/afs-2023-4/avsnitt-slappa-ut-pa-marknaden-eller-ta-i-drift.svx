@@ -1,16 +1,16 @@
 ---
 'source': 'afs-2023-4'
-'ref': '2 kap.'
-'title': '2 kap. – Grundläggande hälso- och säkerhetskrav'
+'ref': 'Släppa ut på marknaden eller ta i drift'
+'title': 'Släppa ut på marknaden eller ta i drift'
 'kind': 'chapter'
-'description': 'Maskiner (AFS 2023:4), 2 kap..'
-'designation': 'AFS 2023:4 2 kap.'
+'description': 'Maskiner (AFS 2023:4), Släppa ut på marknaden eller ta i drift.'
+'designation': 'AFS 2023:4 Släppa ut på marknaden eller ta i drift'
 'jurisdiction': 'Sverige'
 'issuer': 'Arbetsmiljöverket'
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### Släppa ut på marknaden eller ta i drift
 
 ### 6 §
 
@@ -33,7 +31,7 @@ säkerställa att den tekniska dokumentationen som anges i bilaga 7, avsnitt A �
 
 särskilt tillhandahålla bruksanvisning, märkning och all annan nödvändig information enligt bilaga 1,
 
-genomföra tillämpligt förfarande för bedömning av överensstämmelse enligt [10](#10)–[13 §§](#13),
+genomföra tillämpligt förfarande för bedömning av överensstämmelse enligt [10](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#10)–[13 §§](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#13),
 
 upprätta en EG-försäkran om överensstämmelse enligt bilaga 2, del 1, avsnitt A och säkerställa att denna försäkran medföljer maskinen, samt
 
@@ -61,43 +59,15 @@ För maskiner som omfattas av bilaga 4 är högsta avgift vid överträdelse av 
 
 ### 7 §
 
-Innan tillverkaren eller dennes representant släpper ut en delvis fullbordad maskin på marknaden, ska denne försäkra sig om att förfarandet i [14](/lagstiftning/afs-2023-4/kap-3#14) och [15 §§](/lagstiftning/afs-2023-4/kap-3#15) har fullgjorts.
+Innan tillverkaren eller dennes representant släpper ut en delvis fullbordad maskin på marknaden, ska denne försäkra sig om att förfarandet i [14](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-delvis-fullbordade-maskiner#14) och [15 §§](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-delvis-fullbordade-maskiner#15) har fullgjorts.
 
 ### 8 §
 
-Tillverkaren eller dennes representant ska, vid tillämpning av de förfaranden som avses i [10](#10)–[13 §§](#13), förfoga över eller ha tillgång till de resurser som är nödvändiga för att säkerställa att maskinen överensstämmer med de grundläggande hälso- och säkerhetskraven i bilaga 1.
+Tillverkaren eller dennes representant ska, vid tillämpning av de förfaranden som avses i [10](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#10)–[13 §§](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#13), förfoga över eller ha tillgång till de resurser som är nödvändiga för att säkerställa att maskinen överensstämmer med de grundläggande hälso- och säkerhetskraven i bilaga 1.
 
 ### 9 §
 
 En maskin som har tillverkats enligt en harmoniserad standard, vars referens har offentliggjorts i Europeiska unionens officiella tidning, ska förutsättas överensstämma med de grundläggande hälso- och säkerhetskrav som omfattas av en sådan harmoniserad standard.
-
-#### Förfarande för bedömning av överensstämmelse för maskiner
-
-### 10 §
-
-För att intyga att maskiner överensstämmer med bestämmelserna i dessa föreskrifter ska tillverkaren eller dennes representant tillämpa något av de förfaranden för bedömning av överensstämmelse som anges i [11](#11)–[13 §§](#13).
-
-### 11 §
-
-Om maskinen inte är upptagen i bilaga 4, ska tillverkaren eller dennes representant tillämpa det förfarande för bedömning av överensstämmelse genom intern kontroll av tillverkningen av en maskin som anges i bilaga 8.
-
-### 12 §
-
-Om maskinen är upptagen i bilaga 4 och har tillverkats i enlighet med de harmoniserade standarder som avses i [9 §](#9) och dessa standarder omfattar alla tillämpliga grundläggande hälso- och säkerhetskrav, ska tillverkaren eller dennes representant tillämpa något av följande förfaranden:
-
-förfarandet för bedömning av överensstämmelsen genom intern kontroll av tillverkningen av en maskin enligt bilaga 8,
-
-förfarandet med EG-typkontroll enligt bilaga 9 samt intern kontroll av tillverkningen av en maskin enligt bilaga 8, punkt 3,
-
-förfarandet för fullständig kvalitetssäkring enligt bilaga 10.
-
-### 13 §
-
-Om maskinen är upptagen i bilaga 4 men inte eller endast delvis har tillverkats i enlighet med de harmoniserade standarder som avses i [9 §](#9) eller om de harmoniserade standarderna inte omfattar alla grundläggande hälso- och säkerhetskrav eller inga harmoniserade standarder finns för den berörda maskinen, ska tillverkaren eller dennes representant tillämpa något av följande förfaranden:
-
-förfarandet med EG-typkontroll enligt bilaga 9 samt intern kontroll av tillverkningen av en maskin enligt bilaga 8, punkt 3,
-
-förfarandet för fullständig kvalitetssäkring enligt bilaga 10.
 <!-- scan-laws:end -->
 
 ## Tolkning

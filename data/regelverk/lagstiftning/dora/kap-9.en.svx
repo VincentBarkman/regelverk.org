@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_IX'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554#cpt_IX'
 'sites':
   - 'it'
 ---
@@ -25,23 +25,23 @@
 
 1\. By 17 January 2028, the Commission shall, after consulting the ESAs and the ESRB, as appropriate, carry out a review and submit a report to the European Parliament and the Council, accompanied, where appropriate, by a legislative proposal. The review shall include at least the following:
 
-(a) the criteria for the designation of critical ICT third-party service providers in accordance with Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(2);
+(a) the criteria for the designation of critical ICT third-party service providers in accordance with Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(2);
 
-(b) the voluntary nature of the notification of significant cyber threats referred to in Article [19](/lagstiftning/dora/kap-3#article-19-reporting-of-major-ict-related-incidents-and-voluntary-notification-of-significant-cyber-threats);
+(b) the voluntary nature of the notification of significant cyber threats referred to in Article [19](/en/lagstiftning/dora/kap-3#article-19-reporting-of-major-ict-related-incidents-and-voluntary-notification-of-significant-cyber-threats);
 
-(c) the regime referred to in Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(12) and the powers of the Lead Overseer provided for in Article [35](/lagstiftning/dora/kap-5#article-35-powers-of-the-lead-overseer)(1), point (d), point (iv), first indent, with a view to evaluating the effectiveness of those provisions with regard to ensuring effective oversight of critical ICT third-party service providers established in a third country, and the necessity to establish a subsidiary in the Union.
+(c) the regime referred to in Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(12) and the powers of the Lead Overseer provided for in Article [35](/en/lagstiftning/dora/kap-5#article-35-powers-of-the-lead-overseer)(1), point (d), point (iv), first indent, with a view to evaluating the effectiveness of those provisions with regard to ensuring effective oversight of critical ICT third-party service providers established in a third country, and the necessity to establish a subsidiary in the Union.
 
-For the purposes of the first subparagraph of this point, the review shall include an analysis of the regime referred to in Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(12), including in terms of access for Union financial entities to services from third countries and availability of such services on the Union market and it shall take into account further developments in the markets for the services covered by [this Regulation](/lagstiftning/dora), the practical experience of financial entities and financial supervisors with regard to the application and, respectively, supervision of that regime, and any relevant regulatory and supervisory developments taking place at international level.
+For the purposes of the first subparagraph of this point, the review shall include an analysis of the regime referred to in Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(12), including in terms of access for Union financial entities to services from third countries and availability of such services on the Union market and it shall take into account further developments in the markets for the services covered by [this Regulation](/en/lagstiftning/dora), the practical experience of financial entities and financial supervisors with regard to the application and, respectively, supervision of that regime, and any relevant regulatory and supervisory developments taking place at international level.
 
-(d) the appropriateness of including in the scope of [this Regulation](/lagstiftning/dora) financial entities referred to in Article [2](/lagstiftning/dora/kap-1#article-2-scope)(3), point (e), making use of automated sales systems, in light of future market developments on the use of such systems;
+(d) the appropriateness of including in the scope of [this Regulation](/en/lagstiftning/dora) financial entities referred to in Article [2](/en/lagstiftning/dora/kap-1#article-2-scope)(3), point (e), making use of automated sales systems, in light of future market developments on the use of such systems;
 
 (e) the functioning and effectiveness of the JON in supporting the consistency of the oversight and the efficiency of the exchange of information within the Oversight Framework.
 
-2\. In the context of the review of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), the Commission shall assess the need for increased cyber resilience of payment systems and payment-processing activities and the appropriateness of extending the scope of [this Regulation](/lagstiftning/dora) to operators of payment systems and entities involved in payment-processing activities. In light of this assessment, the Commission shall submit, as part of the review of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), a report to the European Parliament and the Council no later than 17 July 2023.
+2\. In the context of the review of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), the Commission shall assess the need for increased cyber resilience of payment systems and payment-processing activities and the appropriateness of extending the scope of [this Regulation](/en/lagstiftning/dora) to operators of payment systems and entities involved in payment-processing activities. In light of this assessment, the Commission shall submit, as part of the review of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), a report to the European Parliament and the Council no later than 17 July 2023.
 
 Based on that review report, and after consulting ESAs, ECB and the ESRB, the Commission may submit, where appropriate and as part of the legislative proposal that it may adopt pursuant to Article [108](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), second paragraph, of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), a proposal to ensure that all operators of payment systems and entities involved in payment-processing activities are subject to an appropriate oversight, while taking into account existing oversight by the central bank.
 
-3\. By 17 January 2026, the Commission shall, after consulting the ESAs and the Committee of European Auditing Oversight Bodies, carry out a review and submit a report to the European Parliament and the Council, accompanied, where appropriate, by a legislative proposal, on the appropriateness of strengthened requirements for statutory auditors and audit firms as regards digital operational resilience, by means of the inclusion of statutory auditors and audit firms into the scope of [this Regulation](/lagstiftning/dora) or by means of amendments to [Directive 2006/43/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0043) of the European Parliament and of the Council (39).
+3\. By 17 January 2026, the Commission shall, after consulting the ESAs and the Committee of European Auditing Oversight Bodies, carry out a review and submit a report to the European Parliament and the Council, accompanied, where appropriate, by a legislative proposal, on the appropriateness of strengthened requirements for statutory auditors and audit firms as regards digital operational resilience, by means of the inclusion of statutory auditors and audit firms into the scope of [this Regulation](/en/lagstiftning/dora) or by means of amendments to [Directive 2006/43/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0043) of the European Parliament and of the Council (39).
 
 ### Article 59 – Amendments to Regulation (EC) No 1060/2009
 
@@ -51,15 +51,15 @@ Based on that review report, and after consulting ESAs, ECB and the ESRB, the Co
 
 (1) in Annex I, Section A, point 4, the first subparagraph is replaced by the following:
 
-‘A credit rating agency shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council (*1).
+‘A credit rating agency shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council (*1).
 
-(*1) [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
+(*1) [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
 
 (2) in Annex III, point 12 is replaced by the following:
 
 ‘12.
 
-The credit rating agency infringes Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(2), in conjunction with point 4 of Section A of Annex I, by not having sound administrative or accounting procedures, internal control mechanisms, effective procedures for risk assessment, or effective control or safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora); or by not implementing or maintaining decision-making procedures or organisational structures as required by that point.’.
+The credit rating agency infringes Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(2), in conjunction with point 4 of Section A of Annex I, by not having sound administrative or accounting procedures, internal control mechanisms, effective procedures for risk assessment, or effective control or safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora); or by not implementing or maintaining decision-making procedures or organisational structures as required by that point.’.
 
 ### Article 60 – Amendments to Regulation (EU) No 648/2012
 
@@ -67,37 +67,37 @@ The credit rating agency infringes Article [6](/lagstiftning/dora/kap-2#article-
 
 #### Footnotes
 
-(1) Article [26](/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt) is amended as follows:
+(1) Article [26](/en/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt) is amended as follows:
 
 (a) paragraph 3 is replaced by the following:
 
-‘3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures, including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council (*2).
+‘3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures, including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council (*2).
 
-(*2) [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
+(*2) [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
 
 (b) paragraph 6 is deleted;
 
-(2) Article [34](/lagstiftning/dora/kap-5#article-34-operational-coordination-between-lead-overseers) is amended as follows:
+(2) Article [34](/en/lagstiftning/dora/kap-5#article-34-operational-coordination-between-lead-overseers) is amended as follows:
 
 (a) paragraph 1 is replaced by the following:
 
-‘1. A CCP shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, which shall include ICT business continuity policy and ICT response and recovery plans put in place and implemented in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora), aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations.’;
+‘1. A CCP shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, which shall include ICT business continuity policy and ICT response and recovery plans put in place and implemented in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora), aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations.’;
 
 (b) in paragraph 3, the first subparagraph is replaced by the following:
 
 ‘3. In order to ensure consistent application of [this Article](#article-60-amendments-to-regulation-eu-no-648-2012), ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the minimum content and requirements of the business continuity policy and of the disaster recovery plan, excluding ICT business continuity policy and disaster recovery plans.’;
 
-(3) in Article [56](/lagstiftning/dora/kap-7#article-56-data-protection)(3), the first subparagraph is replaced by the following:
+(3) in Article [56](/en/lagstiftning/dora/kap-7#article-56-data-protection)(3), the first subparagraph is replaced by the following:
 
 ‘3. In order to ensure consistent application of [this Article](#article-60-amendments-to-regulation-eu-no-648-2012), ESMA shall develop draft regulatory technical standards specifying the details, other than for requirements related to ICT risk management, of the application for registration referred to in paragraph 1.’;
 
-(4) in Article [79](/lagstiftning/dora), paragraphs 1 and 2 are replaced by the following:
+(4) in Article [79](/en/lagstiftning/dora), paragraphs 1 and 2 are replaced by the following:
 
-‘1. A trade repository shall identify sources of operational risk and minimise them also through the development of appropriate systems, controls and procedures, including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora).
+‘1. A trade repository shall identify sources of operational risk and minimise them also through the development of appropriate systems, controls and procedures, including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora).
 
-2\. A trade repository shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan including ICT business continuity policy and ICT response and recovery plans established in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora), aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations.’;
+2\. A trade repository shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan including ICT business continuity policy and ICT response and recovery plans established in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora), aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations.’;
 
-(5) in Article [80](/lagstiftning/dora), paragraph 1 is deleted.
+(5) in Article [80](/en/lagstiftning/dora), paragraph 1 is deleted.
 
 (6) in Annex I, Section II is amended as follows:
 
@@ -105,9 +105,9 @@ The credit rating agency infringes Article [6](/lagstiftning/dora/kap-2#article-
 
 ‘(a)
 
-a trade repository infringes Article [79](/lagstiftning/dora)(1) by not identifying sources of operational risk or by not minimising those risks through the development of appropriate systems, controls and procedures including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora);
+a trade repository infringes Article [79](/en/lagstiftning/dora)(1) by not identifying sources of operational risk or by not minimising those risks through the development of appropriate systems, controls and procedures including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora);
 
-(b) a trade repository infringes Article [79](/lagstiftning/dora)(2) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan established in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora), aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations;’;
+(b) a trade repository infringes Article [79](/en/lagstiftning/dora)(2) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan established in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora), aiming to ensure the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations;’;
 
 (b) point (c) is deleted.
 
@@ -119,7 +119,7 @@ a trade repository infringes Article [79](/lagstiftning/dora)(1) by not identify
 
 ‘(c)
 
-a Tier 2 CCP infringes Article [26](/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt)(3) by not maintaining or operating an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities or by not employing appropriate and proportionate systems, resources or procedures including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora);’;
+a Tier 2 CCP infringes Article [26](/en/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt)(3) by not maintaining or operating an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities or by not employing appropriate and proportionate systems, resources or procedures including ICT systems managed in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora);’;
 
 (ii) point (f) is deleted.
 
@@ -127,7 +127,7 @@ a Tier 2 CCP infringes Article [26](/lagstiftning/dora/kap-4#article-26-advanced
 
 ‘(a)
 
-a Tier 2 CCP infringes Article [34](/lagstiftning/dora/kap-5#article-34-operational-coordination-between-lead-overseers)(1) by not establishing, implementing or maintaining an adequate business continuity policy and response and recovery plan set up in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora), aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations, which at least allows for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date;’.
+a Tier 2 CCP infringes Article [34](/en/lagstiftning/dora/kap-5#article-34-operational-coordination-between-lead-overseers)(1) by not establishing, implementing or maintaining an adequate business continuity policy and response and recovery plan set up in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora), aiming to ensure the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations, which at least allows for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date;’.
 
 ### Article 61 – Amendments to Regulation (EU) No 909/2014
 
@@ -137,17 +137,17 @@ Article [45](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R090
 
 (1) paragraph 1 is replaced by the following:
 
-‘1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact also through the deployment of appropriate ICT tools, processes and policies set up and managed in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council (*3), as well as through any other relevant appropriate tools, controls and procedures for other types of operational risk, including for all the securities settlement systems it operates.
+‘1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact also through the deployment of appropriate ICT tools, processes and policies set up and managed in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council (*3), as well as through any other relevant appropriate tools, controls and procedures for other types of operational risk, including for all the securities settlement systems it operates.
 
-(*3) [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
+(*3) [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
 
 (2) paragraph 2 is deleted;
 
 (3) paragraphs 3 and 4 are replaced by the following:
 
-‘3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, including ICT business continuity policy and ICT response and recovery plans established in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora), to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk to disrupting operations.
+‘3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, including ICT business continuity policy and ICT response and recovery plans established in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora), to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk to disrupting operations.
 
-4\. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can resume operations from the time of disruption as provided for in Article [12](/lagstiftning/dora/kap-2#article-12-backup-policies-and-procedures-restoration-and-recovery-procedures-and-methods)(5) and (7) of [Regulation (EU) 2022/2554](/lagstiftning/dora).’;
+4\. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can resume operations from the time of disruption as provided for in Article [12](/en/lagstiftning/dora/kap-2#article-12-backup-policies-and-procedures-restoration-and-recovery-procedures-and-methods)(5) and (7) of [Regulation (EU) 2022/2554](/en/lagstiftning/dora).’;
 
 (4) paragraph 6 is replaced by the following:
 
@@ -169,9 +169,9 @@ Article [45](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R090
 
 ‘4.
 
-An APA shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council (*4).
+An APA shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council (*4).
 
-(*4) [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
+(*4) [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending [Regulations (EC) No 1060/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060), [(EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648), [(EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), [(EU) No 909/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909) and [(EU) 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011) (OJ L 333, 27.12.2022, p. 1).’;"
 
 (b) in paragraph 8, point (c) is replaced by the following:
 
@@ -183,7 +183,7 @@ the concrete organisational requirements laid down in paragraphs 3 and 5.’;
 
 (a) paragraph 5 is replaced by the following:
 
-‘5. A CTP shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/lagstiftning/dora).’.
+‘5. A CTP shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/en/lagstiftning/dora).’.
 
 (b) in paragraph 8, point (e) is replaced by the following:
 
@@ -195,7 +195,7 @@ the concrete organisational requirements laid down in paragraph 4.’;
 
 (a) paragraph 3 is replaced by the following:
 
-‘3. An ARM shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/lagstiftning/dora).’;
+‘3. An ARM shall comply with the requirements concerning the security of network and information systems set out in [Regulation (EU) 2022/2554](/en/lagstiftning/dora).’;
 
 (b) in paragraph 5, point (b) is replaced by the following:
 
@@ -209,15 +209,15 @@ In Article [6](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1
 
 ‘6.
 
-For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/lagstiftning/dora) of the European Parliament and of the Council (*5).
+For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with [Regulation (EU) 2022/2554](/en/lagstiftning/dora) of the European Parliament and of the Council (*5).
 
 ### Article 64 – Entry into force and application
 
-[This Regulation](/lagstiftning/dora) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+[This Regulation](/en/lagstiftning/dora) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
 It shall apply from 17 January 2025.
 
-[This Regulation](/lagstiftning/dora) shall be binding in its entirety and directly applicable in all Member States.
+[This Regulation](/en/lagstiftning/dora) shall be binding in its entirety and directly applicable in all Member States.
 
 #### Signature
 
@@ -251,9 +251,9 @@ M. BEK
 
 (7) [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
 
-(8) [Directive (EU) 2022/2555](/lagstiftning/nis2) of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending [Regulation (EU) No 910/2014](/lagstiftning/eidas) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), and repealing [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) (NIS 2 Directive) (see page 80 of this Official Journal).
+(8) [Directive (EU) 2022/2555](/en/lagstiftning/nis2) of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending [Regulation (EU) No 910/2014](/en/lagstiftning/eidas) and [Directive (EU) 2018/1972](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972), and repealing [Directive (EU) 2016/1148](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1148) (NIS 2 Directive) (see page 80 of this Official Journal).
 
-(9) [Directive (EU) 2022/2557](/lagstiftning/cer) of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council [Directive 2008/114/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0114) (see page 164 of this Official Journal).
+(9) [Directive (EU) 2022/2557](/en/lagstiftning/cer) of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council [Directive 2008/114/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0114) (see page 164 of this Official Journal).
 
 (10) [Directive (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L2341) of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37).
 
@@ -261,7 +261,7 @@ M. BEK
 
 (12) [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366) of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending [Directives 2002/65/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0065), [2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110) and [2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036) and [Regulation (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), and repealing [Directive 2007/64/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0064) (OJ L 337, 23.12.2015, p. 35).
 
-(13) [Regulation (EU) 2016/679](/lagstiftning/gdpr) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046) (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+(13) [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing [Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046) (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
 
 (14) [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110) of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending [Directives 2005/60/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0060) and [2006/48/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0048) and repealing [Directive 2000/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0046) (OJ L 267, 10.10.2009, p. 7).
 

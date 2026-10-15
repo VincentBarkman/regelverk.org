@@ -23,20 +23,20 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### 03.16.01 – Security Engineering Principles
+### <span id="SP_800_171_03.16.01"></span>03.16.01 – Security Engineering Principles
 
 Apply the following systems security engineering principles to the development or modification of the system and system components: [organization-defined systems security engineering principles].
 
-### 03.16.02 – Unsupported System Components
+### <span id="SP_800_171_03.16.02"></span>03.16.02 – Unsupported System Components
 
-- SR-03.16.02.a Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer.
-- SR-03.16.02.b Provide options for risk mitigation or alternative sources for continued support for unsupported components that cannot be replaced.
+- <span id="SR-03.16.02.a"></span> SR-03.16.02.a Replace system components when support for the components is no longer available from the developer, vendor, or manufacturer.
+- <span id="SR-03.16.02.b"></span> SR-03.16.02.b Provide options for risk mitigation or alternative sources for continued support for unsupported components that cannot be replaced.
 
-### 03.16.03 – External System Services
+### <span id="SP_800_171_03.16.03"></span>03.16.03 – External System Services
 
-- SR-03.16.03.a Require the providers of external system services used for the processing, storage, or transmission of CUI to comply with the following security requirements: [organization-defined security requirements].
-- SR-03.16.03.b Define and document user roles and responsibilities with regard to external system services, including shared responsibilities with external service providers.
-- SR-03.16.03.c Implement processes, methods, and techniques to monitor security requirement compliance by external service providers on an ongoing basis.
+- <span id="SR-03.16.03.a"></span> SR-03.16.03.a Require the providers of external system services used for the processing, storage, or transmission of CUI to comply with the following security requirements: [organization-defined security requirements].
+- <span id="SR-03.16.03.b"></span> SR-03.16.03.b Define and document user roles and responsibilities with regard to external system services, including shared responsibilities with external service providers.
+- <span id="SR-03.16.03.c"></span> SR-03.16.03.c Implement processes, methods, and techniques to monitor security requirement compliance by external service providers on an ongoing basis.
 
 ---
 

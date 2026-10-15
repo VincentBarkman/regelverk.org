@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1.0006.03#cpt_IV'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R3110#cpt_IV'
 'sites':
   - 'brandskydd'
 ---
@@ -25,11 +25,11 @@
 
 1\. The methods and criteria for assessing the performance of products, including used products, in relation to their essential characteristics may be laid down in European assessment documents provided that the products are not covered by:
 
-(a) a harmonised standard made mandatory by an implementing act referred to in Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(8);
+(a) a harmonised standard made mandatory by an implementing act referred to in Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(8);
 
-(b) an implementing act referred to in Article [6](/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics)(1); or
+(b) an implementing act referred to in Article [6](/en/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics)(1); or
 
-(c) a harmonised standard to be delivered in a period shorter than one year, in accordance with a standardisation request referred to in Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2).
+(c) a harmonised standard to be delivered in a period shorter than one year, in accordance with a standardisation request referred to in Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2).
 
 2\. A product shall not be considered to be covered by harmonised standards or implementing acts referred to in paragraph 1 where:
 
@@ -47,7 +47,7 @@ The basic requirements for construction works set out in Annex I and the list of
 
 5\. The organisation of TABs and the Commission may merge or reject requests for the development of a European assessment document in accordance with point 5 of Annex VI.
 
-6\. From the date of mandatory application of a harmonised technical specification adopted in accordance with Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(8) or Article [6](/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics)(1), covering the same product and the same intended use as a European assessment document, the European assessment document shall no longer be used for the purposes of [this Regulation](/lagstiftning/cpr). In that case the Commission shall withdraw the reference of the European assessment document from the Official Journal of the European Union.
+6\. From the date of mandatory application of a harmonised technical specification adopted in accordance with Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(8) or Article [6](/en/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics)(1), covering the same product and the same intended use as a European assessment document, the European assessment document shall no longer be used for the purposes of [this Regulation](/en/lagstiftning/cpr). In that case the Commission shall withdraw the reference of the European assessment document from the Official Journal of the European Union.
 
 7\. European assessment documents shall constitute the basis for European technical assessments set out in Article [37](#article-37-european-technical-assessment).
 
@@ -75,7 +75,7 @@ The balancing of requirements laid down in points (a) and (b) of the first subpa
 
 4\. TABs and the organisation of TABs shall avoid the proliferation of European assessment documents where there is no technical justification for differentiating between products. They shall, in particular, give preference to extending the scope of existing European assessment documents over creating new European assessment documents.
 
-5\. The Commission is empowered to adopt, after consultations with the organisation of TABs, delegated acts in accordance with Article [89](/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend Annex VI in order to add additional procedural rules for the development and adoption of European assessment documents, where it is necessary to ensure the good functioning of the system of European assessment documents.
+5\. The Commission is empowered to adopt, after consultations with the organisation of TABs, delegated acts in accordance with Article [89](/en/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend Annex VI in order to add additional procedural rules for the development and adoption of European assessment documents, where it is necessary to ensure the good functioning of the system of European assessment documents.
 
 ### Article 33 – Obligations of the TAB receiving a request for a European technical assessment
 
@@ -87,15 +87,15 @@ The balancing of requirements laid down in points (a) and (b) of the first subpa
 
 (c) where the product is eligible for a European assessment document referred to in Article [31](#article-31-european-assessment-documents), and no such document is in the process of being developed, the TAB shall inform the applicant that the procedures set out in Annex VI will be initiated.
 
-In the cases referred to in point (c) of the first subparagraph of [this Article](#article-33-obligations-of-the-tab-receiving-a-request-for-a-european-technical-assessment), but where a harmonised standard covering the same product is expected to be delivered in a period longer than one year as established in a standardisation request referred to in Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2), the TAB shall inform the applicant about the possibility of a European assessment document no longer being used pursuant to Article [31](#article-31-european-assessment-documents)(6).
+In the cases referred to in point (c) of the first subparagraph of [this Article](#article-33-obligations-of-the-tab-receiving-a-request-for-a-european-technical-assessment), but where a harmonised standard covering the same product is expected to be delivered in a period longer than one year as established in a standardisation request referred to in Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2), the TAB shall inform the applicant about the possibility of a European assessment document no longer being used pursuant to Article [31](#article-31-european-assessment-documents)(6).
 
-2\. In the cases referred to in paragraph 1, first subparagraph, points (b) and (c) of [this Article](#article-33-obligations-of-the-tab-receiving-a-request-for-a-european-technical-assessment), the TAB shall inform the organisation of TABs and the Commission of the content of the request and of the reference to a relevant delegated act determining the assessment and verification system referred to in Article [10](/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2), which the TAB intends to apply for that product, or of the lack of such delegated act.
+2\. In the cases referred to in paragraph 1, first subparagraph, points (b) and (c) of [this Article](#article-33-obligations-of-the-tab-receiving-a-request-for-a-european-technical-assessment), the TAB shall inform the organisation of TABs and the Commission of the content of the request and of the reference to a relevant delegated act determining the assessment and verification system referred to in Article [10](/en/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2), which the TAB intends to apply for that product, or of the lack of such delegated act.
 
-3\. If the Commission considers that an appropriate delegated act determining the assessment and verification system does not exist for the product, it may adopt a delegated act in accordance with Article [10](/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2).
+3\. If the Commission considers that an appropriate delegated act determining the assessment and verification system does not exist for the product, it may adopt a delegated act in accordance with Article [10](/en/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2).
 
 ### Article 34 – Publication of references
 
-1\. The Commission shall, in accordance with point 9 of Annex VI, assess the compliance of European assessment documents with harmonised technical specifications, with [this Regulation](/lagstiftning/cpr) and with other Union law. Where a European assessment document is in conformity with applicable legal requirements, the Commission shall without delay publish a reference of that document in the Official Journal of the European Union. Where a reference to a European assessment documents cannot be published in the Official Journal of the European Union, the Commission may publish such a reference with restrictions.
+1\. The Commission shall, in accordance with point 9 of Annex VI, assess the compliance of European assessment documents with harmonised technical specifications, with [this Regulation](/en/lagstiftning/cpr) and with other Union law. Where a European assessment document is in conformity with applicable legal requirements, the Commission shall without delay publish a reference of that document in the Official Journal of the European Union. Where a reference to a European assessment documents cannot be published in the Official Journal of the European Union, the Commission may publish such a reference with restrictions.
 
 2\. Following publication in accordance with paragraph 1 of [this Article](#article-34-publication-of-references), a European assessment document may, in accordance with Article [37](#article-37-european-technical-assessment), be used as a basis for a European technical assessment for a period of 10 years, unless the reference of the European assessment document has been withdrawn from the Official Journal of the European Union or that European assessment document is no longer used pursuant to Article [31](#article-31-european-assessment-documents)(6). The organisation of TABs may in the last year of that period decide to submit the European assessment document for renewal. The Commission shall in that case reassess the European assessment document in accordance with paragraph 1 of [this Article](#article-34-publication-of-references).
 
@@ -109,7 +109,7 @@ In the cases referred to in point (c) of the first subparagraph of [this Article
 
 2\. The European assessment document shall set out:
 
-(a) the technical details necessary for the implementation of the assessment and verification systems that are to be applied in accordance with the delegated acts adopted under Article [10](/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2);
+(a) the technical details necessary for the implementation of the assessment and verification systems that are to be applied in accordance with the delegated acts adopted under Article [10](/en/lagstiftning/cpr/kap-1#article-10-assessment-and-verification-systems)(2);
 
 (b) the guidelines, including technical details necessary for drawing up general product information, instructions for use and safety information as referred to in Annex IV;
 
@@ -117,7 +117,7 @@ In the cases referred to in point (c) of the first subparagraph of [this Article
 
 3\. Where the performance of the product can appropriately be assessed by reference to its essential characteristics, including assessment methods and criteria, already established for them in harmonised technical specifications or other European assessment documents, those existing essential characteristics and their methods and criteria shall be incorporated as parts of the European assessment document, unless it is technically necessary to deviate from that rule.
 
-Where applicable, these principles shall also apply for threshold levels and classes of performance adopted in accordance with Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(5).
+Where applicable, these principles shall also apply for threshold levels and classes of performance adopted in accordance with Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(5).
 
 ### Article 36 – Formal objections against European assessment documents
 
@@ -145,17 +145,17 @@ Provided that there is a European assessment document the reference of which has
 
 3\. The European technical assessment shall include the performance to be declared, by levels or classes, or in a description, of those essential characteristics that are agreed by the manufacturer and the TAB receiving the request for the European technical assessment for the declared use, and the technical details necessary for the implementation of the assessment and verification system.
 
-The European technical assessment shall also include the assessment of the performance for the predetermined environmental essential characteristics listed in Article [15](/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity)(3).
+The European technical assessment shall also include the assessment of the performance for the predetermined environmental essential characteristics listed in Article [15](/en/lagstiftning/cpr/kap-2#article-15-content-of-the-declaration-of-performance-and-conformity)(3).
 
 4\. The Commission may adopt implementing acts to establish the format of the European technical assessment.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [90](/lagstiftning/cpr/kap-15#article-90-committee-procedure)(3).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [90](/en/lagstiftning/cpr/kap-15#article-90-committee-procedure)(3).
 
 5\. European technical assessments issued on the basis of a European assessment document remain valid for either five years after the end of the period set out in Article [34](#article-34-publication-of-references)(2) or five years after the reference of the European assessment document is withdrawn from the Official Journal of the European Union.
 
 When the relevant European assessment document for a product is no longer used pursuant to Article [31](#article-31-european-assessment-documents)(6), that product may no longer be placed on the market on the basis of a European technical assessment.
 
-6\. Products covered by a European assessment document for which a European technical assessment has been issued may be CE marked and thereby obtain the same status as products CE marked on the basis of harmonised technical specifications, where the manufacturer satisfies the obligations set out in [this Regulation](/lagstiftning/cpr). Where these obligations refer to harmonised technical specifications, the manufacturer shall refer to the European assessment document instead or, where the harmonised technical specifications are also relevant, in addition.
+6\. Products covered by a European assessment document for which a European technical assessment has been issued may be CE marked and thereby obtain the same status as products CE marked on the basis of harmonised technical specifications, where the manufacturer satisfies the obligations set out in [this Regulation](/en/lagstiftning/cpr). Where these obligations refer to harmonised technical specifications, the manufacturer shall refer to the European assessment document instead or, where the harmonised technical specifications are also relevant, in addition.
 <!-- scan-laws:end -->
 
 ## Interpretation

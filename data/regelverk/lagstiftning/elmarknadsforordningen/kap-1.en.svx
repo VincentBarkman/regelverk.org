@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0943#cpt_I'
 'sites':
   - 'el'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 1 – Subject matter and scope
 
-[This Regulation](/lagstiftning/elmarknadsforordningen) aims to:
+[This Regulation](/en/lagstiftning/elmarknadsforordningen) aims to:
 
 (a) set the basis for an efficient achievement of the objectives of the Energy Union and in particular the climate and energy framework for 2030 by enabling market signals to be delivered for increased efficiency, higher share of renewable energy sources, security of supply, flexibility, sustainability, decarbonisation and innovation;
 
@@ -41,7 +41,7 @@ The following definitions apply:
 
 (1) ‘interconnector’ means a transmission line which crosses or spans a border between Member States and which connects the national transmission systems of the Member States;
 
-(2) ‘regulatory authority’ means a regulatory authority designated by each Member State pursuant to Article [57](/lagstiftning/elmarknadsforordningen/kap-6#article-57-cooperation-between-distribution-system-operators-and-transmission-system-operators)(1) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(2) ‘regulatory authority’ means a regulatory authority designated by each Member State pursuant to Article [57](/en/lagstiftning/elmarknadsforordningen/kap-6#article-57-cooperation-between-distribution-system-operators-and-transmission-system-operators)(1) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
 (3) ‘cross-border flow’ means a physical flow of electricity on a transmission network of a Member State that results from the impact of the activity of producers, customers, or both, outside that Member State on its transmission network;
 
@@ -103,67 +103,67 @@ The following definitions apply:
 
 (32) ‘specific balancing product’ means a balancing product different from a standard balancing product;
 
-(33) ‘delegated operator’ means an entity to whom specific tasks or obligations entrusted to a transmission system operator or nominated electricity market operator under [this Regulation](/lagstiftning/elmarknadsforordningen) or other Union legal acts have been delegated by that transmission system operator or NEMO or have been assigned by a Member State or regulatory authority;
+(33) ‘delegated operator’ means an entity to whom specific tasks or obligations entrusted to a transmission system operator or nominated electricity market operator under [this Regulation](/en/lagstiftning/elmarknadsforordningen) or other Union legal acts have been delegated by that transmission system operator or NEMO or have been assigned by a Member State or regulatory authority;
 
-(34) ‘customer’ means a customer as defined in point (1) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(34) ‘customer’ means a customer as defined in point (1) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(35) ‘final customer’ means final customer as defined in point (3) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(35) ‘final customer’ means final customer as defined in point (3) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(36) ‘wholesale customer’ means a wholesale customer as defined in point (2) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(36) ‘wholesale customer’ means a wholesale customer as defined in point (2) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(37) ‘household customer’ means household customer as defined in point (4) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(37) ‘household customer’ means household customer as defined in point (4) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(38) ‘small enterprise’ means small enterprise as defined in point (7) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(38) ‘small enterprise’ means small enterprise as defined in point (7) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(39) ‘active customer’ means active customer as defined in point (8) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(39) ‘active customer’ means active customer as defined in point (8) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(40) ‘electricity markets’ means electricity markets as defined in point (9) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(40) ‘electricity markets’ means electricity markets as defined in point (9) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(41) ‘supply’ means supply as defined in point (12) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(41) ‘supply’ means supply as defined in point (12) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(42) ‘electricity supply contract’ means electricity supply contract as defined in point (13) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(42) ‘electricity supply contract’ means electricity supply contract as defined in point (13) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(43) ‘aggregation’ means aggregation as defined in point (18) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(43) ‘aggregation’ means aggregation as defined in point (18) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(44) ‘demand response’ means demand response as defined in point (20) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(44) ‘demand response’ means demand response as defined in point (20) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(45) ‘smart metering system’ means smart metering system as defined in point (23) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(45) ‘smart metering system’ means smart metering system as defined in point (23) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(46) ‘interoperability’ means interoperability as defined in point (24) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(46) ‘interoperability’ means interoperability as defined in point (24) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(47) ‘distribution’ means distribution as defined in point (28) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(47) ‘distribution’ means distribution as defined in point (28) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(48) ‘distribution system operator’ means distribution system operator as defined in point (29) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(48) ‘distribution system operator’ means distribution system operator as defined in point (29) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(49) ‘energy efficiency’ means energy efficiency as defined in point (30) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(49) ‘energy efficiency’ means energy efficiency as defined in point (30) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(50) ‘energy from renewable sources’ or ‘renewable energy’ means energy from renewable sources as defined in point (31) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(50) ‘energy from renewable sources’ or ‘renewable energy’ means energy from renewable sources as defined in point (31) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(51) ‘distributed generation’ means distributed generation as defined in point (32) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(51) ‘distributed generation’ means distributed generation as defined in point (32) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(52) ‘transmission’ means transmission as defined in point (34) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(52) ‘transmission’ means transmission as defined in point (34) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(53) ‘transmission system operator’ means transmission system operator as defined in point (35) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(53) ‘transmission system operator’ means transmission system operator as defined in point (35) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(54) ‘system user’ means system user as defined in point (36) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(54) ‘system user’ means system user as defined in point (36) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(55) ‘generation’ means generation as defined in point (37) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(55) ‘generation’ means generation as defined in point (37) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(56) ‘producer’ means producer as defined in point (38) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(56) ‘producer’ means producer as defined in point (38) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(57) ‘interconnected system’ means interconnected system as defined in point (40) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(57) ‘interconnected system’ means interconnected system as defined in point (40) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(58) ‘small isolated system’ means small isolated system as defined in point (42) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(58) ‘small isolated system’ means small isolated system as defined in point (42) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(59) ‘small connected system’ means small connected system as defined in point (43) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(59) ‘small connected system’ means small connected system as defined in point (43) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(60) ‘ancillary service’ means ancillary service as defined in point (48) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(60) ‘ancillary service’ means ancillary service as defined in point (48) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(61) ‘non-frequency ancillary service’ means non-frequency ancillary service as defined in point (49) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(61) ‘non-frequency ancillary service’ means non-frequency ancillary service as defined in point (49) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(62) ‘energy storage’ means energy storage as defined in point (59) of Article [2](/lagstiftning/elmarknadsdirektivet/kap-1#artikel-2-definitioner) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(62) ‘energy storage’ means energy storage as defined in point (59) of Article [2](/en/lagstiftning/elmarknadsdirektivet/kap-1#article-2-definitions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
-(63) ‘regional coordination centre’ means regional coordination centre established pursuant to Article [35](/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) of [this Regulation](/lagstiftning/elmarknadsforordningen);
+(63) ‘regional coordination centre’ means regional coordination centre established pursuant to Article [35](/en/lagstiftning/elmarknadsforordningen/kap-5#article-35-establishment-and-mission-of-regional-coordination-centres) of [this Regulation](/en/lagstiftning/elmarknadsforordningen);
 
 (64) ‘wholesale energy market’ means wholesale energy market as defined in point (6) of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227) of [Regulation (EU) No 1227/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1227) of the European Parliament and of the Council (17);
 

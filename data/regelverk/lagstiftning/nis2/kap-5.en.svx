@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2555#cpt_V'
 'sites':
   - 'it'
   - 'ot'
@@ -24,7 +24,7 @@
 
 ### Article 26 – Jurisdiction and territoriality
 
-1\. Entities falling within the scope of [this Directive](/lagstiftning/nis2) shall be considered to fall under the jurisdiction of the Member State in which they are established, except in the case of:
+1\. Entities falling within the scope of [this Directive](/en/lagstiftning/nis2) shall be considered to fall under the jurisdiction of the Member State in which they are established, except in the case of:
 
 (a) providers of public electronic communications networks or providers of publicly available electronic communications services, which shall be considered to fall under the jurisdiction of the Member State in which they provide their services;
 
@@ -32,9 +32,9 @@
 
 (c) public administration entities, which shall be considered to fall under the jurisdiction of the Member State which established them.
 
-2\. For the purposes of [this Directive](/lagstiftning/nis2), an entity as referred to in paragraph 1, point (b), shall be considered to have its main establishment in the Union in the Member State where the decisions related to the cybersecurity risk-management measures are predominantly taken. If such a Member State cannot be determined or if such decisions are not taken in the Union, the main establishment shall be considered to be in the Member State where cybersecurity operations are carried out. If such a Member State cannot be determined, the main establishment shall be considered to be in the Member State where the entity concerned has the establishment with the highest number of employees in the Union.
+2\. For the purposes of [this Directive](/en/lagstiftning/nis2), an entity as referred to in paragraph 1, point (b), shall be considered to have its main establishment in the Union in the Member State where the decisions related to the cybersecurity risk-management measures are predominantly taken. If such a Member State cannot be determined or if such decisions are not taken in the Union, the main establishment shall be considered to be in the Member State where cybersecurity operations are carried out. If such a Member State cannot be determined, the main establishment shall be considered to be in the Member State where the entity concerned has the establishment with the highest number of employees in the Union.
 
-3\. If an entity as referred to in paragraph 1, point (b), is not established in the Union, but offers services within the Union, it shall designate a representative in the Union. The representative shall be established in one of those Member States where the services are offered. Such an entity shall be considered to fall under the jurisdiction of the Member State where the representative is established. In the absence of a representative in the Union designated under this paragraph, any Member State in which the entity provides services may take legal actions against the entity for the infringement of [this Directive](/lagstiftning/nis2).
+3\. If an entity as referred to in paragraph 1, point (b), is not established in the Union, but offers services within the Union, it shall designate a representative in the Union. The representative shall be established in one of those Member States where the services are offered. Such an entity shall be considered to fall under the jurisdiction of the Member State where the representative is established. In the absence of a representative in the Union designated under this paragraph, any Member State in which the entity provides services may take legal actions against the entity for the infringement of [this Directive](/en/lagstiftning/nis2).
 
 4\. The designation of a representative by an entity as referred to in paragraph 1, point (b), shall be without prejudice to legal actions, which could be initiated against the entity itself.
 
@@ -62,7 +62,7 @@
 
 4\. Upon receipt of the information referred to in paragraphs 2 and 3, except for that referred to in paragraph 2, point (f), the single point of contact of the Member State concerned shall, without undue delay, forward it to ENISA.
 
-5\. Where applicable, the information referred to in paragraphs 2 and 3 of [this Article](#article-27-registry-of-entities) shall be submitted through the national mechanism referred to in Article [3](/lagstiftning/nis2/kap-1#article-3-essential-and-important-entities)(4), fourth subparagraph.
+5\. Where applicable, the information referred to in paragraphs 2 and 3 of [this Article](#article-27-registry-of-entities) shall be submitted through the national mechanism referred to in Article [3](/en/lagstiftning/nis2/kap-1#article-3-essential-and-important-entities)(4), fourth subparagraph.
 
 ### Article 28 – Database of domain name registration data
 

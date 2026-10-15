@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-03-29'
@@ -20,15 +20,15 @@
   - 'elsakerhetslagen'
 'sites':
   - 'el'
-'url': 'http://publications.europa.eu/resource/cellar/13ab8bf5-b721-11e3-86f9-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0035'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter 1 – GENERAL PROVISIONS](/lagstiftning/lvd/kap-1) · Articles 1–5
-- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/lvd/kap-2) · Articles 6–11
-- [Chapter 3 – CONFORMITY OF THE ELECTRICAL EQUIPMENT](/lagstiftning/lvd/kap-3) · Articles 12–17
-- [Chapter 4 – UNION MARKET SURVEILLANCE, CONTROL OF ELECTRICAL EQUIPMENT ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/lvd/kap-4) · Articles 18–22
-- [Chapter 5 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/lvd/kap-5) · Articles 23–29
+- [Chapter 1 – GENERAL PROVISIONS](/en/lagstiftning/lvd/kap-1) · Articles 1–5
+- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/en/lagstiftning/lvd/kap-2) · Articles 6–11
+- [Chapter 3 – CONFORMITY OF THE ELECTRICAL EQUIPMENT](/en/lagstiftning/lvd/kap-3) · Articles 12–17
+- [Chapter 4 – UNION MARKET SURVEILLANCE, CONTROL OF ELECTRICAL EQUIPMENT ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/en/lagstiftning/lvd/kap-4) · Articles 18–22
+- [Chapter 5 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/en/lagstiftning/lvd/kap-5) · Articles 23–29
 <!-- scan-laws:end -->

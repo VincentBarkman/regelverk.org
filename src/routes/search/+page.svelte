@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { ENTITY_LABEL, SITE_BLURB } from '#lib/meta.js';
 	import { SITES, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
@@ -189,8 +190,11 @@
 			<ul class="mt-2 flex flex-col border-t border-primary/10">
 				{#each filtered as r (`${r.scope}/${r.entity}/${r.id}`)}
 					<li class="border-b border-primary/10">
+						<!-- eslint-disable svelte/no-navigation-without-resolve -->
 						<a
-							href={resolve('/wiki/[...slug]', { slug: `${r.scope}/${r.entity}/${r.id}` })}
+							href={localizeHref(
+								resolve('/wiki/[...slug]', { slug: `${r.scope}/${r.entity}/${r.id}` })
+							)}
 							class="group flex items-center gap-2 py-3 text-sm"
 						>
 							<span class="flex min-w-0 flex-col">
@@ -206,6 +210,7 @@
 							<span class="ml-auto shrink-0 text-xs text-primary/60">{r.scope} / {r.entity}</span>
 							<RiArrowRightSLine class="size-4 shrink-0 text-primary/60" aria-hidden="true" />
 						</a>
+						<!-- eslint-enable svelte/no-navigation-without-resolve -->
 					</li>
 				{/each}
 			</ul>

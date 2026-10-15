@@ -23,71 +23,71 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.13.01 – Boundary Protection
+### <span id="SP_800_171_03.13.01"></span>03.13.01 – Boundary Protection
 
-- SR-03.13.01.a Monitor and control communications at external managed interfaces to the system and key internal managed interfaces within the system.
-- SR-03.13.01.b Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
-- SR-03.13.01.c Connect to external systems only through managed interfaces that consist of boundary protection devices arranged in accordance with an organizational security architecture.
+- <span id="SR-03.13.01.a"></span> SR-03.13.01.a Monitor and control communications at external managed interfaces to the system and key internal managed interfaces within the system.
+- <span id="SR-03.13.01.b"></span> SR-03.13.01.b Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+- <span id="SR-03.13.01.c"></span> SR-03.13.01.c Connect to external systems only through managed interfaces that consist of boundary protection devices arranged in accordance with an organizational security architecture.
 
-### SP_800_171_03.13.02 – 03.13.02
-
-
-
-### SP_800_171_03.13.03 – 03.13.03
+### <span id="SP_800_171_03.13.02"></span>SP_800_171_03.13.02 – 03.13.02
 
 
 
-### 03.13.04 – Information in Shared System Resources
+### <span id="SP_800_171_03.13.03"></span>SP_800_171_03.13.03 – 03.13.03
+
+
+
+### <span id="SP_800_171_03.13.04"></span>03.13.04 – Information in Shared System Resources
 
 Prevent unauthorized and unintended information transfer via shared system resources.
 
-### SP_800_171_03.13.05 – 03.13.05
+### <span id="SP_800_171_03.13.05"></span>SP_800_171_03.13.05 – 03.13.05
 
 
 
-### 03.13.06 – Network Communications – Deny by Default – Allow by Exception
+### <span id="SP_800_171_03.13.06"></span>03.13.06 – Network Communications – Deny by Default – Allow by Exception
 
 Deny network communications traffic by default, and allow network communications traffic by exception.
 
-### SP_800_171_03.13.07 – 03.13.07
+### <span id="SP_800_171_03.13.07"></span>SP_800_171_03.13.07 – 03.13.07
 
 
 
-### 03.13.08 – Transmission and Storage Confidentiality
+### <span id="SP_800_171_03.13.08"></span>03.13.08 – Transmission and Storage Confidentiality
 
 Implement cryptographic mechanisms to prevent the unauthorized disclosure of CUI during transmission and while in storage.
 
-### 03.13.09 – Network Disconnect
+### <span id="SP_800_171_03.13.09"></span>03.13.09 – Network Disconnect
 
 Terminate the network connection associated with a communications session at the end of the session or after [organization-defined time period] of inactivity.
 
-### 03.13.10 – Cryptographic Key Establishment and Management
+### <span id="SP_800_171_03.13.10"></span>03.13.10 – Cryptographic Key Establishment and Management
 
 Establish and manage cryptographic keys in the system in accordance with the following key management requirements: [organization-defined requirements].
 
-### 03.13.11 – Cryptographic Protection
+### <span id="SP_800_171_03.13.11"></span>03.13.11 – Cryptographic Protection
 
 Implement the following types of cryptography to protect the confidentiality of CUI: [organization-defined types of cryptography].
 
-### 03.13.12 – Collaborative Computing Devices and Applications
+### <span id="SP_800_171_03.13.12"></span>03.13.12 – Collaborative Computing Devices and Applications
 
-- SR-03.13.12.a Prohibit the remote activation of collaborative computing devices and applications with the following exceptions: [organization-defined exceptions].
-- SR-03.13.12.b Provide an explicit indication of use to users physically present at the devices.
+- <span id="SR-03.13.12.a"></span> SR-03.13.12.a Prohibit the remote activation of collaborative computing devices and applications with the following exceptions: [organization-defined exceptions].
+- <span id="SR-03.13.12.b"></span> SR-03.13.12.b Provide an explicit indication of use to users physically present at the devices.
 
-### 03.13.13 – Mobile Code
+### <span id="SP_800_171_03.13.13"></span>03.13.13 – Mobile Code
 
-- SR-03.13.13.a Define acceptable mobile code and mobile code technologies.
-- SR-03.13.13.b Authorize, monitor, and control the use of mobile code.
+- <span id="SR-03.13.13.a"></span> SR-03.13.13.a Define acceptable mobile code and mobile code technologies.
+- <span id="SR-03.13.13.b"></span> SR-03.13.13.b Authorize, monitor, and control the use of mobile code.
 
-### SP_800_171_03.13.14 – 03.13.14
+### <span id="SP_800_171_03.13.14"></span>SP_800_171_03.13.14 – 03.13.14
 
 
 
-### 03.13.15 – Session Authenticity
+### <span id="SP_800_171_03.13.15"></span>03.13.15 – Session Authenticity
 
 Protect the authenticity of communications sessions.
 
-### SP_800_171_03.13.16 – 03.13.16
+### <span id="SP_800_171_03.13.16"></span>SP_800_171_03.13.16 – 03.13.16
 
 
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,11 +21,9 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Fysikaliska storheter
-
 ### Inledning
 
-Denna bilaga innehåller de fysikaliska storheter som användas för att beskriva exponering för elektromagnetiska fält och hör till 13 kap. 9 §.
+Denna bilaga innehåller de fysikaliska storheter som användas för att beskriva exponering för elektromagnetiska fält och hör till [13 kap. 9 §](/lagstiftning/afs-2023-10/kap-13#9).
 
 Elektrisk fältstyrka E är en vektorstorhet som motsvarar den kraft som verkar på en laddad partikel oavsett dess rörelse. Denna storhet uttrycks i volt per meter [V/m]. En skillnad måste göras mellan det omgivande elektriska fältet E och det elektriska fält Eind som induceras i kroppen som ett resultat av exponering för externa elektromagnetiska fält.
 

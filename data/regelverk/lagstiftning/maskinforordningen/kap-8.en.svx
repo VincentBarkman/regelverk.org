@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/51ed7804-1617-11ee-806b-01aa75ed71a1.0006.03#cpt_VIII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230#cpt_VIII'
 'sites':
   - 'arbetsmiljo'
   - 'ot'
@@ -24,7 +24,7 @@
 
 ### Article 49 – Confidentiality
 
-1\. All parties shall respect the confidentiality of the following information and data obtained in carrying out their tasks in accordance with [this Regulation](/lagstiftning/maskinforordningen):
+1\. All parties shall respect the confidentiality of the following information and data obtained in carrying out their tasks in accordance with [this Regulation](/en/lagstiftning/maskinforordningen):
 
 (a) personal data;
 
@@ -38,7 +38,7 @@
 
 ### Article 50 – Penalties
 
-1\. Member States shall lay down the rules on penalties applicable to infringements by economic operators of [this Regulation](/lagstiftning/maskinforordningen) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive and may include criminal penalties for serious infringements.
+1\. Member States shall lay down the rules on penalties applicable to infringements by economic operators of [this Regulation](/en/lagstiftning/maskinforordningen) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive and may include criminal penalties for serious infringements.
 
 2\. Member States shall, by 14 October 2026, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
 <!-- scan-laws:end -->

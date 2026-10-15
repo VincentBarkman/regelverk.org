@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-13'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'related':
@@ -24,30 +24,36 @@
 <!-- scan-laws:start -->
 ## Innehåll
 
-- [1 kap. – Avdelning I: Allmänna bestämmelser](/lagstiftning/afs-2023-10/kap-1) · §§ 1–2
-- [2 kap. – Avdelning II: Buller och vibrationer](/lagstiftning/afs-2023-10/kap-2) · §§ 2–12
-- [3 kap. – Avdelning III: Fall och ras](/lagstiftning/afs-2023-10/kap-3) · §§ 4–18
-- [4 kap. – Avdelning IV: Hälsofarliga eller onödigt tröttande fysiska belastningar](/lagstiftning/afs-2023-10/kap-4) · §§ 6–10
-- [5 kap. – Avdelning V: Kemiska riskkällor](/lagstiftning/afs-2023-10/kap-5) · §§ 7–71
-- [6 kap. – Avdelning VI: Smitta](/lagstiftning/afs-2023-10/kap-6) · §§ 11–27
-- [7 kap. – Avdelning VII: Strålning](/lagstiftning/afs-2023-10/kap-7) · §§ 12–31
-- [8 kap. – Övergångsbestämmelser](/lagstiftning/afs-2023-10/kap-8)
-- [Bilaga 1](/lagstiftning/afs-2023-10/bilaga-1)
-- [Bilaga 2](/lagstiftning/afs-2023-10/bilaga-2) · §§ Inledning–2
-- [Bilaga 3](/lagstiftning/afs-2023-10/bilaga-3) · §§ Inledning–2
-- [Bilaga 4](/lagstiftning/afs-2023-10/bilaga-4)
-- [Bilaga 5](/lagstiftning/afs-2023-10/bilaga-5) · §§ Inledning–Individuella faktorer
-- [Bilaga 6](/lagstiftning/afs-2023-10/bilaga-6) · §§ Inledning–Grupp A – Ämnen som inte får hanteras enligt 8 kap. 21
-- [Bilaga 7](/lagstiftning/afs-2023-10/bilaga-7) · §§ Inledning–Svampar
-- [Bilaga 8](/lagstiftning/afs-2023-10/bilaga-8) · §§ Inledning–Definitioner
-- [Bilaga 9](/lagstiftning/afs-2023-10/bilaga-9) · §§ Inledning–Korrektion vid upprepad exponering
-- [Bilaga 10](/lagstiftning/afs-2023-10/bilaga-10)
-- [Bilaga 11](/lagstiftning/afs-2023-10/bilaga-11)
-- [Bilaga 12](/lagstiftning/afs-2023-10/bilaga-12)
-- [Bilaga 13](/lagstiftning/afs-2023-10/bilaga-13)
-- [Bilaga 14](/lagstiftning/afs-2023-10/bilaga-14)
-- [Bilaga 15](/lagstiftning/afs-2023-10/bilaga-15)
-- [Bilaga 16](/lagstiftning/afs-2023-10/bilaga-16)
-- [Bilaga 17](/lagstiftning/afs-2023-10/bilaga-17)
-- [Bilaga 18](/lagstiftning/afs-2023-10/bilaga-18)
+- [1 kap. – Allmänna bestämmelser](/lagstiftning/afs-2023-10/kap-1) · §§ 1–2
+- [2 kap. – Buller](/lagstiftning/afs-2023-10/kap-2) · §§ 1–17
+- [3 kap. – Vibrationer](/lagstiftning/afs-2023-10/kap-3) · §§ 1–12
+- [4 kap. – Skydd mot skada genom fall](/lagstiftning/afs-2023-10/kap-4) · §§ 1–18
+- [5 kap. – Skydd mot skada genom ras](/lagstiftning/afs-2023-10/kap-5) · §§ 1–18
+- [6 kap. – Belastningsergonomi](/lagstiftning/afs-2023-10/kap-6) · §§ 1–10
+- [7 kap. – Övergripande bestämmelser för kemiska riskkällor](/lagstiftning/afs-2023-10/kap-7) · §§ 1–32
+- [8 kap. – Ytterligare bestämmelser för vissa grupper av kemiska ämnen](/lagstiftning/afs-2023-10/kap-8) · §§ 1–28
+- [9 kap. – Kompletterande bestämmelser för vissa riskfyllda arbeten i kombination med kemiska riskkällor](/lagstiftning/afs-2023-10/kap-9) · §§ 1–23
+- [10 kap. – Kompletterande bestämmelser för vissa kemiska riskkällor](/lagstiftning/afs-2023-10/kap-10) · §§ 1–71
+- [11 kap. – Smittrisker](/lagstiftning/afs-2023-10/kap-11) · §§ 1–27
+- [12 kap. – Artificiell optisk strålning](/lagstiftning/afs-2023-10/kap-12) · §§ 1–17
+- [13 kap. – Elektromagnetiska fält](/lagstiftning/afs-2023-10/kap-13) · §§ 1–31
+- [Övergångsbestämmelser](/lagstiftning/afs-2023-10/avsnitt-overgangsbestammelser)
+- [Bilaga 1 – Beräkning av daglig bullerexponeringsnivå](/lagstiftning/afs-2023-10/bilaga-1)
+- [Bilaga 2 – Hand- och armvibrationer](/lagstiftning/afs-2023-10/bilaga-2) · §§ Inledning–2
+- [Bilaga 3 – Helkroppsvibrationer](/lagstiftning/afs-2023-10/bilaga-3) · §§ Inledning–2
+- [Bilaga 4 – Exponeringsvärden för vibrationer](/lagstiftning/afs-2023-10/bilaga-4)
+- [Bilaga 5 – Påverkande faktorer vid manuell hantering](/lagstiftning/afs-2023-10/bilaga-5) · §§ Inledning–Individuella faktorer
+- [Bilaga 6 – Ämnen med förbud eller tillståndskrav](/lagstiftning/afs-2023-10/bilaga-6) · §§ Inledning–Grupp A – Ämnen som inte får hanteras enligt 8 kap. 21
+- [Bilaga 7 – Tabeller över smittämnen med tillhörande riskklass](/lagstiftning/afs-2023-10/bilaga-7) · §§ Inledning–Svampar
+- [Bilaga 8 – Artificiell icke-koherent optisk strålning](/lagstiftning/afs-2023-10/bilaga-8) · §§ Inledning–Definitioner
+- [Bilaga 9 – Artificiell optisk strålning från laser](/lagstiftning/afs-2023-10/bilaga-9) · §§ Inledning–Korrektion vid upprepad exponering
+- [Bilaga 10 – Fysikaliska storheter](/lagstiftning/afs-2023-10/bilaga-10)
+- [Bilaga 11 – Gränsvärden för exponering för statiska magnetiska fält](/lagstiftning/afs-2023-10/bilaga-11)
+- [Bilaga 12 – Insatsnivåer för statiska magnetiska fält](/lagstiftning/afs-2023-10/bilaga-12)
+- [Bilaga 13 – Gränsvärden för exponering för tidsvarierande elektriska och magnetiska fält](/lagstiftning/afs-2023-10/bilaga-13)
+- [Bilaga 14 – Insatsnivåer för tidsvarierande elektriska fält](/lagstiftning/afs-2023-10/bilaga-14)
+- [Bilaga 15 – Insatsnivåer för tidsvarierande magnetiska fält](/lagstiftning/afs-2023-10/bilaga-15)
+- [Bilaga 16 – Gränsvärden för exponering för elektromagnetiska fält](/lagstiftning/afs-2023-10/bilaga-16)
+- [Bilaga 17 – Insatsnivåer för elektromagnetiska fält](/lagstiftning/afs-2023-10/bilaga-17)
+- [Bilaga 18 – Insatsnivåer för kontaktström och inducerad ström](/lagstiftning/afs-2023-10/bilaga-18)
 <!-- scan-laws:end -->

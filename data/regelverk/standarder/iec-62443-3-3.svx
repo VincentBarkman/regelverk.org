@@ -25,4 +25,9 @@ Del 3-3 beskriver tekniska säkerhetskrav för industriella automations- och sty
 Kraven är ordnade efter sju grundläggande säkerhetsområden, bland annat identifiering, åtkomstkontroll, systemintegritet och tillgänglighet. Säkerhetsnivåer måste väljas utifrån systemets riskbedömning; en katalogpost ersätter inte standardtexten.
 
 Officiell källa: [IEC 62443-3-3:2013](https://webstore.iec.ch/en/publication/7033).
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [NIS2-direktivet](/lagstiftning/nis2)
 <!-- scan-standards:end -->

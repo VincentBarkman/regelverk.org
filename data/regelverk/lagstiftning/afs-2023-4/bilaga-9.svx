@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### EG-typkontroll
 
 ### Inledning
 
@@ -43,11 +41,11 @@ Sökanden ska vidare tillhandahålla det anmälda organet ett exemplar. Det anm�
 
 Det anmälda organet ska göra följande:
 
-Granska den tekniska tillverkningsdokumentationen, verifiera att typen är tillverkad i enlighet med denna samt fastställa vilka delar som konstruerats i överensstämmelse med tillämpliga bestämmelser i de standarder som avses i [9 §](/lagstiftning/afs-2023-4/kap-2#9), och vilka delar som inte är konstruerade i enlighet med relevanta bestämmelser i dessa standarder.
+Granska den tekniska tillverkningsdokumentationen, verifiera att typen är tillverkad i enlighet med denna samt fastställa vilka delar som konstruerats i överensstämmelse med tillämpliga bestämmelser i de standarder som avses i [9 §](/lagstiftning/afs-2023-4/avsnitt-slappa-ut-pa-marknaden-eller-ta-i-drift#9), och vilka delar som inte är konstruerade i enlighet med relevanta bestämmelser i dessa standarder.
 
-Utföra eller låta utföra relevanta inspektioner, mätningar och prov för att förvissa sig om att de valda lösningarna uppfyller de grundläggande hälso- och säkerhetskraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042), när de standarder som avses i [9 §](/lagstiftning/afs-2023-4/kap-2#9) inte tillämpats.
+Utföra eller låta utföra relevanta inspektioner, mätningar och prov för att förvissa sig om att de valda lösningarna uppfyller de grundläggande hälso- och säkerhetskraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042), när de standarder som avses i [9 §](/lagstiftning/afs-2023-4/avsnitt-slappa-ut-pa-marknaden-eller-ta-i-drift#9) inte tillämpats.
 
-Då de harmoniserade standarder som avses i [9 §](/lagstiftning/afs-2023-4/kap-2#9) använts, utföra eller låta utföra de relevanta inspektioner, mätningar och prov som krävs för att verifiera om dessa verkligen tillämpats.
+Då de harmoniserade standarder som avses i [9 §](/lagstiftning/afs-2023-4/avsnitt-slappa-ut-pa-marknaden-eller-ta-i-drift#9) använts, utföra eller låta utföra de relevanta inspektioner, mätningar och prov som krävs för att verifiera om dessa verkligen tillämpats.
 
 I samråd med sökanden bestämma på vilken plats kontrollen av att typen som tillverkats enligt den granskade tekniska tillverkningsdokumentationen och de nödvändiga inspektionerna, mätningarna och proven ska genomföras.
 

@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03#cpt_3'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0030#cpt_3'
 'sites':
   - 'el'
 ---
@@ -43,7 +43,7 @@ The manufacturer may choose to restrict the application of the procedure referre
 
 3\. Where apparatus is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned including their publication references.
 
-4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the apparatus with the requirements laid down in [this Directive](/lagstiftning/emc).
+4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the apparatus with the requirements laid down in [this Directive](/en/lagstiftning/emc).
 
 ### Article 16 – General principles of the CE marking
 
@@ -67,11 +67,11 @@ The CE marking shall be subject to the general principles set out in Article [30
 
 ### Article 19 – Fixed installations
 
-1\. Apparatus which has been made available on the market and which may be incorporated into a fixed installation shall be subject to all relevant provisions for apparatus set out in [this Directive](/lagstiftning/emc).
+1\. Apparatus which has been made available on the market and which may be incorporated into a fixed installation shall be subject to all relevant provisions for apparatus set out in [this Directive](/en/lagstiftning/emc).
 
-However, the requirements of Articles [6](/lagstiftning/emc/kap-1#article-6-essential-requirements) to 12 and Articles [14](/lagstiftning/lso) to 18 shall not be compulsory in the case of apparatus which is intended for incorporation into a particular fixed installation and is otherwise not made available on the market.
+However, the requirements of Articles [6](/en/lagstiftning/emc/kap-1#article-6-essential-requirements) to 12 and Articles [14](/lagstiftning/lso) to 18 shall not be compulsory in the case of apparatus which is intended for incorporation into a particular fixed installation and is otherwise not made available on the market.
 
-In such cases, the accompanying documentation shall identify the fixed installation and its electromagnetic compatibility characteristics and shall indicate the precautions to be taken for the incorporation of the apparatus into the fixed installation in order not to compromise the conformity of that installation. It shall also include the information referred to in Article [7](/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers)(5) and (6) and Article [9](/lagstiftning/emc/kap-2#article-9-obligations-of-importers)(3).
+In such cases, the accompanying documentation shall identify the fixed installation and its electromagnetic compatibility characteristics and shall indicate the precautions to be taken for the incorporation of the apparatus into the fixed installation in order not to compromise the conformity of that installation. It shall also include the information referred to in Article [7](/en/lagstiftning/emc/kap-2#article-7-obligations-of-manufacturers)(5) and (6) and Article [9](/en/lagstiftning/emc/kap-2#article-9-obligations-of-importers)(3).
 
 The good engineering practices referred to in point 2 of Annex I shall be documented and the documentation shall be held by the person or persons responsible at the disposal of the relevant national authorities for inspection for as long as the fixed installation is in operation.
 

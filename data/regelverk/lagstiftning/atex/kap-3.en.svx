@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0006.03#cpt_3'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0034#cpt_3'
 'sites':
   - 'brandskydd'
   - 'el'
@@ -30,7 +30,7 @@
 
 ### Article 13 – Conformity assessment procedures
 
-1\. The procedures to be followed for assessing the conformity of equipment and, where necessary, the devices referred to in point (b) of Article [1](/lagstiftning/atex/kap-1#article-1-scope)(1) shall be as follows:
+1\. The procedures to be followed for assessing the conformity of equipment and, where necessary, the devices referred to in point (b) of Article [1](/en/lagstiftning/atex/kap-1#article-1-scope)(1) shall be as follows:
 
 (a) for equipment-groups I and II, equipment-categories M 1 and 1, the EU-type examination set out in Annex III, in conjunction with either of the following:
 
@@ -54,7 +54,7 @@
 
 2\. The procedure referred to in point (a) or (d) of paragraph 1 shall be used for conformity assessment of protective systems.
 
-3\. The procedures referred to in paragraph 1 shall be applied in respect of components with the exception of the affixing of the CE marking and the drawing up of the EU declaration of conformity. A written attestation of conformity shall be issued by the manufacturer, declaring the conformity of the components with the applicable provisions of [this Directive](/lagstiftning/atex) and stating their characteristics and how they must be incorporated into equipment or protective systems to assist compliance with the essential health and safety requirements set out in Annex II applicable to finished equipment or protective systems.
+3\. The procedures referred to in paragraph 1 shall be applied in respect of components with the exception of the affixing of the CE marking and the drawing up of the EU declaration of conformity. A written attestation of conformity shall be issued by the manufacturer, declaring the conformity of the components with the applicable provisions of [this Directive](/en/lagstiftning/atex) and stating their characteristics and how they must be incorporated into equipment or protective systems to assist compliance with the essential health and safety requirements set out in Annex II applicable to finished equipment or protective systems.
 
 4\. With regard to the safety aspects referred to in point 1.2.7 of Annex II, in addition to the conformity assessment procedures referred to in paragraphs 1 and 2, the procedure referred to in Annex VIII may also be followed.
 
@@ -70,7 +70,7 @@
 
 3\. Where a product is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned, including their publication references.
 
-4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with the requirements laid down in [this Directive](/lagstiftning/atex).
+4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with the requirements laid down in [this Directive](/en/lagstiftning/atex).
 
 ### Article 15 – General principles of the CE marking
 

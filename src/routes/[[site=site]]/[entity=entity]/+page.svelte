@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, SITE_BLURB, logoDarkClass } from '#lib/meta.js';
@@ -53,24 +54,30 @@
 	};
 
 	const listHref = (ent: Entity, id: string) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]/[...id]',
-					scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
-				)
-			: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]/[...id]',
+						scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
+					)
+				: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`
+		);
 
 	const recordHref = (id: string) => listHref(entity, id);
 
 	const pageHref = (slug: string) =>
-		dev
-			? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
-			: `https://${host}/wiki/${scope}/pages/${slug}`;
+		localizeHref(
+			dev
+				? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
+				: `https://${host}/wiki/${scope}/pages/${slug}`
+		);
 
 	const homeHref = () =>
-		dev
-			? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
-			: `https://${host}`;
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}`
+		);
 
 	const crumbs = $derived([
 		{ label: m.nav_home(), href: homeHref() },
@@ -127,11 +134,11 @@
 	<title>{ENTITY_LABEL[entity]()} · {host}</title>
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
 	<meta name="description" content={SITE_BLURB[scope]()} />
-	<link rel="canonical" href="https://{host}/{entity}" />
+	<link rel="canonical" href={localizeHref(`https://${host}/${entity}`)} />
 	<OgMeta
 		title="{ENTITY_LABEL[entity]()} · {host}"
 		description={LEDE[entity]()}
-		url="https://{host}/{entity}"
+		url={localizeHref(`https://${host}/${entity}`)}
 	/>
 </svelte:head>
 

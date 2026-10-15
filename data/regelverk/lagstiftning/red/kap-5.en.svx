@@ -11,10 +11,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0006.02#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0053#cpt_V'
 'sites':
   - 'el'
   - 'it'
@@ -25,13 +25,13 @@
 
 ### Article 39 – Union market surveillance and control of radio equipment entering the Union market
 
-Article [15](/lagstiftning/red/kap-2#article-15-identification-of-economic-operators)(3) and Articles [16](/lagstiftning/red/kap-3#article-16-presumption-of-conformity-of-radio-equipment) to 29 of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) shall apply to radio equipment.
+Article [15](/en/lagstiftning/red/kap-2#article-15-identification-of-economic-operators)(3) and Articles [16](/en/lagstiftning/red/kap-3#article-16-presumption-of-conformity-of-radio-equipment) to 29 of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) shall apply to radio equipment.
 
 ### Article 40 – Procedure for dealing with radio equipment presenting a risk at national level
 
-1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that radio equipment covered by [this Directive](/lagstiftning/red) presents a risk to the health or safety of persons or to other aspects of public interest protection covered by [this Directive](/lagstiftning/red), they shall carry out an evaluation in relation to the radio equipment concerned covering all relevant requirements laid down in [this Directive](/lagstiftning/red). The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
+1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that radio equipment covered by [this Directive](/en/lagstiftning/red) presents a risk to the health or safety of persons or to other aspects of public interest protection covered by [this Directive](/en/lagstiftning/red), they shall carry out an evaluation in relation to the radio equipment concerned covering all relevant requirements laid down in [this Directive](/en/lagstiftning/red). The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
 
-Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the radio equipment does not comply with the requirements laid down in [this Directive](/lagstiftning/red), they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the radio equipment into compliance with those requirements, to withdraw the radio equipment from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the radio equipment does not comply with the requirements laid down in [this Directive](/en/lagstiftning/red), they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the radio equipment into compliance with those requirements, to withdraw the radio equipment from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
 
 The market surveillance authorities shall inform the relevant notified body accordingly.
 
@@ -47,9 +47,9 @@ The market surveillance authorities shall inform the Commission and the other Me
 
 5\. The information referred to in the second subparagraph of paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant radio equipment, the origin of the radio equipment, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:
 
-(a) failure of the radio equipment to meet the relevant essential requirements set out in Article [3](/lagstiftning/red/kap-1#article-3-essential-requirements); or
+(a) failure of the radio equipment to meet the relevant essential requirements set out in Article [3](/en/lagstiftning/red/kap-1#article-3-essential-requirements); or
 
-(b) shortcomings in the harmonised standards referred to in Article [16](/lagstiftning/red/kap-3#article-16-presumption-of-conformity-of-radio-equipment) conferring a presumption of conformity.
+(b) shortcomings in the harmonised standards referred to in Article [16](/en/lagstiftning/red/kap-3#article-16-presumption-of-conformity-of-radio-equipment) conferring a presumption of conformity.
 
 6\. Member States other than the Member State initiating the procedure under [this Article](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level) shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the radio equipment concerned, and, in the event of disagreement with the adopted national measure, of their objections.
 
@@ -65,11 +65,11 @@ The Commission shall address its decision to all Member States and shall immedia
 
 2\. If the national measure is considered justified, all Member States shall take the necessary measures to ensure that the non-compliant radio equipment is withdrawn or recalled from their market, and shall inform the Commission accordingly. If the national measure is considered unjustified, the Member State concerned shall withdraw that measure.
 
-3\. Where the national measure is considered justified and the non-compliance of the radio equipment is attributed to shortcomings in the harmonised standards referred to in point (b) of Article [40](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level)(5) of [this Directive](/lagstiftning/red), the Commission shall apply the procedure provided for in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
+3\. Where the national measure is considered justified and the non-compliance of the radio equipment is attributed to shortcomings in the harmonised standards referred to in point (b) of Article [40](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level)(5) of [this Directive](/en/lagstiftning/red), the Commission shall apply the procedure provided for in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
 
 ### Article 42 – Compliant radio equipment which presents a risk
 
-1\. Where, having carried out an evaluation under Article [40](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level)(1), a Member State finds that although radio equipment is in compliance with [this Directive](/lagstiftning/red), it presents a risk to the health or safety of persons or to other aspects of public interest protection covered by [this Directive](/lagstiftning/red), it shall require the relevant economic operator to take all appropriate measures to ensure that the radio equipment concerned, when placed on the market, no longer presents that risk, to withdraw the radio equipment from the market or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
+1\. Where, having carried out an evaluation under Article [40](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level)(1), a Member State finds that although radio equipment is in compliance with [this Directive](/en/lagstiftning/red), it presents a risk to the health or safety of persons or to other aspects of public interest protection covered by [this Directive](/en/lagstiftning/red), it shall require the relevant economic operator to take all appropriate measures to ensure that the radio equipment concerned, when placed on the market, no longer presents that risk, to withdraw the radio equipment from the market or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
 
 2\. The economic operator shall ensure that corrective action is taken in respect of all the radio equipment concerned that he has made available on the market throughout the Union.
 
@@ -77,9 +77,9 @@ The Commission shall address its decision to all Member States and shall immedia
 
 4\. The Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measures taken. On the basis of the results of that evaluation, the Commission shall decide by means of implementing acts whether the national measure is justified or not and, where necessary, propose appropriate measures.
 
-The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article [45](/lagstiftning/red/kap-6#article-45-committee-procedure)(3).
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article [45](/en/lagstiftning/red/kap-6#article-45-committee-procedure)(3).
 
-On duly justified imperative grounds of urgency relating to the protection of health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article [45](/lagstiftning/red/kap-6#article-45-committee-procedure)(4).
+On duly justified imperative grounds of urgency relating to the protection of health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article [45](/en/lagstiftning/red/kap-6#article-45-committee-procedure)(4).
 
 5\. The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
 
@@ -87,11 +87,11 @@ On duly justified imperative grounds of urgency relating to the protection of he
 
 1\. Without prejudice to Article [40](#article-40-procedure-for-dealing-with-radio-equipment-presenting-a-risk-at-national-level), where a Member State makes one of the following findings, it shall require the relevant economic operator to put an end to the non-compliance concerned:
 
-(a) the CE marking has been affixed in violation of Article [30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) or of Article [20](/lagstiftning/red/kap-3#article-20-rules-and-conditions-for-affixing-the-ce-marking-and-the-identification-number-of-the-notified-body) of [this Directive](/lagstiftning/red);
+(a) the CE marking has been affixed in violation of Article [30](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) or of Article [20](/en/lagstiftning/red/kap-3#article-20-rules-and-conditions-for-affixing-the-ce-marking-and-the-identification-number-of-the-notified-body) of [this Directive](/en/lagstiftning/red);
 
 (b) the CE marking has not been affixed;
 
-(c) the identification number of the notified body, where the conformity assessment procedure set out in Annex IV is applied, has been affixed in violation of Article [20](/lagstiftning/red/kap-3#article-20-rules-and-conditions-for-affixing-the-ce-marking-and-the-identification-number-of-the-notified-body) or has not been affixed;
+(c) the identification number of the notified body, where the conformity assessment procedure set out in Annex IV is applied, has been affixed in violation of Article [20](/en/lagstiftning/red/kap-3#article-20-rules-and-conditions-for-affixing-the-ce-marking-and-the-identification-number-of-the-notified-body) or has not been affixed;
 
 (d) the EU declaration of conformity has not been drawn up;
 
@@ -99,13 +99,13 @@ On duly justified imperative grounds of urgency relating to the protection of he
 
 (f) technical documentation is either not available or not complete;
 
-(g) the information referred to in Article [10](/lagstiftning/red/kap-2#article-10-obligations-of-manufacturers)(6) or (7) or Article [12](/lagstiftning/red/kap-2#article-12-obligations-of-importers)(3) is absent, false or incomplete;
+(g) the information referred to in Article [10](/en/lagstiftning/red/kap-2#article-10-obligations-of-manufacturers)(6) or (7) or Article [12](/en/lagstiftning/red/kap-2#article-12-obligations-of-importers)(3) is absent, false or incomplete;
 
-(h) information on the intended use of radio equipment, the EU declaration of conformity or usage restrictions as set out in Article [10](/lagstiftning/red/kap-2#article-10-obligations-of-manufacturers)(8), (9) and (10) does not accompany the radio equipment;
+(h) information on the intended use of radio equipment, the EU declaration of conformity or usage restrictions as set out in Article [10](/en/lagstiftning/red/kap-2#article-10-obligations-of-manufacturers)(8), (9) and (10) does not accompany the radio equipment;
 
-(i) requirements on identification of economic operators set out in Article [15](/lagstiftning/red/kap-2#article-15-identification-of-economic-operators) are not fulfilled;
+(i) requirements on identification of economic operators set out in Article [15](/en/lagstiftning/red/kap-2#article-15-identification-of-economic-operators) are not fulfilled;
 
-(j) Article [5](/lagstiftning/red/kap-1#article-5-registration-of-radio-equipment-types-within-some-categories) is not complied with.
+(j) Article [5](/en/lagstiftning/red/kap-1#article-5-registration-of-radio-equipment-types-within-some-categories) is not complied with.
 
 2\. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit corresponding radio equipment being made available on the market or ensure that it is withdrawn or recalled from the market.
 <!-- scan-laws:end -->

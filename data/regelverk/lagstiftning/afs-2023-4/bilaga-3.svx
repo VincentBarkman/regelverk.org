@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### CE-märkning
 
 ### CE-märkning
 
@@ -35,7 +33,7 @@ Undantag från det minimimått som följer av [Europaparlamentets och rådets f�
 
 CE-märkning ska anbringas i omedelbar närhet av namnet på tillverkaren eller dennes representant, och med samma teknik.
 
-Om förfarandet för fullständig kvalitetssäkring enligt [12 §](/lagstiftning/afs-2023-4/kap-2#12) c) och [13 §](/lagstiftning/afs-2023-4/kap-2#13) b) har tillämpats, ska CE-märkningen följas av det anmälda organets identifikationsnummer.
+Om förfarandet för fullständig kvalitetssäkring enligt [12 §](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#12) c) och [13 §](/lagstiftning/afs-2023-4/avsnitt-forfarande-for-bedomning-av-overensstammelse-for-maskiner#13) b) har tillämpats, ska CE-märkningen följas av det anmälda organets identifikationsnummer.
 <!-- scan-laws:end -->
 
 ## Tolkning

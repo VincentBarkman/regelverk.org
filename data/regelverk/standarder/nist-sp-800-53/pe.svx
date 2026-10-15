@@ -24,278 +24,278 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### PE-1 – Policy and Procedures
+### <span id="pe-1"></span>PE-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1. [organization-level or mission/business process-level or system-level] physical and environmental protection policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the physical and environmental protection policy and the associated physical and environmental protection controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the physical and environmental protection policy and procedures; and
-- c. Review and update the current physical and environmental protection:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="pe-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="pe-1_smt.a.1"></span> 1. [organization-level or mission/business process-level or system-level] physical and environmental protection policy that:
+    - <span id="pe-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="pe-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="pe-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the physical and environmental protection policy and the associated physical and environmental protection controls;
+- <span id="pe-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the physical and environmental protection policy and procedures; and
+- <span id="pe-1_smt.c"></span> c. Review and update the current physical and environmental protection:
+  - <span id="pe-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="pe-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### PE-2 – Physical Access Authorizations
+### <span id="pe-2"></span>PE-2 – Physical Access Authorizations
 
-- a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;
-- b. Issue authorization credentials for facility access;
-- c. Review the access list detailing authorized facility access by individuals [organization-defined frequency] ; and
-- d. Remove individuals from the facility access list when access is no longer required.
+- <span id="pe-2_smt.a"></span> a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;
+- <span id="pe-2_smt.b"></span> b. Issue authorization credentials for facility access;
+- <span id="pe-2_smt.c"></span> c. Review the access list detailing authorized facility access by individuals [organization-defined frequency] ; and
+- <span id="pe-2_smt.d"></span> d. Remove individuals from the facility access list when access is no longer required.
 
-#### PE-2(1) – Access by Position or Role
+#### <span id="pe-2.1"></span>PE-2(1) – Access by Position or Role
 
 Authorize physical access to the facility where the system resides based on position or role.
 
-#### PE-2(2) – Two Forms of Identification
+#### <span id="pe-2.2"></span>PE-2(2) – Two Forms of Identification
 
 Require two forms of identification from the following forms of identification for visitor access to the facility where the system resides: [organization-defined list of acceptable forms of identification].
 
-#### PE-2(3) – Restrict Unescorted Access
+#### <span id="pe-2.3"></span>PE-2(3) – Restrict Unescorted Access
 
 Restrict unescorted access to the facility where the system resides to personnel with [security clearances for all information contained within the system or formal access authorizations for all information contained within the system or need for access to all information contained within the system or [organization-defined physical access authorizations] ].
 
-### PE-3 – Physical Access Control
+### <span id="pe-3"></span>PE-3 – Physical Access Control
 
-- a. Enforce physical access authorizations at [organization-defined entry and exit points] by:
-  - 1. Verifying individual access authorizations before granting access to the facility; and
-  - 2. Controlling ingress and egress to the facility using [[organization-defined systems or devices]  or guards];
-- b. Maintain physical access audit logs for [organization-defined entry or exit points];
-- c. Control access to areas within the facility designated as publicly accessible by implementing the following controls: [organization-defined physical access controls];
-- d. Escort visitors and control visitor activity [organization-defined circumstances];
-- e. Secure keys, combinations, and other physical access devices;
-- f. Inventory [organization-defined physical access devices] every [organization-defined frequency] ; and
-- g. Change combinations and keys [organization-defined frequency] and/or when keys are lost, combinations are compromised, or when individuals possessing the keys or combinations are transferred or terminated.
+- <span id="pe-3_smt.a"></span> a. Enforce physical access authorizations at [organization-defined entry and exit points] by:
+  - <span id="pe-3_smt.a.1"></span> 1. Verifying individual access authorizations before granting access to the facility; and
+  - <span id="pe-3_smt.a.2"></span> 2. Controlling ingress and egress to the facility using [[organization-defined systems or devices]  or guards];
+- <span id="pe-3_smt.b"></span> b. Maintain physical access audit logs for [organization-defined entry or exit points];
+- <span id="pe-3_smt.c"></span> c. Control access to areas within the facility designated as publicly accessible by implementing the following controls: [organization-defined physical access controls];
+- <span id="pe-3_smt.d"></span> d. Escort visitors and control visitor activity [organization-defined circumstances];
+- <span id="pe-3_smt.e"></span> e. Secure keys, combinations, and other physical access devices;
+- <span id="pe-3_smt.f"></span> f. Inventory [organization-defined physical access devices] every [organization-defined frequency] ; and
+- <span id="pe-3_smt.g"></span> g. Change combinations and keys [organization-defined frequency] and/or when keys are lost, combinations are compromised, or when individuals possessing the keys or combinations are transferred or terminated.
 
-#### PE-3(1) – System Access
+#### <span id="pe-3.1"></span>PE-3(1) – System Access
 
 Enforce physical access authorizations to the system in addition to the physical access controls for the facility at [organization-defined physical spaces].
 
-#### PE-3(2) – Facility and Systems
+#### <span id="pe-3.2"></span>PE-3(2) – Facility and Systems
 
 Perform security checks [organization-defined frequency] at the physical perimeter of the facility or system for exfiltration of information or removal of system components.
 
-#### PE-3(3) – Continuous Guards
+#### <span id="pe-3.3"></span>PE-3(3) – Continuous Guards
 
 Employ guards to control [organization-defined physical access points] to the facility where the system resides 24 hours per day, 7 days per week.
 
-#### PE-3(4) – Lockable Casings
+#### <span id="pe-3.4"></span>PE-3(4) – Lockable Casings
 
 Use lockable physical casings to protect [organization-defined system components] from unauthorized physical access.
 
-#### PE-3(5) – Tamper Protection
+#### <span id="pe-3.5"></span>PE-3(5) – Tamper Protection
 
 Employ [organization-defined anti-tamper technologies] to [detect or prevent] physical tampering or alteration of [organization-defined hardware components] within the system.
 
-#### PE-3(6) – Facility Penetration Testing
+#### <span id="pe-3.6"></span>PE-3(6) – Facility Penetration Testing
 
 
 
-#### PE-3(7) – Physical Barriers
+#### <span id="pe-3.7"></span>PE-3(7) – Physical Barriers
 
 Limit access using physical barriers.
 
-#### PE-3(8) – Access Control Vestibules
+#### <span id="pe-3.8"></span>PE-3(8) – Access Control Vestibules
 
 Employ access control vestibules at [organization-defined locations].
 
-### PE-4 – Access Control for Transmission
+### <span id="pe-4"></span>PE-4 – Access Control for Transmission
 
 Control physical access to [organization-defined system distribution and transmission lines] within organizational facilities using [organization-defined security controls].
 
-### PE-5 – Access Control for Output Devices
+### <span id="pe-5"></span>PE-5 – Access Control for Output Devices
 
 Control physical access to output from [organization-defined output devices] to prevent unauthorized individuals from obtaining the output.
 
-#### PE-5(1) – Access to Output by Authorized Individuals
+#### <span id="pe-5.1"></span>PE-5(1) – Access to Output by Authorized Individuals
 
 
 
-#### PE-5(2) – Link to Individual Identity
+#### <span id="pe-5.2"></span>PE-5(2) – Link to Individual Identity
 
 Link individual identity to receipt of output from output devices.
 
-#### PE-5(3) – Marking Output Devices
+#### <span id="pe-5.3"></span>PE-5(3) – Marking Output Devices
 
 
 
-### PE-6 – Monitoring Physical Access
+### <span id="pe-6"></span>PE-6 – Monitoring Physical Access
 
-- a. Monitor physical access to the facility where the system resides to detect and respond to physical security incidents;
-- b. Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events] ; and
-- c. Coordinate results of reviews and investigations with the organizational incident response capability.
+- <span id="pe-6_smt.a"></span> a. Monitor physical access to the facility where the system resides to detect and respond to physical security incidents;
+- <span id="pe-6_smt.b"></span> b. Review physical access logs [organization-defined frequency] and upon occurrence of [organization-defined events] ; and
+- <span id="pe-6_smt.c"></span> c. Coordinate results of reviews and investigations with the organizational incident response capability.
 
-#### PE-6(1) – Intrusion Alarms and Surveillance Equipment
+#### <span id="pe-6.1"></span>PE-6(1) – Intrusion Alarms and Surveillance Equipment
 
 Monitor physical access to the facility where the system resides using physical intrusion alarms and surveillance equipment.
 
-#### PE-6(2) – Automated Intrusion Recognition and Responses
+#### <span id="pe-6.2"></span>PE-6(2) – Automated Intrusion Recognition and Responses
 
 Recognize [organization-defined classes or types of intrusions] and initiate [organization-defined response actions] using [organization-defined automated mechanisms].
 
-#### PE-6(3) – Video Surveillance
+#### <span id="pe-6.3"></span>PE-6(3) – Video Surveillance
 
-- (a) Employ video surveillance of [organization-defined operational areas];
-- (b) Review video recordings [organization-defined frequency] ; and
-- (c) Retain video recordings for [organization-defined time period].
+- <span id="pe-6.3_smt.a"></span> (a) Employ video surveillance of [organization-defined operational areas];
+- <span id="pe-6.3_smt.b"></span> (b) Review video recordings [organization-defined frequency] ; and
+- <span id="pe-6.3_smt.c"></span> (c) Retain video recordings for [organization-defined time period].
 
-#### PE-6(4) – Monitoring Physical Access to Systems
+#### <span id="pe-6.4"></span>PE-6(4) – Monitoring Physical Access to Systems
 
 Monitor physical access to the system in addition to the physical access monitoring of the facility at [organization-defined physical spaces].
 
-### PE-7 – Visitor Control
+### <span id="pe-7"></span>PE-7 – Visitor Control
 
 
 
-### PE-8 – Visitor Access Records
+### <span id="pe-8"></span>PE-8 – Visitor Access Records
 
-- a. Maintain visitor access records to the facility where the system resides for [organization-defined time period];
-- b. Review visitor access records [organization-defined frequency] ; and
-- c. Report anomalies in visitor access records to [organization-defined personnel].
+- <span id="pe-8_smt.a"></span> a. Maintain visitor access records to the facility where the system resides for [organization-defined time period];
+- <span id="pe-8_smt.b"></span> b. Review visitor access records [organization-defined frequency] ; and
+- <span id="pe-8_smt.c"></span> c. Report anomalies in visitor access records to [organization-defined personnel].
 
-#### PE-8(1) – Automated Records Maintenance and Review
+#### <span id="pe-8.1"></span>PE-8(1) – Automated Records Maintenance and Review
 
 Maintain and review visitor access records using [organization-defined automated mechanisms].
 
-#### PE-8(2) – Physical Access Records
+#### <span id="pe-8.2"></span>PE-8(2) – Physical Access Records
 
 
 
-#### PE-8(3) – Limit Personally Identifiable Information Elements
+#### <span id="pe-8.3"></span>PE-8(3) – Limit Personally Identifiable Information Elements
 
 Limit personally identifiable information contained in visitor access records to the following elements identified in the privacy risk assessment: [organization-defined elements].
 
-### PE-9 – Power Equipment and Cabling
+### <span id="pe-9"></span>PE-9 – Power Equipment and Cabling
 
 Protect power equipment and power cabling for the system from damage and destruction.
 
-#### PE-9(1) – Redundant Cabling
+#### <span id="pe-9.1"></span>PE-9(1) – Redundant Cabling
 
 Employ redundant power cabling paths that are physically separated by [organization-defined distance].
 
-#### PE-9(2) – Automatic Voltage Controls
+#### <span id="pe-9.2"></span>PE-9(2) – Automatic Voltage Controls
 
 Employ automatic voltage controls for [organization-defined critical system components].
 
-### PE-10 – Emergency Shutoff
+### <span id="pe-10"></span>PE-10 – Emergency Shutoff
 
-- a. Provide the capability of shutting off power to [organization-defined system or individual system components] in emergency situations;
-- b. Place emergency shutoff switches or devices in [organization-defined location] to facilitate access for authorized personnel; and
-- c. Protect emergency power shutoff capability from unauthorized activation.
+- <span id="pe-10_smt.a"></span> a. Provide the capability of shutting off power to [organization-defined system or individual system components] in emergency situations;
+- <span id="pe-10_smt.b"></span> b. Place emergency shutoff switches or devices in [organization-defined location] to facilitate access for authorized personnel; and
+- <span id="pe-10_smt.c"></span> c. Protect emergency power shutoff capability from unauthorized activation.
 
-#### PE-10(1) – Accidental and Unauthorized Activation
+#### <span id="pe-10.1"></span>PE-10(1) – Accidental and Unauthorized Activation
 
 
 
-### PE-11 – Emergency Power
+### <span id="pe-11"></span>PE-11 – Emergency Power
 
 Provide an uninterruptible power supply to facilitate [an orderly shutdown of the system or transition of the system to long-term alternate power] in the event of a primary power source loss.
 
-#### PE-11(1) – Alternate Power Supply — Minimal Operational Capability
+#### <span id="pe-11.1"></span>PE-11(1) – Alternate Power Supply — Minimal Operational Capability
 
 Provide an alternate power supply for the system that is activated [manually or automatically] and that can maintain minimally required operational capability in the event of an extended loss of the primary power source.
 
-#### PE-11(2) – Alternate Power Supply — Self-contained
+#### <span id="pe-11.2"></span>PE-11(2) – Alternate Power Supply — Self-contained
 
 Provide an alternate power supply for the system that is activated [manually or automatically] and that is:
-- (a) Self-contained;
-- (b) Not reliant on external power generation; and
-- (c) Capable of maintaining [minimally required operational capability or full operational capability] in the event of an extended loss of the primary power source.
+- <span id="pe-11.2_smt.a"></span> (a) Self-contained;
+- <span id="pe-11.2_smt.b"></span> (b) Not reliant on external power generation; and
+- <span id="pe-11.2_smt.c"></span> (c) Capable of maintaining [minimally required operational capability or full operational capability] in the event of an extended loss of the primary power source.
 
-### PE-12 – Emergency Lighting
+### <span id="pe-12"></span>PE-12 – Emergency Lighting
 
 Employ and maintain automatic emergency lighting for the system that activates in the event of a power outage or disruption and that covers emergency exits and evacuation routes within the facility.
 
-#### PE-12(1) – Essential Mission and Business Functions
+#### <span id="pe-12.1"></span>PE-12(1) – Essential Mission and Business Functions
 
 Provide emergency lighting for all areas within the facility supporting essential mission and business functions.
 
-### PE-13 – Fire Protection
+### <span id="pe-13"></span>PE-13 – Fire Protection
 
 Employ and maintain fire detection and suppression systems that are supported by an independent energy source.
 
-#### PE-13(1) – Detection Systems — Automatic Activation and Notification
+#### <span id="pe-13.1"></span>PE-13(1) – Detection Systems — Automatic Activation and Notification
 
 Employ fire detection systems that activate automatically and notify [organization-defined personnel or roles] and [organization-defined emergency responders] in the event of a fire.
 
-#### PE-13(2) – Suppression Systems — Automatic Activation and Notification
+#### <span id="pe-13.2"></span>PE-13(2) – Suppression Systems — Automatic Activation and Notification
 
-- (a) Employ fire suppression systems that activate automatically and notify [organization-defined personnel or roles] and [organization-defined emergency responders] ; and
-- (b) Employ an automatic fire suppression capability when the facility is not staffed on a continuous basis.
+- <span id="pe-13.2_smt.a"></span> (a) Employ fire suppression systems that activate automatically and notify [organization-defined personnel or roles] and [organization-defined emergency responders] ; and
+- <span id="pe-13.2_smt.b"></span> (b) Employ an automatic fire suppression capability when the facility is not staffed on a continuous basis.
 
-#### PE-13(3) – Automatic Fire Suppression
+#### <span id="pe-13.3"></span>PE-13(3) – Automatic Fire Suppression
 
 
 
-#### PE-13(4) – Inspections
+#### <span id="pe-13.4"></span>PE-13(4) – Inspections
 
 Ensure that the facility undergoes [organization-defined frequency] fire protection inspections by authorized and qualified inspectors and identified deficiencies are resolved within [organization-defined time period].
 
-### PE-14 – Environmental Controls
+### <span id="pe-14"></span>PE-14 – Environmental Controls
 
-- a. Maintain [temperature or humidity or pressure or radiation or [organization-defined environmental control] ] levels within the facility where the system resides at [organization-defined acceptable levels] ; and
-- b. Monitor environmental control levels [organization-defined frequency].
+- <span id="pe-14_smt.a"></span> a. Maintain [temperature or humidity or pressure or radiation or [organization-defined environmental control] ] levels within the facility where the system resides at [organization-defined acceptable levels] ; and
+- <span id="pe-14_smt.b"></span> b. Monitor environmental control levels [organization-defined frequency].
 
-#### PE-14(1) – Automatic Controls
+#### <span id="pe-14.1"></span>PE-14(1) – Automatic Controls
 
 Employ the following automatic environmental controls in the facility to prevent fluctuations potentially harmful to the system: [organization-defined automatic environmental controls].
 
-#### PE-14(2) – Monitoring with Alarms and Notifications
+#### <span id="pe-14.2"></span>PE-14(2) – Monitoring with Alarms and Notifications
 
 Employ environmental control monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment to [organization-defined personnel or roles].
 
-### PE-15 – Water Damage Protection
+### <span id="pe-15"></span>PE-15 – Water Damage Protection
 
 Protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.
 
-#### PE-15(1) – Automation Support
+#### <span id="pe-15.1"></span>PE-15(1) – Automation Support
 
 Detect the presence of water near the system and alert [organization-defined personnel or roles] using [organization-defined automated mechanisms].
 
-### PE-16 – Delivery and Removal
+### <span id="pe-16"></span>PE-16 – Delivery and Removal
 
-- a. Authorize and control [organization-defined types of system components] entering and exiting the facility; and
-- b. Maintain records of the system components.
+- <span id="pe-16_smt.a"></span> a. Authorize and control [organization-defined types of system components] entering and exiting the facility; and
+- <span id="pe-16_smt.b"></span> b. Maintain records of the system components.
 
-### PE-17 – Alternate Work Site
+### <span id="pe-17"></span>PE-17 – Alternate Work Site
 
-- a. Determine and document the [organization-defined alternate work sites] allowed for use by employees;
-- b. Employ the following controls at alternate work sites: [organization-defined controls];
-- c. Assess the effectiveness of controls at alternate work sites; and
-- d. Provide a means for employees to communicate with information security and privacy personnel in case of incidents.
+- <span id="pe-17_smt.a"></span> a. Determine and document the [organization-defined alternate work sites] allowed for use by employees;
+- <span id="pe-17_smt.b"></span> b. Employ the following controls at alternate work sites: [organization-defined controls];
+- <span id="pe-17_smt.c"></span> c. Assess the effectiveness of controls at alternate work sites; and
+- <span id="pe-17_smt.d"></span> d. Provide a means for employees to communicate with information security and privacy personnel in case of incidents.
 
-### PE-18 – Location of System Components
+### <span id="pe-18"></span>PE-18 – Location of System Components
 
 Position system components within the facility to minimize potential damage from [organization-defined physical and environmental hazards] and to minimize the opportunity for unauthorized access.
 
-#### PE-18(1) – Facility Site
+#### <span id="pe-18.1"></span>PE-18(1) – Facility Site
 
 
 
-### PE-19 – Information Leakage
+### <span id="pe-19"></span>PE-19 – Information Leakage
 
 Protect the system from information leakage due to electromagnetic signals emanations.
 
-#### PE-19(1) – National Emissions Policies and Procedures
+#### <span id="pe-19.1"></span>PE-19(1) – National Emissions Policies and Procedures
 
 Protect system components, associated data communications, and networks in accordance with national Emissions Security policies and procedures based on the security category or classification of the information.
 
-### PE-20 – Asset Monitoring and Tracking
+### <span id="pe-20"></span>PE-20 – Asset Monitoring and Tracking
 
 Employ [organization-defined asset location technologies] to track and monitor the location and movement of [organization-defined assets] within [organization-defined controlled areas].
 
-### PE-21 – Electromagnetic Pulse Protection
+### <span id="pe-21"></span>PE-21 – Electromagnetic Pulse Protection
 
 Employ [organization-defined protective measures] against electromagnetic pulse damage for [organization-defined system and system components].
 
-### PE-22 – Component Marking
+### <span id="pe-22"></span>PE-22 – Component Marking
 
 Mark [organization-defined system hardware components] indicating the impact level or classification level of the information permitted to be processed, stored, or transmitted by the hardware component.
 
-### PE-23 – Facility Location
+### <span id="pe-23"></span>PE-23 – Facility Location
 
-- a. Plan the location or site of the facility where the system resides considering physical and environmental hazards; and
-- b. For existing facilities, consider the physical and environmental hazards in the organizational risk management strategy.
+- <span id="pe-23_smt.a"></span> a. Plan the location or site of the facility where the system resides considering physical and environmental hazards; and
+- <span id="pe-23_smt.b"></span> b. For existing facilities, consider the physical and environmental hazards in the organizational risk management strategy.
 
 ---
 

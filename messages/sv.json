@@ -161,5 +161,6 @@
 	"ui_copy": "Kopiera",
 	"ui_copied": "Kopierat!",
 	"ui_show_all_count": "Visa alla {count}",
-	"ui_show_less": "Visa färre"
+	"ui_show_less": "Visa färre",
+	"ui_share": "Dela"
 }

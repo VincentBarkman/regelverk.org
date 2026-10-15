@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_VI'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#cpt_VI'
 'sites':
   - 'it'
 ---
@@ -23,45 +23,45 @@
 
 ### Article 49 – Review
 
-The Commission shall review the application of [this Regulation](/lagstiftning/eidas) and shall report to the European Parliament and to the Council no later than 1 July 2020. The Commission shall evaluate in particular whether it is appropriate to modify the scope of [this Regulation](/lagstiftning/eidas) or its specific provisions, including Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition), point (f) of Article [7](/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes) and Articles [34](/lagstiftning/eidas/kap-3#article-34-qualified-preservation-service-for-qualified-electronic-signatures), [43](/lagstiftning/eidas/kap-3#article-43-legal-effect-of-an-electronic-registered-delivery-service), [44](/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services) and [45](/lagstiftning/eidas/kap-3#article-45-requirements-for-qualified-certificates-for-website-authentication), taking into account the experience gained in the application of [this Regulation](/lagstiftning/eidas), as well as technological, market and legal developments.
+The Commission shall review the application of [this Regulation](/en/lagstiftning/eidas) and shall report to the European Parliament and to the Council no later than 1 July 2020. The Commission shall evaluate in particular whether it is appropriate to modify the scope of [this Regulation](/en/lagstiftning/eidas) or its specific provisions, including Article [6](/en/lagstiftning/eidas/kap-2#article-6-mutual-recognition), point (f) of Article [7](/en/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes) and Articles [34](/en/lagstiftning/eidas/kap-3#article-34-qualified-preservation-service-for-qualified-electronic-signatures), [43](/en/lagstiftning/eidas/kap-3#article-43-legal-effect-of-an-electronic-registered-delivery-service), [44](/en/lagstiftning/eidas/kap-3#article-44-requirements-for-qualified-electronic-registered-delivery-services) and [45](/en/lagstiftning/eidas/kap-3#article-45-requirements-for-qualified-certificates-for-website-authentication), taking into account the experience gained in the application of [this Regulation](/en/lagstiftning/eidas), as well as technological, market and legal developments.
 
 The report referred to in the first paragraph shall be accompanied, where appropriate, by legislative proposals.
 
-In addition, the Commission shall submit a report to the European Parliament and the Council every four years after the report referred to in the first paragraph on the progress towards achieving the objectives of [this Regulation](/lagstiftning/eidas).
+In addition, the Commission shall submit a report to the European Parliament and the Council every four years after the report referred to in the first paragraph on the progress towards achieving the objectives of [this Regulation](/en/lagstiftning/eidas).
 
 ### Article 50 – Repeal
 
 1\. [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) is repealed with effect from 1 July 2016.
 
-2\. References to the repealed Directive shall be construed as references to [this Regulation](/lagstiftning/eidas).
+2\. References to the repealed Directive shall be construed as references to [this Regulation](/en/lagstiftning/eidas).
 
 ### Article 51 – Transitional measures
 
-1\. Secure signature creation devices of which the conformity has been determined in accordance with Article [3](/lagstiftning/eidas/kap-1#article-3-definitions)(4) of [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified electronic signature creation devices under [this Regulation](/lagstiftning/eidas).
+1\. Secure signature creation devices of which the conformity has been determined in accordance with Article [3](/en/lagstiftning/eidas/kap-1#article-3-definitions)(4) of [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified electronic signature creation devices under [this Regulation](/en/lagstiftning/eidas).
 
-2\. Qualified certificates issued to natural persons under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified certificates for electronic signatures under [this Regulation](/lagstiftning/eidas) until they expire.
+2\. Qualified certificates issued to natural persons under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall be considered as qualified certificates for electronic signatures under [this Regulation](/en/lagstiftning/eidas) until they expire.
 
-3\. A certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall submit a conformity assessment report to the supervisory body as soon as possible but not later than 1 July 2017. Until the submission of such a conformity assessment report and the completion of its assessment by the supervisory body, that certification-service-provider shall be considered as qualified trust service provider under [this Regulation](/lagstiftning/eidas).
+3\. A certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) shall submit a conformity assessment report to the supervisory body as soon as possible but not later than 1 July 2017. Until the submission of such a conformity assessment report and the completion of its assessment by the supervisory body, that certification-service-provider shall be considered as qualified trust service provider under [this Regulation](/en/lagstiftning/eidas).
 
-4\. If a certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) does not submit a conformity assessment report to the supervisory body within the time limit referred to in paragraph 3, that certification-service-provider shall not be considered as qualified trust service provider under [this Regulation](/lagstiftning/eidas) from 2 July 2017.
+4\. If a certification-service-provider issuing qualified certificates under [Directive 1999/93/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0093) does not submit a conformity assessment report to the supervisory body within the time limit referred to in paragraph 3, that certification-service-provider shall not be considered as qualified trust service provider under [this Regulation](/en/lagstiftning/eidas) from 2 July 2017.
 
 ### Article 52 – Entry into force
 
-1\. [This Regulation](/lagstiftning/eidas) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+1\. [This Regulation](/en/lagstiftning/eidas) shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-2\. [This Regulation](/lagstiftning/eidas) shall apply from 1 July 2016, except for the following:
+2\. [This Regulation](/en/lagstiftning/eidas) shall apply from 1 July 2016, except for the following:
 
-(a) Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3), 9(5), 12(2) to (9), 17(8), 19(4), 20(4), 21(4), 22(5), 23(3), 24(5), 27(4) and (5), 28(6), 29(2), 30(3) and (4), 31(3), 32(3), 33(2), 34(2), 37(4) and (5), 38(6), 42(2), 44(2), 45(2), and Articles [47](/lagstiftning/eidas/kap-5#article-47-exercise-of-the-delegation) and [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure) shall apply from 17 September 2014;
+(a) Articles [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3), 9(5), 12(2) to (9), 17(8), 19(4), 20(4), 21(4), 22(5), 23(3), 24(5), 27(4) and (5), 28(6), 29(2), 30(3) and (4), 31(3), 32(3), 33(2), 34(2), 37(4) and (5), 38(6), 42(2), 44(2), 45(2), and Articles [47](/en/lagstiftning/eidas/kap-5#article-47-exercise-of-the-delegation) and [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure) shall apply from 17 September 2014;
 
-(b) Article [7](/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes), Article [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(1) and (2), Articles [9](/lagstiftning/eidas/kap-2#article-9-notification), [10](/lagstiftning/eidas/kap-2#article-10-security-breach), [11](/lagstiftning/eidas/kap-2#article-11-liability) and Article [12](/lagstiftning/eidas/kap-2#article-12-cooperation-and-interoperability)(1) shall apply from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8);
+(b) Article [7](/en/lagstiftning/eidas/kap-2#article-7-eligibility-for-notification-of-electronic-identification-schemes), Article [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(1) and (2), Articles [9](/en/lagstiftning/eidas/kap-2#article-9-notification), [10](/en/lagstiftning/eidas/kap-2#article-10-security-breach), [11](/en/lagstiftning/eidas/kap-2#article-11-liability) and Article [12](/en/lagstiftning/eidas/kap-2#article-12-cooperation-and-interoperability)(1) shall apply from the date of application of the implementing acts referred to in Articles [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8);
 
-(c) Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall apply from three years as from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8).
+(c) Article [6](/en/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall apply from three years as from the date of application of the implementing acts referred to in Articles [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8).
 
-3\. Where the notified electronic identification scheme is included in the list published by the Commission pursuant to Article [9](/lagstiftning/eidas/kap-2#article-9-notification) before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), the recognition of the electronic identification means under that scheme pursuant to Article [6](/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall take place no later than 12 months after the publication of that scheme but not before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force).
+3\. Where the notified electronic identification scheme is included in the list published by the Commission pursuant to Article [9](/en/lagstiftning/eidas/kap-2#article-9-notification) before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), the recognition of the electronic identification means under that scheme pursuant to Article [6](/en/lagstiftning/eidas/kap-2#article-6-mutual-recognition) shall take place no later than 12 months after the publication of that scheme but not before the date referred to in point (c) of paragraph 2 of [this Article](#article-52-entry-into-force).
 
-4\. Notwithstanding point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), a Member State may decide that electronic identification means under electronic identification scheme notified pursuant to Article [9](/lagstiftning/eidas/kap-2#article-9-notification)(1) by another Member State are recognised in the first Member State as from the date of application of the implementing acts referred to in Articles [8](/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8). Member States concerned shall inform the Commission. The Commission shall make this information public.
+4\. Notwithstanding point (c) of paragraph 2 of [this Article](#article-52-entry-into-force), a Member State may decide that electronic identification means under electronic identification scheme notified pursuant to Article [9](/en/lagstiftning/eidas/kap-2#article-9-notification)(1) by another Member State are recognised in the first Member State as from the date of application of the implementing acts referred to in Articles [8](/en/lagstiftning/eidas/kap-2#article-8-assurance-levels-of-electronic-identification-schemes)(3) and 12(8). Member States concerned shall inform the Commission. The Commission shall make this information public.
 
-[This Regulation](/lagstiftning/eidas) shall be binding in its entirety and directly applicable in all Member States.
+[This Regulation](/en/lagstiftning/eidas) shall be binding in its entirety and directly applicable in all Member States.
 
 #### Signature
 

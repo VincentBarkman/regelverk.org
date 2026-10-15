@@ -22,4 +22,9 @@ published: 2020-06-24
 Part 3-2 describes the method for partitioning an IACS into zones and conduits, assessing risk and setting target security levels (SL-T). It is the starting point for selecting requirements from part 3-3.
 
 Official source: [IEC 62443-3-2:2020](https://webstore.iec.ch/en/publication/30727).
+
+## Related legal acts
+
+- [Cyber Resilience Act (CRA)](/en/lagstiftning/cra)
+- [NIS2 directive](/en/lagstiftning/nis2)
 <!-- scan-standards:end -->

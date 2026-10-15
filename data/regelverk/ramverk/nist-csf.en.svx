@@ -25,12 +25,12 @@ The NIST Cybersecurity Framework (CSF) is a voluntary framework for understandin
 
 The framework is built around six functions:
 
-1. **[Govern](/ramverk/nist-csf/govern)** – leadership and governance of cybersecurity work
-2. **[Identify](/ramverk/nist-csf/identify)** – understand assets and risks
-3. **[Protect](/ramverk/nist-csf/protect)** – safeguards and capabilities
-4. **[Detect](/ramverk/nist-csf/detect)** – detection of incidents
-5. **[Respond](/ramverk/nist-csf/respond)** – handling when an incident occurs
-6. **[Recover](/ramverk/nist-csf/recover)** – recovery after an incident
+1. **[Govern](/en/ramverk/nist-csf/govern)** – leadership and governance of cybersecurity work
+2. **[Identify](/en/ramverk/nist-csf/identify)** – understand assets and risks
+3. **[Protect](/en/ramverk/nist-csf/protect)** – safeguards and capabilities
+4. **[Detect](/en/ramverk/nist-csf/detect)** – detection of incidents
+5. **[Respond](/en/ramverk/nist-csf/respond)** – handling when an incident occurs
+6. **[Recover](/en/ramverk/nist-csf/recover)** – recovery after an incident
 
 ## Relation to EU regulation
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20233/'
@@ -22,10 +22,6 @@
 ## Lagtext
 
 #### Avdelning II: Aktörernas ansvar och uppgifter i byggprojektet
-
-### 2 – kap. Byggherren
-
-Stöd och verktyg: Byggherren
 
 ### 1 § – Vem föreskrifterna riktar sig till
 
@@ -41,9 +37,9 @@ Byggherren ska se till att den organisation och de resurser som krävs för arbe
 
 ### 3 § – Förebygga arbetsmiljörisker i byggprojektet
 
-Byggherren ska se till att bestämmelserna i [3 kap.](/lagstiftning/afs-2023-3/kap-3) om Bas-P, 4 kap. om Bas-U, 8 kap. om grundprinciper för att förebygga arbetsmiljörisker, 9 kap. om att planera och projektera för en god arbetsmiljö i byggskedet, 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet, och 11 kap. om arbetsmiljöplanen och överlämning av arbetsmiljöarbetet, uppfylls.
+Byggherren ska se till att bestämmelserna i [3 kap.](/lagstiftning/afs-2023-3/kap-3) om Bas-P, [4 kap.](/lagstiftning/afs-2023-3/kap-4) om Bas-U, [8 kap.](/lagstiftning/afs-2023-3/kap-8) om grundprinciper för att förebygga arbetsmiljörisker, [9 kap.](/lagstiftning/afs-2023-3/kap-9) om att planera och projektera för en god arbetsmiljö i byggskedet, [10 kap.](/lagstiftning/afs-2023-3/kap-10) om att planera och projektera för en god arbetsmiljö i bruksskedet, och [11 kap.](/lagstiftning/afs-2023-3/kap-11) om arbetsmiljöplanen och överlämning av arbetsmiljöarbetet, uppfylls.
 
-I de fall där byggherrens arbetsmiljöansvar överlåts till en ställföreträdare enligt [3 kap. 7 c § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160), finns ytterligare bestämmelser i [5 kap.](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160)
+I de fall där byggherrens arbetsmiljöansvar överlåts till en ställföreträdare enligt [3 kap. 7 c § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160), finns ytterligare bestämmelser i [5 kap.](/lagstiftning/afs-2023-3/kap-5)
 
 Omfattningen av byggherrens arbetsmiljöarbete ska motsvara byggprojektets storlek, komplexitet och risknivå.
 
@@ -57,7 +53,7 @@ Omfattningen av byggherrens arbetsmiljöarbete ska motsvara byggprojektets storl
 
 Byggherren ska ha rutiner för sitt arbetsmiljöarbete i byggprojektet i syfte att förebygga arbetsmiljörisker i byggskedet. Rutinerna ska omfatta
 
-hur byggherren arbetar enligt grundprinciperna i 8 kap. 2 §, och
+hur byggherren arbetar enligt grundprinciperna i [8 kap. 2 §](/lagstiftning/afs-2023-3/kap-8#2-identifiera-bedöma-och-hantera-risker), och
 
 hur byggherren ser till att Bas-P och Bas-U har rutiner för samordning och arbetsmiljöarbete.
 
@@ -95,7 +91,7 @@ Byggherren ska löpande följa upp tidplanen för byggprojektet ur arbetsmiljös
 
 ### 7 § – Samordna arbetsmiljöarbetet i byggprojektet
 
-Av [3 kap. 6 §](/lagstiftning/afs-2023-3/kap-3#6-syftet-med-arbetsmiljöplanen) första stycket 1 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att byggherren under varje skede av planeringen och projekteringen ska se till att arbetsmiljösynpunkter beaktas när det gäller såväl byggskedet som det framtida brukandet.
+Av [3 kap. 6 §](/lagstiftning/afs-2023-3/kap-3#6-samordna-arbetsmiljöarbetet-vid-planeringen-och-projekteringen) första stycket 1 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att byggherren under varje skede av planeringen och projekteringen ska se till att arbetsmiljösynpunkter beaktas när det gäller såväl byggskedet som det framtida brukandet.
 
 Av detta följer att byggherren ska se till att hänsyn tas till arbetsmiljön så snart byggherren börjar planera och projektera ett byggprojekt.
 
@@ -187,7 +183,7 @@ Det gäller även när flera olika verksamheter inom byggherrens egen organisati
 >
 > Exempel där det är viktigt att alla berörda delar av byggherrens egen organisation tidigt blir väl informerade om ansvarsområden är vid ombyggnation av en skola, ett sjukhus eller ett annat fast driftställe samt vägar eller spår där driftsarbeten också utförs samtidigt.
 >
-> Samordningsansvarig för ett gemensamt arbetsställe, exempelvis ett fast driftställe, ska enligt [3 kap. 7 f § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) ta initiativ till samråd med byggarbetsmiljösamordnaren. Samordningen ska beskrivas i arbetsmiljöplanen enligt [11 kap. 11 §](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
+> Samordningsansvarig för ett gemensamt arbetsställe, exempelvis ett fast driftställe, ska enligt [3 kap. 7 f § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) ta initiativ till samråd med byggarbetsmiljösamordnaren. Samordningen ska beskrivas i arbetsmiljöplanen enligt [11 kap. 11 §](/lagstiftning/afs-2023-3/kap-11#11).
 
 ### 15 §
 
@@ -197,7 +193,7 @@ Byggherren ska tydliggöra vem eller vilka inom byggherrens egen organisation so
 >
 > Vem som representerar byggherren avseende arbetsmiljöuppgifter i byggprojektet, till exempel projektledaren, kan tydliggöras bland annat på inledande möten, förhandsanmälan och i arbetsmiljöplanen.
 >
-> Om byggherren exempelvis uppdrar till Bas-P att bevaka byggherrens uppgifter enligt 9 kap. är det viktigt att byggherren tydliggör det för alla berörda och följer upp att uppgifterna blir utförda.
+> Om byggherren exempelvis uppdrar till Bas-P att bevaka byggherrens uppgifter enligt [9 kap.](/lagstiftning/afs-2023-3/kap-9) är det viktigt att byggherren tydliggör det för alla berörda och följer upp att uppgifterna blir utförda.
 
 ### 16 §
 
@@ -221,7 +217,7 @@ Byggherren ska se till att det, bland de projektörer och entreprenörer som anl
 >
 > Att tydliggöra arbetsmiljöansvar vid projektering och utförande av en tillfällig eller samverkande konstruktion är viktigt eftersom arbetsmiljörisker ofta förbises på grund av otydlighet i gränssnitten mellan aktörerna. Den person som har särskild kompetens om konstruktionen under projekteringen kan lämpligen fortsätta även under byggskedet.
 >
-> Bestämmelser om personen med särskild kompetens om konstruktionen finns även i [3 kap. 8 §](/lagstiftning/afs-2023-3/kap-3#8) och 4 kap. 18 §. Det finns även bestämmelser om tillfälliga konstruktioner och lansering, montering och demontering av tunga byggelement i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete. De bestämmelserna gäller också för arbetsgivare.
+> Bestämmelser om personen med särskild kompetens om konstruktionen finns även i [3 kap. 8 §](/lagstiftning/afs-2023-3/kap-3#8) och [4 kap. 18 §](/lagstiftning/afs-2023-3/kap-4#18). Det finns även bestämmelser om tillfälliga konstruktioner och lansering, montering och demontering av tunga byggelement i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete. De bestämmelserna gäller också för arbetsgivare.
 
 ### 18 § – Kontrollera och följa upp det förebyggande arbetsmiljöarbetet
 
@@ -243,7 +239,7 @@ Om Bas-P eller Bas-U informerar byggherren om att en projektör eller en entrepr
 
 > _Allmänna råd_
 >
-> Bestämmelser om att följa anvisningar från byggarbetsmiljösamordnaren finns dels i 6 kap. 3 §, dels i [3 kap. 7 g § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
+> Bestämmelser om att följa anvisningar från byggarbetsmiljösamordnaren finns dels i [6 kap. 3 §](/lagstiftning/afs-2023-3/kap-6#3), dels i [3 kap. 7 g § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
 
 ### 20 §
 
@@ -255,11 +251,11 @@ Om ett arbete medför en omedelbar och allvarlig fara för liv eller hälsa ska 
 
 ### 21 § – Arbetsmiljöplan
 
-Byggherren ska se till att en skriftlig arbetsmiljöplan upprättas innan det första byggnads- eller anläggningsarbetet påbörjas, om en sådan krävs enligt 11 kap. 2 §.
+Byggherren ska se till att en skriftlig arbetsmiljöplan upprättas innan det första byggnads- eller anläggningsarbetet påbörjas, om en sådan krävs enligt [11 kap. 2 §](/lagstiftning/afs-2023-3/kap-11#2-när-det-ska-finnas-en-arbetsmiljöplan).
 
-Byggherren ska se till att arbetsmiljöplanen arbetas fram enligt bestämmelserna i 11 kap. 3 och 4 §§, och ska se till att den finns tillgänglig på byggarbetsplatsen.
+Byggherren ska se till att arbetsmiljöplanen arbetas fram enligt bestämmelserna i [11 kap. 3](/lagstiftning/afs-2023-3/kap-11#3) och [4 §§](/lagstiftning/afs-2023-3/kap-11#4), och ska se till att den finns tillgänglig på byggarbetsplatsen.
 
-Byggherren ska se till att arbetsmiljöplanen uppfyller bestämmelserna i 11 kap. 7–12 §§ och att den uppdateras med hänsyn till hur arbetet fortskrider samt till de eventuella förändringar som har skett i byggprojektet.
+Byggherren ska se till att arbetsmiljöplanen uppfyller bestämmelserna i [11 kap. 7](/lagstiftning/afs-2023-3/kap-11#7-vad-arbetsmiljöplanen-ska-innehålla)–[12 §§](/lagstiftning/afs-2023-3/kap-11#12) och att den uppdateras med hänsyn till hur arbetet fortskrider samt till de eventuella förändringar som har skett i byggprojektet.
 
 > _Allmänna råd_
 >
@@ -267,11 +263,11 @@ Byggherren ska se till att arbetsmiljöplanen uppfyller bestämmelserna i 11 kap
 
 ### 22 §
 
-En byggherre som inte, i enlighet med [21 §](#21) första stycket, har sett till att en skriftlig arbetsmiljöplan har upprättats innan det första byggnads- eller anläggningsarbetet har påbörjats, ska betala en sanktionsavgift om
+En byggherre som inte, i enlighet med [21 §](#21-arbetsmiljöplan) första stycket, har sett till att en skriftlig arbetsmiljöplan har upprättats innan det första byggnads- eller anläggningsarbetet har påbörjats, ska betala en sanktionsavgift om
 
-50 000 kronor, om projektets storlek kräver förhandsanmälan enligt [25 §](#25), eller
+50 000 kronor, om projektets storlek kräver förhandsanmälan enligt [25 §](#25-förhandsanmälan), eller
 
-10 000 kronor, om projektets storlek inte kräver förhandsanmälan enligt [25 §](#25).
+10 000 kronor, om projektets storlek inte kräver förhandsanmälan enligt [25 §](#25-förhandsanmälan).
 
 Ingen sanktionsavgift ska betalas om hela byggnads- eller anläggningsarbetet pågår under maximalt två dagar i följd, oavsett hur många timmar som arbetas respektive dag.
 
@@ -279,7 +275,7 @@ Ingen sanktionsavgift ska betalas om hela byggnads- eller anläggningsarbetet p�
 
 ### 23 §
 
-Byggherren ska se till att arbetsmiljöplanen, och uppgifter om arbetsmiljöarbetet i övrigt, lämnas över från Bas-P till Bas-U enligt 11 kap. 15 §. Det ska göras innan det första byggnads- eller anläggningsarbetet påbörjas.
+Byggherren ska se till att arbetsmiljöplanen, och uppgifter om arbetsmiljöarbetet i övrigt, lämnas över från Bas-P till Bas-U enligt [11 kap. 15 §](/lagstiftning/afs-2023-3/kap-11#15-överlämning-av-arbetsmiljöplanen-och-arbetsmiljöarbetet-i-övrigt). Det ska göras innan det första byggnads- eller anläggningsarbetet påbörjas.
 
 Byggherren ska också se till att arbetsmiljöplanen och arbetsmiljöarbetet i övrigt överlämnas, om Bas-P eller Bas-U byts ut under projektet.
 
@@ -309,695 +305,13 @@ Byggherren ska se till att en kopia av förhandsanmälan finns tillgänglig väl
 
 ### 27 § – Arbetsmiljödokumentation
 
-Byggherren ska se till att den arbetsmiljödokumentation som kan behövas vid framtida arbeten med byggnaden eller anläggningen upprättas i enlighet med 10 kap. 5 och 6 §§.
+Byggherren ska se till att den arbetsmiljödokumentation som kan behövas vid framtida arbeten med byggnaden eller anläggningen upprättas i enlighet med [10 kap. 5](/lagstiftning/afs-2023-3/kap-10#5-arbetsmiljödokumentation) och [6 §§](/lagstiftning/afs-2023-3/kap-10#6).
 
 Byggherren ska se till att alla anpassningar som behövs i arbetsmiljödokumentationen genomförs, med hänsyn till hur arbetet fortskrider och de eventuella förändringar som skett under byggskedet.
 
 ### 28 §
 
 Byggherren ska förvara arbetsmiljödokumentationen så länge som byggnaden eller anläggningen består. Om objektet överlåts ska byggherren lämna över arbetsmiljödokumentationen till den nya innehavaren.
-
-### 3 – kap. Bas-P
-
-Stöd och verktyg: Bas-P – Byggarbetsmiljösamordnaren för planeringen och projekteringen
-
-### 1 § – Vem föreskrifterna riktar sig till
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-3/kap-2) gäller för byggarbetsmiljösamordnaren för planeringen och projekteringen, Bas-P.
-
-Om det endast finns en projektör och en entreprenör under hela byggprojektet, och projektören är densamma som Bas-P gäller inte [4](#4), [7](#7-kap-den-som-tillverkar-monteringsfärdiga-byggnader-eller-anläggningar), [8](#8-följa-upp-det-förebyggande-arbetsmiljöarbetet) och [10](#10)–[12 §§](#12).
-
-### 2 § – Förebygga arbetsmiljörisker vid planeringen och projekteringen
-
-Bas-P ska följa bestämmelserna i 8 kap. om grundprinciper för att förebygga arbetsmiljörisker, 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet [5](#5-följa-upp-det-förebyggande-arbetsmiljöarbetet) och [6 §§](#6), och 11 kap. om arbetsmiljöplanen och överlämning av arbetsmiljöarbetet.
-
-Bas-P ska även ha kännedom om bestämmelserna i 9 kap. om att planera och projektera för en god arbetsmiljö i byggskedet och 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet [2](#2-förebygga-arbetsmiljörisker-vid-planeringen-och-projekteringen)–[4 §§](#4), eftersom byggherren och projektörerna ska följa dem.
-
-Omfattningen av Bas-P:s arbetsmiljöarbete ska motsvara byggprojektets storlek, komplexitet och risknivå.
-
-> _Allmänna råd_
->
-> Det finns ytterligare bestämmelser om arbetsmiljön i byggskedet i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete.
-
-### 3 §
-
-Bas-P får bara använda handläggare för samordningsarbetet som Bas-P förfogar över och som har kvalifikationer enligt [2 kap. 9 §](#9) andra stycket.
-
-Rutiner för arbetsmiljöarbetet under planeringen och projekteringen
-
-### 4 §
-
-Bas-P ska ha rutiner för att bedriva samordning och arbetsmiljöarbete i byggprojektet. Rutinerna ska omfatta
-
-hur Bas-P arbetar enligt grundprinciperna i 8 kap. 2 §,
-
-hur och när arbetsmiljöfrågor om byggskedet hanteras under planeringen och projekteringen, och
-
-hur Bas-P kontrollerar och följer upp att projektörerna arbetar med att förebygga arbetsmiljörisker i byggskedet.
-
-> _Allmänna råd_
->
-> Exempel på vad rutinerna kan omfatta är hur arbetsmiljöfrågor tas upp på projekteringsmöten och när säkerhetsgranskningar genomförs.
-
-### 5 §
-
-Bas-P ska delta i planeringen av projekteringen. Under planeringen och projekteringen ska Bas-P se till att arbetsmiljörisker förebyggs
-
-när arbetsmoment som ska utföras samtidigt eller efter varandra planeras, och
-
-när tidsåtgången för de arbetsmomenten beräknas.
-
-Samordningen av projektörernas arbete ska leda till att utförandet av olika delar av byggprojektet, samt av konstruktioner, installationer och liknande, inte sammanfaller i tid och rum i byggskedet på ett sådant sätt att det uppstår risk för ohälsa eller olycksfall.
-
-Detta gäller även om projekteringen fortsätter under byggskedet.
-
-> _Allmänna råd_
->
-> När flera arbetsmoment ska genomföras på kort tid, bör Bas-P lägga särskild vikt vid planeringen av dem. Om det uppstår bristande samstämmighet eller om det saknas tillräcklig tid för arbetsmoment, och Bas-P inte råder över det, ska byggherren informeras enligt [12](#12) och [13 §§](#13).
-
-### 6 § – Samordna arbetsmiljöarbetet vid planeringen och projekteringen
-
-Bas-P ska delta i ledningen av projekteringen på det sätt som behövs för att förebygga arbetsmiljörisker under byggskedet, och för att möjliggöra en god arbetsmiljö under bruksskedet.
-
-Bas-P ska
-
-samordna projekteringen i frågor som har betydelse för arbetsmiljön så att projektörerna tar hänsyn till varandras planer och lösningar,
-
-se till att inga arbetsmiljöfrågor förbises, på grund av tveksamhet om vilken projektör som ska hantera dem, och
-
-uppmärksamma projektörerna på deras skyldigheter att följa 6 kap. samt Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-> _Allmänna råd_
->
-> Om Bas-P inte är densamma som den som leder projekteringen, kan handläggaren för Bas-P vara delaktig i projekteringsledningen genom att vara en aktiv part vid exempelvis projekteringsmöten.
-
-### 7 §
-
-Bas-P ska informera projektörerna om
-
-hur samarbete och samordning ska organiseras och genomföras, och
-
-vilka andra aktörer som kan påverka projektörens arbete.
-
-### 8 §
-
-Vid planering och projektering av en tillfällig konstruktion eller samverkande konstruktion, ska Bas-P se till att en person som har särskild kompetens om konstruktionen i fråga
-
-säkerställer att ansvarsfördelningen mellan de olika aktörerna under projekteringen blir tydlig,
-
-ser till att de aktörer som är involverade under projekteringen samarbetar, och
-
-kontrollerar att konstruktionen projekteras så att den som helhet är säker under monteringen, användningen och om den demonteras.
-
-Personen med särskild kompetens ska ha god kännedom om konstruktionen, både dess delar och helheten, och om dess olika skeden.
-
-> _Allmänna råd_
->
-> Bas-P bör se till att det så tidigt som möjligt klargörs vem som har dessa uppgifter, eftersom särskild samordning behövs vid projektering av tillfälliga konstruktioner och samverkande konstruktioner för att undvika risker för att element kollapsar eller välter.
->
-> Kännedom om konstruktionens olika skeden kan innebära att personen med särskild kompetens behöver få tillgång till information om hur konstruktionen ska uppföras, användas och demonteras.
-
-### 9 §
-
-Vid planeringen och projekteringen ska Bas-P se till att den som planerar en ställning eller ett väderskydd kontrollerar att marken eller underlaget med betryggande säkerhet kan bära upp den belastning som kan uppstå. Detsamma gäller för fasader eller andra konstruktioner som ställningen behöver förankras till. Ställningen ska kunna uppföras och användas på ett säkert sätt på den aktuella platsen.
-
-> _Allmänna råd_
->
-> Exempel på sådant som behöver kontrolleras är att de delar av en byggnad eller annan konstruktion som påverkas av belastning från en ställning har tillräcklig hållfasthet och stabilitet. Särskilt hållfastheten vid förankring i fasadsten bör kontrolleras.
-
-### 10 § – Följa upp projektörernas förebyggande arbetsmiljöarbete
-
-Bas-P ska kontrollera att projektörerna har rutiner för att förebygga arbetsmiljörisker som kan uppstå i byggskedet, och följa upp att projektörerna arbetar med att förebygga arbetsmiljörisker.
-
-> _Allmänna råd_
->
-> Bas-P kan exempelvis be projektörerna att beskriva sina rutiner inför uppstarten av planeringen och projekteringen, och sedan följa upp deras arbetsmiljöarbete löpande vid projekteringsmöten.
-
-### 11 §
-
-Bas-P ska sammanställa de skriftliga underlag som projektörerna enligt 6 kap. 8 § ska redovisa för de allvarliga arbetsmiljörisker som kommer att kvarstå i byggskedet.
-
-> _Allmänna råd_
->
-> Utöver arbete med särskild risk enligt 11 kap. 12 §, som ska beskrivas i arbetsmiljöplanen, kan exempelvis risker avseende brand, buller, ergonomi eller vibrationer vara allvarliga.
-
-### 12 §
-
-Bas-P ska informera byggherren om projektörerna inte följer anvisningarna från Bas-P i frågor som har betydelse för arbetsmiljön i bygg- eller bruksskedet.
-
-> _Allmänna råd_
->
-> Bestämmelser om att projektörer ska följa anvisningar från Bas-P finns i 6 kap. 3 §.
-
-### 13 §
-
-Bas-P ska meddela byggherren om valda lösningar kan medföra allvarliga risker för ohälsa eller olycksfall i bygg- eller bruksskedet som varken kan förebyggas vid projekteringen eller åtgärdas med givna förutsättningar.
-
-> _Allmänna råd_
->
-> Exempel på tillfällen när Bas-P kan behöva meddela byggherren är när det är svårt att föreslå möjliga lösningar för ett senare skede, samtidigt som Bas-P saknar möjlighet att se till att en allvarlig risk projekteras bort. Givna förutsättningar kan till exempel ha att göra med resurser och befogenheter för Bas-P eller risker kopplade till den omgivande miljön.
-
-### 14 § – Arbetsmiljöplan
-
-Bas-P ska upprätta eller låta upprätta en skriftlig arbetsmiljöplan, om en sådan krävs enligt 11 kap. 2 §. Bas-P ska vara färdig med sitt arbete med arbetsmiljöplanen innan det första byggnads- eller anläggningsarbetet påbörjas.
-
-### 15 §
-
-Bas-P ska påbörja arbetet med arbetsmiljöplanen så snart Bas-P har blivit utsedd och planeringen och projekteringen har startat. Bas-P ska kunna visa upp en påbörjad arbetsmiljöplan fram tills att arbetsmiljöplanen är överlämnad till Bas-U.
-
-### 16 §
-
-Bas-P ska se till att den påbörjade arbetsmiljöplanen har ett innehåll enligt 11 kap. 7 och 8 §§ under planeringen och projekteringen, fram till överlämningen till Bas-U.
-
-Innan Bas-P lämnar över den påbörjade arbetsmiljöplanen till Bas-U, ska Bas-P se till att de uppgifter som är kända vid tidpunkten för överlämningen har arbetats in i den.
-
-> _Allmänna råd_
->
-> Bestämmelser om uppdatering av arbetsmiljöplanen finns i 11 kap. 4 §.
-
-### 17 §
-
-En Bas-P som inte, i enlighet med [14 §](#14), har upprättat eller låtit upprätta en arbetsmiljöplan innan det första byggnads- eller anläggningsarbetet har påbörjats, ska betala en sanktionsavgift om
-
-50 000 kronor, om projektets storlek kräver förhandsanmälan enligt [2 kap. 25 §](#25), eller
-
-10 000 kronor, om projektets storlek inte kräver förhandsanmälan enligt [2 kap. 25 §](#25).
-
-Ingen sanktionsavgift ska betalas, om hela byggnads- eller anläggningsarbetet pågår under maximalt två dagar i följd, oavsett hur många timmar som arbetas respektive dag.
-
-Överlämning av arbetsmiljöplanen och arbetsmiljöarbetet i övrigt
-
-### 18 §
-
-Innan det första byggnads- eller anläggningsarbetet startar, ska Bas-P lämna över arbetsmiljöplanen och uppgifter om arbetsmiljöarbetet i övrigt till Bas-U enligt 11 kap. 15 §.
-
-En överlämning av arbetsmiljöplanen och arbetsmiljöarbetet i övrigt ska också göras vid byte av Bas-P.
-
-### 19 §
-
-Om projekteringen fortsätter efter att arbetsmiljöplanen har överlämnats till Bas-U, ska Bas-P fortsätta att samordna projekteringen med avseende på arbetsmiljöfrågor på samma sätt som tidigare.
-
-Bas-P ska sammanställa och överlämna information om ny eller ändrad projektering till Bas-U, för att Bas-U ska kunna uppdatera arbetsmiljöplanen.
-
-### 20 § – Arbetsmiljödokumentation
-
-Bas-P ska arbeta fram den arbetsmiljödokumentation som kan behövas vid framtida arbeten med byggnaden eller anläggningen i enlighet med 10 kap. 5 och 6 §§.
-
-### 4 – kap. Bas-U
-
-Stöd och verktyg: Bas-U - Byggarbetsmiljösamordnaren för utförandet av arbetet
-
-### 1 § – Vem föreskrifterna riktar sig till
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-3/kap-2) gäller för byggarbetsmiljösamordnaren för utförandet av arbetet, Bas-U.
-
-Om det endast finns en entreprenör under hela byggprojektet, och denna entreprenör är densamma som Bas-U, gäller inte [4](#4)–[7](#7-kap-den-som-tillverkar-monteringsfärdiga-byggnader-eller-anläggningar), [12](#12)–[18](#18) och [20](#20-följa-upp-entreprenörernas-arbetsmiljöarbete)–[23 §§](#23).
-
-### 2 § – Förebygga arbetsmiljörisker under byggskedet
-
-Bas-U ska följa bestämmelserna i 8 kap. om grundprinciper för att förebygga arbetsmiljörisker, 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet [5](#5-följa-upp-det-förebyggande-arbetsmiljöarbetet) och [6 §§](#6), och 11 kap. om arbetsmiljöplanen och överlämning av arbetsmiljöarbetet.
-
-Omfattningen av Bas-U:s arbetsmiljöarbete ska motsvara byggprojektets storlek, komplexitet och risknivå.
-
-> _Allmänna råd_
->
-> Det finns ytterligare bestämmelser om arbetsmiljön i byggskedet i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete.
-
-### 3 §
-
-Bas-U får bara använda handläggare för samordningsarbetet som Bas-U förfogar över och som har kvalifikationer enligt [2 kap. 9 §](#9) andra stycket.
-
-Rutiner för arbetsmiljöarbetet under byggskedet
-
-### 4 §
-
-Bas-U ska ha rutiner för att bedriva samordning och arbetsmiljöarbete i byggprojektet. Rutinerna ska omfatta
-
-hur Bas-U arbetar enligt grundprinciperna i 8 kap. 2 §,
-
-hur, när och med vilka aktörer Bas-U hanterar arbetsmiljöfrågor under byggskedet,
-
-hur Bas-U kontrollerar och följer upp entreprenörernas arbetsmiljöarbete, och
-
-hur Bas-U ser till att det bara är behöriga personer som får tillträde till byggarbetsplatsen.
-
-> _Allmänna råd_
->
-> Exempel på innehåll i rutinerna är
->
-> vilka samordningsmöten och andra möten om arbetsmiljöfrågor som hålls,
->
-> vilka kontroller som görs av entreprenörernas arbetsmiljöarbete på byggarbetsplatsen enligt [20](#20-följa-upp-entreprenörernas-arbetsmiljöarbete)–[22 §§](#22),
->
-> hur avspärrningar och grindar kontrolleras, och
->
-> hur klartecken för start av arbete och introduktion går till.
-
-### 5 §
-
-Bas-U ska delta i byggskedets planering av arbetet och styra den så att gemensamma arbetsmiljösynpunkter beaktas
-
-när de olika arbetena samplaneras, och
-
-när tidsplaneringen görs.
-
-Bas-U ska ta särskild hänsyn till tidsåtgången för arbetsmoment som ska utföras samtidigt eller efter varandra.
-
-Arbetet ska planeras så att olika arbetsmoment inte utförs samtidigt på samma plats och på ett sådant sätt att det uppstår risk för ohälsa eller olycksfall.
-
-> _Allmänna råd_
->
-> Den planering som avser byggskedet omfattar
->
-> en första produktionsplanering,
->
-> den löpande planeringen där planerna anpassas till produktionens verkliga förlopp,
->
-> planering när störningar inträffar, och
->
-> planering på mer detaljerad nivå i form av arbetsberedningar.
->
-> Tidsplaneringen är särskilt viktig i slutet av byggprojektet, eftersom flera olika entreprenörer ofta behöver ha tillgång till samma utrymme för att färdigställa byggnaden eller anläggningen.
-
-### 6 §
-
-För att förebygga ohälsa och olycksfall ska Bas-U, under byggprojektets gång, se till att tilldelningen av tid för olika arbeten och arbetsmoment justeras utifrån hur arbetet går.
-
-### 7 § – Samordna arbetsmiljöarbetet under byggskedet
-
-Bas-U ska organisera samarbetet mellan entreprenörerna och organisera samordningen av deras verksamheter.
-
-Bas-U ska se till att entreprenörerna tar hänsyn till varandra när arbetsmetoder och arbetsutrustning väljs, så att de inte utsätter varandra för arbetsmiljörisker.
-
-### 8 §
-
-Bas-U ska organisera en skyddsverksamhet på byggarbetsplatsen. Skyddsombud alternativt arbetsmiljöombud ska ges möjlighet att medverka och Bas-U ska samråda med dem. När det finns flera entreprenörer i byggprojektet, ska Bas-U organisera en gemensam skyddsverksamhet tillsammans med dem och deras skyddsombud.
-
-> _Allmänna råd_
->
-> Exempel på sådant som kan ingå i skyddsverksamhet är gemensamma skyddsronder, kontroller av utrymningsvägar och brandskydd, rapporteringssystem för olyckor och tillbud samt kommunikation, information och möten om arbetsmiljöfrågor. Bas-U bör tidigt bjuda in skyddsombud till en dialog om hur och när de ska delta i skyddsverksamheten.
-
-### 9 §
-
-Bas-U ska se till att det finns gemensamma ordnings- och skyddsregler som gäller på byggarbetsplatsen.
-
-> _Allmänna råd_
->
-> I allmänna råden till 11 kap. 10 § finns exempel på vad ordnings- och skyddsregler kan innehålla.
-
-### 10 §
-
-Bas-U ska se till att byggarbetsplatsen hålls i god ordning och städas regelbundet.
-
-> _Allmänna råd_
->
-> God ordning kan uppnås genom att bland annat se till att det finns upplagsplatser för material i tillräcklig omfattning. Placeringen av dessa samt av störttrummor, containrar och sopbehållare kan framgå av en arbetsplatsdispositionsplan (APD-plan). Städning bör utföras kontinuerligt och olika typer av damm förebyggas vid källan.
-
-### 11 §
-
-Bas-U ska se till att det finns personalutrymmen, toaletter och duschmöjligheter i den omfattning som behövs, så snart det första byggnads- eller anläggningsarbetet startar.
-
-> _Allmänna råd_
->
-> Det finns bestämmelser om etableringsområdets storlek som gäller för byggherren och projektörerna i 9 kap. 4 §.
->
-> Bestämmelser om personalutrymmen på byggarbetsplatser, bland annat skilda omklädningsrum för män och kvinnor, finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-### 12 §
-
-Bas-U ska ge klartecken till entreprenörerna innan de får påbörja sitt arbete i byggprojektet för första gången.
-
-Innan Bas-U kan ge klartecken för start av arbetet, ska entreprenören ha lämnat in uppgifter om
-
-arbeten med särskild risk vars åtgärder ska beskrivas i arbetsmiljöplanen enligt 11 kap. 12 §,
-
-arbetsmiljörisker som det egna arbetet kan orsaka för övriga som arbetar på byggarbetsplatsen, och
-
-egna arbetsmiljörisker som kan åtgärdas genom samordning.
-
-Bas-U ska även se till att arbetsmiljöriskerna är hanterade eller att det finns planerade åtgärder innan entreprenören får påbörja sitt arbete.
-
-> _Allmänna råd_
->
-> Utifrån den information om arbetsmiljörisker som finns, bör Bas-U utse den som har bäst kännedom om riskerna att vidta åtgärder. Planerade åtgärder kan exempelvis vara inplanerade arbetsberedningar. Klartecken kan kommuniceras muntligt och det kan vara lämpligt att dokumentera det genom signering.
->
-> Bestämmelser om att entreprenörer ska lämna uppgifter om arbetsmiljörisker till Bas-U finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete.
-
-### 13 §
-
-Om uppgifterna enligt [12 §](#12) saknas, ska Bas-U begära in dem från entreprenörerna.
-
-Information och introduktion
-
-### 14 §
-
-Bas-U ska informera entreprenörerna om hur samarbete och samordning ska organiseras och genomföras, om sådant som kan påverka entreprenörernas arbete samt om innehållet i arbetsmiljöplanen.
-
-> _Allmänna råd_
->
-> Sådant som kan påverka entreprenörens arbete är andra aktörers arbeten, annan verksamhet som pågår samtidigt eller yttre omständigheter.
-
-### 15 §
-
-Bas-U ska se till att de som ska arbeta på byggarbetsplatsen får en introduktion där man minst går igenom
-
-de gemensamma ordnings- och skyddsregler som gäller i byggprojektet,
-
-aktuella arbetsmiljörisker och riskzoner,
-
-aktuella arbetsmiljöåtgärder som är genomförda eller planerade,
-
-hur man ska göra om det uppstår arbetsmiljörisker som inte är hanterade, och
-
-andra relevanta delar ur arbetsmiljöplanen.
-
-> _Allmänna råd_
->
-> Exempel på de som ska introduceras är, utöver entreprenörernas personal, bland annat konsulter, byggherrens personal och andra som utför tillfälliga arbetsuppgifter.
->
-> Alla aktuella risker och åtgärder som kan påverka flera aktörer bör tas upp. Rutiner för nödläge, utrymning och återsamling kan vara relevanta delar av arbetsmiljöplanen att ta upp, liksom en arbetsplatsdispositionsplan (APD-plan).
->
-> Introduktionen bör också ta upp vad som gäller om någon inte följer ordnings- och skyddsreglerna.
-
-### 16 §
-
-Bas-U ska se till att introduktionen, och den övriga gemensamma informationen om byggprojektet, är begriplig för de personer som den riktar sig till. Informationen ska anpassas till olika personers förutsättningar att ta till sig den.
-
-Om det behövs, ska Bas-U se till att introduktionen och informationen finns på olika språk.
-
-> _Allmänna råd_
->
-> Informationen kan exempelvis anpassas genom att använda muntliga genomgångar, bilder eller filmer i kombination med information i skriftlig form.
->
-> Att Bas-U ska se till att introduktion och information är begriplig och vid behov översätts, fråntar inte arbetsgivaren ansvaret att ge begriplig information och instruktioner till sina arbetstagare.
-
-### 17 §
-
-Bas-U ska säkerställa att en person med särskild kompetens leder specifika arbetsmoment om
-
-det krävs en sådan person enligt Arbetsmiljöverkets föreskrifter, och
-
-flera entreprenörer är involverade eller berörda av arbetsmomentet.
-
-Bas-U ska också se till att kommunikationen mellan berörda aktörer fungerar så att dessa arbeten kan utföras på ett säkert sätt.
-
-> _Allmänna råd_
->
-> Bestämmelser om att en person med särskild kompetens ska leda visst rivningsarbete, viss schaktning, arbete nära passerande fordonstrafik med trafikanordningar samt arbete med fångdammar och kassuner finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete. Exempel från andra kapitel och föreskrifter är rollen som sprängarbas och ansvarig för lyftoperationer där representanter från flera verksamheter är involverade.
-
-### 18 §
-
-När en tillfällig konstruktion eller samverkande konstruktion uppförs, ska Bas-U se till att en person som har särskild kompetens om konstruktionen i fråga
-
-säkerställer att ansvarsfördelningen mellan de olika aktörerna som är involverade under byggskedet blir tydlig,
-
-ser till att aktörerna som är involverade under byggskedet har fått information från planeringen och projekteringen, och
-
-kontrollerar att konstruktionen som helhet monteras, används och eventuellt demonteras i enlighet med handlingar framtagna vid projekteringen.
-
-Personen med särskild kompetens ska ha god kännedom om konstruktionen, både dess delar och helheten, och om dess olika skeden.
-
-> _Allmänna råd_
->
-> Den person som har särskild kompetens om konstruktionen under projekteringen kan lämpligen fortsätta även under byggskedet.
->
-> Det finns ytterligare bestämmelser om tillfälliga konstruktioner, som även gäller för arbetsgivare, i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten, kapitlet om byggnads- och anläggningsarbete. Där framgår även att lansering, montering och demontering av tunga byggelement ska påbörjas och utföras under ledning av en person med särskild kompetens.
-
-### 19 §
-
-Bas-U ska se till att det finns uppgifter om vem man kan vända sig till i arbetsmiljöfrågor när det inte finns någon handläggare för Bas-U på plats på byggarbetsplatsen. Det ska finnas uppgift om
-
-en kontaktperson eller, om det behövs, flera kontaktpersoner, och
-
-hur man får tag på någon av dem vid alla tidpunkter när arbete pågår.
-
-> _Allmänna råd_
->
-> Normalt bör handläggaren för Bas-U vara på plats när verksamhet pågår. Hur stor del av tiden som handläggaren kan vara frånvarande från byggarbetsplatsen, och en annan person förmedlar kontakt med Bas-U, avgörs av projektets storlek, komplexitet och risknivå samt behovet av samordning för tillfället.
-
-### 20 § – Följa upp entreprenörernas arbetsmiljöarbete
-
-Bas-U ska se till att kontroll utförs av att entreprenörerna arbetar säkert genom att följa arbetsmiljöbestämmelserna som gäller för deras olika arbeten, att de följer arbetsmiljöplanen och att de har hanterat arbetsmiljörisker som de har lämnat uppgift om inför starten av arbetet.
-
-Kontrollerna ska även omfatta andra som bedriver verksamhet i byggprojektet.
-
-Bas-U ska ge entreprenörernas skyddsombud möjlighet att medverka och ska samråda med dem.
-
-> _Allmänna råd_
->
-> Bas-U ska samordna åtgärder för att kontrollera att byggnads- eller anläggningsarbete med avseende på arbetsmiljön utförs på ett korrekt sätt enligt 3 kap. 7 b § 3 [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160). Kontroller kan göras genom till exempel skyddsronder, stickprov, kontroller av arbetsberedningar och avstämningsmöten. Det kan behövas både allmänna och riktade skyddsronder.
->
-> Andra som bedriver verksamhet i byggprojektet kan vara de som utför tillfälliga arbetsuppgifter som till exempel geolog, mätingenjör, kontrollant och förare av transporter.
-
-### 21 §
-
-Bas-U ska försäkra sig om att de tekniska anordningar som används är kontrollerade, besiktigade eller provade och godkända enligt gällande regler.
-
-Bas-U ska även försäkra sig om att förare har tillräcklig kompetens eller nödvändiga tillstånd för användning av anordningarna.
-
-> _Allmänna råd_
->
-> Bestämmelsen inskränker inte det arbetsmiljöansvar som arbetsgivaren har för den som använder, eller är förare av, en teknisk anordning.
->
-> Bas-U kan försäkra sig om kontrollen genom att entreprenörer får visa upp besiktningsintyg, dokumentation av underhåll och kontroll samt utbildningsintyg för att få klartecken för start av arbete, vid introduktion på byggarbetsplatsen, skyddsronder, stickprov och säkerhetsmöten. Bestämmelser om intyg och kontroller finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning, bland annat i kapitlen om användning av lyftanordningar och trycksatta anordningar.
->
-> Exempel på tillstånd som kan krävas är skriftliga tillstånd från arbetsgivaren för att arbetstagare ska få använda lyftanordningar.
-
-### 22 §
-
-I samband med att en ställning eller ett väderskydd som ska användas av flera entreprenörer planeras, ska Bas-U se till att underlaget kontrolleras så att det med betryggande säkerhet kan bära upp den belastning som kan uppstå under uppförandet och användningen. Detsamma gäller för fasader eller andra konstruktioner som ställningen behöver förankras till.
-
-Om det finns ställningar eller väderskydd som används av flera entreprenörer på byggarbetsplatsen, ska Bas-U försäkra sig om att handlingar för ställningarna eller väderskydden finns tillgängliga på byggarbetsplatsen och att ställningarna och väderskydden fortlöpande kontrolleras.
-
-Bestämmelser om handlingar för ställning eller väderskydd, att Bas-U ska få kopior av handlingarna och om den fortlöpande kontrollen finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:11) om arbetsutrustning och personlig skyddsutrustning – säker användning, kapitlet om användning av ställningar.
-
-Information till byggherren
-
-### 23 §
-
-Bas-U ska informera byggherren om en entreprenör inte följer anvisningarna från Bas-U i frågor som har betydelse för arbetsmiljön i byggskedet.
-
-### 24 §
-
-Bas-U ska meddela byggherren om det finns allvarliga risker för ohälsa eller olycksfall i byggskedet, som Bas-U inte själv kan se till att åtgärda med givna förutsättningar.
-
-> _Allmänna råd_
->
-> Exempel på tillfällen när Bas-U kan behöva meddela byggherren är vid arbeten med särskild risk enligt 11 kap. 12 §, men det kan även vara vid andra risker, som ergonomiska eller organisatoriska och sociala arbetsmiljörisker.
->
-> Givna förutsättningar kan till exempel ha med Bas-U:s resurser och befogenheter att göra, beslut som fattats i planerings- och projekteringsskedet eller risker kopplade till den omgivande miljön. Förutsättningarna kan ha varit desamma från byggstart eller förändrats under byggprojektet.
-
-### 25 §
-
-Om ett arbete i byggprojektet medför en omedelbar och allvarlig fara för liv eller hälsa, ska Bas-U se till att det arbetet avbryts eller förändras i den omfattning som krävs, tills arbetsmiljörisken har åtgärdats.
-
-### 26 § – Arbetsmiljöplan
-
-Bas-U ska ta emot den påbörjade arbetsmiljöplanen, och uppgifter om arbetsmiljöarbetet i övrigt, från Bas-P vid överlämning enligt 11 kap. 15 §.
-
-En överlämning av arbetsmiljöplanen och arbetsmiljöarbetet i övrigt ska också göras vid byte av Bas-U.
-
-Bas-U ska hålla arbetsmiljöplanen tillgänglig
-
-### 27 §
-
-När en arbetsmiljöplan krävs enligt 11 kap. 2 §, ska Bas-U se till att den arbetsmiljöplan som upprättats finns tillgänglig på byggarbetsplatsen så snart det första byggnads- eller anläggningsarbetet påbörjas, så att alla som arbetar där kan ta del av den.
-
-> _Allmänna råd_
->
-> Ytterligare bestämmelser om att arbetsmiljöplanen ska vara tillgänglig finns i 11 kap. 5 §.
-
-### 28 §
-
-En Bas-U som inte, i enlighet med [27 §](#27), har sett till att den arbetsmiljöplan som upprättats finns tillgänglig på byggarbetsplatsen så att alla som arbetar där kan ta del av den, ska betala en sanktionsavgift om
-
-50 000 kronor, om projektets storlek kräver förhandsanmälan enligt [2 kap. 25 §](#25), eller
-
-10 000 kronor, om projektets storlek inte kräver förhandsanmälan enligt [2 kap. 25 §](#25).
-
-Ingen sanktionsavgift ska betalas om hela byggnads- eller anläggningsarbetet pågår under maximalt två dagar i följd, oavsett hur många timmar som arbetas respektive dag.
-
-Bas-U ska uppdatera arbetsmiljöplanen
-
-### 29 §
-
-Bas-U ska se till att arbetsmiljöplanen uppdateras utifrån
-
-hur arbetet går, de eventuella förändringar som har inträffat och de arbetsmetoder som i praktiken används.
-
-Bas-U ska vidare se till att arbetsmiljöplanen uppdateras utifrån de verkliga förutsättningarna för hur arbetet kan utföras, och förändringar i hur arbetsmiljöarbetet organiseras och bedrivs.
-
-Bas-U ska uppdatera arbetsmiljöplanen när det inträffar någon ändring som har betydelse för arbetsmiljön.
-
-### 30 § – Arbetsmiljödokumentation
-
-Bas-U ska genomföra, eller låta någon annan genomföra, alla de anpassningar som krävs i den arbetsmiljödokumentation som kan behövas vid framtida arbeten med byggnaden eller anläggningen enligt 10 kap. 5 och 6 §§.
-
-Arbetsmiljödokumentationen ska stämma överens med det slutliga utförandet som byggnaden eller anläggningen får.
-
-### 5 – kap. Byggherrens ställföreträdare
-
-Stöd och verktyg: Byggherrens ställföreträdare
-
-### 1 § – Vem föreskrifterna riktar sig till
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-3/kap-2) gäller för byggherren och byggherrens ställföreträdare, i de fall där byggherrens arbetsmiljöansvar har överlåtits till en ställföreträdare enligt [3 kap. 7 c § arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
-
-Ställföreträdaren ska se till att bestämmelserna i [2 kap.](/lagstiftning/afs-2023-3/kap-2) om byggherren uppfylls. Även övriga arbetsmiljöbestämmelser som gäller för byggherren gäller då i stället för byggherrens ställföreträdare.
-
-> _Allmänna råd_
->
-> En definition av byggherrens ställföreträdare finns i [1 kap. 4 §](/lagstiftning/afs-2023-3/kap-1#4-definitioner).
-
-### 2 § – Visa ställföreträdarens självständighet
-
-Byggherren ska ha tydliggjort om ställföreträdaren har anlitats för hela byggprojektet, eller för antingen planeringen och projekteringen eller för byggskedet. Det kan finnas högst två ställföreträdare samtidigt, en för planeringen och projekteringen samt en för byggskedet.
-
-För det skede av byggprojektet som det gäller, ska byggherren kunna visa att ställföreträdaren har befogenheter att disponera de resurser som krävs för att förebygga olyckor och ohälsa i bygg- och bruksskedet, och självständigt fattar alla de beslut som krävs för en god arbetsmiljö i bygg- och bruksskedet, utan inblandning från byggherren.
-
-> _Allmänna råd_
->
-> Ett exempel där det inte är möjligt att överlåta byggherrens arbetsmiljöansvar för byggskedet är när byggherren har avtal med flera olika entreprenörer för ett och samma byggprojekt. Då är ingen av entreprenörerna tillräckligt självständig.
-
-### 3 §
-
-Innan ett arbete påbörjas ska en entreprenör, som självständigt ansvarar för byggnads- och anläggningsarbetena i ett byggprojekt åt en privatperson, klargöra för de inblandade aktörerna att entreprenören är byggherrens ställföreträdare. Det gäller när [konsumenttjänstlagen (1985:716)](https://rkrattsbaser.gov.se/sfst?bet=1985%3A716) ska tillämpas i enlighet med 3 kap. 7 c § sista stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160).
-
-> _Allmänna råd_
->
-> När en privatperson är byggherre övertar entreprenören automatiskt byggherrens arbetsmiljöansvar enligt 3 kap. 7 c § sista stycket arbetsmiljölagen, under förutsättning att entreprenören är tillräckligt självständig gentemot byggherren. Det gäller exempelvis om byggherren bara har avtal med en entreprenör för hela byggprojektet, och allt arbete sker som ett samlat uppdrag som den entreprenören samordnar och styr över.
->
-> När en entreprenör automatiskt blir ställföreträdare för byggherren är det entreprenören som ska följa arbetsmiljöbestämmelserna för byggherrar. Det är lämpligt att dokumentera vilket ansvarsförhållande som gäller i arbetsmiljöplanen.
-
-### 6 – kap. Projektörer – arkitekter, konstruktörer och andra som medverkar vid planering och projektering
-
-Stöd och verktyg: Projektörer – de som medverkar vid planering och projektering
-
-### 1 § – Vem föreskrifterna riktar sig till
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-3/kap-2) gäller för projektörer.
-
-> _Allmänna råd_
->
-> En definition av projektörer finns i [1 kap. 4 §](/lagstiftning/afs-2023-3/kap-1#4-definitioner). En projektör kan vara en juridisk eller en fysisk person.
-
-### 2 § – Förebygga arbetsmiljörisker vid planeringen och projekteringen
-
-Projektörerna ska, inom ramen för sina uppdrag, projektera så att bestämmelser i 8 kap. om grundprinciper för att förebygga arbetsmiljörisker, 9 kap. om att planera och projektera för en god arbetsmiljö i byggskedet och 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet [2](#2-förebygga-arbetsmiljörisker-vid-planeringen-och-projekteringen)–[4 §§](#4), uppfylls.
-
-### 3 §
-
-Projektörerna ska följa anvisningar från Bas-P i frågor som har betydelse för arbetsmiljön under bygg- eller bruksskedet, för att möjliggöra samordning av planeringen och projekteringen.
-
-### 4 §
-
-Projektörerna ska, i samråd med Bas-P, se till att deras föreslagna lösningar är förenliga med andra projektörers lösningar om det har betydelse för arbetsmiljön under bygg- eller bruksskedet.
-
-> _Allmänna råd_
->
-> Samråd med Bas-P, vars uppgift är att samordna projektörerna, kan exempelvis behövas om projektörernas lösningar inte går att kombinera.
-
-### 5 §
-
-Projektörerna ska ha rutiner för att, från idé till färdig handling, förebygga arbetsmiljörisker som kan uppstå under byggskedet. Rutinerna ska omfatta
-
-hur projektörerna arbetar enligt grundprinciperna i 8 kap. 2 §,
-
-hur och när projektörerna tar hänsyn till arbetsmiljön under byggskedet när de tar fram ritningar, beskrivningar och beräkningar, och
-
-vilka hjälpmedel eller kontrollsystem som projektörerna använder för att förebygga arbetsmiljörisker.
-
-> _Allmänna råd_
->
-> Arbetsmiljörisker kan till exempel förebyggas genom att projektörerna planerar och projekterar i dialog med någon sakkunnig inom produktion som har erfarenhet av liknande byggprojekt.
->
-> Andra exempel är att använda checklistor, program som visualiserar arbetsmiljörisker på ett tydligt sätt eller att någon annan med relevanta kunskaper granskar lösningar där eventuella fel i projekteringen kan leda till allvarliga arbetsmiljörisker.
-
-### 6 §
-
-Projektörerna ska vid planeringen och projekteringen, i tillämpliga delar och så långt de har en faktisk möjlighet att påverka, se till att
-
-planering och projektering utförs i god tid innan arbetena ska utföras så att det är möjligt att samordna arbetena, och
-
-den totala byggtiden, och tiderna för deletapperna, är så väl tilltagna att arbetena kan utföras i en sådan takt att ohälsa och olycksfall undviks.
-
-> _Allmänna råd_
->
-> Kravet på god framförhållning i planeringen och projekteringen gäller även när man fortsätter att planera och projektera efter att byggskedet har påbörjats.
->
-> Bestämmelsen kan exempelvis innebära att projektörer bevakar att tider för arbetsmoment som ska utföras ryms inom den totala byggtiden och att Bas-P behöver informeras.
-
-### 7 §
-
-Projektörerna ska utforma tillfälliga konstruktioner och samverkande konstruktioner så att de med säkerhet klarar de belastningar och påfrestningar som de kan komma att utsättas för under byggskedet.
-
-> _Allmänna råd_
->
-> Det kan vara lämpligt att projektörer ser till att någon annan med relevanta kunskaper granskar handlingar som ligger till grund för tillfälliga eller samverkande konstruktioner, om konstruktionerna inte ingår i något annat kontrollsystem.
-
-### 8 § – Följa upp det förebyggande arbetsmiljöarbetet
-
-Projektörerna ska redovisa skriftliga underlag med möjliga lösningar eller förslag på åtgärder till Bas-P för de allvarliga arbetsmiljörisker som kommer att kvarstå i byggskedet. Komplexa lösningar och åtgärder till risker som inte är uppenbara för alla ska beskrivas särskilt noggrant.
-
-De skriftliga åtgärdsförslagen ska kunna användas som underlag för arbetsmiljöplanen.
-
-> _Allmänna råd_
->
-> Utöver arbeten med särskild risk enligt 11 kap. 12 §, som ska beskrivas i arbetsmiljöplanen, kan exempelvis risker avseende brand, buller, ergonomi eller vibrationer vara allvarliga.
->
-> Exempel på risker som inte är uppenbara för alla är geotekniska risker eller brister i en konstruktions stabilitet under både uppförande- och nedmonteringsskeden.
->
-> När en projektör i sin tur anlitar andra som projekterar, bör projektören sammanställa de underlag som tas fram och redovisa dem i sin helhet för Bas-P.
-
-### 7 – kap. Den som tillverkar monteringsfärdiga byggnader eller anläggningar
-
-Stöd och verktyg: Den som tillverkar monteringsfärdiga byggnader eller anläggningar
-
-### 1 § – Vem föreskrifterna riktar sig till
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-3/kap-2) gäller för den som tillverkar monteringsfärdiga byggnader eller anläggningar.
-
-Monteringsfärdiga byggnader och anläggningar som lagligen saluförs i en annan medlemsstat i Europeiska unionen eller i Turkiet, eller som har sitt ursprung i och som lagligen saluförs i en Eftastat som är part i EES-avtalet, förutsätts vara förenliga med dessa föreskrifter. Tillämpningen av dessa föreskrifter omfattas av [Europaparlamentets och rådets förordning (EU) 2019/515](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32019R0515) av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av [förordning (EG) nr 764/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R0764).
-
-> _Allmänna råd_
->
-> En definition av den som tillverkar monteringsfärdiga byggnader eller anläggningar finns i [1 kap. 4 §](/lagstiftning/afs-2023-3/kap-1#4-definitioner).
->
-> Exempel på monteringsfärdiga byggnader eller anläggningar kan vara prefabricerade stommar eller broar i trä, betong eller stål och ”nyckelfärdiga” hus, där elementen har projekterats för att tillsammans bilda en helhet i form av en byggnad, anläggning eller bärande konstruktion. Delarna, som ofta tillverkas på fabrik och sedan monteras ihop på byggarbetsplatsen, kan projekteras för ett unikt objekt eller tillverkas i flertal.
-
-### 2 § – Förebygga arbetsmiljörisker vid planeringen och projekteringen
-
-Den som tillverkar monteringsfärdiga byggnader eller anläggningar ska, i tillämpliga delar, se till att bestämmelser i 8 kap. om grundprinciper för att förebygga arbetsmiljörisker, 9 kap. om att planera och projektera för en god arbetsmiljö i byggskedet [3](#3) och [6](#6)–[9 §§](#9), och 10 kap. om att planera och projektera för en god arbetsmiljö i bruksskedet [2](#2-förebygga-arbetsmiljörisker-vid-planeringen-och-projekteringen)–[4 §§](#4), uppfylls under planeringen och projekteringen.
-
-Rutiner för att förebygga arbetsmiljörisker som kan uppstå under byggskedet
-
-### 3 §
-
-Den som tillverkar monteringsfärdiga byggnader eller anläggningar ska ha rutiner som omfattar hur
-
-olika delar av projekteringen samordnas med avseende på arbetsmiljön under byggskedet, och
-
-säkerheten vid monteringen beaktas under projekteringen.
-
-Beskrivningar
-
-### 4 §
-
-Den som tillverkar monteringsfärdiga byggnader eller anläggningar ska se till att det finns underlag som beskriver hur de prefabricerade elementen ska stabiliseras, lyftas och monteras på ett säkert sätt.
-
-> _Allmänna råd_
->
-> Underlag kan exempelvis vara en monteringsinstruktion eller ritning som beskriver hur delarna i byggnaden eller anläggningen på ett säkert sätt kan stabiliseras under transport, lossning och mellanlagring, lyftas på plats och monteras. Även åtgärder mot rasrisker kan behöva beskrivas, som till exempel vilken typ av lyftanordningar, lyftredskap, lyftöglor och grippunkter som bör användas för säkert arbete. Ett annat exempel är lösningar för fallskydd.
->
-> Om det kvarstår arbetsmiljörisker under byggskedet som inte är uppenbara för alla, bör också de beskrivas och åtgärder föreslås. Sådana risker kan till exempel vara geotekniska risker eller brister i en konstruktions stabilitet under uppförandet.
-
-### 5 § – Följa upp det förebyggande arbetsmiljöarbetet
-
-Den som tillverkar monteringsfärdiga byggnader eller anläggningar ska följa upp monteringsarbetet för att kontrollera att byggnaderna eller anläggningarna går att montera på ett säkert sätt.
-
-> _Allmänna råd_
->
-> Vid ändringar, exempelvis nya konstruktionslösningar eller arbetssätt, bör den som tillverkar monteringsfärdiga byggnader eller anläggningar alltid följa upp det första montaget. Vid serietillverkning kan uppföljningen därefter ske med lämpliga intervall.
 <!-- scan-laws:end -->
 
 ## Tolkning

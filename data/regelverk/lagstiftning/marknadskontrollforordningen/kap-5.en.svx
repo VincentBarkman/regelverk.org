@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/903d90ee-9712-11e9-9369-01aa75ed71a1.0006.03#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1020#cpt_V'
 'sites':
   - 'el'
   - 'it'
@@ -24,9 +24,9 @@
 
 ### Article 14 – Powers of market surveillance authorities
 
-1\. Member States shall confer on their market surveillance authorities the powers of market surveillance, investigation and enforcement necessary for the application of [this Regulation](/lagstiftning/marknadskontrollforordningen) and for the application of Union harmonisation legislation.
+1\. Member States shall confer on their market surveillance authorities the powers of market surveillance, investigation and enforcement necessary for the application of [this Regulation](/en/lagstiftning/marknadskontrollforordningen) and for the application of Union harmonisation legislation.
 
-2\. Market surveillance authorities shall exercise the powers set out in [this Article](#article-14-powers-of-market-surveillance-authorities) efficiently and effectively, in accordance with the principle of proportionality, to the extent that such exercise relates to the subject matter and the purpose of the measures and the nature and the overall actual or potential harm resulting from the instance of non-compliance. Powers shall be conferred and exercised in accordance with Union and national law, including the principles of the Charter of Fundamental Rights of the European Union, as well as with principles of national law relating to freedom of expression and the freedom and pluralism of the media, with applicable procedural safeguards and with the Union rules on data protection, in particular [Regulation (EU) 2016/679](/lagstiftning/gdpr).
+2\. Market surveillance authorities shall exercise the powers set out in [this Article](#article-14-powers-of-market-surveillance-authorities) efficiently and effectively, in accordance with the principle of proportionality, to the extent that such exercise relates to the subject matter and the purpose of the measures and the nature and the overall actual or potential harm resulting from the instance of non-compliance. Powers shall be conferred and exercised in accordance with Union and national law, including the principles of the Charter of Fundamental Rights of the European Union, as well as with principles of national law relating to freedom of expression and the freedom and pluralism of the media, with applicable procedural safeguards and with the Union rules on data protection, in particular [Regulation (EU) 2016/679](/en/lagstiftning/gdpr).
 
 3\. When conferring powers under paragraph 1, Member States may provide for the power to be exercisable in one of the following ways, as appropriate:
 
@@ -54,7 +54,7 @@
 
 (h) the power to take appropriate measures where an economic operator fails to take appropriate corrective action or where the non-compliance or the risk persists, including the power to prohibit or restrict the making available of a product on the market or to order that the product is withdrawn or recalled;
 
-(i) the power to impose penalties in accordance with Article [41](/lagstiftning/marknadskontrollforordningen/kap-11#article-41-penalties);
+(i) the power to impose penalties in accordance with Article [41](/en/lagstiftning/marknadskontrollforordningen/kap-11#article-41-penalties);
 
 (j) the power to acquire product samples, including under a cover identity, to inspect those samples and to reverse-engineer them in order to identify non-compliance and to obtain evidence;
 
@@ -70,7 +70,7 @@
 
 1\. Member States may authorise their market surveillance authorities to reclaim from the relevant economic operator the totality of the costs of their activities with respect to instances of non-compliance.
 
-2\. The costs referred to in paragraph 1 of [this Article](#article-15-recovery-of-costs-by-market-surveillance-authorities) may include the costs of carrying out testing, the costs of taking measures in accordance with Article [28](/lagstiftning/marknadskontrollforordningen/kap-7#article-28-refusal-to-release-for-free-circulation)(1) and (2), the costs of storage and the costs of activities relating to products that are found to be non-compliant and are subject to corrective action prior to their release for free circulation or their placing on the market.
+2\. The costs referred to in paragraph 1 of [this Article](#article-15-recovery-of-costs-by-market-surveillance-authorities) may include the costs of carrying out testing, the costs of taking measures in accordance with Article [28](/en/lagstiftning/marknadskontrollforordningen/kap-7#article-28-refusal-to-release-for-free-circulation)(1) and (2), the costs of storage and the costs of activities relating to products that are found to be non-compliant and are subject to corrective action prior to their release for free circulation or their placing on the market.
 
 ### Article 16 – Market surveillance measures
 
@@ -102,9 +102,9 @@
 
 5\. If the economic operator fails to take corrective action referred to in paragraph 3 or where the non-compliance or the risk referred to in paragraph 1 persists, market surveillance authorities shall ensure that the product is withdrawn or recalled, or that its being made available on the market is prohibited or restricted, and that the public, the Commission and the other Member States are informed accordingly.
 
-6\. The information to the Commission and the other Member States pursuant to paragraph 5 of [this Article](#article-16-market-surveillance-measures) shall be communicated through the information and communication system referred to in Article [34](/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system). That communication of information shall also be deemed to fulfil notification requirements for the applicable safeguard procedures of Union harmonisation legislation.
+6\. The information to the Commission and the other Member States pursuant to paragraph 5 of [this Article](#article-16-market-surveillance-measures) shall be communicated through the information and communication system referred to in Article [34](/en/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system). That communication of information shall also be deemed to fulfil notification requirements for the applicable safeguard procedures of Union harmonisation legislation.
 
-7\. Where a national measure is considered to be justified in accordance with the applicable safeguard procedure, or where no market surveillance authority of another Member State concluded the contrary as referred to in Article [11](/lagstiftning/marknadskontrollforordningen/kap-4#article-11-activities-of-market-surveillance-authorities)(9), the competent market surveillance authorities in the other Member States shall take the necessary measures in respect of the non-compliant product and shall enter the relevant information in the information and communication system referred to in Article [34](/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system).
+7\. Where a national measure is considered to be justified in accordance with the applicable safeguard procedure, or where no market surveillance authority of another Member State concluded the contrary as referred to in Article [11](/en/lagstiftning/marknadskontrollforordningen/kap-4#article-11-activities-of-market-surveillance-authorities)(9), the competent market surveillance authorities in the other Member States shall take the necessary measures in respect of the non-compliant product and shall enter the relevant information in the information and communication system referred to in Article [34](/en/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system).
 
 ### Article 17 – Use of information, professional and commercial secrecy
 
@@ -112,7 +112,7 @@ Market surveillance authorities shall perform their activities with a high level
 
 ### Article 18 – Procedural rights of economic operators
 
-1\. Any measure, decision or order taken or made by market surveillance authorities pursuant to Union harmonisation legislation or [this Regulation](/lagstiftning/marknadskontrollforordningen) shall state the exact grounds on which it is based.
+1\. Any measure, decision or order taken or made by market surveillance authorities pursuant to Union harmonisation legislation or [this Regulation](/en/lagstiftning/marknadskontrollforordningen) shall state the exact grounds on which it is based.
 
 2\. Any such measure, decision or order shall be communicated without delay to the relevant economic operator, who shall at the same time be informed of the remedies available to it under the law of the Member State concerned and of the time limits to which those remedies are subject.
 
@@ -134,9 +134,9 @@ If the measure, decision or order is taken or made without the economic operator
 
 3\. The information provided in accordance with paragraphs 1 and 2 shall include all available details, in particular the data necessary for the identification of the product, the origin and the supply chain of the product, the risk related to the product, the nature and the duration of the national measure taken and any voluntary measures taken by economic operators.
 
-4\. For the purposes of paragraphs 1, 2 and 3 of [this Article](#article-20-rapid-information-exchange-system), the Rapid Information Exchange System (RAPEX) provided for in Article [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0095) of [Directive 2001/95/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0095) shall be used. Paragraphs 2, 3 and 4 of Article [12](/lagstiftning/marknadskontrollforordningen/kap-4#article-12-peer-reviews) of that Directive shall apply mutatis mutandis.
+4\. For the purposes of paragraphs 1, 2 and 3 of [this Article](#article-20-rapid-information-exchange-system), the Rapid Information Exchange System (RAPEX) provided for in Article [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0095) of [Directive 2001/95/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0095) shall be used. Paragraphs 2, 3 and 4 of Article [12](/en/lagstiftning/marknadskontrollforordningen/kap-4#article-12-peer-reviews) of that Directive shall apply mutatis mutandis.
 
-5\. The Commission shall provide and maintain a data interface between RAPEX and the information and communication system referred to in Article [34](/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system) so as to avoid double data entry.
+5\. The Commission shall provide and maintain a data interface between RAPEX and the information and communication system referred to in Article [34](/en/lagstiftning/marknadskontrollforordningen/kap-8#article-34-information-and-communication-system) so as to avoid double data entry.
 
 ### Article 21 – Union testing facilities
 
@@ -160,11 +160,11 @@ The Commission may also designate one of its own testing facilities as a Union t
 
 (c) develop new techniques and methods of analysis.
 
-7\. The activities referred to in paragraph 6 of [this Article](#article-21-union-testing-facilities) shall be remunerated and may be financed by the Union in accordance with Article [36](/lagstiftning/marknadskontrollforordningen/kap-9#article-36-financing-activities)(2).
+7\. The activities referred to in paragraph 6 of [this Article](#article-21-union-testing-facilities) shall be remunerated and may be financed by the Union in accordance with Article [36](/en/lagstiftning/marknadskontrollforordningen/kap-9#article-36-financing-activities)(2).
 
-8\. Union testing facilities may receive financing by the Union in accordance with Article [36](/lagstiftning/marknadskontrollforordningen/kap-9#article-36-financing-activities)(2) in order to increase their testing capacity or to create new testing capacity for specific categories of products or for specific risks related to a category of products for which the testing capacity is missing or is insufficient.
+8\. Union testing facilities may receive financing by the Union in accordance with Article [36](/en/lagstiftning/marknadskontrollforordningen/kap-9#article-36-financing-activities)(2) in order to increase their testing capacity or to create new testing capacity for specific categories of products or for specific risks related to a category of products for which the testing capacity is missing or is insufficient.
 
-9\. The Commission shall adopt implementing acts specifying the procedures for the designation of Union testing facilities. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [43](/lagstiftning/marknadskontrollforordningen/kap-11#article-43-committee-procedure)(2).
+9\. The Commission shall adopt implementing acts specifying the procedures for the designation of Union testing facilities. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [43](/en/lagstiftning/marknadskontrollforordningen/kap-11#article-43-committee-procedure)(2).
 <!-- scan-laws:end -->
 
 ## Interpretation

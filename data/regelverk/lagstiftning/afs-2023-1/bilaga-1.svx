@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20231/'
@@ -21,11 +21,9 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Arbetstagare med uppgifter enligt 9 §
-
 ### Inledning
 
-Arbetsgivaren ska se till att de som får uppgifter enligt [9 §](/lagstiftning/afs-2023-1/kap-2#9)
+Arbetsgivaren ska se till att de som får uppgifter enligt [9 §](/lagstiftning/afs-2023-1/avsnitt-uppgiftsfordelning#9)
 
 får tillgång till eventuella anmälda arbetsskador till Försäkringskassan enligt socialförsäkringsbalken (2010:110),
 

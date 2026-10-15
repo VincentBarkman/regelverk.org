@@ -11,10 +11,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03#cpt_VII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R2854#cpt_VII'
 'sites':
   - 'it'
 ---
@@ -26,9 +26,9 @@
 
 1\. Providers of data processing services shall take all adequate technical, organisational and legal measures, including contracts, in order to prevent international and third-country governmental access and transfer of non-personal data held in the Union where such transfer or access would create a conflict with Union law or with the national law of the relevant Member State, without prejudice to paragraph 2 or 3.
 
-2\. Any decision or judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a provider of data processing services to transfer or give access to non-personal data falling within the scope of [this Regulation](/lagstiftning/data-act) held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union, or any such agreement between the requesting third country and a Member State.
+2\. Any decision or judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a provider of data processing services to transfer or give access to non-personal data falling within the scope of [this Regulation](/en/lagstiftning/data-act) held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union, or any such agreement between the requesting third country and a Member State.
 
-3\. In the absence of an international agreement as referred to in paragraph 2, where a provider of data processing services is the addressee of a decision or judgment of a third-country court or tribunal or a decision of a third-country administrative authority to transfer or give access to non-personal data falling within the scope of [this Regulation](/lagstiftning/data-act) held in the Union and compliance with such a decision would risk putting the addressee in conflict with Union law or with the national law of the relevant Member State, transfer to or access to such data by that third-country authority shall take place only where:
+3\. In the absence of an international agreement as referred to in paragraph 2, where a provider of data processing services is the addressee of a decision or judgment of a third-country court or tribunal or a decision of a third-country administrative authority to transfer or give access to non-personal data falling within the scope of [this Regulation](/en/lagstiftning/data-act) held in the Union and compliance with such a decision would risk putting the addressee in conflict with Union law or with the national law of the relevant Member State, transfer to or access to such data by that third-country authority shall take place only where:
 
 (a) the third-country system requires the reasons and proportionality of such a decision or judgment to be set out and requires such a decision or judgment to be specific in character, for instance by establishing a sufficient link to certain suspected persons or infringements;
 
@@ -38,7 +38,7 @@
 
 The addressee of the decision or judgment may ask the opinion of the relevant national body or authority competent for international cooperation in legal matters, in order to determine whether the conditions laid down in the first subparagraph are met, in particular when it considers that the decision may relate to trade secrets and other commercially sensitive data as well as to content protected by intellectual property rights or the transfer may lead to re-identification. The relevant national body or authority may consult the Commission. If the addressee considers that the decision or judgment may impinge on the national security or defence interests of the Union or its Member States, it shall ask the opinion of the relevant national body or authority in order to determine whether the data requested concerns national security or defence interests of the Union or its Member States. If the addressee has not received a reply within one month, or if the opinion of such body or authority concludes that the conditions laid down in the first subparagraph are not met, the addressee may reject the request for transfer or access, to non-personal data, on those grounds.
 
-The EDIB referred to in Article [42](/lagstiftning/data-act/kap-9#article-42-role-of-the-edib) shall advise and assist the Commission in developing guidelines on the assessment of whether the conditions laid down in the first subparagraph of this paragraph are met.
+The EDIB referred to in Article [42](/en/lagstiftning/data-act/kap-9#article-42-role-of-the-edib) shall advise and assist the Commission in developing guidelines on the assessment of whether the conditions laid down in the first subparagraph of this paragraph are met.
 
 4\. If the conditions laid down in paragraph 2 or 3 are met, the provider of data processing services shall provide the minimum amount of data permissible in response to a request, on the basis of the reasonable interpretation of that request by the provider or relevant national body or authority referred to in paragraph 3, second subparagraph.
 

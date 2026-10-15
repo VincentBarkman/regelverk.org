@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554#cpt_II'
 'sites':
   - 'it'
 ---
@@ -87,7 +87,7 @@ For the purposes of the first subparagraph, the management body shall:
 
 (f) evidencing the current digital operational resilience situation on the basis of the number of major ICT-related incidents reported and the effectiveness of preventive measures;
 
-(g) implementing digital operational resilience testing, in accordance with [Chapter IV](/lagstiftning/dora/kap-4) of [this Regulation](/lagstiftning/dora);
+(g) implementing digital operational resilience testing, in accordance with [Chapter IV](/en/lagstiftning/dora/kap-4) of [this Regulation](/en/lagstiftning/dora);
 
 (h) outlining a communication strategy in the event of ICT-related incidents the disclosure of which is required in accordance with Article [14](#article-14-communication).
 
@@ -99,7 +99,7 @@ For the purposes of the first subparagraph, the management body shall:
 
 In order to address and manage ICT risk, financial entities shall use and maintain updated ICT systems, protocols and tools that are:
 
-(a) appropriate to the magnitude of operations supporting the conduct of their activities, in accordance with the proportionality principle as referred to in Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle);
+(a) appropriate to the magnitude of operations supporting the conduct of their activities, in accordance with the proportionality principle as referred to in Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle);
 
 (b) reliable;
 
@@ -129,7 +129,7 @@ In order to address and manage ICT risk, financial entities shall use and mainta
 
 2\. Financial entities shall design, procure and implement ICT security policies, procedures, protocols and tools that aim to ensure the resilience, continuity and availability of ICT systems, in particular for those supporting critical or important functions, and to maintain high standards of availability, authenticity, integrity and confidentiality of data, whether at rest, in use or in transit.
 
-3\. In order to achieve the objectives referred to in paragraph 2, financial entities shall use ICT solutions and processes that are appropriate in accordance with Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle). Those ICT solutions and processes shall:
+3\. In order to achieve the objectives referred to in paragraph 2, financial entities shall use ICT solutions and processes that are appropriate in accordance with Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle). Those ICT solutions and processes shall:
 
 (a) ensure the security of the means of transfer of data;
 
@@ -159,9 +159,9 @@ For the purposes of the first subparagraph, point (e), the ICT change management
 
 ### Article 10 – Detection
 
-1\. Financial entities shall have in place mechanisms to promptly detect anomalous activities, in accordance with Article [17](/lagstiftning/dora/kap-3#article-17-ict-related-incident-management-process), including ICT network performance issues and ICT-related incidents, and to identify potential material single points of failure.
+1\. Financial entities shall have in place mechanisms to promptly detect anomalous activities, in accordance with Article [17](/en/lagstiftning/dora/kap-3#article-17-ict-related-incident-management-process), including ICT network performance issues and ICT-related incidents, and to identify potential material single points of failure.
 
-All detection mechanisms referred to in the first subparagraph shall be regularly tested in accordance with Article [25](/lagstiftning/dora/kap-4#article-25-testing-of-ict-tools-and-systems).
+All detection mechanisms referred to in the first subparagraph shall be regularly tested in accordance with Article [25](/en/lagstiftning/dora/kap-4#article-25-testing-of-ict-tools-and-systems).
 
 2\. The detection mechanisms referred to in paragraph 1 shall enable multiple layers of control, define alert thresholds and criteria to trigger and initiate ICT-related incident response processes, including automatic alert mechanisms for relevant staff in charge of ICT-related incident response.
 
@@ -183,7 +183,7 @@ All detection mechanisms referred to in the first subparagraph shall be regularl
 
 (d) estimate preliminary impacts, damages and losses;
 
-(e) set out communication and crisis management actions that ensure that updated information is transmitted to all relevant internal staff and external stakeholders in accordance with Article [14](#article-14-communication), and report to the competent authorities in accordance with Article [19](/lagstiftning/dora/kap-3#article-19-reporting-of-major-ict-related-incidents-and-voluntary-notification-of-significant-cyber-threats).
+(e) set out communication and crisis management actions that ensure that updated information is transmitted to all relevant internal staff and external stakeholders in accordance with Article [14](#article-14-communication), and report to the competent authorities in accordance with Article [19](/en/lagstiftning/dora/kap-3#article-19-reporting-of-major-ict-related-incidents-and-voluntary-notification-of-significant-cyber-threats).
 
 3\. As part of the ICT risk management framework referred to in Article [6](#article-6-ict-risk-management-framework)(1), financial entities shall implement associated ICT response and recovery plans which, in the case of financial entities other than microenterprises, shall be subject to independent internal audit reviews.
 
@@ -261,13 +261,13 @@ The post ICT-related incident reviews referred to in the first subparagraph shal
 
 (d) the effectiveness of internal and external communication.
 
-3\. Lessons derived from the digital operational resilience testing carried out in accordance with Articles [26](/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt) and [27](/lagstiftning/dora/kap-4#article-27-requirements-for-testers-for-the-carrying-out-of-tlpt) and from real life ICT-related incidents, in particular cyber-attacks, along with challenges faced upon the activation of ICT business continuity plans and ICT response and recovery plans, together with relevant information exchanged with counterparts and assessed during supervisory reviews, shall be duly incorporated on a continuous basis into the ICT risk assessment process. Those findings shall form the basis for appropriate reviews of relevant components of the ICT risk management framework referred to in Article [6](#article-6-ict-risk-management-framework)(1).
+3\. Lessons derived from the digital operational resilience testing carried out in accordance with Articles [26](/en/lagstiftning/dora/kap-4#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt) and [27](/en/lagstiftning/dora/kap-4#article-27-requirements-for-testers-for-the-carrying-out-of-tlpt) and from real life ICT-related incidents, in particular cyber-attacks, along with challenges faced upon the activation of ICT business continuity plans and ICT response and recovery plans, together with relevant information exchanged with counterparts and assessed during supervisory reviews, shall be duly incorporated on a continuous basis into the ICT risk assessment process. Those findings shall form the basis for appropriate reviews of relevant components of the ICT risk management framework referred to in Article [6](#article-6-ict-risk-management-framework)(1).
 
 4\. Financial entities shall monitor the effectiveness of the implementation of their digital operational resilience strategy set out in Article [6](#article-6-ict-risk-management-framework)(8). They shall map the evolution of ICT risk over time, analyse the frequency, types, magnitude and evolution of ICT-related incidents, in particular cyber-attacks and their patterns, with a view to understanding the level of ICT risk exposure, in particular in relation to critical or important functions, and enhance the cyber maturity and preparedness of the financial entity.
 
 5\. Senior ICT staff shall report at least yearly to the management body on the findings referred to in paragraph 3 and put forward recommendations.
 
-6\. Financial entities shall develop ICT security awareness programmes and digital operational resilience training as compulsory modules in their staff training schemes. Those programmes and training shall be applicable to all employees and to senior management staff, and shall have a level of complexity commensurate to the remit of their functions. Where appropriate, financial entities shall also include ICT third-party service providers in their relevant training schemes in accordance with Article [30](/lagstiftning/dora/kap-5#article-30-key-contractual-provisions)(2), point (i).
+6\. Financial entities shall develop ICT security awareness programmes and digital operational resilience training as compulsory modules in their staff training schemes. Those programmes and training shall be applicable to all employees and to senior management staff, and shall have a level of complexity commensurate to the remit of their functions. Where appropriate, financial entities shall also include ICT third-party service providers in their relevant training schemes in accordance with Article [30](/en/lagstiftning/dora/kap-5#article-30-key-contractual-provisions)(2), point (i).
 
 7\. Financial entities, other than microenterprises, shall monitor relevant technological developments on a continuous basis, also with a view to understanding the possible impact of the deployment of such new technologies on ICT security requirements and digital operational resilience. They shall keep up-to-date with the latest ICT risk management processes, in order to effectively combat current or new forms of cyber-attacks.
 
@@ -301,11 +301,11 @@ When developing those draft regulatory technical standards, the ESAs shall take 
 
 The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024.
 
-Power is delegated to the Commission to supplement [this Regulation](/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first paragraph in accordance with Articles [10](#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
+Power is delegated to the Commission to supplement [this Regulation](/en/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first paragraph in accordance with Articles [10](#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
 
 ### Article 16 – Simplified ICT risk management framework
 
-1\. Articles [5](#article-5-governance-and-organisation) to 15 of [this Regulation](/lagstiftning/dora) shall not apply to small and non-interconnected investment firms, payment institutions exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366); institutions exempted pursuant to [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036) in respect of which Member States have decided not to apply the option referred to in Article [2](/lagstiftning/dora/kap-1#article-2-scope)(4) of [this Regulation](/lagstiftning/dora); electronic money institutions exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110); and small institutions for occupational retirement provision.
+1\. Articles [5](#article-5-governance-and-organisation) to 15 of [this Regulation](/en/lagstiftning/dora) shall not apply to small and non-interconnected investment firms, payment institutions exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366); institutions exempted pursuant to [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036) in respect of which Member States have decided not to apply the option referred to in Article [2](/en/lagstiftning/dora/kap-1#article-2-scope)(4) of [this Regulation](/en/lagstiftning/dora); electronic money institutions exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110); and small institutions for occupational retirement provision.
 
 Without prejudice to the first subparagraph, the entities listed in the first subparagraph shall:
 
@@ -343,7 +343,7 @@ When developing those draft regulatory technical standards, the ESAs shall take 
 
 The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024.
 
-Power is delegated to the Commission to supplement [this Regulation](/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles [10](#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
+Power is delegated to the Commission to supplement [this Regulation](/en/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles [10](#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
 <!-- scan-laws:end -->
 
 ## Interpretation

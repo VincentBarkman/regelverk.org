@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R3110#cpt_II'
 'sites':
   - 'brandskydd'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 13 – Declaration of performance and conformity
 
-1\. Where a product is covered by a harmonised technical specification adopted in accordance with Articles [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance) or [6](/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics), the manufacturer shall undergo the applicable assessment and verification system set out in Annex IX and draw up a declaration of performance and conformity before such a product is placed on the market. Where a product is covered by a harmonised technical specification adopted in accordance with Article [7](/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity), the manufacturer shall also verify the product’s compliance with applicable product requirements that have been specified by delegated acts. The manufacturer of a product which is not covered by any harmonised technical specification may issue a declaration of performance and conformity in accordance with the relevant European assessment document and European technical assessment.
+1\. Where a product is covered by a harmonised technical specification adopted in accordance with Articles [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance) or [6](/en/lagstiftning/cpr/kap-1#article-6-other-harmonised-technical-specifications-laying-down-essential-characteristics), the manufacturer shall undergo the applicable assessment and verification system set out in Annex IX and draw up a declaration of performance and conformity before such a product is placed on the market. Where a product is covered by a harmonised technical specification adopted in accordance with Article [7](/en/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity), the manufacturer shall also verify the product’s compliance with applicable product requirements that have been specified by delegated acts. The manufacturer of a product which is not covered by any harmonised technical specification may issue a declaration of performance and conformity in accordance with the relevant European assessment document and European technical assessment.
 
 2\. By drawing up the declaration of performance and conformity, the manufacturer assumes responsibility for the conformity of the product with its declared performance and any applicable product requirements, and becomes liable in accordance with Union and national laws on contractual and extra-contractual liability. In the absence of objective indications to the contrary, Member States shall presume the declaration of performance and conformity drawn up by the manufacturer to be accurate and reliable.
 
@@ -49,11 +49,11 @@ By way of derogation from Article [13](#article-13-declaration-of-performance-an
 
 1\. The declaration of performance and conformity shall be drawn up using the model set out in Annex V. The declaration of performance and conformity shall express the performance of products in relation to the essential characteristics of those products in accordance with the relevant harmonised technical specifications or European assessment document.
 
-Where product requirements specified in accordance with Article [7](/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity) are applicable, the declaration of performance and conformity shall state that the fulfilment of those requirements has been demonstrated.
+Where product requirements specified in accordance with Article [7](/en/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity) are applicable, the declaration of performance and conformity shall state that the fulfilment of those requirements has been demonstrated.
 
 2\. The declaration of performance and conformity shall include the product’s environmental sustainability performance over its life cycle in respect of the predetermined environmental essential characteristics listed in Annex II for those characteristics that are declared. The performance shall include the packaging used or most likely to be used and shall be calculated using the latest version of software made available free of charge on the website of the Commission.
 
-Updates of the software referred to in the first subparagraph shall become mandatory for the purposes of [this Regulation](/lagstiftning/cpr) one year after their publication. Such software updates may be voluntarily applied from their date of publication.
+Updates of the software referred to in the first subparagraph shall become mandatory for the purposes of [this Regulation](/en/lagstiftning/cpr) one year after their publication. Such software updates may be voluntarily applied from their date of publication.
 
 3\. The declaration of performance and conformity shall cover at least a product’s performance over its life cycle with regard to the following essential characteristics:
 
@@ -63,17 +63,17 @@ Updates of the software referred to in the first subparagraph shall become manda
 
 (c) essential characteristics listed in points (n) to (s), of Annex II, from 9 January 2032.
 
-The declaration of performance and conformity shall also cover those essential characteristics which always have to be declared, as determined in delegated acts adopted in accordance with Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(5).
+The declaration of performance and conformity shall also cover those essential characteristics which always have to be declared, as determined in delegated acts adopted in accordance with Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(5).
 
 4\. No marking other than the CE marking may be placed on the declaration of performance and conformity.
 
-5\. The Commission is empowered to adopt delegated acts in accordance with Article [89](/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend the model set out in Annex V to adapt it to reflect technical progress as regards new information needs, to facilitate the fulfilment of digital product passport requirements set out in Articles [76](/lagstiftning/cpr/kap-10#article-76-digital-product-passport) and [77](/lagstiftning/cpr/kap-10#article-77-general-requirements-for-the-digital-product-passport), and to ensure interoperability and correct integration with the construction digital product passport system in accordance with Article [75](/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
+5\. The Commission is empowered to adopt delegated acts in accordance with Article [89](/en/lagstiftning/cpr/kap-15#article-89-delegated-acts) to amend the model set out in Annex V to adapt it to reflect technical progress as regards new information needs, to facilitate the fulfilment of digital product passport requirements set out in Articles [76](/en/lagstiftning/cpr/kap-10#article-76-digital-product-passport) and [77](/en/lagstiftning/cpr/kap-10#article-77-general-requirements-for-the-digital-product-passport), and to ensure interoperability and correct integration with the construction digital product passport system in accordance with Article [75](/en/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
 
-6\. The information referred to in Article [31](/lagstiftning/cpr/kap-4#article-31-european-assessment-documents) or, as the case may be, in Article [33](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31907R2006) of [Regulation (EC) No 1907/2006](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31907R2006) of the European Parliament and of the Council (27) shall be provided together with the declaration of performance and conformity.
+6\. The information referred to in Article [31](/en/lagstiftning/cpr/kap-4#article-31-european-assessment-documents) or, as the case may be, in Article [33](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31907R2006) of [Regulation (EC) No 1907/2006](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31907R2006) of the European Parliament and of the Council (27) shall be provided together with the declaration of performance and conformity.
 
 ### Article 16 – Supply of the declaration of performance and conformity
 
-1\. The manufacturer shall supply by electronic means a copy of the declaration of performance and conformity of each product which is made available on the market, unless the declaration is included in a digital product passport that fulfils the conditions set out in Article [76](/lagstiftning/cpr/kap-10#article-76-digital-product-passport) and is available through the construction digital product passport system established in accordance with Article [75](/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
+1\. The manufacturer shall supply by electronic means a copy of the declaration of performance and conformity of each product which is made available on the market, unless the declaration is included in a digital product passport that fulfils the conditions set out in Article [76](/en/lagstiftning/cpr/kap-10#article-76-digital-product-passport) and is available through the construction digital product passport system established in accordance with Article [75](/en/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
 
 However, where a batch of the same product is supplied to a single user, it may be accompanied by a single copy of the declaration of performance and conformity.
 
@@ -91,7 +91,7 @@ However, where a batch of the same product is supplied to a single user, it may 
 
 (f) provides a link between the product and the declaration of performance and conformity related to it through the unique identification code of the product type; manufacturers may use a data carrier, including a permalink, to provide the link, provided that point (a) is complied with.
 
-3\. As part of the standardisation request referred to in Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2), the Commission may also request the European standardisation organisation to issue guidelines to ensure interoperability of the human- and machine readable formats referred to in paragraph 2, point (b) of [this Article](#article-16-supply-of-the-declaration-of-performance-and-conformity).
+3\. As part of the standardisation request referred to in Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance)(2), the Commission may also request the European standardisation organisation to issue guidelines to ensure interoperability of the human- and machine readable formats referred to in paragraph 2, point (b) of [this Article](#article-16-supply-of-the-declaration-of-performance-and-conformity).
 
 4\. The manufacturer shall supply or make available in a digital product passport in accordance with paragraph 1, or on a website in accordance with paragraph 2, the declaration of performance and conformity in the language or languages required by each of the Member States in which the manufacturer intends to make the product available. Another economic operator who makes that manufacturer’s product available in any additional Member State shall make a translation or translations of the declaration of performance and conformity available in the languages required by the additional Member State, together with the respective original version.
 
@@ -101,9 +101,9 @@ However, where a batch of the same product is supplied to a single user, it may 
 
 2\. The CE marking shall be affixed only to those products for which the manufacturer has drawn up a declaration of performance and conformity in accordance with Articles [13](#article-13-declaration-of-performance-and-conformity) and [15](#article-15-content-of-the-declaration-of-performance-and-conformity). The CE marking shall be affixed to key parts.
 
-3\. By affixing the CE marking to the product, or having it affixed, the economic operator indicates that it has assumed responsibility for the conformity of the product with the declared performance and applicable product requirements laid down in accordance with [this Regulation](/lagstiftning/cpr). By affixing the CE marking, the economic operator becomes liable for the declared performance and the fulfilment of those requirements in accordance with national law on contractual and extra-contractual liability.
+3\. By affixing the CE marking to the product, or having it affixed, the economic operator indicates that it has assumed responsibility for the conformity of the product with the declared performance and applicable product requirements laid down in accordance with [this Regulation](/en/lagstiftning/cpr). By affixing the CE marking, the economic operator becomes liable for the declared performance and the fulfilment of those requirements in accordance with national law on contractual and extra-contractual liability.
 
-4\. The CE marking shall be the only marking attesting to the performance of the product with regard to assessed essential characteristics in accordance with [this Regulation](/lagstiftning/cpr), as well as to the conformity of the product with [this Regulation](/lagstiftning/cpr).
+4\. The CE marking shall be the only marking attesting to the performance of the product with regard to assessed essential characteristics in accordance with [this Regulation](/en/lagstiftning/cpr), as well as to the conformity of the product with [this Regulation](/en/lagstiftning/cpr).
 
 ### Article 18 – Rules and conditions for the affixing of CE marking
 
@@ -123,7 +123,7 @@ However, where a batch of the same product is supplied to a single user, it may 
 
 (f) the identification number of the notified body or bodies verifying the product type and assessing the factory production control, if applicable; and
 
-(g) a data carrier connected to the digital product passport referred to in Article [76](/lagstiftning/cpr/kap-10#article-76-digital-product-passport) if such a digital product passport is available through the construction digital product passport system established pursuant to Article [75](/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
+(g) a data carrier connected to the digital product passport referred to in Article [76](/en/lagstiftning/cpr/kap-10#article-76-digital-product-passport) if such a digital product passport is available through the construction digital product passport system established pursuant to Article [75](/en/lagstiftning/cpr/kap-10#article-75-construction-digital-product-passport-system).
 
 The information listed in points (d) and (e) of the first subparagraph of this paragraph may be replaced by a data carrier, including permalink connected to the declaration of performance and conformity pursuant to Article [16](#article-16-supply-of-the-declaration-of-performance-and-conformity)(2), point (e), if the declaration of performance and conformity is available on a website. The information listed in points (d) and (e) of the first subparagraph of this paragraph may be omitted if a data carrier referred to in point (g) of the first subparagraph of this paragraph is provided.
 
@@ -131,7 +131,7 @@ The information listed in points (d) and (e) of the first subparagraph of this p
 
 ### Article 19 – Other markings and performance claims
 
-1\. Markings other than the CE marking, including private ones, may be affixed to a product only if they do not indicate that the product’s performance in relation to essential characteristics covered by applicable harmonised technical specifications had to be assessed in a way different from that laid down by [this Regulation](/lagstiftning/cpr).
+1\. Markings other than the CE marking, including private ones, may be affixed to a product only if they do not indicate that the product’s performance in relation to essential characteristics covered by applicable harmonised technical specifications had to be assessed in a way different from that laid down by [this Regulation](/en/lagstiftning/cpr).
 
 Officially recognised EN ISO 14024 type I ecolabels may be affixed to a product if they fulfil the requirement in the first subparagraph.
 

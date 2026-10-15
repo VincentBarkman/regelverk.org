@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#cpt_II'
 'sites':
   - 'it'
 ---
@@ -51,7 +51,7 @@ An electronic identification scheme shall be eligible for notification pursuant 
 
 (c) the electronic identification scheme and the electronic identification means issued thereunder meet the requirements of at least one of the assurance levels set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3);
 
-(d) the notifying Member State ensures that the person identification data uniquely representing the person in question is attributed, in accordance with the technical specifications, standards and procedures for the relevant assurance level set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3), to the natural or legal person referred to in point 1 of Article [3](/lagstiftning/eidas/kap-1#article-3-definitions) at the time the electronic identification means under that scheme is issued;
+(d) the notifying Member State ensures that the person identification data uniquely representing the person in question is attributed, in accordance with the technical specifications, standards and procedures for the relevant assurance level set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3), to the natural or legal person referred to in point 1 of Article [3](/en/lagstiftning/eidas/kap-1#article-3-definitions) at the time the electronic identification means under that scheme is issued;
 
 (e) the party issuing the electronic identification means under that scheme ensures that the electronic identification means is attributed to the person referred to in point (d) of [this Article](#article-7-eligibility-for-notification-of-electronic-identification-schemes) in accordance with the technical specifications, standards and procedures for the relevant assurance level set out in the implementing act referred to in Article [8](#article-8-assurance-levels-of-electronic-identification-schemes)(3);
 
@@ -93,7 +93,7 @@ Those minimum technical specifications, standards and procedures shall be set ou
 
 (f) the technical and security specifications of the issued electronic identification means.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 9 – Notification
 
@@ -123,7 +123,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 4\. A Member State may submit to the Commission a request to remove an electronic identification scheme notified by that Member State from the list referred to in paragraph 2. The Commission shall publish in the Official Journal of the European Union the corresponding amendments to the list within one month from the date of receipt of the Member State’s request.
 
-5\. The Commission may, by means of implementing acts, define the circumstances, formats and procedures of notifications under paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+5\. The Commission may, by means of implementing acts, define the circumstances, formats and procedures of notifications under paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 
 ### Article 10 – Security breach
 
@@ -191,7 +191,7 @@ The Commission shall publish in the Official Journal of the European Union the c
 
 (b) the exchange of information, experience and good practice as regards working with assurance levels of electronic identification schemes under Article [8](#article-8-assurance-levels-of-electronic-identification-schemes);
 
-(c) peer review of electronic identification schemes falling under [this Regulation](/lagstiftning/eidas); and
+(c) peer review of electronic identification schemes falling under [this Regulation](/en/lagstiftning/eidas); and
 
 (d) examination of relevant developments in the electronic identification sector.
 
@@ -199,7 +199,7 @@ The Commission shall publish in the Official Journal of the European Union the c
 
 8\. By 18 September 2015, for the purpose of setting uniform conditions for the implementation of the requirement under paragraph 1, the Commission shall, subject to the criteria set out in paragraph 3 and taking into account the results of the cooperation between Member States, adopt implementing acts on the interoperability framework as set out in paragraph 4.
 
-9\. The implementing acts referred to in paragraphs 7 and 8 of [this Article](#article-12-cooperation-and-interoperability) shall be adopted in accordance with the examination procedure referred to in Article [48](/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
+9\. The implementing acts referred to in paragraphs 7 and 8 of [this Article](#article-12-cooperation-and-interoperability) shall be adopted in accordance with the examination procedure referred to in Article [48](/en/lagstiftning/eidas/kap-5#article-48-committee-procedure)(2).
 <!-- scan-laws:end -->
 
 ## Interpretation

@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '1989-06-29'
@@ -19,12 +19,12 @@
   - 'arbetsmiljolagen'
 'sites':
   - 'arbetsmiljo'
-'url': 'http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3.0008.01'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31989L0391'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [SECTION I](/lagstiftning/arbetsmiljodirektivet/kap-1) · Articles 1–13
-- [SECTION IV](/lagstiftning/arbetsmiljodirektivet/kap-4) · Articles 14–19
+- [SECTION I](/en/lagstiftning/arbetsmiljodirektivet/kap-1) · Articles 1–13
+- [SECTION IV](/en/lagstiftning/arbetsmiljodirektivet/kap-4) · Articles 14–19
 <!-- scan-laws:end -->

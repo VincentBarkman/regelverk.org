@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.03#cpt_VII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#cpt_VII'
 'sites':
   - 'it'
   - 'ot'
@@ -26,7 +26,7 @@
 
 1\. The Commission shall develop Union expertise and capabilities in the field of AI through the AI Office.
 
-2\. Member States shall facilitate the tasks entrusted to the AI Office, as reflected in [this Regulation](/lagstiftning/ai).
+2\. Member States shall facilitate the tasks entrusted to the AI Office, as reflected in [this Regulation](/en/lagstiftning/ai).
 
 ### Article 65 – Establishment and structure of the European Artificial Intelligence Board
 
@@ -42,57 +42,57 @@
 
 (b) are designated as a single contact point vis-à-vis the Board and, where appropriate, taking into account Member States’ needs, as a single contact point for stakeholders;
 
-(c) are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of [this Regulation](/lagstiftning/ai), including through the collection of relevant data and information for the purpose of fulfilling their tasks on the Board.
+(c) are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of [this Regulation](/en/lagstiftning/ai), including through the collection of relevant data and information for the purpose of fulfilling their tasks on the Board.
 
 5\. The designated representatives of the Member States shall adopt the Board’s rules of procedure by a two-thirds majority. The rules of procedure shall, in particular, lay down procedures for the selection process, the duration of the mandate of, and specifications of the tasks of, the Chair, detailed arrangements for voting, and the organisation of the Board’s activities and those of its sub-groups.
 
 6\. The Board shall establish two standing sub-groups to provide a platform for cooperation and exchange among market surveillance authorities and notifying authorities about issues related to market surveillance and notified bodies respectively.
 
-The standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for [this Regulation](/lagstiftning/ai) within the meaning of Article [30](/lagstiftning/marknadskontrollforordningen/kap-8#artikel-30-nätverkets-sammansättning-och-funktion) of [Regulation (EU) 2019/1020](/lagstiftning/marknadskontrollforordningen).
+The standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for [this Regulation](/en/lagstiftning/ai) within the meaning of Article [30](/en/lagstiftning/marknadskontrollforordningen/kap-8#article-30-composition-and-functioning-of-the-network) of [Regulation (EU) 2019/1020](/en/lagstiftning/marknadskontrollforordningen).
 
 The Board may establish other standing or temporary sub-groups as appropriate for the purpose of examining specific issues. Where appropriate, representatives of the advisory forum referred to in Article [67](#article-67-advisory-forum) may be invited to such sub-groups or to specific meetings of those subgroups as observers.
 
 7\. The Board shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.
 
-8\. The Board shall be chaired by one of the representatives of the Member States. The AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to [this Regulation](/lagstiftning/ai) and its rules of procedure.
+8\. The Board shall be chaired by one of the representatives of the Member States. The AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to [this Regulation](/en/lagstiftning/ai) and its rules of procedure.
 
 ### Article 66 – Tasks of the Board
 
-The Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of [this Regulation](/lagstiftning/ai). To that end, the Board may in particular:
+The Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of [this Regulation](/en/lagstiftning/ai). To that end, the Board may in particular:
 
-(a) contribute to the coordination among national competent authorities responsible for the application of [this Regulation](/lagstiftning/ai) and, in cooperation with and subject to the agreement of the market surveillance authorities concerned, support joint activities of market surveillance authorities referred to in Article [74](/lagstiftning/ai/kap-9#article-74-market-surveillance-and-control-of-ai-systems-in-the-union-market)(11);
+(a) contribute to the coordination among national competent authorities responsible for the application of [this Regulation](/en/lagstiftning/ai) and, in cooperation with and subject to the agreement of the market surveillance authorities concerned, support joint activities of market surveillance authorities referred to in Article [74](/en/lagstiftning/ai/kap-9#article-74-market-surveillance-and-control-of-ai-systems-in-the-union-market)(11);
 
 (b) collect and share technical and regulatory expertise and best practices among Member States;
 
-(c) provide advice on the implementation of [this Regulation](/lagstiftning/ai), in particular as regards the enforcement of rules on general-purpose AI models;
+(c) provide advice on the implementation of [this Regulation](/en/lagstiftning/ai), in particular as regards the enforcement of rules on general-purpose AI models;
 
-(d) contribute to the harmonisation of administrative practices in the Member States, including in relation to the derogation from the conformity assessment procedures referred to in Article [46](/lagstiftning/ai/kap-3#article-46-derogation-from-conformity-assessment-procedure), the functioning of AI regulatory sandboxes, and testing in real world conditions referred to in Articles [57](/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes), [59](/lagstiftning/ai/kap-6#article-59-further-processing-of-personal-data-for-developing-certain-ai-systems-in-the-public-interest-in-the-ai-regulatory-sandbox) and [60](/lagstiftning/ai/kap-6#article-60-testing-of-high-risk-ai-systems-in-real-world-conditions-outside-ai-regulatory-sandboxes);
+(d) contribute to the harmonisation of administrative practices in the Member States, including in relation to the derogation from the conformity assessment procedures referred to in Article [46](/en/lagstiftning/ai/kap-3#article-46-derogation-from-conformity-assessment-procedure), the functioning of AI regulatory sandboxes, and testing in real world conditions referred to in Articles [57](/en/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes), [59](/en/lagstiftning/ai/kap-6#article-59-further-processing-of-personal-data-for-developing-certain-ai-systems-in-the-public-interest-in-the-ai-regulatory-sandbox) and [60](/en/lagstiftning/ai/kap-6#article-60-testing-of-high-risk-ai-systems-in-real-world-conditions-outside-ai-regulatory-sandboxes);
 
-(e) at the request of the Commission or on its own initiative, issue recommendations and written opinions on any relevant matters related to the implementation of [this Regulation](/lagstiftning/ai) and to its consistent and effective application, including:
+(e) at the request of the Commission or on its own initiative, issue recommendations and written opinions on any relevant matters related to the implementation of [this Regulation](/en/lagstiftning/ai) and to its consistent and effective application, including:
 
-(i) on the development and application of codes of conduct and codes of practice pursuant to [this Regulation](/lagstiftning/ai), as well as of the Commission’s guidelines;
+(i) on the development and application of codes of conduct and codes of practice pursuant to [this Regulation](/en/lagstiftning/ai), as well as of the Commission’s guidelines;
 
-(ii) the evaluation and review of [this Regulation](/lagstiftning/ai) pursuant to Article [112](/lagstiftning/ai/kap-13#article-112-evaluation-and-review), including as regards the serious incident reports referred to in Article [73](/lagstiftning/ai/kap-9#article-73-reporting-of-serious-incidents), and the functioning of the EU database referred to in Article [71](/lagstiftning/ai/kap-8#article-71-eu-database-for-high-risk-ai-systems-listed-in-annex-iii), the preparation of the delegated or implementing acts, and as regards possible alignments of [this Regulation](/lagstiftning/ai) with the Union harmonisation legislation listed in Annex I;
+(ii) the evaluation and review of [this Regulation](/en/lagstiftning/ai) pursuant to Article [112](/en/lagstiftning/ai/kap-13#article-112-evaluation-and-review), including as regards the serious incident reports referred to in Article [73](/en/lagstiftning/ai/kap-9#article-73-reporting-of-serious-incidents), and the functioning of the EU database referred to in Article [71](/en/lagstiftning/ai/kap-8#article-71-eu-database-for-high-risk-ai-systems-listed-in-annex-iii), the preparation of the delegated or implementing acts, and as regards possible alignments of [this Regulation](/en/lagstiftning/ai) with the Union harmonisation legislation listed in Annex I;
 
-(iii) on technical specifications or existing standards regarding the requirements set out in [Chapter III](/lagstiftning/ai/kap-3), Section 2;
+(iii) on technical specifications or existing standards regarding the requirements set out in [Chapter III](/en/lagstiftning/ai/kap-3), Section 2;
 
-(iv) on the use of harmonised standards or common specifications referred to in Articles [40](/lagstiftning/ai/kap-3#article-40-harmonised-standards-and-standardisation-deliverables) and [41](/lagstiftning/ai/kap-3#article-41-common-specifications);
+(iv) on the use of harmonised standards or common specifications referred to in Articles [40](/en/lagstiftning/ai/kap-3#article-40-harmonised-standards-and-standardisation-deliverables) and [41](/en/lagstiftning/ai/kap-3#article-41-common-specifications);
 
 (v) trends, such as European global competitiveness in AI, the uptake of AI in the Union, and the development of digital skills;
 
 (vi) trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability;
 
-(vii) on the potential need for amendment to Annex III in accordance with Article [7](/lagstiftning/ai/kap-3#article-7-amendments-to-annex-iii), and on the potential need for possible revision of Article [5](/lagstiftning/ai/kap-2#article-5-prohibited-ai-practices) pursuant to Article [112](/lagstiftning/ai/kap-13#article-112-evaluation-and-review), taking into account relevant available evidence and the latest developments in technology;
+(vii) on the potential need for amendment to Annex III in accordance with Article [7](/en/lagstiftning/ai/kap-3#article-7-amendments-to-annex-iii), and on the potential need for possible revision of Article [5](/en/lagstiftning/ai/kap-2#article-5-prohibited-ai-practices) pursuant to Article [112](/en/lagstiftning/ai/kap-13#article-112-evaluation-and-review), taking into account relevant available evidence and the latest developments in technology;
 
 (f) support the Commission in promoting AI literacy, public awareness and understanding of the benefits, risks, safeguards and rights and obligations in relation to the use of AI systems;
 
-(g) facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in [this Regulation](/lagstiftning/ai), including by contributing to the development of benchmarks;
+(g) facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in [this Regulation](/en/lagstiftning/ai), including by contributing to the development of benchmarks;
 
 (h) cooperate, as appropriate, with other Union institutions, bodies, offices and agencies, as well as relevant Union expert groups and networks, in particular in the fields of product safety, cybersecurity, competition, digital and media services, financial services, consumer protection, data and fundamental rights protection;
 
 (i) contribute to effective cooperation with the competent authorities of third countries and with international organisations;
 
-(j) assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of [this Regulation](/lagstiftning/ai), including by contributing to the assessment of training needs for staff of Member States involved in implementing [this Regulation](/lagstiftning/ai);
+(j) assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of [this Regulation](/en/lagstiftning/ai), including by contributing to the assessment of training needs for staff of Member States involved in implementing [this Regulation](/en/lagstiftning/ai);
 
 (k) assist the AI Office in supporting national competent authorities in the establishment and development of AI regulatory sandboxes, and facilitate cooperation and information-sharing among AI regulatory sandboxes;
 
@@ -106,7 +106,7 @@ The Board shall advise and assist the Commission and the Member States in order 
 
 ### Article 67 – Advisory forum
 
-1\. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under [this Regulation](/lagstiftning/ai).
+1\. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under [this Regulation](/en/lagstiftning/ai).
 
 2\. The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia. The membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.
 
@@ -122,13 +122,13 @@ The Board shall advise and assist the Commission and the Member States in order 
 
 8\. The advisory forum may prepare opinions, recommendations and written contributions at the request of the Board or the Commission.
 
-9\. The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of [this Regulation](/lagstiftning/ai).
+9\. The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of [this Regulation](/en/lagstiftning/ai).
 
 10\. The advisory forum shall prepare an annual report on its activities. That report shall be made publicly available.
 
 ### Article 68 – Scientific panel of independent experts
 
-1\. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under [this Regulation](/lagstiftning/ai). That implementing act shall be adopted in accordance with the examination procedure referred to in Article [98](/lagstiftning/ai/kap-11#article-98-committee-procedure)(2).
+1\. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the ‘scientific panel’) intended to support the enforcement activities under [this Regulation](/en/lagstiftning/ai). That implementing act shall be adopted in accordance with the examination procedure referred to in Article [98](/en/lagstiftning/ai/kap-11#article-98-committee-procedure)(2).
 
 2\. The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:
 
@@ -142,9 +142,9 @@ The Commission, in consultation with the Board, shall determine the number of ex
 
 3\. The scientific panel shall advise and support the AI Office, in particular with regard to the following tasks:
 
-(a) supporting the implementation and enforcement of [this Regulation](/lagstiftning/ai) as regards general-purpose AI models and systems, in particular by:
+(a) supporting the implementation and enforcement of [this Regulation](/en/lagstiftning/ai) as regards general-purpose AI models and systems, in particular by:
 
-(i) alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article [90](/lagstiftning/ai/kap-9#article-90-alerts-of-systemic-risks-by-the-scientific-panel);
+(i) alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article [90](/en/lagstiftning/ai/kap-9#article-90-alerts-of-systemic-risks-by-the-scientific-panel);
 
 (ii) contributing to the development of tools and methodologies for evaluating capabilities of general-purpose AI models and systems, including through benchmarks;
 
@@ -156,9 +156,9 @@ The Commission, in consultation with the Board, shall determine the number of ex
 
 (b) supporting the work of market surveillance authorities, at their request;
 
-(c) supporting cross-border market surveillance activities as referred to in Article [74](/lagstiftning/ai/kap-9#article-74-market-surveillance-and-control-of-ai-systems-in-the-union-market)(11), without prejudice to the powers of market surveillance authorities;
+(c) supporting cross-border market surveillance activities as referred to in Article [74](/en/lagstiftning/ai/kap-9#article-74-market-surveillance-and-control-of-ai-systems-in-the-union-market)(11), without prejudice to the powers of market surveillance authorities;
 
-(d) supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article [81](/lagstiftning/ai/kap-9#article-81-union-safeguard-procedure).
+(d) supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article [81](/en/lagstiftning/ai/kap-9#article-81-union-safeguard-procedure).
 
 4\. The experts on the scientific panel shall perform their tasks with impartiality and objectivity, and shall ensure the confidentiality of information and data obtained in carrying out their tasks and activities. They shall neither seek nor take instructions from anyone when exercising their tasks under paragraph 3. Each expert shall draw up a declaration of interests, which shall be made publicly available. The AI Office shall establish systems and procedures to actively manage and prevent potential conflicts of interest.
 
@@ -166,31 +166,31 @@ The Commission, in consultation with the Board, shall determine the number of ex
 
 ### Article 69 – Access to the pool of experts by the Member States
 
-1\. Member States may call upon experts of the scientific panel to support their enforcement activities under [this Regulation](/lagstiftning/ai).
+1\. Member States may call upon experts of the scientific panel to support their enforcement activities under [this Regulation](/en/lagstiftning/ai).
 
-2\. The Member States may be required to pay fees for the advice and support provided by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article [68](#article-68-scientific-panel-of-independent-experts)(1), taking into account the objectives of the adequate implementation of [this Regulation](/lagstiftning/ai), cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.
+2\. The Member States may be required to pay fees for the advice and support provided by the experts. The structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article [68](#article-68-scientific-panel-of-independent-experts)(1), taking into account the objectives of the adequate implementation of [this Regulation](/en/lagstiftning/ai), cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.
 
-3\. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article [84](/lagstiftning/ai/kap-9#article-84-union-ai-testing-support-structures) and experts pursuant to [this Article](#article-69-access-to-the-pool-of-experts-by-the-member-states) is efficiently organised and provides the best possible added value.
+3\. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article [84](/en/lagstiftning/ai/kap-9#article-84-union-ai-testing-support-structures) and experts pursuant to [this Article](#article-69-access-to-the-pool-of-experts-by-the-member-states) is efficiently organised and provides the best possible added value.
 
 ### Article 70 – Designation of national competent authorities and single points of contact
 
-1\. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of [this Regulation](/lagstiftning/ai). Those national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of [this Regulation](/lagstiftning/ai). The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.
+1\. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of [this Regulation](/en/lagstiftning/ai). Those national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of [this Regulation](/en/lagstiftning/ai). The members of those authorities shall refrain from any action incompatible with their duties. Provided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.
 
-2\. Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto. Member States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025. Member States shall designate a market surveillance authority to act as the single point of contact for [this Regulation](/lagstiftning/ai), and shall notify the Commission of the identity of the single point of contact. The Commission shall make a list of the single points of contact publicly available.
+2\. Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto. Member States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025. Member States shall designate a market surveillance authority to act as the single point of contact for [this Regulation](/en/lagstiftning/ai), and shall notify the Commission of the identity of the single point of contact. The Commission shall make a list of the single points of contact publicly available.
 
-3\. Member States shall ensure that their national competent authorities are provided with adequate technical, financial and human resources, and with infrastructure to fulfil their tasks effectively under [this Regulation](/lagstiftning/ai). In particular, the national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of AI technologies, data and data computing, personal data protection, cybersecurity, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements. Member States shall assess and, if necessary, update competence and resource requirements referred to in this paragraph on an annual basis.
+3\. Member States shall ensure that their national competent authorities are provided with adequate technical, financial and human resources, and with infrastructure to fulfil their tasks effectively under [this Regulation](/en/lagstiftning/ai). In particular, the national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of AI technologies, data and data computing, personal data protection, cybersecurity, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements. Member States shall assess and, if necessary, update competence and resource requirements referred to in this paragraph on an annual basis.
 
 4\. National competent authorities shall take appropriate measures to ensure an adequate level of cybersecurity.
 
-5\. When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article [78](/lagstiftning/ai/kap-9#article-78-confidentiality).
+5\. When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article [78](/en/lagstiftning/ai/kap-9#article-78-confidentiality).
 
 6\. By 2 August 2025, and once every two years thereafter, Member States shall report to the Commission on the status of the financial and human resources of the national competent authorities, with an assessment of their adequacy. The Commission shall transmit that information to the Board for discussion and possible recommendations.
 
 7\. The Commission shall facilitate the exchange of experience between national competent authorities.
 
-8\. National competent authorities may provide guidance and advice on the implementation of [this Regulation](/lagstiftning/ai), in particular to SMEs including start-ups, taking into account the guidance and advice of the Board and the Commission, as appropriate. Whenever national competent authorities intend to provide guidance and advice with regard to an AI system in areas covered by other Union law, the national competent authorities under that Union law shall be consulted, as appropriate.
+8\. National competent authorities may provide guidance and advice on the implementation of [this Regulation](/en/lagstiftning/ai), in particular to SMEs including start-ups, taking into account the guidance and advice of the Board and the Commission, as appropriate. Whenever national competent authorities intend to provide guidance and advice with regard to an AI system in areas covered by other Union law, the national competent authorities under that Union law shall be consulted, as appropriate.
 
-9\. Where Union institutions, bodies, offices or agencies fall within the scope of [this Regulation](/lagstiftning/ai), the European Data Protection Supervisor shall act as the competent authority for their supervision.
+9\. Where Union institutions, bodies, offices or agencies fall within the scope of [this Regulation](/en/lagstiftning/ai), the European Data Protection Supervisor shall act as the competent authority for their supervision.
 <!-- scan-laws:end -->
 
 ## Interpretation

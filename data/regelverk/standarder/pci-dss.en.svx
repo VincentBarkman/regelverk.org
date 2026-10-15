@@ -22,4 +22,8 @@ url: https://www.pcisecuritystandards.org/standards/pci-dss/
 PCI DSS defines twelve requirement areas for organisations that store, process or transmit cardholder data. The standard is published by the PCI Security Standards Council; the current version 4.0.1 was released in 2024. The standard text is obtained from the PCI SSC document library.
 
 Official source: [PCI DSS v4.0.1](https://www.pcisecuritystandards.org/standards/pci-dss/).
+
+## Related legal acts
+
+- [General Data Protection Regulation (GDPR)](/en/lagstiftning/gdpr)
 <!-- scan-standards:end -->

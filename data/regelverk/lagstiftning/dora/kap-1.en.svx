@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554#cpt_I'
 'sites':
   - 'it'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 1 – Subject matter
 
-1\. In order to achieve a high common level of digital operational resilience, [this Regulation](/lagstiftning/dora) lays down uniform requirements concerning the security of network and information systems supporting the business processes of financial entities as follows:
+1\. In order to achieve a high common level of digital operational resilience, [this Regulation](/en/lagstiftning/dora) lays down uniform requirements concerning the security of network and information systems supporting the business processes of financial entities as follows:
 
 (a) requirements applicable to financial entities in relation to:
 
@@ -43,15 +43,15 @@
 
 (c) rules for the establishment and conduct of the Oversight Framework for critical ICT third-party service providers when providing services to financial entities;
 
-(d) rules on cooperation among competent authorities, and rules on supervision and enforcement by competent authorities in relation to all matters covered by [this Regulation](/lagstiftning/dora).
+(d) rules on cooperation among competent authorities, and rules on supervision and enforcement by competent authorities in relation to all matters covered by [this Regulation](/en/lagstiftning/dora).
 
-2\. In relation to financial entities identified as essential or important entities pursuant to national rules transposing Article [3](/lagstiftning/nis2/kap-1#artikel-3-väsentliga-och-viktiga-entiteter) of [Directive (EU) 2022/2555](/lagstiftning/nis2), [this Regulation](/lagstiftning/dora) shall be considered a sector-specific Union legal act for the purposes of Article [4](#article-4-proportionality-principle) of that Directive.
+2\. In relation to financial entities identified as essential or important entities pursuant to national rules transposing Article [3](/en/lagstiftning/nis2/kap-1#article-3-essential-and-important-entities) of [Directive (EU) 2022/2555](/en/lagstiftning/nis2), [this Regulation](/en/lagstiftning/dora) shall be considered a sector-specific Union legal act for the purposes of Article [4](#article-4-proportionality-principle) of that Directive.
 
-3\. [This Regulation](/lagstiftning/dora) is without prejudice to the responsibility of Member States’ regarding essential State functions concerning public security, defence and national security in accordance with Union law.
+3\. [This Regulation](/en/lagstiftning/dora) is without prejudice to the responsibility of Member States’ regarding essential State functions concerning public security, defence and national security in accordance with Union law.
 
 ### Article 2 – Scope
 
-1\. Without prejudice to paragraphs 3 and 4, [this Regulation](/lagstiftning/dora) applies to the following entities:
+1\. Without prejudice to paragraphs 3 and 4, [this Regulation](/en/lagstiftning/dora) applies to the following entities:
 
 (a) credit institutions;
 
@@ -95,9 +95,9 @@
 
 (u) ICT third-party service providers.
 
-2\. For the purposes of [this Regulation](/lagstiftning/dora), entities referred to in paragraph 1, points (a) to (t), shall collectively be referred to as ‘financial entities’.
+2\. For the purposes of [this Regulation](/en/lagstiftning/dora), entities referred to in paragraph 1, points (a) to (t), shall collectively be referred to as ‘financial entities’.
 
-3\. [This Regulation](/lagstiftning/dora) does not apply to:
+3\. [This Regulation](/en/lagstiftning/dora) does not apply to:
 
 (a) managers of alternative investment funds as referred to in Article [3](#article-3-definitions)(2) of [Directive 2011/61/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0061);
 
@@ -111,21 +111,21 @@
 
 (f) post office giro institutions as referred to in Article [2](#article-2-scope)(5), point (3), of [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036).
 
-4\. Member States may exclude from the scope of [this Regulation](/lagstiftning/dora) entities referred to in Article [2](#article-2-scope)(5), points (4) to (23), of [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036) that are located within their respective territories. Where a Member State makes use of such option, it shall inform the Commission thereof as well as of any subsequent changes thereto. The Commission shall make that information publicly available on its website or other easily accessible means.
+4\. Member States may exclude from the scope of [this Regulation](/en/lagstiftning/dora) entities referred to in Article [2](#article-2-scope)(5), points (4) to (23), of [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036) that are located within their respective territories. Where a Member State makes use of such option, it shall inform the Commission thereof as well as of any subsequent changes thereto. The Commission shall make that information publicly available on its website or other easily accessible means.
 
 ### Article 3 – Definitions
 
-For the purposes of [this Regulation](/lagstiftning/dora), the following definitions shall apply:
+For the purposes of [this Regulation](/en/lagstiftning/dora), the following definitions shall apply:
 
 #### Footnotes
 
 (1) ‘digital operational resilience’ means the ability of a financial entity to build, assure and review its operational integrity and reliability by ensuring, either directly or indirectly through the use of services provided by ICT third-party service providers, the full range of ICT-related capabilities needed to address the security of the network and information systems which a financial entity uses, and which support the continued provision of financial services and their quality, including throughout disruptions;
 
-(2) ‘network and information system’ means a network and information system as defined in Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point 1, of [Directive (EU) 2022/2555](/lagstiftning/nis2);
+(2) ‘network and information system’ means a network and information system as defined in Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point 1, of [Directive (EU) 2022/2555](/en/lagstiftning/nis2);
 
 (3) ‘legacy ICT system’ means an ICT system that has reached the end of its lifecycle (end-of-life), that is not suitable for upgrades or fixes, for technological or commercial reasons, or is no longer supported by its supplier or by an ICT third-party service provider, but that is still in use and supports the functions of the financial entity;
 
-(4) ‘security of network and information systems’ means security of network and information systems as defined in Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point 2, of [Directive (EU) 2022/2555](/lagstiftning/nis2);
+(4) ‘security of network and information systems’ means security of network and information systems as defined in Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point 2, of [Directive (EU) 2022/2555](/en/lagstiftning/nis2);
 
 (5) ‘ICT risk’ means any reasonably identifiable circumstance in relation to the use of network and information systems which, if materialised, may compromise the security of the network and information systems, of any technology dependent tool or process, of operations and processes, or of the provision of services by producing adverse effects in the digital or physical environment;
 
@@ -163,7 +163,7 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 (22) ‘critical or important function’ means a function, the disruption of which would materially impair the financial performance of a financial entity, or the soundness or continuity of its services and activities, or the discontinued, defective or failed performance of that function would materially impair the continuing compliance of a financial entity with the conditions and obligations of its authorisation, or with its other obligations under applicable financial services law;
 
-(23) ‘critical ICT third-party service provider’ means an ICT third-party service provider designated as critical in accordance with Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers);
+(23) ‘critical ICT third-party service provider’ means an ICT third-party service provider designated as critical in accordance with Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers);
 
 (24) ‘ICT third-party service provider established in a third country’ means an ICT third-party service provider that is a legal person established in a third-country and that has entered into a contractual arrangement with a financial entity for the provision of ICT services;
 
@@ -185,17 +185,17 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 (33) ‘investment firm’ means an investment firm as defined in Article [4](#article-4-proportionality-principle)(1), point (1), of [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065);
 
-(34) ‘small and non-interconnected investment firm’ means an investment firm that meets the conditions laid out in Article [12](/lagstiftning/dora/kap-2#article-12-backup-policies-and-procedures-restoration-and-recovery-procedures-and-methods)(1) of [Regulation (EU) 2019/2033](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2033) of the European Parliament and of the Council (33);
+(34) ‘small and non-interconnected investment firm’ means an investment firm that meets the conditions laid out in Article [12](/en/lagstiftning/dora/kap-2#article-12-backup-policies-and-procedures-restoration-and-recovery-procedures-and-methods)(1) of [Regulation (EU) 2019/2033](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2033) of the European Parliament and of the Council (33);
 
 (35) ‘payment institution’ means a payment institution as defined in Article [4](#article-4-proportionality-principle), point (4), of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
 
-(36) ‘payment institution exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366)’ means a payment institution exempted pursuant to Article [32](/lagstiftning/dora/kap-5#article-32-structure-of-the-oversight-framework)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
+(36) ‘payment institution exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366)’ means a payment institution exempted pursuant to Article [32](/en/lagstiftning/dora/kap-5#article-32-structure-of-the-oversight-framework)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
 
-(37) ‘account information service provider’ means an account information service provider as referred to in Article [33](/lagstiftning/dora/kap-5#article-33-tasks-of-the-lead-overseer)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
+(37) ‘account information service provider’ means an account information service provider as referred to in Article [33](/en/lagstiftning/dora/kap-5#article-33-tasks-of-the-lead-overseer)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
 
 (38) ‘electronic money institution’ means an electronic money institution as defined in Article [2](#article-2-scope), point (1), of [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110) of the European Parliament and of the Council;
 
-(39) ‘electronic money institution exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110)’ means an electronic money institution benefitting from a waiver as referred to in Article [9](/lagstiftning/dora/kap-2#article-9-protection-and-prevention)(1) of [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110);
+(39) ‘electronic money institution exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110)’ means an electronic money institution benefitting from a waiver as referred to in Article [9](/en/lagstiftning/dora/kap-2#article-9-protection-and-prevention)(1) of [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110);
 
 (40) ‘central counterparty’ means a central counterparty as defined in Article [2](#article-2-scope), point (1), of [Regulation (EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648);
 
@@ -211,9 +211,9 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 (46) ‘data reporting service provider’ means a data reporting service provider within the meaning of [Regulation (EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600), as referred to in Article [2](#article-2-scope)(1), points (34) to (36) thereof;
 
-(47) ‘insurance undertaking’ means an insurance undertaking as defined in Article [13](/lagstiftning/dora/kap-2#article-13-learning-and-evolving), point (1), of [Directive 2009/138/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138);
+(47) ‘insurance undertaking’ means an insurance undertaking as defined in Article [13](/en/lagstiftning/dora/kap-2#article-13-learning-and-evolving), point (1), of [Directive 2009/138/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138);
 
-(48) ‘reinsurance undertaking’ means a reinsurance undertaking as defined in Article [13](/lagstiftning/dora/kap-2#article-13-learning-and-evolving), point (4), of [Directive 2009/138/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138);
+(48) ‘reinsurance undertaking’ means a reinsurance undertaking as defined in Article [13](/en/lagstiftning/dora/kap-2#article-13-learning-and-evolving), point (4), of [Directive 2009/138/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138);
 
 (49) ‘insurance intermediary’ means an insurance intermediary as defined in Article [2](#article-2-scope)(1), point (3), of [Directive (EU) 2016/97](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0097) of the European Parliament and of the Council (34);
 
@@ -221,7 +221,7 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 (51) ‘reinsurance intermediary’ means a reinsurance intermediary as defined in Article [2](#article-2-scope)(1), point (5), of [Directive (EU) 2016/97](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0097);
 
-(52) ‘institution for occupational retirement provision’ means an institution for occupational retirement provision as defined in Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point (1), of [Directive (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L2341);
+(52) ‘institution for occupational retirement provision’ means an institution for occupational retirement provision as defined in Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework), point (1), of [Directive (EU) 2016/2341](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L2341);
 
 (53) ‘small institution for occupational retirement provision’ means an institution for occupational retirement provision which operates pension schemes which together have less than 100 members in total;
 
@@ -239,7 +239,7 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 (60) ‘microenterprise’ means a financial entity, other than a trading venue, a central counterparty, a trade repository or a central securities depository, which employs fewer than 10 persons and has an annual turnover and/or annual balance sheet total that does not exceed EUR 2 million;
 
-(61) ‘Lead Overseer’ means the European Supervisory Authority appointed in accordance with Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(1), point (b) of [this Regulation](/lagstiftning/dora);
+(61) ‘Lead Overseer’ means the European Supervisory Authority appointed in accordance with Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers)(1), point (b) of [this Regulation](/en/lagstiftning/dora);
 
 (62) ‘Joint Committee’ means the committee referred to in Article [54](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093) of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095);
 
@@ -251,11 +251,11 @@ For the purposes of [this Regulation](/lagstiftning/dora), the following definit
 
 ### Article 4 – Proportionality principle
 
-1\. Financial entities shall implement the rules laid down in [Chapter II](/lagstiftning/dora/kap-2) in accordance with the principle of proportionality, taking into account their size and overall risk profile, and the nature, scale and complexity of their services, activities and operations.
+1\. Financial entities shall implement the rules laid down in [Chapter II](/en/lagstiftning/dora/kap-2) in accordance with the principle of proportionality, taking into account their size and overall risk profile, and the nature, scale and complexity of their services, activities and operations.
 
 2\. In addition, the application by financial entities of Chapters III, IV and V, Section I, shall be proportionate to their size and overall risk profile, and to the nature, scale and complexity of their services, activities and operations, as specifically provided for in the relevant rules of those Chapters.
 
-3\. The competent authorities shall consider the application of the proportionality principle by financial entities when reviewing the consistency of the ICT risk management framework on the basis of the reports submitted upon the request of competent authorities pursuant to Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(5) and Article [16](/lagstiftning/dora/kap-2#article-16-simplified-ict-risk-management-framework)(2).
+3\. The competent authorities shall consider the application of the proportionality principle by financial entities when reviewing the consistency of the ICT risk management framework on the basis of the reports submitted upon the request of competent authorities pursuant to Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(5) and Article [16](/en/lagstiftning/dora/kap-2#article-16-simplified-ict-risk-management-framework)(2).
 <!-- scan-laws:end -->
 
 ## Interpretation

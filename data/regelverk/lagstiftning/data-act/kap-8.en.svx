@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03#cpt_VIII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R2854#cpt_VIII'
 'sites':
   - 'it'
 ---
@@ -35,9 +35,9 @@
 
 The requirements can have a generic nature or concern specific sectors, while taking fully into account the interrelation with requirements arising from other Union or national law.
 
-2\. The Commission is empowered to adopt delegated acts, in accordance with Article [45](/lagstiftning/data-act/kap-11#article-45-exercise-of-the-delegation) of [this Regulation](/lagstiftning/data-act) to supplement [this Regulation](/lagstiftning/data-act) by further specifying the essential requirements laid down in paragraph 1 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces), in relation to those requirements that, by their nature, cannot produce the intended effect unless they are further specified in binding Union legal acts and in order to properly reflect technological and market developments.
+2\. The Commission is empowered to adopt delegated acts, in accordance with Article [45](/en/lagstiftning/data-act/kap-11#article-45-exercise-of-the-delegation) of [this Regulation](/en/lagstiftning/data-act) to supplement [this Regulation](/en/lagstiftning/data-act) by further specifying the essential requirements laid down in paragraph 1 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces), in relation to those requirements that, by their nature, cannot produce the intended effect unless they are further specified in binding Union legal acts and in order to properly reflect technological and market developments.
 
-The Commission shall when adopting delegated acts take into account the advice of the EDIB in accordance with Article [42](/lagstiftning/data-act/kap-9#article-42-role-of-the-edib), point (c)(iii).
+The Commission shall when adopting delegated acts take into account the advice of the EDIB in accordance with Article [42](/en/lagstiftning/data-act/kap-9#article-42-role-of-the-edib), point (c)(iii).
 
 3\. The participants in data spaces that offer data or data services to other participants in data spaces which meet the harmonised standards or parts thereof, the references of which are published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such harmonised standards or parts thereof.
 
@@ -45,17 +45,17 @@ The Commission shall when adopting delegated acts take into account the advice o
 
 5\. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:
 
-(a) the Commission has requested, pursuant to Article [10](/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces) and:
+(a) the Commission has requested, pursuant to Article [10](/en/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces) and:
 
 (i) the request has not been accepted;
 
-(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/en/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
 
 (iii) the harmonised standards do not comply with the request; and
 
 (b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces) is published in the Official Journal of the European Union in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) and no such reference is expected to be published within a reasonable period.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [46](/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [46](/en/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
 
 6\. Before preparing a draft implementing act referred to in paragraph 5 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces), the Commission shall inform the committee referred to in Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) that it considers that the conditions in paragraph 5 of [this Article](#article-33-essential-requirements-regarding-interoperability-of-data-of-data-sharing-mechanisms-and-services-as-well-as-of-common-european-data-spaces) have been fulfilled.
 
@@ -67,11 +67,11 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 10\. When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraph 1, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
 
-11\. The Commission may adopt guidelines taking into account the proposal of the EDIB in accordance with Article [30](/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching), point (h), of [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces.
+11\. The Commission may adopt guidelines taking into account the proposal of the EDIB in accordance with Article [30](/en/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching), point (h), of [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces.
 
 ### Article 34 – Interoperability for the purposes of in-parallel use of data processing services
 
-1\. The requirements laid down in Article [23](/lagstiftning/data-act/kap-6#article-23-removing-obstacles-to-effective-switching), Article [24](/lagstiftning/data-act/kap-6#article-24-scope-of-the-technical-obligations), Article [25](/lagstiftning/data-act/kap-6#article-25-contractual-terms-concerning-switching)(2), points (a)(ii), (a)(iv), (e) and (f) and Article [30](/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(2) to (5) shall also apply mutatis mutandis to providers of data processing services to facilitate interoperability for the purposes of in-parallel use of data processing services.
+1\. The requirements laid down in Article [23](/en/lagstiftning/data-act/kap-6#article-23-removing-obstacles-to-effective-switching), Article [24](/en/lagstiftning/data-act/kap-6#article-24-scope-of-the-technical-obligations), Article [25](/en/lagstiftning/data-act/kap-6#article-25-contractual-terms-concerning-switching)(2), points (a)(ii), (a)(iv), (e) and (f) and Article [30](/en/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(2) to (5) shall also apply mutatis mutandis to providers of data processing services to facilitate interoperability for the purposes of in-parallel use of data processing services.
 
 2\. Where a data processing service is being used in parallel with another data processing service, the providers of data processing services may impose data egress charges, but only for the purpose of passing on egress costs incurred, without exceeding such costs.
 
@@ -83,7 +83,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 (b) enhance portability of digital assets between different data processing services that cover the same service type;
 
-(c) facilitate, where technically feasible, functional equivalence between different data processing services referred to in Article [30](/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(1) that cover the same service type;
+(c) facilitate, where technically feasible, functional equivalence between different data processing services referred to in Article [30](/en/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(1) that cover the same service type;
 
 (d) not have an adverse impact on the security and integrity of data processing services and data;
 
@@ -99,17 +99,17 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 3\. Open interoperability specifications shall comply with Annex II to [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025).
 
-4\. After taking into account relevant international and European standards and self-regulatory initiatives, the Commission may, in accordance with Article [10](/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraphs 1 and 2 of [this Article](#article-35-interoperability-of-data-processing-services).
+4\. After taking into account relevant international and European standards and self-regulatory initiatives, the Commission may, in accordance with Article [10](/en/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraphs 1 and 2 of [this Article](#article-35-interoperability-of-data-processing-services).
 
 5\. The Commission may, by means of implementing acts, adopt common specifications based on open interoperability specifications covering all of the essential requirements laid down in paragraphs 1 and 2.
 
-6\. When preparing the draft implementing act referred to in paragraph 5 of [this Article](#article-35-interoperability-of-data-processing-services), the Commission shall take into account the views of the relevant competent authorities referred to in Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators)(5), point (h) and other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
+6\. When preparing the draft implementing act referred to in paragraph 5 of [this Article](#article-35-interoperability-of-data-processing-services), the Commission shall take into account the views of the relevant competent authorities referred to in Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators)(5), point (h) and other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
 
 7\. When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraphs 1 and 2, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
 
-8\. For the purpose of Article [30](/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(3), the Commission shall, by means of implementing acts, publish the references of harmonised standards and common specifications for the interoperability of data processing services in a central Union standards repository for the interoperability of data processing services.
+8\. For the purpose of Article [30](/en/lagstiftning/data-act/kap-6#article-30-technical-aspects-of-switching)(3), the Commission shall, by means of implementing acts, publish the references of harmonised standards and common specifications for the interoperability of data processing services in a central Union standards repository for the interoperability of data processing services.
 
-9\. The implementing acts referred to in [this Article](#article-35-interoperability-of-data-processing-services) shall be adopted in accordance with the examination procedure referred to in Article [46](/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
+9\. The implementing acts referred to in [this Article](#article-35-interoperability-of-data-processing-services) shall be adopted in accordance with the examination procedure referred to in Article [46](/en/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
 
 ### Article 36 – Essential requirements regarding smart contracts for executing data sharing agreements
 
@@ -135,17 +135,17 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 6\. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:
 
-(a) the Commission has requested, pursuant to Article [10](/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of [this Article](#article-36-essential-requirements-regarding-smart-contracts-for-executing-data-sharing-agreements) and:
+(a) the Commission has requested, pursuant to Article [10](/en/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of [this Article](#article-36-essential-requirements-regarding-smart-contracts-for-executing-data-sharing-agreements) and:
 
 (i) the request has not been accepted;
 
-(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article [10](/en/lagstiftning/data-act/kap-3#article-10-dispute-settlement)(1) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025); or
 
 (iii) the harmonised standards do not comply with the request; and
 
 (b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of [this Article](#article-36-essential-requirements-regarding-smart-contracts-for-executing-data-sharing-agreements) is published in the Official Journal of the European Union in accordance with [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) and no such reference is expected to be published within a reasonable period.
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [46](/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [46](/en/lagstiftning/data-act/kap-11#article-46-committee-procedure)(2).
 
 7\. Before preparing a draft implementing act referred to in paragraph 6 of [this Article](#article-36-essential-requirements-regarding-smart-contracts-for-executing-data-sharing-agreements), the Commission shall inform the committee referred to in Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025) that it considers that the conditions in paragraph 6 of [this Article](#article-36-essential-requirements-regarding-smart-contracts-for-executing-data-sharing-agreements) have been fulfilled.
 

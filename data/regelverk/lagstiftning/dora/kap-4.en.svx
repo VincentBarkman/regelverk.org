@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_IV'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554#cpt_IV'
 'sites':
   - 'it'
 ---
@@ -23,11 +23,11 @@
 
 ### Article 24 – General requirements for the performance of digital operational resilience testing
 
-1\. For the purpose of assessing preparedness for handling ICT-related incidents, of identifying weaknesses, deficiencies and gaps in digital operational resilience, and of promptly implementing corrective measures, financial entities, other than microenterprises, shall, taking into account the criteria set out in Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), establish, maintain and review a sound and comprehensive digital operational resilience testing programme as an integral part of the ICT risk-management framework referred to in Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework).
+1\. For the purpose of assessing preparedness for handling ICT-related incidents, of identifying weaknesses, deficiencies and gaps in digital operational resilience, and of promptly implementing corrective measures, financial entities, other than microenterprises, shall, taking into account the criteria set out in Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), establish, maintain and review a sound and comprehensive digital operational resilience testing programme as an integral part of the ICT risk-management framework referred to in Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework).
 
 2\. The digital operational resilience testing programme shall include a range of assessments, tests, methodologies, practices and tools to be applied in accordance with Articles [25](#article-25-testing-of-ict-tools-and-systems) and [26](#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt).
 
-3\. When conducting the digital operational resilience testing programme referred to in paragraph 1 of [this Article](#article-24-general-requirements-for-the-performance-of-digital-operational-resilience-testing), financial entities, other than microenterprises, shall follow a risk-based approach taking into account the criteria set out in Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2) duly considering the evolving landscape of ICT risk, any specific risks to which the financial entity concerned is or might be exposed, the criticality of information assets and of services provided, as well as any other factor the financial entity deems appropriate.
+3\. When conducting the digital operational resilience testing programme referred to in paragraph 1 of [this Article](#article-24-general-requirements-for-the-performance-of-digital-operational-resilience-testing), financial entities, other than microenterprises, shall follow a risk-based approach taking into account the criteria set out in Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2) duly considering the evolving landscape of ICT risk, any specific risks to which the financial entity concerned is or might be exposed, the criticality of information assets and of services provided, as well as any other factor the financial entity deems appropriate.
 
 4\. Financial entities, other than microenterprises, shall ensure that tests are undertaken by independent parties, whether internal or external. Where tests are undertaken by an internal tester, financial entities shall dedicate sufficient resources and ensure that conflicts of interest are avoided throughout the design and execution phases of the test.
 
@@ -37,7 +37,7 @@
 
 ### Article 25 – Testing of ICT tools and systems
 
-1\. The digital operational resilience testing programme referred to in Article [24](#article-24-general-requirements-for-the-performance-of-digital-operational-resilience-testing) shall provide, in accordance with the criteria set out in Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), for the execution of appropriate tests, such as vulnerability assessments and scans, open source analyses, network security assessments, gap analyses, physical security reviews, questionnaires and scanning software solutions, source code reviews where feasible, scenario-based tests, compatibility testing, performance testing, end-to-end testing and penetration testing.
+1\. The digital operational resilience testing programme referred to in Article [24](#article-24-general-requirements-for-the-performance-of-digital-operational-resilience-testing) shall provide, in accordance with the criteria set out in Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), for the execution of appropriate tests, such as vulnerability assessments and scans, open source analyses, network security assessments, gap analyses, physical security reviews, questionnaires and scanning software solutions, source code reviews where feasible, scenario-based tests, compatibility testing, performance testing, end-to-end testing and penetration testing.
 
 2\. Central securities depositories and central counterparties shall perform vulnerability assessments before any deployment or redeployment of new or existing applications and infrastructure components, and ICT services supporting critical or important functions of the financial entity.
 
@@ -45,7 +45,7 @@
 
 ### Article 26 – Advanced testing of ICT tools, systems and processes based on TLPT
 
-1\. Financial entities, other than entities referred to in Article [16](/lagstiftning/dora/kap-2#article-16-simplified-ict-risk-management-framework)(1), first subparagraph, and other than microenterprises, which are identified in accordance with paragraph 8, third subparagraph, of [this Article](#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt), shall carry out at least every 3 years advanced testing by means of TLPT. Based on the risk profile of the financial entity and taking into account operational circumstances, the competent authority may, where necessary, request the financial entity to reduce or increase this frequency.
+1\. Financial entities, other than entities referred to in Article [16](/en/lagstiftning/dora/kap-2#article-16-simplified-ict-risk-management-framework)(1), first subparagraph, and other than microenterprises, which are identified in accordance with paragraph 8, third subparagraph, of [this Article](#article-26-advanced-testing-of-ict-tools-systems-and-processes-based-on-tlpt), shall carry out at least every 3 years advanced testing by means of TLPT. Based on the risk profile of the financial entity and taking into account operational circumstances, the competent authority may, where necessary, request the financial entity to reduce or increase this frequency.
 
 2\. Each threat-led penetration test shall cover several or all critical or important functions of a financial entity, and shall be performed on live production systems supporting such functions.
 
@@ -53,9 +53,9 @@ Financial entities shall identify all relevant underlying ICT systems, processes
 
 Financial entities shall assess which critical or important functions need to be covered by the TLPT. The result of this assessment shall determine the precise scope of TLPT and shall be validated by the competent authorities.
 
-3\. Where ICT third-party service providers are included in the scope of TLPT, the financial entity shall take the necessary measures and safeguards to ensure the participation of such ICT third-party service providers in the TLPT and shall retain at all times full responsibility for ensuring compliance with [this Regulation](/lagstiftning/dora).
+3\. Where ICT third-party service providers are included in the scope of TLPT, the financial entity shall take the necessary measures and safeguards to ensure the participation of such ICT third-party service providers in the TLPT and shall retain at all times full responsibility for ensuring compliance with [this Regulation](/en/lagstiftning/dora).
 
-4\. Without prejudice to paragraph 2, first and second subparagraphs, where the participation of an ICT third-party service provider in the TLPT, referred to in paragraph 3, is reasonably expected to have an adverse impact on the quality or security of services delivered by the ICT third-party service provider to customers that are entities falling outside the scope of [this Regulation](/lagstiftning/dora), or on the confidentiality of the data related to such services, the financial entity and the ICT third-party service provider may agree in writing that the ICT third-party service provider directly enters into contractual arrangements with an external tester, for the purpose of conducting, under the direction of one designated financial entity, a pooled TLPT involving several financial entities (pooled testing) to which the ICT third-party service provider provides ICT services.
+4\. Without prejudice to paragraph 2, first and second subparagraphs, where the participation of an ICT third-party service provider in the TLPT, referred to in paragraph 3, is reasonably expected to have an adverse impact on the quality or security of services delivered by the ICT third-party service provider to customers that are entities falling outside the scope of [this Regulation](/en/lagstiftning/dora), or on the confidentiality of the data related to such services, the financial entity and the ICT third-party service provider may agree in writing that the ICT third-party service provider directly enters into contractual arrangements with an external tester, for the purpose of conducting, under the direction of one designated financial entity, a pooled TLPT involving several financial entities (pooled testing) to which the ICT third-party service provider provides ICT services.
 
 That pooled testing shall cover the relevant range of ICT services supporting critical or important functions contracted to the respective ICT third-party service provider by the financial entities. The pooled testing shall be considered TLPT carried out by the financial entities participating in the pooled testing.
 
@@ -71,9 +71,9 @@ Without prejudice to such attestation, financial entities shall remain at all ti
 
 8\. Financial entities shall contract testers for the purposes of undertaking TLPT in accordance with Article [27](#article-27-requirements-for-testers-for-the-carrying-out-of-tlpt). When financial entities use internal testers for the purposes of undertaking TLPT, they shall contract external testers every three tests.
 
-Credit institutions that are classified as significant in accordance with Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(4) of [Regulation (EU) No 1024/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024), shall only use external testers in accordance with Article [27](#article-27-requirements-for-testers-for-the-carrying-out-of-tlpt)(1), points (a) to (e).
+Credit institutions that are classified as significant in accordance with Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(4) of [Regulation (EU) No 1024/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024), shall only use external testers in accordance with Article [27](#article-27-requirements-for-testers-for-the-carrying-out-of-tlpt)(1), points (a) to (e).
 
-Competent authorities shall identify financial entities that are required to perform TLPT taking into account the criteria set out in Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), based on an assessment of the following:
+Competent authorities shall identify financial entities that are required to perform TLPT taking into account the criteria set out in Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle)(2), based on an assessment of the following:
 
 (a) impact-related factors, in particular the extent to which the services provided and activities undertaken by the financial entity impact the financial sector;
 
@@ -105,7 +105,7 @@ When developing those draft regulatory technical standards, the ESAs shall give 
 
 The ESAs shall submit those draft regulatory technical standards to the Commission by 17 July 2024.
 
-Power is delegated to the Commission to supplement [this Regulation](/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles [10](/lagstiftning/dora/kap-2#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
+Power is delegated to the Commission to supplement [this Regulation](/en/lagstiftning/dora) by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles [10](/en/lagstiftning/dora/kap-2#article-10-detection) to 14 of [Regulations (EU) No 1093/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093), [(EU) No 1094/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094) and [(EU) No 1095/2010](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095).
 
 ### Article 27 – Requirements for testers for the carrying out of TLPT
 

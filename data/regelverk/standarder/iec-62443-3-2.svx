@@ -22,4 +22,9 @@ published: 2020-06-24
 Del 3-2 beskriver metoden för att dela in ett IACS-system i zoner och kanaler, utföra riskbedömning och fastställa målsäkerhetsnivåer (SL-T). Det är utgångspunkten för att välja krav ur del 3-3.
 
 Officiell källa: [IEC 62443-3-2:2020](https://webstore.iec.ch/en/publication/30727).
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [NIS2-direktivet](/lagstiftning/nis2)
 <!-- scan-standards:end -->

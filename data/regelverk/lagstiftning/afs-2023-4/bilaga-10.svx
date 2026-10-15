@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-20234/'
@@ -20,8 +20,6 @@
 
 <!-- scan-laws:start -->
 ## Lagtext
-
-#### Fullständig kvalitetssäkring
 
 ### Inledning
 
@@ -51,7 +49,7 @@ Den ska särskilt omfatta en tillräcklig beskrivning av
 
 kvalitetsmål, organisationsstruktur och ledningens ansvar och befogenheter beträffande konstruktionen och kvaliteten på maskinerna,
 
-de tekniska specifikationer för konstruktionen, däribland standarder, som kommer att tillämpas och, när de standarder som avses i [9 §](/lagstiftning/afs-2023-4/kap-2#9) inte tillämpas till fullo, de metoder som kommer att användas för att säkerställa att de grundläggande hälso- och säkerhetskraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042) uppfylls,
+de tekniska specifikationer för konstruktionen, däribland standarder, som kommer att tillämpas och, när de standarder som avses i [9 §](/lagstiftning/afs-2023-4/avsnitt-slappa-ut-pa-marknaden-eller-ta-i-drift#9) inte tillämpas till fullo, de metoder som kommer att användas för att säkerställa att de grundläggande hälso- och säkerhetskraven i [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042) uppfylls,
 
 tekniker för inspektion och verifikation av konstruktionen, processer och systematiska åtgärder som ska tillämpas vid konstruktion av de maskiner som omfattas av [direktiv 2006/42/EG](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0042),
 

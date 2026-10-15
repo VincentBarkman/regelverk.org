@@ -23,48 +23,48 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### MP-1 – Policy and Procedures
+### <span id="mp-1"></span>MP-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business process-level or system-level] media protection policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the media protection policy and the associated media protection controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the media protection policy and procedures; and
-- c. Review and update the current media protection:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="mp-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="mp-1_smt.a.1"></span> 1.  [organization-level or mission/business process-level or system-level] media protection policy that:
+    - <span id="mp-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="mp-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="mp-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the media protection policy and the associated media protection controls;
+- <span id="mp-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the media protection policy and procedures; and
+- <span id="mp-1_smt.c"></span> c. Review and update the current media protection:
+  - <span id="mp-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="mp-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### MP-2 – Media Access
+### <span id="mp-2"></span>MP-2 – Media Access
 
 Restrict access to [organization-defined types of digital and/or non-digital media] to [organization-defined personnel or roles].
 
-### MP-3 – Media Marking
+### <span id="mp-3"></span>MP-3 – Media Marking
 
-- a. Mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
-- b. Exempt [organization-defined types of media exempted from marking] from marking if the media remain within [organization-defined controlled areas].
+- <span id="mp-3_smt.a"></span> a. Mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
+- <span id="mp-3_smt.b"></span> b. Exempt [organization-defined types of media exempted from marking] from marking if the media remain within [organization-defined controlled areas].
 
-### MP-4 – Media Storage
+### <span id="mp-4"></span>MP-4 – Media Storage
 
-- a. Physically control and securely store [organization-defined types of digital and/or non-digital media] within [organization-defined controlled areas] ; and
-- b. Protect system media types defined in MP-4a until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
+- <span id="mp-4_smt.a"></span> a. Physically control and securely store [organization-defined types of digital and/or non-digital media] within [organization-defined controlled areas] ; and
+- <span id="mp-4_smt.b"></span> b. Protect system media types defined in MP-4a until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
 
-### MP-5 – Media Transport
+### <span id="mp-5"></span>MP-5 – Media Transport
 
-- a. Protect and control [organization-defined types of system media] during transport outside of controlled areas using [organization-defined controls];
-- b. Maintain accountability for system media during transport outside of controlled areas;
-- c. Document activities associated with the transport of system media; and
-- d. Restrict the activities associated with the transport of system media to authorized personnel.
+- <span id="mp-5_smt.a"></span> a. Protect and control [organization-defined types of system media] during transport outside of controlled areas using [organization-defined controls];
+- <span id="mp-5_smt.b"></span> b. Maintain accountability for system media during transport outside of controlled areas;
+- <span id="mp-5_smt.c"></span> c. Document activities associated with the transport of system media; and
+- <span id="mp-5_smt.d"></span> d. Restrict the activities associated with the transport of system media to authorized personnel.
 
-### MP-6 – Media Sanitization
+### <span id="mp-6"></span>MP-6 – Media Sanitization
 
-- a. Sanitize [organization-defined system media] prior to disposal, release out of organizational control, or release for reuse using [organization-defined sanitization techniques and procedures] ; and
-- b. Employ sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
+- <span id="mp-6_smt.a"></span> a. Sanitize [organization-defined system media] prior to disposal, release out of organizational control, or release for reuse using [organization-defined sanitization techniques and procedures] ; and
+- <span id="mp-6_smt.b"></span> b. Employ sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
 
-### MP-7 – Media Use
+### <span id="mp-7"></span>MP-7 – Media Use
 
-- a.  [restrict or prohibit] the use of [organization-defined types of system media] on [organization-defined systems or system components] using [organization-defined controls] ; and
-- b. Prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner.
+- <span id="mp-7_smt.a"></span> a.  [restrict or prohibit] the use of [organization-defined types of system media] on [organization-defined systems or system components] using [organization-defined controls] ; and
+- <span id="mp-7_smt.b"></span> b. Prohibit the use of portable storage devices in organizational systems when such devices have no identifiable owner.
 
 ---
 

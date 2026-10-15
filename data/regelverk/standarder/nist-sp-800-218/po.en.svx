@@ -22,193 +22,193 @@ version: 1.0.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### PO.1 – Define Security Requirements for Software Development
+### <span id="PO.1"></span>PO.1 – Define Security Requirements for Software Development
 
 Ensure that security requirements for software development are known at all times so that they can be taken into account throughout the SDLC and duplication of effort can be minimized because the requirements information can be collected once and shared. This includes requirements from internal sources (e.g., the organization’s policies, business objectives, and risk management strategy) and external sources (e.g., applicable laws and regulations).
 
-#### PO.1.1
+#### <span id="PO.1.1"></span>PO.1.1
 
 Identify and document all security requirements for the organization’s software development infrastructures and processes, and maintain the requirements over time.
 
 _Examples:_
 
--  Define policies for securing software development infrastructures and their components, including development endpoints, throughout the SDLC and maintaining that security.
--  Define policies for securing software development processes throughout the SDLC and maintaining that security, including for open-source and other third-party software components utilized by software being developed.
--  Review and update security requirements at least annually, or sooner if there are new requirements from internal or external sources, or a major security incident targeting software development infrastructure has occurred.
--  Educate affected individuals on impending changes to requirements.
+- <span id="PO.1.1.1"></span>  Define policies for securing software development infrastructures and their components, including development endpoints, throughout the SDLC and maintaining that security.
+- <span id="PO.1.1.2"></span>  Define policies for securing software development processes throughout the SDLC and maintaining that security, including for open-source and other third-party software components utilized by software being developed.
+- <span id="PO.1.1.3"></span>  Review and update security requirements at least annually, or sooner if there are new requirements from internal or external sources, or a major security incident targeting software development infrastructure has occurred.
+- <span id="PO.1.1.4"></span>  Educate affected individuals on impending changes to requirements.
 
-#### PO.1.2
+#### <span id="PO.1.2"></span>PO.1.2
 
 Identify and document all security requirements for organization-developed software to meet, and maintain the requirements over time.
 
 _Examples:_
 
--  Define policies that specify risk-based software architecture and design requirements, such as making code modular to facilitate code reuse and updates; isolating security components from other components during execution; avoiding undocumented commands and settings; and providing features that will aid software acquirers with the secure deployment, operation, and maintenance of the software.
--  Define policies that specify the security requirements for the organization’s software, and verify compliance at key points in the SDLC (e.g., classes of software flaws verified by gates, responses to vulnerabilities discovered in released software).
--  Analyze the risk of applicable technology stacks (e.g., languages, environments, deployment models), and recommend or require the use of stacks that will reduce risk compared to others.
--  Define policies that specify what needs to be archived for each software release (e.g., code, package files, third-party libraries, documentation, data inventory) and how long it needs to be retained based on the SDLC model, software end-of-life, and other factors.
--  Ensure that policies cover the entire software life cycle, including notifying users of the impending end of software support and the date of software end-of-life.
--  Review all security requirements at least annually, or sooner if there are new requirements from internal or external sources, a major vulnerability is discovered in released software, or a major security incident targeting organization-developed software has occurred.
--  Establish and follow processes for handling requirement exception requests, including periodic reviews of all approved exceptions.
+- <span id="PO.1.2.1"></span>  Define policies that specify risk-based software architecture and design requirements, such as making code modular to facilitate code reuse and updates; isolating security components from other components during execution; avoiding undocumented commands and settings; and providing features that will aid software acquirers with the secure deployment, operation, and maintenance of the software.
+- <span id="PO.1.2.2"></span>  Define policies that specify the security requirements for the organization’s software, and verify compliance at key points in the SDLC (e.g., classes of software flaws verified by gates, responses to vulnerabilities discovered in released software).
+- <span id="PO.1.2.3"></span>  Analyze the risk of applicable technology stacks (e.g., languages, environments, deployment models), and recommend or require the use of stacks that will reduce risk compared to others.
+- <span id="PO.1.2.4"></span>  Define policies that specify what needs to be archived for each software release (e.g., code, package files, third-party libraries, documentation, data inventory) and how long it needs to be retained based on the SDLC model, software end-of-life, and other factors.
+- <span id="PO.1.2.5"></span>  Ensure that policies cover the entire software life cycle, including notifying users of the impending end of software support and the date of software end-of-life.
+- <span id="PO.1.2.6"></span>  Review all security requirements at least annually, or sooner if there are new requirements from internal or external sources, a major vulnerability is discovered in released software, or a major security incident targeting organization-developed software has occurred.
+- <span id="PO.1.2.7"></span>  Establish and follow processes for handling requirement exception requests, including periodic reviews of all approved exceptions.
 
-#### PO.1.3
+#### <span id="PO.1.3"></span>PO.1.3
 
 Communicate requirements to all third parties who will provide commercial software components to the organization for reuse by the organization’s own software. .Formerly PW.3.1
 
 _Examples:_
 
--  Define a core set of security requirements for software components, and include it in acquisition documents, software contracts, and other agreements with third parties.
--  Define security-related criteria for selecting software; the criteria can include the third party’s vulnerability disclosure program and product security incident response capabilities or the third party’s adherence to organization-defined practices.
--  Require third parties to attest that their software complies with the organization’s security requirements.
--  Require third parties to provide provenance data and integrity verification mechanisms for all components of their software.
--  Establish and follow processes to address risk when there are security requirements that third-party software components to be acquired do not meet; this should include periodic reviews of all approved exceptions to requirements.
+- <span id="PO.1.3.1"></span>  Define a core set of security requirements for software components, and include it in acquisition documents, software contracts, and other agreements with third parties.
+- <span id="PO.1.3.2"></span>  Define security-related criteria for selecting software; the criteria can include the third party’s vulnerability disclosure program and product security incident response capabilities or the third party’s adherence to organization-defined practices.
+- <span id="PO.1.3.3"></span>  Require third parties to attest that their software complies with the organization’s security requirements.
+- <span id="PO.1.3.4"></span>  Require third parties to provide provenance data and integrity verification mechanisms for all components of their software.
+- <span id="PO.1.3.5"></span>  Establish and follow processes to address risk when there are security requirements that third-party software components to be acquired do not meet; this should include periodic reviews of all approved exceptions to requirements.
 
-### PO.2 – Implement Roles and Responsibilities
+### <span id="PO.2"></span>PO.2 – Implement Roles and Responsibilities
 
 Ensure that everyone inside and outside of the organization involved in the SDLC is prepared to perform their SDLC-related roles and responsibilities throughout the SDLC.
 
-#### PO.2.1
+#### <span id="PO.2.1"></span>PO.2.1
 
 Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SDLC. Periodically review and maintain the defined roles and responsibilities, updating them as needed.
 
 _Examples:_
 
--  Define SDLC-related roles and responsibilities for all members of the software development team.
--  Integrate the security roles into the software development team.
--  Define roles and responsibilities for cybersecurity staff, security champions, project managers and leads, senior management, software developers, software testers, software assurance leads and staff, product owners, operations and platform engineers, and others involved in the SDLC.
--  Conduct an annual review of all roles and responsibilities.
--  Educate affected individuals on impending changes to roles and responsibilities, and confirm that the individuals understand the changes and agree to follow them.
--  Implement and use tools and processes to promote communication and engagement among individuals with SDLC-related roles and responsibilities, such as creating messaging channels for team discussions.
--  Designate a group of individuals or a team as the code owner for each project.
+- <span id="PO.2.1.1"></span>  Define SDLC-related roles and responsibilities for all members of the software development team.
+- <span id="PO.2.1.2"></span>  Integrate the security roles into the software development team.
+- <span id="PO.2.1.3"></span>  Define roles and responsibilities for cybersecurity staff, security champions, project managers and leads, senior management, software developers, software testers, software assurance leads and staff, product owners, operations and platform engineers, and others involved in the SDLC.
+- <span id="PO.2.1.4"></span>  Conduct an annual review of all roles and responsibilities.
+- <span id="PO.2.1.5"></span>  Educate affected individuals on impending changes to roles and responsibilities, and confirm that the individuals understand the changes and agree to follow them.
+- <span id="PO.2.1.6"></span>  Implement and use tools and processes to promote communication and engagement among individuals with SDLC-related roles and responsibilities, such as creating messaging channels for team discussions.
+- <span id="PO.2.1.7"></span>  Designate a group of individuals or a team as the code owner for each project.
 
-#### PO.2.2
+#### <span id="PO.2.2"></span>PO.2.2
 
 Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training as needed.
 
 _Examples:_
 
--  Document the desired outcomes of training for each role.
--  Define the type of training or curriculum required to achieve the desired outcome for each role.
--  Create a training plan for each role.
--  Acquire or create training for each role; acquired training may need to be customized for the organization.
--  Measure outcome performance to identify areas where changes to training may be beneficial.
+- <span id="PO.2.2.1"></span>  Document the desired outcomes of training for each role.
+- <span id="PO.2.2.2"></span>  Define the type of training or curriculum required to achieve the desired outcome for each role.
+- <span id="PO.2.2.3"></span>  Create a training plan for each role.
+- <span id="PO.2.2.4"></span>  Acquire or create training for each role; acquired training may need to be customized for the organization.
+- <span id="PO.2.2.5"></span>  Measure outcome performance to identify areas where changes to training may be beneficial.
 
-#### PO.2.3
+#### <span id="PO.2.3"></span>PO.2.3
 
 Obtain upper management or authorizing official commitment to secure development, and convey that commitment to all with development-related roles and responsibilities.
 
 _Examples:_
 
--  Appoint a single leader or leadership team to be responsible for the entire secure software development process, including being accountable for releasing software to production and delegating responsibilities as appropriate.
--  Increase authorizing officials’ awareness of the risks of developing software without integrating security throughout the development life cycle and the risk mitigation provided by secure development practices.
--  Assist upper management in incorporating secure development support into their communications with personnel with development-related roles and responsibilities.
--  Educate all personnel with development-related roles and responsibilities on upper management’s commitment to secure development and the importance of secure development to the organization.
+- <span id="PO.2.3.1"></span>  Appoint a single leader or leadership team to be responsible for the entire secure software development process, including being accountable for releasing software to production and delegating responsibilities as appropriate.
+- <span id="PO.2.3.2"></span>  Increase authorizing officials’ awareness of the risks of developing software without integrating security throughout the development life cycle and the risk mitigation provided by secure development practices.
+- <span id="PO.2.3.3"></span>  Assist upper management in incorporating secure development support into their communications with personnel with development-related roles and responsibilities.
+- <span id="PO.2.3.4"></span>  Educate all personnel with development-related roles and responsibilities on upper management’s commitment to secure development and the importance of secure development to the organization.
 
-### PO.3 – Implement Supporting Toolchains
+### <span id="PO.3"></span>PO.3 – Implement Supporting Toolchains
 
 Use automation to reduce human effort and improve the accuracy, reproducibility, usability, and comprehensiveness of security practices throughout the SDLC, as well as provide a way to document and demonstrate the use of these practices. Toolchains and tools may be used at different levels of the organization, such as organization-wide or project-specific, and may address a particular part of the SDLC, like a build pipeline.
 
-#### PO.3.1
+#### <span id="PO.3.1"></span>PO.3.1
 
 Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other.
 
 _Examples:_
 
--  Define categories of toolchains, and specify the mandatory tools or tool types to be used for each category.
--  Identify security tools to integrate into the developer toolchain.
--  Define what information is to be passed between tools and what data formats are to be used.
--  Evaluate tools’ signing capabilities to create immutable records/logs for auditability within the toolchain.
--  Use automated technology for toolchain management and orchestration.
+- <span id="PO.3.1.1"></span>  Define categories of toolchains, and specify the mandatory tools or tool types to be used for each category.
+- <span id="PO.3.1.2"></span>  Identify security tools to integrate into the developer toolchain.
+- <span id="PO.3.1.3"></span>  Define what information is to be passed between tools and what data formats are to be used.
+- <span id="PO.3.1.4"></span>  Evaluate tools’ signing capabilities to create immutable records/logs for auditability within the toolchain.
+- <span id="PO.3.1.5"></span>  Use automated technology for toolchain management and orchestration.
 
-#### PO.3.2
+#### <span id="PO.3.2"></span>PO.3.2
 
 Follow recommended security practices to deploy, operate, and maintain tools and toolchains.
 
 _Examples:_
 
--  Evaluate, select, and acquire tools, and assess the security of each tool.
--  Integrate tools with other tools and existing software development processes and workflows.
--  Use code-based configuration for toolchains (e.g., pipelines-as-code, toolchains-as-code).
--  Implement the technologies and processes needed for reproducible builds.
--  Update, upgrade, or replace tools as needed to address tool vulnerabilities or add new tool capabilities.
--  Continuously monitor tools and tool logs for potential operational and security issues, including policy violations and anomalous behavior.
--  Regularly verify the integrity and check the provenance of each tool to identify potential problems.
--  See PW.6 regarding compiler, interpreter, and build tools.
--  See PO.5 regarding implementing and maintaining secure environments.
+- <span id="PO.3.2.1"></span>  Evaluate, select, and acquire tools, and assess the security of each tool.
+- <span id="PO.3.2.2"></span>  Integrate tools with other tools and existing software development processes and workflows.
+- <span id="PO.3.2.3"></span>  Use code-based configuration for toolchains (e.g., pipelines-as-code, toolchains-as-code).
+- <span id="PO.3.2.4"></span>  Implement the technologies and processes needed for reproducible builds.
+- <span id="PO.3.2.5"></span>  Update, upgrade, or replace tools as needed to address tool vulnerabilities or add new tool capabilities.
+- <span id="PO.3.2.6"></span>  Continuously monitor tools and tool logs for potential operational and security issues, including policy violations and anomalous behavior.
+- <span id="PO.3.2.7"></span>  Regularly verify the integrity and check the provenance of each tool to identify potential problems.
+- <span id="PO.3.2.8"></span>  See PW.6 regarding compiler, interpreter, and build tools.
+- <span id="PO.3.2.9"></span>  See PO.5 regarding implementing and maintaining secure environments.
 
-#### PO.3.3
+#### <span id="PO.3.3"></span>PO.3.3
 
 Configure tools to generate artifacts of their support of secure software development practices as defined by the organization.
 
 _Examples:_
 
--  Use existing tooling (e.g., workflow tracking, issue tracking, value stream mapping) to create an audit trail of the secure development-related actions that are performed for continuous improvement purposes.
--  Determine how often the collected information should be audited, and implement the necessary processes.
--  Establish and enforce security and retention policies for artifact data.
--  Assign responsibility for creating any needed artifacts that tools cannot generate.
+- <span id="PO.3.3.1"></span>  Use existing tooling (e.g., workflow tracking, issue tracking, value stream mapping) to create an audit trail of the secure development-related actions that are performed for continuous improvement purposes.
+- <span id="PO.3.3.2"></span>  Determine how often the collected information should be audited, and implement the necessary processes.
+- <span id="PO.3.3.3"></span>  Establish and enforce security and retention policies for artifact data.
+- <span id="PO.3.3.4"></span>  Assign responsibility for creating any needed artifacts that tools cannot generate.
 
-### PO.4 – Define and Use Criteria for Software Security Checks
+### <span id="PO.4"></span>PO.4 – Define and Use Criteria for Software Security Checks
 
 Help ensure that the software resulting from the SDLC meets the organization’s expectations by defining and using criteria for checking the software’s security during development.
 
-#### PO.4.1
+#### <span id="PO.4.1"></span>PO.4.1
 
 Define criteria for software security checks and track throughout the SDLC.
 
 _Examples:_
 
--  Ensure that the criteria adequately indicate how effectively security risk is being managed.
--  Define key performance indicators (KPIs), key risk indicators (KRIs), vulnerability severity scores, and other measures for software security.
--  Add software security criteria to existing checks (e.g., the Definition of Done in agile SDLC methodologies).
--  Review the artifacts generated as part of the software development workflow system to determine if they meet the criteria.
--  Record security check approvals, rejections, and exception requests as part of the workflow and tracking system.
--  Analyze collected data in the context of the security successes and failures of each development project, and use the results to improve the SDLC.
+- <span id="PO.4.1.1"></span>  Ensure that the criteria adequately indicate how effectively security risk is being managed.
+- <span id="PO.4.1.2"></span>  Define key performance indicators (KPIs), key risk indicators (KRIs), vulnerability severity scores, and other measures for software security.
+- <span id="PO.4.1.3"></span>  Add software security criteria to existing checks (e.g., the Definition of Done in agile SDLC methodologies).
+- <span id="PO.4.1.4"></span>  Review the artifacts generated as part of the software development workflow system to determine if they meet the criteria.
+- <span id="PO.4.1.5"></span>  Record security check approvals, rejections, and exception requests as part of the workflow and tracking system.
+- <span id="PO.4.1.6"></span>  Analyze collected data in the context of the security successes and failures of each development project, and use the results to improve the SDLC.
 
-#### PO.4.2
+#### <span id="PO.4.2"></span>PO.4.2
 
 Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
 
 _Examples:_
 
--  Use the toolchain to automatically gather information that informs security decision-making.
--  Deploy additional tools if needed to support the generation and collection of information supporting the criteria.
--  Automate decision-making processes utilizing the criteria, and periodically review these processes.
--  Only allow authorized personnel to access the gathered information, and prevent any alteration or deletion of the information.
+- <span id="PO.4.2.1"></span>  Use the toolchain to automatically gather information that informs security decision-making.
+- <span id="PO.4.2.2"></span>  Deploy additional tools if needed to support the generation and collection of information supporting the criteria.
+- <span id="PO.4.2.3"></span>  Automate decision-making processes utilizing the criteria, and periodically review these processes.
+- <span id="PO.4.2.4"></span>  Only allow authorized personnel to access the gathered information, and prevent any alteration or deletion of the information.
 
-### PO.5 – Implement and Maintain Secure Environments for Software Development
+### <span id="PO.5"></span>PO.5 – Implement and Maintain Secure Environments for Software Development
 
 Ensure that all components of the environments for software development are strongly protected from internal and external threats to prevent compromises of the environments or the software being developed or maintained within them. Examples of environments for software development include development, build, test, and distribution environments.
 
-#### PO.5.1
+#### <span id="PO.5.1"></span>PO.5.1
 
 Separate and protect each environment involved in software development.
 
 _Examples:_
 
--  Use multi-factor, risk-based authentication and conditional access for each environment.
--  Configure and implement measures to secure the environments’ hosting infrastructures following a zero trust architecture.
--  Use network segmentation and access controls to separate the environments from each other and from production environments, and to separate components from each other within each non-production environment, in order to reduce attack surfaces and attackers’ lateral movement and privilege/access escalation.
--  Enforce authentication and tightly restrict connections entering and exiting each software development environment, including minimizing access to the internet to only what is necessary.
--  Minimize direct human access to toolchain systems, such as build services. Continuously monitor and audit all access attempts and all use of privileged access.
--  Minimize the use of production-environment software and services from non-production environments.
--  Regularly log, monitor, and audit trust relationships for authorization and access between the environments and between the components within each environment.
--  Continuously log and monitor operations and alerts across all components of the development environment to detect, respond, and recover from attempted and actual cyber incidents.
--  Configure security controls and other tools involved in separating and protecting the environments to generate artifacts for their activities.
--  Continuously monitor all software deployed in each environment for new vulnerabilities, and respond to vulnerabilities appropriately following a risk-based approach.
+- <span id="PO.5.1.1"></span>  Use multi-factor, risk-based authentication and conditional access for each environment.
+- <span id="PO.5.1.10"></span>  Configure and implement measures to secure the environments’ hosting infrastructures following a zero trust architecture.
+- <span id="PO.5.1.2"></span>  Use network segmentation and access controls to separate the environments from each other and from production environments, and to separate components from each other within each non-production environment, in order to reduce attack surfaces and attackers’ lateral movement and privilege/access escalation.
+- <span id="PO.5.1.3"></span>  Enforce authentication and tightly restrict connections entering and exiting each software development environment, including minimizing access to the internet to only what is necessary.
+- <span id="PO.5.1.4"></span>  Minimize direct human access to toolchain systems, such as build services. Continuously monitor and audit all access attempts and all use of privileged access.
+- <span id="PO.5.1.5"></span>  Minimize the use of production-environment software and services from non-production environments.
+- <span id="PO.5.1.6"></span>  Regularly log, monitor, and audit trust relationships for authorization and access between the environments and between the components within each environment.
+- <span id="PO.5.1.7"></span>  Continuously log and monitor operations and alerts across all components of the development environment to detect, respond, and recover from attempted and actual cyber incidents.
+- <span id="PO.5.1.8"></span>  Configure security controls and other tools involved in separating and protecting the environments to generate artifacts for their activities.
+- <span id="PO.5.1.9"></span>  Continuously monitor all software deployed in each environment for new vulnerabilities, and respond to vulnerabilities appropriately following a risk-based approach.
 
-#### PO.5.2
+#### <span id="PO.5.2"></span>PO.5.2
 
 Secure and harden development endpoints (i.e., endpoints for software designers, developers, testers, builders, etc.) to perform development-related tasks using a risk-based approach.
 
 _Examples:_
 
--  Configure each development endpoint based on approved hardening guides, checklists, etc.; for example, enable FIPS-compliant encryption of all sensitive data at rest and in transit.
--  Configure each development endpoint and the development resources to provide the least functionality needed by users and services and to enforce the principle of least privilege.
--  Continuously monitor the security posture of all development endpoints, including monitoring and auditing all use of privileged access.
--  Configure security controls and other tools involved in securing and hardening development endpoints to generate artifacts for their activities.
--  Require multi-factor authentication for all access to development endpoints and development resources.
--  Provide dedicated development endpoints on non-production networks for performing all development-related tasks. Provide separate endpoints on production networks for all other tasks.
--  Configure each development endpoint following a zero trust architecture.
+- <span id="PO.5.2.1"></span>  Configure each development endpoint based on approved hardening guides, checklists, etc.; for example, enable FIPS-compliant encryption of all sensitive data at rest and in transit.
+- <span id="PO.5.2.2"></span>  Configure each development endpoint and the development resources to provide the least functionality needed by users and services and to enforce the principle of least privilege.
+- <span id="PO.5.2.3"></span>  Continuously monitor the security posture of all development endpoints, including monitoring and auditing all use of privileged access.
+- <span id="PO.5.2.4"></span>  Configure security controls and other tools involved in securing and hardening development endpoints to generate artifacts for their activities.
+- <span id="PO.5.2.5"></span>  Require multi-factor authentication for all access to development endpoints and development resources.
+- <span id="PO.5.2.6"></span>  Provide dedicated development endpoints on non-production networks for performing all development-related tasks. Provide separate endpoints on production networks for all other tasks.
+- <span id="PO.5.2.7"></span>  Configure each development endpoint following a zero trust architecture.
 
 ---
 

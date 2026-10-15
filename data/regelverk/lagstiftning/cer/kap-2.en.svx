@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03#cpt_II'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_II'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -37,13 +37,13 @@
 
 (d) a description of the process by which critical entities are identified;
 
-(e) a description of the process supporting critical entities in accordance with [this Chapter](/lagstiftning/cer/kap-2), including measures to enhance cooperation between the public sector, on the one hand, and the private sector and public and private entities, on the other hand;
+(e) a description of the process supporting critical entities in accordance with [this Chapter](/en/lagstiftning/cer/kap-2), including measures to enhance cooperation between the public sector, on the one hand, and the private sector and public and private entities, on the other hand;
 
 (f) a list of the main authorities and relevant stakeholders, other than critical entities, involved in the implementation of the strategy;
 
-(g) a policy framework for coordination between the competent authorities under [this Directive](/lagstiftning/cer) (‘competent authorities’) and the competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2) for the purposes of information sharing on cybersecurity risks, cyber threats and cyber incidents and non-cyber risks, threats and incidents and the exercise of supervisory tasks;
+(g) a policy framework for coordination between the competent authorities under [this Directive](/en/lagstiftning/cer) (‘competent authorities’) and the competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) for the purposes of information sharing on cybersecurity risks, cyber threats and cyber incidents and non-cyber risks, threats and incidents and the exercise of supervisory tasks;
 
-(h) a description of measures already in place which aim to facilitate the implementation of obligations under [Chapter III](/lagstiftning/cer/kap-3) of [this Directive](/lagstiftning/cer) by small and medium-sized enterprises within the meaning of the Annex to Commission [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) (31) that the Member State in question has identified as critical entities.
+(h) a description of measures already in place which aim to facilitate the implementation of obligations under [Chapter III](/en/lagstiftning/cer/kap-3) of [this Directive](/en/lagstiftning/cer) by small and medium-sized enterprises within the meaning of the Annex to Commission [Recommendation 2003/361/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003H0361) (31) that the Member State in question has identified as critical entities.
 
 Following a consultation that is, to the extent practically possible, open to relevant stakeholders, Member States shall update their strategies at least every four years.
 
@@ -51,7 +51,7 @@ Following a consultation that is, to the extent practically possible, open to re
 
 ### Article 5 – Risk assessment by Member States
 
-1\. The Commission is empowered to adopt a delegated act, in accordance with Article [23](/lagstiftning/cer/kap-7#article-23-exercise-of-the-delegation), by 17 November 2023 to supplement [this Directive](/lagstiftning/cer) by establishing a non-exhaustive list of essential services in the sectors and subsectors set out in the Annex. The competent authorities shall use that list of essential services for the purpose of carrying out a risk assessment (‘Member State risk assessment’) by 17 January 2026, whenever necessary subsequently, and at least every four years. The competent authorities shall use Member State risk assessments for the purpose of identifying critical entities in accordance with Article [6](#article-6-identification-of-critical-entities) and assisting those critical entities to take measures pursuant to Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities).
+1\. The Commission is empowered to adopt a delegated act, in accordance with Article [23](/en/lagstiftning/cer/kap-7#article-23-exercise-of-the-delegation), by 17 November 2023 to supplement [this Directive](/en/lagstiftning/cer) by establishing a non-exhaustive list of essential services in the sectors and subsectors set out in the Annex. The competent authorities shall use that list of essential services for the purpose of carrying out a risk assessment (‘Member State risk assessment’) by 17 January 2026, whenever necessary subsequently, and at least every four years. The competent authorities shall use Member State risk assessments for the purpose of identifying critical entities in accordance with Article [6](#article-6-identification-of-critical-entities) and assisting those critical entities to take measures pursuant to Article [13](/en/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities).
 
 Member State risk assessments shall account for the relevant natural and man-made risks, including those of a cross-sectoral or cross-border nature, accidents, natural disasters, public health emergencies and hybrid threats or other antagonistic threats, including terrorist offences as provided for in [Directive (EU) 2017/541](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0541) of the European Parliament and of the Council (32).
 
@@ -63,11 +63,11 @@ Member State risk assessments shall account for the relevant natural and man-mad
 
 (c) the relevant risks arising from the extent to which the sectors set out in the Annex depend on one another, including from the extent to which they depend on entities located within other Member States and third countries, and the impact that a significant disruption in one sector may have on other sectors, including any significant risks to citizens and the internal market;
 
-(d) any information on incidents notified in accordance with Article [15](/lagstiftning/cer/kap-3#article-15-incident-notification).
+(d) any information on incidents notified in accordance with Article [15](/en/lagstiftning/cer/kap-3#article-15-incident-notification).
 
 For the purposes of the first subparagraph, point (c), Member States shall cooperate with the competent authorities of other Member States and the competent authorities of third countries, as appropriate.
 
-3\. Member States shall make the relevant elements of Member State risk assessments available, where relevant through their single points of contact, to the critical entities that they have identified in accordance with Article [6](#article-6-identification-of-critical-entities). Member States shall ensure that the information provided to critical entities assists them in carrying out their risk assessments pursuant to Article [12](/lagstiftning/cer/kap-3#article-12-risk-assessment-by-critical-entities) and in taking measures to ensure their resilience pursuant to Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities).
+3\. Member States shall make the relevant elements of Member State risk assessments available, where relevant through their single points of contact, to the critical entities that they have identified in accordance with Article [6](#article-6-identification-of-critical-entities). Member States shall ensure that the information provided to critical entities assists them in carrying out their risk assessments pursuant to Article [12](/en/lagstiftning/cer/kap-3#article-12-risk-assessment-by-critical-entities) and in taking measures to ensure their resilience pursuant to Article [13](/en/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities).
 
 4\. Within three months of carrying out a Member State risk assessment, a Member State shall provide the Commission with relevant information on the types of risks identified following, and the outcomes of, that Member State risk assessment, per sector and subsector set out in the Annex.
 
@@ -87,11 +87,11 @@ For the purposes of the first subparagraph, point (c), Member States shall coope
 
 3\. Each Member State shall establish a list of the critical entities identified pursuant to paragraph 2 and ensure that those critical entities are notified that they have been identified as critical entities within one month of that identification. Member States shall inform those critical entities of their obligations under Chapters III and IV and the date from which those obligations apply to them, without prejudice to Article [8](#article-8-critical-entities-in-the-banking-financial-market-infrastructure-and-digital-infrastructure-sectors). Member States shall inform critical entities in the sectors set out in points 3, 4 and 8 of the table in the Annex that they have no obligations under Chapters III and IV, unless national measures provide otherwise.
 
-For the critical entities concerned, [Chapter III](/lagstiftning/cer/kap-3) shall apply from 10 months after the date of the notification referred to in the first subparagraph of this paragraph.
+For the critical entities concerned, [Chapter III](/en/lagstiftning/cer/kap-3) shall apply from 10 months after the date of the notification referred to in the first subparagraph of this paragraph.
 
-4\. Member States shall ensure that their competent authorities under [this Directive](/lagstiftning/cer) notify the competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2) of the identity of the critical entities that they have identified under [this Article](#article-6-identification-of-critical-entities) within one month of that identification. That notification shall specify, where applicable, that the critical entities concerned are entities in the sectors set out in points 3, 4 and 8 of the table in the Annex to [this Directive](/lagstiftning/cer) and have no obligations under Chapters III and IV thereof.
+4\. Member States shall ensure that their competent authorities under [this Directive](/en/lagstiftning/cer) notify the competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) of the identity of the critical entities that they have identified under [this Article](#article-6-identification-of-critical-entities) within one month of that identification. That notification shall specify, where applicable, that the critical entities concerned are entities in the sectors set out in points 3, 4 and 8 of the table in the Annex to [this Directive](/en/lagstiftning/cer) and have no obligations under Chapters III and IV thereof.
 
-5\. Member States shall, where necessary and in any event at least every four years, review and, where appropriate, update the list of identified critical entities referred to in paragraph 3. Where those updates lead to the identification of additional critical entities, paragraphs 3 and 4 shall apply to those additional critical entities. In addition, Member States shall ensure that entities that are no longer identified as critical entities following any such update are notified in due time of that fact and the fact that they are no longer subject to the obligations under [Chapter III](/lagstiftning/cer/kap-3) from the date of receipt of that notification.
+5\. Member States shall, where necessary and in any event at least every four years, review and, where appropriate, update the list of identified critical entities referred to in paragraph 3. Where those updates lead to the identification of additional critical entities, paragraphs 3 and 4 shall apply to those additional critical entities. In addition, Member States shall ensure that entities that are no longer identified as critical entities following any such update are notified in due time of that fact and the fact that they are no longer subject to the obligations under [Chapter III](/en/lagstiftning/cer/kap-3) from the date of receipt of that notification.
 
 6\. The Commission shall, in cooperation with the Member States, develop recommendations and non-binding guidelines to support Member States in identifying critical entities.
 
@@ -123,7 +123,7 @@ Thresholds as referred to in the first subparagraph, point (c), may be presented
 
 Member States shall subsequently submit information referred to in the first subparagraph whenever necessary and at least every four years.
 
-3\. The Commission shall, after consulting the Critical Entities Resilience Group referred to in Article [19](/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group), adopt non-binding guidelines to facilitate the application of the criteria referred to in paragraph 1 of [this Article](#article-7-significant-disruptive-effect), taking into account the information referred to in paragraph 2 of [this Article](#article-7-significant-disruptive-effect).
+3\. The Commission shall, after consulting the Critical Entities Resilience Group referred to in Article [19](/en/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group), adopt non-binding guidelines to facilitate the application of the criteria referred to in paragraph 1 of [this Article](#article-7-significant-disruptive-effect), taking into account the information referred to in paragraph 2 of [this Article](#article-7-significant-disruptive-effect).
 
 ### Article 8 – Critical entities in the banking, financial market infrastructure and digital infrastructure sectors
 
@@ -131,15 +131,15 @@ Member States shall ensure that Article [11](#article-11-cooperation-between-mem
 
 ### Article 9 – Competent authorities and single point of contact
 
-1\. Each Member State shall designate or establish one or more competent authorities responsible for the correct application and, where necessary, enforcement of the rules set out in [this Directive](/lagstiftning/cer) at national level.
+1\. Each Member State shall designate or establish one or more competent authorities responsible for the correct application and, where necessary, enforcement of the rules set out in [this Directive](/en/lagstiftning/cer) at national level.
 
-As regards the critical entities in the sectors set out in points 3 and 4 of the table in the Annex to [this Directive](/lagstiftning/cer), the competent authorities shall, in principle, be the competent authorities referred to in Article [46](/lagstiftning/dora/kap-7#artikel-46-behöriga-myndigheter) of [Regulation (EU) 2022/2554](/lagstiftning/dora). As regards the critical entities in the sector set out in point 8 of the table in the Annex to [this Directive](/lagstiftning/cer), the competent authorities shall, in principle, be the competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2). Member States may designate a different competent authority for the sectors set out in points 3, 4 and 8 of the table in the Annex to [this Directive](/lagstiftning/cer) in accordance with existing national frameworks.
+As regards the critical entities in the sectors set out in points 3 and 4 of the table in the Annex to [this Directive](/en/lagstiftning/cer), the competent authorities shall, in principle, be the competent authorities referred to in Article [46](/en/lagstiftning/dora/kap-7#article-46-competent-authorities) of [Regulation (EU) 2022/2554](/en/lagstiftning/dora). As regards the critical entities in the sector set out in point 8 of the table in the Annex to [this Directive](/en/lagstiftning/cer), the competent authorities shall, in principle, be the competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2). Member States may designate a different competent authority for the sectors set out in points 3, 4 and 8 of the table in the Annex to [this Directive](/en/lagstiftning/cer) in accordance with existing national frameworks.
 
-Where Member States designate or establish more than one competent authority, they shall clearly set out the tasks of each of the authorities concerned and ensure that they cooperate effectively to fulfil their tasks under [this Directive](/lagstiftning/cer), including with regard to the designation and activities of the single point of contact referred to in paragraph 2.
+Where Member States designate or establish more than one competent authority, they shall clearly set out the tasks of each of the authorities concerned and ensure that they cooperate effectively to fulfil their tasks under [this Directive](/en/lagstiftning/cer), including with regard to the designation and activities of the single point of contact referred to in paragraph 2.
 
-2\. Each Member State shall designate or establish one single point of contact to exercise a liaison function for the purpose of ensuring cross-border cooperation with the single points of contact of other Member States and the Critical Entities Resilience Group referred to in Article [19](/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group) (‘single point of contact’). Where relevant, a Member State shall designate its single point of contact within a competent authority. Where relevant, a Member State may provide that its single point of contact also exercise a liaison function with the Commission and ensure cooperation with third countries.
+2\. Each Member State shall designate or establish one single point of contact to exercise a liaison function for the purpose of ensuring cross-border cooperation with the single points of contact of other Member States and the Critical Entities Resilience Group referred to in Article [19](/en/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group) (‘single point of contact’). Where relevant, a Member State shall designate its single point of contact within a competent authority. Where relevant, a Member State may provide that its single point of contact also exercise a liaison function with the Commission and ensure cooperation with third countries.
 
-3\. By 17 July 2028, and every two years thereafter, the single points of contact shall submit a summary report to the Commission and to the Critical Entities Resilience Group referred to in Article [19](/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group) on the notifications they have received, including the number of notifications, the nature of notified incidents and the actions taken in accordance with Article [15](/lagstiftning/cer/kap-3#article-15-incident-notification)(3).
+3\. By 17 July 2028, and every two years thereafter, the single points of contact shall submit a summary report to the Commission and to the Critical Entities Resilience Group referred to in Article [19](/en/lagstiftning/cer/kap-5#article-19-critical-entities-resilience-group) on the notifications they have received, including the number of notifications, the nature of notified incidents and the actions taken in accordance with Article [15](/en/lagstiftning/cer/kap-3#article-15-incident-notification)(3).
 
 The Commission shall, in cooperation with the Critical Entities Resilience Group, develop a common reporting template. The competent authorities may use, on a voluntary basis, that common reporting template for the purpose of submitting summary reports as referred to in the first subparagraph.
 
@@ -147,9 +147,9 @@ The Commission shall, in cooperation with the Critical Entities Resilience Group
 
 5\. Each Member State shall ensure that its competent authority, whenever appropriate, and in accordance with Union and national law, consults and cooperates with other relevant national authorities, including those in charge of civil protection, law enforcement and the protection of personal data, and with critical entities and relevant interested parties.
 
-6\. Each Member State shall ensure that its competent authority under [this Directive](/lagstiftning/cer) cooperates and exchanges information with competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2) on cybersecurity risks, cyber threats and cyber incidents and non-cyber risks, threats and incidents affecting critical entities, including with regard to relevant measures its competent authority and competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2) have taken.
+6\. Each Member State shall ensure that its competent authority under [this Directive](/en/lagstiftning/cer) cooperates and exchanges information with competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) on cybersecurity risks, cyber threats and cyber incidents and non-cyber risks, threats and incidents affecting critical entities, including with regard to relevant measures its competent authority and competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) have taken.
 
-7\. Within three months of the designation or establishment of the competent authority and the single point of contact, each Member State shall notify the Commission of their identity and their tasks and responsibilities under [this Directive](/lagstiftning/cer), their contact details and any subsequent change thereto. Member States shall inform the Commission where they decide to designate an authority other than the competent authorities referred to in paragraph 1, second subparagraph, as the competent authorities in respect of the critical entities in the sectors set out in points 3, 4 and 8 of the table in the Annex. Each Member State shall make public the identity of its competent authority and single point of contact.
+7\. Within three months of the designation or establishment of the competent authority and the single point of contact, each Member State shall notify the Commission of their identity and their tasks and responsibilities under [this Directive](/en/lagstiftning/cer), their contact details and any subsequent change thereto. Member States shall inform the Commission where they decide to designate an authority other than the competent authorities referred to in paragraph 1, second subparagraph, as the competent authorities in respect of the critical entities in the sectors set out in points 3, 4 and 8 of the table in the Annex. Each Member State shall make public the identity of its competent authority and single point of contact.
 
 8\. The Commission shall make a list of the single points of contact publicly available.
 
@@ -159,11 +159,11 @@ The Commission shall, in cooperation with the Critical Entities Resilience Group
 
 2\. Each Member State shall ensure that its competent authority cooperates and exchanges information and good practices with critical entities of the sectors set out in the Annex.
 
-3\. Member States shall facilitate voluntary information sharing between critical entities in relation to matters covered by [this Directive](/lagstiftning/cer), in accordance with Union and national law on, in particular, classified and sensitive information, competition and protection of personal data.
+3\. Member States shall facilitate voluntary information sharing between critical entities in relation to matters covered by [this Directive](/en/lagstiftning/cer), in accordance with Union and national law on, in particular, classified and sensitive information, competition and protection of personal data.
 
 ### Article 11 – Cooperation between Member States
 
-1\. Whenever appropriate, Member States shall consult one another regarding critical entities for the purpose of ensuring that [this Directive](/lagstiftning/cer) is applied in a consistent manner. Such consultations shall take place, in particular, regarding critical entities that:
+1\. Whenever appropriate, Member States shall consult one another regarding critical entities for the purpose of ensuring that [this Directive](/en/lagstiftning/cer) is applied in a consistent manner. Such consultations shall take place, in particular, regarding critical entities that:
 
 (a) use critical infrastructure which is physically connected between two or more Member States;
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -23,15 +23,11 @@
 
 #### Avdelning II: Buller och vibrationer
 
-### 2 – kap. Buller
-
-Stöd och verktyg: Buller i arbetsmiljön
-
 ### 1 § – Då gäller föreskrifterna
 
 Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) reglerar all verksamhet där arbetstagare kan utsättas för buller.
 
-Bestämmelserna i [4 §](#4-undersökning-och-riskbedömning) om toppvärde gäller inte vid skjutning eller sprängning inom Försvarsmakten.
+Bestämmelserna i [4 §](#4-exponeringsvärden) om toppvärde gäller inte vid skjutning eller sprängning inom Försvarsmakten.
 
 ### 2 § – Vem föreskrifterna riktar sig till
 
@@ -77,7 +73,7 @@ Vid undersökning och riskbedömning av exponering för buller ska arbetsgivaren
 
 Exponeringens nivå, typ och varaktighet, inklusive all exponering för impulsbuller.
 
-Insatsvärden och gränsvärden enligt [4 §](#4-undersökning-och-riskbedömning) tabellerna 1 och 2.
+Insatsvärden och gränsvärden enligt [4 §](#4-exponeringsvärden) tabellerna 1 och 2.
 
 Negativa effekter på hälsa och säkerhet för arbetstagare som kan vara särskilt känsliga för buller.
 
@@ -103,7 +99,7 @@ Bestämmelser om bullerexponering för gravida arbetstagare finns i Arbetsmiljö
 
 ### 6 §
 
-Arbetsgivaren ska bedöma bullerexponeringen och, i den omfattning som behövs, utföra mätningar för att klarlägga om exponeringsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabellerna 1 och 2 uppnås eller överskrids. Mätningar ska planeras och genomföras med lämpliga intervall.
+Arbetsgivaren ska bedöma bullerexponeringen och, i den omfattning som behövs, utföra mätningar för att klarlägga om exponeringsvärdena i [4 §](#4-exponeringsvärden) tabellerna 1 och 2 uppnås eller överskrids. Mätningar ska planeras och genomföras med lämpliga intervall.
 
 Vid mätning ska arbetsgivaren särskilt uppmärksamma följande:
 
@@ -117,7 +113,7 @@ miljöfaktorer, och
 
 mätutrustningens specifika egenskaper.
 
-Metoderna och utrustningen ska göra det möjligt att bestämma parametrarna i [4 §](#4-undersökning-och-riskbedömning) tabellerna 1 och 2. Det ska gå att avgöra om värdena i [4 §](#4-undersökning-och-riskbedömning) tabellerna 1 och 2 har uppnåtts eller överskridits.
+Metoderna och utrustningen ska göra det möjligt att bestämma parametrarna i [4 §](#4-exponeringsvärden) tabellerna 1 och 2. Det ska gå att avgöra om värdena i [4 §](#4-exponeringsvärden) tabellerna 1 och 2 har uppnåtts eller överskridits.
 
 Metoderna kan omfatta stickprovsundersökningar. De ska då vara representativa för en arbetstagares personliga exponering.
 
@@ -125,11 +121,11 @@ Vid bedömning av de uppmätta värdena ska hänsyn tas till mätosäkerheter en
 
 ### 7 § – Åtgärder
 
-Om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1, ska arbetsgivaren utreda orsaken och vidta åtgärder för att minska exponeringen. När arbetsgivaren väljer åtgärder ska åtgärderna i [10 §](#10-kunskaper) särskilt övervägas.
+Om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, ska arbetsgivaren utreda orsaken och vidta åtgärder för att minska exponeringen. När arbetsgivaren väljer åtgärder ska åtgärderna i [10 §](#10) särskilt övervägas.
 
 ### 8 §
 
-Arbetstagarna får inte exponeras för buller som överskrider något av gränsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 2. Om detta ändå sker ska arbetsgivaren
+Arbetstagarna får inte exponeras för buller som överskrider något av gränsvärdena i [4 §](#4-exponeringsvärden) tabell 2. Om detta ändå sker ska arbetsgivaren
 
 vidta omedelbara åtgärder för att minska exponeringen så att den ligger under gränsvärdena,
 
@@ -183,7 +179,7 @@ Bestämmelser om utformning av arbetsplatser finns i Arbetsmiljöverkets föresk
 
 ### 11 §
 
-Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder), [9](#9), [10](#10-kunskaper) och [12 §§](#12) för de arbetstagare som kan vara särskilt känsliga för buller.
+Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder), [9](#9), [10](#10) och [12 §§](#12) för de arbetstagare som kan vara särskilt känsliga för buller.
 
 > _Allmänna råd_
 >
@@ -191,7 +187,7 @@ Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder), [9](#9), [10](#10-k
 
 ### 12 §
 
-Arbetsgivaren ska se till att det finns en påbudsskylt Hörselskydd måste användas, utformad i enlighet med bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser, på de arbetsplatser där arbetstagarna kan exponeras för buller som är lika med eller överstiger något av de övre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1. Där det är möjligt ska arbetsgivaren avgränsa dessa områden och begränsa tillträdet till dem.
+Arbetsgivaren ska se till att det finns en påbudsskylt Hörselskydd måste användas, utformad i enlighet med bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser, på de arbetsplatser där arbetstagarna kan exponeras för buller som är lika med eller överstiger något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1. Där det är möjligt ska arbetsgivaren avgränsa dessa områden och begränsa tillträdet till dem.
 
 Hörselskydd
 
@@ -199,9 +195,9 @@ Hörselskydd
 
 Om de risker som uppstår vid bullerexponering inte kan förebyggas på annat sätt ska arbetsgivaren se till att berörda arbetstagare
 
-får tillgång till hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1, eller
+får tillgång till hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, eller
 
-får tillgång till och använder hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1.
+får tillgång till och använder hörselskydd om bullerexponeringen är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1.
 
 Arbetsgivaren ska kontrollera att de åtgärder som vidtas är effektiva.
 
@@ -215,7 +211,7 @@ Arbetsgivaren ska ge berörda arbetstagare möjlighet att medverka vid val av h�
 
 ### 14 § – Kunskaper
 
-Om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1, ska arbetsgivaren se till att arbetstagarna får information och utbildning om de risker som uppkommer i samband med exponering för buller.
+Om bullerexponeringen är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, ska arbetsgivaren se till att arbetstagarna får information och utbildning om de risker som uppkommer i samband med exponering för buller.
 
 Vid information och utbildning ska arbetsgivaren särskilt uppmärksamma följande:
 
@@ -223,9 +219,9 @@ Vad riskerna med bullerexponering kan innebära.
 
 Vilka åtgärder som har vidtagits, eller kommer att vidtas, enligt [detta kapitel](/lagstiftning/afs-2023-10/kap-2) för att eliminera eller minimera riskerna till följd av buller.
 
-Gränsvärdena och insatsvärdena i [4 §](#4-undersökning-och-riskbedömning).
+Gränsvärdena och insatsvärdena i [4 §](#4-exponeringsvärden).
 
-Resultaten av bedömningar och mätningar enligt [5](#5) och [6 §§](#6) samt beskrivning av deras innebörd och möjliga risker.
+Resultaten av bedömningar och mätningar enligt [5](#5-undersökning-och-riskbedömning) och [6 §§](#6) samt beskrivning av deras innebörd och möjliga risker.
 
 Korrekt användning av hörselskydd.
 
@@ -239,13 +235,13 @@ Säkra arbetsrutiner för att minimera exponeringen för buller.
 
 ### 15 § – Hörselundersökning
 
-Arbetsgivaren ska erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1. Undersökningen ska utföras av läkare eller av annan person som har lämpliga kvalifikationer och då på en läkares ansvar.
+Arbetsgivaren ska erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de övre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1. Undersökningen ska utföras av läkare eller av annan person som har lämpliga kvalifikationer och då på en läkares ansvar.
 
 Syftet med hörselundersökningen är att tidigt upptäcka hörselnedsättningar på grund av buller och att bevara hörseln.
 
 Tiden mellan hörselundersökningarna ska anpassas till rådande exponeringsförhållanden.
 
-Arbetsgivaren ska även erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-undersökning-och-riskbedömning) tabell 1, om riskbedömningen och bestämningen av arbetstagarnas bullerexponering enligt [5](#5) och [6 §§](#6) visar att det finns risk för hörselskada.
+Arbetsgivaren ska även erbjuda hörselundersökning till de arbetstagare som exponeras för buller som är lika med, eller överstiger, något av de undre insatsvärdena i [4 §](#4-exponeringsvärden) tabell 1, om riskbedömningen och bestämningen av arbetstagarnas bullerexponering enligt [5](#5-undersökning-och-riskbedömning) och [6 §§](#6) visar att det finns risk för hörselskada.
 
 ### 16 §
 
@@ -264,162 +260,6 @@ följa upp och revidera de åtgärder som vidtagits för att minska riskerna enl
 överväga möjligheten att erbjuda arbetstagaren en annan sysselsättning där det inte finns risk för ytterligare skadlig exponering, och
 
 erbjuda alla andra arbetstagare, som har exponerats på liknande sätt, regelbundna hörselundersökningar.
-
-### 3 – kap. Vibrationer
-
-Stöd och verktyg: Vibrationer
-
-### 1 § – Då gäller föreskrifterna
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) reglerar all verksamhet där arbetstagare kan utsättas för vibrationer.
-
-### 2 § – Vem föreskrifterna riktar sig till
-
-Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
-
-Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-2).
-
-Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-2) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
-
-### 3 § – Definitioner
-
-I [detta kapitel](/lagstiftning/afs-2023-10/kap-2) har följande begrepp dessa betydelser.
-
-<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Gränsvärde</div></div></td><td><div><div>Värde som inte får överskridas.</div></div></td></tr><tr><td><div><div>Hand- och armvibrationer</div></div></td><td><div><div>Vibrationer som överförs från utrustning som hålls, styrs eller stöds av hand eller arm och medför risker för ohälsa eller olycksfall.</div></div></td></tr><tr><td><div><div>Helkroppsvibrationer</div></div></td><td><div><div>Vibrationer som överförs till hela kroppen genom en stödjande yta, exempelvis en stående persons fötter eller en sittande persons säte, och som medför risker för ohälsa eller olycksfall.</div></div></td></tr><tr><td><div><div>Insatsvärde för vibrationer</div></div></td><td><div><div>Värde som innebär krav på åtgärder om det överskrids.</div></div></td></tr><tr><td><div><div>Vibration</div></div></td><td><div><div>Mekanisk svängningsrörelse hos fasta föremål, som kan vara kontinuerlig, intermittent (ojämn, ryckvist återkommande) eller innehålla upprepade stötar.</div></div></td></tr><tr><td><div><div>Vibrationsexponering</div></div></td><td><div><div>Att utsättas för vibrationer under en viss tid.</div></div></td></tr></tbody></table>
-
-### 4 § – Undersökning och riskbedömning
-
-Arbetsgivaren ska planera så att riskerna till följd av exponering för vibrationer elimineras eller sänks till lägsta möjliga nivå. Hänsyn ska tas till den tekniska utvecklingen och möjligheten att begränsa vibrationer.
-
-### 5 §
-
-Vid undersökning och riskbedömning av vibrationer ska arbetsgivaren uppskatta hur stor arbetstagarnas vibrationsexponering är. Detta ska göras antingen genom att klarlägga exponeringen via mätningar under utfört arbetsmoment eller genom att observera förekommande arbetsmoment och hänvisa till relevant information från tillverkaren om arbetsutrustningens sannolika vibrationsvärde under dessa användningsförhållanden.
-
-Uppskattning av vibrationsexponeringen ska göras enligt bilaga 2 eller bilaga 3.
-
-> _Allmänna råd_
->
-> Vid uppskattning av vibrationsexponeringen enligt bilaga 2 och 3 kan följande svenska standarder användas:
->
-> SS-EN ISO 5349-1:2001. Vibration och stöt – Mätning och bedömning av vibrationer som överförs till handen – Del 1: Allmänna riktlinjer. Utgåva 1.
->
-> SS-ISO 2631-1:1998 Vibration och stöt – Vägledning för bedömning av helkroppsvibrationers inverkan på människan – Del 1: Allmänna krav med de ändringar som framgår i SS-ISO 2631-1:1998/Amd 1:2010.
-
-### 6 §
-
-Vid undersökning och riskbedömning av vibrationer ska arbetsgivaren särskilt uppmärksamma
-
-insatsvärden och gränsvärden för vibrationsexponering som anges i bilaga 4 tabell 4,
-
-nivå, typ och varaktighet för vibrationsexponeringen, och om exponeringen innehåller intermittenta (ojämna, ryckvist återkommande) vibrationer eller upprepade stötar,
-
-information från arbetsutrustningens tillverkare,
-
-särskilda arbetsförhållanden,
-
-förhöjd risk för ohälsa eller olycksfall hos arbetstagarna som kan vara särskilt känsliga för vibrationer,
-
-risken för olycksfall till följd av växelverkan mellan vibrationer och arbetsplatsen eller annan utrustning,
-
-om arbetstagarna, inom ramen för verksamheten, exponeras för vibrationer även utanför arbetstid, och
-
-om det finns ersättningsutrustning som är avsedd att minska vibrationsexponeringen.
-
-> _Allmänna råd_
->
-> Till punkt 4. Särskilda arbetsförhållanden kan vara ergonomisk belastning, temperatur- och klimatförhållanden och arbetsbelastning.
->
-> Till punkt 5. Särskilt känsliga för helkroppsvibrationer kan vara gravida. Särskilt känsliga för hand- och armvibrationer kan vara arbetstagare med dokumenterad grav vibrationsskada eller annan dokumenterad sjukdom i händerna, såsom kärl- och nervskador, och arbetstagare som använder kärlsammandragande medicin.
->
-> Till punkt 7. Situationer när arbetstagarna är exponerade för vibrationer på arbetsplatsen utanför arbetstid kan vara raster, vila och andra tillfällen när arbetstagarna inte kan lämna arbetsplatsen.
->
-> Till punkt 8. Vid val av ersättningsutrustning, för att minska vibrationsexponeringen, behöver arbetsgivaren både ta hänsyn till vibrationsvärdet och effektiviteten hos arbetsutrustningen. Om en ersättningsutrustning med lägre vibrationsvärde är mindre effektiv kan det ta längre tid att utföra ett arbetsmoment. Detta kan i sin tur ge längre exponeringstider och kan på så sätt ge en högre vibrationsexponering.
->
-> Vibrationsskador kan uppkomma även när vibrationsexponeringen ligger under de exponeringsvärden som omnämns i föreskrifterna. Det beror på individuella skillnader i känslighet för vibrationer.
-
-### 7 § – Åtgärder
-
-Arbetsgivaren ska vidta åtgärder för att minska riskerna på grund av vibrationsexponering om vibrationsexponeringen överstiger något av insatsvärdena i bilaga 4 tabell 4, eller om riskbedömningen motiverar det.
-
-Vid val av åtgärder ska arbetsgivaren särskilt beakta möjligheten att
-
-använda alternativa arbetsmetoder, så att arbetstagarnas exponering för vibrationer minskas,
-
-välja arbetsutrustning med lämplig ergonomisk utformning som ger så liten vibrationsexponering som möjligt, med tanke på det arbete som ska utföras,
-
-använda teknisk arbetsutrustning som minskar risken för vibrationsskador, till exempel säten som effektivt dämpar helkroppsvibrationer eller handtag som dämpar vibrationer som överförs till händer och armar,
-
-ha lämpliga underhållsprogram för arbetsutrustningar, arbetsplatser och kringutrustningar,
-
-utforma och planera arbetsplatser,
-
-informera och utbilda arbetstagarna så att arbetsutrustningen används på ett riktigt och säkert sätt, för att minimera exponeringen för vibrationer,
-
-organisera arbetet på annat sätt, genom att
-
-begränsa tiden och intensiteten för arbetstagarens vibrationsexponering, och
-
-anpassa arbetstiderna så att viloperioderna blir tillräckliga, samt
-
-tillhandahålla arbetskläder som skyddar exponerade mot fukt och kyla.
-
-### 8 §
-
-Vibrationsexponeringen får inte överskrida något av gränsvärdena i bilaga 4 tabell 4. Om detta sker ska arbetsgivaren
-
-vidta omedelbara åtgärder för att minska vibrationsexponeringen så att den ligger under gränsvärdet,
-
-utreda orsakerna till att gränsvärdet överskridits, och
-
-vidta åtgärder så att gränsvärdet inte överskrids i fortsättningen.
-
-Om det, med hänsyn till den aktuella tekniska utvecklingen och arbetsplatsens särskilda karaktär, inte är möjligt att iaktta något av gränsvärdena i bilaga 4 tabell 4 gäller inte kraven i första stycket vid arbete inom luftfart för helkroppsvibrationer och Försvarsmakten för både helkroppsvibrationer och hand- och armvibrationer.
-
-### 9 §
-
-Arbetsgivaren ska anpassa åtgärderna i [7](#7-åtgärder) och [8 §§](#8) till arbetstagare som kan vara särskilt känsliga för vibrationer.
-
-> _Allmänna råd_
->
-> Särskilt känsliga för helkroppsvibrationer kan vara gravida. Särskilt känsliga för hand- och armvibrationer kan vara arbetstagare med dokumenterad grav vibrationsskada eller annan dokumenterad sjukdom i händerna, såsom kärl- och nervskador, och arbetstagare som använder kärlsammandragande medicin.
-
-### 10 § – Kunskaper
-
-Arbetsgivaren ska se till att arbetstagarna som utsätts för vibrationer i arbetet får information och utbildning om riskerna.
-
-Vid information och utbildning ska arbetsgivaren särskilt uppmärksamma
-
-resultaten av genomförda riskbedömningar,
-
-de gränsvärden och insatsvärden som anges i bilaga 4 tabell 4,
-
-de åtgärder som vidtagits eller kommer att vidtas enligt [detta kapitel](/lagstiftning/afs-2023-10/kap-2) för att eliminera eller minimera riskerna från vibrationer,
-
-arbetsrutiner för att minimera vibrationsexponeringen,
-
-innebörden av de hälsorisker som kan uppstå vid vibrationsexponering,
-
-varför och hur arbetstagarna ska rapportera tecken på skada, och hur de kan upptäcka tecknen, och
-
-när arbetstagarna har rätt till medicinska kontroller, och syftet med kontrollerna.
-
-### 11 § – Medicinska kontroller
-
-I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller för de arbetstagare som kommer att sysselsättas eller sysselsätts i arbete som innebär exponering för vibrationer, om exponeringen
-
-överstiger insatsvärdet för hand- och armvibrationer enligt bilaga 4 tabell 4,
-
-sker på sådant sätt att misstanke finns om att exponeringen kan orsaka ohälsa, eller
-
-orsakat vibrationsskador, eller gett misstanke om vibrationsskador, hos en annan arbetstagare som har exponerats på ett liknande sätt.
-
-> _Allmänna råd_
->
-> Exponeringen för vibrationer kan orsaka ohälsa hos tandvårdspersonal, bilmekaniker, nitare, fotvårdspersonal och andra som arbetar mycket med vibrerande handhållna maskiner eller verktyg, trots att deras vibrationsexponering ofta ligger under insatsvärdena. Dessa yrkeskategorier använder ofta vibrerande handhållna maskiner eller verktyg (maskiner med slagmekanism eller med mycket höga varvtal) där risken för ohälsa lätt underskattas med dagens mätmetoder. Det är därför lämpligt att låta dessa yrkeskategorier regelbundet genomgå medicinska kontroller.
-
-### 12 §
-
-Om det framkommer tecken på vibrationsskada hos en arbetstagare som har genomgått hälsoundersökning, eller om arbetsgivaren har bedömt att arbetsförhållandena kan innebära risk för belastningsbesvär, ska arbetsgivaren göra en ny undersökning och riskbedömning enligt [6 §](#6).
 <!-- scan-laws:end -->
 
 ## Tolkning

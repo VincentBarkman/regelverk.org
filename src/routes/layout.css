@@ -171,6 +171,7 @@ html {
 }
 
 .prose .scan-table {
+	position: relative;
 	margin: 1.25em 0;
 	border: 1px solid color-mix(in oklab, var(--color-primary) 15%, transparent);
 	border-radius: 0.5rem;
@@ -179,11 +180,10 @@ html {
 /* allmänna råd — agency guidance rendered as a callout, not a quote */
 .prose blockquote.allmanna-rad {
 	margin: 1.25em 0;
-	padding: 0.75rem 1rem;
-	border: 1px solid color-mix(in oklab, var(--color-primary) 25%, transparent);
-	border-left: 3px solid var(--color-primary);
-	border-radius: 0.375rem;
-	background: color-mix(in oklab, var(--color-primary) 6%, transparent);
+	padding: 0.875rem 1.125rem;
+	border: 1px solid color-mix(in oklab, var(--color-primary) 12%, transparent);
+	border-radius: var(--radius-lg);
+	background: color-mix(in oklab, var(--color-primary) 4%, transparent);
 	font-style: normal;
 	font-weight: 400;
 	color: var(--color-foreground);
@@ -196,13 +196,13 @@ html {
 }
 
 .prose blockquote.allmanna-rad .allmanna-rad-tag {
-	margin: 0 0 0.25rem;
-	font-size: 0.8rem;
-	font-weight: 600;
+	margin: 0 0 0.375rem;
+	font-size: 0.75rem;
+	font-weight: 500;
 	font-style: normal;
-	letter-spacing: 0.04em;
+	letter-spacing: 0.06em;
 	text-transform: uppercase;
-	color: var(--color-primary);
+	color: color-mix(in oklab, var(--color-primary) 70%, transparent);
 }
 
 .prose .scan-table-toggle {
@@ -219,16 +219,25 @@ html {
 	display: none;
 }
 
+/* collapsed: clean cut at a row boundary; fade only the right edge of wide
+   tables */
 .prose .scan-table-toggle:not(:checked) ~ .scan-table-content {
 	overflow-x: clip;
-	mask-image:
-		linear-gradient(to bottom, black calc(100% - 2rem), transparent),
-		linear-gradient(to right, black calc(100% - 2rem), transparent);
-	mask-composite: intersect;
+	mask-image: linear-gradient(to right, black calc(100% - 2rem), transparent);
+}
+
+.prose .scan-table:has(.scan-table-toggle:not(:checked)):hover {
+	background: color-mix(in oklab, var(--color-primary) 3%, transparent);
 }
 
 .prose .scan-table-content > table {
 	margin: 0;
+}
+
+/* the expander is a merged tfoot row — it reads as an extra table row */
+.prose .scan-table-foot td {
+	border-top: 1px solid color-mix(in oklab, var(--color-primary) 15%, transparent);
+	padding: 0;
 }
 
 .prose .scan-table-label {
@@ -238,25 +247,32 @@ html {
 	font-size: 0.875rem;
 	font-weight: 500;
 	color: var(--color-foreground);
+	text-decoration: underline;
+	text-decoration-color: color-mix(in oklab, var(--color-primary) 30%, transparent);
+	text-underline-offset: 3px;
 	user-select: none;
 }
 
-.prose .scan-table-label::before {
-	content: '▸';
-	display: inline-block;
-	margin-right: 0.375rem;
+.prose .scan-table-label::after {
+	content: '· visa alla rader';
 	color: var(--color-muted-foreground);
-	transition: transform 0.15s;
+	font-weight: 400;
+	font-size: 0.8125rem;
 }
 
-.prose .scan-table-toggle:checked ~ .scan-table-label::before {
-	transform: rotate(90deg);
+html[lang='en'] .prose .scan-table-label::after {
+	content: '· show all rows';
+}
+
+.prose .scan-table-toggle:checked ~ .scan-table-content .scan-table-label::after {
+	content: '· dölj';
+}
+
+html[lang='en'] .prose .scan-table-toggle:checked ~ .scan-table-content .scan-table-label::after {
+	content: '· hide';
 }
 
 .prose .scan-table-label:hover {
 	background: color-mix(in oklab, var(--color-primary) 4%, transparent);
-}
-
-.prose .scan-table-toggle:checked ~ .scan-table-label {
-	border-top: 1px solid color-mix(in oklab, var(--color-primary) 15%, transparent);
+	text-decoration-color: currentcolor;
 }

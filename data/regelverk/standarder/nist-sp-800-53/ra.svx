@@ -24,143 +24,143 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### RA-1 – Policy and Procedures
+### <span id="ra-1"></span>RA-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1. [organization-level or mission/business process-level or system-level] risk assessment policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the risk assessment policy and the associated risk assessment controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the risk assessment policy and procedures; and
-- c. Review and update the current risk assessment:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="ra-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="ra-1_smt.a.1"></span> 1. [organization-level or mission/business process-level or system-level] risk assessment policy that:
+    - <span id="ra-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="ra-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="ra-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the risk assessment policy and the associated risk assessment controls;
+- <span id="ra-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the risk assessment policy and procedures; and
+- <span id="ra-1_smt.c"></span> c. Review and update the current risk assessment:
+  - <span id="ra-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="ra-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### RA-2 – Security Categorization
+### <span id="ra-2"></span>RA-2 – Security Categorization
 
-- a. Categorize the system and information it processes, stores, and transmits;
-- b. Document the security categorization results, including supporting rationale, in the security plan for the system; and
-- c. Verify that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
+- <span id="ra-2_smt.a"></span> a. Categorize the system and information it processes, stores, and transmits;
+- <span id="ra-2_smt.b"></span> b. Document the security categorization results, including supporting rationale, in the security plan for the system; and
+- <span id="ra-2_smt.c"></span> c. Verify that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
 
-#### RA-2(1) – Impact-level Prioritization
+#### <span id="ra-2.1"></span>RA-2(1) – Impact-level Prioritization
 
 Conduct an impact-level prioritization of organizational systems to obtain additional granularity on system impact levels.
 
-### RA-3 – Risk Assessment
+### <span id="ra-3"></span>RA-3 – Risk Assessment
 
-- a. Conduct a risk assessment, including:
-  - 1. Identifying threats to and vulnerabilities in the system;
-  - 2. Determining the likelihood and magnitude of harm from unauthorized access, use, disclosure, disruption, modification, or destruction of the system, the information it processes, stores, or transmits, and any related information; and
-  - 3. Determining the likelihood and impact of adverse effects on individuals arising from the processing of personally identifiable information;
-- b. Integrate risk assessment results and risk management decisions from the organization and mission or business process perspectives with system-level risk assessments;
-- c. Document risk assessment results in [security and privacy plans or risk assessment report or [organization-defined document] ];
-- d. Review risk assessment results [organization-defined frequency];
-- e. Disseminate risk assessment results to [organization-defined personnel or roles] ; and
-- f. Update the risk assessment [organization-defined frequency] or when there are significant changes to the system, its environment of operation, or other conditions that may impact the security or privacy state of the system.
+- <span id="ra-3_smt.a"></span> a. Conduct a risk assessment, including:
+  - <span id="ra-3_smt.a.1"></span> 1. Identifying threats to and vulnerabilities in the system;
+  - <span id="ra-3_smt.a.2"></span> 2. Determining the likelihood and magnitude of harm from unauthorized access, use, disclosure, disruption, modification, or destruction of the system, the information it processes, stores, or transmits, and any related information; and
+  - <span id="ra-3_smt.a.3"></span> 3. Determining the likelihood and impact of adverse effects on individuals arising from the processing of personally identifiable information;
+- <span id="ra-3_smt.b"></span> b. Integrate risk assessment results and risk management decisions from the organization and mission or business process perspectives with system-level risk assessments;
+- <span id="ra-3_smt.c"></span> c. Document risk assessment results in [security and privacy plans or risk assessment report or [organization-defined document] ];
+- <span id="ra-3_smt.d"></span> d. Review risk assessment results [organization-defined frequency];
+- <span id="ra-3_smt.e"></span> e. Disseminate risk assessment results to [organization-defined personnel or roles] ; and
+- <span id="ra-3_smt.f"></span> f. Update the risk assessment [organization-defined frequency] or when there are significant changes to the system, its environment of operation, or other conditions that may impact the security or privacy state of the system.
 
-#### RA-3(1) – Supply Chain Risk Assessment
+#### <span id="ra-3.1"></span>RA-3(1) – Supply Chain Risk Assessment
 
-- (a) Assess supply chain risks associated with [organization-defined systems, system components, and system services] ; and
-- (b) Update the supply chain risk assessment [organization-defined frequency] , when there are significant changes to the relevant supply chain, or when changes to the system, environments of operation, or other conditions may necessitate a change in the supply chain.
+- <span id="ra-3.1_smt.a"></span> (a) Assess supply chain risks associated with [organization-defined systems, system components, and system services] ; and
+- <span id="ra-3.1_smt.b"></span> (b) Update the supply chain risk assessment [organization-defined frequency] , when there are significant changes to the relevant supply chain, or when changes to the system, environments of operation, or other conditions may necessitate a change in the supply chain.
 
-#### RA-3(2) – Use of All-source Intelligence
+#### <span id="ra-3.2"></span>RA-3(2) – Use of All-source Intelligence
 
 Use all-source intelligence to assist in the analysis of risk.
 
-#### RA-3(3) – Dynamic Threat Awareness
+#### <span id="ra-3.3"></span>RA-3(3) – Dynamic Threat Awareness
 
 Determine the current cyber threat environment on an ongoing basis using [organization-defined means].
 
-#### RA-3(4) – Predictive Cyber Analytics
+#### <span id="ra-3.4"></span>RA-3(4) – Predictive Cyber Analytics
 
 Employ the following advanced automation and analytics capabilities to predict and identify risks to [organization-defined systems or system components]: [organization-defined advanced automation and analytics capabilities].
 
-### RA-4 – Risk Assessment Update
+### <span id="ra-4"></span>RA-4 – Risk Assessment Update
 
 
 
-### RA-5 – Vulnerability Monitoring and Scanning
+### <span id="ra-5"></span>RA-5 – Vulnerability Monitoring and Scanning
 
-- a. Monitor and scan for vulnerabilities in the system and hosted applications [organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system are identified and reported;
-- b. Employ vulnerability monitoring tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
-  - 1. Enumerating platforms, software flaws, and improper configurations;
-  - 2. Formatting checklists and test procedures; and
-  - 3. Measuring vulnerability impact;
-- c. Analyze vulnerability scan reports and results from vulnerability monitoring;
-- d. Remediate legitimate vulnerabilities [organization-defined response times] in accordance with an organizational assessment of risk;
-- e. Share information obtained from the vulnerability monitoring process and control assessments with [organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and
-- f. Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.
+- <span id="ra-5_smt.a"></span> a. Monitor and scan for vulnerabilities in the system and hosted applications [organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system are identified and reported;
+- <span id="ra-5_smt.b"></span> b. Employ vulnerability monitoring tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
+  - <span id="ra-5_smt.b.1"></span> 1. Enumerating platforms, software flaws, and improper configurations;
+  - <span id="ra-5_smt.b.2"></span> 2. Formatting checklists and test procedures; and
+  - <span id="ra-5_smt.b.3"></span> 3. Measuring vulnerability impact;
+- <span id="ra-5_smt.c"></span> c. Analyze vulnerability scan reports and results from vulnerability monitoring;
+- <span id="ra-5_smt.d"></span> d. Remediate legitimate vulnerabilities [organization-defined response times] in accordance with an organizational assessment of risk;
+- <span id="ra-5_smt.e"></span> e. Share information obtained from the vulnerability monitoring process and control assessments with [organization-defined personnel or roles] to help eliminate similar vulnerabilities in other systems; and
+- <span id="ra-5_smt.f"></span> f. Employ vulnerability monitoring tools that include the capability to readily update the vulnerabilities to be scanned.
 
-#### RA-5(1) – Update Tool Capability
+#### <span id="ra-5.1"></span>RA-5(1) – Update Tool Capability
 
 
 
-#### RA-5(2) – Update Vulnerabilities to Be Scanned
+#### <span id="ra-5.2"></span>RA-5(2) – Update Vulnerabilities to Be Scanned
 
 Update the system vulnerabilities to be scanned [[organization-defined frequency]  or prior to a new scan or when new vulnerabilities are identified and reported].
 
-#### RA-5(3) – Breadth and Depth of Coverage
+#### <span id="ra-5.3"></span>RA-5(3) – Breadth and Depth of Coverage
 
 Define the breadth and depth of vulnerability scanning coverage.
 
-#### RA-5(4) – Discoverable Information
+#### <span id="ra-5.4"></span>RA-5(4) – Discoverable Information
 
 Determine information about the system that is discoverable and take [organization-defined corrective actions].
 
-#### RA-5(5) – Privileged Access
+#### <span id="ra-5.5"></span>RA-5(5) – Privileged Access
 
 Implement privileged access authorization to [organization-defined system components] for [organization-defined vulnerability scanning activities].
 
-#### RA-5(6) – Automated Trend Analyses
+#### <span id="ra-5.6"></span>RA-5(6) – Automated Trend Analyses
 
 Compare the results of multiple vulnerability scans using [organization-defined automated mechanisms].
 
-#### RA-5(7) – Automated Detection and Notification of Unauthorized Components
+#### <span id="ra-5.7"></span>RA-5(7) – Automated Detection and Notification of Unauthorized Components
 
 
 
-#### RA-5(8) – Review Historic Audit Logs
+#### <span id="ra-5.8"></span>RA-5(8) – Review Historic Audit Logs
 
 Review historic audit logs to determine if a vulnerability identified in a [organization-defined system] has been previously exploited within an [organization-defined time period].
 
-#### RA-5(9) – Penetration Testing and Analyses
+#### <span id="ra-5.9"></span>RA-5(9) – Penetration Testing and Analyses
 
 
 
-#### RA-5(10) – Correlate Scanning Information
+#### <span id="ra-5.10"></span>RA-5(10) – Correlate Scanning Information
 
 Correlate the output from vulnerability scanning tools to determine the presence of multi-vulnerability and multi-hop attack vectors.
 
-#### RA-5(11) – Public Disclosure Program
+#### <span id="ra-5.11"></span>RA-5(11) – Public Disclosure Program
 
 Establish a public reporting channel for receiving reports of vulnerabilities in organizational systems and system components.
 
-### RA-6 – Technical Surveillance Countermeasures Survey
+### <span id="ra-6"></span>RA-6 – Technical Surveillance Countermeasures Survey
 
 Employ a technical surveillance countermeasures survey at [organization-defined locations] [[organization-defined frequency]  or when [organization-defined events or indicators] ].
 
-### RA-7 – Risk Response
+### <span id="ra-7"></span>RA-7 – Risk Response
 
 Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.
 
-### RA-8 – Privacy Impact Assessments
+### <span id="ra-8"></span>RA-8 – Privacy Impact Assessments
 
 Conduct privacy impact assessments for systems, programs, or other activities before:
-- a. Developing or procuring information technology that processes personally identifiable information; and
-- b. Initiating a new collection of personally identifiable information that:
-  - 1. Will be processed using information technology; and
-  - 2. Includes personally identifiable information permitting the physical or virtual (online) contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, ten or more individuals, other than agencies, instrumentalities, or employees of the federal government.
+- <span id="ra-8_smt.a"></span> a. Developing or procuring information technology that processes personally identifiable information; and
+- <span id="ra-8_smt.b"></span> b. Initiating a new collection of personally identifiable information that:
+  - <span id="ra-8_smt.b.1"></span> 1. Will be processed using information technology; and
+  - <span id="ra-8_smt.b.2"></span> 2. Includes personally identifiable information permitting the physical or virtual (online) contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, ten or more individuals, other than agencies, instrumentalities, or employees of the federal government.
 
-### RA-9 – Criticality Analysis
+### <span id="ra-9"></span>RA-9 – Criticality Analysis
 
 Identify critical system components and functions by performing a criticality analysis for [organization-defined systems, system components, or system services] at [organization-defined decision points in the system development life cycle].
 
-### RA-10 – Threat Hunting
+### <span id="ra-10"></span>RA-10 – Threat Hunting
 
-- a. Establish and maintain a cyber threat hunting capability to:
-  - 1. Search for indicators of compromise in organizational systems; and
-  - 2. Detect, track, and disrupt threats that evade existing controls; and
-- b. Employ the threat hunting capability [organization-defined frequency].
+- <span id="ra-10_smt.a"></span> a. Establish and maintain a cyber threat hunting capability to:
+  - <span id="ra-10_smt.a.1"></span> 1. Search for indicators of compromise in organizational systems; and
+  - <span id="ra-10_smt.a.2"></span> 2. Detect, track, and disrupt threats that evade existing controls; and
+- <span id="ra-10_smt.b"></span> b. Employ the threat hunting capability [organization-defined frequency].
 
 ---
 

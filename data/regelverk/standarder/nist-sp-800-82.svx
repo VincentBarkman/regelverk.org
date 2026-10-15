@@ -21,4 +21,9 @@ url: https://csrc.nist.gov/pubs/sp/800/82/r3/final
 NIST SP 800-82 beskriver hur industriella styrsystem skiljer sig från vanliga IT-system och hur säkerhetsprogram anpassas till driftmiljöer där tillgänglighet och personsäkerhet är avgörande. Publikationen är fri att ladda ner från NIST men saknar maskinläsbar kontrollkatalog; komplettera med NIST SP 800-53 och IEC 62443.
 
 Officiell källa: [NIST SP 800-82 Rev. 3](https://csrc.nist.gov/pubs/sp/800/82/r3/final).
+
+## Relaterade regelverk
+
+- [NIS2-direktivet](/lagstiftning/nis2)
+- [CER-direktivet](/lagstiftning/cer)
 <!-- scan-standards:end -->

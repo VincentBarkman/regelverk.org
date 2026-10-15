@@ -25,117 +25,117 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### PT-1 – Policy and Procedures
+### <span id="pt-1"></span>PT-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1. [organization-level or mission/business process-level or system-level] personally identifiable information processing and transparency policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the personally identifiable information processing and transparency policy and the associated personally identifiable information processing and transparency controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the personally identifiable information processing and transparency policy and procedures; and
-- c. Review and update the current personally identifiable information processing and transparency:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="pt-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="pt-1_smt.a.1"></span> 1. [organization-level or mission/business process-level or system-level] personally identifiable information processing and transparency policy that:
+    - <span id="pt-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="pt-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="pt-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the personally identifiable information processing and transparency policy and the associated personally identifiable information processing and transparency controls;
+- <span id="pt-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the personally identifiable information processing and transparency policy and procedures; and
+- <span id="pt-1_smt.c"></span> c. Review and update the current personally identifiable information processing and transparency:
+  - <span id="pt-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="pt-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### PT-2 – Authority to Process Personally Identifiable Information
+### <span id="pt-2"></span>PT-2 – Authority to Process Personally Identifiable Information
 
-- a. Determine and document the [organization-defined authority] that permits the [organization-defined processing] of personally identifiable information; and
-- b. Restrict the [organization-defined processing] of personally identifiable information to only that which is authorized.
+- <span id="pt-2_smt.a"></span> a. Determine and document the [organization-defined authority] that permits the [organization-defined processing] of personally identifiable information; and
+- <span id="pt-2_smt.b"></span> b. Restrict the [organization-defined processing] of personally identifiable information to only that which is authorized.
 
-#### PT-2(1) – Data Tagging
+#### <span id="pt-2.1"></span>PT-2(1) – Data Tagging
 
 Attach data tags containing [organization-defined authorized processing] to [organization-defined elements of personally identifiable information].
 
-#### PT-2(2) – Automation
+#### <span id="pt-2.2"></span>PT-2(2) – Automation
 
 Manage enforcement of the authorized processing of personally identifiable information using [organization-defined automated mechanisms].
 
-### PT-3 – Personally Identifiable Information Processing Purposes
+### <span id="pt-3"></span>PT-3 – Personally Identifiable Information Processing Purposes
 
-- a. Identify and document the [organization-defined purpose(s)] for processing personally identifiable information;
-- b. Describe the purpose(s) in the public privacy notices and policies of the organization;
-- c. Restrict the [organization-defined processing] of personally identifiable information to only that which is compatible with the identified purpose(s); and
-- d. Monitor changes in processing personally identifiable information and implement [organization-defined mechanisms] to ensure that any changes are made in accordance with [organization-defined requirements].
+- <span id="pt-3_smt.a"></span> a. Identify and document the [organization-defined purpose(s)] for processing personally identifiable information;
+- <span id="pt-3_smt.b"></span> b. Describe the purpose(s) in the public privacy notices and policies of the organization;
+- <span id="pt-3_smt.c"></span> c. Restrict the [organization-defined processing] of personally identifiable information to only that which is compatible with the identified purpose(s); and
+- <span id="pt-3_smt.d"></span> d. Monitor changes in processing personally identifiable information and implement [organization-defined mechanisms] to ensure that any changes are made in accordance with [organization-defined requirements].
 
-#### PT-3(1) – Data Tagging
+#### <span id="pt-3.1"></span>PT-3(1) – Data Tagging
 
 Attach data tags containing the following purposes to [organization-defined elements of personally identifiable information]: [organization-defined processing purposes].
 
-#### PT-3(2) – Automation
+#### <span id="pt-3.2"></span>PT-3(2) – Automation
 
 Track processing purposes of personally identifiable information using [organization-defined automated mechanisms].
 
-### PT-4 – Consent
+### <span id="pt-4"></span>PT-4 – Consent
 
 Implement [organization-defined tools or mechanisms] for individuals to consent to the processing of their personally identifiable information prior to its collection that facilitate individuals’ informed decision-making.
 
-#### PT-4(1) – Tailored Consent
+#### <span id="pt-4.1"></span>PT-4(1) – Tailored Consent
 
 Provide [organization-defined mechanisms] to allow individuals to tailor processing permissions to selected elements of personally identifiable information.
 
-#### PT-4(2) – Just-in-time Consent
+#### <span id="pt-4.2"></span>PT-4(2) – Just-in-time Consent
 
 Present [organization-defined consent mechanisms] to individuals at [organization-defined frequency] and in conjunction with [organization-defined personally identifiable information processing].
 
-#### PT-4(3) – Revocation
+#### <span id="pt-4.3"></span>PT-4(3) – Revocation
 
 Implement [organization-defined tools or mechanisms] for individuals to revoke consent to the processing of their personally identifiable information.
 
-### PT-5 – Privacy Notice
+### <span id="pt-5"></span>PT-5 – Privacy Notice
 
 Provide notice to individuals about the processing of personally identifiable information that:
-- a. Is available to individuals upon first interacting with an organization, and subsequently at [organization-defined frequency];
-- b. Is clear and easy-to-understand, expressing information about personally identifiable information processing in plain language;
-- c. Identifies the authority that authorizes the processing of personally identifiable information;
-- d. Identifies the purposes for which personally identifiable information is to be processed; and
-- e. Includes [organization-defined information].
+- <span id="pt-5_smt.a"></span> a. Is available to individuals upon first interacting with an organization, and subsequently at [organization-defined frequency];
+- <span id="pt-5_smt.b"></span> b. Is clear and easy-to-understand, expressing information about personally identifiable information processing in plain language;
+- <span id="pt-5_smt.c"></span> c. Identifies the authority that authorizes the processing of personally identifiable information;
+- <span id="pt-5_smt.d"></span> d. Identifies the purposes for which personally identifiable information is to be processed; and
+- <span id="pt-5_smt.e"></span> e. Includes [organization-defined information].
 
-#### PT-5(1) – Just-in-time Notice
+#### <span id="pt-5.1"></span>PT-5(1) – Just-in-time Notice
 
 Present notice of personally identifiable information processing to individuals at a time and location where the individual provides personally identifiable information or in conjunction with a data action, or [organization-defined frequency].
 
-#### PT-5(2) – Privacy Act Statements
+#### <span id="pt-5.2"></span>PT-5(2) – Privacy Act Statements
 
 Include Privacy Act statements on forms that collect information that will be maintained in a Privacy Act system of records, or provide Privacy Act statements on separate forms that can be retained by individuals.
 
-### PT-6 – System of Records Notice
+### <span id="pt-6"></span>PT-6 – System of Records Notice
 
 For systems that process information that will be maintained in a Privacy Act system of records:
-- a. Draft system of records notices in accordance with OMB guidance and submit new and significantly modified system of records notices to the OMB and appropriate congressional committees for advance review;
-- b. Publish system of records notices in the Federal Register; and
-- c. Keep system of records notices accurate, up-to-date, and scoped in accordance with policy.
+- <span id="pt-6_smt.a"></span> a. Draft system of records notices in accordance with OMB guidance and submit new and significantly modified system of records notices to the OMB and appropriate congressional committees for advance review;
+- <span id="pt-6_smt.b"></span> b. Publish system of records notices in the Federal Register; and
+- <span id="pt-6_smt.c"></span> c. Keep system of records notices accurate, up-to-date, and scoped in accordance with policy.
 
-#### PT-6(1) – Routine Uses
+#### <span id="pt-6.1"></span>PT-6(1) – Routine Uses
 
 Review all routine uses published in the system of records notice at [organization-defined frequency] to ensure continued accuracy, and to ensure that routine uses continue to be compatible with the purpose for which the information was collected.
 
-#### PT-6(2) – Exemption Rules
+#### <span id="pt-6.2"></span>PT-6(2) – Exemption Rules
 
 Review all Privacy Act exemptions claimed for the system of records at [organization-defined frequency] to ensure they remain appropriate and necessary in accordance with law, that they have been promulgated as regulations, and that they are accurately described in the system of records notice.
 
-### PT-7 – Specific Categories of Personally Identifiable Information
+### <span id="pt-7"></span>PT-7 – Specific Categories of Personally Identifiable Information
 
 Apply [organization-defined processing conditions] for specific categories of personally identifiable information.
 
-#### PT-7(1) – Social Security Numbers
+#### <span id="pt-7.1"></span>PT-7(1) – Social Security Numbers
 
 When a system processes Social Security numbers:
-- (a) Eliminate unnecessary collection, maintenance, and use of Social Security numbers, and explore alternatives to their use as a personal identifier;
-- (b) Do not deny any individual any right, benefit, or privilege provided by law because of such individual’s refusal to disclose his or her Social Security number; and
-- (c) Inform any individual who is asked to disclose his or her Social Security number whether that disclosure is mandatory or voluntary, by what statutory or other authority such number is solicited, and what uses will be made of it.
+- <span id="pt-7.1_smt.a"></span> (a) Eliminate unnecessary collection, maintenance, and use of Social Security numbers, and explore alternatives to their use as a personal identifier;
+- <span id="pt-7.1_smt.b"></span> (b) Do not deny any individual any right, benefit, or privilege provided by law because of such individual’s refusal to disclose his or her Social Security number; and
+- <span id="pt-7.1_smt.c"></span> (c) Inform any individual who is asked to disclose his or her Social Security number whether that disclosure is mandatory or voluntary, by what statutory or other authority such number is solicited, and what uses will be made of it.
 
-#### PT-7(2) – First Amendment Information
+#### <span id="pt-7.2"></span>PT-7(2) – First Amendment Information
 
 Prohibit the processing of information describing how any individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual or unless pertinent to and within the scope of an authorized law enforcement activity.
 
-### PT-8 – Computer Matching Requirements
+### <span id="pt-8"></span>PT-8 – Computer Matching Requirements
 
 When a system or organization processes information for the purpose of conducting a matching program:
-- a. Obtain approval from the Data Integrity Board to conduct the matching program;
-- b. Develop and enter into a computer matching agreement;
-- c. Publish a matching notice in the Federal Register;
-- d. Independently verify the information produced by the matching program before taking adverse action against an individual, if required; and
-- e. Provide individuals with notice and an opportunity to contest the findings before taking adverse action against an individual.
+- <span id="pt-8_smt.a"></span> a. Obtain approval from the Data Integrity Board to conduct the matching program;
+- <span id="pt-8_smt.b"></span> b. Develop and enter into a computer matching agreement;
+- <span id="pt-8_smt.c"></span> c. Publish a matching notice in the Federal Register;
+- <span id="pt-8_smt.d"></span> d. Independently verify the information produced by the matching program before taking adverse action against an individual, if required; and
+- <span id="pt-8_smt.e"></span> e. Provide individuals with notice and an opportunity to contest the findings before taking adverse action against an individual.
 
 ---
 

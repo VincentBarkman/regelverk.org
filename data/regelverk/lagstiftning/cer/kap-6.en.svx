@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0006.03#cpt_VI'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022L2557#cpt_VI'
 'sites':
   - 'ot'
   - 'fysisk'
@@ -25,29 +25,29 @@
 
 ### Article 21 – Supervision and enforcement
 
-1\. In order to assess the compliance of the entities identified by Member States as critical entities pursuant to Article [6](/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities)(1) with the obligations laid down in [this Directive](/lagstiftning/cer), Member States shall ensure that the competent authorities have the powers and means to:
+1\. In order to assess the compliance of the entities identified by Member States as critical entities pursuant to Article [6](/en/lagstiftning/cer/kap-2#article-6-identification-of-critical-entities)(1) with the obligations laid down in [this Directive](/en/lagstiftning/cer), Member States shall ensure that the competent authorities have the powers and means to:
 
-(a) conduct on-site inspections of the critical infrastructure and the premises that the critical entity uses to provide its essential services, and off-site supervision of measures taken by critical entities in accordance with Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities);
+(a) conduct on-site inspections of the critical infrastructure and the premises that the critical entity uses to provide its essential services, and off-site supervision of measures taken by critical entities in accordance with Article [13](/en/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities);
 
 (b) conduct or order audits in respect of critical entities.
 
-2\. Member States shall ensure that the competent authorities have the powers and means to require, where necessary for the performance of their tasks under [this Directive](/lagstiftning/cer), that the entities under [Directive (EU) 2022/2555](/lagstiftning/nis2) that Member States have identified as critical entities under [this Directive](/lagstiftning/cer) provide, within a reasonable time limit set by those authorities:
+2\. Member States shall ensure that the competent authorities have the powers and means to require, where necessary for the performance of their tasks under [this Directive](/en/lagstiftning/cer), that the entities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) that Member States have identified as critical entities under [this Directive](/en/lagstiftning/cer) provide, within a reasonable time limit set by those authorities:
 
-(a) the information necessary to assess whether the measures taken by those entities to ensure their resilience meet the requirements set out in Article [13](/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities);
+(a) the information necessary to assess whether the measures taken by those entities to ensure their resilience meet the requirements set out in Article [13](/en/lagstiftning/cer/kap-3#article-13-resilience-measures-of-critical-entities);
 
 (b) evidence of the effective implementation of those measures, including the results of an audit conducted by an independent and qualified auditor selected by that entity and conducted at its expense.
 
 When requiring that information, the competent authorities shall state the purpose of the requirement and specify the information required.
 
-3\. Without prejudice to the possibility to impose penalties in accordance with Article [22](#article-22-penalties), the competent authorities may, following the supervisory actions referred to in paragraph 1 of [this Article](#article-21-supervision-and-enforcement) or the assessment of the information referred to in paragraph 2 of [this Article](#article-21-supervision-and-enforcement), order the critical entities concerned to take the necessary and proportionate measures to remedy any identified infringement of [this Directive](/lagstiftning/cer), within a reasonable time limit set by those authorities, and to provide those authorities with information on the measures taken. Those orders shall take into account, in particular, the seriousness of the infringement.
+3\. Without prejudice to the possibility to impose penalties in accordance with Article [22](#article-22-penalties), the competent authorities may, following the supervisory actions referred to in paragraph 1 of [this Article](#article-21-supervision-and-enforcement) or the assessment of the information referred to in paragraph 2 of [this Article](#article-21-supervision-and-enforcement), order the critical entities concerned to take the necessary and proportionate measures to remedy any identified infringement of [this Directive](/en/lagstiftning/cer), within a reasonable time limit set by those authorities, and to provide those authorities with information on the measures taken. Those orders shall take into account, in particular, the seriousness of the infringement.
 
 4\. Member State shall ensure that the powers provided for in paragraphs 1, 2 and 3 can only be exercised subject to appropriate safeguards. Those safeguards shall guarantee, in particular, that such exercise takes place in an objective, transparent and proportionate manner, and that the rights and legitimate interests of the critical entities affected, such as the protection of trade and business secrets, are duly safeguarded, including the right to be heard, the right of defence and the right to an effective remedy before an independent court.
 
-5\. Member States shall ensure that, where a competent authority under [this Directive](/lagstiftning/cer) assesses the compliance of a critical entity pursuant to [this Article](#article-21-supervision-and-enforcement), that competent authority informs the competent authorities of the Member States concerned under [Directive (EU) 2022/2555](/lagstiftning/nis2). For that purpose, Member States shall ensure that competent authorities under [this Directive](/lagstiftning/cer) can request the competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2) to exercise their supervisory and enforcement powers in relation to an entity under that Directive that has been identified as a critical entity under [this Directive](/lagstiftning/cer). For that purpose, Member States shall ensure that competent authorities under [this Directive](/lagstiftning/cer) cooperate and exchange information with the competent authorities under [Directive (EU) 2022/2555](/lagstiftning/nis2).
+5\. Member States shall ensure that, where a competent authority under [this Directive](/en/lagstiftning/cer) assesses the compliance of a critical entity pursuant to [this Article](#article-21-supervision-and-enforcement), that competent authority informs the competent authorities of the Member States concerned under [Directive (EU) 2022/2555](/en/lagstiftning/nis2). For that purpose, Member States shall ensure that competent authorities under [this Directive](/en/lagstiftning/cer) can request the competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2) to exercise their supervisory and enforcement powers in relation to an entity under that Directive that has been identified as a critical entity under [this Directive](/en/lagstiftning/cer). For that purpose, Member States shall ensure that competent authorities under [this Directive](/en/lagstiftning/cer) cooperate and exchange information with the competent authorities under [Directive (EU) 2022/2555](/en/lagstiftning/nis2).
 
 ### Article 22 – Penalties
 
-Member States shall lay down the rules on penalties applicable to infringements of the national measures adopted pursuant to [this Directive](/lagstiftning/cer) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 17 October 2024, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
+Member States shall lay down the rules on penalties applicable to infringements of the national measures adopted pursuant to [this Directive](/en/lagstiftning/cer) and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 17 October 2024, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
 <!-- scan-laws:end -->
 
 ## Interpretation

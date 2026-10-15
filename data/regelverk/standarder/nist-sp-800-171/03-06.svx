@@ -23,41 +23,41 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Kravtext (engelskt original)
 
-### 03.06.01 – Incident Handling
+### <span id="SP_800_171_03.06.01"></span>03.06.01 – Incident Handling
 
 Implement an incident-handling capability that is consistent with the incident response plan and includes preparation, detection and analysis, containment, eradication, and recovery.
 
-### 03.06.02 – Incident Monitoring, Reporting, and Response Assistance
+### <span id="SP_800_171_03.06.02"></span>03.06.02 – Incident Monitoring, Reporting, and Response Assistance
 
-- SR-03.06.02.a Track and document system security incidents.
-- SR-03.06.02.b Report suspected incidents to the organizational incident response capability within [organization-defined time period].
-- SR-03.06.02.c Report incident information to [organization-defined authorities].
-- SR-03.06.02.d Provide an incident response support resource that offers advice and assistance to system users on handling and reporting incidents.
+- <span id="SR-03.06.02.a"></span> SR-03.06.02.a Track and document system security incidents.
+- <span id="SR-03.06.02.b"></span> SR-03.06.02.b Report suspected incidents to the organizational incident response capability within [organization-defined time period].
+- <span id="SR-03.06.02.c"></span> SR-03.06.02.c Report incident information to [organization-defined authorities].
+- <span id="SR-03.06.02.d"></span> SR-03.06.02.d Provide an incident response support resource that offers advice and assistance to system users on handling and reporting incidents.
 
-### 03.06.03 – Incident Response Testing
+### <span id="SP_800_171_03.06.03"></span>03.06.03 – Incident Response Testing
 
 Test the effectiveness of the incident response capability [organization-defined frequency].
 
-### 03.06.04 – Incident Response Training
+### <span id="SP_800_171_03.06.04"></span>03.06.04 – Incident Response Training
 
-- SR-03.06.04.a Provide incident response training to system users consistent with assigned roles and responsibilities:
-  - SR-03.06.04.a.01 Within [organization-defined time period] of assuming an incident response role or responsibility or acquiring system access,
-  - SR-03.06.04.a.02 When required by system changes, and
-  - SR-03.06.04.a.03 [organization-defined frequency] thereafter.
-- SR-03.06.04.b Review and update incident response training content [organization-defined frequency] and following [organization-defined events].
+- <span id="SR-03.06.04.a"></span> SR-03.06.04.a Provide incident response training to system users consistent with assigned roles and responsibilities:
+  - <span id="SR-03.06.04.a.01"></span> SR-03.06.04.a.01 Within [organization-defined time period] of assuming an incident response role or responsibility or acquiring system access,
+  - <span id="SR-03.06.04.a.02"></span> SR-03.06.04.a.02 When required by system changes, and
+  - <span id="SR-03.06.04.a.03"></span> SR-03.06.04.a.03 [organization-defined frequency] thereafter.
+- <span id="SR-03.06.04.b"></span> SR-03.06.04.b Review and update incident response training content [organization-defined frequency] and following [organization-defined events].
 
-### 03.06.05 – Incident Response Plan
+### <span id="SP_800_171_03.06.05"></span>03.06.05 – Incident Response Plan
 
-- SR-03.06.05.a Develop an incident response plan that:
-  - SR-03.06.05.a.01 Provides the organization with a roadmap for implementing its incident response capability,
-  - SR-03.06.05.a.02 Describes the structure and organization of the incident response capability,
-  - SR-03.06.05.a.03 Provides a high-level approach for how the incident response capability fits into the overall organization,
-  - SR-03.06.05.a.04 Defines reportable incidents,
-  - SR-03.06.05.a.05 Addresses the sharing of incident information, and
-  - SR-03.06.05.a.06 Designates responsibilities to organizational entities, personnel, or roles.
-- SR-03.06.05.b Distribute copies of the incident response plan to designated incident response personnel (identified by name and/or by role) and organizational elements.
-- SR-03.06.05.c Update the incident response plan to address system and organizational changes or problems encountered during plan implementation, execution, or testing.
-- SR-03.06.05.d Protect the incident response plan from unauthorized disclosure.
+- <span id="SR-03.06.05.a"></span> SR-03.06.05.a Develop an incident response plan that:
+  - <span id="SR-03.06.05.a.01"></span> SR-03.06.05.a.01 Provides the organization with a roadmap for implementing its incident response capability,
+  - <span id="SR-03.06.05.a.02"></span> SR-03.06.05.a.02 Describes the structure and organization of the incident response capability,
+  - <span id="SR-03.06.05.a.03"></span> SR-03.06.05.a.03 Provides a high-level approach for how the incident response capability fits into the overall organization,
+  - <span id="SR-03.06.05.a.04"></span> SR-03.06.05.a.04 Defines reportable incidents,
+  - <span id="SR-03.06.05.a.05"></span> SR-03.06.05.a.05 Addresses the sharing of incident information, and
+  - <span id="SR-03.06.05.a.06"></span> SR-03.06.05.a.06 Designates responsibilities to organizational entities, personnel, or roles.
+- <span id="SR-03.06.05.b"></span> SR-03.06.05.b Distribute copies of the incident response plan to designated incident response personnel (identified by name and/or by role) and organizational elements.
+- <span id="SR-03.06.05.c"></span> SR-03.06.05.c Update the incident response plan to address system and organizational changes or problems encountered during plan implementation, execution, or testing.
+- <span id="SR-03.06.05.d"></span> SR-03.06.05.d Protect the incident response plan from unauthorized disclosure.
 
 ---
 

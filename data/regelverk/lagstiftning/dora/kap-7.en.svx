@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0006.03#cpt_VII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554#cpt_VII'
 'sites':
   - 'it'
 ---
@@ -23,11 +23,11 @@
 
 ### Article 46 – Competent authorities
 
-Without prejudice to the provisions on the Oversight Framework for critical ICT third-party service providers referred to in [Chapter V](/lagstiftning/dora/kap-5), Section II, of [this Regulation](/lagstiftning/dora), compliance with [this Regulation](/lagstiftning/dora) shall be ensured by the following competent authorities in accordance with the powers granted by the respective legal acts:
+Without prejudice to the provisions on the Oversight Framework for critical ICT third-party service providers referred to in [Chapter V](/en/lagstiftning/dora/kap-5), Section II, of [this Regulation](/en/lagstiftning/dora), compliance with [this Regulation](/en/lagstiftning/dora) shall be ensured by the following competent authorities in accordance with the powers granted by the respective legal acts:
 
-(a) for credit institutions and for institutions exempted pursuant to [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036), the competent authority designated in accordance with Article [4](/lagstiftning/dora/kap-1#article-4-proportionality-principle) of that Directive, and for credit institutions classified as significant in accordance with Article [6](/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(4) of [Regulation (EU) No 1024/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024), the ECB in accordance with the powers and tasks conferred by that Regulation;
+(a) for credit institutions and for institutions exempted pursuant to [Directive 2013/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036), the competent authority designated in accordance with Article [4](/en/lagstiftning/dora/kap-1#article-4-proportionality-principle) of that Directive, and for credit institutions classified as significant in accordance with Article [6](/en/lagstiftning/dora/kap-2#article-6-ict-risk-management-framework)(4) of [Regulation (EU) No 1024/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1024), the ECB in accordance with the powers and tasks conferred by that Regulation;
 
-(b) for payment institutions, including payment institutions exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), electronic money institutions, including those exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110), and account information service providers as referred to in Article [33](/lagstiftning/dora/kap-5#article-33-tasks-of-the-lead-overseer)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), the competent authority designated in accordance with Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
+(b) for payment institutions, including payment institutions exempted pursuant to [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), electronic money institutions, including those exempted pursuant to [Directive 2009/110/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110), and account information service providers as referred to in Article [33](/en/lagstiftning/dora/kap-5#article-33-tasks-of-the-lead-overseer)(1) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366), the competent authority designated in accordance with Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366) of [Directive (EU) 2015/2366](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366);
 
 (c) for investment firms, the competent authority designated in accordance with Article [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2034) of [Directive (EU) 2019/2034](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2034) of the European Parliament and of the Council (38);
 
@@ -37,7 +37,7 @@ Without prejudice to the provisions on the Oversight Framework for critical ICT 
 
 (f) for central counterparties, the competent authority designated in accordance with Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648) of [Regulation (EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648);
 
-(g) for trading venues and data reporting service providers, the competent authority designated in accordance with Article [67](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065) of [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065), and the competent authority as defined in Article [2](/lagstiftning/dora/kap-1#article-2-scope)(1), point (18), of [Regulation (EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600);
+(g) for trading venues and data reporting service providers, the competent authority designated in accordance with Article [67](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065) of [Directive 2014/65/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065), and the competent authority as defined in Article [2](/en/lagstiftning/dora/kap-1#article-2-scope)(1), point (18), of [Regulation (EU) No 600/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600);
 
 (h) for trade repositories, the competent authority designated in accordance with Article [22](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648) of [Regulation (EU) No 648/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648);
 
@@ -57,23 +57,23 @@ Without prejudice to the provisions on the Oversight Framework for critical ICT 
 
 (p) for crowdfunding service providers, the competent authority designated in accordance with Article [29](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1503) of [Regulation (EU) 2020/1503](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1503);
 
-(q) for securitisation repositories, the competent authority designated in accordance with Articles [10](/lagstiftning/dora/kap-2#article-10-detection) and [14](/lagstiftning/dora/kap-2#article-14-communication)(1) of [Regulation (EU) 2017/2402](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2402).
+(q) for securitisation repositories, the competent authority designated in accordance with Articles [10](/en/lagstiftning/dora/kap-2#article-10-detection) and [14](/en/lagstiftning/dora/kap-2#article-14-communication)(1) of [Regulation (EU) 2017/2402](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2402).
 
 ### Article 47 – Cooperation with structures and authorities established by Directive (EU) 2022/2555
 
-1\. To foster cooperation and enable supervisory exchanges between the competent authorities designated under [this Regulation](/lagstiftning/dora) and the Cooperation Group established by Article [14](/lagstiftning/nis2/kap-3#artikel-14-samarbetsgrupp) of [Directive (EU) 2022/2555](/lagstiftning/nis2), the ESAs and the competent authorities may participate in the activities of the Cooperation Group for matters that concern their supervisory activities in relation to financial entities. The ESAs and the competent authorities may request to be invited to participate in the activities of the Cooperation Group for matters in relation to essential or important entities subject to [Directive (EU) 2022/2555](/lagstiftning/nis2) that have also been designated as critical ICT third-party service providers pursuant to Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers) of [this Regulation](/lagstiftning/dora).
+1\. To foster cooperation and enable supervisory exchanges between the competent authorities designated under [this Regulation](/en/lagstiftning/dora) and the Cooperation Group established by Article [14](/en/lagstiftning/nis2/kap-3#article-14-cooperation-group) of [Directive (EU) 2022/2555](/en/lagstiftning/nis2), the ESAs and the competent authorities may participate in the activities of the Cooperation Group for matters that concern their supervisory activities in relation to financial entities. The ESAs and the competent authorities may request to be invited to participate in the activities of the Cooperation Group for matters in relation to essential or important entities subject to [Directive (EU) 2022/2555](/en/lagstiftning/nis2) that have also been designated as critical ICT third-party service providers pursuant to Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers) of [this Regulation](/en/lagstiftning/dora).
 
-2\. Where appropriate, competent authorities may consult and share information with the single points of contact and the CSIRTs designated or established in accordance with [Directive (EU) 2022/2555](/lagstiftning/nis2).
+2\. Where appropriate, competent authorities may consult and share information with the single points of contact and the CSIRTs designated or established in accordance with [Directive (EU) 2022/2555](/en/lagstiftning/nis2).
 
-3\. Where appropriate, competent authorities may request any relevant technical advice and assistance from the competent authorities designated or established in accordance with [Directive (EU) 2022/2555](/lagstiftning/nis2) and establish cooperation arrangements to allow effective and fast-response coordination mechanisms to be set up.
+3\. Where appropriate, competent authorities may request any relevant technical advice and assistance from the competent authorities designated or established in accordance with [Directive (EU) 2022/2555](/en/lagstiftning/nis2) and establish cooperation arrangements to allow effective and fast-response coordination mechanisms to be set up.
 
-4\. The arrangements referred to in paragraph 3 of [this Article](#article-47-cooperation-with-structures-and-authorities-established-by-directive-eu-2022-2555) may, inter alia, specify the procedures for the coordination of supervisory and oversight activities in relation to essential or important entities subject to [Directive (EU) 2022/2555](/lagstiftning/nis2) that have been designated as critical ICT third-party service providers pursuant to Article [31](/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers) of [this Regulation](/lagstiftning/dora), including for the conduct, in accordance with national law, of investigations and on-site inspections, as well as for mechanisms for the exchange of information between the competent authorities under [this Regulation](/lagstiftning/dora) and the competent authorities designated or established in accordance with that Directive which includes access to information requested by the latter authorities.
+4\. The arrangements referred to in paragraph 3 of [this Article](#article-47-cooperation-with-structures-and-authorities-established-by-directive-eu-2022-2555) may, inter alia, specify the procedures for the coordination of supervisory and oversight activities in relation to essential or important entities subject to [Directive (EU) 2022/2555](/en/lagstiftning/nis2) that have been designated as critical ICT third-party service providers pursuant to Article [31](/en/lagstiftning/dora/kap-5#article-31-designation-of-critical-ict-third-party-service-providers) of [this Regulation](/en/lagstiftning/dora), including for the conduct, in accordance with national law, of investigations and on-site inspections, as well as for mechanisms for the exchange of information between the competent authorities under [this Regulation](/en/lagstiftning/dora) and the competent authorities designated or established in accordance with that Directive which includes access to information requested by the latter authorities.
 
 ### Article 48 – Cooperation between authorities
 
 1\. Competent authorities shall cooperate closely among themselves and, where applicable, with the Lead Overseer.
 
-2\. Competent authorities and the Lead Overseer shall, in a timely manner, mutually exchange all relevant information concerning critical ICT third-party service providers which is necessary for them to carry out their respective duties under [this Regulation](/lagstiftning/dora), in particular in relation to identified risks, approaches and measures taken as part of the Lead Overseer’s oversight tasks.
+2\. Competent authorities and the Lead Overseer shall, in a timely manner, mutually exchange all relevant information concerning critical ICT third-party service providers which is necessary for them to carry out their respective duties under [this Regulation](/en/lagstiftning/dora), in particular in relation to identified risks, approaches and measures taken as part of the Lead Overseer’s oversight tasks.
 
 ### Article 49 – Financial cross-sector exercises, communication and cooperation
 
@@ -83,11 +83,11 @@ They may develop crisis management and contingency exercises involving cyber-att
 
 Those exercises may, as appropriate, also test the financial sector’s dependencies on other economic sectors.
 
-2\. Competent authorities, ESAs and the ECB shall cooperate closely with each other and exchange information to carry out their duties pursuant to Articles [47](#article-47-cooperation-with-structures-and-authorities-established-by-directive-eu-2022-2555) to 54. They shall closely coordinate their supervision in order to identify and remedy breaches of [this Regulation](/lagstiftning/dora), develop and promote best practices, facilitate collaboration, foster consistency of interpretation and provide cross-jurisdictional assessments in the event of any disagreements.
+2\. Competent authorities, ESAs and the ECB shall cooperate closely with each other and exchange information to carry out their duties pursuant to Articles [47](#article-47-cooperation-with-structures-and-authorities-established-by-directive-eu-2022-2555) to 54. They shall closely coordinate their supervision in order to identify and remedy breaches of [this Regulation](/en/lagstiftning/dora), develop and promote best practices, facilitate collaboration, foster consistency of interpretation and provide cross-jurisdictional assessments in the event of any disagreements.
 
 ### Article 50 – Administrative penalties and remedial measures
 
-1\. Competent authorities shall have all supervisory, investigatory and sanctioning powers necessary to fulfil their duties under [this Regulation](/lagstiftning/dora).
+1\. Competent authorities shall have all supervisory, investigatory and sanctioning powers necessary to fulfil their duties under [this Regulation](/en/lagstiftning/dora).
 
 2\. The powers referred to in paragraph 1 shall include at least the following powers to:
 
@@ -99,21 +99,21 @@ Those exercises may, as appropriate, also test the financial sector’s dependen
 
 (ii) interviewing any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;
 
-(c) require corrective and remedial measures for breaches of the requirements of [this Regulation](/lagstiftning/dora).
+(c) require corrective and remedial measures for breaches of the requirements of [this Regulation](/en/lagstiftning/dora).
 
-3\. Without prejudice to the right of Member States to impose criminal penalties in accordance with Article [52](#article-52-criminal-penalties), Member States shall lay down rules establishing appropriate administrative penalties and remedial measures for breaches of [this Regulation](/lagstiftning/dora) and shall ensure their effective implementation.
+3\. Without prejudice to the right of Member States to impose criminal penalties in accordance with Article [52](#article-52-criminal-penalties), Member States shall lay down rules establishing appropriate administrative penalties and remedial measures for breaches of [this Regulation](/en/lagstiftning/dora) and shall ensure their effective implementation.
 
 Those penalties and measures shall be effective, proportionate and dissuasive.
 
-4\. Member States shall confer on competent authorities the power to apply at least the following administrative penalties or remedial measures for breaches of [this Regulation](/lagstiftning/dora):
+4\. Member States shall confer on competent authorities the power to apply at least the following administrative penalties or remedial measures for breaches of [this Regulation](/en/lagstiftning/dora):
 
-(a) issue an order requiring the natural or legal person to cease conduct that is in breach of [this Regulation](/lagstiftning/dora) and to desist from a repetition of that conduct;
+(a) issue an order requiring the natural or legal person to cease conduct that is in breach of [this Regulation](/en/lagstiftning/dora) and to desist from a repetition of that conduct;
 
-(b) require the temporary or permanent cessation of any practice or conduct that the competent authority considers to be contrary to the provisions of [this Regulation](/lagstiftning/dora) and prevent repetition of that practice or conduct;
+(b) require the temporary or permanent cessation of any practice or conduct that the competent authority considers to be contrary to the provisions of [this Regulation](/en/lagstiftning/dora) and prevent repetition of that practice or conduct;
 
 (c) adopt any type of measure, including of pecuniary nature, to ensure that financial entities continue to comply with legal requirements;
 
-(d) require, insofar as permitted by national law, existing data traffic records held by a telecommunication operator, where there is a reasonable suspicion of a breach of [this Regulation](/lagstiftning/dora) and where such records may be relevant to an investigation into breaches of [this Regulation](/lagstiftning/dora); and
+(d) require, insofar as permitted by national law, existing data traffic records held by a telecommunication operator, where there is a reasonable suspicion of a breach of [this Regulation](/en/lagstiftning/dora) and where such records may be relevant to an investigation into breaches of [this Regulation](/en/lagstiftning/dora); and
 
 (e) issue public notices, including public statements indicating the identity of the natural or legal person and the nature of the breach.
 
@@ -153,11 +153,11 @@ Those penalties and measures shall be effective, proportionate and dissuasive.
 
 1\. Member States may decide not to lay down rules for administrative penalties or remedial measures for breaches that are subject to criminal penalties under their national law.
 
-2\. Where Member States have chosen to lay down criminal penalties for breaches of [this Regulation](/lagstiftning/dora), they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial, prosecuting, or criminal justice authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for breaches of [this Regulation](/lagstiftning/dora), and to provide the same information to other competent authorities, as well as EBA, ESMA or EIOPA to fulfil their obligations to cooperate for the purposes of [this Regulation](/lagstiftning/dora).
+2\. Where Member States have chosen to lay down criminal penalties for breaches of [this Regulation](/en/lagstiftning/dora), they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial, prosecuting, or criminal justice authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for breaches of [this Regulation](/en/lagstiftning/dora), and to provide the same information to other competent authorities, as well as EBA, ESMA or EIOPA to fulfil their obligations to cooperate for the purposes of [this Regulation](/en/lagstiftning/dora).
 
 ### Article 53 – Notification duties
 
-Member States shall notify the laws, regulations and administrative provisions implementing [this Chapter](/lagstiftning/dora/kap-7), including any relevant criminal law provisions, to the Commission, ESMA, the EBA and EIOPA by 17 January 2025. Member States shall notify the Commission, ESMA, the EBA and EIOPA without undue delay of any subsequent amendments thereto.
+Member States shall notify the laws, regulations and administrative provisions implementing [this Chapter](/en/lagstiftning/dora/kap-7), including any relevant criminal law provisions, to the Commission, ESMA, the EBA and EIOPA by 17 January 2025. Member States shall notify the Commission, ESMA, the EBA and EIOPA without undue delay of any subsequent amendments thereto.
 
 ### Article 54 – Publication of administrative penalties
 
@@ -181,17 +181,17 @@ Member States shall notify the laws, regulations and administrative provisions i
 
 ### Article 55 – Professional secrecy
 
-1\. Any confidential information received, exchanged or transmitted pursuant to [this Regulation](/lagstiftning/dora) shall be subject to the conditions of professional secrecy laid down in paragraph 2.
+1\. Any confidential information received, exchanged or transmitted pursuant to [this Regulation](/en/lagstiftning/dora) shall be subject to the conditions of professional secrecy laid down in paragraph 2.
 
-2\. The obligation of professional secrecy applies to all persons who work, or who have worked, for the competent authorities pursuant to [this Regulation](/lagstiftning/dora), or for any authority or market undertaking or natural or legal person to whom those competent authorities have delegated their powers, including auditors and experts contracted by them.
+2\. The obligation of professional secrecy applies to all persons who work, or who have worked, for the competent authorities pursuant to [this Regulation](/en/lagstiftning/dora), or for any authority or market undertaking or natural or legal person to whom those competent authorities have delegated their powers, including auditors and experts contracted by them.
 
-3\. Information covered by professional secrecy, including the exchange of information among competent authorities under [this Regulation](/lagstiftning/dora) and competent authorities designated or established in accordance with [Directive (EU) 2022/2555](/lagstiftning/nis2), shall not be disclosed to any other person or authority except by virtue of provisions laid down by Union or national law;
+3\. Information covered by professional secrecy, including the exchange of information among competent authorities under [this Regulation](/en/lagstiftning/dora) and competent authorities designated or established in accordance with [Directive (EU) 2022/2555](/en/lagstiftning/nis2), shall not be disclosed to any other person or authority except by virtue of provisions laid down by Union or national law;
 
-4\. All information exchanged between the competent authorities pursuant to [this Regulation](/lagstiftning/dora) that concerns business or operational conditions and other economic or personal affairs shall be considered confidential and shall be subject to the requirements of professional secrecy, except where the competent authority states, at the time of communication, that such information may be disclosed or where such disclosure is necessary for legal proceedings.
+4\. All information exchanged between the competent authorities pursuant to [this Regulation](/en/lagstiftning/dora) that concerns business or operational conditions and other economic or personal affairs shall be considered confidential and shall be subject to the requirements of professional secrecy, except where the competent authority states, at the time of communication, that such information may be disclosed or where such disclosure is necessary for legal proceedings.
 
 ### Article 56 – Data Protection
 
-1\. The ESAs and the competent authorities shall be allowed to process personal data only where necessary for the purpose of carrying out their respective obligations and duties pursuant to [this Regulation](/lagstiftning/dora), in particular for investigation, inspection, request for information, communication, publication, evaluation, verification, assessment and drafting of oversight plans. The personal data shall be processed in accordance with [Regulation (EU) 2016/679](/lagstiftning/gdpr) or [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725), whichever is applicable.
+1\. The ESAs and the competent authorities shall be allowed to process personal data only where necessary for the purpose of carrying out their respective obligations and duties pursuant to [this Regulation](/en/lagstiftning/dora), in particular for investigation, inspection, request for information, communication, publication, evaluation, verification, assessment and drafting of oversight plans. The personal data shall be processed in accordance with [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) or [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725), whichever is applicable.
 
 2\. Except where otherwise provided in other sectoral acts, the personal data referred to in paragraph 1 shall be retained until the discharge of the applicable supervisory duties and in any case for a maximum period of 15 years, except in the event of pending court proceedings requiring further retention of such data.
 <!-- scan-laws:end -->

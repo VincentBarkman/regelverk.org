@@ -10,7 +10,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2023-06-29'
@@ -20,19 +20,19 @@
 'sites':
   - 'arbetsmiljo'
   - 'ot'
-'url': 'http://publications.europa.eu/resource/cellar/51ed7804-1617-11ee-806b-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter I – GENERAL PROVISIONS](/lagstiftning/maskinforordningen/kap-1) · Articles 1–9
-- [Chapter II – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/maskinforordningen/kap-2) · Articles 10–19
-- [Chapter III – CONFORMITY OF PRODUCTS WITHIN THE SCOPE OF THIS REGULATION](/lagstiftning/maskinforordningen/kap-3) · Articles 20–24
-- [Chapter IV – CONFORMITY ASSESSMENT](/lagstiftning/maskinforordningen/kap-4)
-- [Chapter V – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/maskinforordningen/kap-5) · Articles 26–42
-- [Chapter VI – UNION MARKET SURVEILLANCE AND UNION SAFEGUARD PROCEDURES](/lagstiftning/maskinforordningen/kap-6) · Articles 43–46
-- [Chapter VII – DELEGATED POWERS AND COMMITTEE PROCEDURE](/lagstiftning/maskinforordningen/kap-7) · Articles 47–48
-- [Chapter VIII – CONFIDENTIALITY AND PENALTIES](/lagstiftning/maskinforordningen/kap-8) · Articles 49–50
-- [Chapter IX – TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/maskinforordningen/kap-9) · Articles 51–54
+- [Chapter I – GENERAL PROVISIONS](/en/lagstiftning/maskinforordningen/kap-1) · Articles 1–9
+- [Chapter II – OBLIGATIONS OF ECONOMIC OPERATORS](/en/lagstiftning/maskinforordningen/kap-2) · Articles 10–19
+- [Chapter III – CONFORMITY OF PRODUCTS WITHIN THE SCOPE OF THIS REGULATION](/en/lagstiftning/maskinforordningen/kap-3) · Articles 20–24
+- [Chapter IV – CONFORMITY ASSESSMENT](/en/lagstiftning/maskinforordningen/kap-4)
+- [Chapter V – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/en/lagstiftning/maskinforordningen/kap-5) · Articles 26–42
+- [Chapter VI – UNION MARKET SURVEILLANCE AND UNION SAFEGUARD PROCEDURES](/en/lagstiftning/maskinforordningen/kap-6) · Articles 43–46
+- [Chapter VII – DELEGATED POWERS AND COMMITTEE PROCEDURE](/en/lagstiftning/maskinforordningen/kap-7) · Articles 47–48
+- [Chapter VIII – CONFIDENTIALITY AND PENALTIES](/en/lagstiftning/maskinforordningen/kap-8) · Articles 49–50
+- [Chapter IX – TRANSITIONAL AND FINAL PROVISIONS](/en/lagstiftning/maskinforordningen/kap-9) · Articles 51–54
 <!-- scan-laws:end -->

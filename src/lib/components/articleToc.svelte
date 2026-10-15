@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { replaceState } from '$app/navigation';
-	import { resolve } from '$app/paths';
+	import { SvelteURL } from 'svelte/reactivity';
 	import { fade } from 'svelte/transition';
 	import * as m from '#lib/paraglide/messages.js';
 	import { enhanceCodeBlocks } from '#lib/codeBlocks.js';
@@ -46,8 +46,11 @@
 			const a = (e.target as Element).closest('a');
 			if (a && !a.classList.contains('anchor')) return;
 			e.preventDefault();
-			void navigator.clipboard?.writeText(new URL(`#${h.id}`, location.href).href);
-			replaceState(resolve(`#${h.id}`), {});
+			const url = new SvelteURL(location.href);
+			url.hash = h.id;
+			void navigator.clipboard?.writeText(url.href);
+			// eslint-disable-next-line svelte/no-navigation-without-resolve -- hash-only update on the current page, not a route
+			replaceState(url, {});
 			jump(h.id);
 		};
 		article.addEventListener('click', onHeadingClick);

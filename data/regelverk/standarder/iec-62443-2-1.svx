@@ -23,4 +23,9 @@ published: 2024-08-07
 Del 2-1 anger krav på det säkerhetsprogram en driftägare ska ha för sin IACS-miljö. Andra utgåvan (2024) strukturerar kraven i SPE-element och inför en mognadsmodell för utvärdering.
 
 Officiell källa: [IEC 62443-2-1:2024](https://webstore.iec.ch/en/publication/62883).
+
+## Relaterade regelverk
+
+- [CRA-förordningen](/lagstiftning/cra)
+- [NIS2-direktivet](/lagstiftning/nis2)
 <!-- scan-standards:end -->

@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0006.03#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0943#cpt_V'
 'sites':
   - 'el'
 ---
@@ -43,11 +43,11 @@
 
 1\. The ENTSO for Electricity shall:
 
-(a) develop network codes in the areas set out in Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1) and (2) with a view to achieving the objectives set out in Article [28](#article-28-european-network-of-transmission-system-operators-for-electricity);
+(a) develop network codes in the areas set out in Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes)(1) and (2) with a view to achieving the objectives set out in Article [28](#article-28-european-network-of-transmission-system-operators-for-electricity);
 
 (b) adopt and publish a non-binding Union-wide ten-year network development plan, (‘Union-wide network development plan’), biennially;
 
-(c) prepare and adopt proposals related to the European resource adequacy assessment pursuant to Article [23](/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment) and proposals for the technical specifications for cross-border participation in capacity mechanisms pursuant to Article [26](/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(11);
+(c) prepare and adopt proposals related to the European resource adequacy assessment pursuant to Article [23](/en/lagstiftning/elmarknadsforordningen/kap-4#article-23-european-resource-adequacy-assessment) and proposals for the technical specifications for cross-border participation in capacity mechanisms pursuant to Article [26](/en/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(11);
 
 (d) adopt recommendations relating to the coordination of technical cooperation between Union and third-country transmission system operators;
 
@@ -71,11 +71,11 @@
 
 (j) adopt an annual work programme;
 
-(k) contribute to the establishment of interoperability requirements and non-discriminatory and transparent procedures for accessing data as provided for in Article [24](/lagstiftning/elmarknadsdirektivet/kap-3#artikel-24-driftskompatibilitetskrav-och-förfaranden-för-tillgång-till-uppgifter) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet);
+(k) contribute to the establishment of interoperability requirements and non-discriminatory and transparent procedures for accessing data as provided for in Article [24](/en/lagstiftning/elmarknadsdirektivet/kap-3#article-24-interoperability-requirements-and-procedures-for-access-to-data) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet);
 
 (l) adopt an annual report;
 
-(m) carry out and adopt seasonal adequacy assessments pursuant to Article [9](/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)(2) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
+(m) carry out and adopt seasonal adequacy assessments pursuant to Article [9](/en/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)(2) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
 
 (n) promote cyber security and data protection in cooperation with relevant authorities and regulated entities;
 
@@ -89,7 +89,7 @@
 
 5\. The ENTSO for Electricity shall provide ACER with the information that ACER requires to fulfil its tasks pursuant to Article [32](#article-32-monitoring-by-acer)(1). In order to enable the ENTSO for Electricity to meet that requirement, transmission system operators shall provide the ENTSO for Electricity with the requisite information.
 
-6\. Upon request of the Commission, the ENTSO for Electricity shall give its views to the Commission on the adoption of the guidelines as laid down in Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines).
+6\. Upon request of the Commission, the ENTSO for Electricity shall give its views to the Commission on the adoption of the guidelines as laid down in Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines).
 
 ### Article 31 – Consultations
 
@@ -103,9 +103,9 @@
 
 1\. ACER shall monitor the execution of the tasks of the ENTSO for Electricity referred to in Article [30](#article-30-tasks-of-the-entso-for-electricity)(1), (2) and (3) and report its findings to the Commission.
 
-ACER shall monitor the implementation by the ENTSO for Electricity of network codes developed under Article [59](/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes). Where the ENTSO for Electricity has failed to implement such network codes, ACER shall request the ENTSO for Electricity to provide a duly reasoned explanation as to why it has failed to do so. ACER shall inform the Commission of that explanation and provide its opinion thereon.
+ACER shall monitor the implementation by the ENTSO for Electricity of network codes developed under Article [59](/en/lagstiftning/elmarknadsforordningen/kap-7#article-59-establishment-of-network-codes). Where the ENTSO for Electricity has failed to implement such network codes, ACER shall request the ENTSO for Electricity to provide a duly reasoned explanation as to why it has failed to do so. ACER shall inform the Commission of that explanation and provide its opinion thereon.
 
-ACER shall monitor and analyse the implementation of the network codes and the guidelines adopted by the Commission as laid down in Article [58](/lagstiftning/elmarknadsforordningen/kap-7#article-58-adoption-of-network-codes-and-guidelines)(1), and their effect on the harmonisation of applicable rules aimed at facilitating market integration as well as on non-discrimination, effective competition and the efficient functioning of the market, and report to the Commission.
+ACER shall monitor and analyse the implementation of the network codes and the guidelines adopted by the Commission as laid down in Article [58](/en/lagstiftning/elmarknadsforordningen/kap-7#article-58-adoption-of-network-codes-and-guidelines)(1), and their effect on the harmonisation of applicable rules aimed at facilitating market integration as well as on non-discrimination, effective competition and the efficient functioning of the market, and report to the Commission.
 
 2\. The ENTSO for Electricity shall submit the draft Union-wide network development plan, the draft annual work programme, including the information regarding the consultation process, and the other documents referred to in Article [30](#article-30-tasks-of-the-entso-for-electricity)(1) to ACER for its opinion.
 
@@ -113,7 +113,7 @@ Where it considers that the draft annual work programme or the draft Union-wide 
 
 ### Article 33 – Costs
 
-The costs related to the activities of the ENTSO for Electricity referred to in Articles [28](#article-28-european-network-of-transmission-system-operators-for-electricity) to 32 and 58 to 61 of [this Regulation](/lagstiftning/elmarknadsforordningen), and in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) of [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) of the European Parliament and of the Council (22) shall be borne by the transmission system operators and shall be taken into account in the calculation of tariffs. Regulatory authorities shall approve those costs only if they are reasonable and appropriate.
+The costs related to the activities of the ENTSO for Electricity referred to in Articles [28](#article-28-european-network-of-transmission-system-operators-for-electricity) to 32 and 58 to 61 of [this Regulation](/en/lagstiftning/elmarknadsforordningen), and in Article [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) of [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) of the European Parliament and of the Council (22) shall be borne by the transmission system operators and shall be taken into account in the calculation of tariffs. Regulatory authorities shall approve those costs only if they are reasonable and appropriate.
 
 ### Article 34 – Regional cooperation of transmission system operators
 
@@ -123,13 +123,13 @@ The costs related to the activities of the ENTSO for Electricity referred to in 
 
 3\. For the purposes of achieving the goals set in paragraphs 1 and 2, the geographical area covered by each regional cooperation structure may be established by the Commission, taking into account existing regional cooperation structures. Each Member State may promote cooperation in more than one geographical area.
 
-The Commission is empowered to adopt delegated acts in accordance with Article [68](/lagstiftning/elmarknadsforordningen/kap-8#article-68-exercise-of-the-delegation), supplementing [this Regulation](/lagstiftning/elmarknadsforordningen), establishing the geographical area covered by each regional cooperation structure. For that purpose, the Commission shall consult the regulatory authorities, ACER and the ENTSO for Electricity.
+The Commission is empowered to adopt delegated acts in accordance with Article [68](/en/lagstiftning/elmarknadsforordningen/kap-8#article-68-exercise-of-the-delegation), supplementing [this Regulation](/en/lagstiftning/elmarknadsforordningen), establishing the geographical area covered by each regional cooperation structure. For that purpose, the Commission shall consult the regulatory authorities, ACER and the ENTSO for Electricity.
 
 The delegated acts referred to in this paragraph shall be without prejudice to Article [36](#article-36-geographical-scope-of-regional-coordination-centres).
 
 ### Article 35 – Establishment and mission of regional coordination centres
 
-1\. By 5 July 2020, all transmission system operators of a system operation region shall submit a proposal for the establishment of regional coordination centres to the regulatory authorities concerned in accordance with the criteria set out in [this Chapter](/lagstiftning/elmarknadsforordningen/kap-5).
+1\. By 5 July 2020, all transmission system operators of a system operation region shall submit a proposal for the establishment of regional coordination centres to the regulatory authorities concerned in accordance with the criteria set out in [this Chapter](/en/lagstiftning/elmarknadsforordningen/kap-5).
 
 The regulatory authorities of the system operation region shall review and approve the proposal.
 
@@ -149,13 +149,13 @@ The proposal shall at least include the following elements:
 
 (g) where two regional coordination centres are maintained on a rotational basis in accordance with Article [36](#article-36-geographical-scope-of-regional-coordination-centres)(2), a description of the arrangements to provide clear responsibilities to those regional coordination centres and procedures on the execution of their tasks.
 
-2\. Following approval by regulatory authorities of the proposal in paragraph 1, the regional coordination centres shall replace the regional security coordinators established pursuant to the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) and shall enter into operation by 1 July 2022.
+2\. Following approval by regulatory authorities of the proposal in paragraph 1, the regional coordination centres shall replace the regional security coordinators established pursuant to the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714) and shall enter into operation by 1 July 2022.
 
 3\. Regional coordination centres shall have a legal form referred to in Annex II to [Directive (EU) 2017/1132](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L1132) of the European Parliament and of the Council (23).
 
 4\. In performing their tasks under Union law, regional coordination centres shall act independently of individual national interests and independently of the interests of transmission system operators.
 
-5\. Regional coordination centres shall complement the role of transmission system operators by performing the tasks of regional relevance assigned to them in accordance with Article [37](#article-37-tasks-of-regional-coordination-centres). Transmission system operators shall be responsible for managing electricity flows and ensuring a secure, reliable and efficient electricity system in accordance with point (d) of Article [40](#article-40-consultation-procedure)(1) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+5\. Regional coordination centres shall complement the role of transmission system operators by performing the tasks of regional relevance assigned to them in accordance with Article [37](#article-37-tasks-of-regional-coordination-centres). Transmission system operators shall be responsible for managing electricity flows and ensuring a secure, reliable and efficient electricity system in accordance with point (d) of Article [40](#article-40-consultation-procedure)(1) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet).
 
 ### Article 36 – Geographical scope of regional coordination centres
 
@@ -171,17 +171,17 @@ The proposal shall at least include the following elements:
 
 1\. Each regional coordination centre shall carry out at least all the following tasks of regional relevance in the entire system operation region where it is established:
 
-(a) carrying out the coordinated capacity calculation in accordance with the methodologies developed pursuant to the capacity allocation and congestion management guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(a) carrying out the coordinated capacity calculation in accordance with the methodologies developed pursuant to the capacity allocation and congestion management guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
-(b) carrying out the coordinated security analysis in accordance with the methodologies developed pursuant to the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(b) carrying out the coordinated security analysis in accordance with the methodologies developed pursuant to the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
-(c) creating common grid models in accordance with the methodologies and procedures developed pursuant to the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(c) creating common grid models in accordance with the methodologies and procedures developed pursuant to the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
-(d) supporting the consistency assessment of transmission system operators' defence plans and restoration plans in accordance with the procedure set out in the emergency and restoration network code adopted on the basis of Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(d) supporting the consistency assessment of transmission system operators' defence plans and restoration plans in accordance with the procedure set out in the emergency and restoration network code adopted on the basis of Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(11) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
-(e) carrying out regional week ahead to at least day-ahead system adequacy forecasts and preparation of risk reducing actions in accordance with the methodology set out in Article [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941) and the procedures set out in the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(e) carrying out regional week ahead to at least day-ahead system adequacy forecasts and preparation of risk reducing actions in accordance with the methodology set out in Article [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941) and the procedures set out in the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
-(f) carrying out regional outage planning coordination in accordance with the procedures and methodologies set out in the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
+(f) carrying out regional outage planning coordination in accordance with the procedures and methodologies set out in the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714);
 
 (g) training and certification of staff working for regional coordination centres;
 
@@ -195,23 +195,23 @@ The proposal shall at least include the following elements:
 
 (l) supporting transmission system operators, at their request, in the optimisation of inter-transmission system operators settlements;
 
-(m) carrying out tasks related to the identification of regional electricity crisis scenarios if and to the extent they are delegated to the regional coordination centres pursuant to Article [6](/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
+(m) carrying out tasks related to the identification of regional electricity crisis scenarios if and to the extent they are delegated to the regional coordination centres pursuant to Article [6](/en/lagstiftning/elmarknadsforordningen/kap-2#article-6-balancing-market)(1) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
 
-(n) carrying out tasks related to the seasonal adequacy assessments if and to the extent that they are delegated to the regional coordination centres pursuant to Article [9](/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)(2) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
+(n) carrying out tasks related to the seasonal adequacy assessments if and to the extent that they are delegated to the regional coordination centres pursuant to Article [9](/en/lagstiftning/elmarknadsforordningen/kap-2#article-9-forward-markets)(2) of [Regulation (EU) 2019/941](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0941);
 
-(o) calculating the value for the maximum entry capacity available for the participation of foreign capacity in capacity mechanisms for the purposes of issuing a recommendation pursuant to Article [26](/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(7);
+(o) calculating the value for the maximum entry capacity available for the participation of foreign capacity in capacity mechanisms for the purposes of issuing a recommendation pursuant to Article [26](/en/lagstiftning/elmarknadsforordningen/kap-4#article-26-cross-border-participation-in-capacity-mechanisms)(7);
 
-(p) carrying out tasks related to supporting transmission system operators in the identification of needs for new transmission capacity, for upgrade of existing transmission capacity or their alternatives, to be submitted to the regional groups established pursuant to [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) and included in the ten-year network development plan referred to in Article [51](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-51-nätutveckling-och-befogenhet-att-fatta-investeringsbeslut) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+(p) carrying out tasks related to supporting transmission system operators in the identification of needs for new transmission capacity, for upgrade of existing transmission capacity or their alternatives, to be submitted to the regional groups established pursuant to [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347) and included in the ten-year network development plan referred to in Article [51](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-51-network-development-and-powers-to-make-investment-decisions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet).
 
 The tasks referred to in the first subparagraph are set out in more detail in Annex I.
 
-2\. On the basis of a proposal by the Commission or a Member State, the Committee established by Article [68](/lagstiftning/elmarknadsdirektivet/kap-8#artikel-68-kommittéförfarande) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) shall issue an opinion on the assignment of new advisory tasks to regional coordination centres. Where that Committee issues a favourable opinion on the assignment of new advisory tasks, the regional coordination centres shall carry out those tasks on the basis of a proposal developed by the ENTSO for Electricity and approved by ACER in accordance with the procedure set out in Article [27](/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure).
+2\. On the basis of a proposal by the Commission or a Member State, the Committee established by Article [68](/en/lagstiftning/elmarknadsdirektivet/kap-8#article-68-committee-procedure) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) shall issue an opinion on the assignment of new advisory tasks to regional coordination centres. Where that Committee issues a favourable opinion on the assignment of new advisory tasks, the regional coordination centres shall carry out those tasks on the basis of a proposal developed by the ENTSO for Electricity and approved by ACER in accordance with the procedure set out in Article [27](/en/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure).
 
 3\. Transmission system operators shall provide their regional coordination centres with the information necessary to carry out its tasks.
 
 4\. Regional coordination centres shall provide transmission system operators of the system operation region with all information necessary to implement the coordinated actions and recommendations issued by regional coordination centres.
 
-5\. For the tasks set out in [this Article](#article-37-tasks-of-regional-coordination-centres) and not already covered by the relevant network codes or guidelines, the ENTSO for Electricity shall develop a proposal in accordance with the procedure set out in Article [27](/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure). Regional coordination centres shall carry out those tasks on the basis of the proposal following its approval by ACER.
+5\. For the tasks set out in [this Article](#article-37-tasks-of-regional-coordination-centres) and not already covered by the relevant network codes or guidelines, the ENTSO for Electricity shall develop a proposal in accordance with the procedure set out in Article [27](/en/lagstiftning/elmarknadsforordningen/kap-4#article-27-approval-procedure). Regional coordination centres shall carry out those tasks on the basis of the proposal following its approval by ACER.
 
 ### Article 38 – Cooperation within and between regional coordination centres
 
@@ -245,7 +245,7 @@ The day-to-day coordination within and between regional coordination centres sha
 
 1\. The transmission system operators in a system operation region shall develop a procedure for the adoption and revision of coordinated actions and recommendations issued by regional coordination centres in accordance with the criteria set out in paragraphs 2, 3, and 4.
 
-2\. Regional coordination centres shall issue coordinated actions to the transmission system operators in respect of the tasks referred to in points (a) and (b) of Article [37](#article-37-tasks-of-regional-coordination-centres)(1). Transmission system operators shall implement the coordinated actions except where the implementation of the coordinated actions would result in a violation of the operational security limits defined by each transmission system operator in accordance with the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+2\. Regional coordination centres shall issue coordinated actions to the transmission system operators in respect of the tasks referred to in points (a) and (b) of Article [37](#article-37-tasks-of-regional-coordination-centres)(1). Transmission system operators shall implement the coordinated actions except where the implementation of the coordinated actions would result in a violation of the operational security limits defined by each transmission system operator in accordance with the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
 Where a transmission system operator decides not to implement a coordinated action for the reasons set out in this paragraph, it shall transparently report the detailed reasons to the regional coordination centre and the transmission system operators of the system operation region without undue delay. In such cases, the regional coordination centre shall assess the impact of that decision on the other transmission system operators of the system operation region and may propose a different set of coordinated actions subject to the procedure set out in paragraph 1.
 
@@ -255,9 +255,9 @@ Where a transmission system operator decides to deviate from a recommendation as
 
 4\. The review of coordinated actions or a recommendation shall be triggered at the request of one or more of the transmission system operators of the system operation region. Following the review of the coordinated action or recommendation, regional coordination centres shall confirm or modify the measure.
 
-5\. Where a coordinated action is subject to review in accordance with paragraph 4 of [this Article](#article-42-adoption-and-review-of-coordinated-actions-and-recommendations), the request for review shall not suspend the coordinated action except where the implementation of the coordinated action would result in a violation of the operational security limits defined by each individual transmission system operator in accordance with the system operation guideline adopted on the basis of Article [18](/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
+5\. Where a coordinated action is subject to review in accordance with paragraph 4 of [this Article](#article-42-adoption-and-review-of-coordinated-actions-and-recommendations), the request for review shall not suspend the coordinated action except where the implementation of the coordinated action would result in a violation of the operational security limits defined by each individual transmission system operator in accordance with the system operation guideline adopted on the basis of Article [18](/en/lagstiftning/elmarknadsforordningen/kap-3#article-18-charges-for-access-to-networks-use-of-networks-and-reinforcement)(5) of [Regulation (EC) No 714/2009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0714).
 
-6\. Upon the proposal of a Member State or the Commission and following consultation with the Committee established by Article [68](/lagstiftning/elmarknadsdirektivet/kap-8#artikel-68-kommittéförfarande) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet), the Member States in a system operation region may jointly decide to grant the competence to issue coordinated actions to their regional coordination centre for one or more of the tasks provided for in points (c) to (p) of Article [37](#article-37-tasks-of-regional-coordination-centres)(1) of [this Regulation](/lagstiftning/elmarknadsforordningen).
+6\. Upon the proposal of a Member State or the Commission and following consultation with the Committee established by Article [68](/en/lagstiftning/elmarknadsdirektivet/kap-8#article-68-committee-procedure) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet), the Member States in a system operation region may jointly decide to grant the competence to issue coordinated actions to their regional coordination centre for one or more of the tasks provided for in points (c) to (p) of Article [37](#article-37-tasks-of-regional-coordination-centres)(1) of [this Regulation](/en/lagstiftning/elmarknadsforordningen).
 
 ### Article 43 – Management board of regional coordination centres
 
@@ -291,7 +291,7 @@ Their organisational structure shall specify:
 
 ### Article 45 – Equipment and staff
 
-Regional coordination centres shall be equipped with all human, technical, physical and financial resources necessary for fulfilling their obligations under [this Regulation](/lagstiftning/elmarknadsforordningen) and carrying out their tasks independently and impartially.
+Regional coordination centres shall be equipped with all human, technical, physical and financial resources necessary for fulfilling their obligations under [this Regulation](/en/lagstiftning/elmarknadsforordningen) and carrying out their tasks independently and impartially.
 
 ### Article 46 – Monitoring and reporting
 
@@ -321,15 +321,15 @@ In proposals for the establishment of regional coordination centres in accordanc
 
 The Union-wide network development plan shall, in particular:
 
-(a) build on national investment plans, taking into account regional investment plans as referred to in Article [34](#article-34-regional-cooperation-of-transmission-system-operators)(1) of [this Regulation](/lagstiftning/elmarknadsforordningen), and, if appropriate, Union aspects of network planning as set out in [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347); it shall be subject to a cost-benefit analysis using the methodology established as set out in Article [11](/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load) of that Regulation;
+(a) build on national investment plans, taking into account regional investment plans as referred to in Article [34](#article-34-regional-cooperation-of-transmission-system-operators)(1) of [this Regulation](/en/lagstiftning/elmarknadsforordningen), and, if appropriate, Union aspects of network planning as set out in [Regulation (EU) No 347/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0347); it shall be subject to a cost-benefit analysis using the methodology established as set out in Article [11](/en/lagstiftning/elmarknadsforordningen/kap-2#article-11-value-of-lost-load) of that Regulation;
 
-(b) regarding cross-border interconnections, also build on the reasonable needs of different system users and integrate long-term commitments from investors referred to in Articles [44](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-44-oberoende-systemansvarig) and [51](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-51-nätutveckling-och-befogenhet-att-fatta-investeringsbeslut) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet); and
+(b) regarding cross-border interconnections, also build on the reasonable needs of different system users and integrate long-term commitments from investors referred to in Articles [44](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-44-independent-system-operator) and [51](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-51-network-development-and-powers-to-make-investment-decisions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet); and
 
 (c) identify investment gaps, in particular with respect to cross-border capacities.
 
 In regard to point (c) of the first subparagraph, a review of barriers to the increase of cross-border capacity of the network arising from different approval procedures or practices may be annexed to the Union–wide network development plan.
 
-2\. ACER shall provide an opinion on the national ten-year network development plans to assess their consistency with the Union–wide network development plan. If ACER identifies inconsistencies between a national ten-year network development plan and the Union–wide network development plan, it shall recommend amending the national ten-year network development plan or the Union–wide network development plan as appropriate. If such a national ten-year network development plan is developed in accordance with Article [51](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-51-nätutveckling-och-befogenhet-att-fatta-investeringsbeslut) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet), ACER shall recommend that the regulatory authority amend the national ten-year network development plan in accordance with Article [51](#article-51-certification-of-transmission-system-operators)(7) of that Directive and inform the Commission thereof.
+2\. ACER shall provide an opinion on the national ten-year network development plans to assess their consistency with the Union–wide network development plan. If ACER identifies inconsistencies between a national ten-year network development plan and the Union–wide network development plan, it shall recommend amending the national ten-year network development plan or the Union–wide network development plan as appropriate. If such a national ten-year network development plan is developed in accordance with Article [51](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-51-network-development-and-powers-to-make-investment-decisions) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet), ACER shall recommend that the regulatory authority amend the national ten-year network development plan in accordance with Article [51](#article-51-certification-of-transmission-system-operators)(7) of that Directive and inform the Commission thereof.
 
 ### Article 49 – Inter-transmission system operator compensation mechanism
 
@@ -339,15 +339,15 @@ In regard to point (c) of the first subparagraph, a review of barriers to the in
 
 3\. Compensation payments shall be made on a regular basis with regard to a given period in the past. Ex-post adjustments of compensation paid shall be made where necessary, to reflect costs actually incurred.
 
-The first period for which compensation payments are to be made shall be determined in the guidelines referred to in Article [61](/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines).
+The first period for which compensation payments are to be made shall be determined in the guidelines referred to in Article [61](/en/lagstiftning/elmarknadsforordningen/kap-7#article-61-guidelines).
 
-4\. The Commission shall adopt delegated acts in accordance with Article [68](/lagstiftning/elmarknadsforordningen/kap-8#article-68-exercise-of-the-delegation), supplementing [this Regulation](/lagstiftning/elmarknadsforordningen), establishing the amounts of compensation payments payable.
+4\. The Commission shall adopt delegated acts in accordance with Article [68](/en/lagstiftning/elmarknadsforordningen/kap-8#article-68-exercise-of-the-delegation), supplementing [this Regulation](/en/lagstiftning/elmarknadsforordningen), establishing the amounts of compensation payments payable.
 
 5\. The magnitude of cross-border flows hosted and the magnitude of cross-border flows designated as originating or ending in national transmission systems shall be determined on the basis of the physical flows of electricity actually measured during a given period.
 
 6\. The costs incurred as a result of hosting cross-border flows shall be established on the basis of the forward-looking long-run average incremental costs, taking into account losses, investment in new infrastructure, and an appropriate proportion of the cost of existing infrastructure, in so far as such infrastructure is used for the transmission of cross-border flows, in particular taking into account the need to guarantee security of supply. When establishing the costs incurred, recognised standard-costing methodologies shall be used. Benefits that a network incurs as a result of hosting cross-border flows shall be taken into account to reduce the compensation received.
 
-7\. For the purpose of the inter-transmission system operator compensation mechanism only, where transmission networks of two or more Member States form part, in whole or in part, of a single control block, the control block as a whole shall be considered as forming part of the transmission network of one of the Member States concerned, in order to avoid flows within control blocks being considered as cross-border flows under point (b) of Article [2](/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2) and giving rise to compensation payments under paragraph 1 of [this Article](#article-49-inter-transmission-system-operator-compensation-mechanism). The regulatory authorities of the Member States concerned may decide which of the Member States concerned shall be that of which the control block as a whole is to be considered to form part.
+7\. For the purpose of the inter-transmission system operator compensation mechanism only, where transmission networks of two or more Member States form part, in whole or in part, of a single control block, the control block as a whole shall be considered as forming part of the transmission network of one of the Member States concerned, in order to avoid flows within control blocks being considered as cross-border flows under point (b) of Article [2](/en/lagstiftning/elmarknadsforordningen/kap-1#article-2-definitions)(2) and giving rise to compensation payments under paragraph 1 of [this Article](#article-49-inter-transmission-system-operator-compensation-mechanism). The regulatory authorities of the Member States concerned may decide which of the Member States concerned shall be that of which the control block as a whole is to be considered to form part.
 
 ### Article 50 – Provision of information
 
@@ -367,7 +367,7 @@ The first period for which compensation payments are to be made shall be determi
 
 ### Article 51 – Certification of transmission system operators
 
-1\. The Commission shall examine any notification of a decision on the certification of a transmission system operator as laid down in Article [52](/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)(6) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet) as soon as it is received. Within two months of receipt of such notification, the Commission shall deliver its opinion to the relevant regulatory authority as to its compatibility with Article [43](#article-43-management-board-of-regional-coordination-centres) and either Article [52](/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)(2) or Article [53](/lagstiftning/elmarknadsdirektivet/kap-6#artikel-53-certifiering-i-förhållande-till-tredjeländer) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet).
+1\. The Commission shall examine any notification of a decision on the certification of a transmission system operator as laid down in Article [52](/en/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)(6) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet) as soon as it is received. Within two months of receipt of such notification, the Commission shall deliver its opinion to the relevant regulatory authority as to its compatibility with Article [43](#article-43-management-board-of-regional-coordination-centres) and either Article [52](/en/lagstiftning/elmarknadsforordningen/kap-6#article-52-european-entity-for-distribution-system-operators)(2) or Article [53](/en/lagstiftning/elmarknadsdirektivet/kap-6#article-53-certification-in-relation-to-third-countries) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet).
 
 When preparing the opinion referred to in the first subparagraph, the Commission may request ACER to provide its opinion on the regulatory authority's decision. In such a case, the two-month period referred to in the first subparagraph shall be extended by two further months.
 
@@ -379,7 +379,7 @@ In the absence of an opinion by the Commission within the periods referred to in
 
 4\. Regulatory authorities and the Commission shall protect the confidentiality of commercially sensitive information.
 
-5\. Where the Commission has received notification of the certification of a transmission system operator under Article [43](#article-43-management-board-of-regional-coordination-centres)(9) of [Directive (EU) 2019/944](/lagstiftning/elmarknadsdirektivet), the Commission shall take a decision relating to certification. The regulatory authority shall comply with the Commission decision.
+5\. Where the Commission has received notification of the certification of a transmission system operator under Article [43](#article-43-management-board-of-regional-coordination-centres)(9) of [Directive (EU) 2019/944](/en/lagstiftning/elmarknadsdirektivet), the Commission shall take a decision relating to certification. The regulatory authority shall comply with the Commission decision.
 <!-- scan-laws:end -->
 
 ## Interpretation

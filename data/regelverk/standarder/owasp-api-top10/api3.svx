@@ -53,24 +53,24 @@ API call is triggered:
 
 ```
 POST /graphql
-{'{'{'}'}
+｛
   "operationName":"reportUser",
-  "variables":{'{'{'}'}
+  "variables":｛
     "userId": 313,
     "reason":["offensive behavior"]
-  {'}'},
-  "query":"mutation reportUser($userId: ID!, $reason: String!) {'{'{'}'}
-    reportUser(userId: $userId, reason: $reason) {'{'{'}'}
+  ｝,
+  "query":"mutation reportUser($userId: ID!, $reason: String!) ｛
+    reportUser(userId: $userId, reason: $reason) ｛
       status
       message
-      reportedUser {'{'{'}'}
+      reportedUser ｛
         id
         fullName
         recentLocation
-      {'}'}
-    {'}'}
-  {'}'}"
-{'}'}
+      ｝
+    ｝
+  ｝"
+｝
 ```
 
 The API Endpoint is vulnerable since it allows the authenticated user to have
@@ -87,21 +87,21 @@ As part of this flow, an API call is sent by the host to
 `POST /api/host/approve_booking` with the following legitimate payload:
 
 ```
-{'{'{'}'}
+｛
   "approved": true,
   "comment": "Check-in is after 3pm"
-{'}'}
+｝
 ```
 
 The host replays the legitimate request, and adds the following malicious
 payload:
 
 ```
-{'{'{'}'}
+｛
   "approved": true,
   "comment": "Check-in is after 3pm",
   "total_stay_price": "$1,000,000"
-{'}'}
+｝
 ```
 
 The API endpoint is vulnerable because there is no validation that the host
@@ -117,19 +117,19 @@ change the description of the video using the following API request:
 ```
 PUT /api/video/update_video
 
-{'{'{'}'}
+｛
   "description": "a funny video about cats"
-{'}'}
+｝
 ```
 
 A frustrated user can replay the legitimate request, and add the following
 malicious payload:
 
 ```
-{'{'{'}'}
+｛
   "description": "a funny video about cats",
   "blocked": false
-{'}'}
+｝
 ```
 
 The API endpoint is vulnerable because there is no validation if the user

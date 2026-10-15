@@ -12,10 +12,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03#cpt_V'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R2854#cpt_V'
 'sites':
   - 'it'
 ---
@@ -29,7 +29,7 @@ Where a public sector body, the Commission, the European Central Bank or a Union
 
 ### Article 15 – Exceptional need to use data
 
-1\. An exceptional need to use certain data within the meaning of [this Chapter](/lagstiftning/data-act/kap-5) shall be limited in time and scope and shall be considered to exist only in any of the following circumstances:
+1\. An exceptional need to use certain data within the meaning of [this Chapter](/en/lagstiftning/data-act/kap-5) shall be limited in time and scope and shall be considered to exist only in any of the following circumstances:
 
 (a) where the data requested is necessary to respond to a public emergency and the public sector body, the Commission, the European Central Bank or the Union body is unable to obtain such data by alternative means in a timely and effective manner under equivalent conditions;
 
@@ -45,9 +45,9 @@ Where a public sector body, the Commission, the European Central Bank or a Union
 
 ### Article 16 – Relationship with other obligations to make data available to public sector bodies, the Commission, the European Central Bank and Union bodies
 
-1\. [This Chapter](/lagstiftning/data-act/kap-5) shall not affect the obligations laid down in Union or national law for the purposes of reporting, complying with requests for access to information or demonstrating or verifying compliance with legal obligations.
+1\. [This Chapter](/en/lagstiftning/data-act/kap-5) shall not affect the obligations laid down in Union or national law for the purposes of reporting, complying with requests for access to information or demonstrating or verifying compliance with legal obligations.
 
-2\. [This Chapter](/lagstiftning/data-act/kap-5) shall not apply to public sector bodies, the Commission, the European Central Bank or Union bodies carrying out activities for the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal penalties, or to customs or taxation administration. [This Chapter](/lagstiftning/data-act/kap-5) does not affect applicable Union and national law on the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal or administrative penalties, or for customs or taxation administration.
+2\. [This Chapter](/en/lagstiftning/data-act/kap-5) shall not apply to public sector bodies, the Commission, the European Central Bank or Union bodies carrying out activities for the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal penalties, or to customs or taxation administration. [This Chapter](/en/lagstiftning/data-act/kap-5) does not affect applicable Union and national law on the prevention, investigation, detection or prosecution of criminal or administrative offences or the execution of criminal or administrative penalties, or for customs or taxation administration.
 
 ### Article 17 – Requests for data to be made available
 
@@ -85,29 +85,29 @@ Where a public sector body, the Commission, the European Central Bank or a Union
 
 (e) concern non-personal data, and only if this is demonstrated to be insufficient to respond to the exceptional need to use data, in accordance with Article [15](#article-15-exceptional-need-to-use-data)(1), point (a), request personal data in pseudonymised form and establish the technical and organisational measures that are to be taken to protect the data;
 
-(f) inform the data holder of the penalties that are to be imposed pursuant to Article [40](/lagstiftning/data-act/kap-9#article-40-penalties) by the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) in the event of non-compliance with the request;
+(f) inform the data holder of the penalties that are to be imposed pursuant to Article [40](/en/lagstiftning/data-act/kap-9#article-40-penalties) by the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) in the event of non-compliance with the request;
 
-(g) where the request is made by a public sector body, be transmitted to the data coordinator referred to in Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the requesting public sector body is established, who shall make the request publicly available online without undue delay unless the data coordinator considers that such publication would create a risk for public security;
+(g) where the request is made by a public sector body, be transmitted to the data coordinator referred to in Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the requesting public sector body is established, who shall make the request publicly available online without undue delay unless the data coordinator considers that such publication would create a risk for public security;
 
 (h) where the request is made by the Commission, the European Central Bank or a Union body, be made available online without undue delay;
 
-(i) where personal data are requested, be notified without undue delay to the supervisory authority responsible for monitoring the application of [Regulation (EU) 2016/679](/lagstiftning/gdpr) in the Member State where the public sector body is established.
+(i) where personal data are requested, be notified without undue delay to the supervisory authority responsible for monitoring the application of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) in the Member State where the public sector body is established.
 
 The European Central Bank and Union bodies shall inform the Commission of their requests.
 
-3\. A public sector body, the Commission, the European Central Bank or a Union body shall not make data obtained pursuant to [this Chapter](/lagstiftning/data-act/kap-5) available for reuse as defined in Article [2](/lagstiftning/data-act/kap-1#article-2-definitions), point (2), of [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) or Article [2](/lagstiftning/data-act/kap-1#article-2-definitions), point (11), of [Directive (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1024). [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) and [Directive (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1024) shall not apply to the data held by public sector bodies obtained pursuant to [this Chapter](/lagstiftning/data-act/kap-5).
+3\. A public sector body, the Commission, the European Central Bank or a Union body shall not make data obtained pursuant to [this Chapter](/en/lagstiftning/data-act/kap-5) available for reuse as defined in Article [2](/en/lagstiftning/data-act/kap-1#article-2-definitions), point (2), of [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) or Article [2](/en/lagstiftning/data-act/kap-1#article-2-definitions), point (11), of [Directive (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1024). [Regulation (EU) 2022/868](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868) and [Directive (EU) 2019/1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1024) shall not apply to the data held by public sector bodies obtained pursuant to [this Chapter](/en/lagstiftning/data-act/kap-5).
 
-4\. Paragraph 3 of [this Article](#article-17-requests-for-data-to-be-made-available) does not preclude a public sector body, the Commission, the European Central Bank or a Union body to exchange data obtained pursuant to [this Chapter](/lagstiftning/data-act/kap-5) with another public sector body or the Commission, the European Central Bank or a Union body in view of completing the tasks referred to in Article [15](#article-15-exceptional-need-to-use-data), as specified in the request in accordance with paragraph 1, point (f), of [this Article](#article-17-requests-for-data-to-be-made-available) or to make the data available to a third party where it has delegated, by means of a publicly available agreement, technical inspections or other functions to that third party. The obligations on public sector bodies pursuant to Article [19](#article-19-obligations-of-public-sector-bodies-the-commission-the-european-central-bank-and-union-bodies), in particular safeguards to preserve the confidentiality of trade secrets, shall apply also to such third parties. Where a public sector body, the Commission, the European Central Bank or a Union body transmits or makes data available under this paragraph, it shall notify the data holder from whom the data was received without undue delay.
+4\. Paragraph 3 of [this Article](#article-17-requests-for-data-to-be-made-available) does not preclude a public sector body, the Commission, the European Central Bank or a Union body to exchange data obtained pursuant to [this Chapter](/en/lagstiftning/data-act/kap-5) with another public sector body or the Commission, the European Central Bank or a Union body in view of completing the tasks referred to in Article [15](#article-15-exceptional-need-to-use-data), as specified in the request in accordance with paragraph 1, point (f), of [this Article](#article-17-requests-for-data-to-be-made-available) or to make the data available to a third party where it has delegated, by means of a publicly available agreement, technical inspections or other functions to that third party. The obligations on public sector bodies pursuant to Article [19](#article-19-obligations-of-public-sector-bodies-the-commission-the-european-central-bank-and-union-bodies), in particular safeguards to preserve the confidentiality of trade secrets, shall apply also to such third parties. Where a public sector body, the Commission, the European Central Bank or a Union body transmits or makes data available under this paragraph, it shall notify the data holder from whom the data was received without undue delay.
 
-5\. Where the data holder considers that its rights under [this Chapter](/lagstiftning/data-act/kap-5) have been infringed by the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
+5\. Where the data holder considers that its rights under [this Chapter](/en/lagstiftning/data-act/kap-5) have been infringed by the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
 
 6\. The Commission shall develop a model template for requests pursuant to [this Article](#article-17-requests-for-data-to-be-made-available).
 
 ### Article 18 – Compliance with requests for data
 
-1\. A data holder receiving a request to make data available under [this Chapter](/lagstiftning/data-act/kap-5) shall make the data available to the requesting public sector body, the Commission, the European Central Bank or a Union body without undue delay, taking into account necessary technical, organisational and legal measures.
+1\. A data holder receiving a request to make data available under [this Chapter](/en/lagstiftning/data-act/kap-5) shall make the data available to the requesting public sector body, the Commission, the European Central Bank or a Union body without undue delay, taking into account necessary technical, organisational and legal measures.
 
-2\. Without prejudice to specific needs regarding the availability of data defined in Union or national law, a data holder may decline or seek the modification of a request to make data available under [this Chapter](/lagstiftning/data-act/kap-5) without undue delay and, in any event, no later than five working days after the receipt of a request for the data necessary to respond to a public emergency and without undue delay and, in any event, no later than 30 working days after the receipt of such a request in other cases of an exceptional need, on any of the following grounds:
+2\. Without prejudice to specific needs regarding the availability of data defined in Union or national law, a data holder may decline or seek the modification of a request to make data available under [this Chapter](/en/lagstiftning/data-act/kap-5) without undue delay and, in any event, no later than five working days after the receipt of a request for the data necessary to respond to a public emergency and without undue delay and, in any event, no later than 30 working days after the receipt of such a request in other cases of an exceptional need, on any of the following grounds:
 
 (a) the data holder does not have control over the data requested;
 
@@ -119,7 +119,7 @@ The European Central Bank and Union bodies shall inform the Commission of their 
 
 4\. Where the data requested includes personal data, the data holder shall properly anonymise the data, unless the compliance with the request to make data available to a public sector body, the Commission, the European Central Bank or a Union body requires the disclosure of personal data. In such cases, the data holder shall pseudonymise the data.
 
-5\. Where the public sector body, the Commission, the European Central Bank or the Union body wishes to challenge a data holder’s refusal to provide the data requested, or where the data holder wishes to challenge the request and the matter cannot be resolved by an appropriate modification of the request, the matter shall be referred to the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
+5\. Where the public sector body, the Commission, the European Central Bank or the Union body wishes to challenge a data holder’s refusal to provide the data requested, or where the data holder wishes to challenge the request and the matter cannot be resolved by an appropriate modification of the request, the matter shall be referred to the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
 
 ### Article 19 – Obligations of public sector bodies, the Commission, the European Central Bank and Union bodies
 
@@ -131,7 +131,7 @@ The European Central Bank and Union bodies shall inform the Commission of their 
 
 (c) erase the data as soon as they are no longer necessary for the stated purpose and inform the data holder and individuals or organisations that received the data pursuant to Article [21](#article-21-sharing-of-data-obtained-in-the-context-of-an-exceptional-need-with-research-organisations-or-statistical-bodies)(1) without undue delay that the data have been erased, unless archiving of the data is required in accordance with Union or national law on public access to documents in the context of transparency obligations.
 
-2\. A public sector body, the Commission, the European Central Bank, a Union body or a third party receiving data under [this Chapter](/lagstiftning/data-act/kap-5) shall not:
+2\. A public sector body, the Commission, the European Central Bank, a Union body or a third party receiving data under [this Chapter](/en/lagstiftning/data-act/kap-5) shall not:
 
 (a) use the data or insights about the economic situation, assets and production or operation methods of the data holder to develop or enhance a connected product or related service that competes with the connected product or related service of the data holder;
 
@@ -151,11 +151,11 @@ The European Central Bank and Union bodies shall inform the Commission of their 
 
 4\. Data holders shall not be entitled to compensation for making data available in compliance with a request made pursuant to Article [15](#article-15-exceptional-need-to-use-data)(1), point (b), where the specific task carried out in the public interest is the production of official statistics and where the purchase of data is not allowed by national law. Member States shall notify the Commission where the purchase of data for the production of official statistics is not allowed by national law.
 
-5\. Where the public sector body, the Commission, the European Central Bank or the Union body disagrees with the level of compensation requested by the data holder, they may lodge a complaint with the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
+5\. Where the public sector body, the Commission, the European Central Bank or the Union body disagrees with the level of compensation requested by the data holder, they may lodge a complaint with the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
 
 ### Article 21 – Sharing of data obtained in the context of an exceptional need with research organisations or statistical bodies
 
-1\. A public sector body, the Commission, the European Central Bank or a Union body shall be entitled to share data received under [this Chapter](/lagstiftning/data-act/kap-5):
+1\. A public sector body, the Commission, the European Central Bank or a Union body shall be entitled to share data received under [this Chapter](/en/lagstiftning/data-act/kap-5):
 
 (a) with individuals or organisations in view of carrying out scientific research or analytics compatible with the purpose for which the data was requested; or
 
@@ -167,21 +167,21 @@ The European Central Bank and Union bodies shall inform the Commission of their 
 
 4\. Notwithstanding Article [19](#article-19-obligations-of-public-sector-bodies-the-commission-the-european-central-bank-and-union-bodies)(1), point (c), individuals or organisations receiving the data pursuant to paragraph 1 of [this Article](#article-21-sharing-of-data-obtained-in-the-context-of-an-exceptional-need-with-research-organisations-or-statistical-bodies) may keep the data received for the purpose for which the data was requested for up to six months following erasure of the data by the public sector bodies, the Commission, the European Central Bank and Union bodies.
 
-5\. Where a public sector body, the Commission, the European Central Bank or a Union body intends to transmit or make data available under paragraph 1 of [this Article](#article-21-sharing-of-data-obtained-in-the-context-of-an-exceptional-need-with-research-organisations-or-statistical-bodies), it shall notify without undue delay the data holder from whom the data was received, stating the identity and contact details of the organisation or the individual receiving the data, the purpose of the transmission or making available of the data, the period for which the data is to be used and the technical protection and organisational measures taken, including where personal data or trade secrets are involved. Where the data holder disagrees with the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
+5\. Where a public sector body, the Commission, the European Central Bank or a Union body intends to transmit or make data available under paragraph 1 of [this Article](#article-21-sharing-of-data-obtained-in-the-context-of-an-exceptional-need-with-research-organisations-or-statistical-bodies), it shall notify without undue delay the data holder from whom the data was received, stating the identity and contact details of the organisation or the individual receiving the data, the purpose of the transmission or making available of the data, the period for which the data is to be used and the technical protection and organisational measures taken, including where personal data or trade secrets are involved. Where the data holder disagrees with the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) of the Member State where the data holder is established.
 
 ### Article 22 – Mutual assistance and cross-border cooperation
 
-1\. Public sector bodies, the Commission, the European Central Bank and Union bodies shall cooperate and assist one another, to implement [this Chapter](/lagstiftning/data-act/kap-5) in a consistent manner.
+1\. Public sector bodies, the Commission, the European Central Bank and Union bodies shall cooperate and assist one another, to implement [this Chapter](/en/lagstiftning/data-act/kap-5) in a consistent manner.
 
 2\. Any data exchanged in the context of assistance requested and provided pursuant to paragraph 1 shall not be used in a manner incompatible with the purpose for which they were requested.
 
-3\. Where a public sector body intends to request data from a data holder established in another Member State, it shall first notify the competent authority designated pursuant to Article [37](/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) in that Member State of that intention. This requirement shall also apply to requests by the Commission, the European Central Bank and Union bodies. The request shall be examined by the competent authority of the Member State where the data holder is established.
+3\. Where a public sector body intends to request data from a data holder established in another Member State, it shall first notify the competent authority designated pursuant to Article [37](/en/lagstiftning/data-act/kap-9#article-37-competent-authorities-and-data-coordinators) in that Member State of that intention. This requirement shall also apply to requests by the Commission, the European Central Bank and Union bodies. The request shall be examined by the competent authority of the Member State where the data holder is established.
 
 4\. After having examined the request in light of the requirements laid down in Article [17](#article-17-requests-for-data-to-be-made-available), the relevant competent authority shall, without undue delay, take one of the following actions:
 
 (a) transmit the request to the data holder and, if applicable, advise the requesting public sector body, the Commission, the European Central Bank or the Union body of the need, if any, to cooperate with public sector bodies of the Member State in which the data holder is established with the aim of reducing the administrative burden on the data holder in complying with the request;
 
-(b) reject the request on duly substantiated grounds in accordance with [this Chapter](/lagstiftning/data-act/kap-5).
+(b) reject the request on duly substantiated grounds in accordance with [this Chapter](/en/lagstiftning/data-act/kap-5).
 
 The requesting public sector body, the Commission, the European Central Bank and the Union body shall take into account the advice of and the grounds provided by the relevant competent authority pursuant to the first subparagraph before taking any further action such as resubmitting the request, if applicable.
 <!-- scan-laws:end -->

@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
+	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
@@ -33,31 +34,39 @@
 	const tocItems = $derived(extractHeadings(data.record?.body ?? ''));
 
 	const listHref = (ent: Entity, id: string) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]/[...id]',
-					scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
-				)
-			: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]/[...id]',
+						scope === 'regelverk' ? { entity: ent, id } : { site: scope, entity: ent, id }
+					)
+				: `https://${host}/${ent}/${id.split('/').map(encodeURIComponent).join('/')}`
+		);
 
 	const homeHref = $derived(
-		dev
-			? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
-			: `https://${host}`
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}`
+		)
 	);
 
 	const entityHref = (ent: Entity) =>
-		dev
-			? resolve(
-					'/[[site=site]]/[entity=entity]',
-					scope === 'regelverk' ? { entity: ent } : { site: scope, entity: ent }
-				)
-			: `https://${host}/${ent}`;
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]',
+						scope === 'regelverk' ? { entity: ent } : { site: scope, entity: ent }
+					)
+				: `https://${host}/${ent}`
+		);
 
 	const pageHref = (slug: string) =>
-		dev
-			? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
-			: `https://${host}/wiki/${scope}/pages/${slug}`;
+		localizeHref(
+			dev
+				? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
+				: `https://${host}/wiki/${scope}/pages/${slug}`
+		);
 
 	const refKeys = (r: { id: string; meta: Record<string, unknown> | null }) =>
 		[
@@ -128,9 +137,11 @@
 	);
 
 	const siteHref = (s: SiteScope) =>
-		dev
-			? resolve('/[[site=site]]', s === 'regelverk' ? {} : { site: s })
-			: `https://${siteHost(s)}`;
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]', s === 'regelverk' ? {} : { site: s })
+				: `https://${siteHost(s)}`
+		);
 
 	const scopes = $derived(
 		[
@@ -214,11 +225,13 @@
 	});
 
 	const canonicalUrl = $derived.by(() => {
-		if (!data.ref) return `https://${host}`;
+		if (!data.ref) return localizeHref(`https://${host}`);
 		const idPath = data.ref.id.split('/').map(encodeURIComponent).join('/');
-		return data.ref.entity === 'pages'
-			? `https://${host}/wiki/${data.ref.scope}/pages/${idPath}`
-			: `https://${host}/${data.ref.entity}/${idPath}`;
+		return localizeHref(
+			data.ref.entity === 'pages'
+				? `https://${host}/wiki/${data.ref.scope}/pages/${idPath}`
+				: `https://${host}/${data.ref.entity}/${idPath}`
+		);
 	});
 </script>
 

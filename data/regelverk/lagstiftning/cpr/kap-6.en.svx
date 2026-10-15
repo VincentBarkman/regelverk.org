@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a860ee13-bce2-11ef-91ed-01aa75ed71a1.0006.03#cpt_VI'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R3110#cpt_VI'
 'sites':
   - 'brandskydd'
 ---
@@ -23,13 +23,13 @@
 
 ### Article 42 – Notification
 
-1\. Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party tasks in the assessment and verification of performance, assessment of conformity and of the verification of environmental sustainability calculations for the purposes of [this Regulation](/lagstiftning/cpr).
+1\. Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party tasks in the assessment and verification of performance, assessment of conformity and of the verification of environmental sustainability calculations for the purposes of [this Regulation](/en/lagstiftning/cpr).
 
 2\. Member States shall inform the Commission of their procedures for the assessment and notification of bodies to be authorised to carry out these tasks and the monitoring of notified bodies, and of any changes thereto. The Commission shall make that information publicly available.
 
 ### Article 43 – Notifying authorities
 
-1\. Member States shall designate a notifying authority responsible for setting up and carrying out the necessary procedures for the assessment and notification of the bodies to be authorised to carry out third-party tasks in the assessment and verification process for the purposes of [this Regulation](/lagstiftning/cpr), and the monitoring of notified bodies, including their compliance with requirements laid down in Articles [46](#article-46-requirements-relating-to-notified-bodies) and [48](#article-48-subsidiaries-and-subcontractors-of-notified-bodies).
+1\. Member States shall designate a notifying authority responsible for setting up and carrying out the necessary procedures for the assessment and notification of the bodies to be authorised to carry out third-party tasks in the assessment and verification process for the purposes of [this Regulation](/en/lagstiftning/cpr), and the monitoring of notified bodies, including their compliance with requirements laid down in Articles [46](#article-46-requirements-relating-to-notified-bodies) and [48](#article-48-subsidiaries-and-subcontractors-of-notified-bodies).
 
 2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 is to be carried out by their national accreditation body within the meaning of and in accordance with [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765).
 
@@ -57,7 +57,7 @@
 
 1\. The Commission shall ensure that appropriate coordination and cooperation between the Member States’ national authorities responsible for notification policy and the notifying and designating authorities is put in place and operated in the form of a coordination group of notifying and designating authorities in the field of construction products. That group shall meet on a regular basis and at least annually.
 
-Member States’ national authorities responsible for notification policy and the notifying and designating authorities under [this Regulation](/lagstiftning/cpr) shall participate in the activities of that group.
+Member States’ national authorities responsible for notification policy and the notifying and designating authorities under [this Regulation](/en/lagstiftning/cpr) shall participate in the activities of that group.
 
 2\. The Commission may establish the specific arrangements for the functioning of the coordination group of the notifying and designating authorities.
 
@@ -125,11 +125,11 @@ The remuneration of the top-level management and assessment personnel of a body 
 
 11\. The personnel of the conformity assessment body shall observe professional secrecy regarding all information obtained in carrying out its tasks under Annex IX, except in relation to the notifying authorities and other competent national authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
 
-12\. Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed about the relevant standardisation activities and the activities of the notified body coordination group established under [this Regulation](/lagstiftning/cpr) and shall apply as general guidance the administrative decisions and documents produced as a work result of that group.
+12\. Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed about the relevant standardisation activities and the activities of the notified body coordination group established under [this Regulation](/en/lagstiftning/cpr) and shall apply as general guidance the administrative decisions and documents produced as a work result of that group.
 
 ### Article 47 – Presumption of conformity of notified bodies
 
-Where a conformity assessment body to be authorised to carry out third-party tasks in the assessment and verification process demonstrates its conformity with the criteria laid down in the relevant harmonised standards the references of which have been published in the Official Journal of the European Union, harmonised technical specifications referred to in Article [5](/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance), European assessment documents, voluntary harmonised standards for product requirements the references of which have been published in the Official Journal of the European Union in accordance with Article [7](/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity)(5) or (6) or the common specifications referred to in Article [8](/lagstiftning/cpr/kap-1#article-8-common-specifications-conferring-a-presumption-of-conformity)(1) or parts thereof, it shall be presumed to comply with the requirements set out in Article [46](#article-46-requirements-relating-to-notified-bodies) in so far as the applicable documents cover those requirements.
+Where a conformity assessment body to be authorised to carry out third-party tasks in the assessment and verification process demonstrates its conformity with the criteria laid down in the relevant harmonised standards the references of which have been published in the Official Journal of the European Union, harmonised technical specifications referred to in Article [5](/en/lagstiftning/cpr/kap-1#article-5-harmonised-standards-laying-down-essential-characteristics-dealing-with-performance), European assessment documents, voluntary harmonised standards for product requirements the references of which have been published in the Official Journal of the European Union in accordance with Article [7](/en/lagstiftning/cpr/kap-1#article-7-product-requirements-and-harmonised-standards-conferring-a-presumption-of-conformity)(5) or (6) or the common specifications referred to in Article [8](/en/lagstiftning/cpr/kap-1#article-8-common-specifications-conferring-a-presumption-of-conformity)(1) or parts thereof, it shall be presumed to comply with the requirements set out in Article [46](#article-46-requirements-relating-to-notified-bodies) in so far as the applicable documents cover those requirements.
 
 ### Article 48 – Subsidiaries and subcontractors of notified bodies
 
@@ -159,7 +159,7 @@ Notified bodies shall assume full responsibility for the tests in their entirety
 
 1\. A body to be authorised to carry out third-party tasks in the assessment and verification systems shall submit an application for notification to the notifying authority of the Member State in which it is established.
 
-2\. The application shall be accompanied by a description of the activities to be performed, the assessment and verification processes for which the body claims to be competent, the description of competence referred to in Article [46](#article-46-requirements-relating-to-notified-bodies)(6), point (b), as well as an accreditation certificate, where one exists, issued by the national accreditation body, attesting that the body fulfils the requirements laid down in Article [46](#article-46-requirements-relating-to-notified-bodies). The accreditation certificate shall relate only to the precise legal body applying for notification and shall be based, in addition to relevant harmonised standards, on the specific requirements and tasks provided for in [this Regulation](/lagstiftning/cpr).
+2\. The application shall be accompanied by a description of the activities to be performed, the assessment and verification processes for which the body claims to be competent, the description of competence referred to in Article [46](#article-46-requirements-relating-to-notified-bodies)(6), point (b), as well as an accreditation certificate, where one exists, issued by the national accreditation body, attesting that the body fulfils the requirements laid down in Article [46](#article-46-requirements-relating-to-notified-bodies). The accreditation certificate shall relate only to the precise legal body applying for notification and shall be based, in addition to relevant harmonised standards, on the specific requirements and tasks provided for in [this Regulation](/en/lagstiftning/cpr).
 
 3\. Where the body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article [46](#article-46-requirements-relating-to-notified-bodies).
 
@@ -179,7 +179,7 @@ However, reference to the relevant harmonised technical specification or to the 
 
 5\. The body concerned may perform the activities of a notified body if the Commission or the other Member States do not raise any objections within two weeks of a notification, where an accreditation certificate is used, or within two months of notification, where an accreditation certificate is not used.
 
-Only such a body shall be considered a notified body for the purpose of [this Regulation](/lagstiftning/cpr).
+Only such a body shall be considered a notified body for the purpose of [this Regulation](/en/lagstiftning/cpr).
 
 6\. Valid notifications shall be included by the Commission in the list of notified bodies referred to in Article [52](#article-52-identification-numbers-and-lists-of-notified-bodies)(2).
 
@@ -191,7 +191,7 @@ Only such a body shall be considered a notified body for the purpose of [this Re
 
 It shall assign a single such number even where the body is notified under several Union acts.
 
-2\. The Commission shall make publicly available the list of bodies notified under [this Regulation](/lagstiftning/cpr), including the identification numbers that have been assigned to them and the activities for which they have been notified.
+2\. The Commission shall make publicly available the list of bodies notified under [this Regulation](/en/lagstiftning/cpr), including the identification numbers that have been assigned to them and the activities for which they have been notified.
 
 The Commission shall ensure that that list is kept up-to-date.
 
@@ -223,13 +223,13 @@ The Commission shall ensure that that list is kept up-to-date.
 
 (d) validate the environmental sustainability calculations undertaken by the manufacturer;
 
-(e) verify the compliance of the manufacturer with the obligations of [this Regulation](/lagstiftning/cpr).
+(e) verify the compliance of the manufacturer with the obligations of [this Regulation](/en/lagstiftning/cpr).
 
 Those tasks are hereinafter referred to as ‘assessments and verifications’.
 
 2\. Assessments and verifications shall be carried out with transparency as regards the manufacturer, and in a proportionate manner, avoiding an unnecessary burden for economic operators. The notified bodies shall perform their activities taking due account of the size of the undertaking, the sector in which the undertaking operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
 
-In so doing, the notified bodies shall nevertheless respect the degree of rigour required for the product by [this Regulation](/lagstiftning/cpr) and the part played by the product for the fulfilment of all basic requirements for construction works.
+In so doing, the notified bodies shall nevertheless respect the degree of rigour required for the product by [this Regulation](/en/lagstiftning/cpr) and the part played by the product for the fulfilment of all basic requirements for construction works.
 
 3\. Where, in the course of the initial inspection of the manufacturing plant and of factory production control, a notified body finds that the manufacturer has not ensured the constancy of performance and conformity of the manufactured product, it shall require the manufacturer to take appropriate corrective measures and shall not issue a certificate or a validation report.
 
@@ -239,7 +239,7 @@ In so doing, the notified bodies shall nevertheless respect the degree of rigour
 
 6\. When taking assessment decisions, including when deciding on the need to suspend or withdraw a certificate or validation report in light of possible instances of non-compliance, notified bodies shall apply clear and pre-determined criteria.
 
-7\. When requested by a manufacturer or provider to do so, notified bodies shall cooperate and share all relevant information with notified bodies that have recognised its assessments and verifications in accordance with Article [62](/lagstiftning/cpr/kap-7#article-62-recognition-of-assessment-and-verification-by-another-notified-body). Notified bodies shall establish an agreement for that purpose.
+7\. When requested by a manufacturer or provider to do so, notified bodies shall cooperate and share all relevant information with notified bodies that have recognised its assessments and verifications in accordance with Article [62](/en/lagstiftning/cpr/kap-7#article-62-recognition-of-assessment-and-verification-by-another-notified-body). Notified bodies shall establish an agreement for that purpose.
 
 ### Article 56 – Information obligations of notified bodies
 
@@ -253,7 +253,7 @@ In so doing, the notified bodies shall nevertheless respect the degree of rigour
 
 (d) on request, third-party tasks in accordance with the assessment and verification systems carried out within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
 
-2\. Notified bodies shall provide the other bodies notified under [this Regulation](/lagstiftning/cpr) which carry out similar third-party tasks in accordance with the assessment and verification systems and for products covered by the same harmonised technical specification or the same European assessment document with relevant information on issues relating to negative results from these assessments and verifications, in particular, any refusal, restriction, suspension, or withdrawal of certificates, validation reports or of test reports, and, upon request, positive results from those assessments.
+2\. Notified bodies shall provide the other bodies notified under [this Regulation](/en/lagstiftning/cpr) which carry out similar third-party tasks in accordance with the assessment and verification systems and for products covered by the same harmonised technical specification or the same European assessment document with relevant information on issues relating to negative results from these assessments and verifications, in particular, any refusal, restriction, suspension, or withdrawal of certificates, validation reports or of test reports, and, upon request, positive results from those assessments.
 
 A notified body shall, upon request from another notified body, a competent national authority or the Commission inform the requesting party whether certificates, validation reports or test reports issued by it are valid, restricted, suspended or withdrawn.
 
@@ -263,7 +263,7 @@ A notified body shall, upon request from another notified body, a competent nati
 
 (a) another notified body does not comply with the requirements laid down in Article [46](#article-46-requirements-relating-to-notified-bodies) or its obligations;
 
-(b) a product placed on the market does not comply with [this Regulation](/lagstiftning/cpr);
+(b) a product placed on the market does not comply with [this Regulation](/en/lagstiftning/cpr);
 
 (c) a product placed on the market, due to its physical condition, is likely to cause a serious risk,
 
@@ -271,19 +271,19 @@ they shall alert and share such evidence with the relevant market surveillance a
 
 ### Article 57 – Implementing acts on notified bodies’ obligations
 
-Where this is necessary to ensure a harmonised application of [this Regulation](/lagstiftning/cpr) and where the coordination group of notifying and designating authorities have not been able to resolve a dispute concerning their diverging practices, in accordance with Article [45](#article-45-coordination-of-notifying-and-designating-authorities), and only to the extent necessary to prevent diverging practices fragmenting the internal market for economic operators, the Commission may adopt implementing acts providing details on how to execute the obligations of notified bodies contained in Articles [55](#article-55-operational-obligations-of-notified-bodies) and [56](#article-56-information-obligations-of-notified-bodies).
+Where this is necessary to ensure a harmonised application of [this Regulation](/en/lagstiftning/cpr) and where the coordination group of notifying and designating authorities have not been able to resolve a dispute concerning their diverging practices, in accordance with Article [45](#article-45-coordination-of-notifying-and-designating-authorities), and only to the extent necessary to prevent diverging practices fragmenting the internal market for economic operators, the Commission may adopt implementing acts providing details on how to execute the obligations of notified bodies contained in Articles [55](#article-55-operational-obligations-of-notified-bodies) and [56](#article-56-information-obligations-of-notified-bodies).
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [90](/lagstiftning/cpr/kap-15#article-90-committee-procedure)(3).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [90](/en/lagstiftning/cpr/kap-15#article-90-committee-procedure)(3).
 
 ### Article 58 – Coordination of notified bodies
 
-1\. The Commission shall ensure that appropriate coordination and cooperation between bodies notified under [this Regulation](/lagstiftning/cpr) are put into place and properly operated in the form of a group of notified bodies.
+1\. The Commission shall ensure that appropriate coordination and cooperation between bodies notified under [this Regulation](/en/lagstiftning/cpr) are put into place and properly operated in the form of a group of notified bodies.
 
 Notified bodies shall participate in the work of that group, directly or by means of designated representatives. Notifying authorities shall ensure that notified bodies participate in the work of that group.
 
 2\. Notified bodies shall apply as general guidance any relevant documents produced as a result of the work of the group referred to in paragraph 1.
 
-3\. Coordination and cooperation in the group referred to in paragraph 1 shall aim to ensure the harmonised application of [this Regulation](/lagstiftning/cpr).
+3\. Coordination and cooperation in the group referred to in paragraph 1 shall aim to ensure the harmonised application of [this Regulation](/en/lagstiftning/cpr).
 <!-- scan-laws:end -->
 
 ## Interpretation

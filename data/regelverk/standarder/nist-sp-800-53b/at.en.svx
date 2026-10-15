@@ -23,47 +23,47 @@ version: 5.2.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### AT-1 – Policy and Procedures
+### <span id="at-1"></span>AT-1 – Policy and Procedures
 
-- a. Develop, document, and disseminate to [organization-defined personnel or roles]:
-  - 1.  [organization-level or mission/business process-level or system-level] awareness and training policy that:
-    - (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
-  - 2. Procedures to facilitate the implementation of the awareness and training policy and the associated awareness and training controls;
-- b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the awareness and training policy and procedures; and
-- c. Review and update the current awareness and training:
-  - 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
-  - 2. Procedures [organization-defined frequency] and following [organization-defined events].
+- <span id="at-1_smt.a"></span> a. Develop, document, and disseminate to [organization-defined personnel or roles]:
+  - <span id="at-1_smt.a.1"></span> 1.  [organization-level or mission/business process-level or system-level] awareness and training policy that:
+    - <span id="at-1_smt.a.1.a"></span> (a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+    - <span id="at-1_smt.a.1.b"></span> (b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+  - <span id="at-1_smt.a.2"></span> 2. Procedures to facilitate the implementation of the awareness and training policy and the associated awareness and training controls;
+- <span id="at-1_smt.b"></span> b. Designate an [organization-defined official] to manage the development, documentation, and dissemination of the awareness and training policy and procedures; and
+- <span id="at-1_smt.c"></span> c. Review and update the current awareness and training:
+  - <span id="at-1_smt.c.1"></span> 1. Policy [organization-defined frequency] and following [organization-defined events] ; and
+  - <span id="at-1_smt.c.2"></span> 2. Procedures [organization-defined frequency] and following [organization-defined events].
 
-### AT-2 – Literacy Training and Awareness
+### <span id="at-2"></span>AT-2 – Literacy Training and Awareness
 
-- a. Provide security and privacy literacy training to system users (including managers, senior executives, and contractors):
-  - 1. As part of initial training for new users and [organization-defined frequency] thereafter; and
-  - 2. When required by system changes or following [organization-defined events];
-- b. Employ the following techniques to increase the security and privacy awareness of system users [organization-defined awareness techniques];
-- c. Update literacy training and awareness content [organization-defined frequency] and following [organization-defined events] ; and
-- d. Incorporate lessons learned from internal or external security incidents or breaches into literacy training and awareness techniques.
+- <span id="at-2_smt.a"></span> a. Provide security and privacy literacy training to system users (including managers, senior executives, and contractors):
+  - <span id="at-2_smt.a.1"></span> 1. As part of initial training for new users and [organization-defined frequency] thereafter; and
+  - <span id="at-2_smt.a.2"></span> 2. When required by system changes or following [organization-defined events];
+- <span id="at-2_smt.b"></span> b. Employ the following techniques to increase the security and privacy awareness of system users [organization-defined awareness techniques];
+- <span id="at-2_smt.c"></span> c. Update literacy training and awareness content [organization-defined frequency] and following [organization-defined events] ; and
+- <span id="at-2_smt.d"></span> d. Incorporate lessons learned from internal or external security incidents or breaches into literacy training and awareness techniques.
 
-#### AT-2(2) – Insider Threat
+#### <span id="at-2.2"></span>AT-2(2) – Insider Threat
 
 Provide literacy training on recognizing and reporting potential indicators of insider threat.
 
-#### AT-2(3) – Social Engineering and Mining
+#### <span id="at-2.3"></span>AT-2(3) – Social Engineering and Mining
 
 Provide literacy training on recognizing and reporting potential and actual instances of social engineering and social mining.
 
-### AT-3 – Role-based Training
+### <span id="at-3"></span>AT-3 – Role-based Training
 
-- a. Provide role-based security and privacy training to personnel with the following roles and responsibilities: [organization-defined roles and responsibilities]:
-  - 1. Before authorizing access to the system, information, or performing assigned duties, and [organization-defined frequency] thereafter; and
-  - 2. When required by system changes;
-- b. Update role-based training content [organization-defined frequency] and following [organization-defined events] ; and
-- c. Incorporate lessons learned from internal or external security incidents or breaches into role-based training.
+- <span id="at-3_smt.a"></span> a. Provide role-based security and privacy training to personnel with the following roles and responsibilities: [organization-defined roles and responsibilities]:
+  - <span id="at-3_smt.a.1"></span> 1. Before authorizing access to the system, information, or performing assigned duties, and [organization-defined frequency] thereafter; and
+  - <span id="at-3_smt.a.2"></span> 2. When required by system changes;
+- <span id="at-3_smt.b"></span> b. Update role-based training content [organization-defined frequency] and following [organization-defined events] ; and
+- <span id="at-3_smt.c"></span> c. Incorporate lessons learned from internal or external security incidents or breaches into role-based training.
 
-### AT-4 – Training Records
+### <span id="at-4"></span>AT-4 – Training Records
 
-- a. Document and monitor information security and privacy training activities, including security and privacy awareness training and specific role-based security and privacy training; and
-- b. Retain individual training records for [organization-defined time period].
+- <span id="at-4_smt.a"></span> a. Document and monitor information security and privacy training activities, including security and privacy awareness training and specific role-based security and privacy training; and
+- <span id="at-4_smt.b"></span> b. Retain individual training records for [organization-defined time period].
 
 ---
 

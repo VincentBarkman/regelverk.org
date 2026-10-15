@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.03#cpt_I'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#cpt_I'
 'sites':
   - 'it'
   - 'ot'
@@ -24,9 +24,9 @@
 
 ### Article 1 – Subject matter`
 
-1\. The purpose of [this Regulation](/lagstiftning/ai) is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.
+1\. The purpose of [this Regulation](/en/lagstiftning/ai) is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.
 
-2\. [This Regulation](/lagstiftning/ai) lays down:
+2\. [This Regulation](/en/lagstiftning/ai) lays down:
 
 (a) harmonised rules for the placing on the market, the putting into service, and the use of AI systems in the Union;
 
@@ -44,7 +44,7 @@
 
 ### Article 2 – Scope
 
-1\. [This Regulation](/lagstiftning/ai) applies to:
+1\. [This Regulation](/en/lagstiftning/ai) applies to:
 
 (a) providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country;
 
@@ -60,35 +60,35 @@
 
 (g) affected persons that are located in the Union.
 
-2\. For AI systems classified as high-risk AI systems in accordance with Article [6](/lagstiftning/ai/kap-3#article-6-classification-rules-for-high-risk-ai-systems)(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article [6](/lagstiftning/ai/kap-3#article-6-classification-rules-for-high-risk-ai-systems)(1), Articles [102](/lagstiftning/ai/kap-13#article-102-amendment-to-regulation-ec-no-300-2008) to 109 and Article [112](/lagstiftning/ai/kap-13#article-112-evaluation-and-review) apply. Article [57](/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes) applies only in so far as the requirements for high-risk AI systems under [this Regulation](/lagstiftning/ai) have been integrated in that Union harmonisation legislation.
+2\. For AI systems classified as high-risk AI systems in accordance with Article [6](/en/lagstiftning/ai/kap-3#article-6-classification-rules-for-high-risk-ai-systems)(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article [6](/en/lagstiftning/ai/kap-3#article-6-classification-rules-for-high-risk-ai-systems)(1), Articles [102](/en/lagstiftning/ai/kap-13#article-102-amendment-to-regulation-ec-no-300-2008) to 109 and Article [112](/en/lagstiftning/ai/kap-13#article-112-evaluation-and-review) apply. Article [57](/en/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes) applies only in so far as the requirements for high-risk AI systems under [this Regulation](/en/lagstiftning/ai) have been integrated in that Union harmonisation legislation.
 
-3\. [This Regulation](/lagstiftning/ai) does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.
+3\. [This Regulation](/en/lagstiftning/ai) does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.
 
-[This Regulation](/lagstiftning/ai) does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.
+[This Regulation](/en/lagstiftning/ai) does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.
 
-[This Regulation](/lagstiftning/ai) does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.
+[This Regulation](/en/lagstiftning/ai) does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.
 
-4\. [This Regulation](/lagstiftning/ai) applies neither to public authorities in a third country nor to international organisations falling within the scope of [this Regulation](/lagstiftning/ai) pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation with the Union or with one or more Member States, provided that such a third country or international organisation provides adequate safeguards with respect to the protection of fundamental rights and freedoms of individuals.
+4\. [This Regulation](/en/lagstiftning/ai) applies neither to public authorities in a third country nor to international organisations falling within the scope of [this Regulation](/en/lagstiftning/ai) pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation with the Union or with one or more Member States, provided that such a third country or international organisation provides adequate safeguards with respect to the protection of fundamental rights and freedoms of individuals.
 
-5\. [This Regulation](/lagstiftning/ai) shall not affect the application of the provisions on the liability of providers of intermediary services as set out in [Chapter II](/lagstiftning/ai/kap-2) of [Regulation (EU) 2022/2065](/lagstiftning/dsa).
+5\. [This Regulation](/en/lagstiftning/ai) shall not affect the application of the provisions on the liability of providers of intermediary services as set out in [Chapter II](/en/lagstiftning/ai/kap-2) of [Regulation (EU) 2022/2065](/en/lagstiftning/dsa).
 
-6\. [This Regulation](/lagstiftning/ai) does not apply to AI systems or AI models, including their output, specifically developed and put into service for the sole purpose of scientific research and development.
+6\. [This Regulation](/en/lagstiftning/ai) does not apply to AI systems or AI models, including their output, specifically developed and put into service for the sole purpose of scientific research and development.
 
-7\. Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in [this Regulation](/lagstiftning/ai). [This Regulation](/lagstiftning/ai) shall not affect [Regulation (EU) 2016/679](/lagstiftning/gdpr) or [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725), or [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) or (EU) 2016/680, without prejudice to Article [10](/lagstiftning/ai/kap-3#article-10-data-and-data-governance)(5) and Article [59](/lagstiftning/ai/kap-6#article-59-further-processing-of-personal-data-for-developing-certain-ai-systems-in-the-public-interest-in-the-ai-regulatory-sandbox) of [this Regulation](/lagstiftning/ai).
+7\. Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in [this Regulation](/en/lagstiftning/ai). [This Regulation](/en/lagstiftning/ai) shall not affect [Regulation (EU) 2016/679](/en/lagstiftning/gdpr) or [(EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725), or [Directive 2002/58/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) or (EU) 2016/680, without prejudice to Article [10](/en/lagstiftning/ai/kap-3#article-10-data-and-data-governance)(5) and Article [59](/en/lagstiftning/ai/kap-6#article-59-further-processing-of-personal-data-for-developing-certain-ai-systems-in-the-public-interest-in-the-ai-regulatory-sandbox) of [this Regulation](/en/lagstiftning/ai).
 
-8\. [This Regulation](/lagstiftning/ai) does not apply to any research, testing or development activity regarding AI systems or AI models prior to their being placed on the market or put into service. Such activities shall be conducted in accordance with applicable Union law. Testing in real world conditions shall not be covered by that exclusion.
+8\. [This Regulation](/en/lagstiftning/ai) does not apply to any research, testing or development activity regarding AI systems or AI models prior to their being placed on the market or put into service. Such activities shall be conducted in accordance with applicable Union law. Testing in real world conditions shall not be covered by that exclusion.
 
-9\. [This Regulation](/lagstiftning/ai) is without prejudice to the rules laid down by other Union legal acts related to consumer protection and product safety.
+9\. [This Regulation](/en/lagstiftning/ai) is without prejudice to the rules laid down by other Union legal acts related to consumer protection and product safety.
 
-10\. [This Regulation](/lagstiftning/ai) does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity.
+10\. [This Regulation](/en/lagstiftning/ai) does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity.
 
-11\. [This Regulation](/lagstiftning/ai) does not preclude the Union or Member States from maintaining or introducing laws, regulations or administrative provisions which are more favourable to workers in terms of protecting their rights in respect of the use of AI systems by employers, or from encouraging or allowing the application of collective agreements which are more favourable to workers.
+11\. [This Regulation](/en/lagstiftning/ai) does not preclude the Union or Member States from maintaining or introducing laws, regulations or administrative provisions which are more favourable to workers in terms of protecting their rights in respect of the use of AI systems by employers, or from encouraging or allowing the application of collective agreements which are more favourable to workers.
 
-12\. [This Regulation](/lagstiftning/ai) does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article [5](/lagstiftning/ai/kap-2#article-5-prohibited-ai-practices) or [50](/lagstiftning/ai/kap-4#article-50-transparency-obligations-for-providers-and-deployers-of-certain-ai-systems).
+12\. [This Regulation](/en/lagstiftning/ai) does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article [5](/en/lagstiftning/ai/kap-2#article-5-prohibited-ai-practices) or [50](/en/lagstiftning/ai/kap-4#article-50-transparency-obligations-for-providers-and-deployers-of-certain-ai-systems).
 
 ### Article 3 – Definitions
 
-For the purposes of [this Regulation](/lagstiftning/ai), the following definitions apply:
+For the purposes of [this Regulation](/en/lagstiftning/ai), the following definitions apply:
 
 #### Footnotes
 
@@ -100,7 +100,7 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (4) ‘deployer’ means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
 
-(5) ‘authorised representative’ means a natural or legal person located or established in the Union who has received and accepted a written mandate from a provider of an AI system or a general-purpose AI model to, respectively, perform and carry out on its behalf the obligations and procedures established by [this Regulation](/lagstiftning/ai);
+(5) ‘authorised representative’ means a natural or legal person located or established in the Union who has received and accepted a written mandate from a provider of an AI system or a general-purpose AI model to, respectively, perform and carry out on its behalf the obligations and procedures established by [this Regulation](/en/lagstiftning/ai);
 
 (6) ‘importer’ means a natural or legal person located or established in the Union that places on the market an AI system that bears the name or trademark of a natural or legal person established in a third country;
 
@@ -130,23 +130,23 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (19) ‘notifying authority’ means the national authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and for their monitoring;
 
-(20) ‘conformity assessment’ means the process of demonstrating whether the requirements set out in [Chapter III](/lagstiftning/ai/kap-3), Section 2 relating to a high-risk AI system have been fulfilled;
+(20) ‘conformity assessment’ means the process of demonstrating whether the requirements set out in [Chapter III](/en/lagstiftning/ai/kap-3), Section 2 relating to a high-risk AI system have been fulfilled;
 
 (21) ‘conformity assessment body’ means a body that performs third-party conformity assessment activities, including testing, certification and inspection;
 
-(22) ‘notified body’ means a conformity assessment body notified in accordance with [this Regulation](/lagstiftning/ai) and other relevant Union harmonisation legislation;
+(22) ‘notified body’ means a conformity assessment body notified in accordance with [this Regulation](/en/lagstiftning/ai) and other relevant Union harmonisation legislation;
 
-(23) ‘substantial modification’ means a change to an AI system after its placing on the market or putting into service which is not foreseen or planned in the initial conformity assessment carried out by the provider and as a result of which the compliance of the AI system with the requirements set out in [Chapter III](/lagstiftning/ai/kap-3), Section 2 is affected or results in a modification to the intended purpose for which the AI system has been assessed;
+(23) ‘substantial modification’ means a change to an AI system after its placing on the market or putting into service which is not foreseen or planned in the initial conformity assessment carried out by the provider and as a result of which the compliance of the AI system with the requirements set out in [Chapter III](/en/lagstiftning/ai/kap-3), Section 2 is affected or results in a modification to the intended purpose for which the AI system has been assessed;
 
-(24) ‘CE marking’ means a marking by which a provider indicates that an AI system is in conformity with the requirements set out in [Chapter III](/lagstiftning/ai/kap-3), Section 2 and other applicable Union harmonisation legislation providing for its affixing;
+(24) ‘CE marking’ means a marking by which a provider indicates that an AI system is in conformity with the requirements set out in [Chapter III](/en/lagstiftning/ai/kap-3), Section 2 and other applicable Union harmonisation legislation providing for its affixing;
 
 (25) ‘post-market monitoring system’ means all activities carried out by providers of AI systems to collect and review experience gained from the use of AI systems they place on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;
 
-(26) ‘market surveillance authority’ means the national authority carrying out the activities and taking the measures pursuant to [Regulation (EU) 2019/1020](/lagstiftning/marknadskontrollforordningen);
+(26) ‘market surveillance authority’ means the national authority carrying out the activities and taking the measures pursuant to [Regulation (EU) 2019/1020](/en/lagstiftning/marknadskontrollforordningen);
 
 (27) ‘harmonised standard’ means a harmonised standard as defined in Article [2](#article-2-scope)(1), point (c), of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025);
 
-(28) ‘common specification’ means a set of technical specifications as defined in Article [2](#article-2-scope), point (4) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), providing means to comply with certain requirements established under [this Regulation](/lagstiftning/ai);
+(28) ‘common specification’ means a set of technical specifications as defined in Article [2](#article-2-scope), point (4) of [Regulation (EU) No 1025/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1025), providing means to comply with certain requirements established under [this Regulation](/en/lagstiftning/ai);
 
 (29) ‘training data’ means data used for training an AI system through fitting its learnable parameters;
 
@@ -164,7 +164,7 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (36) ‘biometric verification’ means the automated, one-to-one verification, including authentication, of the identity of natural persons by comparing their biometric data to previously provided biometric data;
 
-(37) ‘special categories of personal data’ means the categories of personal data referred to in Article [9](/lagstiftning/ai/kap-3#article-9-risk-management-system)(1) of [Regulation (EU) 2016/679](/lagstiftning/gdpr), Article [10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680) of [Directive (EU) 2016/680](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680) and Article [10](/lagstiftning/ai/kap-3#article-10-data-and-data-governance)(1) of [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725);
+(37) ‘special categories of personal data’ means the categories of personal data referred to in Article [9](/en/lagstiftning/ai/kap-3#article-9-risk-management-system)(1) of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr), Article [10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680) of [Directive (EU) 2016/680](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680) and Article [10](/en/lagstiftning/ai/kap-3#article-10-data-and-data-governance)(1) of [Regulation (EU) 2018/1725](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725);
 
 (38) ‘sensitive operational data’ means operational data related to activities of prevention, detection, investigation or prosecution of criminal offences, the disclosure of which could jeopardise the integrity of criminal proceedings;
 
@@ -188,9 +188,9 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (46) ‘law enforcement’ means activities carried out by law enforcement authorities or on their behalf for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and preventing threats to public security;
 
-(47) ‘AI Office’ means the Commission’s function of contributing to the implementation, monitoring and supervision of AI systems and general-purpose AI models, and AI governance, provided for in Commission Decision of 24 January 2024; references in [this Regulation](/lagstiftning/ai) to the AI Office shall be construed as references to the Commission;
+(47) ‘AI Office’ means the Commission’s function of contributing to the implementation, monitoring and supervision of AI systems and general-purpose AI models, and AI governance, provided for in Commission Decision of 24 January 2024; references in [this Regulation](/en/lagstiftning/ai) to the AI Office shall be construed as references to the Commission;
 
-(48) ‘national competent authority’ means a notifying authority or a market surveillance authority; as regards AI systems put into service or used by Union institutions, agencies, offices and bodies, references to national competent authorities or market surveillance authorities in [this Regulation](/lagstiftning/ai) shall be construed as references to the European Data Protection Supervisor;
+(48) ‘national competent authority’ means a notifying authority or a market surveillance authority; as regards AI systems put into service or used by Union institutions, agencies, offices and bodies, references to national competent authorities or market surveillance authorities in [this Regulation](/en/lagstiftning/ai) shall be construed as references to the European Data Protection Supervisor;
 
 (49) ‘serious incident’ means an incident or malfunctioning of an AI system that directly or indirectly leads to any of the following:
 
@@ -202,11 +202,11 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (d) serious harm to property or the environment;
 
-(50) ‘personal data’ means personal data as defined in Article [4](#article-4-ai-literacy), point (1), of [Regulation (EU) 2016/679](/lagstiftning/gdpr);
+(50) ‘personal data’ means personal data as defined in Article [4](#article-4-ai-literacy), point (1), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr);
 
-(51) ‘non-personal data’ means data other than personal data as defined in Article [4](#article-4-ai-literacy), point (1), of [Regulation (EU) 2016/679](/lagstiftning/gdpr);
+(51) ‘non-personal data’ means data other than personal data as defined in Article [4](#article-4-ai-literacy), point (1), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr);
 
-(52) ‘profiling’ means profiling as defined in Article [4](#article-4-ai-literacy), point (4), of [Regulation (EU) 2016/679](/lagstiftning/gdpr);
+(52) ‘profiling’ means profiling as defined in Article [4](#article-4-ai-literacy), point (4), of [Regulation (EU) 2016/679](/en/lagstiftning/gdpr);
 
 (53) ‘real-world testing plan’ means a document that describes the objectives, methodology, geographical, population and temporal scope, monitoring, organisation and conduct of testing in real-world conditions;
 
@@ -214,9 +214,9 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (55) ‘AI regulatory sandbox’ means a controlled framework set up by a competent authority which offers providers or prospective providers of AI systems the possibility to develop, train, validate and test, where appropriate in real-world conditions, an innovative AI system, pursuant to a sandbox plan for a limited time under regulatory supervision;
 
-(56) ‘AI literacy’ means skills, knowledge and understanding that allow providers, deployers and affected persons, taking into account their respective rights and obligations in the context of [this Regulation](/lagstiftning/ai), to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause;
+(56) ‘AI literacy’ means skills, knowledge and understanding that allow providers, deployers and affected persons, taking into account their respective rights and obligations in the context of [this Regulation](/en/lagstiftning/ai), to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause;
 
-(57) ‘testing in real-world conditions’ means the temporary testing of an AI system for its intended purpose in real-world conditions outside a laboratory or otherwise simulated environment, with a view to gathering reliable and robust data and to assessing and verifying the conformity of the AI system with the requirements of [this Regulation](/lagstiftning/ai) and it does not qualify as placing the AI system on the market or putting it into service within the meaning of [this Regulation](/lagstiftning/ai), provided that all the conditions laid down in Article [57](/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes) or [60](/lagstiftning/ai/kap-6#article-60-testing-of-high-risk-ai-systems-in-real-world-conditions-outside-ai-regulatory-sandboxes) are fulfilled;
+(57) ‘testing in real-world conditions’ means the temporary testing of an AI system for its intended purpose in real-world conditions outside a laboratory or otherwise simulated environment, with a view to gathering reliable and robust data and to assessing and verifying the conformity of the AI system with the requirements of [this Regulation](/en/lagstiftning/ai) and it does not qualify as placing the AI system on the market or putting it into service within the meaning of [this Regulation](/en/lagstiftning/ai), provided that all the conditions laid down in Article [57](/en/lagstiftning/ai/kap-6#article-57-ai-regulatory-sandboxes) or [60](/en/lagstiftning/ai/kap-6#article-60-testing-of-high-risk-ai-systems-in-real-world-conditions-outside-ai-regulatory-sandboxes) are fulfilled;
 
 (58) ‘subject’, for the purpose of real-world testing, means a natural person who participates in testing in real-world conditions;
 
@@ -236,7 +236,7 @@ For the purposes of [this Regulation](/lagstiftning/ai), the following definitio
 
 (b) has caused, causes or is likely to cause harm to the collective interests of individuals and has common features, including the same unlawful practice or the same interest being infringed, and is occurring concurrently, committed by the same operator, in at least three Member States;
 
-(62) ‘critical infrastructure’ means critical infrastructure as defined in Article [2](#article-2-scope), point (4), of [Directive (EU) 2022/2557](/lagstiftning/cer);
+(62) ‘critical infrastructure’ means critical infrastructure as defined in Article [2](#article-2-scope), point (4), of [Directive (EU) 2022/2557](/en/lagstiftning/cer);
 
 (63) ‘general-purpose AI model’ means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market;
 

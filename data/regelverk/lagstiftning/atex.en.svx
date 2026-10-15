@@ -11,7 +11,7 @@
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
 'lastReviewed': '2026-10-14'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
 'published': '2014-03-29'
@@ -19,16 +19,16 @@
 'sites':
   - 'brandskydd'
   - 'el'
-'url': 'http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0006.03'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0034'
 ---
 
 <!-- scan-laws:start -->
 ## Contents
 
-- [Chapter 1 – GENERAL PROVISIONS](/lagstiftning/atex/kap-1) · Articles 1–5
-- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/lagstiftning/atex/kap-2) · Articles 6–11
-- [Chapter 3 – CONFORMITY OF THE PRODUCT](/lagstiftning/atex/kap-3) · Articles 12–16
-- [Chapter 4 – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/lagstiftning/atex/kap-4) · Articles 17–33
-- [Chapter 5 – UNION MARKET SURVEILLANCE, CONTROL OF PRODUCTS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/lagstiftning/atex/kap-5) · Articles 34–38
-- [Chapter 6 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/lagstiftning/atex/kap-6) · Articles 39–45
+- [Chapter 1 – GENERAL PROVISIONS](/en/lagstiftning/atex/kap-1) · Articles 1–5
+- [Chapter 2 – OBLIGATIONS OF ECONOMIC OPERATORS](/en/lagstiftning/atex/kap-2) · Articles 6–11
+- [Chapter 3 – CONFORMITY OF THE PRODUCT](/en/lagstiftning/atex/kap-3) · Articles 12–16
+- [Chapter 4 – NOTIFICATION OF CONFORMITY ASSESSMENT BODIES](/en/lagstiftning/atex/kap-4) · Articles 17–33
+- [Chapter 5 – UNION MARKET SURVEILLANCE, CONTROL OF PRODUCTS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE](/en/lagstiftning/atex/kap-5) · Articles 34–38
+- [Chapter 6 – COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS](/en/lagstiftning/atex/kap-6) · Articles 39–45
 <!-- scan-laws:end -->

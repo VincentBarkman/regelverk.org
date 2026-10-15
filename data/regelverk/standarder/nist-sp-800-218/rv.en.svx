@@ -22,104 +22,104 @@ version: 1.0.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### RV.1 – Identify and Confirm Vulnerabilities on an Ongoing Basis
+### <span id="RV.1"></span>RV.1 – Identify and Confirm Vulnerabilities on an Ongoing Basis
 
 Help ensure that vulnerabilities are identified more quickly so that they can be remediated more quickly in accordance with risk, reducing the window of opportunity for attackers.
 
-#### RV.1.1
+#### <span id="RV.1.1"></span>RV.1.1
 
 Gather information from software acquirers, users, and public sources on potential vulnerabilities in the software and third-party components that the software uses, and investigate all credible reports.
 
 _Examples:_
 
--  Monitor vulnerability databases , security mailing lists, and other sources of vulnerability reports through manual or automated means.
--  Use threat intelligence sources to better understand how vulnerabilities in general are being exploited.
--  Automatically review provenance and software composition data for all software components to identify any new vulnerabilities they have.
+- <span id="RV.1.1.1"></span>  Monitor vulnerability databases , security mailing lists, and other sources of vulnerability reports through manual or automated means.
+- <span id="RV.1.1.2"></span>  Use threat intelligence sources to better understand how vulnerabilities in general are being exploited.
+- <span id="RV.1.1.3"></span>  Automatically review provenance and software composition data for all software components to identify any new vulnerabilities they have.
 
-#### RV.1.2
+#### <span id="RV.1.2"></span>RV.1.2
 
 Review, analyze, and/or test the software’s code to identify or confirm the presence of previously undetected vulnerabilities.
 
 _Examples:_
 
--  Configure the toolchain to perform automated code analysis and testing on a regular or continuous basis for all supported releases.
--  See PW.7 and PW.8.
+- <span id="RV.1.2.1"></span>  Configure the toolchain to perform automated code analysis and testing on a regular or continuous basis for all supported releases.
+- <span id="RV.1.2.2"></span>  See PW.7 and PW.8.
 
-#### RV.1.3
+#### <span id="RV.1.3"></span>RV.1.3
 
 Have a policy that addresses vulnerability disclosure and remediation, and implement the roles, responsibilities, and processes needed to support that policy.
 
 _Examples:_
 
--  Establish a vulnerability disclosure program, and make it easy for security researchers to learn about your program and report possible vulnerabilities.
--  Have a Product Security Incident Response Team (PSIRT) and processes in place to handle the responses to vulnerability reports and incidents, including communications plans for all stakeholders.
--  Have a security response playbook to handle a generic reported vulnerability, a report of zero-days, a vulnerability being exploited in the wild, and a major ongoing incident involving multiple parties and open-source software components.
--  Periodically conduct exercises of the product security incident response processes.
+- <span id="RV.1.3.1"></span>  Establish a vulnerability disclosure program, and make it easy for security researchers to learn about your program and report possible vulnerabilities.
+- <span id="RV.1.3.2"></span>  Have a Product Security Incident Response Team (PSIRT) and processes in place to handle the responses to vulnerability reports and incidents, including communications plans for all stakeholders.
+- <span id="RV.1.3.3"></span>  Have a security response playbook to handle a generic reported vulnerability, a report of zero-days, a vulnerability being exploited in the wild, and a major ongoing incident involving multiple parties and open-source software components.
+- <span id="RV.1.3.4"></span>  Periodically conduct exercises of the product security incident response processes.
 
-### RV.2 – Assess, Prioritize, and Remediate Vulnerabilities
+### <span id="RV.2"></span>RV.2 – Assess, Prioritize, and Remediate Vulnerabilities
 
 Help ensure that vulnerabilities are remediated in accordance with risk to reduce the window of opportunity for attackers.
 
-#### RV.2.1
+#### <span id="RV.2.1"></span>RV.2.1
 
 Analyze each vulnerability to gather sufficient information about risk to plan its remediation or other risk response.
 
 _Examples:_
 
--  Use existing issue tracking software to record each vulnerability.
--  Perform risk calculations for each vulnerability based on estimates of its exploitability, the potential impact if exploited, and any other relevant characteristics.
+- <span id="RV.2.1.1"></span>  Use existing issue tracking software to record each vulnerability.
+- <span id="RV.2.1.2"></span>  Perform risk calculations for each vulnerability based on estimates of its exploitability, the potential impact if exploited, and any other relevant characteristics.
 
-#### RV.2.2
+#### <span id="RV.2.2"></span>RV.2.2
 
 Plan and implement risk responses for vulnerabilities.
 
 _Examples:_
 
--  Make a risk-based decision as to whether each vulnerability will be remediated or if the risk will be addressed through other means (e.g., risk acceptance, risk transference), and prioritize any actions to be taken.
--  If a permanent mitigation for a vulnerability is not yet available, determine how the vulnerability can be temporarily mitigated until the permanent solution is available, and add that temporary remediation to the plan.
--  Develop and release security advisories that provide the necessary information to software acquirers, including descriptions of what the vulnerabilities are, how to find instances of the vulnerable software, and how to address them (e.g., where to get patches and what the patches change in the software; what configuration settings may need to be changed; how temporary workarounds could be implemented).
--  Deliver remediations to acquirers via an automated and trusted delivery mechanism. A single remediation could address multiple vulnerabilities.
--  Update records of design decisions, risk responses, and approved exceptions as needed. See PW.1.2.
+- <span id="RV.2.2.1"></span>  Make a risk-based decision as to whether each vulnerability will be remediated or if the risk will be addressed through other means (e.g., risk acceptance, risk transference), and prioritize any actions to be taken.
+- <span id="RV.2.2.2"></span>  If a permanent mitigation for a vulnerability is not yet available, determine how the vulnerability can be temporarily mitigated until the permanent solution is available, and add that temporary remediation to the plan.
+- <span id="RV.2.2.3"></span>  Develop and release security advisories that provide the necessary information to software acquirers, including descriptions of what the vulnerabilities are, how to find instances of the vulnerable software, and how to address them (e.g., where to get patches and what the patches change in the software; what configuration settings may need to be changed; how temporary workarounds could be implemented).
+- <span id="RV.2.2.4"></span>  Deliver remediations to acquirers via an automated and trusted delivery mechanism. A single remediation could address multiple vulnerabilities.
+- <span id="RV.2.2.5"></span>  Update records of design decisions, risk responses, and approved exceptions as needed. See PW.1.2.
 
-### RV.3 – Analyze Vulnerabilities to Identify Their Root Causes
+### <span id="RV.3"></span>RV.3 – Analyze Vulnerabilities to Identify Their Root Causes
 
 Help reduce the frequency of vulnerabilities in the future.
 
-#### RV.3.1
+#### <span id="RV.3.1"></span>RV.3.1
 
 Analyze identified vulnerabilities to determine their root causes.
 
 _Examples:_
 
--  Record the root cause of discovered issues.
--  Record lessons learned through root cause analysis in a wiki that developers can access and search.
+- <span id="RV.3.1.1"></span>  Record the root cause of discovered issues.
+- <span id="RV.3.1.2"></span>  Record lessons learned through root cause analysis in a wiki that developers can access and search.
 
-#### RV.3.2
+#### <span id="RV.3.2"></span>RV.3.2
 
 Analyze the root causes over time to identify patterns, such as a particular secure coding practice not being followed consistently.
 
 _Examples:_
 
--  Record lessons learned through root cause analysis in a wiki that developers can access and search.
--  Add mechanisms to the toolchain to automatically detect future instances of the root cause.
--  Update manual processes to detect future instances of the root cause.
+- <span id="RV.3.2.1"></span>  Record lessons learned through root cause analysis in a wiki that developers can access and search.
+- <span id="RV.3.2.2"></span>  Add mechanisms to the toolchain to automatically detect future instances of the root cause.
+- <span id="RV.3.2.3"></span>  Update manual processes to detect future instances of the root cause.
 
-#### RV.3.3
+#### <span id="RV.3.3"></span>RV.3.3
 
 Review the software for similar vulnerabilities to eradicate a class of vulnerabilities, and proactively fix them rather than waiting for external reports.
 
 _Examples:_
 
--  See PW.7 and PW.8.
+- <span id="RV.3.3.1"></span>  See PW.7 and PW.8.
 
-#### RV.3.4
+#### <span id="RV.3.4"></span>RV.3.4
 
 Review the SDLC process, and update it if appropriate to prevent (or reduce the likelihood of) the root cause recurring in updates to the software or in new software that is created.
 
 _Examples:_
 
--  Record lessons learned through root cause analysis in a wiki that developers can access and search.
--  Plan and implement changes to the appropriate SDLC practices.
+- <span id="RV.3.4.1"></span>  Record lessons learned through root cause analysis in a wiki that developers can access and search.
+- <span id="RV.3.4.2"></span>  Plan and implement changes to the appropriate SDLC practices.
 
 ---
 

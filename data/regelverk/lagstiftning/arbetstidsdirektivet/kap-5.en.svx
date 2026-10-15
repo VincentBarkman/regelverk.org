@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/050dd964-4f94-4c61-ab50-89217a0d90e2.0004.01'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32003L0088'
 'sites':
   - 'arbetsmiljo'
 ---
@@ -23,7 +23,7 @@
 
 ### Article 17 – Derogations
 
-1\. With due regard for the general principles of the protection of the safety and health of workers, Member States may derogate from Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) to 6, 8 and 16 when, on account of the specific characteristics of the activity concerned, the duration of the working time is not measured and/or predetermined or can be determined by the workers themselves, and particularly in the case of:
+1\. With due regard for the general principles of the protection of the safety and health of workers, Member States may derogate from Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) to 6, 8 and 16 when, on account of the specific characteristics of the activity concerned, the duration of the working time is not measured and/or predetermined or can be determined by the workers themselves, and particularly in the case of:
 
 (a) managing executives or other persons with autonomous decision-taking powers;
 
@@ -33,7 +33,7 @@
 
 2\. Derogations provided for in paragraphs 3, 4 and 5 may be adopted by means of laws, regulations or administrative provisions or by means of collective agreements or agreements between the two sides of industry provided that the workers concerned are afforded equivalent periods of compensatory rest or that, in exceptional cases in which it is not possible, for objective reasons, to grant such equivalent periods of compensatory rest, the workers concerned are afforded appropriate protection.
 
-3\. In accordance with paragraph 2 of [this Article](#article-17-derogations) derogations may be made from Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods):
+3\. In accordance with paragraph 2 of [this Article](#article-17-derogations) derogations may be made from Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/en/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods):
 
 (a) in the case of activities where the worker's place of work and his place of residence are distant from one another, including offshore work, or where the worker's different places of work are distant from one another;
 
@@ -73,19 +73,19 @@
 
 (iii) whose activities are linked to transport timetables and to ensuring the continuity and regularity of traffic;
 
-(f) in the circumstances described in Article [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period)(4) of Directive 89/391/EEC;
+(f) in the circumstances described in Article [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period)(4) of Directive 89/391/EEC;
 
 (g) in cases of accident or imminent risk of accident.
 
-4\. In accordance with paragraph 2 of [this Article](#article-17-derogations) derogations may be made from Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) and [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period):
+4\. In accordance with paragraph 2 of [this Article](#article-17-derogations) derogations may be made from Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) and [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period):
 
 (a) in the case of shift work activities, each time the worker changes shift and cannot take daily and/or weekly rest periods between the end of one shift and the start of the next one;
 
 (b) in the case of activities involving periods of work split up over the day, particularly those of cleaning staff.
 
-5\. In accordance with paragraph 2 of [this Article](#article-17-derogations), derogations may be made from Article [6](/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time) and Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), in the case of doctors in training, in accordance with the provisions set out in the second to the seventh subparagraphs of this paragraph.
+5\. In accordance with paragraph 2 of [this Article](#article-17-derogations), derogations may be made from Article [6](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time) and Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), in the case of doctors in training, in accordance with the provisions set out in the second to the seventh subparagraphs of this paragraph.
 
-With respect to Article [6](/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time) derogations referred to in the first subparagraph shall be permitted for a transitional period of five years from 1 August 2004.
+With respect to Article [6](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time) derogations referred to in the first subparagraph shall be permitted for a transitional period of five years from 1 August 2004.
 
 Member States may have up to two more years, if necessary, to take account of difficulties in meeting the working time provisions with respect to their responsibilities for the organisation and delivery of health services and medical care. At least six months before the end of the transitional period, the Member State concerned shall inform the Commission giving its reasons, so that the Commission can give an opinion, after appropriate consultations, within the three months following receipt of such information. If the Member State does not follow the opinion of the Commission, it will justify its decision. The notification and justification of the Member State and the opinion of the Commission shall be published in the Official Journal of the European Union and forwarded to the European Parliament.
 
@@ -99,13 +99,13 @@ The employer shall consult the representatives of the employees in good time wit
 
 (b) the measures to be adopted to reduce weekly working hours to an average of 48 by the end of the transitional period.
 
-With respect to Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b) derogations referred to in the first subparagraph shall be permitted provided that the reference period does not exceed 12 months, during the first part of the transitional period specified in the fifth subparagraph, and six months thereafter.
+With respect to Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b) derogations referred to in the first subparagraph shall be permitted provided that the reference period does not exceed 12 months, during the first part of the transitional period specified in the fifth subparagraph, and six months thereafter.
 
 ### Article 18 – Derogations by collective agreements
 
-Derogations may be made from Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods) by means of collective agreements or agreements concluded between the two sides of industry at national or regional level or, in conformity with the rules laid down by them, by means of collective agreements or agreements concluded between the two sides of industry at a lower level.
+Derogations may be made from Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/en/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods) by means of collective agreements or agreements concluded between the two sides of industry at national or regional level or, in conformity with the rules laid down by them, by means of collective agreements or agreements concluded between the two sides of industry at a lower level.
 
-Member States in which there is no statutory system ensuring the conclusion of collective agreements or agreements concluded between the two sides of industry at national or regional level, on the matters covered by [this Directive](/lagstiftning/arbetstidsdirektivet), or those Member States in which there is a specific legislative framework for this purpose and within the limits thereof, may, in accordance with national legislation and/or practice, allow derogations from Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods) by way of collective agreements or agreements concluded between the two sides of industry at the appropriate collective level.
+Member States in which there is no statutory system ensuring the conclusion of collective agreements or agreements concluded between the two sides of industry at national or regional level, on the matters covered by [this Directive](/en/lagstiftning/arbetstidsdirektivet), or those Member States in which there is a specific legislative framework for this purpose and within the limits thereof, may, in accordance with national legislation and/or practice, allow derogations from Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period), [8](/en/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) and [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods) by way of collective agreements or agreements concluded between the two sides of industry at the appropriate collective level.
 
 The derogations provided for in the first and second subparagraphs shall be allowed on condition that equivalent compensating rest periods are granted to the workers concerned or, in exceptional cases where it is not possible for objective reasons to grant such periods, the workers concerned are afforded appropriate protection.
 
@@ -117,7 +117,7 @@ Member States may lay down rules:
 
 ### Article 19 – Limitations to derogations from reference periods
 
-The option to derogate from Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), provided for in Article [17](#article-17-derogations)(3) and in Article [18](#article-18-derogations-by-collective-agreements), may not result in the establishment of a reference period exceeding six months.
+The option to derogate from Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), provided for in Article [17](#article-17-derogations)(3) and in Article [18](#article-18-derogations-by-collective-agreements), may not result in the establishment of a reference period exceeding six months.
 
 However, Member States shall have the option, subject to compliance with the general principles relating to the protection of the safety and health of workers, of allowing, for objective or technical reasons or reasons concerning the organisation of work, collective agreements or agreements concluded between the two sides of industry to set reference periods in no event exceeding 12 months.
 
@@ -125,17 +125,17 @@ Before 23 November 2003, the Council shall, on the basis of a Commission proposa
 
 ### Article 20 – Mobile workers and offshore work
 
-1\. Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period) and [8](/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) shall not apply to mobile workers.
+1\. Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest), [4](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-4-breaks), [5](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-5-weekly-rest-period) and [8](/en/lagstiftning/arbetstidsdirektivet/kap-3#article-8-length-of-night-work) shall not apply to mobile workers.
 
 Member States shall, however, take the necessary measures to ensure that such mobile workers are entitled to adequate rest, except in the circumstances laid down in Article [17](#article-17-derogations)(3)(f) and (g).
 
-2\. Subject to compliance with the general principles relating to the protection of the safety and health of workers, and provided that there is consultation of representatives of the employer and employees concerned and efforts to encourage all relevant forms of social dialogue, including negotiation if the parties so wish, Member States may, for objective or technical reasons or reasons concerning the organisation of work, extend the reference period referred to in Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b) to 12 months in respect of workers who mainly perform offshore work.
+2\. Subject to compliance with the general principles relating to the protection of the safety and health of workers, and provided that there is consultation of representatives of the employer and employees concerned and efforts to encourage all relevant forms of social dialogue, including negotiation if the parties so wish, Member States may, for objective or technical reasons or reasons concerning the organisation of work, extend the reference period referred to in Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b) to 12 months in respect of workers who mainly perform offshore work.
 
 3\. Not later than 1 August 2005 the Commission shall, after consulting the Member States and management and labour at European level, review the operation of the provisions with regard to offshore workers from a health and safety perspective with a view to presenting, if need be, the appropriate modifications.
 
 ### Article 21 – Workers on board seagoing fishing vessels
 
-1\. Articles [3](/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) to 6 and 8 shall not apply to any worker on board a seagoing fishing vessel flying the flag of a Member State.
+1\. Articles [3](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-3-daily-rest) to 6 and 8 shall not apply to any worker on board a seagoing fishing vessel flying the flag of a Member State.
 
 Member States shall, however, take the necessary measures to ensure that any worker on board a seagoing fishing vessel flying the flag of a Member State is entitled to adequate rest and to limit the number of hours of work to 48 hours a week on average calculated over a reference period not exceeding 12 months.
 
@@ -173,13 +173,13 @@ or
 
 6\. The master of a seagoing fishing vessel shall have the right to require workers on board to perform any hours of work necessary for the immediate safety of the vessel, persons on board or cargo, or for the purpose of giving assistance to other vessels or persons in distress at sea.
 
-7\. Members States may provide that workers on board seagoing fishing vessels for which national legislation or practice determines that these vessels are not allowed to operate in a specific period of the calendar year exceeding one month, shall take annual leave in accordance with Article [7](/lagstiftning/arbetstidsdirektivet/kap-2#article-7-annual-leave) within that period.
+7\. Members States may provide that workers on board seagoing fishing vessels for which national legislation or practice determines that these vessels are not allowed to operate in a specific period of the calendar year exceeding one month, shall take annual leave in accordance with Article [7](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-7-annual-leave) within that period.
 
 ### Article 22 – Miscellaneous provisions
 
-1\. A Member State shall have the option not to apply Article [6](/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time), while respecting the general principles of the protection of the safety and health of workers, and provided it takes the necessary measures to ensure that:
+1\. A Member State shall have the option not to apply Article [6](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-6-maximum-weekly-working-time), while respecting the general principles of the protection of the safety and health of workers, and provided it takes the necessary measures to ensure that:
 
-(a) no employer requires a worker to work more than 48 hours over a seven-day period, calculated as an average for the reference period referred to in Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), unless he has first obtained the worker's agreement to perform such work;
+(a) no employer requires a worker to work more than 48 hours over a seven-day period, calculated as an average for the reference period referred to in Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b), unless he has first obtained the worker's agreement to perform such work;
 
 (b) no worker is subjected to any detriment by his employer because he is not willing to give his agreement to perform such work;
 
@@ -187,11 +187,11 @@ or
 
 (d) the records are placed at the disposal of the competent authorities, which may, for reasons connected with the safety and/or health of workers, prohibit or restrict the possibility of exceeding the maximum weekly working hours;
 
-(e) the employer provides the competent authorities at their request with information on cases in which agreement has been given by workers to perform work exceeding 48 hours over a period of seven days, calculated as an average for the reference period referred to in Article [16](/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b).
+(e) the employer provides the competent authorities at their request with information on cases in which agreement has been given by workers to perform work exceeding 48 hours over a period of seven days, calculated as an average for the reference period referred to in Article [16](/en/lagstiftning/arbetstidsdirektivet/kap-4#article-16-reference-periods)(b).
 
 Before 23 November 2003, the Council shall, on the basis of a Commission proposal accompanied by an appraisal report, re-examine the provisions of this paragraph and decide on what action to take.
 
-2\. Member States shall have the option, as regards the application of Article [7](/lagstiftning/arbetstidsdirektivet/kap-2#article-7-annual-leave), of making use of a transitional period of not more than three years from 23 November 1996, provided that during that transitional period:
+2\. Member States shall have the option, as regards the application of Article [7](/en/lagstiftning/arbetstidsdirektivet/kap-2#article-7-annual-leave), of making use of a transitional period of not more than three years from 23 November 1996, provided that during that transitional period:
 
 (a) every worker receives three weeks' paid annual leave in accordance with the conditions for the entitlement to, and granting of, such leave laid down by national legislation and/or practice; and
 

@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,11 +21,9 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Exponeringsvärden för vibrationer
-
 ### Inledning
 
-Denna bilaga hör till [3 kap. 6](/lagstiftning/afs-2023-10/kap-3#6-åtgärder)–[8](/lagstiftning/afs-2023-10/kap-3#8), [10](/lagstiftning/afs-2023-10/kap-3#10) och [11 §§](/lagstiftning/afs-2023-10/kap-3#11).
+Denna bilaga hör till [3 kap. 6](/lagstiftning/afs-2023-10/kap-3#6)–[8](/lagstiftning/afs-2023-10/kap-3#8), [10](/lagstiftning/afs-2023-10/kap-3#10-kunskaper) och [11 §§](/lagstiftning/afs-2023-10/kap-3#11-medicinska-kontroller).
 
 <table><caption>Tabell 4. Insatsvärden och gränsvärden för daglig vibrationsexponering, A(8) enligt bilaga 2 punkt 1 och bilaga 3 punkt 1 </caption><tbody><tr><th><div><div>Typ av exponering</div></div></th><th><div><div>Insatsvärden</div><div><em>A</em>(8) m/s<sup>2</sup></div></div></th><th><div><div>Gränsvärden</div><div><em>A</em>(8) m/s<sup>2</sup></div></div></th></tr><tr><td><div><div>Hand- och armvibrationer</div></div></td><td><div><div>2,5</div></div></td><td><div><div>5,0</div></div></td></tr><tr><td><div><div>Helkroppsvibrationer</div></div></td><td><div><div>0,5 </div></div></td><td><div><div>1,1 </div></div></td></tr></tbody></table>
 <!-- scan-laws:end -->

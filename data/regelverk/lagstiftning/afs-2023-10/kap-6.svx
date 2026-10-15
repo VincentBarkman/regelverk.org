@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,531 +21,127 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Avdelning VI: Smitta
-
-### 11 – kap. Smittrisker
-
-Stöd och verktyg: Smittrisker i arbetsmiljön
+#### Avdelning IV: Hälsofarliga eller onödigt tröttande fysiska belastningar
 
 ### 1 § – Då gäller föreskrifterna
 
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) reglerar all verksamhet där arbetstagare har arbetsuppgifter som innebär att de kan bli infekterade av smittämnen, eller bli varaktiga bärare av smittämnen, på grund av uppgifternas art eller förhållandena i arbetet.
-
-Bestämmelserna i [4](#4-undersökning-och-riskbedömning)–[9 §§](#9) reglerar alla arbeten och all utbildning som omfattas av [detta kapitel](/lagstiftning/afs-2023-10/kap-6), inklusive de arbeten och utbildningar där någon av [10](#10)–[27 §§](#27) är tillämpliga.
-
-Bestämmelserna i [10 §](#10) reglerar arbete i laboratorier där man hanterar material som innehåller eller kan innehålla smittämnen eller hanterar djur eller material i rum för försöksdjur som misstänks vara infekterade med smittämnen, men där avsikten inte är att arbeta med smittämnen enligt [16](#16-kompletterande-bestämmelser-vid-arbete-med-smittämnen-i-laboratorier-i-rum-för-försöksdjur-och-i-industriella-processer)–[23 §§](#23).
-
-Bestämmelserna i [11](#11-kompletterande-bestämmelser-vid-arbete-med-risk-för-kontakt-med-kroppsvätskor)–[15 §§](#15) reglerar alla arbetsmoment där det kan förekomma kontakt med kroppsvätskor men där avsikten inte är att arbeta med smittämnen.
-
-Bestämmelserna i [15 §](#15) reglerar vård av människor eller djur som är eller misstänks vara smittade med smittämnen i riskklass 3 eller 4.
-
-Bestämmelserna i [16](#16-kompletterande-bestämmelser-vid-arbete-med-smittämnen-i-laboratorier-i-rum-för-försöksdjur-och-i-industriella-processer)–[27 §§](#27) reglerar arbete med smittämnen i laboratorier, rum för försöksdjur och industriella processer.
-
-Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) reglerar även studerande och praktikanter som under utbildning utför uppgifter som innebär att de kan bli infekterade av smittämnen eller bli varaktiga bärare av smittämnen, på grund av uppgifternas art eller de förhållanden som de utförs under.
-
-I [7 kap.](/lagstiftning/afs-2023-10/kap-7) finns bestämmelser om allergier och toxiska effekter som orsakas av mögelsporer och kemiska ämnen som frisätts från mikroorganismer.
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) reglerar all verksamhet där arbetstagare kan utsättas för belastningar eller andra förhållanden som, direkt eller indirekt, kan påverka rörelseorganen eller stämbanden negativt.
 
 ### 2 § – Vem föreskrifterna riktar sig till
 
 Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) följs. Med arbetsgivare likställs den som hyr in arbetskraft.
 
-Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-6).
-
-Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-6) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
 ### 3 § – Definitioner
 
 I [detta kapitel](/lagstiftning/afs-2023-10/kap-6) har följande begrepp dessa betydelser.
 
-<div class="scan-table"><input type="checkbox" id="tbl-0" class="scan-table-toggle"><div class="scan-table-content"><table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Arbete med smittämnen</div></div></td><td><div><div>Arbete som innebär att</div><ul><li><div><div>avsiktligt odla eller koncentrera smittämnen,</div></div></li><li><div><div>hantera odlade eller koncentrerade smittämnen, och</div></div></li><li><div><div>hantera försöksdjur som avsiktligt bär på smittämnen.</div></div></li></ul></div></td></tr><tr><td><div><div>Arbetskläder</div></div></td><td><div><div>Med arbetskläder avses i 14&nbsp;§ sådana kläder som krävs enligt Socialstyrelsens föreskrifter om basal hygien i vård och omsorg.</div></div><div><div>Med arbetskläder i 20 och 24–26&nbsp;§§ avses sådana kläder som arbetsgivaren kräver ska användas av andra skäl än som personlig skyddsutrustning.</div></div></td></tr><tr><td><div><div>Dekontaminering</div></div></td><td><div><div>Metod för att avdöda, inaktivera eller reducera mängden av smittämnen så att de inte orsakar ohälsa.</div></div></td></tr><tr><td><div><div>Desinfektion</div></div></td><td><div><div>Metod som reducerar antalet smittämnen.</div></div></td></tr><tr><td><div><div>Djur inom djurens hälso- och sjukvård</div></div></td><td><div><div>Djur som får vård eller omvårdnad inom verksamheter inom djurens hälso- och sjukvård och djur som står under vård eller behandling efter veterinärs ordination, men som inte behandlas av arbetstagare inom djurens hälso- och sjukvård. I dessa föreskrifter avses även behandling av djur som omfattas av villkorad läkemedelsanvändning.</div></div></td></tr><tr><td><div><div>Industriell process</div></div></td><td><div><div>Odling av smittämnen i ett kärl som är ett slutet system, såsom en jäsningstank. Vanligtvis odlas större volymer, men det finns ingen absolut övre eller undre volymgräns. En industriell process är inte begränsad till produktion utan kan ingå i forskning och utveckling.</div></div></td></tr><tr><td><div><div>Integrerad skyddsfunktion</div></div></td><td><div><div>Skyddsfunktion som sitter ihop med ett vasst föremål på ett sådant sätt att man inte riskerar att komma i kontakt med den vassa änden efter användning. Dessutom ska man inte behöva använda andra föremål för att aktivera skyddsfunktionen.</div></div></td></tr><tr><td><div><div>Koncentrerade smittämnen</div></div></td><td><div><div>Avsiktligt ökad mängd smittämnen per volymenhet.</div></div></td></tr><tr><td><div><div>Mikroorganism</div></div></td><td><div><div>Bakterier, mögel- och jästsvampar, virus och andra mikrobiologiska enheter, cellulära och inte cellulära, som kan reproduceras eller överföra genetiskt material.</div></div></td></tr><tr><td><div><div>Riskklass</div></div></td><td><div><div>Den klass en mikroorganism eller ett smittämne hänförs till när den klassificerats utifrån sin förmåga att orsaka infektion och hur allvarliga följderna kan bli.</div></div></td></tr><tr><td><div><div>Skyddsnivå</div></div></td><td><div><div>Den uppsättning av åtgärder som är anpassad för arbete med smittämnen med likartade risker enligt 21–26&nbsp;§§.</div></div></td></tr><tr><td><div><div>Smittrisk</div></div></td><td><div><div>Risk att utsättas för smittämnen som kan orsaka infektion hos människor eller risk att bli varaktiga bärare av smittämnen.</div></div></td></tr><tr><td><div><div>Smittämne</div></div></td><td><div><div>Mikroorganismer, prioner och humana invärtesparasiter, som kan framkalla infektioner hos människor.</div></div></td></tr><tr><td><div><div>Smittämne i riskklass&nbsp;2</div></div></td><td><div><div>Smittämne som kan orsaka sjukdomar hos människor och kan vara en fara för arbetstagarna. För de flesta finns effektiv behandling, eller förebyggande åtgärder, som vaccination. Oftast är spridningsrisken begränsad.</div></div></td></tr><tr><td><div><div>Smittämne i riskklass&nbsp;3</div></div></td><td><div><div>Smittämne som kan orsaka allvarliga sjukdomar hos människor och kan vara en allvarlig fara för arbetstagarna. Ofta finns effektiv behandling, eller förebyggande åtgärder, som vaccination. Det kan finnas risk för spridning ut till samhället.</div></div></td></tr><tr><td><div><div>Smittämne i riskklass&nbsp;4 </div></div></td><td><div><div>Smittämne som kan orsaka mycket allvarliga sjukdomar hos människor och kan vara en allvarlig fara för arbetstagarna. Det finns sällan möjlighet till effektiv behandling, eller förebyggande åtgärder, som vaccination. Det kan ge stora konsekvenser om smittämnet sprids ut i samhället.</div></div></td></tr><tr><td><div><div>Sysselsatta</div></div></td><td><div><div>Med sysselsatta avses, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>anställda arbetstagare, och</div></div></li><li><div><div>inhyrd arbetskraft, jämför 3&nbsp;kap.&nbsp;12&nbsp;§ andra stycket arbetsmiljölagen (1977:1160).</div></div></li></ul></div><div><div>I fråga om verksamhet utan anställda arbetstagare (jämför 3&nbsp;kap.&nbsp;5&nbsp;§ arbetsmiljölagen) avses med sysselsatta, oavsett om de arbetar heltid eller deltid:</div><ul><li><div><div>de personer som driver verksamheten, och</div></div></li><li><div><div>inhyrd arbetskraft.</div></div></li></ul></div><div><div>Den aktuella fysiska personens personnummer respektive juridiska personens organisationsnummer avgör vilka personer som ska anses ingå i verksamheten. </div></div></td></tr><tr><td><div><div>Vassa föremål</div></div></td><td><div><div>Stickande eller skärande föremål såsom skalpeller, kanyler, nålar och liknande föremål, som används på människor samt på djur inom djurens hälso- och sjukvård eller vid arbete med smittämnen på laboratorier.</div></div></td></tr><tr><td><div><div>Verksamheter inom djurens hälso- och sjukvård</div></div></td><td><div><div>Verksamheter som bedriver vård, omvårdnad eller operativa ingrepp på djur enligt den definition som framgår av lagen (2009:302) om verksamhet inom djurens hälso- och sjukvård.</div></div></td></tr></tbody></table></div><label for="tbl-0" class="scan-table-label">Tabell (20 rader)</label></div>
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>Belastningsbesvär</div></div></td><td><div><div>Besvär i rörelseorganen. Alla former av ohälsa i rörelseorganen som kan ha samband med förhållanden i arbetet. Besvären kan ha orsakats av arbetet eller något annat, men förvärras av arbetet. I begreppet ingår allt ifrån lätta, övergående besvär till livslånga skador.</div></div></td></tr><tr><td><div><div>Belastningsergonomi</div></div></td><td><div><div>Del inom området ergonomi som behandlar hur belastningar i arbetet påverkar rörelseorganen.</div></div></td></tr><tr><td><div><div>Handintensivt arbete</div></div></td><td><div><div>Ihållande snabba handledsrörelser i kombination med kraft.</div></div></td></tr><tr><td><div><div>Last</div></div></td><td><div><div>Person, djur eller objekt.</div></div></td></tr><tr><td><div><div>Manuell hantering</div></div></td><td><div><div>Alla slags transporter eller förflyttningar av laster där en eller flera arbetstagare lyfter, sätter ned, skjuter på, drar, bär eller flyttar en last.</div></div></td></tr><tr><td><div><div>Repetitivt arbete</div></div></td><td><div><div>Arbete som innebär att man upprepar liknande arbetsrörelser om och om igen. </div></div></td></tr><tr><td><div><div>Rörelseorganen</div></div></td><td><div><div>De kroppsdelar och de strukturer (muskler, senor, skelett, brosk, ledband och nerver) som gör att människan kan inta olika kroppsställningar och röra på sig.</div></div></td></tr></tbody></table>
 
 ### 4 § – Undersökning och riskbedömning
 
-När arbetstagarna har arbetsmoment med smittrisk ska arbetsgivaren, i sin undersökning och riskbedömning av arbetsförhållandena, särskilt ta hänsyn till följande:
+När arbetstagare utför arbetsmoment som kan vara hälsofarliga eller onödigt tröttande, ska arbetsgivaren i sin undersökning av arbetsförhållandena, särskilt ta hänsyn till
 
-Vilka arbetsmoment som kan innebära smittrisk.
+arbetsställningar,
 
-Hur smittämnen skulle kunna orsaka infektion.
+arbetsrörelser,
 
-Vilka och hur allvarliga konsekvenser det kan få för den enskilde arbetstagaren att bli utsatt för smittämnen.
+manuell hantering,
 
-Under hur lång tid arbetstagarna riskerar att utsättas för smittämnen i arbetet.
+repetitivt arbete,
 
-När smittämnet är känt, ingår det i riskbedömningen att ta hänsyn till den information som finns tillgänglig om riskklass, enligt förteckningen över klassificerade smittämnen i bilaga 7. Om smittämnet saknas i förteckningen, ska arbetsgivaren klassificera smittämnet enligt definitionerna i [3 §](#3-definitioner). Om man är tveksam ska man välja den högre riskklassen.
+handintensivt arbete, och
 
-Vid arbete med smittämnen enligt [16](#16-kompletterande-bestämmelser-vid-arbete-med-smittämnen-i-laboratorier-i-rum-för-försöksdjur-och-i-industriella-processer)–[26 §§](#26) ska det stå i riskbedömningen vilken skyddsnivå som arbetet ska bedrivas på.
+synförhållanden som kan påverka arbetsställningarna och arbetsrörelserna negativt.
+
+Utifrån undersökningen ska arbetsgivaren bedöma om belastningarna, enskilt eller i kombination, kan innebära en risk för skador i rörelseorganen eller på stämbanden. Vid riskbedömningen ska arbetsgivaren utgå från belastningarnas
+
+duration – hur länge,
+
+frekvens – hur ofta, och
+
+intensitet – hur mycket.
+
+I riskbedömningen ska man också beakta fysiska, organisatoriska och sociala förhållanden i arbetsmiljön som kan påverka riskerna.
+
+> _Allmänna råd_
+>
+> Vid riskbedömning av hälsofarliga eller onödigt tröttande belastningar bör man välja en evidensbaserad metod som är lämplig för den belastning som bedöms.
 
 ### 5 § – Åtgärder
 
-På arbetsställen där det finns smittrisk ska arbetsgivaren vidta åtgärder för att undvika att smittämnen sprids och se till att antalet arbetstagare som riskerar att utsättas för smittämnen hålls så lågt som möjligt.
+Arbetsgivaren ska, så långt det är praktiskt möjligt, ordna och utforma arbetsuppgifter och arbetsplatser, så att arbetstagarna kan använda arbetsställningar och arbetsrörelser som är gynnsamma för kroppen. Arbetsgivaren ska se till att arbetstagarna undviker att
+
+arbeta långvarigt eller ofta återkommande med bålen böjd eller vriden,
+
+arbeta långvarigt eller ofta återkommande med händerna över axelhöjd, eller under knähöjd, eller
+
+utöva kraft i ogynnsamma arbetsställningar.
+
+Arbetsgivaren ska tillhandahålla särskilda glasögon eller andra synhjälpmedel om det behövs, så att arbetstagarna kan använda gynnsamma arbetsställningar och arbetsrörelser.
+
+Manuell hantering och annan kraftutövning
 
 ### 6 §
 
-Arbetsgivaren ska se till att den dekontaminering som behövs sker så snart som möjligt med de medel och metoder som är anpassade efter behovet.
+Arbetsgivaren ska ordna arbetsplatsen så att man undviker eller minskar risken för belastningsbesvär, särskilt i ryggen, för arbetstagarna som utför manuell hantering eller andra arbetsuppgifter som kräver kraftutövning.
+
+Arbetsgivaren ska vidta lämpliga åtgärder, framför allt när det gäller arbetsmiljöns utformning och de krav som arbetsuppgiften ställer. Det innebär både organisatoriska åtgärder, och att använda sig av arbetsutrustning, framför allt teknisk utrustning, för att undvika manuell hantering.
+
+Om det inte går att undvika manuell hantering, ska arbetsgivaren vidta åtgärder med hänsyn till de påverkande faktorerna i bilaga 5.
+
+> _Allmänna råd_
+>
+> Arbetsgivaren bör minska riskerna för belastningsbesvär vid manuell hantering i följande prioritetsordning:
+>
+> Helt undvika hälsofarlig och onödigt tröttande manuell hantering.
+>
+> Vidta åtgärder för att minska hälsofarlig och onödigt tröttande manuell hantering till en acceptabel nivå, om det inte går att undvika den helt, utifrån bedömningen av risken för belastningsbesvär. Åtgärder kan vara att
+>
+> anpassa utformningen av laster och ha tillgång till lämplig arbetsutrustning, eller
+>
+> se över arbetsorganisationen samt arbetsmiljön i övrigt.
+>
+> Utbilda och informera arbetstagarna, så att de kan bidra till att riskerna minimeras totalt sett.
 
 ### 7 §
 
-Arbetsgivaren ska se till att arbetstagarna kan tvätta eller desinfektera händerna i arbeten med smittrisk. Arbetsgivare ska också vidta åtgärder så att arbetstagarna inte äter eller dricker i utrymmen med smittrisk.
+Arbetsgivaren ska se till att det normalt inte förekommer arbete som är repetitivt, starkt styrt eller bundet. Om en arbetstagare ändå måste utföra sådant, på grund av särskilda omständigheter, ska arbetsgivaren förebygga riskerna för ohälsa eller olycksfall till följd av hälsofarliga eller onödigt tröttande belastningar. Det förebyggande arbetet ska leda till ökad variation i belastningen, till exempel genom arbetsväxling, arbetsutvidgning eller pauser.
 
-Vaccination och andra medicinska åtgärder
+> _Allmänna råd_
+>
+> Variation i belastningen innebär att den fysiska belastningen förändras över tid. Det är viktigt att ta hänsyn till hur ofta belastningen varierar. Variationen påverkas även av belastningarnas storlek och vilken sorts belastning det är.
 
 ### 8 §
 
-Om arbetstagarna riskerar att utsättas, eller kan ha utsatts, för smittämnen i arbetet, ska arbetsgivaren vid behov erbjuda vaccination, andra medicinska förebyggande åtgärder, kontroller och uppföljande kontroller.
+Arbetsgivaren ska se till att arbetstagarna har möjligheter att påverka hur det egna arbetet planeras och genomförs, så att de får tillräcklig rörelsevariation och återhämtning.
 
-Arbetsgivaren ska se till att arbetstagarna får information om fördelar och nackdelar med en vaccination, att vaccin inte alltid ger ett fullständigt skydd mot infektion och att man därför också ska vidta andra åtgärder.
+### 9 § – Kunskaper
 
-Dokumentera konstaterad exponering för smittämnen i riskklass 3 och 4
+Arbetsgivaren ska se till att arbetstagarna har tillräckliga kunskaper om
 
-### 9 §
+lämpliga arbetsställningar och arbetsrörelser,
 
-Arbetsgivaren ska dokumentera när exponering för smittämnen i riskklass 3 eller 4 har konstaterats i samband med tillbud, olyckor eller andra oönskade händelser.
+hur arbetsutrustningen ska användas,
 
-Följande uppgifter ska dokumenteras:
+riskerna med olämpliga arbetsställningar och arbetsrörelser,
 
-Namn på de personer som har exponerats.
+riskerna med olämplig manuell hantering, och
 
-Vilken typ av arbete som utfördes.
+tidiga tecken på överbelastning av leder och muskler.
 
-Vilket eller vilka smittämnen, i riskklass 3 eller 4, som arbetstagaren exponerades för, i den utsträckning kunskap finns.
+Arbetsgivaren ska se till att arbetstagarna får information om vikten på de laster som hanteras. Där det är möjligt ska arbetstagarna få exakta upplysningar om lastens vikt och var lastens tyngdpunkt eller tyngsta sida finns, när innehållet i den är ojämnt fördelat.
 
-En beskrivning av hur exponeringen skedde.
+Arbetsgivaren ska se till att arbetstagarna får instruktioner och möjlighet att träna in lämplig arbetsteknik för den aktuella arbetsuppgiften. Arbetsgivaren ska också försäkra sig om att arbetstagarna följer instruktionerna.
 
-Uppgifterna ska sparas i 10 år efter den senast kända exponeringen eller i 40 år om exponeringen gäller smittämnen som kan ha långtidseffekter enligt bilaga 7.
+> _Allmänna råd_
+>
+> För att arbetstagarna ska kunna anpassa sin kraftinsats är det viktigt att veta hur mycket en last väger eller vilken förmåga en person har att bidra till sin egen förflyttning. Om tyngdpunkten i en last ändras, kan belastningen bli många gånger större än normalt. Det är därför viktigt att kunna planera hur ett lyft eller en förflyttning ska utföras på bästa sätt.
 
-Läkare som utför kontroller och uppföljande kontroller enligt [8 §](#8) ska få tillgång till dokumentationen om exponeringarna.
+### 10 § – Medicinska kontroller
 
-Den arbetsgivare som underlåter att dokumentera exponeringen i strid med kravet i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
-
-Lägsta avgiften är 5 000 kronor och högsta avgiften är 50 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 50 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
-
-Avgift = 5 000 kronor + (antal sysselsatta – 1) × 90 kronor.
-
-Summan ska avrundas nedåt till närmaste hela hundratal.
-
-Åtgärder i laboratorier där syftet inte är att arbeta med smittämnen
-
-### 10 §
-
-Arbetsgivaren ska se till att minst skyddsnivå 2, enligt [21 §](#21), tillämpas i laboratorier där man hanterar material som innehåller eller kan innehålla smittämnen, men där arbetet inte omfattar arbete med smittämnen enligt [16](#16-kompletterande-bestämmelser-vid-arbete-med-smittämnen-i-laboratorier-i-rum-för-försöksdjur-och-i-industriella-processer)–[23 §§](#23).
-
-Arbetsgivaren ska se till att minst skyddsnivå 2, enligt [21 §](#21), tillämpas i rum för försöksdjur där man hanterar material eller djur som innehåller eller misstänks innehålla smittämnen, men där arbetet inte omfattar arbete med smittämnen enligt [16](#16-kompletterande-bestämmelser-vid-arbete-med-smittämnen-i-laboratorier-i-rum-för-försöksdjur-och-i-industriella-processer)–[23 §§](#23).
-
-Om riskbedömningen visar att det är nödvändigt, ska arbetsgivaren genomföra ytterligare åtgärder, i enlighet med en högre skyddsnivå enligt [22](#22) och [23 §§](#23).
-
-### 11 § – Kompletterande bestämmelser vid arbete med risk för kontakt med kroppsvätskor
-
-Arbetsgivaren ska se till att arbetstagarna, som riskerar att komma i kontakt med kroppsvätskor från människor, får särskild utbildning om de smittrisker som kan förekomma i verksamheten. På samma sätt ska arbetsgivaren för verksamheter inom djurens hälso- och sjukvård se till att arbetstagarna inom djurens hälso- och sjukvård, som riskerar att komma i kontakt med kroppsvätskor från djur, får särskild utbildning om de smittrisker som kan förekomma i verksamheten.
-
-Arbetsgivaren ska se till att arbetstagarna får sådan utbildning och information som avses i första stycket innan de börjar sitt arbete, att utbildningen upprepas regelbundet, och att nödvändig information och utbildning uppdateras vid förändrade risker.
-
-Utbildningen ska ta upp hur man ska
-
-undvika smittrisker,
-
-skydda sig mot stick- och skärskador i arbetet,
-
-följa hygienåtgärderna i [12 §](#12),
-
-agera för att minska risken för smittöverföring, om en oönskad händelse har inträffat, och
-
-rapportera oönskade händelser internt.
-
-Särskilda hygienåtgärder
-
-### 12 §
-
-Arbetsgivaren ska se till att särskilda hygienåtgärder tillämpas, utöver de i [5](#5-åtgärder)–[7 §§](#7), inom
-
-verksamheter där man kan riskera att komma i kontakt med kroppsvätskor från människor,
-
-verksamheter inom djurens hälso- och sjukvård, och
-
-andra verksamheter där man kan riskera att komma i kontakt med kroppsvätskor från djur inom djurens hälso- och sjukvård.
-
-Arbetsgivaren ska se till att de särskilda hygienåtgärderna minst omfattar följande:
-
-Händerna ska desinfekteras före rent arbete, efter orent arbete och efter att man har använt skyddshandskar. Om det behövs ska händerna tvättas med tvål och vatten, innan de desinfekteras.
-
-Händerna ska vara fria från smycken och liknande när man tvättar och desinfekterar händerna.
-
-Använda de tekniska hjälpmedel som behövs för att förebygga smittrisker.
-
-Vassa föremål som är avsedda att användas på människor, och som kan komma i kontakt med kroppsvätskor, ska ha en fungerande integrerad skyddsfunktion, om sådana produkter finns tillgängliga på marknaden.
-
-Vassa föremål som har använts på människa eller djur ska hanteras på ett säkert sätt, och genast efter användningen läggas i en behållare för skärande och stickande avfall.
-
-Skyddshylsan ska aldrig sättas tillbaka på en kanyl eller ett annat vasst föremål som har använts på människa eller djur.
-
-Vid arbetsmoment som innebär risk för kontakt med kroppsvätskor ska personlig skyddsutrustning användas, såsom engångsskyddshandskar och visir.
-
-Vid arbetsmoment som innebär risk för allvarlig luftburen smitta ska andningsskydd användas.
-
-Behållare för skärande och stickande avfall
-
-### 13 §
-
-Arbetsgivaren ska se till att vassa föremål som har varit i kontakt med kroppsvätska från människor, eller från djur inom djurens hälso- och sjukvård, läggs i säkra behållare för skärande och stickande avfall. Detta gäller även för vassa föremål där den integrerade skyddsfunktionen har aktiverats.
-
-Arbetsgivaren ska se till att
-
-det finns avfallsbehållare för skärande och stickande avfall,
-
-behållarna är säkra mot genombrott av vassa föremål, och
-
-behållarna inte återanvänds.
-
-Arbetsgivaren ska se till att avfallsbehållare för skärande och stickande avfall märks med orden ”skärande och stickande avfall”.
-
-Den arbetsgivare som inte uppfyller kraven enligt andra och tredje stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
-
-Lägsta avgiften är 15 000 kronor, och den högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
-
-Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
-
-Summan ska avrundas nedåt till närmaste hela hundratal.
-
-Arbetskläder
-
-### 14 §
-
-Arbetsgivare som har arbetstagare som omfattas av Socialstyrelsens krav på arbetskläder, enligt Socialstyrelsens föreskrifter om basal hygien i vård och omsorg, ska se till att arbetstagarna tar av arbetskläderna när arbetsdagen är slut. Arbetsgivaren ansvarar för att arbetskläder som är använda
-
-hålls åtskilda från andra kläder,
-
-tvättas i minst 60 °C, och
-
-förstörs vid behov.
-
-Åtgärder vid vård av människor eller djur med smittämnen i riskklass 3 och 4
-
-### 15 §
-
-Vid vård och omvårdnad av människor som är, eller misstänks vara, smittade med smittämnen i riskklass 3 eller 4, ska arbetsgivaren välja och tillämpa de åtgärder som behövs enligt resultatet av riskbedömningen. Detsamma gäller för djur som vårdas på djursjukhus eller klinik och som är, eller misstänks vara, smittade med smittämnen i riskklass 3 eller 4.
-
-Förutom de åtgärder som följer av riskbedömningen ska arbetsgivaren välja och tillämpa följande åtgärder som är relevanta:
-
-Arbetsområdet ska vara avskilt från annan verksamhet i samma byggnad.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Frånluften, och vid behov även tilluften, ska filtreras med HEPA-filter eller liknande.
-
-Arbetsområdet kan tillslutas helt, för att möjliggöra dekontaminering med en validerad metod.
-
-Arbetsområdet ska ha undertryck.
-
-Bänkar, arbetsytor och golv ska vara vattentäta och lätta att rengöra, och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Utrustning ska dekontamineras innan den tas ut från arbetsområdet.
-
-Observationsfönster eller motsvarande ska finnas, för att kunna överblicka arbetsområdet.
-
-Det ska finnas en effektiv kontroll av skadedjur.
-
-Infekterat material, inklusive djur, ska hanteras i en mikrobiologisk säkerhetsbänk, isolator eller motsvarande lämplig inneslutning.
-
-Förbränning eller en annan validerad metod ska användas för att avdöda smittämnen i djurkadaver.
-
-### 16 § – Kompletterande bestämmelser vid arbete med smittämnen i laboratorier, i rum för försöksdjur och i industriella processer
-
-Arbetsgivaren ska se till att arbetstagarna som arbetar med smittämnen får den praktiska och teoretiska utbildning, samt den information som är nödvändig, för att förebygga att de utsätts för smittämnen.
-
-Arbetsgivaren ska se till att
-
-arbetstagarna får sådan utbildning och information innan de börjar sitt arbete,
-
-utbildningen upprepas regelbundet, och
-
-nödvändig information och utbildning uppdateras vid förändrade risker.
-
-Om man använder vassa föremål som är kontaminerade med smittämnen, ska kraven enligt [11 §](#11-kompletterande-bestämmelser-vid-arbete-med-risk-för-kontakt-med-kroppsvätskor) ingå i utbildningen och informationen.
-
-Utbildningen och informationen ska omfatta åtminstone
-
-resultatet av riskbedömningen, inklusive vilka hälsorisker smittämnena kan ge,
-
-vilka krav på hygienåtgärder som finns,
-
-vilka skyddsåtgärder som ska tillämpas, och
-
-hur man ska rapportera tillbud och olyckor internt.
-
-Åtgärdsplan vid olycka med utsläpp av smittämnen
-
-### 17 §
-
-Vid arbete med smittämnen i riskklass 4 ska arbetsgivaren upprätta en åtgärdsplan som anger vad som ska göras om det inträffar en olycka med utsläpp av smittämnen.
-
-En sådan åtgärdsplan ska också upprättas vid arbete med smittämnen i riskklass 3, om ett utsläpp av smittämnena kan orsaka allvarliga infektioner hos människor.
-
-Åtgärdsplanen ska vara skriftlig, och vid behov sättas upp på arbetsstället.
-
-Arbetsgivaren ska se till att arbetstagarna övar åtgärderna årligen, eller oftare om det behövs.
-
-Avfall och kontaminerat material
-
-### 18 §
-
-Arbetsgivaren ska se till att det finns rutiner för hur kontaminerat material, utrustning och avfall som inte är dekontaminerat enligt [6 §](#6) ska samlas upp, lagras och inaktiveras på ett säkert sätt.
-
-Arbetsgivaren ska se till att avfallsbehållarna för kontaminerat material är säkra och identifierbara.
-
-Om vassa föremål är kontaminerade med smittämnen, ska arbetsgivaren även uppfylla kraven på avfallsbehållare enligt [13 §](#13).
-
-Smittämnen i riskklass 3 och 4 måste avdödas med en validerad metod i anslutning till verksamheten, innan de lämnar arbetsområdet.
-
-Arbetsområdet ska vara utrustat så att avloppsvatten kan dekontamineras om det finns risk att smittämnen i riskklass 3 eller 4 kan komma ut i avloppet.
-
-Åtgärder
-
-### 19 §
-
-Om riskbedömningen inte tydligt visar vilken skyddsnivå som behövs, och allvarlig hälsorisk inte kan uteslutas, ska arbetet bedrivas på minst skyddsnivå 3 enligt [22 §](#22).
-
-### 20 §
-
-När arbetskläder och personlig skyddsutrustning ska användas vid arbete med smittämnen, ska arbetsgivaren se till att arbetstagarna tar av arbetskläderna och den personliga skyddsutrustningen innan de lämnar arbetsområdet.
-
-Arbetsgivaren ska se till att arbetskläderna och den personliga skyddsutrustningen
-
-dekontamineras,
-
-tvättas i minst 60 °C, eller
-
-förstörs vid behov.
-
-Skyddsnivåer för arbete med smittämnen i laboratorier och i rum för försöksdjur
-
-### 21 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 2 i laboratorier, och i rum för försöksdjur bedrivs med åtgärder på minst skyddsnivå 2 enligt följande:
-
-Arbetsområdet ska vara avgränsat från annan verksamhet i samma byggnad.
-
-Arbetsområdet ska kunna tillslutas för att möjliggöra dekontaminering med en validerad metod, om inte riskbedömningen visar annat.
-
-Bänkar, arbetsytor och golv ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Smittämnen ska förvaras så att ingen exponeras.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Det ska finnas en effektiv kontroll av skadedjur.
-
-Vid luftburen smitta, och i övrigt om inte riskbedömningen visar annat, ska infekterat material och djur hanteras i en mikrobiologisk säkerhetsbänk, isolator eller motsvarande lämplig inneslutning.
-
-Vid behov ska observationsfönster eller motsvarande finnas för att arbetsområdet ska kunna överblickas.
-
-Vid arbete med försöksdjur ska förbränning eller en annan validerad metod användas för att avdöda smittämnen i djurkadaver.
-
-### 22 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 3 i laboratorier och i rum för försöksdjur bedrivs med åtgärder på minst skyddsnivå 3 enligt följande:
-
-Arbetsområdet ska vara avgränsat från annan verksamhet i samma byggnad.
-
-Vid luftburen smitta, och i övrigt om inte riskbedömningen visar annat, ska arbetsområdet kunna tillslutas helt för att möjliggöra dekontaminering med en validerad metod.
-
-Bänkar, arbetsytor och golv ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Smittämnen ska förvaras så att ingen exponeras.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Varningsskylten ska även informera om tillträdesrestriktioner och ange kontaktperson. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Det ska finnas en effektiv kontroll av skadedjur.
-
-Vid luftburen smitta, och i övrigt om riskbedömningen inte visar annat, ska infekterat material och djur hanteras i en mikrobiologisk säkerhetsbänk, isolator eller motsvarande lämplig inneslutning.
-
-Observationsfönster eller motsvarande ska finnas för att arbetsområdet ska kunna överblickas.
-
-Vid arbete med smittämnen som sprids genom luften, och i övrigt om inte riskbedömningen visar annat, ska arbetsområdet ha undertryck och tillträdet ska ske via luftsluss.
-
-Vid arbete med smittämnen ska frånluften filtreras med HEPA-filter.
-
-Ett laboratorium ska innehålla sin egen utrustning, om inte riskbedömningen visar annat.
-
-Vid arbete med försöksdjur ska förbränning eller en annan validerad metod användas för att avdöda smittämnen i djurkadaver.
-
-Arbetstagarna ska duscha innan de lämnar arbetsområdet, om inte riskbedömningen visar annat.
-
-### 23 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 4 i laboratorier och i rum för försöksdjur bedrivs med åtgärder på skyddsnivå 4 enligt följande:
-
-Arbetsområdet ska vara helt avgränsat från annan verksamhet i samma byggnad.
-
-Arbetsområdet ska kunna tillslutas helt för att möjliggöra dekontaminering med en validerad metod.
-
-Bänkar, arbetsytor, golv, väggar och tak ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Smittämnen ska förvaras så att ingen exponeras.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Varningsskylten ska även informera om tillträdesrestriktioner och ange kontaktperson. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Det ska finnas en effektiv kontroll av skadedjur.
-
-Smittämnen och infekterat material och djur ska hanteras i en mikrobiologisk säkerhetsbänk, isolator eller motsvarande lämplig inneslutning.
-
-Observationsfönster eller motsvarande ska finnas för att arbetsområdet ska kunna överblickas.
-
-Arbetsområdet ska alltid ha undertryck och tillträde ska ske via luftsluss.
-
-Både till- och frånluft ska filtreras med HEPA-filter.
-
-Ett laboratorium ska innehålla sin egen utrustning.
-
-Vid arbete med försöksdjur ska förbränning eller en annan validerad metod användas för att avdöda smittämnen i djurkadaver.
-
-Arbetstagarna ska duscha innan de lämnar arbetsområdet, om inte riskbedömningen visar annat.
-
-Skyddsnivåer för arbete med smittämnen i industriella processer
-
-### 24 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 2 i industriella processer bedrivs med åtgärder på minst skyddsnivå 2 enligt följande:
-
-Arbetsområdet ska vara avgränsat från annan verksamhet.
-
-Arbetsområdet ska kunna tillslutas för att möjliggöra dekontaminering med en validerad metod, om inte riskbedömningen visar annat.
-
-Smittämnen ska hanteras i ett slutet system som fysiskt avskiljer processen från den övriga omgivningen inom arbetsområdet.
-
-Det ska finnas separat ventilation för att förhindra luftföroreningar, om inte riskbedömningen visar annat.
-
-Bänkar, arbetsytor och golv ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Tillträde ska bara vara tillåtet för arbetstagare som är informerade om riskerna.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Utsläpp från det slutna systemet ska minimeras genom utformningen av tätningar, avluftning och metoder för insamling av prover, tillförsel av material och överföring av levande prover mellan system.
-
-Avloppsvatten från processen ska dekontamineras genom validerade metoder, före slutgiltigt utsläpp.
-
-Större mängder odlingsvätska ska dekontamineras genom validerade metoder, innan vätskan förs ut från det slutna systemet.
-
-Arbetstagarna ska bära arbetskläder och, om det behövs, personlig skyddsutrustning.
-
-### 25 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 3 i industriella processer bedrivs med åtgärder på minst skyddsnivå 3 enligt följande:
-
-Arbetsområdet ska vara avgränsat från annan verksamhet.
-
-Vid luftburen smitta, och i övrigt om inte riskbedömningen visar annat, ska arbetsområdet kunna tillslutas helt för att möjliggöra dekontaminering med en validerad metod.
-
-Smittämnen ska hanteras i ett slutet system som fysiskt avskiljer processen från den övriga omgivningen inom arbetsområdet.
-
-Det ska finnas separat ventilation för att förhindra luftföroreningar, om inte riskbedömningen visar annat.
-
-Bänkar, arbetsytor och golv ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Varningsskylten ska även informera om tillträdesrestriktioner och ange kontaktperson. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Utsläpp från det slutna systemet ska förhindras genom utformningen av tätningar, avluftning och metoder för insamling av prover, tillförsel av material och överföring av levande prover mellan system.
-
-Avloppsvatten från processen ska dekontamineras genom validerade kemiska eller fysikaliska metoder, före slutgiltigt utsläpp.
-
-Större mängder odlingsvätska ska dekontamineras genom validerade kemiska eller fysikaliska metoder, innan vätskan förs ut från det slutna systemet.
-
-Arbetstagarna ska bära arbetskläder och personlig skyddsutrustning.
-
-Vid arbete med smittämnen som sprids genom luften, och i övrigt om inte riskbedömningen visar annat, ska arbetsområdet ha undertryck och tillträde ska ske genom luftsluss.
-
-Frånluft ska filtreras med HEPA-filter och om riskbedömningen visar att det behövs, även tilluft.
-
-All vätska från ett slutet system ska kunna samlas i arbetsområdet.
-
-Arbetstagarna ska duscha innan de lämnar arbetsområdet, om inte riskbedömningen visar annat.
-
-### 26 §
-
-Arbetsgivaren ska se till att arbete med smittämnen i riskklass 4 i industriella processer bedrivs med åtgärder på skyddsnivå 4 enligt följande:
-
-Arbetsområdet ska vara helt avgränsat från annan verksamhet.
-
-Arbetsområdet ska kunna tillslutas helt för att möjliggöra dekontaminering med en validerad metod.
-
-Smittämnen ska hanteras i ett slutet system som fysiskt avskiljer processen från omgivningen.
-
-Det ska finnas separat ventilation för att förhindra luftföroreningar.
-
-Bänkar, arbetsytor, golv och väggar ska vara vattentäta och lätta att rengöra och de ska tåla syror, alkalier, lösningsmedel, desinfektionsmedel och liknande.
-
-Tillträde ska bara vara tillåtet för behöriga arbetstagare.
-
-Varningsskylten Biologisk fara ska finnas vid ingången till arbetsområdet. Skylten ska ange riskklass eller skyddsnivå. Varningsskylten ska även informera om tillträdesrestriktioner och ange kontaktperson. Bestämmelser om skyltar finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
-
-Utsläpp från det slutna systemet ska förhindras genom utformningen av tätningar, avluftning och metoder för insamling av prover, tillförsel av material och överföring av levande prover mellan system.
-
-Avloppsvatten från processen ska dekontamineras genom validerade kemiska eller fysikaliska metoder, före slutgiltigt utsläpp.
-
-Större mängder odlingsvätska ska dekontamineras genom validerade kemiska eller fysikaliska metoder, innan vätskan förs ut från det slutna systemet.
-
-Arbetstagarna ska byta om till arbetskläder och personlig skyddsutrustning innan tillträde till arbetsområdet.
-
-Arbetsområdet ska alltid ha undertryck och tillträde ska ske genom luftsluss.
-
-Både till- och frånluft ska filtreras med HEPA-filter.
-
-All vätska från ett slutet system ska kunna samlas i arbetsområdet.
-
-Arbetstagarna ska duscha innan de lämnar arbetsområdet.
-
-Anmälan av arbete med eller förvaring av koncentrerade smittämnen
-
-### 27 §
-
-Första gången arbetsgivaren avser att arbeta med, eller förvara, koncentrerade smittämnen i riskklass 2, 3 eller 4 ska arbetsgivaren anmäla verksamheten till Arbetsmiljöverket, senast 30 dagar innan arbetet påbörjas. Även när en sådan verksamhet ska flyttas till en annan adress, ska arbetsgivaren anmäla det senast 30 dagar före flytt.
-
-Anmälan behövs inte för verksamheter där arbetet med smittämnen enbart omfattar primär odling eller koncentrering direkt ur ett prov från människa eller djur, utan ytterligare odling.
-
-Anmälan behövs inte för verksamheter som omfattar arbete med genetiskt modifierade smittämnen där verksamheten är anmäld eller har tillstånd enligt bestämmelserna i [förordning (2000:271)](https://rkrattsbaser.gov.se/sfst?bet=2000%3A271) om innesluten användning av genetiskt modifierade organismer och Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:13) om risker vid vissa typer av arbeten i kapitlet om innesluten användning av genetiskt modifierade mikroorganismer.
-
-I anmälan ska följande uppgifter lämnas:
-
-Arbetsgivarens namn*, adress* och organisationsnummer**.
-
-Besöksadressen till arbetsstället där arbetet med smittämnen ska bedrivas**.
-
-Namn och kontaktuppgifter för den som är kontaktperson* vid anmälan.
-
-Namn, kontaktuppgifter, befattning och kunskaper för den person som har det övergripande ledningsansvaret för verksamheten där arbetet med smittämnen ska ske*.
-
-Namn, kontaktuppgifter, befattning och kunskaper för den person som har direkt ledningsansvar för arbetstagarna om det är någon annan än den som har det övergripande ledningsansvaret*.
-
-Verksamhetens inriktning: laboratorieverksamhet, försöksdjur med smittämnen, förvaring av koncentrerade smittämnen, industriell process eller annat (beskriv vad)**.
-
-Namn och riskklass för de smittämnen som hanteras*. En förteckning finns i bilaga 7.
-
-En kortfattad sammanfattning av de risker som har identifierats vid riskbedömningen enligt [4 §](#4-undersökning-och-riskbedömning)*.
-
-Vilken skyddsnivå som är nödvändig enligt resultatet av riskbedömningen**.
-
-Eventuella åtgärder som tillämpas, utöver de obligatoriska åtgärderna enligt [21](#21)–[26 §§](#26)*.
-
-Översiktlig beskrivning av vilka övriga förebyggande åtgärder som planeras*.
-
-Vid en ändring i någon av de uppgifter i fjärde stycket som är markerade med en asterisk (*) ska arbetsgivaren senast inom 30 dagar anmäla ändringen eller ändringarna till Arbetsmiljöverket.
-
-Vid en ändring i någon av de uppgifter i fjärde stycket som är markerade med två asterisker (**) måste arbetsgivaren göra en ny anmälan om arbete med smittämnen enligt första och fjärde stycket.
-
-Den arbetsgivare som underlåter att anmäla arbete med smittämnen i strid med kravet i första stycket ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
-
-Lägsta avgiften är 5 000 kronor och högsta avgiften är 50 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 50 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
-
-Avgift = 5 000 kronor + (antal sysselsatta – 1) × 90 kronor.
-
-Summan ska avrundas nedåt till närmaste hela hundratal.
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller för de arbetstagare som sysselsätts i handintensivt arbete, där riskbedömningen enligt [4 §](#4-undersökning-och-riskbedömning) visat att exponeringen ger en ökad risk för belastningsbesvär i nacke, skuldra, arm eller hand, trots vidtagna åtgärder.
 <!-- scan-laws:end -->
 
 ## Tolkning

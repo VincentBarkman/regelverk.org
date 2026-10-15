@@ -10,7 +10,7 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv'
 'url': 'https://www.av.se/arbetsmiljoarbete-och-inspektioner/publikationer/foreskrifter/afs-202310/'
@@ -21,59 +21,443 @@
 <!-- scan-laws:start -->
 ## Lagtext
 
-#### Övergångsbestämmelser
+#### Avdelning V: Kemiska riskkällor
 
-### Övergångsbestämmelser
+### 1 § – Då gäller föreskrifterna
 
-> _Denna författning träder i kraft den 1 januari 2025._
+Bestämmelserna i [detta kapitel](/lagstiftning/afs-2023-10/kap-8) preciserar och kompletterar bestämmelserna i [7 kap.](/lagstiftning/afs-2023-10/kap-7) och reglerar
 
-Genom denna författning upphävs
+alla verksamheter där vissa allergiframkallande ämnen och CMR-ämnen hanteras,
 
-Arbetarskyddsstyrelsens kungörelse (AFS 1981:14) om skyddsåtgärder mot skada genom fall med tillhörande kommentarer,
+tillstånd och förbud för vissa ämnen, och
 
-Arbetarskyddsstyrelsens kungörelse (AFS 1981:15) om skyddsåtgärder mot skada genom ras med tillhörande kommentarer,
+obligatoriska mätningar för vissa ämnen.
 
-Arbetarskyddsstyrelsens kungörelse med föreskrifter (AFS 1988:4) om blybatterier för drivning av fordon med tillhörande allmänna råd och kommentarer,
+### 2 § – Vem föreskrifterna riktar sig till
 
-Arbetarskyddsstyrelsens kungörelse med föreskrifter (AFS 1990:11) om arbete med försöksdjur med tillhörande allmänna råd och kommentarer,
+Arbetsgivaren ansvarar för att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-8) följs.
 
-Arbetarskyddsstyrelsens föreskrifter (AFS 1997:7) om gaser med tillhörande allmänna råd och kommentarer,
+Den som bara är arbetsgivare i egenskap av uthyrare av arbetstagare, är endast skyldig att följa föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-8) när det gäller att
 
-Arbetarskyddsstyrelsens föreskrifter (AFS 1998:6) om bekämpningsmedel med tillhörande allmänna råd och kommentarer,
+se till att de uthyrda arbetstagarna inte påbörjar sitt arbete innan en undersökning och riskbedömning är gjord och nödvändiga riskbegränsande åtgärder har vidtagits, och
 
-Arbetsmiljöverkets föreskrifter (AFS 2001:7) om anestesigaser med tillhörande allmänna råd och kommentarer,
+föra register enligt [20 §](#20).
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2003:3) om arbete i explosionsfarlig miljö med tillhörande allmänna råd och kommentarer,
+Av 3 kap. 5 § andra stycket [arbetsmiljölagen (1977:1160)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1160) följer att den som ensam eller gemensamt med familjemedlem driver yrkesmässig verksamhet utan anställd, omfattas av bestämmelserna om såväl arbetsgivare som arbetstagare i [detta kapitel](/lagstiftning/afs-2023-10/kap-8).
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2004:1) om syntetiska oorganiska fibrer med tillhörande allmänna råd,
+Av [1 och 3 kap.](/lagstiftning/arbetsmiljolagen/kap-1#3) arbetsmiljölagen följer att föreskrifterna i [detta kapitel](/lagstiftning/afs-2023-10/kap-8) under vissa omständigheter kan medföra skyldigheter även för andra än arbetsgivare.
 
-Arbetsmiljöverkets föreskrifter (AFS 2005:5) om cytostatika och andra läkemedel med bestående toxisk effekt med tillhörande allmänna råd och kommentarer,
+### 3 § – Definitioner
 
-Arbetsmiljöverkets föreskrifter (AFS 2005:15) om vibrationer med tillhörande allmänna råd och kommentarer,
+I [detta kapitel](/lagstiftning/afs-2023-10/kap-8) har, utöver vad som definieras i [7 kap. 3 §](/lagstiftning/afs-2023-10/kap-7#3-definitioner), följande begrepp dessa betydelser.
 
-Arbetsmiljöverkets föreskrifter (AFS 2005:16) om buller med tillhörande allmänna råd och kommentarer,
+<table><tbody><tr><th><div><div>Begrepp</div></div></th><th><div><div>Betydelse</div></div></th></tr><tr><td><div><div>CMR-ämnen</div></div></td><td><div><div>Cancerframkallande, mutagena eller reproduktionsstörande ämnen.</div></div></td></tr><tr><td><div><div>Epoxiplastkomponent</div></div></td><td><div><div>Reaktionsprodukt mellan en epoxid, vanligtvis epiklorhydrin, och exempelvis bisfenol&nbsp;A.</div></div></td></tr><tr><td><div><div>Försumbar exponering</div></div></td><td><div><div>Exponering där risken för ohälsa eller olycksfall är på samma nivå som om arbetstagaren inte utsätts för exponeringen.</div></div></td></tr><tr><td><div><div>Kvarts</div></div></td><td><div><div>Kiseldioxid som är kristallin eller delvis kristallin.</div></div></td></tr><tr><td><div><div>Respirabelt damm</div></div></td><td><div><div>Dammpartiklar som kan inandas och som kan nå alveolerna längst ut i lungorna.</div></div></td></tr><tr><td><div><div>Specialfibrer</div></div></td><td><div><div>Syntetiska oorganiska icke-kristallina (silikat-)fibrer, som är slumpvis orienterade och vars totala innehåll av oxider av alkalimetaller och alkaliska jordartsmetaller (Na<sub>2</sub>O+K<sub>2</sub>O+CaO+MgO+BaO) är lika med eller understiger 18&nbsp;viktprocent.</div></div></td></tr><tr><td><div><div>Syntetiska oorganiska fibrer</div></div></td><td><div><div>Tillverkade fibrer, både kristallina och icke-kristallina (amorfa).</div></div></td></tr><tr><td><div><div>Särskilt farliga syntetiska oorganiska fibrer</div></div></td><td><div><div>Syntetiska oorganiska eldfasta keramiska fibrer, specialfibrer eller kristallina fibrer.</div></div></td></tr></tbody></table>
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2009:7) om artificiell optisk strålning med tillhörande allmänna råd och kommentarer,
+### 4 § – Allergiframkallande kemiska ämnen
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2011:19) om kemiska arbetsmiljörisker,
+Bestämmelserna i [5](#5)–[12 §§](#12) reglerar när arbetstagare exponeras för följande allergiframkallande ämnen:
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2012:2) om belastningsergonomi,
+Farliga kemiska produkter som uppfyller kriterierna i [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) för att märkas med faroangivelserna
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2015:2) om kvarts – stendamm i arbetsmiljön,
+H317 kan orsaka allergisk hudreaktion, eller
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2016:3) om elektromagnetiska fält,
+H334 kan orsaka allergi- eller astmasymtom eller andningssvårigheter vid inandning.
 
-Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2018:4) om smittrisker, och
+Kemiska ämnen och blandningar som innehåller
 
-Arbetarskyddsstyrelsens kungörelse (AFS 1992:9) med föreskrifter om smältsvetsning och termisk skärning med tillhörande allmänna råd och kommentarer.
+etyl-2-cyanoakrylat, eller
 
-(AFS 2024:3)
+metyl-2-cyanoakrylat.
 
-Tillstånd, godkännanden, undantag, dispenser, villkor, förelägganden, förbud, avgiftsförelägganden, anmälningar, registreringar, rapporter, intyg, journaler och annan dokumentation, samt andra beslut eller åtgärder i enskilda fall enligt de upphävda föreskrifterna, fortsätter att gälla enligt motsvarande bestämmelser i de nya föreskrifterna.
+Isocyanater som frisätts vid termisk nedbrytning.
 
-AFS 2025:1
+Formaldehyd som frisätts under processer.
 
-> _Denna författning träder i kraft den 1 augusti 2025 i fråga om [7 kap. 25 §](/lagstiftning/afs-2023-10/kap-7#25) och i övrigt den 9 april 2026._
+Om riskbedömningen visar att exponeringen för allergiframkallande ämnen enligt första stycket är försumbar och att skyddsåtgärder därför inte behövs för säkerheten, gäller inte kraven i [5](#5)–[12 §§](#12). Skälen till att exponeringen bedöms som försumbar ska dokumenteras skriftligt.
+
+> _Allmänna råd_
+>
+> Skyddsåtgärder kan vara att använda punktutsug eller personlig skyddsutrustning.
+
+### 5 §
+
+Vid hantering av allergiframkallande ämnen enligt [4 §](#4-allergiframkallande-kemiska-ämnen) ska arbetsgivaren se till att det finns skriftlig dokumentation som anger hur funktionen hos ventilation och arbetsutrustning ska kontrolleras.
+
+Skyltning
+
+### 6 §
+
+Vid öppen hantering av allergiframkallande ämnen enligt [4 §](#4-allergiframkallande-kemiska-ämnen) ska arbetsgivaren sätta upp skyltar i anslutning till arbetsplatsen för att varna andra arbetstagare om att arbete pågår. Skyltarna ska visa vilka ämnen det handlar om. Skyltarna kan uteslutas, om risken för andra arbetstagare är försumbar.
+
+> _Allmänna råd_
+>
+> Det kan vara lämpligt att välja varningsskylten Fara som finns i bilaga 3 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:12) om utformning av arbetsplatser.
+
+### 7 §
+
+Det krävs särskild utbildning för dem som leder eller utför arbete som innebär exponering för
+
+farliga kemiska produkter som enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) klassificeras som H317 eller H334 på grund av sitt innehåll av
+
+akrylater,
+
+epoxiplastkomponenter,
+
+formaldehydhartser, eller
+
+organiska syraanhydrider,
+
+farliga kemiska produkter som enligt CLP-förordningen klassificeras som H317 eller H334 på grund av sitt innehåll av diisocyanater och inte omfattas av utbildningskraven i post 74 bilaga XVII [förordningen (EG) nr 1907/2006](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:31907R2006) (Reach),
+
+kemiska ämnen och blandningar som innehåller
+
+etyl-2-cyanoakrylat, eller
+
+metyl-2-cyanoakrylat
+
+om arbetet sammanlagt pågår mer än 30 minuter per vecka,
+
+diisocyanater som frisätts vid termisk nedbrytning, eller
+
+formaldehyd som frisätts under processer.
+
+> _Allmänna råd_
+>
+> Diisocyanater som omfattas av utbildningskraven i Reach-förordningen är diisocyanater med strukturen
+>
+> O=C=N–R–N=C=O, där R är en alifatisk eller aromatisk kolväteenhet av ospecificerad längd. Om R innehåller till exempel uretan eller ureabindningar så omfattas dessa ämnen inte av utbildningskravet i Reach-förordningen. Det innebär att prepolymeriserade och oligomera diisocyanater är exempel på diisocyanater som omfattas av utbildningskravet i föreskriften men som inte omfattas av utbildningskraven i Reach-förordningen. Genomgår man en utbildning som krävs enligt Reach-förordningen, har man även uppfyllt Arbetsmiljöverkets krav på utbildning.
+
+### 8 §
+
+Den som leder utbildningen som avses i [7 §](#7) ska ha goda kunskaper om
+
+kemiska arbetsmiljörisker,
+
+allergiframkallande ämnen,
+
+specifika risker som arbetet medför, och
+
+hur riskerna ska minimeras.
+
+### 9 §
+
+Utbildningen som krävs enligt [7 §](#7) ska vara anpassad till målgruppen och minst omfatta
+
+vilka risker arbetet innebär,
+
+vilka skyddsåtgärder som behövs, och
+
+hur rengöring och sanering ska utföras.
+
+### 10 §
+
+Utbildning som uppfyller kraven i [7](#7)–[9 §§](#9) ska kunna styrkas med ett utbildningsintyg som får högst vara 5 år gammalt.
+
+Utbildningsintyget ska innehålla
+
+namn och födelsedatum på den som gått utbildningen,
+
+vilka moment som ingått i utbildningen, och
+
+när intyget utfärdades.
+
+Den arbetsgivare som låter en eller flera arbetstagare utan sådant utbildningsintyg som anges i första och andra styckena leda eller utföra arbete som avses i [7 §](#7) ska betala en sanktionsavgift om 10 000 kronor för varje sådan arbetstagare.
+
+Medicinska kontroller
+
+### 11 §
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller för de arbetstagare som kommer att sysselsättas eller sysselsätts i arbete som innebär exponering för farliga kemiska produkter som enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) klassificeras som H317 eller H334 på grund av sitt innehåll av
+
+akrylater,
+
+epoxiplastkomponenter, eller
+
+formaldehydhartser.
+
+Första stycket gäller inte om arbetsgivarens riskbedömning visar att exponeringen för ovan nämnda ämnen är försumbar även om personlig skyddsutrustning inte används.
+
+Skälen till att exponeringen bedöms som försumbar ska dokumenteras skriftligt.
+
+### 12 §
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller med bedömning för tjänstbarhetsintyg för de arbetstagare, som kommer att sysselsättas eller sysselsätts i arbete som innebär exponering för följande:
+
+Farliga kemiska produkter som enligt [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) klassificeras som H334 på grund av sitt innehåll av
+
+diisocyanater, eller
+
+organiska syraanhydrider.
+
+Kemiska ämnen och blandningar som innehåller
+
+etyl-2-cyanoakrylat, eller
+
+metyl-2-cyanoakrylat
+
+och om arbetet sammanlagt pågår mer än 30 minuter per vecka.
+
+Diisocyanater som bildas vid termisk nedbrytning.
+
+Första stycket gäller inte om arbetsgivarens riskbedömning visar att exponeringen för ovan nämnda ämnen i luften är försumbar även om andningsskydd inte används.
+
+Skälen till att exponeringen bedöms som försumbar ska dokumenteras skriftligt.
+
+Bestämmelser om sanktionsavgifter för den arbetsgivare som sysselsätter arbetstagare som inte har ett tjänstbarhetsintyg finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet.
+
+### 13 § – Cancerframkallande, mutagena och reproduktionsstörande kemiska ämnen
+
+Bestämmelserna i [14](#14)–[20 §§](#20) reglerar all hantering av cancerframkallande, mutagena eller reproduktionsstörande ämnen, så kallade CMR-ämnen, som är kemiska ämnen och blandningar, vilka har tillverkats eller utvunnits, samt uppfyller kriterierna i [förordningen (EG) nr 1272/2008](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32008R1272) (CLP) för att märkas med följande faroangivelser
+
+H350 kan orsaka cancer,
+
+H340 kan orsaka genetiska defekter, eller
+
+H360 kan skada fertiliteten eller det ofödda barnet.
+
+Bestämmelserna i [14](#14)–[20 §§](#20) reglerar även följande arbeten och verksamheter:
+
+Arbete som innebär exponering för
+
+trädamm från lövträd,
+
+respirabelt kristallint kvartsdamm,
+
+asbesthaltigt damm,
+
+dieselavgaser,
+
+polycykliska aromatiska kolväten i sot, tjära eller beck av kol, eller
+
+damm, rökgaser eller stänk som uppstått vid avbränning och elektroraffinering av kopparnickelskärsten.
+
+Arbete som innebär hudexponering för mineraloljor som tidigare har använts för att smörja och kyla rörliga delar i en förbränningsmotor.
+
+Framställning av auramin.
+
+Processer där stark syra ingår vid framställningen av isopropylalkohol.
+
+(AFS 2025:1)
+
+Utredning om CMR-ämne eller process kan ersättas
+
+### 14 §
+
+Arbetsgivaren ska utreda om det är tekniskt möjligt att ersätta CMR-ämnen enligt [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) första stycket med andra ämnen, produkter eller processer som medför lägre risk. Utredningen ska dokumenteras skriftligt.
+
+Ett CMR-ämne enligt [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) första stycket får inte hanteras om det är tekniskt möjligt att ersätta CMR-ämnet.
+
+Arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) andra stycket får inte bedrivas om det är tekniskt möjligt att eliminera exponeringen för ämnen och blandningar som anges i det stycket.
+
+Kraven i första till tredje styckena gäller inte för CMR-ämnen som används för motordrift eller uppvärmning, eller förvaras för sådan användning. Kraven i första till tredje styckena gäller inte heller för asbesthaltigt damm.
+
+(AFS 2025:1)
+
+Dokumentera resultatet av riskbedömningen
+
+### 15 §
+
+Vid hantering av CMR-ämnen, eller vid sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen), ska arbetsgivaren se till att dokumentationen om resultatet av riskbedömningen och valet av åtgärder tydligt anger
+
+vilka skyddsåtgärder som är nödvändiga för att minimera exponeringen,
+
+i vilka situationer personlig skyddsutrustning krävs, samt
+
+rutiner för underhåll och kontroll av
+
+funktion hos ventilation, och
+
+arbets- och processutrustning.
+
+Åtgärder
+
+### 16 §
+
+Arbetsgivaren ska se till att CMR-ämnen eller sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) hanteras i ett slutet system, om det är tekniskt möjligt.
+
+(AFS 2025:1)
+
+### 17 §
+
+Om det inte är tekniskt möjligt att hantera CMR-ämnen eller sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) i ett slutet system, ska arbetsgivaren se till att exponeringen hålls så låg som det är tekniskt möjligt genom att vidta alla åtgärder nedan:
+
+Använda arbetssätt och processer som minskar riskerna.
+
+Välja och anpassa utrustning och metoder, så att luftföroreningar bildas i så liten omfattning som möjligt.
+
+Använda punktutsug eller annan processventilation, så nära källan som möjligt.
+
+Använda skyddskläder och skyddshandskar, om det finns risk för kontakt med CMR-ämnen. De ska bytas vid övergång till annat arbete.
+
+Ordna separata förvaringsplatser för arbets- eller skyddskläder och för privata kläder.
+
+Samla upp spill så snabbt och säkert som möjligt.
+
+Rengöra ytor som har förorenats. Detta ska göras när arbetsuppgiften slutförts, dock minst dagligen.
+
+Förvara och transportera avfall från hanteringen i stötsäkra, förslutna och tydligt märkta behållare.
+
+Övervaka funktionen hos utrustning, process eller ventilation, för att kunna upptäcka oförutsedda händelser eller olycksfall som kan innebära ökad risk för exponering av CMR-ämnen.
+
+(AFS 2025:1)
+
+### 18 §
+
+Arbetsgivaren ska planera arbetet med CMR-ämnen eller sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) så att bara de arbetstagare som behövs för arbetet finns i närheten av hanteringen.
+
+Kunskaper
+
+### 19 §
+
+De hanterings- och skyddsinstruktioner som arbetsgivaren ska ta fram enligt [7 kap. 22 §](/lagstiftning/afs-2023-10/kap-7#22-kunskaper) ska alltid vara skriftliga för hantering av CMR-ämnen samt för sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen).
+
+Register
+
+### 20 §
+
+Arbetsgivaren ska föra register över de arbetstagare som exponerats för CMR-ämnen eller sådana arbeten och verksamheter som anges i [13 §](#13-cancerframkallande-mutagena-och-reproduktionsstörande-kemiska-ämnen) i en sådan omfattning att det kan innebära risk för ohälsa.
+
+Registret ska innehålla uppgifter om
+
+arbetstagarens namn,
+
+arbetsuppgifter,
+
+vilka CMR-ämnen som arbetstagaren exponerats för, och
+
+uppmätt eller uppskattad exponering.
+
+Arbetsgivaren ska spara register som ska föras enligt första stycket, och som avser kemiska ämnen och blandningar som uppfyller kriterierna för att märkas med faroangivelsen H360, i minst fem år efter att exponeringen har upphört.
+
+För andra kemiska ämnen och blandningar än de som avses i tredje stycket, följer av [3 § arbetsmiljöförordningen (1977:1166)](https://rkrattsbaser.gov.se/sfst?bet=1977%3A1166) att arbetsgivare ska spara register som ska föras enligt första stycket under minst 40 år efter att exponeringen har upphört.
+
+### 21 § – Förbud och krav på tillstånd
+
+Det är förbjudet att hantera en kemisk riskkälla som innehåller 0,1 viktprocent eller mer av de ämnen som anges i bilaga 6 tabell 5 grupp A. För erionit gäller förbudet om halten är 1 viktprocent eller mer.
+
+Förbudet gäller inte vid lagerhållning för försäljning och transport av obrutna originalförpackningar.
+
+Förbudet gäller inte heller när det finns ett tillstånd utfärdat av Arbetsmiljöverket för
+
+forskning om effekter av cancerframkallande ämnen,
+
+utveckling av analysmetoder för ett ämne som tillhör grupp A, eller
+
+verksamhet där det finns särskilda skäl att hantera ett sådant ämne.
+
+Den arbetsgivare, som låter en eller flera arbetstagare hantera en eller flera kemiska riskkällor i strid med kraven i första stycket, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
+
+Lägsta avgiften är 40 000 kronor och högsta avgiften är 400 000 kronor. För den som har 500 eller fler sysselsatta, är avgiften 400 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift 40 000 kronor + (antal sysselsatta – 1) × 721 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+### 22 §
+
+Det är förbjudet att hantera en kemisk riskkälla som innehåller 1 viktprocent eller mer av de ämnen som anges i bilaga 6 tabell 6–8 grupp B utan tillstånd utfärdat av Arbetsmiljöverket.
+
+Förbudet gäller inte vid lagerhållning för försäljning och transport av obrutna originalförpackningar.
+
+Den arbetsgivare som låter en eller flera arbetstagare hantera en eller flera kemiska riskkällor i strid med kravet i första stycket, ska betala en sanktionsavgift. I antalet sysselsatta inräknas personer på verksamhetens samtliga arbetsställen. Det är antalet sysselsatta dagen för överträdelsen som ska utgöra underlag för beräkning av avgiften.
+
+Lägsta avgiften är 15 000 kronor och högsta avgiften är 150 000 kronor. För den som har 500 eller fler sysselsatta är avgiften 150 000 kronor. För den som har färre än 500 sysselsatta ska sanktionsavgiften beräknas enligt följande:
+
+Avgift = 15 000 kronor + (antal sysselsatta – 1) × 271 kronor.
+
+Summan ska avrundas nedåt till närmaste hela hundratal.
+
+Vid överträdelse av både [21](#21-förbud-och-krav-på-tillstånd) och [22 §§](#22) utgår sanktionsavgift bara enligt [21 §](#21-förbud-och-krav-på-tillstånd).
+
+### 23 §
+
+I ansökan om tillstånd enligt [21](#21-förbud-och-krav-på-tillstånd) eller [22 §§](#22) ska följande anges:
+
+vilken kemisk riskkälla som ska hanteras,
+
+syftet med hanteringen,
+
+beskrivning av arbetsmetoden,
+
+antal personer som berörs,
+
+den största mängd som används under en arbetsdag,
+
+den största mängd som finns på arbetsplatsen,
+
+årsförbrukning,
+
+för vilken tidsperiod tillstånd söks,
+
+skälen till att den kemiska riskkällan inte kan ersättas av en mindre farlig kemisk riskkälla,
+
+dokumentation om resultatet av riskbedömningen och valet av åtgärder,
+
+hanterings- och skyddsinstruktioner, och
+
+yttrande från skyddsombud alternativt arbetsmiljöombud, om sådant finns.
+
+### 24 § – Obligatoriska mätningar och tjänstbarhetsintyg
+
+Arbetsgivaren ska se till att genomföra yrkeshygieniska mätningar i andningszonen, när det kan förekomma exponering via inandning av
+
+bly och oorganiska blyföreningar,
+
+etylenoxid,
+
+kadmium och oorganiska kadmiumföreningar,
+
+styren, vinyltoluen eller andra reaktiva monomerer vid esterplastframställning, eller
+
+särskilt farliga syntetiska oorganiska fibrer.
+
+Mätningar enligt första stycket behöver inte genomföras om riskbedömningen visar att exponeringen är försumbar. Skälen till att exponeringen bedöms som försumbar ska dokumenteras skriftligt.
+
+### 25 §
+
+Mätningar som krävs enligt [24 §](#24-obligatoriska-mätningar-och-tjänstbarhetsintyg), ska genomföras
+
+senast 3 månader efter att
+
+hanteringen påbörjats, eller
+
+ändrats så att exponeringen kan ha ökat, och därefter
+
+minst 1 gång per år.
+
+### 26 §
+
+Om båda mätresultaten från de 2 senaste mätningarna enligt [25 §](#25)
+
+är under 1/2 nivågränsvärdet kan mätning genomföras var 3:e år, eller
+
+är under 1/5 av nivågränsvärdet kan mätning genomföras var 5:e år.
+
+Tidsintervallen mellan mätningarna får överskridas med högst 2 månader.
+
+### 27 §
+
+Mätningen enligt [24](#24-obligatoriska-mätningar-och-tjänstbarhetsintyg)–[26 §§](#26) ska dokumenteras skriftligt i en mätrapport, enligt anvisningar i bilaga 2 till Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:14) om gränsvärden för luftvägsexponering i arbetsmiljön.
+
+Senast 3 månader efter att en mätning har gjorts, ska en kopia av mätrapporten skickas till Arbetsmiljöverket.
+
+Medicinska kontroller och biologiska exponeringskontroller
+
+### 28 §
+
+I Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet finns krav på att arbetsgivaren ska anordna medicinska kontroller med bedömning för tjänstbarhetsintyg och biologiska exponeringskontroller för arbetstagare, som kommer att sysselsättas eller sysselsätts i arbete som innebär exponering för
+
+bly,
+
+kadmium, eller
+
+kvicksilver.
+
+Första stycket gäller inte om riskbedömningen visar att exponeringen är försumbar även om personlig skyddsutrustning inte används.
+
+Skälen till att exponeringen bedöms som försumbar ska dokumenteras skriftligt.
+
+Bestämmelser om sanktionsavgifter, för den arbetsgivare som sysselsätter arbetstagare som inte har ett tjänstbarhetsintyg, finns i Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:15) om medicinska kontroller i arbetslivet.
 <!-- scan-laws:end -->
 
 ## Tolkning

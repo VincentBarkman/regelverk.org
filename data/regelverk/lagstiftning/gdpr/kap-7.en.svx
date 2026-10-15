@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0006.03#cpt_VII'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#cpt_VII'
 'sites':
   - 'it'
   - 'ot'
@@ -50,7 +50,7 @@
 
 ### Article 61 – Mutual assistance
 
-1\. Supervisory authorities shall provide each other with relevant information and mutual assistance in order to implement and apply [this Regulation](/lagstiftning/gdpr) in a consistent manner, and shall put in place measures for effective cooperation with one another. Mutual assistance shall cover, in particular, information requests and supervisory measures, such as requests to carry out prior authorisations and consultations, inspections and investigations.
+1\. Supervisory authorities shall provide each other with relevant information and mutual assistance in order to implement and apply [this Regulation](/en/lagstiftning/gdpr) in a consistent manner, and shall put in place measures for effective cooperation with one another. Mutual assistance shall cover, in particular, information requests and supervisory measures, such as requests to carry out prior authorisations and consultations, inspections and investigations.
 
 2\. Each supervisory authority shall take all appropriate measures required to reply to a request of another supervisory authority without undue delay and no later than one month after receiving the request. Such measures may include, in particular, the transmission of relevant information on the conduct of an investigation.
 
@@ -60,7 +60,7 @@
 
 (a) it is not competent for the subject-matter of the request or for the measures it is requested to execute; or
 
-(b) compliance with the request would infringe [this Regulation](/lagstiftning/gdpr) or Union or Member State law to which the supervisory authority receiving the request is subject.
+(b) compliance with the request would infringe [this Regulation](/en/lagstiftning/gdpr) or Union or Member State law to which the supervisory authority receiving the request is subject.
 
 5\. The requested supervisory authority shall inform the requesting supervisory authority of the results or, as the case may be, of the progress of the measures taken in order to respond to the request. The requested supervisory authority shall provide reasons for any refusal to comply with a request pursuant to paragraph 4.
 
@@ -68,15 +68,15 @@
 
 7\. Requested supervisory authorities shall not charge a fee for any action taken by them pursuant to a request for mutual assistance. Supervisory authorities may agree on rules to indemnify each other for specific expenditure arising from the provision of mutual assistance in exceptional circumstances.
 
-8\. Where a supervisory authority does not provide the information referred to in paragraph 5 of [this Article](#article-61-mutual-assistance) within one month of receiving the request of another supervisory authority, the requesting supervisory authority may adopt a provisional measure on the territory of its Member State in accordance with Article [55](/lagstiftning/gdpr/kap-6#article-55-competence)(1). In that case, the urgent need to act under Article [66](#article-66-urgency-procedure)(1) shall be presumed to be met and require an urgent binding decision from the Board pursuant to Article [66](#article-66-urgency-procedure)(2).
+8\. Where a supervisory authority does not provide the information referred to in paragraph 5 of [this Article](#article-61-mutual-assistance) within one month of receiving the request of another supervisory authority, the requesting supervisory authority may adopt a provisional measure on the territory of its Member State in accordance with Article [55](/en/lagstiftning/gdpr/kap-6#article-55-competence)(1). In that case, the urgent need to act under Article [66](#article-66-urgency-procedure)(1) shall be presumed to be met and require an urgent binding decision from the Board pursuant to Article [66](#article-66-urgency-procedure)(2).
 
-9\. The Commission may, by means of implementing acts, specify the format and procedures for mutual assistance referred to in [this Article](#article-61-mutual-assistance) and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of [this Article](#article-61-mutual-assistance). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [93](/lagstiftning/gdpr/kap-10#article-93-committee-procedure)(2).
+9\. The Commission may, by means of implementing acts, specify the format and procedures for mutual assistance referred to in [this Article](#article-61-mutual-assistance) and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of [this Article](#article-61-mutual-assistance). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [93](/en/lagstiftning/gdpr/kap-10#article-93-committee-procedure)(2).
 
 ### Article 62 – Joint operations of supervisory authorities
 
 1\. The supervisory authorities shall, where appropriate, conduct joint operations including joint investigations and joint enforcement measures in which members or staff of the supervisory authorities of other Member States are involved.
 
-2\. Where the controller or processor has establishments in several Member States or where a significant number of data subjects in more than one Member State are likely to be substantially affected by processing operations, a supervisory authority of each of those Member States shall have the right to participate in joint operations. The supervisory authority which is competent pursuant to Article [56](/lagstiftning/gdpr/kap-6#article-56-competence-of-the-lead-supervisory-authority)(1) or (4) shall invite the supervisory authority of each of those Member States to take part in the joint operations and shall respond without delay to the request of a supervisory authority to participate.
+2\. Where the controller or processor has establishments in several Member States or where a significant number of data subjects in more than one Member State are likely to be substantially affected by processing operations, a supervisory authority of each of those Member States shall have the right to participate in joint operations. The supervisory authority which is competent pursuant to Article [56](/en/lagstiftning/gdpr/kap-6#article-56-competence-of-the-lead-supervisory-authority)(1) or (4) shall invite the supervisory authority of each of those Member States to take part in the joint operations and shall respond without delay to the request of a supervisory authority to participate.
 
 3\. A supervisory authority may, in accordance with Member State law, and with the seconding supervisory authority's authorisation, confer powers, including investigative powers on the seconding supervisory authority's members or staff involved in joint operations or, in so far as the law of the Member State of the host supervisory authority permits, allow the seconding supervisory authority's members or staff to exercise their investigative powers in accordance with the law of the Member State of the seconding supervisory authority. Such investigative powers may be exercised only under the guidance and in the presence of members or staff of the host supervisory authority. The seconding supervisory authority's members or staff shall be subject to the Member State law of the host supervisory authority.
 
@@ -86,27 +86,27 @@
 
 6\. Without prejudice to the exercise of its rights vis-à-vis third parties and with the exception of paragraph 5, each Member State shall refrain, in the case provided for in paragraph 1, from requesting reimbursement from another Member State in relation to damage referred to in paragraph 4.
 
-7\. Where a joint operation is intended and a supervisory authority does not, within one month, comply with the obligation laid down in the second sentence of paragraph 2 of [this Article](#article-62-joint-operations-of-supervisory-authorities), the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article [55](/lagstiftning/gdpr/kap-6#article-55-competence). In that case, the urgent need to act under Article [66](#article-66-urgency-procedure)(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article [66](#article-66-urgency-procedure)(2).
+7\. Where a joint operation is intended and a supervisory authority does not, within one month, comply with the obligation laid down in the second sentence of paragraph 2 of [this Article](#article-62-joint-operations-of-supervisory-authorities), the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article [55](/en/lagstiftning/gdpr/kap-6#article-55-competence). In that case, the urgent need to act under Article [66](#article-66-urgency-procedure)(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article [66](#article-66-urgency-procedure)(2).
 
 ### Article 63 – Consistency mechanism
 
-In order to contribute to the consistent application of [this Regulation](/lagstiftning/gdpr) throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in [this Section](/lagstiftning/gdpr/kap-7).
+In order to contribute to the consistent application of [this Regulation](/en/lagstiftning/gdpr) throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in [this Section](/en/lagstiftning/gdpr/kap-7).
 
 ### Article 64 – Opinion of the Board
 
 1\. The Board shall issue an opinion where a competent supervisory authority intends to adopt any of the measures below. To that end, the competent supervisory authority shall communicate the draft decision to the Board, when it:
 
-(a) aims to adopt a list of the processing operations subject to the requirement for a data protection impact assessment pursuant to Article [35](/lagstiftning/gdpr/kap-4#article-35-data-protection-impact-assessment)(4);
+(a) aims to adopt a list of the processing operations subject to the requirement for a data protection impact assessment pursuant to Article [35](/en/lagstiftning/gdpr/kap-4#article-35-data-protection-impact-assessment)(4);
 
-(b) concerns a matter pursuant to Article [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(7) whether a draft code of conduct or an amendment or extension to a code of conduct complies with [this Regulation](/lagstiftning/gdpr);
+(b) concerns a matter pursuant to Article [40](/en/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(7) whether a draft code of conduct or an amendment or extension to a code of conduct complies with [this Regulation](/en/lagstiftning/gdpr);
 
-(c) aims to approve the criteria for accreditation of a body pursuant to Article [41](/lagstiftning/gdpr/kap-4#article-41-monitoring-of-approved-codes-of-conduct)(3) or a certification body pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(3);
+(c) aims to approve the criteria for accreditation of a body pursuant to Article [41](/en/lagstiftning/gdpr/kap-4#article-41-monitoring-of-approved-codes-of-conduct)(3) or a certification body pursuant to Article [43](/en/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(3);
 
-(d) aims to determine standard data protection clauses referred to in point (d) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(2) and in Article [28](/lagstiftning/gdpr/kap-4#article-28-processor)(8);
+(d) aims to determine standard data protection clauses referred to in point (d) of Article [46](/en/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(2) and in Article [28](/en/lagstiftning/gdpr/kap-4#article-28-processor)(8);
 
-(e) aims to authorise contractual clauses referred to in point (a) of Article [46](/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(3); or
+(e) aims to authorise contractual clauses referred to in point (a) of Article [46](/en/lagstiftning/gdpr/kap-5#article-46-transfers-subject-to-appropriate-safeguards)(3); or
 
-(f) aims to approve binding corporate rules within the meaning of Article [47](/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules).
+(f) aims to approve binding corporate rules within the meaning of Article [47](/en/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules).
 
 2\. Any supervisory authority, the Chair of the Board or the Commission may request that any matter of general application or producing effects in more than one Member State be examined by the Board with a view to obtaining an opinion, in particular where a competent supervisory authority does not comply with the obligations for mutual assistance in accordance with Article [61](#article-61-mutual-assistance) or for joint operations in accordance with Article [62](#article-62-joint-operations-of-supervisory-authorities).
 
@@ -128,9 +128,9 @@ In order to contribute to the consistent application of [this Regulation](/lagst
 
 ### Article 65 – Dispute resolution by the Board
 
-1\. In order to ensure the correct and consistent application of [this Regulation](/lagstiftning/gdpr) in individual cases, the Board shall adopt a binding decision in the following cases:
+1\. In order to ensure the correct and consistent application of [this Regulation](/en/lagstiftning/gdpr) in individual cases, the Board shall adopt a binding decision in the following cases:
 
-(a) where, in a case referred to in Article [60](#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned)(4), a supervisory authority concerned has raised a relevant and reasoned objection to a draft decision of the lead authority or the lead authority has rejected such an objection as being not relevant or reasoned. The binding decision shall concern all the matters which are the subject of the relevant and reasoned objection, in particular whether there is an infringement of [this Regulation](/lagstiftning/gdpr);
+(a) where, in a case referred to in Article [60](#article-60-cooperation-between-the-lead-supervisory-authority-and-the-other-supervisory-authorities-concerned)(4), a supervisory authority concerned has raised a relevant and reasoned objection to a draft decision of the lead authority or the lead authority has rejected such an objection as being not relevant or reasoned. The binding decision shall concern all the matters which are the subject of the relevant and reasoned objection, in particular whether there is an infringement of [this Regulation](/en/lagstiftning/gdpr);
 
 (b) where there are conflicting views on which of the supervisory authorities concerned is competent for the main establishment;
 
@@ -160,7 +160,7 @@ In order to contribute to the consistent application of [this Regulation](/lagst
 
 The Commission may adopt implementing acts of general scope in order to specify the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in Article [64](#article-64-opinion-of-the-board).
 
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [93](/lagstiftning/gdpr/kap-10#article-93-committee-procedure)(2).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article [93](/en/lagstiftning/gdpr/kap-10#article-93-committee-procedure)(2).
 
 ### Article 68 – European Data Protection Board
 
@@ -170,11 +170,11 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 3\. The Board shall be composed of the head of one supervisory authority of each Member State and of the European Data Protection Supervisor, or their respective representatives.
 
-4\. Where in a Member State more than one supervisory authority is responsible for monitoring the application of the provisions pursuant to [this Regulation](/lagstiftning/gdpr), a joint representative shall be appointed in accordance with that Member State's law.
+4\. Where in a Member State more than one supervisory authority is responsible for monitoring the application of the provisions pursuant to [this Regulation](/en/lagstiftning/gdpr), a joint representative shall be appointed in accordance with that Member State's law.
 
 5\. The Commission shall have the right to participate in the activities and meetings of the Board without voting right. The Commission shall designate a representative. The Chair of the Board shall communicate to the Commission the activities of the Board.
 
-6\. In the cases referred to in Article [65](#article-65-dispute-resolution-by-the-board), the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of [this Regulation](/lagstiftning/gdpr).
+6\. In the cases referred to in Article [65](#article-65-dispute-resolution-by-the-board), the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of [this Regulation](/en/lagstiftning/gdpr).
 
 ### Article 69 – Independence
 
@@ -184,43 +184,43 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 ### Article 70 – Tasks of the Board
 
-1\. The Board shall ensure the consistent application of [this Regulation](/lagstiftning/gdpr). To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
+1\. The Board shall ensure the consistent application of [this Regulation](/en/lagstiftning/gdpr). To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
 
-(a) monitor and ensure the correct application of [this Regulation](/lagstiftning/gdpr) in the cases provided for in Articles [64](#article-64-opinion-of-the-board) and [65](#article-65-dispute-resolution-by-the-board) without prejudice to the tasks of national supervisory authorities;
+(a) monitor and ensure the correct application of [this Regulation](/en/lagstiftning/gdpr) in the cases provided for in Articles [64](#article-64-opinion-of-the-board) and [65](#article-65-dispute-resolution-by-the-board) without prejudice to the tasks of national supervisory authorities;
 
-(b) advise the Commission on any issue related to the protection of personal data in the Union, including on any proposed amendment of [this Regulation](/lagstiftning/gdpr);
+(b) advise the Commission on any issue related to the protection of personal data in the Union, including on any proposed amendment of [this Regulation](/en/lagstiftning/gdpr);
 
 (c) advise the Commission on the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules;
 
-(d) issue guidelines, recommendations, and best practices on procedures for erasing links, copies or replications of personal data from publicly available communication services as referred to in Article [17](/lagstiftning/gdpr/kap-3#article-17-right-to-erasure-right-to-be-forgotten)(2);
+(d) issue guidelines, recommendations, and best practices on procedures for erasing links, copies or replications of personal data from publicly available communication services as referred to in Article [17](/en/lagstiftning/gdpr/kap-3#article-17-right-to-erasure-right-to-be-forgotten)(2);
 
-(e) examine, on its own initiative, on request of one of its members or on request of the Commission, any question covering the application of [this Regulation](/lagstiftning/gdpr) and issue guidelines, recommendations and best practices in order to encourage consistent application of [this Regulation](/lagstiftning/gdpr);
+(e) examine, on its own initiative, on request of one of its members or on request of the Commission, any question covering the application of [this Regulation](/en/lagstiftning/gdpr) and issue guidelines, recommendations and best practices in order to encourage consistent application of [this Regulation](/en/lagstiftning/gdpr);
 
-(f) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for further specifying the criteria and conditions for decisions based on profiling pursuant to Article [22](/lagstiftning/gdpr/kap-3#article-22-automated-individual-decision-making-including-profiling)(2);
+(f) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for further specifying the criteria and conditions for decisions based on profiling pursuant to Article [22](/en/lagstiftning/gdpr/kap-3#article-22-automated-individual-decision-making-including-profiling)(2);
 
-(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the personal data breaches and determining the undue delay referred to in Article [33](/lagstiftning/gdpr/kap-4#article-33-notification-of-a-personal-data-breach-to-the-supervisory-authority)(1) and (2) and for the particular circumstances in which a controller or a processor is required to notify the personal data breach;
+(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the personal data breaches and determining the undue delay referred to in Article [33](/en/lagstiftning/gdpr/kap-4#article-33-notification-of-a-personal-data-breach-to-the-supervisory-authority)(1) and (2) and for the particular circumstances in which a controller or a processor is required to notify the personal data breach;
 
-(h) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of the natural persons referred to in Article [34](/lagstiftning/gdpr/kap-4#article-34-communication-of-a-personal-data-breach-to-the-data-subject)(1).
+(h) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of the natural persons referred to in Article [34](/en/lagstiftning/gdpr/kap-4#article-34-communication-of-a-personal-data-breach-to-the-data-subject)(1).
 
-(i) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for personal data transfers based on binding corporate rules adhered to by controllers and binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned referred to in Article [47](/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules);
+(i) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for personal data transfers based on binding corporate rules adhered to by controllers and binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned referred to in Article [47](/en/lagstiftning/gdpr/kap-5#article-47-binding-corporate-rules);
 
-(j) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for the personal data transfers on the basis of Article [49](/lagstiftning/gdpr/kap-5#article-49-derogations-for-specific-situations)(1);
+(j) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for the personal data transfers on the basis of Article [49](/en/lagstiftning/gdpr/kap-5#article-49-derogations-for-specific-situations)(1);
 
-(k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article [58](/lagstiftning/gdpr/kap-6#article-58-powers)(1), (2) and (3) and the setting of administrative fines pursuant to Article [83](/lagstiftning/gdpr/kap-8#article-83-general-conditions-for-imposing-administrative-fines);
+(k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article [58](/en/lagstiftning/gdpr/kap-6#article-58-powers)(1), (2) and (3) and the setting of administrative fines pursuant to Article [83](/en/lagstiftning/gdpr/kap-8#article-83-general-conditions-for-imposing-administrative-fines);
 
 (l) review the practical application of the guidelines, recommendations and best practices referred to in points (e) and (f);
 
-(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of [this Regulation](/lagstiftning/gdpr) pursuant to Article [54](/lagstiftning/gdpr/kap-6#article-54-rules-on-the-establishment-of-the-supervisory-authority)(2);
+(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of [this Regulation](/en/lagstiftning/gdpr) pursuant to Article [54](/en/lagstiftning/gdpr/kap-6#article-54-rules-on-the-establishment-of-the-supervisory-authority)(2);
 
-(n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct) and [42](/lagstiftning/gdpr/kap-4#article-42-certification);
+(n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles [40](/en/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct) and [42](/en/lagstiftning/gdpr/kap-4#article-42-certification);
 
-(o) carry out the accreditation of certification bodies and its periodic review pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies) and maintain a public register of accredited bodies pursuant to Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(6) and of the accredited controllers or processors established in third countries pursuant to Article [42](/lagstiftning/gdpr/kap-4#article-42-certification)(7);
+(o) carry out the accreditation of certification bodies and its periodic review pursuant to Article [43](/en/lagstiftning/gdpr/kap-4#article-43-certification-bodies) and maintain a public register of accredited bodies pursuant to Article [43](/en/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(6) and of the accredited controllers or processors established in third countries pursuant to Article [42](/en/lagstiftning/gdpr/kap-4#article-42-certification)(7);
 
-(p) specify the requirements referred to in Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(3) with a view to the accreditation of certification bodies under Article [42](/lagstiftning/gdpr/kap-4#article-42-certification);
+(p) specify the requirements referred to in Article [43](/en/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(3) with a view to the accreditation of certification bodies under Article [42](/en/lagstiftning/gdpr/kap-4#article-42-certification);
 
-(q) provide the Commission with an opinion on the certification requirements referred to in Article [43](/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(8);
+(q) provide the Commission with an opinion on the certification requirements referred to in Article [43](/en/lagstiftning/gdpr/kap-4#article-43-certification-bodies)(8);
 
-(r) provide the Commission with an opinion on the icons referred to in Article [12](/lagstiftning/gdpr/kap-3#article-12-transparent-information-communication-and-modalities-for-the-exercise-of-the-rights-of-the-data-subject)(7);
+(r) provide the Commission with an opinion on the icons referred to in Article [12](/en/lagstiftning/gdpr/kap-3#article-12-transparent-information-communication-and-modalities-for-the-exercise-of-the-rights-of-the-data-subject)(7);
 
 (s) provide the Commission with an opinion for the assessment of the adequacy of the level of protection in a third country or international organisation, including for the assessment whether a third country, a territory or one or more specified sectors within that third country, or an international organisation no longer ensures an adequate level of protection. To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation.
 
@@ -232,13 +232,13 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 (w) promote the exchange of knowledge and documentation on data protection legislation and practice with data protection supervisory authorities worldwide.
 
-(x) issue opinions on codes of conduct drawn up at Union level pursuant to Article [40](/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(9); and
+(x) issue opinions on codes of conduct drawn up at Union level pursuant to Article [40](/en/lagstiftning/gdpr/kap-4#article-40-codes-of-conduct)(9); and
 
 (y) maintain a publicly accessible electronic register of decisions taken by supervisory authorities and courts on issues handled in the consistency mechanism.
 
 2\. Where the Commission requests advice from the Board, it may indicate a time limit, taking into account the urgency of the matter.
 
-3\. The Board shall forward its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article [93](/lagstiftning/gdpr/kap-10#article-93-committee-procedure) and make them public.
+3\. The Board shall forward its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article [93](/en/lagstiftning/gdpr/kap-10#article-93-committee-procedure) and make them public.
 
 4\. The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article [76](#article-76-confidentiality), make the results of the consultation procedure publicly available.
 
@@ -250,7 +250,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 ### Article 72 – Procedure
 
-1\. The Board shall take decisions by a simple majority of its members, unless otherwise provided for in [this Regulation](/lagstiftning/gdpr).
+1\. The Board shall take decisions by a simple majority of its members, unless otherwise provided for in [this Regulation](/en/lagstiftning/gdpr).
 
 2\. The Board shall adopt its own rules of procedure by a two-thirds majority of its members and organise its own operational arrangements.
 
@@ -278,9 +278,9 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 2\. The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.
 
-3\. The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by [this Regulation](/lagstiftning/gdpr) shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
+3\. The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by [this Regulation](/en/lagstiftning/gdpr) shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
 
-4\. Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing [this Article](#article-75-secretariat), determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by [this Regulation](/lagstiftning/gdpr).
+4\. Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing [this Article](#article-75-secretariat), determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by [this Regulation](/en/lagstiftning/gdpr).
 
 5\. The secretariat shall provide analytical, administrative and logistical support to the Board.
 

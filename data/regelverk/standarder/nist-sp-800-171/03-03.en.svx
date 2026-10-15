@@ -23,54 +23,54 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.03.01 – Event Logging
+### <span id="SP_800_171_03.03.01"></span>03.03.01 – Event Logging
 
-- SR-03.03.01.a Specify the following event types selected for logging within the system: [organization-defined event types].
-- SR-03.03.01.b Review and update the event types selected for logging [organization-defined frequency].
+- <span id="SR-03.03.01.a"></span> SR-03.03.01.a Specify the following event types selected for logging within the system: [organization-defined event types].
+- <span id="SR-03.03.01.b"></span> SR-03.03.01.b Review and update the event types selected for logging [organization-defined frequency].
 
-### 03.03.02 – Audit Record Content
+### <span id="SP_800_171_03.03.02"></span>03.03.02 – Audit Record Content
 
-- SR-03.03.02.a Include the following content in audit records:
-  - SR-03.03.02.a.01 What type of event occurred
-  - SR-03.03.02.a.02 When the event occurred
-  - SR-03.03.02.a.03 Where the event occurred
-  - SR-03.03.02.a.04 Source of the event
-  - SR-03.03.02.a.05 Outcome of the event
-  - SR-03.03.02.a.06 Identity of the individuals, subjects, objects, or entities associated with the event
-- SR-03.03.02.b Provide additional information for audit records as needed.
+- <span id="SR-03.03.02.a"></span> SR-03.03.02.a Include the following content in audit records:
+  - <span id="SR-03.03.02.a.01"></span> SR-03.03.02.a.01 What type of event occurred
+  - <span id="SR-03.03.02.a.02"></span> SR-03.03.02.a.02 When the event occurred
+  - <span id="SR-03.03.02.a.03"></span> SR-03.03.02.a.03 Where the event occurred
+  - <span id="SR-03.03.02.a.04"></span> SR-03.03.02.a.04 Source of the event
+  - <span id="SR-03.03.02.a.05"></span> SR-03.03.02.a.05 Outcome of the event
+  - <span id="SR-03.03.02.a.06"></span> SR-03.03.02.a.06 Identity of the individuals, subjects, objects, or entities associated with the event
+- <span id="SR-03.03.02.b"></span> SR-03.03.02.b Provide additional information for audit records as needed.
 
-### 03.03.03 – Audit Record Generation
+### <span id="SP_800_171_03.03.03"></span>03.03.03 – Audit Record Generation
 
-- SR-03.03.03.a Generate audit records for the selected event types and audit record content specified in 03.03.01 and 03.03.02.
-- SR-03.03.03.b Retain audit records for a time period consistent with the records retention policy.
+- <span id="SR-03.03.03.a"></span> SR-03.03.03.a Generate audit records for the selected event types and audit record content specified in 03.03.01 and 03.03.02.
+- <span id="SR-03.03.03.b"></span> SR-03.03.03.b Retain audit records for a time period consistent with the records retention policy.
 
-### 03.03.04 – Response to Audit Logging Process Failures
+### <span id="SP_800_171_03.03.04"></span>03.03.04 – Response to Audit Logging Process Failures
 
-- SR-03.03.04.a Alert organizational personnel or roles within [organization-defined time period] in the event of an audit logging process failure.
-- SR-03.03.04.b Take the following additional actions: [organization-defined additional actions].
+- <span id="SR-03.03.04.a"></span> SR-03.03.04.a Alert organizational personnel or roles within [organization-defined time period] in the event of an audit logging process failure.
+- <span id="SR-03.03.04.b"></span> SR-03.03.04.b Take the following additional actions: [organization-defined additional actions].
 
-### 03.03.05 – Audit Record Review, Analysis, and Reporting
+### <span id="SP_800_171_03.03.05"></span>03.03.05 – Audit Record Review, Analysis, and Reporting
 
-- SR-03.03.05.a Review and analyze system audit records [organization-defined frequency] for indications and the potential impact of inappropriate or unusual activity.
-- SR-03.03.05.b Report findings to organizational personnel or roles.
-- SR-03.03.05.c Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
+- <span id="SR-03.03.05.a"></span> SR-03.03.05.a Review and analyze system audit records [organization-defined frequency] for indications and the potential impact of inappropriate or unusual activity.
+- <span id="SR-03.03.05.b"></span> SR-03.03.05.b Report findings to organizational personnel or roles.
+- <span id="SR-03.03.05.c"></span> SR-03.03.05.c Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.
 
-### 03.03.06 – Audit Record Reduction and Report Generation
+### <span id="SP_800_171_03.03.06"></span>03.03.06 – Audit Record Reduction and Report Generation
 
-- SR-03.03.06.a Implement an audit record reduction and report generation capability that supports audit record review, analysis, reporting requirements, and after-the-fact investigations of incidents.
-- SR-03.03.06.b Preserve the original content and time ordering of audit records.
+- <span id="SR-03.03.06.a"></span> SR-03.03.06.a Implement an audit record reduction and report generation capability that supports audit record review, analysis, reporting requirements, and after-the-fact investigations of incidents.
+- <span id="SR-03.03.06.b"></span> SR-03.03.06.b Preserve the original content and time ordering of audit records.
 
-### 03.03.07 – Time Stamps
+### <span id="SP_800_171_03.03.07"></span>03.03.07 – Time Stamps
 
-- SR-03.03.07.a Use internal system clocks to generate time stamps for audit records.
-- SR-03.03.07.b Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time (UTC), have a fixed local time offset from UTC, or include the local time offset as part of the time stamp.
+- <span id="SR-03.03.07.a"></span> SR-03.03.07.a Use internal system clocks to generate time stamps for audit records.
+- <span id="SR-03.03.07.b"></span> SR-03.03.07.b Record time stamps for audit records that meet [organization-defined granularity of time measurement] and that use Coordinated Universal Time (UTC), have a fixed local time offset from UTC, or include the local time offset as part of the time stamp.
 
-### 03.03.08 – Protection of Audit Information
+### <span id="SP_800_171_03.03.08"></span>03.03.08 – Protection of Audit Information
 
-- SR-03.03.08.a Protect audit information and audit logging tools from unauthorized access, modification, and deletion.
-- SR-03.03.08.b Authorize access to management of audit logging functionality to only a subset of privileged users or roles.
+- <span id="SR-03.03.08.a"></span> SR-03.03.08.a Protect audit information and audit logging tools from unauthorized access, modification, and deletion.
+- <span id="SR-03.03.08.b"></span> SR-03.03.08.b Authorize access to management of audit logging functionality to only a subset of privileged users or roles.
 
-### SP_800_171_03.03.09 – 03.03.09
+### <span id="SP_800_171_03.03.09"></span>SP_800_171_03.03.09 – 03.03.09
 
 
 

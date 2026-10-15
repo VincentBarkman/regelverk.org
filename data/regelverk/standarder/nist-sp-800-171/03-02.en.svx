@@ -23,22 +23,22 @@ version: 1.1.0
 <!-- scan-standards:start -->
 ## Requirements (English original)
 
-### 03.02.01 – Literacy Training and Awareness
+### <span id="SP_800_171_03.02.01"></span>03.02.01 – Literacy Training and Awareness
 
-- SR-03.02.01.a Provide security literacy training to system users:
-  - SR-03.02.01.a.01 As part of initial training for new users and [organization-defined frequency] thereafter,
-  - SR-03.02.01.a.02 When required by system changes or following [organization-defined events], and
-  - SR-03.02.01.a.03 On recognizing and reporting indicators of insider threat, social engineering, and social mining.
-- SR-03.02.01.b Update security literacy training content [organization-defined frequency] and following [organization-defined events].
+- <span id="SR-03.02.01.a"></span> SR-03.02.01.a Provide security literacy training to system users:
+  - <span id="SR-03.02.01.a.01"></span> SR-03.02.01.a.01 As part of initial training for new users and [organization-defined frequency] thereafter,
+  - <span id="SR-03.02.01.a.02"></span> SR-03.02.01.a.02 When required by system changes or following [organization-defined events], and
+  - <span id="SR-03.02.01.a.03"></span> SR-03.02.01.a.03 On recognizing and reporting indicators of insider threat, social engineering, and social mining.
+- <span id="SR-03.02.01.b"></span> SR-03.02.01.b Update security literacy training content [organization-defined frequency] and following [organization-defined events].
 
-### 03.02.02 – Role-Based Training
+### <span id="SP_800_171_03.02.02"></span>03.02.02 – Role-Based Training
 
-- SR-03.02.02.a Provide role-based security training to organizational personnel:
-  - SR-03.02.02.a.01 Before authorizing access to the system or CUI, before performing assigned duties, and [organization-defined frequency] thereafter
-  - SR-03.02.02.a.02 When required by system changes or following [organization-defined events].
-- SR-03.02.02.b Update role-based training content [organization-defined frequency] and following [organization-defined events].
+- <span id="SR-03.02.02.a"></span> SR-03.02.02.a Provide role-based security training to organizational personnel:
+  - <span id="SR-03.02.02.a.01"></span> SR-03.02.02.a.01 Before authorizing access to the system or CUI, before performing assigned duties, and [organization-defined frequency] thereafter
+  - <span id="SR-03.02.02.a.02"></span> SR-03.02.02.a.02 When required by system changes or following [organization-defined events].
+- <span id="SR-03.02.02.b"></span> SR-03.02.02.b Update role-based training content [organization-defined frequency] and following [organization-defined events].
 
-### SP_800_171_03.02.03 – 03.02.03
+### <span id="SP_800_171_03.02.03"></span>SP_800_171_03.02.03 – 03.02.03
 
 
 

@@ -10,10 +10,10 @@
 'status': 'in-force'
 'reviewStatus': 'auto'
 'legalStatus': 'binding'
-'sourceChecked': '2026-10-14'
+'sourceChecked': '2026-10-15'
 'licenseClass': 'official-text'
 'translation': 'sv-en'
-'url': 'http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0006.03#cpt_1'
+'url': 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0030#cpt_1'
 'sites':
   - 'el'
 ---
@@ -23,13 +23,13 @@
 
 ### Article 1 – Subject matter
 
-[This Directive](/lagstiftning/emc) regulates the electromagnetic compatibility of equipment. It aims to ensure the functioning of the internal market by requiring equipment to comply with an adequate level of electromagnetic compatibility.
+[This Directive](/en/lagstiftning/emc) regulates the electromagnetic compatibility of equipment. It aims to ensure the functioning of the internal market by requiring equipment to comply with an adequate level of electromagnetic compatibility.
 
 ### Article 2 – Scope
 
-1\. [This Directive](/lagstiftning/emc) shall apply to equipment as defined in Article [3](#article-3-definitions).
+1\. [This Directive](/en/lagstiftning/emc) shall apply to equipment as defined in Article [3](#article-3-definitions).
 
-2\. [This Directive](/lagstiftning/emc) shall not apply to:
+2\. [This Directive](/en/lagstiftning/emc) shall not apply to:
 
 (a) equipment covered by [Directive 1999/5/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0005);
 
@@ -47,13 +47,13 @@
 
 For the purposes of point (c) of the first subparagraph, kits of components to be assembled by radio amateurs and equipment made available on the market and modified by and for the use of radio amateurs are not regarded as equipment made available on the market.
 
-3\. Where, for the equipment referred to in paragraph 1, the essential requirements set out in Annex I are wholly or partly laid down more specifically by other Union legislation, [this Directive](/lagstiftning/emc) shall not apply, or shall cease to apply, to that equipment in respect of such requirements from the date of implementation of that Union legislation.
+3\. Where, for the equipment referred to in paragraph 1, the essential requirements set out in Annex I are wholly or partly laid down more specifically by other Union legislation, [this Directive](/en/lagstiftning/emc) shall not apply, or shall cease to apply, to that equipment in respect of such requirements from the date of implementation of that Union legislation.
 
-4\. [This Directive](/lagstiftning/emc) shall not affect the application of Union or national legislation regulating the safety of equipment.
+4\. [This Directive](/en/lagstiftning/emc) shall not affect the application of Union or national legislation regulating the safety of equipment.
 
 ### Article 3 – Definitions
 
-1\. For the purposes of [this Directive](/lagstiftning/emc), the following definitions shall apply:
+1\. For the purposes of [this Directive](/en/lagstiftning/emc), the following definitions shall apply:
 
 #### Footnotes
 
@@ -95,7 +95,7 @@ For the purposes of point (c) of the first subparagraph, kits of components to b
 
 (19) ‘national accreditation body’ means national accreditation body as defined in point 11 of Article [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765) of [Regulation (EC) No 765/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0765);
 
-(20) ‘conformity assessment’ means the process demonstrating whether the essential requirements of [this Directive](/lagstiftning/emc) relating to an apparatus have been fulfilled;
+(20) ‘conformity assessment’ means the process demonstrating whether the essential requirements of [this Directive](/en/lagstiftning/emc) relating to an apparatus have been fulfilled;
 
 (21) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
 
@@ -107,7 +107,7 @@ For the purposes of point (c) of the first subparagraph, kits of components to b
 
 (25) ‘CE marking’ means a marking by which the manufacturer indicates that the apparatus is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.
 
-2\. For the purposes of [this Directive](/lagstiftning/emc), the following shall be considered as apparatus:
+2\. For the purposes of [this Directive](/en/lagstiftning/emc), the following shall be considered as apparatus:
 
 (1) ‘components’ or ‘sub-assemblies’ intended for incorporation into an apparatus by the end-user, which are liable to generate electromagnetic disturbance, or the performance of which is liable to be affected by such disturbance;
 
@@ -115,13 +115,13 @@ For the purposes of point (c) of the first subparagraph, kits of components to b
 
 ### Article 4 – Making available on the market and/or putting into service
 
-Member States shall take all appropriate measures to ensure that equipment is made available on the market and/or put into service only if it complies with [this Directive](/lagstiftning/emc) when properly installed, maintained and used for its intended purpose.
+Member States shall take all appropriate measures to ensure that equipment is made available on the market and/or put into service only if it complies with [this Directive](/en/lagstiftning/emc) when properly installed, maintained and used for its intended purpose.
 
 ### Article 5 – Free movement of equipment
 
-1\. Member States shall not impede, for reasons relating to electromagnetic compatibility, the making available on the market and/or the putting into service in their territory of equipment which complies with [this Directive](/lagstiftning/emc).
+1\. Member States shall not impede, for reasons relating to electromagnetic compatibility, the making available on the market and/or the putting into service in their territory of equipment which complies with [this Directive](/en/lagstiftning/emc).
 
-2\. The requirements of [this Directive](/lagstiftning/emc) shall not prevent the application in any Member State of the following special measures concerning the putting into service or use of equipment:
+2\. The requirements of [this Directive](/en/lagstiftning/emc) shall not prevent the application in any Member State of the following special measures concerning the putting into service or use of equipment:
 
 (a) measures to overcome an existing or predicted electromagnetic compatibility problem at a specific site;
 
@@ -131,7 +131,7 @@ Without prejudice to [Directive 98/34/EC](https://eur-lex.europa.eu/legal-conten
 
 The special measures which have been accepted shall be published by the Commission in the Official Journal of the European Union.
 
-3\. Member States shall not create any obstacles to the display and/or demonstration at trade fairs, exhibitions or similar events of equipment which does not comply with [this Directive](/lagstiftning/emc), provided that a visible sign clearly indicates that such equipment may not be made available on the market and/or put into service until it has been brought into conformity with [this Directive](/lagstiftning/emc). Demonstration may only take place provided that adequate measures have been taken to avoid electromagnetic disturbances.
+3\. Member States shall not create any obstacles to the display and/or demonstration at trade fairs, exhibitions or similar events of equipment which does not comply with [this Directive](/en/lagstiftning/emc), provided that a visible sign clearly indicates that such equipment may not be made available on the market and/or put into service until it has been brought into conformity with [this Directive](/en/lagstiftning/emc). Demonstration may only take place provided that adequate measures have been taken to avoid electromagnetic disturbances.
 
 ### Article 6 – Essential requirements
 
