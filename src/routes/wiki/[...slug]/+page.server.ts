@@ -1,3 +1,4 @@
+import { resolveScope } from '#lib/scope.js';
 import { externalUrls, fetchExternalInfo } from '#lib/externalInfo.js';
 import { commits } from '#lib/generated/commits.js';
 import { listPages, listRecords, navGroups } from '#lib/data.js';
@@ -15,7 +16,7 @@ const dateOf = (meta: Record<string, unknown> | null): string => {
 	return typeof v === 'string' ? v : '';
 };
 
-export const load: PageServerLoad = async ({ params }) => {
+export const load: PageServerLoad = async ({ params, url }) => {
 	const parts = params.slug.split('/');
 	const ref =
 		parts.length >= 3 && isSiteScope(parts[0]) && (isEntity(parts[1]) || parts[1] === 'pages')
@@ -54,7 +55,9 @@ export const load: PageServerLoad = async ({ params }) => {
 		ref,
 		record,
 		ldJson,
-		articleHtml: ref ? articleHtmlFor(ref.entity, ref.id) : undefined,
+		articleHtml: ref
+			? articleHtmlFor(ref.entity, ref.id, resolveScope(undefined, url.hostname))
+			: undefined,
 		external: fetchExternalInfo(externalUrls(record?.meta ?? null)),
 		pages: ref ? listPages(ref.scope) : [],
 		nav: ref ? navGroups(ref.scope) : [],

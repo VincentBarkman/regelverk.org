@@ -183,7 +183,11 @@ export default defineConfig({
 				warningFilter: (warning) =>
 					!(warning.code === 'script_context_deprecated' && warning.filename?.endsWith('.svx'))
 			},
-			adapter: adapter(),
+			adapter: adapter({
+				// no persistent KV/D1/R2 state is used — disabling it avoids
+				// .wrangler sqlite lock races when vite servers start in parallel
+				platformProxy: { persist: false }
+			}),
 			prerender: {
 				concurrency: 8,
 				// legal texts contain cross-links to anchors that may not exist on the

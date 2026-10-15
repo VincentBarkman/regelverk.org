@@ -98,7 +98,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		record: recordRef,
 		toc: extractHeadings(body),
 		locales: recordLocales(record.home, params.entity, params.id),
-		articleHtml: articleHtmlFor(params.entity, params.id),
+		articleHtml: articleHtmlFor(params.entity, params.id, scope),
 		external: fetchExternalInfo(externalUrls(record.meta ?? null)),
 		nav,
 		ldJson
