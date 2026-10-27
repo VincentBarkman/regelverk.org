@@ -1,11 +1,22 @@
 <script lang="ts">
 	import { dev } from '$app/env';
+	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
-	import { localizeHref } from '#lib/paraglide/runtime.js';
-	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
+	import { localizeHref, getLocaleForUrl, setLocale } from '#lib/paraglide/runtime.js';
+	import RiTranslate2 from 'remixicon-svelte/icons/translate-2';
+	import {
+		SITE_COLOR,
+		siteFavicon,
+		siteAppleIcon,
+		siteOgImage,
+		siteHost,
+		isSiteScope,
+		type SiteScope
+	} from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
-	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
-	import { flatRecords } from '#lib/data.js';
+	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB, siteTitle } from '#lib/meta.js';
+	import { flatRecords, recordLocales } from '#lib/data.js';
+	import { getNav, type NavGroup } from '#lib/navStore.js';
 	import { extractHeadings } from '#lib/headings.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
@@ -32,6 +43,12 @@
 		typeof data.record?.meta?.description === 'string' ? data.record.meta.description : undefined
 	);
 	const tocItems = $derived(extractHeadings(data.record?.body ?? ''));
+
+	let nav = $state<NavGroup[]>([]);
+	$effect(() => {
+		nav = [];
+		void getNav(scope).then((g) => (nav = g));
+	});
 
 	const listHref = (ent: Entity, id: string) =>
 		localizeHref(
@@ -68,6 +85,30 @@
 				: `https://${host}/wiki/${scope}/pages/${slug}`
 		);
 
+	const graphHref = $derived(
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]/graf', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/graf`
+		)
+	);
+
+	const statsHref = $derived(
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]/statistik', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/statistik`
+		)
+	);
+
+	const timelineHref = $derived(
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]/tidslinje', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/tidslinje`
+		)
+	);
+
 	const refKeys = (r: { id: string; meta: Record<string, unknown> | null }) =>
 		[
 			r.id,
@@ -79,7 +120,7 @@
 
 	const links = $derived.by(() => {
 		const map: Record<string, string> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				for (const k of refKeys(i)) if (!(k in map)) map[k] = listHref(g.entity, i.id);
 		return map;
@@ -87,7 +128,7 @@
 
 	const logos = $derived.by(() => {
 		const map: Record<string, string> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				if (g.entity === 'myndigheter' && typeof i.meta?.logo === 'string')
 					for (const k of refKeys(i)) if (!(k in map)) map[k] = i.meta.logo;
@@ -104,7 +145,7 @@
 
 	const refs = $derived.by(() => {
 		const map: Record<string, RefLink> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				for (const k of refKeys(i))
 					if (!(k in map))
@@ -156,7 +197,7 @@
 	);
 
 	const group = $derived(
-		data.ref?.entity ? (data.nav.find((g) => g.entity === data.ref?.entity)?.items ?? []) : []
+		data.ref?.entity ? (nav.find((g) => g.entity === data.ref?.entity)?.items ?? []) : []
 	);
 
 	const parentRef = $derived(
@@ -226,42 +267,85 @@
 
 	const canonicalUrl = $derived.by(() => {
 		if (!data.ref) return localizeHref(`https://${host}`);
+		const refHost = isSiteScope(data.ref.scope) ? siteHost(data.ref.scope) : host;
 		const idPath = data.ref.id.split('/').map(encodeURIComponent).join('/');
 		return localizeHref(
 			data.ref.entity === 'pages'
-				? `https://${host}/wiki/${data.ref.scope}/pages/${idPath}`
-				: `https://${host}/${data.ref.entity}/${idPath}`
+				? `https://${refHost}/wiki/${data.ref.scope}/pages/${idPath}`
+				: `https://${refHost}/${data.ref.entity}/${idPath}`
 		);
 	});
 </script>
 
 <svelte:head>
-	<title>{title} · {host}</title>
+	<title>{title} · {siteTitle(scope)}</title>
 	{#if description}
 		<meta name="description" content={description} />
 	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
 	{#if data.ref}
 		{#if data.ref.entity !== 'pages'}
 			<meta name="description" content="{scope} / {ENTITY_LABEL[data.ref.entity]()}" />
 		{/if}
 		<link rel="canonical" href={canonicalUrl} />
+		{@const refHost = isSiteScope(data.ref.scope) ? siteHost(data.ref.scope) : host}
+		{@const refIdPath = data.ref.id.split('/').map(encodeURIComponent).join('/')}
+		{@const refPath =
+			data.ref.entity === 'pages'
+				? `/wiki/${data.ref.scope}/pages/${refIdPath}`
+				: `/${data.ref.entity}/${refIdPath}`}
+		{@const refLocales = recordLocales(data.ref.scope, data.ref.entity, data.ref.id)}
+		{#each refLocales as l (l)}
+			<link
+				rel="alternate"
+				hreflang={l}
+				href="https://{refHost}{l === 'en' ? '/en' : ''}{refPath}"
+			/>
+		{/each}
+		{#if refLocales.includes('sv')}
+			<link rel="alternate" hreflang="x-default" href="https://{refHost}{refPath}" />
+		{/if}
 	{/if}
 	<OgMeta
 		type="article"
-		title="{title} · {host}"
+		title="{title} · {siteTitle(scope)}"
 		description={description ?? SITE_BLURB[scope]()}
 		url={canonicalUrl}
+		image="https://{host}{siteOgImage(scope)}"
 	/>
 	<LdJson json={data.ldJson} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} active={data.ref?.entity as Entity | undefined} />
-	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
+	<main
+		id="main-content"
+		tabindex="-1"
+		class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl"
+	>
 		{#if data.ref}
-			<NavSheet nav={{ groups: data.nav, currentId: data.ref.id, hrefFor: listHref, pageHref }} />
-			<RecordNav groups={data.nav} currentId={data.ref.id} hrefFor={listHref} {pageHref} />
+			<NavSheet
+				nav={{
+					groups: nav,
+					currentId: data.ref.id,
+					hrefFor: listHref,
+					pageHref,
+					graphHref,
+					statsHref,
+					timelineHref
+				}}
+			/>
+			<RecordNav
+				groups={nav}
+				currentId={data.ref.id}
+				hrefFor={listHref}
+				{pageHref}
+				{graphHref}
+				{statsHref}
+				{timelineHref}
+			/>
 		{/if}
 
 		{#if data.record}
@@ -295,6 +379,22 @@
 				{#if description}
 					<p class="not-prose -mt-3 mb-6 text-[15px] leading-relaxed text-primary/60">
 						{description}
+					</p>
+				{/if}
+				{#if getLocaleForUrl(page.url) === 'en' && !(data.locales ?? []).includes('en')}
+					<p
+						class="not-prose mb-6 flex items-center gap-2 rounded-md border border-primary/15 bg-primary/4 px-3 py-2 text-xs text-primary/70"
+					>
+						<RiTranslate2 class="size-3.5 shrink-0" aria-hidden="true" />
+						<span>{m.i18n_fallback_notice()}</span>
+						<!-- eslint-disable svelte/no-navigation-without-resolve -->
+						<a
+							href={localizeHref(page.url.pathname, { locale: 'sv' })}
+							onclick={() => setLocale('sv', { reload: false })}
+							class="font-medium underline underline-offset-2 hover:text-primary"
+							>{m.i18n_fallback_sv_link()}</a
+						>
+						<!-- eslint-enable svelte/no-navigation-without-resolve -->
 					</p>
 				{/if}
 				<ArticleToc rail={false} items={tocItems} />

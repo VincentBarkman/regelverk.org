@@ -3,7 +3,7 @@
 	"name": "regelverk-org",
 	"compatibility_date": "2026-10-10",
 	"compatibility_flags": ["nodejs_als"],
-	"main": ".svelte-kit/cloudflare/_worker.js",
+	"main": "worker/entry.js",
 	"assets": { "directory": ".svelte-kit/cloudflare", "binding": "ASSETS" },
 	"observability": { "enabled": true },
 	"limits": { "cpu_ms": 100 },

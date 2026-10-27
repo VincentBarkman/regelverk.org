@@ -156,4 +156,121 @@ export interface SearchHit extends DataRecordRef {
 	matchedFields: string[];
 }
 
+export const baseIdOf = (id: string): string =>
+	id.includes('/') ? id.split('/').slice(0, -1).join('/') : id;
+
+export const isVersionRecord = (id: string, meta: Record<string, unknown> | null): boolean =>
+	/(^|\/)version-/.test(id) || (meta != null && 'version' in meta);
+
+// Sibling records under the same parent that represent document versions
+// (leaf named version-* or carrying a version frontmatter field).
+export function versionSiblings(scope: string, entity: string, id: string): DataRecordRef[] {
+	const baseId = baseIdOf(id);
+	return listRecords(scope, entity).filter((r) => {
+		if (r.id === id) return false;
+		const leaf = r.id.slice(r.id.lastIndexOf('/') + 1);
+		return r.parent === baseId && (leaf.startsWith('version-') || 'version' in (r.meta ?? {}));
+	});
+}
+
+export interface GraphNode {
+	id: string;
+	title: string;
+	entity: string;
+	scope: string;
+	parent?: string;
+}
+
+export type GraphEdgeKind = 'tree' | 'rel' | 'issuer';
+
+export interface GraphEdge {
+	a: number;
+	b: number;
+	kind: GraphEdgeKind;
+}
+
+// All records visible on a scope as nodes. Edges are the parent/child
+// hierarchy, undirected links from related[] frontmatter, and issuer links
+// (matched on id, name, short, designation, aliases).
+export function recordGraph(scope: string): { nodes: GraphNode[]; edges: GraphEdge[] } {
+	const refs = ENTITIES.flatMap((e) => listRecords(scope, e));
+	const keyToIdx = new Map<string, number>();
+	const idToIdx = new Map<string, number>();
+	refs.forEach((r, i) => {
+		idToIdx.set(r.id, i);
+		const keys = [
+			r.id,
+			r.meta?.name,
+			r.meta?.short,
+			r.meta?.designation,
+			...(Array.isArray(r.meta?.aliases) ? r.meta.aliases : [])
+		]
+			.filter((k): k is string => typeof k === 'string' && !!k)
+			.map((k) => k.toLowerCase());
+		for (const k of keys) if (!keyToIdx.has(k)) keyToIdx.set(k, i);
+	});
+	const rank: Record<GraphEdgeKind, number> = { tree: 0, issuer: 1, rel: 2 };
+	const edges = new Map<string, GraphEdge>();
+	const add = (a: number, b: number, kind: GraphEdgeKind) => {
+		if (a === b) return;
+		const key = a < b ? `${a}-${b}` : `${b}-${a}`;
+		const prev = edges.get(key);
+		if (!prev || rank[kind] > rank[prev.kind]) edges.set(key, { a, b, kind });
+	};
+	refs.forEach((r, i) => {
+		if (r.parent) {
+			const p = idToIdx.get(r.parent);
+			if (p !== undefined) add(p, i, 'tree');
+		}
+		for (const [field, kind] of [
+			['related', 'rel'],
+			['issuer', 'issuer']
+		] as const) {
+			const v = r.meta?.[field];
+			for (const key of (Array.isArray(v) ? v : typeof v === 'string' ? [v] : []).map((x) =>
+				String(x).toLowerCase()
+			)) {
+				const j = keyToIdx.get(key);
+				if (j !== undefined) add(i, j, kind);
+			}
+		}
+	});
+	return {
+		nodes: refs.map((r) => ({
+			id: r.id,
+			title: r.title ?? r.id,
+			entity: r.entity,
+			scope: r.scope,
+			parent: r.parent
+		})),
+		edges: [...edges.values()]
+	};
+}
+
+// Records whose related[] frontmatter points at this record (by id, name,
+// short, designation or any alias).
+export function referencedByRecords(
+	scope: string,
+	id: string,
+	meta: Record<string, unknown> | null
+): DataRecordRef[] {
+	const relKeys = new Set(
+		[
+			id,
+			meta?.name,
+			meta?.short,
+			meta?.designation,
+			...(Array.isArray(meta?.aliases) ? meta.aliases : [])
+		]
+			.filter((k): k is string => typeof k === 'string' && !!k)
+			.map((k) => k.toLowerCase())
+	);
+	return ENTITIES.flatMap((e) => listRecords(scope, e)).filter(
+		(r) =>
+			r.id !== id &&
+			Array.isArray(r.meta?.related) &&
+			(r.meta.related as unknown[]).some((v) => relKeys.has(String(v).toLowerCase()))
+	);
+}
+
 export { isEntity, isSiteScope };

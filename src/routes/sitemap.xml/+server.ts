@@ -28,12 +28,23 @@ export const GET: RequestHandler = ({ url: req }) => {
 	const base = dev ? req.origin : `https://${siteHost(scope)}`;
 	const urls: string[] = [];
 
-	urls.push(url(base, '/'));
-	for (const entity of ENTITIES) urls.push(url(base, `/${entity}`));
-	for (const p of ['privacy', 'terms', 'disclaimer']) urls.push(url(base, `/legal/${p}`));
+	const localeAlts = (path: string) => [
+		{ hreflang: 'sv', path },
+		{ hreflang: 'en', path: `/en${path}` }
+	];
+
+	urls.push(url(base, '/', localeAlts('/')));
+	urls.push(url(base, '/graf', localeAlts('/graf')));
+	urls.push(url(base, '/statistik', localeAlts('/statistik')));
+	urls.push(url(base, '/tidslinje', localeAlts('/tidslinje')));
+	for (const entity of ENTITIES) urls.push(url(base, `/${entity}`, localeAlts(`/${entity}`)));
+	if (scope === 'regelverk')
+		for (const p of ['privacy', 'terms', 'disclaimer'])
+			urls.push(url(base, `/legal/${p}`, localeAlts(`/legal/${p}`)));
 
 	for (const entity of ENTITIES) {
 		for (const r of listRecords(scope, entity)) {
+			if (r.scope !== scope) continue;
 			const path = `/${entity}/${r.id.split('/').map(encodeURIComponent).join('/')}`;
 			const locales = recordLocales(r.scope, entity, r.id);
 			const alts = [
@@ -50,7 +61,17 @@ export const GET: RequestHandler = ({ url: req }) => {
 		}
 	}
 
-	for (const p of listPages(scope)) urls.push(url(base, `/wiki/${scope}/pages/${p.id}`));
+	for (const p of listPages(scope)) {
+		const path = `/wiki/${scope}/pages/${p.id}`;
+		const locales = recordLocales(scope, 'pages', p.id);
+		urls.push(
+			url(
+				base,
+				path,
+				locales.map((l) => ({ hreflang: l, path: `${l === 'en' ? '/en' : ''}${path}` }))
+			)
+		);
+	}
 
 	const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls.join('\n')}\n</urlset>`;
 	return new Response(xml, {

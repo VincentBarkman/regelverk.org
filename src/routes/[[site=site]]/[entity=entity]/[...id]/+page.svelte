@@ -1,11 +1,30 @@
 <script lang="ts">
-	import { dev } from '$app/env';
+	import { dev, browser } from '$app/env';
+	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
-	import { localizeHref } from '#lib/paraglide/runtime.js';
-	import { siteFavicon, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
+	import { localizeHref, setLocale } from '#lib/paraglide/runtime.js';
+	import {
+		SITE_COLOR,
+		siteFavicon,
+		siteAppleIcon,
+		siteOgImage,
+		siteHost,
+		isSiteScope,
+		type SiteScope
+	} from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
-	import { ENTITY_LABEL, ARTICLE_PROSE, SITE_LONG, SITE_BLURB } from '#lib/meta.js';
-	import { flatRecords } from '#lib/data.js';
+	import {
+		ENTITY_LABEL,
+		ARTICLE_PROSE,
+		SITE_LONG,
+		SITE_BLURB,
+		siteTitle,
+		entityLabel
+	} from '#lib/meta.js';
+	import { flatRecords, type DataRecordRef } from '#lib/data.js';
+	import { recordOgPath } from '#lib/og.js';
+	import { getNav, type NavGroup } from '#lib/navStore.js';
+	import { diffLines } from '#lib/diff.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import ArticleToc from '#lib/components/articleToc.svelte';
 	import RecordMeta from '#lib/components/recordMeta.svelte';
@@ -15,9 +34,14 @@
 	import BreadCrumbs from '#lib/components/breadCrumbs.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import ShareButton from '#lib/components/shareButton.svelte';
+	import CiteButton from '#lib/components/citeButton.svelte';
+	import BookmarkButton from '#lib/components/bookmarkButton.svelte';
+	import RiTranslate2 from 'remixicon-svelte/icons/translate-2';
+
+	import DiffView from '#lib/components/diffView.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
 	import LdJson from '#lib/components/ldJson.svelte';
-	import { getLocale } from '#lib/paraglide/runtime.js';
+	import { getLocaleForUrl } from '#lib/paraglide/runtime.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import RefPreview from '#lib/components/refPreview.svelte';
 	import type { PageProps } from './$types';
@@ -33,6 +57,12 @@
 	);
 
 	const tocItems = $derived(data.toc ?? []);
+
+	let nav = $state<NavGroup[]>([]);
+	$effect(() => {
+		nav = [];
+		void getNav(data.scope).then((g) => (nav = g));
+	});
 
 	const listHref = (ent: Entity, id: string) =>
 		localizeHref(
@@ -70,6 +100,30 @@
 				: `https://${host}/wiki/${scope}/pages/${slug}`
 		);
 
+	const graphHref = $derived(
+		`${localizeHref(
+			dev
+				? resolve('/[[site=site]]/graf', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/graf`
+		)}?fokus=${encodeURIComponent(data.id)}`
+	);
+
+	const statsHref = $derived(
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]/statistik', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/statistik`
+		)
+	);
+
+	const timelineHref = $derived(
+		localizeHref(
+			dev
+				? resolve('/[[site=site]]/tidslinje', scope === 'regelverk' ? {} : { site: scope })
+				: `https://${host}/tidslinje`
+		)
+	);
+
 	const refKeys = (r: { id: string; meta: Record<string, unknown> | null }) =>
 		[
 			r.id,
@@ -81,7 +135,7 @@
 
 	const links = $derived.by(() => {
 		const map: Record<string, string> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				for (const k of refKeys(i)) if (!(k in map)) map[k] = listHref(g.entity, i.id);
 		return map;
@@ -89,7 +143,7 @@
 
 	const logos = $derived.by(() => {
 		const map: Record<string, string> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				if (g.entity === 'myndigheter' && typeof i.meta?.logo === 'string')
 					for (const k of refKeys(i)) if (!(k in map)) map[k] = i.meta.logo;
@@ -106,7 +160,7 @@
 
 	const refs = $derived.by(() => {
 		const map: Record<string, RefLink> = {};
-		for (const g of data.nav)
+		for (const g of nav)
 			for (const i of flatRecords(g.items))
 				for (const k of refKeys(i))
 					if (!(k in map))
@@ -148,7 +202,7 @@
 		}))
 	);
 
-	const toRefLink = (i: (typeof data.nav)[number]['items'][number]): RefLink => ({
+	const toRefLink = (i: DataRecordRef): RefLink => ({
 		href: listHref(entity, i.id),
 		title: i.title ?? i.id,
 		logo: entity === 'myndigheter' && typeof i.meta?.logo === 'string' ? i.meta.logo : undefined,
@@ -156,7 +210,7 @@
 		tag: ENTITY_LABEL[entity]()
 	});
 
-	const group = $derived(data.nav.find((g) => g.entity === entity)?.items ?? []);
+	const group = $derived(nav.find((g) => g.entity === entity)?.items ?? []);
 
 	const parentRef = $derived(
 		data.id.includes('/')
@@ -170,19 +224,84 @@
 
 	const subs = $derived((currentItem?.children ?? []).map(toRefLink));
 
+	const baseId = $derived(
+		data.id.includes('/') ? data.id.split('/').slice(0, -1).join('/') : data.id
+	);
+
+	const versionLinks = $derived([
+		// on a version page, offer comparing back to the parent record
+		...(data.isVersion && data.id !== baseId
+			? [
+					{
+						href: listHref(entity, baseId),
+						title: parentRef?.title ?? baseId,
+						version: undefined,
+						published: undefined,
+						status: undefined,
+						diffHref: `?diff=${encodeURIComponent(baseId)}`
+					}
+				]
+			: []),
+		...(data.versions ?? []).map((v) => ({
+			href: listHref(entity, v.id),
+			title: v.title,
+			version: v.version,
+			published: v.published,
+			status: v.status,
+			diffHref: `?diff=${encodeURIComponent(v.id)}`
+		}))
+	]);
+
+	const diffData = $derived.by(() => {
+		const diffParam = browser ? page.url.searchParams.get('diff') : null;
+		if (!diffParam || !data.rawBody) return null;
+		const otherId =
+			data.versionBodies?.[diffParam] || diffParam.includes('/')
+				? diffParam
+				: `${baseId}/${diffParam}`;
+		const other = data.versionBodies?.[otherId];
+		if (!other) return null;
+		const lines = diffLines(data.rawBody, other.body);
+		if (!lines) return null;
+		return {
+			a: { id: data.id, title },
+			b: { id: otherId, title: other.title },
+			lines
+		};
+	});
+
+	const referencedByLinks = $derived(
+		(data.referencedBy ?? []).map((r) => ({
+			href: listHref(r.entity as Entity, r.id),
+			title: r.title,
+			description: refs[r.id]?.description,
+			tag: entityLabel(r.entity)
+		}))
+	);
+
 	const idPath = $derived(data.id.split('/').map(encodeURIComponent).join('/'));
-	const canonicalUrl = $derived(localizeHref(`https://${host}/${entity}/${idPath}`));
-	const lang = $derived(getLocale() === 'en' ? 'en' : 'sv');
+	const canonicalHost = $derived(
+		isSiteScope(data.record?.home) ? siteHost(data.record.home as SiteScope) : host
+	);
+	const canonicalUrl = $derived(localizeHref(`https://${canonicalHost}/${entity}/${idPath}`));
+	const ogImage = $derived(
+		`https://${canonicalHost}${recordOgPath(scope, entity, data.id) ?? siteOgImage(scope)}`
+	);
+	const lang = $derived(getLocaleForUrl(page.url) === 'en' ? 'en' : 'sv');
 
 	const crumbs = $derived([
-		{ label: m.nav_home(), href: homeHref, url: `https://${host}/` },
-		{ label: ENTITY_LABEL[entity](), href: entityHref, url: `https://${host}/${entity}` },
+		{ label: m.nav_home(), href: homeHref, url: `https://${canonicalHost}/` },
+		{
+			label: ENTITY_LABEL[entity](),
+			href: entityHref,
+			url: `https://${canonicalHost}/${entity}`
+		},
 		...(parentRef
 			? [
 					{
 						label: parentRef.title ?? parentRef.id,
 						href: listHref(entity, parentRef.id),
-						url: `https://${host}/${entity}/${parentRef.id.split('/').map(encodeURIComponent).join('/')}`
+						url: `https://${canonicalHost}/${entity}/${parentRef.id.split('/').map(encodeURIComponent).join('/')}`
 					}
 				]
 			: []),
@@ -210,44 +329,73 @@
 </script>
 
 <svelte:head>
-	<title>{title} · {ENTITY_LABEL[entity]()} · {host}</title>
+	<title>{title} · {ENTITY_LABEL[entity]()} · {siteTitle(scope)}</title>
 	{#if description}
 		<meta name="description" content={description} />
 	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
 	<link rel="canonical" href={canonicalUrl} />
 	<link rel="alternate" hreflang={lang} href={canonicalUrl} />
 	{#each (data.locales ?? []).filter((l) => l !== lang) as l (l)}
 		<link
 			rel="alternate"
 			hreflang={l}
-			href="https://{host}{l === 'en' ? '/en' : ''}/{entity}/{idPath}"
+			href="https://{canonicalHost}{l === 'en' ? '/en' : ''}/{entity}/{idPath}"
 		/>
 	{/each}
 	{#if data.locales?.includes('sv')}
-		<link rel="alternate" hreflang="x-default" href="https://{host}/{entity}/{idPath}" />
+		<link rel="alternate" hreflang="x-default" href="https://{canonicalHost}/{entity}/{idPath}" />
 	{/if}
 	<OgMeta
 		type="article"
-		title="{title} · {ENTITY_LABEL[entity]()} · {host}"
+		title="{title} · {ENTITY_LABEL[entity]()} · {siteTitle(scope)}"
 		description={description ?? SITE_BLURB[scope]()}
 		url={canonicalUrl}
+		image={ogImage}
 	/>
 	<LdJson json={data.ldJson} />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} active={entity} />
-	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
-		<NavSheet nav={{ groups: data.nav, currentId: data.id, hrefFor: listHref, pageHref }} />
-		<RecordNav groups={data.nav} currentId={data.id} hrefFor={listHref} {pageHref} />
+	<main
+		id="main-content"
+		tabindex="-1"
+		class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl"
+	>
+		<NavSheet
+			nav={{
+				groups: nav,
+				currentId: data.id,
+				hrefFor: listHref,
+				pageHref,
+				graphHref,
+				statsHref,
+				timelineHref
+			}}
+		/>
+		<RecordNav
+			groups={nav}
+			currentId={data.id}
+			hrefFor={listHref}
+			{pageHref}
+			{graphHref}
+			{statsHref}
+			{timelineHref}
+		/>
 
 		{#if data.record}
 			<RefPreview />
 			<article bind:this={articleEl} class={ARTICLE_PROSE}>
 				<div class="flex items-start justify-between gap-4">
 					<BreadCrumbs items={crumbs} />
-					<ShareButton url={canonicalUrl} {title} />
+					<span class="flex shrink-0 items-center gap-1">
+						<BookmarkButton {scope} {entity} id={data.id} {title} />
+						<CiteButton {title} meta={data.record?.meta ?? null} url={canonicalUrl} />
+						<ShareButton url={canonicalUrl} {title} />
+					</span>
 				</div>
 				<h1>{title}</h1>
 				{#if description}
@@ -255,14 +403,34 @@
 						{description}
 					</p>
 				{/if}
+				{#if lang === 'en' && !(data.locales ?? []).includes('en')}
+					<p
+						class="not-prose mb-6 flex items-center gap-2 rounded-md border border-primary/15 bg-primary/4 px-3 py-2 text-xs text-primary/70"
+					>
+						<RiTranslate2 class="size-3.5 shrink-0" aria-hidden="true" />
+						<span>{m.i18n_fallback_notice()}</span>
+						<!-- eslint-disable svelte/no-navigation-without-resolve -->
+						<a
+							href={localizeHref(page.url.pathname, { locale: 'sv' })}
+							onclick={() => setLocale('sv', { reload: false })}
+							class="font-medium underline underline-offset-2 hover:text-primary"
+							>{m.i18n_fallback_sv_link()}</a
+						>
+						<!-- eslint-enable svelte/no-navigation-without-resolve -->
+					</p>
+				{/if}
 				<ArticleToc rail={false} items={tocItems} />
-				{#if data.articleHtml}
+				{#if diffData}
+					<DiffView a={diffData.a} b={diffData.b} lines={diffData.lines} />
+				{:else if data.articleHtml}
 					<!-- eslint-disable-next-line svelte/no-at-html-tags -->
 					{@html data.articleHtml}
 				{/if}
 				<RecordMeta meta={data.record.meta} {links} {logos} previews={refs} siteInfo={external} />
 				<RecordBottom
 					{related}
+					referencedBy={referencedByLinks}
+					versions={versionLinks}
 					{scopes}
 					{subs}
 					{more}

@@ -19,7 +19,7 @@
 	<Sheet.Root>
 		<Sheet.Trigger
 			aria-label={m.ui_browse_db()}
-			class="fixed bottom-[calc(var(--footer-h,3.5rem)_+_1rem)] left-4 z-40 inline-flex size-11 items-center justify-center rounded-full border border-primary/15 bg-background/90 text-primary/80 shadow-md backdrop-blur-sm transition-colors hover:border-primary/30 hover:text-primary xl:hidden"
+			class="fixed bottom-[calc(var(--footer-h,3.5rem)_+_1rem)] left-4 z-40 inline-flex size-11 items-center justify-center rounded-full border border-primary/15 bg-background/90 text-primary/80 shadow-md backdrop-blur-sm transition-colors hover:border-primary/30 hover:text-primary xl:hidden print:hidden"
 		>
 			<RiArrowRightSLine class="size-5" aria-hidden="true" />
 		</Sheet.Trigger>

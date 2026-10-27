@@ -103,17 +103,36 @@ function getStore(): Map<string, StoredHit> {
 }
 
 const MAX_QUERY_LEN = 200;
+const MAX_RESULTS = 50;
+const FILL_FACTOR = 0.25;
+
+const fuzzyFor = (term: string) => (term.length >= 7 ? 2 : term.length >= 4 ? 1 : 0);
 
 export function searchRecords(query: string): SearchHit[] {
-	query = query.slice(0, MAX_QUERY_LEN);
+	query = query.slice(0, MAX_QUERY_LEN).trim();
+	const qTokens = tokenize(query);
+	if (!qTokens.length || query.length < 2) return [];
+
 	const index = getSearchIndex();
+	const store = getStore();
 	const options = {
 		prefix: true,
-		fuzzy: (term: string) => (term.length >= 4 ? 2 : 1),
+		fuzzy: fuzzyFor,
 		boost: { title: 4, idText: 2, description: 1.5 }
 	};
 	let results = index.search(query, { ...options, combineWith: 'AND' });
-	if (!results.length) results = index.search(query, options);
+	if (results.length < 10) {
+		const loose = index.search(query, options);
+		const seen = new Set(results.map((r) => String(r.id)));
+		const top = loose[0]?.score ?? 0;
+		for (const r of loose) {
+			if (results.length >= 25 || r.score < top * FILL_FACTOR) break;
+			if (!seen.has(String(r.id))) {
+				results.push(r);
+				seen.add(String(r.id));
+			}
+		}
+	}
 
 	if (!results.length) {
 		const q = fold(query).replace(/[^\p{L}\p{N}]+/gu, '');
@@ -150,21 +169,42 @@ export function searchRecords(query: string): SearchHit[] {
 		}));
 	}
 
-	const store = getStore();
+	const qNorm = qTokens.join('');
 	return results
-		.map((r): SearchHit | null => {
+		.map((r): { hit: SearchHit; score: number } | null => {
 			const stored = store.get(String(r.id));
 			if (!stored) return null;
+			const headTokens = tokenize(`${stored.id} ${stored.title ?? ''}`);
+			let score = r.score;
+			if (headTokens.join('') === qNorm || fold(stored.id).replace(/[^\p{L}\p{N}]+/gu, '') === qNorm)
+				score += 100;
+			else if (qTokens.every((t) => headTokens.includes(t))) score += 60;
+			else if (qTokens.every((t) => headTokens.some((h) => h.startsWith(t)))) score += 25;
+			else if (qTokens.every((t) => stored.tokens.some((h) => h.startsWith(t)))) score += 8;
 			return {
-				scope: stored.scope,
-				entity: stored.entity,
-				id: stored.id,
-				title: stored.title,
-				meta: stored.meta,
-				description: stored.description,
-				score: r.score,
-				matchedFields: [...new Set(Object.values(r.match).flat())]
+				hit: {
+					scope: stored.scope,
+					entity: stored.entity,
+					id: stored.id,
+					title: stored.title,
+					meta: stored.meta,
+					description: stored.description,
+					score,
+					matchedFields: [...new Set(Object.values(r.match).flat())]
+				},
+				score
 			};
 		})
-		.filter((h): h is SearchHit => h !== null);
+		.filter((x): x is { hit: SearchHit; score: number } => x !== null)
+		.sort((a, b) => b.score - a.score)
+		.slice(0, MAX_RESULTS)
+		.map(({ hit }) => hit);
+}
+
+export function suggestQuery(query: string): string | null {
+	const suggestions = getSearchIndex().autoSuggest(query, {
+		fuzzy: (term: string) => (term.length >= 7 ? 0.4 : term.length >= 4 ? 0.2 : 0),
+		boost: { title: 4, idText: 2 }
+	});
+	return suggestions[0]?.suggestion ?? null;
 }

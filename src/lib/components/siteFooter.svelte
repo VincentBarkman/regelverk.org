@@ -44,7 +44,7 @@
 </script>
 
 <footer
-	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-wrap items-center justify-between gap-x-3 gap-y-1.5 pt-2 pb-4 text-xs leading-6 text-primary/60 backdrop-blur-sm {wide
+	class="bg-amber-5/80 sticky bottom-0 mx-auto flex w-full flex-wrap items-center justify-between gap-x-3 gap-y-1.5 pt-2 pb-4 text-xs leading-6 text-primary/60 backdrop-blur-sm print:hidden {wide
 		? 'max-w-4xl px-4 sm:px-6 xl:max-w-296 xl:px-0'
 		: 'max-w-2xl px-4'}"
 >

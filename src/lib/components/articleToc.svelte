@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { replaceState } from '$app/navigation';
+	import { goto } from '$app/navigation';
 	import { SvelteURL } from 'svelte/reactivity';
 	import { fade } from 'svelte/transition';
 	import * as m from '#lib/paraglide/messages.js';
@@ -50,7 +50,7 @@
 			url.hash = h.id;
 			void navigator.clipboard?.writeText(url.href);
 			// eslint-disable-next-line svelte/no-navigation-without-resolve -- hash-only update on the current page, not a route
-			replaceState(url, {});
+			void goto(url, { state: {}, shallow: true, replace: true });
 			jump(h.id);
 		};
 		article.addEventListener('click', onHeadingClick);
@@ -82,7 +82,7 @@
 </script>
 
 {#if items.length && !rail}
-	<nav aria-label={m.ui_contents()} class="not-prose mb-8 xl:hidden">
+	<nav aria-label={m.ui_contents()} class="not-prose mb-8 xl:hidden print:hidden!">
 		<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_contents()}</p>
 		<ul class="flex flex-col gap-1.5 border-l border-primary/10 pl-3 text-xs">
 			{#each items as t, i (t.id)}
@@ -103,7 +103,7 @@
 	<nav
 		transition:fade={{ duration: 200 }}
 		aria-label={m.ui_contents()}
-		class="absolute top-0 bottom-0 left-full ml-8 hidden w-44 xl:block"
+		class="absolute top-0 bottom-0 left-full ml-8 hidden w-44 xl:block print:hidden!"
 	>
 		<div class="sticky top-28 pt-1">
 			<p class="mb-2 text-xs font-medium text-primary/70">{m.ui_contents()}</p>

@@ -2,10 +2,19 @@
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
 	import { localizeHref } from '#lib/paraglide/runtime.js';
-	import { ENTITY_LABEL, SITE_BLURB } from '#lib/meta.js';
-	import { SITES, siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
+	import { entityLabel, SITE_BLURB } from '#lib/meta.js';
+	import {
+		SITES,
+		SITE_COLOR,
+		siteHost,
+		siteAppleIcon,
+		siteOgImage,
+		isSiteScope,
+		type SiteScope
+	} from '#lib/sites.js';
 	import type { Entity } from '#lib/entities.js';
 	import type { SearchHit } from '#lib/data.js';
+	import { getNav, type NavGroup } from '#lib/navStore.js';
 	import PageHeader from '#lib/components/pageHeader.svelte';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
@@ -45,13 +54,26 @@
 			? resolve('/wiki/[...slug]', { slug: `${scope}/pages/${slug}` })
 			: `https://${host}/wiki/${scope}/pages/${slug}`;
 
+	const graphHref = localizeHref(dev ? resolve('/[[site=site]]/graf', {}) : `https://${host}/graf`);
+	const statsHref = localizeHref(
+		dev ? resolve('/[[site=site]]/statistik', {}) : `https://${host}/statistik`
+	);
+	const timelineHref = localizeHref(
+		dev ? resolve('/[[site=site]]/tidslinje', {}) : `https://${host}/tidslinje`
+	);
+
 	let filters = $state<Record<string, string>>({});
+
+	let nav = $state<NavGroup[]>([]);
+	$effect(() => {
+		void getNav(scope).then((g) => (nav = g));
+	});
 
 	const scopes = $derived(
 		[...new Set(data.results.map((r) => r.scope))].filter(isSiteScope).sort()
 	);
 
-	const entities = $derived([...new Set(data.results.map((r) => r.entity))].sort() as Entity[]);
+	const entities = $derived([...new Set(data.results.map((r) => r.entity))].sort());
 
 	const options = $derived(
 		META_FILTERS.map((f) => ({
@@ -78,25 +100,55 @@
 	<title>{m.search_label()} · regelverk.org</title>
 	<meta name="description" content={SITE_BLURB.regelverk()} />
 	<meta name="robots" content="noindex" />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
 	<OgMeta
 		title="{m.search_label()} · regelverk.org"
 		description={SITE_BLURB.regelverk()}
 		url="https://{host}/search"
+		image="https://{host}{siteOgImage(scope)}"
 	/>
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
-	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
-		<NavSheet nav={{ groups: data.nav, currentId: '', hrefFor: listHref, pageHref }} />
-		<RecordNav groups={data.nav} currentId="" hrefFor={listHref} {pageHref} />
+	<main
+		id="main-content"
+		tabindex="-1"
+		class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl"
+	>
+		<NavSheet
+			nav={{
+				groups: nav,
+				currentId: '',
+				hrefFor: listHref,
+				pageHref,
+				graphHref,
+				statsHref,
+				timelineHref
+			}}
+		/>
+		<RecordNav
+			groups={nav}
+			currentId=""
+			hrefFor={listHref}
+			{pageHref}
+			{graphHref}
+			{statsHref}
+			{timelineHref}
+		/>
 
 		<h1 class="mb-4 font-serif text-3xl font-medium text-primary">
 			{m.search_label()}
 		</h1>
 
 		<div class="max-w-md">
-			<SearchBar inputId="search-page-input" initialValue={data.query} width="w-full" />
+			<SearchBar
+				inputId="search-page-input"
+				initialValue={data.query}
+				width="w-full"
+				enableTyper={false}
+			/>
 		</div>
 
 		{#if data.query}
@@ -135,7 +187,7 @@
 				{/if}
 				{#if entities.length > 1}
 					{@const entityText = filters.entity
-						? ENTITY_LABEL[filters.entity as Entity]()
+						? entityLabel(filters.entity)
 						: `${m.db_filter_category()} · ${m.db_filter_all()}`}
 					<Select.Root
 						type="single"
@@ -154,7 +206,7 @@
 								>{m.db_filter_category()} · {m.db_filter_all()}</Select.Item
 							>
 							{#each entities as e (e)}
-								<Select.Item value={e} label={ENTITY_LABEL[e]()}>{ENTITY_LABEL[e]()}</Select.Item>
+								<Select.Item value={e} label={entityLabel(e)}>{entityLabel(e)}</Select.Item>
 							{/each}
 						</Select.Content>
 					</Select.Root>
@@ -215,7 +267,16 @@
 				{/each}
 			</ul>
 		{:else if data.query}
-			<p class="mt-6 text-sm text-primary/70">{m.search_no_results()}</p>
+			<p class="mt-6 text-sm text-primary/70">
+				{m.search_no_results()}
+				{#if data.suggestion}
+					{m.search_did_you_mean()}
+					<a
+						href="{resolve('/search')}?q={encodeURIComponent(data.suggestion)}"
+						class="font-medium text-primary underline underline-offset-4">{data.suggestion}</a
+					>?
+				{/if}
+			</p>
 		{:else}
 			<p class="mt-6 text-sm text-primary/70">{m.db_empty()}</p>
 		{/if}

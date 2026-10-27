@@ -13,9 +13,8 @@
 	import { localizeHref } from '#lib/paraglide/runtime.js';
 	import { browser } from '$app/env';
 	import * as m from '#lib/paraglide/messages.js';
-	import { ENTITY_ICON, ENTITY_LABEL } from '#lib/meta.js';
+	import { entityIcon, entityLabel } from '#lib/meta.js';
 	import { SITES, type SiteScope } from '#lib/sites.js';
-	import type { Entity } from '#lib/entities.js';
 
 	interface Props {
 		inputId?: string;
@@ -35,7 +34,7 @@
 		slug: string;
 		title: string;
 		description: string;
-		entity: Entity;
+		entity: string;
 		scope: SiteScope;
 	};
 
@@ -68,6 +67,22 @@
 	let searchResults = $state<ArticleSearchResult[]>([]);
 	let isLoading = $state(false);
 	let errorMessage = $state<string | null>(null);
+	let suggestion = $state<string | null>(null);
+	let activeIndex = $state(-1);
+
+	const fold = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+
+	const highlightParts = (text: string): { text: string; hit: boolean }[] => {
+		const qToks = fold(value)
+			.split(/[^\p{L}\p{N}]+/u)
+			.filter(Boolean);
+		if (!qToks.length) return [{ text, hit: false }];
+		return text.split(/([^\p{L}\p{N}]+)/u).map((seg) => {
+			const f = fold(seg);
+			const hit = !!f && qToks.some((q) => f === q || f.startsWith(q));
+			return { text: seg, hit };
+		});
+	};
 
 	const hasValue = $derived(!!value);
 	const shortcutStr = 'mod+k';
@@ -137,29 +152,39 @@
 		}, 200);
 	}
 
-	function handleWindowKeydown(event: KeyboardEvent) {
-		const isModKey = event.metaKey || event.ctrlKey;
-		if (isModKey && event.key === 'k') {
-			const target = event.target as HTMLElement;
-			if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA') return;
-
-			event.preventDefault();
-			const el = document.getElementById(inputId) as HTMLInputElement | null;
-			if (el) {
-				el.focus();
-				queueMicrotask(() => el.select());
-			}
-		}
-	}
-
 	function onKeyDown(e: KeyboardEvent & { currentTarget: HTMLInputElement }) {
 		if (e.key === 'Escape') {
 			e.stopPropagation();
 			value = '';
 			e.currentTarget.blur();
 		}
+		if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+			e.preventDefault();
+			const max = searchResults.length;
+			if (!max) return;
+			activeIndex =
+				e.key === 'ArrowDown'
+					? (activeIndex + 1) % (max + 1)
+					: activeIndex <= 0
+						? max
+						: activeIndex - 1;
+			queueMicrotask(() =>
+				document
+					.getElementById(`${inputId}-opt-${activeIndex}`)
+					?.scrollIntoView({ block: 'nearest' })
+			);
+			return;
+		}
 		if (e.key === 'Enter') {
 			e.preventDefault();
+			if (activeIndex >= 0 && activeIndex < searchResults.length) {
+				goToWiki(searchResults[activeIndex].slug);
+				return;
+			}
+			if (activeIndex === searchResults.length) {
+				goToSearch(value.trim());
+				return;
+			}
 			submitSearch();
 		}
 	}
@@ -173,6 +198,7 @@
 		const trimmed = query.trim();
 		if (!trimmed || trimmed.length < 2) {
 			searchResults = [];
+			suggestion = null;
 			errorMessage = null;
 			isLoading = false;
 			return;
@@ -186,12 +212,18 @@
 			if (!res.ok) {
 				throw new Error(`Search failed with status ${res.status}`);
 			}
-			const data = (await res.json()) as { results: ArticleSearchResult[] };
+			const data = (await res.json()) as {
+				results: ArticleSearchResult[];
+				suggestion?: string | null;
+			};
 			searchResults = data.results ?? [];
+			suggestion = data.suggestion ?? null;
+			activeIndex = -1;
 		} catch (err) {
 			console.error(err);
 			errorMessage = m.search_failed();
 			searchResults = [];
+			suggestion = null;
 		} finally {
 			isLoading = false;
 		}
@@ -210,6 +242,8 @@
 
 		if (!q) {
 			searchResults = [];
+			suggestion = null;
+			activeIndex = -1;
 			errorMessage = null;
 			isLoading = false;
 			return;
@@ -228,8 +262,6 @@
 	});
 </script>
 
-<svelte:window onkeydown={handleWindowKeydown} />
-
 <Label for={inputId} class="sr-only">{label}</Label>
 
 <div class="relative {width}">
@@ -242,6 +274,10 @@
 			onblur={onBlur}
 			bind:value
 			onkeydown={onKeyDown}
+			role="combobox"
+			aria-expanded={showSuggestions && showResults && !!value.trim()}
+			aria-controls="{inputId}-list"
+			aria-activedescendant={activeIndex >= 0 ? `${inputId}-opt-${activeIndex}` : undefined}
 		/>
 
 		<InputGroup.Addon>
@@ -279,18 +315,35 @@
 	{#if showSuggestions && showResults && value.trim()}
 		<div class="absolute z-50 mt-2 w-full">
 			<Command.Root class="rounded-lg border bg-background shadow-md">
-				<Command.List>
+				<Command.List id="{inputId}-list" class="max-h-80 overflow-y-auto">
 					{#if isLoading}
 						<Command.Empty>{m.search_searching()}</Command.Empty>
 					{:else if errorMessage}
 						<Command.Empty>{errorMessage}</Command.Empty>
 					{:else if searchResults.length === 0}
 						<Command.Empty>{m.search_no_results()}</Command.Empty>
+						{#if suggestion}
+							<Command.Item
+								onSelect={() => (value = suggestion ?? '')}
+								class="border-t border-primary/10 px-3 py-2 text-xs text-primary/70"
+							>
+								<button type="button" class="w-full text-left">
+									{m.search_did_you_mean()}
+									<span class="font-medium text-primary underline underline-offset-4"
+										>{suggestion}</span
+									>?
+								</button>
+							</Command.Item>
+						{/if}
 					{:else}
 						<Command.Group>
-							{#each searchResults as item (item.id)}
-								{@const Icon = ENTITY_ICON[item.entity]}
-								<Command.Item onSelect={() => goToWiki(item.slug)} class="px-2 py-2">
+							{#each searchResults as item, i (item.id)}
+								{@const Icon = entityIcon(item.entity)}
+								<Command.Item
+									id="{inputId}-opt-{i}"
+									onSelect={() => goToWiki(item.slug)}
+									class="px-2 py-2 {i === activeIndex ? 'bg-primary/5' : ''}"
+								>
 									<!-- eslint-disable svelte/no-navigation-without-resolve -->
 									<a
 										href={localizeHref(resolve('/wiki/[...slug]', { slug: item.slug }))}
@@ -302,14 +355,19 @@
 										</span>
 										<span class="flex min-w-0 flex-1 flex-col">
 											<span class="truncate font-serif text-sm font-semibold text-primary"
-												>{item.title}</span
+												>{#each highlightParts(item.title) as p, pi (pi)}{#if p.hit}<mark
+															class="rounded-sm bg-primary/15 px-0.5 text-primary">{p.text}</mark
+														>{:else}{p.text}{/if}{/each}</span
 											>
 											{#if item.description}
-												<span class="truncate text-xs text-primary/60">{item.description}</span>
+												<span class="truncate text-xs text-primary/60"
+													>{#each highlightParts(item.description) as p, pi (pi)}{#if p.hit}<mark
+																class="rounded-sm bg-primary/15 px-0.5">{p.text}</mark
+															>{:else}{p.text}{/if}{/each}</span
+												>
 											{/if}
 											<span class="mt-0.5 text-[10px] text-primary/60"
-												>{ENTITY_LABEL[item.entity]()} · {SITES[item.scope]?.label ??
-													item.scope}</span
+												>{entityLabel(item.entity)} · {SITES[item.scope]?.label ?? item.scope}</span
 											>
 										</span>
 									</a>
@@ -317,8 +375,11 @@
 								</Command.Item>
 							{/each}
 							<Command.Item
+								id="{inputId}-opt-{searchResults.length}"
 								onSelect={() => goToSearch(value.trim())}
-								class="border-t border-primary/10 px-2 py-2"
+								class="border-t border-primary/10 px-2 py-2 {activeIndex === searchResults.length
+									? 'bg-primary/5'
+									: ''}"
 							>
 								<button
 									type="button"

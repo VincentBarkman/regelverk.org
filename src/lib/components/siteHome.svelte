@@ -1,17 +1,37 @@
 <script lang="ts">
 	import SearchBar from '#lib/components/searchBar.svelte';
+	import CommandPalette from '#lib/components/commandPalette.svelte';
 	import { dev } from '$app/env';
 	import { resolve } from '$app/paths';
 	import { localizeHref } from '#lib/paraglide/runtime.js';
-	import { SITE_SCOPES, SITES, siteFavicon, siteHost, type SiteScope } from '#lib/sites.js';
-	import { ENTITIES } from '#lib/entities.js';
+	import {
+		SITE_SCOPES,
+		SITES,
+		SITE_COLOR,
+		siteFavicon,
+		siteAppleIcon,
+		siteOgImage,
+		siteHost,
+		type SiteScope
+	} from '#lib/sites.js';
+	import { ENTITIES, type Entity } from '#lib/entities.js';
 	import SiteMark from '#lib/components/siteMark.svelte';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import OgMeta from '#lib/components/ogMeta.svelte';
-	import { SITE_LONG, SITE_BLURB, ENTITY_LABEL, ENTITY_ICON } from '#lib/meta.js';
+	import LdJson from '#lib/components/ldJson.svelte';
+	import {
+		SITE_LONG,
+		SITE_BLURB,
+		SITE_DESC,
+		siteTitle,
+		ENTITY_LABEL,
+		ENTITY_ICON
+	} from '#lib/meta.js';
 	import * as Card from '#lib/components/ui/card/index.js';
 	import * as m from '#lib/paraglide/messages.js';
 	import RiArrowRightSLine from 'remixicon-svelte/icons/arrow-right-s-line';
+	import RiBookmarkLine from 'remixicon-svelte/icons/bookmark-line';
+	import { bookmarkList, type Bookmark } from '#lib/bookmarks.svelte.js';
 	import { fitText } from '#lib/fitText.js';
 
 	let { scope }: { scope: SiteScope } = $props();
@@ -31,6 +51,59 @@
 	);
 	const specRulesTag = $derived('<script type="speculationrules">' + specRules + '</' + 'script>');
 
+	const pageTitle = $derived(
+		scope === 'regelverk'
+			? `regelverk.org – ${m.site_tagline_regelverk()}`
+			: `${SITE_LONG[scope]()} · regelverk.org`
+	);
+
+	const homeLd = $derived(
+		JSON.stringify({
+			'@context': 'https://schema.org',
+			'@graph': [
+				{
+					'@type': 'WebSite',
+					name: siteTitle(scope),
+					url: `https://${siteHost(scope)}`,
+					inLanguage: ['sv', 'en'],
+					potentialAction: {
+						'@type': 'SearchAction',
+						target: {
+							'@type': 'EntryPoint',
+							urlTemplate: `https://${siteHost(scope)}/search?q={query}`
+						},
+						'query-input': 'required name=query'
+					}
+				},
+				{
+					'@type': 'Organization',
+					name: 'regelverk.org',
+					url: 'https://regelverk.org',
+					logo: 'https://regelverk.org/favicon.svg'
+				}
+			]
+		})
+	);
+
+	const bookmarkHref = (b: Bookmark) =>
+		localizeHref(
+			dev
+				? resolve(
+						'/[[site=site]]/[entity=entity]/[...id]',
+						b.scope === 'regelverk'
+							? { entity: b.entity as Entity, id: b.id }
+							: {
+									site: b.scope as Exclude<SiteScope, 'regelverk'>,
+									entity: b.entity as Entity,
+									id: b.id
+								}
+					)
+				: `https://${siteHost(b.scope as SiteScope)}/${b.entity}/${b.id
+						.split('/')
+						.map(encodeURIComponent)
+						.join('/')}`
+		);
+
 	const TYPING_PHRASES: Record<SiteScope, string[]> = {
 		regelverk: ['ATEX...', 'NIS2...', 'ELSÄK-FS...', 'AFS 2023...', 'ISO 27001...', 'BBR...'],
 		ot: ['IEC 62443...', 'ATEX...', 'SCADA...', 'SIL 2...', 'IEC 61511...', 'NERC CIP...'],
@@ -48,15 +121,28 @@
 {/snippet}
 
 <svelte:head>
-	<title>{siteHost(scope)}</title>
+	<title>{pageTitle}</title>
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
-	<meta name="description" content={SITE_BLURB[scope]()} />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
+	<meta name="description" content={SITE_DESC[scope]()} />
 	<link rel="canonical" href="https://{siteHost(scope)}" />
-	<OgMeta
-		title={siteHost(scope)}
-		description={SITE_BLURB[scope]()}
-		url="https://{siteHost(scope)}"
+	<link rel="alternate" hreflang="sv" href="https://{siteHost(scope)}/" />
+	<link rel="alternate" hreflang="en" href="https://{siteHost(scope)}/en" />
+	<link rel="alternate" hreflang="x-default" href="https://{siteHost(scope)}/" />
+	<link
+		rel="alternate"
+		type="application/rss+xml"
+		title="{siteTitle(scope)} RSS"
+		href="/feed.xml"
 	/>
+	<OgMeta
+		title={pageTitle}
+		description={SITE_DESC[scope]()}
+		url="https://{siteHost(scope)}"
+		image="https://{siteHost(scope)}{siteOgImage(scope)}"
+	/>
+	<LdJson json={homeLd} />
 	{#if !dev}
 		{#each SITE_SCOPES.filter((s) => s !== scope) as s (s)}
 			<link rel="dns-prefetch" href="https://{siteHost(s)}" />
@@ -67,8 +153,9 @@
 	{/if}
 </svelte:head>
 
+<CommandPalette {scope} />
 <div class="bg-amber-5 flex min-h-svh flex-col">
-	<main class="flex flex-1 flex-col items-center px-4">
+	<main id="main-content" tabindex="-1" class="flex flex-1 flex-col items-center px-4">
 		<header
 			class="@container flex min-h-[35svh] w-full flex-col items-center justify-end gap-4 pb-3 sm:min-h-[50svh] [@media(max-height:40rem)]:min-h-0! [@media(max-height:40rem)]:pt-8"
 		>
@@ -153,6 +240,31 @@
 					{/each}
 				</ul>
 			</nav>
+
+			{#if bookmarkList().length}
+				<nav id="bokmarken" aria-labelledby="bookmarks-heading" class="flex flex-col gap-2">
+					<h2 id="bookmarks-heading" class="text-xs font-medium text-primary/70">
+						{m.bookmarks_title()}
+					</h2>
+					<!-- eslint-disable svelte/no-navigation-without-resolve -->
+					<ul class="grid grid-cols-1 gap-x-6">
+						{#each bookmarkList() as b (`${b.entity}/${b.id}`)}
+							<li>
+								<a
+									href={bookmarkHref(b)}
+									rel={dev ? undefined : 'external'}
+									class="flex items-center gap-2 py-1 text-xs underline-offset-4 hover:underline"
+								>
+									<RiBookmarkLine class="size-3.5 text-primary/60" aria-hidden="true" />
+									<span class="truncate">{b.title}</span>
+									<RiArrowRightSLine class="ml-auto size-3.5 text-primary/60" aria-hidden="true" />
+								</a>
+							</li>
+						{/each}
+					</ul>
+					<!-- eslint-enable svelte/no-navigation-without-resolve -->
+				</nav>
+			{/if}
 
 			<nav aria-labelledby="browse-heading" class="flex flex-col gap-2">
 				<h2 id="browse-heading" class="text-xs font-medium text-primary/70">{m.ui_browse_db()}</h2>

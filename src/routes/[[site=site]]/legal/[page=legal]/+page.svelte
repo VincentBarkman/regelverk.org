@@ -2,7 +2,7 @@
 	import { getLocale } from '#lib/paraglide/runtime.js';
 	import { extractHeadings } from '#lib/headings.js';
 	import { LEGAL_LABEL, ARTICLE_PROSE, type LegalSlug } from '#lib/meta.js';
-	import { siteFavicon, siteHost } from '#lib/sites.js';
+	import { SITE_COLOR, siteFavicon, siteAppleIcon, siteOgImage } from '#lib/sites.js';
 	import { parse as parseYaml } from 'yaml';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
@@ -28,7 +28,6 @@
 
 	const slug = $derived(data.slug as LegalSlug);
 	const scope = $derived(data.scope);
-	const host = $derived(siteHost(scope));
 	const title = $derived(LEGAL_LABEL[slug]());
 	const articlePath = $derived(
 		`/src/lib/legal/${slug}.${getLocale()}.svx` in ARTICLES
@@ -53,23 +52,33 @@
 </script>
 
 <svelte:head>
-	<title>{title} · {host}</title>
+	<title>{title} · regelverk.org</title>
 	{#if description}
 		<meta name="description" content={description} />
 	{/if}
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
-	<link rel="canonical" href="https://{host}/legal/{slug}" />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
+	<link rel="canonical" href="https://regelverk.org/legal/{slug}" />
+	<link rel="alternate" hreflang="sv" href="https://regelverk.org/legal/{slug}" />
+	<link rel="alternate" hreflang="en" href="https://regelverk.org/en/legal/{slug}" />
+	<link rel="alternate" hreflang="x-default" href="https://regelverk.org/legal/{slug}" />
 	<OgMeta
 		type="article"
-		title="{title} · {host}"
+		title="{title} · regelverk.org"
 		description={description ?? title}
-		url="https://{host}/legal/{slug}"
+		url="https://regelverk.org/legal/{slug}"
+		image="https://regelverk.org{siteOgImage(scope)}"
 	/>
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
-	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
+	<main
+		id="main-content"
+		tabindex="-1"
+		class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl"
+	>
 		<NavSheet legalNav={{ scope, current: slug }} />
 		<LegalNav {scope} current={slug} />
 		<article bind:this={articleEl} class={ARTICLE_PROSE}>

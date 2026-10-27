@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import { searchRecords } from '#lib/data.server.js';
+import { searchRecords, suggestQuery } from '#lib/data.server.js';
 import type { RequestHandler } from './$types';
 
 export const prerender = false;
@@ -19,5 +19,5 @@ export const GET: RequestHandler = ({ url }) => {
 						scope: r.scope
 					}))
 			: [];
-	return json({ results });
+	return json({ results, suggestion: results.length ? null : suggestQuery(q) });
 };

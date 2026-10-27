@@ -17,12 +17,14 @@
 		class: klass = '',
 		current = false,
 		card,
+		cardSide = 'right',
 		children
 	}: {
 		href: string;
 		class?: string;
 		current?: boolean;
 		card?: Card;
+		cardSide?: 'top' | 'right' | 'bottom' | 'left';
 		children: Snippet;
 	} = $props();
 </script>
@@ -40,7 +42,7 @@
 		>
 			{@render children()}
 		</HoverCard.Trigger>
-		<HoverCard.Content side="right" align="start" sideOffset={8} class="w-64">
+		<HoverCard.Content side={cardSide} align="start" sideOffset={8} class="w-64">
 			<div class="flex items-center gap-2">
 				{#if card.logo}
 					<img src={card.logo} alt="" class="h-4 w-auto shrink-0 {logoDarkClass(card.logo)}" />

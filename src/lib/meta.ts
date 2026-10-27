@@ -63,6 +63,19 @@ export const SITE_BLURB: Record<SiteScope, () => string> = {
 	arbetsmiljo: m.site_blurb_arbetsmiljo
 };
 
+export const SITE_DESC: Record<SiteScope, () => string> = {
+	regelverk: m.site_desc_regelverk,
+	ot: m.site_desc_ot,
+	it: m.site_desc_it,
+	fysisk: m.site_desc_fysisk,
+	brandskydd: m.site_desc_brandskydd,
+	el: m.site_desc_el,
+	arbetsmiljo: m.site_desc_arbetsmiljo
+};
+
+export const siteTitle = (scope: SiteScope): string =>
+	scope === 'regelverk' ? 'regelverk.org' : `${SITE_LONG[scope]()} · regelverk.org`;
+
 export const ARTICLE_PROSE = `prose prose-sm max-w-none
 	prose-headings:font-serif prose-headings:font-medium prose-headings:text-primary
 	prose-headings:hyphens-auto prose-headings:wrap-break-word
@@ -265,6 +278,19 @@ export const DARK_INVERT_LOGOS = new Set(['/logos/nist.svg']);
 export const logoDarkClass = (src: string): string =>
 	DARK_INVERT_LOGOS.has(src) ? 'dark:invert' : '';
 
+export const ENTITY_COLOR: Record<Entity, string> = {
+	lagstiftning: '#334155',
+	standarder: '#2563eb',
+	ramverk: '#7c3aed',
+	myndigheter: '#dc2626',
+	system: '#0891b2',
+	krav: '#ea580c',
+	implementera: '#16a34a',
+	sakerhet: '#be185d',
+	branscher: '#ca8a04',
+	'lar-dig': '#4f46e5'
+};
+
 export const ENTITY_ICON: Record<Entity, Component> = {
 	lagstiftning: RiScales3Line,
 	standarder: RiBook2Line,
@@ -277,3 +303,13 @@ export const ENTITY_ICON: Record<Entity, Component> = {
 	branscher: RiBuilding4Line,
 	'lar-dig': RiGraduationCapLine
 };
+
+export const entityLabel = (entity: string): string =>
+	entity === 'pages'
+		? m.ent_pages()
+		: ((ENTITY_LABEL as Record<string, (() => string) | undefined>)[entity]?.() ?? entity);
+
+export const entityIcon = (entity: string): Component =>
+	entity === 'pages'
+		? RiArticleLine
+		: ((ENTITY_ICON as Record<string, Component | undefined>)[entity] ?? RiHashtag);

@@ -1,14 +1,12 @@
-import { resolveScope } from '#lib/scope.js';
 import { externalUrls, fetchExternalInfo } from '#lib/externalInfo.js';
 import { commits } from '#lib/generated/commits.js';
-import { listPages, listRecords, navGroups } from '#lib/data.js';
+import { listPages, listRecords, recordLocales } from '#lib/data.js';
 import { getRecord } from '#lib/data.server.js';
 import { articleHtmlFor } from '#lib/articles.server.js';
-import { isEntity } from '#lib/entities.js';
-import { isSiteScope, siteHost } from '#lib/sites.js';
+import { resolveScope } from '#lib/scope.js';
 import { getLocale } from '#lib/paraglide/runtime.js';
-import { ENTITIES, type Entity } from '#lib/entities.js';
-import { SITE_SCOPES } from '#lib/sites.js';
+import { ENTITIES, isEntity, type Entity } from '#lib/entities.js';
+import { SITE_SCOPES, isSiteScope, siteHost } from '#lib/sites.js';
 import type { EntryGenerator, PageServerLoad } from './$types';
 
 const dateOf = (meta: Record<string, unknown> | null): string => {
@@ -54,13 +52,13 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		slug: params.slug,
 		ref,
 		record,
+		locales: record && ref ? recordLocales(ref.scope, ref.entity, ref.id) : [],
 		ldJson,
 		articleHtml: ref
 			? articleHtmlFor(ref.entity, ref.id, resolveScope(undefined, url.hostname))
 			: undefined,
-		external: fetchExternalInfo(externalUrls(record?.meta ?? null)),
+		external: await fetchExternalInfo(externalUrls(record?.meta ?? null)),
 		pages: ref ? listPages(ref.scope) : [],
-		nav: ref ? navGroups(ref.scope) : [],
 		updates:
 			ref?.id === 'uppdateringar'
 				? all

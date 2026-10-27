@@ -2,13 +2,21 @@ import { error } from '@sveltejs/kit';
 import { SITE_SCOPE } from '$app/env/private';
 import { resolveScope } from '#lib/scope.js';
 import { externalUrls, fetchExternalInfo } from '#lib/externalInfo.js';
-import { listRecords, navGroups, recordLocales } from '#lib/data.js';
+import {
+	listRecords,
+	navGroups,
+	recordLocales,
+	baseIdOf,
+	isVersionRecord,
+	versionSiblings,
+	referencedByRecords
+} from '#lib/data.js';
 import { getRecord } from '#lib/data.server.js';
 import { articleHtmlFor } from '#lib/articles.server.js';
 import { extractHeadings } from '#lib/headings.js';
 import { ENTITIES, type Entity } from '#lib/entities.js';
 import { ENTITY_LABEL } from '#lib/meta.js';
-import { siteHost, type SiteScope } from '#lib/sites.js';
+import { siteHost, isSiteScope, type SiteScope } from '#lib/sites.js';
 import { getLocale } from '#lib/paraglide/runtime.js';
 import * as m from '#lib/paraglide/messages.js';
 import type { EntryGenerator, PageServerLoad } from './$types';
@@ -20,7 +28,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 	const { body, ...recordRef } = record;
 	const nav = navGroups(scope);
 	const entity = params.entity as Entity;
-	const host = siteHost(scope);
+	const host = isSiteScope(record.home) ? siteHost(record.home) : siteHost(scope);
 	const lang = getLocale() === 'en' ? 'en' : 'sv';
 	const idPath = params.id.split('/').map(encodeURIComponent).join('/');
 	const locPath = `${lang === 'en' ? '/en' : ''}`;
@@ -70,6 +78,45 @@ export const load: PageServerLoad = async ({ params, url }) => {
 					...(description ? { description } : {}),
 					isPartOf: { '@type': 'WebSite', name: host, url: `https://${host}` }
 				};
+	const baseId = baseIdOf(params.id);
+	const isVersion = isVersionRecord(params.id, meta);
+	const versions = versionSiblings(scope, entity, params.id).map((r) => {
+		const version = typeof r.meta?.version === 'string' ? r.meta.version : undefined;
+		const designation = typeof r.meta?.designation === 'string' ? r.meta.designation : undefined;
+		return {
+			id: r.id,
+			title: r.title ?? designation ?? (version ? `v${version}` : r.id),
+			version,
+			published: typeof r.meta?.published === 'string' ? r.meta.published : undefined,
+			status: typeof r.meta?.status === 'string' ? r.meta.status : undefined
+		};
+	});
+
+	const referencedBy = referencedByRecords(scope, params.id, meta).map((r) => ({
+		scope: r.scope,
+		entity: r.entity,
+		id: r.id,
+		title: r.title ?? r.id
+	}));
+
+	// Prerendered pages can't read url.searchParams, so diffs are computed
+	// client-side. Ship the stripped bodies only for records that have versions.
+	const stripFm = (text: string) => text.replace(/^---\r?\n[\s\S]*?\r?\n---/, '').trim();
+	let rawBody: string | undefined;
+	let versionBodies: Record<string, { title: string; body: string }> | undefined;
+	if (versions.length || isVersion) {
+		rawBody = stripFm(body);
+		versionBodies = {};
+		for (const v of versions) {
+			const rec = getRecord(scope, entity, v.id);
+			if (rec) versionBodies[v.id] = { title: v.title, body: stripFm(rec.body) };
+		}
+		if (isVersion && params.id !== baseId) {
+			const rec = getRecord(scope, entity, baseId);
+			if (rec) versionBodies[baseId] = { title: rec.title ?? baseId, body: stripFm(rec.body) };
+		}
+	}
+
 	const crumbs = [
 		{ name: m.nav_home(), url: `https://${host}${locPath}/` },
 		{ name: ENTITY_LABEL[entity](), url: `https://${host}${locPath}/${entity}` },
@@ -100,7 +147,11 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		locales: recordLocales(record.home, params.entity, params.id),
 		articleHtml: articleHtmlFor(params.entity, params.id, scope),
 		external: fetchExternalInfo(externalUrls(record.meta ?? null)),
-		nav,
+		versions,
+		isVersion,
+		referencedBy,
+		rawBody,
+		versionBodies,
 		ldJson
 	};
 };

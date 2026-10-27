@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { legalHref } from '#lib/legalLinks.js';
-	import { siteFavicon, siteHost } from '#lib/sites.js';
+	import { SITE_COLOR, siteFavicon, siteAppleIcon, siteOgImage, siteHost } from '#lib/sites.js';
 	import { LEGAL_LINKS } from '#lib/meta.js';
 	import SiteFooter from '#lib/components/siteFooter.svelte';
 	import PageHeader from '#lib/components/pageHeader.svelte';
@@ -24,16 +24,27 @@
 </script>
 
 <svelte:head>
-	<title>{m.ui_legal()} · {host}</title>
+	<title>{m.ui_legal()} · regelverk.org</title>
 	<link rel="icon" type="image/svg+xml" href={siteFavicon(scope)} />
-	<link rel="canonical" href="https://{host}/legal" />
-	<OgMeta title="{m.ui_legal()} · {host}" description={m.ui_legal()} url="https://{host}/legal" />
+	<meta name="theme-color" content={SITE_COLOR[scope]} />
+	<link rel="apple-touch-icon" href={siteAppleIcon(scope)} />
+	<link rel="canonical" href="https://regelverk.org/legal" />
+	<OgMeta
+		title="{m.ui_legal()} · regelverk.org"
+		description={m.ui_legal()}
+		url="https://regelverk.org/legal"
+		image="https://{host}{siteOgImage(scope)}"
+	/>
 	<meta name="robots" content="noindex" />
 </svelte:head>
 
 <div class="bg-amber-5 flex min-h-svh flex-col">
 	<PageHeader {scope} />
-	<main class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl">
+	<main
+		id="main-content"
+		tabindex="-1"
+		class="relative mx-auto w-full max-w-4xl flex-1 px-4 pt-6 pb-14 xl:max-w-3xl"
+	>
 		<BreadCrumbs items={[{ label: m.nav_home(), href: homeHref }, { label: m.ui_legal() }]} />
 		<h1 class="mt-3 font-serif text-3xl font-medium text-primary">{m.ui_legal()}</h1>
 

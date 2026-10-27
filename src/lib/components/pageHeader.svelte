@@ -10,6 +10,7 @@
 	import * as Sheet from '#lib/components/ui/sheet/index.js';
 	import RiMenuLine from 'remixicon-svelte/icons/menu-line';
 	import SearchBar from '#lib/components/searchBar.svelte';
+	import CommandPalette from '#lib/components/commandPalette.svelte';
 	import { fitText } from '#lib/fitText.js';
 	import * as m from '#lib/paraglide/messages.js';
 
@@ -41,7 +42,8 @@
 	const records = (ent: Entity) => topRecords(scope, ent);
 </script>
 
-<header class="bg-amber-5/80 sticky top-0 z-10 backdrop-blur-sm">
+<CommandPalette {scope} />
+<header class="bg-amber-5/80 sticky top-0 z-10 backdrop-blur-sm print:hidden">
 	<Sheet.Root>
 		<div class="@container mx-auto w-full max-w-4xl px-4 pt-3 pb-1 sm:px-6 xl:max-w-296 xl:px-0">
 			<div class="flex items-center gap-4">
@@ -71,7 +73,7 @@
 				{/if}
 
 				<div class="ml-auto hidden shrink-0 lg:block">
-					<SearchBar inputId="header-search" width="w-64 max-w-full" />
+					<SearchBar inputId="header-search" width="w-64 max-w-full" enableTyper={false} />
 				</div>
 
 				<Sheet.Trigger
@@ -133,7 +135,7 @@
 					<Sheet.Title class="font-serif text-base font-medium">{host}</Sheet.Title>
 				</Sheet.Header>
 				<div class="p-2">
-					<SearchBar inputId="sheet-search" width="w-full" />
+					<SearchBar inputId="sheet-search" width="w-full" enableTyper={false} />
 				</div>
 				<nav class="border-t border-primary/8 p-2">
 					{#each ENTITIES as ent (ent)}

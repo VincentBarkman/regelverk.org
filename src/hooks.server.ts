@@ -47,8 +47,8 @@ const cacheable = (request: Request) => {
 
 const handleParaglide: Handle = ({ event, resolve }) =>
 	paraglideMiddleware(event.request, async ({ request, locale }) => {
-		const respond = () =>
-			resolve(
+		const respond = async () => {
+			const res = await resolve(
 				{ ...event, request },
 				{
 					transformPageChunk: ({ html }) =>
@@ -57,6 +57,8 @@ const handleParaglide: Handle = ({ event, resolve }) =>
 							.replace('%paraglide.dir%', getTextDirection(locale))
 				}
 			);
+			return res;
+		};
 
 		const cache = (globalThis as { caches?: { default?: EdgeCache } }).caches?.default;
 		if (!cache || !cacheable(request)) return secure(await respond());

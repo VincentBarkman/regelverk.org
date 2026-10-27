@@ -78,6 +78,8 @@ const META_KEYS = new Set([
 	'appliesFrom',
 	'applies-from',
 	'lastReviewed',
+	'sourceChecked',
+	'version',
 	'source',
 	'url',
 	'celex',
