@@ -29,6 +29,8 @@ project.inlang/cache/
 
 # Generated
 src/lib/generated/
+worker/_generated.js
+worker/entry.js
 
 # Editor
 .vscode/

@@ -382,7 +382,7 @@
 		<p class="mt-4 text-xs text-primary/60">
 			{m.db_hits({
 				count: filtered.length
-			})}{#if isFiltered && filtered.length !== data.records.length}{' '}{m.db_hits_total({
+			})}{#if isFiltered && filtered.length !== data.records.length}&nbsp;{m.db_hits_total({
 					total: data.records.length
 				})}{/if}
 		</p>

@@ -120,7 +120,7 @@ export function searchRecords(query: string): SearchHit[] {
 		fuzzy: fuzzyFor,
 		boost: { title: 4, idText: 2, description: 1.5 }
 	};
-	let results = index.search(query, { ...options, combineWith: 'AND' });
+	const results = index.search(query, { ...options, combineWith: 'AND' });
 	if (results.length < 10) {
 		const loose = index.search(query, options);
 		const seen = new Set(results.map((r) => String(r.id)));
@@ -176,7 +176,10 @@ export function searchRecords(query: string): SearchHit[] {
 			if (!stored) return null;
 			const headTokens = tokenize(`${stored.id} ${stored.title ?? ''}`);
 			let score = r.score;
-			if (headTokens.join('') === qNorm || fold(stored.id).replace(/[^\p{L}\p{N}]+/gu, '') === qNorm)
+			if (
+				headTokens.join('') === qNorm ||
+				fold(stored.id).replace(/[^\p{L}\p{N}]+/gu, '') === qNorm
+			)
 				score += 100;
 			else if (qTokens.every((t) => headTokens.includes(t))) score += 60;
 			else if (qTokens.every((t) => headTokens.some((h) => h.startsWith(t)))) score += 25;

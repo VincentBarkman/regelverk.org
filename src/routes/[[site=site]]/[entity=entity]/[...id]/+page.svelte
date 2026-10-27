@@ -287,7 +287,7 @@
 	const ogImage = $derived(
 		`https://${canonicalHost}${recordOgPath(scope, entity, data.id) ?? siteOgImage(scope)}`
 	);
-	const lang = $derived(getLocaleForUrl(page.url) === 'en' ? 'en' : 'sv');
+	const lang = $derived(getLocaleForUrl(page.url.href) === 'en' ? 'en' : 'sv');
 
 	const crumbs = $derived([
 		{ label: m.nav_home(), href: homeHref, url: `https://${canonicalHost}/` },

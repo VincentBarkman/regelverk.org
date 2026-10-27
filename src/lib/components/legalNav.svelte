@@ -13,7 +13,9 @@
 
 <nav
 	aria-label={m.ui_legal()}
-	class={rail ? 'absolute top-0 right-full bottom-0 mr-8 hidden w-44 print:hidden xl:block' : 'w-full'}
+	class={rail
+		? 'absolute top-0 right-full bottom-0 mr-8 hidden w-44 xl:block print:hidden'
+		: 'w-full'}
 >
 	<div class={rail ? 'sticky top-28 pt-1' : ''}>
 		<p class={rail ? 'mb-2 text-xs font-medium text-primary/70' : 'sr-only'}>{m.ui_legal()}</p>

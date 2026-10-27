@@ -381,7 +381,7 @@
 						{description}
 					</p>
 				{/if}
-				{#if getLocaleForUrl(page.url) === 'en' && !(data.locales ?? []).includes('en')}
+				{#if getLocaleForUrl(page.url.href) === 'en' && !(data.locales ?? []).includes('en')}
 					<p
 						class="not-prose mb-6 flex items-center gap-2 rounded-md border border-primary/15 bg-primary/4 px-3 py-2 text-xs text-primary/70"
 					>

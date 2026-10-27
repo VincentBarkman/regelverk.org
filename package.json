@@ -6,7 +6,7 @@
 	"packageManager": "pnpm@10.32.1",
 	"scripts": {
 		"dev": "node scripts/commits.mjs && node scripts/manifest.mjs && vite dev",
-		"build": "node scripts/commits.mjs && node scripts/manifest.mjs && vite build",
+		"build": "node scripts/commits.mjs && node scripts/manifest.mjs && vite build && node scripts/wrap-worker.mjs",
 		"preview": "wrangler dev --port 4173",
 		"prepare": "node scripts/commits.mjs; node scripts/manifest.mjs; paraglide-js compile --project ./project.inlang --outdir ./src/lib/paraglide --strategy url cookie baseLocale --emit-ts-declarations --silent; svelte-kit sync || echo ''",
 		"check": "paraglide-js compile --project ./project.inlang --outdir ./src/lib/paraglide --strategy url cookie baseLocale --emit-ts-declarations --silent && svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",

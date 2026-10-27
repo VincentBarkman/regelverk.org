@@ -205,8 +205,9 @@
 				{#each data.entities as row (row.entity)}
 					<div
 						class="h-full"
-						style="width: {(row.count / Math.max(1, data.total)) *
-							100}%; background: {ENTITY_COLOR[row.entity]}"
+						style="width: {(row.count / Math.max(1, data.total)) * 100}%; background: {ENTITY_COLOR[
+							row.entity
+						]}"
 					></div>
 				{/each}
 			</div>
@@ -218,7 +219,7 @@
 							style="background: {ENTITY_COLOR[row.entity]}"
 						></span>
 						{ENTITY_LABEL[row.entity]()}
-						<span class="tabular-nums text-primary/50">{row.count}</span>
+						<span class="text-primary/50 tabular-nums">{row.count}</span>
 					</li>
 				{/each}
 			</ul>

@@ -106,9 +106,7 @@
 			.map((e) => ({ a: remap[e.a], b: remap[e.b], kind: e.kind }));
 	});
 	// Read client-side only — url.searchParams is unavailable during prerender.
-	const focusId = $derived(
-		browser ? (page.url.searchParams.get('fokus') ?? undefined) : undefined
-	);
+	const focusId = $derived(browser ? (page.url.searchParams.get('fokus') ?? undefined) : undefined);
 
 	function toggleEntity(entity: string) {
 		hidden = hidden.includes(entity) ? hidden.filter((e) => e !== entity) : [...hidden, entity];

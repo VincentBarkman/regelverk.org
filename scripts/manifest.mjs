@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, mkdirSync, writeFileSync, statSync } from 'node:fs';
+import { readdirSync, readFileSync, mkdirSync, writeFileSync, statSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { parse as parseYaml } from 'yaml';
 import MiniSearch from 'minisearch';
@@ -220,4 +220,25 @@ writeFileSync(
 	join(OUT, 'topNav.ts'),
 	`export const topNav: Record<string, { id: string; title?: string }[]> = ${JSON.stringify(topNav, null, '\t')};\n`
 );
+
+const recordOg = {};
+if (existsSync('static/og')) {
+	for (const f of readdirSync('static/og')) {
+		if (!f.startsWith('r-') || !f.endsWith('.png')) continue;
+		const rest = f.slice(2, -4);
+		const scope = SITE_SCOPES.find((s) => rest.startsWith(`${s}-`));
+		if (!scope) continue;
+		const afterScope = rest.slice(scope.length + 1);
+		const entity = [...ENTITIES]
+			.sort((a, b) => b.length - a.length)
+			.find((e) => afterScope.startsWith(`${e}-`));
+		if (!entity) continue;
+		recordOg[`${scope}/${entity}/${afterScope.slice(entity.length + 1)}`] = `/og/${f}`;
+	}
+}
+writeFileSync(
+	join(OUT, 'ogImages.ts'),
+	`export const recordOg: Record<string, string> = ${JSON.stringify(recordOg, null, '\t')};\n`
+);
+
 console.log(`manifest: ${records.length} records, ${docs.length} search docs`);
