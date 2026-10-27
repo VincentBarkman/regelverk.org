@@ -9,7 +9,10 @@ import type { RequestHandler } from './$types';
 // browser cache them across pages.
 export const GET: RequestHandler = ({ url }) => {
 	const q = url.searchParams.get('scope');
-	const scope = resolveScope(isSiteScope(q) ? q : undefined, url.hostname);
+	// NB: don't route `q` through resolveScope's site branch — it 404s outside
+	// dev, and the nav store always sends ?scope=, which broke the sidebar in
+	// production. The scope param is safe to honor directly (public data).
+	const scope = isSiteScope(q) ? q : resolveScope(undefined, url.hostname);
 	return json(
 		{ scope, groups: navGroups(scope) },
 		{ headers: { 'cache-control': 'public, max-age=600' } }
